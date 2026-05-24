@@ -91,6 +91,10 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 - **Vyloučení z funkcí** (např. svědek u předběžného prohlášení § 39, opatrovník při konfliktu zájmů);
 - **Rodinný závod** (§ 700) — sešvagření do 2. stupně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2685/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9112E2C095C2DDE1C1258912004AE1A8?openDocument) — *Odkaz (odkazovník) (o. z.) Nepominutelný dědic (o. z.)*
+
 ---
 
 ## Díl 2 Oddíl 1 — Určování rodičovství (§ 775—793)
@@ -129,6 +133,16 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 
 **Lhůta 300 dnů** = max. délka těhotenství (z biologického hlediska).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 10/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23DBF449AA588576C1258DC800529D0F?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [20 Ncu 9/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C964F50C9D24C39CC1258DB90052CAB5?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 145/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FEDCBA5EEEE159F5C1258D800052C23B?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [20 Ncu 67/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB7E74295FACE278C1258CF8004D26D1?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [20 Ncu 51/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3845192DA389C583C1258B93004D3E00?openDocument) — *Uznání cizích rozhodnutí Rodičovská odpovědnost (o. z.)*
+- *NS* [20 Ncu 198/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1BCEE53A78970DFC1258AC1001B7E47?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 37/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2129248E4A3C8C4FC12589B900186056?openDocument) — *Určení otcovství Uznání cizích rozhodnutí*
+
 #### § 777 — Modifikace pro období rozvodu
 
 > (1) Narodí-li se dítě v době mezi zahájením řízení o rozvodu manželství a třístým dnem po rozvodu manželství, a manžel, popřípadě bývalý manžel matky prohlásí, že není otcem dítěte, zatímco jiný muž prohlásí, že je otcem dítěte, má se za to, že otcem je tento muž, připojí-li se matka k oběma prohlášením. Takto lze určit otcovství i k dítěti ještě nenarozenému, je-li již počato.
@@ -142,6 +156,10 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 Pokud se dítě narodí **mezi zahájením řízení o rozvod a 300 dnem po rozvodu** a manžel matky **prohlásí, že není otcem**, zatímco jiný muž **prohlásí, že je**, + matka se připojí → otcem je **tento jiný muž**.
 
 **Procesní rámec**: prohlášení **před soudem, matrikou nebo zastupitelským úřadem**, do **1 roku** od narození dítěte. Nelze určit dřív než po pravomocném rozvodu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1103/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE325AE7438A2AF8C1257FED0046E046?openDocument) — *Poplatky soudní*
 
 #### § 778 — Asistovaná reprodukce u neprovdané ženy
 
@@ -171,6 +189,10 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **§ 782**: prohlášení = právní jednání; **neplatnost lze namítnout jen ve lhůtě pro popření** (§ 790).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 19/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2EF3484057A5015C12586C5001607CC?openDocument) — *Určení otcovství*
+
 #### § 783—784 — Třetí domněnka: soudní rozhodnutí
 
 § 783: (1) Nedojde-li k určení otcovství podle § 776, 777 nebo 778, ani podle § 779, může matka, dítě i muž, který tvrdí, že je otcem, navrhnout, aby otcovství určil soud.
@@ -190,6 +212,15 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 - Smrt navrhovatele → pokračuje další oprávněný;
 - Smrt dítěte → 6 měsíců pro potomka dítěte (s právním zájmem);
 - Smrt domnělého otce → opatrovník jmenovaný soudem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 85/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E80511D2190E2D5EC1258C120052AFC5?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [20 Ncu 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A1AC52A00B311C2C1258AFA004D3100?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [24 Cdo 169/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1FCED5BA0674343C1258AF5004D314D?openDocument) — *Určení otcovství*
+- *NS* [24 Cdo 2766/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADEA8BE2FC9023B0C1258924001DBCD0?openDocument) — *Určení otcovství*
+- *NS* [24 Cdo 4287/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B656087F343A6BC5C12584CC001E5A55?openDocument) — *Přípustnost dovolání Určení otcovství*
+- *NS* [21 Cdo 1852/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/836D0E062852E197C1258226002ACFA1?openDocument) — *Určení otcovství*
 
 ### Popírání otcovství (§ 785—793)
 
@@ -227,6 +258,16 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **§ 789 — Popření matkou**: **6 měsíců od narození dítěte**. Obdobné pravidlo jako manželovo popření.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 4/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2B46D78C79B8166C1258C8C004D4424?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+- *NS* [20 Ncu 157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A3D8C21AA46C6F23C1258AED005297F0?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+- *NS* [20 Ncu 105/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D894FF7BBB5294B2C12587FB001D55C7?openDocument) — *Popření otcovství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 82/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CCA74201BE580610C125876D0018A078?openDocument) — *Popření otcovství*
+- *NS* [28 Ncu 76/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E277615587A51C19C12584CC00554A5B?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+- *NS* [28 Ncu 84/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2A2546CF0281719C12582FA002643A9?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+- *NS* [28 Ncu 80/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D79C954B4A574DFC12582E300263DC4?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+
 #### § 790—791 — Popření po souhlasném prohlášení
 
 > (1) Muž, jehož otcovství bylo určeno souhlasným prohlášením rodičů, může otcovství k dítěti popřít, jen je-li vyloučeno, že by mohl být otcem dítěte. Může tak učinit do šesti měsíců ode dne, kdy bylo takto otcovství určeno; dojde-li k určení otcovství před narozením dítěte, neskončí lhůta dříve než šest měsíců po jeho narození.
@@ -241,6 +282,14 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **§ 791 — Popření matkou** ve stejných lhůtách.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2277/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1117D52DC4B16152C1258941001E2647?openDocument) — *Přípustnost dovolání Popření otcovství Lhůta prekluzivní [ Lhůty ]*
+- *NS* [24 Cdo 2011/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C7400B870773FE9C1258812001B7C12?openDocument) — *Přípustnost dovolání Popření otcovství*
+- *NS* [24 Cdo 2657/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E28024BD7E8BD17C1258C9F004D1E42?openDocument) — *Popření otcovství Lhůty Prominutí zmeškání lhůty*
+- *NS* [21 Cdo 5903/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD65B2741910F974C125827A00263A96?openDocument) — *Popření otcovství*
+- *NS* [21 Cdo 1546/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67843F6F031430ADC125824E002BA47E?openDocument) — *Popření otcovství*
+
 #### § 792—793 — Prominutí lhůty a soudní popření
 
 > Je-li návrh na popření otcovství podán po uplynutí popěrné lhůty, může soud rozhodnout, že zmeškání lhůty promíjí, pokud to vyžadují zájem dítěte a veřejný pořádek.
@@ -252,6 +301,16 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 **§ 793 — Soudní popření i bez návrhu**: pokud je zřejmý zájem dítěte + naplnění lidských práv → soud **i bez návrhu** zahájí řízení o popření otcovství, je-li toto otcovství (z souhlasného prohlášení) **biologicky nemožné**. Soud zpravidla **pozastaví výkon rodičovské odpovědnosti**.
 
 **Praktický význam**: § 792—793 jsou **bezpečnostní pojistky** proti rigidnímu uplatnění lhůt v případech, kdy by trvání nepravdivého otcovství poškozovalo dítě (např. by mu bránilo poznat svého skutečného otce a získat výživu / dědictví).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 241/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D53416C45A05314DC1258DB50052CAB5?openDocument) — *Popření otcovství Prominutí zmeškání lhůty Dokazování*
+- *NS* [24 Cdo 1724/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AA42C0D80E91D70C1258CEF004D20EE?openDocument) — *Vady řízení Popření otcovství*
+- *NS* [24 Cdo 3722/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E3A4D602B09ABF90C1258AFC004D3117?openDocument) — *Popření otcovství Přípustnost dovolání*
+- *NS* [24 Cdo 1238/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08549E110A239CCBC12588B60017DA51?openDocument) — *Popření otcovství Lhůta prekluzivní [ Lhůty ] Přípustnost dovolání*
+- *NS* [24 Cdo 551/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED1B9A2D34E9EDCCC12588A10017DB7E?openDocument) — *Popření otcovství Přípustnost dovolání*
+- *NS* [24 Cdo 487/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D760A32F9DE4249C12588770017B580?openDocument) — *Popření otcovství Lhůta prekluzivní [ Lhůty ] Přípustnost dovolání*
+- *NS* [24 Cdo 3314/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89ACABCA38C1EE63C12587A7001E9BEE?openDocument) — *Přípustnost dovolání Popření otcovství*
 
 ---
 
@@ -277,6 +336,10 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 2. **U nezletilého**: **v souladu se zájmy dítěte** (klíčové kritérium).
 
 **Cíl osvojení**: poskytnout dítěti náhradní rodinné prostředí (u nezletilého); umožnit právnímu uznání faktického rodičovského vztahu (u zletilého).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 1/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9084912C5227A95C12586CA0044D178?openDocument) — *Uznání cizích rozhodnutí*
 
 #### § 796—798 — Procesní rámec
 
@@ -431,6 +494,11 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 **§ 842 — Dohled nad úspěšností**: OSPOD sleduje úspěšnost osvojení po dobu **6 měsíců** po pravomoci rozhodnutí. Pokud se ukáže, že **neslouží zájmu dítěte**, lze osvojení **zrušit** (§ 843).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 4782/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C501AAAD6740152C12586B400188197?openDocument) — *Osvojení Přechodná (intertemporální) ustanovení*
+- *NS* [24 Cdo 2429/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/347463C7B1E8E578C12584F5001E4A39?openDocument) — *Osvojení*
+
 #### § 843—845 — Zrušení osvojení
 
 **§ 843 — Zrušení**:
@@ -499,6 +567,10 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 - Často **dědickoprávní** zájem (osvojení synovce vás učiní jeho zákonným dědicem);
 - **Citový vztah** dospělých blízkých osob;
 - **Korekce** biologické náhody (např. osoba vychována tetou se nikdy formálně neudílala).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4207/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC47AD84E40F4FF2C1257F4C00364BA8?openDocument) — *Ochrana osobnosti Správce konkursní podstaty*
 
 ---
 

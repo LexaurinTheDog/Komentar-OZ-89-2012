@@ -48,6 +48,15 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Praktický význam široké definice**: do oboru věcného práva (vlastnické právo, držba) se zahrnují i **práva** — lze hovořit o „vlastnictví pohledávky", „vlastnictví autorského práva". To zjednodušuje úpravu a umožňuje analogické aplikace.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2225/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80F0E63778128EA1C1258D420052A363?openDocument) — *Odstoupení od smlouvy Spotřebitel*
+- *NS* [24 Cdo 931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D9F7909D0B02ACFC1258A3600160EF8?openDocument) — *Společné jmění manželů Pozůstalost (o. z.)*
+- *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+- *NS* [29 NSCR 190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04FF9315F0A89C5C1258AE6001B86AA?openDocument) — *Oddlužení (povolení, schválení) Zpeněžování Spoluvlastnictví*
+- *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+- *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+
 ### § 490 — Veřejný statek
 
 > Věc určená k obecnému užívání je veřejný statek.
@@ -65,6 +74,10 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Užívání** je každému veřejnosti **bezúplatné a bez zvláštního souhlasu**;
 - Vlastník nemůže veřejné užívání svévolně zakázat;
 - Speciální zákony: zákon č. 13/1997 Sb. o pozemních komunikacích; zákon č. 254/2001 Sb. o vodách.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E06D15B48850E05AC12589E100182FE6?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.)*
 
 ### § 491 — Plody a užitky
 
@@ -115,6 +128,12 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Praktický význam**: u věcí zvláštní obliby (§ 459) je hodnota při náhradě **vyšší** než tržní (zohlednění citového vztahu).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 451/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7ADA174D9152FA7C12586E500186B9C?openDocument) — *Neúměrné zkrácení (o. z.) Akcie na jméno Akcie Akcionář Cena Cena věci (o. z.) Znalecký…*
+- *NS* [27 Cdo 3702/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA8E2DBA00FAC5A3C1258BB0004D5298?openDocument) — *Neúměrné zkrácení (o. z.) Cena Dobrá víra*
+- *NS* [3 Tdo 826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B011C23F061A5798C12585E20018880A?openDocument) — *Jiná majetková hodnota Majetek Podvod*
+
 ### § 493 — Lidské tělo
 
 > Lidské tělo ani jeho části, třebaže byly od těla odděleny, nejsou věcí.
@@ -146,6 +165,12 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
   - Limitace náhrady škody — ne jen obvyklou cenu, ale i náklady na léčbu (§ 2970).
 - **Speciální úprava** v § 2970 — náhrada škody na zvířeti zahrnuje **náklady na léčbu**, i pokud jsou vyšší než cena zvířete (zohlednění citového vztahu).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 4314/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A46D384BC55399EBC125847E00181E00?openDocument) — *Náhrada škody*
+- *NS* [6 Tdo 1014/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63963819922CBC14C1257F2B00205760?openDocument) — *Cizí věc Poškození cizí věci Zvíře*
+- *NS* [22 Cdo 1722/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D17BDD0BFCD40D08C12584F3001E3B8F?openDocument) — *Přípustnost dovolání Živé zvíře (o. z.)*
+
 ### § 495 — Majetek a jmění
 
 > Souhrn všeho, co osobě patří, tvoří její majetek. Jmění osoby tvoří souhrn jejího majetku a jejích dluhů.
@@ -164,6 +189,15 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Pozůstalost** = jmění zůstavitele (§ 1475 — aktiva i pasiva);
 - **Manželské majetkové společenství** (SJM) — společné jmění zahrnuje aktiva i dluhy (§ 708 a násl.);
 - **Likvidační podstata** PO v likvidaci = aktiva (majetek), z nichž se hradí dluhy (§ 187).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2124/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2ACD65543F2C27E6C1258AF4004C92FC?openDocument) — *Akciová společnost Valná hromada Ručení Podnik*
+- *NS* [27 Cdo 1484/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2199D78419BC1ECC1258AC9001B865B?openDocument) — *Péče řádného hospodáře Škoda*
+- *NS* [27 Cdo 1453/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44FEBBE60F29C380C1258CC1004D0BF3?openDocument) — *Jednatel Zadržovací právo Škoda*
+- *NS* [21 Cdo 1786/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA1EBFE508D6F84DC12583E6002E97B0?openDocument) — *Převedení na jinou práci*
+- *NS* [25 Cdo 1328/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71ABBB0FD8FE14FEC12588C700194020?openDocument) — *Ochrana osobnosti Náhrada škody Procesní nástupnictví*
+- *NS* [3 Tdo 826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B011C23F061A5798C12585E20018880A?openDocument) — *Jiná majetková hodnota Majetek Podvod*
 
 ---
 
@@ -189,6 +223,12 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Vlastnictví nehmotných věcí** — možné, ale s **omezeným režimem** (např. nelze fyzicky držet, převést z místa na místo);
 - **Cenné papíry** (§ 514) — hybrid: listina (hmotná) + právo (nehmotné);
 - **Zaknihované cenné papíry** (§ 525) — zcela nehmotné (jen záznam v evidenci).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04FF9315F0A89C5C1258AE6001B86AA?openDocument) — *Oddlužení (povolení, schválení) Zpeněžování Spoluvlastnictví*
+- *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+- *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
 
 ### § 497 — Ovladatelné přírodní síly
 
@@ -229,6 +269,16 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Forma smluv** — převod věcného práva k nemovitosti vyžaduje **písemnou formu** (§ 560);
 - **Předpisy** — KatZ (256/2013 Sb.) pro nemovitosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3392/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE3133EBD40BF95AC1258C580052A253?openDocument) — *Věc Příslušenství věci Součást věci Předkupní právo Stavba, součást pozemku (superficies…*
+- *NS* [25 Cdo 627/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/126A7543608D8BC8C12589BC0019A49D?openDocument) — *Věc Škoda na nemovité věci (o. z.)*
+- *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
+- *NS* [22 Cdo 447/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CAC9FAE34F38063C1258CA9004D1D9F?openDocument) — *Předkupní právo Předkupník, koupěchtivý (o. z.) Věc Dovolání (vady) Vady podání*
+- *NS* [25 Cdo 3086/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4355EF71F2C805DC1258D770052C279?openDocument) — *Poučovací povinnost soudu Věc Škoda z provozní činnosti Škoda na nemovité věci (o. z.) S…*
+- *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+- *NS* [33 Cdo 3805/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B711895E168409A4C1258A3B00160F3A?openDocument) — *Zajištění závazku převodem práva Zajištění dluhu (o. z.) Dovolací důvody*
+
 ### § 499 — Zastupitelná věc
 
 > Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná; ostatní věci jsou nezastupitelné. V pochybnostech se případ posoudí podle zvyklostí.
@@ -247,6 +297,10 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Plnění** — u zastupitelných věcí stačí dodat **stejný druh a kvalitu**; u nezastupitelných **přesně tu věc** (§ 1908 — splnění závazku);
 - **Zápůjčka vs. výpůjčka** (§ 2390 vs. § 2193) — zápůjčka je **jen pro zastupitelné věci**;
 - **Smíšení a sloučení** věcí (§ 1078) — relevantní jen u zastupitelných.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2094/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DA0CC8535C545F3C1258DBF0052CCF1?openDocument) — *Zmírnění křivd (restituce) Zastupitelná věc (o. z.)*
 
 ### § 500 — Zuživatelná věc
 
@@ -289,6 +343,14 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Hromadná zástava** (§ 1346 — zástavní právo na hromadné věci);
 - **Pojištění** souboru věcí jednou smlouvou.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2456/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3D8D1006C85227CC1258A56001602F9?openDocument) — *Hromadná věc (o. z.) Přípustnost dovolání*
+- *NS* [32 Cdo 3051/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81E47E6180CF3EBDC1258033003372E2?openDocument) — *Hromadná věc (o. z.)*
+- *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
+- *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+- *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+
 ### § 502 — Obchodní závod
 
 > Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
@@ -318,6 +380,16 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - **Přechod zaměstnanců** (§ 338—342 ZP);
 - **Notářský zápis** pro převod závodu obchodní korporace.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 55/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2677532FA9BA838C1258CF1004D38D7?openDocument) — *Insolvenční řízení Reorganizace Obchodní závod (o. z.) Konkurs Analogie legis*
+- *NS* [22 Cdo 3166/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FCE636B06083FD6BC1258A91001B7BFD?openDocument) — *Vypořádání SJM Obchodní závod (o. z.)*
+- *NS* [29 ICdo 150/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C50E780B04D2B025C1258750001899CE?openDocument) — *Obchodní závod (o. z.) Neplatnost právního jednání (o. z.)*
+- *NS* [33 Cdo 3033/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9553BF254CAEF28C12586E100184F73?openDocument) — *Příslušnost soudu místní Pobočka (o. z.)*
+- *NS* [29 ICdo 120/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98D20A076DFAAED7C1258C3D0052B372?openDocument) — *Incidenční spory (žaloba odpůrčí) Zástavní právo (o. z.) Obchodní závod (o. z.) Smlouva…*
+- *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
+- *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
+
 ### § 503 — Pobočka a odštěpný závod
 
 > (1) Pobočka je taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou.
@@ -335,6 +407,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 | **Jiná organizační složka** | Jiný typ, pokud se zapisuje do OR (např. organizační složka zahraniční osoby) |
 
 **Klíčové: VEDOUCÍ ODŠTĚPNÉHO ZÁVODU** je **ze zákona oprávněn zastupovat** podnikatele ve všech záležitostech týkajících se odštěpného závodu — bez plné moci, na základě zápisu v OR. To je důležitá implicitní zástupčí oprávnění (paralela k § 166 — zastoupení zaměstnanci, ale silnější).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [5 Tdo 1400/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/959A102427E2937AC12587240018621F?openDocument) — *Porušení povinnosti při správě cizího majetku Subsidiarita trestní represe Zpronevěra*
+- *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
 
 ### § 504 — Obchodní tajemství
 
@@ -365,6 +442,12 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Vazba na § 2985** (nekalá soutěž) — žaloba: zápůrčí + restitutivní + náhrada škody + bezdůvodné obohacení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3596/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/650045140B5091DEC125879C001E178E?openDocument) — *Obchodní tajemství*
+- *NS* [23 Cdo 2736/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1A59DB1BCDFB628C1258CF8004D26C5?openDocument) — *Přípustnost dovolání Nekalá soutěž Obchodní tajemství*
+- *NS* [5 Tdo 1130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/382F6934D973635DC12583D5001805F2?openDocument) — *Nekalá soutěž Obchodní tajemství Porušení předpisů o pravidlech hospodářské soutěže*
+
 ---
 
 ## Díl 3 — Součást věci a příslušenství věci (§ 505—513)
@@ -391,6 +474,16 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - **Motor v autě**;
 - **Pevně zabudované kuchyňské vybavení** (typicky obklad, vestavěné spotřebiče);
 - **Sklepní kóje patřící k bytové jednotce**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 501/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B27853FC06FEB085C1258C6E004D2260?openDocument) — *Součást věci*
+- *NS* [21 Cdo 2176/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44DA2537AE0B3508C1258BB1004D3B71?openDocument) — *Nepřípustnost dovolání Veřejná dražba Vydání věci Součást věci*
+- *NS* [22 Cdo 1244/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15F8FDB1923B5B24C12589F70018687F?openDocument) — *Ochrana vlastnictví Součást věci*
+- *NS* [22 Cdo 1035/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62753B8A392DC65DC12588B80017DAA2?openDocument) — *Věc Součást věci Dovolací důvody*
+- *NS* [22 Cdo 1610/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/195F796AD60992F5C12588B90018C5FF?openDocument) — *Věc Součást věci*
+- *NS* [22 Cdo 1501/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB3B9731EC532CE2C125867E001DF74F?openDocument) — *Součást věci*
+- *NS* [28 Cdo 3569/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A234F4AE703140B0C12585910018D752?openDocument) — *Bezdůvodné obohacení Stavba Součást věci Vady podání Přípustnost dovolání*
 
 ### § 506 — *Superficies solo cedit* (návrat zásady)
 
@@ -419,6 +512,16 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - Po 1. 1. 2014: nové stavby jsou součástí pozemku;
 - **Přechod**: § 3054—3061 — postupné sjednocení vlastnictví; právo přednosti pro vlastníka pozemku k odkupu stavby a opačně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3259/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60DEB7921F0511FDC12583810021FE40?openDocument) — *Součást věci*
+- *NS* [22 Cdo 2675/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF834FF4FC676F4AC1258D790052DA49?openDocument) — *Součást věci Stavba Žaloba určovací Vlastnictví*
+- *NS* [22 Cdo 3392/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE3133EBD40BF95AC1258C580052A253?openDocument) — *Věc Příslušenství věci Součást věci Předkupní právo Stavba, součást pozemku (superficies…*
+- *NS* [22 Cdo 1072/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AF6C56D51554B22C1258B40004D42D1?openDocument) — *Žaloba určovací Vlastnictví Součást věci Stavba*
+- *NS* [22 Cdo 217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BBD93D2038CD40AC12584D1001EC2F9?openDocument) — *Stavba neoprávněná Součást věci*
+- *NS* [20 Cdo 531/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3897CB951C3B8DFAC12580AE0035FFDD?openDocument) — *Exekuce Zastavení exekuce Stavba Věc Součást věci Přechodná (intertemporální) ustanovení…*
+- *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
+
 ### § 507 — Rostlinstvo
 
 > Součástí pozemku je rostlinstvo na něm vzešlé.
@@ -432,6 +535,10 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - Sousední větve / kořeny — § 1016 (právo vlastníka odstranit);
 - Nálezový režim u plodů z cizího pozemku — § 1051;
 - **Padlé plody** patří vlastníkovi pozemku, kam dopadly (§ 1015).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2069/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F33CDC586C22DA01C1258B01004D3150?openDocument) — *Znalecký posudek Oceňování majetku Zemědělská půda*
 
 ### § 508 — Stroje s výhradou
 
@@ -460,6 +567,15 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - Přístup je zajištěn **věcným břemenem** nebo zákonnou licencí (zákon č. 458/2000 Sb.).
 
 **Co patří k liniové stavbě** (vyvratitelná domněnka): **provozně související** stavby a zařízení — transformační stanice, čerpací stanice, šachty.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 745/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA356E6C5EB4708BC125879F002680F9?openDocument) — *Předkupní právo*
+- *NS* [22 Cdo 2675/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF834FF4FC676F4AC1258D790052DA49?openDocument) — *Součást věci Stavba Žaloba určovací Vlastnictví*
+- *NS* [22 Cdo 1072/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AF6C56D51554B22C1258B40004D42D1?openDocument) — *Žaloba určovací Vlastnictví Součást věci Stavba*
+- *NS* [25 Cdo 627/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/126A7543608D8BC8C12589BC0019A49D?openDocument) — *Věc Škoda na nemovité věci (o. z.)*
+- *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
+- *NS* [25 Cdo 3086/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4355EF71F2C805DC1258D770052C279?openDocument) — *Poučovací povinnost soudu Věc Škoda z provozní činnosti Škoda na nemovité věci (o. z.) S…*
 
 ### Příslušenství věci (§ 510—513)
 
@@ -490,6 +606,13 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Lze ujednat opak** — strany v kupní smlouvě mohou vyjmout konkrétní příslušenství.
 
 **Přechodné odloučení** (odst. 1 věta druhá) — pokud je příslušenství dočasně odděleno (např. odvezení nábytku do opravy), **nepřestává být příslušenstvím** — vrátí se k hlavní věci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FBD35085071E5C5C12588D00017C806?openDocument) — *Příslušenství věci*
+- *NS* [22 Cdo 4605/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/074A88053963D9CDC125828D003C55DA?openDocument) — *Žaloba určovací*
+- *NS* [33 Cdo 2225/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80F0E63778128EA1C1258D420052A363?openDocument) — *Odstoupení od smlouvy Spotřebitel*
+- *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
 
 #### § 511 — Pochybnosti
 
@@ -526,6 +649,13 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - Promlčení pohledávky **zahrnuje promlčení příslušenství** (s některými výjimkami — § 614);
 - Při uspokojení pohledávky se **plní nejdříve příslušenství** (default — § 1932; lze ujednat jinak).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 6056/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0352EA3EE18DA2C0C12582E8002631FA?openDocument) — *Odpovědnost státu za škodu Zadostiučinění (satisfakce) Příslušenství pohledávky*
+- *NS* [28 Cdo 3508/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37D2DD5471765B79C125848D0015FB82?openDocument) — *Zmírnění křivd (restituce) Stát Pozemkový úřad*
+- *NS* [29 ICdo 98/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475DC66985DD4644C1258BD600527FD7?openDocument) — *Oddlužení Incidenční spory (odporové spory) Popření pohledávky Poučovací povinnost soudu*
+- *NS* [23 Cdo 3120/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFAA99BFCF123A65C12589A30018BFC1?openDocument) — *Smluvní pokuta Příslušenství pohledávky Úroky z prodlení Neplatnost právního jednání (o.…*
+
 ---
 
 ## Díl 4 — Cenné papíry (§ 514—544)
@@ -554,6 +684,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 | **Skladištní listy** | OZ § 2417 a násl. |
 | **Náložní listy** | OZ § 2572 a násl. |
 | **Podílové listy** | Zákon č. 240/2013 Sb. |
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2116/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FF9F5162BDB4FF4C125861E0041D505?openDocument) — *Exekuce*
+- *NS* [29 Cdo 1481/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C50307B0C0CBFD52C125857C0018B40F?openDocument) — *Směnky Cenné papíry Právní nástupnictví Náklady řízení*
 
 #### § 515—517 — Náležitosti, zastupitelnost, odpovědnost
 
@@ -639,6 +774,10 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **§ 523 — Kupón** = cenný papír na doručitele pro uplatnění **výnosu** (typicky dividenda u akcií, úroky u dluhopisů). **Talón** v kupónovém archu **není cenný papír** — slouží k vystavení nového kupónového archu.
 
 **§ 524 — Hromadná listina**: může nahradit více zastupitelných cenných papírů (typicky pro velké akcionáře — místo 10 000 jednotlivých akcií jedna hromadná listina). **Právo na výměnu** za jednotlivé. **Nelze dělit na podíly** (kromě imobilizace v hromadné úschově).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 603/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A64BA35488B1D210C1258BD80052C452?openDocument) — *Postoupení pohledávky Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad…*
 
 ### Oddíl 2 — Zaknihované cenné papíry (§ 525—528)
 

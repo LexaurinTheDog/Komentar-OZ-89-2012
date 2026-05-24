@@ -39,6 +39,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2055 odst. 2 — Společenská úsluha**: rozdíl mezi darováním a společenskou pozorností (květiny, čokoláda — neformální gesta). Kritérium: **vůle smluvně se vázat**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 3163/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC8FA94DC50A53DFC1258DA00052DD9F?openDocument) — *Darování Bezdůvodné obohacení*
+- *NS* [33 Cdo 3159/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/607D0F762A246823C1258D4E0052BC3B?openDocument) — *Darování Poučovací povinnost soudu Dobrá víra*
+- *NS* [28 Cdo 3293/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45044262A73FEFB6C1258C4200529D27?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek Darování*
+- *NS* [24 Cdo 591/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48E2FF06AB78F7E5C1258C60004D1A4F?openDocument) — *Dědění Započtení Dokazování*
+- *NS* [33 Cdo 3704/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46FB0B481B5BE081C1258B35004D4284?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Darování Dovolací důvody Příp…*
+- *NS* [22 Cdo 2769/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/511529A85C2574E9C1258521001E453B?openDocument) — *Výměněk (o. z.) Darování Vlastnictví Katastr nemovitostí*
+- *NS* [28 Cdo 3604/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/34D4425D8CB731E4C1258C92004D0A21?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Bezdůvodné obohacení Darování…*
+
 ### § 2056—2058 — Slib daru, forma, rozsah
 
 **§ 2056**:
@@ -175,6 +185,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 2. **Cena** (peněžitá; pokud naturální → směna);
 3. **Vzájemnost** plnění (současné — odst. 2; lze odlišně).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 3592/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8764CB5977ACDAC0C12589E30018038C?openDocument) — *Odstoupení od smlouvy Smlouva kupní Škoda*
+- *NS* [33 Cdo 2208/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB281E97DEAF62A2C125875C0018B2C1?openDocument) — *Smlouva nepojmenovaná (inominátní) Splnění závazku*
+- *NS* [33 Cdo 901/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CD8F24018FA686AC1258C0D0052AE65?openDocument) — *Vady Smlouva kupní Prodlení věřitele*
+- *NS* [33 Cdo 3247/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E594226E796D8FD8C12589F80018524E?openDocument) — *Smlouva kupní Převzetí dluhu*
+- *NS* [24 ICdo 20/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/031AA18144FF3C14C1258623001D49C2?openDocument) — *Neplatnost smlouvy Žaloba vylučovací (excindační)*
+- *NS* [29 ICdo 78/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1FFA7D7C897D683C1258A60001B8CB9?openDocument) — *Neplatnost smlouvy Zpeněžování Incidenční spory Vady řízení*
+- *NS* [33 Cdo 3645/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A678BD72D853AD3C12586DE00185175?openDocument) — *Smlouva kupní Odpovědnost za vady*
+
 ### § 2080—2084 — Cena, náklady, nebezpečí
 
 **§ 2080**:
@@ -209,6 +229,12 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2084 — Informační povinnost**: prodávající **upozorní na vady**, o nichž ví.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 4452/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17786C112D13811FC12583C90028AE02?openDocument) — *Cena Smlouva kupní*
+- *NS* [33 Cdo 482/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A40085AA3362623C1258D4E0052BC27?openDocument) — *Vady*
+- *NS* [33 Cdo 3794/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D3C8B791A2337A1C1258BEE0052D1E8?openDocument) — *Smlouva kupní Odpovědnost za vady Vady*
+
 ---
 
 ### Pododdíl 2 — Koupě movité věci (§ 2085—2127)
@@ -232,6 +258,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **§ 2086 — Rozhraní koupě/dílo**:
 - Dodání věci k vyrobení = **koupě**;
 - Pokud kupující dodá **podstatnou část materiálu** → **dílo** (§ 2586).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3886/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/694FDDCBCB2AF68EC1258BE00052DBB3?openDocument) — *Žaloba určovací Neplatnost smlouvy Podíl v obchodní korporaci (převod) [ Obchodní korpor…*
+- *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
 
 ### § 2087—2104 — Povinnosti prodávajícího
 
@@ -311,6 +342,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
   - Vadu **musel zjistit při uzavření smlouvy**;
   - Vada je **zjevná z dokladů**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1234/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA05DD58D4CAEA92C1258D23004D2971?openDocument) — *Přípustnost dovolání Smlouva o dílo*
+- *NS* [33 Cdo 204/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2033CEBF8A0E7757C1258C500052A284?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy*
+- *NS* [23 Cdo 3170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00B87AF5E36BF8B2C1258C090052B4CD?openDocument) — *Přípustnost dovolání Vady*
+- *NS* [23 Cdo 1297/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89915008C26731AEC12588520017F38E?openDocument) — *Smlouva kupní Odpovědnost za vady*
+- *NS* [33 Cdo 1393/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E7C425C83EAE1B2C1258D790052DA82?openDocument) — *Přípustnost dovolání Dovolací důvody Vady*
+- *NS* [28 Cdo 2770/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1815A5C8F55D4B35C1258D670052AF63?openDocument) — *Vady Smlouva kupní Sleva z ceny Přípustnost dovolání*
+- *NS* [33 Cdo 2319/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AC50AF59C25ABF8C1258D310052ADE7?openDocument) — *Dovolání Smlouva kupní*
+
 ### § 2106—2108 — Práva z vadného plnění
 
 **§ 2106**:
@@ -350,6 +391,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - (b) **Sleva**.
 
 **§ 2108** — Pokud prodávající neodstraní v dodatečné lhůtě → kupující může **odstoupit** nebo **slevu**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 532/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/045401AC9DE57414C1258C92004D0986?openDocument) — *Přípustnost dovolání Sleva z ceny*
+- *NS* [23 Cdo 3714/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15F7413F824E3533C1258A3400160DD4?openDocument) — *Přípustnost dovolání Sleva z ceny*
+- *NS* [33 Cdo 3826/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A288CCE14B6F19E5C125899200240C89?openDocument) — *Přípustnost dovolání Smlouva kupní Odstoupení od smlouvy*
+- *NS* [33 Cdo 5857/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96DCBAB998D8FA3CC12584FB001E29DB?openDocument) — *Smlouva kupní*
+- *NS* [33 Cdo 4442/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07752AF422486542C1258469002358EA?openDocument) — *Odpovědnost za vady Sleva z ceny*
+- *NS* [33 Cdo 1263/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97E9518EC4D41383C12584550017D3CC?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy*
+- *NS* [28 Cdo 2770/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1815A5C8F55D4B35C1258D670052AF63?openDocument) — *Vady Smlouva kupní Sleva z ceny Přípustnost dovolání*
 
 ### § 2109—2117 — Záruka za jakost
 
@@ -400,6 +451,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **Záruka za jakost** (*Beschaffenheitsgarantie*) — **smluvní** nebo **prohlášení v reklamě**:
 - Prodávající se zaváže, že věc bude **po určitou dobu způsobilá** k použití;
 - Rozdíl od **odpovědnosti za vady** — záruka je nad rámec zákonné odpovědnosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2938/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B0D3247F97AD988C125892A001EAEA2?openDocument) — *Smlouva kupní*
+- *NS* [27 Cdo 1531/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCBCC43AE881CAF8C12584C4001E0D00?openDocument) — *Přípustnost dovolání Lhůty*
+- *NS* [33 Cdo 2488/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3189A8988A03E13C1258719001871C5?openDocument) — *Odstoupení od smlouvy Odpovědnost za vady*
+- *NS* [23 Cdo 506/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DC65763BF1561F6C1258D1D004CF5F9?openDocument) — *Koupě nemovité věci (o. z.) Vady*
+- *NS* [25 Cdo 295/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B28EBC5CBA0D0236C1258C470052B385?openDocument) — *Vady Záruka*
+- *NS* [33 Cdo 1618/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC40DC401A05AC31C1258D680052DAE8?openDocument) — *Smlouva o dílo Vady Sleva z ceny*
+- *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
 
 ### § 2118—2127 — Specifická pravidla
 
@@ -467,6 +528,10 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Vklad do katastru** je konstitutivní pro vznik vlastnictví (§ 1105);
 - **Předem dohodnuté zproštění odpovědnosti za vady** mezi podnikateli — možné, ne mezi neprofesionály.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 78/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1FFA7D7C897D683C1258A60001B8CB9?openDocument) — *Neplatnost smlouvy Zpeněžování Incidenční spory Vady řízení*
+
 ### § 2129—2131 — Specifika
 
 **§ 2129**:
@@ -486,6 +551,13 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **§ 2129 — Vady**: odpovědnost prodávajícího za vady; lhůta 5 let pro vady nemovitostí;
 - **§ 2130 — Závady** v právu (kupující v dobré víře přebírá podle zápisu v katastru — § 1107);
 - **§ 2131 — Mlčící předpoklady**: dohoda o ceně, kvalitě, vlastnostech.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 872/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2D234FEC00FDAC6C1258BEE0052CBE0?openDocument) — *Vady Odpovědnost za vady Koupě nemovité věci (o. z.) Dokazování Dovolací důvody Vady říz…*
+- *NS* [23 Cdo 1207/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E141809A3E3DD5BAC1258B62004D19C4?openDocument) — *Smlouva kupní Sleva z ceny*
+- *NS* [23 Cdo 506/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DC65763BF1561F6C1258D1D004CF5F9?openDocument) — *Koupě nemovité věci (o. z.) Vady*
+- *NS* [33 Cdo 2889/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F6795E645FA7FC4C1258B54004D17A7?openDocument) — *Smlouva o smlouvě budoucí Změna okolností (o. z.) Zánik závazku Smlouva kupní Poctivost…*
 
 ---
 
@@ -578,6 +650,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 2. **Převzetí závazků** souvisejících se závodem;
 3. Zaplacení **kupní ceny**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 670/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7463CA3665616DA3C1258D15004D28F9?openDocument) — *Přechod práv a povinností z pracovněprávních vztahů Výpověď z pracovního poměru*
+- *NS* [21 Cdo 2576/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06EBA84481C5173BC12583B700573069?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Přechod práv a povinností…*
+- *NS* [21 Cdo 2980/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B31565C66516C17BC125837200222C29?openDocument) — *Právní nástupnictví Přechod práv a povinností z pracovněprávních vztahů Neplatnost právn…*
+- *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+- *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
+
 ### § 2176—2183 — Procesní rámec
 
 **§ 2176**:
@@ -627,6 +707,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - Zápis do **veřejného rejstříku** (obchodní rejstřík);
 - Účinky vůči **dlužníkům** závazků (přechod práv);
 - **Pohledávky a dluhy** přecházejí jako **celek**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 670/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7463CA3665616DA3C1258D15004D28F9?openDocument) — *Přechod práv a povinností z pracovněprávních vztahů Výpověď z pracovního poměru*
+- *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
+- *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+- *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
+- *NS* [26 Cdo 105/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0ACB9AC35AEF29AC1258C7A004D2A44?openDocument) — 1. 4. 2025
 
 ---
 
@@ -684,6 +772,13 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Vypověditelná kdykoliv** (svobodná, *ex nudo placito*);
 - Klasický římský institut, **obnovený** v NOZ (chyběl v 1964).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1588/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C301893F32B08CB7C1258698001DD48B?openDocument) — *Vyklizení nemovitosti Výprosa (o. z.) Společná domácnost*
+- *NS* [26 Cdo 1324/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CD49544668FD165C1258D2B004D1F26?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Výprosa (o. z.)*
+- *NS* [22 Cdo 2079/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BC00F4B5136196FC1258B9D004D3EB3?openDocument) — *Přípustnost dovolání Ochrana vlastnictví Výprosa (o. z.) Zneužívání výkonu práv a povinn…*
+- *NS* [23 Cdo 2992/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/387F169CA3792D41C1258AA0001B7D03?openDocument) — *Přípustnost dovolání Výprosa (o. z.) Smlouva o výpůjčce Smlouva o zápůjčce (mutuum) (o.…*
+
 ### § 2190—2192 — Účinky
 
 **§ 2190**:
@@ -718,6 +813,12 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Nezuživatelná věc** (= nesměřuje k spotřebě);
 - **Bezúplatné** (rozdíl od nájmu);
 - **Časově nebo účelově vázané** (rozdíl od výprosy).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 803/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/750657A1E5EE7D7FC12588F3001DCDB5?openDocument) — *Přípustnost dovolání Vydání věci*
+- *NS* [26 Cdo 1308/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/852F34887AEFD395C1258CFF004D3E27?openDocument) — *Vyklizení bytu*
+- *NS* [23 Cdo 2992/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/387F169CA3792D41C1258AA0001B7D03?openDocument) — *Přípustnost dovolání Výprosa (o. z.) Smlouva o výpůjčce Smlouva o zápůjčce (mutuum) (o.…*
 
 ### § 2194—2200 — Práva a povinnosti
 
@@ -774,6 +875,10 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 | Doba/účel | Neurčeno | Určeno |
 | Vypovědění | Kdykoli | Až po splnění účelu/uplynutí doby |
 | Odpovědnost | Mírnější | Standardní |
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1308/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/852F34887AEFD395C1258CFF004D3E27?openDocument) — *Vyklizení bytu*
 
 ---
 

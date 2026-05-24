@@ -162,6 +162,13 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **§ 3027 — Dostatečná jistota** — pokud neujednána, určí **soud**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3522/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32C78E67D8952414C12585B900160DDF?openDocument) — *Odbory*
+- *NS* [24 Cdo 747/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26943D5B3CC5BE8BC12584FD001E4367?openDocument) — *Zastoupení Odbory*
+- *NS* [24 Cdo 1467/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74E7B6C4D5459E52C1258B94004D270E?openDocument) — *Závěť pořízená veřejnou listinou (o. z.) [ Dědické substituce (náhradnictví) (o. z.) ]*
+- *NS* [24 Cdo 1600/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBC16FAD273CED2C12588F8001EF82E?openDocument) — *Dědic závětní Dědické právo (právo na pozůstalost) (o. z.) Veřejná listina (o. z.) Nepla…*
+
 ---
 
 ## Hlava II Díl 1 — Přechodná ustanovení (§ 3028—3079)
@@ -184,6 +191,16 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - Nájemní vztah uzavřený 2010 → ZVLÁŠŤ: nájem se řídí novým OZ od 1. 1. 2014 (§ 3074);
 - Vlastnictví nabyté 2010 → nový OZ od 1. 1. 2014 pro otázky výkonu, ochrany, atd.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2486/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8271CDA53D3B05E1C1258DBF0052CD04?openDocument) — *Přípustnost dovolání Společné jmění manželů*
+- *NS* [22 Cdo 2315/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/215FD174F33F080FC1258D9F0052D8DB?openDocument) — *Přípustnost dovolání Držba Vydržení*
+- *NS* [28 Cdo 537/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7DD4ADC0096E1E3C1258D5C0052D3CA?openDocument) — *Smluvní pokuta Moderační právo soudu Přechodná (intertemporální) ustanovení*
+- *NS* [22 Cdo 1922/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3895F0C936D6F822C1258D2B004D1F1D?openDocument) — *Vlastnictví Žaloba odpůrčí [ Žaloba ] Spoluvlastnictví*
+- *NS* [33 Cdo 2802/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CB8E70BBB1F22ABC1258D26004D11A8?openDocument) — *Náhrada škody*
+- *NS* [20 Cdo 1475/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04F2CDE35014B146C1258D0D004D42EE?openDocument) — *Exekuce Přechodná (intertemporální) ustanovení Započtení pohledávky*
+- *NS* [23 Cdo 82/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/790C13CBE3135D94C1258CC3004D35E2?openDocument) — *Přípustnost dovolání Postoupení pohledávky Neplatnost smlouvy Přechodná (intertemporální…*
+
 ### § 3029—3030 — Vztah k jiným předpisům
 
 **§ 3029**:
@@ -201,6 +218,16 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - Dobrá víra, zákaz zneužití práva;
 - Generální klauzule výkladu;
 - Aplikuje se **retroaktivně** v rovině výkladu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2579/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4C4E09C28A029B4C125843B002356C8?openDocument) — *Závazkové vztahy občanskoprávní Společné jmění manželů Smlouva kupní Smlouva o smlouvě b…*
+- *NS* [28 Cdo 2908/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44191FC5EC7A82C2C12583A000221E54?openDocument) — *Bezdůvodné obohacení Přípustnost dovolání*
+- *NS* [29 Cdo 4365/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B40F5419D3D9852C12583600042D5AA?openDocument) — *Zpětná účinnost právních předpisů Přípustnost dovolání Správce konkursní podstaty Konkur…*
+- *NS* [29 Cdo 4374/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1ED9235B7E906E5BC12582C6004797FB?openDocument) — *Zpětná účinnost právních předpisů Vady podání Přípustnost dovolání Správce konkursní pod…*
+- *NS* [26 Cdo 2430/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D32280059F0640CC125827A00476BA4?openDocument) — 15. 2. 2018
+- *NS* [32 Cdo 1082/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2BED84F016EF410C125825D0026197D?openDocument) — *Smlouva pojistná*
+- *NS* [26 Cdo 2479/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/692585654B332C5DC125820C004C966A?openDocument) — 19. 10. 2017
 
 ### § 3031—3035 — Specifika
 
@@ -227,6 +254,10 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - **§ 3032 — Způsobilost k právním úkonům** → automaticky přechází na **omezení svéprávnosti**.
 - **§ 3033 — Zbavení způsobilosti** přede dnem účinnosti → **nabývají svéprávnosti** nejpozději **5 let od účinnosti** (= **31. 12. 2018**), pokud soud nerozhodne jinak. **Klíčové ustanovení**, které vedlo k masivnímu přezkumu rozhodnutí o zbavení způsobilosti.
 - **§ 3034—3035** — Předem vyjádřená přání + řízení o osvojení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 811/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/411669FA489E58ECC1257F5500409127?openDocument) — *Osvojení Žaloba určovací Účastníci řízení*
 
 ### Oddíl 2 — Lhůty a doby (§ 3036—3037)
 

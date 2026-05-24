@@ -48,6 +48,13 @@ Společná úprava § 1400—1447 se aplikuje **subsidiárně** ke všem těmto 
 
 **Domněnka zastoupení** (odst. 2): správce jedná **jako zástupce vlastníka** (= jednání má účinky pro vlastníka). Vyvratitelná domněnka — lze ujednat **přímé zastoupení vlastním jménem na účet beneficienta** (typicky u svěřenského správce — § 1456).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1036/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38ACB1BAE3D46F22C125863E001DB01F?openDocument) — *Smlouva příkazní Smlouva o účtu (o. z.)*
+- *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+- *NS* [22 Cdo 1170/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7AB67D4D330BC1258693001E1B85?openDocument) — *Zastoupení Spoluvlastnictví Správa (správce) společné věci (o. z.) Smlouva o běžném účtu*
+- *NS* [22 Cdo 994/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/894F6CED0E7D5130C125863E001DB037?openDocument) — *Správa (správce) společné věci (o. z.) Zastoupení Běžný účet*
+
 ### § 1401 — Osobní výkon
 
 > (1) Správce plní své povinnosti osobně. Na jinou osobu může přenést svou působnost nebo se dát jinak zastoupit jen při jednotlivém právním jednání; přitom je povinen takovou osobu pečlivě vybrat a dát jí dostatečné pokyny.
@@ -58,6 +65,12 @@ Společná úprava § 1400—1447 se aplikuje **subsidiárně** ke všem těmto 
 **Výjimka**: **jednotlivé** právní jednání (= konkrétní úkon) lze delegovat. Trvalé pověření delegátem je vyloučeno.
 
 **Sankce**: neoprávněné pověření → **solidární odpovědnost** správce s delegátem za vše, co delegát učinil.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 64/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBC8E89D0BE129A7C1258D08004D33EA?openDocument) — *Plná správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Konkurs Insolvenční…*
+- *NS* [29 ICdo 57/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/266111F8E187AD90C1258A7A001B85AA?openDocument) — *Incidenční spory Insolvenční správce Zpeněžování Smlouva kupní Společník Veřejná obchodn…*
+- *NS* [29 NSCR 208/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/710ADD2807820BC1C1258A28001611E5?openDocument) — *Insolvenční správce (odvolání, zproštění) Plná správa cizího majetku (o. z.) [ Správa ci…*
 
 ### § 1402 — Odměna
 
@@ -95,17 +108,37 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 
 **Typické příklady**: opatrovnictví, správa pozůstalosti, správa věci společné.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1778/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40FDD52E5D09C2DEC1258D1D004C94EF?openDocument) — *Pozůstalost (o. z.) Procesní nástupnictví Přerušení řízení*
+- *NS* [24 Cdo 221/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78E94A364BDDB4C3C12588CE0018FE58?openDocument) — *Prostá správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Správce pozůstalo…*
+- *NS* [24 Cdo 2261/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/998D6F8697F70193C125878D001E4BFE?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 2238/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/706EC59A5A171B1FC125878D001E4C2E?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 1660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AAA31CDB7B08AEEC1258784001E32A5?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 1286/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C34A96D1ECA739D8C1258793001E436F?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+
 ### § 1406 — Práva a omezení
 
 > Správce uplatňuje při prosté správě všechna práva týkající se spravovaného majetku a řádně s ním hospodaří. Správce nesmí bez souhlasu beneficienta změnit účel spravovaného majetku.
 
 Správce **uplatňuje všechna práva** k majetku, **hospodaří řádně**. **Zákaz měnit účel** bez souhlasu beneficienta — chrání původní funkční zaměření majetku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AAA31CDB7B08AEEC1258784001E32A5?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 1286/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C34A96D1ECA739D8C1258793001E436F?openDocument) — 31. 8. 2021
+- *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+
 ### § 1407 — Obezřetnost u peněz
 
 > Spravuje-li správce peněžní prostředky, musí je vynaložit obezřetně. Bylo-li něco ze spravovaného majetku vynaloženo určitým způsobem dříve, může správce zvolený způsob později změnit.
 
 Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu investování má prostor pro **diskreci** (ne dogmatika „nikdy neměnit").
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
 
 ### § 1408 — Zcizení, zástava
 
@@ -119,6 +152,10 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 **Zástava majetku**: jen se souhlasem beneficienta.
 
 **Výjimka (odst. 2)**: **bez souhlasu**, hrozí-li **rychlá zkáza** nebo rychlá ztráta hodnoty (typicky zemědělské produkty, kazící se zboží, akciová pozice před krachem).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
 
 ---
 
@@ -168,6 +205,11 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 > (2) Je-li správce sám beneficientem, musí brát na své zájmy stejný zřetel jako na zájmy ostatních beneficientů a vykonávat svou působnost ve společném zájmu.
 
 Při více beneficientech **simultánně nebo postupně** — rovné zacházení. Pokud správce **je sám beneficientem** → musí brát na své zájmy **stejný ohled** jako na ostatní (nestranný výkon).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3166/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/515B225325636423C1258C370052B1E2?openDocument) — *Přípustnost dovolání Správce pozůstalosti (o. z.)*
+- *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
 
 ### § 1413 — Konflikt zájmů
 
@@ -364,6 +406,14 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **§ 1444** — Smrt/zánik správce: osoba pověřená správou věcí zesnulého správce **oznámí zánik** všem zúčastněným.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 95/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/61E674D03A6588DDC1258A1B00161186?openDocument) — 29. 6. 2023
+- *NS* [29 ICdo 91/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACED60CFD5CC7ECCC12589A30018BF6A?openDocument) — 28. 2. 2023
+- *NS* [29 ICdo 4/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B234BC6B236CD97AC125898D0017F87C?openDocument) — 31. 1. 2023
+- *NS* [29 Cdo 819/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D441E1806B0AA14AC125839800202FDA?openDocument) — *Správa cizího majetku (o. z.) Podmínky řízení Účastníci řízení Insolvenční správce*
+- *NS* [22 Cdo 5353/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/672C0D6AD3894401C1257FFC003C46A4?openDocument) — *Spoluvlastnictví*
+
 ### § 1445—1447 — Vyúčtování a předání
 
 **§ 1445**:
@@ -384,6 +434,10 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 - Zahrnuje **vše, co správce získal**, vč. náhrad.
 
 **§ 1447 — Zadržovací právo** správce k majetku za jeho pohledávky ze správy. **U peněz**: kompenzace (započtení) místo zadržení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2468/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40E7E90036F0DAC7C1258BA9004D24DD?openDocument) — *Přípustnost dovolání Vydědění Závěť Dokazování Nepominutelný dědic (o. z.) Povinný díl z…*
 
 ---
 
@@ -414,6 +468,12 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 **Toto je nejkontroverznější rys českého trustu** — protichůdné rakousko-německé tradici (vyžaduje vlastníka), shodné s anglo-americkou tradicí (legal title vs. equitable title) a québeckým CCQ (patrimony of affectation — Lepaulle).
 
 **Důvody:** ochrana fondu před věřiteli zakladatele i správce (oddělená masa), daňová a strukturální flexibilita.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 617/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/038E2E44596B78F0C12587C8001E4C2A?openDocument) — *Přípustnost dovolání Zastavení exekuce Žaloba vylučovací (excindační) Svěřenský fond (o.…*
+- *NS* [27 Cdo 3033/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A031FE7A23B1D4F9C1258690001DF59D?openDocument) — *Způsobilost být účastníkem řízení*
+- *NS* [24 Cdo 1754/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DAD4E773D0EE984C1258B0E004D3704?openDocument) — *Svěřenský fond (o. z.) Pasivní legitimace Žaloba určovací*
 
 ### § 1449 — Účel
 

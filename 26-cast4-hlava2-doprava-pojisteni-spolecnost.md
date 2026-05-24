@@ -72,6 +72,16 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Při **významném zpoždění** → cestující má právo na **kompenzaci**;
 - **EU nařízení**: 261/2004 (letecká přeprava), 1371/2007 (železniční), 181/2011 (silniční), 1177/2010 (vodní).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 3414/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFE453D365546A95C1258AC1001B7F05?openDocument) — *Přípustnost dovolání Smlouva o přepravě osob*
+- *NS* [33 Cdo 962/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D49A91301F1BA0FC1258AC1001B7F0A?openDocument) — *Promlčení Jednatelství bez příkazu*
+- *NS* [23 Cdo 1387/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43DBF4D18DA1FB61C1258A8E001B7BE5?openDocument) — *Smlouva o přepravě osob Přípustnost dovolání*
+- *NS* [33 Cdo 679/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8375F35252A0CF08C1258A89001B7BFF?openDocument) — *Náhrada škody Promlčení*
+- *NS* [33 Cdo 2327/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3832843E910BD6B6C1258A5F001B9206?openDocument) — *Smlouva o přepravě osob*
+- *NS* [33 Cdo 3821/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F53ADE01F9B6D340C1258A57001B81C1?openDocument) — *Smlouva o přepravě osob Přípustnost dovolání*
+- *NS* [25 Cdo 3554/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C87625773A22DBAC1258B5D004D2EE3?openDocument) — *Náhrada škody Nájem prostoru sloužícího k podnikání (o. z.)*
+
 ---
 
 ### Oddíl 2 — Přeprava věcí (§ 2555—2585)
@@ -84,6 +94,13 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Dopravce** (logistická firma, přepravce);
 - **Odesílatel**;
 - **Příjemce** (často odlišný od odesílatele).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 121/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAB194EC38212996C1258D3F0052D32B?openDocument) — *Smlouva o přepravě věci*
+- *NS* [24 Cdo 2221/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A13E5948BD97CC2AC1258A7B001B86A1?openDocument) — *Vady řízení Smlouva o přepravě nákladu*
+- *NS* [23 Cdo 198/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CCD0586E05061242C1258D5C0052D46C?openDocument) — *Smlouva o přepravě nákladu Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [31 Cdo 1163/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8112131096F2EEECC1258D20001607C7?openDocument) — 10. 9. 2025
 
 ### § 2556—2585 — Klíčová pravidla
 
@@ -251,6 +268,10 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Hague-Visby Rules** (námořní);
 - **Montreal Convention** (letecká).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 708/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D59A1B49352C6A3C1258C140052AFA9?openDocument) — *Smlouva o přepravě nákladu*
+
 ---
 
 ## Díl 10 — Kontrolní činnost (§ 2652—2661)
@@ -326,6 +347,10 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Strukturované odškodnění (settlement annuity);
 - Pojistné anuity.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
+
 ### Oddíl 2 — Výměnek (§ 2707—2715)
 
 ### § 2707 — Definice
@@ -338,6 +363,10 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Zatěžuje nemovitost **jako reálné břemeno** (§ 1303).
 
 **Praktický význam dnes**: snížený, ale stále využíván **na venkově**; častěji v formě **doživotního užívacího práva** (§ 1283) místo výměnku.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2769/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/511529A85C2574E9C1258521001E453B?openDocument) — *Výměněk (o. z.) Darování Vlastnictví Katastr nemovitostí*
 
 ---
 
@@ -356,6 +385,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Společnost **NENÍ** právnická osoba;
 - Společníci jednají **vlastním jménem**, ale **na účet společnosti**;
 - **Solidární odpovědnost** společníků za dluhy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1370/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/085F7E19440BE6D7C12588D8001831AA?openDocument) — *Vedlejší účastník Společnost (o. z.) Bankovní záruka Bezdůvodné obohacení*
+- *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
 
 ### § 2718—2746 — Klíčová pravidla
 
@@ -510,6 +544,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Společné stavební projekty** (konsorcium);
 - **Pracovní skupiny** advokátů (bez s.r.o.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
+- *NS* [23 Cdo 2340/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4097444C4331454C12583B0003A3E4C?openDocument) — *Společnost (o. z.) Smlouva o sdružení*
+
 ---
 
 ## Díl 14 — Tichá společnost (§ 2747—2755)
@@ -636,6 +675,16 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Pojistné plnění** — výplata pojistitele po pojistné události;
 - **Pojistný zájem** (*insurable interest*) — § 2761—2765.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Tdo 14/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/184678533FD3D00BC1258DA40052D935?openDocument) — *Pojistný podvod Hodnocení důkazů Pojistná smlouva*
+- *NS* [25 Cdo 567/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50CF096AC942D9DFC1258B2B004D4247?openDocument) — *Znalecký posudek Dokazování Pojištění majetku*
+- *NS* [23 Cdo 2037/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2460707ECD1AAF92C125880A001B7BED?openDocument) — *Pojištění majetku*
+- *NS* [25 Cdo 2228/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25A66159375A2B8FC1258CAD004D1DAC?openDocument) — *Pojištění Výluka Přípustnost dovolání*
+- *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
+- *NS* [25 Cdo 31/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B36C48C08AC3EA5DC1258D320052AE7C?openDocument) — *Pojištění Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [33 Cdo 605/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C22DB119342DD90C1258C0300529DF0?openDocument) — *Pojištění Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ] Povinnost zakročovací*
+
 ### § 2761—2765 — Pojistný zájem
 
 **§ 2761**:
@@ -702,6 +751,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Pojistník pojišťuje hodnotu **třetí osoby** ve vlastní prospěch;
 - **Souhlas pojištěného** povinný;
 - Bez souhlasu → pojištění zaniká do **3 měsíců**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
+- *NS* [23 Cdo 369/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D26ABAD451A0A222C1258B46004D1850?openDocument) — *Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad právních jednání (o. z…*
 
 ### Pododdíl 2 — Pojistné období (§ 2773—2785)
 
@@ -843,6 +897,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - "Kdo vyřeší matematický problém — 1 mil. Kč";
 - "Kdo přinese informace k loupežnému přepadení — Police ČR vyplatí 100 000 Kč".
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1694/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/271FD0BC9EC16EBBC1258B5D004D2F5B?openDocument) — *Veřejný příslib*
+- *NS* [27 Cdo 2309/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6C1AB7C4CE2C2FCC1258678001E0B3B?openDocument) — *Autorské právo Licenční smlouva (o. z.) Veřejný příslib Promlčení*
+
 ### § 2885—2890 — Pravidla
 
 **§ 2885**:
@@ -877,6 +936,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2887 — Více splnitelů**:
 - **Splnil první** → nárok jemu;
 - Pokud splnili **současně** → rovným dílem (nebo losem dle § 2887).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2496/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8D83B5E7707FF49C1258B9B004D6D4B?openDocument) — *Smlouva pojistná Náklady řízení Slib odškodnění*
+- *NS* [29 ICdo 202/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32F2717C85E5875AC1258C500052A28F?openDocument) — *Incidenční spory (žaloba odpůrčí) Slib odškodnění Náhrada škody*
 
 ### Oddíl 2 — Veřejná soutěž (§ 2891—2893)
 

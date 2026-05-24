@@ -62,6 +62,16 @@ Pojem dobrých mravů (*boni mores*) je **nedefinovaná hodnotová kategorie**. 
 
 OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že ustanovení je kogentní (a strany musely výslovně dovodit dispozitivnost); od 1. 1. 2014 je situace opačná — **většina ustanovení je dispozitivních**, ledaže by zákon stanovil výslovně jinak. Velmi to rozšířilo prostor pro smluvní úpravu (zejména v B2B kontraktech).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2288/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9856B3770CC84E53C1258DAB0052C5F9?openDocument) — *Vyklizení nemovitosti Exekuční titul*
+- *NS* [33 Cdo 1128/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/883F9DCC29203A35C1258CA8004D3A78?openDocument) — *Přípustnost dovolání Soukromé právo*
+- *NS* [33 Cdo 2864/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37C099458189E734C1258C68004D19C7?openDocument) — *Smír Přípustnost dovolání Dovolací důvody*
+- *NS* [22 Cdo 1687/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4C911F001B50FC3C1258C0D0052AE3D?openDocument) — *Vydržení Držba*
+- *NS* [25 Cdo 1241/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADACECC57B0CAC8CC1258BE40052ACD1?openDocument) — *Vázanost rozhodnutím jiného orgánu Soukromé právo*
+- *NS* [21 Cdo 3047/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18BEE5F87F5565BBC1258B62004D193E?openDocument) — *Náhrada mzdy Mzda (a jiné obdobné příjmy) Překážky v práci*
+- *NS* [27 Cdo 1889/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1442D4434EEF8A6AC12588F3001DCDAB?openDocument) — *Bytové družstvo [ Družstvo ] Družstevní podíl [ Družstvo ]*
+
 ---
 
 ### § 2 — Hodnotově orientovaný výklad zákona
@@ -89,6 +99,16 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - § 8 (zákaz zneužití práva — *contra legem* výklad nesmí vést ke zneužití);
 - § 13 (legitimní očekávání — výklad nesmí být překvapivý vůči ustálené judikatuře);
 - § 547—554 (výklad právního jednání — vychází ze stejné metodologie).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2893/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA000D7FDDF8703C1258D840052B087?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ]*
+- *NS* [22 Cdo 2350/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB4E589C083A7184C1258D480052C13D?openDocument) — *Zisk Podnikání Dobré mravy*
+- *NS* [21 Cdo 2993/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/494D255BA663421DC1258C440052B307?openDocument) — *Dražba Insolvenční řízení Výklad právních předpisů (výklad právních norem)*
+- *NS* [26 Cdo 3520/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7572D324E7A59D0C1258C0800529D30?openDocument) — *Dobré mravy*
+- *NS* [28 Cdo 1334/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C94CC88992D3CB8C1258BDA0052DBB6?openDocument) — *Dobré mravy Veřejné zakázky Jistota*
+- *NS* [25 Cdo 753/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C2A8F3584D542A5C1258AF5004D3118?openDocument) — *Ochrana osobnosti Dobré mravy Dovolací důvody Přípustnost dovolání Dokazování Promlčení*
+- *NS* [25 Cdo 1265/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4102E2DE022D541CC12588EB001DDA05?openDocument) — *Dobré mravy Náhrada škody*
 
 ---
 
@@ -121,6 +141,16 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 
 § 3 odst. 3 dodává, že soukromé právo vyvěrá také z **dalších obecně uznaných zásad spravedlnosti a práva** — tento odstavec otevírá prostor pro odkaz na obecné právní zásady (např. *bona fides*, *nemo plus iuris transferre potest quam ipse habet*, *favor matrimonii*, *favor testamenti*).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43CC7C0402FC53F6C1258C4500529BBF?openDocument) — *Předběžná otázka Dobré mravy*
+- *NS* [26 Cdo 1171/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D103CB1BD0054F01C125876C00189DD2?openDocument) — *Ochrana vlastnictví Promlčení Dobré mravy*
+- *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
+- *NS* [29 NSCR 21/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CB2D640DEF3EDD2C1258BB8004D3BB6?openDocument) — *Úpadek Insolvenční řízení*
+- *NS* [29 NSCR 69/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63A1C0A05B50C511C12589650041BC64?openDocument) — *Manželství Mateřská dovolená Rodičovská dovolená Oddlužení (společné oddlužení manželů)*
+- *NS* [27 Cdo 2293/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/425098C75E70138CC1258C7A004D2A20?openDocument) — *Ručení Statutární orgán Jednatel Úmysl Společnost s ručením omezeným*
+- *NS* [27 Cdo 451/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7ADA174D9152FA7C12586E500186B9C?openDocument) — *Neúměrné zkrácení (o. z.) Akcie na jméno Akcie Akcionář Cena Cena věci (o. z.) Znalecký…*
+
 ---
 
 ### § 4 — Domněnka rozumného člověka
@@ -143,6 +173,15 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - ochrany dobré víry v zápis v katastru nemovitostí (§ 980 odst. 2);
 - pojistné smlouvy (§ 2788 — nepravdivé / neúplné odpovědi pojistníka).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1510/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC1D9BD286ADE13C125882E0015FE70?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ]*
+- *NS* [22 Cdo 2464/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26104C336EB1743BC1258D570052A4DF?openDocument) — *Držba Přípustnost dovolání Věcná břemena*
+- *NS* [23 Cdo 1837/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA19F67DE0749D65C12588EC001DC219?openDocument) — *Dobrá víra Nevlastník Vozidla silniční Vlastnictví Smlouva kupní*
+- *NS* [25 Cdo 2679/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C66DA72ECACCE28C1258684001E0EB3?openDocument) — *Náhrada při poškození věci Cena věci (o. z.) Přípustnost dovolání*
+- *NS* [22 Cdo 2826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17B66DFBDBBB0233C1258D850052C87B?openDocument) — *Držba Úmysl Vydržení*
+- *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
+
 ---
 
 ### § 5 — Profesionální standard péče
@@ -161,6 +200,16 @@ To má dopady na:
 - **břemeno tvrzení a důkazu** — *jde to k jeho tíži* znamená, že **profesionál nese důkazní břemeno**, že odbornou péči vyvinul (obrácení důkazního břemene oproti obecnému pravidlu § 2911).
 
 § 5 odst. 2 stanoví, že **chybějící veřejnoprávní oprávnění** (živnostenský list, atestace, povolení) **samo o sobě nezpůsobuje neplatnost smlouvy** — pokud druhá strana s touto vadou nesouhlasí. Spotřebitel/klient se může dovolat plnění i tehdy, když dodavatel jednal bez oprávnění. (Ovšem je možná soukromoprávní odpovědnost za škodu způsobenou tímto „provozem".) Tento odstavec navazuje na zásadu autonomie soukromého práva v § 1 odst. 1: porušení veřejnoprávní normy nezpůsobuje automaticky neplatnost.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2146/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7C668580D8FF147C1258D4E0052BC35?openDocument) — *Smlouva zprostředkovatelská Konflikt zájmů Odborný výkon (odborník) (o. z.)*
+- *NS* [25 Cdo 2949/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87FD857379857920C125886C001929C8?openDocument) — *Spolu způsobení si újmy poškozeným Náhrada škody*
+- *NS* [32 Cdo 3925/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD9E632E272A991BC125859C0019FF3D?openDocument) — *Přípustnost dovolání Náhrada škody*
+- *NS* [7 Tdo 676/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A4507C4125348E9C125848000180BC6?openDocument) — *Porušení důležité povinnosti Prevence Těžké ublížení na zdraví z nedbalosti*
+- *NS* [29 Cdo 4136/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1D2A6791C3D7150C12582320041A030?openDocument) — *Banky Úpadek Zástavní právo Konkurs*
+- *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
+- *NS* [28 Cdo 568/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A639C0C01682AB29C1258B32004D43AC?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 
 ---
 
@@ -192,6 +241,16 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - Smlouva o převodu nemovitosti, kde převodce úmyslně tají právní vady. Soud uznal, že právo nabyvatele uplatnit nárok není promlčeno, dokud nemohl vadu zjistit (NS 32 Cdo 3457/2018).
 - Nájemník, který úmyslně poškozuje byt, nemůže se dovolávat ochrany nájemního vztahu (§ 2236 odst. 2 — výpověď bez výpovědní doby z důvodu hrubého porušení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3767/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F18909AE1AA8CFE2C1258A3600160EEC?openDocument) — *Přípustnost dovolání Výpověď z pracovního poměru Dobré mravy Diskriminace*
+- *NS* [29 Cdo 2044/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA56C6801C33CC11C125863B001DA04C?openDocument) — *Směnka Poctivost (o. z.) Právní jednání (o. z.)*
+- *NS* [29 Cdo 3825/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E4FDD687E46F40CC12586060018879A?openDocument) — *Směnečný a šekový platební rozkaz Zajištění závazku*
+- *NS* [30 Cdo 1205/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/077FAABBE4A6CB70C12585C1003A0FA5?openDocument) — *Dobré mravy Promlčení*
+- *NS* [32 Cdo 3898/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE015E0A5391E02BC125851E001E8636?openDocument) — *Dobré mravy Přípustnost dovolání*
+- *NS* [29 NSCR 41/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD84B0147F0F7214C12583E200183D78?openDocument) — *Oddlužení Poctivost (o. z.)*
+- *NS* [28 Cdo 1119/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54AC6384322A1718C1257F7E00364AD6?openDocument) — *Občanské sdružení*
+
 ---
 
 ### § 7 — Domněnka dobré víry
@@ -208,6 +267,16 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - **ochrana dobré víry v katastr nemovitostí** (§ 980—984).
 
 Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradičního pojetí: subjektivní přesvědčení o oprávněnosti vlastního jednání, založené na okolnostech, které průměrně rozumný člověk považuje za dostatečné. Dobrá víra **není totožná s poctivostí** (§ 6) — poctivost je objektivní standard chování, dobrá víra je subjektivní stav vědomí.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2126/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82A2B48544644291C1258BEB0052C157?openDocument) — *Dobrá víra Obchodní rejstřík Statutární orgán Zastoupení*
+- *NS* [22 Cdo 1946/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A40DCF6734A98BFC1258D2D004D1D94?openDocument) — *Katastr nemovitostí Dobrá víra*
+- *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
+- *NS* [24 Cdo 793/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B8E4D4D91E11D8C5C125873B001874AD?openDocument) — *Dobrá víra Nabytí vlastnického práva od neoprávněného Katastr nemovitostí Dokazování*
+- *NS* [24 Cdo 221/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D00B831FD6419AFFC125870400188CF4?openDocument) — *Dobrá víra Katastr nemovitostí Vlastnictví Nabytí vlastnického práva od neoprávněného*
+- *NS* [24 Cdo 279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/091AFB0766A514DEC1258AFA004D3115?openDocument) — *Dobré mravy Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ]*
+- *NS* [27 Cdo 485/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/713CE5BFA88DB3A8C1258A6D001B84A0?openDocument) — *Odstoupení od smlouvy Lhůta hmotněprávní [ Lhůty ] Dobrá víra Právnická osoba Jednání za…*
 
 ---
 
@@ -239,6 +308,16 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 - Uplatňování smluvní pokuty v zjevně nepřiměřené výši (NS 23 Cdo 1234/2020 — kombinace § 8 a § 2051);
 - Šikana sousedů — uplatňování imisí, které vlastník sám vyvolal (NS 22 Cdo 765/2017).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3235/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1AE36B439D4DA9B2C1258D9C0052B12A?openDocument) — *Stavba Dobré mravy*
+- *NS* [23 Cdo 1178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48A6DA9B7A67581DC1258D8F0052B087?openDocument) — *Přípustnost dovolání Vady podání Dobré mravy*
+- *NS* [22 Cdo 2824/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D8F8775B17504FC1258D690052D9AE?openDocument) — *Zneužívání výkonu práv a povinností Předkupní právo*
+- *NS* [22 Cdo 2225/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6DF90EE5B1D38667C1258D26004D11DA?openDocument) — *Přípustnost dovolání Stavba neoprávněná Zneužívání výkonu práv a povinností*
+- *NS* [26 Cdo 1722/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE66C54672A191D2C1258D29004D4703?openDocument) — *Smluvní pokuta Dobré mravy*
+- *NS* [27 Cdo 1395/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF11F6509D8BF8A6C1258CE6004D33D3?openDocument) — *Zneužívání výkonu práv a povinností Žaloba Společník*
+- *NS* [22 Cdo 662/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4816CC6BD28F7254C1258C92004D09F3?openDocument) — *Přípustnost dovolání Zneužívání výkonu práv a povinností*
+
 ---
 
 ## Díl 2 — Užití předpisů občanského práva
@@ -268,6 +347,10 @@ Vztah subsidiarity je vždy **dvousměrný**: jsou-li v zvláštním zákoně me
 
 Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pramen) — zvyklost je faktická opakovaná praxe, obyčejové právo by mělo normativní účinky bez výslovného odkazu zákona.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+
 ---
 
 ### § 10 — Analogie (zákona a iuris)
@@ -296,6 +379,16 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 - § 13 (legitimní očekávání — analogie se musí provádět s ohledem na ustálenou praxi);
 - § 1746 (inominátní smlouvy — výslovné zmocnění k analogii).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1111/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65E4C851F4EBCA5BC1258CB3004D3534?openDocument) — *Skončení pracovního poměru Cizinci Analogie legis Výklad právních předpisů (výklad právn…*
+- *NS* [28 Cdo 1623/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F40E0BA7195AC75CC1258BDA0052DBC9?openDocument) — *Analogie legis Bezdůvodné obohacení*
+- *NS* [23 Cdo 2178/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1E8A30F8249231CC1258A37004B2977?openDocument) — *Analogie legis Autorské právo Autorské dílo Duševní vlastnictví Licence*
+- *NS* [27 Cdo 2453/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63D06177761E1267C12588510015FF01?openDocument) — *Valná hromada Usnesení valné hromady (zdánlivost) [ Valná hromada ]*
+- *NS* [22 Cdo 3651/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9CFE6A4F4587ED5C125850A001E54E8?openDocument) — *Přípustnost dovolání Stavba*
+- *NS* [33 Cdo 1109/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489E79F0E0BBB090C125857E00452C7B?openDocument) — *Smlouva o smlouvě budoucí*
+- *NS* [30 Cdo 4888/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CD5CB763DC69059C12582F6002679C7?openDocument) — *Neplatnost právního úkonu Dobrá víra Přípustnost dovolání*
+
 ---
 
 ### § 11 — Subsidiarita obecných ustanovení o závazcích
@@ -313,6 +406,15 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Praktický dopad:**
 
 § 11 brání tomu, aby vznikaly mezery v úpravě jen proto, že určitý institut není v dané části zvlášť pojednán. Klíčová je formulace „**přiměřeně**" — tj. s ohledem na povahu daného právního vztahu, ne mechanicky.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Nd 380/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A2EE9D59C649B8AC1258BA9004D2466?openDocument) — *Příslušnost soudu místní*
+- *NS* [25 Cdo 268/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/75EA7445D9CEB8ECC1258AD8001B8AB7?openDocument) — *Ochrana osobnosti*
+- *NS* [22 Cdo 3596/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4AE80122D327578C1258AAE001B7F86?openDocument) — *Služebnost (o. z.) Výpověď smlouvy*
+- *NS* [22 Cdo 1925/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9318C770A8F1F2C1258799001B8397?openDocument) — *Vlastnictví*
+- *NS* [26 Cdo 3654/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/610E048C0666B046C1258535001DEDA0?openDocument) — *Přípustnost dovolání Dobré mravy*
+- *NS* [30 Cdo 4207/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC47AD84E40F4FF2C1257F4C00364BA8?openDocument) — *Ochrana osobnosti Správce konkursní podstaty*
 
 ---
 
@@ -341,6 +443,14 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 14 (svépomoc — výjimečná alternativa k soudní ochraně);
 - § 13 (legitimní očekávání ohledně rozhodnutí).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Nd 670/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CD865DD9144558CC1258AAD00529B97?openDocument) — *Přikázání věci (delegace)*
+- *NS* [21 Cdo 1180/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF05A5CF97D8CD78C1258A14001618CE?openDocument) — *Pracovní doba Diskriminace Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Pr…*
+- *NS* [23 Nd 190/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7845E53483D4AF20C12589EA00182876?openDocument) — *Přikázání věci (delegace)*
+- *NS* [22 Cdo 787/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/965E57C9C8AB0577C12585AA0018EB04?openDocument) — *Stavba neoprávněná Zneužívání výkonu práv a povinností Obec*
+- *NS* [30 Cdo 107/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7643093CAE143AB7C125895E001E0354?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
+
 ---
 
 ### § 13 — Legitimní očekávání ohledně rozhodnutí (princip předvídatelnosti)
@@ -367,6 +477,16 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 2 (ústavně konformní výklad);
 - OSŘ § 237 (přípustnost dovolání pro rozdílnost / odchýlení od ustálené praxe NS);
 - čl. 95 Ústavy ČR (vázanost soudu zákonem a judikatorními výklady).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53465E92D0A5A74DC1258DB00052C041?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek*
+- *NS* [25 Cdo 2171/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2580657FC767F617C1258CD9004D23E9?openDocument) — *Náklady léčení Dovolání Přípustnost dovolání*
+- *NS* [28 Cdo 174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A000C27BE9EB7B19C1258CCE004D3C02?openDocument) — *Bezdůvodné obohacení Dokazování*
+- *NS* [26 Cdo 178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D453FDD3E87CAD3C1258C83004D1D89?openDocument) — *Přípustnost dovolání Předběžná otázka Závaznost rozsudku*
+- *NS* [23 Cdo 200/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6DE12D2969773560C1258C68004D1A80?openDocument) — *Přípustnost dovolání Vady řízení*
+- *NS* [29 ICdo 5/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F05F92D1B63D4774C1258C500052A31C?openDocument) — *Incidenční spory Neúčinnost právního jednání Majetková podstata Dlužník Insolvenční sprá…*
+- *NS* [21 Cdo 1930/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A3FE58CD3199F4BC1258C130052AF95?openDocument) — *Přípustnost dovolání Dokazování Svědci*
 
 ---
 
@@ -403,6 +523,12 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 2906—2908 (okolnosti vylučující protiprávnost — nutná obrana, krajní nouze);
 - § 1006 (svépomocné držení vlastnické věci);
 - § 1395 (zástavní právo svépomocné).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [4 Tdo 246/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1E14B68C8732F21C125858F0018E7A9?openDocument) — *Domovní svoboda Důvod dovolání pro právní vady rozhodnutí Porušování domovní svobody Sub…*
+- *NS* [22 Cdo 4580/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/112924E483ED88D0C1258211002B8EEB?openDocument) — *Svépomoc Vlastnictví*
+- *NS* [22 Cdo 1925/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9318C770A8F1F2C1258799001B8397?openDocument) — *Vlastnictví*
 
 ---
 

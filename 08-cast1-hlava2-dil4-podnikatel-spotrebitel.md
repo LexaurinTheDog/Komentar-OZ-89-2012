@@ -53,6 +53,16 @@ Závěr Hlavy II přináší **dvě úzce propojené kategorie osob soukromého 
 - **Zákon č. 229/2002 Sb. o finančním arbitrovi** — mimosoudní řešení sporů spotřebitel × finanční instituce;
 - **Nařízení EU 2018/302** o geo-blockingu, **2019/1150** o platformách atd.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1972/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBD1A0ACDF8584DEC1258A83001B8676?openDocument) — *Exekuce Spotřebitel Podnikání Rozhodčí doložka Vady řízení*
+- *NS* [24 Cdo 1991/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46F25074A62B0CFBC1258A64001B8D52?openDocument) — *Přípustnost dovolání Spotřebitel Správce pozůstalosti (o. z.) Rozhodčí doložka*
+- *NS* [33 Cdo 3704/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A7C8581ED04756FC1258796001E51A6?openDocument) — *Rozhodčí doložka Spotřebitel Smlouva zástavní*
+- *NS* [25 Cdo 3497/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/69A5138B5C60F154C12589B00018E63C?openDocument) — *Náhrada škody Spotřebitel*
+- *NS* [29 Cdo 1569/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A269517D90BF34C5C12588F6004B1A84?openDocument) — *Spotřebitel Směnka Úroky*
+- *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
+- *NS* [25 Cdo 292/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0364D120F04BCDE6C1258D550052A476?openDocument) — *Smlouva o dílo Spotřebitel Odpovědnost za vady*
+
 ---
 
 ## Díl 5 — Podnikatel (§ 420—435)
@@ -87,6 +97,16 @@ Rozšíření zahrnuje:
 
 **Praktický dopad rozšíření**: pro účely B2C smluv se za podnikatele považuje **i osoba bez živnosti**, pokud objektivně jedná podnikatelsky. Toto chrání spotřebitele před obcházením zákona deklarací „nejsem podnikatel".
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2512/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F1FE6435921FDEFC1258AFE004D1AA3?openDocument) — *Podnikatel*
+- *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
+- *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
+- *NS* [23 Cdo 3631/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFB8471C76252393C1258B5D004D2F45?openDocument) — *Podnikatel Rozhodčí doložka Koupě nemovité věci (o. z.)*
+- *NS* [28 Cdo 4380/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C38E53C22ACAAD32C12584F8004B3D13?openDocument) — *Bezdůvodné obohacení Znalecký posudek Pozemní komunikace Podnikání*
+- *NS* [33 Cdo 3165/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/575447904F66400FC12589A900180370?openDocument) — *Přípustnost dovolání Spotřebitel Podnikatel*
+- *NS* [29 Cdo 1569/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A269517D90BF34C5C12588F6004B1A84?openDocument) — *Spotřebitel Směnka Úroky*
+
 ### § 421 — Domněnka podnikatele
 
 > (1) Za podnikatele se považuje osoba zapsaná v obchodním rejstříku. Za jakých podmínek se osoby zapisují do obchodního rejstříku, stanoví jiný zákon.
@@ -109,6 +129,16 @@ Rozšíření zahrnuje:
 - **Obchodní rejstřík** — § 42—66 zákona č. 304/2013 Sb.;
 - **Živnostenský rejstřík** — zákon č. 455/1991 Sb.;
 - **Rejstříky regulovaných profesí** (advokátů ČAK, lékařů ČLK, notářů NK ČR).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 173/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98498F7EB5F930DBC125842D00236975?openDocument) — *Insolvence Oddlužení*
+- *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
+- *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
+- *NS* [23 Cdo 3631/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFB8471C76252393C1258B5D004D2F45?openDocument) — *Podnikatel Rozhodčí doložka Koupě nemovité věci (o. z.)*
+- *NS* [33 Cdo 3165/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/575447904F66400FC12589A900180370?openDocument) — *Přípustnost dovolání Spotřebitel Podnikatel*
+- *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
+- *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
 
 ### § 422 — Jednání pod vlastním jménem
 
@@ -143,6 +173,11 @@ Rozšíření zahrnuje:
 
 Obojí lze mít současně a vzájemně se doplňují.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2219/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F531BE31A3E8CC7EC12580030025EFC2?openDocument) — *Obchodní firma Obchodní jméno Ochrana názvu právnické osoby Ochranné známky Pobočka (o.…*
+- *NS* [29 Cdo 5758/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A89132FFCAEB0502C125838300221393?openDocument) — *Právnická osoba Obchodní rejstřík Obchodní firma Ochrana názvu právnické osoby Ochrana o…*
+
 #### § 424 — Zaměnitelnost a klamavost
 
 > Obchodní firma nesmí být zaměnitelná s jinou obchodní firmou ani nesmí působit klamavě.
@@ -163,6 +198,16 @@ Obojí lze mít současně a vzájemně se doplňují.
    - Právní formě.
 
 **Spory o zaměnitelnost** rozhoduje soud (žaloba z nekalé soutěže — § 2976—2990, zejména § 2981 — vyvolání nebezpečí záměny).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 900/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA56B862D56CF8D0C1258BB3004D3B63?openDocument) — *Obchodní firma Přípustnost dovolání*
+- *NS* [23 Cdo 1404/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F752B9EA3EC0E12DC12588F4001DF496?openDocument) — *Přípustnost dovolání Obchodní firma*
+- *NS* [23 Cdo 1308/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50A615966A074CBCC12585D40019AEB3?openDocument) — *Obchodní firma*
+- *NS* [23 Cdo 3394/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB375D2EED4F648DC12582DE002662C4?openDocument) — *Obchodní firma*
+- *NS* [27 Cdo 1056/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A711F3FDD79D7939C12583970021F30F?openDocument) — *Právnická osoba Veřejný rejstřík (zápis & výmaz) (o. z.)*
+- *NS* [29 Cdo 2219/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F531BE31A3E8CC7EC12580030025EFC2?openDocument) — *Obchodní firma Obchodní jméno Ochrana názvu právnické osoby Ochranné známky Pobočka (o.…*
+- *NS* [29 Cdo 5758/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A89132FFCAEB0502C125838300221393?openDocument) — *Právnická osoba Obchodní rejstřík Obchodní firma Ochrana názvu právnické osoby Ochrana o…*
 
 #### § 425 — Firma fyzické osoby
 
@@ -221,6 +266,10 @@ Obojí lze mít současně a vzájemně se doplňují.
 
 **Důsledek odvolání**: PO musí **změnit firmu** (jinak žaloba na ochranu osobnosti — § 78). Změna v OR vyžaduje aktualizaci stanov / zakladatelské listiny.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 636/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1198B2674F7CE933C1258DD2004D1F24?openDocument) — *Jméno člověka (o. z.) Jméno a příjmení Obchodní firma*
+
 ### Sídlo podnikatele (§ 429)
 
 #### § 429 — Sídlo podnikatele
@@ -274,6 +323,14 @@ Příklad: pokladník v supermarketu má implicitní oprávnění uzavírat kupn
 
 **Risk allocation**: podnikatel nese riziko **organizace svého provozu** — pokud někdo neoprávněně vystupuje za firmu v provozovně, je to vnitřní problém podnikatele.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 699/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EF625A9E5DAF444C1258C92004D0946?openDocument) — *Podnikatel Zastoupení Přípustnost dovolání*
+- *NS* [23 Cdo 1781/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/123E21C4FE1BFDFEC1258796001E51BC?openDocument) — *Přípustnost dovolání Zastoupení Podnikatel*
+- *NS* [32 Cdo 2305/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/079DB4ED033BD78CC125866A001DB095?openDocument) — *Podnikatel Zastoupení*
+- *NS* [21 Cdo 3524/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38F7836F6B9552BDC1258B63004D02CD?openDocument) — *Konkurenční doložka Zastoupení Jednání za právnickou osobu (o. z.) Pracovněprávní vztahy*
+- *NS* [21 Cdo 2114/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0B4D14223797DE4C12586F400161271?openDocument) — *Přípustnost dovolání Okamžité zrušení pracovního poměru Plná moc Forma právních jednání…*
+
 #### § 431 — Překročení oprávnění
 
 > Překročí-li zástupce podnikatele zástupčí oprávnění, podnikatele právní jednání zavazuje; to neplatí, věděla-li třetí osoba o překročení nebo musela-li o něm vědět vzhledem k okolnostem případu.
@@ -285,6 +342,13 @@ Příklad: pokladník v supermarketu má implicitní oprávnění uzavírat kupn
 **Výjimka: zlá víra třetí osoby** — věděla nebo musela vědět o překročení.
 
 Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá zákazníkovi za 50 000 Kč. Smlouva **zavazuje podnikatele**, ledaže zákazník o limitu věděl (např. byl předem informován v zaslaném dokumentu).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 557/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE684D00C71BFFB9C1258D29004D4778?openDocument) — *Jednání právnických osob Přípustnost dovolání Vady řízení*
+- *NS* [21 Cdo 3524/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38F7836F6B9552BDC1258B63004D02CD?openDocument) — *Konkurenční doložka Zastoupení Jednání za právnickou osobu (o. z.) Pracovněprávní vztahy*
+- *NS* [27 Cdo 4593/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3767BE0FDE22960BC125849C00184BC4?openDocument) — *Zastoupení Právnická osoba Statutární orgán*
+- *NS* [25 Cdo 294/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA0B0325073100C5C1258D1B004D2A1C?openDocument) — *Neplatnost smlouvy Dobré mravy Zastoupení*
 
 #### § 432 — Zákaz konkurence zástupce
 
@@ -314,6 +378,12 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 - **Objektivní**: 1 rok od jednání zástupce.
 
 **Praktický význam**: chrání podnikatele před vykrádáním jeho byznysu zaměstnanci a obchodními zástupci, kteří získali know-how a kontakty.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1331/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/564A333AF7A3996AC1258CE1004D1C0D?openDocument) — *Prokura Konkurence Konflikt zájmů*
+- *NS* [27 Cdo 127/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FD85552AB6FFF7AC1258CD5004D52C8?openDocument) — *Zákaz konkurence Společnost s ručením omezeným Jednatel Konkurence*
+- *NS* [21 Cdo 1316/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6CF648E1AF0D525C12588E300192789?openDocument) — 26. 7. 2022
 
 ### § 433 — Ochrana slabší strany v hospodářském styku
 
@@ -347,6 +417,16 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 **Judikatura:**
 - NS 23 Cdo 4136/2018 — § 433 použit pro výklad smlouvy mezi velkým dodavatelem a malou rodinnou firmou; soud uznal pozici malé firmy jako „slabší strany v hospodářském styku";
 - NS 23 Cdo 1985/2020 — odlišení podnikatele jednajícího v rámci své činnosti (rovný partner) vs. mimo ni (slabší strana).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1761/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F02BF39B10C8904C1258B85004D2846?openDocument) — *Nepřípustnost dovolání Dobré mravy Smlouva o úvěru Neplatnost právního jednání (o. z.)*
+- *NS* [26 Cdo 2455/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1B390F284976E5FC12589AA001A8FAC?openDocument) — *Přípustnost dovolání Smlouva nájemní Neplatnost právních jednání (o. z.) [ Právní jednán…*
+- *NS* [29 Cdo 4819/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63000D20CF5F0E91C12580C1004CA5D7?openDocument) — *Směnečný a šekový platební rozkaz Leasing Smluvní pokuta Směnky*
+- *NS* [33 Cdo 2138/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B56439332355DE3C1258CDF004D1DFE?openDocument) — *Veřejné zakázky*
+- *NS* [33 ICdo 99/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A459F7BEE2B3FB2C1258B0B004D372B?openDocument) — *Přípustnost dovolání Dobré mravy Podnikatel*
+- *NS* [26 Cdo 3076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79303935FEC2568FC12589DB0018287F?openDocument) — *Pachtovní smlouva*
+- *NS* [20 Cdo 536/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA7DF365A151E717C1258B64004D1AC6?openDocument) — *Neplatnost smlouvy Zastavení exekuce*
 
 ### § 434—435 — Provozovna a informační povinnosti
 

@@ -38,6 +38,16 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 - Plod (nasciturus) má **podmíněnou právní osobnost** pro případ živého narození (§ 25 — *nasciturus pro iam nato habetur*).
 - Zvíře nemá právní osobnost (§ 494 — zvíře není věc, ale není ani osoba; jeho ochrana je upravena samostatně).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 6/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E3787E82873E057C125872E00453F6C?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+- *NS* [20 Ncu 7/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF8932E483AA3D2AC12586BC0038F430?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+- *NS* [20 Ncu 149/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B52127D4CB2760EC12586B600235350?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 53/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/114666B32A339AD8C12586400033D005?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+- *NS* [20 Ncu 69/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24187F45D23E4060C125861E0041D1A3?openDocument) — *Popření otcovství*
+- *NS* [29 Cdo 2092/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19B98F27F4D2C6FCC1258900001DEEAF?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
+- *NS* [29 NSCR 5/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9076D3909633D574C125874E00187B9C?openDocument) — *Insolvenční řízení Zastavení řízení Způsobilost být účastníkem řízení*
+
 ---
 
 ### § 16 — Nezcizitelnost právní osobnosti a svéprávnosti
@@ -76,6 +86,11 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 - Smlouva uzavřená „jménem rodiny" — přičte se osobám, které ji uzavřely.
 - Smlouva uzavřená spolkem před formálním vznikem — přičte se zakladatelům.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1007/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/270825AC705AE6BFC1258954001DEDE2?openDocument) — *Svěřenský fond (o. z.) Zástavní právo (o. z.) Přípustnost dovolání*
+- *NS* [27 Cdo 1981/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/385C9D15C260CC15C12585720019B428?openDocument) — *Obchodní rejstřík*
+
 ---
 
 ### § 18 — Dichotomie fyzických a právnických osob
@@ -112,6 +127,11 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 - Nelze platně se vzdát práva na ochranu osobnosti (§ 81—117);
 - Nelze platně sjednat smlouvu o doživotním otroctví;
 - Lze ovšem **dispozit s detailem výkonu** (např. souhlas s lékařským zákrokem, souhlas s pořízením podobizny v určité situaci — § 84, § 87).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — *Zadostiučinění (satisfakce) Ochrana osobnosti*
+- *NS* [25 Cdo 2258/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06264873FDB498FFC1258D460052E0F7?openDocument) — *Zastoupení Dědění Náhrada nemajetkové újmy (o. z.)*
 
 ---
 
@@ -165,6 +185,10 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 - Stát nese **objektivní odpovědnost za nezákonné rozhodnutí / nesprávný úřední postup** (zákon č. 82/1998 Sb.);
 - Stát má **omezenou způsobilost činit některé úkony** bez schválení (např. prodej nemovitostí nad určitou hodnotu vyžaduje schválení vlády).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 697/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAE5B4ABD4054F38C12586CA001843FB?openDocument) — *Žaloba pro zmatečnost Doručování Způsobilost být účastníkem řízení*
+
 ---
 
 ### § 22 — Osoba blízká
@@ -194,6 +218,16 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 § 22 odst. 2 rozšiřuje aplikaci omezení na **vztahy mezi PO a členy statutárního orgánu** nebo dominujícími osobami. To je **anti-fraud klauzule** zabraňující obcházení omezení transakcí s osobami blízkými skrze PO. Příklad:
 - Zákon zakazuje úpadci převést věc na osobu blízkou bez souhlasu insolvenčního správce. § 22 odst. 2 to rozšiřuje i na převod na **s.r.o., jehož jediným společníkem je manžel/manželka úpadce**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 90/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97B7883A1BE00683C1258CE7004D3389?openDocument) — *Insolvenční řízení Právní jednání (o. z.) Zvýhodňování věřitele Přípustnost dovolání Poh…*
+- *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Akciová společnost Společnost s ručením o…*
+- *NS* [29 ICdo 81/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65F9B9F9D73301DFC1258C7C004D5DE7?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Poučovací povinnost soudu*
+- *NS* [25 Cdo 2847/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/05048863DC673407C1258C6C004D39CD?openDocument) — *Přípustnost dovolání Osoba blízká Duševní útrapy (o. z.) [ Náhrada při újmě na přirozený…*
+- *NS* [29 ICdo 136/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9A35694390206130C1258BC50052974B?openDocument) — *Rozsudek pro uznání Incidenční spory (žaloba odpůrčí) Osoba blízká Dokazování Ovládání*
+- *NS* [29 ICdo 157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79A6B71A853614A9C1258BCE0052AEB1?openDocument) — *Incidenční spory (žaloba odpůrčí) Úmysl Dokazování*
+- *NS* [29 ICdo 8/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/967684726585F662C1258B07004D37B0?openDocument) — *Insolvence Odporovatelnost Neúčinnost právního jednání Osoba blízká*
+
 ---
 
 ## Díl 2, Oddíl 1 — Obecná ustanovení o fyzické osobě
@@ -211,6 +245,16 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 - **Prohlášení za mrtvého** (§ 71—79) — fikce smrti s účinky pro dědění, manželství atd.
 
 Právní osobnost je **automatická a nedělitelná** — vzniká samým narozením, není třeba registrace v matrice (registrace je deklaratorní). Ovšem k uplatnění některých práv jsou potřeba **registrační úkony**: rodný list, IČO, pas, OP atd.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2083/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D02AF2341B148C1258D1B004D2A08?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
+- *NS* [24 Cdo 1297/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D225754E41AEB5EC1258B7F004D29C2?openDocument) — *Způsobilost být účastníkem řízení Určení rodičovství Fyzická osoba*
+- *NS* [29 Cdo 1927/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/982A2D41E771FB2AC1258A78001B856E?openDocument) — 30. 8. 2023
+- *NS* [25 Cdo 2669/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DD63398AF946F35C1258683001B7F60?openDocument) — *Zastavení řízení Insolvenční řízení Právní osobnost (o. z.) Dlužník Manželství Společné…*
+- *NS* [27 Cdo 4102/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC72AD42C6971235C125861E0041D8EC?openDocument) — *Podmínky řízení Lhůty Bytové družstvo*
+- *NS* [30 Cdo 207/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFD1957AC494B00C125871000189D4A?openDocument) — *Způsobilost být účastníkem řízení Podmínky řízení Právní nástupnictví Zastavení řízení*
+- *NS* [27 Cdo 697/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAE5B4ABD4054F38C12586CA001843FB?openDocument) — *Žaloba pro zmatečnost Doručování Způsobilost být účastníkem řízení*
 
 ---
 
@@ -381,6 +425,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - § 1845 (spotřebitelská smlouva uzavřená nezletilým — návratová klauzule);
 - § 581 (neplatnost pro nezpůsobilost právně jednat).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
+
 ---
 
 ### § 32 — Souhlas zákonného zástupce s určitým jednáním
@@ -461,6 +509,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - Inspektoráty práce kontrolují dodržování (vysoké pokuty zaměstnavatelům).
 - Rodič může podat **návrh u soudu na zrušení pracovního závazku** nezletilého, který by mu byl k újmě (§ 35 OZ ZP § 56a).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1892/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE5AE0C4B0AE721C1257F1D002B36B5?openDocument) — *Dovolání Exekuce Výklad projevu vůle*
+
 ---
 
 ### § 36 — Negativní omezení samostatného jednání
@@ -519,6 +571,10 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 - Možnost samostatné účasti v řízeních (procesní subjektivita podle § 19 OSŘ).
 
 **Ireverzibilita** — jednou přiznaná svéprávnost se nedá odebrat (analogicky § 30 odst. 2 — ireverzibilita svéprávnosti nabyté manželstvím). Pokud by později došlo k duševní poruše, lze postupovat podle § 55—65 (omezení svéprávnosti) — ale to už je samostatný institut.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 2884/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78A685C0FB550838C1257A4E0066D834?openDocument) — *Právní úkony Převod nemovitostí Převod vlastnictví Zemědělské družstvo*
 
 ---
 

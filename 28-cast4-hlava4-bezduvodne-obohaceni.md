@@ -33,6 +33,16 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - **Na úkor jiného**;
 - → Vznik povinnosti **vydat obohacení**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 86/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF9EA37A1E344E46C1258DCD004D1F13?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 109/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70D36F88DD3C424DC1258DCD004D1EFE?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 2542/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D9F4105D13EE17C1258DCD004D1F42?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.) Bezdůvodné obohacení*
+- *NS* [28 Cdo 247/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D0F37618B7996D2C1258DC200529D84?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení*
+- *NS* [28 Cdo 2283/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2E6A6B5A943D05C1258DBF0052CCEB?openDocument) — *Bezdůvodné obohacení Veřejný statek (o. z.)*
+- *NS* [28 Cdo 2137/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/462339ADF70EB2C7C1258DBF0052CCF7?openDocument) — *Bezdůvodné obohacení Poučovací povinnost soudu Spoluvlastnictví Smlouva*
+- *NS* [28 Cdo 103/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66AD28E0CC9B8683C1258DB90052CAD3?openDocument) — *Bezdůvodné obohacení Veřejný statek (o. z.)*
+
 ### Čtyři klasické typy obohacení (§ 2991 odst. 2)
 
 #### 1) Plnění bez právního důvodu (*condictio indebiti*)
@@ -73,6 +83,13 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - **Darování** (vědomé obohacení druhého);
 - **Obohacení bez úmyslu právně se vázat**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 1172/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43DD4F18EE5EFFE8C1258B5D004D2EC0?openDocument) — *Bezdůvodné obohacení Vady řízení*
+- *NS* [23 Cdo 82/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F457B462FAC806CC12585C200188B8A?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 725/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0F74CCC94AB3708C1258ADB001B8710?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 5089/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EA6C6D45FFD6D39C125826400255FE7?openDocument) — *Bezdůvodné obohacení*
+
 ### § 2993 — Plnění bez platného závazku
 
 > Plnila-li strana, aniž tu byl platný závazek, má právo na vrácení toho, co plnila. Plnily-li obě strany, může každá ze stran požadovat, aby jí druhá strana vydala, co získala; právo druhé strany namítnout vzájemné plnění tím není dotčeno. To platí i v případě, byl-li závazek zrušen.
@@ -81,11 +98,31 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - Při **neplatné** nebo **zrušené smlouvě** → každá strana vrací **co dostala**;
 - **Námitka vzájemného plnění** (*exceptio non adimpleti contractus*) — strana může odepřít vrácení, dokud druhá nesplní.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1751/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32F74AFFBD9BAE9C1258AF4004C926D?openDocument) — *Bezdůvodné obohacení*
+- *NS* [23 Cdo 3429/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA137CE8C292013BC12589CC00181174?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení*
+- *NS* [33 Cdo 2693/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/624073AA3B006197C12588AB00194923?openDocument) — *Bezdůvodné obohacení Vzájemný návrh Odstoupení od smlouvy*
+- *NS* [33 Cdo 3788/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FAE862162573B96CC125871100187F59?openDocument) — *Smlouva o úvěru Přípustnost dovolání Bezdůvodné obohacení Dobré mravy*
+- *NS* [33 Cdo 1155/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58FC5A491646006EC1258703001870BC?openDocument) — *Přípustnost dovolání Bagatelnost Bezdůvodné obohacení*
+- *NS* [33 Cdo 1383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE07DE9197251D60C1258C62004D3232?openDocument) — *Zastoupení Bezdůvodné obohacení*
+- *NS* [20 Cdo 1708/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FC87948E0C54A5C1258A3300160E5D?openDocument) — *Zadržovací právo Vzájemné plnění Zastavení exekuce*
+
 ### § 2994 — Bezdůvodné užívání
 
 > Dal-li někdo neoprávněně věc k užívání nebo požívání jinému, aniž ten byl v dobré víře, má vlastník nebo spoluvlastník věci vůči uživateli nebo poživateli právo na náhradu.
 
 **Případ neoprávněného propůjčení** — vlastník má nárok na náhradu vůči **nedobrověrnému uživateli**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 276/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/596005DA9C654724C1258C98004D4F68?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 3476/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E83810B78AB3DD69C1258C83004D1DEB?openDocument) — *Dobrá víra Bezdůvodné obohacení*
+- *NS* [29 Cdo 2999/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4078246A94708DADC1258675001F7494?openDocument) — *Konkurs Žaloba vylučovací (excindační) Bezdůvodné obohacení Úschova*
+- *NS* [26 Cdo 2731/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0F3392C9354E08DC1258D850052C82D?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 384/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52B640637FB5564DC1258D2D004D1D09?openDocument) — *Bezdůvodné obohacení Dobrá víra Bytová náhrada*
+- *NS* [26 Cdo 731/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77BE872B3E2B2BDBC1258CAF004D1E83?openDocument) — *Bezdůvodné obohacení Přípustnost dovolání*
+- *NS* [26 Cdo 3353/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D2A5E2ED2305ADC8C1258C580052A2AE?openDocument) — *Bezdůvodné obohacení Podnájem*
 
 ### § 2995—2998 — Specifické situace
 
@@ -113,6 +150,16 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - **Výjimky**: lest, hrozba, závislost, nesvéprávnost.
 
 **§ 2998 — Nezákonný účel**: pokud někdo plnil **za účelem zakázaným nebo nemožným** → **bez práva** na vrácení. **Výjimka**: kdo plnil **k zabránění protiprávnímu činu** (např. úplatek policistovi k odhalení korupce).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 440/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C8B81EB1D0FDAABC1258A4C00160170?openDocument) — 9. 8. 2023
+- *NS* [28 Cdo 1374/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/92B6A4BDE45BC5EEC1258A3400160DFE?openDocument) — *Bezdůvodné obohacení*
+- *NS* [33 Cdo 2502/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19A93D4F81AE4B99C12589CB00182A29?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská Bezdůvodné obohacení*
+- *NS* [30 Cdo 3514/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3101D31661A9133CC1258839002C1F52?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 1962/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB2B229AC556CD3FC1258799001E23A5?openDocument) — *Bezdůvodné obohacení*
+- *NS* [28 Cdo 354/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C54C1C1142C591F3C125861E0041D7D2?openDocument) — *Bezdůvodné obohacení Dokazování Smlouva darovací*
+- *NS* [28 Cdo 1991/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/439B5A285C4AC87CC12586000018AA15?openDocument) — *Bezdůvodné obohacení Břemeno důkazní*
 
 ### § 2999—3002 — Výše náhrady
 
@@ -158,6 +205,16 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - Náhradu za **užitek, který by ochuzený byl získal**;
 - **Speciální pravidlo pro zásah do osobnosti** (odst. 2): **dvojnásobek obvyklé odměny** za udělení souhlasu (typicky neoprávněné použití fotografie, jména, podoby).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1311/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B8372607C8C0592C12588FF001FB6F7?openDocument) — *Odstoupení od smlouvy*
+- *NS* [28 Cdo 1579/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BFE1EF07CDBF6D5C125875C0018B2C7?openDocument) — *Bezdůvodné obohacení Obec Pozemní komunikace*
+- *NS* [20 Cdo 1373/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/834EB721F7D5196FC125837D0022217E?openDocument) — *Bezdůvodné obohacení Započtení pohledávky Zastavení exekuce*
+- *NS* [26 Cdo 2323/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/270F937A88FABC0EC125829B003C6FD1?openDocument) — *Bezdůvodné obohacení Nájem bytu Náklady řízení*
+- *NS* [26 Cdo 3067/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417DD8C28D8B60CEC1258D870052C801?openDocument) — *Přípustnost dovolání Nájemné Bezdůvodné obohacení*
+- *NS* [28 Cdo 2917/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/188777B1BCB7D873C1258D680052DAD3?openDocument) — *Náhradní pozemek Bezdůvodné obohacení*
+- *NS* [28 Cdo 2638/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D65ED802B62DB5EBC1258D560052D477?openDocument) — *Bezdůvodné obohacení Náklady řízení*
+
 ### § 3005 — Náklady obohaceného
 
 > Kdo předmět bezdůvodného obohacení vydává, má právo na náhradu nutných nákladů, které na věc vynaložil, a může od věci oddělit vše, čím ji na svůj náklad zhodnotil, je-li to možné bez zhoršení podstaty věci.
@@ -192,6 +249,11 @@ Obohacený, který vydává předmět, má právo na:
 - Zavolat sanitku k cizímu zraněnému;
 - Postavit hráz proti záplavě sousedního pozemku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1746/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0878639CAC3FBA7C1258805001B7BF9?openDocument) — *Přípustnost dovolání Jednatelství bez příkazu Smlouva o zápůjčce (mutuum) (o. z.)*
+- *NS* [33 Cdo 1850/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E6B35330398C559C12583F00017FBED?openDocument) — *Jednatelství bez příkazu*
+
 ### § 3008 — Záchrana cizí věci
 
 > Osobě, která zachrání cizí věc od nevyhnutelné ztráty nebo zkázy, náleží přiměřená odměna, nanejvýš desetina ceny věci, a náhrada účelně vynaložených nákladů. Vlastník věci se povinnosti k úhradě zbaví, nepožaduje-li zachráněnou věc nazpět.
@@ -219,6 +281,10 @@ Obohacený, který vydává předmět, má právo na:
 - **Není-li užitek převažný**: nárok **odpadá**; navíc poškozený může žádat **obnovení stavu nebo náhradu škody**.
 
 **Praktický příklad**: oprava cizího auta, aniž majitel požádal — pokud "rozumný" majitel by to chtěl → náhrada; pokud ne → bez náhrady + zaplatí škodu za neoprávněnou opravu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1850/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E6B35330398C559C12583F00017FBED?openDocument) — *Jednatelství bez příkazu*
 
 ### § 3010—3011 — Společná ustanovení
 

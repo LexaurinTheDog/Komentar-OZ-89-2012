@@ -38,6 +38,16 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 **Předmět závazku**: jakékoliv plnění (*prestatio*) — peněžité, naturální, konání (*dare*, *facere*), zdržení se (*non facere*), trpění (*pati*).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1765/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44BC156B78888AA2C1258C180052DBEB?openDocument) — *Zastavení exekuce Zánik závazku*
+- *NS* [27 ICdo 103/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2DE30299CEE41C81C12589FD002D332D?openDocument) — *Cenný papír na řad [ Cenné papíry ] Pohledávka Postoupení pohledávky Neúčinnost právního…*
+- *NS* [21 Cdo 2061/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3309C001284EF5AC1258848002C0F1E?openDocument) — *Právní jednání (o. z.) Pracovněprávní vztahy*
+- *NS* [33 Cdo 156/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D8E45712CFF60F0C12584CF001E5670?openDocument) — *Započtení pohledávky Přechodná (intertemporální) ustanovení*
+- *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+- *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
+- *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+
 ### § 1722 — Obsah závazku
 
 > Plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový.
@@ -45,6 +55,11 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Dva požadavky**:
 1. **Majetková povaha plnění** (rozhraní mezi občanskou a rodinněprávní obligací);
 2. **Zájem věřitele** — může být i **nemajetkový** (např. zájem na splnění estetického standardu, na termínu, na osobním výkonu konkrétní osoby).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 3447/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27DBDCFE23A7BD24C1258B8E004D41A1?openDocument) — *Smlouva příkazní Odpovědnost za vady*
+- *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
 
 ### § 1723 — Vznik závazku
 
@@ -54,6 +69,11 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 1. **Ze smlouvy** (*ex contractu*) — § 1724 a násl.;
 2. **Z protiprávního činu** (*ex delicto*) — § 2894 a násl.;
 3. **Z jiné právní skutečnosti** — *ex quasi-contractu* (jednatelství bez příkazu — § 3006; bezdůvodné obohacení — § 2991), *ex lege* (zákonné povinnosti).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3268/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6769B314DDF893D2C125870B001883EB?openDocument) — 14. 4. 2021
+- *NS* [33 Cdo 1261/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD7D6782477841CDC1258A100016179C?openDocument) — *Úplata za plnění (o. z.)*
 
 ---
 
@@ -66,6 +86,13 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 > (1) Smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy.
 
 **Smlouva** (*contractus*) — **dvou- nebo vícestranný** projev shodné vůle. **Princip konsenzu** (*pacta sunt servanda*) — § 3, § 1759.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 352/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C345A1A587029D7C1258D860052994B?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Právní jednání (o. z.)*
+- *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+- *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
+- *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
 
 ### § 1725 — Vznik smlouvy
 
@@ -80,6 +107,15 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 - Volba **formy**.
 
 **Meze**: dobré mravy, veřejný pořádek, ochrana osobnosti, kogentní normy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 3247/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E594226E796D8FD8C12589F80018524E?openDocument) — *Smlouva kupní Převzetí dluhu*
+- *NS* [21 Cdo 1528/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177602E7DFAB5408C12584CC00364263?openDocument) — *Výpověď z pracovního poměru Pracovní poměr Povinnosti zaměstnavatelů Smlouva*
+- *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+- *NS* [33 Cdo 1584/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23CCAB8A359CA552C125876D0018A05E?openDocument) — *Smlouva Smlouva o smlouvě budoucí Nabídka (návrh na uzavření smlouvy) (o. z.)*
+- *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
+- *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
 
 ### § 1726—1729 — Předsmluvní fáze
 
@@ -108,6 +144,16 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 **Klíčový posun**: NOZ uznává **odpovědnost za zmaření jednání** — předtím (1964) prakticky neznámé.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1085/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6722B93FE39828C1258CF3004D38A8?openDocument) — *Předsmluvní odpovědnost (o. z.)*
+- *NS* [25 Cdo 3603/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0772EB8DAC4F26AC1258B44004D4627?openDocument) — *Smluvní pokuta Předsmluvní odpovědnost (o. z.)*
+- *NS* [23 Cdo 3191/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF285E57A996A2FC1258AB5001B7E69?openDocument) — *Předsmluvní odpovědnost (o. z.) Náhrada škody Ušlý zisk*
+- *NS* [25 Cdo 3020/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B441EE3365984059C1258A2F00160DCE?openDocument) — *Předsmluvní odpovědnost (o. z.) Přípustnost dovolání*
+- *NS* [25 Cdo 1938/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/676A3AC83F52FB4DC12589E100182FCD?openDocument) — *Náhrada škody Veřejné zakázky Dobrá víra*
+- *NS* [25 Cdo 2652/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E16B2D9B1B318637C12589A30018BD9E?openDocument) — *Předsmluvní odpovědnost (o. z.)*
+- *NS* [23 Cdo 3306/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA0ACEC482A4B938C125896A001DBC9E?openDocument) — *Předsmluvní odpovědnost (o. z.) Obec*
+
 ### § 1730—1731 — Mlčenlivost a důvěrné informace
 
 **§ 1730**:
@@ -120,6 +166,16 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 >
 Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je zneužít** ani prozradit. **Náhrada škody** + **vydání obohacení**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3791/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1A9E13F4FDB2EE3C1258C4C0052AF7A?openDocument) — *Mzda (a jiné obdobné příjmy) Odměna Smlouva Zastoupení Vady řízení*
+- *NS* [21 Cdo 3066/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C9B16A2F922CED9C12582B1003C7D2D?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí*
+- *NS* [24 Cdo 1749/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8232F75FC541ECBC125864B001DE13C?openDocument) — *Rozhodčí doložka Ochrana spotřebitele Lichva (o. z.) Neplatnost právního jednání (o. z.)…*
+- *NS* [24 Cdo 1090/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44C8319D45CFC752C125861E0041D583?openDocument) — 4. 8. 2020
+- *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+- *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
+- *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
 
 ### § 1737—1739 — Nesoulad vůle a projevu
 
@@ -161,6 +217,16 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **§ 1733 — Návrh veřejnosti**: nabídka více osobám (ne určená konkrétně) = **výzva k podání nabídky** (*invitatio ad offerendum*), ne nabídka sama.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3791/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1A9E13F4FDB2EE3C1258C4C0052AF7A?openDocument) — *Mzda (a jiné obdobné příjmy) Odměna Smlouva Zastoupení Vady řízení*
+- *NS* [33 Cdo 3951/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/743F64AA676D8458C1258255002B9E1C?openDocument) — 23. 1. 2018
+- *NS* [21 Cdo 3066/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C9B16A2F922CED9C12582B1003C7D2D?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí*
+- *NS* [24 Cdo 1749/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8232F75FC541ECBC125864B001DE13C?openDocument) — *Rozhodčí doložka Ochrana spotřebitele Lichva (o. z.) Neplatnost právního jednání (o. z.)…*
+- *NS* [24 Cdo 1090/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44C8319D45CFC752C125861E0041D583?openDocument) — 4. 8. 2020
+- *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+- *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
+
 ### § 1734—1739 — Přijetí nabídky
 
 **§ 1734**:
@@ -192,6 +258,13 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 - **§ 1740 odst. 3 — Akceptace s dodatky/odchylkami**: protinávrh, **ledaže**:
   - Nedohodnuté body byly **nepodstatné**;
   - Předkladatel je **bez zbytečného odkladu neodmítne**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2673/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5A6CA7F04866E3AC12587C1001E88DE?openDocument) — *Přípustnost dovolání Žaloba určovací Nabídka (návrh na uzavření smlouvy) (o. z.)*
+- *NS* [21 Cdo 1528/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177602E7DFAB5408C12584CC00364263?openDocument) — *Výpověď z pracovního poměru Pracovní poměr Povinnosti zaměstnavatelů Smlouva*
+- *NS* [24 Cdo 2779/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08FF091038562E4EC12586AE00185019?openDocument) — *Převodní smlouva Vlastnictví Smlouva kupní Neplatnost právního jednání (o. z.)*
+- *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
 
 ### § 1746—1755 — Smlouva o smlouvě budoucí
 
@@ -241,6 +314,16 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 - **Předmět**: závazek uzavřít **budoucí smlouvu**;
 - **Vymahatelnost**: lze žádat **soudní rozhodnutí nahrazující projev vůle** (§ 161 OSŘ);
 - **Promlčení** nároku: tříletá lhůta.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2151/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54C64D05277B5B81C1258BCB0052C66F?openDocument) — *Přípustnost dovolání Rozhodčí doložka Smlouva*
+- *NS* [28 Cdo 2500/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87A43569032244E1C1258BC0004D18B0?openDocument) — *Přípustnost dovolání Vady podání Smlouva nepojmenovaná (inominátní)*
+- *NS* [33 Cdo 416/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F11D504E556E5BAC12588570019831F?openDocument) — *Leasing Přípustnost dovolání*
+- *NS* [33 Cdo 3279/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42A0F5758A140A60C125867C001E2082?openDocument) — *Přípustnost dovolání Zajištění dluhu (o. z.)*
+- *NS* [33 Cdo 2608/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A53F8838AE4A437C12582E800317F3B?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [25 Cdo 3383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16F1AA04D80FCE7AC1258D840052B0AC?openDocument) — *Smlouva Pojištění Pojištění majetku*
+- *NS* [33 Cdo 1261/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD7D6782477841CDC1258A100016179C?openDocument) — *Úplata za plnění (o. z.)*
 
 ---
 
@@ -332,6 +415,16 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **Asymetrie**: spotřebitel = **slabší strana**; podnikatel = **silnější strana** s vyššími povinnostmi.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2730/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA268F77DA0738A7C1258CFF004D3E69?openDocument) — *Dokazování Spotřebitel Poučovací povinnost soudu Právo na spravedlivé soudní řízení*
+- *NS* [25 Cdo 2977/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F4D59A261F35C31C1258D5B0052A546?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Pojištění Pojištění odpovědno…*
+- *NS* [29 ICdo 193/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED726928562A4084C1258D400052D2B8?openDocument) — *Spotřebitel Smlouva o úvěru Smlouva o půjčce Námitky Směnka Dokazování*
+- *NS* [25 Cdo 2804/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F64446B4522AA05C1258C230052ACDB?openDocument) — *Náhrada škody Náhrada nemajetkové újmy (o. z.) Výklad právních jednání (o. z.) [ Právní…*
+- *NS* [33 Cdo 1767/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EE89584A4276ECDC12585FD0018B212?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [20 Cdo 2764/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C726B862C07FCDC7C12584000017E510?openDocument) — *Exekuce Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [20 Cdo 196/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83778F9C1BD29476C12583FA00180300?openDocument) — *Exekuce Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+
 ### § 1813—1817 — Zákaz zneužívajících ustanovení
 
 **§ 1813**:
@@ -406,6 +499,16 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **Sankce**: ujednání **se nepřihlíží** (≠ neplatné — protože spotřebitel se může účinků dovolat, ale podnikatel ne).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 2380/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C0957175BB57862C1258DD3004D1FA5?openDocument) — *Přípustnost dovolání Smlouva o ubytování*
+- *NS* [33 Cdo 389/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AD847C34C33BAA9C1258C150052AF7C?openDocument) — *Spotřebitel Smlouva o zájezdu (o. z.)*
+- *NS* [33 ICdo 67/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/819753C356CCC7DAC1258B70004D47E3?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o úvěru Spotřebitel*
+- *NS* [33 Cdo 2355/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B29DDD74CE26D52BC12587C6001E4826?openDocument) — 26. 10. 2021
+- *NS* [33 ICdo 77/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5443C421AD7AB09BC12587AE001E7E61?openDocument) — *Smlouva spotřebitelská*
+- *NS* [33 Cdo 3502/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/094550B479895964C1258DAF0052C04D?openDocument) — *Spotřebitel Moderační právo soudu Smluvní pokuta*
+- *NS* [33 Cdo 625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2BCD395FFBBA9A5C1258B84004D3F82?openDocument) — *Smluvní pokuta Spotřebitel*
+
 ### § 1819—1822 — Informační povinnost
 
 **§ 1819**:
@@ -472,6 +575,14 @@ Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 - Trvání smlouvy;
 - Minimální dobu platnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 515/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/59555C661497D44CC1258AD0001B863F?openDocument) — *Smlouva kupní Smlouva spotřebitelská Odstoupení od smlouvy*
+- *NS* [33 Cdo 558/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD0950E128AE5EB1C1258BE80052D971?openDocument) — *Spotřebitel Odstoupení od smlouvy Výpověď smlouvy Ochrana spotřebitele*
+- *NS* [33 Cdo 1217/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F688019F84229772C12586C80016084A?openDocument) — *Spotřebitel Smlouva spotřebitelská Odstoupení od smlouvy Směrnice EU Výklad právních pře…*
+- *NS* [33 Cdo 79/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E215B485F8BEDBFC1258C350052B28B?openDocument) — *Odstoupení od smlouvy Poctivost (o. z.) Spotřebitel*
+- *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
+
 ### Oddíl 2 — Smlouvy uzavírané distančním způsobem a mimo prostory (§ 1820—1851)
 
 **Distanční smlouva** (e-shop, telefon, e-mail) + **mimo obchodní prostory** (návštěvní prodej, výprodej v hotelu):
@@ -489,6 +600,13 @@ Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 
 **§ 1832 — Vrácení peněz** do **14 dnů** od odstoupení.
 **§ 1833 — Vrácení zboží** do 14 dnů od odstoupení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 558/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD0950E128AE5EB1C1258BE80052D971?openDocument) — *Spotřebitel Odstoupení od smlouvy Výpověď smlouvy Ochrana spotřebitele*
+- *NS* [33 Cdo 1217/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F688019F84229772C12586C80016084A?openDocument) — *Spotřebitel Smlouva spotřebitelská Odstoupení od smlouvy Směrnice EU Výklad právních pře…*
+- *NS* [33 Cdo 79/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E215B485F8BEDBFC1258C350052B28B?openDocument) — *Odstoupení od smlouvy Poctivost (o. z.) Spotřebitel*
+- *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
 
 ### § 1837 — Výjimky z práva odstoupit
 
@@ -525,6 +643,11 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 - Rychle kazícím se zboží;
 - Zaplečeném zboží otevřeném (hygiena);
 - Digitálním obsahu (po souhlasu s ihned-stahováním).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 79/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E215B485F8BEDBFC1258C350052B28B?openDocument) — *Odstoupení od smlouvy Poctivost (o. z.) Spotřebitel*
+- *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
 
 ### Oddíl 3 — Vady spotřebitelského zboží (§ 1852—1867)
 
@@ -602,6 +725,16 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 
 **Regresní nárok** (§ 1876): dlužník, který plnil věřiteli, **má vůči ostatním dlužníkům regres** poměrnou částí.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1605/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6527318390CDAFFC1258B44004D4618?openDocument) — *Společnost s ručením omezeným Společník Jednání ve shodě Ovládání Solidarita dlužníků*
+- *NS* [29 Cdo 3005/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/865EB9556A046ACAC1258A79001B857F?openDocument) — *Insolvenční řízení Solidarita věřitelů Majetková podstata*
+- *NS* [33 Cdo 2622/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/685E518142CA96AAC1258906001F891B?openDocument) — *Splnění dluhu*
+- *NS* [33 Cdo 867/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9D89AD83F9347CDC1258A97001B944B?openDocument) — *Solidarita dlužníků Nepřípustnost dovolání subjektivní [ Nepřípustnost dovolání ] Vady p…*
+- *NS* [33 Cdo 3167/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E113008C94647C29C1258A10001617A7?openDocument) — *Rozsudek pro uznání Odpovědnost za vady Solidarita dlužníků*
+- *NS* [28 Cdo 1346/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94EB63BBA85E2AF6C125874D0018678C?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení Společné závazky*
+- *NS* [32 Cdo 2011/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D1B683FBB2D98BAC125864E001DD431?openDocument) — *Přípustnost dovolání Solidarita škůdců*
+
 ---
 
 ## Díl 6 — Změny závazků (§ 1879—1907)
@@ -656,6 +789,16 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 > Zánik závazku nastane splněním, dohodou, započtením, prominutím dluhu, splynutím, výpovědí, odstoupením, dodatečnou nemožností plnění a v některých případech smrtí dlužníka nebo věřitele.
 
 **11 hlavních způsobů zániku**:
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A209820D4C1A03BC1258B9B004D6D3D?openDocument) — *Zánik závazku Odstoupení od smlouvy Smlouva kupní Smlouva nepojmenovaná (inominátní) Pří…*
+- *NS* [33 ICdo 154/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AD879FC39A98938C1258A0B00160D6A?openDocument) — *Spotřebitel Smlouva o úvěru Změna závazku Insolvenční řízení Incidenční spory (odporové…*
+- *NS* [28 Cdo 2829/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4104122DE4F791D7C12587FD001B8AE5?openDocument) — *Splnění dluhu Započtení pohledávky*
+- *NS* [29 ICdo 118/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/857C84CC391BEFB0C12587D6001BE157?openDocument) — *Incidenční spory (žaloba odpůrčí) Splnění dluhu Smlouva kupní*
+- *NS* [29 ICdo 15/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3F0BDE9C5C8CB3BC1258DB00052C078?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Incidenční spory (žaloba odpůrčí)*
+- *NS* [29 Cdo 2797/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D6CEC11C7093BA5C12587D9001B86B6?openDocument) — *Advokacie Povinnost mlčenlivosti Konkurs Majetková podstata Splnění dluhu Náhrada za ztr…*
+- *NS* [29 ICdo 16/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9E596A931BB408EC125883C0017CB89?openDocument) — *Incidenční spory Právní jednání (o. z.) Smlouva o úvěru Majetková podstata Zástavní právo*
 
 ### 1) Splnění (§ 1908—1949)
 
@@ -824,6 +967,16 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 - Méně formální (bez zápisu);
 - Větší rizika pro dlužníka (právní vlastník je věřitel).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2798/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0FEF6C50472C4F93C1258BC0004D192A?openDocument) — *Zajištění závazku převodem práva*
+- *NS* [23 Cdo 2939/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA1F90AC22C86CF7C1258ABA001B7E64?openDocument) — *Příslušnost soudu místní Zajištění závazku převodem práva*
+- *NS* [20 Cdo 3824/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6413C9F7D24B6A2EC12580A3003624ED?openDocument) — *Exekuce Zástavní právo*
+- *NS* [25 Cdo 826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B2F73BE40A156BCC1258DA30052C204?openDocument) — *Zajištění závazku převodem práva Náhrada škody Vlastnictví*
+- *NS* [29 ICdo 147/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766A222F5C654C9DC1258AD6001B86BB?openDocument) — *Incidenční spory (vylučovací žaloba) Žaloba vylučovací (excindační) Majetková podstata U…*
+- *NS* [4 Tdo 168/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFA740460DE6177FC125857F001903AB?openDocument) — 25. 2. 2020
+- *NS* [24 Cdo 2644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FCE8F391F301B665C125842800182779?openDocument) — *Zajištění závazku převodem práva*
+
 ### § 2045—2048 — Dohoda o srážkách ze mzdy
 
 **§ 2045**:
@@ -848,6 +1001,16 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 - Limit: **nikoliv více než ½ čisté mzdy** (§ 2046);
 - Z spotřebitelských smluv: max **¼ čisté mzdy** (od 2024).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 841/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19E6ECD305A357E1C12588920017D74F?openDocument) — *Smluvní pokuta Zástavní právo*
+- *NS* [33 Cdo 3208/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A002A0A1088B2D7EC125882D0015FE33?openDocument) — *Přípustnost dovolání Smlouva o dílo Smluvní pokuta*
+- *NS* [33 Cdo 3849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DA962E29023224CC12586E100184F4B?openDocument) — *Smluvní pokuta Přípustnost dovolání Poučovací povinnost soudu*
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — *Smluvní pokuta Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Pracovněprávní…*
+- *NS* [33 Cdo 671/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/313C12A977BD902CC12582EB00265CBD?openDocument) — *Smluvní pokuta*
+- *NS* [23 Cdo 1171/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2CA37B5FE68A566AC1258DCC004D1F8E?openDocument) — *Smluvní pokuta Moderační právo soudu*
+- *NS* [28 Cdo 2607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81985AA935F06B1EC1258D29004D4749?openDocument) — *Smluvní pokuta*
+
 ### § 2053—2054 — Uznání dluhu
 
 **§ 2053**:
@@ -869,3 +1032,13 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 > - **ÚS sp. zn. III. ÚS 596/19** — k nepřiměřeným klauzulím ve spotřebitelských smlouvách;
 > - **NS sp. zn. 33 Cdo 2782/2019** — k 14dennímu odstoupení od distančních smluv;
 > - **SDEU C-118/17 Dunai** — k zneužívajícím klauzulím (interpretační vlivy na § 1813 OZ).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 140/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6B3E3F9DBBB00700C1258D6F005293D3?openDocument) — *Uznání dluhu Přípustnost dovolání Incidenční spory (odporové spory)*
+- *NS* [23 Cdo 624/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1FD60845F8A7B6AC1258CF8004D26B7?openDocument) — *Přípustnost dovolání Uznání dluhu*
+- *NS* [23 Cdo 203/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B85A5B53730369C5C1258C0300529DBC?openDocument) — *Přípustnost dovolání Uznání dluhu Výklad právních jednání (o. z.) [ Právní jednání (o. z…*
+- *NS* [33 Cdo 3210/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE76E2C02FD3DC9EC1258BAC004D2425?openDocument) — *Uznání dluhu Smlouva nepojmenovaná (inominátní) Přípustnost dovolání*
+- *NS* [23 Cdo 517/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D05A95427216CAFAC1258B84004D3F40?openDocument) — *Přípustnost dovolání Uznání dluhu*
+- *NS* [23 Cdo 3661/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766353D995C528B2C1258B39004D42E9?openDocument) — *Přípustnost dovolání Uznání dluhu*
+- *NS* [33 Cdo 2882/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F8E8D5F41EB4A04C1258B17004D4E0C?openDocument) — *Uznání dluhu*

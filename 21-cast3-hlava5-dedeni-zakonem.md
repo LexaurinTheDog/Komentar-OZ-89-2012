@@ -46,6 +46,16 @@
 
 **Pozn.**: Pozůstalost je v období mezi smrtí zůstavitele a potvrzením dědictví v zvláštním právním stavu — *hereditas iacens* (ležící pozůstalost). Spravuje ji buď dědic, nebo správce pozůstalosti (§ 1556).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2900/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D63850E58D9F88BC1258D8E0052B027?openDocument) — *Bezdůvodné obohacení Dědictví (o. z.) Nepominutelný dědic (o. z.)*
+- *NS* [25 Cdo 121/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EFAF22603BEF283C1258AAC001B7FA3?openDocument) — *Ochrana osobnosti Přípustnost dovolání*
+- *NS* [30 Cdo 89/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA53C7BBCDF187F3C125816B003C2CC6?openDocument) — *Odpovědnost státu za škodu Nemajetková újma (o. z.) Exekuce*
+- *NS* [24 Cdo 2512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66658A476CEDFE4EC1258BD90052AD07?openDocument) — *Smlouva kupní Pozůstalost (o. z.) Aktiva Převod nemovitostí Závěť*
+- *NS* [25 Cdo 1630/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/976E863FFA729E8DC1258ADD0026A09E?openDocument) — *Dědic zákonný Nemajetková újma (o. z.) Odpovědnost za škodu způsobenou provozem dopravní…*
+- *NS* [27 Cdo 1339/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C541C3765547B19AC1258AC6001B8745?openDocument) — *Obecně prospěšná společnost Právní nástupnictví Dědické právo (právo na pozůstalost) (o.…*
+- *NS* [25 Cdo 2983/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E9E2A0377C5FE54C1258800001B8AFF?openDocument) — *Ochrana osobnosti Náhrada škody Dědění*
+
 ### § 1476 — Dědické tituly
 
 > Dědí se na základě dědické smlouvy, ze závěti nebo ze zákona. Tyto důvody mohou působit i vedle sebe.
@@ -83,6 +93,13 @@
 
 **§ 1480** — **Zákaz dispozice budoucím dědickým právem** — pouze možnost **zříci se** smlouvou se zůstavitelem (§ 1484). Mezi živými nelze postoupit/prodat.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2655/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E2B253B54B51771BC1258D8C005285E4?openDocument) — *Dědické řízení Dědění*
+- *NS* [24 Cdo 2562/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5A15C95E8EF5E14C1258AA6001B8453?openDocument) — *Pozůstalost (o. z.) Vypořádání SJM*
+- *NS* [21 Cdo 382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DD17CDD69AEE31BC125880E001B7BA2?openDocument) — *Úschova Dědické řízení Dědictví (o. z.) Vlastnictví Vydržení Dobrá víra*
+- *NS* [29 Cdo 3782/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA813B0B9712D3EDC125887E0017DA96?openDocument) — 28. 4. 2022
+
 ### § 1481—1483 — Dědická nezpůsobilost
 
 **§ 1481**:
@@ -107,6 +124,16 @@
 
 **§ 1483 — Reprezentační princip**: **potomci** vyloučeného dědice nastupují na jeho místo (kromě případu domácího násilí dle § 1482/1).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2962/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EED7CF4F3BF62FDC1258DB80052845F?openDocument) — *Dědická nezpůsobilost Břemeno důkazní Dovolací důvody Dokazování*
+- *NS* [24 Cdo 2432/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C159AA6B03C0E12DC1258D6E0052C6D7?openDocument) — *Přípustnost dovolání Dědická nezpůsobilost*
+- *NS* [24 Cdo 2579/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B08455FE2C434C74C1258D540052770B?openDocument) — *Dovolací důvody Dědická nezpůsobilost*
+- *NS* [24 Cdo 669/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF2E4A0603728325C1258C8B004D446A?openDocument) — *Dědická nezpůsobilost*
+- *NS* [24 Cdo 565/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D449477146E6FD4C1258C6C004D396D?openDocument) — *Přípustnost dovolání Pozůstalost (o. z.) Dědická nezpůsobilost*
+- *NS* [24 Cdo 2967/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A71A483446A70D5FC12588910017D6FD?openDocument) — *Dědická nezpůsobilost Výživné Dobré mravy*
+- *NS* [24 Cdo 106/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D278E729B22E6AA3C125873B00160418?openDocument) — *Dědická nezpůsobilost*
+
 ### § 1484 — Zřeknutí se dědického práva (předem)
 
 > (1) Dědického práva se lze předem zříci smlouvou se zůstavitelem; není-li jinak ujednáno, působí zřeknutí i proti potomkům.
@@ -117,6 +144,10 @@
 - Lze se zřeknout **jen práva na povinný díl** (= zůstává právo z dědické posloupnosti).
 
 **Forma**: **veřejná listina** (notářský zápis). Zrušení postačí v písemné formě.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1323/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1E272A07D4AA5E2C1258CC9004D4CF1?openDocument) — *Zřeknutí se dědického práva (o. z.) Výklad právních jednání (o. z.) [ Právní jednání (o.…*
 
 ### § 1485—1489 — Odmítnutí dědictví
 
@@ -151,6 +182,13 @@
 - **Nepominutelný dědic** může odmítnout s **výhradou povinného dílu**.
 
 **§ 1488** — Smrt dědice před uplynutím lhůty → právo odmítnout **přechází na jeho dědice**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2262/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A78F850AF1D1670EC12584B5001EA5B7?openDocument) — *Dědění*
+- *NS* [24 Cdo 2882/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB8608CBA4ADBF4CC1258950001E3DCF?openDocument) — *Dědění Lhůty*
+- *NS* [24 Cdo 1375/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B016D0E3272B35EC1258B7E004D27D6?openDocument) — *Dědická nezpůsobilost*
+- *NS* [24 Cdo 2832/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/071DC1D738E8C6D0C12583B0003A6BB2?openDocument) — *Pozůstalost (o. z.) Řízení o dědictví Právní jednání (o. z.)*
 
 ### § 1490 — Vzdání se dědictví
 
@@ -196,6 +234,16 @@
 
 **Princip favorabilní interpretace** (*favor testamenti*): závěť se vykládá **maximálně ve prospěch vůle zůstavitele** — soud má jít „za" doslovný text k pravé vůli (*voluntas testatoris*).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1288/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F0B31CBE66E26FDC1258CBB004D4CD8?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Závěť ho…*
+- *NS* [24 Cdo 750/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11342396085DE5B1C12587650018D21C?openDocument) — *Výklad projevu vůle Závěť*
+- *NS* [24 Cdo 2328/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FE556E08FEA2C64C1258D560052D3DE?openDocument) — *Závěť holografní [ Závěť ] Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Vý…*
+- *NS* [24 Cdo 3676/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39138BD7BE76186CC1258AF9004D0372?openDocument) — *Přípustnost dovolání Závěť Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [24 Cdo 3641/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/580D2325B3DFBF22C12588130015FE0F?openDocument) — *Závěť holografní [ Závěť ]*
+- *NS* [24 Cdo 803/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE8078EECF390C92C1258CAF004D1ED9?openDocument) — 29. 5. 2025
+- *NS* [24 Cdo 2343/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F4D3B61B19F2F69C1258BD300527FEA?openDocument) — *Pozůstalost (o. z.) Závěť Dobré mravy Vydědění Účastníci řízení Dědické řízení Nepominut…*
+
 ### § 1495—1497 — Další pravidla
 
 **§ 1495**:
@@ -213,6 +261,10 @@
 - **Odkazy** (legáty);
 - **Podmínky, doložky času, příkazy**;
 - Účinky závěti se na něj **použijí obdobně**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2007/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D5D75C0FE912FE0C1258BB3004D3AF2?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Právní jednání (o. z.) Závěť*
 
 #### Připadnutí pozůstalosti (§ 1499—1502)
 
@@ -525,6 +577,16 @@
 - **Reprezentační princip**: potomci nastupují na místo zemřelých předchůdců (§ 1635/2, § 1637/2);
 - **Šest tříd ≠ 4 jako 1964** — výrazné rozšíření dědického okruhu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2860/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/299D285E30D8B6C6C1258D920052B56D?openDocument) — *Společná domácnost Dědické právo (právo na pozůstalost) (o. z.) Přípustnost dovolání*
+- *NS* [24 Cdo 2077/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB55C77705247DC9C1258D5D0052A916?openDocument) — *Přípustnost dovolání Pozůstalost (o. z.)*
+- *NS* [24 Cdo 2070/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4EAAC021778A62AC1258D490052C075?openDocument) — *Přípustnost dovolání Dědické právo (právo na pozůstalost) (o. z.) Ochrana oprávněného dě…*
+- *NS* [24 Cdo 947/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/320BFAEBA49021CFC1258C9F004D1E06?openDocument) — *Přípustnost dovolání Společná domácnost*
+- *NS* [24 Cdo 116/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EED0F219A393A17C1258B38004D42E6?openDocument) — *Dědické třídy (o. z.) Dědění Zákonná dědická posloupnost k pozůstalosti (o. z.)*
+- *NS* [24 Cdo 1005/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFC16A1A3061DB89C1258B2A004D2B0B?openDocument) — *Dědění Společná domácnost Dovolací důvody*
+- *NS* [24 Cdo 307/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBBFB1ACCE8C7983C1258B0E004D374A?openDocument) — *Společná domácnost Dědění Dědic zákonný Dobré mravy*
+
 ### § 1641 — Několikeré příbuzenství
 
 > Je-li někdo se zůstavitelem příbuzný z více než z jedné strany, má z každé strany dědické právo, které by mu náleželo jako příbuznému z této strany.
@@ -563,6 +625,14 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 - Zákonný podíl dítěte v 1. třídě (s manželkou): ½;
 - Povinný díl dítěte: ¼ × ½ = **1/8 pozůstalosti**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2836/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20D2940D1279994CC125852C001F7A51?openDocument) — *Dovolání Přípustnost dovolání Nepominutelný dědic (o. z.) Povinný díl z pozůstalosti (o.…*
+- *NS* [24 Cdo 3079/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C57516FC50DDE4D6C1258BEE0052C910?openDocument) — *Vydědění Nepominutelný dědic (o. z.) Povinný díl z pozůstalosti (o. z.) Nepřípustnost do…*
+- *NS* [24 Cdo 2468/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40E7E90036F0DAC7C1258BA9004D24DD?openDocument) — *Přípustnost dovolání Vydědění Závěť Dokazování Nepominutelný dědic (o. z.) Povinný díl z…*
+- *NS* [24 Cdo 2917/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C1EAE8E392A3E87C12588520017F320?openDocument) — *Žaloba určovací Pozůstalost (o. z.)*
+- *NS* [21 Cdo 4392/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B71AEA35883EAB9C12583210026638D?openDocument) — *Pozůstalost (o. z.) Účastníci řízení Nepominutelný dědic (o. z.) Vydědění Závěť*
+
 ### Oddíl 2 — Vydědění (§ 1646—1649)
 
 ### § 1646 — Důvody vydědění
@@ -592,6 +662,16 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **§ 1648** — Forma vydědění: **stejná jako závěť** (vlastnoruční, allografická, veřejná listina); v praxi **doporučena veřejná listina**.
 
 **§ 1649** — Mlčící vydědění: pokud zůstavitel **v závěti pominul** nepominutelného dědice (ne zcela jen v rámci dispozice), nepokládá se to za vydědění — povinný díl trvá.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2154/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AD6BF70F75A3551C1258BD40052AF85?openDocument) — *Vydědění*
+- *NS* [24 Cdo 1146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED4D76C6C6250510C1258B4E004D17C8?openDocument) — *Vydědění Žaloba určovací*
+- *NS* [24 Cdo 811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52C155DB1A69A887C1258B12004D4E27?openDocument) — *Vydědění Přípustnost dovolání*
+- *NS* [24 Cdo 2823/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB2CDCBCA975F4DEC1258A75001B8506?openDocument) — *Pozůstalost (o. z.) Vydědění Dědické řízení Nepominutelný dědic (o. z.)*
+- *NS* [24 Cdo 1503/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26ADB606744096C7C12588C80017C6E0?openDocument) — *Přípustnost dovolání Vydědění*
+- *NS* [24 Cdo 2440/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5442CBEE79C34959C12587F7001B8AA7?openDocument) — *Vydědění*
+- *NS* [24 Cdo 1482/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EA82DB75CB001C7C1258CE5004D343C?openDocument) — *Dědění Vydědění*
 
 ### Oddíl 3 — Ochrana nepominutelného dědice (§ 1650—1654)
 
@@ -662,6 +742,10 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 - **Přijmout** dědictví (mlčky, jednáním);
 - **Odmítnout** dědictví (§ 1485);
 - **Přijmout s výhradou soupisu** (omezené ručení — § 1674).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DD17CDD69AEE31BC125880E001B7BA2?openDocument) — *Úschova Dědické řízení Dědictví (o. z.) Vlastnictví Vydržení Dobrá víra*
 
 ### § 1674—1684 — Výhrada soupisu
 
@@ -747,6 +831,16 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 2. Soud nařídí **soupis pozůstalosti** (notář / odhadce);
 3. Dědic odpovídá za dluhy **jen do výše soupisné ceny**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [6 Tdo 415/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1AF0F6AE685E4F02C1258CDF004D1C5A?openDocument) — *Krádež Hodnocení důkazů Subsidiarita trestní represe Zásada teritoriality*
+- *NS* [24 Cdo 3295/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C879340419C037BEC1258B4D004D0070?openDocument) — *Správce pozůstalosti (o. z.)*
+- *NS* [24 Cdo 111/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D1E5593780796B4C12589D10019E611?openDocument) — *Prostá správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Správce pozůstalo…*
+- *NS* [20 Cdo 387/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/472A4EF65810599CC12585FF0018A02D?openDocument) — *Výkon rozhodnutí Výhrada soupisu Právní nástupnictví*
+- *NS* [24 Cdo 829/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEC0648EB9F10A24C1258D20001607B9?openDocument) — *Úschova Řízení o úschovách Pozůstalost (o. z.) Správce pozůstalosti (o. z.)*
+- *NS* [24 Cdo 1057/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8718AF25E3AB1ECC1258A86001B8505?openDocument) — *Závěra pozůstalosti (o. z.) [ Pozůstalost (o. z.) ]*
+- *NS* [28 Cdo 2243/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/452B775C2426DE13C1258A83001B8665?openDocument) — *Bezdůvodné obohacení Pozůstalost (o. z.)*
+
 ### Oddíl 2 — Správa pozůstalosti (§ 1677—1690)
 
 - **§ 1677—1684** — Správa do potvrzení dědictví (správce pozůstalosti, exekuce, soupis);
@@ -776,6 +870,10 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **Zcizení dědictví** (*venditio hereditatis*) — prodej **celého dědického podílu** (ne jednotlivých věcí) **jiné osobě**.
 
 **Forma**: písemná, **veřejná listina** u dědictví obsahujícího nemovitost.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29C15D0DB041DED5C1258C4500529B79?openDocument) — 20. 2. 2025
 
 ### § 1715—1720 — Účinky
 

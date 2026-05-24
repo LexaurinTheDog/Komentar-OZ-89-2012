@@ -85,6 +85,16 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - **Hlasování proti zájmu korporace** s cílem získat osobní výhodu (např. blokování fúze, která je výhodná, aby se mohl odkoupit podíl levněji);
 - **Šikana** menšinových členů hlasem většinového.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1602/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/816A65532AA3ACE4C1258B6F004D1989?openDocument) — *Přípustnost dovolání Jednatel Společník*
+- *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Rozhodnutí o rozdělení zisku [ Zis…*
+- *NS* [27 Cdo 2414/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6404D90C5680D160C1258A74001B84E0?openDocument) — *Přípustnost dovolání Spolek (o. z.)*
+- *NS* [27 Cdo 1753/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F507B2C1F3EF0DBC1258C9D004D3C44?openDocument) — *Kvalifikovaný akcionář [ Akcionář ] Akciová společnost Zneužívání výkonu práv a povinnos…*
+- *NS* [27 Cdo 698/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE6DBB8E94271008C1258C62004D3181?openDocument) — *Zájmové sdružení právnických osob Usnesení valné hromady (neplatnost) Korporační loajali…*
+- *NS* [26 Cdo 3887/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B572D8F561121D6C1258C0800529D58?openDocument) — *Přípustnost dovolání Společenství vlastníků jednotek*
+- *NS* [26 Cdo 751/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CB3F5AAFDEBAB23C12585D50015FAE4?openDocument) — *Společenství vlastníků jednotek Spojení věcí ke společnému řízení*
+
 ### § 213 — Derivativní žaloba
 
 > Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
@@ -135,6 +145,12 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 **§ 214 odst. 2 — svaz spolků**: pokud více spolků vytvoří nový spolek jako svůj svaz (typicky střechová organizace), musí to být v názvu vyjádřeno („svaz", „asociace", „unie"). Příklad: Český svaz tělovýchovy a sportu (ČSTV).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3150/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55B66445D61A5DB1C1258923001E1510?openDocument) — *Zájmové sdružení právnických osob Spolek (o. z.)*
+- *NS* [26 Cdo 674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0870C972AEBA33BC1258BC1004D18E0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
+
 #### § 215 — Dobrovolnost a vyloučení ručení
 
 > (1) Nikdo nesmí být nucen k účasti ve spolku a nikomu nesmí být bráněno vystoupit z něho.
@@ -148,6 +164,14 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 **§ 215 odst. 2 — separace odpovědnosti**: členové **neručí** za dluhy spolku. To je klíčový rozdíl od osobních obchodních společností (v.o.s., k.s.), kde komplementáři / společníci ručí celým majetkem. Spolek funguje jako **omezeně-odpovědný útvar**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3155/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B723F4646159465C1258954001DED5B?openDocument) — *Spolek (o. z.)*
+- *NS* [27 Cdo 3842/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DDFF85CF8B5D218C12587E9001B8C36?openDocument) — *Spolek (o. z.)*
+- *NS* [27 Cdo 2801/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9951647BB95ED20C1258675001B7F89?openDocument) — *Spolek (o. z.) Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 1644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/578EE67D7800BC9DC125857B0018FEFB?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
+
 #### § 216 — Název spolku
 
 > Název spolku musí obsahovat slova „spolek" nebo „zapsaný spolek", postačí však zkratka „z. s.".
@@ -155,6 +179,10 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 **Výklad:**
 
 Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora znaků). Příklad: „Sokol Praha 1, z. s."
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3814/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12890EBEC43E4EBAC12585650018BCBA?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
 
 #### § 217 — Hlavní a vedlejší činnost
 
@@ -180,6 +208,10 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 - Spolek nemůže primárně podnikat (např. spolek-prodejce zboží) — pak je to obcházení zákona, vede k zrušení (§ 268 odst. 1 písm. b)).
 
 **Zákaz rozdělování zisku** (odst. 3) — fundamentální rozdíl od obchodních korporací. Spolek je **non-profit organizace**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0870C972AEBA33BC1258BC1004D18E0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
 
 ### Založení spolku
 
@@ -213,6 +245,12 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 § 219—221 doplňují: **pobočný spolek** lze založit ve stanovách (§ 219); **druhy členství** (§ 220); **uložení stanov v sídle spolku** (§ 221).
 
 **Forma stanov:** písemná (§ 123 odst. 2 obecně, pro PO).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2801/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9951647BB95ED20C1258675001B7F89?openDocument) — *Spolek (o. z.) Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 1644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/578EE67D7800BC9DC125857B0018FEFB?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
 
 #### § 222—225 — Ustavující schůze
 
@@ -310,6 +348,11 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 - Každý člen (i bývalý) má **právo na výpis o své osobě**;
 - **Uveřejnění** jen se souhlasem všech zapsaných.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3617/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90B04618DDFA4902C1258B4D004D0027?openDocument) — *Spolek (o. z.) Členská schůze [ Spolek (o. z.) ] Usnesení členské schůze (zdánlivost) […*
+- *NS* [27 Cdo 484/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E971553D50F20AB6C125818300524C65?openDocument) — *Zkušební doba Spolek (o. z.) [ Korporace (o. z.) ] Příslušnost soudu věcná Myslivost*
+
 ### Zánik členství
 
 #### § 237 — Způsoby zániku
@@ -318,11 +361,25 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 Členství zaniká **vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1026/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1AF9E5AB7EE3BAC5C1258B40004D430B?openDocument) — *Přípustnost dovolání*
+- *NS* [23 Cdo 69/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A1C62848B28E1D7C12589B700181577?openDocument) — *Přípustnost dovolání*
+- *NS* [23 Cdo 1584/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA880986F96826C1C12587550018A760?openDocument) — *Přípustnost dovolání*
+- *NS* [23 Cdo 3291/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E74803BBB6D2419C12580C0003667DE?openDocument) — *Přípustnost dovolání*
+- *NS* [23 Cdo 304/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4BDC38235F80932C1257FF8001AA40F?openDocument) — *Přípustnost dovolání Náklady řízení*
+- *NS* [25 Cdo 1868/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D12E073743555D07C1258AEC0052991E?openDocument) — *Pozemní komunikace Náhrada nemajetkové újmy (o. z.) Přípustnost dovolání*
+- *NS* [25 Cdo 321/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3CD66489A3D2FF8C12589C3001A841F?openDocument) — *Náhrada nemajetkové újmy (o. z.) Ztížení společenského uplatnění Přípustnost dovolání*
+
 #### § 238 — Zánik pro nezaplacení příspěvku
 
 > Neurčí-li stanovy jinak, zanikne členství, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené spolkem dodatečně ve výzvě k zaplacení, ačkoli byl na tento následek ve výzvě upozorněn.
 
 Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přiměřené dodatečné lhůtě** ve výzvě k zaplacení (s upozorněním na následek).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2402/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E776217632CB1ECC1258A58001B821D?openDocument) — *Exekuce*
 
 #### § 239—242 — Vyloučení a jeho přezkum
 
@@ -352,6 +409,16 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 
 **§ 242 — Soudní přezkum**: ve lhůtě **3 měsíců** od konečného rozhodnutí spolku lze podat **návrh soudu na neplatnost vyloučení**. **Subsidiární maximální lhůta 1 rok** ode dne zápisu zániku členství.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2595/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/112CA2CD5175724EC125883500160F10?openDocument) — *Spolek (o. z.)*
+- *NS* [27 Cdo 3013/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3F1293B1537054DC12583FA00180322?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Občanské sdružení Myslivost*
+- *NS* [27 Cdo 857/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E11C95F2EF735D46C1258D01004D5644?openDocument) — *Právnická osoba Jednání za právnickou osobu (o. z.) Splnění závazku Zájmové sdružení prá…*
+- *NS* [27 Cdo 1841/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FFF423C637A0015EC1258BF00052DAF1?openDocument) — *Odbory*
+- *NS* [29 Cdo 3476/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C37D3314B3DE5FACC1258327003C9B69?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Odvolání Příslušnost soudu věcná Právnická osoba*
+- *NS* [27 Cdo 4173/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BAE95864E02647EC125855F0016034E?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Stanovy Právnická osoba Vady řízení Příslušnost sou…*
+- *NS* [28 Cdo 4916/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F30F041DFF1FCA16C12580DB002B748B?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Občanské sdružení Myslivost*
+
 ### Organizace spolku (§ 243—267)
 
 #### § 243 — Orgány
@@ -360,17 +427,36 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 
 Povinné: **statutární orgán** + **nejvyšší orgán**. Volitelné (podle stanov): kontrolní komise, rozhodčí komise, další. Stanovy mohou pojmenovat libovolně (bez klamavosti).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1239/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D480002BB39C9F1C1258D560052D46A?openDocument) — *Spolek (o. z.) Člen Pracovněprávní vztahy Pracovní poměr Výpověď z pracovního poměru Sta…*
+
 #### § 244 — Typ statutárního orgánu
 
 > Stanovy určí, je-li statutární orgán kolektivní (výbor) nebo individuální (předseda). Neurčí-li stanovy jinak, volí a odvolává členy statutárního orgánu nejvyšší orgán spolku.
 
 Stanovy určí: **kolektivní (výbor)** nebo **individuální (předseda)**. Default voličem: nejvyšší orgán spolku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1270/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA50F447F816A77C125893F001E321B?openDocument) — *Spolek (o. z.) Statutární orgán*
+- *NS* [27 Cdo 5544/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5883D6D74EDC0406C12584B5001EA60D?openDocument) — *Opatrovník Jednání právnických osob Spolek (o. z.) [ Korporace (o. z.) ]*
+
 #### § 245 — Zdánlivá usnesení
 
 > Na usnesení členské schůze nebo jiného orgánu, které se příčí dobrým mravům, nebo mění stanovy tak, že jejich obsah odporuje donucujícím ustanovením zákona, se hledí, jako by nebylo přijato. To platí i v případě, že bylo přijato usnesení v záležitosti, o které tento orgán nemá působnost rozhodnout.
 
 Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti **donucujícím ustanovením zákona**, se hledí, jako by nebylo přijato (zdánlivé právní jednání — § 554). Totéž platí pro usnesení v záležitosti **mimo působnost** daného orgánu (*ultra vires*).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 955/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B452E35C0AFB2A6AC125899400187BDB?openDocument) — *Společnost s ručením omezeným Usnesení valné hromady (zdánlivost) [ Valná hromada ]*
+- *NS* [27 Cdo 3656/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADFE8A0F04290D46C12588820017CB8C?openDocument) — *Akcie Akcionář Akciová společnost Správce konkursní podstaty Obchodní rejstřík*
+- *NS* [27 Cdo 1141/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F840BFB2AD0470E8C125872600189117?openDocument) — *Banky Usnesení valné hromady (zdánlivost) [ Valná hromada ] Veřejný pořádek (o. z.)*
+- *NS* [27 Cdo 2798/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E74B28B734B099C5C12586B4001881C7?openDocument) — *Obchodní rejstřík Notářský zápis*
+- *NS* [26 Cdo 406/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/951F634125279C18C1258AD6001B873E?openDocument) — 13. 12. 2023
+- *NS* [26 Cdo 205/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EF18C4C3B717AFFC12589E90018252B?openDocument) — *Společenství vlastníků jednotek*
+- *NS* [26 Cdo 582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/429F31B23390CAC4C12588D70017C29F?openDocument) — 26. 7. 2022
 
 #### § 246 — Funkční období, kooptace, postup
 
@@ -404,6 +490,10 @@ Default: **členská schůze**. Působnost:
 
 **Pojistka pro neaktivní SO**: pokud je statutární orgán zároveň nejvyšším a nemůže vykonávat působnost déle než **1 měsíc**, může **1/5 členů** svolat shromáždění všech členů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 587/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D7A115E8F2852BBC1258AF4004C9550?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Členská schůze [ Spolek (o. z.) ]…*
+
 #### § 248—251 — Svolávání a účast
 
 > (1) Členskou schůzi svolává k zasedání statutární orgán spolku nejméně jedenkrát do roka.
@@ -430,6 +520,11 @@ Default: **členská schůze**. Působnost:
 
 **§ 251**: **Právo informací**: člen má právo požadovat vysvětlení záležitostí spolku k předmětu zasedání. **Výjimka**: zákonem chráněné informace nebo vážná újma spolku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 810/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8B30F572E875FDFC125846900187382?openDocument) — *Společenství vlastníků jednotek Přípustnost dovolání*
+- *NS* [26 Cdo 778/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02B63BABBFE2B4B4C1258B41004D14E8?openDocument) — *Společenství vlastníků jednotek Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.)…*
+
 #### § 252—254 — Usnášení, zápis
 
 > (1) Členská schůze je schopna usnášet se za účasti většiny členů spolku. Usnesení přijímá většinou hlasů členů přítomných v době usnášení; každý člen má jeden hlas.
@@ -454,6 +549,11 @@ Default: **členská schůze**. Působnost:
 
 **§ 254 — Zápis**: vyhotoví SO **do 30 dnů**. Obsah: kdo svolal, kdy, kdo zahájil, předsedal, činovníci, přijatá usnesení, datum vyhotovení. **Právo nahlížet** mají členové.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2175/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EEEE9CA50B2A043C12587E3001B87B9?openDocument) — 23. 11. 2021
+- *NS* [26 Cdo 1767/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1276307C4701CE6C1258BC1004D18BB?openDocument) — *Společenství vlastníků jednotek*
+
 #### § 255—256 — Dílčí členské schůze a shromáždění delegátů
 
 > Stanovy mohou určit, že se zasedání členské schůze bude konat formou dílčích členských schůzí, případně též, o kterých záležitostech tímto způsobem rozhodnout nelze. Připustí-li stanovy zasedání dílčích členských schůzí, určí rovněž období, v němž se všechna zasedání musí konat. Pro schopnost usnášet se a pro přijímání usnesení se zúčastnění členové a odevzdané hlasy sčítají.
@@ -465,6 +565,10 @@ Default: **členská schůze**. Působnost:
 **§ 255 — Dílčí ČS**: stanovy mohou určit, že ČS se koná **formou dílčích schůzí** (např. v různých městech). Hlasy se **sčítají**.
 
 **§ 256 — Shromáždění delegátů**: pro velké spolky (např. tělovýchovné svazy s tisíci členy). Každý delegát zastupuje **stejný počet členů** (s rozumnou odchylkou).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 587/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D7A115E8F2852BBC1258AF4004C9550?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Členská schůze [ Spolek (o. z.) ]…*
 
 #### § 257 — Náhradní zasedání
 
@@ -485,11 +589,31 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 
 **Aktivní legitimace**: každý člen + osoba se **zájmem hodným právní ochrany**. **Důvod**: rozpor se zákonem nebo stanovami. **Subsidiarita**: jen pokud se nelze dovolat u orgánů spolku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 173/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D71528F2B33AB746C1258C3D0052B368?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Pozvánka na valnou hromadu [ Valná…*
+- *NS* [27 Cdo 1616/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F756D23764A52B78C1258C110052AF18?openDocument) — *Akciová společnost Usnesení valné hromady (neplatnost) [ Valná hromada ]*
+- *NS* [27 Cdo 3381/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C3D4867D7765D76C1258BDB0052AC64?openDocument) — *Občanské sdružení Spolek (o. z.) Usnesení valné hromady (neplatnost) [ Valná hromada ]*
+- *NS* [27 Cdo 3109/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E53C965821112C4BC12588420015FE5E?openDocument) — *Spolek (o. z.)*
+- *NS* [27 Cdo 2873/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/85B03759FFF0D2B1C12587EE001B899D?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Nepřípustnost dovolání objektivní [ Nepřípustnost d…*
+- *NS* [27 Cdo 1176/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9839773820DB3379C12587CE001D7AC0?openDocument) — *Spolek (o. z.) Nejvyšší orgán právnické osoby [ Právnická osoba ] Nepřípustnost dovolání*
+- *NS* [27 Cdo 830/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A442B9EAF1841819C1258690001DF5A2?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ]*
+
 #### § 259 — Lhůta
 
 > Právo dovolat se neplatnosti rozhodnutí zaniká do tří měsíců ode dne, kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět, nejpozději však do jednoho roku od přijetí rozhodnutí.
 
 **3 měsíce** od vědomosti (nebo možnosti dozvědět se) o rozhodnutí. **Subsidiární maximum 1 rok** od přijetí rozhodnutí. **Prekluzivní lhůty** — po uplynutí právo zaniká.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EDA1F8F1F565380C1258DA40052D9B2?openDocument) — *Lhůta prekluzivní [ Lhůty ] Usnesení valné hromady (neplatnost)*
+- *NS* [27 Cdo 1126/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E441F3F2E54FDEA8C1258CE1004D1C32?openDocument) — *Lhůta prekluzivní [ Lhůty ] Spolek (o. z.)*
+- *NS* [27 Cdo 2064/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/214FE64ADF125D9AC1258BE00052DB62?openDocument) — 13. 11. 2024
+- *NS* [27 Cdo 3028/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93E4B1238D48E365C12588660017B05C?openDocument) — *Lhůta prekluzivní [ Lhůty ] Usnesení členské schůze (neplatnost) [ Družstvo ]*
+- *NS* [27 Cdo 2027/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C6DB22CC24F1CB1C12585410019BA75?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Lhůty Spolek (o. z.) [ Ko…*
+- *NS* [29 Cdo 1817/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CDDE3F8B3BD338FCC12580A400410B0A?openDocument) — *Zpětvzetí návrhu na zahájení řízení Stanovy Korporace (o. z.) Družstvo*
+- *NS* [27 Cdo 3187/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DBB75D53BB8D703C1258DA400367A32?openDocument) — *Spolek (o. z.) Vady podání*
 
 #### § 260 — Důvody nevyslovení neplatnosti
 
@@ -503,9 +627,23 @@ Soud neplatnost **nevysloví**:
 
 Tato pravidla **vyvažují legalitu a stabilitu** vnitřní organizace spolku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20C71CD7526A757AC1258DA90052AA27?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Valná hromada Vyloučení společníka*
+- *NS* [27 Cdo 2642/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEA9B5B59F520CF1C1258D23004D294E?openDocument) — *Usnesení valné hromady (protest) [ Valná hromada ] Společnost s ručením omezeným Usnesen…*
+- *NS* [27 Cdo 700/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/148575D57548BB60C1258C89004D43EB?openDocument) — *Spolek (o. z.) Členská schůze [ Spolek (o. z.) ]*
+- *NS* [27 Cdo 2412/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A75426F02544A4EC1258C74004D260E?openDocument) — *Spolek (o. z.) Pobočný spolek (o. z.) [ Korporace (o. z.) ] Vyloučení společníka*
+- *NS* [27 Cdo 3451/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9A6E48BAF1DCF0DC1258C69004D30FE?openDocument) — *Valná hromada Pozvánka na valnou hromadu [ Valná hromada ] Usnesení valné hromady (nepla…*
+- *NS* [27 Cdo 1395/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F719CA4786551971C1258BE00052DB81?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Usnesení valné hromady (protest) […*
+- *NS* [27 Cdo 2766/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6544857CD0181EFC1258B25004D4269?openDocument) — *Usnesení členské schůze (neplatnost) [ Družstvo ] Usnesení členské schůze (zdánlivost) […*
+
 #### § 261 — Přiměřené zadostiučinění
 
 Při **závažném porušení základního členského práva** má člen právo na **přiměřené zadostiučinění** (peněžitá náhrada nemajetkové újmy). Lhůta: stejná jako pro neplatnost rozhodnutí (3 měsíce / 1 rok), případně 3 měsíce od právní moci zamítavého rozhodnutí podle § 260.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1757/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91181FA2B946521C1258BB6004D3B3C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Myslivost Stanovy*
 
 ### Kontrolní komise (§ 262—264)
 

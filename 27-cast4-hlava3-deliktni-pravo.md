@@ -38,6 +38,16 @@
 
 **Pozn.**: rozsudek pro nemajetkovou újmu je **„zadostiučinění"** (*Genugtuung*) — typicky peněžitá náhrada.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2136/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/848E8B7EC6E21ADCC12588520017F39C?openDocument) — *Náhrada škody*
+- *NS* [23 Cdo 3344/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78D423F9C3039A9DC1258D730052AFE3?openDocument) — *Ochrana osobnosti*
+- *NS* [23 Cdo 3119/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F43399589F6E13BC1258D610052BC27?openDocument) — *Přípustnost dovolání Vady podání Nekalá soutěž Náhrada nemajetkové újmy (o. z.)*
+- *NS* [23 Cdo 1366/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F26B63DDC1FDAA5EC1258D1B004D2950?openDocument) — *Nemajetková újma (o. z.) Ochrana dobré pověsti právnické osoby Zadostiučinění (satisfakce)*
+- *NS* [23 Cdo 1379/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE2836034764BEB1C1258D1B004D2943?openDocument) — *Nemajetková újma (o. z.) Dobrá pověst Právnická osoba*
+- *NS* [23 Cdo 679/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEA33E353DBEF62CC1258BF50052E82F?openDocument) — *Přípustnost dovolání Nekalá soutěž Nemajetková újma (o. z.)*
+- *NS* [27 Cdo 1484/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2199D78419BC1ECC1258AC9001B865B?openDocument) — *Péče řádného hospodáře Škoda*
+
 ### § 2895 — Objektivní odpovědnost
 
 > Škůdce je povinen nahradit škodu bez ohledu na své zavinění v případech stanovených zvlášť zákonem.
@@ -49,6 +59,12 @@
 - Zvíře (§ 2933 — částečně);
 - Vada výrobku (§ 2939);
 - Převzatá věc (§ 2944).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2008/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A75C9052FA01D3CC1258CAC004D1EC1?openDocument) — *Advokát Náhrada škody*
+- *NS* [31 Cdo 1178/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9E01CD14D5C3CEFC1258A8C0031A342?openDocument) — *Přípustnost dovolání Poučovací povinnost soudu Spojení věcí ke společnému řízení*
+- *NS* [25 Cdo 3742/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E14CC0D72B5EA0A2C1258B26004D2AB8?openDocument) — *Odpovědnost za škodu způsobenou provozem dopravních prostředků*
 
 ### § 2896—2899 — Vyloučení a omezení odpovědnosti
 
@@ -72,6 +88,10 @@
 
 **§ 2899 — Riziková volba** — kdo přijal nebezpečí oběti, **nezbavuje se** práva na náhradu (např. dobrovolný záchranář).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [28 Cdo 1551/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0987D4BF8A9D6B9C1258D7F0052C236?openDocument) — *Smluvní pokuta Náhrada škody Moderační právo soudu*
+
 ### § 2900—2903 — Prevence
 
 **§ 2900**:
@@ -94,11 +114,25 @@
 - **§ 2902** — Oznamovací povinnost při hrozícím porušení;
 - **§ 2903** — Sám poškozený **musí zakročit**, jinak nese **kontributorní vina**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 878/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E62B80FC1DC030BC1258CC0004D0CD2?openDocument) — *Přípustnost dovolání Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Ušlý zisk*
+- *NS* [7 Tdo 245/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25818CFC22457CB9C1258C97004D37D8?openDocument) — *Konání Opomenutí Prevence*
+- *NS* [25 Cdo 2838/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D705914EC2297D5C1258C76004D397E?openDocument) — *Závada ve sjízdnosti Škoda Odpovědnost objektivní Povinnost prevenční*
+- *NS* [30 Cdo 2276/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C34B3F8BF87868FCC1258C3D0052B357?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Zavinění Organizační složka státu*
+- *NS* [25 Cdo 2985/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39AA2CBB9AA8FC40C1258BF90052C12C?openDocument) — *Přípustnost dovolání*
+- *NS* [25 Cdo 1614/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20ED9D56EBD3A06EC1258BF20052AAA1?openDocument) — *Náhrada škody*
+- *NS* [3 Tdo 615/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67A72EBB60A238F1C1258BB1004D3B26?openDocument) — *Doprava Důležitá povinnost uložená podle zákona Porušení důležité povinnosti Úřední zázn…*
+
 ### § 2904 — Náhoda
 
 > Újmu způsobenou náhodou nahradí ten, kdo dal ze své viny k náhodě podnět, zejména tím, že poruší příkaz nebo poškodí zařízení, které má nahodilé újmě zabránit.
 
 **Zvláštní pravidlo**: pokud někdo svou vinou **dal podnět** k náhodě (porušil příkaz, poškodil zabezpečení) → odpovídá za **náhodou způsobenou újmu**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 535/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B681A295ED4410C3C12583970021F339?openDocument) — *Dobré mravy Majetková újma (o. z.) Odpovědnost za škodu způsobenou provozem dopravních p…*
 
 ### § 2905—2908 — Okolnosti vylučující protiprávnost
 
@@ -133,6 +167,13 @@
 **§ 2907 — Omluvitelné vzrušení** — soud zohlední emocionální stav obránce.
 
 **§ 2908 — Náhrada za záchranu** — kdo odvracel cizí újmu, má **nárok na náhradu nákladů + utrpěné újmy** (proti tomu, v jehož zájmu jednal).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 611/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/418F6764AF68B195C1258D390052ADD9?openDocument) — *Nemajetková újma (o. z.) Nutná obrana*
+- *NS* [25 Cdo 1091/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6352B8B62DCA5C91C1258AEC00529917?openDocument) — *Náhrada škody*
+- *NS* [25 Cdo 3470/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D56D8604C7505A5C125874900188058?openDocument) — *Náhrada škody Nutná obrana Ztížení společenského uplatnění*
+- *NS* [33 Cdo 2319/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1CFCFD72EC3C7F2CC1258BA9004D2482?openDocument) — *Přípustnost dovolání Smlouva o dílo Vady*
 
 ---
 
@@ -360,6 +401,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - Z **důvodů zvláštního zřetele**;
 - Zejména **majetkové poměry** škůdce.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1965/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CCC365D0CE3C320BC1258DBC0052A1B5?openDocument) — *Skutečná škoda [ Škoda ] Znalecký posudek Dražba*
+- *NS* [25 Cdo 3251/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ECF47DD27D052E0C1258DAA0052C275?openDocument) — *Skutečná škoda [ Škoda ]*
+- *NS* [25 Cdo 548/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06ABA96B51459F61C1258D760052C383?openDocument) — *Ušlý zisk Nájem*
+- *NS* [30 Cdo 2060/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F8A5D4FAA8E7F4AC1258D730052B00E?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Ušlý zisk Svoboda podnikání*
+- *NS* [25 Cdo 3324/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/684F0646C992DE5DC1258D710052AAF1?openDocument) — *Náhrada škody Ušlý zisk*
+- *NS* [25 Cdo 1751/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89C9DDAE77DFAE13C1258CB6004D3602?openDocument) — *Ochrana osobnosti*
+- *NS* [25 Cdo 3027/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C442955AA39AB50C1258C510052BB6D?openDocument) — *Skutečná škoda [ Škoda ] Pojištění odpovědnosti za škodu*
+
 ### § 2954—2955 — Příčinná souvislost
 
 **§ 2954**:
@@ -369,6 +420,12 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 > Nelze-li výši náhrady škody přesně určit, určí ji podle spravedlivého uvážení jednotlivých okolností případu soud.
 
 >**Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3840/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F09811EB6C2F6FFC1258D760052C30E?openDocument) — *Náhrada škody Ušlý zisk Insolvenční správce Odpovědnost státu za škodu [ Odpovědnost stá…*
+- *NS* [25 Cdo 3056/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB48ED363887A2E9C1258CB7004D354E?openDocument) — *Náhrada škody Přípustnost dovolání*
+- *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
 
 ### Pododdíl 2 — Náhrada újmy na přirozených právech člověka (§ 2956—2971)
 
@@ -395,6 +452,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - **Ztížení společenského uplatnění** — trvalé následky;
 - **Metodika NS**: rozhodnutí pléna NS sp. zn. **Cpjn 14/2014** — výpočet bolestného + ZSU.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2130/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3FD1FCB00004ABCC1258D940052985C?openDocument) — *Přípustnost dovolání Pracovní úraz Nemajetková újma (o. z.) Ztížení společenského uplatn…*
+- *NS* [30 Cdo 2794/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11833FC8633655AC1258D8800529993?openDocument) — *Bolestné Ztížení společenského uplatnění Nemajetková újma (o. z.) Náklady řízení*
+- *NS* [25 Cdo 2322/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA68F4D34D93C98CC1258D320052ADF9?openDocument) — *Nemajetková újma (o. z.) Náhrada nemajetkové újmy (o. z.)*
+- *NS* [25 Cdo 3035/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63F5CB573ED266FBC1258D26004D11C9?openDocument) — *Další nemajetkové újmy Ztížení společenského uplatnění Nemajetková újma (o. z.) Vznik po…*
+- *NS* [25 Cdo 3397/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71967919B96A266AC1258CC3004D3592?openDocument) — *Nemajetková újma (o. z.) Znalecký posudek*
+- *NS* [25 Cdo 3512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E6C4D3015E0E100C1258CB6004D35BF?openDocument) — *Přípustnost dovolání Dokazování Ztížení společenského uplatnění*
+- *NS* [25 Cdo 310/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5459BCF9F539304CC1258C89004D452E?openDocument) — *Ztížení společenského uplatnění*
+
 ### § 2959 — Smrt blízké osoby
 
 > Při usmrcení nebo zvlášť závažném ublížení na zdraví odčiní škůdce duševní útrapy manželu, rodiči, dítěti nebo jiné osobě blízké peněžitou náhradou vyvažující plně jejich utrpení. Nelze-li výši náhrady takto určit, stanoví se podle zásad slušnosti.
@@ -404,6 +471,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - **„Plně vyvažující utrpení"** — neexistuje pevný strop;
 - **Zásady slušnosti** při určení;
 - Současná judikatura NS: typicky **200—500 tis. Kč pro manžela**, **300—500 tis. pro rodiče dítěte**, **200—400 tis. pro děti rodiče** — s úpravami podle okolností.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3525/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03A277ED20EC6B25C1258D710052AB07?openDocument) — *Nemajetková újma (o. z.) Pojištění*
+- *NS* [25 Cdo 1815/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA9E4370EA4E575AC1258D2B004D1F3E?openDocument) — *Přípustnost dovolání Duševní útrapy (o. z.) [ Náhrada při újmě na přirozených právech čl…*
+- *NS* [25 Cdo 2334/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F37A61D99D97B25FC1258D06004D2473?openDocument) — *Náhrady při ublížení na zdraví a při usmrcení (o. z.) Náhrada nemajetkové újmy (o. z.)*
+- *NS* [25 Cdo 1668/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/147E92B85955D51DC1258C9C004D4F18?openDocument) — *Nemajetková újma (o. z.) Přípustnost dovolání*
+- *NS* [25 Cdo 630/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1084A1488E038388C1258BE50052C3E8?openDocument) — *Nemajetková újma (o. z.) Osoba blízká*
+- *NS* [25 Cdo 1060/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FCA98C7D1D687284C1258BA3004D244B?openDocument) — *Náhrada nemajetkové újmy (o. z.)*
+- *NS* [25 Cdo 1119/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7A06A8DE024983FC1258B8E004D4015?openDocument) — *Nemajetková újma (o. z.)*
 
 ### § 2960—2966 — Náhrada nákladů a ztráty výdělku
 
@@ -454,6 +531,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **§ 2966 — Renta pozůstalým** — typický nárok manželky, dětí po smrti živitele.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2061/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37A61802C92FFD24C1258CFA004D401D?openDocument) — *Náhrada za ztrátu na výdělku*
+- *NS* [25 Cdo 1906/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BAD67712C113580DC1258BB7004D52A8?openDocument) — *Náhrada za ztrátu na výdělku*
+- *NS* [25 Cdo 3542/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53B4161112988A95C1258AEC00529929?openDocument) — *Nemajetková újma (o. z.) Domácnost*
+- *NS* [25 Cdo 1401/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/296BACF97721FD6AC12589DB00182812?openDocument) — *Odpovědnost subjektivní*
+- *NS* [25 Cdo 3144/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BD81501A014676DC1258973001DAF51?openDocument) — *Náhrada škody*
+- *NS* [25 Cdo 3053/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F3638442F15C5DDC1258963001D92CF?openDocument) — *Náhrada škody*
+- *NS* [25 Cdo 3578/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FD7E184F4EE21F4C12588E400160A10?openDocument) — 29. 7. 2022
+
 ### § 2967—2971 — Další specifika
 
 **§ 2967**:
@@ -483,6 +570,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2969 — Zvláštní příčiny** — soud zvýší náhradu v případech mimořádného utrpení.
 
 **§ 2971 — Náhrada nemajetkové újmy z porušení smluvní povinnosti** — možná, pokud strany **výslovně ujednaly** nebo zákon stanoví.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2672/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0CE1EB0BFBE75FDC1258C470052B350?openDocument) — *Náhrada škody Škoda*
+- *NS* [25 Cdo 650/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68684CF056CBAB86C1258AFB004D309D?openDocument) — *Náhrada škody Škoda Vady řízení*
+- *NS* [25 Cdo 27/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B7C8DF7F3FE1F11C1258B08004D1F8E?openDocument) — *Nemajetková újma (o. z.) Přípustnost dovolání*
+- *NS* [25 Cdo 3484/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F9EDDDC68A5A54FC1258AF4004C91B3?openDocument) — *Nemajetková újma (o. z.)*
+- *NS* [23 Cdo 2826/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC689AD6C7C97F0C12589E100183072?openDocument) — *Nekalá soutěž Přípustnost dovolání*
+- *NS* [25 Cdo 992/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02840C58D600FBF5C12583A000221ECC?openDocument) — *Náhrada škody Věc/cena zvláštní obliby (o. z.) [ Náhrady při ublížení na zdraví a při us…*
+- *NS* [25 Cdo 1545/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D665DD60658F4A28C1258BDD0052C49E?openDocument) — *Advokacie Advokát Náhrada škody Náhrada nemajetkové újmy (o. z.) Dobré mravy*
 
 ---
 

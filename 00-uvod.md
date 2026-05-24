@@ -87,6 +87,10 @@ Komentář vychází:
 3. Z **lokálních zdrojů judikatury** — archivu rozhodnutí NS a ÚS v Obsidian vaultu, kde jsou k dispozici (k řadě institutů je judikatura velmi bohatá, k některým — zejména k novějším institutům jako svěřenský fond — naopak nadále limitovaná).
 4. Komentář **nepoužívá živé databáze (CODEXIS, ASPI, Beck-online)** — vychází z lokálních materiálů. Pro praktickou aplikaci je proto nutné aktuální judikatury ověřit.
 
+### Judikatura u jednotlivých ustanovení
+
+U ustanovení, k nimž to bylo z lokálního archivu možné, je doplněn oddíl **Judikatura (z místních zdrojů)** s odkazy na rozhodnutí Nejvyššího soudu. Rozhodnutí jsou k paragrafu přiřazena podle pole **„Dotčené předpisy"** v metadatech rozhodnutí — uvádějí se pouze rozhodnutí, která v tomto poli výslovně označují daný paragraf zákona č. 89/2012 Sb. (zkratka **„o. z."**). Rozhodnutí vztahující se k dřívějšímu občanskému zákoníku č. 40/1964 Sb. (zkratka „obč. zák.") se nepřebírají, i když řeší obdobnou otázku. Každý judikát je **přímým odkazem** na text rozhodnutí na `rozhodnuti.nsoud.cz`. U paragrafů, k nimž v lokálním archivu odpovídající rozhodnutí nebylo nalezeno, oddíl uveden není. Spisové značky nejsou nikde dotvářeny — pocházejí výhradně z lokálně uložených rozhodnutí.
+
 ## 7. Důležité předpisy navazující
 
 Mezi přijetím OZ a dneškem (2014—2026) prošel zákon několika novelizacemi. Hlavní změny:

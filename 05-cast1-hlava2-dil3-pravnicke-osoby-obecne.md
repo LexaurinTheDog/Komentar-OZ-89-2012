@@ -48,6 +48,16 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 - **Předvznikové jednání** (§ 127) — kdo jedná jménem PO před jejím vznikem, jedná osobně; PO může účinky převzít do 3 měsíců od vzniku;
 - **Postzánikové operace** (§ 208—209) — pokud se po zániku objeví neznámý majetek nebo zájem hodný ochrany, soud může zrušit výmaz a obnovit PO.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 2905/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/537C5E4D5EF4A7E0C125865B001DF610?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
+- *NS* [29 ICdo 52/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88A8835D7054093AC12589850017F03E?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení Incidenční spory (vylučovací žaloba)…*
+- *NS* [29 ICdo 53/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/972CF0F184BDC350C1258950001E3DB9?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
+- *NS* [29 ICdo 138/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A77C0B61FF95AA3FC125879B001E5477?openDocument) — *Zánik obchodní společnosti Zastavení řízení Způsobilost být účastníkem řízení*
+- *NS* [29 ICdo 87/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/862B3FCC00BFADD3C125876A0018A3C8?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
+- *NS* [27 Cdo 2098/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D8D4322FE0E750FC125870E00187F08?openDocument) — *Přípustnost dovolání Zánik obchodní společnosti Podmínky řízení Právní osobnost (o. z.)*
+- *NS* [23 Cdo 873/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66793AEC79C42CD1C12585890018DBD6?openDocument) — *Způsobilost být účastníkem řízení Zánik obchodní společnosti*
+
 ### § 119 — Záznamy o majetkových poměrech
 
 > Právnické osoby vedou spolehlivé záznamy o svých majetkových poměrech, i když nejsou povinny vést účetnictví podle jiného právního předpisu.
@@ -123,6 +133,10 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 **Vazba na § 121 ZOK** — pro obchodní korporace platí ještě další zpřesnění (§ 12—15 ZOK — fikce dobré víry, neplatnost rozhodnutí orgánů).
 
 **Praktický dopad:** **Vždy ověřit aktuální výpis** z rejstříku (justice.cz, lze stáhnout zdarma) před podpisem smlouvy s PO. Aktualita rejstříku = ochrana před napadením smlouvy.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1739/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCF577A1F7F2CB68C125877F001E4386?openDocument) — *Veřejný rejstřík (zápis & výmaz) (o. z.) Neplatnost právního jednání (o. z.) Spolek (o.…*
 
 ---
 
@@ -247,6 +261,10 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 - Pohledávky a dluhy se vypořádají likvidací;
 - Není to *ex tunc* zrušení — PO „existovala a teď je v likvidaci".
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3603/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B17FC80A07E0DD7C12585E200188884?openDocument) — *Zájmové sdružení právnických osob Bezdůvodné obohacení*
+
 ---
 
 ## Název
@@ -294,6 +312,16 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 - Zákon č. 441/2003 Sb. o ochranných známkách — paralelní ochrana, ale registrovaná u ÚPV;
 - Zákon č. 89/2012 Sb. § 2976—2990 (nekalá soutěž) — užití zaměnitelného názvu je typický skutkový případ nekalé soutěže (§ 2981 — vyvolání nebezpečí záměny).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3345/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB20FAEA86396C91C1258D760052C2D9?openDocument) — *Ochrana dobré pověsti právnické osoby Svoboda projevu*
+- *NS* [23 Cdo 3576/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB328758FF3FB871C1258D310023EB5E?openDocument) — *Ochrana dobré pověsti právnické osoby Přípustnost dovolání*
+- *NS* [25 Cdo 1560/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53AE45B4538E7E72C1258BE50052C3F6?openDocument) — *Vedlejší účastník Přípustnost dovolání*
+- *NS* [23 Cdo 2288/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7817C6068A896CB9C1258B95004D3F35?openDocument) — *Ochrana dobré pověsti právnické osoby Svoboda projevu*
+- *NS* [23 Cdo 1808/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CEC28839FD65C91C1258B02004D3119?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
+- *NS* [23 Cdo 2494/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F826D7073EC26848C1258A5100160246?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
+- *NS* [23 Cdo 2482/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3578E453A1598566C1258A2500161166?openDocument) — *Ochrana dobré pověsti právnické osoby*
+
 ---
 
 ## Sídlo
@@ -318,6 +346,11 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 - **PO nemůže** namítat skutečné sídlo proti tomu, kdo se v dobré víře dovolává zapsaného sídla.
 
 Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chráněn; PO nemůže říct „ale my jsme se přestěhovali".
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3331/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81DD9321F3860B18C125889D0019C220?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
+- *NS* [27 Cdo 2277/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48F899E7DB25D432C125861E0041D67A?openDocument) — *Společnost s ručením omezeným Obchodní rejstřík*
 
 ---
 
@@ -477,6 +510,10 @@ Zákon o statusu veřejné prospěšnosti **dosud nebyl přijat** (§ 147—150 
 
 Typický příklad: dětský parlament, studentský senát na vysoké škole, mládežnické sdružení (junior sekce sportovního klubu).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3439/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E8EE0DEDE1D37D1C1258340002CD572?openDocument) — *Akciová společnost Valná hromada Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
+
 ### § 153 — Úpadce ve funkci
 
 > (1) Osoba, jejíž úpadek byl osvědčen, se může stát členem voleného orgánu, oznámila-li to předem tomu, kdo ji do funkce povolává; to neplatí, pokud od skončení insolvenčního řízení uplynuly alespoň tři roky.
@@ -516,6 +553,10 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 **§ 155 — povolání nezpůsobilé osoby**:
 - **Hledí se, jako by se nestalo** = zdánlivé jednání (§ 554);
 - **Ochrana dobré víry třetích osob** — práva nabytá třetími osobami v dobré víře zůstávají.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3547/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F60AE9D771F1EC0C1258340002CD576?openDocument) — *Společnost s ručením omezeným Jednatel Živnostenské podnikání*
 
 ### § 156—158a — Kolektivní orgán, usnášení
 
@@ -571,6 +612,16 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 - Motivuje členy orgánů k zajištění **D&O pojištění** (Directors and Officers liability insurance);
 - Paralela s § 68 ZOK — speciální úprava ručení statutárního orgánu obchodní korporace po prohlášení úpadku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2557/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE84D8B19FF0C52AC1258D560052D405?openDocument) — *Péče řádného hospodáře Ručení Společnost s ručením omezeným Náhrada škody Statutární org…*
+- *NS* [27 Cdo 2798/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27EC15B7D268187EC1258CDF004D1D25?openDocument) — *Člen voleného orgánu [ Právnická osoba ] Péče řádného hospodáře*
+- *NS* [27 Cdo 1261/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B63F4B7F79099957C1258C4D0052AF92?openDocument) — *Péče řádného hospodáře Zastoupení Společnost s ručením omezeným Přípustnost dovolání*
+- *NS* [27 Cdo 415/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65490E5795EB85F0C1258C260052C431?openDocument) — *Péče řádného hospodáře Spolek (o. z.) Žaloba Náhrada škody Břemeno důkazní*
+- *NS* [27 Cdo 1078/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B806027EBA14745BC1258BB6004D3B29?openDocument) — *Péče řádného hospodáře Představenstvo Vady řízení Zaměstnanci*
+- *NS* [27 ICdo 152/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D064BE8774550FFC1258B81004D2B39?openDocument) — *Jednatel Péče řádného hospodáře Škoda Ručení*
+- *NS* [27 Cdo 2728/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02C4E4B00C0B59C1258B38004D42E1?openDocument) — *Péče řádného hospodáře Ručení Společnost s ručením omezeným*
+
 ### § 160 — Odstoupení z funkce
 
 > Odstoupí-li člen voleného orgánu ze své funkce prohlášením došlým právnické osobě, zaniká funkce uplynutím dvou měsíců od dojití prohlášení.
@@ -606,6 +657,11 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 - Že člen orgánu rozhodnutí orgánu porušil.
 
 **Pozn.: chrání se obchodní styk** — důsledek pak nese PO interně (může žalovat člena na náhradu škody — § 159).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3312/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91D49EA5F37B398DC1258511001EB884?openDocument) — *Jednatel Společnost s ručením omezeným Vyklizení nemovitosti Společník Jednání za právni…*
+- *NS* [21 Cdo 3125/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99E804F452A2D7EDC125841B00184D6F?openDocument) — *Obec Jednání za právnickou osobu (o. z.) Veřejný rejstřík (zápis & výmaz) (o. z.)*
 
 ### § 163—167 — Statutární orgán
 
@@ -653,6 +709,16 @@ Typický příklad: prodavač v obchodě zavazuje obchodní firmu jako jednatel 
 **§ 167 — deliktní odpovědnost PO**: PO odpovídá za protiprávní jednání **členů voleného orgánu, zaměstnanců, jiných zástupců** spáchané **při plnění úkolů** (*v rámci výkonu funkce*). Tento institut je obecnou klauzulí *respondeat superior*.
 
 Vazba na § 2914 — odpovědnost za pomocníka.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1485/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15A2824FD0BAA5E5C1258D22004D3C2D?openDocument) — *Zastavení exekuce*
+- *NS* [24 Cdo 1550/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FFEB7A02A5234DFEC1258CCE004D3BB6?openDocument) — *Dědění Dědic zákonný Společná domácnost*
+- *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — *Záloha Započtení pohledávky Dividenda*
+- *NS* [27 Cdo 3495/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DD6432A8ADC4FC56C12585880018F3D5?openDocument) — *Opatrovník (opatrovnictví) právnické osoby (o. z.) Obchodní rejstřík*
+- *NS* [29 Cdo 880/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4CB8A67EC474F69C1257EE0003BFD27?openDocument) — *Právní jednání (o. z.) Akciová společnost Zastoupení Řízení ve věcech obchodního rejstří…*
+- *NS* [28 Cdo 2485/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFE73F60AFB33231C1258C0D0052AEC1?openDocument) — *Omyl Zastoupení Právnická osoba Neplatnost právních jednání (o. z.) [ Právní jednání (o.…*
+- *NS* [33 Cdo 3817/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ACB1C8C86C61224C1258B61004D1921?openDocument) — *Zastoupení Jednání za právnickou osobu (o. z.) Statutární orgán*
 
 ---
 
@@ -705,6 +771,16 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 **§ 173 — zrušení bez likvidace**:
 - Při **přeměně** (fúze, rozdělení) — ke dni účinnosti přeměny;
 - Po **konkurzu** — zrušení konkurzu po splnění rozvrhu, nebo pro nedostatečný majetek.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1772/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/900177878992C87DC125879B001E5461?openDocument) — *Zrušení obchodní společnosti Návrh na zahájení řízení*
+- *NS* [27 Cdo 3448/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA7717D9CDD4566EC12586AD00188137?openDocument) — *Zrušení obchodní společnosti*
+- *NS* [27 Cdo 2028/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE56A595103428C3C125861E0041D79C?openDocument) — *Zrušení obchodní společnosti Změna soudního rozhodnutí Přípustnost dovolání*
+- *NS* [27 Cdo 189/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/395A3200B27B8144C12585640019BB0E?openDocument) — *Zrušení obchodní společnosti Změna soudního rozhodnutí*
+- *NS* [27 Cdo 15/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67E83230067E0739C12585640019BB0A?openDocument) — *Zrušení obchodní společnosti Návrh na zahájení řízení*
+- *NS* [27 Cdo 1342/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1D6228C491560A8C125829800316115?openDocument) — *Změna soudního rozhodnutí Zrušení obchodní společnosti Přípustnost dovolání*
+- *NS* [29 Cdo 4549/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9A37C7A86CB855BC12582980031606F?openDocument) — *Likvidace právnické osoby (o. z.)*
 
 ### § 174—184 — Přeměna PO (fúze, rozdělení, změna formy)
 
@@ -784,6 +860,12 @@ Klíčové instituty:
 
 **Speciální zákon: zákon č. 125/2008 Sb. o přeměnách obchodních společností a družstev** — detailní úprava přeměn pro obchodní korporace (transpozice směrnice 2005/56/ES o přeshraničních fúzích).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2955/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A41A012856BF6E45C12586B500188423?openDocument) — *Veřejná obchodní společnost*
+- *NS* [25 Cdo 1919/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F916A25D25F3ADC1258CC3004D35C7?openDocument) — *Dobrá pověst Tisk Zánik obchodní společnosti Přeměna právnické osoby (o. z.) Procesní ná…*
+- *NS* [27 Cdo 4129/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57FA226957D7402CC1258631001DE894?openDocument) — *Státní podnik Přeměna právnické osoby (o. z.) Ručení Analogie legis Ochrana věřitelů prá…*
+
 ---
 
 ## Zánik PO
@@ -804,6 +886,16 @@ Klíčové instituty:
 **Dva časové momenty zániku:**
 - **Zapsaná PO**: den výmazu z VR (konstitutivní účinek);
 - **Nezapsaná PO**: skončení likvidace.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3422/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E2EF37A7DFCAE09C1258950001E3E3D?openDocument) — *Insolvenční řízení Zánik obchodní společnosti Způsobilost být účastníkem řízení Podmínky…*
+- *NS* [23 Cdo 4600/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7B93966E1A46C79C125821A004CA275?openDocument) — *Podmínky řízení Zastavení řízení*
+- *NS* [29 ICdo 52/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88A8835D7054093AC12589850017F03E?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení Incidenční spory (vylučovací žaloba)…*
+- *NS* [29 ICdo 53/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/972CF0F184BDC350C1258950001E3DB9?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
+- *NS* [29 ICdo 138/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A77C0B61FF95AA3FC125879B001E5477?openDocument) — *Zánik obchodní společnosti Zastavení řízení Způsobilost být účastníkem řízení*
+- *NS* [29 ICdo 87/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/862B3FCC00BFADD3C125876A0018A3C8?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
+- *NS* [29 Cdo 3224/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2535DC7D86244EA6C125873200189D15?openDocument) — *Konkurs - zrušení konkurzu Zastavení řízení Obchodní rejstřík Způsobilost být účastníkem…*
 
 ---
 
@@ -828,6 +920,15 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 § 188 zakazuje právní jednání za PO mimo rozsah § 196 od okamžiku, kdy se o vstupu do likvidace dotyčný dozvěděl (nebo měl/mohl dozvědět). Tento zákaz chrání věřitele před vyváděním majetku za likvidace.
 
 **Označení „v likvidaci"** — musí se přidat k názvu PO (§ 187 odst. 2).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 174/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/108E65EB3FAA12AEC12583D3003950EB?openDocument) — *Přípustnost dovolání Likvidace právnické osoby (o. z.) Statutární orgán*
+- *NS* [29 NSCR 34/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5BFD11C0AE6FB52C1258CCE004D3C8C?openDocument) — *Insolvenční řízení Přihláška pohledávky Likvidace právnické osoby (o. z.)*
+- *NS* [27 Cdo 2232/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F911C2115C14C56AC12589F700186857?openDocument) — *Veřejná obchodní společnost Vyloučení společníka Likvidace obchodní společnosti*
+- *NS* [27 Cdo 1306/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0390C7D83B5F0214C12584AD001DCEDD?openDocument) — *Likvidace právnické osoby (o. z.) Spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 1182/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177E1E5ED84D4D02C125879B001E547A?openDocument) — *Jednání právnických osob Jednání za právnickou osobu (o. z.) Likvidace právnické osoby (…*
+- *NS* [27 ICdo 65/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FA847B5D586E556C1258ADD0026A0F7?openDocument) — *Likvidace právnické osoby (o. z.) Zastoupení Jednání za právnickou osobu (o. z.)*
 
 ### § 189—194 — Likvidátor
 
@@ -868,6 +969,14 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 - Odpovídá za řádný výkon **stejně jako člen SO** (péče řádného hospodáře, § 159);
 - **Soudem jmenovaného likvidátora** může odvolat jen soud (§ 194);
 - Odměnu určuje povolávající orgán (§ 195).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2916/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F0E4D73D2B4CE48C125859E00243D99?openDocument) — *Likvidace právnické osoby (o. z.)*
+- *NS* [27 Cdo 907/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09E860E75627A249C125816100473A99?openDocument) — *Likvidace obchodní společnosti*
+- *NS* [27 Cdo 3790/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/690F5A8180278830C1258AE70052A49A?openDocument) — *Opatrovník (opatrovnictví) právnické osoby (o. z.) Opatrovník hmotně právní [ Opatrovník…*
+- *NS* [27 Cdo 1182/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177E1E5ED84D4D02C125879B001E547A?openDocument) — *Jednání právnických osob Jednání za právnickou osobu (o. z.) Likvidace právnické osoby (…*
+- *NS* [27 ICdo 65/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FA847B5D586E556C1258ADD0026A0F7?openDocument) — *Likvidace právnické osoby (o. z.) Zastoupení Jednání za právnickou osobu (o. z.)*
 
 ### § 196—204 — Postup likvidace
 
@@ -938,6 +1047,13 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 - Pokud nikdo nepřevezme → **přechod na stát** (§ 204);
 - **Zajištěný věřitel** má vždy prioritu z jistoty (§ 204 odst. 2).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 34/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5BFD11C0AE6FB52C1258CCE004D3C8C?openDocument) — *Insolvenční řízení Přihláška pohledávky Likvidace právnické osoby (o. z.)*
+- *NS* [27 Cdo 2232/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F911C2115C14C56AC12589F700186857?openDocument) — *Veřejná obchodní společnost Vyloučení společníka Likvidace obchodní společnosti*
+- *NS* [27 Cdo 1182/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177E1E5ED84D4D02C125879B001E547A?openDocument) — *Jednání právnických osob Jednání za právnickou osobu (o. z.) Likvidace právnické osoby (…*
+- *NS* [27 ICdo 65/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FA847B5D586E556C1258ADD0026A0F7?openDocument) — *Likvidace právnické osoby (o. z.) Zastoupení Jednání za právnickou osobu (o. z.)*
+
 ### § 205—209 — Závěr likvidace a obnovení PO
 
 **§ 205**:
@@ -966,3 +1082,13 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 > (2) Byla-li právnická osoba obnovena vzhledem k zjištění neznámého majetku, obnoví se neuspokojené pohledávky jejích věřitelů.
 
 > Konec kapitoly 05. Pokračování: kapitola 06 — Hlava II Díl 3 Oddíl 2 (pokr.): Korporace, spolek (§ 210—302).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1664/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3DF6F54C7C384F1C1258CDF004D1D2D?openDocument) — *Překážka věci rozsouzené (res iudicata) Likvidace obchodní společnosti*
+- *NS* [29 NSCR 74/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E746FEFDDD1D7594C1258955001E07ED?openDocument) — *Insolvenční řízení*
+- *NS* [27 Cdo 1306/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D226F880C48D0E3EC1258941001E25D0?openDocument) — *Obchodní rejstřík Konstitutivní účinek zápisu do veřejného rejstříku [ Zápis do veřejnéh…*
+- *NS* [27 Cdo 1019/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E998A6D5AF3EF66CC125891D001E0DCA?openDocument) — *Konstitutivní účinek zápisu do veřejného rejstříku [ Zápis do veřejného rejstříku ]*
+- *NS* [27 Cdo 929/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09B278C20D210535C12588F7001DD8DD?openDocument) — *Konstitutivní účinek zápisu do veřejného rejstříku [ Zápis do veřejného rejstříku ] Obch…*
+- *NS* [29 Cdo 1180/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EFD51632A32BBC1C1257E73003BC601?openDocument) — 28. 4. 2015
+- *NS* [27 Cdo 1306/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0390C7D83B5F0214C12584AD001DCEDD?openDocument) — *Likvidace právnické osoby (o. z.) Spolek (o. z.) [ Korporace (o. z.) ]*

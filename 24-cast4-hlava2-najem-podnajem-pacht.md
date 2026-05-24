@@ -36,6 +36,16 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - **Doba**: ujednaná nebo na dobu neurčitou;
 - **Plnění**: užívání věci × nájemné.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2945/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/047D4AA4424C1833C1258AF4004C9190?openDocument) — *Nájem*
+- *NS* [26 Cdo 5212/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/59530611580534E8C1258340004DDAEE?openDocument) — *Nájem*
+- *NS* [26 Cdo 3010/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/716ABAE8A66A20AEC1258DA40052D9A5?openDocument) — *Nájem bytu*
+- *NS* [29 Cdo 3264/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D77AABDCE1FFD2F7C1258C590052A2A0?openDocument) — *Vyklizení bytu Insolvence Zajištění závazku Dražba Rodinná domácnost (o. z.) Smlouva náj…*
+- *NS* [26 Cdo 2213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA53D2F7964DD3EAC1258957001DEA81?openDocument) — *Výpověď z nájmu*
+- *NS* [26 Cdo 2192/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26801AFF189B85FCC125872700188352?openDocument) — *Nájem Výpověď z nájmu*
+- *NS* [26 Cdo 3139/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475AADD6959936A5C12587150015FD9A?openDocument) — *Nájem*
+
 ### § 2202 — Předmět nájmu
 
 > (1) Pronajmout lze věc nemovitou i nezuživatelnou věc movitou. Pronajmout lze i část nemovité věci.
@@ -45,6 +55,10 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - Movitá / nemovitá;
 - **Část nemovitosti** (typicky byt z domu);
 - **Budoucí věc** — pokud lze dostatečně určit.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
 
 ### § 2203—2204 — Povinnosti pronajímatele
 
@@ -67,6 +81,10 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - **Sleva z nájemného**;
 - **Odstoupení** při neřešení;
 - **Zánik vady**: nájemce nesmí požadovat slevu, pokud vadu sám způsobil.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 740/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC708269E05A1CC1C12587E9001B8C3C?openDocument) — *Nájem Závazkové vztahy občanskoprávní*
 
 ### § 2213—2216 — Povinnosti nájemce
 
@@ -91,6 +109,16 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - **§ 2214 — Strpí prohlídku** pronajímatelem (v rozumné míře);
 - **§ 2215 — Podnájem**: pouze se **souhlasem pronajímatele** (písemný, nezbytný k platnosti);
 - **§ 2216** — Nájemce **odpovídá** za úkony podnájemce vůči pronajímateli.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 4023/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/078EE084BC071269C12585B20018FE5D?openDocument) — *Podnájem*
+- *NS* [26 Cdo 1446/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D0EB0820FF6BE1EC1258BAB004D3B2E?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
+- *NS* [26 Cdo 2294/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71479D17C5C32DE6C1258B54004D174B?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 1002/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BEC93C3F75D87FE8C1258AF7004D30C3?openDocument) — *Podnájem bytu*
+- *NS* [26 Cdo 239/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D80C3CFDFD9B7FE6C1258AAD001B7ECD?openDocument) — *Výpověď z nájmu bytu*
+- *NS* [26 Cdo 2128/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/370AAD398FD10562C1258A91001B7C33?openDocument) — *Výpověď z nájmu bytu*
+- *NS* [26 Cdo 209/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD09B7DE2102758CC125891C001E203B?openDocument) — *Nájem nebytových prostor Výpověď z nájmu nebytových prostor Přípustnost dovolání*
 
 ### § 2217—2218 — Nájemné
 
@@ -125,6 +153,16 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - **Pronajímatel**: **velké opravy**, údržba "konstrukce" věci;
 - **Nájemce**: **běžná údržba** + **drobné opravy** (do limitu — pro byt stanoveno NV č. 308/2015 Sb.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 107/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96796186DA5DA7AFC1258DCA004D4DDD?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 1915/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/946DB80011589EB3C1258525001F1025?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 1826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CC0FEDD3202CFC9FC12584BA001E3C2E?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 1477/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/329CD38B41E18DF9C12584BA001E3C3F?openDocument) — *Nájem*
+- *NS* [26 Cdo 3959/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BA2629EF4AB5A2AC125845A00188967?openDocument) — *Nájem Poučovací povinnost soudu*
+- *NS* [26 Cdo 1793/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88B428E800570443C1258C6F004D21D1?openDocument) — *Bezdůvodné obohacení Družstvo Nájem bytu*
+- *NS* [26 Cdo 2799/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA14CC570EEE00B6C1258B72004D1A0C?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Započtení pohledávky*
+
 ### § 2221—2224 — Změna vlastnictví
 
 **§ 2221**:
@@ -151,6 +189,16 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **Klíčové pravidlo**: **kupní smlouva neruší nájemní smlouvu** (*Kauf bricht nicht Miete*). Nový vlastník vstupuje do postavení pronajímatele.
 
 **Výjimka**: u nájmu bytu/domu — § 2222 specifika.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1377/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/223D4D9E5338D1EAC1258D630052EAFE?openDocument) — *Nájemné*
+- *NS* [26 Cdo 1139/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D140FBB21690ADCC1258B6F004D1980?openDocument) — *Nájem pozemku Vyklizení nemovitosti*
+- *NS* [26 Cdo 1534/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/822667F8B27B9EEFC12589A9001803A7?openDocument) — *Nájem domu (o. z.)*
+- *NS* [26 Cdo 2176/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFD130DA50818362C125866F001DE47D?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [29 Cdo 3264/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D77AABDCE1FFD2F7C1258C590052A2A0?openDocument) — *Vyklizení bytu Insolvence Zajištění závazku Dražba Rodinná domácnost (o. z.) Smlouva náj…*
+- *NS* [26 Cdo 513/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2AE29315F996B1CC1258BCB0052C60F?openDocument) — *Výpověď z nájmu bytu Odvolání*
+- *NS* [26 Cdo 2814/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AD7F853640FACFCC12589AA001A8F7A?openDocument) — *Neplatnost právního jednání (o. z.) Přechod nájmu bytu*
 
 ### § 2225—2234 — Skončení nájmu
 
@@ -215,6 +263,16 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 **§ 2231 — Vrácení věci**: ve stavu, v jakém byla převzata, **s ohledem na obvyklé opotřebení**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2057/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A6B0FFA6630C3422C1258D4C0052D3AB?openDocument) — *Zadržovací právo Nájem*
+- *NS* [26 Cdo 4354/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9CAB41CB6CFC9FFAC12580DB002B7482?openDocument) — *Vyklizení nemovitosti Nájem pozemku*
+- *NS* [26 Cdo 2397/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68C9B3526C5A1CAFC1258C570052A1EE?openDocument) — *Nájem Zadržovací právo*
+- *NS* [26 Cdo 844/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F15AA6767BEB452C1258A5300160289?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
+- *NS* [26 Cdo 2213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA53D2F7964DD3EAC1258957001DEA81?openDocument) — *Výpověď z nájmu*
+- *NS* [26 Cdo 2192/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26801AFF189B85FCC125872700188352?openDocument) — *Nájem Výpověď z nájmu*
+- *NS* [22 Cdo 4574/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC7476A05C31F03EC125822F002B7F68?openDocument) — *Přípustnost dovolání Vlastnictví Nájem*
+
 ---
 
 ### Pododdíl 2 — Nájem bytu a domu (§ 2235—2301)
@@ -233,6 +291,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **Cílem** je trvalé bydlení nájemce/jeho domácnosti.
 
 **§ 2236 — Označení**: i pokud strany označily nesprávně, **rozhoduje skutečný účel užívání**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3010/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/716ABAE8A66A20AEC1258DA40052D9A5?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 2694/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/343A22AA3C72C8E3C12589FD002D33B8?openDocument) — 16. 5. 2023
+- *NS* [27 Cdo 3144/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32BD257FC28C55F8C125871D00184981?openDocument) — *Nájem bytu Nájem domu (o. z.) Smlouva nájemní Vyklizení nemovitosti*
+- *NS* [26 Cdo 3301/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F70EB415A165416C125840D001817CB?openDocument) — *Nájem Výpověď z nájmu bytu Dobrá víra*
+- *NS* [26 Cdo 761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E1AE87B095F6392C125874D0018679C?openDocument) — *Výpověď z nájmu bytu Nájem bytu*
+- *NS* [26 Cdo 2059/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA23614B7030DC0CC12584780015F9D1?openDocument) — *Nájem bytu Úroky z prodlení*
+- *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
 
 ### § 2237—2239 — Zakázaná ujednání
 
@@ -254,6 +322,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **Sjednání kratší výpovědní doby** než zákon stanoví;
 - **Vzdání se práv** nájemce předem;
 - **Změna nájemného jednostranně** mimo ujednanou indexaci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 1827/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E2BF87108978158C1258D4C0052D3BB?openDocument) — *Nájem bytu Smlouva nájemní Příslušenství bytu*
+- *NS* [26 Cdo 2446/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2981DC73BE2E8D7C1258AFD004D48AC?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 56/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0567E7DBAE9C9838C125870E00187F53?openDocument) — 20. 4. 2021
+- *NS* [26 Cdo 2154/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/947E0DD16CCAE8B8C1258646001DCC68?openDocument) — *Nájem bytu Dobrá víra*
+- *NS* [26 Cdo 3229/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/068698F5031F2EF8C1258554001884C5?openDocument) — 6. 2. 2020
+- *NS* [26 Cdo 2957/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C780ED930A097D2C125837C0021FFEB?openDocument) — *Dovolání Dobrá víra Nájem bytu*
+- *NS* [26 Cdo 3529/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5CF5CB6F8BF9E5FC12580DB002B747D?openDocument) — *Přípustnost dovolání Dobrá víra*
 
 ### § 2242—2256 — Odevzdání bytu, povinnosti, podnájem
 
@@ -344,6 +422,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **§ 2255 — Podnájem části bytu**:
 - **Souhlas pronajímatele** vyžadován;
 - **Trvalý pobyt podnájemce** zapsán jen se souhlasem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 109/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD4DBA14FFF02240C12589EE0018355B?openDocument) — *Nájemné*
+- *NS* [25 Cdo 2586/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD6BC71CAE9DFE55C12588C90017CA10?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Bezdůvodné obohacení*
+- *NS* [22 Cdo 530/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B312E6046F8C03DDC125871F0018571D?openDocument) — *Věcná břemena*
+- *NS* [26 Cdo 3398/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA9763DA16F9C822C12586AF00189697?openDocument) — *Nájem bytu Právní jednání (o. z.)*
+- *NS* [26 Cdo 562/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDFD602AEDB92082C1258CA7004D2272?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 3527/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D13043C08B5822F3C1258C93004D6782?openDocument) — *Právní úkony Nájem bytu*
+- *NS* [26 Cdo 1130/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36BE00192AF72F5BC1258932001E2054?openDocument) — *Jistota Nájem pozemku*
 
 ### § 2257—2273 — Nájemné a služby
 
@@ -436,6 +524,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2253 — Služby**: vyúčtování spojené se službami (voda, energie, výtah, úklid) jednou za rok.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 627/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/755A45DE6587F00CC1258C93004D678A?openDocument) — *Nájemné Byt Přípustnost dovolání*
+- *NS* [26 Cdo 1502/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F726C7C1CD326BEC125878E001B7D57?openDocument) — *Společný nájem bytu Společenství účastníků řízení Výpověď z nájmu bytu*
+- *NS* [26 Cdo 1296/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B1314C278BF3ED3C125863D001DB4AB?openDocument) — *Nájem družstevního bytu [ Nájem bytu ] Nemajetková újma (o. z.) Imise*
+- *NS* [8 Tdo 1159/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CC2220B9C317C3DC12582DB003C58A6?openDocument) — *Porušení důležité povinnosti Usmrcení z nedbalosti*
+- *NS* [26 Cdo 33/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C63F03FE87FD545C1258A1B0016118D?openDocument) — *Nájem bytu Byty družstevní*
+- *NS* [25 Cdo 1999/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C892C465CD4D5AA9C12589E100182FD8?openDocument) — *Odpovědnost subjektivní Smlouva o nájmu bytu*
+- *NS* [25 Cdo 3230/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A3F2A6A53A4A55DC12588900017C1C7?openDocument) — *Přípustnost dovolání*
+
 ### § 2278—2284 — Skončení nájmu bytu
 
 **§ 2278**:
@@ -496,6 +594,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2289—2290 — Výpověď s výpovědní dobou** — minimum **3 měsíce** (nelze zkrátit).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2080/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/780302D45D9DC99EC125863D001DB497?openDocument) — *Společný nájem bytu Přechod nájmu bytu*
+- *NS* [26 Cdo 1448/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6BF8FA5D3D06167C1258D850052C83B?openDocument) — *Výpověď z nájmu bytu*
+- *NS* [26 Cdo 2444/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B63FC67950A7047AC1258D780052AF4D?openDocument) — *Nájem bytu Přechod nájmu bytu*
+- *NS* [26 Cdo 2941/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C558CD1A6CE2D75C1258956001E022A?openDocument) — *Výpověď z nájmu bytu*
+- *NS* [26 Cdo 3345/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B5685FB7643322AC12585C1003A1009?openDocument) — *Přechod nájmu bytu*
+- *NS* [26 Cdo 1524/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C64F9EB81D4FDBFC125858F0018E7FF?openDocument) — *Podnájem Výpověď z nájmu nebytových prostor*
+- *NS* [26 Cdo 1984/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/046279394232F531C125841A00182BBF?openDocument) — *Výpověď z nájmu bytu Poctivost (o. z.)*
+
 ### § 2278—2286 — Přechod nájmu
 
 **§ 2278**:
@@ -545,6 +653,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **§ 2280** — Sourozenci, děti, vnoučata žijící v bytě → automaticky nájem;
 - **Krátkodobý přechod** (§ 2281) — vyživované osoby do 25 let.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 484/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F969CB096F3D2CE6C1258D11004D427C?openDocument) — *Podnájem bytu*
+- *NS* [26 Cdo 2080/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/780302D45D9DC99EC125863D001DB497?openDocument) — *Společný nájem bytu Přechod nájmu bytu*
+- *NS* [26 Cdo 1082/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80251B96BF3093F7C12582EA00316028?openDocument) — *Nájem bytu Přechod nájmu bytu*
+- *NS* [26 Cdo 303/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/642B400446466188C12582C6003C6E3F?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 1448/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6BF8FA5D3D06167C1258D850052C83B?openDocument) — *Výpověď z nájmu bytu*
+- *NS* [26 Cdo 2444/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B63FC67950A7047AC1258D780052AF4D?openDocument) — *Nájem bytu Přechod nájmu bytu*
+- *NS* [26 Cdo 2384/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F43775EB9F702F7C1258D5E0052BC16?openDocument) — *Nájem bytu Zneužívání výkonu práv a povinností*
+
 ### § 2295—2301 — Skončení nájmu
 
 **§ 2295**:
@@ -585,6 +703,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2296—2297 — Drobné úpravy** nájemce zůstávají bez náhrady; **velké úpravy** se souhlasem — nárok na náhradu, jen pokud zvyšují hodnotu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 42/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9EA66D988748F35C1258AE70052A4E9?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 3491/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E135D5CB323C794C1258ADB001B878F?openDocument) — *Bezdůvodné obohacení Bytové družstvo [ Družstvo ]*
+- *NS* [26 Cdo 562/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDFD602AEDB92082C1258CA7004D2272?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 1978/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B41A5C5DA689D76CC12586CB0018523A?openDocument) — *Nájem bytu*
+- *NS* [26 Cdo 2059/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA23614B7030DC0CC12584780015F9D1?openDocument) — *Nájem bytu Úroky z prodlení*
+- *NS* [26 Cdo 105/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0ACB9AC35AEF29AC1258C7A004D2A44?openDocument) — 1. 4. 2025
+- *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
+
 ---
 
 ### Pododdíl 3 — Nájem prostor k podnikání (§ 2302—2315)
@@ -614,6 +742,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **§ 2302 — Definice**: prostor sloužící podnikání nájemce.
 
 **§ 2305 — Subsidiarita**: použijí se přiměřeně obecná pravidla nájmu (§ 2201—2234).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2612/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EDCC8C6969913DAC1258C5B0052D116?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 2788/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F84F9326F891A9C1258B88004D56C7?openDocument) — *Žaloba Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 1378/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7F40E95919A4428C1258915001E1A02?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [4 Tdo 1359/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EB85274BD5C9353C12586B700186BFC?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Nebytový prostor Neoprávněný zásah do práva k…*
+- *NS* [26 Cdo 4320/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/102C36882E157630C12585B30018C772?openDocument) — 13. 5. 2020
+- *NS* [26 Cdo 3609/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/142DAEDF6576B665C125859B001905B8?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
+- *NS* [26 Cdo 2291/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7136477899E7E35EC1258D620052A934?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Právní jednání*
 
 ### § 2306—2315 — Specifika
 
@@ -673,6 +811,16 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2314—2315 — Skončení**: vyklizení a vrácení v původním stavu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 235/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26A7616962053DB3C1258DD5004D365E?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 895/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0247BA7C32CB955EC1258CC3004D351A?openDocument) — *Přípustnost dovolání Výpověď z nájmu nebytových prostor*
+- *NS* [26 Cdo 1675/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/229B6B237C9FC96FC1258BB8004D3B25?openDocument) — *Výpověď z nájmu nebytových prostor*
+- *NS* [26 Cdo 428/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C732DB16129FEFB2C1258A4C0016016C?openDocument) — 9. 8. 2023
+- *NS* [26 Cdo 801/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/883605ABB3893099C1258A2E0015F613?openDocument) — *Nájem nebytových prostor*
+- *NS* [26 Cdo 3644/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1EA0E258E6D5A26C12589D10019E591?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [26 Cdo 596/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCA6CE9FBA7A0330C125889E0017D37A?openDocument) — *Výpověď z nájmu nebytových prostor*
+
 ---
 
 ### Pododdíl 4 — Nájem dopravního prostředku (§ 2321—2325)
@@ -694,6 +842,10 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **Hotel, penzion, hostel**;
 - **Krátkodobý** charakter (rozdíl od bydlení);
 - **Ubytovací řád** = "veřejné" podmínky.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 30/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D076E55401C9758C1258C0300529EA3?openDocument) — *Spotřebitel Smlouva o ubytování Odstupné*
 
 ### § 2327—2331 — Práva a povinnosti
 
@@ -734,6 +886,11 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **Daňový režim**: zdaňováno jako příjem z podnikání (živnostenský — ubytovací služby) — § 7 zákona o daních z příjmů;
 - **Návaznost na obecní úpravu**: některé obce regulují AirBnB obecně závaznými vyhláškami.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 30/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D076E55401C9758C1258C0300529EA3?openDocument) — *Spotřebitel Smlouva o ubytování Odstupné*
+- *NS* [26 Cdo 2666/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56ECEBE628DF6740C125833200256859?openDocument) — *Smlouva o ubytování Smlouva spotřebitelská Podnikatel Ochrana spotřebitele Ochrana spotř…*
+
 ---
 
 ## Oddíl 4 — Pacht (§ 2332—2357)
@@ -758,6 +915,14 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Plnění**:
 - **Peněžité pachtovné**, nebo
 - **Naturální plnění** (poměrná část výnosu — typicky úroda).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3395/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/61DEA92511628C84C12589D300183F33?openDocument) — *Nájem pozemku Pacht /pachtýř, propachtovatel) (o. z.)*
+- *NS* [26 Cdo 3744/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46B20C10685785F8C1258AF4004C918B?openDocument) — *Pacht /pachtýř, propachtovatel) (o. z.) Náhrada škody*
+- *NS* [26 Cdo 2457/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/434E533F18A7895EC1258C540052D211?openDocument) — *Nájem nebytových prostor Pacht /pachtýř, propachtovatel) (o. z.)*
+- *NS* [26 Cdo 3498/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BABA6F9C2C982F52C1258BA4004D3BB2?openDocument) — *Pacht /pachtýř, propachtovatel) (o. z.) Výklad projevu vůle*
+- *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
 
 ### § 2333—2344 — Obecná pravidla
 
@@ -822,6 +987,10 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - Sestaven společně;
 - **Vrácení**: ve stavu **s ohledem na obvyklé opotřebení**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3967/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6ABC71E73AC6B35BC1258684001E0EC1?openDocument) — *Nájem pozemku Pacht /pachtýř, propachtovatel) (o. z.) Náhrada škody Myslivost*
+
 ---
 
 ### Pododdíl 2 — Zemědělský pacht (§ 2345—2348)
@@ -854,6 +1023,10 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - Pachtýř má právo na **zisk z provozu**;
 - Závazky / pohledávky závodu zůstávají **propachtovateli** (rozdíl od koupě závodu);
 - **Forma**: písemná, **veřejná listina** doporučená.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2495/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/261027562D8E55A8C1258948001DFF37?openDocument) — *Licence Pacht závodu (o. z.)*
 
 ### § 2350—2357 — Procesní rámec
 

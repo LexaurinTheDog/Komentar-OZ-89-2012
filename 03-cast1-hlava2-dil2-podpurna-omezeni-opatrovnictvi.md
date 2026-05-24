@@ -137,6 +137,12 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 - Osoby s afatickými problémy po cévní mozkové příhodě;
 - Senioři, kteří chtějí mít „další pár očí" na složité smlouvy.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 794/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D25E28934EFC6A22C1258C8B004D445D?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Nápomoc při ro…*
+- *NS* [24 Cdo 1569/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475EF1BBABA68F4AC12588EC001DC14D?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 257/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7980A63A30A7901FC1258B12004D4E2F?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Smlouva o nápomoci (o. z.) [ Podpůr…*
+
 ### § 46 — Obsah smlouvy
 
 > (1) Smlouvou o nápomoci se podpůrce zavazuje podporovanému, že bude s jeho souhlasem přítomen při jeho právních jednáních, že mu zajistí potřebné údaje a sdělení a že mu bude nápomocen radami.
@@ -216,6 +222,15 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Pokud zastoupený odmítne**, zastoupení nevzniká. To je **silně proautonomní pravidlo**: i osoba s těžkou duševní poruchou má právo vetovat zastoupení svým blízkým, pokud to dovolí svým „prahem schopnosti projevit přání".
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4701/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7D1AE2DECD7EC7CC12582E8002631AE?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [30 Cdo 1739/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FDD5A7A18ACC167C12582DA0031584D?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [30 Cdo 1151/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/14AEF8563EFC9533C12582C9003C6BC0?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [30 Cdo 4529/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57E3BF7DA6B7A6F7C1258272003C1564?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Přiznání svéprávnosti (emancipace) (o. z.) [ Sv…*
+- *NS* [30 Cdo 5301/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC8A0BE4A3731752C125826A002617E6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [30 Cdo 944/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE23074EF0C8E8ADC1257FFE0025E05B?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+
 ### § 50 — Schválení soudem
 
 > Ke vzniku zastoupení se vyžaduje schválení soudu. Před vydáním rozhodnutí soud vyvine potřebné úsilí, aby zjistil názor zastoupeného, a to i za použití takového způsobu dorozumívání, který si zastoupený zvolí.
@@ -240,6 +255,16 @@ Standard péče zástupce má **dvě roviny**:
 2. **Subjektivní** — respekt k osobitým představám a přáním zastoupeného (pokud nepřevažují rozumné důvody opačné).
 
 To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnějším formálním rámcem (bez plné inventarizace majetku, bez výročních zpráv soudu).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Ncu 146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF133A25BABAA632C1258C280052F2E6?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 80/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB750956D421F730C1258A0100160E86?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 86/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA761275E02E06AC12589FD002D344F?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 57/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15F6AAB089B5CBB3C12588C400234DEE?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 85/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D65D4DE7F0D8A07C1258928001DBE2F?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 76/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/369AB8B0B504E524C125874400242500?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 65/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F55760A27A4CBB0C125864C0028B261?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
 
 ### § 52 — Rozsah zastoupení
 
@@ -316,6 +341,16 @@ Soudy je aplikovaly velmi často a šablonovitě, čímž **vyřazovaly desetiti
 
 OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení svéprávnosti** — s důrazem na subsidiaritu, diferenciaci a časové omezení (§ 59 — max. 5 let).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1380/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79390601274BF473C1258D10004D4371?openDocument) — *Svéprávnost (o. z.) Dovolání Přípustnost dovolání*
+- *NS* [24 Cdo 938/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93A44E11B7062EC8C1258C74004D2628?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 288/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B474C55737776CD5C1258AF3004D48C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Přípustnost dovolání Dovolací důvody*
+- *NS* [24 Cdo 3777/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E7A097DCA80B617C1258AF9004D0492?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Dokazování*
+- *NS* [24 Cdo 3493/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6585627DFA2121CC12589810017F66B?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Plná svéprávnost (o. z.) [ Svéprávn…*
+- *NS* [24 Cdo 3143/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8913873894AE0095C1258932001E1FDF?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 3006/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48250803B547AC92C125892A001EAE38?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+
 ### § 56 — Pravomoc soudu
 
 > (1) Omezit svéprávnost člověka může jen soud.
@@ -355,6 +390,16 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 
 **Komunikační bariéra ≠ důvod omezení** (odst. 2) — toto pravidlo chrání osoby s afaziií, hluchoslepé, autisty a další. Soud má povinnost zajistit komunikační prostředek (tlumočníka znakového jazyka, AAC), nikoliv osobu odepsat.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0770FE6C8165A89EC1258C130052AF87?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 3740/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/22725B325A42C6F1C1258AF4004C8F14?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odp…*
+- *NS* [24 Cdo 3550/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15A194F298AB9C04C12589A000191C04?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 3064/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/719208C0DF07C76FC12585750018B7AE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 1087/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2737BDDABA15EC48C125876000196C95?openDocument) — *Svéprávnost (o. z.) Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Advokacie Opatr…*
+- *NS* [30 Cdo 412/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E51C6ED2DA705B0C12583570021EF12?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Doka…*
+- *NS* [30 Cdo 6047/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/589D14E022F2F23CC125829B0052A9A6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Rod…*
+
 ### § 58 — Předběžné svěření jednání
 
 > Soud může v průběhu řízení o omezení svéprávnosti svěřit třetí osobě provedení určitých jednotlivých právních jednání nebo správu majetku, je-li to nutné, aby se zabránilo závažné újmě.
@@ -364,6 +409,10 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 **Předběžné opatření** v řízení o svéprávnosti — analogie k předběžnému opatření OSŘ § 76, ale specifické pro tuto agendu. Soud může za běhu řízení:
 - Svěřit třetí osobě **konkrétní jednání** (např. uhradit kritickou platbu, prodat věc s rychlou ztrátou hodnoty);
 - Svěřit **správu majetku** dočasně (zejména pokud hrozí, že nejednání povede ke ztrátě).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3474/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/054FC8BA55766318C12585F300189601?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 
 ### § 59 — Časové omezení
 
@@ -387,6 +436,16 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 - Opatrovník má povinnost informovat soud o změnách stavu (§ 466 a násl. ZŘS — povinnost zprávy o stavu opatrovance);
 - Lidé s omezenou svéprávností nejsou „odepsáni" navždy.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1123/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72031DAEDE978C61C1258B3F004D5A46?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 734/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C3BA67C541AD209C1258A15002C283C?openDocument) — *Omezení svéprávnosti (o.z.) Lhůta hmotněprávní [ Lhůty ] Odvolání*
+- *NS* [24 Cdo 2179/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D22BAA982D235BC125890E001DFF86?openDocument) — 12. 8. 2022
+- *NS* [24 Cdo 2157/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70800B833466C44EC1258525001F0F8E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [27 Cdo 5340/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65812C705069DADAC12584FA001E3324?openDocument) — *Smlouva pracovní Jednatel Společnost s ručením omezeným*
+- *NS* [24 Cdo 2160/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03BF585E7420D38BC1258ADD00269B05?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Právní moc rozhodnutí*
+- *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
+
 ### § 60 — Změna nebo zrušení i bez návrhu
 
 > Změní-li se okolnosti, soud své rozhodnutí bezodkladně změní nebo zruší, a to i bez návrhu.
@@ -396,6 +455,14 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zlepší (např. úspěšná léčba), může i bez návrhu zrušit nebo zmírnit omezení. Pokud se zhorší, může rozšířit (ale jen v rámci hranic § 57 a § 59).
 
 **Procesní úprava:** § 42 ZŘS.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1425/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66FF04AE102B32BEC1258A2700161283?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Změna poměrů*
+- *NS* [24 Cdo 3488/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44FC14940A12B8C6C12587150018B1DC?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 2612/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F77AA8ECF527E392C12586C10018043C?openDocument) — *Znalecký posudek Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 257/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7980A63A30A7901FC1258B12004D4E2F?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Smlouva o nápomoci (o. z.) [ Podpůr…*
+- *NS* [30 Cdo 4529/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57E3BF7DA6B7A6F7C1258272003C1564?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Přiznání svéprávnosti (emancipace) (o. z.) [ Sv…*
 
 ### § 61—63 — Opatrovník
 
@@ -431,6 +498,16 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 
 **Subsidiární řešení — veřejný opatrovník** (§ 471): pokud nelze nalézt vhodnou fyzickou osobu, **opatrovníkem se jmenuje obec** (typicky obecní úřad — sociální odbor), v jejímž obvodu má opatrovanec bydliště. Toto je nucené opatrovnictví; obec ho nemůže odmítnout. Veřejný opatrovník je často nedostatečný (přetíženost, formální přístup, konflikt zájmů obce vs. opatrovance).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2233/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA3C27348EB01344C125830400314562?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník*
+- *NS* [30 Cdo 2235/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A52C01716F3BF81C125830400314563?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník Správa cizího majetku (o. z.)*
+- *NS* [30 Cdo 643/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77F189828A32F211C1257EB90025B625?openDocument) — 17. 6. 2015
+- *NS* [24 Cdo 2181/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6186CD203DC66E2AC1258A58001B81EB?openDocument) — *Přípustnost dovolání Opatrovník hmotně právní [ Opatrovník ] Osoba blízká*
+- *NS* [24 Cdo 2497/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AE2B67D4164C5D2C125866E001DBE33?openDocument) — *Opatrovník Kolizní opatrovník (o. z.)*
+- *NS* [24 Cdo 3590/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDCCFD6513B95A55C12585D6001853F1?openDocument) — *Omezení svéprávnosti (o.z.) Opatrovník Řízení opatrovnické*
+- *NS* [24 Cdo 3307/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DD18E48B869BE86C12584170018BD83?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+
 ### § 64 — Běžné záležitosti každodenního života
 
 > Rozhodnutí o omezení svéprávnosti nezbavuje člověka práva samostatně právně jednat v běžných záležitostech každodenního života.
@@ -445,6 +522,11 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 - Komunikovat s úřady v běžných věcech.
 
 Toto je **kogentní ustanovení** — soud nemůže omezit svéprávnost natolik, aby zasahovala do běžného života. Cílem je zachovat **dignity** a **autonomy** i v rámci omezení.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3269/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DE97B0DF46F104DC1258DB70052B31E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 2837/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/499503948E8CDCFCC12586E0001858C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 
 ### § 65 — Důsledky jednání mimo rozsah
 
@@ -583,6 +665,10 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 - Vyčká uplynutí lhůty (typicky 6 měsíců);
 - Rozhodne rozsudkem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
+
 ### § 72 — Domněnka po prohlášení za nezvěstného
 
 > Byl-li člověk prohlášen za nezvěstného a vyplývají-li z okolností vážné pochybnosti, zda je ještě živ, ačkoli jeho smrt není nepochybná, může ho soud prohlásit za mrtvého na návrh osoby, která na tom má právní zájem, a určí den, který nezvěstný zřejmě nepřežil. Má se za to, že tento den je dnem smrti nezvěstného.
@@ -592,6 +678,10 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 § 72 řeší **přechod od nezvěstnosti k domněnce smrti**. Podmínka: **vážné pochybnosti**, zda nezvěstný žije, ač smrt **není nepochybná**. Soud určí den, který nezvěstný **zřejmě nepřežil** (typicky den dopravní nehody, požáru, sesuvu půdy, kdy byl viděn naposled).
 
 **Vyvratitelná domněnka** ohledně dne smrti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
 
 ### § 73 — Lhůta po prohlášení za nezvěstného
 
@@ -612,6 +702,10 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 **Pravidlo „7 let od poslední zprávy"** — pokud nebyl předem prohlášen za nezvěstného, čeká se 7 let od konce roku poslední zprávy.
 
 **Ochrana nezletilých** (odst. 2): nezletilého nelze prohlásit za mrtvého **před rokem, kdy by mu bylo 25 let**. Tj. pokud zmizí dítě v 10 letech, prohlášení nejdříve po 15 letech (ve 25 letech). Důvod: dítě může mít zvláštní motivace ke zmizení (útěk z domova, problémy se školou), pravděpodobnost přežití je vyšší, a kromě toho lze i v dospělém věku objevit (např. v jiné zemi, kde žije pod jiným jménem).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
 
 ### § 75 — Lhůta při hromadných událostech
 
@@ -652,6 +746,10 @@ Důvod zkrácení: u takových událostí je pravděpodobnost úmrtí **kvalitat
 - **Manželství je definitivně zaniklé** — pokud chce vrátivší se obnovit svazek, musí uzavřít nové manželství.
 
 **Mylný důkaz smrti** (odst. 2) — pokud se prokáže, že úmrtní list byl vystaven omylem (např. tělo bylo špatně identifikováno), platí stejný režim jako u prohlášení za mrtvého.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
 
 ---
 

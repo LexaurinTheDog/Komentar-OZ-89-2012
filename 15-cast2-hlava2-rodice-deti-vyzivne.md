@@ -33,6 +33,10 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Praktický důsledek**: smlouva mezi rodiči o tom, že jeden „přebere veškeré povinnosti" a druhý je „zbaven" — **neúčinná**. Stejně tak vzdání se rodičovských práv darem nebo souhlasem — **bezvýznamné**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Tdo 1003/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CAEB178FEBBB3BAC125866E001FEE50?openDocument) — 22. 10. 2020
+
 ### § 856 — Časový rozsah
 
 > Povinnosti a práva rodičů spojená s osobností dítěte a povinnosti a práva osobní povahy vznikají narozením dítěte a zanikají nabytím jeho zletilosti.
@@ -92,6 +96,16 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **§ 858 odst. 3 — Monopol soudu** na změnu trvání nebo rozsahu — žádný správní orgán ani rodič sám nemůže rodičovskou odpovědnost měnit.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [7 Tdo 596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DFF16DA99F28234C1258D07004D04FB?openDocument) — *Ublížení na zdraví z nedbalosti Rodičovská zodpovědnost Subsidiarita trestní represe*
+- *NS* [4 Tdo 75/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A0073378A0F2F69C1258B470015F9F7?openDocument) — *Dokazování Listinný důkaz Maření výkonu úředního rozhodnutí a vykázání Ohrožování výchov…*
+- *NS* [24 Cdo 1447/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E189EAEBCC5ECEBC12587690018C0DE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
+- *NS* [4 Tdo 1160/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDC0C18A34067232C1258692001E1002?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Lhostejnost Opomenutí Pokus trestného činu Sro…*
+- *NS* [4 Tdo 1293/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1CB1DFE1C83E1511C12583CE001D57DC?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Jednočinný souběh Ohrožování výchovy dítěte Tý…*
+- *NS* [7 Tdo 1249/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D397F074BD043034C1257DC800411F24?openDocument) — *Nedbalost Rodičovská zodpovědnost Těžké ublížení na zdraví z nedbalosti*
+- *NS* [24 Cdo 1557/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B60867FC1C77CA6C1258B95004D3E7E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+
 ### § 859 — Oddělenost vyživovací povinnosti
 
 > Vyživovací povinnost a právo na výživné nejsou součástí rodičovské odpovědnosti; jejich trvání nezávisí na nabytí zletilosti ani svéprávnosti.
@@ -108,6 +122,10 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 **Praktický důsledek:**
 - Rodič po dosažení zletilosti dítěte ztrácí rodičovskou odpovědnost, ale **vyživovací povinnost trvá**, dokud se dítě nemůže samo živit (typicky během studia až do cca 26 let);
 - Zbavení rodičovské odpovědnosti **neruší vyživovací povinnost** (§ 874).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
 
 ---
 
@@ -186,6 +204,16 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Vazba s omezením svéprávnosti**: při omezení svéprávnosti rodiče soud **současně** rozhodne o jeho rodičovské odpovědnosti — typicky pozastavení nebo omezení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [7 Tdo 328/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81A2221885F33D78C1258B58004D1720?openDocument) — *Ohrožování výchovy dítěte Příčetnost Příčetnost zmenšená Rodičovská zodpovědnost Volné h…*
+- *NS* [24 Cdo 2921/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED27B0A283B41D50C1258D790052DA73?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [25 Cdo 2248/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCB7170D8CC0C8F3C12587CF001CB504?openDocument) — *Náhrada nemajetkové újmy (o. z.) Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 4217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36D1597D468877FBC12587D4001C2871?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 602/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D36FE53AE3FAE1EC12587B0001E63A3?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
+- *NS* [24 Cdo 80/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDB2887B8FCEF017C12585B20018FDEA?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem Výchova nezletilých dětí*
+- *NS* [21 Cdo 5036/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/611C329A77683868C12584400018058E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+
 #### § 866—867 — Zájem dítěte a slyšení
 
 > Pro rozhodnutí soudu, které se týká rozsahu rodičovské odpovědnosti nebo způsobu či rozsahu, v jakém ji rodiče mají vykonávat, jsou určující zájmy dítěte.
@@ -203,6 +231,16 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - Soud věnuje **patřičnou pozornost** názoru dítěte.
 
 **Návaznost**: Úmluva OSN o právech dítěte (čl. 12 — právo dítěte být slyšeno).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1811/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B66A0FA44D45D7C1258AB1001B7EAA?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
+- *NS* [24 Cdo 3032/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1BC9E254D4D0F8CC12588370017DC32?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
+- *NS* [24 Cdo 2837/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/499503948E8CDCFCC12586E0001858C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [24 Cdo 1173/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF72B67065AB7003C1258B0E004D370F?openDocument) — *Rodičovská odpovědnost (o. z.) (poctivý) obohacený/ochuzený (o. z.) [ Zneužití a omezení…*
+- *NS* [24 Cdo 3273/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/452BEB306BF0B77CC1258AF3004D48BB?openDocument) — *Rodičovská odpovědnost (o. z.) Nezletilí*
+- *NS* [24 Cdo 4217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36D1597D468877FBC12587D4001C2871?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 80/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDB2887B8FCEF017C12585B20018FDEA?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem Výchova nezletilých dětí*
 
 #### § 868—871 — Omezení, pozastavení, zbavení
 
@@ -237,6 +275,16 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - **Zneužívání** nebo **závažné zanedbávání** rodičovské odpovědnosti;
 - **Spáchání úmyslného TČ** proti dítěti / použití dítěte k TČ / spolupáchání TČ dítěte → soud **zvlášť posoudí**, zda jsou důvody pro zbavení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2881/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10FC565D3634C4E9C12589F6001838F4?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 1498/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4899EFE1E4DC957FC12585FE0019E413?openDocument) — *Přípustnost dovolání*
+- *NS* [21 Cdo 2432/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72BC5C9F6778081BC12583DD0022D1AE?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem Výchova nezletilých dětí*
+- *NS* [24 Cdo 1557/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B60867FC1C77CA6C1258B95004D3E7E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 1825/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50D742D57FADA672C1258A91001B7C47?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 3032/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1BC9E254D4D0F8CC12588370017DC32?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
+- *NS* [24 Cdo 2650/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41BE53BD74BF6381C12587E0001B86AD?openDocument) — *Rodičovská odpovědnost (o. z.) Výchova nezletilých dětí Řízení ve věcech péče o nezletilé*
+
 #### § 872—874 — Styk a vyživovací povinnost po omezení/zbavení
 
 > (1) Před rozhodnutím soudu o omezení rodičovské odpovědnosti soud vždy posoudí, zda je vzhledem k zájmu dítěte nezbytné omezit právo rodiče stýkat se s dítětem. Dojde-li ke zbavení rodiče rodičovské odpovědnosti, zůstává rodiči právo stýkat se s dítětem jen v případě, že soud rozhodne o zachování tohoto práva rodiči s přihlédnutím k zájmu dítěte.
@@ -259,6 +307,12 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **§ 874**: **zbavení / omezení NEMÁ VLIV NA VYŽIVOVACÍ POVINNOST** (§ 859) — kogentní.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2098/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0021D98B93A75AC1258BF60052C18C?openDocument) — *Rodičovská odpovědnost (o. z.) Pěstounská péče*
+- *NS* [24 Cdo 4217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36D1597D468877FBC12587D4001C2871?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [30 Cdo 3361/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1A04C26FE3FDE81C1257DD50046ED87?openDocument) — *Rodičovská zodpovědnost Rodičovská odpovědnost (o. z.)*
+
 ### Zvláštní ustanovení o výkonu (§ 875—879)
 
 #### § 875—876 — Společný výkon a shoda
@@ -279,6 +333,12 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - Default: **ve vzájemné shodě**;
 - Při nebezpečí z prodlení → jeden rodič rozhodne sám + neprodleně informuje druhého;
 - Vůči **třetí osobě v dobré víře**: jednání jednoho **se má za jednání se souhlasem druhého** (vyvratitelná domněnka, paralela k § 696).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2921/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED27B0A283B41D50C1258D790052DA73?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 3173/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4615BAE90302D14FC1258963001D92D5?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [25 Cdo 2087/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5E2BD524910FDA4C1258D26004D118E?openDocument) — *Zdravotnictví Rodičovská odpovědnost (o. z.) Ochrana osobnosti Nemajetková újma (o. z.)…*
 
 #### § 877 — Soudní rozhodnutí při neshodě
 
@@ -418,6 +478,13 @@ Jednání vůči dítěti, které není způsobilé samostatně jednat, postač�
 
 **§ 898 odst. 4 — Relativní neplatnost s testem újmy** (paralela k § 65 odst. 1 pro opatrovance): jednání bez souhlasu lze prohlásit za neplatné **jen pokud způsobuje dítěti újmu**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1845/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFD7AF64093D241DC1258C60004D1A2C?openDocument) — *Řízení opatrovnické Právní úkony Odpovědnost státu za nemajetkovou újmu [ Odpovědnost st…*
+- *NS* [25 Cdo 4531/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1C6F38D92EBD6D8C12584B0003EFC69?openDocument) — *Podmínky řízení Ochrana osobnosti*
+- *NS* [24 Nd 254/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/338EE594601378B7C125849900187772?openDocument) — *Přikázání věci (delegace)*
+- *NS* [20 Cdo 2804/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0FC660E48FCF865C1258A97001B9433?openDocument) — *Zastavení exekuce Nezletilí Majetek osoby (o. z.)*
+
 #### § 899—902 — Plody, dluhy, vyúčtování
 
 > Co rodiče získají použitím majetku dítěte, nabývá dítě.
@@ -513,6 +580,15 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Praktický příklad**: dospělý člověk potřebuje výživu. Povinnost mají primárně **manžel/ka** (§ 697), pak **děti** (potomci), pak **rodiče** (předci), pak vzdálenější příbuzní.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Tdo 1135/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BA4E5FE218FD1D0C1258C540052D174?openDocument) — *Hodnocení důkazů Vyživovací povinnost Zanedbání povinné výživy Úmysl přímý*
+- *NS* [8 Tdo 514/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/370545FA857FB619C1258B8C004D284C?openDocument) — *Insolvenční řízení Nedbalost vědomá Vyživovací povinnost Zanedbání povinné výživy*
+- *NS* [29 ICdo 140/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A8B45591EEFD96AC12588F9001B7FB0?openDocument) — *Pohledávka přednostní Výživné Incidenční spory (odporové spory) Insolvenční řízení*
+- *NS* [8 Tdo 599/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52A58AA736FB0997C1258195003C2ACD?openDocument) — *Trest Zanedbání povinné výživy úmysné*
+- *NS* [30 Cdo 2183/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/892E3DE97241448EC12587D9001B8673?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Dokazování Výživné*
+- *NS* [29 Cdo 2095/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D5914B95BE16F14C125897F00183486?openDocument) — *Odporovatelnost Výživné*
+
 ### § 911—914 — Obecná pravidla
 
 **§ 911**:
@@ -548,6 +624,16 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 - **Osobní péče** o oprávněného / o domácnost — pozitivní zápočet.
 
 **§ 914**: při více povinných **se stejným postavením** — rozdělení **podle poměru** majetkových poměrů, schopností, možností.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [3 Tdo 637/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5D688BF56ACD59EC1258BCC0052AE69?openDocument) — *Předběžné otázky Výživné Vyživovací povinnost Zanedbání povinné výživy z nedbalosti*
+- *NS* [4 Tdo 1157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E2B0616DD5665CFC1258AF5004D30FF?openDocument) — *Dokazování Předběžné otázky Subjektivní stránka Vyživovací povinnost Zanedbání povinné v…*
+- *NS* [3 Tdo 1192/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79ACD1CA9FAA2F8CC12585500018B5F6?openDocument) — *Zanedbání povinné výživy*
+- *NS* [3 Tdo 1192/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ABC4B2E5C78F3AABC1258224004CE22F?openDocument) — *Zanedbání povinné výživy*
+- *NS* [30 Cdo 2183/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/892E3DE97241448EC12587D9001B8673?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Dokazování Výživné*
+- *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
+- *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
 
 ### § 915—919 — Výživné mezi rodiči a dětmi
 
@@ -585,6 +671,11 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 - Rozvedení rodiče bez dohody → soud rozhodne;
 - Rozhodnutí o **společné péči** (§ 907 odst. 1) → soud **zpravidla nerozhoduje** o výživném (předpoklad sdílení nákladů);
 - Rozhodnutí o **rozdělené péči** (§ 907 odst. 2) → **vždy** rozhodne o výživném.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
+- *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
 
 ### § 920 — Výživné neprovdané matce
 
@@ -645,6 +736,12 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 - **Snížení/zrušení za minulou dobu**: spotřebované výživné **se nevrací** (chrání dítě);
 - Snížení se promítne do **budoucích dávek**;
 - Při smrti dítěte před uplynutím měsíce: dávka **se nevrací**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
+- *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
+- *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
 
 ---
 
@@ -712,6 +809,10 @@ Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce �
 - **Sourozenci** v ústavní péči — udržování styku.
 
 **Procesní úprava**: § 466 a násl. ZŘS — řízení o úpravě styku.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2328/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C36CEB441BD618D3C1258A97001B9467?openDocument) — *Popření otcovství*
 
 ---
 

@@ -51,6 +51,11 @@ Tato kapitola pokrývá dva ze tří typů právnických osob (po korporacích z
 
 Statut (§ 305) je **vnitřní dokument** fundace upravující její organizaci. U nadace povinný (§ 314), u ústavu volitelný (§ 413).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
+- *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
+
 ---
 
 ## Oddíl 3 Pododdíl 2 — Nadace (§ 306—393)
@@ -162,6 +167,10 @@ Zakládací listina obsahuje alespoň:
 - h) **Správce vkladů**;
 - i) **Podmínky pro poskytování nadačních příspěvků** (nebo odkaz na statut).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
+
 #### § 311—312 — Založení pořízením pro případ smrti
 
 > (1) Při založení nadace pořízením pro případ smrti se do nadace vnáší vklad povoláním nadace za dědice nebo nařízením odkazu. V takovém případě nabývá založení nadace účinnosti smrtí zůstavitele.
@@ -212,6 +221,10 @@ Default: vkladová povinnost se plní **v penězích**. Pokud zakladatel ujednal
 
 **Uveřejnění**: uložením do **sbírky listin** veřejného rejstříku — **přístupné komukoli**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
+
 ### § 315 — Vznik nadace
 
 > (1) Nadace vzniká dnem zápisu do veřejného rejstříku.
@@ -247,6 +260,11 @@ Vznik = **den zápisu do veřejného rejstříku** (nadační rejstřík). Návr
 > Určil-li zakladatel v nadační listině výslovně, že je nezměnitelná nebo že nelze měnit její určitou část, nelze ji změnit ani rozhodnutím soudu.
 >
 Pokud zakladatel **výslovně určí**, že nadační listina (nebo její část) je **nezměnitelná**, **nelze ji změnit ani rozhodnutím soudu**. Tato klauzule chrání vůli zakladatele s absolutní platností.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
+- *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
 
 ### Změna účelu nadace (§ 321—326)
 
@@ -869,6 +887,10 @@ Den zápisu do VR (rejstřík ústavů).
 > Neurčí-li zakládací listina, že členům orgánů ústavu náleží za výkon funkce odměna a způsob jejího určení, platí, že řediteli náleží odměna obvyklá a má se za to, že funkce členů ostatních orgánů jsou čestné. V takovém případě určí výši odměny ředitele nebo způsob jejího určení správní rada.
 
 **Default**: ředitel obdrží **odměnu obvyklou** (určí SR); funkce ostatních orgánů jsou **čestné**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 2918/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40DCCB18B27709D0C1258DB50052CABD?openDocument) — *Promlčení Insolvence*
 
 ### § 415 — Účetnictví
 

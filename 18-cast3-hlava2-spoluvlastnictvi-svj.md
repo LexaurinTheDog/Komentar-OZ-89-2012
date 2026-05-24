@@ -30,6 +30,16 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Nepřerušená držba** — kontinuita; přerušení viz § 1093.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1085/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF6DE8332A53EEBFC125890A001DDDAC?openDocument) — *Přípustnost dovolání Vydržení*
+- *NS* [22 Cdo 3680/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/125D8949CCD8FFF5C1258AF4004C975A?openDocument) — *Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 3044/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/508D5EAE90154CC0C1258DA00052DD7E?openDocument) — *Žaloba určovací Mimořádné vydržení (o. z.) Přechodná (intertemporální) ustanovení*
+- *NS* [22 Cdo 1386/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C2660567C1E4A11C1258CEE004D38D7?openDocument) — *Vydržení Mimořádné vydržení (o. z.) Služebnost (o. z.)*
+- *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
+- *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 1310/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/604016FC16BDBD02C1258CF9004D26E1?openDocument) — *Vlastnictví Vydržení Mimořádné vydržení (o. z.)*
+
 ### § 1092—1094 — Započtení, přerušení, ochrana
 
 **§ 1092**:
@@ -46,6 +56,14 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **§ 1094 — Ochrana zastoupeného**: pokud vyžaduje zákonného zástupce / opatrovníka, lhůta běží **až po jmenování**; již započatá běží dál, ale **neskončí dříve než 1 rok po odpadnutí překážky**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3387/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/347FE1C3F7E88464C1258882001612D5?openDocument) — *Mimořádné vydržení (o. z.) Vydržení*
+- *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
+- *NS* [22 Cdo 2721/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9AEFCEC302EC0F4C1258C67004D1962?openDocument) — *Vydržení*
+- *NS* [22 Cdo 4440/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042E7ACD5F089816C1258440002E7E8C?openDocument) — *Držba Držba (o. z.)*
+- *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+
 ### § 1095 — Mimořádné vydržení
 
 > Uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá. To neplatí, pokud se mu prokáže nepoctivý úmysl.
@@ -59,6 +77,16 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Vyloučení**: prokázání **nepoctivého úmyslu** držitele. Důkazní břemeno nepoctivosti nese ten, kdo brání vydržení.
 
 **Praktický význam**: hlavní cesta nabytí vlastnictví **pozemků s nejistým titulem** (zejména po restitučních a dědických spletech) — typicky 20 let nepřetržité poctivé držby u nemovitosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 ICdo 15/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0FAC07FB2D8376B6C1258DD5004D36AF?openDocument) — *Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 16/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54CA21C58B8EDB6C1258DAF0052C064?openDocument) — *Přípustnost dovolání Mimořádné vydržení (o. z.) Vlastnictví Žaloba určovací Pozemkový úřad*
+- *NS* [22 Cdo 3108/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8BDEDAC2F5719E6C1258DA60052AA39?openDocument) — *Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 3258/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46639D388F2562CEC1258DB00052C12A?openDocument) — *Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 2572/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4F49603058F83BCC1258D600052A8DE?openDocument) — *Přípustnost dovolání Žaloba určovací Vlastnictví Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 191/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3B09B5C552DEE43C1258C91004D0904?openDocument) — *Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 3413/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/953D8E6C7C181145C1258C77004D2218?openDocument) — *Služebnost (o. z.) Vydržení*
 
 ### § 1096—1098 — Specifika
 
@@ -77,6 +105,10 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **§ 1097 — Zákaz vydržení**: zákonný zástupce × zastoupený (vzájemně); opatrovník × opatrovanec; poručník × poručenec. Anti-fraud klauzule.
 
 **§ 1098 — Stavění vydržecí lhůty** (paralela k § 646 promlčení): mezi manžely / ve společné domácnosti / zástupce-zastoupený / opatrovník-opatrovanec / poručník-poručenec — **lhůta neběží**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
 
 ---
 
@@ -152,6 +184,16 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **§ 1105 — Nemovitosti**: **vklad do VR** (katastru) konstitutivně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3082/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97D2816B9B1EDC0BC1258C270052DBCC?openDocument) — *Směnka Cenný papír na jméno [ Cenné papíry ]*
+- *NS* [29 Cdo 3728/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5B2656B5E14C945C12589CD0018199C?openDocument) — *Směnka Účastníci řízení Přípustnost dovolání*
+- *NS* [20 Cdo 1414/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9F47AD8372A150AC12588ED001DD3A4?openDocument) — *Procesní nástupnictví Směnečný a šekový platební rozkaz Směnka*
+- *NS* [29 Cdo 1678/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95B5AF2EF1065999C12588A00017E011?openDocument) — *Směnka Směnečný a šekový platební rozkaz Procesní nástupnictví Cenný papír na řad [ Cenn…*
+- *NS* [27 Cdo 3143/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4356AE0B7FAF733C125885B0017E323?openDocument) — *Akcie na jméno [ Akcie ] Umoření listin*
+- *NS* [29 Cdo 3840/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E38093CF395FC194C12585A90018EAEF?openDocument) — *Směnečný a šekový platební rozkaz Směnky Účastníci řízení*
+- *NS* [20 Cdo 451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/240B174F7AFB6F46C12582C5005279E0?openDocument) — *Žaloba vylučovací (excindační)*
+
 ### § 1106—1108 — Práva a závady spojené s věcí
 
 **§ 1106**:
@@ -172,6 +214,15 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - **Nepřejaté závady zanikají**.
 
 **§ 1108**: pravidla platí i při nabytí **jinak než převodem** (vydržením, přírůstkem, rozhodnutím).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 95/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC24B6402E084889C12586DD00185207?openDocument) — *Věcná břemena Omezení vlastnictví (náhrada) Vlastnictví*
+- *NS* [22 Cdo 1225/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F3D2B3AEE68FB213C1258D480052C137?openDocument) — *Předkupní právo*
+- *NS* [33 Cdo 3583/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3E313647270A60CC12586C5001607C6?openDocument) — *Odpovědnost za vady Převod vlastnictví*
+- *NS* [33 Cdo 1480/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4062DC8A1A0F7FDC1258670001B7F65?openDocument) — *Předkupní právo Podílové spoluvlastnictví*
+- *NS* [26 Cdo 557/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6181D817E6E1798FC125860E001E2E58?openDocument) — *Převod vlastnictví Vlastnictví bytů*
+- *NS* [22 Cdo 2824/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37F5E19713116298C1258C91004D08E2?openDocument) — *Spoluvlastnictví Předkupní právo Předkupník, koupěchtivý (o. z.) Vlastnictví Dobré mravy…*
 
 ---
 
@@ -207,6 +258,16 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - **Dobrá víra v oprávnění převodce**;
 - **Řádný titul** (kupní smlouva, dar atd.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 870/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7CE464474E860DFC1258941001E2637?openDocument) — *Vlastnictví Vydržení*
+- *NS* [24 Cdo 3166/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F20F9E94E8A4C6EC12589300020822B?openDocument) — *Nabytí vlastnického práva od neoprávněného*
+- *NS* [20 Cdo 1040/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5159E5C2F8E4B3F1C12588F4001DF49D?openDocument) — *Přípustnost dovolání Nabytí vlastnického práva od neoprávněného Exekuce*
+- *NS* [22 ICdo 61/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3036527C49AB8336C1258D16004D3C84?openDocument) — *Vlastnictví Věc Veřejný seznam (o. z.) Katastr nemovitostí Převod nemovitostí*
+- *NS* [23 Cdo 1888/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C3F9949CFB2D4ECC1258A2E0015F598?openDocument) — *Výhrada vlastnického práva Nabytí vlastnického práva od neoprávněného*
+- *NS* [23 Cdo 1837/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA19F67DE0749D65C12588EC001DC219?openDocument) — *Dobrá víra Nevlastník Vozidla silniční Vlastnictví Smlouva kupní*
+- *NS* [21 Cdo 822/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60EE33FE15DE3782C1258941001E25C8?openDocument) — *Veřejná nedobrovolná dražba [ Veřejná dražba ] Vydání věci Vlastnictví Příklep Poctivost…*
+
 ### § 1110 — Použité věci od podnikatele
 
 > Získal-li někdo v dobré víře za úplatu použitou movitou věc od podnikatele, který při své podnikatelské činnosti v rámci běžného obchodního styku obchoduje takovými věcmi, vydá ji vlastníku, který prokáže, že věc pozbyl ztrátou nebo že mu věc byla odňata svémocně a že od ztráty nebo odnětí věci uplynuly nejvýše tři roky.
@@ -220,6 +281,10 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Praktický význam**: chrání oběti **krádeže** před nabyvatelem v dobré víře u bazarového prodeje. Po 3 letech se vlastníkem stává nabyvatel.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 83/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A3026E425424792C12589D800309D02?openDocument) — *Úschova Nabytí vlastnického práva od neoprávněného Dovolací důvody*
+
 ### § 1111 — Mimo § 1109 a 1110
 
 > Získal-li někdo movitou věc za jiných okolností, než které stanoví § 1109 nebo 1110, stane se vlastníkem věci, pokud prokáže dobrou víru v oprávnění převodce převést vlastnické právo k věci. To neplatí, pokud vlastník prokáže, že věc pozbyl ztrátou nebo činem povahy úmyslného trestného činu.
@@ -231,6 +296,14 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - **Úmyslný trestný čin** (krádež, loupež).
 
 V těchto případech vlastník vždy vindikuje (§ 1040).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [7 Tdo 967/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2786BEAF94C76E79C12589370020556C?openDocument) — *Legalizace výnosů z trestné činnosti Náhrada škody Propadnutí náhradní hodnoty Propadnut…*
+- *NS* [29 ICdo 144/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B16B5233D53BFC7CC1258684001E0EDB?openDocument) — *Žaloba vylučovací (excindační) Dobrá víra Nabytí vlastnického práva od neoprávněného Veř…*
+- *NS* [22 Cdo 240/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4BF1276F32BC9F3C12584EE001F3BA5?openDocument) — *Přípustnost dovolání Exekuce Vlastnictví*
+- *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
+- *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
 
 ### § 1112—1113 — Vyloučení a CP
 
@@ -249,6 +322,10 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 
 → V těchto případech **silnější ochrana nabyvatele** (krádež se nepoužije proti nabyvateli).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
+
 ### § 1114 — Nabytí rozhodnutím orgánu VM
 
 > Rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen. Není-li v rozhodnutí takový den určen, nabývá se vlastnického práva dnem právní moci rozhodnutí.
@@ -260,6 +337,16 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - Vyvlastnění;
 - Příklep ve veřejné dražbě;
 - Restituční rozhodnutí.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 1825/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/345808FDD4507E60C1258D5B004A53AE?openDocument) — *Zmírnění křivd (restituce) Katastr nemovitostí Rozsudek částečný*
+- *NS* [28 Cdo 1566/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/529A52A2F0789254C1258A1E00161184?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Vlastnictví*
+- *NS* [33 Cdo 2230/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E4AC5F21B3A38D5C12589E90018251A?openDocument) — *Přípustnost dovolání Vlastnictví*
+- *NS* [28 Cdo 3627/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3AFFAF59181EE558C12588190015FE6A?openDocument) — *Náhradní pozemek Zmírnění křivd (restituce) Stavební řízení Vlastnictví*
+- *NS* [28 Cdo 1520/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8BB3352B50F4362C12587630018BE86?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Stavební řízení Vlastnictví*
+- *NS* [28 Cdo 979/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F690D68D6A08D7B9C12587080018798C?openDocument) — *Přípustnost dovolání Zmírnění křivd (restituce) Stavební řízení Vlastnictví*
+- *NS* [28 Cdo 509/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA0042D870D29B1DC125871E0018787D?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Stavební řízení Vlastnictví*
 
 ---
 
@@ -303,6 +390,16 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 **Pozn.**: obecné předkupní právo spoluvlastníků (§ 1124 v původním znění od 2014—2018) bylo **zrušeno novelou 2018**; znovuobnoveno novelou 2020 (zák. č. 163/2020 Sb.) jen pro tyto specifické případy.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 1194/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/238ACC30685C6B99C12589C000182BCC?openDocument) — *Insolvenční řízení Předkupní právo Převod vlastnictví Návrh na zahájení řízení*
+- *NS* [22 Cdo 890/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70657CB3C3F45FD6C125871100187EBA?openDocument) — *Předkupní právo*
+- *NS* [22 Cdo 1738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A5E6BC2F7D36678C125863E001DB091?openDocument) — *Spoluvlastnictví Předkupní právo*
+- *NS* [22 Cdo 4212/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/588DB4A60399C056C12585B20018FE25?openDocument) — *Předkupní právo*
+- *NS* [28 Cdo 2783/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B21B5B0A929275ADC1258525001F1030?openDocument) — *Náhradní pozemek Zmírnění křivd (restituce) Spoluvlastnictví*
+- *NS* [28 Cdo 4423/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62188E7386CA079BC12584C2001DFCA4?openDocument) — *Zmírnění křivd (restituce) Podílové spoluvlastnictví Předkupní právo Náhradní pozemek*
+- *NS* [22 Cdo 1225/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F3D2B3AEE68FB213C1258D480052C137?openDocument) — *Předkupní právo*
+
 ### Oddíl 3 — Správa společné věci (§ 1126—1139)
 
 **§ 1126**: každý má **právo na účast ve správě**; hlasy podle **velikosti podílů**.
@@ -340,6 +437,16 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 **Klasická zásada *nemo in communione potest invitus detineri***. Limity:
 - **Nevhodná doba** (např. v období neúrody u zemědělského pozemku);
 - **Pouze k újmě** některého spoluvlastníka (šikana).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1385/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A96F6EA15562EA02C1258CD0004D2433?openDocument) — *Zrušení a vypořádání spoluvlastnictví*
+- *NS* [22 Cdo 1080/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20926E5767F14017C1258B3F004D5A22?openDocument) — *Spoluvlastnictví Znalecký posudek Přípustnost dovolání Podílové spoluvlastnictví*
+- *NS* [22 Cdo 2347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9C104656E75E7B3C1258A98001B7CA7?openDocument) — *Spoluvlastnictví Oddělení ze spoluvlastnictví (o. z.) Věc Znalecký posudek*
+- *NS* [22 Cdo 2064/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB1475CCEF0BA7E9C12587B0001E63C0?openDocument) — *Přípustnost dovolání Spoluvlastnictví*
+- *NS* [22 Cdo 4068/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/772516F92708B7DFC12585A50018EAD4?openDocument) — *Přípustnost dovolání Spoluvlastnictví*
+- *NS* [22 Cdo 4604/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/141277962A92EE09C12583F00017FB9D?openDocument) — *Přípustnost dovolání Spoluvlastnictví*
+- *NS* [22 Cdo 851/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/92E4185963377CF4C12583D70023093B?openDocument) — *Spoluvlastnictví*
 
 #### § 1141—1149 — Způsoby a postup vypořádání
 
@@ -393,6 +500,16 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 **§ 1149 — Účinky zápisu**: u nemovitostí v VR — nová vlastnická práva **zápisem**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2693/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/549DE23EE28813E6C1258DB800528454?openDocument) — *Zrušení a vypořádání spoluvlastnictví Vydržení Manželství*
+- *NS* [22 Cdo 3271/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA2EE24270C5CF74C1258DC00052B9ED?openDocument) — *Spoluvlastnictví Zrušení a vypořádání spoluvlastnictví Vady řízení*
+- *NS* [22 Cdo 3027/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/607EAC0476A63667C1258DC00052B9E0?openDocument) — *Přípustnost dovolání*
+- *NS* [22 Cdo 1739/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2016FE15927903F5C1258D2D004D1D69?openDocument) — *Spoluvlastnictví Zrušení a vypořádání spoluvlastnictví*
+- *NS* [22 Cdo 1736/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF6856592DAF2A48C1258D09004D1CB2?openDocument) — *Zrušení a vypořádání spoluvlastnictví*
+- *NS* [22 Cdo 1229/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C6470CCF54BBD97C1258CF2004D504A?openDocument) — *Zrušení a vypořádání spoluvlastnictví*
+- *NS* [22 Cdo 1700/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F759A0F48B78C9E2C1258CEF004D20D9?openDocument) — *Zrušení a vypořádání spoluvlastnictví*
+
 #### § 1150—1157 — Ochrana třetích osob, odklad
 
 > Rozdělení společné věci není na újmu osobě, která má věcné právo ke společné věci.
@@ -438,6 +555,14 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 **§ 1155**: **soudní odklad** **max. 2 roky** (k zabránění majetkové ztrátě).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 48/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D28D3AD36D1D3A8C1258834001923B9?openDocument) — *Spoluvlastnictví Odklad oddělení/zrušení spoluvlastnictví (o. z.)*
+- *NS* [22 Cdo 880/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E982623179009E8C12585AC0018FD1E?openDocument) — 13. 5. 2020
+- *NS* [22 Cdo 2816/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF673C7C9CDC1D2CC12584FB001E289E?openDocument) — *Odklad oddělení/zrušení spoluvlastnictví (o. z.)*
+- *NS* [22 Cdo 4755/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CCF904CA05FB5FBC12580280047ED03?openDocument) — *Spoluvlastnictví*
+- *NS* [22 Cdo 661/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/501998AAB7CCD342C1258241002B7F5E?openDocument) — *Podílové spoluvlastnictví Náklady řízení*
+
 ---
 
 ## Oddíl 5 — Bytové spoluvlastnictví (§ 1158—1222)
@@ -456,6 +581,13 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 >
 
 **§ 1158**: spoluvlastnictví nemovité věci založené **vlastnictvím jednotek**. Vyžaduje **dům s alespoň 2 byty**. Jednotka zahrnuje **byt + podíl na společných částech**. Jednotka je **nemovitá věc**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 2019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99FAE8D07DB1A486C1258A89001B7BB4?openDocument) — *Spoluvlastnictví Byt*
+- *NS* [26 Cdo 1583/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0E28337CB52FD27C12587AB001EE4FC?openDocument) — *Společenství vlastníků jednotek Vlastnictví bytů Spoluvlastnictví*
+- *NS* [26 Cdo 915/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/510D333EFB36B182C1258C190052AC92?openDocument) — *Bezdůvodné obohacení*
+- *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
 
 #### § 1160—1161 — Společné části
 

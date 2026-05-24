@@ -375,6 +375,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 - (1) **Rodiče zachovávají povinnosti a práva** rodičovské odpovědnosti, **s výjimkou** těch, které zákon přiznává pěstounovi;
 - (2) **Právo pravidelného styku + informací** o dítěti.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 24/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DDB89B61B79C582C1258CF4004D0E21?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Pěst…*
+
 ### § 961 — Výživné v pěstounské péči
 
 > (1) Svěření dítěte do pěstounské péče nemá vliv na trvání vyživovací povinnosti rodičů k dítěti. Soud stanoví rodičům rozsah výživného s ohledem na jejich možnosti, schopnosti a majetkové poměry a odůvodněné potřeby dítěte.
@@ -459,6 +463,10 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 
 **§ 968 — Podíl dítěte**: dítě **pomáhá v domácnosti** podle možností; má-li příjem, přispívá.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 24/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DDB89B61B79C582C1258CF4004D0E21?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Pěst…*
+
 ### § 969—970 — Změny a zánik
 
 **§ 969**:
@@ -473,6 +481,10 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 **§ 970 — Zánik péče**:
 - **Plná svéprávnost** dítěte (max.);
 - **Zletilost** (default 18 let).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 2098/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0021D98B93A75AC1258BF60052C18C?openDocument) — *Rodičovská odpovědnost (o. z.) Pěstounská péče*
 
 ---
 
