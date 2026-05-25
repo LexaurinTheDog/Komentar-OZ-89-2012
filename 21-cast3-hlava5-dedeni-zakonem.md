@@ -71,11 +71,11 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Pardubicích* [7 C 13/2019-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2021:7.C.13.2019.1) — *dědění, smír, vydědění, výživné, závěť*
-- *OS v Nymburce* [7 C 349/2022-226](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2024:7.C.349.2022.1) — *osobní užívání pozemku, závěť, pozůstalost, rozvod manželství, spoluvlastnictví, smlouva…*
-- *OS v Ostravě* [23 C 286/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.286.2022.2) — *peněžité plnění*
-- *OS v Ostravě* [23 C 82/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.82.2022.2) — *peněžité plnění*
-- *OS v Ostravě* [23 C 91/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.91.2022.2) — *peněžité plnění*
+- *OS v Pardubicích* [7 C 13/2019-56](https://rozhodnuti.justice.cz/rozhodnuti/?id=9a9d9522-f6d7-453f-8d64-1ace2507140c) — *dědění, smír, vydědění, výživné, závěť*
+- *OS v Nymburce* [7 C 349/2022-226](https://rozhodnuti.justice.cz/rozhodnuti/?id=5c27718b-61fd-4511-82e2-70a4e41bbb63) — *osobní užívání pozemku, závěť, pozůstalost, rozvod manželství, spoluvlastnictví, smlouva…*
+- *OS v Ostravě* [23 C 286/2022-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=47e7ddaf-79d7-4a9f-b1fb-5b08b77f94a0) — *peněžité plnění*
+- *OS v Ostravě* [23 C 82/2022-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=a2ac7371-c958-4c3e-aded-b5a592d1f003) — *peněžité plnění*
+- *OS v Ostravě* [23 C 91/2022-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=33f7edf9-557c-4bf9-8f2c-18d555cf6326) — *peněžité plnění*
 
 ### § 1477—1478 — Odkaz, budoucí PO
 
@@ -93,11 +93,11 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Rychnově nad Kněžnou* [6 C 98/2023-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2023:6.C.98.2023.1) — *bezdůvodné obohacení, dědění, notářský zápis, ochrana oprávněného dědice, peněžité plněn…*
-- *KS v Praze* [26 CO 60/2022-203](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2023:26.Co.60.2022.1) — *držba, mimořádné vydržení, odstupné, rozvod manželství, vydržení*
-- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:5.C.78.2021.1) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
-- *ObS pro Prahu 10* [35 C 61/2023-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2023:35.C.61.2023.1) — *akcie, dědění, náklady pohřbu, opilost, podnájem, pozůstalost, smlouva o účtu, vydědění,…*
-- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
+- *OS v Rychnově nad Kněžnou* [6 C 98/2023-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=fbfc7fdb-c509-4fb9-86be-feae422ad3a3) — *bezdůvodné obohacení, dědění, notářský zápis, ochrana oprávněného dědice, peněžité plněn…*
+- *KS v Praze* [26 CO 60/2022-203](https://rozhodnuti.justice.cz/rozhodnuti/?id=ceb78aae-8582-4061-9818-803280b52781) — *držba, mimořádné vydržení, odstupné, rozvod manželství, vydržení*
+- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/rozhodnuti/?id=d0d4dd90-bee0-46b0-8f73-b36ba3528772) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
+- *ObS pro Prahu 10* [35 C 61/2023-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=d0754dc2-0816-469c-8844-e6ad4b4170e0) — *akcie, dědění, náklady pohřbu, opilost, podnájem, pozůstalost, smlouva o účtu, vydědění,…*
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f8b4271-8e18-4937-9feb-aa0462682df6) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
 
 ### § 1479—1480 — Dědický nápad
 
@@ -224,9 +224,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Mladé Boleslavi* [7 C 482/2022-14](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2022:7.C.482.2022.2) — *peněžité plnění, ručení*
-- *KS v Hradci Králové* [21 Co 224/2025-456](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.224.2025.1) — *duševní porucha, závěť, pozůstalost, vydědění, podjatost*
-- *KS v Hradci Králové* [21 Co 5/2025-231](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.5.2025.1) — *závěť, pozůstalost*
+- *OS v Mladé Boleslavi* [7 C 482/2022-14](https://rozhodnuti.justice.cz/rozhodnuti/?id=c27de31f-1eb7-45f9-b32d-becf62e2d860) — *peněžité plnění, ručení*
+- *KS v Hradci Králové* [21 Co 224/2025-456](https://rozhodnuti.justice.cz/rozhodnuti/?id=5e6fc292-0e49-499f-91dd-45b47c9e4503) — *duševní porucha, závěť, pozůstalost, vydědění, podjatost*
+- *KS v Hradci Králové* [21 Co 5/2025-231](https://rozhodnuti.justice.cz/rozhodnuti/?id=a008fce1-8ff4-40ed-b88c-1c9ed3ab53ca) — *závěť, pozůstalost*
 
 ---
 
@@ -394,9 +394,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:9.C.450.2021.1) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
-- *KS v Brně* [54 Co 13/2024-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:54.Co.13.2024.1) — *předkupní právo*
-- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
+- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0051df7-b5b0-4a6b-af07-1f6d2bc607a4) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
+- *KS v Brně* [54 Co 13/2024-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=ad0a4f05-96ae-4c38-875a-cdce10f34169) — *předkupní právo*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/rozhodnuti/?id=079a506a-bb1f-4476-a18d-bc8f534ae22c) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
 
 ### § 1585—1593 — Specifika
 
@@ -447,9 +447,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:9.C.450.2021.1) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
-- *ObS pro Prahu 10* [35 C 70/2021-325](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2024:35.C.70.2021.325) — *odstoupení od smlouvy, pasivní legitimace, smlouva o dílo, narovnání, postoupení smlouvy…*
-- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
+- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0051df7-b5b0-4a6b-af07-1f6d2bc607a4) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
+- *ObS pro Prahu 10* [35 C 70/2021-325](https://rozhodnuti.justice.cz/rozhodnuti/?id=90c749c7-cfe3-4558-a510-69a904fb25bd) — *odstoupení od smlouvy, pasivní legitimace, smlouva o dílo, narovnání, postoupení smlouvy…*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/rozhodnuti/?id=079a506a-bb1f-4476-a18d-bc8f534ae22c) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
 
 ---
 
@@ -467,11 +467,11 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [14 Cmo 76/2023-566](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.76.2023.1) — 12. 12. 2023
-- *OS ve Žďáru nad Sázavou* [8 C 107/2022-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2023:8.C.107.2022.1) — *darování pro případ smrti, notářský zápis, peněžité plnění, smlouva darovací*
-- *OS Praha-západ* [15 C 4/2020-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2021:15.C.4.2020.1) — *smlouva o smlouvě budoucí, závěť*
-- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:XXXXX9:2022:15.Co.59.2022.1) — *pozůstalost*
-- *ObS pro Prahu 3* [17 C 278/2021-221](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2024:17.C.278.2021.221) — *pozůstalost, povinný díl z pozůstalosti, znalecký posudek, vydědění, závěť*
+- *VS v Praze* [14 Cmo 76/2023-566](https://rozhodnuti.justice.cz/rozhodnuti/?id=2da565c9-4884-4212-9450-8b73da15c443) — 12. 12. 2023
+- *OS ve Žďáru nad Sázavou* [8 C 107/2022-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=663b6cea-fd9e-400e-9895-bb1dff86c423) — *darování pro případ smrti, notářský zápis, peněžité plnění, smlouva darovací*
+- *OS Praha-západ* [15 C 4/2020-47](https://rozhodnuti.justice.cz/rozhodnuti/?id=32b811ff-673b-417f-a110-8ea263838ba6) — *smlouva o smlouvě budoucí, závěť*
+- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b693c91-77cd-434c-a60e-5ff4b03d5b4c) — *pozůstalost*
+- *ObS pro Prahu 3* [17 C 278/2021-221](https://rozhodnuti.justice.cz/rozhodnuti/?id=22a18af1-f0de-498c-a847-80690ead8a0e) — *pozůstalost, povinný díl z pozůstalosti, znalecký posudek, vydědění, závěť*
 
 ### § 1597—1602 — Zřízení a obtížení odkazem
 
@@ -508,9 +508,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [54 Co 260/2024-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:54.Co.260.2024.1) — 27. 5. 2025
-- *OS v Jihlavě* [21 C 257/2023-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2024:21.C.257.2023.1) — *náhrada nákladů, dokazování, lhůty, náklady řízení*
-- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
+- *KS v Brně* [54 Co 260/2024-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=6eb0ab11-d4fc-489d-bb97-416327e235ba) — 27. 5. 2025
+- *OS v Jihlavě* [21 C 257/2023-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=bb82a9b8-d626-4595-9256-232976fb7167) — *náhrada nákladů, dokazování, lhůty, náklady řízení*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/rozhodnuti/?id=079a506a-bb1f-4476-a18d-bc8f534ae22c) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
 
 ### Druhy odkazů
 
@@ -579,9 +579,9 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Brno-Venkov* [7 C 51/2021-486](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2023:7.C.51.2021.1) — *exces, majetek, odstoupení od smlouvy, závěť, svědek, náhrada nákladů, dokazování, rodin…*
-- *OS Brno-Venkov* [29 C 253/2019-299](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2022:29.C.253.2019.1) — *notářský zápis, pozůstalost, ručení, smlouva darovací, závěť*
-- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:XXXXX9:2022:15.Co.59.2022.1) — *pozůstalost*
+- *OS Brno-Venkov* [7 C 51/2021-486](https://rozhodnuti.justice.cz/rozhodnuti/?id=0b31a35a-6650-45c2-b772-a03f805e4aca) — *exces, majetek, odstoupení od smlouvy, závěť, svědek, náhrada nákladů, dokazování, rodin…*
+- *OS Brno-Venkov* [29 C 253/2019-299](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c4ea429-4b43-47e6-85ab-84a570eecbfa) — *notářský zápis, pozůstalost, ručení, smlouva darovací, závěť*
+- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b693c91-77cd-434c-a60e-5ff4b03d5b4c) — *pozůstalost*
 
 ---
 
@@ -595,11 +595,11 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 7* [4 C 164/2021-201](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2024:4.C.164.2021.201) — *bezdůvodné obohacení, veřejná listina, společné jmění manželů, pozůstalost, osvojení, st…*
-- *ObS pro Prahu 4* [21 C 334/2023-194](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2025:21.C.334.2023.1) — *svědek, náhrada nákladů, majetek, podvod, dědické řízení, závěť, náklady řízení, pozůsta…*
-- *OS Praha-západ* [15 C 4/2022-158](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:15.C.4.2022.158) — *dokazování, svědečné, náhrada nákladů, svědek, lhůty, náklady řízení*
-- *OS v Litoměřicích* [10 C 74/2022-81](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2023:10.C.74.2022.1) — *dědění, duševní porucha, podílové spoluvlastnictví, pozůstalost, spoluvlastnictví, zásta…*
-- *KS v Brně* [18 CO 283/2022-157](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:18.Co.283.2022 .1) — *pozůstalost, soupis pozůstalosti*
+- *ObS pro Prahu 7* [4 C 164/2021-201](https://rozhodnuti.justice.cz/rozhodnuti/?id=e6a05dcd-692e-4261-b5f6-d52d0fc53b57) — *bezdůvodné obohacení, veřejná listina, společné jmění manželů, pozůstalost, osvojení, st…*
+- *ObS pro Prahu 4* [21 C 334/2023-194](https://rozhodnuti.justice.cz/rozhodnuti/?id=6b0f0ea7-c821-491c-9134-3d4593f792cc) — *svědek, náhrada nákladů, majetek, podvod, dědické řízení, závěť, náklady řízení, pozůsta…*
+- *OS Praha-západ* [15 C 4/2022-158](https://rozhodnuti.justice.cz/rozhodnuti/?id=72c22b52-ba44-46a2-b6ae-d5b6c2778dcb) — *dokazování, svědečné, náhrada nákladů, svědek, lhůty, náklady řízení*
+- *OS v Litoměřicích* [10 C 74/2022-81](https://rozhodnuti.justice.cz/rozhodnuti/?id=28ea71aa-e247-4222-9a0a-6b2c36a3ae02) — *dědění, duševní porucha, podílové spoluvlastnictví, pozůstalost, spoluvlastnictví, zásta…*
+- *KS v Brně* [18 CO 283/2022-157](https://rozhodnuti.justice.cz/rozhodnuti/?id=98aa5bad-2995-4d31-9c11-4985c1e2483c) — *pozůstalost, soupis pozůstalosti*
 
 ### § 1635—1640 — Šest dědických tříd
 
@@ -786,7 +786,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [21 CO 196/2019-377](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:21.Co.196.2019.1) — *podílové spoluvlastnictví, společenství vlastníků jednotek, spoluvlastnictví, stanovy, v…*
+- *KS v Hradci Králové* [21 CO 196/2019-377](https://rozhodnuti.justice.cz/rozhodnuti/?id=1ffdd49f-3a5a-4024-b77f-0bbad191d461) — *podílové spoluvlastnictví, společenství vlastníků jednotek, spoluvlastnictví, stanovy, v…*
 
 ### § 1668—1669 — Rozsah a způsob plnění
 
@@ -804,7 +804,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Novém Jičíně* [24 C 56/2023-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:24.C.56.2023.1) — *smlouva o dílo, bezdůvodné obohacení, dlužné nájemné, smlouva nájemní, smlouva kupní, vy…*
+- *OS v Novém Jičíně* [24 C 56/2023-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c207960-f82f-4a50-b50f-7bb6c2bc8352) — *smlouva o dílo, bezdůvodné obohacení, dlužné nájemné, smlouva nájemní, smlouva kupní, vy…*
 
 ---
 
@@ -994,6 +994,6 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Chomutově* [57 C 61/2024-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2024:57.C.61.2024.29) — *odstoupení od smlouvy, dodávky energie, smlouva o sdružení*
-- *OS v Chomutově* [57 C 120/2024-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2025:57.C.120.2024.1) — *smlouva o sdružení, dodávky energie, odstoupení od smlouvy*
+- *OS v Chomutově* [57 C 61/2024-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=caeb67ac-c918-4aeb-a749-2035a9934cf6) — *odstoupení od smlouvy, dodávky energie, smlouva o sdružení*
+- *OS v Chomutově* [57 C 120/2024-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=d8251e9a-9b08-47d8-9427-74350ff0e408) — *smlouva o sdružení, dodávky energie, odstoupení od smlouvy*
 

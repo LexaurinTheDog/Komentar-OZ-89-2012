@@ -76,11 +76,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Českém Krumlově* [9 C 3/2021-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2021:9.C.3.2021.2) — *peněžité plnění*
-- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.957.2025.1) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
-- *KS v Praze* [23 Co 111/2025-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:23.Co.111.2025.1) — *společné jmění manželů, rozvod manželství, smlouva darovací, vydržení*
-- *OS v Pardubicích* [27 C 41/2024-229](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2024:27.C.41.2024.1) — *osoba blízká, smlouva o zápůjčce, podvod, finanční arbitr, reklama, spoluvlastnictví, be…*
-- *KS v Hradci Králové* [25 Co 251/2024-233](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:25.Co.251.2024.1) — *věcná břemena, spoluvlastnictví, notářský zápis, vrácení daru, pasivní legitimace, smlou…*
+- *OS v Českém Krumlově* [9 C 3/2021-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=ebf52cfb-d5e4-42aa-9cd2-651245d2c548) — *peněžité plnění*
+- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=f8d9cb69-508d-4642-bdb2-be4214d519a2) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
+- *KS v Praze* [23 Co 111/2025-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=394ed631-b7d3-4762-8f44-71b2865297e7) — *společné jmění manželů, rozvod manželství, smlouva darovací, vydržení*
+- *OS v Pardubicích* [27 C 41/2024-229](https://rozhodnuti.justice.cz/rozhodnuti/?id=51cb8639-a9c1-4adf-aa22-3f37e63d1b24) — *osoba blízká, smlouva o zápůjčce, podvod, finanční arbitr, reklama, spoluvlastnictví, be…*
+- *KS v Hradci Králové* [25 Co 251/2024-233](https://rozhodnuti.justice.cz/rozhodnuti/?id=60ff2041-1ef0-464d-bc98-6cb3550e538e) — *věcná břemena, spoluvlastnictví, notářský zápis, vrácení daru, pasivní legitimace, smlou…*
 
 ### § 2059—2065 — Speciální situace
 
@@ -124,11 +124,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Karviné, pobočka Havířov* [110 C 340/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2023:110.C.340.2022.1) — *insolvence, konkurs, oddlužení, smlouva darovací*
-- *OS Praha-západ* [8 C 200/2021-92](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:8.C.200.2021.1) — *notářský zápis, smlouva darovací*
-- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.957.2025.1) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
-- *OS v Českých Budějovicích* [30 C 327/2024-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCB:2025:30.C.327.2024.1) — *služebnost, věcná břemena*
-- *OS v Českém Krumlově* [7 C 86/2024-104](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2025:7.C.86.2024.1) — *osoba blízká, zkušební doba, zadostiučinění / satisfakce, duševní útrapy, nemajetková új…*
+- *OS v Karviné, pobočka Havířov* [110 C 340/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=0dfdee03-9596-4e74-89ca-050d1d50f4f6) — *insolvence, konkurs, oddlužení, smlouva darovací*
+- *OS Praha-západ* [8 C 200/2021-92](https://rozhodnuti.justice.cz/rozhodnuti/?id=b6eed2ad-08d0-444b-94f4-2e2cb7e16ad5) — *notářský zápis, smlouva darovací*
+- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=f8d9cb69-508d-4642-bdb2-be4214d519a2) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
+- *OS v Českých Budějovicích* [30 C 327/2024-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=09d6ccd7-9140-4e5f-b82f-6d575f68e820) — *služebnost, věcná břemena*
+- *OS v Českém Krumlově* [7 C 86/2024-104](https://rozhodnuti.justice.cz/rozhodnuti/?id=3492cd6f-fc5b-4749-b2e5-b4972f78601b) — *osoba blízká, zkušební doba, zadostiučinění / satisfakce, duševní útrapy, nemajetková új…*
 
 ---
 
@@ -539,11 +539,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [37 C 182/2023-142](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:37.C.182.2023.1) — *odměna opatrovníka, smlouva kupní*
-- *MS v Brně* [37 C 184/2023-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:37.C.184.2023.1) — *smlouva kupní, dlužné nájemné*
-- *OS v Přerově* [8 C 78/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:8.C.78.2023.1) — *peněžité plnění, smlouva kupní*
-- *OS v Liberci* [32 C 96/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2022:32.C.96.2022.1) — *místní příslušnost, peněžité plnění, smlouva kupní*
-- *OS v Českém Krumlově* [2 C 162/2022-14](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2022:2.C.162.2022.1) — *peněžité plnění*
+- *MS v Brně* [37 C 182/2023-142](https://rozhodnuti.justice.cz/rozhodnuti/?id=d5236951-b320-4b90-89ec-6041e3125f7d) — *odměna opatrovníka, smlouva kupní*
+- *MS v Brně* [37 C 184/2023-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=74ca5436-f6db-41c1-a334-489d68b2b982) — *smlouva kupní, dlužné nájemné*
+- *OS v Přerově* [8 C 78/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=60bae4ab-9bd5-408d-beca-c6a5e8c79631) — *peněžité plnění, smlouva kupní*
+- *OS v Liberci* [32 C 96/2022-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=691df1a2-7bc5-4d7f-a7e6-9251b16f24f7) — *místní příslušnost, peněžité plnění, smlouva kupní*
+- *OS v Českém Krumlově* [2 C 162/2022-14](https://rozhodnuti.justice.cz/rozhodnuti/?id=120a06f4-1db1-4f57-a78c-063ab54c584e) — *peněžité plnění*
 
 ---
 
@@ -760,11 +760,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kladně* [24 C 61/2024-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:24.C.61.2024.1) — *smlouva kupní, vydání věci, ručení*
-- *OS v Kladně* [24 C 40/2024-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2024:24.C.40.2024.1) — *smlouva kupní, ručení, vydání věci*
-- *OS v Kladně* [24 C 20/2023-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2023:24.C.20.2023.1) — *peněžité plnění, pojištění odpovědnosti za škodu, ručení, smlouva směnná, vydání věci*
-- *OS v Ústí nad Orlicí* [10 C 63/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:10.C.63.2021.1) — *peněžité plnění, ručení, smlouva kupní, smlouva směnná*
-- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2026:10.C.120.2025.1) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
+- *OS v Kladně* [24 C 61/2024-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=1db7024b-bc1b-4bf7-b390-be0ab1eccd9d) — *smlouva kupní, vydání věci, ručení*
+- *OS v Kladně* [24 C 40/2024-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=7f23b845-e510-4f3e-ae72-4abeb4d26c95) — *smlouva kupní, ručení, vydání věci*
+- *OS v Kladně* [24 C 20/2023-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce56867f-30fb-44dd-a9ca-8fe5b28c4984) — *peněžité plnění, pojištění odpovědnosti za škodu, ručení, smlouva směnná, vydání věci*
+- *OS v Ústí nad Orlicí* [10 C 63/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=28a7edf7-bd1d-4e06-bab9-b6dcd688f3d0) — *peněžité plnění, ručení, smlouva kupní, smlouva směnná*
+- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=4d2baca7-e952-44f9-ba83-124da147ff33) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
 
 ### § 2185—2188 — Specifické otázky
 
@@ -799,11 +799,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2026:10.C.120.2025.1) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
-- *OS v Havlíčkově Brodě* [15 C 47/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2022:15.C.47.2022.4) — *smlouva kupní, smlouva směnná*
-- *ObS pro Prahu 3* [19 C 70/2022-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2022:19.C.70.2022.1) — *nájem bytu, peněžité plnění, smlouva nájemní, výpověď z nájmu*
-- *ObS pro Prahu 10* [12 C 8/2019-250](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2022:12.C.8.2019.5) — *bezdůvodné obohacení, cizina, odpovědnost za vady, odstoupení od smlouvy, peněžité plněn…*
-- *OS v Sokolově* [23 C 363/2023-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2024:23.C.363.2023.1) — *odpovědnost za vady, znalecký posudek, smlouva směnná*
+- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=4d2baca7-e952-44f9-ba83-124da147ff33) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
+- *OS v Havlíčkově Brodě* [15 C 47/2022-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=4bf9ebf6-3eab-4aa1-97e1-bebebec57227) — *smlouva kupní, smlouva směnná*
+- *ObS pro Prahu 3* [19 C 70/2022-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec80e863-f2da-4019-9f2b-407bb9b9cc5b) — *nájem bytu, peněžité plnění, smlouva nájemní, výpověď z nájmu*
+- *ObS pro Prahu 10* [12 C 8/2019-250](https://rozhodnuti.justice.cz/rozhodnuti/?id=5c8f1122-9381-44a5-b0b8-769d5cd9e4f4) — *bezdůvodné obohacení, cizina, odpovědnost za vady, odstoupení od smlouvy, peněžité plněn…*
+- *OS v Sokolově* [23 C 363/2023-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=0310cf84-848e-46e6-a1f5-3160ba49c68f) — *odpovědnost za vady, znalecký posudek, smlouva směnná*
 
 ---
 
@@ -849,11 +849,11 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Liberci* [13 C 320/2022-167](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:13.C.320.2022.167) — *smlouva kupní, výprosa, obchodní podíl, narovnání, vyklizení bytu, smlouva nájemní, bezd…*
-- *KS v Brně* [37 CO 107/2021-291](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:37.Co.107.2021 .1) — *bezdůvodné obohacení, peněžité plnění, výprosa*
-- *OS v Táboře* [2 C 118/2020-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTA:2021:2.C.118.2020.1) — *bezdůvodné obohacení, nájem prostoru sloužícího k podnikání, obchodní podíl, peněžité pl…*
-- *OS v Kutné Hoře* [1 C 324/2025-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2026:1.C.324.2025.1) — *dokazování, náklady řízení*
-- *OS ve Žďáru nad Sázavou* [10 C 114/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2024:10.C.114.2024.1) — *výprosa, vyklizení nemovitosti*
+- *OS v Liberci* [13 C 320/2022-167](https://rozhodnuti.justice.cz/rozhodnuti/?id=e66d61d7-8976-40a9-b685-f5cabb76c7aa) — *smlouva kupní, výprosa, obchodní podíl, narovnání, vyklizení bytu, smlouva nájemní, bezd…*
+- *KS v Brně* [37 CO 107/2021-291](https://rozhodnuti.justice.cz/rozhodnuti/?id=43f13898-978f-4966-a2ec-cfd4949b9739) — *bezdůvodné obohacení, peněžité plnění, výprosa*
+- *OS v Táboře* [2 C 118/2020-91](https://rozhodnuti.justice.cz/rozhodnuti/?id=695e3f71-634a-4267-a8f2-24ed6741e3d8) — *bezdůvodné obohacení, nájem prostoru sloužícího k podnikání, obchodní podíl, peněžité pl…*
+- *OS v Kutné Hoře* [1 C 324/2025-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=b4844869-af55-40eb-a51c-0b4338d93a6c) — *dokazování, náklady řízení*
+- *OS ve Žďáru nad Sázavou* [10 C 114/2024-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=38fc4f43-e4fa-40ba-815a-863c3e477270) — *výprosa, vyklizení nemovitosti*
 
 ---
 

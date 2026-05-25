@@ -129,11 +129,11 @@ Hlava III pokrývá:
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:41.C.31.2012.1) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
-- *ObS pro Prahu 1* [22 C 248/2018-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:22.C.248.2018.1) — *nemajetková újma, peněžité plnění*
-- *ObS pro Prahu 8* [25 C 277/2021-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:25.C.277.2021 .1) — *pojištění odpovědnosti za škodu*
-- *ObS pro Prahu 8* [25 C 75/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:25.C.75.2021.1) — *pojištění odpovědnosti za škodu*
-- *ObS pro Prahu 8* [25 C 52/2021-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:25.C.52.2021 .1) — 26. 5. 2021
+- *ObS pro Prahu 1* [63 C 14/2023-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=4876fed9-807a-44ff-b2e8-fd12ba34cf9d) — *odbory, nemajetková újma, zadostiučinění / satisfakce, podjatost, poučovací povinnost so…*
+- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/rozhodnuti/?id=ff0d1488-4d99-435e-86cf-113b4ff85689) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
+- *ObS pro Prahu 1* [22 C 248/2018-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=106f1e69-dd97-4711-81e1-d81fd0cbaa28) — *nemajetková újma, peněžité plnění*
+- *ObS pro Prahu 8* [25 C 277/2021-62](https://rozhodnuti.justice.cz/rozhodnuti/?id=554991e4-62e6-4e2a-9c2b-af82dfdf9b8d) — *pojištění odpovědnosti za škodu*
+- *ObS pro Prahu 8* [25 C 75/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=72a279d7-2409-49ee-8c1a-39ab00bdf936) — *pojištění odpovědnosti za škodu*
 
 ### § 439 — Pluralita zástupců
 
@@ -149,9 +149,9 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Olomouci* [21 C 23/2022-231](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2024:21.C.23.2022.1) — *smlouva mandátní, odbory, smlouva o dílo*
-- *OS ve Frýdku-Místku* [16 C 118/2021-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:16.C.118.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, právní domněnka, smlouva o…*
-- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.227.2023.0) — 21. 2. 2024
+- *OS v Olomouci* [21 C 23/2022-231](https://rozhodnuti.justice.cz/rozhodnuti/?id=38b6e4af-390e-4424-9aa5-f25084aef441) — *smlouva mandátní, odbory, smlouva o dílo*
+- *OS ve Frýdku-Místku* [16 C 118/2021-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=1214b4cb-5cf6-43f7-8bc2-4179e1ca1611) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, právní domněnka, smlouva o…*
+- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=65af8b6b-f8a1-40c2-91b2-64f1d30c154c) — 21. 2. 2024
 
 ### § 440 — Překročení zástupčího oprávnění
 
@@ -266,8 +266,8 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [14 CO 213/2021-482](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.Co.213.2021.1) — *bezdůvodné obohacení, majetková újma, peněžité plnění, postoupení pohledávky, smlouva ku…*
-- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:30.C.35.2015.1) — *peněžité plnění, smlouva kupní, znalecký posudek*
+- *KS v Brně* [14 CO 213/2021-482](https://rozhodnuti.justice.cz/rozhodnuti/?id=41a6d834-34f1-4b5d-8722-bb7d84cdf256) — *bezdůvodné obohacení, majetková újma, peněžité plnění, postoupení pohledávky, smlouva ku…*
+- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce4feb1a-5284-41a5-84d8-8482c4f63546) — *peněžité plnění, smlouva kupní, znalecký posudek*
 
 #### § 444 — Aparent zmocnění
 
@@ -313,11 +313,11 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 6* [53 C 90/2016-393](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:53.C.90.2016.1) — *bolestné, náhrada za ztrátu na výdělku, peněžité plnění, rehabilitace, smlouva pracovní,…*
-- *OS v Ostravě* [28 C 150/2012-661](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2023:28.C.150.2012.1) — *zavinění, dokazování, odvolání, pasivní legitimace, pracovní poměr, bolestné, právnická…*
-- *KS v Brně* [44 CO 170/2021-483](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:44.Co.170.2021.1) — *bolestné, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetková újma, pasi…*
-- *OS Praha-východ* [7 C 11/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2022:7.C.11.2021.1) — *bezdůvodné obohacení, smlouva o nájmu dopravního prostředku*
-- *ObS pro Prahu 1* [38 C 245/2013-507](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2023:38.C.245.2013.507) — *advokacie, ztížení společenského uplatnění, nemocenské dávky, duševní porucha, náhrada z…*
+- *ObS pro Prahu 6* [53 C 90/2016-393](https://rozhodnuti.justice.cz/rozhodnuti/?id=36897bd3-181b-4cef-9b11-5cca4a01af43) — *bolestné, náhrada za ztrátu na výdělku, peněžité plnění, rehabilitace, smlouva pracovní,…*
+- *OS v Ostravě* [28 C 150/2012-661](https://rozhodnuti.justice.cz/rozhodnuti/?id=734d8621-ba29-4ef9-82f8-2cab55773b2c) — *zavinění, dokazování, odvolání, pasivní legitimace, pracovní poměr, bolestné, právnická…*
+- *KS v Brně* [44 CO 170/2021-483](https://rozhodnuti.justice.cz/rozhodnuti/?id=175a4ddd-2cb7-4095-b331-99949c61e616) — *bolestné, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetková újma, pasi…*
+- *OS Praha-východ* [7 C 11/2021-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f3141fd-01c1-470d-bcd4-210af8a45923) — *bezdůvodné obohacení, smlouva o nájmu dopravního prostředku*
+- *ObS pro Prahu 1* [38 C 245/2013-507](https://rozhodnuti.justice.cz/rozhodnuti/?id=b701d6e1-e6bd-4935-ba61-735b5cc208b9) — *advokacie, ztížení společenského uplatnění, nemocenské dávky, duševní porucha, náhrada z…*
 
 #### § 446 — Překročení zmocnění (speciální úprava)
 
@@ -353,11 +353,11 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [16 CO 80/2022-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:16.Co.80.2022.1) — *bolestné, znalecký posudek, ztížení společenského uplatnění*
-- *ObS pro Prahu 6* [33 C 64/2023-67](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:33.C.64.2023.1) — *narovnání*
-- *OS Praha-západ* [34 C 358/2023-652](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:34.C.358.2023.1) — *postoupení pohledávky, insolvence, pracovní poměr, dokazování, následek, smlouva kupní,…*
-- *ObS pro Prahu 4* [42 C 227/2013-942](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:42.C.227.2013.1) — *nemajetková újma, náklady léčení, náhrada nemajetkové újmy, ručení, náklady řízení, maje…*
-- *OS v Lounech* [12 C 5/2024-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2024:12.C.5.2024.1) — *peněžité plnění*
+- *MS v Praze* [16 CO 80/2022-217](https://rozhodnuti.justice.cz/rozhodnuti/?id=559687e1-dbd8-43ca-bfbf-8aa9ff78203e) — *bolestné, znalecký posudek, ztížení společenského uplatnění*
+- *ObS pro Prahu 6* [33 C 64/2023-67](https://rozhodnuti.justice.cz/rozhodnuti/?id=9a4a8737-18f7-4126-8774-d3b01ddf14cc) — *narovnání*
+- *OS Praha-západ* [34 C 358/2023-652](https://rozhodnuti.justice.cz/rozhodnuti/?id=a89ec3a4-b6ba-4eec-b513-771303f6903f) — *postoupení pohledávky, insolvence, pracovní poměr, dokazování, následek, smlouva kupní,…*
+- *ObS pro Prahu 4* [42 C 227/2013-942](https://rozhodnuti.justice.cz/rozhodnuti/?id=cb6efa3c-4b88-413a-82dc-f7f8b08f7fc3) — *nemajetková újma, náklady léčení, náhrada nemajetkové újmy, ručení, náklady řízení, maje…*
+- *OS v Lounech* [12 C 5/2024-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=abf5697d-acc6-4d28-ac8f-1da5879e2b8b) — *peněžité plnění*
 
 #### § 448 — Zánik zmocnění
 
@@ -469,7 +469,7 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.227.2023.0) — 21. 2. 2024
+- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=65af8b6b-f8a1-40c2-91b2-64f1d30c154c) — 21. 2. 2024
 
 #### § 453 — Vnější účinnost omezení
 
@@ -485,9 +485,9 @@ Rozdíl od § 447 (smluvní zmocnění s pokyny v plné moci): u prokury **vnit�
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [20 CO 267/2022-974](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:20.Co.267.2022.1) — *nebytový prostor, osoba blízká, péče řádného hospodáře, peněžité plnění, podnájem, ručen…*
-- *MS v Brně* [47 C 113/2003-1060](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:47.C.113.2003.1) — *bezdůvodné obohacení, dražba, majetková újma, opuštěná věc, péče řádného hospodáře, peně…*
-- *OS v Nymburce* [8 C 217/2021-224](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2022:8.C.217.2021.1) — *peněžité plnění, prokura, smlouva o dílo, znalecký posudek*
+- *MS v Praze* [20 CO 267/2022-974](https://rozhodnuti.justice.cz/rozhodnuti/?id=1a9e123f-ef44-4970-812a-49ca18c189fc) — *nebytový prostor, osoba blízká, péče řádného hospodáře, peněžité plnění, podnájem, ručen…*
+- *MS v Brně* [47 C 113/2003-1060](https://rozhodnuti.justice.cz/rozhodnuti/?id=259d9af5-e0a8-46d8-8b76-3f39cf2dfbf0) — *bezdůvodné obohacení, dražba, majetková újma, opuštěná věc, péče řádného hospodáře, peně…*
+- *OS v Nymburce* [8 C 217/2021-224](https://rozhodnuti.justice.cz/rozhodnuti/?id=2309a7c0-35c4-40ae-b990-a0ee08062351) — *peněžité plnění, prokura, smlouva o dílo, znalecký posudek*
 
 #### § 454 — Péče řádného hospodáře
 
@@ -519,8 +519,8 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [63 C 147/2019-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:63.C.147.2019.1) — *peněžité plnění, smlouva o dílo*
-- *OS v Liberci* [15 C 59/2022-197](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:15.C.59.2022.1) — *veřejná listina, obchodní závod, okamžité zrušení pracovního poměru, zkušební doba, post…*
+- *MS v Brně* [63 C 147/2019-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=22362108-7ecf-462c-8edc-0f545a3fef1b) — *peněžité plnění, smlouva o dílo*
+- *OS v Liberci* [15 C 59/2022-197](https://rozhodnuti.justice.cz/rozhodnuti/?id=43caa896-b9ad-4d73-9bea-9a12edb28581) — *veřejná listina, obchodní závod, okamžité zrušení pracovního poměru, zkušební doba, post…*
 
 #### § 456 — Zánik prokury
 
@@ -539,11 +539,11 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 6* [20 C 185/2018-230](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:20.C.185.2018.1) — *akcionář, bezdůvodné obohacení, majetková podstata, notářský zápis, osoba blízká, peněži…*
-- *OS ve Znojmě* [12 C 51/2017-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.51.2017.1) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, znalecký posudek*
-- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2022:106.C.198.2021.1) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
-- *OS ve Frýdku-Místku* [11 C 171/2021-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:11.C.171.2021.1) — *insolvence, peněžité plnění, postoupení pohledávky, smlouva o půjčce, smlouva o úvěru, s…*
-- *MS v Praze* [28 CO 405/2022-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:28.Co.405.2022 .1) — *bezdůvodné obohacení, korporace, péče řádného hospodáře, peněžité plnění, smlouva o půjč…*
+- *ObS pro Prahu 6* [20 C 185/2018-230](https://rozhodnuti.justice.cz/rozhodnuti/?id=2a7d24de-b7f8-4289-9cc2-ad62949acdf5) — *akcionář, bezdůvodné obohacení, majetková podstata, notářský zápis, osoba blízká, peněži…*
+- *OS ve Znojmě* [12 C 51/2017-399](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b85db52-e335-44da-9927-51fde9a29f75) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, znalecký posudek*
+- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=ef664471-7de4-4b10-9d82-7e30c61b89b0) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
+- *OS ve Frýdku-Místku* [11 C 171/2021-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec1db68a-c85f-48d1-a145-ef6d9fb9166b) — *insolvence, peněžité plnění, postoupení pohledávky, smlouva o půjčce, smlouva o úvěru, s…*
+- *MS v Praze* [28 CO 405/2022-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=e6f2b2ec-4f1e-42bc-8047-0ad1dd6255db) — *bezdůvodné obohacení, korporace, péče řádného hospodáře, peněžité plnění, smlouva o půjč…*
 
 ---
 
@@ -595,7 +595,7 @@ Pravidlo se vztahuje **i na umístění v zařízení** (nemocnice, domov důcho
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Českém Krumlově* [9 C 145/2024-95](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2025:9.C.145.2024.1) — *daň z nemovitosti, osobní služebnost, služebnost, věcná břemena, parazitování, nájem poz…*
+- *OS v Českém Krumlově* [9 C 145/2024-95](https://rozhodnuti.justice.cz/rozhodnuti/?id=810357f5-6113-4cfe-8944-d0a1ffdf4286) — *daň z nemovitosti, osobní služebnost, služebnost, věcná břemena, parazitování, nájem poz…*
 
 #### § 460 — Kolizní opatrovník
 
@@ -719,8 +719,9 @@ Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opat
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [14 Cmo 222/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.222.2024.1) — 25. 9. 2024
-- *KS v Ústí nad Labem, pobočka Liberec* [30 CO 66/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:30.Co.66.2022.1) — *místní příslušnost, smlouva nájemní*
+- *VS v Praze* [14 Cmo 222/2024-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=a7a34e78-0a2c-43ac-8374-a4801c39f472) — 25. 9. 2024
+- *KS v Ústí nad Labem, pobočka Liberec* [30 CO 66/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=6373630f-9ec0-43f5-9c97-380154c8e39e) — *místní příslušnost, smlouva nájemní*
+- *ObS pro Prahu 2* [11 C 33/2024-47](https://rozhodnuti.justice.cz/rozhodnuti/?id=4ab1146f-81e2-42c3-8809-d03cc742f9aa) — *omezení svéprávnosti, bezdůvodné obohacení, duševní porucha, postoupení pohledávky, smlo…*
 
 #### § 469 — Opatrovník na vlastní návrh
 
@@ -809,8 +810,8 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Svitavách* [7 C 138/2021-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:7.C.138.2021.1) — *duševní porucha, omezení svéprávnosti, peněžité plnění, pozůstalost, smlouva nájemní, sm…*
-- *ObS pro Prahu 5* [16 C 197/2013-735](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:16.C.197.2013.1) — *společné jmění manželů, smlouva darovací, soukromá listina, majetek, vydržení, duševní p…*
+- *OS ve Svitavách* [7 C 138/2021-234](https://rozhodnuti.justice.cz/rozhodnuti/?id=b536e547-4f6f-41d4-bd01-8176f2637763) — *duševní porucha, omezení svéprávnosti, peněžité plnění, pozůstalost, smlouva nájemní, sm…*
+- *ObS pro Prahu 5* [16 C 197/2013-735](https://rozhodnuti.justice.cz/rozhodnuti/?id=ed3d95fd-61c0-4745-b64d-c6810872e1cf) — *společné jmění manželů, smlouva darovací, soukromá listina, majetek, vydržení, duševní p…*
 
 #### § 476—477 — Neplatnost volby a odvolání
 
@@ -830,9 +831,9 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Frýdku-Místku* [41 C 37/2020-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2024:41.C.37.2020.1) — *závěť, převod nemovitostí, státní občanství*
-- *ObS pro Prahu 6* [7 C 32/2019-307](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:7.C.32.2019.1) — *res iudicata, náhrada nákladů, majetek, veřejná listina, dokazování, lhůty, notářský záp…*
-- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:24.Co.188.2025.1) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
+- *OS ve Frýdku-Místku* [41 C 37/2020-399](https://rozhodnuti.justice.cz/rozhodnuti/?id=81821421-c3b2-4683-85cb-9fc46264eb6a) — *závěť, převod nemovitostí, státní občanství*
+- *ObS pro Prahu 6* [7 C 32/2019-307](https://rozhodnuti.justice.cz/rozhodnuti/?id=bd98c14f-971f-498a-9d22-662b7084be40) — *res iudicata, náhrada nákladů, majetek, veřejná listina, dokazování, lhůty, notářský záp…*
+- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/rozhodnuti/?id=b23ef459-9c5b-40e4-a54e-a88f6d2a06db) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
 
 #### § 478—479 — Zasedání a pravidelná agenda
 
@@ -858,11 +859,11 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Brno-Venkov* [29 C 52/2021-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2023:29.C.52.2021.1) — *věcná břemena, prekluze, služebnost, smlouva kupní, akcie*
-- *ObS pro Prahu 2* [18 C 117/2024-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:18.C.117.2024.1) — *závěť, dokazování, odvolání, spoluvlastnictví, znalecký posudek, dědické řízení, majetek…*
-- *OS v Přerově* [8 C 20/2017-976](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:8.C.20.2017.1) — *duševní porucha, krajní nouze, závěť, pozůstalost, společné jmění manželů, těžká újma na…*
-- *KS v Brně* [58 Co 43/2025-254](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:58.Co.43.2025.1) — *rodinná domácnost, společné jmění manželů, smlouva darovací, služebnost, neplatnost práv…*
-- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:24.Co.188.2025.1) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
+- *OS Brno-Venkov* [29 C 52/2021-64](https://rozhodnuti.justice.cz/rozhodnuti/?id=6496c935-13a2-4f1e-affa-4d6a21cefb49) — *věcná břemena, prekluze, služebnost, smlouva kupní, akcie*
+- *ObS pro Prahu 2* [18 C 117/2024-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=b84c16dc-0c4e-4a1f-8ff9-ab9aafee42a9) — *závěť, dokazování, odvolání, spoluvlastnictví, znalecký posudek, dědické řízení, majetek…*
+- *OS v Přerově* [8 C 20/2017-976](https://rozhodnuti.justice.cz/rozhodnuti/?id=39f54e8c-7033-42d5-89ed-088f53d38a6f) — *duševní porucha, krajní nouze, závěť, pozůstalost, společné jmění manželů, těžká újma na…*
+- *KS v Brně* [58 Co 43/2025-254](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0c6ecb6-6541-4288-9bf2-7aa055522bd2) — *rodinná domácnost, společné jmění manželů, smlouva darovací, služebnost, neplatnost práv…*
+- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/rozhodnuti/?id=b23ef459-9c5b-40e4-a54e-a88f6d2a06db) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
 
 #### § 480 — Souhlas OR k jednáním opatrovníka
 
@@ -971,10 +972,10 @@ Pokud OR nelze zřídit:
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ostravě* [57 Co 107/2025-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:57.Co.107.2025.1) — 26. 8. 2025
-- *OS v Klatovech* [9 C 241/2022-176](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2024:9.C.241.2022.1) — *smlouva darovací, vrácení daru, prekluze*
-- *OS ve Svitavách* [9 C 353/2024-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:9.C.353.2024.1) — *duševní porucha, obchodní závod, pozůstalost, dlužné nájemné, převod nemovitostí, omezen…*
-- *OS Plzeň-město* [34 C 336/2019-119](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2021:34.C.336.2019.1) — *rozvod manželství*
+- *KS v Ostravě* [57 Co 107/2025-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f586790-2df3-44a3-b53b-17f532e21651) — 26. 8. 2025
+- *OS v Klatovech* [9 C 241/2022-176](https://rozhodnuti.justice.cz/rozhodnuti/?id=be5952b4-ea2d-4111-9fd6-d8860d37b53c) — *smlouva darovací, vrácení daru, prekluze*
+- *OS ve Svitavách* [9 C 353/2024-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=58882d5f-467d-44bc-952a-1e76be7e3cfb) — *duševní porucha, obchodní závod, pozůstalost, dlužné nájemné, převod nemovitostí, omezen…*
+- *OS Plzeň-město* [34 C 336/2019-119](https://rozhodnuti.justice.cz/rozhodnuti/?id=ed99fa93-fd4e-468f-b1a9-a7cebf555692) — *rozvod manželství*
 
 #### § 484 — Účast neziskových organizací
 
@@ -990,9 +991,9 @@ Specializované neziskové organizace pro péči o osoby se zdravotním postiže
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 183/2021-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.183.2021.1) — 4. 10. 2022
-- *VS v Praze* [2 Cmo 136/2025-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:2.Cmo.136.2025.1) — 23. 9. 2025
-- *ObS pro Prahu 2* [17 C 55/2024-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:17.C.55.2024.1) — *osvojení*
+- *VS v Praze* [7 Cmo 183/2021-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=5b14a129-d348-4f0b-b48b-ea3209e83e86) — 4. 10. 2022
+- *VS v Praze* [2 Cmo 136/2025-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=f316da3b-5c85-4411-a722-0862724f0b98) — 23. 9. 2025
+- *ObS pro Prahu 2* [17 C 55/2024-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=ea193686-8832-4aa6-a113-54dd0b5bfcf1) — *osvojení*
 
 #### § 485 — Soupis jmění a vyúčtování
 
@@ -1051,11 +1052,11 @@ Pokud **zakladatelské jednání** určuje konkrétní osobu jako opatrovníka, 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 168/2023-116](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.168.2023.1) — 2. 10. 2024
-- *MS v Brně* [108 C 65/2022-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:108.C.65.2022.1) — *peněžité plnění, postoupení pohledávky, telekomunikace*
-- *VS v Praze* [2 Cmo 47/2024-404](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.47.2024.1) — 22. 7. 2024
-- *MS v Brně* [34 C 77/2025-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:34.C.77.2025.1) — *neplatnost právního jednání, postoupení pohledávky, smlouva o zápůjčce, náklady řízení,…*
-- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2022:106.C.198.2021.1) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
+- *VS v Praze* [2 Cmo 168/2023-116](https://rozhodnuti.justice.cz/rozhodnuti/?id=a0649cb2-1400-4df7-8cbf-6a3e18daaf5e) — 2. 10. 2024
+- *MS v Brně* [108 C 65/2022-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=f4d7bf49-7c8d-411e-b867-2753ece9cde4) — *peněžité plnění, postoupení pohledávky, telekomunikace*
+- *VS v Praze* [2 Cmo 47/2024-404](https://rozhodnuti.justice.cz/rozhodnuti/?id=0679d6e9-28ea-4b37-9a83-5003fcd4cd0d) — 22. 7. 2024
+- *MS v Brně* [34 C 77/2025-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce076b09-3121-4491-a9b0-b64d6a8362d7) — *neplatnost právního jednání, postoupení pohledávky, smlouva o zápůjčce, náklady řízení,…*
+- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=ef664471-7de4-4b10-9d82-7e30c61b89b0) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
 
 ---
 

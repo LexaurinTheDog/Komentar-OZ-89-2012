@@ -37,11 +37,11 @@ Tato kapitola pokrývá:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Ústí nad Labem* [8 C 274/2022-182](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2023:8.C.274.2022.1) — 31. 10. 2023
-- *OS ve Frýdku-Místku* [11 C 332/2022-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2025:11.C.332.2022.1) — *služebnost*
-- *ObS pro Prahu 4* [21 C 403/2020-101](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:21.C.403.2020.1) — *absolutní majetková práva, akcionář, exekuce, korporace, peněžité plnění, smlouva darova…*
-- *KS v Brně* [13 CO 265/2022-97](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:13.Co.265.2022.1) — *právo užívání, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrácení daru*
-- *OS v Litoměřicích* [7 C 69/2021-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2022:7.C.69.2021.1) — *absolutní majetková práva, ochrana osobnosti, peněžité plnění, smlouva o dílo, smlouva p…*
+- *OS v Ústí nad Labem* [8 C 274/2022-182](https://rozhodnuti.justice.cz/rozhodnuti/?id=5396d912-8005-4e21-b37b-05abc06de643) — 31. 10. 2023
+- *OS ve Frýdku-Místku* [11 C 332/2022-253](https://rozhodnuti.justice.cz/rozhodnuti/?id=aa01e4b4-f86f-4b91-b261-cccda9def6ef) — *služebnost*
+- *ObS pro Prahu 4* [21 C 403/2020-101](https://rozhodnuti.justice.cz/rozhodnuti/?id=6463e345-c6cb-4652-8a24-e50b1680dfc9) — *absolutní majetková práva, akcionář, exekuce, korporace, peněžité plnění, smlouva darova…*
+- *KS v Brně* [13 CO 265/2022-97](https://rozhodnuti.justice.cz/rozhodnuti/?id=0040ba69-4901-498c-aa33-4b547de91dbb) — *právo užívání, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrácení daru*
+- *OS v Litoměřicích* [7 C 69/2021-90](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5e5705d-b498-4a20-85bc-b78148669739) — *absolutní majetková práva, ochrana osobnosti, peněžité plnění, smlouva o dílo, smlouva p…*
 
 ### § 978 — Omezená dispozitivnost vůči třetím osobám
 
@@ -53,11 +53,11 @@ Tato kapitola pokrývá:
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [54 Co 156/2023-243](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:54.Co.156.2023.1) — *držba, rozsudek doplňující, převod vlastnictví, nájem pozemku, právo požívání, náklady ř…*
-- *ObS pro Prahu 3* [6 C 512/2022-97](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2023:6.C.512.2022.97) — *převod nemovitostí, převod vlastnictví, smlouva kupní, smlouva zástavní, zajištění dluhu…*
-- *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:7.Co.766.2025.1) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
-- *KS v Ostravě* [71 Co 223/2024-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:71.Co.223.2024.1) — *služebnost, věcné právo k věci cizí, převod nemovitostí, telekomunikace, právo požívání,…*
-- *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:69.Co.190.2025.267) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
+- *KS v Brně* [54 Co 156/2023-243](https://rozhodnuti.justice.cz/rozhodnuti/?id=2284f25b-8888-4779-bf37-fd5eaaa8223c) — *držba, rozsudek doplňující, převod vlastnictví, nájem pozemku, právo požívání, náklady ř…*
+- *ObS pro Prahu 3* [6 C 512/2022-97](https://rozhodnuti.justice.cz/rozhodnuti/?id=dbb6a2cb-e8b5-4bc0-a2a4-22e455c23ee9) — *převod nemovitostí, převod vlastnictví, smlouva kupní, smlouva zástavní, zajištění dluhu…*
+- *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/rozhodnuti/?id=18b11e7d-8353-4293-8049-d9cb222fbefe) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
+- *KS v Ostravě* [71 Co 223/2024-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=574e9e53-2ed6-4f14-ab7f-957596ab000a) — *služebnost, věcné právo k věci cizí, převod nemovitostí, telekomunikace, právo požívání,…*
+- *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9c3201d-d738-4610-b5cb-92932974da99) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
 
 ---
 
@@ -199,11 +199,11 @@ Hlava II se vztahuje na:
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [25 Co 92/2024-235](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:25.Co.92.2024.1) — *držba, rozvod manželství, spoluvlastnictví, společné jmění manželů, notářský zápis, vydr…*
-- *KS v Plzni* [61 Co 290/2025-121](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2026:61.Co.290.2025.1) — *neplatnost právního jednání, smlouva darovací, náhrada nákladů, příslušenství věci, nepl…*
-- *KS v Českých Budějovicích* [5 Co 1148/2024-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:5.Co.1148.2024.1) — *spoluvlastnictví, notářský zápis, smlouva darovací, smlouva kupní, podílové spoluvlastni…*
-- *OS v Kladně* [16 C 7/2026-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2026:16.C.7.2026.1) — *lhůty, držba, náklady řízení*
-- *OS v Teplicích* [11 C 230/2022-141](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTP:2024:11.C.230.2022.1) — *základní jmění, odbory, pozemní komunikace, smlouva kupní, věcná břemena, držba, služebn…*
+- *KS v Praze* [25 Co 92/2024-235](https://rozhodnuti.justice.cz/rozhodnuti/?id=2a1fea1b-0bef-4675-88ec-0f6d7adb0cf3) — *držba, rozvod manželství, spoluvlastnictví, společné jmění manželů, notářský zápis, vydr…*
+- *KS v Plzni* [61 Co 290/2025-121](https://rozhodnuti.justice.cz/rozhodnuti/?id=f80a76c7-1137-4a3a-8494-7a00b940188f) — *neplatnost právního jednání, smlouva darovací, náhrada nákladů, příslušenství věci, nepl…*
+- *KS v Českých Budějovicích* [5 Co 1148/2024-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=b049473a-6e2f-4dcb-bac3-28f5808c248a) — *spoluvlastnictví, notářský zápis, smlouva darovací, smlouva kupní, podílové spoluvlastni…*
+- *OS v Kladně* [16 C 7/2026-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=85d4131f-b2be-49be-9f9e-7037dc60b18c) — *lhůty, držba, náklady řízení*
+- *OS v Teplicích* [11 C 230/2022-141](https://rozhodnuti.justice.cz/rozhodnuti/?id=6e29a5d8-9252-4108-b97a-8c2dade0a0fd) — *základní jmění, odbory, pozemní komunikace, smlouva kupní, věcná břemena, držba, služebn…*
 
 ### § 991—994 — Typy držby
 

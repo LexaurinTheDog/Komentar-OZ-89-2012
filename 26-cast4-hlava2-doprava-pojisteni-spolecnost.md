@@ -37,11 +37,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Benešově* [12 C 35/2026-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBN:2026:12.C.35.2026.1) — *náhrada nákladů, lhůty, náklady řízení, jízdné*
-- *ObS pro Prahu 3* [5 C 33/2026-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2026:5.C.33.2026.1) — *náhrada nákladů, náklady řízení, jízdné*
-- *OS ve Zlíně* [28 C 289/2025-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:28.C.289.2025.1) — *lhůty, náklady řízení, jízdné*
-- *OS v Prostějově* [8 C 136/2025-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2026:8.C.136.2025.1) — *jízdné*
-- *OS v Třebíči* [4 C 66/2025-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTR:2026:4.C.66.2025.37) — 22. 1. 2026
+- *OS v Benešově* [12 C 35/2026-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=27b80795-978d-4881-a9c7-ae8227cabc6e) — *náhrada nákladů, lhůty, náklady řízení, jízdné*
+- *ObS pro Prahu 3* [5 C 33/2026-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=3cf22e4e-11d1-4705-adbf-4e4c4dc3fc6b) — *náhrada nákladů, náklady řízení, jízdné*
+- *OS ve Zlíně* [28 C 289/2025-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=17576809-6185-40b7-aab2-dd407a095492) — *lhůty, náklady řízení, jízdné*
+- *OS v Prostějově* [8 C 136/2025-234](https://rozhodnuti.justice.cz/rozhodnuti/?id=a1ac479c-a64f-4821-bc8b-05d3541e637a) — *jízdné*
+- *OS v Třebíči* [4 C 66/2025-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=66d2884a-a44e-4b68-ac47-0600815ca82f) — 22. 1. 2026
 
 ### § 2551—2554 — Práva a povinnosti
 
@@ -302,11 +302,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Olomouci* [11 C 263/2021-42](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2022:11.C.263.2021.1) — *peněžité plnění*
-- *OS v Bruntále* [18 C 9/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2024:18.C.9.2024.1) — *prodlení věřitele, smlouva o kontrolní činnosti*
-- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:15.C.70.2021.1) — *peněžité plnění, smlouva o kontrolní činnosti*
-- *OS v Příbrami* [11 C 156/2022-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2023:11.C.156.2022.3) — *peněžité plnění, smlouva o kontrolní činnosti*
-- *OS v Nymburce* [6 C 32/2021-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2021:6.C.32.2021.1) — *peněžité plnění, smlouva o dílo, smlouva o kontrolní činnosti*
+- *OS v Olomouci* [11 C 263/2021-42](https://rozhodnuti.justice.cz/rozhodnuti/?id=5c354ebc-d555-41c6-bc7b-dfa978a08e6b) — *peněžité plnění*
+- *OS v Bruntále* [18 C 9/2024-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=4a21cf48-fb95-4ecb-934f-0bcf89066dcd) — *prodlení věřitele, smlouva o kontrolní činnosti*
+- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=25dea669-f6c2-40fb-97f2-2b30abfa7108) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v Příbrami* [11 C 156/2022-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=efdf1129-c3c3-4900-b024-7bc415695a43) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v Nymburce* [6 C 32/2021-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=6968389e-05a5-4d1a-bb34-f96581d389d5) — *peněžité plnění, smlouva o dílo, smlouva o kontrolní činnosti*
 
 ### § 2654—2661 — Specifika
 
@@ -346,11 +346,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 9* [18 C 101/2022-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:18.C.101.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o účtu, smlouva o vedení účtu*
-- *OS v České Lípě* [48 C 277/2024-13](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2024:48.C.277.2024.1) — *smlouva o úvěru*
-- *OS v České Lípě* [48 C 226/2024-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2024:48.C.226.2024.1) — *smlouva o úvěru*
-- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:15.C.70.2021.1) — *peněžité plnění, smlouva o kontrolní činnosti*
-- *OS v České Lípě* [51 C 417/2024-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2025:51.C.417.2024.1) — *právní domněnka, dokazování, náklady řízení*
+- *ObS pro Prahu 9* [18 C 101/2022-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=233372ed-d3a4-4e16-bc11-b33e0e5ae096) — *peněžité plnění, postoupení pohledávky, smlouva o účtu, smlouva o vedení účtu*
+- *OS v České Lípě* [48 C 277/2024-13](https://rozhodnuti.justice.cz/rozhodnuti/?id=e27004b3-41de-456b-bb07-feb7183767e3) — *smlouva o úvěru*
+- *OS v České Lípě* [48 C 226/2024-17](https://rozhodnuti.justice.cz/rozhodnuti/?id=5c0a205c-bf24-4acf-9f3e-a920fa15e1c6) — *smlouva o úvěru*
+- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=25dea669-f6c2-40fb-97f2-2b30abfa7108) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v České Lípě* [51 C 417/2024-61](https://rozhodnuti.justice.cz/rozhodnuti/?id=b07c3d36-e85a-4dc1-ab49-4127a42618ae) — *právní domněnka, dokazování, náklady řízení*
 
 ---
 
@@ -589,11 +589,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [94 Ncp 705/2025-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:94.Ncp.705.2025.12) — 20. 11. 2025
-- *MS v Brně* [13 C 159/2023-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:13.C.159.2023.1) — *obchodní podíl, smlouva o půjčce, pozůstalost*
-- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:27.C.26.2024.62) — *peněžité plnění*
-- *MS v Praze* [39 CO 316/2022-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:39.Co.316.2022.1) — *peněžité plnění, rozsudek mezitímní, smlouva o běžném účtu, znalecký posudek*
-- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2025:38.C.145.2024.333) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
+- *VS v Praze* [94 Ncp 705/2025-12](https://rozhodnuti.justice.cz/rozhodnuti/?id=4d6efeb6-b44b-43ca-a390-c187dfdfe3d2) — 20. 11. 2025
+- *MS v Brně* [13 C 159/2023-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=81686a07-4b34-4a00-b72d-17f610ece2c9) — *obchodní podíl, smlouva o půjčce, pozůstalost*
+- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/rozhodnuti/?id=1b9dc27a-10f2-49d3-8f9f-47ea0589456d) — *peněžité plnění*
+- *MS v Praze* [39 CO 316/2022-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=668be310-eba6-4bd7-804e-ddaf61b21465) — *peněžité plnění, rozsudek mezitímní, smlouva o běžném účtu, znalecký posudek*
+- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/rozhodnuti/?id=6282afa3-56bb-4a6c-a21a-dc996761651d) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
 
 ### § 2748—2755 — Pravidla
 
@@ -670,11 +670,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:27.C.26.2024.62) — *peněžité plnění*
-- *KS v Plzni* [64 Co 257/2025-142](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:64.Co.257.2025.1) — *ručení*
-- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2025:38.C.145.2024.333) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
-- *KS v Brně* [38 Co 87/2024-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:38.Co.87.2024.1) — *postoupení smlouvy, akcie, pasivní legitimace*
-- *VS v Praze* [7 Cmo 141/2022-122](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.141.2022.1) — 30. 11. 2022
+- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/rozhodnuti/?id=1b9dc27a-10f2-49d3-8f9f-47ea0589456d) — *peněžité plnění*
+- *KS v Plzni* [64 Co 257/2025-142](https://rozhodnuti.justice.cz/rozhodnuti/?id=ca5bdee6-a7b3-4823-9f91-1b10edeb17dd) — *ručení*
+- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/rozhodnuti/?id=6282afa3-56bb-4a6c-a21a-dc996761651d) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
+- *KS v Brně* [38 Co 87/2024-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=40045ba7-7052-4b8c-9117-dcf8cc697921) — *postoupení smlouvy, akcie, pasivní legitimace*
+- *VS v Praze* [7 Cmo 141/2022-122](https://rozhodnuti.justice.cz/rozhodnuti/?id=4463f831-4b4f-4f52-9493-4d529c25f6f5) — 30. 11. 2022
 
 ---
 
@@ -696,11 +696,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [44 C 46/2022-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:44.C.46.2022.1) — *bezdůvodné obohacení, duševní vlastnictví, peněžité plnění, podnájem, postoupení pohledá…*
-- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
-- *OS v Jičíně* [5 C 73/2022-50](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:5.C.73.2022.1) — *peněžité plnění, pojištění*
-- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:27.C.358.2022.1) — 29. 8. 2023
-- *KS v Brně* [60 Co 215/2025-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:60.Co.215.2025.1) — *náhrada nákladů, podnikatel, odvolání, náklady řízení, odstoupení od smlouvy, lhůty, hod…*
+- *MS v Brně* [44 C 46/2022-292](https://rozhodnuti.justice.cz/rozhodnuti/?id=9c894cda-210d-4c79-9d28-c25d31fea983) — *bezdůvodné obohacení, duševní vlastnictví, peněžité plnění, podnájem, postoupení pohledá…*
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=84b2025c-cf28-4515-84e8-5831780e1928) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS v Jičíně* [5 C 73/2022-50](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce26632e-f222-4d37-a41b-4935e56e421c) — *peněžité plnění, pojištění*
+- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=7ab36a50-09b5-4e02-9d3b-2bbfff42cc3f) — 29. 8. 2023
+- *KS v Brně* [60 Co 215/2025-210](https://rozhodnuti.justice.cz/rozhodnuti/?id=38ecd8e7-09bf-4783-be9b-39bb6f6cbc8c) — *náhrada nákladů, podnikatel, odvolání, náklady řízení, odstoupení od smlouvy, lhůty, hod…*
 
 ---
 
@@ -765,11 +765,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Berouně* [10 C 437/2020-52](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:10.C.437.2020.1) — *peněžité plnění, pozemní komunikace*
-- *MS v Brně* [42 C 265/2022-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:42.C.265.2022.1) — *pojištění majetku, dokazování, náhrada nákladů, smlouva kupní*
-- *ObS pro Prahu 6* [14 C 305/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2022:14.C.305.2022.1) — *peněžité plnění, pojištění odpovědnosti za škodu*
-- *ObS pro Prahu 8* [10 C 58/2022-175](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:10.C.58.2022.1) — *peněžité plnění, znalecký posudek*
-- *MS v Praze* [53 CO 247/2022-104](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.247.2022.1) — *náklady léčení, pasivní legitimace, peněžité plnění, pojištění odpovědnosti za škodu, ru…*
+- *OS v Berouně* [10 C 437/2020-52](https://rozhodnuti.justice.cz/rozhodnuti/?id=05e1fc9b-3de6-4018-a92b-0017b5f38cea) — *peněžité plnění, pozemní komunikace*
+- *MS v Brně* [42 C 265/2022-108](https://rozhodnuti.justice.cz/rozhodnuti/?id=02459a77-5750-416d-ba6b-38c871e20e17) — *pojištění majetku, dokazování, náhrada nákladů, smlouva kupní*
+- *ObS pro Prahu 6* [14 C 305/2022-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=83a08468-97fa-44af-ba85-d9c12a5068ba) — *peněžité plnění, pojištění odpovědnosti za škodu*
+- *ObS pro Prahu 8* [10 C 58/2022-175](https://rozhodnuti.justice.cz/rozhodnuti/?id=24ce7e25-e305-47cd-9702-08a55584d999) — *peněžité plnění, znalecký posudek*
+- *MS v Praze* [53 CO 247/2022-104](https://rozhodnuti.justice.cz/rozhodnuti/?id=301d15b1-4d91-4cdd-a8cc-008fe5066bb7) — *náklady léčení, pasivní legitimace, peněžité plnění, pojištění odpovědnosti za škodu, ru…*
 
 ### § 2766—2772 — Strany pojištění
 
@@ -901,11 +901,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Žďáru nad Sázavou* [8 C 143/2021-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:8.C.143.2021.1) — *peněžité plnění*
-- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
-- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:8.C.61.2020.1) — *notářský zápis, pasivní legitimace, peněžité plnění*
-- *OS v Berouně* [18 C 87/2020-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:18.C.87.2020.1) — *peněžité plnění, software*
-- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:27.C.358.2022.1) — 29. 8. 2023
+- *OS ve Žďáru nad Sázavou* [8 C 143/2021-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=09b2392d-fdf0-4ca8-90ed-52be39c36ed2) — *peněžité plnění*
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=84b2025c-cf28-4515-84e8-5831780e1928) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=b7e64cab-7518-452b-b39e-b5aa2adf778b) — *notářský zápis, pasivní legitimace, peněžité plnění*
+- *OS v Berouně* [18 C 87/2020-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=972b5222-6f8b-4073-bfb6-3eb780c43b38) — *peněžité plnění, software*
+- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=7ab36a50-09b5-4e02-9d3b-2bbfff42cc3f) — 29. 8. 2023
 
 ### § 2876—2883 — Vymahatelnost
 
@@ -945,11 +945,11 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
-- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:8.C.61.2020.1) — *notářský zápis, pasivní legitimace, peněžité plnění*
-- *KS v Plzni* [14 Co 50/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:14.Co.50.2025.1) — *smlouva o půjčce, neplatnost právního úkonu*
-- *KS v Praze* [26 Co 279/2024-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:26.Co.279.2024.1) — *smlouva nájemní, výpověď z nájmu*
-- *ObS pro Prahu 3* [11 C 320/2023-107](https://rozhodnuti.justice.cz/?q=ECLI) — *software, doménové jméno, podvod, dotace*
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=84b2025c-cf28-4515-84e8-5831780e1928) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=b7e64cab-7518-452b-b39e-b5aa2adf778b) — *notářský zápis, pasivní legitimace, peněžité plnění*
+- *KS v Plzni* [14 Co 50/2025-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=8f450265-fc8b-4fde-b4d2-d768d76c150d) — *smlouva o půjčce, neplatnost právního úkonu*
+- *KS v Praze* [26 Co 279/2024-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=92d97ff4-3515-4f8a-802d-de965abc81bd) — *smlouva nájemní, výpověď z nájmu*
+- *ObS pro Prahu 3* [11 C 320/2023-107](https://rozhodnuti.justice.cz/rozhodnuti/?id=86066ca2-4860-4016-b907-947640c5edfb) — *software, doménové jméno, podvod, dotace*
 
 ---
 
@@ -1035,9 +1035,9 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [64 C 255/2023-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2025:64.C.255.2023.1) — 29. 5. 2025
-- *OS Praha-východ* [18 C 168/2024-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2025:18.C.168.2024.54) — *dokazování, advokátní tarif, náklady řízení, zavinění, majetková újma, svědek, majetek,…*
-- *ObS pro Prahu 9* [9 C 37/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2020:9.C.37.2020.1) — *peněžité plnění, slib odškodnění, započtení pohledávky*
+- *ObS pro Prahu 1* [64 C 255/2023-109](https://rozhodnuti.justice.cz/rozhodnuti/?id=73110a6f-3cec-4714-aadf-b50813959e06) — 29. 5. 2025
+- *OS Praha-východ* [18 C 168/2024-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=876dfbc5-9205-4b0b-a28b-39a83f13912e) — *dokazování, advokátní tarif, náklady řízení, zavinění, majetková újma, svědek, majetek,…*
+- *ObS pro Prahu 9* [9 C 37/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=07ad5718-741e-4191-8b9c-f1a22d8aadd3) — *peněžité plnění, slib odškodnění, započtení pohledávky*
 
 ---
 

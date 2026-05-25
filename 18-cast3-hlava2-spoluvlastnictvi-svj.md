@@ -155,11 +155,11 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Šumperku* [8 C 124/2020-158](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSU:2025:8.C.124.2020.1) — *dědické řízení, věcná břemena, smlouva kupní, odvolání, koupě, smlouva nájemní, dokazová…*
-- *KS v Ostravě* [69 Co 201/2025-199](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:69.Co.201.2025.1) — *náhrada nákladů, dědické řízení, smlouva kupní, převod nemovitostí, náklady řízení, notá…*
-- *KS v Brně* [59 Co 151/2024-68](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:59.Co.151.2024.1) — *převod vlastnictví, smlouva kupní, smlouva darovací, převod nemovitostí*
-- *OS v Uherském Hradišti* [14 C 243/2023-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUH:2024:14.C.243.2023.1) — *smlouva kupní, smlouva darovací, veřejný rejstřík*
-- *OS v Benešově* [12 C 136/2022-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBN:2022:12.C.136.2022.1) — *peněžité plnění, služebnost, smlouva darovací, spoluvlastnictví, věcná břemena, vzájemné…*
+- *OS v Šumperku* [8 C 124/2020-158](https://rozhodnuti.justice.cz/rozhodnuti/?id=72e59861-789c-40dd-a7b2-0774a45b0c32) — *dědické řízení, věcná břemena, smlouva kupní, odvolání, koupě, smlouva nájemní, dokazová…*
+- *KS v Ostravě* [69 Co 201/2025-199](https://rozhodnuti.justice.cz/rozhodnuti/?id=815435d2-0be2-44f9-81ff-680c37caceb8) — *náhrada nákladů, dědické řízení, smlouva kupní, převod nemovitostí, náklady řízení, notá…*
+- *KS v Brně* [59 Co 151/2024-68](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3569444-066f-4662-97af-af55f0eed4b1) — *převod vlastnictví, smlouva kupní, smlouva darovací, převod nemovitostí*
+- *OS v Uherském Hradišti* [14 C 243/2023-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=4f3e95f0-2aa0-428f-918d-faed185758fd) — *smlouva kupní, smlouva darovací, veřejný rejstřík*
+- *OS v Benešově* [12 C 136/2022-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=58d837d0-c9d1-4882-8253-672090db21e7) — *peněžité plnění, služebnost, smlouva darovací, spoluvlastnictví, věcná břemena, vzájemné…*
 
 ### § 1101—1105 — Specifika podle typu věci
 
@@ -627,11 +627,11 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [18 C 289/2022-40](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:18.C.289.2022.1) — *exekuce, místní příslušnost, nebytový prostor, peněžité plnění, spoluvlastnictví, věcná…*
-- *ObS pro Prahu 10* [59 C 111/2023-272](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2025:59.C.111.2023.1) — *smlouva kupní, znalečné, svědečné, nebytový prostor, převod vlastnictví, odstoupení od s…*
-- *OS v Trutnově* [9 C 244/2024-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTU:2025:9.C.244.2024.100) — *peněžité plnění*
-- *MS v Praze* [29 Co 14/2025-191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:29.Co.14.2025.191) — *započtení pohledávky, bezdůvodné obohacení, spoluvlastnictví, vlastnictví bytů, dlužné p…*
-- *VS v Praze* [9 Cmo 1/2025-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.1.2025.1) — 6. 3. 2025
+- *ObS pro Prahu 4* [18 C 289/2022-40](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b48f1b5-6108-462c-a475-d77b5ea38520) — *exekuce, místní příslušnost, nebytový prostor, peněžité plnění, spoluvlastnictví, věcná…*
+- *ObS pro Prahu 10* [59 C 111/2023-272](https://rozhodnuti.justice.cz/rozhodnuti/?id=ee815f9e-01d2-4bae-ac9a-638903825b33) — *smlouva kupní, znalečné, svědečné, nebytový prostor, převod vlastnictví, odstoupení od s…*
+- *OS v Trutnově* [9 C 244/2024-100](https://rozhodnuti.justice.cz/rozhodnuti/?id=25f55625-e538-49a5-ba77-fd04ff386c02) — *peněžité plnění*
+- *MS v Praze* [29 Co 14/2025-191](https://rozhodnuti.justice.cz/rozhodnuti/?id=f7e26d1c-ef29-404f-bc74-b92b3121713f) — *započtení pohledávky, bezdůvodné obohacení, spoluvlastnictví, vlastnictví bytů, dlužné p…*
+- *VS v Praze* [9 Cmo 1/2025-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=1aee6e53-ddb0-415d-ab89-a65f37ff31c4) — 6. 3. 2025
 
 ### Pododdíl 2 — Vznik jednotky (§ 1163—1169)
 

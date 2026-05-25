@@ -94,7 +94,7 @@ U ustanovení, k nimž to bylo z lokálního archivu možné, je doplněn oddíl
 - **Nejvyšší soud (NS)** a **Ústavní soud (ÚS)** jsou uváděny přednostně. U NS je rozhodnutí k paragrafu přiřazeno podle pole **„Dotčené předpisy"** v metadatech rozhodnutí — pouze pokud toto pole výslovně označuje daný paragraf zákona č. 89/2012 Sb. (zkratka **„o. z."**). U ÚS (databáze NALUS, kde strukturované pole chybí) je rozhodnutí přiřazeno jen tehdy, cituje-li daný paragraf v těsné vazbě na „zákon č. 89/2012 Sb." nebo „o. z.", a jen u rozhodnutí vydaných od roku 2014 (kdy nabyl OZ účinnosti).
 - **Nižší soudy** (okresní, krajské, vrchní, městské/obvodní) jsou uvedeny **pouze podpůrně** u paragrafů, k nimž žádné rozhodnutí NS ani ÚS v archivu není — aby i tato ustanovení měla alespoň prvoinstanční ilustraci. Přiřazení je opět vázáno na těsnou citaci „89/2012 Sb." / „o. z." a na rozhodnutí od roku 2014.
 - Rozhodnutí k dřívějšímu občanskému zákoníku č. 40/1964 Sb. (zkratka „obč. zák.") se **nepřebírají**, i když řeší obdobnou otázku.
-- Každý judikát je **přímým odkazem** na text rozhodnutí (NS: `rozhodnuti.nsoud.cz`; ÚS: `nalus.usoud.cz`; nižší soudy: `rozhodnuti.justice.cz` přes ECLI). U paragrafů bez nalezeného rozhodnutí oddíl uveden není. Spisové značky se nikde nedotvářejí — pocházejí výhradně z lokálně uložených rozhodnutí.
+- Každý judikát je **přímým odkazem** na text rozhodnutí (NS: `rozhodnuti.nsoud.cz`; ÚS: `nalus.usoud.cz`; nižší soudy: `rozhodnuti.justice.cz` — odkaz na detail rozhodnutí). U paragrafů bez nalezeného rozhodnutí oddíl uveden není. Spisové značky se nikde nedotvářejí — pocházejí výhradně z lokálně uložených rozhodnutí.
 
 ## 7. Důležité předpisy navazující
 

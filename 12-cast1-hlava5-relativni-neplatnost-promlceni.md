@@ -52,8 +52,8 @@ Závěrečná kapitola Části první OZ pokrývá tři vzájemně související
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [64 C 43/2018-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2020:64.C.43.2018.1) — *obnosové pojištění, peněžité plnění*
-- *OS v Přerově* [8 C 328/2021-31](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2022:8.C.328.2021.1) — *jízdné, postoupení pohledávky*
+- *ObS pro Prahu 1* [64 C 43/2018-64](https://rozhodnuti.justice.cz/rozhodnuti/?id=1fac1d98-4385-4564-bedb-765db14c1089) — *obnosové pojištění, peněžité plnění*
+- *OS v Přerově* [8 C 328/2021-31](https://rozhodnuti.justice.cz/rozhodnuti/?id=aa226013-d2be-403e-aa7b-d967dc6889bd) — *jízdné, postoupení pohledávky*
 
 ---
 
@@ -639,11 +639,11 @@ Toto pravidlo umožňuje **revitalizaci spícího práva** — dlužník vědom�
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 7* [15 C 117/2022-101](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2022:15.C.117.2022.1) — *cizina, nájem bytu, peněžité plnění, poplatek z prodlení, smlouva nájemní, zastavení exe…*
-- *OS Plzeň-město* [16 C 196/2019-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2021:16.C.196.2019.1) — *dlužné nájemné, smlouva nájemní*
-- *ObS pro Prahu 5* [42 C 439/2020-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2021:42.C.439.2020.1) — *místní příslušnost, peněžité plnění, smlouva o dílo, uznání dluhu*
-- *OS v Liberci* [53 C 345/2017-500](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2021:53.C.345.2017.1) — *právní domněnka, smlouva kupní, odvolání, koupě, rozhodčí nález, dokazování, svědek, vad…*
-- *KS v Ostravě* [16 CO 191/2022-153](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:16.Co.191.2022.1) — *smlouva kolektivní, uznání dluhu*
+- *ObS pro Prahu 7* [15 C 117/2022-101](https://rozhodnuti.justice.cz/rozhodnuti/?id=c4b09100-fa20-44ea-adab-518e91061880) — *cizina, nájem bytu, peněžité plnění, poplatek z prodlení, smlouva nájemní, zastavení exe…*
+- *OS Plzeň-město* [16 C 196/2019-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=628c25be-22bf-4daa-a7dc-f36bac4ad0ed) — *dlužné nájemné, smlouva nájemní*
+- *ObS pro Prahu 5* [42 C 439/2020-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=04f0226e-f731-4165-809d-b2ba01340e4d) — *místní příslušnost, peněžité plnění, smlouva o dílo, uznání dluhu*
+- *OS v Liberci* [53 C 345/2017-500](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d51add4-226a-45b1-8621-60d4001e322a) — *právní domněnka, smlouva kupní, odvolání, koupě, rozhodčí nález, dokazování, svědek, vad…*
+- *KS v Ostravě* [16 CO 191/2022-153](https://rozhodnuti.justice.cz/rozhodnuti/?id=a4248b95-b073-41a9-8d69-4d084cd52b25) — *smlouva kolektivní, uznání dluhu*
 
 ---
 

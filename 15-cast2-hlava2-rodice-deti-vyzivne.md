@@ -51,11 +51,11 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Ústí nad Labem* [23 C 9/2020-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2021:23.C.9.2020.1) — *osvojení, osvojení zletilého, výživné*
-- *ObS pro Prahu 5* [28 C 302/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:28.C.302.2024.1) — *osvojení zletilého, osvojení, výživné*
-- *OS ve Vyškově* [12 C 85/2022-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:12.C.85.2022.1) — *osvojení, osvojení zletilého*
-- *ObS pro Prahu 5* [26 C 402/2024-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:26.C.402.2024.1) — *výživné, osvojení*
-- *OS v Ústí nad Orlicí* [7 C 44/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2024:7.C.44.2024.1) — *osvojení, osvojení zletilého, výživné*
+- *OS v Ústí nad Labem* [23 C 9/2020-30](https://rozhodnuti.justice.cz/rozhodnuti/?id=097b8352-0f2c-47b9-8858-e6e03bf73625) — *osvojení, osvojení zletilého, výživné*
+- *ObS pro Prahu 5* [28 C 302/2024-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=1099986a-039e-4dcf-9e97-a8c344543934) — *osvojení zletilého, osvojení, výživné*
+- *OS ve Vyškově* [12 C 85/2022-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=186c014e-afa4-4f4a-b19b-83a8c855d017) — *osvojení, osvojení zletilého*
+- *ObS pro Prahu 5* [26 C 402/2024-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=80cca9d1-7177-492a-a330-75500d46c118) — *výživné, osvojení*
+- *OS v Ústí nad Orlicí* [7 C 44/2024-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=e2dba9ca-5e70-46d3-b202-0d872a0f3e78) — *osvojení, osvojení zletilého, výživné*
 
 ### § 857 — Povinnost dbát rodičů a výchovná opatření
 
@@ -73,11 +73,11 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem* [95 Co 303/2025-273](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:95.Co.303.2025.1) — *služebnost, smlouva darovací, dlužné nájemné, věcná břemena, odbory, vrácení daru, odsto…*
-- *OS v Domažlicích* [7 C 164/2024-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDO:2024:7.C.164.2024.1) — *nájem bytu, zvýšení výživného, výživné, stipendium, rodičovská odpovědnost, rehabilitace…*
-- *OS ve Svitavách* [5 C 101/2014-310](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2022:5.C.101.2014.1) — *peněžité plnění, podílové spoluvlastnictví, postoupení pohledávky, rozhrada, smlouva kup…*
-- *OS v Karviné* [21 C 331/2025-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2026:21.C.331.2025.1) — *výživné, zvýšení výživného*
-- *OS v Liberci* [33 C 14/2024-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:33.C.14.2024.90) — *práce přesčas, náhrada nákladů, majetek, dokazování, výživné, lhůty, náklady řízení, zvý…*
+- *KS v Ústí nad Labem* [95 Co 303/2025-273](https://rozhodnuti.justice.cz/rozhodnuti/?id=65754244-6994-4070-a429-dc5aa1544502) — *služebnost, smlouva darovací, dlužné nájemné, věcná břemena, odbory, vrácení daru, odsto…*
+- *OS v Domažlicích* [7 C 164/2024-84](https://rozhodnuti.justice.cz/rozhodnuti/?id=ceb3a0c5-00ec-405e-9260-082c9090636b) — *nájem bytu, zvýšení výživného, výživné, stipendium, rodičovská odpovědnost, rehabilitace…*
+- *OS ve Svitavách* [5 C 101/2014-310](https://rozhodnuti.justice.cz/rozhodnuti/?id=b1fe4202-3e08-4b67-8c75-16f7d90a79d6) — *peněžité plnění, podílové spoluvlastnictví, postoupení pohledávky, rozhrada, smlouva kup…*
+- *OS v Karviné* [21 C 331/2025-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc04cd6c-ca28-4bcb-92e9-4ccda71c7de8) — *výživné, zvýšení výživného*
+- *OS v Liberci* [33 C 14/2024-90](https://rozhodnuti.justice.cz/rozhodnuti/?id=278a4b1b-9fbd-418b-8eaf-119aa3f5b845) — *práce přesčas, náhrada nákladů, majetek, dokazování, výživné, lhůty, náklady řízení, zvý…*
 
 ### § 858 — Definice rodičovské odpovědnosti
 
@@ -172,7 +172,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [16 C 315/2020-102](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:16.C.315.2020.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité…*
+- *ObS pro Prahu 4* [16 C 315/2020-102](https://rozhodnuti.justice.cz/rozhodnuti/?id=38415b88-b887-4936-a73a-f97727b9887d) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité…*
 
 ### § 861—864 — Specifické situace
 
@@ -387,11 +387,11 @@ V případě neshody → **soud rozhoduje na návrh** kteréhokoli rodiče.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Plzni* [56 Co 199/2023-912](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:56.Co.199.2023.1) — 26. 9. 2023
-- *MS v Brně* [112 C 57/2021-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2021:112.C.57.2021.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, zadostiu…*
-- *MS v Praze* [39 Co 200/2025-199](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:39.Co.200.2025.199) — *bezdůvodné obohacení, zvýšení výživného, rozvod manželství, společné jmění manželů, zast…*
-- *ObS pro Prahu 4* [30 C 196/2022-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:30.C.196.2022.1) — *nemajetková újma, znalecký posudek*
-- *KS v Ústí nad Labem* [8 Co 414/2025-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2026:8.Co.414.2025.1) — *zavinění, výkon rozhodnutí, náhrada nákladů, koupě, rodičovská odpovědnost, náklady říze…*
+- *KS v Plzni* [56 Co 199/2023-912](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc32a997-93e4-4f8c-9b3e-4a6c72c0705d) — 26. 9. 2023
+- *MS v Brně* [112 C 57/2021-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=8870e71a-cb48-4e9a-b76f-cfca234f2543) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, zadostiu…*
+- *MS v Praze* [39 Co 200/2025-199](https://rozhodnuti.justice.cz/rozhodnuti/?id=3a75f37d-7bfa-4110-9774-564fecb24e80) — *bezdůvodné obohacení, zvýšení výživného, rozvod manželství, společné jmění manželů, zast…*
+- *ObS pro Prahu 4* [30 C 196/2022-61](https://rozhodnuti.justice.cz/rozhodnuti/?id=65d5a7ef-0f97-40da-beae-9ef2259f9380) — *nemajetková újma, znalecký posudek*
+- *KS v Ústí nad Labem* [8 Co 414/2025-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=cdde38b9-8eab-4285-bc99-9407e79d96f0) — *zavinění, výkon rozhodnutí, náhrada nákladů, koupě, rodičovská odpovědnost, náklady říze…*
 
 #### § 878 — Výkon jedním rodičem
 
@@ -421,8 +421,8 @@ Jednání vůči dítěti, které není způsobilé samostatně jednat, postač�
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [22 Co 119/2024-102](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:22.Co.119.2024.1) — *smlouva o zápůjčce, postoupení pohledávky, bezdůvodné obohacení, peněžité plnění*
-- *OS v Sokolově* [11 C 113/2022-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2022:11.C.113.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, smluvní pokuta*
+- *KS v Hradci Králové* [22 Co 119/2024-102](https://rozhodnuti.justice.cz/rozhodnuti/?id=54c6132f-9576-48ce-9292-b83616ef95be) — *smlouva o zápůjčce, postoupení pohledávky, bezdůvodné obohacení, peněžité plnění*
+- *OS v Sokolově* [11 C 113/2022-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=73018133-6d9b-4307-af08-91c08902ad11) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, smluvní pokuta*
 
 ### Péče o dítě a jeho ochrana (§ 880—886)
 
@@ -494,11 +494,11 @@ Jednání vůči dítěti, které není způsobilé samostatně jednat, postač�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Ústí nad Orlicí* [6 C 153/2021-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:6.C.153.2021.1) — *smlouva o účtu, smlouva o zápůjčce*
-- *OS v Kladně* [218 C 65/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:218.C.65.2022.1) — *jízdné, peněžité plnění*
-- *OS v Kladně* [222 C 9/2022-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.9.2022.1) — *jízdné, peněžité plnění*
-- *OS v Kladně* [222 C 1/2022-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.1.2022.1) — *jízdné, peněžité plnění*
-- *OS v Kladně* [222 C 8/2022-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.8.2022.1) — *jízdné, peněžité plnění*
+- *OS v Ústí nad Orlicí* [6 C 153/2021-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=bfd9ad1e-817a-414d-bcfe-883fa60e6baf) — *smlouva o účtu, smlouva o zápůjčce*
+- *OS v Kladně* [218 C 65/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=fae9882d-0fe7-4e7c-90c9-b7924362ee1f) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 9/2022-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=29eda187-b749-4f3d-9ec5-3cc976fe2315) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 1/2022-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=79231fc4-58a9-4e2c-8529-a80cc3a0fbc2) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 8/2022-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c6c074a-21b2-4ac9-b4d4-a648f2c3b26b) — *jízdné, peněžité plnění*
 
 #### § 898 — KLÍČOVÉ — Souhlas soudu k některým úkonům
 
@@ -575,11 +575,11 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Nymburce* [6 C 305/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2023:6.C.305.2022.3) — *peněžité plnění, výživné*
-- *MS v Praze* [12 Co 313/2024-258](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:12.Co.313.2024.258) — 12. 11. 2024
-- *MS v Praze* [12 Co 314/2024-258](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:12.Co.314.2024.258) — 12. 11. 2024
-- *OS v Mostě* [22 C 355/2022-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.355.2022.1) — *peněžité plnění*
-- *OS Praha-západ* [8 C 416/2021-248](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2024:8.C.416.2021.1) — *smlouva kupní, poplatky rozhlasové a televizní, výživné, dodávky energie, podnájem, jmění*
+- *OS v Nymburce* [6 C 305/2022-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=e32e6bbc-c854-489c-bcf6-d822bdac35bd) — *peněžité plnění, výživné*
+- *MS v Praze* [12 Co 313/2024-258](https://rozhodnuti.justice.cz/rozhodnuti/?id=c475ddaf-8de6-42d6-8dac-88011b554dcd) — 12. 11. 2024
+- *MS v Praze* [12 Co 314/2024-258](https://rozhodnuti.justice.cz/rozhodnuti/?id=9534e3ab-85f1-4bb5-98dc-757b7ace9d6f) — 12. 11. 2024
+- *OS v Mostě* [22 C 355/2022-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=12e823d7-c44d-458d-828b-7a574a157f84) — *peněžité plnění*
+- *OS Praha-západ* [8 C 416/2021-248](https://rozhodnuti.justice.cz/rozhodnuti/?id=fbc7ebd2-ed6b-4088-bf4b-12ea685a2b82) — *smlouva kupní, poplatky rozhlasové a televizní, výživné, dodávky energie, podnájem, jmění*
 
 ### Výkon po rozvodu (§ 906—909)
 
@@ -778,11 +778,11 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Chebu* [15 C 237/2025-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2026:15.C.237.2025.1) — *náhrada nákladů, výživné, příspěvek na bydlení, porod, náklady řízení*
-- *OS v Přerově* [16 C 263/2025-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2025:16.C.263.2025.1) — *porod, jízdné, náklady řízení, lhůty, dokazování, výživné*
-- *OS v České Lípě* [34 C 84/2025-106](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2025:34.C.84.2025.1) — *náhrada nákladů, nemocenské dávky, porod, příspěvek na bydlení, náklady řízení, lhůty, v…*
-- *OS v Chomutově* [45 C 121/2024-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2025:45.C.121.2024.1) — *výživné, dokazování, náhrada nákladů, porod, náklady řízení*
-- *OS v Kladně* [8 C 33/2025-50](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:8.C.33.2025.1) — *náklady řízení, příspěvek na bydlení, výživné, pěstounská péče, náhrada nákladů*
+- *OS v Chebu* [15 C 237/2025-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=8871acf2-17d9-4505-8ce5-4aef53b7dcb3) — *náhrada nákladů, výživné, příspěvek na bydlení, porod, náklady řízení*
+- *OS v Přerově* [16 C 263/2025-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=fc00e123-83d5-491b-9986-8c8641d08d5f) — *porod, jízdné, náklady řízení, lhůty, dokazování, výživné*
+- *OS v České Lípě* [34 C 84/2025-106](https://rozhodnuti.justice.cz/rozhodnuti/?id=26a8cbce-3b67-4e0e-982d-7b2156cada6a) — *náhrada nákladů, nemocenské dávky, porod, příspěvek na bydlení, náklady řízení, lhůty, v…*
+- *OS v Chomutově* [45 C 121/2024-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=fafb3372-5b15-4542-8417-11a12d6f8606) — *výživné, dokazování, náhrada nákladů, porod, náklady řízení*
+- *OS v Kladně* [8 C 33/2025-50](https://rozhodnuti.justice.cz/rozhodnuti/?id=070b1b83-fa28-42d0-9d20-f18647bb5498) — *náklady řízení, příspěvek na bydlení, výživné, pěstounská péče, náhrada nákladů*
 
 ### § 921—923 — Společná ustanovení o výživném
 
@@ -856,9 +856,9 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 153/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.153.2022.1) — 8. 6. 2022
-- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 145/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.145.2022.1) — 30. 5. 2022
-- *OS Praha-východ* [8 C 389/2019-145](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2022:8.C.389.2019.1) — *bolestné, peněžité plnění, rehabilitace, znalecký posudek, ztížení společenského uplatnění*
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 153/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f0f06df-0dfa-4f4b-b70d-675062615895) — 8. 6. 2022
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 145/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=4348cde6-18c7-41bd-bc2a-b5d09b94a874) — 30. 5. 2022
+- *OS Praha-východ* [8 C 389/2019-145](https://rozhodnuti.justice.cz/rozhodnuti/?id=039c1bee-3de9-4379-a722-c930492712d8) — *bolestné, peněžité plnění, rehabilitace, znalecký posudek, ztížení společenského uplatnění*
 
 ### § 925 — Preventivní, výchovná a sankční opatření
 

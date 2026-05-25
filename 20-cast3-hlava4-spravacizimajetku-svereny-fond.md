@@ -171,7 +171,7 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 268/2019-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.268.2019.1) — 14. 1. 2021
+- *VS v Praze* [2 Cmo 268/2019-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=0ef084b5-2241-4ba4-a409-6aa000f0e5e4) — 14. 1. 2021
 
 ### § 1410 — Volnost správce
 
@@ -204,11 +204,11 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 10* [12 C 235/2024-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2025:12.C.235.2024.1) — *nájem bytu, smlouva o dílo, znalecký posudek, smlouva o smlouvě budoucí, smlouva nájemní…*
-- *KS v Ostravě* [8 CO 203/2022-177](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:8.Co.203.2022.1) — *bezdůvodné obohacení, korporace*
-- *MS v Praze* [51 Co 62/2025-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:51.Co.62.2025.108) — *nájem bytu, pacht, znalecký posudek, smlouva nájemní, smlouva o smlouvě budoucí, pasivní…*
-- *OS v Kutné Hoře* [11 C 40/2020-222](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2021:11.C.40.2020.1) — *duševní porucha, náklady pohřbu, omezení svéprávnosti, peněžité plnění, pozůstalost, sml…*
-- *KS v Plzni* [18 CO 152/2023-485](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:18.Co.152.2023 .1) — *smlouva nájemní, společenství vlastníků jednotek*
+- *ObS pro Prahu 10* [12 C 235/2024-75](https://rozhodnuti.justice.cz/rozhodnuti/?id=e57fb240-77c5-4af5-b1e5-e4d51ea4c74b) — *nájem bytu, smlouva o dílo, znalecký posudek, smlouva o smlouvě budoucí, smlouva nájemní…*
+- *KS v Ostravě* [8 CO 203/2022-177](https://rozhodnuti.justice.cz/rozhodnuti/?id=1609a7c4-f9fb-4ead-8916-306e9bed663d) — *bezdůvodné obohacení, korporace*
+- *MS v Praze* [51 Co 62/2025-108](https://rozhodnuti.justice.cz/rozhodnuti/?id=69aa031e-30c7-4139-868e-60e1752a823a) — *nájem bytu, pacht, znalecký posudek, smlouva nájemní, smlouva o smlouvě budoucí, pasivní…*
+- *OS v Kutné Hoře* [11 C 40/2020-222](https://rozhodnuti.justice.cz/rozhodnuti/?id=69eb795b-ae25-4dde-95cc-507cae4dfad4) — *duševní porucha, náklady pohřbu, omezení svéprávnosti, peněžité plnění, pozůstalost, sml…*
+- *KS v Plzni* [18 CO 152/2023-485](https://rozhodnuti.justice.cz/rozhodnuti/?id=f20c0513-aa13-461d-a78c-7ceaa6f9e32f) — *smlouva nájemní, společenství vlastníků jednotek*
 
 ### § 1412 — Nestrannost mezi beneficienty
 
@@ -245,8 +245,8 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [47 Co 139/2025-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:47.Co.139.2025.1) — *náhrada nákladů, majetek, splnění závazku, insolvenční správce, obchodní rejstřík, odvol…*
-- *OS v Sokolově* [33 C 70/2022-172](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2025:33.C.70.2022.1) — *postoupení pohledávky, bezdůvodné obohacení*
+- *KS v Hradci Králové* [47 Co 139/2025-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=1d1c3f88-1949-42be-8a38-fa0aa02c75f3) — *náhrada nákladů, majetek, splnění závazku, insolvenční správce, obchodní rejstřík, odvol…*
+- *OS v Sokolově* [33 C 70/2022-172](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5240792-c8a8-435a-b630-34b0cdf17f49) — *postoupení pohledávky, bezdůvodné obohacení*
 
 ### § 1415 — Self-dealing
 
@@ -258,7 +258,7 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Plzni* [10 CO 304/2023-533](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.304.2023 .1) — *peněžité plnění*
+- *KS v Plzni* [10 CO 304/2023-533](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec750deb-f1ec-41ed-8eb9-6c44bd882147) — *peněžité plnění*
 
 ### § 1416 — Bezúplatný převod
 
@@ -283,8 +283,8 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [27 C 267/2020-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:27.C.267.2020.1) — *bezpečnost a ochrana zdraví při práci, peněžité plnění, pracovní úraz*
-- *ObS pro Prahu 6* [7 C 89/2016-598](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:7.C.89.2016.1) — *pasivní legitimace, pozůstalost, veřejná dražba, znalecký posudek, notářský zápis, podvo…*
+- *ObS pro Prahu 1* [27 C 267/2020-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=b83ac96f-724e-4ea5-a0df-a953877a078c) — *bezpečnost a ochrana zdraví při práci, peněžité plnění, pracovní úraz*
+- *ObS pro Prahu 6* [7 C 89/2016-598](https://rozhodnuti.justice.cz/rozhodnuti/?id=7fe589fb-adae-430b-a145-f214e2d76098) — *pasivní legitimace, pozůstalost, veřejná dražba, znalecký posudek, notářský zápis, podvo…*
 
 ---
 
@@ -525,7 +525,7 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/rozhodnuti/?id=63054e59-4dbf-48a5-a594-bc24fc763ad2) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
 
 ### § 1451 — Vznik
 
@@ -544,11 +544,11 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.280.2018.0) — 20. 11. 2019
-- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.112.2020.0) — 14. 1. 2021
-- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.248.2018.0) — 25. 3. 2020
-- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.289.2018.0) — 21. 11. 2019
-- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2026:5.C.179.2025.1) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
+- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cc89710-d008-4bfb-94d6-6b25656ec342) — 20. 11. 2019
+- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=303963a4-6382-4b60-997d-e3e540406e63) — 14. 1. 2021
+- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=54b0f7b2-303f-4648-8834-8f61601ab90e) — 25. 3. 2020
+- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=886265c5-f3b2-466b-b841-938dcbe82103) — 21. 11. 2019
+- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=4304b41d-6f83-4cdd-83ff-75071c7e807d) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
 
 ### § 1452 — Statut
 
@@ -585,11 +585,11 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 44/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.44.2022.1) — 12. 7. 2022
-- *KS v Českých Budějovicích* [5 CO 867/2022-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2022:5.Co.867.2022.1) — *držba, peněžité plnění, služebnost, spoluvlastnictví, věcná břemena, vydržení*
-- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
-- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2026:5.C.179.2025.1) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *VS v Praze* [9 Cmo 44/2022-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=5f76227a-4794-4959-a4b7-3023cec5ab72) — 12. 7. 2022
+- *KS v Českých Budějovicích* [5 CO 867/2022-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=29d28996-da6e-43eb-b816-620c3a284823) — *držba, peněžité plnění, služebnost, spoluvlastnictví, věcná břemena, vydržení*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/rozhodnuti/?id=b74b423a-2b25-44dc-9493-eeb0d9aded1b) — 24. 1. 2024
+- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=4304b41d-6f83-4cdd-83ff-75071c7e807d) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ---
 
@@ -628,7 +628,7 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/rozhodnuti/?id=63054e59-4dbf-48a5-a594-bc24fc763ad2) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
 
 ### § 1458 — Diskrece a omezení
 
@@ -638,7 +638,7 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/rozhodnuti/?id=63054e59-4dbf-48a5-a594-bc24fc763ad2) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
 
 ### § 1459—1462 — Vznik a doba práva
 
@@ -661,8 +661,8 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
-- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:11.C.37.2021.1) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
+- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=96e73ee5-9769-42af-86ff-9f17e52b5082) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
 
 ### § 1460 — Limit 100 let
 
@@ -679,8 +679,8 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
-- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:11.C.37.2021.1) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
+- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=96e73ee5-9769-42af-86ff-9f17e52b5082) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
 
 ### § 1461 — Vzdání se práva
 
@@ -692,7 +692,7 @@ Obmyšlený **se může vzdát práva** prohlášením ve **veřejné listině**
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
 
 ### § 1462 — Přechod práva
 
@@ -726,9 +726,9 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:15.C.278.2021.3) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
-- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
-- *OS v Náchodě* [14 C 29/2025-115](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNA:2025:14.C.29.2025.1) — *právnická osoba, notářský zápis, společné jmění manželů, neúčinnost právního jednání, př…*
+- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/rozhodnuti/?id=4fedb0c8-2130-41b7-98f4-b4b1e0d471a6) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/rozhodnuti/?id=b74b423a-2b25-44dc-9493-eeb0d9aded1b) — 24. 1. 2024
+- *OS v Náchodě* [14 C 29/2025-115](https://rozhodnuti.justice.cz/rozhodnuti/?id=afd3b02a-5221-44ef-aca1-8875d4693673) — *právnická osoba, notářský zápis, společné jmění manželů, neúčinnost právního jednání, př…*
 
 ### § 1467 — Konspirace
 
@@ -738,7 +738,7 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.434.2025.1) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
+- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/rozhodnuti/?id=aa1dbbd2-27aa-4229-8e72-9dbf98d16358) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
 
 ---
 
@@ -759,11 +759,11 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v České Lípě* [11 C 154/2025-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2026:11.C.154.2025.1) — *náhrada nákladů, majetek, trestné činy obecně nebezpečné, dokazování, podvod, náklady ří…*
-- *ObS pro Prahu 6* [7 C 417/2021-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2022:7.C.417.2021.1) — *správa cizího majetku*
-- *ObS pro Prahu 5* [24 C 69/2022-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2022:24.C.69.2022.1) — *notářský zápis, veřejná listina*
-- *ObS pro Prahu 6* [6 C 12/2024-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:6.C.12.2024.1) — *notářský zápis, veřejná listina*
-- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
+- *OS v České Lípě* [11 C 154/2025-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=75b6d30d-2002-425c-bd31-bf6cd260cdb1) — *náhrada nákladů, majetek, trestné činy obecně nebezpečné, dokazování, podvod, náklady ří…*
+- *ObS pro Prahu 6* [7 C 417/2021-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=60c8a2e4-8a43-4b60-85e8-c660ce1acb2e) — *správa cizího majetku*
+- *ObS pro Prahu 5* [24 C 69/2022-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=519f8d40-e52a-48f9-8dfc-fe3f217fe171) — *notářský zápis, veřejná listina*
+- *ObS pro Prahu 6* [6 C 12/2024-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=066256ff-9912-4ae5-a140-f47a9fd5e4cb) — *notářský zápis, veřejná listina*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/rozhodnuti/?id=b74b423a-2b25-44dc-9493-eeb0d9aded1b) — 24. 1. 2024
 
 ---
 
@@ -781,10 +781,10 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.280.2018.0) — 20. 11. 2019
-- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.248.2018.0) — 25. 3. 2020
-- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.289.2018.0) — 21. 11. 2019
-- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cc89710-d008-4bfb-94d6-6b25656ec342) — 20. 11. 2019
+- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=54b0f7b2-303f-4648-8834-8f61601ab90e) — 25. 3. 2020
+- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=886265c5-f3b2-466b-b841-938dcbe82103) — 21. 11. 2019
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=a1dadba0-d371-4211-b3dd-fc27a84c24d5) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
 
 ### § 1472 — Vydání majetku
 
@@ -797,11 +797,11 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.165.2020.0) — 30. 8. 2021
-- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.112.2020.0) — 14. 1. 2021
-- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:5.C.78.2021.1) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
-- *OS Praha-východ* [3 C 53/2020](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:3.C.53.2020.1) — *dobré mravy, duševní porucha, neplatnost právního jednání, omezení svéprávnosti, smlouva…*
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=5aa0c4b8-37ab-4776-9fd1-8042a9483693) — 30. 8. 2021
+- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=303963a4-6382-4b60-997d-e3e540406e63) — 14. 1. 2021
+- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/rozhodnuti/?id=d0d4dd90-bee0-46b0-8f73-b36ba3528772) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
+- *OS Praha-východ* [3 C 53/2020](https://rozhodnuti.justice.cz/rozhodnuti/?id=76f321fe-f390-41f9-9436-ebc5dcc85aff) — *dobré mravy, duševní porucha, neplatnost právního jednání, omezení svéprávnosti, smlouva…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ### § 1473 — Veřejně prospěšný fond — substituce
 
@@ -825,9 +825,9 @@ Pokud účel **nelze naplnit** → soud rozhodne o **převodu majetku** do:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.165.2020.0) — 30. 8. 2021
-- *OS Praha-západ* [41 C 167/2021-120](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:41.C.167.2021.1) — *notářský zápis, péče řádného hospodáře, peněžité plnění, převzetí dluhu, přistoupení k d…*
-- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.434.2025.1) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
+- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=5aa0c4b8-37ab-4776-9fd1-8042a9483693) — 30. 8. 2021
+- *OS Praha-západ* [41 C 167/2021-120](https://rozhodnuti.justice.cz/rozhodnuti/?id=e308746d-b35a-4cef-af6a-5d893840a305) — *notářský zápis, péče řádného hospodáře, peněžité plnění, převzetí dluhu, přistoupení k d…*
+- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/rozhodnuti/?id=aa1dbbd2-27aa-4229-8e72-9dbf98d16358) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
 
 ---
 

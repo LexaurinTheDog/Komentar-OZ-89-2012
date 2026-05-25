@@ -36,11 +36,11 @@ Strukturálně se Oddíl dělí na:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 151/2023-13](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.151.2023.1) — 21. 8. 2023
-- *OS v Pelhřimově* [4 C 153/2023-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPE:2023:4.C.153.2023.1) — *ústavní výchova, výživné, zaopatřovací příspěvek*
-- *VS v Praze* [6 Cmo 92/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.92.2021.1) — 29. 3. 2021
-- *VS v Praze* [6 Cmo 87/2021-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.87.2021.1) — 24. 3. 2021
-- *ObS pro Prahu 4* [19 C 299/2020-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:19.C.299.2020.1) — *náklady léčení, peněžité plnění, znalecký posudek*
+- *VS v Praze* [9 Cmo 151/2023-13](https://rozhodnuti.justice.cz/rozhodnuti/?id=36c1218f-8f61-4c14-aba0-088c18f2657c) — 21. 8. 2023
+- *OS v Pelhřimově* [4 C 153/2023-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=0aa21a97-bc39-44bf-9a23-27353386a028) — *ústavní výchova, výživné, zaopatřovací příspěvek*
+- *VS v Praze* [6 Cmo 92/2021-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=c174d09b-938a-4479-ac45-500ca536a8c1) — 29. 3. 2021
+- *VS v Praze* [6 Cmo 87/2021-48](https://rozhodnuti.justice.cz/rozhodnuti/?id=d1afce2f-bdff-4139-96ae-d8aa0b797965) — 24. 3. 2021
+- *ObS pro Prahu 4* [19 C 299/2020-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=ceb886f6-40a5-4f4e-beee-6dc8860e0db7) — *náklady léčení, peněžité plnění, znalecký posudek*
 
 ### § 211 — Jediný a nedostatečný počet členů
 
@@ -63,7 +63,7 @@ Příklad: spolek klesne ze 3 členů na 2. Soud vyzve k doplnění do 3 měsíc
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 44/2024-110](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:7.Cmo.44.2024.1) — 4. 7. 2024
+- *VS v Praze* [7 Cmo 44/2024-110](https://rozhodnuti.justice.cz/rozhodnuti/?id=4c4f6236-0329-4166-b395-bded370c9c60) — 4. 7. 2024
 
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
@@ -130,11 +130,11 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [14 Cmo 25/2023-851](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.25.2023.1) — 3. 3. 2023
-- *MS v Brně* [61 C 152/2021-77](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:61.C.152.2021.1) — *korporace, peněžité plnění, pojištění odpovědnosti za škodu, smlouva příkazní, společens…*
-- *ObS pro Prahu 4* [30 C 27/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:30.C.27.2024.1) — *korporace, společenství vlastníků jednotek*
-- *ObS pro Prahu 8* [22 C 251/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:22.C.251.2020.4) — *korporace, péče řádného hospodáře, peněžité plnění, společenství vlastníků jednotek*
-- *VS v Praze* [19 Cmo 59/2022-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:19.Cmo.59.2022.1) — 27. 10. 2023
+- *VS v Praze* [14 Cmo 25/2023-851](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c2682ac-8cd9-4bf8-a1f3-7190d96a8af4) — 3. 3. 2023
+- *MS v Brně* [61 C 152/2021-77](https://rozhodnuti.justice.cz/rozhodnuti/?id=afe42188-b4b1-4c32-be95-86c6ad2a1a01) — *korporace, peněžité plnění, pojištění odpovědnosti za škodu, smlouva příkazní, společens…*
+- *ObS pro Prahu 4* [30 C 27/2024-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=bc60d02e-a90c-4f0e-abde-3ab4238baeab) — *korporace, společenství vlastníků jednotek*
+- *ObS pro Prahu 8* [22 C 251/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=da86acf1-4bcd-465c-9200-a4d49a43e76a) — *korporace, péče řádného hospodáře, peněžité plnění, společenství vlastníků jednotek*
+- *VS v Praze* [19 Cmo 59/2022-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=f6a3fce7-3a3b-4d96-a1fd-307203b53b7b) — 27. 10. 2023
 
 ---
 
@@ -301,11 +301,11 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Děčíně* [15 C 93/2023-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2023:15.C.93.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva nájemní*
-- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.133.2022.0) — 27. 10. 2022
-- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.128.2025.1) — 2. 9. 2025
-- *KS v Ostravě* [69 Co 268/2024-172](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:69.Co.268.2024.1) — *neúčinnost právního jednání*
-- *VS v Praze* [9 Cmo 69/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.69.2024.0) — 7. 8. 2024
+- *OS v Děčíně* [15 C 93/2023-20](https://rozhodnuti.justice.cz/rozhodnuti/?id=7fe25100-918b-42d3-b069-98862e034d0f) — *peněžité plnění, postoupení pohledávky, smlouva nájemní*
+- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=8dec0af6-690e-4b82-b6c7-bfb71392694b) — 27. 10. 2022
+- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/rozhodnuti/?id=22963653-043a-4d20-93e3-60c6b295c2ab) — 2. 9. 2025
+- *KS v Ostravě* [69 Co 268/2024-172](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b8f439d-9e7c-4b71-96ed-153e939568f7) — *neúčinnost právního jednání*
+- *VS v Praze* [9 Cmo 69/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b459275d-c59c-4986-abd3-4bb7fc77cc67) — 7. 8. 2024
 
 #### § 226—227 — Vznik a nezdařený vznik
 
@@ -324,11 +324,11 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 159/2024-74](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.159.2024.1) — 1. 10. 2024
-- *VS v Praze* [9 Cmo 182/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.182.2024.0) — 11. 10. 2024
-- *ObS pro Prahu 9* [18 C 259/2019-132](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:18.C.259.2019.1) — *korporace, nájem bytu, peněžité plnění, podnájem, sleva z ceny, smlouva kupní, smlouva n…*
-- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.133.2022.0) — 27. 10. 2022
-- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.128.2025.1) — 2. 9. 2025
+- *VS v Praze* [9 Cmo 159/2024-74](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c31fbfe-1c68-49bc-afeb-2469b338d90f) — 1. 10. 2024
+- *VS v Praze* [9 Cmo 182/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=f7bb4393-e7bd-4e05-8895-3935d59dba35) — 11. 10. 2024
+- *ObS pro Prahu 9* [18 C 259/2019-132](https://rozhodnuti.justice.cz/rozhodnuti/?id=2f2659e4-7cdc-49be-90db-541c8bad5818) — *korporace, nájem bytu, peněžité plnění, podnájem, sleva z ceny, smlouva kupní, smlouva n…*
+- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=8dec0af6-690e-4b82-b6c7-bfb71392694b) — 27. 10. 2022
+- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/rozhodnuti/?id=22963653-043a-4d20-93e3-60c6b295c2ab) — 2. 9. 2025
 
 ### Pobočný spolek (§ 228—230)
 
@@ -513,11 +513,11 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 281/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.281.2024.0) — 7. 10. 2024
-- *OS v Přerově* [20 C 183/2022-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:20.C.183.2022.1) — *peněžité plnění, pojištění odpovědnosti za škodu*
-- *OS v Karviné* [25 C 94/2022-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2022:25.C.94.2022.1) — *bezdůvodné obohacení, nájem bytu, peněžité plnění*
-- *OS v Karviné* [25 C 28/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2022:25.C.28.2022.1) — *bezdůvodné obohacení, nájem bytu, odměna opatrovníka*
-- *VS v Praze* [9 Cmo 90/2024-425](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.90.2024.1) — 18. 12. 2024
+- *VS v Praze* [9 Cmo 281/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=edd15808-9692-459f-b1b3-7ca9ea51c140) — 7. 10. 2024
+- *OS v Přerově* [20 C 183/2022-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b4e86bf-f0d6-4b2b-bda6-4368f1832387) — *peněžité plnění, pojištění odpovědnosti za škodu*
+- *OS v Karviné* [25 C 94/2022-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=7aa5cdea-67ba-484f-98d0-85a9d5c41f60) — *bezdůvodné obohacení, nájem bytu, peněžité plnění*
+- *OS v Karviné* [25 C 28/2022-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=a8d9dc91-e4fa-49b4-aedb-b784b5caaaeb) — *bezdůvodné obohacení, nájem bytu, odměna opatrovníka*
+- *VS v Praze* [9 Cmo 90/2024-425](https://rozhodnuti.justice.cz/rozhodnuti/?id=d908af4e-474d-4007-b03e-382ed3d475d4) — 18. 12. 2024
 
 ### Nejvyšší orgán (členská schůze)
 
@@ -632,9 +632,9 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [12 Cmo 137/2023-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:12.Cmo.137.2023.1) — 25. 3. 2024
-- *VS v Praze* [7 Cmo 549/2016-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.549.2016.1) — 28. 5. 2021
-- *VS v Praze* [9 Cmo 7/2025-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.7.2025.1) — 18. 9. 2025
+- *VS v Praze* [12 Cmo 137/2023-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=2dc05982-f446-485a-80d4-0016c71cd408) — 25. 3. 2024
+- *VS v Praze* [7 Cmo 549/2016-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=0adac5bb-c298-44e1-a3b5-f0f4fdf6163f) — 28. 5. 2021
+- *VS v Praze* [9 Cmo 7/2025-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=e6745afa-9758-44b4-bb71-53fbcdca3c25) — 18. 9. 2025
 
 ### Neplatnost rozhodnutí orgánu spolku (§ 258—261)
 

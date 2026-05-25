@@ -629,11 +629,11 @@ Praktický význam: usnadňuje důkaz dojití bez nutnosti dokládat doručenku.
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Mladé Boleslavi* [23 C 137/2025-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2026:23.C.137.2025.1) — *postoupení pohledávky, náhrada nákladů, bezdůvodné obohacení, lhůty, smlouva o úvěru, ná…*
-- *OS ve Zlíně* [10 C 347/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:10.C.347.2025.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
-- *OS ve Zlíně* [10 C 343/2025-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:10.C.343.2025.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
-- *OS Plzeň-město* [36 C 378/2025-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2026:36.C.378.2025.1) — *bezdůvodné obohacení, smlouva o úvěru*
-- *OS v Karviné, pobočka Havířov* [117 C 28/2026-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2026:117.C.28.2026.26) — *náhrada nákladů, dokazování, doručování, ručení, lhůty, náklady řízení*
+- *OS v Mladé Boleslavi* [23 C 137/2025-48](https://rozhodnuti.justice.cz/rozhodnuti/?id=748b2e8a-9b6c-49df-9c96-3bde268b663e) — *postoupení pohledávky, náhrada nákladů, bezdůvodné obohacení, lhůty, smlouva o úvěru, ná…*
+- *OS ve Zlíně* [10 C 347/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=f0914d91-9f54-488c-bb51-dea7edfd8905) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS ve Zlíně* [10 C 343/2025-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=32b16ad9-861b-41ad-bdc8-72e7e864e024) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS Plzeň-město* [36 C 378/2025-56](https://rozhodnuti.justice.cz/rozhodnuti/?id=fd715c77-bd3a-4506-8b60-02c9fa9949ca) — *bezdůvodné obohacení, smlouva o úvěru*
+- *OS v Karviné, pobočka Havířov* [117 C 28/2026-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=7a21960d-8821-498c-9efd-7d48b20a4792) — *náhrada nákladů, dokazování, doručování, ručení, lhůty, náklady řízení*
 
 ---
 

@@ -102,11 +102,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Českých Budějovicích* [5 Co 1265/2025-139](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:5.Co.1265.2025.1) — *bezdůvodné obohacení, odvolání, pasivní legitimace, majetek, náhrada nákladů, dotace, ma…*
-- *ObS pro Prahu 2* [28 C 217/2019-386](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2022:28.C.217.2019.9) — *bezdůvodné obohacení, dražba, majetková újma, náhrada nemajetkové újmy, nájem nebytových…*
-- *OS Praha-západ* [5 C 253/2022-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:5.C.253.2022.1) — *peněžité plnění*
-- *OS v Jihlavě* [4 C 190/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2023:4.C.190.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
-- *OS v Kladně* [14 C 1/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:14.C.1.2021.1) — *peněžité plnění, znalecký posudek*
+- *KS v Českých Budějovicích* [5 Co 1265/2025-139](https://rozhodnuti.justice.cz/rozhodnuti/?id=575da90d-1381-4b5d-8e70-ee8350950411) — *bezdůvodné obohacení, odvolání, pasivní legitimace, majetek, náhrada nákladů, dotace, ma…*
+- *ObS pro Prahu 2* [28 C 217/2019-386](https://rozhodnuti.justice.cz/rozhodnuti/?id=63fadbe2-0df8-461f-8bca-3348c5b43666) — *bezdůvodné obohacení, dražba, majetková újma, náhrada nemajetkové újmy, nájem nebytových…*
+- *OS Praha-západ* [5 C 253/2022-12](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9113634-f084-4c32-ad39-711554d697da) — *peněžité plnění*
+- *OS v Jihlavě* [4 C 190/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=c456a451-3326-4056-b06b-2755098354ba) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Kladně* [14 C 1/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=a324e7c6-37f4-463e-96ec-62760358a7e2) — *peněžité plnění, znalecký posudek*
 
 ### § 492 — Hodnota a cena
 
@@ -159,7 +159,7 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:19.Co.289.2022.1) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
+- *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/rozhodnuti/?id=7167abbc-f8dc-48c8-9af7-6a68ddfac5fd) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
 
 ### § 494 — Zvíře
 
@@ -256,11 +256,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Svitavách* [10 C 31/2022-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2022:10.C.31.2022.1) — *odstoupení od smlouvy, peněžité plnění, postoupení pohledávky, smlouva o úvěru*
-- *OS v Děčíně* [6 C 251/2025-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2025:6.C.251.2025.1) — *postoupení pohledávky, náhrada nákladů, náklady řízení*
-- *OS Plzeň-město* [14 C 355/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2024:14.C.355.2024.39) — *smlouva o úvěru*
-- *OS v Blansku* [11 C 225/2024-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2024:11.C.225.2024.1) — *smlouva kupní, dodávky energie*
-- *OS v Blansku* [11 C 36/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2023:11.C.36.2023.1) — *peněžité plnění, smlouva kupní*
+- *OS ve Svitavách* [10 C 31/2022-47](https://rozhodnuti.justice.cz/rozhodnuti/?id=64b99282-8d7c-4b1e-a620-c067377ecb63) — *odstoupení od smlouvy, peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Děčíně* [6 C 251/2025-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=9cda6b76-50f1-47e8-b038-b63d8f8fc070) — *postoupení pohledávky, náhrada nákladů, náklady řízení*
+- *OS Plzeň-město* [14 C 355/2024-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=a9a6f9f6-22d4-49c2-85b0-4af3d0e4e8d4) — *smlouva o úvěru*
+- *OS v Blansku* [11 C 225/2024-47](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c0159d6-055a-463f-a137-eb5f26906af6) — *smlouva kupní, dodávky energie*
+- *OS v Blansku* [11 C 36/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=febbded6-722d-485c-a558-0db3285a5e48) — *peněžité plnění, smlouva kupní*
 
 ### § 498 — Nemovité a movité věci
 
@@ -343,11 +343,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Liberci* [23 C 186/2024-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:23.C.186.2024.1) — *dodávky energie, smlouva o sdružení*
-- *OS v Liberci* [23 C 11/2026-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2026:23.C.11.2026.1) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
-- *OS v Liberci* [23 C 314/2025-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:23.C.314.2025.41) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
-- *OS v Liberci* [23 C 308/2025-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:23.C.308.2025.1) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
-- *OS v Liberci* [23 C 261/2024-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:23.C.261.2024.1) — *smlouva o sdružení*
+- *OS v Liberci* [23 C 186/2024-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=865ca18d-1b77-4e65-97a1-dd3ab3b0e08a) — *dodávky energie, smlouva o sdružení*
+- *OS v Liberci* [23 C 11/2026-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=02ddec01-da13-4178-8b12-7d4540817204) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 314/2025-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=fcbe7554-278a-4f51-b70d-423e80d4572a) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 308/2025-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=3229b1b2-6bcc-4fed-8b7a-f5a000e84e9b) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 261/2024-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=8b5e2c30-dfbd-470f-a756-b9cac84e3a6c) — *smlouva o sdružení*
 
 ### § 501 — Hromadná věc
 
@@ -592,10 +592,10 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ostravě* [11 CO 151/2022-191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:11.Co.151.2022.1) — *peněžité plnění, převod vlastnictví, smlouva kupní, znalecký posudek*
-- *OS v Mostě* [50 C 10/2019-237](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2021:50.C.10.2019.5) — *bezdůvodné obohacení, peněžité plnění, smlouva o dílo, znalecký posudek*
-- *OS v Jihlavě* [11 C 362/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2022:11.C.362.2021.1) — *reklama, smlouva kupní, převzetí dluhu, převod vlastnictví*
-- *ObS pro Prahu 10* [46 C 292/2015-1242](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2023:46.C.292.2015.23) — *bezdůvodné obohacení, bytové družstvo, odstoupení od smlouvy, peněžité plnění, právní do…*
+- *KS v Ostravě* [11 CO 151/2022-191](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b895b61-f375-408e-83e4-0237b3fcaff8) — *peněžité plnění, převod vlastnictví, smlouva kupní, znalecký posudek*
+- *OS v Mostě* [50 C 10/2019-237](https://rozhodnuti.justice.cz/rozhodnuti/?id=8c2bc25b-39ea-4608-a08e-f080e75a709e) — *bezdůvodné obohacení, peněžité plnění, smlouva o dílo, znalecký posudek*
+- *OS v Jihlavě* [11 C 362/2021-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=d75955de-7ded-4fdf-bf33-6833cb07c8d4) — *reklama, smlouva kupní, převzetí dluhu, převod vlastnictví*
+- *ObS pro Prahu 10* [46 C 292/2015-1242](https://rozhodnuti.justice.cz/rozhodnuti/?id=43d6e5f4-2198-48b4-a4d7-3323f566e632) — *bezdůvodné obohacení, bytové družstvo, odstoupení od smlouvy, peněžité plnění, právní do…*
 
 ### § 509 — Liniové stavby
 
@@ -666,11 +666,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 75/2022-578](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:2.Cmo.75.2022.1) — 25. 7. 2022
-- *KS v Hradci Králové* [47 Co 175/2024-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:47.Co.175.2024.1) — *oddlužení, rozhodnutí o úpadku, konkurs, smlouva o úvěru, ručení*
-- *MS v Praze* [53 CO 293/2021-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.293.2021.1) — *insolvenční návrh, konkurs, občanské sdružení, peněžité plnění, smlouva o dílo*
-- *KS v Hradci Králové* [47 Co 144/2024-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:47.Co.144.2024.1) — *akcionář, jízdné, pozemní komunikace*
-- *OS Praha-západ* [5 C 279/2022-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:5.C.279.2022.1) — *společné jmění manželů, spoluvlastnictví, smlouva o úvěru*
+- *VS v Praze* [2 Cmo 75/2022-578](https://rozhodnuti.justice.cz/rozhodnuti/?id=9a975c8a-c6e9-4db5-bbae-06e1233a4511) — 25. 7. 2022
+- *KS v Hradci Králové* [47 Co 175/2024-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=0a4bc87e-02a4-4ff6-a504-1f69a09e526f) — *oddlužení, rozhodnutí o úpadku, konkurs, smlouva o úvěru, ručení*
+- *MS v Praze* [53 CO 293/2021-253](https://rozhodnuti.justice.cz/rozhodnuti/?id=f0a54dbf-93eb-4621-8621-bf5a43fb80ba) — *insolvenční návrh, konkurs, občanské sdružení, peněžité plnění, smlouva o dílo*
+- *KS v Hradci Králové* [47 Co 144/2024-84](https://rozhodnuti.justice.cz/rozhodnuti/?id=fed6ce6b-b310-4006-9d11-d36fa4188ca1) — *akcionář, jízdné, pozemní komunikace*
+- *OS Praha-západ* [5 C 279/2022-57](https://rozhodnuti.justice.cz/rozhodnuti/?id=e8206781-05c5-42f4-9fa9-26b4b114281c) — *společné jmění manželů, spoluvlastnictví, smlouva o úvěru*
 
 #### § 512 — Příslušenství stavby v rámci pozemku
 
@@ -682,11 +682,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Jablonci nad Nisou* [22 C 75/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2024:22.C.75.2024.1) — *dodávky energie, smlouva o sdružení*
-- *KS v Ostravě* [16 Co 117/2024-278](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2024:16.Co.117.2024.1) — *společné jmění manželů, jmění, smlouva o úvěru, znalecký posudek*
-- *OS v Sokolově* [8 C 205/2021-174](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2023:8.C.205.2021.1) — *bezdůvodné obohacení*
-- *KS v Ostravě* [16 CO 231/2021-308](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:16.Co.231.2021.1) — *dražba, peněžité plnění, podílové spoluvlastnictví, předkupní právo, přikázání věci, roz…*
-- *OS v Olomouci* [25 C 259/2020-236](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2021:25.C.259.2020.8) — *dražba, exekuce, insolvence, insolvenční návrh, korporace, oddlužení, peněžité plnění, p…*
+- *OS v Jablonci nad Nisou* [22 C 75/2024-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=3e006441-a2fe-4939-b459-76eed969268c) — *dodávky energie, smlouva o sdružení*
+- *KS v Ostravě* [16 Co 117/2024-278](https://rozhodnuti.justice.cz/rozhodnuti/?id=260ace28-3d79-4996-9961-3c195119442b) — *společné jmění manželů, jmění, smlouva o úvěru, znalecký posudek*
+- *OS v Sokolově* [8 C 205/2021-174](https://rozhodnuti.justice.cz/rozhodnuti/?id=fea1ec49-86e1-4fc5-bc8f-9dc0c97a2438) — *bezdůvodné obohacení*
+- *KS v Ostravě* [16 CO 231/2021-308](https://rozhodnuti.justice.cz/rozhodnuti/?id=ff38c769-0874-4707-85c2-4f41614a3fd7) — *dražba, peněžité plnění, podílové spoluvlastnictví, předkupní právo, přikázání věci, roz…*
+- *OS v Olomouci* [25 C 259/2020-236](https://rozhodnuti.justice.cz/rozhodnuti/?id=782398ae-bf70-4330-a53a-8469c05d93c2) — *dražba, exekuce, insolvence, insolvenční návrh, korporace, oddlužení, peněžité plnění, p…*
 
 #### § 513 — Příslušenství pohledávky
 
@@ -768,11 +768,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Břeclavi* [7 C 102/2025-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBV:2025:7.C.102.2025.35) — *náhrada nákladů, náklady řízení, pojištění odpovědnosti za škodu, ručení, doručování*
-- *OS v Lounech* [14 C 162/2025-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2025:14.C.162.2025.1) — 12. 8. 2025
-- *ObS pro Prahu 2* [26 C 119/2025-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:26.C.119.2025.1) — *pojištění odpovědnosti za škodu, ručení*
-- *ObS pro Prahu 1* [30 C 60/2025-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2025:30.C.60.2025.1) — *pojištění odpovědnosti za škodu, ručení*
-- *OS v Lounech* [14 C 34/2025-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2025:14.C.34.2025.1) — 1. 4. 2025
+- *OS v Břeclavi* [7 C 102/2025-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=9ac26855-2eab-4566-ab6c-217da845a5a0) — *náhrada nákladů, náklady řízení, pojištění odpovědnosti za škodu, ručení, doručování*
+- *OS v Lounech* [14 C 162/2025-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=b18cd9e2-98fe-42af-81f7-4805e1b951f9) — 12. 8. 2025
+- *ObS pro Prahu 2* [26 C 119/2025-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=e40b5a09-d131-490f-9e95-ed3918397c5a) — *pojištění odpovědnosti za škodu, ručení*
+- *ObS pro Prahu 1* [30 C 60/2025-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=1ebf5543-048a-4704-8148-3ddd782b361a) — *pojištění odpovědnosti za škodu, ručení*
+- *OS v Lounech* [14 C 34/2025-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=807d81e4-8d8d-4f16-a94c-6e5126d35e35) — 1. 4. 2025
 
 #### § 518 — Forma cenného papíru
 
@@ -795,9 +795,10 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [14 Cmo 191/2023-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.191.2023.1) — 21. 11. 2023
-- *VS v Praze* [19 Cmo 43/2025-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:19.Cmo.43.2025.1) — 24. 3. 2025
-- *VS v Praze* [7 Cmo 67/2021-188](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.67.2021.1) — 11. 3. 2022
+- *VS v Praze* [14 Cmo 191/2023-75](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd60cdae-5991-4ac6-8006-f3f7854df6e0) — 21. 11. 2023
+- *ObS pro Prahu 10* [5 C 9/2020-144](https://rozhodnuti.justice.cz/rozhodnuti/?id=84c15500-77e8-4550-ac99-bbe1e17bbfa9) — *osoba blízká, smlouva o převodu obchodního podílu, zástavní právo, notářský zápis, smlou…*
+- *VS v Praze* [19 Cmo 43/2025-76](https://rozhodnuti.justice.cz/rozhodnuti/?id=2689d1f2-545f-4cdf-9e36-5ce3c42ba604) — 24. 3. 2025
+- *VS v Praze* [7 Cmo 67/2021-188](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b31819c-702a-404e-a9e8-a61454309348) — 11. 3. 2022
 
 #### § 519—521 — Emise a vydání
 
@@ -823,11 +824,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 76/2021-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.76.2021.1) — 16. 4. 2021
-- *VS v Praze* [12 Cmo 148/2022-115](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:12.Cmo.148.2022.1) — 9. 11. 2022
-- *OS ve Žďáru nad Sázavou* [10 C 99/2021-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2021:10.C.99.2021.1) — *peněžité plnění*
-- *VS v Praze* [12 Cmo 118/2022-171](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:12.Cmo.118.2022.1) — 18. 1. 2023
-- *KS v Ústí nad Labem* [12 Co 188/2023-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:12.Co.188.2023.1) — *smlouva o úvěru, insolvence*
+- *VS v Praze* [2 Cmo 76/2021-73](https://rozhodnuti.justice.cz/rozhodnuti/?id=f5245f08-bf7d-4280-a3fb-23f15d9bde56) — 16. 4. 2021
+- *VS v Praze* [12 Cmo 148/2022-115](https://rozhodnuti.justice.cz/rozhodnuti/?id=f25f6e0d-7a93-4978-a6ef-89a3185d57de) — 9. 11. 2022
+- *OS ve Žďáru nad Sázavou* [10 C 99/2021-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=17254a0e-ed38-4bf4-84f0-99f4c5894045) — *peněžité plnění*
+- *VS v Praze* [12 Cmo 118/2022-171](https://rozhodnuti.justice.cz/rozhodnuti/?id=f846e1f3-d3bb-4d02-acfc-90c021be8fa1) — 18. 1. 2023
+- *KS v Ústí nad Labem* [12 Co 188/2023-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=92dc3d70-eb81-4d83-8ed7-9a5c7f5e349c) — *smlouva o úvěru, insolvence*
 
 #### § 522—524 — Stejnopisy, kupóny, hromadná listina
 
@@ -880,9 +881,9 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Zlíně* [19 C 275/2021-391](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2023:19.C.275.2021.3) — *bezdůvodné obohacení, dlužné nájemné, konkurs, nájem podniku, obchodní podíl, odstoupení…*
-- *ObS pro Prahu 6* [9 EC 174/2012](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:9.EC.174.2012.1) — *bezdůvodné obohacení, dodávky energie, obchodní podíl, peněžité plnění, postoupení pohle…*
-- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:5.Cmo.24.2024.1) — 14. 11. 2024
+- *OS ve Zlíně* [19 C 275/2021-391](https://rozhodnuti.justice.cz/rozhodnuti/?id=ebd287f4-1b78-45cf-a405-7fff715be9e0) — *bezdůvodné obohacení, dlužné nájemné, konkurs, nájem podniku, obchodní podíl, odstoupení…*
+- *ObS pro Prahu 6* [9 EC 174/2012](https://rozhodnuti.justice.cz/rozhodnuti/?id=5801ca90-0422-413d-bf0d-6bf664dc9a79) — *bezdůvodné obohacení, dodávky energie, obchodní podíl, peněžité plnění, postoupení pohle…*
+- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/rozhodnuti/?id=582e39af-559f-46d2-bce5-4f9d42fdd7b3) — 14. 11. 2024
 
 #### § 526—528 — Evidence
 
@@ -896,11 +897,11 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-východ* [24 C 81/2020-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2020:24.C.81.2020.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
-- *OS ve Frýdku-Místku* [17 C 40/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2023:17.C.40.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva o úvě…*
-- *ObS pro Prahu 1* [30 C 233/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2023:30.C.233.2022.1) — *postoupení pohledávky, smlouva o půjčce*
-- *ObS pro Prahu 4* [47 C 154/2019-314](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:47.C.154.2019.1) — *bezdůvodné obohacení, duševní porucha, odpovědnost za vady, peněžité plnění, postoupení…*
-- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:5.Cmo.24.2024.1) — 14. 11. 2024
+- *OS Praha-východ* [24 C 81/2020-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=a741f6e3-6719-4b7f-958e-159869dcb9ee) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS ve Frýdku-Místku* [17 C 40/2022-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=09f4c8aa-9e6f-4175-9acb-15fadf0e7e5e) — *peněžité plnění, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva o úvě…*
+- *ObS pro Prahu 1* [30 C 233/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=ebdd6155-5662-4321-b1a5-133d5c71f94c) — *postoupení pohledávky, smlouva o půjčce*
+- *ObS pro Prahu 4* [47 C 154/2019-314](https://rozhodnuti.justice.cz/rozhodnuti/?id=eff2ab26-4cfd-4020-92d4-7d0d6f79ce0d) — *bezdůvodné obohacení, duševní porucha, odpovědnost za vady, peněžité plnění, postoupení…*
+- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/rozhodnuti/?id=582e39af-559f-46d2-bce5-4f9d42fdd7b3) — 14. 11. 2024
 
 ### Oddíl 3 — Přeměna cenného papíru (§ 529—544)
 

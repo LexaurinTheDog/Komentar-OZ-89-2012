@@ -256,10 +256,11 @@ Pokud se škůdce **obohatil** a právo poškozeného se promlčelo → poškoze
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [58 Co 395/2024-157](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:58.Co.395.2024.157) — *držba, znalecký posudek, narovnání, vydržení, bezdůvodné obohacení, právo stavby*
-- *ObS pro Prahu 5* [5 C 85/2017-306](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2022:5.C.85.2017.8) — *bolestné, majetková újma, náhrada nemajetkové újmy, nemajetková újma, odpovědnost za vad…*
-- *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:19.Co.289.2022.1) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
-- *OS v Blansku* [12 C 33/2019-320](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2024:12.C.33.2019.1) — *zajištění dluhu, smlouva o zápůjčce, podvod, majetková újma, smlouva o půjčce, narovnání…*
+- *MS v Praze* [58 Co 395/2024-157](https://rozhodnuti.justice.cz/rozhodnuti/?id=eaa7f569-43b1-4ed1-9a4e-68d017f38a3d) — *držba, znalecký posudek, narovnání, vydržení, bezdůvodné obohacení, právo stavby*
+- *ObS pro Prahu 7* [29 C 251/2023-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=46917894-cb3d-4d5c-93b1-35a5ea42dad8) — *smlouva nájemní*
+- *ObS pro Prahu 5* [5 C 85/2017-306](https://rozhodnuti.justice.cz/rozhodnuti/?id=ae3d0192-8c3f-4280-a7a5-134b79b9ceb1) — *bolestné, majetková újma, náhrada nemajetkové újmy, nemajetková újma, odpovědnost za vad…*
+- *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/rozhodnuti/?id=7167abbc-f8dc-48c8-9af7-6a68ddfac5fd) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
+- *OS v Blansku* [12 C 33/2019-320](https://rozhodnuti.justice.cz/rozhodnuti/?id=52531b60-0132-4e25-be75-d3e45b3e5a67) — *zajištění dluhu, smlouva o zápůjčce, podvod, majetková újma, smlouva o půjčce, narovnání…*
 
 ---
 

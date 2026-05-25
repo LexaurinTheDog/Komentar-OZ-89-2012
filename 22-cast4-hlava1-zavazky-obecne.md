@@ -201,11 +201,11 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Děčíně* [18 C 260/2019-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2021:18.C.260.2019.1) — *peněžité plnění, smlouva kupní*
-- *ObS pro Prahu 2* [18 C 124/2024-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:18.C.124.2024.1) — *náhrada nákladů, leasing, náklady řízení, smlouva nájemní, dokazování*
-- *KS v Praze* [26 Co 246/2025-74](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:26.Co.246.2025.1) — *náhrada nákladů, odvolání, peněžité plnění, náklady řízení, lhůty, dokazování*
-- *OS v Táboře* [10 C 61/2023-193](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTA:2024:10.C.61.2023.1) — *smlouva kupní, dotace*
-- *OS v Hradci Králové* [8 C 225/2024-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2025:8.C.225.2024.1) — *smlouva o dílo, narovnání, sleva z ceny*
+- *OS v Děčíně* [18 C 260/2019-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=8f495993-56a8-4a4d-9571-c1c0a930b987) — *peněžité plnění, smlouva kupní*
+- *ObS pro Prahu 2* [18 C 124/2024-108](https://rozhodnuti.justice.cz/rozhodnuti/?id=c8315415-0d4c-4512-9988-b57eaaa93e02) — *náhrada nákladů, leasing, náklady řízení, smlouva nájemní, dokazování*
+- *KS v Praze* [26 Co 246/2025-74](https://rozhodnuti.justice.cz/rozhodnuti/?id=e4392252-5b6f-4938-84ff-044a3c3c6414) — *náhrada nákladů, odvolání, peněžité plnění, náklady řízení, lhůty, dokazování*
+- *OS v Táboře* [10 C 61/2023-193](https://rozhodnuti.justice.cz/rozhodnuti/?id=2ebc8611-4e1c-4f6d-915f-da8b2864d0a8) — *smlouva kupní, dotace*
+- *OS v Hradci Králové* [8 C 225/2024-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=9b715c15-ef3d-44d4-953b-936444b4b3f6) — *smlouva o dílo, narovnání, sleva z ceny*
 
 ---
 
@@ -704,11 +704,11 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [25 CO 304/2021-638](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:25.Co.304.2021.1) — *náhradní pozemek, peněžité plnění, spoluvlastnictví, znalecký posudek*
-- *KS v Brně* [59 CO 145/2021-337](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:59.Co.145.2021.1) — *bezdůvodné obohacení, dlužné nájemné, pasivní legitimace, peněžité plnění, převod nemovi…*
-- *OS ve Strakonicích* [6 C 125/2021-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSST:2021:6.C.125.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
-- *OS v Teplicích* [20 C 41/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTP:2021:20.C.41.2021.1) — 28. 4. 2021
-- *MS v Praze* [23 Co 460/2024-148](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:23.Co.460.2024.148) — *dotace, smlouva o dílo, pozemní komunikace, smlouva o úvěru*
+- *KS v Hradci Králové* [25 CO 304/2021-638](https://rozhodnuti.justice.cz/rozhodnuti/?id=d36306d9-97ea-4ec3-b9c6-5c387bd3b208) — *náhradní pozemek, peněžité plnění, spoluvlastnictví, znalecký posudek*
+- *KS v Brně* [59 CO 145/2021-337](https://rozhodnuti.justice.cz/rozhodnuti/?id=083ebb87-cfce-40ff-9994-18010130171d) — *bezdůvodné obohacení, dlužné nájemné, pasivní legitimace, peněžité plnění, převod nemovi…*
+- *OS ve Strakonicích* [6 C 125/2021-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=12561058-e4f1-4437-99b1-a42a0747d96e) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Teplicích* [20 C 41/2021-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=652e381d-bee1-46ae-8a72-3858ac3ffeeb) — 28. 4. 2021
+- *MS v Praze* [23 Co 460/2024-148](https://rozhodnuti.justice.cz/rozhodnuti/?id=6e2ce5ef-14b6-4554-a90d-64f2f101eca0) — *dotace, smlouva o dílo, pozemní komunikace, smlouva o úvěru*
 
 ### § 1872—1878 — Solidarita
 

@@ -235,11 +235,11 @@ Obohacený, který vydává předmět, má právo na:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Mostě* [32 C 39/2024-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2024:32.C.39.2024.1) — *bezdůvodné obohacení, smlouva o úvěru, insolvence*
-- *OS v Mostě* [32 C 200/2024-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2024:32.C.200.2024.1) — *bezdůvodné obohacení, smlouva o úvěru*
-- *OS v Šumperku* [8 C 41/2023-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSU:2023:8.C.41.2023.1) — *peněžité plnění, výživné*
-- *OS v Mostě* [32 C 268/2022-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:32.C.268.2022.1) — *bezdůvodné obohacení, peněžité plnění, smlouva o úvěru*
-- *OS v Mostě* [32 C 188/2022-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:32.C.188.2022.1) — *bezdůvodné obohacení, peněžité plnění, smlouva o úvěru*
+- *OS v Mostě* [32 C 39/2024-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=706b3a64-f9de-479d-8f00-439a2fcf488d) — *bezdůvodné obohacení, smlouva o úvěru, insolvence*
+- *OS v Mostě* [32 C 200/2024-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=b0ce6987-85c8-4691-8e07-1e2832f83bb5) — *bezdůvodné obohacení, smlouva o úvěru*
+- *OS v Šumperku* [8 C 41/2023-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=077f0031-ea09-4637-84ac-45d0af0de527) — *peněžité plnění, výživné*
+- *OS v Mostě* [32 C 268/2022-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=d37cb7c4-a2be-48cb-b8b4-7f1226134628) — *bezdůvodné obohacení, peněžité plnění, smlouva o úvěru*
+- *OS v Mostě* [32 C 188/2022-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=623f4a7a-a619-4689-b437-e9cb66ea049c) — *bezdůvodné obohacení, peněžité plnění, smlouva o úvěru*
 
 ---
 
@@ -255,11 +255,11 @@ Obohacený, který vydává předmět, má právo na:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Táboře* [4 C 222/2021-164](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTA:2023:4.C.222.2021.1) — *peněžité plnění, svědečné*
-- *ObS pro Prahu 7* [30 C 187/2020-104](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2021:30.C.187.2020.2) — *bezdůvodné obohacení, ručení, smlouva kupní*
-- *OS Praha-východ* [22 C 169/2020](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:22.C.169.2020.1) — *stavba neoprávněná, stavba nepovolená*
-- *KS v Českých Budějovicích* [19 Co 285/2022-484](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:19.Co.285.2022.1) — *podvod, soukromá listina, spoluvlastnictví, jmění, dražba, zástavní právo, smlouva kupní…*
-- *OS ve Frýdku-Místku* [140 C 3/2023-123](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2024:140.C.3.2023.1) — *bezdůvodné obohacení*
+- *OS v Táboře* [4 C 222/2021-164](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce97931f-52b6-442f-a778-9373bdd59b07) — *peněžité plnění, svědečné*
+- *ObS pro Prahu 7* [30 C 187/2020-104](https://rozhodnuti.justice.cz/rozhodnuti/?id=f883b4fe-afa8-45c9-8e82-65c07406573d) — *bezdůvodné obohacení, ručení, smlouva kupní*
+- *OS Praha-východ* [22 C 169/2020](https://rozhodnuti.justice.cz/rozhodnuti/?id=68a824e8-73ee-4d3a-8e6d-a8756ef4c629) — *stavba neoprávněná, stavba nepovolená*
+- *KS v Českých Budějovicích* [19 Co 285/2022-484](https://rozhodnuti.justice.cz/rozhodnuti/?id=89705987-8404-44af-93c9-2b7a0739a947) — *podvod, soukromá listina, spoluvlastnictví, jmění, dražba, zástavní právo, smlouva kupní…*
+- *OS ve Frýdku-Místku* [140 C 3/2023-123](https://rozhodnuti.justice.cz/rozhodnuti/?id=288ca8dc-ae4d-4ad8-8ce7-79ac6d48b284) — *bezdůvodné obohacení*
 
 ### § 3007 — Odvracení škody
 
@@ -296,7 +296,7 @@ Obohacený, který vydává předmět, má právo na:
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 9* [15 C 52/2022-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:15.C.52.2022.5) — *peněžité plnění*
+- *ObS pro Prahu 9* [15 C 52/2022-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=b01a2470-cdfd-4e74-bfbd-e981be891807) — *peněžité plnění*
 
 ### § 3009 — Jednání k užitku jiné osoby
 
@@ -329,9 +329,9 @@ Obohacený, který vydává předmět, má právo na:
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ostravě* [16 Co 123/2024-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2024:16.Co.123.2024.1) — *okamžité zrušení pracovního poměru, podvod, neplatnost právního jednání, pracovní kázeň,…*
-- *ObS pro Prahu 8* [35 C 26/2021-565](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2023:35.C.26.2021.1) — *bezdůvodné obohacení, nájem bytu, peněžité plnění, podílové spoluvlastnictví, smlouva ná…*
-- *OS Praha-východ* [22 C 421/2023-157](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2025:22.C.421.2023.157) — *smlouva o výpůjčce, smlouva nájemní, bezdůvodné obohacení*
+- *KS v Ostravě* [16 Co 123/2024-64](https://rozhodnuti.justice.cz/rozhodnuti/?id=4822620d-71ea-4706-940c-834447fcdd7d) — *okamžité zrušení pracovního poměru, podvod, neplatnost právního jednání, pracovní kázeň,…*
+- *ObS pro Prahu 8* [35 C 26/2021-565](https://rozhodnuti.justice.cz/rozhodnuti/?id=8153b4a0-1c49-4898-8f22-ea3cb956e185) — *bezdůvodné obohacení, nájem bytu, peněžité plnění, podílové spoluvlastnictví, smlouva ná…*
+- *OS Praha-východ* [22 C 421/2023-157](https://rozhodnuti.justice.cz/rozhodnuti/?id=68d98b1c-9f57-4614-95c1-b02f6077060c) — *smlouva o výpůjčce, smlouva nájemní, bezdůvodné obohacení*
 
 ---
 
@@ -365,11 +365,11 @@ Obohacený, který vydává předmět, má právo na:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Berouně* [6 C 106/2020-13](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:6.C.106.2020.1) — 25. 3. 2021
-- *OS v Kolíně* [19 C 87/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKO:2022:19.C.87.2022.1) — *bezdůvodné obohacení, dohoda o rozvázání pracovního poměru, postoupení pohledávky, smlou…*
-- *OS v Mělníku* [7 C 97/2021-193](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSME:2022:7.C.97.2021.1) — *bezdůvodné obohacení, bytové družstvo, družstevní byt, nájem bytu, peněžité plnění, smlo…*
-- *MS v Praze* [39 CO 229/2022-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:39.Co.229.2022.1) — *bezdůvodné obohacení, peněžité plnění, podnájem, postoupení pohledávky, ručení, smlouva…*
-- *OS v Blansku* [706 C 27/2022-118](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2024:706.C.27.2022.1) — *majetková újma, bezdůvodné obohacení*
+- *OS v Berouně* [6 C 106/2020-13](https://rozhodnuti.justice.cz/rozhodnuti/?id=12b7bfe8-6ef4-4f6b-83ae-9cd307e1d07f) — 25. 3. 2021
+- *OS v Kolíně* [19 C 87/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=b8cf36d3-80c2-4128-a9b1-d945860f5f65) — *bezdůvodné obohacení, dohoda o rozvázání pracovního poměru, postoupení pohledávky, smlou…*
+- *OS v Mělníku* [7 C 97/2021-193](https://rozhodnuti.justice.cz/rozhodnuti/?id=ea91ed24-1ec6-4bb4-8eff-f34bd6812eab) — *bezdůvodné obohacení, bytové družstvo, družstevní byt, nájem bytu, peněžité plnění, smlo…*
+- *MS v Praze* [39 CO 229/2022-64](https://rozhodnuti.justice.cz/rozhodnuti/?id=ef261119-e1fd-4587-af40-24b340971057) — *bezdůvodné obohacení, peněžité plnění, podnájem, postoupení pohledávky, ručení, smlouva…*
+- *OS v Blansku* [706 C 27/2022-118](https://rozhodnuti.justice.cz/rozhodnuti/?id=50bb08f6-f73c-4e22-94ba-9ec93eed0b4b) — *majetková újma, bezdůvodné obohacení*
 
 ### § 3014 — Oběť věci v nouzi
 

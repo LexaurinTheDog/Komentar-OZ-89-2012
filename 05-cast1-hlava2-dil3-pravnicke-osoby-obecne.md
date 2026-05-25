@@ -77,11 +77,11 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 111/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.111.2025.0) — 19. 6. 2025
-- *VS v Praze* [7 Cmo 109/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.109.2025.0) — 17. 6. 2025
-- *VS v Praze* [14 Cmo 108/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:14.Cmo.108.2021.0) — 17. 5. 2021
-- *ObS pro Prahu 4* [39 C 390/2018-187](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:39.C.390.2018.1) — *bezdůvodné obohacení, držba, náhrada mzdy, nemoc z povolání, občanské sdružení, pasivní…*
-- *MS v Brně* [16 C 34/2016-491](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:16.C.34.2016.1) — *koupě, bezdůvodné obohacení, náklady řízení, stavba neoprávněná, znalecký posudek, lhůty…*
+- *VS v Praze* [7 Cmo 111/2025-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=ea456b78-0e32-451d-ad11-38e02fcb25c8) — 19. 6. 2025
+- *VS v Praze* [7 Cmo 109/2025-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=96a8461b-1864-43a5-a0f1-59a675db703b) — 17. 6. 2025
+- *VS v Praze* [14 Cmo 108/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ddb6825-6853-4f51-a976-2aad9d94024d) — 17. 5. 2021
+- *ObS pro Prahu 4* [39 C 390/2018-187](https://rozhodnuti.justice.cz/rozhodnuti/?id=ca20aaf6-d156-43db-b6f9-bba30e89c1e3) — *bezdůvodné obohacení, držba, náhrada mzdy, nemoc z povolání, občanské sdružení, pasivní…*
+- *MS v Brně* [16 C 34/2016-491](https://rozhodnuti.justice.cz/rozhodnuti/?id=b55aa113-f1ae-4209-b0aa-3da8562b768c) — *koupě, bezdůvodné obohacení, náklady řízení, stavba neoprávněná, znalecký posudek, lhůty…*
 
 ---
 
@@ -117,11 +117,11 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 359/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.359.2024.0) — 1. 4. 2025
-- *VS v Praze* [9 Cmo 120/2023-2065](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.120.2023.1) — 6. 3. 2024
-- *VS v Praze* [9 Cmo 27/2023-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.27.2023.1) — 14. 9. 2023
-- *VS v Praze* [7 Cmo 332/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.332.2021.0) — 28. 3. 2022
-- *OS v Klatovech* [5 C 221/2020-405](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2021:5.C.221.2020.1) — *smlouva nájemní, náhradní pozemek, odbory, pozemkový úřad, spoluvlastnictví, znalecký po…*
+- *VS v Praze* [7 Cmo 359/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=2e422078-2ccc-4d09-be9b-1aa68348ef8a) — 1. 4. 2025
+- *VS v Praze* [9 Cmo 120/2023-2065](https://rozhodnuti.justice.cz/rozhodnuti/?id=d24bf938-7365-44d8-b2ee-cb37d667b5f2) — 6. 3. 2024
+- *VS v Praze* [9 Cmo 27/2023-75](https://rozhodnuti.justice.cz/rozhodnuti/?id=212b422a-ef6d-42a6-b5fa-1c2aa56a043d) — 14. 9. 2023
+- *VS v Praze* [7 Cmo 332/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=c6b2f858-d875-40ba-b502-ea6b45422fb6) — 28. 3. 2022
+- *OS v Klatovech* [5 C 221/2020-405](https://rozhodnuti.justice.cz/rozhodnuti/?id=4f21cc3a-c851-41d2-8f8d-dfdc2e70f1cc) — *smlouva nájemní, náhradní pozemek, odbory, pozemkový úřad, spoluvlastnictví, znalecký po…*
 
 ### § 121 — Materiální publicita
 
@@ -180,11 +180,11 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [12 C 265/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:12.C.265.2021.1) — *korporace, peněžité plnění, zastavení řízení*
-- *KS v Ústí nad Labem* [8 Co 194/2025-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:8.Co.194.2025.1) — *utvrzení dluhu, smlouva o úvěru*
-- *KS v Plzni* [10 CO 25/2021-241](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2021:10.Co.25.2021.1) — *peněžité plnění*
-- *VS v Praze* [9 Cmo 37/2022-248](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.37.2022.1) — 11. 10. 2022
-- *ObS pro Prahu 3* [7 C 67/2021-152](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:7.C.67.2021.1) — *peněžité plnění, smlouva o úvěru, smlouva pracovní, uznání dluhu, znalecký posudek*
+- *ObS pro Prahu 1* [12 C 265/2021-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=074f65fa-31f0-43dd-a000-031f2ad0aad4) — *korporace, peněžité plnění, zastavení řízení*
+- *KS v Ústí nad Labem* [8 Co 194/2025-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=4146feac-fd51-47a5-93cc-f61ad0c27be8) — *utvrzení dluhu, smlouva o úvěru*
+- *KS v Plzni* [10 CO 25/2021-241](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c8e4995-b811-4367-8e5f-7df05f790197) — *peněžité plnění*
+- *VS v Praze* [9 Cmo 37/2022-248](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d8de67e-3df9-44cc-ac35-f6ab8ef813b1) — 11. 10. 2022
+- *ObS pro Prahu 3* [7 C 67/2021-152](https://rozhodnuti.justice.cz/rozhodnuti/?id=93f8aa8e-8447-45ff-bcd7-01f2a491bf94) — *peněžité plnění, smlouva o úvěru, smlouva pracovní, uznání dluhu, znalecký posudek*
 
 ### § 123 — Náležitosti zakladatelského jednání
 
@@ -207,11 +207,11 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [14 Cmo 297/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.297.2024.0) — 30. 10. 2024
-- *VS v Praze* [9 Cmo 82/2022-126](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.82.2022.1) — 15. 12. 2022
-- *KS v Brně* [16 CO 240/2021-674](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.240.2021.1) — *bezdůvodné obohacení, dlužné nájemné, držba, nájem nebytových prostor, nebytový prostor,…*
-- *MS v Praze* [15 CO 73/2022-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:15.Co.73.2022 .1) — *dražba, peněžité plnění, smlouva nájemní*
-- *ObS pro Prahu 1* [40 C 63/2020-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:40.C.63.2020.1) — *dražba, peněžité plnění, smlouva nájemní*
+- *VS v Praze* [14 Cmo 297/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c51b217-a64c-4c87-96ab-540d2c899625) — 30. 10. 2024
+- *VS v Praze* [9 Cmo 82/2022-126](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3810eff-d333-43de-9ad1-8fe35e10920a) — 15. 12. 2022
+- *KS v Brně* [16 CO 240/2021-674](https://rozhodnuti.justice.cz/rozhodnuti/?id=ac414e97-c0fd-4922-9e8e-4a8bbd0b220c) — *bezdůvodné obohacení, dlužné nájemné, držba, nájem nebytových prostor, nebytový prostor,…*
+- *MS v Praze* [15 CO 73/2022-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=9cf4ac52-05ea-4eae-9bdc-ff2808621609) — *dražba, peněžité plnění, smlouva nájemní*
+- *ObS pro Prahu 1* [40 C 63/2020-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=bf9f4311-9b10-4d8f-8e23-c31234fc1b14) — *dražba, peněžité plnění, smlouva nájemní*
 
 ### § 124 — Doba ustavení
 
@@ -263,11 +263,11 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kladně* [8 C 52/2025-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:8.C.52.2025.1) — *smlouva nájemní, náhrada nákladů, lhůty, výpověď z nájmu, náklady řízení*
-- *OS v Mladé Boleslavi* [9 C 349/2024-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2025:9.C.349.2024.1) — *převod vlastnictví, náklady řízení, vydání věci, byty služební, nájem bytu, vlastnictví…*
-- *VS v Praze* [2 Cmo 156/2024-357](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.156.2024.1) — 1. 11. 2024
-- *OS v Kladně* [16 C 17/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2023:16.C.17.2023.1) — *nájem bytu, peněžité plnění, smlouva nájemní*
-- *VS v Praze* [7 Cmo 269/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.269.2021.0) — 16. 5. 2022
+- *OS v Kladně* [8 C 52/2025-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f961131-2810-4309-98cc-1df7af240e44) — *smlouva nájemní, náhrada nákladů, lhůty, výpověď z nájmu, náklady řízení*
+- *OS v Mladé Boleslavi* [9 C 349/2024-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=29f936c7-392a-4434-8e81-58cca9a187fd) — *převod vlastnictví, náklady řízení, vydání věci, byty služební, nájem bytu, vlastnictví…*
+- *VS v Praze* [2 Cmo 156/2024-357](https://rozhodnuti.justice.cz/rozhodnuti/?id=26a7bcc7-b039-4ada-b741-ef96716dd4fd) — 1. 11. 2024
+- *OS v Kladně* [16 C 17/2023](https://rozhodnuti.justice.cz/rozhodnuti/?id=9d4bd940-391a-4dc3-b8fe-ba3c04a4a3c6) — *nájem bytu, peněžité plnění, smlouva nájemní*
+- *VS v Praze* [7 Cmo 269/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=36cc5c10-e7e5-4b3e-b244-378160f14ccb) — 16. 5. 2022
 
 ### § 128—131 — Nepřípustnost rušení vzniku, neplatnost PO
 
@@ -477,11 +477,11 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Liberci* [14 C 348/2015](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2022:14.C.348.2015.1) — *družstevní byt, oddlužení, peněžité plnění, rozvod manželství, vypořádání SJM, zástavní…*
-- *OS v Jeseníku* [4 C 98/2017-125](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2021:4.C.98.2017.1) — *dědění, insolvence, jmění, oddlužení, peněžité plnění, pěstounská péče, podílové spoluvl…*
-- *OS v Ústí nad Labem* [8 C 209/2022-252](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:8.C.209.2022.1) — *pojištění, společné jmění manželů, rozvod manželství, náhrada nemajetkové újmy, nemajetk…*
-- *ObS pro Prahu 5* [16 C 415/2013-1499](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:16.C.415.2013.1) — *společné jmění manželů, držba, vydržení, znalecký posudek, obchodní podíl, spoluvlastnic…*
-- *OS v Ústí nad Labem* [8 C 39/2022-315](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2023:8.C.39.2022.1) — *náhrada nemajetkové újmy, podílové spoluvlastnictví, spoluvlastnictví, družstevní byt, n…*
+- *OS v Liberci* [14 C 348/2015](https://rozhodnuti.justice.cz/rozhodnuti/?id=f6fc893d-cda3-471e-a229-ce6d53263167) — *družstevní byt, oddlužení, peněžité plnění, rozvod manželství, vypořádání SJM, zástavní…*
+- *OS v Jeseníku* [4 C 98/2017-125](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f12779c-f53b-487d-a393-6be020fb3419) — *dědění, insolvence, jmění, oddlužení, peněžité plnění, pěstounská péče, podílové spoluvl…*
+- *OS v Ústí nad Labem* [8 C 209/2022-252](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c6f68ae-6ed4-4583-abbf-532b91c5497c) — *pojištění, společné jmění manželů, rozvod manželství, náhrada nemajetkové újmy, nemajetk…*
+- *ObS pro Prahu 5* [16 C 415/2013-1499](https://rozhodnuti.justice.cz/rozhodnuti/?id=a9e6314c-3720-45fe-8245-304c802f4e4a) — *společné jmění manželů, držba, vydržení, znalecký posudek, obchodní podíl, spoluvlastnic…*
+- *OS v Ústí nad Labem* [8 C 39/2022-315](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d70ff42-60b3-416e-92af-e13fb77b5e16) — *náhrada nemajetkové újmy, podílové spoluvlastnictví, spoluvlastnictví, družstevní byt, n…*
 
 ### § 145 — Zakázané PO
 
@@ -543,10 +543,10 @@ Zákon o statusu veřejné prospěšnosti **dosud nebyl přijat** (§ 147—150 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Hradci Králové* [17 C 190/2022-31](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2022:17.C.190.2022.1) — *peněžité plnění*
-- *OS v Ostravě* [54 C 107/2021-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:54.C.107.2021.3) — *dodávky energie, peněžité plnění, smlouva kupní*
-- *OS v Ostravě* [55 C 445/2020-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:55.C.445.2020.2) — *dodávky energie, peněžité plnění*
-- *KS v Praze* [23 Co 60/2025-203](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:23.Co.60.2025.1) — *dodávky energie, odbory*
+- *OS v Hradci Králové* [17 C 190/2022-31](https://rozhodnuti.justice.cz/rozhodnuti/?id=2b5e8bdb-faca-4ab1-94b4-c843211ace72) — *peněžité plnění*
+- *OS v Ostravě* [54 C 107/2021-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d838f03-a310-4ee0-90ff-b2d49baef2f3) — *dodávky energie, peněžité plnění, smlouva kupní*
+- *OS v Ostravě* [55 C 445/2020-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=81a922db-4e48-4ec5-91e5-573f2251edc4) — *dodávky energie, peněžité plnění*
+- *KS v Praze* [23 Co 60/2025-203](https://rozhodnuti.justice.cz/rozhodnuti/?id=f7de5372-32a4-43e5-8e89-dfb30f98c8b0) — *dodávky energie, odbory*
 
 ---
 
@@ -605,11 +605,11 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 21/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.21.2024.0) — 10. 7. 2024
-- *VS v Praze* [6 Cmo 209/2021-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.209.2021.1) — 24. 1. 2022
-- *VS v Praze* [14 Cmo 317/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.317.2021.0) — 22. 10. 2024
-- *VS v Praze* [14 Cmo 146/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.146.2023.0) — 21. 11. 2023
-- *VS v Praze* [9 Cmo 136/2023-208](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.136.2023.1) — 6. 12. 2023
+- *VS v Praze* [9 Cmo 21/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=d8f7584b-5394-4a6e-b318-beb6d305731a) — 10. 7. 2024
+- *VS v Praze* [6 Cmo 209/2021-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=a8c07d22-8fa1-4afa-8b20-e7540fbf749f) — 24. 1. 2022
+- *VS v Praze* [14 Cmo 317/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=d58d3ee4-91e4-4058-b1dc-8991e99cdadd) — 22. 10. 2024
+- *VS v Praze* [14 Cmo 146/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=0d778214-1e5c-4b0e-9926-3a6d83ebb0d7) — 21. 11. 2023
+- *VS v Praze* [9 Cmo 136/2023-208](https://rozhodnuti.justice.cz/rozhodnuti/?id=4ef33aa8-1a40-4728-995c-08a60f4e269d) — 6. 12. 2023
 
 ### § 154—155 — PO jako člen orgánu; vady povolání
 
@@ -663,11 +663,11 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 26/2024-182](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.26.2024.1) — 8. 11. 2024
-- *VS v Praze* [6 Cmo 260/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.260.2021.0) — 16. 2. 2022
-- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:15.C.278.2021.3) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
-- *VS v Praze* [7 Cmo 144/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.144.2021.0) — 26. 7. 2021
-- *VS v Praze* [7 Cmo 162/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.162.2021.0) — 26. 7. 2021
+- *VS v Praze* [2 Cmo 26/2024-182](https://rozhodnuti.justice.cz/rozhodnuti/?id=5e66d4e8-d33c-48ef-a9db-9195bf3be757) — 8. 11. 2024
+- *VS v Praze* [6 Cmo 260/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b96a3d15-a4a8-4957-9238-53433ae0dc3c) — 16. 2. 2022
+- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/rozhodnuti/?id=4fedb0c8-2130-41b7-98f4-b4b1e0d471a6) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
+- *VS v Praze* [7 Cmo 144/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec85a732-3a45-4a67-9f5f-b971c1ba0817) — 26. 7. 2021
+- *VS v Praze* [7 Cmo 162/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=f81fd631-88c2-4818-b672-0663c103fea5) — 26. 7. 2021
 
 ### § 159 — Péče řádného hospodáře, ručení
 
@@ -721,11 +721,11 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 260/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.260.2023.0) — 11. 3. 2024
-- *OS Plzeň-sever* [8 C 343/2024-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPS:2024:8.C.343.2024.1) — *smlouva o úvěru*
-- *VS v Praze* [9 Cmo 234/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.234.2024.0) — 14. 10. 2024
-- *OS Plzeň-město* [12 C 136/2021-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2022:12.C.136.2021.1) — *dodávky energie, peněžité plnění*
-- *VS v Praze* [6 Cmo 80/2021-177](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.80.2021.1) — 27. 4. 2022
+- *VS v Praze* [9 Cmo 260/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=d94b5a29-85b7-4460-b54f-0df6078e5114) — 11. 3. 2024
+- *OS Plzeň-sever* [8 C 343/2024-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=dfb3aad9-5245-42f1-89ad-7ca0c1830b2b) — *smlouva o úvěru*
+- *VS v Praze* [9 Cmo 234/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=3447a38e-0f2f-4f93-af76-075460589d39) — 14. 10. 2024
+- *ObS pro Prahu 2* [25 C 22/2022-198](https://rozhodnuti.justice.cz/rozhodnuti/?id=8fc1f6e2-867a-41ef-a586-b41d9680148a) — *pasivní legitimace, smlouva nájemní, nebytový prostor*
+- *OS Plzeň-město* [12 C 136/2021-84](https://rozhodnuti.justice.cz/rozhodnuti/?id=48375ea6-b200-4cea-9847-09eab046dc37) — *dodávky energie, peněžité plnění*
 
 ---
 

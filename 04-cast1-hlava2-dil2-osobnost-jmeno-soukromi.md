@@ -47,9 +47,9 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:13.C.215.2022.1) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
-- *KS v Brně* [70 CO 93/2022-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:70.Co.93.2022.1) — *náhrada nemajetkové újmy, nekalá soutěž, nemajetková újma, ochrana osobnosti, pasivní le…*
-- *KS v Plzni* [10 CO 298/2023-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.298.2023.1) — *bezdůvodné obohacení, majetková újma, náhrada nemajetkové újmy, nemajetková újma, peněži…*
+- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ba27ee3-30a9-4489-9269-3c595632349f) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
+- *KS v Brně* [70 CO 93/2022-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=52228527-55d0-4036-aaba-f3c612758dc1) — *náhrada nemajetkové újmy, nekalá soutěž, nemajetková újma, ochrana osobnosti, pasivní le…*
+- *KS v Plzni* [10 CO 298/2023-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=25a59ce2-a536-44d3-8ebf-7344aa151ae0) — *bezdůvodné obohacení, majetková újma, náhrada nemajetkové újmy, nemajetková újma, peněži…*
 
 ### § 78 — Ochrana jména
 
@@ -85,11 +85,11 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Mělníku* [12 C 251/2022-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSME:2024:12.C.251.2022.1) — *nemajetková újma, podvod, svědečné, náklady řízení, dokazování*
-- *ObS pro Prahu 7* [18 C 76/2023-473](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2025:18.C.76.2023.1) — *obchodní rejstřík, exces, advokacie, ochrana osobnosti, obchodní firma, svědek, náhrada…*
-- *KS v Brně* [70 Co 35/2024-315](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:70.Co.35.2024.1) — *nemajetková újma, náhrada nemajetkové újmy, znalecký posudek, rodičovská odpovědnost, oc…*
-- *OS v Blansku* [9 C 4/2017-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2022:9.C.4.2017.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, zadostiučinění / satisfak…*
-- *OS Praha-východ* [3 C 290/2019](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:3.C.290.2019.1) — *smlouva o půjčce, smlouva o zápůjčce*
+- *OS v Mělníku* [12 C 251/2022-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=69213f4e-7dce-4286-89ba-641afc49b190) — *nemajetková újma, podvod, svědečné, náklady řízení, dokazování*
+- *ObS pro Prahu 7* [18 C 76/2023-473](https://rozhodnuti.justice.cz/rozhodnuti/?id=c9c47c4b-daa2-4fe1-868b-b90766645d5d) — *obchodní rejstřík, exces, advokacie, ochrana osobnosti, obchodní firma, svědek, náhrada…*
+- *KS v Brně* [70 Co 35/2024-315](https://rozhodnuti.justice.cz/rozhodnuti/?id=f033ecda-6bb2-45de-aa5b-32e2ed592c61) — *nemajetková újma, náhrada nemajetkové újmy, znalecký posudek, rodičovská odpovědnost, oc…*
+- *OS v Blansku* [9 C 4/2017-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d92a91c-6925-426e-ac3e-5092783df3ca) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, zadostiučinění / satisfak…*
+- *OS Praha-východ* [3 C 290/2019](https://rozhodnuti.justice.cz/rozhodnuti/?id=59a892a1-d825-4d29-8580-574bb9e4e244) — *smlouva o půjčce, smlouva o zápůjčce*
 
 ### § 79 — Pseudonym
 
@@ -262,11 +262,11 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [47 C 113/2021-145](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:47.C.113.2021.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, osoba blí…*
-- *KS v Brně* [70 CO 81/2022-385](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:70.Co.81.2022.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, veřejná…*
-- *OS v Ústí nad Orlicí* [10 C 41/2020-116](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2022:10.C.41.2020.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, stavba n…*
-- *KS v Hradci Králové, pobočka Pardubice* [22 CO 99/2022-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHKPA:2022:22.Co.99.2022.1) — *nemajetková újma, ochrana osobnosti, peněžité plnění, svědečné, zadostiučinění / satisfa…*
-- *MS v Brně* [47 C 217/2023-130](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:47.C.217.2023.1) — *ochrana osobních údajů, ochrana osobnosti*
+- *MS v Brně* [47 C 113/2021-145](https://rozhodnuti.justice.cz/rozhodnuti/?id=9915787d-625c-4674-9934-18070b8f8782) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, osoba blí…*
+- *KS v Brně* [70 CO 81/2022-385](https://rozhodnuti.justice.cz/rozhodnuti/?id=058a36bf-1e27-4c63-82a6-6c45fbcfede0) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, veřejná…*
+- *OS v Ústí nad Orlicí* [10 C 41/2020-116](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c0499a7-663b-4ab8-a2b7-70879ea45f22) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, stavba n…*
+- *KS v Hradci Králové, pobočka Pardubice* [22 CO 99/2022-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd67799f-da86-4c07-a69c-aca06457e1d5) — *nemajetková újma, ochrana osobnosti, peněžité plnění, svědečné, zadostiučinění / satisfa…*
+- *MS v Brně* [47 C 217/2023-130](https://rozhodnuti.justice.cz/rozhodnuti/?id=063dba13-d3d4-4635-b58b-50d7bf82e65b) — *ochrana osobních údajů, ochrana osobnosti*
 
 ---
 
@@ -376,11 +376,11 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 5* [11 C 254/2023-120](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:11.C.254.2023.1) — *bezdůvodné obohacení, církev, peněžité plnění, postoupení pohledávky, smlouva nájemní, s…*
-- *KS v Brně* [47 CO 138/2021-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:47.Co.138.2021.1) — *peněžité plnění, postoupení pohledávky*
-- *OS v Mladé Boleslavi* [16 C 54/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2021:16.C.54.2021.1) — *peněžité plnění, smlouva o úvěru*
-- *OS v Jičíně* [9 C 27/2022-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:9.C.27.2022.1) — *peněžité plnění, smlouva o úvěru*
-- *OS v Jihlavě* [11 C 147/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2022:11.C.147.2022.1) — *odstoupení od smlouvy, smlouva o úvěru*
+- *ObS pro Prahu 5* [11 C 254/2023-120](https://rozhodnuti.justice.cz/rozhodnuti/?id=21f4cac0-3a12-4399-9650-0415feabff9f) — *bezdůvodné obohacení, církev, peněžité plnění, postoupení pohledávky, smlouva nájemní, s…*
+- *KS v Brně* [47 CO 138/2021-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c58a170-9e6c-4265-ab80-bd05ac446560) — *peněžité plnění, postoupení pohledávky*
+- *OS v Mladé Boleslavi* [16 C 54/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=e5f08630-9d58-4590-a9bf-0c2cd1aa5308) — *peněžité plnění, smlouva o úvěru*
+- *OS v Jičíně* [9 C 27/2022-73](https://rozhodnuti.justice.cz/rozhodnuti/?id=7aabbd24-bdd6-4849-8478-4ff9b3495546) — *peněžité plnění, smlouva o úvěru*
+- *OS v Jihlavě* [11 C 147/2022-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=c4b167de-cd04-48e6-a6eb-bae3cc4463a1) — *odstoupení od smlouvy, smlouva o úvěru*
 
 ### § 88—89 — Zákonné výjimky ze souhlasu
 
@@ -466,11 +466,11 @@ Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesn�
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [56 C 137/2022-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:56.C.137.2022.1) — *rozsudek částečný, rozsudek pro uznání, ručení, smlouva o úvěru*
-- *OS v Děčíně* [20 C 97/2020-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2021:20.C.97.2020.3) — *výživné*
-- *OS v Pardubicích* [18 C 175/2022-467](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2023:18.C.175.2022.1) — *náhrada za ztrátu na výdělku, pasivní legitimace, peněžité plnění, rehabilitace*
-- *KS v Českých Budějovicích* [15 Co 241/2024-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:15.Co.241.2024.1) — *spoluvlastnictví, porod, osoba blízká, nemajetková újma, náhrada nemajetkové újmy, nákla…*
-- *OS ve Frýdku-Místku* [16 C 232/2022-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2023:16.C.232.2022.1) — *bolestné, náhrada mzdy, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetk…*
+- *ObS pro Prahu 4* [56 C 137/2022-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9b63e61-4e6e-4598-b36e-57ab5f5c070a) — *rozsudek částečný, rozsudek pro uznání, ručení, smlouva o úvěru*
+- *OS v Děčíně* [20 C 97/2020-61](https://rozhodnuti.justice.cz/rozhodnuti/?id=88224bae-4fde-478f-af77-198ce8514911) — *výživné*
+- *OS v Pardubicích* [18 C 175/2022-467](https://rozhodnuti.justice.cz/rozhodnuti/?id=447edbee-3d82-463a-aac7-d434aacfcc4f) — *náhrada za ztrátu na výdělku, pasivní legitimace, peněžité plnění, rehabilitace*
+- *KS v Českých Budějovicích* [15 Co 241/2024-200](https://rozhodnuti.justice.cz/rozhodnuti/?id=b41fec6d-5aad-4700-99d3-6de1cf8d2cdb) — *spoluvlastnictví, porod, osoba blízká, nemajetková újma, náhrada nemajetkové újmy, nákla…*
+- *OS ve Frýdku-Místku* [16 C 232/2022-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=1323eeb6-6295-4bbe-821c-c87dfb690909) — *bolestné, náhrada mzdy, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetk…*
 
 ### § 92 — Ochrana lidského těla po smrti
 
@@ -594,11 +594,11 @@ Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařsk�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Chebu* [12 C 150/2021-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2021:12.C.150.2021.5) — *peněžité plnění*
-- *MS v Praze* [18 Co 173/2025-266](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:18.Co.173.2025.266) — *náhrada nákladů, nemajetková újma, exces, náhrada nemajetkové újmy, bolestné, odvolání,…*
-- *OS v Ústí nad Orlicí* [7 C 153/2020-46](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:7.C.153.2020.1) — *dlužné nájemné, dotace, nájem bytu, smlouva nájemní, výpověď z nájmu*
-- *OS v Litoměřicích* [8 C 64/2020-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2020:8.C.64.2020.2) — *peněžité plnění*
-- *MS v Praze* [35 Co 192/2025-499](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:35.Co.192.2025.499) — *majetková újma, ztížení společenského uplatnění, znalecký posudek, pasivní legitimace, b…*
+- *OS v Chebu* [12 C 150/2021-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=5b6b5d3c-f042-4cbd-bd64-22fd4c87fd2c) — *peněžité plnění*
+- *MS v Praze* [18 Co 173/2025-266](https://rozhodnuti.justice.cz/rozhodnuti/?id=0204201d-308e-4c8e-a467-41c85c8158bd) — *náhrada nákladů, nemajetková újma, exces, náhrada nemajetkové újmy, bolestné, odvolání,…*
+- *OS v Ústí nad Orlicí* [7 C 153/2020-46](https://rozhodnuti.justice.cz/rozhodnuti/?id=ae1a1774-c909-4def-9348-02f938f827fc) — *dlužné nájemné, dotace, nájem bytu, smlouva nájemní, výpověď z nájmu*
+- *OS v Litoměřicích* [8 C 64/2020-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=eb7eee2e-0108-41de-b319-1638327c1b4c) — *peněžité plnění*
+- *MS v Praze* [35 Co 192/2025-499](https://rozhodnuti.justice.cz/rozhodnuti/?id=b1fa99bf-6244-4801-b81a-e78a221936b1) — *majetková újma, ztížení společenského uplatnění, znalecký posudek, pasivní legitimace, b…*
 
 ### § 97 — Odvolání souhlasu
 
@@ -647,10 +647,10 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Litoměřicích* [8 C 240/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2022:8.C.240.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o dílo*
-- *MS v Praze* [51 Co 179/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:51.Co.179.2025.96) — *akcie, odvolání, smlouva o úvěru, smlouva o nájmu dopravního prostředku, bezdůvodné oboh…*
-- *OS v Ústí nad Orlicí* [18 C 386/2024-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2025:18.C.386.2024.1) — *smlouva o úschově, právní domněnka, pravá držba, dokazování, prevence, podnikatel, lhůty…*
-- *OS v Berouně* [111 C 5/2020-370](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:111.C.5.2020.1) — *bezdůvodné obohacení, bytové družstvo, peněžité plnění, smlouva o dílo, ušlý zisk, znale…*
+- *OS v Litoměřicích* [8 C 240/2022-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=990a2e6e-db4d-471e-88c3-fe8a9e50ad4f) — *peněžité plnění, postoupení pohledávky, smlouva o dílo*
+- *MS v Praze* [51 Co 179/2025-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5ceb894-d21e-4076-a331-ffef003bd5db) — *akcie, odvolání, smlouva o úvěru, smlouva o nájmu dopravního prostředku, bezdůvodné oboh…*
+- *OS v Ústí nad Orlicí* [18 C 386/2024-73](https://rozhodnuti.justice.cz/rozhodnuti/?id=b81d775f-fb55-4ac0-9323-e3900e103093) — *smlouva o úschově, právní domněnka, pravá držba, dokazování, prevence, podnikatel, lhůty…*
+- *OS v Berouně* [111 C 5/2020-370](https://rozhodnuti.justice.cz/rozhodnuti/?id=fc4fa119-b023-4111-bf41-8691d0851727) — *bezdůvodné obohacení, bytové družstvo, peněžité plnění, smlouva o dílo, ušlý zisk, znale…*
 
 ### § 100—103 — Souhlas soudu, vysvětlení po zákroku
 
@@ -886,9 +886,9 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [2119 C 24/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:2119.C.24.2024.1) — *pozůstalost*
-- *MS v Praze* [29 Co 206/2025-310](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:29.Co.206.2025.310) — *zadostiučinění / satisfakce, ochrana osobnosti, podjatost, pozůstalost*
-- *ObS pro Prahu 1* [26 C 191/2019-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:26.C.191.2019.1) — *znalecký posudek, pasivní legitimace*
-- *VS v Praze* [2 Cmo 89/2024-385](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.89.2024.1) — 30. 12. 2024
-- *VS v Praze* [14 Cmo 134/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.134.2024.0) — 21. 8. 2024
+- *MS v Brně* [2119 C 24/2024-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=cf9c852b-4d20-4534-8fa2-316448317605) — *pozůstalost*
+- *MS v Praze* [29 Co 206/2025-310](https://rozhodnuti.justice.cz/rozhodnuti/?id=51f64c7d-59cd-48b9-b7a3-6639efd6ba5d) — *zadostiučinění / satisfakce, ochrana osobnosti, podjatost, pozůstalost*
+- *ObS pro Prahu 1* [26 C 191/2019-253](https://rozhodnuti.justice.cz/rozhodnuti/?id=34400811-f547-42c6-94e1-c04ba06a93f7) — *znalecký posudek, pasivní legitimace*
+- *VS v Praze* [2 Cmo 89/2024-385](https://rozhodnuti.justice.cz/rozhodnuti/?id=b86b9484-32c2-4810-b7c4-4fe6bb05da5f) — 30. 12. 2024
+- *VS v Praze* [14 Cmo 134/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=8f675c5a-a3d3-477f-9c9d-95a8c6758857) — 21. 8. 2024
 

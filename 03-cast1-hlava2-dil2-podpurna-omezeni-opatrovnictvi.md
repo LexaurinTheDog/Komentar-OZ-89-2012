@@ -136,11 +136,11 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-východ* [24 C 7/2024-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:24.C.7.2024.1) — *služebnost, narovnání, náklady řízení, věcná břemena, dokazování, náhrada nákladů*
-- *OS v Hodoníně* [23 C 24/2023-198](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2025:23.C.24.2023.1) — *zpeněžování, podvod, bezdůvodné obohacení, uznání dluhu, dražba, znalecký posudek, lichv…*
-- *KS v Brně* [14 CO 190/2021-207](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:14.Co.190.2021.1) — *oddlužení, peněžité plnění, postoupení pohledávky, převod nemovitostí, rozhodnutí o úpad…*
-- *OS v Příbrami* [17 C 203/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:17.C.203.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
-- *OS v Příbrami* [17 C 204/2021-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:17.C.204.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS Praha-východ* [24 C 7/2024-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=42340132-4b56-4ce9-bbf3-36161376bc17) — *služebnost, narovnání, náklady řízení, věcná břemena, dokazování, náhrada nákladů*
+- *OS v Hodoníně* [23 C 24/2023-198](https://rozhodnuti.justice.cz/rozhodnuti/?id=60bb4c5a-420c-4607-8d83-be9edcef9d65) — *zpeněžování, podvod, bezdůvodné obohacení, uznání dluhu, dražba, znalecký posudek, lichv…*
+- *KS v Brně* [14 CO 190/2021-207](https://rozhodnuti.justice.cz/rozhodnuti/?id=b8a17aee-bd45-4e4e-9ffc-77ff1e1b0af2) — *oddlužení, peněžité plnění, postoupení pohledávky, převod nemovitostí, rozhodnutí o úpad…*
+- *OS v Příbrami* [17 C 203/2021-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=9e9d1078-e85f-4b7a-868a-d99e15395b98) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS v Příbrami* [17 C 204/2021-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=a37c6ad5-bfde-46e4-a8be-e2c6e211aa49) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
 
 ---
 
@@ -193,8 +193,8 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 10* [34 C 130/2021-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2022:34.C.130.2021.2) — *peněžité plnění, převod nemovitostí, smlouva kupní, zástavní právo, znalecký posudek*
-- *KS v Ostravě* [75 CO 322/2021-261](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:75.Co.322.2021.1) — *držba, nájem bytu, pacht, smlouva nájemní, spoluvlastnictví, vydání věci, vyklizení nemo…*
+- *ObS pro Prahu 10* [34 C 130/2021-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=7e651b1d-db51-46c6-9eac-7d6058b799be) — *peněžité plnění, převod nemovitostí, smlouva kupní, zástavní právo, znalecký posudek*
+- *KS v Ostravě* [75 CO 322/2021-261](https://rozhodnuti.justice.cz/rozhodnuti/?id=bb45c6f8-cbd6-4992-8211-2bb620182c8c) — *držba, nájem bytu, pacht, smlouva nájemní, spoluvlastnictví, vydání věci, vyklizení nemo…*
 
 ### § 47 — Povinnosti podpůrce
 
@@ -226,8 +226,8 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Hodoníně* [6 C 110/2022-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2023:6.C.110.2022.2) — *nápadně nevýhodné podmínky, odstoupení od smlouvy, smlouva kupní*
-- *MS v Praze* [62 CO 361/2021-168](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:62.Co.361.2021.1) — *odstoupení od smlouvy, peněžité plnění, pozůstalost, rozsudek pro uznání, smlouva kupní,…*
+- *OS v Hodoníně* [6 C 110/2022-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=716e6e9c-8676-4db0-bfd0-5f65644ca1ed) — *nápadně nevýhodné podmínky, odstoupení od smlouvy, smlouva kupní*
+- *MS v Praze* [62 CO 361/2021-168](https://rozhodnuti.justice.cz/rozhodnuti/?id=4e53eac2-1595-4bdd-af4a-58111fcb6b3e) — *odstoupení od smlouvy, peněžité plnění, pozůstalost, rozsudek pro uznání, smlouva kupní,…*
 
 ---
 
@@ -284,9 +284,9 @@ Konstitutivní účinek **schválení soudu** — zastoupení vzniká až rozhod
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Příbrami* [5 C 199/2022-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:5.C.199.2022.1) — *peněžité plnění, postoupení pohledávky*
-- *OS v Sokolově* [7 C 254/2023-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2023:7.C.254.2023.3) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
-- *MS v Praze* [53 CO 306/2022-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.306.2022.1) — *duševní choroba, duševní porucha, omezení svéprávnosti, peněžité plnění, postoupení pohl…*
+- *OS v Příbrami* [5 C 199/2022-48](https://rozhodnuti.justice.cz/rozhodnuti/?id=be46ecbc-4a3a-4d77-957f-440ada3740fc) — *peněžité plnění, postoupení pohledávky*
+- *OS v Sokolově* [7 C 254/2023-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=eb65cdb5-910f-4719-a6ea-9cdc3e23f9e2) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *MS v Praze* [53 CO 306/2022-100](https://rozhodnuti.justice.cz/rozhodnuti/?id=88581eab-b243-4cd4-bd68-bada2665be8c) — *duševní choroba, duševní porucha, omezení svéprávnosti, peněžité plnění, postoupení pohl…*
 
 ### § 51 — Povinnosti zástupce
 
@@ -336,11 +336,11 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Mostě* [39 C 13/2025-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2025:39.C.13.2025.1) — *smlouva o půjčce, postoupení pohledávky*
-- *OS v Ústí nad Labem* [7 C 316/2024-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.316.2024.1) — *postoupení pohledávky, smlouva o půjčce*
-- *OS v Ústí nad Labem* [7 C 239/2024-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.239.2024.1) — *smlouva o půjčce, postoupení pohledávky*
-- *OS v Ústí nad Labem* [7 C 136/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.136.2024.1) — *postoupení pohledávky, smlouva o půjčce*
-- *OS v Mostě* [39 C 132/2023-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2023:39.C.132.2023.2) — *peněžité plnění, postoupení pohledávky*
+- *OS v Mostě* [39 C 13/2025-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=75f5a2f0-79c5-4ca0-ab67-3cf86d6e1866) — *smlouva o půjčce, postoupení pohledávky*
+- *OS v Ústí nad Labem* [7 C 316/2024-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=b13dce6b-05c6-4c3d-b2de-20b081ba6d3e) — *postoupení pohledávky, smlouva o půjčce*
+- *OS v Ústí nad Labem* [7 C 239/2024-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=515ab2dc-7424-48da-95ec-664d0df2f36a) — *smlouva o půjčce, postoupení pohledávky*
+- *OS v Ústí nad Labem* [7 C 136/2024-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=0f08b030-8a3d-413b-8772-00f865653ab0) — *postoupení pohledávky, smlouva o půjčce*
+- *OS v Mostě* [39 C 132/2023-20](https://rozhodnuti.justice.cz/rozhodnuti/?id=b01ef3e4-2617-4af1-99cc-7ccec5dc9b65) — *peněžité plnění, postoupení pohledávky*
 
 ### § 53—54 — Pluralita zástupců, zánik zastoupení
 
@@ -362,8 +362,8 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 101/2024-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.101.2024.1) — 4. 11. 2024
-- *VS v Praze* [7 Cmo 17/2022-132](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.17.2022.1) — 9. 12. 2022
+- *VS v Praze* [2 Cmo 101/2024-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2d29ff4-903f-4c1d-b7a1-2c5dc93c8124) — 4. 11. 2024
+- *VS v Praze* [7 Cmo 17/2022-132](https://rozhodnuti.justice.cz/rozhodnuti/?id=f7ad49c4-7e4b-4a95-9765-f4029d439e7f) — 9. 12. 2022
 
 ---
 
@@ -432,11 +432,11 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ostravě* [8 CO 116/2022-500](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:8.Co.116.2022 .1) — *dotace, odpovědnost za vady, peněžité plnění, smlouva o dílo, znalecký posudek*
-- *ObS pro Prahu 3* [12 C 170/2021-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:12.C.170.2021.1) — *postoupení pohledávky, smlouva o půjčce, smlouva o úvěru*
-- *OS ve Svitavách* [9 C 213/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2021:9.C.213.2020.1) — *peněžité plnění, smlouva o úvěru*
-- *OS v Karlových Varech* [13 C 13/2025-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKV:2025:13.C.13.2025.1) — *smlouva o zápůjčce, postoupení pohledávky*
-- *VS v Praze* [2 Cmo 102/2023-154](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:2.Cmo.102.2023.1) — 11. 12. 2023
+- *KS v Ostravě* [8 CO 116/2022-500](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c7c2abf-6503-4384-9856-74273f8cb460) — *dotace, odpovědnost za vady, peněžité plnění, smlouva o dílo, znalecký posudek*
+- *ObS pro Prahu 3* [12 C 170/2021-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=c218742f-57d8-41d1-9b6e-7ef007f4689e) — *postoupení pohledávky, smlouva o půjčce, smlouva o úvěru*
+- *OS ve Svitavách* [9 C 213/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=4100c4e5-fd32-4ac1-b2ad-0f1494a59020) — *peněžité plnění, smlouva o úvěru*
+- *OS v Karlových Varech* [13 C 13/2025-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=a677f82e-cb75-4a62-8046-0fc2207711cb) — *smlouva o zápůjčce, postoupení pohledávky*
+- *VS v Praze* [2 Cmo 102/2023-154](https://rozhodnuti.justice.cz/rozhodnuti/?id=4425314e-6196-4704-8165-7beee16cf093) — 11. 12. 2023
 
 ### § 57 — Rozsah omezení
 
@@ -629,11 +629,11 @@ Tato úprava je **prosvobodná** — chrání svobodu kontraktovat i u osob s om
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Chebu* [8 C 159/2024-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2025:8.C.159.2024.1) — *náhrada nákladů, peněžité plnění, náklady řízení, odstoupení od smlouvy, omezení svépráv…*
-- *ObS pro Prahu 10* [46 C 31/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2021:46.C.31.2021.1) — *omezení svéprávnosti, pojištění majetku, smlouva nájemní*
-- *OS v Mostě* [22 C 383/2021-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.383.2021.2) — *odtah vozidla, smlouva kupní*
-- *OS v Trutnově* [9 C 354/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTU:2022:9.C.354.2021.1) — *bezdůvodné obohacení, dodávky energie, nájem bytu, omezení svéprávnosti, podvod, smlouva…*
-- *OS v Kladně* [214 C 160/2019-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:214.C.160.2019.1) — *dodávky energie, duševní porucha, peněžité plnění, smlouva darovací*
+- *OS v Chebu* [8 C 159/2024-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=3abeaf98-c2bf-4441-9df3-3bfa21b95026) — *náhrada nákladů, peněžité plnění, náklady řízení, odstoupení od smlouvy, omezení svépráv…*
+- *ObS pro Prahu 10* [46 C 31/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=7d5ed10d-fc75-4aaa-86ba-4f6603186b8e) — *omezení svéprávnosti, pojištění majetku, smlouva nájemní*
+- *OS v Mostě* [22 C 383/2021-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=614771ba-ca5d-4501-8855-a3378c4d26c9) — *odtah vozidla, smlouva kupní*
+- *OS v Trutnově* [9 C 354/2021-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=e5eeecaa-ede3-4f54-8ff0-8f5a82fa1b25) — *bezdůvodné obohacení, dodávky energie, nájem bytu, omezení svéprávnosti, podvod, smlouva…*
+- *OS v Kladně* [214 C 160/2019-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=ee6d8f34-9674-49d3-bb21-5990e074ce9a) — *dodávky energie, duševní porucha, peněžité plnění, smlouva darovací*
 
 ---
 
@@ -664,7 +664,7 @@ Tato úprava je **prosvobodná** — chrání svobodu kontraktovat i u osob s om
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 3* [17 C 194/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:17.C.194.2020.4) — *smlouva darovací, vrácení daru*
+- *ObS pro Prahu 3* [17 C 194/2020-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0940832-8254-4e3c-b2c9-5de8a22e6c73) — *smlouva darovací, vrácení daru*
 
 ### § 67 — Účinky prohlášení
 
@@ -700,7 +700,7 @@ Tři způsoby zániku účinků prohlášení:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Karviné* [25 C 13/2023-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:25.C.13.2023.1) — *duševní útrapy, majetková újma, nemajetková újma, ochrana osobnosti, peněžité plnění, za…*
+- *OS v Karviné* [25 C 13/2023-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=7acb21d9-f892-4acd-a0c3-9189850e1aa4) — *duševní útrapy, majetková újma, nemajetková újma, ochrana osobnosti, peněžité plnění, za…*
 
 ### § 69 — Vyloučení námitky neplatnosti
 
@@ -728,7 +728,7 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [19 CO 81/2022-250](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:19.Co.81.2022.1) — *bezdůvodné obohacení, nebytový prostor, peněžité plnění, podílové spoluvlastnictví, spol…*
+- *KS v Hradci Králové* [19 CO 81/2022-250](https://rozhodnuti.justice.cz/rozhodnuti/?id=70bd18d8-9dfd-4896-941e-b2684490cdfa) — *bezdůvodné obohacení, nebytový prostor, peněžité plnění, podílové spoluvlastnictví, spol…*
 
 ---
 

@@ -157,9 +157,9 @@ Rozšíření zahrnuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 313/2023-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.313.2023.1) — 25. 7. 2024
-- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:13.C.215.2022.1) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
-- *KS v Praze* [25 CO 222/2021-230](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:25.Co.222.2021.1) — *odpovědnost za vady, odtah vozidla, ochrana osobních údajů, pasivní legitimace, peněžité…*
+- *VS v Praze* [9 Cmo 313/2023-109](https://rozhodnuti.justice.cz/rozhodnuti/?id=f0d85179-527b-4f5c-a6a7-3053255dcd45) — 25. 7. 2024
+- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ba27ee3-30a9-4489-9269-3c595632349f) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
+- *KS v Praze* [25 CO 222/2021-230](https://rozhodnuti.justice.cz/rozhodnuti/?id=46ccc685-cdd7-4671-b6ac-ddc011ddef0d) — *odpovědnost za vady, odtah vozidla, ochrana osobních údajů, pasivní legitimace, peněžité…*
 
 ### Obchodní firma (§ 423—428)
 
@@ -237,9 +237,9 @@ Obojí lze mít současně a vzájemně se doplňují.
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 67/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.67.2025.000) — 2. 9. 2025
-- *KS v Praze* [103 Co 17/2023-805](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:103.Co.17.2023.1) — *nápadně nevýhodné podmínky, spoluvlastnictví, převod vlastnictví, smlouva kupní, podílov…*
-- *KS v Praze* [21 Co 229/2024-881](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:21.Co.229.2024.1) — *držba, pozemková reforma, spoluvlastnictví, převod vlastnictví, smlouva o smlouvě budouc…*
+- *VS v Praze* [9 Cmo 67/2025-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=5b301b22-cb1b-4740-b68b-146b45ce08fd) — 2. 9. 2025
+- *KS v Praze* [103 Co 17/2023-805](https://rozhodnuti.justice.cz/rozhodnuti/?id=ea9b86c5-dd33-4ae1-af5e-b111cadbe7b6) — *nápadně nevýhodné podmínky, spoluvlastnictví, převod vlastnictví, smlouva kupní, podílov…*
+- *KS v Praze* [21 Co 229/2024-881](https://rozhodnuti.justice.cz/rozhodnuti/?id=f2241dee-3231-4296-a3fc-748f7beb0b5c) — *držba, pozemková reforma, spoluvlastnictví, převod vlastnictví, smlouva o smlouvě budouc…*
 
 #### § 426 — Skupiny podnikatelů (koncerny)
 
@@ -269,11 +269,11 @@ Obojí lze mít současně a vzájemně se doplňují.
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:41.C.31.2012.1) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
-- *OS v Karviné, pobočka Havířov* [106 C 304/2015-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2018:106.C.304.2015.1) — *peněžité plnění, pojištění odpovědnosti za škodu, smlouva nájemní*
-- *OS ve Frýdku-Místku* [13 C 275/99-1856](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2024:13.C.275.99.1) — *vedlejší účastník, těžká újma na zdraví, náklady řízení, náhrada nemajetkové újmy, boles…*
-- *OS v Kladně* [7 C 56/2020-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:7.C.56.2020.1) — *nájem pozemku, pasivní legitimace, peněžité plnění, smlouva kupní, smlouva nájemní, znal…*
-- *OS v Českých Budějovicích* [30 C 201/2021-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCB:2021:30.C.201.2021.1) — *odtah vozidla, peněžité plnění, ručení*
+- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/rozhodnuti/?id=ff0d1488-4d99-435e-86cf-113b4ff85689) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
+- *OS v Karviné, pobočka Havířov* [106 C 304/2015-234](https://rozhodnuti.justice.cz/rozhodnuti/?id=dc11b26a-ad31-4827-b383-43fba8911923) — *peněžité plnění, pojištění odpovědnosti za škodu, smlouva nájemní*
+- *OS ve Frýdku-Místku* [13 C 275/99-1856](https://rozhodnuti.justice.cz/rozhodnuti/?id=78a2738e-455c-428e-adfd-ad451b9190c2) — *vedlejší účastník, těžká újma na zdraví, náklady řízení, náhrada nemajetkové újmy, boles…*
+- *OS v Kladně* [7 C 56/2020-90](https://rozhodnuti.justice.cz/rozhodnuti/?id=9abfbaf2-56c5-4561-be4d-48f1b44cf532) — *nájem pozemku, pasivní legitimace, peněžité plnění, smlouva kupní, smlouva nájemní, znal…*
+- *OS v Českých Budějovicích* [30 C 201/2021-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=d4daf611-9270-4b1d-a8b7-d0176f8ec685) — *odtah vozidla, peněžité plnění, ručení*
 
 #### § 428 — Odvolání souhlasu k jménu v firmě PO
 
@@ -326,11 +326,11 @@ Podnikatel **nemůže namítat skutečné sídlo** vůči tomu, kdo se v dobré 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 84/2024-184](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.84.2024.1) — 13. 6. 2024
-- *VS v Praze* [6 Cmo 367/2020-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.367.2020.1) — 25. 8. 2021
-- *MS v Praze* [14 Cmo 245/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:14.Cmo.245.2022.0) — 15. 11. 2022
-- *ObS pro Prahu 1* [74 C 19/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:74.C.19.2022.1) — *dodávky energie, peněžité plnění*
-- *VS v Praze* [7 Cmo 144/2020-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.144.2020.1) — 1. 2. 2021
+- *VS v Praze* [2 Cmo 84/2024-184](https://rozhodnuti.justice.cz/rozhodnuti/?id=e488a5d9-112b-4eda-a7b9-585652255f6b) — 13. 6. 2024
+- *VS v Praze* [6 Cmo 367/2020-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=3f6fce43-1aae-437a-901c-d7c7f9d6e361) — 25. 8. 2021
+- *MS v Praze* [14 Cmo 245/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=e93e2efd-cefb-4590-948d-237162113204) — 15. 11. 2022
+- *ObS pro Prahu 1* [74 C 19/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=d0085a47-0b8a-4db1-93e1-2232148022cf) — *dodávky energie, peněžité plnění*
+- *VS v Praze* [7 Cmo 144/2020-17](https://rozhodnuti.justice.cz/rozhodnuti/?id=aeea9bf3-6892-4905-bcd7-1f4706996a82) — 1. 2. 2021
 
 ### Zastoupení podnikatele (§ 430—432)
 
@@ -478,9 +478,9 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Jablonci nad Nisou* [105 C 15/2023-286](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:105.C.15.2023.1) — *konkurs, smlouva kupní*
-- *KS v Brně* [21 Co 147/2024-160](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:21.Co.147.2024.1) — *vydržení, patent*
-- *ObS pro Prahu 8* [26 C 223/2021-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:26.C.223.2021.1) — 21. 9. 2021
-- *VS v Praze* [3 Cmo 8/2025-68](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:3.Cmo.8.2025.1) — 27. 10. 2025
-- *KS v Českých Budějovicích* [19 Co 1878/2024-187](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.1878.2024.1) — *smlouva o dílo*
+- *OS v Jablonci nad Nisou* [105 C 15/2023-286](https://rozhodnuti.justice.cz/rozhodnuti/?id=648295bc-4a04-4295-94d7-cbaebde6515b) — *konkurs, smlouva kupní*
+- *KS v Brně* [21 Co 147/2024-160](https://rozhodnuti.justice.cz/rozhodnuti/?id=7bc1c1bc-64d5-4694-acde-7a8e10d920dd) — *vydržení, patent*
+- *ObS pro Prahu 8* [26 C 223/2021-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c1ec5c4-af37-4840-a3fe-69cce7995a71) — 21. 9. 2021
+- *VS v Praze* [3 Cmo 8/2025-68](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b53825e-73ca-4b25-8ad6-4fd3f3ea2bad) — 27. 10. 2025
+- *KS v Českých Budějovicích* [19 Co 1878/2024-187](https://rozhodnuti.justice.cz/rozhodnuti/?id=851a16b6-6320-4ce5-845c-cce00f93b245) — *smlouva o dílo*
 

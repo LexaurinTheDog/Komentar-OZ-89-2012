@@ -52,11 +52,11 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Brno-Venkov* [7 C 16/2026-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2026:7.C.16.2026.1) — *rozsudek pro uznání, náhrada nákladů, dokazování, advokátní tarif, lhůty, odročení, smlo…*
-- *OS Brno-Venkov* [7 C 98/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2025:7.C.98.2025.1) — *dokazování, rozsudek pro uznání, náklady řízení, odročení, smlouva o úvěru, advokátní ta…*
-- *OS ve Svitavách* [17 C 12/2025-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.12.2025.1) — *náhrada nákladů, dokazování, smlouva o úvěru, náklady řízení*
-- *OS ve Svitavách* [17 C 71/2024-190](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.71.2024.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
-- *OS ve Svitavách* [17 C 20/2025-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.20.2025.1) — 21. 5. 2025
+- *OS Brno-Venkov* [7 C 16/2026-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f3095c5-e544-4c0e-b0d1-97582e9ca453) — *rozsudek pro uznání, náhrada nákladů, dokazování, advokátní tarif, lhůty, odročení, smlo…*
+- *OS Brno-Venkov* [7 C 98/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=5f8dcd44-918b-4394-8a9e-078a0210402d) — *dokazování, rozsudek pro uznání, náklady řízení, odročení, smlouva o úvěru, advokátní ta…*
+- *OS ve Svitavách* [17 C 12/2025-100](https://rozhodnuti.justice.cz/rozhodnuti/?id=97571ba5-0741-4b2b-8b90-d92a339db003) — *náhrada nákladů, dokazování, smlouva o úvěru, náklady řízení*
+- *OS ve Svitavách* [17 C 71/2024-190](https://rozhodnuti.justice.cz/rozhodnuti/?id=2a41f389-18f3-4899-8547-835dbab0652a) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS ve Svitavách* [17 C 20/2025-90](https://rozhodnuti.justice.cz/rozhodnuti/?id=268daee4-16aa-49e5-83df-6122827e7bc1) — 21. 5. 2025
 
 ### § 3017 — Rozhodčí řízení
 
@@ -68,7 +68,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Ostravě* [33 C 70/2025-244](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2026:33.C.70.2025.1) — *zavinění, pracovní poměr, smlouva pracovní, bezdůvodné obohacení, jistota, podnikatel, r…*
+- *OS v Ostravě* [33 C 70/2025-244](https://rozhodnuti.justice.cz/rozhodnuti/?id=b44f3927-fb20-4b65-9bae-72eef4b40cf0) — *zavinění, pracovní poměr, smlouva pracovní, bezdůvodné obohacení, jistota, podnikatel, r…*
 
 ### § 3018 — Zveřejnění
 
@@ -78,11 +78,11 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 115/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.115.2022.0) — 10. 10. 2022
-- *VS v Praze* [9 Cmo 34/2025-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.34.2025.1) — 7. 5. 2025
-- *VS v Praze* [9 Cmo 147/2022-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.147.2022.1) — 21. 2. 2023
-- *VS v Praze* [9 Cmo 236/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.236.2024.0) — 3. 9. 2024
-- *VS v Praze* [9 Cmo 119/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.119.2023.0) — 15. 11. 2023
+- *VS v Praze* [9 Cmo 115/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=e4d39a87-5339-4727-bbd8-6cd6e8c2e376) — 10. 10. 2022
+- *VS v Praze* [9 Cmo 34/2025-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=1ea8bc39-fc42-40e9-8ef8-5d2ce16c7fa7) — 7. 5. 2025
+- *VS v Praze* [9 Cmo 147/2022-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=4d36283a-8872-4be3-be74-8cab8ec7c6eb) — 21. 2. 2023
+- *VS v Praze* [9 Cmo 236/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=2250e9ac-de78-41c0-81c4-2f571de717c1) — 3. 9. 2024
+- *VS v Praze* [9 Cmo 119/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=182b2ec8-66d8-45bb-886e-5e914539c0e7) — 15. 11. 2023
 
 ### § 3019 — Identifikační údaje
 
@@ -94,11 +94,11 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-východ* [22 C 358/2024-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2025:22.C.358.2024.76) — *uznání dluhu, nebytový prostor, smlouva nájemní*
-- *OS v Přerově* [9 C 222/2023-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:9.C.222.2023.1) — *elektronický podpis, insolvence, peněžité plnění, smlouva o úvěru, smlouva o zápůjčce*
-- *OS v Přerově* [12 C 319/2022-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:12.C.319.2022.1) — *podvod, bezdůvodné obohacení, akcie*
-- *OS v Přerově* [9 C 8/2024-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:9.C.8.2024.1) — *smlouva o úvěru, postoupení pohledávky*
-- *OS v Přerově* [9 C 248/2023-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:9.C.248.2023.1) — *smlouva o úvěru, elektronický podpis, insolvence, postoupení pohledávky*
+- *OS Praha-východ* [22 C 358/2024-76](https://rozhodnuti.justice.cz/rozhodnuti/?id=e3b8c7af-da71-4c88-a372-191edf385510) — *uznání dluhu, nebytový prostor, smlouva nájemní*
+- *OS v Přerově* [9 C 222/2023-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=590066c0-cca9-4bd2-9098-f99965867498) — *elektronický podpis, insolvence, peněžité plnění, smlouva o úvěru, smlouva o zápůjčce*
+- *OS v Přerově* [12 C 319/2022-108](https://rozhodnuti.justice.cz/rozhodnuti/?id=0f392e8f-d09e-4cfc-823f-8bba05bcd868) — *podvod, bezdůvodné obohacení, akcie*
+- *OS v Přerově* [9 C 8/2024-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=b0419ffe-1c1a-4581-9bce-e1c2f4db2215) — *smlouva o úvěru, postoupení pohledávky*
+- *OS v Přerově* [9 C 248/2023-35](https://rozhodnuti.justice.cz/rozhodnuti/?id=be4251d4-9a03-4ab3-9e47-46e681f0a961) — *smlouva o úvěru, elektronický podpis, insolvence, postoupení pohledávky*
 
 ### § 3020 — Registrované partnerství
 
@@ -120,11 +120,11 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Benešově* [11 C 252/2025-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBN:2025:11.C.252.2025.1) — *náklady řízení, dokazování, náhrada nákladů*
-- *OS Praha-západ* [16 C 148/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:16.C.148.2022.1) — 19. 7. 2022
-- *KS v Hradci Králové, pobočka Pardubice* [22 CO 20/2022-936](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHKPA:2022:22.Co.20.2022.1) — *dotace, peněžité plnění, svědečné, znalecký posudek*
-- *OS v Pardubicích* [10 C 30/2022-11](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2022:10.C.30.2022.1) — 5. 4. 2022
-- *OS v Pardubicích* [11 C 263/2021-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2021:11.C.263.2021.1) — 20. 12. 2021
+- *OS v Benešově* [11 C 252/2025-12](https://rozhodnuti.justice.cz/rozhodnuti/?id=18717a8a-3e54-44ad-b139-b7da2c519144) — *náklady řízení, dokazování, náhrada nákladů*
+- *OS Praha-západ* [16 C 148/2022-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=f2c6dd43-d9a7-47bf-9d1c-ab68dbdb3014) — 19. 7. 2022
+- *KS v Hradci Králové, pobočka Pardubice* [22 CO 20/2022-936](https://rozhodnuti.justice.cz/rozhodnuti/?id=69395ccb-25b8-4a2d-bd94-b3f903d78351) — *dotace, peněžité plnění, svědečné, znalecký posudek*
+- *OS v Pardubicích* [10 C 30/2022-11](https://rozhodnuti.justice.cz/rozhodnuti/?id=a07aa246-5962-4233-92df-20da758c4518) — 5. 4. 2022
+- *OS v Pardubicích* [11 C 263/2021-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd9e3e1f-5d6b-47cc-96e1-792c634d7793) — 20. 12. 2021
 
 ### § 3021 — Domácí násilí
 
@@ -416,11 +416,11 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 151/2022-186](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.151.2022.1) — 19. 1. 2023
-- *ObS pro Prahu 4* [57 C 177/2021-8](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2022:57.C.177.2021.1) — *doménové jméno, náhrada nemajetkové újmy, nemajetková újma, peněžité plnění, rehabilitac…*
-- *ObS pro Prahu 2* [22 C 122/2023-249](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:22.C.122.2023.1) — *zadostiučinění / satisfakce, duševní útrapy, nemajetková újma, ztížení společenského upl…*
-- *OS v Ostravě* [16 C 125/2018-276](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2023:16.C.125.2018.1) — *náhrada za ztrátu na výdělku, ušlý zisk, smlouva pracovní, náhrada mzdy, svědečné, boles…*
-- *KS v Praze* [73 CM 105/2021-124](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2021:73.Cm.105.2021 .1) — *bytové družstvo, družstevní byt, převod nemovitostí*
+- *VS v Praze* [9 Cmo 151/2022-186](https://rozhodnuti.justice.cz/rozhodnuti/?id=8f34db49-b021-4ebb-b529-8b8833f2f032) — 19. 1. 2023
+- *ObS pro Prahu 4* [57 C 177/2021-8](https://rozhodnuti.justice.cz/rozhodnuti/?id=2b9884cf-7957-41a3-b21b-18bfc1c239d9) — *doménové jméno, náhrada nemajetkové újmy, nemajetková újma, peněžité plnění, rehabilitac…*
+- *ObS pro Prahu 2* [22 C 122/2023-249](https://rozhodnuti.justice.cz/rozhodnuti/?id=fd5addee-21b1-4c02-9e4a-651bd1d4f6dd) — *zadostiučinění / satisfakce, duševní útrapy, nemajetková újma, ztížení společenského upl…*
+- *OS v Ostravě* [16 C 125/2018-276](https://rozhodnuti.justice.cz/rozhodnuti/?id=119e2c9d-f35d-48cd-8a00-8b0179553256) — *náhrada za ztrátu na výdělku, ušlý zisk, smlouva pracovní, náhrada mzdy, svědečné, boles…*
+- *KS v Praze* [73 CM 105/2021-124](https://rozhodnuti.justice.cz/rozhodnuti/?id=834aaa3a-2530-437e-8bb3-1bba4b33fd9b) — *bytové družstvo, družstevní byt, převod nemovitostí*
 
 ### § 3081 — Účinnost
 
@@ -432,11 +432,11 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Plzni* [14 Co 148/2024-135](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2024:14.Co.148.2024.1) — 3. 9. 2024
-- *MS v Praze* [20 CO 327/2022-297](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:20.Co.327.2022.1) — *duševní porucha, náhrada za ztrátu na výdělku, peněžité plnění, pojištění odpovědnosti z…*
-- *ObS pro Prahu 1* [30 C 116/2019](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:30.C.116.2019.1) — *majetková újma, peněžité plnění, pojištění majetku, pojištění odpovědnosti za škodu, sml…*
-- *ObS pro Prahu 1* [30 C 189/2016-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:30.C.189.2016.1) — *opilost, peněžité plnění, pojištění odpovědnosti za škodu, pracovní cesta, řidičský průk…*
-- *ObS pro Prahu 1* [64 C 88/2016](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:64.C.88.2016.1) — *duševní porucha, náhrada za ztrátu na výdělku, nemocenské dávky, obchodní podíl, peněžit…*
+- *KS v Plzni* [14 Co 148/2024-135](https://rozhodnuti.justice.cz/rozhodnuti/?id=e2e94b70-86c4-45ba-b1a2-b307e9c25dda) — 3. 9. 2024
+- *MS v Praze* [20 CO 327/2022-297](https://rozhodnuti.justice.cz/rozhodnuti/?id=90119ba8-319c-42af-bb1a-2f2c8dbb9b24) — *duševní porucha, náhrada za ztrátu na výdělku, peněžité plnění, pojištění odpovědnosti z…*
+- *ObS pro Prahu 1* [30 C 116/2019](https://rozhodnuti.justice.cz/rozhodnuti/?id=e15b0671-2fad-4a8c-bcfa-a09df2c89b4a) — *majetková újma, peněžité plnění, pojištění majetku, pojištění odpovědnosti za škodu, sml…*
+- *ObS pro Prahu 1* [30 C 189/2016-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=5727ce9e-1038-46ea-aa97-98eca89de760) — *opilost, peněžité plnění, pojištění odpovědnosti za škodu, pracovní cesta, řidičský průk…*
+- *ObS pro Prahu 1* [64 C 88/2016](https://rozhodnuti.justice.cz/rozhodnuti/?id=e8c093d4-d528-441e-ad38-f240a74b4dfc) — *duševní porucha, náhrada za ztrátu na výdělku, nemocenské dávky, obchodní podíl, peněžit…*
 
 ---
 

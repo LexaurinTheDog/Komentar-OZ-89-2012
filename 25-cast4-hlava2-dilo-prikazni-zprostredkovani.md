@@ -80,8 +80,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Hradci Králové* [13 C 127/2022-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2022:13.C.127.2022.1) — *peněžité plnění, reklama*
-- *KS v Plzni* [61 Co 183/2025-156](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:61.Co.183.2025.1) — *příslušnost soudu, výklad projevu vůle, dokazování, odvolání, smlouva o dílo, smlouva o…*
+- *OS v Hradci Králové* [13 C 127/2022-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=d564d0f3-9cd1-447b-a011-051a81787010) — *peněžité plnění, reklama*
+- *KS v Plzni* [61 Co 183/2025-156](https://rozhodnuti.justice.cz/rozhodnuti/?id=7673b2bd-34f3-47b7-bdb0-77be49ca932c) — *příslušnost soudu, výklad projevu vůle, dokazování, odvolání, smlouva o dílo, smlouva o…*
 
 ### § 2367—2370 — Odměna
 
@@ -216,11 +216,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [3 CO 82/2023-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:3.Co.82.2023.1) — *autorské dílo, rozsudek pro zmeškání*
-- *OS v Přerově* [7 C 64/2024-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:7.C.64.2024.1) — *rozsudek pro zmeškání*
-- *KS v Praze* [73 C 3/2021-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:73.C.3.2021.1) — *autorské dílo, peněžité plnění, práva související s autorským právem, smlouva licenční*
-- *OS v Přerově* [7 C 309/2021-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2022:7.C.309.2021.1) — *bezdůvodné obohacení, smlouva o úvěru, smlouva o zápůjčce*
-- *ObS pro Prahu 4* [43 C 270/2021-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:43.C.270.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *VS v Praze* [3 CO 82/2023-57](https://rozhodnuti.justice.cz/rozhodnuti/?id=3127c6f3-e720-4a13-a247-ac0d0459a4d4) — *autorské dílo, rozsudek pro zmeškání*
+- *OS v Přerově* [7 C 64/2024-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=d9f9abef-7ba7-444d-94f6-58bd171f2f31) — *rozsudek pro zmeškání*
+- *KS v Praze* [73 C 3/2021-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=875bfd12-8e95-4fa0-962d-eabd3d76bc3d) — *autorské dílo, peněžité plnění, práva související s autorským právem, smlouva licenční*
+- *OS v Přerově* [7 C 309/2021-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=3e2a229a-a9a8-46e4-ae51-c5671fcdf397) — *bezdůvodné obohacení, smlouva o úvěru, smlouva o zápůjčce*
+- *ObS pro Prahu 4* [43 C 270/2021-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=e2918042-cd2d-477e-a11d-35f32b093d55) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
 
 ---
 
@@ -404,11 +404,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 152/2024-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:29.Co.152.2024.66) — *zastavení výkonu rozhodnutí, smlouva o úschově, veřejná dražba, dražba*
-- *ObS pro Prahu 6* [27 C 462/2020-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:27.C.462.2020.1) — *peněžité plnění*
-- *OS v Havlíčkově Brodě* [18 C 6/2023-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2023:18.C.6.2023.3) — *peněžité plnění, pozůstalost, smlouva o úschově*
-- *OS v Havlíčkově Brodě* [14 C 109/2022-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2022:14.C.109.2022.3) — *peněžité plnění, pozůstalost, smlouva o úschově*
-- *ObS pro Prahu 1* [14 C 141/2018-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:14.C.141.2018.1) — *bezdůvodné obohacení, peněžité plnění, podvod, smlouva kupní, smlouva zprostředkovatelská*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 152/2024-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=4ca57706-f822-4ea9-934e-4dadae2c5130) — *zastavení výkonu rozhodnutí, smlouva o úschově, veřejná dražba, dražba*
+- *ObS pro Prahu 6* [27 C 462/2020-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=d8e32094-c4f6-4d17-ae0e-3d397412bfe8) — *peněžité plnění*
+- *OS v Havlíčkově Brodě* [18 C 6/2023-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=35386eb0-62c7-4774-89c7-2a3a1f5b3ec8) — *peněžité plnění, pozůstalost, smlouva o úschově*
+- *OS v Havlíčkově Brodě* [14 C 109/2022-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=a8d840bf-3bef-46e2-8b83-b5fe2ff279ca) — *peněžité plnění, pozůstalost, smlouva o úschově*
+- *ObS pro Prahu 1* [14 C 141/2018-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=5bb48c40-c7ea-4b2f-820c-3b16b4145891) — *bezdůvodné obohacení, peněžité plnění, podvod, smlouva kupní, smlouva zprostředkovatelská*
 
 ### § 2409—2414 — Skladování
 
@@ -448,7 +448,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [7 C 192/2023-185](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:7.C.192.2023.1) — *neplatnost právního jednání, podnájem, dlužné nájemné, notářský zápis, narovnání, znalec…*
+- *ObS pro Prahu 4* [7 C 192/2023-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=1cfd71bb-1db5-4c1b-963c-c3410db156ee) — *neplatnost právního jednání, podnájem, dlužné nájemné, notářský zápis, narovnání, znalec…*
 
 ---
 
@@ -982,11 +982,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [25 Co 137/2025-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:25.Co.137.2025.1) — *smlouva o přepravě věci, smlouva mezinárodní, držba*
-- *MS v Praze* [28 Co 416/2024-287](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:28.Co.416.2024.287) — *smlouva o dílo, peněžité plnění*
-- *KS v Plzni* [11 CO 136/2022-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:11.Co.136.2022 .1) — *náhrada nemajetkové újmy, nemajetková újma, znalecký posudek*
-- *MS v Praze* [25 Co 50/2025-155](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:25.Co.50.2025.155) — *svědek, náhrada nákladů, vady řízení, následek, odvolání, náklady řízení, odměna opatrov…*
-- *OS ve Frýdku-Místku* [119 C 5/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2025:119.C.5.2024.1) — *peněžité plnění*
+- *KS v Praze* [25 Co 137/2025-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=a7188037-f3f4-4da9-a2e3-889b55517d90) — *smlouva o přepravě věci, smlouva mezinárodní, držba*
+- *MS v Praze* [28 Co 416/2024-287](https://rozhodnuti.justice.cz/rozhodnuti/?id=814f7447-5a35-41af-94d4-b880dc0f87bd) — *smlouva o dílo, peněžité plnění*
+- *KS v Plzni* [11 CO 136/2022-399](https://rozhodnuti.justice.cz/rozhodnuti/?id=4207abc5-ba6d-4eaa-bf49-6d5333ebae23) — *náhrada nemajetkové újmy, nemajetková újma, znalecký posudek*
+- *MS v Praze* [25 Co 50/2025-155](https://rozhodnuti.justice.cz/rozhodnuti/?id=42a4d676-6dae-4c9b-bf5b-4bdd0c2383be) — *svědek, náhrada nákladů, vady řízení, následek, odvolání, náklady řízení, odměna opatrov…*
+- *OS ve Frýdku-Místku* [119 C 5/2024-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=be9e7b76-a9ea-41fc-9d42-7929d1ca6eea) — *peněžité plnění*
 
 ---
 

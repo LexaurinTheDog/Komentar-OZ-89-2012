@@ -67,7 +67,7 @@ K takovému ujednání **se nepřihlíží** (§ 554 — zdánlivé právní jed
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [25 Co 354/2024-491](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:25.Co.354.2024.491) — *odbory, znalecký posudek, náhradní pozemek, věcná břemena, právní domněnka, pozemkový úř…*
+- *MS v Praze* [25 Co 354/2024-491](https://rozhodnuti.justice.cz/rozhodnuti/?id=2e792075-9480-4d3b-84f0-1f0f3214368e) — *odbory, znalecký posudek, náhradní pozemek, věcná břemena, právní domněnka, pozemkový úř…*
 
 ---
 
@@ -113,11 +113,11 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Jeseníku* [105 C 3/2017-307](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2022:105.C.3.2017.1) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, vydržení, znalecký posudek*
-- *OS ve Znojmě* [5 C 139/2018](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:5.C.139.2018.1) — *peněžité plnění, pozemkový úřad*
-- *MS v Praze* [23 Co 296/2024-128](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:23.Co.296.2024.128) — *odpovědnost státu za škodu, korporace, ušlý zisk*
-- *KS v Hradci Králové* [25 Co 110/2024-440](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:25.Co.110.2024.1) — *způsobilost procesní, znalecký posudek, podjatost*
-- *ObS pro Prahu 8* [24 C 135/2023-218](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2025:24.C.135.2023.1) — *dokazování, obchodní rejstřík, koupě, oddělení ze spoluvlastnictví, nebytový prostor, ná…*
+- *OS v Jeseníku* [105 C 3/2017-307](https://rozhodnuti.justice.cz/rozhodnuti/?id=640c9248-b122-4d05-82fd-ee74d4b86ca4) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, vydržení, znalecký posudek*
+- *OS ve Znojmě* [5 C 139/2018](https://rozhodnuti.justice.cz/rozhodnuti/?id=54f8e3f7-6bb9-4262-9d43-34466b967872) — *peněžité plnění, pozemkový úřad*
+- *MS v Praze* [23 Co 296/2024-128](https://rozhodnuti.justice.cz/rozhodnuti/?id=cb414c53-4d9b-4129-8405-56ad2fe42108) — *odpovědnost státu za škodu, korporace, ušlý zisk*
+- *KS v Hradci Králové* [25 Co 110/2024-440](https://rozhodnuti.justice.cz/rozhodnuti/?id=d11b1300-ef3c-4050-b0a2-0fd1690ff688) — *způsobilost procesní, znalecký posudek, podjatost*
+- *ObS pro Prahu 8* [24 C 135/2023-218](https://rozhodnuti.justice.cz/rozhodnuti/?id=1080cda6-db47-4b9a-80a4-038ba07bfb61) — *dokazování, obchodní rejstřík, koupě, oddělení ze spoluvlastnictví, nebytový prostor, ná…*
 
 ---
 
@@ -175,11 +175,11 @@ Pro PO veřejného práva platí podle § 20 odst. 2 zásada **subsidiarity OZ**
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Berouně* [13 C 59/2022-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2022:13.C.59.2022.1) — 12. 4. 2022
-- *MS v Praze* [62 CO 67/2022-319](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:62.Co.67.2022.1) — *peněžité plnění, podvod, promlčení, smlouva kupní, uznání dluhu*
-- *VS v Praze* [14 Cmo 259/2021-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:14.Cmo.259.2021.1) — 24. 3. 2022
-- *VS v Praze* [19 Cmo 39/2023-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:19.Cmo.39.2023.1) — 12. 1. 2024
-- *ObS pro Prahu 1* [26 C 164/2020-160](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:26.C.164.2020.1) — *hospodářská soutěž, monopolní postavení, peněžité plnění, podjatost, rozhodčí doložka, r…*
+- *OS v Berouně* [13 C 59/2022-20](https://rozhodnuti.justice.cz/rozhodnuti/?id=9b401f19-2c2d-402c-ae8c-b27be8fe8ee4) — 12. 4. 2022
+- *MS v Praze* [62 CO 67/2022-319](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c9b2e6f-6eef-475c-ba20-07844c5db61b) — *peněžité plnění, podvod, promlčení, smlouva kupní, uznání dluhu*
+- *VS v Praze* [14 Cmo 259/2021-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=395c9efd-21a1-43e1-9926-260bfb00ad77) — 24. 3. 2022
+- *VS v Praze* [19 Cmo 39/2023-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=ddc64aee-d2cc-4100-87d9-6926b1e366af) — 12. 1. 2024
+- *ObS pro Prahu 1* [26 C 164/2020-160](https://rozhodnuti.justice.cz/rozhodnuti/?id=6a903f16-0489-4517-8c53-4fbc5556ce41) — *hospodářská soutěž, monopolní postavení, peněžité plnění, podjatost, rozhodčí doložka, r…*
 
 ---
 
@@ -306,11 +306,11 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Žďáru nad Sázavou* [7 C 18/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:7.C.18.2022.1) — *duševní porucha, jízdné, peněžité plnění, postoupení pohledávky*
-- *OS v České Lípě* [10 C 422/2022-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2023:10.C.422.2022.2) — *peněžité plnění, telekomunikace*
-- *VS v Praze* [9 Cmo 150/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.150.2022.0) — 24. 1. 2023
-- *OS v Mostě* [22 C 3/2022-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.3.2022.1) — *dodávky energie, peněžité plnění, postoupení pohledávky, znalecký posudek*
-- *KS v Ostravě, pobočka Olomouc* [69 Co 245/2025-188](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:69.Co.245.2025.188) — *náhrada nákladů, dokazování, lhůty, náklady řízení, smlouva darovací, odvolání*
+- *OS ve Žďáru nad Sázavou* [7 C 18/2022-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=30fc3119-35b9-45dc-bdd6-5f5c3d74ded1) — *duševní porucha, jízdné, peněžité plnění, postoupení pohledávky*
+- *OS v České Lípě* [10 C 422/2022-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=f74803e2-7e54-43ba-a2a0-97d9e2fd931c) — *peněžité plnění, telekomunikace*
+- *VS v Praze* [9 Cmo 150/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=195b8127-04d5-4d19-9771-e9b9b0d03856) — 24. 1. 2023
+- *OS v Mostě* [22 C 3/2022-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=00779750-7537-4bb1-a242-d8fe07165869) — *dodávky energie, peněžité plnění, postoupení pohledávky, znalecký posudek*
+- *KS v Ostravě, pobočka Olomouc* [69 Co 245/2025-188](https://rozhodnuti.justice.cz/rozhodnuti/?id=6d844381-e601-47f2-b425-c4d3237c34ca) — *náhrada nákladů, dokazování, lhůty, náklady řízení, smlouva darovací, odvolání*
 
 ---
 
@@ -334,11 +334,11 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [26 CO 79/2022-363](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.79.2022.1) — *družstevní byt, dlužné platby spojené s užíváním bytu, peněžité plnění, poplatek z prodl…*
-- *OS v Mostě* [46 C 80/2020-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2021:46.C.80.2020.6) — *bezdůvodné obohacení, duševní porucha, peněžité plnění, postoupení pohledávky, smlouva o…*
-- *OS v Novém Jičíně* [7 C 83/2024-7](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:7.C.83.2024.1) — *veřejný rejstřík, zastavení řízení*
-- *OS v Novém Jičíně* [14 C 81/2024-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:14.C.81.2024.1) — *veřejný rejstřík, zastavení řízení*
-- *OS v Novém Jičíně* [14 C 50/2024-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:14.C.50.2024.1) — *veřejný rejstřík, zastavení řízení*
+- *KS v Hradci Králové* [26 CO 79/2022-363](https://rozhodnuti.justice.cz/rozhodnuti/?id=cae8173f-6903-479e-85b0-f498d1f6a6fd) — *družstevní byt, dlužné platby spojené s užíváním bytu, peněžité plnění, poplatek z prodl…*
+- *OS v Mostě* [46 C 80/2020-100](https://rozhodnuti.justice.cz/rozhodnuti/?id=0b4b91ad-dcbb-4f07-b7e2-ca9e302fe64a) — *bezdůvodné obohacení, duševní porucha, peněžité plnění, postoupení pohledávky, smlouva o…*
+- *OS v Novém Jičíně* [7 C 83/2024-7](https://rozhodnuti.justice.cz/rozhodnuti/?id=14f9cb4e-f416-4b34-b7a6-e68091cc23d6) — *veřejný rejstřík, zastavení řízení*
+- *OS v Novém Jičíně* [14 C 81/2024-2](https://rozhodnuti.justice.cz/rozhodnuti/?id=8e9e9506-dffa-4933-9e8d-d0b6d1bcab7e) — *veřejný rejstřík, zastavení řízení*
+- *OS v Novém Jičíně* [14 C 50/2024-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=c1127836-695b-44c2-9de8-407a86013fbc) — *veřejný rejstřík, zastavení řízení*
 
 ---
 
@@ -366,10 +366,10 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 2* [28 C 53/2022-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2023:28.C.53.2022.4) — *nemajetková újma, peněžité plnění, zadostiučinění / satisfakce*
-- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.300.2019.1) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
-- *OS v Litoměřicích* [7 C 31/2025-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2025:7.C.31.2025.1) — *smlouva o dílo*
-- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
+- *ObS pro Prahu 2* [28 C 53/2022-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=d69eaa5f-280c-4130-b8ac-b3057df5906d) — *nemajetková újma, peněžité plnění, zadostiučinění / satisfakce*
+- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=32bc6e1b-ef6b-410a-bce4-c41deb3929a6) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
+- *OS v Litoměřicích* [7 C 31/2025-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=8c193ba4-7e06-4bf5-b389-692d2845e905) — *smlouva o dílo*
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=7a44b285-f1fe-4fc0-9df2-dfda42829e99) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
 
 ---
 
@@ -390,7 +390,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=7a44b285-f1fe-4fc0-9df2-dfda42829e99) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
 
 ---
 
@@ -408,9 +408,9 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [12 Cmo 183/2024-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:12.Cmo.183.2024.1) — 28. 1. 2025
-- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.300.2019.1) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
-- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
+- *VS v Praze* [12 Cmo 183/2024-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=9be35b42-747f-479e-9c4b-35916ac52f28) — 28. 1. 2025
+- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=32bc6e1b-ef6b-410a-bce4-c41deb3929a6) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=7a44b285-f1fe-4fc0-9df2-dfda42829e99) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
 
 ---
 
@@ -521,9 +521,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [30 C 77/2020-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:30.C.77.2020.1) — *peněžité plnění*
-- *OS Praha-východ* [22 C 201/2023-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:22.C.201.2023.88) — *pozůstalost, započtení pohledávky, správce pozůstalosti, bezdůvodné obohacení*
-- *OS v Chomutově* [28 C 268/2021-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2022:28.C.268.2021.1) — *peněžité plnění, smlouva o výpůjčce*
+- *ObS pro Prahu 4* [30 C 77/2020-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=795a7ce1-1c77-43e8-ac49-e47ab7c15197) — *peněžité plnění*
+- *ObS pro Prahu 5* [25 C 90/2024-74](https://rozhodnuti.justice.cz/rozhodnuti/?id=960eca9f-697f-4051-a4e3-16d409d870fa) — *smlouva zástavní, vlastnictví bytů, zástavní právo*
+- *OS Praha-východ* [22 C 201/2023-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=08d31673-ace5-4bd9-b827-fbef01bcf7cf) — *pozůstalost, započtení pohledávky, správce pozůstalosti, bezdůvodné obohacení*
+- *OS v Chomutově* [28 C 268/2021-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=95a58f60-388d-430c-a210-f834630f89ce) — *peněžité plnění, smlouva o výpůjčce*
 
 ---
 
@@ -551,7 +552,8 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-západ* [16 C 287/2015](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:16.C.287.2015.1) — *obchodní podíl, peněžité plnění, ručení, znalecký posudek*
+- *OS Praha-západ* [16 C 287/2015](https://rozhodnuti.justice.cz/rozhodnuti/?id=493712f6-1f21-470b-b311-0a9660bdb176) — *obchodní podíl, peněžité plnění, ručení, znalecký posudek*
+- *ObS pro Prahu 5* [25 C 90/2024-74](https://rozhodnuti.justice.cz/rozhodnuti/?id=960eca9f-697f-4051-a4e3-16d409d870fa) — *smlouva zástavní, vlastnictví bytů, zástavní právo*
 
 ---
 
@@ -613,11 +615,11 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Plzeň-město* [35 C 31/2011-865](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2023:35.C.31.2011.1) — *dotace, neplatnost právního úkonu, odstoupení od smlouvy, peněžité plnění, rozsudek mezi…*
-- *KS v Hradci Králové* [47 Co 191/2024-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:47.Co.191.2024.1) — *odstupné, odstoupení od smlouvy*
-- *OS v Rychnově nad Kněžnou* [10 C 96/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2023:10.C.96.2023.1) — *peněžité plnění, smlouva darovací, věcná břemena, vrácení daru*
-- *OS v Jičíně* [5 C 144/2022-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:5.C.144.2022.1) — *peněžité plnění*
-- *KS v Plzni* [10 Co 850/2024-150](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2024:10.Co.850.2024.1) — *bolestné, prohlášení o majetku, pracovní způsobilost, majetková újma, nemajetková újma,…*
+- *OS Plzeň-město* [35 C 31/2011-865](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d5a0218-d998-44e0-8f9d-cc8eb49b75cf) — *dotace, neplatnost právního úkonu, odstoupení od smlouvy, peněžité plnění, rozsudek mezi…*
+- *KS v Hradci Králové* [47 Co 191/2024-109](https://rozhodnuti.justice.cz/rozhodnuti/?id=dbd21775-7742-46d4-92d7-09878d8f608e) — *odstupné, odstoupení od smlouvy*
+- *OS v Rychnově nad Kněžnou* [10 C 96/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=0854570a-dbbd-40cf-95c6-e0865d110154) — *peněžité plnění, smlouva darovací, věcná břemena, vrácení daru*
+- *OS v Jičíně* [5 C 144/2022-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=306f8d39-7efa-4c85-b44d-0158fee04c15) — *peněžité plnění*
+- *KS v Plzni* [10 Co 850/2024-150](https://rozhodnuti.justice.cz/rozhodnuti/?id=b96fbb2e-7dc6-4f9a-b1f9-f764ab3ca96f) — *bolestné, prohlášení o majetku, pracovní způsobilost, majetková újma, nemajetková újma,…*
 
 ---
 

@@ -140,11 +140,11 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Zlíně* [44 C 258/2025-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2025:44.C.258.2025.1) — *smlouva nájemní*
-- *ObS pro Prahu 2* [19 C 101/2020-207](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:19.C.101.2020.1) — *jednatel, postoupení pohledávky, náhrada nákladů, smlouva nájemní, dokazování, lhůty, ná…*
-- *MS v Praze* [14 Co 365/2024-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:14.Co.365.2024.82) — *dlužné nájemné, nebytový prostor, smlouva nájemní*
-- *ObS pro Prahu 10* [5 C 149/2023-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2024:5.C.149.2023.129) — *nebytový prostor, dlužné nájemné, výpověď z nájmu, smlouva nájemní*
-- *OS Plzeň-město* [16 C 65/2023-31](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2023:16.C.65.2023.1) — *pojištění úvěru, smluvní pokuta*
+- *OS ve Zlíně* [44 C 258/2025-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=30e404be-0d9c-4f38-9379-904c6e70feee) — *smlouva nájemní*
+- *ObS pro Prahu 2* [19 C 101/2020-207](https://rozhodnuti.justice.cz/rozhodnuti/?id=a122edb8-2bb6-4ec6-8cda-7be03524301d) — *jednatel, postoupení pohledávky, náhrada nákladů, smlouva nájemní, dokazování, lhůty, ná…*
+- *MS v Praze* [14 Co 365/2024-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=6086ac88-b4b7-4125-8749-951c8e4a2ea9) — *dlužné nájemné, nebytový prostor, smlouva nájemní*
+- *ObS pro Prahu 10* [5 C 149/2023-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b0a42a7-5e12-49eb-8cbb-8ffd80a620fa) — *nebytový prostor, dlužné nájemné, výpověď z nájmu, smlouva nájemní*
+- *OS Plzeň-město* [16 C 65/2023-31](https://rozhodnuti.justice.cz/rozhodnuti/?id=dafd8b72-9fcc-4a48-8f0e-40e9088d1c06) — *pojištění úvěru, smluvní pokuta*
 
 ### § 2219—2220 — Drobné opravy
 
@@ -1111,10 +1111,10 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kroměříži* [18 C 254/2023-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKM:2023:18.C.254.2023.1) — *peněžité plnění, uznání dluhu*
-- *OS v Karviné, pobočka Havířov* [106 C 329/2020-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2020:106.C.329.2020.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, poučovací povinnost soudu,…*
-- *KS v Ostravě, pobočka Olomouc* [69 CO 251/2022-153](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOSOL:2023:69.Co.251.2022.1) — *odstoupení od smlouvy, odstupné, peněžité plnění, smlouva o zájezdu*
-- *OS v Karviné* [115 C 195/2024-223](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2024:115.C.195.2024.1) — *příspěvek na bydlení, jízdné*
+- *OS v Kroměříži* [18 C 254/2023-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=0e379e98-41de-4927-a846-17ea462405ce) — *peněžité plnění, uznání dluhu*
+- *OS v Karviné, pobočka Havířov* [106 C 329/2020-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc3863df-20d2-4477-8117-0e254304d06f) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, poučovací povinnost soudu,…*
+- *KS v Ostravě, pobočka Olomouc* [69 CO 251/2022-153](https://rozhodnuti.justice.cz/rozhodnuti/?id=828812d0-445a-466d-8f22-3551dcbdf96f) — *odstoupení od smlouvy, odstupné, peněžité plnění, smlouva o zájezdu*
+- *OS v Karviné* [115 C 195/2024-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=20c58ec5-75a1-467e-a52c-e52e5e7471e8) — *příspěvek na bydlení, jízdné*
 
 ---
 

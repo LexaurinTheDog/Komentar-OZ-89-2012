@@ -37,8 +37,8 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Hradci Králové* [21 CO 246/2022-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:21.Co.246.2022.1) — *dražba, peněžité plnění, podílové spoluvlastnictví, smlouva kupní, smlouva nájemní, spol…*
-- *ObS pro Prahu 9* [67 C 96/2023-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2023:67.C.96.2023.1) — *peněžité plnění, popření otcovství, porod, právní domněnka, výživné*
+- *KS v Hradci Králové* [21 CO 246/2022-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=49bac1a8-c2bb-4be2-a66b-a6c0d29b41c7) — *dražba, peněžité plnění, podílové spoluvlastnictví, smlouva kupní, smlouva nájemní, spol…*
+- *ObS pro Prahu 9* [67 C 96/2023-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=6548d8ae-bcb8-4427-b669-1be70e7284cf) — *peněžité plnění, popření otcovství, porod, právní domněnka, výživné*
 
 ### § 772—773 — Linie a stupně příbuzenství
 
@@ -75,11 +75,11 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Jablonci nad Nisou* [10 C 236/2022-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2022:10.C.236.2022.1) — *jízdné, peněžité plnění*
-- *ObS pro Prahu 8* [16 C 57/2016](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:16.C.57.2016.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, osoba blízká, pojištění odpo…*
-- *OS v Jablonci nad Nisou* [10 C 160/2021-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2021:10.C.160.2021.1) — *peněžité plnění*
-- *OS v Opavě* [16 C 43/2024-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2024:16.C.43.2024.1) — *postoupení smlouvy, jízdné*
-- *OS v Opavě* [16 C 228/2023-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2024:16.C.228.2023.1) — *jízdné, postoupení smlouvy*
+- *OS v Jablonci nad Nisou* [10 C 236/2022-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=266c50c4-ad10-4680-ae49-295f84455cda) — *jízdné, peněžité plnění*
+- *ObS pro Prahu 8* [16 C 57/2016](https://rozhodnuti.justice.cz/rozhodnuti/?id=c21ae54a-2cbc-4c1b-be98-5bc2e13b0111) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, osoba blízká, pojištění odpo…*
+- *OS v Jablonci nad Nisou* [10 C 160/2021-17](https://rozhodnuti.justice.cz/rozhodnuti/?id=304b0fce-2d3d-4d57-aa83-e2d314ce8044) — *peněžité plnění*
+- *OS v Opavě* [16 C 43/2024-63](https://rozhodnuti.justice.cz/rozhodnuti/?id=3262ab97-0475-4b1d-95b7-b35b2ad63604) — *postoupení smlouvy, jízdné*
+- *OS v Opavě* [16 C 228/2023-76](https://rozhodnuti.justice.cz/rozhodnuti/?id=1a15ba4b-682e-456d-868e-64cc8350750b) — *jízdné, postoupení smlouvy*
 
 ### § 774 — Švagrovství
 
@@ -127,11 +127,11 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Tachově* [19 C 63/2024-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTC:2024:19.C.63.2024.1) — *bezdůvodné obohacení, smlouva nájemní, nebytový prostor*
-- *ObS pro Prahu 7* [29 C 86/2016-393](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2022:29.C.86.2016.1) — *místní příslušnost, náhrada nemajetkové újmy, nemajetková újma, odpovědnost státu za ško…*
-- *OS v Jablonci nad Nisou* [6 C 21/2023-46](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2024:6.C.21.2023.1) — *rozvod manželství, výživné, rodinná domácnost*
-- *OS v Karviné* [28 C 218/2023-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:28.C.218.2023.1) — *rozvod manželství*
-- *OS v Karviné* [28 C 111/2023-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:28.C.111.2023.1) — *rozvod manželství*
+- *OS v Tachově* [19 C 63/2024-17](https://rozhodnuti.justice.cz/rozhodnuti/?id=99595bf4-b2d6-4f13-8cf9-863259cce392) — *bezdůvodné obohacení, smlouva nájemní, nebytový prostor*
+- *ObS pro Prahu 7* [29 C 86/2016-393](https://rozhodnuti.justice.cz/rozhodnuti/?id=c955a86d-4ff6-4004-8ea2-744dc86628f5) — *místní příslušnost, náhrada nemajetkové újmy, nemajetková újma, odpovědnost státu za ško…*
+- *OS v Jablonci nad Nisou* [6 C 21/2023-46](https://rozhodnuti.justice.cz/rozhodnuti/?id=b77ef499-5ff6-4471-a226-08de69fac169) — *rozvod manželství, výživné, rodinná domácnost*
+- *OS v Karviné* [28 C 218/2023-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=d53de8ca-a887-431c-a4a7-40c2bfbc0964) — *rozvod manželství*
+- *OS v Karviné* [28 C 111/2023-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=e30a9f9b-570a-47b9-90c6-e69e8833de95) — *rozvod manželství*
 
 ### Otcovství — tři domněnky (§ 776—783)
 
@@ -389,11 +389,11 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Ostravě* [40 C 488/2024-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2025:40.C.488.2024.1) — *výživné, zrušení výživného, rodičovská odpovědnost, osvojení zletilého, osvojení*
-- *OS v Rokycanech* [13 C 47/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRO:2024:13.C.47.2024.1) — *odbory, osvojení, osvojení zletilého*
-- *OS Praha-západ* [7 C 40/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:7.C.40.2022.1) — *osvojení*
-- *OS ve Frýdku-Místku* [19 C 207/2021-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2022:19.C.207.2021.1) — *osvojení zletilého*
-- *OS v Jihlavě* [20 C 216/2025-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2025:20.C.216.2025.1) — *osvojení, náhrada nákladů, osvojení zletilého, dokazování, náklady řízení*
+- *OS v Ostravě* [40 C 488/2024-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc79e690-4c3c-402a-901b-11b70d7dfba4) — *výživné, zrušení výživného, rodičovská odpovědnost, osvojení zletilého, osvojení*
+- *OS v Rokycanech* [13 C 47/2024-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=cf38da74-61de-498a-9d35-adee1250c5e9) — *odbory, osvojení, osvojení zletilého*
+- *OS Praha-západ* [7 C 40/2022-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=e82052df-fd00-4a8c-b8b3-be1a5c70c272) — *osvojení*
+- *OS ve Frýdku-Místku* [19 C 207/2021-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=3bca45a9-166c-4a97-9f63-99a517dfd936) — *osvojení zletilého*
+- *OS v Jihlavě* [20 C 216/2025-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=c46f6ece-f91d-40ec-92de-46d5aa7e6033) — *osvojení, náhrada nákladů, osvojení zletilého, dokazování, náklady řízení*
 
 #### § 799—803 — Předpoklady osvojitele a osvojence
 
@@ -432,11 +432,11 @@ Při osvojení jednou osobou (jiným než manželem rodiče) soud **vypustí zá
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Nymburce* [5 C 260/2022-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2023:5.C.260.2022.3) — *osvojení, určení rodičovství*
-- *OS v Kladně* [19 C 48/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:19.C.48.2021.1) — *osvojení, určení rodičovství*
-- *OS v Liberci* [9 C 1/2025-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:9.C.1.2025.1) — *osvojení zletilého, osvojení*
-- *ObS pro Prahu 5* [13 C 529/2024-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:13.C.529.2024.1) — *osvojení*
-- *OS v Jablonci nad Nisou* [6 C 56/2020-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2021:6.C.56.2020.1) — *peněžité plnění*
+- *OS v Nymburce* [5 C 260/2022-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9376fd7-1f76-4261-9001-e0a3ef361c44) — *osvojení, určení rodičovství*
+- *OS v Kladně* [19 C 48/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=6ee0c501-1755-4184-a8cd-be58803e1eb9) — *osvojení, určení rodičovství*
+- *OS v Liberci* [9 C 1/2025-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=658e452c-7eb1-44fa-8a7b-a7f515e13fab) — *osvojení zletilého, osvojení*
+- *ObS pro Prahu 5* [13 C 529/2024-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=b4bcec16-5240-4505-a4dd-855cbe2d34ce) — *osvojení*
+- *OS v Jablonci nad Nisou* [6 C 56/2020-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=e24ef288-7b8e-44fb-8853-007fa9ea5c4c) — *peněžité plnění*
 
 ### Pododdíl 2 — Souhlas s osvojením (§ 804—818)
 
@@ -511,11 +511,11 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 2* [11 C 122/2021-89](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2023:11.C.122.2021.1) — *náhrada nemajetkové újmy, nemajetková újma, notářský zápis, odpovědnost státu za škodu,…*
-- *ObS pro Prahu 4* [11 C 117/2024-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:11.C.117.2024.1) — *rodičovská odpovědnost, osvojení*
-- *OS v Ostravě* [54 C 171/2020-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:54.C.171.2020.4) — *osvojení, rozvod manželství, výživné*
-- *OS v Ostravě* [34 C 184/2021-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:34.C.184.2021.1) — *osvojení, pěstounská péče, ústavní výchova, výživné*
-- *OS v Ostravě* [34 C 222/2021-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:34.C.222.2021.1) — *osvojení, rozvod manželství, výživné*
+- *ObS pro Prahu 2* [11 C 122/2021-89](https://rozhodnuti.justice.cz/rozhodnuti/?id=47a4e001-d5b8-4c9a-8114-f05746b90f83) — *náhrada nemajetkové újmy, nemajetková újma, notářský zápis, odpovědnost státu za škodu,…*
+- *ObS pro Prahu 4* [11 C 117/2024-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=2235f1f6-fe89-4505-8a2a-df4be62ff925) — *rodičovská odpovědnost, osvojení*
+- *OS v Ostravě* [54 C 171/2020-61](https://rozhodnuti.justice.cz/rozhodnuti/?id=fff86f7f-618e-4c21-9578-51c25a9d8c74) — *osvojení, rozvod manželství, výživné*
+- *OS v Ostravě* [34 C 184/2021-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=cf794baf-1f39-43d2-9c08-f1ddddf490e7) — *osvojení, pěstounská péče, ústavní výchova, výživné*
+- *OS v Ostravě* [34 C 222/2021-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b1bc086-f437-4069-803c-d8141734a994) — *osvojení, rozvod manželství, výživné*
 
 #### § 840—845 — Utajení a dohled
 
@@ -561,7 +561,7 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [2 Cmo 360/2020-189](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.360.2020.1) — 6. 4. 2021
+- *VS v Praze* [2 Cmo 360/2020-189](https://rozhodnuti.justice.cz/rozhodnuti/?id=75256115-714d-407f-a106-dc0b848d6217) — 6. 4. 2021
 
 ### Pododdíl 5 — Osvojení zletilého (§ 846—854)
 
@@ -613,11 +613,11 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kladně* [33 C 27/2025-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:33.C.27.2025.1) — *dokazování, náklady řízení, náhrada nákladů*
-- *OS Plzeň-jih* [8 C 317/2024-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPJ:2025:8.C.317.2024.1) — *odbory, osvojení, výživné*
-- *OS v Ostravě* [34 C 640/2024-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2025:34.C.640.2024.1) — *osvojení, výživné*
-- *OS v Teplicích* [25 C 141/2024-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTP:2024:25.C.141.2024.1) — *osvojení zletilého, osvojení, odbory*
-- *OS v Domažlicích* [17 C 114/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDO:2024:17.C.114.2024.1) — *osvojení zletilého, státní občanství*
+- *OS v Kladně* [33 C 27/2025-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=012260cd-78e5-4c0f-a221-76a1e2d1e0a0) — *dokazování, náklady řízení, náhrada nákladů*
+- *OS Plzeň-jih* [8 C 317/2024-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=ecabcbcb-e602-4c57-88e5-a0142e313d49) — *odbory, osvojení, výživné*
+- *OS v Ostravě* [34 C 640/2024-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=acc7d154-a412-4b43-b145-d502f6eff555) — *osvojení, výživné*
+- *OS v Teplicích* [25 C 141/2024-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=90cca1b9-9226-4daf-8f7b-b330d86d5bfb) — *osvojení zletilého, osvojení, odbory*
+- *OS v Domažlicích* [17 C 114/2024-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=44e9bba5-0d47-42ee-982b-67289d87319a) — *osvojení zletilého, státní občanství*
 
 #### § 853—854 — Osvojení bez obdoby nezletilého
 

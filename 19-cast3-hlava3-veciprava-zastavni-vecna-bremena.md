@@ -51,11 +51,11 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:26.Co.28.2024.1) — *odbory, právo stavby*
-- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:22.C.85.2023.71) — *právo stavby*
-- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:76.C.6.2025.1) — *věcná břemena, soukromá listina, právo stavby*
-- *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:27.Co.264.2024.1) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
-- *OS Praha-východ* [36 C 92/2022-126](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:36.C.92.2022.1) — *veřejný rejstřík, spoluvlastnictví, právo stavby, podílové spoluvlastnictví, neplatnost…*
+- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/rozhodnuti/?id=1981d8d2-e786-4585-b8fc-4c9b612990bf) — *odbory, právo stavby*
+- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=c40ee580-ef5d-49bb-9380-fcb1608dda99) — *právo stavby*
+- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
+- *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
+- *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=91a56444-746e-4693-8da4-f702298eb03b) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
 
 ### § 1241 — Vyloučení a souhlas zástavního věřitele
 
@@ -69,7 +69,7 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:76.C.6.2025.1) — *věcná břemena, soukromá listina, právo stavby*
+- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
 
 ### § 1242 — Právní povaha
 
@@ -90,11 +90,11 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [14 CO 6/2023-294](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.CO.6.2023.1) — *jízdné, peněžité plnění, právo stavby, zastavení řízení, znalecký posudek*
-- *ObS pro Prahu 4* [38 C 47/2020-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2022:38.C.47.2020.1) — *odstoupení od smlouvy, peněžité plnění, právo stavby, rozsudek mezitímní, smlouva o úvěr…*
-- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:22.C.85.2023.71) — *právo stavby*
-- *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:27.Co.264.2024.1) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
-- *KS v Praze* [27 Co 273/2025-286](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:27.Co.273.2025.1) — *pozemní komunikace, smlouva o smlouvě budoucí, náklady řízení, odvolání, smlouva kupní,…*
+- *KS v Brně* [14 CO 6/2023-294](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc0ab25d-8ca6-4203-8803-145db021337f) — *jízdné, peněžité plnění, právo stavby, zastavení řízení, znalecký posudek*
+- *ObS pro Prahu 4* [38 C 47/2020-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=aaa5337d-7064-4486-a0ab-85d452e943a6) — *odstoupení od smlouvy, peněžité plnění, právo stavby, rozsudek mezitímní, smlouva o úvěr…*
+- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=c40ee580-ef5d-49bb-9380-fcb1608dda99) — *právo stavby*
+- *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
+- *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=91a56444-746e-4693-8da4-f702298eb03b) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
 
 ---
 
@@ -116,11 +116,11 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 4* [38 C 47/2020-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2022:38.C.47.2020.1) — *odstoupení od smlouvy, peněžité plnění, právo stavby, rozsudek mezitímní, smlouva o úvěr…*
-- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:26.Co.28.2024.1) — *odbory, právo stavby*
-- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:22.C.85.2023.71) — *právo stavby*
-- *KS v Ostravě, pobočka Olomouc* [69 CO 219/2022-308](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOSOL:2022:69.Co.219.2022.1) — *bezdůvodné obohacení, dražba, oddlužení, peněžité plnění, smlouva nájemní*
-- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:76.C.6.2025.1) — *věcná břemena, soukromá listina, právo stavby*
+- *ObS pro Prahu 4* [38 C 47/2020-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=aaa5337d-7064-4486-a0ab-85d452e943a6) — *odstoupení od smlouvy, peněžité plnění, právo stavby, rozsudek mezitímní, smlouva o úvěr…*
+- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/rozhodnuti/?id=1981d8d2-e786-4585-b8fc-4c9b612990bf) — *odbory, právo stavby*
+- *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=c40ee580-ef5d-49bb-9380-fcb1608dda99) — *právo stavby*
+- *KS v Ostravě, pobočka Olomouc* [69 CO 219/2022-308](https://rozhodnuti.justice.cz/rozhodnuti/?id=5111f166-615f-4cd0-8d55-7c2d270a02c5) — *bezdůvodné obohacení, dražba, oddlužení, peněžité plnění, smlouva nájemní*
+- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
 
 ### § 1244 — Doba trvání
 
@@ -139,11 +139,11 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:26.Co.28.2024.1) — *odbory, právo stavby*
-- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:76.C.6.2025.1) — *věcná břemena, soukromá listina, právo stavby*
-- *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBV:2022:9.C.179.2020.1) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
-- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.209.2022.2) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
-- *OS v Olomouci* [25 C 259/2020-236](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2021:25.C.259.2020.8) — *dražba, exekuce, insolvence, insolvenční návrh, korporace, oddlužení, peněžité plnění, p…*
+- *KS v Praze* [26 Co 28/2024-123](https://rozhodnuti.justice.cz/rozhodnuti/?id=1981d8d2-e786-4585-b8fc-4c9b612990bf) — *odbory, právo stavby*
+- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
+- *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
+- *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=51798e49-6adc-45be-a749-87ee2c6505ad) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
+- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
 
 ### § 1245—1246 — Změna doby, zákaz rozvazovací podmínky
 
@@ -156,6 +156,10 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **§ 1246 — Zákaz rozvazovací podmínky**: Právo stavby **nesmí být zatíženo rozvazovací podmínkou** (např. „právo stavby zaniká, pokud stavebník zaplatí v cizí měně") — jinak by se zhoršila právní jistota. K takové podmínce se **nepřihlíží** (nezpůsobuje neplatnost celé smlouvy, jen ta podmínka je ignorována).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-západ* [36 C 89/2023-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ae9c03c-1420-4e99-a6b9-63ecb028a2c5) — *vrácení daru, smlouva kupní, společné jmění manželů, pozůstalost, jmění, právo stavby, s…*
+
 ### § 1247 — Stavební plat
 
 > Bylo-li právo stavby zřízeno za úplatu a ujednala-li se úplata v opětujících se dávkách jako stavební plat, zatěžuje právo stavby jako reálné břemeno.
@@ -165,6 +169,10 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 **Stavební plat** (*Bauzins*) — periodické peněžní plnění stavebníka vlastníku pozemku. **Je-li ujednáno periodicky, kvalifikuje se automaticky jako reálné břemeno** (§ 1303 a násl.) → vázne věcněprávně na právu stavby, **přechází na nabyvatele**, lze vymáhat z výtěžku zpeněžení (paralela ke splátkám u real estate ground rent v anglosaském právu).
 
 **Inflační doložky**: závislost výše stavebního platu na inflaci (CPI, *jednoznačný index*) je **přípustná**, ale obecná závislost na „nejisté budoucí události" (např. „výše platu odvodím od ceny ropy") je **zakázána** a nepřihlíží se k ní.
+
+**Judikatura (z místních zdrojů):**
+
+- *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
 
 ### § 1248—1249 — Vzdání se a zánik před uplynutím doby
 
@@ -179,9 +187,9 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.209.2022.2) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
-- *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.Co.253.2021.1) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
-- *OS v Břeclavi* [11 C 256/2020-435](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBV:2023:11.C.256.2020.1) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
+- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
+- *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d85e204-57da-48e9-9fed-494e3b29f2b8) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
+- *OS v Břeclavi* [11 C 256/2020-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=8beae06c-08fb-40fa-b172-59e601e025ab) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
 
 ---
 
@@ -212,7 +220,7 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kolíně* [18 C 81/2022-157](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKO:2023:18.C.81.2022.1) — *výprosa, osobní služebnost, smlouva kupní, pravá držba, vydržení, notářský zápis, odbory…*
+- *OS v Kolíně* [18 C 81/2022-157](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f5e8ce1-7cb8-4488-8f57-7fcf73d95791) — *výprosa, osobní služebnost, smlouva kupní, pravá držba, vydržení, notářský zápis, odbory…*
 
 ### § 1252—1254 — Dispozice, dědictví, předkupní právo
 
@@ -240,11 +248,11 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:76.C.6.2025.1) — *věcná břemena, soukromá listina, právo stavby*
-- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.209.2022.2) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
-- *OS v Kroměříži* [5 C 265/2021-144](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKM:2022:5.C.265.2021.7) — *obchodní společnost, peněžité plnění, právo stavby, předkupní právo, služebnost, smlouva…*
-- *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:69.Co.190.2025.267) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
-- *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.Co.253.2021.1) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
+- *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
+- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
+- *OS v Kroměříži* [5 C 265/2021-144](https://rozhodnuti.justice.cz/rozhodnuti/?id=1e8166fa-3a89-4f48-892b-5e25be624fa5) — *obchodní společnost, peněžité plnění, právo stavby, předkupní právo, služebnost, smlouva…*
+- *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9c3201d-d738-4610-b5cb-92932974da99) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
+- *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d85e204-57da-48e9-9fed-494e3b29f2b8) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
 
 ### § 1255—1256 — Náhrada při zániku
 
@@ -266,11 +274,11 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [14 CO 6/2023-294](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.CO.6.2023.1) — *jízdné, peněžité plnění, právo stavby, zastavení řízení, znalecký posudek*
-- *OS v Liberci* [24 C 195/2021-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2022:24.C.195.2021.1) — *peněžité plnění, služebnost, smlouva kupní, věcná břemena*
-- *KS v Brně* [59 CO 145/2022-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:59.Co.145.2022.1) — *dědění, peněžité plnění, postoupení pohledávky, právo stavby, předkupní právo, převod vl…*
-- *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBV:2022:9.C.179.2020.1) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
-- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.209.2022.2) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
+- *KS v Brně* [14 CO 6/2023-294](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc0ab25d-8ca6-4203-8803-145db021337f) — *jízdné, peněžité plnění, právo stavby, zastavení řízení, znalecký posudek*
+- *OS v Liberci* [24 C 195/2021-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=9ba4d400-cd3e-4145-b190-96fd6844bcf0) — *peněžité plnění, služebnost, smlouva kupní, věcná břemena*
+- *KS v Brně* [59 CO 145/2022-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=7045319b-11cf-428b-bbe2-4dab220789b8) — *dědění, peněžité plnění, postoupení pohledávky, právo stavby, předkupní právo, převod vl…*
+- *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=51798e49-6adc-45be-a749-87ee2c6505ad) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
+- *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
 
 ---
 
@@ -366,11 +374,11 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Českých Budějovicích* [7 Co 608/2025-420](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:7.Co.608.2025.1) — *služebnost, smlouva kupní, mimořádné vydržení, vydržení, stavba nepovolená, stavba neopr…*
-- *KS v Hradci Králové* [25 Co 178/2025-315](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:25.Co.178.2025.1) — *pozemková služebnost, služebnost, věcná břemena, spoluvlastnictví, dotace*
-- *OS ve Frýdku-Místku* [8 C 281/2022-209](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2025:8.C.281.2022.1) — *služebnost, věcná břemena*
-- *OS v Kutné Hoře* [9 C 35/2016-933](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2021:9.C.35.2016.1) — *právní domněnka, pozemní komunikace, pozemková služebnost, služebnost, věcná břemena, sm…*
-- *KS v Ostravě* [71 Co 71/2022-693](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:71.Co.71.2022.1) — *služebnost, stavba neoprávněná, lhůty, následek, rozsudek doplňující, právo stavby, věcn…*
+- *KS v Českých Budějovicích* [7 Co 608/2025-420](https://rozhodnuti.justice.cz/rozhodnuti/?id=333f417f-aca3-4e38-827e-88e02cbbe412) — *služebnost, smlouva kupní, mimořádné vydržení, vydržení, stavba nepovolená, stavba neopr…*
+- *KS v Hradci Králové* [25 Co 178/2025-315](https://rozhodnuti.justice.cz/rozhodnuti/?id=f29dacc8-ea03-4618-ae6a-0a1ff51a58b9) — *pozemková služebnost, služebnost, věcná břemena, spoluvlastnictví, dotace*
+- *OS ve Frýdku-Místku* [8 C 281/2022-209](https://rozhodnuti.justice.cz/rozhodnuti/?id=499abbf4-4189-460a-acdd-b95a3dd8e538) — *služebnost, věcná břemena*
+- *OS v Kutné Hoře* [9 C 35/2016-933](https://rozhodnuti.justice.cz/rozhodnuti/?id=c1425507-518d-4f6f-898d-507515942cd0) — *právní domněnka, pozemní komunikace, pozemková služebnost, služebnost, věcná břemena, sm…*
+- *KS v Ostravě* [71 Co 71/2022-693](https://rozhodnuti.justice.cz/rozhodnuti/?id=5a781b4a-d479-44f1-8c4f-72b0708288eb) — *služebnost, stavba neoprávněná, lhůty, následek, rozsudek doplňující, právo stavby, věcn…*
 
 ### § 1262 — Zápis do veřejného seznamu
 
@@ -396,11 +404,11 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [15 Co 69/2024-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:15.Co.69.2024.1) — *služebnost, držba, věcná břemena, smlouva kupní, pozemní komunikace*
-- *OS Praha-východ* [7 C 187/2021-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:7.C.187.2021.1) — *smlouva darovací, vrácení daru*
-- *ObS pro Prahu 2* [23 C 43/2020-301](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2023:23.C.43.2020.1) — *bytové družstvo, diskriminace, peněžité plnění, rozsudek doplňující, věcná břemena*
-- *OS v Semilech* [6 C 291/2021-185](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSM:2022:6.C.291.2021.1) — *osoba blízká, péče řádného hospodáře, peněžité plnění, služebnost, smlouva darovací, sml…*
-- *Neznámý soud 58* [72 CO 117/2022-202](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCBTA:2022:72.Co.117.2022.1) — *bezdůvodné obohacení, cizina, dlužné platby spojené s užíváním bytu, dražba, právo užívá…*
+- *KS v Brně* [15 Co 69/2024-292](https://rozhodnuti.justice.cz/rozhodnuti/?id=33756133-f096-41b6-885f-7d2e59b7d06e) — *služebnost, držba, věcná břemena, smlouva kupní, pozemní komunikace*
+- *OS Praha-východ* [7 C 187/2021-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=38a9f460-86bf-40cb-af98-30e4f0687170) — *smlouva darovací, vrácení daru*
+- *ObS pro Prahu 2* [23 C 43/2020-301](https://rozhodnuti.justice.cz/rozhodnuti/?id=afcc9858-9007-4b48-abf0-01f35de4e999) — *bytové družstvo, diskriminace, peněžité plnění, rozsudek doplňující, věcná břemena*
+- *OS v Semilech* [6 C 291/2021-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=45667e71-930c-45fb-9da6-1e70be4b50fd) — *osoba blízká, péče řádného hospodáře, peněžité plnění, služebnost, smlouva darovací, sml…*
+- *Neznámý soud 58* [72 CO 117/2022-202](https://rozhodnuti.justice.cz/rozhodnuti/?id=4444cdcd-9eca-4f59-88da-2634689a848e) — *bezdůvodné obohacení, cizina, dlužné platby spojené s užíváním bytu, dražba, právo užívá…*
 
 ### § 1264—1266 — Míra, změny, souběh
 
@@ -477,7 +485,7 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Semilech* [6 C 120/2022-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSM:2023:6.C.120.2022.1) — *držba, pozemková služebnost, služebnost, smlouva kupní, věcná břemena, vydržení*
+- *OS v Semilech* [6 C 120/2022-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=b941230a-8f83-43d1-94a2-032f06fe246e) — *držba, pozemková služebnost, služebnost, smlouva kupní, věcná břemena, vydržení*
 
 ### § 1270—1273 — Voda
 
@@ -598,11 +606,11 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Českém Krumlově* [5 C 123/2023-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2023:5.C.123.2023.3) — *osoba blízká, peněžité plnění, služebnost, smlouva darovací, věcná břemena*
-- *ObS pro Prahu 10* [35 C 95/2025-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2026:35.C.95.2025.1) — *lhůty, služebnost, vedlejší účastník, smlouva darovací, věcná břemena, náklady řízení, d…*
-- *OS v Prostějově* [15 C 13/2022-128](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2024:15.C.13.2022.1) — *smlouva zástavní, rozvod manželství, společné jmění manželů, zástavní právo, dražba, uzn…*
-- *OS v Sokolově* [7 C 239/2023-106](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2024:7.C.239.2023.1) — *věcná břemena, služebnost*
-- *OS Praha-západ* [36 C 158/2020-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:36.C.158.2020.1) — *peněžité plnění, služebnost, smlouva nájemní*
+- *OS v Českém Krumlově* [5 C 123/2023-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=ebade925-2a00-49ff-87b9-2e21bbf4637b) — *osoba blízká, peněžité plnění, služebnost, smlouva darovací, věcná břemena*
+- *ObS pro Prahu 10* [35 C 95/2025-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=359a9af6-8258-43a2-a96c-f74483d17d23) — *lhůty, služebnost, vedlejší účastník, smlouva darovací, věcná břemena, náklady řízení, d…*
+- *OS v Prostějově* [15 C 13/2022-128](https://rozhodnuti.justice.cz/rozhodnuti/?id=05a224f3-5adf-4a68-bced-417db05bbc8c) — *smlouva zástavní, rozvod manželství, společné jmění manželů, zástavní právo, dražba, uzn…*
+- *OS v Sokolově* [7 C 239/2023-106](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d2a380b-b611-43d7-98cb-aebbb6193167) — *věcná břemena, služebnost*
+- *OS Praha-západ* [36 C 158/2020-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=a65c6b2c-16a9-4229-bbe8-9b847fec9014) — *peněžité plnění, služebnost, smlouva nájemní*
 
 ### § 1284 — Vztah uživatel × vlastník
 
@@ -615,10 +623,10 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Pardubicích* [8 C 78/2021-128](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2023:8.C.78.2021.1) — *nebytový prostor, právo užívání, peněžité plnění, služebnost, smlouva darovací, smlouva…*
-- *KS v Praze* [21 CO 117/2022-316](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:21.Co.117.2022.1) — *odstoupení od smlouvy, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrá…*
-- *OS v Berouně* [18 C 185/2021-280](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2022:18.C.185.2021.1) — *notářský zápis, peněžité plnění, příspěvek na bydlení, služebnost, smlouva darovací, sml…*
-- *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:7.Co.766.2025.1) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
+- *OS v Pardubicích* [8 C 78/2021-128](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b783935-24e4-4767-a190-6def072b474d) — *nebytový prostor, právo užívání, peněžité plnění, služebnost, smlouva darovací, smlouva…*
+- *KS v Praze* [21 CO 117/2022-316](https://rozhodnuti.justice.cz/rozhodnuti/?id=a669fc3d-eadf-4154-ac48-9bb409188cdd) — *odstoupení od smlouvy, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrá…*
+- *OS v Berouně* [18 C 185/2021-280](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3e11f54-6bdb-4486-8be3-3eb0406447f5) — *notářský zápis, peněžité plnění, příspěvek na bydlení, služebnost, smlouva darovací, sml…*
+- *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/rozhodnuti/?id=18b11e7d-8353-4293-8049-d9cb222fbefe) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
 
 ### § 1285—1296 — Požívací právo (ususfructus)
 
@@ -737,10 +745,10 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Uherském Hradišti* [6 C 12/2024-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUH:2024:6.C.12.2024.1) — *služebnost, věcná břemena, smlouva darovací*
-- *MS v Praze* [12 Co 56/2025-271](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:12.Co.56.2025.271) — *odbory, smlouva darovací, služebnost, pozemková služebnost, věcná břemena*
-- *ObS pro Prahu 2* [28 C 85/2023-231](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:28.C.85.2023.1) — *promlčení, smlouva darovací, služebnost, věcná břemena*
-- *OS v Trutnově* [9 C 89/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTU:2023:9.C.89.2021.1) — *smlouva darovací, podjatost, změna pohlaví, smlouva kupní, vrácení daru, absolutní majet…*
+- *OS v Uherském Hradišti* [6 C 12/2024-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=1ac8f376-48c4-4415-94f9-a80bcba62320) — *služebnost, věcná břemena, smlouva darovací*
+- *MS v Praze* [12 Co 56/2025-271](https://rozhodnuti.justice.cz/rozhodnuti/?id=c7dd63f0-1d20-4cd9-866f-29d480d2f938) — *odbory, smlouva darovací, služebnost, pozemková služebnost, věcná břemena*
+- *ObS pro Prahu 2* [28 C 85/2023-231](https://rozhodnuti.justice.cz/rozhodnuti/?id=c44d8d32-f22d-404e-b81d-5cefca819661) — *promlčení, smlouva darovací, služebnost, věcná břemena*
+- *OS v Trutnově* [9 C 89/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=927146e1-560f-48c4-8937-b09d499f1659) — *smlouva darovací, podjatost, změna pohlaví, smlouva kupní, vrácení daru, absolutní majet…*
 
 ### § 1301 — Splynutí (confusio)
 
@@ -752,9 +760,9 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Českých Budějovicích* [15 Co 215/2025-256](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:15.Co.215.2025.1) — *věcné právo k věci cizí, notářský zápis, služebnost, spoluvlastnictví, mimořádné vydržen…*
-- *OS v Liberci* [25 C 64/2022-164](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2023:25.C.64.2022.1) — *ochrana osobních údajů, smlouva kupní, služebnost, smlouva darovací, odbory, ochrana oso…*
-- *KS v Praze* [21 Co 144/2024-286](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:21.Co.144.2024.1) — *věcná břemena, služebnost, stavba nepovolená, smlouva kupní, přednostní právo, právní do…*
+- *KS v Českých Budějovicích* [15 Co 215/2025-256](https://rozhodnuti.justice.cz/rozhodnuti/?id=8c81e1dd-4a9b-4aa0-affa-50074697de4d) — *věcné právo k věci cizí, notářský zápis, služebnost, spoluvlastnictví, mimořádné vydržen…*
+- *OS v Liberci* [25 C 64/2022-164](https://rozhodnuti.justice.cz/rozhodnuti/?id=deb87d9b-0537-4eeb-bcf9-66e55f68c882) — *ochrana osobních údajů, smlouva kupní, služebnost, smlouva darovací, odbory, ochrana oso…*
+- *KS v Praze* [21 Co 144/2024-286](https://rozhodnuti.justice.cz/rozhodnuti/?id=00b675fe-9e86-41dc-aecc-103c127f5993) — *věcná břemena, služebnost, stavba nepovolená, smlouva kupní, přednostní právo, právní do…*
 
 ### § 1302 — Osobní služebnosti
 
@@ -768,9 +776,10 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-západ* [36 C 174/2024-110](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:36.C.174.2024.1) — *dokazování, spoluvlastnictví, náklady řízení, pozůstalost, smlouva darovací, duševní cho…*
-- *KS v Plzni* [14 CO 182/2023-224](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:14.Co.182.2023 .1) — *peněžité plnění, služebnost, smlouva o úvěru, věcná břemena, výprosa, znalecký posudek*
-- *KS v Ústí nad Labem* [11 Co 138/2023-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2023:11.Co.138.2023.1) — *pozemková služebnost, smlouva darovací, služebnost, věcná břemena, smlouva kupní*
+- *OS Praha-západ* [36 C 174/2024-110](https://rozhodnuti.justice.cz/rozhodnuti/?id=5e52c9e4-e350-426f-a6fa-174392abd6ef) — *dokazování, spoluvlastnictví, náklady řízení, pozůstalost, smlouva darovací, duševní cho…*
+- *KS v Plzni* [14 CO 182/2023-224](https://rozhodnuti.justice.cz/rozhodnuti/?id=c27cb101-f700-465a-9a94-ed0b13016446) — *peněžité plnění, služebnost, smlouva o úvěru, věcná břemena, výprosa, znalecký posudek*
+- *ObS pro Prahu 10* [26 C 140/2023-52](https://rozhodnuti.justice.cz/rozhodnuti/?id=e7fa2cfe-25fc-4681-9c92-f89b2350490a) — *neplatnost právního jednání, věcná břemena, smlouva darovací, dodávky energie, služebnos…*
+- *KS v Ústí nad Labem* [11 Co 138/2023-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=341a7035-b3ac-4055-9b86-1f0c22677110) — *pozemková služebnost, smlouva darovací, služebnost, věcná břemena, smlouva kupní*
 
 ---
 
@@ -792,7 +801,7 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:26.Co.100.2022.1) — *znalecký posudek*
+- *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2c0ce28-20eb-48db-a0c6-bc13dc588c4a) — *znalecký posudek*
 
 ### § 1304 — Časový limit
 
@@ -823,9 +832,9 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-východ* [7 C 153/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:7.C.153.2023.1) — *vyklizení nemovitosti*
-- *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:26.Co.100.2022.1) — *znalecký posudek*
-- *OS v Mladé Boleslavi* [16 C 123/2019-338](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2020:16.C.123.2019.1) — *peněžité plnění, převod vlastnictví, smlouva kupní, smlouva o úschově, smlouva o zápůjčc…*
+- *OS Praha-východ* [7 C 153/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=ed71fbcd-e9b8-491e-9e9a-57c0ec2cfd3b) — *vyklizení nemovitosti*
+- *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2c0ce28-20eb-48db-a0c6-bc13dc588c4a) — *znalecký posudek*
+- *OS v Mladé Boleslavi* [16 C 123/2019-338](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cdb45b5-738a-4be6-b68d-1b84709501d5) — *peněžité plnění, převod vlastnictví, smlouva kupní, smlouva o úschově, smlouva o zápůjčc…*
 
 ---
 
@@ -874,11 +883,11 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Lounech* [14 C 261/2021-232](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2023:14.C.261.2021.1) — *smlouva o zápůjčce, zástavní právo, smlouva o půjčce, smlouva kupní, smlouva zástavní, s…*
-- *OS v Rokycanech* [11 C 51/2021-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRO:2021:11.C.51.2021.1) — *peněžité plnění, postoupení pohledávky, rozhodčí řízení, smlouva o úvěru, zástavní právo*
-- *OS v Rokycanech* [6 C 54/2021-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRO:2021:6.C.54.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, zástavní právo*
-- *KS v Hradci Králové, pobočka Pardubice* [27 Co 204/2024-326](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:27.Co.204.2024.326) — *odvolání, dokazování, vydání věci, zadržovací právo, odstoupení od smlouvy, podnikatel,…*
-- *OS v Pardubicích* [11 C 35/2022-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2022:11.C.35.2022.1) — *notářský zápis, peněžité plnění, postoupení pohledávky, smlouva o úvěru, smlouva zástavn…*
+- *OS v Lounech* [14 C 261/2021-232](https://rozhodnuti.justice.cz/rozhodnuti/?id=24bf2fbf-baac-4328-aed4-0382acfdb99a) — *smlouva o zápůjčce, zástavní právo, smlouva o půjčce, smlouva kupní, smlouva zástavní, s…*
+- *OS v Rokycanech* [11 C 51/2021-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=e3896533-ed2e-4507-823f-659f44095be7) — *peněžité plnění, postoupení pohledávky, rozhodčí řízení, smlouva o úvěru, zástavní právo*
+- *OS v Rokycanech* [6 C 54/2021-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=84ce47e7-d13d-4a7c-89f2-63b064e95815) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, zástavní právo*
+- *KS v Hradci Králové, pobočka Pardubice* [27 Co 204/2024-326](https://rozhodnuti.justice.cz/rozhodnuti/?id=b28882f9-a797-47f5-879e-900b0894005a) — *odvolání, dokazování, vydání věci, zadržovací právo, odstoupení od smlouvy, podnikatel,…*
+- *OS v Pardubicích* [11 C 35/2022-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f210b1c-03da-492c-b1de-9f4a05fcb157) — *notářský zápis, peněžité plnění, postoupení pohledávky, smlouva o úvěru, smlouva zástavn…*
 
 ### § 1311 — Zajištěný dluh
 
@@ -1058,11 +1067,11 @@ Lze zajistit **jakýkoliv dluh**:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 130/2023-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:7.Cmo.130.2023.1) — 30. 10. 2024
-- *VS v Praze* [14 Cmo 305/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:14.Cmo.305.2021.0) — 19. 4. 2022
-- *OS v Novém Jičíně* [12 C 22/2025-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2025:12.C.22.2025.1) — *investiční společnost, právnická osoba, valná hromada, zajištění dluhu, zajištění závazk…*
-- *VS v Praze* [7 Cmo 41/2024-169](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.41.2024.1) — 27. 3. 2025
-- *VS v Praze* [14 Cmo 293/2024-4](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:14.Cmo.293.2024.4) — 23. 1. 2025
+- *VS v Praze* [7 Cmo 130/2023-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=f500f0df-2488-48d7-8ee1-4de898603d4c) — 30. 10. 2024
+- *VS v Praze* [14 Cmo 305/2021-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=51d25d77-adc1-4896-bdb6-b759dd7d2f09) — 19. 4. 2022
+- *OS v Novém Jičíně* [12 C 22/2025-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=2f3037e9-4206-4143-8726-53c591f6f0c4) — *investiční společnost, právnická osoba, valná hromada, zajištění dluhu, zajištění závazk…*
+- *VS v Praze* [7 Cmo 41/2024-169](https://rozhodnuti.justice.cz/rozhodnuti/?id=03efee53-e23c-474a-b3ad-3ae37012c923) — 27. 3. 2025
+- *VS v Praze* [14 Cmo 293/2024-4](https://rozhodnuti.justice.cz/rozhodnuti/?id=82ce2c3c-5a52-4668-9363-b0874a73c7f9) — 23. 1. 2025
 
 ### § 1328—1334 — Cenné papíry
 
@@ -1111,9 +1120,9 @@ Lze zajistit **jakýkoliv dluh**:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 273/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.273.2023.0) — 5. 3. 2024
-- *VS v Praze* [7 Cmo 84/2023-154](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:7.Cmo.84.2023.1) — 18. 10. 2023
-- *VS v Praze* [2 Cmo 63/2021-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.63.2021.1) — 18. 3. 2021
+- *VS v Praze* [9 Cmo 273/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b53e2220-c3ee-49ab-97fb-bb183111ffd6) — 5. 3. 2024
+- *VS v Praze* [7 Cmo 84/2023-154](https://rozhodnuti.justice.cz/rozhodnuti/?id=c795c02a-50a1-4e45-ab96-7d4ea4a5f0fa) — 18. 10. 2023
+- *VS v Praze* [2 Cmo 63/2021-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d5d8982-ff52-4fec-874d-c6fb35600310) — 18. 3. 2021
 
 ### § 1335—1340 — Zastavení pohledávky
 

@@ -78,11 +78,11 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Hradci Králové* [9 C 288/2023-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2025:9.C.288.2023.1) — *rozvod manželství*
-- *OS v Karviné, pobočka Havířov* [107 C 181/2021-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2021:107.C.181.2021.2) — *alkoholismus, církev, rozvod manželství, výživné*
-- *OS v Blansku* [6 C 270/2020-196](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2024:6.C.270.2020.1) — *omezení svéprávnosti, duševní porucha*
-- *KS v Ostravě* [57 CO 91/2022-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:57.Co.91.2022.1) — *alkoholismus, církev, rozvod manželství*
-- *KS v Praze* [28 CO 151/2022-324](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:28.Co.151.2022.1) — *peněžité plnění, porod, výživné*
+- *OS v Hradci Králové* [9 C 288/2023-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=5858b9c7-973a-40f1-ad10-3fc705baa897) — *rozvod manželství*
+- *OS v Karviné, pobočka Havířov* [107 C 181/2021-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2addb5f-c51a-496b-b7df-984ea9bdd33b) — *alkoholismus, církev, rozvod manželství, výživné*
+- *OS v Blansku* [6 C 270/2020-196](https://rozhodnuti.justice.cz/rozhodnuti/?id=806eee6c-ecd2-457c-a4ef-d08964c994ee) — *omezení svéprávnosti, duševní porucha*
+- *KS v Ostravě* [57 CO 91/2022-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=922bb168-68ef-4725-a071-dfaa9268e99e) — *alkoholismus, církev, rozvod manželství*
+- *KS v Praze* [28 CO 151/2022-324](https://rozhodnuti.justice.cz/rozhodnuti/?id=0b789db3-7fdc-4949-bb36-87d0ecd7c022) — *peněžité plnění, porod, výživné*
 
 ### § 657—658 — Občanský a církevní sňatek
 
@@ -151,11 +151,11 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kolíně* [15 C 71/2021-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKO:2022:15.C.71.2021.1) — *byty služební, nájem bytu, peněžité plnění, smlouva darovací, smlouva o výpůjčce, vydání…*
-- *OS v Berouně* [119 C 9/2020-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:119.C.9.2020.1) — *peněžité plnění*
-- *OS ve Zlíně* [44 C 53/2017-277](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2024:44.C.53.2017.1) — *smlouva kupní, smlouva darovací, jmění, pacht, spoluvlastnictví, předkupní právo, škoda…*
-- *MS v Praze* [17 CO 159/2022-68](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:17.CO.159.2022.1) — *pracovní povolení, rozvod manželství*
-- *KS v Brně* [58 CO 196/2021-221](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:58.Co.196.2021.1) — *peněžité plnění, předkupní právo, smlouva kupní, spoluvlastnictví*
+- *OS v Kolíně* [15 C 71/2021-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=86950f60-862a-4603-a752-7faf7fd2d4ea) — *byty služební, nájem bytu, peněžité plnění, smlouva darovací, smlouva o výpůjčce, vydání…*
+- *OS v Berouně* [119 C 9/2020-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c5866a7-535d-484c-bbbd-bbeb3d8af218) — *peněžité plnění*
+- *OS ve Zlíně* [44 C 53/2017-277](https://rozhodnuti.justice.cz/rozhodnuti/?id=384d83ab-9beb-4f7e-8a57-b6319a2052bb) — *smlouva kupní, smlouva darovací, jmění, pacht, spoluvlastnictví, předkupní právo, škoda…*
+- *MS v Praze* [17 CO 159/2022-68](https://rozhodnuti.justice.cz/rozhodnuti/?id=bd3e4b93-0a53-47ed-97b0-168ab0a6b4d5) — *pracovní povolení, rozvod manželství*
+- *KS v Brně* [58 CO 196/2021-221](https://rozhodnuti.justice.cz/rozhodnuti/?id=43d9a6a3-98f2-433a-8a89-2dc328c4c03d) — *peněžité plnění, předkupní právo, smlouva kupní, spoluvlastnictví*
 
 ### § 663—666 — Místo, doklady, církevní sňatek
 
@@ -189,11 +189,11 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Praha-západ* [16 C 17/2025-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:16.C.17.2025.1) — *smlouva nájemní*
-- *OS Praha-západ* [16 C 290/2024-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2024:16.C.290.2024.1) — *započtení pohledávky, smlouva nájemní, nebytový prostor*
-- *OS Praha-západ* [16 C 133/2024-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2024:16.C.133.2024.1) — *bezdůvodné obohacení, smlouva nájemní*
-- *OS Praha-západ* [16 C 324/2023-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:16.C.324.2023.1) — *nájem bytu, peněžité plnění, smlouva nájemní*
-- *MS v Brně* [44 C 254/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:44.C.254.2020.1) — *dlužné nájemné, peněžité plnění, postoupení pohledávky, smlouva nájemní, zastavení řízení*
+- *OS Praha-západ* [16 C 17/2025-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=4591c0c8-950e-426d-be74-d0dfeb2ddd62) — *smlouva nájemní*
+- *OS Praha-západ* [16 C 290/2024-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=514c99aa-6f56-4153-a0c0-c239cbb61dc6) — *započtení pohledávky, smlouva nájemní, nebytový prostor*
+- *OS Praha-západ* [16 C 133/2024-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=1d649be1-427b-492f-9557-e3f79c02b1c1) — *bezdůvodné obohacení, smlouva nájemní*
+- *OS Praha-západ* [16 C 324/2023-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=77b7c2e6-73fe-4a8b-9919-36425250a6b4) — *nájem bytu, peněžité plnění, smlouva nájemní*
+- *MS v Brně* [44 C 254/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=c25d8a1b-8bb4-4d4f-98c5-88b7bfb2581f) — *dlužné nájemné, peněžité plnění, postoupení pohledávky, smlouva nájemní, zastavení řízení*
 
 ### § 667—669 — Sňatek v ohrožení života, v cizině, v zastoupení
 
@@ -219,8 +219,9 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 9* [52 C 242/2023-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:52.C.242.2023.1) — 19. 3. 2024
-- *ObS pro Prahu 9* [7 C 46/2022-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:7.C.46.2022.1) — *církev, povinnosti a práva manželů*
+- *ObS pro Prahu 9* [52 C 242/2023-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=252d1913-5b3e-47dc-bc66-c672422dfe2a) — 19. 3. 2024
+- *OS Brno-Venkov* [24 C 2/2019-327](https://rozhodnuti.justice.cz/rozhodnuti/?id=b524231f-eabe-4b16-ace9-37c3d89e81c7) — *znalecký posudek, nebytový prostor, svědečné, smlouva nájemní*
+- *ObS pro Prahu 9* [7 C 46/2022-41](https://rozhodnuti.justice.cz/rozhodnuti/?id=8d93d175-508b-43d5-b167-c58621ddd927) — *církev, povinnosti a práva manželů*
 
 ### § 671—676 — Způsobilost a zákonné překážky
 
@@ -264,11 +265,11 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Karlových Varech* [10 C 132/2021-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKV:2021:10.C.132.2021.1) — *dlužné nájemné, peněžité plnění, smlouva nájemní*
-- *ObS pro Prahu 5* [13 C 197/2025-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:13.C.197.2025.1) — *dokazování, náklady řízení, omezení svéprávnosti, osvojení, náhrada nákladů*
-- *ObS pro Prahu 1* [35 C 107/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2024:35.C.107.2024.1) — 17. 12. 2024
-- *KS v Českých Budějovicích* [15 Co 117/2024-346](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:15.Co.117.2024.1) — *neplatnost právního úkonu, výpověď z nájmu, postoupení pohledávky, smlouva kupní, smlouv…*
-- *KS v Plzni* [61 Co 13/2024-852](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2024:61.Co.13.2024.1) — 27. 3. 2024
+- *OS v Karlových Varech* [10 C 132/2021-30](https://rozhodnuti.justice.cz/rozhodnuti/?id=a60b93d4-8567-404a-8f81-f62172cacabd) — *dlužné nájemné, peněžité plnění, smlouva nájemní*
+- *ObS pro Prahu 5* [13 C 197/2025-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c59db77-853d-4aad-bc8b-e47daea012e0) — *dokazování, náklady řízení, omezení svéprávnosti, osvojení, náhrada nákladů*
+- *ObS pro Prahu 1* [35 C 107/2024-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=5a4acf17-5cba-4661-8624-2ca9f6865ef1) — 17. 12. 2024
+- *KS v Českých Budějovicích* [15 Co 117/2024-346](https://rozhodnuti.justice.cz/rozhodnuti/?id=02c4893f-5ea7-4c63-8e0b-8d57dda7537c) — *neplatnost právního úkonu, výpověď z nájmu, postoupení pohledávky, smlouva kupní, smlouv…*
+- *KS v Plzni* [61 Co 13/2024-852](https://rozhodnuti.justice.cz/rozhodnuti/?id=6e440adf-2725-4c9c-b7ae-3029415d8185) — 27. 3. 2024
 
 ---
 
@@ -385,11 +386,11 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Plzni* [13 CO 21/2022-50](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2022:13.Co.21.2022 .1) — *rozvod manželství*
-- *OS v Olomouci* [11 C 304/2019-286](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2022:11.C.304.2019.3) — *alkoholismus, domácí násilí, omezení svéprávnosti, rehabilitace, rozvod manželství, smlo…*
-- *OS v Tachově* [19 C 67/2023-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTC:2023:19.C.67.2023.1) — *rozvod manželství, výživné*
-- *OS v Olomouci* [25 C 157/2020-125](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2021:25.C.157.2020.4) — *rozvod manželství*
-- *OS v Tachově* [19 C 196/2021-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTC:2021:19.C.196.2021.1) — *rozvod manželství, výživné*
+- *KS v Plzni* [13 CO 21/2022-50](https://rozhodnuti.justice.cz/rozhodnuti/?id=fe4cc4a6-b7d0-4d9b-8d6b-9ab67a9fb00e) — *rozvod manželství*
+- *OS v Olomouci* [11 C 304/2019-286](https://rozhodnuti.justice.cz/rozhodnuti/?id=2088c74b-7d26-46ff-bbea-c3049cd9231b) — *alkoholismus, domácí násilí, omezení svéprávnosti, rehabilitace, rozvod manželství, smlo…*
+- *OS v Tachově* [19 C 67/2023-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3078c2f-b8d6-4537-ad05-ec4b8ac386b9) — *rozvod manželství, výživné*
+- *OS v Olomouci* [25 C 157/2020-125](https://rozhodnuti.justice.cz/rozhodnuti/?id=e199936e-d487-43a9-8b19-93adad127f06) — *rozvod manželství*
+- *OS v Tachově* [19 C 196/2021-57](https://rozhodnuti.justice.cz/rozhodnuti/?id=0721533d-7e99-4a8d-bb25-e73853d36ced) — *rozvod manželství, výživné*
 
 #### § 690—691 — Uspokojování potřeb rodiny
 
@@ -447,11 +448,11 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem* [84 Co 551/2024-115](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:84.Co.551.2024.1) — *okamžité zrušení pracovního poměru, elektronický podpis*
-- *MS v Brně* [54 C 158/2023-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:54.C.158.2023.1) — *uznání dluhu, odstoupení od smlouvy, smlouva o dílo, bezdůvodné obohacení, přistoupení k…*
-- *OS v Jindřichově Hradci* [2 C 201/2022-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJH:2023:2.C.201.2022.1) — *rozvod manželství*
-- *OS v Tachově* [7 C 149/2021-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTC:2021:7.C.149.2021.1) — *postoupení pohledávky, smlouva o úvěru*
-- *OS Plzeň-město* [38 C 243/2020](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2021:38.C.243.2020.1) — *smlouva nájemní, uznání dluhu*
+- *KS v Ústí nad Labem* [84 Co 551/2024-115](https://rozhodnuti.justice.cz/rozhodnuti/?id=0bc5fef4-d4a7-40b4-9d20-514aab6af9a8) — *okamžité zrušení pracovního poměru, elektronický podpis*
+- *MS v Brně* [54 C 158/2023-100](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5545c18-7cd6-4cf1-8bc0-3a49689d380b) — *uznání dluhu, odstoupení od smlouvy, smlouva o dílo, bezdůvodné obohacení, přistoupení k…*
+- *OS v Jindřichově Hradci* [2 C 201/2022-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=2316203f-6737-46b1-8bba-3c436427a735) — *rozvod manželství*
+- *OS v Tachově* [7 C 149/2021-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=59fedcd6-6bf8-4831-8c81-3eda07e4e288) — *postoupení pohledávky, smlouva o úvěru*
+- *OS Plzeň-město* [38 C 243/2020](https://rozhodnuti.justice.cz/rozhodnuti/?id=2473fafa-073b-4bb5-90ed-10d0b4026bae) — *smlouva nájemní, uznání dluhu*
 
 #### § 697 — Vyživovací povinnost
 
@@ -490,11 +491,11 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *MS v Praze* [35 Co 48/2025-942](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:35.Co.48.2025.942) — *rodinná domácnost, společné jmění manželů, znalecký posudek, smlouva o úvěru*
-- *OS v Trutnově* [14 C 289/2018-203](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTU:2022:14.C.289.2018.1) — *jmění, obchodní podíl, obchodní společnost, odbytné, peněžité plnění, pojištění, rodinná…*
-- *ObS pro Prahu 4* [56 C 39/2024-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2025:56.C.39.2024.1) — *společné jmění manželů*
-- *OS v Chomutově* [17 C 223/2016-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2020:17.C.223.2016.9) — *jmění, obvyklé vybavení rodinné domácnosti, rozvod manželství, řidičský průkaz, společné…*
-- *KS v Praze* [21 Co 164/2025-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:21.Co.164.2025.1) — *rodinná domácnost, právo užívání, ochrana vlastnictví, rozvod manželství*
+- *MS v Praze* [35 Co 48/2025-942](https://rozhodnuti.justice.cz/rozhodnuti/?id=5ff94f0a-f00e-491c-bab6-90b4f69ae0ee) — *rodinná domácnost, společné jmění manželů, znalecký posudek, smlouva o úvěru*
+- *OS v Trutnově* [14 C 289/2018-203](https://rozhodnuti.justice.cz/rozhodnuti/?id=f084d049-1f81-4c24-9e15-a1a47ea23297) — *jmění, obchodní podíl, obchodní společnost, odbytné, peněžité plnění, pojištění, rodinná…*
+- *ObS pro Prahu 4* [56 C 39/2024-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=8af23a4a-2ac0-408e-a337-d8a47ddc0fc5) — *společné jmění manželů*
+- *OS v Chomutově* [17 C 223/2016-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=3cf4b561-191f-41bf-ac68-1c2fca0e7dea) — *jmění, obvyklé vybavení rodinné domácnosti, rozvod manželství, řidičský průkaz, společné…*
+- *KS v Praze* [21 Co 164/2025-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=c4d9fc18-1b48-4d58-b977-29efc712517f) — *rodinná domácnost, právo užívání, ochrana vlastnictví, rozvod manželství*
 
 #### § 700—707 — Rodinný závod
 
@@ -730,11 +731,11 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Šumperku* [7 C 203/2021-68](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSU:2022:7.C.203.2021.1) — *notářský zápis, pasivní legitimace, peněžité plnění, přikázání pohledávky, smlouva o úvě…*
-- *OS Praha-východ* [46 C 18/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:46.C.18.2023.1) — *rozvod manželství*
-- *OS Praha-východ* [46 C 266/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2023:46.C.266.2023.1) — *rozvod manželství*
-- *OS v Chomutově* [30 C 246/2018-246](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2025:30.C.246.2018.1) — *převod nemovitostí, dokazování, náklady řízení, koupě, jistota, majetek, převod vlastnic…*
-- *OS v České Lípě* [36 C 127/2020-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2021:36.C.127.2020.3) — *bytová náhrada, bytové družstvo, družstevní byt, nájem bytu, notářský zápis, peněžité pl…*
+- *OS v Šumperku* [7 C 203/2021-68](https://rozhodnuti.justice.cz/rozhodnuti/?id=b203dc7c-4aba-43f9-80b7-bf50c902421b) — *notářský zápis, pasivní legitimace, peněžité plnění, přikázání pohledávky, smlouva o úvě…*
+- *OS Praha-východ* [46 C 18/2023](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cb9cdf7-4e0b-48e7-a762-6cba516a57e3) — *rozvod manželství*
+- *OS Praha-východ* [46 C 266/2023](https://rozhodnuti.justice.cz/rozhodnuti/?id=c254e626-4917-473e-94ea-a7ab9a98dbb8) — *rozvod manželství*
+- *OS v Chomutově* [30 C 246/2018-246](https://rozhodnuti.justice.cz/rozhodnuti/?id=47a13904-c0ac-4a9b-83d2-69f57f197799) — *převod nemovitostí, dokazování, náklady řízení, koupě, jistota, majetek, převod vlastnic…*
+- *OS v České Lípě* [36 C 127/2020-36](https://rozhodnuti.justice.cz/rozhodnuti/?id=b9969d0c-1b92-4d0b-b10c-45e0b2bd0b47) — *bytová náhrada, bytové družstvo, družstevní byt, nájem bytu, notářský zápis, peněžité pl…*
 
 #### Soudní režim (§ 724—728)
 
@@ -769,11 +770,11 @@ V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnik�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Strakonicích* [1 C 235/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSST:2023:1.C.235.2022.1) — *notářský zápis, rozvod manželství, smlouva o manželském majetkovém režimu, společné jměn…*
-- *OS v Sokolově* [16 C 65/2025-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2025:16.C.65.2025.1) — *rozvod manželství*
-- *OS v České Lípě* [51 C 117/2024-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2024:51.C.117.2024.1) — 21. 11. 2024
-- *OS Praha-západ* [4 C 64/2022-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:4.C.64.2022.1) — *notářský zápis, peněžité plnění, podílové spoluvlastnictví, prohlášení o majetku, rozvod…*
-- *OS Brno-Venkov* [5 C 19/2019-503](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2021:5.C.19.2019.3) — *dohoda o rozvázání pracovního poměru, nájem nebytových prostor, notářský zápis, peněžité…*
+- *OS ve Strakonicích* [1 C 235/2022-16](https://rozhodnuti.justice.cz/rozhodnuti/?id=faf5a1f7-95ca-4405-8bf3-345c2e8d22b1) — *notářský zápis, rozvod manželství, smlouva o manželském majetkovém režimu, společné jměn…*
+- *OS v Sokolově* [16 C 65/2025-17](https://rozhodnuti.justice.cz/rozhodnuti/?id=33f153fa-1ea2-4437-82fd-6b3b4a72f0f2) — *rozvod manželství*
+- *OS v České Lípě* [51 C 117/2024-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=d9efd25a-fd15-45bf-8168-528f07ae037c) — 21. 11. 2024
+- *OS Praha-západ* [4 C 64/2022-98](https://rozhodnuti.justice.cz/rozhodnuti/?id=c6dd8bb1-3ff1-4b1d-a10b-4dc71ba3859e) — *notářský zápis, peněžité plnění, podílové spoluvlastnictví, prohlášení o majetku, rozvod…*
+- *OS Brno-Venkov* [5 C 19/2019-503](https://rozhodnuti.justice.cz/rozhodnuti/?id=21604c15-a0ee-49bd-8e8b-2caa9b3af4e3) — *dohoda o rozvázání pracovního poměru, nájem nebytových prostor, notářský zápis, peněžité…*
 
 #### Ochrana třetích osob (§ 731—734)
 
@@ -1043,11 +1044,11 @@ Manžel s přijatým příjmením druhého může **do 6 měsíců** po rozvodu 
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Opavě* [7 C 112/2023-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2026:7.C.112.2023.1) — *náhrada nákladů, náklady řízení, rozvod manželství*
-- *OS v Klatovech* [8 C 356/2025-10](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2026:8.C.356.2025.1) — *alkoholismus, náhrada nákladů, odročení, náklady řízení, rozvod manželství*
-- *OS ve Žďáru nad Sázavou* [12 C 245/2025-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2026:12.C.245.2025.1) — *rozvod manželství, náhrada nákladů, náklady řízení, výživné, dokazování*
-- *OS v Opavě* [26 C 92/2025-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2025:26.C.92.2025.1) — *rozvod manželství*
-- *ObS pro Prahu 5* [46 C 96/2025-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:46.C.96.2025.1) — *dokazování, náklady řízení, výkon rozhodnutí, příslušnost soudu, rozvod manželství, náhr…*
+- *OS v Opavě* [7 C 112/2023-69](https://rozhodnuti.justice.cz/rozhodnuti/?id=c34c1922-12fd-4032-884a-db65290e7232) — *náhrada nákladů, náklady řízení, rozvod manželství*
+- *OS v Klatovech* [8 C 356/2025-10](https://rozhodnuti.justice.cz/rozhodnuti/?id=9fcb4703-0bcd-4b0a-a3f5-aa774f77ba44) — *alkoholismus, náhrada nákladů, odročení, náklady řízení, rozvod manželství*
+- *OS ve Žďáru nad Sázavou* [12 C 245/2025-30](https://rozhodnuti.justice.cz/rozhodnuti/?id=c9edc430-b4ec-489b-9d20-d4db0438cdf9) — *rozvod manželství, náhrada nákladů, náklady řízení, výživné, dokazování*
+- *OS v Opavě* [26 C 92/2025-21](https://rozhodnuti.justice.cz/rozhodnuti/?id=164bdbc7-8d02-46c7-bfe5-6c356c80c313) — *rozvod manželství*
+- *ObS pro Prahu 5* [46 C 96/2025-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=6f37ca6e-1e62-48bf-a113-f72d777d5b7c) — *dokazování, náklady řízení, výkon rozhodnutí, příslušnost soudu, rozvod manželství, náhr…*
 
 #### § 760—763 — Výživné rozvedeného manžela
 
@@ -1094,11 +1095,11 @@ Soud zohlední věk, zdravotní stav, dobu manželství, dobu od rozvodu, neopat
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Klatovech* [9 C 238/2025-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2025:9.C.238.2025.1) — *rozvod manželství, náhrada nákladů, rodinná domácnost, náklady řízení, doručování, dokaz…*
-- *OS ve Vyškově* [6 C 277/2024-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2025:6.C.277.2024.1) — *výživné*
-- *ObS pro Prahu 9* [67 C 35/2024-133](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:67.C.35.2024.1) — *daň z nemovitosti, rodinná domácnost, rodičovská dovolená, výživné, rozvod manželství, r…*
-- *OS v Karviné* [115 C 184/2024-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2024:115.C.184.2024.1) — *zvýšení výživného, jízdné, příspěvek na bydlení, výživné, rehabilitace*
-- *MS v Brně* [108 C 54/2023-122](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:108.C.54.2023.1) — *rozvod manželství, výživné*
+- *OS v Klatovech* [9 C 238/2025-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=8bfc8d9f-157f-427e-a46a-f5a04a00faa2) — *rozvod manželství, náhrada nákladů, rodinná domácnost, náklady řízení, doručování, dokaz…*
+- *OS ve Vyškově* [6 C 277/2024-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=1ea77c31-389c-4e28-b239-4dbe62a1535e) — *výživné*
+- *ObS pro Prahu 9* [67 C 35/2024-133](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab6e7673-199d-4026-8ff0-8fae371ff7ef) — *daň z nemovitosti, rodinná domácnost, rodičovská dovolená, výživné, rozvod manželství, r…*
+- *OS v Karviné* [115 C 184/2024-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=2852f6f5-e4d9-4fc9-9001-f958f982a6ea) — *zvýšení výživného, jízdné, příspěvek na bydlení, výživné, rehabilitace*
+- *MS v Brně* [108 C 54/2023-122](https://rozhodnuti.justice.cz/rozhodnuti/?id=e4d20649-fa41-4c89-acc8-58494df37a34) — *rozvod manželství, výživné*
 
 #### § 764—765 — Majetkové vypořádání
 

@@ -85,8 +85,8 @@ Statut (§ 305) je **vnitřní dokument** fundace upravující její organizaci.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ostravě* [11 CO 237/2021-2117](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:11.Co.237.2021.1) — *bezdůvodné obohacení, dlužné nájemné, dražba, držba, majetková újma, nájem domu, nájem n…*
-- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+- *KS v Ostravě* [11 CO 237/2021-2117](https://rozhodnuti.justice.cz/rozhodnuti/?id=b801070a-7df1-4fd6-90d5-bf374295a8ee) — *bezdůvodné obohacení, dlužné nájemné, dražba, držba, majetková újma, nájem domu, nájem n…*
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=6dd1432c-ca2c-4229-b02f-901769abeb2d) — 23. 5. 2024
 
 ### § 307 — Vedlejší podnikání
 
@@ -141,7 +141,7 @@ Příklady: „Nadace Charta 77", „Nadace Naše dítě", „Nadace Open Societ
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.322.2019.0) — 25. 5. 2020
+- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b1e611f9-2f84-440c-98c7-58400b6acdfe) — 25. 5. 2020
 
 #### § 310 — Náležitosti zakládací listiny
 
@@ -204,8 +204,8 @@ Specifické náležitosti pro založení závětí (omezenější obsah; ostatn�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.186.2019.5) — *držba, podílové spoluvlastnictví, vydržení*
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=99eb01a9-5e22-4672-b196-a93e495cd74b) — *držba, podílové spoluvlastnictví, vydržení*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 #### § 313 — Předmět vkladu
 
@@ -217,7 +217,7 @@ Default: vkladová povinnost se plní **v penězích**. Pokud zakladatel ujednal
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ### § 314 — Statut nadace
 
@@ -298,8 +298,8 @@ Pokud zakladatel **výslovně určí**, že nadační listina (nebo její část
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 55/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.55.2022.0) — 4. 8. 2022
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *VS v Praze* [9 Cmo 55/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=fa565da1-fb26-401b-a762-186d7dc0f5bf) — 4. 8. 2022
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 #### § 322 — Nedosažitelný účel
 
@@ -309,7 +309,7 @@ Pokud je dosažení účelu **nemožné nebo obtížně dosažitelné** z pří�
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.186.2019.5) — *držba, podílové spoluvlastnictví, vydržení*
+- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=99eb01a9-5e22-4672-b196-a93e495cd74b) — *držba, podílové spoluvlastnictví, vydržení*
 
 #### § 323 — Nepřítomný zakladatel
 
@@ -319,7 +319,7 @@ Pokud zakladatel již není, soud při změně účelu vezme zřetel na **znám�
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 #### § 324 — Veřejně prospěšný → dobročinný
 
@@ -339,10 +339,10 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
-- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
-- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.16.2022.1) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
-- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=973949f5-b02f-4856-a8fb-966ffb5ab191) — 23. 1. 2023
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f8b4271-8e18-4937-9feb-aa0462682df6) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
+- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c605cc4-58b5-4ad7-9d8e-382e110c7fde) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=a1dadba0-d371-4211-b3dd-fc27a84c24d5) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
 
 ### Vklady do nadace (§ 327—334)
 
@@ -358,7 +358,7 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=6dd1432c-ca2c-4229-b02f-901769abeb2d) — 23. 5. 2024
 
 #### § 328—329 — Specifické vklady
 
@@ -379,8 +379,8 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Žďáru nad Sázavou* [12 C 247/2016-212](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:12.C.247.2016.1) — *smlouva o dílo, majetek, smlouva kupní, náklady řízení, konkurs, lhůty, výkon rozhodnutí…*
-- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+- *OS ve Žďáru nad Sázavou* [12 C 247/2016-212](https://rozhodnuti.justice.cz/rozhodnuti/?id=058e05e2-be46-4948-abe7-a6a3ef4dc8e3) — *smlouva o dílo, majetek, smlouva kupní, náklady řízení, konkurs, lhůty, výkon rozhodnutí…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/rozhodnuti/?id=36e68689-a306-4dcc-b280-ee232ffbe105) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 #### § 330 — Minimální vklad a správce vkladů
 
@@ -392,7 +392,7 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=338853d4-19e0-48ef-897f-37891e164435) — 2. 12. 2024
 
 #### § 331 — Splnění vkladové povinnosti
 
@@ -428,7 +428,7 @@ Správce **písemně potvrdí** osobě podávající návrh na zápis nadace: kd
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Plzni* [10 CO 184/2021-522](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.184.2021.1) — *peněžité plnění, služebnost, věcná břemena*
+- *KS v Plzni* [10 CO 184/2021-522](https://rozhodnuti.justice.cz/rozhodnuti/?id=d07270d5-1ab3-4c1b-9f6e-708da01cdbec) — *peněžité plnění, služebnost, věcná břemena*
 
 ### Majetek nadace, nadační kapitál (§ 335—341)
 
@@ -452,8 +452,8 @@ Správce **písemně potvrdí** osobě podávající návrh na zápis nadace: kd
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.74.2025.1) — 24. 7. 2025
-- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/rozhodnuti/?id=d30ea86b-bdce-42ae-ac97-f6221d9e2038) — 24. 7. 2025
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=6dd1432c-ca2c-4229-b02f-901769abeb2d) — 23. 5. 2024
 
 #### § 338 — Použití majetku
 
@@ -471,7 +471,7 @@ Nadace používá majetek **v souladu s účelem** k:
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=6dd1432c-ca2c-4229-b02f-901769abeb2d) — 23. 5. 2024
 
 #### § 339 — Zákaz zatížení jistiny
 
@@ -488,7 +488,7 @@ Nadace používá majetek **v souladu s účelem** k:
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:30.C.35.2015.1) — *peněžité plnění, smlouva kupní, znalecký posudek*
+- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce4feb1a-5284-41a5-84d8-8482c4f63546) — *peněžité plnění, smlouva kupní, znalecký posudek*
 
 #### § 340 — Péče při správě jistiny
 
@@ -498,8 +498,8 @@ Nadace nakládá s jistinou s **péčí podle ustanovení o správě cizího maj
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 1* [31 C 9/2015-349](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:31.C.9.2015.1) — *peněžité plnění, rozsudek doplňující, smlouva o dílo, znalecký posudek*
-- *ObS pro Prahu 1* [31 C 9/2015-331](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:31.C.9.2015.1) — *peněžité plnění, rozhodčí doložka, rozhodčí řízení, smlouva o dílo, znalecký posudek*
+- *ObS pro Prahu 1* [31 C 9/2015-349](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ec6c542-926f-4ab4-afd5-2ab1d10e85b8) — *peněžité plnění, rozsudek doplňující, smlouva o dílo, znalecký posudek*
+- *ObS pro Prahu 1* [31 C 9/2015-331](https://rozhodnuti.justice.cz/rozhodnuti/?id=5eec4564-7dd4-4b35-a10c-ff59163183c7) — *peněžité plnění, rozhodčí doložka, rozhodčí řízení, smlouva o dílo, znalecký posudek*
 
 #### § 341 — Povinný audit
 
@@ -555,9 +555,9 @@ Auditor ověřuje **řádnou, mimořádnou a konsolidovanou účetní závěrku*
 
 **Judikatura (z místních zdrojů):**
 
-- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
-- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.16.2022.1) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
-- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f8b4271-8e18-4937-9feb-aa0462682df6) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
+- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/rozhodnuti/?id=2c605cc4-58b5-4ad7-9d8e-382e110c7fde) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=a1dadba0-d371-4211-b3dd-fc27a84c24d5) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
 
 #### § 347—348 — Společná ustanovení
 
@@ -570,8 +570,8 @@ Rozhoduje **správní rada po souhlasu dozorčí rady**. **Účinnost dnem zápi
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.74.2025.1) — 24. 7. 2025
-- *OS v Jeseníku* [11 C 97/2021-168](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2022:11.C.97.2021.1) — *jmění, peněžité plnění, smlouva kupní, zastavení řízení*
+- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/rozhodnuti/?id=d30ea86b-bdce-42ae-ac97-f6221d9e2038) — 24. 7. 2025
+- *OS v Jeseníku* [11 C 97/2021-168](https://rozhodnuti.justice.cz/rozhodnuti/?id=9b379b15-ee6b-4889-ab07-eb3119729390) — *jmění, peněžité plnění, smlouva kupní, zastavení řízení*
 
 ### Přidružený fond (§ 349—352)
 
@@ -600,8 +600,8 @@ Při zrušení nadace likvidátor naloží s přidruženým fondem tak, aby **za
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Kolíně* [17 C 369/2023-110](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKO:2024:17.C.369.2023.1) — *smlouva pracovní, náhrada za ztrátu na výdělku, náhrada mzdy*
-- *OS v Pelhřimově* [5 C 212/2023-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPE:2023:5.C.212.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Kolíně* [17 C 369/2023-110](https://rozhodnuti.justice.cz/rozhodnuti/?id=118c717d-c8a0-4fc9-8403-195e5ec3fd7d) — *smlouva pracovní, náhrada za ztrátu na výdělku, náhrada mzdy*
+- *OS v Pelhřimově* [5 C 212/2023-19](https://rozhodnuti.justice.cz/rozhodnuti/?id=19e98866-4124-4b90-ba98-f66c6463594a) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
 
 #### § 354 — Použití příspěvku
 
@@ -783,11 +783,11 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 274/2023-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.274.2023.1) — 11. 3. 2024
-- *OS v České Lípě* [10 C 294/2023-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2023:10.C.294.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
-- *OS v České Lípě* [10 C 213/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:10.C.213.2022.2) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
-- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.227.2021.1) — 11. 2. 2022
-- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
+- *VS v Praze* [9 Cmo 274/2023-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=9aaf7349-f786-4ebd-b24a-310d3f5bc214) — 11. 3. 2024
+- *OS v České Lípě* [10 C 294/2023-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=9d023034-741e-4378-a805-6278ea93a4a8) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS v České Lípě* [10 C 213/2022-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=467a858f-2d13-46f9-9e27-b1bc3fef768a) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=c2630b69-0064-4b88-8315-4441419c175e) — 11. 2. 2022
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=338853d4-19e0-48ef-897f-37891e164435) — 2. 12. 2024
 
 ### § 397 — Vznik
 
@@ -797,10 +797,10 @@ Vznik **dnem zápisu** do VR.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:29.Co.232.2022.1) — *smlouva kupní*
-- *OS v Opavě* [16 C 90/2019-144](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2022:16.C.90.2019.1) — *bezdůvodné obohacení, podílové spoluvlastnictví, smlouva kupní, vlastnictví bytů*
-- *OS v České Lípě* [114 C 55/2015-151](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2021:114.C.55.2015.4) — *peněžité plnění, postoupení pohledávky, rozhodčí doložka, rozhodčí řízení, smlouva o úvěru*
-- *KS v Ostravě* [8 Co 9/2024-326](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2024:8.Co.9.2024.1) — *smluvní pokuta, peněžité plnění, smlouva o dílo*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/rozhodnuti/?id=0aa51809-c2ca-4136-8b70-ba90fbc0cbbb) — *smlouva kupní*
+- *OS v Opavě* [16 C 90/2019-144](https://rozhodnuti.justice.cz/rozhodnuti/?id=044430b7-5175-4071-990b-f102ccdd27ec) — *bezdůvodné obohacení, podílové spoluvlastnictví, smlouva kupní, vlastnictví bytů*
+- *OS v České Lípě* [114 C 55/2015-151](https://rozhodnuti.justice.cz/rozhodnuti/?id=705f242f-c301-4c32-95b2-8bf8e80d2d17) — *peněžité plnění, postoupení pohledávky, rozhodčí doložka, rozhodčí řízení, smlouva o úvěru*
+- *KS v Ostravě* [8 Co 9/2024-326](https://rozhodnuti.justice.cz/rozhodnuti/?id=c84360a4-eff9-4673-86ce-f7b3721aa8e7) — *smluvní pokuta, peněžité plnění, smlouva o dílo*
 
 ### § 398 — Majetek
 
@@ -819,8 +819,8 @@ Vznik **dnem zápisu** do VR.
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:29.Co.232.2022.1) — *smlouva kupní*
-- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
+- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/rozhodnuti/?id=0aa51809-c2ca-4136-8b70-ba90fbc0cbbb) — *smlouva kupní*
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=338853d4-19e0-48ef-897f-37891e164435) — 2. 12. 2024
 
 ### § 399—400 — Změna formy na nadaci
 
@@ -841,7 +841,7 @@ Typický důvod: **nahromadění majetku** s charakterem trvalého výnosu → r
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2025:7.C.288.2024.1) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
+- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/rozhodnuti/?id=6fbb6af8-b55a-427d-b349-0760e1642a47) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
 
 ### § 401 — Zrušení
 
@@ -858,9 +858,9 @@ Pro likvidaci se aplikují obecná pravidla § 187—209 OZ.
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [12 Cmo 146/2023-443](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:12.Cmo.146.2023.1) — 29. 4. 2024
-- *OS v Liberci* [18 C 17/2022-352](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:18.C.17.2022.1) — *odstoupení od smlouvy, ručení, znalecký posudek, smlouva kupní*
-- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2025:7.C.288.2024.1) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
+- *VS v Praze* [12 Cmo 146/2023-443](https://rozhodnuti.justice.cz/rozhodnuti/?id=e454ac93-4106-4361-aa2c-0f4c80f6a628) — 29. 4. 2024
+- *OS v Liberci* [18 C 17/2022-352](https://rozhodnuti.justice.cz/rozhodnuti/?id=6221b81d-116f-425e-9418-febf8583496e) — *odstoupení od smlouvy, ručení, znalecký posudek, smlouva kupní*
+- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/rozhodnuti/?id=6fbb6af8-b55a-427d-b349-0760e1642a47) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
 
 ---
 
@@ -887,9 +887,9 @@ Pro likvidaci se aplikují obecná pravidla § 187—209 OZ.
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 130/2022-205](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.130.2022.1) — 25. 1. 2023
-- *KS v Praze* [27 Co 55/2025-438](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:27.Co.55.2025.1) — *doménové jméno, advokacie, zadostiučinění / satisfakce, insolvence, dotace, nemajetková…*
-- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.331.2024.1) — 1. 4. 2025
+- *VS v Praze* [9 Cmo 130/2022-205](https://rozhodnuti.justice.cz/rozhodnuti/?id=dd230fc5-e12a-4821-8d4a-526dab71db4b) — 25. 1. 2023
+- *KS v Praze* [27 Co 55/2025-438](https://rozhodnuti.justice.cz/rozhodnuti/?id=bccec130-2706-4f26-89b3-9b773c7dc3ed) — *doménové jméno, advokacie, zadostiučinění / satisfakce, insolvence, dotace, nemajetková…*
+- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=c9fdce7a-15d5-4203-9bdf-29e5909a679e) — 1. 4. 2025
 
 ### § 403 — Vedlejší činnost
 
@@ -905,7 +905,7 @@ Stejná logika jako u nadace (§ 307) a spolku (§ 217) — vedlejší činnost 
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.227.2021.1) — 11. 2. 2022
+- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=c2630b69-0064-4b88-8315-4441419c175e) — 11. 2. 2022
 
 ### § 405 — Založení
 
@@ -936,8 +936,8 @@ Volitelně: dozorčí rada (počet, první členové).
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.43.2024.1) — 21. 3. 2024
-- *VS v Praze* [7 Cmo 118/2023-151](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:7.Cmo.118.2023.1) — 12. 12. 2024
+- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=8baaa577-4b7f-4e29-bfb0-c9ded3042782) — 21. 3. 2024
+- *VS v Praze* [7 Cmo 118/2023-151](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec37c058-9dca-446b-8cad-3ab2eeb854c3) — 12. 12. 2024
 
 ### § 406 — Změny zakladatelského jednání
 
@@ -949,8 +949,8 @@ Volitelně: dozorčí rada (počet, první členové).
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
-- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.322.2019.0) — 25. 5. 2020
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=973949f5-b02f-4856-a8fb-966ffb5ab191) — 23. 1. 2023
+- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b1e611f9-2f84-440c-98c7-58400b6acdfe) — 25. 5. 2020
 
 ### § 407 — Vznik
 
@@ -971,8 +971,8 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.43.2024.1) — 21. 3. 2024
-- *OS Praha-východ* [35 C 182/2024-378](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:35.C.182.2024.1) — *doménové jméno, zadostiučinění / satisfakce, podvod, insolvence, dotace, nemajetková újm…*
+- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=8baaa577-4b7f-4e29-bfb0-c9ded3042782) — 21. 3. 2024
+- *OS Praha-východ* [35 C 182/2024-378](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0c11de3-2e36-4296-b310-f13e51ad7faf) — *doménové jméno, zadostiučinění / satisfakce, podvod, insolvence, dotace, nemajetková újm…*
 
 ### § 409—410 — Správní rada
 
@@ -993,11 +993,11 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Bruntále* [207 C 15/2022-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:207.C.15.2022.1) — *bezdůvodné obohacení, insolvence, peněžité plnění, smlouva o úvěru*
-- *OS v Bruntále* [7 C 54/2022-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.54.2022.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
-- *OS v Bruntále* [7 C 21/2022-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.21.2022.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
-- *OS v Bruntále* [7 C 135/2021-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.135.2021.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o zápůjčce, smlouv…*
-- *OS v Bruntále* [7 C 23/2023-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2023:7.C.23.2023.1) — *bezdůvodné obohacení, peněžité plnění, smlouva o zápůjčce*
+- *OS v Bruntále* [207 C 15/2022-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=79bd5b4c-12d7-4226-a016-5944c2a0fa61) — *bezdůvodné obohacení, insolvence, peněžité plnění, smlouva o úvěru*
+- *OS v Bruntále* [7 C 54/2022-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9a89820-eea4-442a-b8cf-53a4cae86efd) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
+- *OS v Bruntále* [7 C 21/2022-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=54e5d8bd-6615-4a24-bb4a-aae0f5030c66) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
+- *OS v Bruntále* [7 C 135/2021-47](https://rozhodnuti.justice.cz/rozhodnuti/?id=ac05e2e2-aef9-45a2-9a99-8d6d2544c92f) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o zápůjčce, smlouv…*
+- *OS v Bruntále* [7 C 23/2023-23](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f2d1f5f-8a3c-416f-aad8-e3399d787522) — *bezdůvodné obohacení, peněžité plnění, smlouva o zápůjčce*
 
 ### § 411—412 — Další pravomoci SR
 
@@ -1028,10 +1028,10 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Judikatura (z místních zdrojů):**
 
-- *ObS pro Prahu 8* [10 C 56/2024-401](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2025:10.C.56.2024.1) — *právnická osoba, obvyklý dar, smlouva pracovní, bezdůvodné obohacení, dokazování, veřejn…*
-- *OS v Prostějově* [14 C 44/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:14.C.44.2023.1) — *insolvence, peněžité plnění, smlouva o úvěru*
-- *OS v Prostějově* [14 C 20/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:14.C.20.2023.1) — *insolvence, peněžité plnění, řidičský průkaz, smlouva o úvěru*
-- *OS v Rakovníku* [11 C 79/2021-59](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRA:2021:11.C.79.2021.1) — *náhradní pozemek, peněžité plnění, smlouva kupní, smlouva o smlouvě budoucí*
+- *ObS pro Prahu 8* [10 C 56/2024-401](https://rozhodnuti.justice.cz/rozhodnuti/?id=32b37cea-26cb-4c8c-bc40-edc792ddfd35) — *právnická osoba, obvyklý dar, smlouva pracovní, bezdůvodné obohacení, dokazování, veřejn…*
+- *OS v Prostějově* [14 C 44/2023](https://rozhodnuti.justice.cz/rozhodnuti/?id=e182098a-58de-4fc0-88d3-b1aa4d828558) — *insolvence, peněžité plnění, smlouva o úvěru*
+- *OS v Prostějově* [14 C 20/2023](https://rozhodnuti.justice.cz/rozhodnuti/?id=1282824c-af42-4552-bbab-3198c5877e46) — *insolvence, peněžité plnění, řidičský průkaz, smlouva o úvěru*
+- *OS v Rakovníku* [11 C 79/2021-59](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd3a1b90-5f00-43e4-9d3c-0dca6c91df5c) — *náhradní pozemek, peněžité plnění, smlouva kupní, smlouva o smlouvě budoucí*
 
 ### § 413 — Statut
 
@@ -1081,9 +1081,9 @@ Nenaplňování účelu dlouhodobě → soud zruší na návrh osoby s právním
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [7 Cmo 216/2022-164](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:7.Cmo.216.2022.1) — 13. 4. 2023
-- *OS v Kutné Hoře* [11 C 107/2020-242](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2021:11.C.107.2020.1) — *nájem bytu, znalecký posudek*
-- *OS ve Frýdku-Místku* [19 C 13/2011-707](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:19.C.13.2011.1) — *odpovědnost za škodu způsobenou provozem dopravních prostředků, opilost, peněžité plnění*
+- *VS v Praze* [7 Cmo 216/2022-164](https://rozhodnuti.justice.cz/rozhodnuti/?id=274df336-1f21-4afc-a4de-585fc3c3b3db) — 13. 4. 2023
+- *OS v Kutné Hoře* [11 C 107/2020-242](https://rozhodnuti.justice.cz/rozhodnuti/?id=f167b945-7f0b-493b-a1fa-78538db89ed3) — *nájem bytu, znalecký posudek*
+- *OS ve Frýdku-Místku* [19 C 13/2011-707](https://rozhodnuti.justice.cz/rozhodnuti/?id=6677b882-7900-42bb-81f6-1e7f6e4a49cf) — *odpovědnost za škodu způsobenou provozem dopravních prostředků, opilost, peněžité plnění*
 
 ### § 418 — Subsidiární použití pravidel o nadaci
 
@@ -1095,10 +1095,10 @@ Tj. pro fúzi/přeměnu/likvidaci ústavu platí pravidla § 376—393 přiměř
 
 **Judikatura (z místních zdrojů):**
 
-- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
-- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.331.2024.1) — 1. 4. 2025
-- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
-- *ObS pro Prahu 5* [13 C 515/2024-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:13.C.515.2024.1) — *smlouva o smlouvě budoucí, neplatnost právního jednání, dokazování, jistota, podnikatel,…*
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=973949f5-b02f-4856-a8fb-966ffb5ab191) — 23. 1. 2023
+- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=c9fdce7a-15d5-4203-9bdf-29e5909a679e) — 1. 4. 2025
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=338853d4-19e0-48ef-897f-37891e164435) — 2. 12. 2024
+- *ObS pro Prahu 5* [13 C 515/2024-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=8711f3ae-bc2f-43ce-8765-554882e92d64) — *smlouva o smlouvě budoucí, neplatnost právního jednání, dokazování, jistota, podnikatel,…*
 
 ---
 

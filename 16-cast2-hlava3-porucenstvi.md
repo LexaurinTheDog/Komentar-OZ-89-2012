@@ -129,7 +129,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *OS Plzeň-sever* [8 C 21/2024-185](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPS:2025:8.C.21.2024.1) — *služebnost, podvod, věcná břemena, dědické řízení, smlouva kupní, výprosa, oddlužení, dr…*
+- *OS Plzeň-sever* [8 C 21/2024-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=89db96df-8c39-41ef-8b36-cfc4b8a7b923) — *služebnost, podvod, věcná břemena, dědické řízení, smlouva kupní, výprosa, oddlužení, dr…*
 
 ### § 935—937 — Zánik a odvolání
 
@@ -163,7 +163,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Jindřichově Hradci* [13 C 147/2021-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJH:2021:13.C.147.2021.1) — *peněžité plnění, ústavní výchova*
+- *OS v Jindřichově Hradci* [13 C 147/2021-30](https://rozhodnuti.justice.cz/rozhodnuti/?id=fd7dd1f1-4ebc-4440-902a-f3b1d1601c0c) — *peněžité plnění, ústavní výchova*
 
 ### § 938—942 — Závěr funkce + speciální situace
 
@@ -557,11 +557,11 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 **Judikatura (z místních zdrojů):**
 
-- *OS v Hodoníně* [6 C 187/2022-65](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2023:6.C.187.2022.1) — *ústavní výchova, výživné*
-- *OS v Hodoníně* [6 C 133/2023-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2024:6.C.133.2023.1) — *zaopatřovací příspěvek, výživné, ústavní výchova, rodinná domácnost*
-- *OS v Šumperku* [15 C 23/2025-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSU:2025:15.C.23.2025.1) — *výživné, srážky ze mzdy, dokazování, pěstounská péče, majetek, náhrada nákladů, zaopatřo…*
-- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
-- *KS v Praze* [21 Co 30/2025-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:21.Co.30.2025.1) — *výživné, rodinná domácnost, bezdůvodné obohacení, zaopatřovací příspěvek, ústavní výchov…*
+- *OS v Hodoníně* [6 C 187/2022-65](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd670863-6aed-428b-9ae6-8069d0912f3f) — *ústavní výchova, výživné*
+- *OS v Hodoníně* [6 C 133/2023-57](https://rozhodnuti.justice.cz/rozhodnuti/?id=9eebc14a-fe34-4476-944a-c607546c0c08) — *zaopatřovací příspěvek, výživné, ústavní výchova, rodinná domácnost*
+- *OS v Šumperku* [15 C 23/2025-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=0e75fb8e-3dda-4cba-9fcf-74d0b7978a2f) — *výživné, srážky ze mzdy, dokazování, pěstounská péče, majetek, náhrada nákladů, zaopatřo…*
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/rozhodnuti/?id=48c8827c-a7b8-4bb5-b846-aff1c790746e) — *pěstounská péče, ústavní výchova, výživné*
+- *KS v Praze* [21 Co 30/2025-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=9bc8b184-657b-4fda-8f9b-b4cc28a36ef1) — *výživné, rodinná domácnost, bezdůvodné obohacení, zaopatřovací příspěvek, ústavní výchov…*
 
 ### § 972 — Doba a prodloužení
 
@@ -585,7 +585,7 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/rozhodnuti/?id=48c8827c-a7b8-4bb5-b846-aff1c790746e) — *pěstounská péče, ústavní výchova, výživné*
 
 ### § 973 — Pravidelný přezkum
 
@@ -618,8 +618,8 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 **Judikatura (z místních zdrojů):**
 
-- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 57/2020-467](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.57.2020 .1) — *peněžité plnění, výživné*
-- *KS v Ústí nad Labem, pobočka Liberec* [36 Co 220/2024-85](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:36.Co.220.2024.85) — *rozvod manželství, daň z nemovitosti, výživné*
-- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
-- *KS v Ústí nad Labem* [95 Co 165/2025-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:95.Co.165.2025.1) — *notářský zápis, spoluvlastnictví, mimořádné vydržení, smlouva kupní, podílové spoluvlast…*
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 57/2020-467](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc6de43f-e9f2-4d79-8c4c-54a8ec49ade2) — *peněžité plnění, výživné*
+- *KS v Ústí nad Labem, pobočka Liberec* [36 Co 220/2024-85](https://rozhodnuti.justice.cz/rozhodnuti/?id=26f471f5-adc3-49d6-9a9d-6b5d4aa9efff) — *rozvod manželství, daň z nemovitosti, výživné*
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/rozhodnuti/?id=48c8827c-a7b8-4bb5-b846-aff1c790746e) — *pěstounská péče, ústavní výchova, výživné*
+- *KS v Ústí nad Labem* [95 Co 165/2025-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=bd1e1a24-9bd4-4c6c-a688-9eeb4fcdceb8) — *notářský zápis, spoluvlastnictví, mimořádné vydržení, smlouva kupní, podílové spoluvlast…*
 
