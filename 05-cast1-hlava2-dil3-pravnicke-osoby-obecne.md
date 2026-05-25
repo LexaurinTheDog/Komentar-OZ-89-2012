@@ -154,7 +154,7 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 3041/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3041-12_1) — 5. 3. 2014
+- *ÚS* [IV. ÚS 3041/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3041-12_1) — usnesení, 5. 3. 2014
 - *NS* [27 Cdo 1739/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCF577A1F7F2CB68C125877F001E4386?openDocument) — *Veřejný rejstřík (zápis & výmaz) (o. z.) Neplatnost právního jednání (o. z.) Spolek (o.…*
 
 ---
@@ -357,9 +357,9 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2237/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2237-14_1) — 8. 6. 2015
-- *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — 15. 1. 2025
-- *ÚS* [Pl. ÚS 20/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-24_1) — 4. 9. 2024
+- *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — nález, 15. 1. 2025
+- *ÚS* [IV. ÚS 2237/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2237-14_1) — usnesení, 8. 6. 2015
+- *ÚS* [Pl. ÚS 20/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-24_1) — usnesení, 4. 9. 2024
 - *NS* [23 Cdo 3345/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB20FAEA86396C91C1258D760052C2D9?openDocument) — *Ochrana dobré pověsti právnické osoby Svoboda projevu*
 - *NS* [23 Cdo 3576/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB328758FF3FB871C1258D310023EB5E?openDocument) — *Ochrana dobré pověsti právnické osoby Přípustnost dovolání*
 - *NS* [25 Cdo 1560/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53AE45B4538E7E72C1258BE50052C3F6?openDocument) — *Vedlejší účastník Přípustnost dovolání*
@@ -456,7 +456,7 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 3893/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3893-13_1) — 20. 3. 2014
+- *ÚS* [III. ÚS 3893/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3893-13_1) — usnesení, 20. 3. 2014
 
 ---
 
@@ -514,8 +514,8 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — 13. 10. 2015
-- *ÚS* [III. ÚS 4001/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-4001-13_1) — 15. 5. 2014
+- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — usnesení, 13. 10. 2015
+- *ÚS* [III. ÚS 4001/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-4001-13_1) — usnesení, 15. 5. 2014
 
 ---
 
@@ -807,7 +807,7 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 276/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-276-14_1) — 4. 6. 2014
+- *ÚS* [IV. ÚS 276/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-276-14_1) — usnesení, 4. 6. 2014
 - *NS* [20 Cdo 1485/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15A2824FD0BAA5E5C1258D22004D3C2D?openDocument) — *Zastavení exekuce*
 - *NS* [24 Cdo 1550/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FFEB7A02A5234DFEC1258CCE004D3BB6?openDocument) — *Dědění Dědic zákonný Společná domácnost*
 - *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — *Záloha Započtení pohledávky Dividenda*
@@ -1024,7 +1024,7 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 1034/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1034-15_1) — 12. 5. 2015
+- *ÚS* [III. ÚS 1034/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1034-15_1) — usnesení, 12. 5. 2015
 - *NS* [30 Cdo 174/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/108E65EB3FAA12AEC12583D3003950EB?openDocument) — *Přípustnost dovolání Likvidace právnické osoby (o. z.) Statutární orgán*
 - *NS* [29 NSCR 34/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5BFD11C0AE6FB52C1258CCE004D3C8C?openDocument) — *Insolvenční řízení Přihláška pohledávky Likvidace právnické osoby (o. z.)*
 - *NS* [27 Cdo 2232/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F911C2115C14C56AC12589F700186857?openDocument) — *Veřejná obchodní společnost Vyloučení společníka Likvidace obchodní společnosti*

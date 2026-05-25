@@ -135,8 +135,8 @@ Hlava II se vztahuje na:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2526/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2526-14_1) — 15. 9. 2015
-- *ÚS* [I. ÚS 315/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-315-15_1) — 5. 3. 2015
+- *ÚS* [II. ÚS 2526/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2526-14_1) — usnesení, 15. 9. 2015
+- *ÚS* [I. ÚS 315/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-315-15_1) — usnesení, 5. 3. 2015
 - *NS* [22 Cdo 963/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9A4CEEE17976E15C1258CAB004D1DFE?openDocument) — *Nabytí vlastnického práva od neoprávněného*
 - *NS* [22 Cdo 679/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F8A5A742F5C50C6C1258C9F004D1E4A?openDocument) — *Přípustnost dovolání Dobrá víra Vlastnictví Vydržení Veřejný seznam (o. z.)*
 - *NS* [22 Cdo 817/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE47C821A493DA52C1258C77004D21F7?openDocument) — *Nabytí vlastnického práva od neoprávněného*
@@ -357,7 +357,7 @@ Hlava II se vztahuje na:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 162/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-162-26_1) — 4. 2. 2026
+- *ÚS* [II. ÚS 162/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-162-26_1) — usnesení, 4. 2. 2026
 
 ---
 
@@ -466,7 +466,7 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 415/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-415-14_1) — 24. 3. 2015
+- *ÚS* [II. ÚS 415/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-415-14_1) — nález, 24. 3. 2015
 - *NS* [22 Cdo 2848/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B94B71F2E39158FCC1258D650052BC55?openDocument) — *Imise*
 - *NS* [22 Cdo 1494/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/915AD7DBEF4FDE28C1258D3900472E89?openDocument) — *Imise Přípustnost dovolání*
 - *NS* [22 Cdo 2483/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489750AA199AE91EC1258D490052C0BE?openDocument) — *Imise*

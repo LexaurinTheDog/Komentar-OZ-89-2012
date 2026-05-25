@@ -236,7 +236,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 577/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-577-13_1) — 23. 6. 2015
+- *ÚS* [II. ÚS 577/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-577-13_1) — nález, 23. 6. 2015
 - *NS* [25 Cdo 2375/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42DA3D3A6ADDB6EDC1258CF3004D3878?openDocument) — *Ochrana osobnosti*
 - *NS* [25 Cdo 3277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FF949B0166873D3C1258CF3004D3883?openDocument) — *Osobnost člověka (o. z.)*
 - *NS* [30 Cdo 492/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA0620B0C27AC3EAC1258C69004D314C?openDocument) — *Ochrana osobnosti Odpovědnost státu za újmu Exces*
@@ -704,8 +704,8 @@ Toto pravidlo má **terapeutickou** i **etickou** dimenzi: pacient má právo na
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — 14. 4. 2015
-- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — 23. 9. 2014
+- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — usnesení, 14. 4. 2015
+- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — usnesení, 23. 9. 2014
 
 ---
 
@@ -779,7 +779,7 @@ Dva principy:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — 13. 10. 2015
+- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — usnesení, 13. 10. 2015
 - *NS* [5 Tdo 124/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77237A2924BE6039C1258796001E50F6?openDocument) — *Podvod Poškozování věřitele Promlčení trestní odpovědnosti Příčetnost Úvěrový podvod Zkr…*
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
 
@@ -859,9 +859,9 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 1366/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1366-15_1) — 11. 6. 2015
-- *ÚS* [IV. ÚS 1026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1026-14_1) — 25. 6. 2014
-- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — 3. 7. 2014
+- *ÚS* [III. ÚS 1366/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1366-15_1) — usnesení, 11. 6. 2015
+- *ÚS* [IV. ÚS 1026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1026-14_1) — usnesení, 25. 6. 2014
+- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — usnesení, 3. 7. 2014
 - *NS* [20 Cdo 807/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21AC326AC551E62BC1257FE5001A09B8?openDocument) — *Exekuce*
 
 ---

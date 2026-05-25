@@ -1063,7 +1063,7 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — usnesení, 29. 4. 2015
 
 ### § 416 — Výroční zpráva
 

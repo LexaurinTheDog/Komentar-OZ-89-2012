@@ -735,8 +735,8 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 3795/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3795-14_1) — 19. 2. 2015
-- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — 23. 1. 2014
+- *ÚS* [III. ÚS 3795/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3795-14_1) — usnesení, 19. 2. 2015
+- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — usnesení, 23. 1. 2014
 - *NS* [24 Cdo 2154/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AD6BF70F75A3551C1258BD40052AF85?openDocument) — *Vydědění*
 - *NS* [24 Cdo 1146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED4D76C6C6250510C1258B4E004D17C8?openDocument) — *Vydědění Žaloba určovací*
 - *NS* [24 Cdo 811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52C155DB1A69A887C1258B12004D4E27?openDocument) — *Vydědění Přípustnost dovolání*

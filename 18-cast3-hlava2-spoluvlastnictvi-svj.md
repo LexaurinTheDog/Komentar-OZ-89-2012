@@ -82,7 +82,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2142/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2142-14_1) — 23. 9. 2014
+- *ÚS* [II. ÚS 2142/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2142-14_1) — usnesení, 23. 9. 2014
 - *NS* [22 ICdo 15/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0FAC07FB2D8376B6C1258DD5004D36AF?openDocument) — *Mimořádné vydržení (o. z.)*
 - *NS* [22 Cdo 16/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54CA21C58B8EDB6C1258DAF0052C064?openDocument) — *Přípustnost dovolání Mimořádné vydržení (o. z.) Vlastnictví Žaloba určovací Pozemkový úřad*
 - *NS* [22 Cdo 3108/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8BDEDAC2F5719E6C1258DA60052AA39?openDocument) — *Mimořádné vydržení (o. z.)*
@@ -134,7 +134,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 51/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-51-23_1) — 28. 2. 2023
+- *ÚS* [III. ÚS 51/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-51-23_1) — usnesení, 28. 2. 2023
 
 ### § 1100 — Postupný převod různým osobám
 

@@ -755,7 +755,7 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2879/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2879-14_1) — 7. 10. 2014
+- *ÚS* [II. ÚS 2879/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2879-14_1) — usnesení, 7. 10. 2014
 - *NS* [27 Cdo 1605/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6527318390CDAFFC1258B44004D4618?openDocument) — *Společnost s ručením omezeným Společník Jednání ve shodě Ovládání Solidarita dlužníků*
 - *NS* [29 Cdo 3005/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/865EB9556A046ACAC1258A79001B857F?openDocument) — *Insolvenční řízení Solidarita věřitelů Majetková podstata*
 - *NS* [33 Cdo 2622/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/685E518142CA96AAC1258906001F891B?openDocument) — *Splnění dluhu*

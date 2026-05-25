@@ -104,9 +104,9 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 1782/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1782-15_1) — 16. 7. 2015
-- *ÚS* [IV. ÚS 3188/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3188-14_1) — 11. 12. 2014
-- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
+- *ÚS* [III. ÚS 1782/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1782-15_1) — usnesení, 16. 7. 2015
+- *ÚS* [IV. ÚS 3188/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3188-14_1) — usnesení, 11. 12. 2014
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
 - *NS* [30 Cdo 2893/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA000D7FDDF8703C1258D840052B087?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ]*
 - *NS* [22 Cdo 2350/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB4E589C083A7184C1258D480052C13D?openDocument) — *Zisk Podnikání Dobré mravy*
 - *NS* [21 Cdo 2993/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/494D255BA663421DC1258C440052B307?openDocument) — *Dražba Insolvenční řízení Výklad právních předpisů (výklad právních norem)*
@@ -147,12 +147,12 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 716/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-716-14_1) — 8. 7. 2015
-- *ÚS* [II. ÚS 2678/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2678-14_1) — 28. 4. 2015
-- *ÚS* [II. ÚS 804/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-804-14_1) — 14. 10. 2014
-- *ÚS* [II. ÚS 589/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-589-13_1) — 8. 7. 2014
-- *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — 9. 9. 2015
-- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — 23. 9. 2014
+- *ÚS* [IV. ÚS 716/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-716-14_1) — usnesení, 8. 7. 2015
+- *ÚS* [II. ÚS 2678/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2678-14_1) — usnesení, 28. 4. 2015
+- *ÚS* [II. ÚS 804/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-804-14_1) — usnesení, 14. 10. 2014
+- *ÚS* [II. ÚS 589/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-589-13_1) — usnesení, 8. 7. 2014
+- *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — usnesení, 9. 9. 2015
+- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — usnesení, 23. 9. 2014
 - *NS* [25 Cdo 1019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43CC7C0402FC53F6C1258C4500529BBF?openDocument) — *Předběžná otázka Dobré mravy*
 - *NS* [26 Cdo 1171/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D103CB1BD0054F01C125876C00189DD2?openDocument) — *Ochrana vlastnictví Promlčení Dobré mravy*
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
@@ -278,7 +278,7 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — 23. 6. 2015
+- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — usnesení, 23. 6. 2015
 - *NS* [27 Cdo 2126/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82A2B48544644291C1258BEB0052C157?openDocument) — *Dobrá víra Obchodní rejstřík Statutární orgán Zastoupení*
 - *NS* [22 Cdo 1946/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A40DCF6734A98BFC1258D2D004D1D94?openDocument) — *Katastr nemovitostí Dobrá víra*
 - *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
@@ -494,11 +494,11 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 1976/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1976-15_1) — 20. 10. 2015
-- *ÚS* [I. ÚS 491/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-491-15_1) — 22. 9. 2015
-- *ÚS* [II. ÚS 1512/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1512-15_1) — 8. 9. 2015
-- *ÚS* [I. ÚS 3917/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3917-11_1) — 6. 3. 2014
-- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — 23. 6. 2015
+- *ÚS* [I. ÚS 491/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-491-15_1) — nález, 22. 9. 2015
+- *ÚS* [II. ÚS 1976/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1976-15_1) — usnesení, 20. 10. 2015
+- *ÚS* [II. ÚS 1512/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1512-15_1) — usnesení, 8. 9. 2015
+- *ÚS* [I. ÚS 3917/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3917-11_1) — usnesení, 6. 3. 2014
+- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — usnesení, 23. 6. 2015
 - *NS* [28 Cdo 2174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53465E92D0A5A74DC1258DB00052C041?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek*
 - *NS* [25 Cdo 2171/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2580657FC767F617C1258CD9004D23E9?openDocument) — *Náklady léčení Dovolání Přípustnost dovolání*
 - *NS* [28 Cdo 174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A000C27BE9EB7B19C1258CCE004D3C02?openDocument) — *Bezdůvodné obohacení Dokazování*

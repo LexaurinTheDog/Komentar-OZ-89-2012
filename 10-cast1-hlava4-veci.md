@@ -474,7 +474,7 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2984/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-14_1) — 22. 4. 2015
+- *ÚS* [II. ÚS 2984/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-14_1) — usnesení, 22. 4. 2015
 - *NS* [23 Cdo 3596/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/650045140B5091DEC125879C001E178E?openDocument) — *Obchodní tajemství*
 - *NS* [23 Cdo 2736/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1A59DB1BCDFB628C1258CF8004D26C5?openDocument) — *Přípustnost dovolání Nekalá soutěž Obchodní tajemství*
 - *NS* [5 Tdo 1130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/382F6934D973635DC12583D5001805F2?openDocument) — *Nekalá soutěž Obchodní tajemství Porušení předpisů o pravidlech hospodářské soutěže*
@@ -709,8 +709,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 562/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-562-15_1) — 20. 10. 2015
-- *ÚS* [II. ÚS 999/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-999-15_1) — 2. 6. 2015
+- *ÚS* [II. ÚS 562/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-562-15_1) — usnesení, 20. 10. 2015
+- *ÚS* [II. ÚS 999/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-999-15_1) — usnesení, 2. 6. 2015
 - *NS* [30 Cdo 6056/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0352EA3EE18DA2C0C12582E8002631FA?openDocument) — *Odpovědnost státu za škodu Zadostiučinění (satisfakce) Příslušenství pohledávky*
 - *NS* [28 Cdo 3508/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37D2DD5471765B79C125848D0015FB82?openDocument) — *Zmírnění křivd (restituce) Stát Pozemkový úřad*
 - *NS* [29 ICdo 98/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475DC66985DD4644C1258BD600527FD7?openDocument) — *Oddlužení Incidenční spory (odporové spory) Popření pohledávky Poučovací povinnost soudu*

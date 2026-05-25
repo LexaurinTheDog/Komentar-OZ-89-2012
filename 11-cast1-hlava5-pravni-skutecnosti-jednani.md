@@ -335,7 +335,7 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2798/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2798-14_1) — 24. 6. 2015
+- *ÚS* [IV. ÚS 2798/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2798-14_1) — usnesení, 24. 6. 2015
 - *NS* [28 Cdo 1331/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED7C950CC6414464C1257C050034CE35?openDocument) — *Postoupení pohledávky Promlčení Uznání závazku*
 - *NS* [26 Cdo 2280/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B410AFCD85AD679C1258D750052CA46?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [28 Cdo 3520/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA8D50EA588D6234C1258C92004D0A3A?openDocument) — *Závazek (o. z.)*
@@ -674,7 +674,7 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — 9. 9. 2014
+- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — usnesení, 9. 9. 2014
 - *NS* [25 Cdo 1993/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FE942A101AE0BAC1258A3500160EC0?openDocument) — *Ušlý zisk Neplatnost smlouvy Přípustnost dovolání*
 - *NS* [24 Cdo 1608/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F93BC0DEA103273C1258812001B7C7B?openDocument) — *Přípustnost dovolání Vklad do katastru nemovitostí*
 - *NS* [23 Cdo 568/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE215360101D41C0C125872C0018AFDD?openDocument) — *Rozhodčí doložka Neplatnost právního jednání (o. z.)*
@@ -722,7 +722,7 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 173/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-173-13_1) — 20. 8. 2014
+- *ÚS* [I. ÚS 173/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-173-13_1) — nález, 20. 8. 2014
 - *NS* [29 ICdo 62/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/939EA175960351DBC1258DD5004D3641?openDocument) — *Insolvenční řízení Neplatnost právního jednání (o. z.) Postoupení pohledávky*
 - *NS* [27 Cdo 570/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D396ED28A30007EC1258CFA004D3FD6?openDocument) — *Přípustnost dovolání Dobré mravy Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
 - *NS* [28 Cdo 575/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FFEFA20F0095A02C1258CC0004D0B08?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek Svéprávnost (o. z.) Dokazování*
@@ -809,7 +809,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — 5. 2. 2014
+- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — usnesení, 5. 2. 2014
 - *NS* [29 ICdo 100/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE77BEB5DE139F53C1258D18004D3C0C?openDocument) — *Přípustnost dovolání Neplatnost právního jednání (o. z.) Incidenční spory (vylučovací ža…*
 - *NS* [21 Cdo 512/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/825280B971C27D37C1258D0A004D1CE4?openDocument) — *Přípustnost dovolání Dokazování Dovolací důvody Náklady řízení Bezprávná výhrůžka Dobré…*
 - *NS* [33 ICdo 92/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED77758F4AACA4A6C1258C6D004D22E3?openDocument) — *Spotřebitel Smlouva spotřebitelská Dobré mravy*
@@ -1010,7 +1010,7 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 353/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-353-14_1) — 19. 2. 2015
+- *ÚS* [II. ÚS 353/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-353-14_1) — usnesení, 19. 2. 2015
 - *NS* [27 Cdo 2025/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4EFD16E7F9CDA64C12585880018F3F6?openDocument) — *Obchodní rejstřík Veřejný seznam (o. z.) Veřejný rejstřík (zápis & výmaz) (o. z.)*
 - *NS* [29 Cdo 1772/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C191402796792D1FC1258A21001610FA?openDocument) — *Neúčinnost právního jednání Smír Rozsudek pro uznání*
 - *NS* [29 Cdo 334/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument) — *Neúčinnost právního jednání Pohledávka Dlužník Věřitel*

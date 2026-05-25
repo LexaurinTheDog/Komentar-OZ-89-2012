@@ -361,7 +361,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 504/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-504-26_1) — 11. 3. 2026
+- *ÚS* [II. ÚS 504/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-504-26_1) — usnesení, 11. 3. 2026
 - *NS* [33 Cdo 1234/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA05DD58D4CAEA92C1258D23004D2971?openDocument) — *Přípustnost dovolání Smlouva o dílo*
 - *NS* [33 Cdo 204/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2033CEBF8A0E7757C1258C500052A284?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy*
 - *NS* [23 Cdo 3170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00B87AF5E36BF8B2C1258C090052B4CD?openDocument) — *Přípustnost dovolání Vady*
@@ -475,7 +475,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 24/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-24-23_1) — 7. 2. 2023
+- *ÚS* [III. ÚS 24/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-24-23_1) — usnesení, 7. 2. 2023
 - *NS* [23 Cdo 2938/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B0D3247F97AD988C125892A001EAEA2?openDocument) — *Smlouva kupní*
 - *NS* [27 Cdo 1531/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCBCC43AE881CAF8C12584C4001E0D00?openDocument) — *Přípustnost dovolání Lhůty*
 - *NS* [33 Cdo 2488/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3189A8988A03E13C1258719001871C5?openDocument) — *Odstoupení od smlouvy Odpovědnost za vady*

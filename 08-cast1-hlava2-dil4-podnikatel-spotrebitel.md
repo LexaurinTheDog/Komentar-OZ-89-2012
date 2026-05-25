@@ -101,8 +101,8 @@ Rozšíření zahrnuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 651/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-651-14_1) — 10. 7. 2014
-- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 651/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-651-14_1) — usnesení, 10. 7. 2014
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — usnesení, 29. 4. 2015
 - *NS* [33 Cdo 2512/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F1FE6435921FDEFC1258AFE004D1AA3?openDocument) — *Podnikatel*
 - *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
 - *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
@@ -212,7 +212,7 @@ Obojí lze mít současně a vzájemně se doplňují.
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — usnesení, 29. 4. 2015
 - *NS* [23 Cdo 900/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA56B862D56CF8D0C1258BB3004D3B63?openDocument) — *Obchodní firma Přípustnost dovolání*
 - *NS* [23 Cdo 1404/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F752B9EA3EC0E12DC12588F4001DF496?openDocument) — *Přípustnost dovolání Obchodní firma*
 - *NS* [23 Cdo 1308/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50A615966A074CBCC12585D40019AEB3?openDocument) — *Obchodní firma*

@@ -376,7 +376,7 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 3394/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3394-13_1) — 25. 3. 2014
+- *ÚS* [II. ÚS 3394/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3394-13_1) — usnesení, 25. 3. 2014
 
 #### § 689 — Volba činností s ohledem na rodinu
 
@@ -409,7 +409,7 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 2930/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2930-13_2) — 11. 11. 2014
+- *ÚS* [I. ÚS 2930/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2930-13_2) — nález, 11. 11. 2014
 - *NS* [22 Cdo 615/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8451903B0D28E38C1258BCD00529788?openDocument) — *Společné jmění manželů Vypořádání SJM*
 - *NS* [21 Cdo 2108/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E3D9FE9C66106F3BC1258BB6004D3B68?openDocument) — *Škoda Přípustnost dovolání Zaměstnanci Pracovní úraz Dokazování*
 
@@ -466,7 +466,7 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2805/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2805-14_1) — 25. 11. 2014
+- *ÚS* [II. ÚS 2805/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2805-14_1) — usnesení, 25. 11. 2014
 
 #### § 698—699 — Obvyklé vybavení domácnosti
 
@@ -532,7 +532,7 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — 9. 9. 2015
+- *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — usnesení, 9. 9. 2015
 - *NS* [21 Cdo 4888/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBEAB656773B1D7BC125841B001604F6?openDocument) — *Rodinný závod (o. z.) Manželské majetkové právo (o. z.)*
 
 ### Oddíl 2 — Manželské majetkové právo (§ 708—742)
@@ -623,8 +623,8 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 25/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-25-14_1) — 1. 9. 2015
-- *ÚS* [I. ÚS 3433/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3433-13_1) — 24. 1. 2014
+- *ÚS* [Pl. ÚS 25/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-25-14_1) — usnesení, 1. 9. 2015
+- *ÚS* [I. ÚS 3433/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3433-13_1) — usnesení, 24. 1. 2014
 - *NS* [24 Cdo 2685/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9112E2C095C2DDE1C1258912004AE1A8?openDocument) — *Odkaz (odkazovník) (o. z.) Nepominutelný dědic (o. z.)*
 
 ##### § 713—715 — Správa SJM
@@ -755,7 +755,7 @@ Soud na návrh **zruší nebo zúží** SJM. **Závažné důvody vždy**:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — 5. 2. 2014
+- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — usnesení, 5. 2. 2014
 - *NS* [22 Cdo 1183/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/31A3597B8169F8AEC1258CB7004D3547?openDocument) — *Přípustnost dovolání Společné jmění manželů*
 - *NS* [22 Cdo 1491/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A418BDB81460187C1258A2C00160D99?openDocument) — *Vypořádání SJM Přípustnost dovolání*
 
@@ -1023,7 +1023,7 @@ V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnik�
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 902/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-902-15_1) — 21. 7. 2015
+- *ÚS* [II. ÚS 902/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-902-15_1) — usnesení, 21. 7. 2015
 - *NS* [20 Ncu 164/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/361EA768EB0F039FC1258DD3004D1FB8?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
 - *NS* [20 Ncu 144/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41ED075042226C4EC1258DC50052B493?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
 - *NS* [20 Ncu 19/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC030223FA814805C1258DCB004D0785?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*

@@ -40,8 +40,8 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — 15. 1. 2025
-- *ÚS* [Pl. ÚS 20/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-24_1) — 4. 9. 2024
+- *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — nález, 15. 1. 2025
+- *ÚS* [Pl. ÚS 20/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-24_1) — usnesení, 4. 9. 2024
 - *NS* [23 Cdo 2136/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/848E8B7EC6E21ADCC12588520017F39C?openDocument) — *Náhrada škody*
 - *NS* [23 Cdo 3344/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78D423F9C3039A9DC1258D730052AFE3?openDocument) — *Ochrana osobnosti*
 - *NS* [23 Cdo 3119/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F43399589F6E13BC1258D610052BC27?openDocument) — *Přípustnost dovolání Vady podání Nekalá soutěž Náhrada nemajetkové újmy (o. z.)*
@@ -437,8 +437,8 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 1422/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1422-15_1) — 20. 10. 2015
-- *ÚS* [I. ÚS 668/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-668-15_1) — 11. 8. 2015
+- *ÚS* [I. ÚS 668/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-668-15_1) — nález, 11. 8. 2015
+- *ÚS* [II. ÚS 1422/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1422-15_1) — usnesení, 20. 10. 2015
 - *NS* [29 Cdo 3840/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F09811EB6C2F6FFC1258D760052C30E?openDocument) — *Náhrada škody Ušlý zisk Insolvenční správce Odpovědnost státu za škodu [ Odpovědnost stá…*
 - *NS* [25 Cdo 3056/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB48ED363887A2E9C1258CB7004D354E?openDocument) — *Náhrada škody Přípustnost dovolání*
 - *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
@@ -470,9 +470,9 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 29/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-29-24_1) — 24. 1. 2024
-- *ÚS* [Pl. ÚS 27/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-23_1) — 11. 10. 2023
-- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — 28. 5. 2024
+- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
+- *ÚS* [III. ÚS 29/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-29-24_1) — usnesení, 24. 1. 2024
+- *ÚS* [Pl. ÚS 27/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-27-23_1) — usnesení, 11. 10. 2023
 - *NS* [21 Cdo 2130/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3FD1FCB00004ABCC1258D940052985C?openDocument) — *Přípustnost dovolání Pracovní úraz Nemajetková újma (o. z.) Ztížení společenského uplatn…*
 - *NS* [30 Cdo 2794/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11833FC8633655AC1258D8800529993?openDocument) — *Bolestné Ztížení společenského uplatnění Nemajetková újma (o. z.) Náklady řízení*
 - *NS* [25 Cdo 2322/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA68F4D34D93C98CC1258D320052ADF9?openDocument) — *Nemajetková újma (o. z.) Náhrada nemajetkové újmy (o. z.)*
@@ -492,7 +492,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — 28. 5. 2024
+- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
 - *NS* [25 Cdo 3525/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03A277ED20EC6B25C1258D710052AB07?openDocument) — *Nemajetková újma (o. z.) Pojištění*
 - *NS* [25 Cdo 1815/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA9E4370EA4E575AC1258D2B004D1F3E?openDocument) — *Přípustnost dovolání Duševní útrapy (o. z.) [ Náhrada při újmě na přirozených právech čl…*
 - *NS* [25 Cdo 2334/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F37A61D99D97B25FC1258D06004D2473?openDocument) — *Náhrady při ublížení na zdraví a při usmrcení (o. z.) Náhrada nemajetkové újmy (o. z.)*
@@ -553,7 +553,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — 28. 5. 2024
+- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
 - *NS* [25 Cdo 2061/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37A61802C92FFD24C1258CFA004D401D?openDocument) — *Náhrada za ztrátu na výdělku*
 - *NS* [25 Cdo 1906/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BAD67712C113580DC1258BB7004D52A8?openDocument) — *Náhrada za ztrátu na výdělku*
 - *NS* [25 Cdo 3542/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53B4161112988A95C1258AEC00529929?openDocument) — *Nemajetková újma (o. z.) Domácnost*
@@ -595,7 +595,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — 28. 5. 2024
+- *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
 - *NS* [25 Cdo 2672/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0CE1EB0BFBE75FDC1258C470052B350?openDocument) — *Náhrada škody Škoda*
 - *NS* [25 Cdo 650/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68684CF056CBAB86C1258AFB004D309D?openDocument) — *Náhrada škody Škoda Vady řízení*
 - *NS* [25 Cdo 27/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B7C8DF7F3FE1F11C1258B08004D1F8E?openDocument) — *Nemajetková újma (o. z.) Přípustnost dovolání*

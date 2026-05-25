@@ -98,7 +98,7 @@ Hlava III pokrývá:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 452/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-452-26_1) — 5. 3. 2026
+- *ÚS* [IV. ÚS 452/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-452-26_1) — usnesení, 5. 3. 2026
 - *NS* [26 Cdo 2355/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475438A7398366F0C1258D500052A4BF?openDocument) — *Přípustnost dovolání Zastoupení*
 - *NS* [27 Cdo 2699/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8342058E4C1098D7C125895D001DFD6E?openDocument) — *Člen voleného orgánu [ Právnická osoba ] Konflikt zájmů Obchodní korporace*
 - *NS* [27 Cdo 3660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07DC9577AAB49B0FC1258955004080FC?openDocument) — *Plná moc Právní jednání (o. z.)*
@@ -250,7 +250,7 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — 3. 7. 2014
+- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — usnesení, 3. 7. 2014
 
 #### § 443 — Zmocnění PO
 
@@ -447,9 +447,9 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — 25. 6. 2015
-- *ÚS* [IV. ÚS 800/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-800-14_1) — 26. 8. 2015
-- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — 5. 2. 2014
+- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — usnesení, 25. 6. 2015
+- *ÚS* [IV. ÚS 800/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-800-14_1) — usnesení, 26. 8. 2015
+- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — usnesení, 5. 2. 2014
 - *NS* [30 Cdo 5260/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5728E77BFC17376EC125817200262874?openDocument) — *Příslušnost soudu mezinárodní Příslušnost soudu věcná Zástavní právo Bezdůvodné obohacen…*
 - *NS* [28 Cdo 3186/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3EB3776C18EA40CC1257D8800630CFF?openDocument) — *Bezdůvodné obohacení*
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
@@ -612,8 +612,8 @@ Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opat
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 610/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-610-14_1) — 7. 8. 2014
-- *ÚS* [II. ÚS 3898/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3898-13_1) — 21. 5. 2014
+- *ÚS* [III. ÚS 610/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-610-14_1) — usnesení, 7. 8. 2014
+- *ÚS* [II. ÚS 3898/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3898-13_1) — usnesení, 21. 5. 2014
 - *NS* [24 Cdo 2497/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AE2B67D4164C5D2C125866E001DBE33?openDocument) — *Opatrovník Kolizní opatrovník (o. z.)*
 
 #### § 461—464 — Správa jmění, odměna, opatrovník
@@ -737,7 +737,7 @@ Tento institut je analogií k smlouvě o nápomoci (§ 45) ale s **rozšířený
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — 23. 1. 2014
+- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — usnesení, 23. 1. 2014
 - *NS* [24 Cdo 2532/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4572818271196BEC12589FD002D3357?openDocument) — *Omezení svéprávnosti (o.z.) Opatrovník Jméno a příjmení*
 - *NS* [30 Cdo 5999/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F912D8BBA126813CC125818600473D9E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Přípustnost dovolání*
 - *NS* [24 Cdo 917/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/727B97CEAD08959BC1258622001D3A30?openDocument) — *Ustanovení zástupce Opatrovník Konflikt zájmů*
@@ -750,7 +750,7 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — 26. 8. 2014
+- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — usnesení, 26. 8. 2014
 - *NS* [24 Cdo 917/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/727B97CEAD08959BC1258622001D3A30?openDocument) — *Ustanovení zástupce Opatrovník Konflikt zájmů*
 
 #### § 471 — Výběr opatrovníka
@@ -770,7 +770,7 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — 25. 6. 2015
+- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — usnesení, 25. 6. 2015
 - *NS* [24 Cdo 2668/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADF916784ECD5816C1258D420052A358?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Obec*
 - *NS* [24 Cdo 2514/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27CCDFEBE0E86EF0C1258941001E2668?openDocument) — *Přípustnost dovolání Opatrovník hmotně právní [ Opatrovník ]*
 - *NS* [24 Cdo 1491/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/910018EEF1171F21C1258941001E265B?openDocument) — *Opatrovník Opatrovník hmotně právní [ Opatrovník ] Přípustnost dovolání*
@@ -1010,7 +1010,7 @@ Specializované neziskové organizace pro péči o osoby se zdravotním postiže
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — 26. 8. 2014
+- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — usnesení, 26. 8. 2014
 
 ### Oddíl 3 — Opatrovnictví právnické osoby (§ 486—488)
 

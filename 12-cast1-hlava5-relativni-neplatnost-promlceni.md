@@ -175,8 +175,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2026-14_1) — 1. 10. 2014
-- *ÚS* [IV. ÚS 4868/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-4868-12_1) — 3. 4. 2014
+- *ÚS* [IV. ÚS 2026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2026-14_1) — nález, 1. 10. 2014
+- *ÚS* [IV. ÚS 4868/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-4868-12_1) — usnesení, 3. 4. 2014
 - *NS* [30 Cdo 3248/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43167E03586773C5C1258803001B7BD8?openDocument) — *Zadostiučinění (satisfakce) Promlčení Odpovědnost státu za nemajetkovou újmu [ Odpovědno…*
 - *NS* [25 Cdo 1582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/888A2D16F9875C82C1258A1A0016119B?openDocument) — *Promlčení Nemajetková újma (o. z.)*
 
@@ -471,7 +471,7 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 3463/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3463-14_1) — 9. 12. 2014
+- *ÚS* [II. ÚS 3463/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3463-14_1) — usnesení, 9. 12. 2014
 - *NS* [23 Cdo 2444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACDAADE3890F8FE0C1258AD6001B868E?openDocument) — *Promlčení*
 
 #### § 631—644 — Speciální lhůty

@@ -35,8 +35,8 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 433/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-433-15_1) — 26. 3. 2015
-- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
+- *ÚS* [I. ÚS 433/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-433-15_1) — usnesení, 26. 3. 2015
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
 - *NS* [8 Tdo 1003/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CAEB178FEBBB3BAC125866E001FEE50?openDocument) — 22. 10. 2020
 
 ### § 856 — Časový rozsah
@@ -116,7 +116,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
 - *NS* [7 Tdo 596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DFF16DA99F28234C1258D07004D04FB?openDocument) — *Ublížení na zdraví z nedbalosti Rodičovská zodpovědnost Subsidiarita trestní represe*
 - *NS* [4 Tdo 75/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A0073378A0F2F69C1258B470015F9F7?openDocument) — *Dokazování Listinný důkaz Maření výkonu úředního rozhodnutí a vykázání Ohrožování výchov…*
 - *NS* [24 Cdo 1447/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E189EAEBCC5ECEBC12587690018C0DE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
@@ -260,10 +260,10 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 3078/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3078-14_1) — 12. 11. 2014
-- *ÚS* [I. ÚS 2974/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2974-13_1) — 10. 7. 2014
-- *ÚS* [III. ÚS 2135/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2135-15_1) — 13. 8. 2015
-- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
+- *ÚS* [IV. ÚS 3078/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3078-14_1) — usnesení, 12. 11. 2014
+- *ÚS* [I. ÚS 2974/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2974-13_1) — usnesení, 10. 7. 2014
+- *ÚS* [III. ÚS 2135/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2135-15_1) — usnesení, 13. 8. 2015
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
 - *NS* [30 Cdo 1811/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B66A0FA44D45D7C1258AB1001B7EAA?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
 - *NS* [24 Cdo 3032/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1BC9E254D4D0F8CC12588370017DC32?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
 - *NS* [24 Cdo 2837/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/499503948E8CDCFCC12586E0001858C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
@@ -614,15 +614,15 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 320/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-320-26_1) — 12. 2. 2026
-- *ÚS* [IV. ÚS 3330/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3330-14_1) — 14. 10. 2015
-- *ÚS* [III. ÚS 2053/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2053-15_1) — 24. 9. 2015
-- *ÚS* [I. ÚS 1234/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1234-15_1) — 12. 8. 2015
-- *ÚS* [IV. ÚS 3583/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3583-14_1) — 26. 5. 2015
-- *ÚS* [III. ÚS 816/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-816-15_1) — 12. 5. 2015
-- *ÚS* [IV. ÚS 3659/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3659-14_1) — 20. 4. 2015
-- *ÚS* [IV. ÚS 582/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-582-15_1) — 9. 4. 2015
-- *ÚS* [IV. ÚS 106/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-106-15_1) — 17. 3. 2015
+- *ÚS* [I. ÚS 2482/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2482-13_1) — nález, 26. 5. 2014
+- *ÚS* [II. ÚS 320/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-320-26_1) — usnesení, 12. 2. 2026
+- *ÚS* [IV. ÚS 3330/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3330-14_1) — usnesení, 14. 10. 2015
+- *ÚS* [III. ÚS 2053/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2053-15_1) — usnesení, 24. 9. 2015
+- *ÚS* [I. ÚS 1234/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1234-15_1) — usnesení, 12. 8. 2015
+- *ÚS* [IV. ÚS 3583/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3583-14_1) — usnesení, 26. 5. 2015
+- *ÚS* [III. ÚS 816/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-816-15_1) — usnesení, 12. 5. 2015
+- *ÚS* [IV. ÚS 3659/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3659-14_1) — usnesení, 20. 4. 2015
+- *ÚS* [IV. ÚS 582/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-582-15_1) — usnesení, 9. 4. 2015
 
 ---
 
@@ -698,13 +698,13 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2412/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2412-15_1) — 3. 11. 2015
-- *ÚS* [II. ÚS 2877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2877-14_1) — 20. 10. 2015
-- *ÚS* [I. ÚS 30/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-30-15_1) — 15. 7. 2015
-- *ÚS* [II. ÚS 3628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3628-14_1) — 24. 3. 2015
-- *ÚS* [IV. ÚS 2271/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2271-14_1) — 14. 10. 2014
-- *ÚS* [II. ÚS 2805/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2805-14_1) — 25. 11. 2014
-- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
+- *ÚS* [II. ÚS 2412/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2412-15_1) — usnesení, 3. 11. 2015
+- *ÚS* [II. ÚS 2877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2877-14_1) — usnesení, 20. 10. 2015
+- *ÚS* [I. ÚS 30/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-30-15_1) — usnesení, 15. 7. 2015
+- *ÚS* [II. ÚS 3628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3628-14_1) — usnesení, 24. 3. 2015
+- *ÚS* [IV. ÚS 2271/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2271-14_1) — usnesení, 14. 10. 2014
+- *ÚS* [II. ÚS 2805/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2805-14_1) — usnesení, 25. 11. 2014
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
 - *NS* [3 Tdo 637/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5D688BF56ACD59EC1258BCC0052AE69?openDocument) — *Předběžné otázky Výživné Vyživovací povinnost Zanedbání povinné výživy z nedbalosti*
 - *NS* [4 Tdo 1157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E2B0616DD5665CFC1258AF5004D30FF?openDocument) — *Dokazování Předběžné otázky Subjektivní stránka Vyživovací povinnost Zanedbání povinné v…*
 
@@ -747,13 +747,13 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 1245/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1245-15_1) — 23. 6. 2015
-- *ÚS* [III. ÚS 527/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-527-15_1) — 19. 3. 2015
-- *ÚS* [II. ÚS 2198/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2198-14_1) — 13. 1. 2015
-- *ÚS* [II. ÚS 2727/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2727-14_1) — 19. 11. 2014
-- *ÚS* [II. ÚS 2232/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2232-14_1) — 26. 8. 2014
-- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — 31. 8. 2015
-- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
+- *ÚS* [II. ÚS 1245/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1245-15_1) — usnesení, 23. 6. 2015
+- *ÚS* [III. ÚS 527/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-527-15_1) — usnesení, 19. 3. 2015
+- *ÚS* [II. ÚS 2198/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2198-14_1) — usnesení, 13. 1. 2015
+- *ÚS* [II. ÚS 2727/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2727-14_1) — usnesení, 19. 11. 2014
+- *ÚS* [II. ÚS 2232/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2232-14_1) — usnesení, 26. 8. 2014
+- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — usnesení, 31. 8. 2015
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
 - *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
 - *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
 
@@ -827,12 +827,12 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 699/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-699-15_1) — 26. 5. 2015
-- *ÚS* [IV. ÚS 1104/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1104-15_1) — 26. 5. 2015
-- *ÚS* [I. ÚS 3968/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3968-14_1) — 24. 2. 2015
-- *ÚS* [IV. ÚS 1738/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1738-14_1) — 19. 8. 2014
-- *ÚS* [III. ÚS 1877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1877-14_1) — 17. 7. 2014
-- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — 31. 8. 2015
+- *ÚS* [II. ÚS 699/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-699-15_1) — usnesení, 26. 5. 2015
+- *ÚS* [IV. ÚS 1104/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1104-15_1) — usnesení, 26. 5. 2015
+- *ÚS* [I. ÚS 3968/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3968-14_1) — usnesení, 24. 2. 2015
+- *ÚS* [IV. ÚS 1738/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1738-14_1) — usnesení, 19. 8. 2014
+- *ÚS* [III. ÚS 1877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1877-14_1) — usnesení, 17. 7. 2014
+- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — usnesení, 31. 8. 2015
 - *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
 - *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
 - *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
@@ -912,7 +912,7 @@ Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce �
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 308/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-308-15_1) — 18. 6. 2015
+- *ÚS* [III. ÚS 308/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-308-15_1) — usnesení, 18. 6. 2015
 - *NS* [24 Cdo 2328/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C36CEB441BD618D3C1258A97001B9467?openDocument) — *Popření otcovství*
 
 ---

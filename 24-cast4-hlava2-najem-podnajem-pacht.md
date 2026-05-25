@@ -680,7 +680,7 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 533/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-533-26_1) — 11. 3. 2026
+- *ÚS* [II. ÚS 533/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-533-26_1) — usnesení, 11. 3. 2026
 - *NS* [26 Cdo 484/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F969CB096F3D2CE6C1258D11004D427C?openDocument) — *Podnájem bytu*
 - *NS* [26 Cdo 2080/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/780302D45D9DC99EC125863D001DB497?openDocument) — *Společný nájem bytu Přechod nájmu bytu*
 - *NS* [26 Cdo 1082/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80251B96BF3093F7C12582EA00316028?openDocument) — *Nájem bytu Přechod nájmu bytu*

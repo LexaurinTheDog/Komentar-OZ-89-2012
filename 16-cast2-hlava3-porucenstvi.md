@@ -221,8 +221,8 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 151/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-151-26_1) — 26. 2. 2026
-- *ÚS* [II. ÚS 234/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-234-26_1) — 13. 2. 2026
+- *ÚS* [III. ÚS 151/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-151-26_1) — usnesení, 26. 2. 2026
+- *ÚS* [II. ÚS 234/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-234-26_1) — usnesení, 13. 2. 2026
 
 ### § 944—947 — Subsidiární aplikace pravidel o poručenství
 
@@ -319,7 +319,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
 
 ### § 954—957 — Podmínky a financování
 
@@ -356,7 +356,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
 
 ### Oddíl 2 — Pěstounství (§ 958—970)
 
@@ -381,7 +381,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
 
 ### § 959—960 — Doba a vztah s rodiči
 
@@ -422,7 +422,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
 
 ### § 962—965 — Předpoklady, manželé, předpěstounská péče
 
@@ -465,7 +465,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
 
 ### § 966—968 — Práva a povinnosti pěstouna
 

@@ -39,7 +39,7 @@ Tento postup je v souladu s **Úmluvou OSN o právech osob se zdravotním posti�
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 2358/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2358-13_1) — 5. 8. 2014
+- *ÚS* [IV. ÚS 2358/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2358-13_1) — usnesení, 5. 8. 2014
 
 ### § 39 — Forma předběžného prohlášení
 
@@ -62,15 +62,15 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — 25. 6. 2015
-- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — 26. 6. 2014
-- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — 26. 6. 2014
-- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — 26. 6. 2014
-- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — 9. 6. 2014
-- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — 9. 6. 2014
+- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — usnesení, 25. 6. 2015
+- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — usnesení, 26. 6. 2014
+- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — usnesení, 26. 6. 2014
+- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — usnesení, 26. 6. 2014
+- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — usnesení, 9. 6. 2014
+- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — usnesení, 9. 6. 2014
 
 ### § 40 — Zvláštní úprava pro osoby s postižením
 
@@ -88,7 +88,7 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 3332/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3332-14_1) — 22. 9. 2015
+- *ÚS* [IV. ÚS 3332/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3332-14_1) — usnesení, 22. 9. 2015
 
 ### § 41—44 — Odvolání, podmínky, změna okolností, neplatnost
 
@@ -302,7 +302,7 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — 14. 4. 2015
+- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — usnesení, 14. 4. 2015
 - *NS* [20 Ncu 146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF133A25BABAA632C1258C280052F2E6?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 80/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB750956D421F730C1258A0100160E86?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 86/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA761275E02E06AC12589FD002D344F?openDocument) — *Uznání cizích rozhodnutí*
@@ -402,15 +402,15 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 53/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-53-24_1) — 21. 2. 2024
-- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — 26. 6. 2014
-- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — 26. 6. 2014
-- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — 26. 6. 2014
-- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — 11. 6. 2014
-- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — 9. 6. 2014
-- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — 9. 6. 2014
+- *ÚS* [III. ÚS 53/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-53-24_1) — usnesení, 21. 2. 2024
+- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — usnesení, 26. 6. 2014
+- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — usnesení, 26. 6. 2014
+- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — usnesení, 26. 6. 2014
+- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — usnesení, 11. 6. 2014
+- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — usnesení, 9. 6. 2014
+- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — usnesení, 9. 6. 2014
 
 ### § 56 — Pravomoc soudu
 
@@ -571,7 +571,7 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — 25. 6. 2015
+- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — usnesení, 25. 6. 2015
 - *NS* [30 Cdo 2233/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA3C27348EB01344C125830400314562?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník*
 - *NS* [30 Cdo 2235/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A52C01716F3BF81C125830400314563?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník Správa cizího majetku (o. z.)*
 - *NS* [30 Cdo 643/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77F189828A32F211C1257EB90025B625?openDocument) — 17. 6. 2015

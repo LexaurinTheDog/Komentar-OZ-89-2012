@@ -725,7 +725,7 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 2096/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2096-15_1) — 18. 8. 2015
+- *ÚS* [I. ÚS 2096/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2096-15_1) — usnesení, 18. 8. 2015
 - *NS* [22 Cdo 2402/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01212F26375B1136C1258D4F0052A4BE?openDocument) — *Služebnost (o. z.) Věcná břemena*
 - *NS* [22 Cdo 2169/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B3EABFFF75CAF35C1258D2D004D1D38?openDocument) — *Služebnost (o. z.)*
 - *NS* [22 Cdo 2892/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D35EC56B79D055C3C1258C360052C9A6?openDocument) — *Přípustnost dovolání Služebnost bytu (o. z.) [ Služebnost (o. z.) ]*

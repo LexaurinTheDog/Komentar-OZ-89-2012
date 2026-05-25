@@ -240,7 +240,7 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 2264/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2264-13_1) — 27. 3. 2014
+- *ÚS* [III. ÚS 2264/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2264-13_1) — nález, 27. 3. 2014
 - *NS* [29 ICdo 90/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97B7883A1BE00683C1258CE7004D3389?openDocument) — *Insolvenční řízení Právní jednání (o. z.) Zvýhodňování věřitele Přípustnost dovolání Poh…*
 - *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Akciová společnost Společnost s ručením o…*
 - *NS* [29 ICdo 81/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65F9B9F9D73301DFC1258C7C004D5DE7?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Poučovací povinnost soudu*
@@ -438,7 +438,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [Pl. ÚS 52/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-52-23_1) — 24. 4. 2024
+- *ÚS* [Pl. ÚS 52/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-52-23_1) — nález, 24. 4. 2024
 
 ---
 
@@ -461,7 +461,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 1041/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1041-14_1) — 4. 12. 2014
+- *ÚS* [I. ÚS 1041/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1041-14_1) — nález, 4. 12. 2014
 
 ---
 
@@ -587,7 +587,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 626/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-626-14_1) — 26. 6. 2014
+- *ÚS* [I. ÚS 626/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-626-14_1) — usnesení, 26. 6. 2014
 - *NS* [26 Cdo 1892/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE5AE0C4B0AE721C1257F1D002B36B5?openDocument) — *Dovolání Exekuce Výklad projevu vůle*
 
 ---
@@ -659,8 +659,8 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — 9. 9. 2014
-- *ÚS* [II. ÚS 160/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-160-13_1) — 5. 2. 2014
+- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — usnesení, 9. 9. 2014
+- *ÚS* [II. ÚS 160/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-160-13_1) — usnesení, 5. 2. 2014
 - *NS* [28 Cdo 2884/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78A685C0FB550838C1257A4E0066D834?openDocument) — *Právní úkony Převod nemovitostí Převod vlastnictví Zemědělské družstvo*
 
 ---

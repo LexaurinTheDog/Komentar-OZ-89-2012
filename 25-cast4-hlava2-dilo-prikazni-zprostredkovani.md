@@ -1227,7 +1227,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — 13. 2. 2024
+- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — usnesení, 13. 2. 2024
 - *NS* [23 Cdo 2153/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C125039D9968F03C1258D7D0052AAFD?openDocument) — *Smlouva o dílo*
 - *NS* [33 Cdo 2974/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A82650F4260E52DC1258D670052AF7A?openDocument) — *Přípustnost dovolání Znalecký posudek*
 - *NS* [23 Cdo 173/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/938996BEADBBDF82C1258CA8004D3A4E?openDocument) — *Přípustnost dovolání Dovolací důvody Smlouva o dílo*
@@ -1341,7 +1341,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — 13. 2. 2024
+- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — usnesení, 13. 2. 2024
 - *NS* [33 Cdo 2974/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A82650F4260E52DC1258D670052AF7A?openDocument) — *Přípustnost dovolání Znalecký posudek*
 - *NS* [33 Cdo 1605/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB35F874C139C017C1258D1B004D29D1?openDocument) — *Smlouva o dílo*
 - *NS* [23 Cdo 173/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/938996BEADBBDF82C1258CA8004D3A4E?openDocument) — *Přípustnost dovolání Dovolací důvody Smlouva o dílo*

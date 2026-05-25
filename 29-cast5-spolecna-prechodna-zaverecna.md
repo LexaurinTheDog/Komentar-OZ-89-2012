@@ -229,8 +229,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [II. ÚS 2261/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2261-15_1) — 27. 10. 2015
-- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
+- *ÚS* [II. ÚS 2261/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2261-15_1) — usnesení, 27. 10. 2015
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
 - *NS* [22 Cdo 2486/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8271CDA53D3B05E1C1258DBF0052CD04?openDocument) — *Přípustnost dovolání Společné jmění manželů*
 - *NS* [22 Cdo 2315/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/215FD174F33F080FC1258D9F0052D8DB?openDocument) — *Přípustnost dovolání Držba Vydržení*
 - *NS* [28 Cdo 537/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7DD4ADC0096E1E3C1258D5C0052D3CA?openDocument) — *Smluvní pokuta Moderační právo soudu Přechodná (intertemporální) ustanovení*
@@ -259,7 +259,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [IV. ÚS 3940/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3940-14_1) — 24. 2. 2015
+- *ÚS* [IV. ÚS 3940/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3940-14_1) — usnesení, 24. 2. 2015
 - *NS* [33 Cdo 2579/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4C4E09C28A029B4C125843B002356C8?openDocument) — *Závazkové vztahy občanskoprávní Společné jmění manželů Smlouva kupní Smlouva o smlouvě b…*
 - *NS* [28 Cdo 2908/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44191FC5EC7A82C2C12583A000221E54?openDocument) — *Bezdůvodné obohacení Přípustnost dovolání*
 - *NS* [29 Cdo 4365/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B40F5419D3D9852C12583600042D5AA?openDocument) — *Zpětná účinnost právních předpisů Přípustnost dovolání Správce konkursní podstaty Konkur…*

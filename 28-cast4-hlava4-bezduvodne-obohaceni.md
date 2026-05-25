@@ -35,7 +35,7 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 3392/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3392-14_1) — 5. 3. 2015
+- *ÚS* [III. ÚS 3392/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3392-14_1) — usnesení, 5. 3. 2015
 - *NS* [28 Cdo 86/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF9EA37A1E344E46C1258DCD004D1F13?openDocument) — *Bezdůvodné obohacení*
 - *NS* [28 Cdo 109/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70D36F88DD3C424DC1258DCD004D1EFE?openDocument) — *Bezdůvodné obohacení*
 - *NS* [28 Cdo 2542/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D9F4105D13EE17C1258DCD004D1F42?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.) Bezdůvodné obohacení*

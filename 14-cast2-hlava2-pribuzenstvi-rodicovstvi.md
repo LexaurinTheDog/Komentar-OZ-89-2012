@@ -329,8 +329,8 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **Judikatura (z místních zdrojů):**
 
-- *ÚS* [III. ÚS 55/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-55-24_1) — 21. 2. 2024
-- *ÚS* [II. ÚS 3109/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3109-14_1) — 11. 11. 2014
+- *ÚS* [III. ÚS 55/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-55-24_1) — usnesení, 21. 2. 2024
+- *ÚS* [II. ÚS 3109/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3109-14_1) — usnesení, 11. 11. 2014
 - *NS* [24 Cdo 241/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D53416C45A05314DC1258DB50052CAB5?openDocument) — *Popření otcovství Prominutí zmeškání lhůty Dokazování*
 - *NS* [24 Cdo 1724/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AA42C0D80E91D70C1258CEF004D20EE?openDocument) — *Vady řízení Popření otcovství*
 - *NS* [24 Cdo 3722/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E3A4D602B09ABF90C1258AFC004D3117?openDocument) — *Popření otcovství Přípustnost dovolání*
