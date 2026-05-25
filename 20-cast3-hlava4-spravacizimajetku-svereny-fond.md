@@ -169,6 +169,10 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Typická aplikace**: svěřenský správce (§ 1456), správce investičního fondu, profesionální správce majetku.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 268/2019-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.268.2019.1) — 14. 1. 2021
+
 ### § 1410 — Volnost správce
 
 > Správce může se spravovaným majetkem činit cokoli, co je nutné a užitečné.
@@ -197,6 +201,14 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 - Vyšší standard u profesionálního správce (§ 5).
 
 **Návaznost**: § 159 (péče řádného hospodáře u členů orgánů PO), § 2913 (porušení smluvní povinnosti), § 2912 (porušení zákonné povinnosti).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 10* [12 C 235/2024-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2025:12.C.235.2024.1) — *nájem bytu, smlouva o dílo, znalecký posudek, smlouva o smlouvě budoucí, smlouva nájemní…*
+- *KS v Ostravě* [8 CO 203/2022-177](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:8.Co.203.2022.1) — *bezdůvodné obohacení, korporace*
+- *MS v Praze* [51 Co 62/2025-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:51.Co.62.2025.108) — *nájem bytu, pacht, znalecký posudek, smlouva nájemní, smlouva o smlouvě budoucí, pasivní…*
+- *OS v Kutné Hoře* [11 C 40/2020-222](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2021:11.C.40.2020.1) — *duševní porucha, náklady pohřbu, omezení svéprávnosti, peněžité plnění, pozůstalost, sml…*
+- *KS v Plzni* [18 CO 152/2023-485](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:18.Co.152.2023 .1) — *smlouva nájemní, společenství vlastníků jednotek*
 
 ### § 1412 — Nestrannost mezi beneficienty
 
@@ -231,6 +243,11 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Zákaz comminglingu** (*no commingling*) — jedna ze základních povinností správce/trustee. Důvod: ochrana před zpronevěrou, jasnost identifikace majetku v insolvenci.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [47 Co 139/2025-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:47.Co.139.2025.1) — *náhrada nákladů, majetek, splnění závazku, insolvenční správce, obchodní rejstřík, odvol…*
+- *OS v Sokolově* [33 C 70/2022-172](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2025:33.C.70.2022.1) — *postoupení pohledávky, bezdůvodné obohacení*
+
 ### § 1415 — Self-dealing
 
 > (1) Správce se může stát stranou smlouvy týkající se spravovaného majetku, smluvně nabýt právo na tento majetek nebo nabýt právo vůči beneficientovi jen se souhlasem beneficienta.
@@ -238,6 +255,10 @@ Informování: **beneficient + osoba dohlížející**.
 **Zákaz vlastního obchodu** (*no self-dealing*) — paralela k anglosaským fiduciary duties. Vyžaduje **souhlas beneficienta**.
 
 **Odst. 2**: užívání spravovaného majetku/informací jen se souhlasem beneficienta, ledaže to umožňují stanovy/zákon.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Plzni* [10 CO 304/2023-533](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.304.2023 .1) — *peněžité plnění*
 
 ### § 1416 — Bezúplatný převod
 
@@ -259,6 +280,11 @@ Informování: **beneficient + osoba dohlížející**.
   - Okolnosti přijetí správy;
   - **Bezúplatný** výkon správy;
   - **Nezletilý/omezeně svéprávný** správce.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [27 C 267/2020-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:27.C.267.2020.1) — *bezpečnost a ochrana zdraví při práci, peněžité plnění, pracovní úraz*
+- *ObS pro Prahu 6* [7 C 89/2016-598](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:7.C.89.2016.1) — *pasivní legitimace, pozůstalost, veřejná dražba, znalecký posudek, notářský zápis, podvo…*
 
 ---
 
@@ -497,6 +523,10 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Povinné označení** + slova „svěřenský fond" — princip publicity vůči třetím osobám.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
+
 ### § 1451 — Vznik
 
 > (1) Svěřenský fond je zřízen, když svěřenský správce přijme pověření k jeho správě; je-li svěřenských správců více, postačí, pokud pověření přijme alespoň jeden z nich.
@@ -511,6 +541,14 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 3. **Závěťový fond** — vzniká **smrtí zůstavitele**; **zápis dodatečně** (deklaratorně).
 
 **Evidence svěřenských fondů**: vedena rejstříkovými soudy (zákon č. 304/2013 Sb. o veřejných rejstřících, § 65a a násl. — sekce evidence svěřenských fondů). Veřejně přístupný od **novely 2024** (zákon č. 163/2024 Sb. — návaznost na DAC7 a 5. AML směrnici).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.280.2018.0) — 20. 11. 2019
+- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.112.2020.0) — 14. 1. 2021
+- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.248.2018.0) — 25. 3. 2020
+- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.289.2018.0) — 21. 11. 2019
+- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2026:5.C.179.2025.1) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
 
 ### § 1452 — Statut
 
@@ -544,6 +582,14 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 - Počet správců a způsob jednání.
 
 **Forma**: **veřejná listina** (notářský zápis).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 44/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.44.2022.1) — 12. 7. 2022
+- *KS v Českých Budějovicích* [5 CO 867/2022-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2022:5.Co.867.2022.1) — *držba, peněžité plnění, služebnost, spoluvlastnictví, věcná břemena, vydržení*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
+- *OS v Klatovech* [5 C 179/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2026:5.C.179.2025.1) — *náhrada nákladů, smlouva příkazní, svědek, notářský zápis, lhůty, veřejný rejstřík, svěd…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ---
 
@@ -580,11 +626,19 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 - Na **majetek** z fondu (kapitálové plnění);
 - Na **podíly** na obojím.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
+
 ### § 1458 — Diskrece a omezení
 
 > (2) Nikdo není oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu pro vlastní zisk.
 
 **Zákaz „self-benefit" při jmenování** — obrana proti zneužití pravomoci jmenovat sebe sama nebo blízkou osobu.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Rychnově nad Kněžnou* [13 C 139/2022-1191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:13.C.139.2022.1) — *neplatnost právního jednání, dovolání, smlouva kupní, odvolání, pozemkový úřad, koupě, o…*
 
 ### § 1459—1462 — Vznik a doba práva
 
@@ -605,6 +659,11 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 > Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
 **§ 1459** — Vznik práva na plnění **podle statutu**.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
+- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:11.C.37.2021.1) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
+
 ### § 1460 — Limit 100 let
 
 > (1) Byl-li svěřenský fond zřízen za soukromým účelem, vznikne právo obmyšleného na plnění nejpozději uplynutím sta let od vzniku svěřenského fondu, a to i když statut určil pozdější dobu. I po uplynutí sta let však může vzniknout právo na plnění tomu obmyšlenému, jemuž se má podle statutu dostat podílu na majetku nejpozději při zániku posledního práva na plody nebo užitky, jakož i tomu obmyšlenému člověku, jenž byl zakladatelovým současníkem či dítětem zakladatele nebo jeho současníka, pokud má podle statutu nastoupit nejpozději při smrti nebo zániku obmyšleného s dřívějším pořadím, aby jako další v pořadí nabýval plody nebo užitky; po dobu jeho života mohou spolu s ním nabývat plody nebo užitky i jiné osoby.
@@ -618,6 +677,11 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **Důvod**: zákaz „věčné mrtvé ruky" — nesmí být zachováván vliv zakladatele nad rodinou nekonečně.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
+- *OS v Kladně* [11 C 37/2021-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:11.C.37.2021.1) — *bytové družstvo, držba, jmění, notářský zápis, peněžité plnění, ručení, vydržení, zastav…*
+
 ### § 1461 — Vzdání se práva
 
 > (1) Za trvání svěřenského fondu má obmyšlený právo požadovat ve shodě se statutem příslušné plnění.
@@ -625,6 +689,10 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 > (2) Obmyšlený svěřenského fondu zřízeného za soukromým účelem se práva podle odstavce 1 může vzdát prohlášením učiněným ve formě veřejné listiny.
 
 Obmyšlený **se může vzdát práva** prohlášením ve **veřejné listině** (notářský zápis).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:15.Co.188.2021.1) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
 
 ### § 1462 — Přechod práva
 
@@ -656,11 +724,21 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **Odst. 2 — Substituce**: pokud správce je **nečinný**, soud pověří navrhovatele zahájením/vedením řízení **jménem fondu**.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:15.C.278.2021.3) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
+- *OS v Náchodě* [14 C 29/2025-115](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNA:2025:14.C.29.2025.1) — *právnická osoba, notářský zápis, společné jmění manželů, neúčinnost právního jednání, př…*
+
 ### § 1467 — Konspirace
 
 > Účastní-li se svěřenský správce, zakladatel nebo obmyšlený činů sledujících úmyslné poškození práv zakladatelova věřitele nebo poškození svěřenského fondu, jsou zavázáni společně a nerozdílně.
 
 **Solidární odpovědnost** správce + zakladatele + obmyšleného pro **úmyslné poškození** věřitelů zakladatele nebo fondu samotného.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.434.2025.1) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
 
 ---
 
@@ -679,6 +757,14 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 
 **§ 1470 — Procesní pravidlo**: soud si **vyžádá stanovisko** zakladatele/správce/obmyšleného/dohledu.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v České Lípě* [11 C 154/2025-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2026:11.C.154.2025.1) — *náhrada nákladů, majetek, trestné činy obecně nebezpečné, dokazování, podvod, náklady ří…*
+- *ObS pro Prahu 6* [7 C 417/2021-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2022:7.C.417.2021.1) — *správa cizího majetku*
+- *ObS pro Prahu 5* [24 C 69/2022-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2022:24.C.69.2022.1) — *notářský zápis, veřejná listina*
+- *ObS pro Prahu 6* [6 C 12/2024-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:6.C.12.2024.1) — *notářský zápis, veřejná listina*
+- *VS v Praze* [6 Cmo 2/2023-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:6.Cmo.2.2023.2) — 24. 1. 2024
+
 ---
 
 ### Pododdíl 6 — Zánik (§ 1471—1474)
@@ -693,6 +779,13 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 - Soudním rozhodnutím;
 - **Soukromý fond**: vzdáním se všech obmyšlených.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.280.2018.0) — 20. 11. 2019
+- *VS v Praze* [7 Cmo 248/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.248.2018.0) — 25. 3. 2020
+- *VS v Praze* [7 Cmo 289/2018-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2019:7.Cmo.289.2018.0) — 21. 11. 2019
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+
 ### § 1472 — Vydání majetku
 
 > Při zániku správy svěřenského fondu vydá svěřenský správce majetek tomu, kdo na něj má právo. Má se za to, že na majetek má právo obmyšlený, a pokud není, zakladatel svěřenského fondu; není-li žádný z nich, připadá majetek do vlastnictví státu.
@@ -701,6 +794,14 @@ Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází
 1. **Obmyšlenému** (domněnka);
 2. **Zakladateli**;
 3. **Státu** (pokud žádný z nich není).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.165.2020.0) — 30. 8. 2021
+- *VS v Praze* [7 Cmo 112/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.112.2020.0) — 14. 1. 2021
+- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:5.C.78.2021.1) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
+- *OS Praha-východ* [3 C 53/2020](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:3.C.53.2020.1) — *dobré mravy, duševní porucha, neplatnost právního jednání, omezení svéprávnosti, smlouva…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ### § 1473 — Veřejně prospěšný fond — substituce
 
@@ -721,6 +822,12 @@ Pokud účel **nelze naplnit** → soud rozhodne o **převodu majetku** do:
 **Konec života fondu**:
 - **Naložení majetkem** = zánik;
 - **Výmaz z evidence** do **30 dnů**.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 165/2020-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.165.2020.0) — 30. 8. 2021
+- *OS Praha-západ* [41 C 167/2021-120](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:41.C.167.2021.1) — *notářský zápis, péče řádného hospodáře, peněžité plnění, převzetí dluhu, přistoupení k d…*
+- *KS v Hradci Králové* [21 Co 434/2025-1333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.434.2025.1) — *rozvod manželství, náhrada nákladů, majetek, odvolání, pozemkový úřad, náklady řízení, z…*
 
 ---
 

@@ -100,6 +100,14 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Poctivý držitel** má nárok na plody a užitky **odebrané** během držby (§ 996); nepoctivý nemá (§ 1000);
 - **Užitky pohledávky** (úroky) — viz § 1808 a násl. (úroky z prodlení), § 513 (úroky jako příslušenství pohledávky).
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Českých Budějovicích* [5 Co 1265/2025-139](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:5.Co.1265.2025.1) — *bezdůvodné obohacení, odvolání, pasivní legitimace, majetek, náhrada nákladů, dotace, ma…*
+- *ObS pro Prahu 2* [28 C 217/2019-386](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2022:28.C.217.2019.9) — *bezdůvodné obohacení, dražba, majetková újma, náhrada nemajetkové újmy, nájem nebytových…*
+- *OS Praha-západ* [5 C 253/2022-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:5.C.253.2022.1) — *peněžité plnění*
+- *OS v Jihlavě* [4 C 190/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2023:4.C.190.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Kladně* [14 C 1/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:14.C.1.2021.1) — *peněžité plnění, znalecký posudek*
+
 ### § 492 — Hodnota a cena
 
 > (1) Hodnota věci, lze-li ji vyjádřit v penězích, je její cena. Cena věci se určí jako cena obvyklá, ledaže je něco jiného ujednáno nebo stanoveno zákonem.
@@ -148,6 +156,10 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Nelze zatížit** zástavou.
 
 **Výjimka — vlasy, nehty a podobné**: § 112 OZ — obnovující se části těla, které lze bezbolestně odejmout, jsou **movitou věcí** (vlasy lze prodat parukáři).
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:19.Co.289.2022.1) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
 
 ### § 494 — Zvíře
 
@@ -242,6 +254,14 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - Zákon č. 458/2000 Sb. o energetice — elektrika, plyn, teplo;
 - Zákon č. 274/2001 Sb. o vodovodech a kanalizacích.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Svitavách* [10 C 31/2022-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2022:10.C.31.2022.1) — *odstoupení od smlouvy, peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *OS v Děčíně* [6 C 251/2025-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2025:6.C.251.2025.1) — *postoupení pohledávky, náhrada nákladů, náklady řízení*
+- *OS Plzeň-město* [14 C 355/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2024:14.C.355.2024.39) — *smlouva o úvěru*
+- *OS v Blansku* [11 C 225/2024-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2024:11.C.225.2024.1) — *smlouva kupní, dodávky energie*
+- *OS v Blansku* [11 C 36/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2023:11.C.36.2023.1) — *peněžité plnění, smlouva kupní*
+
 ### § 498 — Nemovité a movité věci
 
 > (1) Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon. Stanoví-li zákon, že určitá věc není součástí pozemku, a nelze-li takovou věc přenést z místa na místo bez porušení její podstaty, je i tato věc nemovitá.
@@ -321,6 +341,14 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 - **Nájem vs. zápůjčka** — nájem se týká nezuživatelných věcí; zápůjčka zuživatelných (peníze, suroviny);
 - **Výhrada vlastnického práva** (§ 2132) — typická pro nezuživatelné věci.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Liberci* [23 C 186/2024-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:23.C.186.2024.1) — *dodávky energie, smlouva o sdružení*
+- *OS v Liberci* [23 C 11/2026-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2026:23.C.11.2026.1) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 314/2025-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:23.C.314.2025.41) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 308/2025-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:23.C.308.2025.1) — *náhrada nákladů, dodávky energie, lhůty, smlouva o sdružení, náklady řízení*
+- *OS v Liberci* [23 C 261/2024-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:23.C.261.2024.1) — *smlouva o sdružení*
+
 ### § 501 — Hromadná věc
 
 > Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc.
@@ -389,6 +417,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - *NS* [29 ICdo 120/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98D20A076DFAAED7C1258C3D0052B372?openDocument) — *Incidenční spory (žaloba odpůrčí) Zástavní právo (o. z.) Obchodní závod (o. z.) Smlouva…*
 - *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
 - *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
+- *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+- *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
 
 ### § 503 — Pobočka a odštěpný závod
 
@@ -444,6 +474,7 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 2984/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-14_1) — 22. 4. 2015
 - *NS* [23 Cdo 3596/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/650045140B5091DEC125879C001E178E?openDocument) — *Obchodní tajemství*
 - *NS* [23 Cdo 2736/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1A59DB1BCDFB628C1258CF8004D26C5?openDocument) — *Přípustnost dovolání Nekalá soutěž Obchodní tajemství*
 - *NS* [5 Tdo 1130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/382F6934D973635DC12583D5001805F2?openDocument) — *Nekalá soutěž Obchodní tajemství Porušení předpisů o pravidlech hospodářské soutěže*
@@ -484,6 +515,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - *NS* [22 Cdo 1610/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/195F796AD60992F5C12588B90018C5FF?openDocument) — *Věc Součást věci*
 - *NS* [22 Cdo 1501/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB3B9731EC532CE2C125867E001DF74F?openDocument) — *Součást věci*
 - *NS* [28 Cdo 3569/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A234F4AE703140B0C12585910018D752?openDocument) — *Bezdůvodné obohacení Stavba Součást věci Vady podání Přípustnost dovolání*
+- *NS* [8 Tdo 651/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/49EF8CCFC67F1EDAC125802E001A91FD?openDocument) — *Cizí věc Krádež Subjektivní stránka Subsidiarita trestní represe Ultima ratio*
+- *NS* [25 Cdo 2069/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F33CDC586C22DA01C1258B01004D3150?openDocument) — *Znalecký posudek Oceňování majetku Zemědělská půda*
 
 ### § 506 — *Superficies solo cedit* (návrat zásady)
 
@@ -521,6 +554,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - *NS* [22 Cdo 217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BBD93D2038CD40AC12584D1001EC2F9?openDocument) — *Stavba neoprávněná Součást věci*
 - *NS* [20 Cdo 531/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3897CB951C3B8DFAC12580AE0035FFDD?openDocument) — *Exekuce Zastavení exekuce Stavba Věc Součást věci Přechodná (intertemporální) ustanovení…*
 - *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
+- *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
+- *NS* [22 Cdo 2851/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CAF3371B6CB4BD78C125815D003C5F4B?openDocument) — *Přestavek (o. z.) Vydržení*
 
 ### § 507 — Rostlinstvo
 
@@ -554,6 +589,13 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 3. Stroj zůstává **samostatnou movitou věcí**, lze ho odebrat / převést samostatně.
 
 **§ 508 odst. 2 — nahrazení stroje**: pokud má být nahrazen stávající stroj (součást nemovitosti) novým s výhradou, lze to **bez odporu** osob ve výhodnějším pořadí (zástavních věřitelů, jejichž zájem zápis výhrady ohrožuje), nebo bez práva odporu pro osoby, jejichž pohledávka je splněna / nedotčena.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ostravě* [11 CO 151/2022-191](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:11.Co.151.2022.1) — *peněžité plnění, převod vlastnictví, smlouva kupní, znalecký posudek*
+- *OS v Mostě* [50 C 10/2019-237](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2021:50.C.10.2019.5) — *bezdůvodné obohacení, peněžité plnění, smlouva o dílo, znalecký posudek*
+- *OS v Jihlavě* [11 C 362/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2022:11.C.362.2021.1) — *reklama, smlouva kupní, převzetí dluhu, převod vlastnictví*
+- *ObS pro Prahu 10* [46 C 292/2015-1242](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2023:46.C.292.2015.23) — *bezdůvodné obohacení, bytové družstvo, odstoupení od smlouvy, peněžité plnění, právní do…*
 
 ### § 509 — Liniové stavby
 
@@ -622,6 +664,14 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Subsidiární kritérium** při sporu — **zvyklosti** v daném oboru / místě / typu věci. Soud zkoumá: co se v podobných případech obvykle považuje za příslušenství.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 75/2022-578](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:2.Cmo.75.2022.1) — 25. 7. 2022
+- *KS v Hradci Králové* [47 Co 175/2024-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:47.Co.175.2024.1) — *oddlužení, rozhodnutí o úpadku, konkurs, smlouva o úvěru, ručení*
+- *MS v Praze* [53 CO 293/2021-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.293.2021.1) — *insolvenční návrh, konkurs, občanské sdružení, peněžité plnění, smlouva o dílo*
+- *KS v Hradci Králové* [47 Co 144/2024-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:47.Co.144.2024.1) — *akcionář, jízdné, pozemní komunikace*
+- *OS Praha-západ* [5 C 279/2022-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:5.C.279.2022.1) — *společné jmění manželů, spoluvlastnictví, smlouva o úvěru*
+
 #### § 512 — Příslušenství stavby v rámci pozemku
 
 > Je-li stavba součástí pozemku, jsou vedlejší věci vlastníka u stavby příslušenstvím pozemku, je-li jejich účelem, aby se jich se stavbou nebo pozemkem v rámci jejich hospodářského účelu trvale užívalo.
@@ -629,6 +679,14 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Výklad:**
 
 **Návaznost na § 506**: pokud je stavba součástí pozemku, příslušenství stavby je **příslušenstvím pozemku**. Při prodeji pozemku → automatický přechod stavby + jejího příslušenství.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Jablonci nad Nisou* [22 C 75/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2024:22.C.75.2024.1) — *dodávky energie, smlouva o sdružení*
+- *KS v Ostravě* [16 Co 117/2024-278](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2024:16.Co.117.2024.1) — *společné jmění manželů, jmění, smlouva o úvěru, znalecký posudek*
+- *OS v Sokolově* [8 C 205/2021-174](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2023:8.C.205.2021.1) — *bezdůvodné obohacení*
+- *KS v Ostravě* [16 CO 231/2021-308](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:16.Co.231.2021.1) — *dražba, peněžité plnění, podílové spoluvlastnictví, předkupní právo, přikázání věci, roz…*
+- *OS v Olomouci* [25 C 259/2020-236](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2021:25.C.259.2020.8) — *dražba, exekuce, insolvence, insolvenční návrh, korporace, oddlužení, peněžité plnění, p…*
 
 #### § 513 — Příslušenství pohledávky
 
@@ -651,6 +709,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 562/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-562-15_1) — 20. 10. 2015
+- *ÚS* [II. ÚS 999/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-999-15_1) — 2. 6. 2015
 - *NS* [30 Cdo 6056/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0352EA3EE18DA2C0C12582E8002631FA?openDocument) — *Odpovědnost státu za škodu Zadostiučinění (satisfakce) Příslušenství pohledávky*
 - *NS* [28 Cdo 3508/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37D2DD5471765B79C125848D0015FB82?openDocument) — *Zmírnění křivd (restituce) Stát Pozemkový úřad*
 - *NS* [29 ICdo 98/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475DC66985DD4644C1258BD600527FD7?openDocument) — *Oddlužení Incidenční spory (odporové spory) Popření pohledávky Poučovací povinnost soudu*
@@ -706,6 +766,14 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **§ 517 — Odpovědnost emitenta** za třetí osobu (např. ručitele) zavázanou z cenného papíru.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Břeclavi* [7 C 102/2025-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBV:2025:7.C.102.2025.35) — *náhrada nákladů, náklady řízení, pojištění odpovědnosti za škodu, ručení, doručování*
+- *OS v Lounech* [14 C 162/2025-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2025:14.C.162.2025.1) — 12. 8. 2025
+- *ObS pro Prahu 2* [26 C 119/2025-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:26.C.119.2025.1) — *pojištění odpovědnosti za škodu, ručení*
+- *ObS pro Prahu 1* [30 C 60/2025-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2025:30.C.60.2025.1) — *pojištění odpovědnosti za škodu, ručení*
+- *OS v Lounech* [14 C 34/2025-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2025:14.C.34.2025.1) — 1. 4. 2025
+
 #### § 518 — Forma cenného papíru
 
 > (1) Cenný papír může mít formu cenného papíru na doručitele, na řad, nebo na jméno.
@@ -724,6 +792,12 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Vyvratitelné domněnky** (odst. 2):
 - **Obsahuje jméno** → presumpce **na řad**;
 - **Neobsahuje jméno** → presumpce **na doručitele**.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [14 Cmo 191/2023-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.191.2023.1) — 21. 11. 2023
+- *VS v Praze* [19 Cmo 43/2025-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:19.Cmo.43.2025.1) — 24. 3. 2025
+- *VS v Praze* [7 Cmo 67/2021-188](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.67.2021.1) — 11. 3. 2022
 
 #### § 519—521 — Emise a vydání
 
@@ -746,6 +820,14 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **§ 521 — Vady postupu při vydání**:
 - **Ochrana nabyvatele v dobré víře** — cenný papír je **vydán i přes vady**;
 - Poškozený má **nárok na náhradu škody** vůči emitentovi a osobám jednajícím za něj.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 76/2021-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.76.2021.1) — 16. 4. 2021
+- *VS v Praze* [12 Cmo 148/2022-115](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:12.Cmo.148.2022.1) — 9. 11. 2022
+- *OS ve Žďáru nad Sázavou* [10 C 99/2021-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2021:10.C.99.2021.1) — *peněžité plnění*
+- *VS v Praze* [12 Cmo 118/2022-171](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:12.Cmo.118.2022.1) — 18. 1. 2023
+- *KS v Ústí nad Labem* [12 Co 188/2023-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:12.Co.188.2023.1) — *smlouva o úvěru, insolvence*
 
 #### § 522—524 — Stejnopisy, kupóny, hromadná listina
 
@@ -796,6 +878,12 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 **Použití**: zejména **akcie obchodovaných společností**, **veřejně obchodované dluhopisy**, **podílové listy**.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Zlíně* [19 C 275/2021-391](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2023:19.C.275.2021.3) — *bezdůvodné obohacení, dlužné nájemné, konkurs, nájem podniku, obchodní podíl, odstoupení…*
+- *ObS pro Prahu 6* [9 EC 174/2012](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:9.EC.174.2012.1) — *bezdůvodné obohacení, dodávky energie, obchodní podíl, peněžité plnění, postoupení pohle…*
+- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:5.Cmo.24.2024.1) — 14. 11. 2024
+
 #### § 526—528 — Evidence
 
 **§ 526 — Evidence**: vedena na **majetkových účtech** — buď **účet vlastníka**, nebo **účet zákazníků**.
@@ -805,6 +893,14 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **§ 528 — Účet zákazníků**: typicky účet **obchodníka s cennými papíry** vedoucího CP **pro klienty**. Vlastníkem **nejsou** zákazníci jednotlivě, ale **majitel účtu zákazníků není vlastníkem**.
 
 **Centrální depozitář cenných papírů** (CDCP) — vede centrální evidenci pro veřejně obchodované cenné papíry (zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-východ* [24 C 81/2020-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2020:24.C.81.2020.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS ve Frýdku-Místku* [17 C 40/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2023:17.C.40.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva o úvě…*
+- *ObS pro Prahu 1* [30 C 233/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2023:30.C.233.2022.1) — *postoupení pohledávky, smlouva o půjčce*
+- *ObS pro Prahu 4* [47 C 154/2019-314](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:47.C.154.2019.1) — *bezdůvodné obohacení, duševní porucha, odpovědnost za vady, peněžité plnění, postoupení…*
+- *VS v Praze* [5 Cmo 24/2024-490](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:5.Cmo.24.2024.1) — 14. 11. 2024
 
 ### Oddíl 3 — Přeměna cenného papíru (§ 529—544)
 

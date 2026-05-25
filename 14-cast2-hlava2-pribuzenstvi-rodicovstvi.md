@@ -35,6 +35,11 @@ Následující kapitoly:
 
 Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s výjimkou impedimenta manželství) a vzniká s osvojitelem a jeho rodinou. Příbuzenství osvojením je **plnohodnotné** — má stejné účinky jako pokrevní (dědění, vyživovací povinnost, zákonné překážky manželství).
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [21 CO 246/2022-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:21.Co.246.2022.1) — *dražba, peněžité plnění, podílové spoluvlastnictví, smlouva kupní, smlouva nájemní, spol…*
+- *ObS pro Prahu 9* [67 C 96/2023-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2023:67.C.96.2023.1) — *peněžité plnění, popření otcovství, porod, právní domněnka, výživné*
+
 ### § 772—773 — Linie a stupně příbuzenství
 
 **§ 772**:
@@ -67,6 +72,14 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 - **Vyživovací povinnost** (§ 910 a násl.) — mezi předky a potomky;
 - **Rodinný závod** (§ 700) — okruh osob do 3. stupně;
 - **Osoba blízká** (§ 22) — vč. blízkých příbuzných.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Jablonci nad Nisou* [10 C 236/2022-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2022:10.C.236.2022.1) — *jízdné, peněžité plnění*
+- *ObS pro Prahu 8* [16 C 57/2016](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:16.C.57.2016.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, osoba blízká, pojištění odpo…*
+- *OS v Jablonci nad Nisou* [10 C 160/2021-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2021:10.C.160.2021.1) — *peněžité plnění*
+- *OS v Opavě* [16 C 43/2024-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2024:16.C.43.2024.1) — *postoupení smlouvy, jízdné*
+- *OS v Opavě* [16 C 228/2023-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2024:16.C.228.2023.1) — *jízdné, postoupení smlouvy*
 
 ### § 774 — Švagrovství
 
@@ -112,6 +125,14 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 
 **Implikace pro náhradní mateřství** (surrogát): smlouva o tom, že **náhradní matka** předá dítě objednatelům jako jejich, **je v ČR neplatná** (§ 580 — proti dobrým mravům + § 493 — lidské tělo není věc). De facto se řeší skrze adopci.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Tachově* [19 C 63/2024-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTC:2024:19.C.63.2024.1) — *bezdůvodné obohacení, smlouva nájemní, nebytový prostor*
+- *ObS pro Prahu 7* [29 C 86/2016-393](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2022:29.C.86.2016.1) — *místní příslušnost, náhrada nemajetkové újmy, nemajetková újma, odpovědnost státu za ško…*
+- *OS v Jablonci nad Nisou* [6 C 21/2023-46](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2024:6.C.21.2023.1) — *rozvod manželství, výživné, rodinná domácnost*
+- *OS v Karviné* [28 C 218/2023-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:28.C.218.2023.1) — *rozvod manželství*
+- *OS v Karviné* [28 C 111/2023-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:28.C.111.2023.1) — *rozvod manželství*
+
 ### Otcovství — tři domněnky (§ 776—783)
 
 OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code civil čl. 312—317, BGB § 1592):
@@ -142,6 +163,8 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 - *NS* [20 Ncu 51/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3845192DA389C583C1258B93004D3E00?openDocument) — *Uznání cizích rozhodnutí Rodičovská odpovědnost (o. z.)*
 - *NS* [20 Ncu 198/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1BCEE53A78970DFC1258AC1001B7E47?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 37/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2129248E4A3C8C4FC12589B900186056?openDocument) — *Určení otcovství Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 89/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2AD1BC542A63C85C12588C30017D47A?openDocument) — *Uznání cizích rozhodnutí*
+- *NS* [20 Ncu 28/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01A6E90A9E1E7CBDC12588AD0017E6EF?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
 
 #### § 777 — Modifikace pro období rozvodu
 
@@ -267,6 +290,8 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 - *NS* [28 Ncu 76/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E277615587A51C19C12584CC00554A5B?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
 - *NS* [28 Ncu 84/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2A2546CF0281719C12582FA002643A9?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
 - *NS* [28 Ncu 80/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D79C954B4A574DFC12582E300263DC4?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
+- *NS* [24 Cdo 1679/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD1C936B80DB92D6C12586B300185BC5?openDocument) — *Popření otcovství*
+- *NS* [20 Ncu 69/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24187F45D23E4060C125861E0041D1A3?openDocument) — *Popření otcovství*
 
 #### § 790—791 — Popření po souhlasném prohlášení
 
@@ -304,6 +329,8 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 55/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-55-24_1) — 21. 2. 2024
+- *ÚS* [II. ÚS 3109/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3109-14_1) — 11. 11. 2014
 - *NS* [24 Cdo 241/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D53416C45A05314DC1258DB50052CAB5?openDocument) — *Popření otcovství Prominutí zmeškání lhůty Dokazování*
 - *NS* [24 Cdo 1724/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AA42C0D80E91D70C1258CEF004D20EE?openDocument) — *Vady řízení Popření otcovství*
 - *NS* [24 Cdo 3722/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E3A4D602B09ABF90C1258AFC004D3117?openDocument) — *Popření otcovství Přípustnost dovolání*
@@ -360,6 +387,14 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 **§ 798 — Zákaz nepatřičného zisku** ze zprostředkování. **Anti-obchodování s dětmi** klauzule (Haagská úmluva o ochraně dětí a spolupráci při mezinárodním osvojení z 1993).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Ostravě* [40 C 488/2024-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2025:40.C.488.2024.1) — *výživné, zrušení výživného, rodičovská odpovědnost, osvojení zletilého, osvojení*
+- *OS v Rokycanech* [13 C 47/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRO:2024:13.C.47.2024.1) — *odbory, osvojení, osvojení zletilého*
+- *OS Praha-západ* [7 C 40/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:7.C.40.2022.1) — *osvojení*
+- *OS ve Frýdku-Místku* [19 C 207/2021-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2022:19.C.207.2021.1) — *osvojení zletilého*
+- *OS v Jihlavě* [20 C 216/2025-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2025:20.C.216.2025.1) — *osvojení, náhrada nákladů, osvojení zletilého, dokazování, náklady řízení*
+
 #### § 799—803 — Předpoklady osvojitele a osvojence
 
 > (1) Osvojitelem se může stát pouze zletilá a svéprávná osoba, zaručuje-li svými osobními vlastnostmi a způsobem života, jakož i důvody a pohnutkami, které jí vedou k osvojení, že bude pro osvojované dítě dobrým rodičem.
@@ -394,6 +429,14 @@ Při osvojení jednou osobou (jiným než manželem rodiče) soud **vypustí zá
 **§ 802 — Osvojenec**: **nezletilý** + **nenabyl plné svéprávnosti**. (Zletilého lze osvojit jen podle § 846 a násl.)
 
 **§ 803 — Věkový rozdíl**: **přiměřený, zpravidla ≥ 16 let**. Výjimečně může být menší, pokud opatrovník dítěte souhlasí a je to v souladu se zájmy dítěte.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Nymburce* [5 C 260/2022-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2023:5.C.260.2022.3) — *osvojení, určení rodičovství*
+- *OS v Kladně* [19 C 48/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:19.C.48.2021.1) — *osvojení, určení rodičovství*
+- *OS v Liberci* [9 C 1/2025-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:9.C.1.2025.1) — *osvojení zletilého, osvojení*
+- *ObS pro Prahu 5* [13 C 529/2024-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:13.C.529.2024.1) — *osvojení*
+- *OS v Jablonci nad Nisou* [6 C 56/2020-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2021:6.C.56.2020.1) — *peněžité plnění*
 
 ### Pododdíl 2 — Souhlas s osvojením (§ 804—818)
 
@@ -466,6 +509,14 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 **Výživné**: osvojitel přebírá vyživovací povinnost (§ 910 a násl.); biologičtí rodiče přestávají být vyživovacími povinnými (kromě nezániku biologického otcovství v případě osvojení partnerem rodiče).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 2* [11 C 122/2021-89](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2023:11.C.122.2021.1) — *náhrada nemajetkové újmy, nemajetková újma, notářský zápis, odpovědnost státu za škodu,…*
+- *ObS pro Prahu 4* [11 C 117/2024-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:11.C.117.2024.1) — *rodičovská odpovědnost, osvojení*
+- *OS v Ostravě* [54 C 171/2020-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:54.C.171.2020.4) — *osvojení, rozvod manželství, výživné*
+- *OS v Ostravě* [34 C 184/2021-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:34.C.184.2021.1) — *osvojení, pěstounská péče, ústavní výchova, výživné*
+- *OS v Ostravě* [34 C 222/2021-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:34.C.222.2021.1) — *osvojení, rozvod manželství, výživné*
+
 #### § 840—845 — Utajení a dohled
 
 > (1) Jsou-li pro to důležité důvody, soud osvojení na návrh osvojitele nebo osvojence zruší; podá-li návrh jen jeden z nich, může se druhý k návrhu připojit.
@@ -507,6 +558,10 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 - Po 3 letech **nelze** (kromě výjimek § 844 — opětovné osvojení).
 
 **§ 844 — Opětovné osvojení**: dítě, které již bylo osvojeno, lze osvojit **znovu** (typicky pokud první osvojení selže).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 360/2020-189](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:2.Cmo.360.2020.1) — 6. 4. 2021
 
 ### Pododdíl 5 — Osvojení zletilého (§ 846—854)
 
@@ -555,6 +610,14 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 - **Osvojení by bylo přiměřené** za nezletilosti;
 - **Dlouhodobý péčový vztah** existoval před zletilostí;
 - **Zánik biologického příbuzenství** je možný (obdobně jako u nezletilého).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Kladně* [33 C 27/2025-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:33.C.27.2025.1) — *dokazování, náklady řízení, náhrada nákladů*
+- *OS Plzeň-jih* [8 C 317/2024-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPJ:2025:8.C.317.2024.1) — *odbory, osvojení, výživné*
+- *OS v Ostravě* [34 C 640/2024-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2025:34.C.640.2024.1) — *osvojení, výživné*
+- *OS v Teplicích* [25 C 141/2024-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTP:2024:25.C.141.2024.1) — *osvojení zletilého, osvojení, odbory*
+- *OS v Domažlicích* [17 C 114/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDO:2024:17.C.114.2024.1) — *osvojení zletilého, státní občanství*
 
 #### § 853—854 — Osvojení bez obdoby nezletilého
 

@@ -59,6 +59,8 @@ Hlava III pokrývá:
 - *NS* [27 Cdo 1977/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9D1F352D527B8AFC1258C8F004D374B?openDocument) — *Smluvní zastoupení (o. z.) Plná moc Odvolání*
 - *NS* [26 Cdo 1051/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21508ED652A275D1C12585510018A2D3?openDocument) — *Společenství vlastníků jednotek Zastoupení*
 - *NS* [33 Cdo 2131/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F465E15C1F56453C1258BF40052C108?openDocument) — *Datové schránky Zastoupení*
+- *NS* [26 Cdo 2076/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB7BF32991D43B6DC12584EF001E4A23?openDocument) — *Společenství vlastníků jednotek Zastoupení*
+- *NS* [26 Cdo 1657/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD6BD35B9AB85233C12584E7001E63CB?openDocument) — *Společenství vlastníků jednotek Zastoupení*
 
 ### § 437 — Konflikt zájmů
 
@@ -96,6 +98,7 @@ Hlava III pokrývá:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 452/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-452-26_1) — 5. 3. 2026
 - *NS* [26 Cdo 2355/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475438A7398366F0C1258D500052A4BF?openDocument) — *Přípustnost dovolání Zastoupení*
 - *NS* [27 Cdo 2699/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8342058E4C1098D7C125895D001DFD6E?openDocument) — *Člen voleného orgánu [ Právnická osoba ] Konflikt zájmů Obchodní korporace*
 - *NS* [27 Cdo 3660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07DC9577AAB49B0FC1258955004080FC?openDocument) — *Plná moc Právní jednání (o. z.)*
@@ -103,6 +106,7 @@ Hlava III pokrývá:
 - *NS* [24 Cdo 1625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE3B25A39B381F0EC1258B94004D26F6?openDocument) — *Pasiva Pozůstalost (o. z.) Vady řízení*
 - *NS* [20 Cdo 2609/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FDD0FA86F88FE04C1258A89001B7BA0?openDocument) — *Exekuce Změna soudního rozhodnutí Přistoupení do řízení*
 - *NS* [27 Cdo 1206/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87CF06F649C6123BC125898F00189CBD?openDocument) — *Zastoupení Konflikt zájmů Člen voleného orgánu [ Právnická osoba ] Obchodní korporace*
+- *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — *Zastoupení Statutární orgán Konflikt zájmů Neplatnost právního jednání (o. z.) Jednání z…*
 
 ### § 438 — Osobní výkon, substituce
 
@@ -123,6 +127,14 @@ Hlava III pokrývá:
 - Manažer s plnou mocí pověří kolegu — jen pokud má od vedení svolení;
 - Zákonný zástupce nemůže substituovat své rodičovství (§ 858 — povinnost osobní péče).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:41.C.31.2012.1) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
+- *ObS pro Prahu 1* [22 C 248/2018-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:22.C.248.2018.1) — *nemajetková újma, peněžité plnění*
+- *ObS pro Prahu 8* [25 C 277/2021-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:25.C.277.2021 .1) — *pojištění odpovědnosti za škodu*
+- *ObS pro Prahu 8* [25 C 75/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:25.C.75.2021.1) — *pojištění odpovědnosti za škodu*
+- *ObS pro Prahu 8* [25 C 52/2021-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:25.C.52.2021 .1) — 26. 5. 2021
+
 ### § 439 — Pluralita zástupců
 
 > Má-li zastoupený pro tutéž záležitost více zástupců, má se za to, že každý z nich může jednat samostatně.
@@ -134,6 +146,12 @@ Hlava III pokrývá:
 - **Modifikace**: v plné moci lze určit společné jednání („3 zástupci, vždy 2 společně").
 
 Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda všichni zástupci souhlasí. Případné porušení vnitřní dohody mezi zástupci řeší zastoupený a zástupci interně.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Olomouci* [21 C 23/2022-231](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2024:21.C.23.2022.1) — *smlouva mandátní, odbory, smlouva o dílo*
+- *OS ve Frýdku-Místku* [16 C 118/2021-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:16.C.118.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, právní domněnka, smlouva o…*
+- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.227.2023.0) — 21. 2. 2024
 
 ### § 440 — Překročení zástupčího oprávnění
 
@@ -171,6 +189,8 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - *NS* [23 Cdo 325/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B90EF3E2CCBCA37C12589D50018295D?openDocument) — *Přípustnost dovolání Zastoupení Lhůty Vady řízení*
 - *NS* [23 Cdo 187/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D39C51A77483BF5BC1258963001D9317?openDocument) — *Přípustnost dovolání Zastoupení Lhůty Dobré mravy Promlčení*
 - *NS* [33 Cdo 83/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/984CC617E345CD08C12588DD001879DF?openDocument) — *Dovolací důvody Nepřípustnost dovolání Lhůty Vady řízení Nepřípustnost dovolání subjekti…*
+- *NS* [24 Cdo 1625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE3B25A39B381F0EC1258B94004D26F6?openDocument) — *Pasiva Pozůstalost (o. z.) Vady řízení*
+- *NS* [33 Cdo 3817/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ACB1C8C86C61224C1258B61004D1921?openDocument) — *Zastoupení Jednání za právnickou osobu (o. z.) Statutární orgán*
 
 ---
 
@@ -211,6 +231,7 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - *NS* [26 Cdo 3916/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B18A0164B74E845C1258BE40052ACBB?openDocument) — *Nájem nebytových prostor Podnájem Jednání právnických osob Jednání za právnickou osobu (…*
 - *NS* [21 Cdo 2114/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0B4D14223797DE4C12586F400161271?openDocument) — *Přípustnost dovolání Okamžité zrušení pracovního poměru Plná moc Forma právních jednání…*
 - *NS* [26 Cdo 2076/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB7BF32991D43B6DC12584EF001E4A23?openDocument) — *Společenství vlastníků jednotek Zastoupení*
+- *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
 
 #### § 442 — Odvolatelnost zmocnění
 
@@ -227,6 +248,10 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - **Zástupčí vztahy s vlivem na třetí osoby** (např. plná moc pro správce nemovitosti s pravomocí vybírat nájemné) — strany mohou ujednat, že lze odvolat jen pro porušení povinností;
 - **Generální plné moci pro životní situace** (typicky před cestou do zahraničí) — typicky neodvolatelnost smluvně neujednána, lze odvolat kdykoli.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — 3. 7. 2014
+
 #### § 443 — Zmocnění PO
 
 > Při zmocnění právnické osoby náleží výkon zástupčího oprávnění do působnosti jejího statutárního orgánu. K výkonu zastoupení je oprávněna i osoba, kterou statutární orgán určí.
@@ -238,6 +263,11 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - **Nebo osoba určená SO** (typicky pověřený zaměstnanec).
 
 Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon provádí jednatel nebo jím určený advokát/koncipient.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [14 CO 213/2021-482](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:14.Co.213.2021.1) — *bezdůvodné obohacení, majetková újma, peněžité plnění, postoupení pohledávky, smlouva ku…*
+- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:30.C.35.2015.1) — *peněžité plnění, smlouva kupní, znalecký posudek*
 
 #### § 444 — Aparent zmocnění
 
@@ -281,6 +311,14 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 
 **Ochrana dobré víry třetí osoby** ohledně způsobilosti zástupce. Pokud zástupce sám není způsobilý jednat (např. nezletilý plně svéprávný, omezený ve svéprávnosti), **třetí osoba v dobré víře** je chráněna.
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 6* [53 C 90/2016-393](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:53.C.90.2016.1) — *bolestné, náhrada za ztrátu na výdělku, peněžité plnění, rehabilitace, smlouva pracovní,…*
+- *OS v Ostravě* [28 C 150/2012-661](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2023:28.C.150.2012.1) — *zavinění, dokazování, odvolání, pasivní legitimace, pracovní poměr, bolestné, právnická…*
+- *KS v Brně* [44 CO 170/2021-483](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:44.Co.170.2021.1) — *bolestné, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetková újma, pasi…*
+- *OS Praha-východ* [7 C 11/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2022:7.C.11.2021.1) — *bezdůvodné obohacení, smlouva o nájmu dopravního prostředku*
+- *ObS pro Prahu 1* [38 C 245/2013-507](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2023:38.C.245.2013.507) — *advokacie, ztížení společenského uplatnění, nemocenské dávky, duševní porucha, náhrada z…*
+
 #### § 446 — Překročení zmocnění (speciální úprava)
 
 > Překročil-li zmocněnec zástupčí oprávnění a nesouhlasí-li s tím zmocnitel, oznámí to osobě, se kterou zmocněnec právně jednal, bez zbytečného odkladu poté, co se o právním jednání dozvěděl. Neučiní-li to, platí, že překročení schválil; to neplatí, pokud osoba, s níž zástupce právně jednal, měla a mohla z okolností bez pochybností poznat, že zmocněnec zástupčí oprávnění zjevně překračuje.
@@ -312,6 +350,14 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a třetí osoba **musela o nich vědět** (např. plná moc jí byla předložena), překročení pokynů = překročení oprávnění.
 
 **Praktický význam**: ujednání pokynů přímo v plné moci jim dává **vnější účinky** vůči třetím osobám (na rozdíl od pokynů jen ve smlouvě o zmocnění, které mají jen vnitřní účinky).
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Praze* [16 CO 80/2022-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:16.Co.80.2022.1) — *bolestné, znalecký posudek, ztížení společenského uplatnění*
+- *ObS pro Prahu 6* [33 C 64/2023-67](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2024:33.C.64.2023.1) — *narovnání*
+- *OS Praha-západ* [34 C 358/2023-652](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:34.C.358.2023.1) — *postoupení pohledávky, insolvence, pracovní poměr, dokazování, následek, smlouva kupní,…*
+- *ObS pro Prahu 4* [42 C 227/2013-942](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:42.C.227.2013.1) — *nemajetková újma, náklady léčení, náhrada nemajetkové újmy, ručení, náklady řízení, maje…*
+- *OS v Lounech* [12 C 5/2024-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLN:2024:12.C.5.2024.1) — *peněžité plnění*
 
 #### § 448 — Zánik zmocnění
 
@@ -401,6 +447,9 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — 25. 6. 2015
+- *ÚS* [IV. ÚS 800/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-800-14_1) — 26. 8. 2015
+- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — 5. 2. 2014
 - *NS* [30 Cdo 5260/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5728E77BFC17376EC125817200262874?openDocument) — *Příslušnost soudu mezinárodní Příslušnost soudu věcná Zástavní právo Bezdůvodné obohacen…*
 - *NS* [28 Cdo 3186/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3EB3776C18EA40CC1257D8800630CFF?openDocument) — *Bezdůvodné obohacení*
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
@@ -418,6 +467,10 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 - **Default**: každý jedná **samostatně**;
 - **Modifikace**: lze ujednat **kolektivní jednání** (typicky pro velké korporace — „2 prokuristé společně").
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.227.2023.0) — 21. 2. 2024
+
 #### § 453 — Vnější účinnost omezení
 
 > Omezení prokury vnitřními pokyny nemá účinky vůči třetím osobám, i když bylo zveřejněno.
@@ -429,6 +482,12 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 Rozdíl od § 447 (smluvní zmocnění s pokyny v plné moci): u prokury **vnitřní omezení nikdy nepůsobí navenek**, na rozdíl od smluvního zmocnění, kde pokyny v plné moci mohou vnější účinky mít.
 
 **Důsledek**: pokud prokurista poruší vnitřní pokyny, podnikatel je **vázán vůči třetí osobě** a může jen interně žalovat prokuristu za škodu (§ 159 obdobně).
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Praze* [20 CO 267/2022-974](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:20.Co.267.2022.1) — *nebytový prostor, osoba blízká, péče řádného hospodáře, peněžité plnění, podnájem, ručen…*
+- *MS v Brně* [47 C 113/2003-1060](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:47.C.113.2003.1) — *bezdůvodné obohacení, dražba, majetková újma, opuštěná věc, péče řádného hospodáře, peně…*
+- *OS v Nymburce* [8 C 217/2021-224](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2022:8.C.217.2021.1) — *peněžité plnění, prokura, smlouva o dílo, znalecký posudek*
 
 #### § 454 — Péče řádného hospodáře
 
@@ -458,6 +517,11 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 
 Účel: třetí osoba **rozezná, že nejedná statutární orgán**, ale prokurista, a může si ověřit jeho zápis v OR.
 
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [63 C 147/2019-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:63.C.147.2019.1) — *peněžité plnění, smlouva o dílo*
+- *OS v Liberci* [15 C 59/2022-197](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:15.C.59.2022.1) — *veřejná listina, obchodní závod, okamžité zrušení pracovního poměru, zkušební doba, post…*
+
 #### § 456 — Zánik prokury
 
 > Prokura zaniká i převodem nebo pachtem obchodního závodu nebo pobočky, pro které byla udělena. Smrtí podnikatele prokura nezaniká, ledaže bylo ujednáno něco jiného.
@@ -472,6 +536,14 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 - Prokura umožňuje **kontinuitu** provozu firmy po smrti podnikatele;
 - Po smrti FO-podnikatele prokurista pokračuje v jednání jménem **dědiců** (přechod práv a povinností § 1475 a násl.);
 - Dědicové mohou prokuru samozřejmě odvolat.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 6* [20 C 185/2018-230](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:20.C.185.2018.1) — *akcionář, bezdůvodné obohacení, majetková podstata, notářský zápis, osoba blízká, peněži…*
+- *OS ve Znojmě* [12 C 51/2017-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.51.2017.1) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, znalecký posudek*
+- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2022:106.C.198.2021.1) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
+- *OS ve Frýdku-Místku* [11 C 171/2021-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:11.C.171.2021.1) — *insolvence, peněžité plnění, postoupení pohledávky, smlouva o půjčce, smlouva o úvěru, s…*
+- *MS v Praze* [28 CO 405/2022-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:28.Co.405.2022 .1) — *bezdůvodné obohacení, korporace, péče řádného hospodáře, peněžité plnění, smlouva o půjč…*
 
 ---
 
@@ -521,6 +593,10 @@ Pro tato jednání není možné použít plnou moc ani zákonné zastoupení �
 
 Pravidlo se vztahuje **i na umístění v zařízení** (nemocnice, domov důchodců, dětský domov) — dignita člověka.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Českém Krumlově* [9 C 145/2024-95](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2025:9.C.145.2024.1) — *daň z nemovitosti, osobní služebnost, služebnost, věcná břemena, parazitování, nájem poz…*
+
 #### § 460 — Kolizní opatrovník
 
 > Dojde-li ke střetu zájmu zákonného zástupce nebo opatrovníka se zájmem zastoupeného či ke střetnutí zájmů těch, kteří jsou zastoupeni týmž zákonným zástupcem nebo opatrovníkem, anebo hrozí-li takový střet, jmenuje soud zastoupenému kolizního opatrovníka.
@@ -536,6 +612,8 @@ Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opat
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 610/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-610-14_1) — 7. 8. 2014
+- *ÚS* [II. ÚS 3898/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3898-13_1) — 21. 5. 2014
 - *NS* [24 Cdo 2497/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AE2B67D4164C5D2C125866E001DBE33?openDocument) — *Opatrovník Kolizní opatrovník (o. z.)*
 
 #### § 461—464 — Správa jmění, odměna, opatrovník
@@ -602,6 +680,8 @@ Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opat
 - *NS* [24 Cdo 668/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A885E99E6148196FC125897D001B8CCF?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
 - *NS* [24 Cdo 1871/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E85ED7DF014608EFC125870100197964?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
 - *NS* [30 Cdo 2211/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AEB852DC29C3E2F8C12583D600183D53?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *NS* [30 Cdo 1126/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88164FF1ECB708B3C12582D300318C7F?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [24 Cdo 2123/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51F711B72B9753D5C1258D2B004D1F52?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z…*
 
 #### § 466—467 — Povinnosti opatrovníka
 
@@ -637,6 +717,11 @@ Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opat
 
 > Smrtí opatrovníka nebo jeho odvoláním opatrovnictví nezaniká → přechází na **veřejného opatrovníka** (obec) do jmenování nového.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [14 Cmo 222/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.222.2024.1) — 25. 9. 2024
+- *KS v Ústí nad Labem, pobočka Liberec* [30 CO 66/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:30.Co.66.2022.1) — *místní příslušnost, smlouva nájemní*
+
 #### § 469 — Opatrovník na vlastní návrh
 
 > (1) Člověku, jemuž působí zdravotní stav při správě jeho jmění nebo při hájení jeho práv obtíže, jmenuje soud na jeho návrh opatrovníka a ve shodě s takovým návrhem určí opatrovníkovi rozsah působnosti. Na návrh opatrovance soud opatrovníka také odvolá.
@@ -651,6 +736,7 @@ Tento institut je analogií k smlouvě o nápomoci (§ 45) ale s **rozšířený
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — 23. 1. 2014
 - *NS* [24 Cdo 2532/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4572818271196BEC12589FD002D3357?openDocument) — *Omezení svéprávnosti (o.z.) Opatrovník Jméno a příjmení*
 - *NS* [30 Cdo 5999/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F912D8BBA126813CC125818600473D9E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Přípustnost dovolání*
 - *NS* [24 Cdo 917/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/727B97CEAD08959BC1258622001D3A30?openDocument) — *Ustanovení zástupce Opatrovník Konflikt zájmů*
@@ -663,6 +749,7 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — 26. 8. 2014
 - *NS* [24 Cdo 917/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/727B97CEAD08959BC1258622001D3A30?openDocument) — *Ustanovení zástupce Opatrovník Konflikt zájmů*
 
 #### § 471 — Výběr opatrovníka
@@ -682,6 +769,7 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — 25. 6. 2015
 - *NS* [24 Cdo 2668/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADF916784ECD5816C1258D420052A358?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Obec*
 - *NS* [24 Cdo 2514/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27CCDFEBE0E86EF0C1258941001E2668?openDocument) — *Přípustnost dovolání Opatrovník hmotně právní [ Opatrovník ]*
 - *NS* [24 Cdo 1491/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/910018EEF1171F21C1258941001E265B?openDocument) — *Opatrovník Opatrovník hmotně právní [ Opatrovník ] Přípustnost dovolání*
@@ -689,6 +777,7 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 - *NS* [24 Cdo 477/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8821006C53C1F068C125873B001874D2?openDocument) — *Nepřípustnost dovolání Bydliště (o. z.)*
 - *NS* [24 Cdo 1686/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E38C3589A54FD859C1258675001F73FF?openDocument) — *Opatrovník hmotně právní [ Opatrovník ]*
 - *NS* [24 Cdo 2877/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD1476E845075554C1258667001DD144?openDocument) — *Opatrovník hmotně právní [ Opatrovník ]*
+- *NS* [24 Cdo 26/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F9A6568B1E2CD5C12584FE001E571A?openDocument) — *Opatrovník Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 
 ### Opatrovnická rada (§ 472—485)
 
@@ -718,6 +807,11 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 
 **§ 475 — Zápis** o volbě + protesty + doručení opatrovníkovi a soudu.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Svitavách* [7 C 138/2021-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:7.C.138.2021.1) — *duševní porucha, omezení svéprávnosti, peněžité plnění, pozůstalost, smlouva nájemní, sm…*
+- *ObS pro Prahu 5* [16 C 197/2013-735](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:16.C.197.2013.1) — *společné jmění manželů, smlouva darovací, soukromá listina, majetek, vydržení, duševní p…*
+
 #### § 476—477 — Neplatnost volby a odvolání
 
 > (1) Soud může na návrh opatrovníka nebo kterékoli osoby oprávněné k účasti na schůzi, anebo bez návrhu prohlásit volbu za neplatnou, pokud při ní došlo k takovému porušení zákona, že v důsledku toho hrozí opatrovancova újma. V takovém případě soud bez zbytečného odkladu nařídí novou volbu.
@@ -733,6 +827,12 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 **§ 476**: soud může prohlásit volbu za **neplatnou** při porušení zákona s rizikem újmy opatrovance.
 
 **§ 477**: členství **na dobu neurčitou**; odstoupení (písemné, doručené opatrovníkovi a soudu); odvolání soudem při závažném/opakovaném porušení / ztrátě zájmu / konfliktu zájmů.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Frýdku-Místku* [41 C 37/2020-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2024:41.C.37.2020.1) — *závěť, převod nemovitostí, státní občanství*
+- *ObS pro Prahu 6* [7 C 32/2019-307](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:7.C.32.2019.1) — *res iudicata, náhrada nákladů, majetek, veřejná listina, dokazování, lhůty, notářský záp…*
+- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:24.Co.188.2025.1) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
 
 #### § 478—479 — Zasedání a pravidelná agenda
 
@@ -755,6 +855,14 @@ Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze 
 - Vyjádření k **soupisu jmění** a **vyúčtování** správy;
 - Vyjádření k **odměně** opatrovníka;
 - Návrh soudu na **zrušení opatrovnictví** nebo **odvolání opatrovníka**.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Brno-Venkov* [29 C 52/2021-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2023:29.C.52.2021.1) — *věcná břemena, prekluze, služebnost, smlouva kupní, akcie*
+- *ObS pro Prahu 2* [18 C 117/2024-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:18.C.117.2024.1) — *závěť, dokazování, odvolání, spoluvlastnictví, znalecký posudek, dědické řízení, majetek…*
+- *OS v Přerově* [8 C 20/2017-976](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:8.C.20.2017.1) — *duševní porucha, krajní nouze, závěť, pozůstalost, společné jmění manželů, těžká újma na…*
+- *KS v Brně* [58 Co 43/2025-254](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:58.Co.43.2025.1) — *rodinná domácnost, společné jmění manželů, smlouva darovací, služebnost, neplatnost práv…*
+- *KS v Praze* [24 Co 188/2025-217](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:24.Co.188.2025.1) — *osoba blízká, pozůstalost, svědek, lhůty, dokazování, odvolání, náhrada nákladů, dědické…*
 
 #### § 480 — Souhlas OR k jednáním opatrovníka
 
@@ -861,6 +969,13 @@ Pokud OR nelze zřídit:
 
 **§ 483 odst. 4**: soud si vyžádá stanovisko OR; pokud OR nereaguje v přiměřené lhůtě, rozhodne sám.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ostravě* [57 Co 107/2025-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:57.Co.107.2025.1) — 26. 8. 2025
+- *OS v Klatovech* [9 C 241/2022-176](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2024:9.C.241.2022.1) — *smlouva darovací, vrácení daru, prekluze*
+- *OS ve Svitavách* [9 C 353/2024-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:9.C.353.2024.1) — *duševní porucha, obchodní závod, pozůstalost, dlužné nájemné, převod nemovitostí, omezen…*
+- *OS Plzeň-město* [34 C 336/2019-119](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2021:34.C.336.2019.1) — *rozvod manželství*
+
 #### § 484 — Účast neziskových organizací
 
 > (1) Právnická osoba, jejíž hlavní činnost spočívá v péči o osoby se zdravotním postižením a ochraně jejich zájmů, má právo navrhnout, aby byla svolána schůze k ustavení opatrovnické rady.
@@ -872,6 +987,12 @@ Specializované neziskové organizace pro péči o osoby se zdravotním postiže
 - **Být členem OR** (při splnění podmínek);
 - **Účastnit se zasedání**;
 - **Navrhnout soudní přezkum rozhodnutí OR**.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 183/2021-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.183.2021.1) — 4. 10. 2022
+- *VS v Praze* [2 Cmo 136/2025-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:2.Cmo.136.2025.1) — 23. 9. 2025
+- *ObS pro Prahu 2* [17 C 55/2024-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:17.C.55.2024.1) — *osvojení*
 
 #### § 485 — Soupis jmění a vyúčtování
 
@@ -885,6 +1006,10 @@ Specializované neziskové organizace pro péči o osoby se zdravotním postiže
 - **Roční vyúčtování** do **30. června**;
 - **Mimořádné vyúčtování** na návrh opatrovance / OR;
 - **Konečné vyúčtování** při skončení funkce.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — 26. 8. 2014
 
 ### Oddíl 3 — Opatrovnictví právnické osoby (§ 486—488)
 
@@ -923,6 +1048,14 @@ Soud jmenuje opatrovníka PO, která to potřebuje pro **správu záležitostí*
 #### § 488 — Předjmenování opatrovníka
 
 Pokud **zakladatelské jednání** určuje konkrétní osobu jako opatrovníka, soud takovou osobu **jmenuje** (pokud je způsobilá a souhlasí). Toto je analogie k předběžnému prohlášení (§ 38) pro PO.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 168/2023-116](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.168.2023.1) — 2. 10. 2024
+- *MS v Brně* [108 C 65/2022-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:108.C.65.2022.1) — *peněžité plnění, postoupení pohledávky, telekomunikace*
+- *VS v Praze* [2 Cmo 47/2024-404](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.47.2024.1) — 22. 7. 2024
+- *MS v Brně* [34 C 77/2025-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:34.C.77.2025.1) — *neplatnost právního jednání, postoupení pohledávky, smlouva o zápůjčce, náklady řízení,…*
+- *OS v Karviné, pobočka Havířov* [106 C 198/2021-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2022:106.C.198.2021.1) — *notářský zápis, odtah vozidla, péče řádného hospodáře, peněžité plnění, ručení, smlouva…*
 
 ---
 

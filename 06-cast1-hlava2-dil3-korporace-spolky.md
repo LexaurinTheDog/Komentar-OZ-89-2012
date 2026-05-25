@@ -34,6 +34,14 @@ Strukturálně se Oddíl dělí na:
 - **Fundací** — substrát majetkový (fond), žádní členové;
 - **Ústavem** — hybridní substrát (osoby + majetek pro účel poskytování služeb).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 151/2023-13](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.151.2023.1) — 21. 8. 2023
+- *OS v Pelhřimově* [4 C 153/2023-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPE:2023:4.C.153.2023.1) — *ústavní výchova, výživné, zaopatřovací příspěvek*
+- *VS v Praze* [6 Cmo 92/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.92.2021.1) — 29. 3. 2021
+- *VS v Praze* [6 Cmo 87/2021-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.87.2021.1) — 24. 3. 2021
+- *ObS pro Prahu 4* [19 C 299/2020-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:19.C.299.2020.1) — *náklady léčení, peněžité plnění, znalecký posudek*
+
 ### § 211 — Jediný a nedostatečný počet členů
 
 > (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
@@ -52,6 +60,10 @@ Strukturálně se Oddíl dělí na:
 - **Kurativní lhůta** k nápravě (typicky doplnění členů).
 
 Příklad: spolek klesne ze 3 členů na 2. Soud vyzve k doplnění do 3 měsíců; pokud se nepodaří, zruší spolek s likvidací.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 44/2024-110](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:7.Cmo.44.2024.1) — 4. 7. 2024
 
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
@@ -94,6 +106,7 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *NS* [27 Cdo 698/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE6DBB8E94271008C1258C62004D3181?openDocument) — *Zájmové sdružení právnických osob Usnesení valné hromady (neplatnost) Korporační loajali…*
 - *NS* [26 Cdo 3887/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B572D8F561121D6C1258C0800529D58?openDocument) — *Přípustnost dovolání Společenství vlastníků jednotek*
 - *NS* [26 Cdo 751/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CB3F5AAFDEBAB23C12585D50015FAE4?openDocument) — *Společenství vlastníků jednotek Spojení věcí ke společnému řízení*
+- *NS* [27 Cdo 3439/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E8EE0DEDE1D37D1C1258340002CD572?openDocument) — *Akciová společnost Valná hromada Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
 
 ### § 213 — Derivativní žaloba
 
@@ -114,6 +127,14 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 **Procesní specifika:** soud **není vázán** žalobním návrhem v rozsahu adresáta plnění — může uložit povinnost plnit jinému subjektu (korporaci) než kdo žaluje.
 
 **Paralela v ZOK** — § 157—159 ZOK obsahuje detailnější úpravu derivativní žaloby pro obchodní korporace (žaloba kvalifikovaného společníka).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [14 Cmo 25/2023-851](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.25.2023.1) — 3. 3. 2023
+- *MS v Brně* [61 C 152/2021-77](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:61.C.152.2021.1) — *korporace, peněžité plnění, pojištění odpovědnosti za škodu, smlouva příkazní, společens…*
+- *ObS pro Prahu 4* [30 C 27/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:30.C.27.2024.1) — *korporace, společenství vlastníků jednotek*
+- *ObS pro Prahu 8* [22 C 251/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:22.C.251.2020.4) — *korporace, péče řádného hospodáře, peněžité plnění, společenství vlastníků jednotek*
+- *VS v Praze* [19 Cmo 59/2022-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:19.Cmo.59.2022.1) — 27. 10. 2023
 
 ---
 
@@ -278,6 +299,14 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 
 Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval proti stanovám, může od přihlášky **odstoupit**.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Děčíně* [15 C 93/2023-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2023:15.C.93.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva nájemní*
+- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.133.2022.0) — 27. 10. 2022
+- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.128.2025.1) — 2. 9. 2025
+- *KS v Ostravě* [69 Co 268/2024-172](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:69.Co.268.2024.1) — *neúčinnost právního jednání*
+- *VS v Praze* [9 Cmo 69/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.69.2024.0) — 7. 8. 2024
+
 #### § 226—227 — Vznik a nezdařený vznik
 
 > (1) Spolek vzniká dnem zápisu do veřejného rejstříku.
@@ -292,6 +321,14 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 **§ 226 — Vznik spolku** = den zápisu do spolkového rejstříku. **Fikce zápisu** — pokud rejstřík nerozhodne do **30 dnů**, spolek se považuje za zapsaný (silná procesní záruka).
 
 **§ 227 — Pokud zápis odmítnut**: pokud spolek přesto pokračuje v činnosti, **použijí se ustanovení o společnosti** (§ 2716—2746 — tichá společnost / smluvní společnost, „klasické" sdružení).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 159/2024-74](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.159.2024.1) — 1. 10. 2024
+- *VS v Praze* [9 Cmo 182/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.182.2024.0) — 11. 10. 2024
+- *ObS pro Prahu 9* [18 C 259/2019-132](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:18.C.259.2019.1) — *korporace, nájem bytu, peněžité plnění, podnájem, sleva z ceny, smlouva kupní, smlouva n…*
+- *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.133.2022.0) — 27. 10. 2022
+- *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.128.2025.1) — 2. 9. 2025
 
 ### Pobočný spolek (§ 228—230)
 
@@ -418,6 +455,8 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 - *NS* [29 Cdo 3476/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C37D3314B3DE5FACC1258327003C9B69?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Odvolání Příslušnost soudu věcná Právnická osoba*
 - *NS* [27 Cdo 4173/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BAE95864E02647EC125855F0016034E?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Stanovy Právnická osoba Vady řízení Příslušnost sou…*
 - *NS* [28 Cdo 4916/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F30F041DFF1FCA16C12580DB002B748B?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Občanské sdružení Myslivost*
+- *NS* [27 Cdo 1757/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91181FA2B946521C1258BB6004D3B3C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Myslivost Stanovy*
+- *NS* [27 Cdo 1703/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F97D1E8665D42F25C125869A001DE087?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Členská schůze [ Spolek (o. z.) ]*
 
 ### Organizace spolku (§ 243—267)
 
@@ -457,6 +496,8 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - *NS* [26 Cdo 406/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/951F634125279C18C1258AD6001B873E?openDocument) — 13. 12. 2023
 - *NS* [26 Cdo 205/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EF18C4C3B717AFFC12589E90018252B?openDocument) — *Společenství vlastníků jednotek*
 - *NS* [26 Cdo 582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/429F31B23390CAC4C12588D70017C29F?openDocument) — 26. 7. 2022
+- *NS* [27 Cdo 1129/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F724452908B2C89C1258CE0004D09D3?openDocument) — *Statutární orgán Zájmové sdružení právnických osob Zdánlivé právní jednání (o. z.) [ Prá…*
+- *NS* [26 Cdo 3352/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99333E012B13AA3DC12588CA0017DED2?openDocument) — *Společenství vlastníků jednotek*
 
 #### § 246 — Funkční období, kooptace, postup
 
@@ -469,6 +510,14 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - Default funkční období: **5 let**;
 - **Kooptace**: pokud počet členů orgánu neklesl pod polovinu, mohou ostatní kooptovat náhradní (do nejbližšího zasedání volícího orgánu);
 - Pro kolektivní orgány platí **přiměřeně § 156** (usnášení) a § 159 odst. 2 (osobní výkon funkce).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 281/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.281.2024.0) — 7. 10. 2024
+- *OS v Přerově* [20 C 183/2022-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:20.C.183.2022.1) — *peněžité plnění, pojištění odpovědnosti za škodu*
+- *OS v Karviné* [25 C 94/2022-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2022:25.C.94.2022.1) — *bezdůvodné obohacení, nájem bytu, peněžité plnění*
+- *OS v Karviné* [25 C 28/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2022:25.C.28.2022.1) — *bezdůvodné obohacení, nájem bytu, odměna opatrovníka*
+- *VS v Praze* [9 Cmo 90/2024-425](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.90.2024.1) — 18. 12. 2024
 
 ### Nejvyšší orgán (členská schůze)
 
@@ -581,6 +630,12 @@ Default: **členská schůze**. Působnost:
 
 Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zasedání** (max. 6 týdnů od původního). Pozvánka musí výslovně označit „náhradní zasedání". **Usnáší se libovolným počtem členů** (default, modifikovatelné).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [12 Cmo 137/2023-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:12.Cmo.137.2023.1) — 25. 3. 2024
+- *VS v Praze* [7 Cmo 549/2016-86](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.549.2016.1) — 28. 5. 2021
+- *VS v Praze* [9 Cmo 7/2025-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.7.2025.1) — 18. 9. 2025
+
 ### Neplatnost rozhodnutí orgánu spolku (§ 258—261)
 
 #### § 258 — Žaloba na neplatnost
@@ -598,6 +653,8 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 - *NS* [27 Cdo 2873/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/85B03759FFF0D2B1C12587EE001B899D?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Nepřípustnost dovolání objektivní [ Nepřípustnost d…*
 - *NS* [27 Cdo 1176/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9839773820DB3379C12587CE001D7AC0?openDocument) — *Spolek (o. z.) Nejvyšší orgán právnické osoby [ Právnická osoba ] Nepřípustnost dovolání*
 - *NS* [27 Cdo 830/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A442B9EAF1841819C1258690001DF5A2?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ]*
+- *NS* [27 Cdo 458/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0A1464019A035D1C125867B001E0FB8?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná hromada ]*
+- *NS* [27 Cdo 1435/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D94E956EC996A411C125846200184789?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Spolek (o. z.) [ Korporac…*
 
 #### § 259 — Lhůta
 
@@ -614,6 +671,8 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 - *NS* [27 Cdo 2027/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C6DB22CC24F1CB1C12585410019BA75?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Lhůty Spolek (o. z.) [ Ko…*
 - *NS* [29 Cdo 1817/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CDDE3F8B3BD338FCC12580A400410B0A?openDocument) — *Zpětvzetí návrhu na zahájení řízení Stanovy Korporace (o. z.) Družstvo*
 - *NS* [27 Cdo 3187/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DBB75D53BB8D703C1258DA400367A32?openDocument) — *Spolek (o. z.) Vady podání*
+- *NS* [29 Cdo 5859/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C90B10E81F1E5F85C12583600042D59C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Příslušnost soudu věcná*
+- *NS* [21 Cdo 1239/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D480002BB39C9F1C1258D560052D46A?openDocument) — *Spolek (o. z.) Člen Pracovněprávní vztahy Pracovní poměr Výpověď z pracovního poměru Sta…*
 
 #### § 260 — Důvody nevyslovení neplatnosti
 
@@ -636,6 +695,8 @@ Tato pravidla **vyvažují legalitu a stabilitu** vnitřní organizace spolku.
 - *NS* [27 Cdo 3451/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9A6E48BAF1DCF0DC1258C69004D30FE?openDocument) — *Valná hromada Pozvánka na valnou hromadu [ Valná hromada ] Usnesení valné hromady (nepla…*
 - *NS* [27 Cdo 1395/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F719CA4786551971C1258BE00052DB81?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Usnesení valné hromady (protest) […*
 - *NS* [27 Cdo 2766/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6544857CD0181EFC1258B25004D4269?openDocument) — *Usnesení členské schůze (neplatnost) [ Družstvo ] Usnesení členské schůze (zdánlivost) […*
+- *NS* [27 Cdo 3026/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26324CCBE6F2D111C12588ED001DD391?openDocument) — *Nepřípustnost dovolání Usnesení členské schůze (neplatnost) [ Družstvo ] Usnesení člensk…*
+- *NS* [27 Cdo 3091/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C28E3EF830FF08A8C12588740017BF96?openDocument) — *Valná hromada Pozvánka na valnou hromadu [ Valná hromada ] Usnesení valné hromady (nepla…*
 
 #### § 261 — Přiměřené zadostiučinění
 

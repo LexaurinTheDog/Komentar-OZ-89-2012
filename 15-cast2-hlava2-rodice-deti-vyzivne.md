@@ -35,6 +35,8 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [I. ÚS 433/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-433-15_1) — 26. 3. 2015
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
 - *NS* [8 Tdo 1003/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CAEB178FEBBB3BAC125866E001FEE50?openDocument) — 22. 10. 2020
 
 ### § 856 — Časový rozsah
@@ -46,6 +48,14 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 **Osobnostní povinnosti a práva rodičů** = od **narození** do **zletilosti** (18 let nebo dříve nabytá svéprávnost).
 
 **Rozdíl od vyživovací povinnosti**: ta **přetrvává i po zletilosti** (§ 911 — dokud není dítě schopno se samo živit; typicky doba studia).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Ústí nad Labem* [23 C 9/2020-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2021:23.C.9.2020.1) — *osvojení, osvojení zletilého, výživné*
+- *ObS pro Prahu 5* [28 C 302/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:28.C.302.2024.1) — *osvojení zletilého, osvojení, výživné*
+- *OS ve Vyškově* [12 C 85/2022-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:12.C.85.2022.1) — *osvojení, osvojení zletilého*
+- *ObS pro Prahu 5* [26 C 402/2024-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:26.C.402.2024.1) — *výživné, osvojení*
+- *OS v Ústí nad Orlicí* [7 C 44/2024-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2024:7.C.44.2024.1) — *osvojení, osvojení zletilého, výživné*
 
 ### § 857 — Povinnost dbát rodičů a výchovná opatření
 
@@ -60,6 +70,14 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - **Dítě → rodič**: povinnost dbát rodičů + podřídit se výchovným opatřením.
 
 **Omezení výchovných opatření**: ochrana morálky, zdraví, práv dítěte, práv jiných osob, veřejného pořádku. **Zákaz tělesných trestů a ponížení** je explicitně formulován v § 884 odst. 2.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem* [95 Co 303/2025-273](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:95.Co.303.2025.1) — *služebnost, smlouva darovací, dlužné nájemné, věcná břemena, odbory, vrácení daru, odsto…*
+- *OS v Domažlicích* [7 C 164/2024-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDO:2024:7.C.164.2024.1) — *nájem bytu, zvýšení výživného, výživné, stipendium, rodičovská odpovědnost, rehabilitace…*
+- *OS ve Svitavách* [5 C 101/2014-310](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2022:5.C.101.2014.1) — *peněžité plnění, podílové spoluvlastnictví, postoupení pohledávky, rozhrada, smlouva kup…*
+- *OS v Karviné* [21 C 331/2025-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2026:21.C.331.2025.1) — *výživné, zvýšení výživného*
+- *OS v Liberci* [33 C 14/2024-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2025:33.C.14.2024.90) — *práce přesčas, náhrada nákladů, majetek, dokazování, výživné, lhůty, náklady řízení, zvý…*
 
 ### § 858 — Definice rodičovské odpovědnosti
 
@@ -98,6 +116,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
 - *NS* [7 Tdo 596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DFF16DA99F28234C1258D07004D04FB?openDocument) — *Ublížení na zdraví z nedbalosti Rodičovská zodpovědnost Subsidiarita trestní represe*
 - *NS* [4 Tdo 75/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A0073378A0F2F69C1258B470015F9F7?openDocument) — *Dokazování Listinný důkaz Maření výkonu úředního rozhodnutí a vykázání Ohrožování výchov…*
 - *NS* [24 Cdo 1447/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E189EAEBCC5ECEBC12587690018C0DE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
@@ -105,6 +124,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - *NS* [4 Tdo 1293/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1CB1DFE1C83E1511C12583CE001D57DC?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Jednočinný souběh Ohrožování výchovy dítěte Tý…*
 - *NS* [7 Tdo 1249/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D397F074BD043034C1257DC800411F24?openDocument) — *Nedbalost Rodičovská zodpovědnost Těžké ublížení na zdraví z nedbalosti*
 - *NS* [24 Cdo 1557/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B60867FC1C77CA6C1258B95004D3E7E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [7 Tdo 328/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81A2221885F33D78C1258B58004D1720?openDocument) — *Ohrožování výchovy dítěte Příčetnost Příčetnost zmenšená Rodičovská zodpovědnost Volné h…*
 
 ### § 859 — Oddělenost vyživovací povinnosti
 
@@ -149,6 +169,10 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 4. **Soud** (pokud rodiče nezvolí).
 
 **§ 860 odst. 3 — Změna pro dřívější dítě**: pokud se příjmení manželů změní, **automaticky** se mění příjmení dětí. **Výjimka pro dítě ≥ 12 let** — nutný **souhlas dítěte** + prohlášení rodičů před matrikou.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 4* [16 C 315/2020-102](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:16.C.315.2020.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité…*
 
 ### § 861—864 — Specifické situace
 
@@ -213,6 +237,8 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - *NS* [24 Cdo 602/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D36FE53AE3FAE1EC12587B0001E63A3?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
 - *NS* [24 Cdo 80/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDB2887B8FCEF017C12585B20018FDEA?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem Výchova nezletilých dětí*
 - *NS* [21 Cdo 5036/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/611C329A77683868C12584400018058E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 3460/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4724691291E8F31EC12583F40017D91A?openDocument) — *Rodičovská odpovědnost (o. z.)*
+- *NS* [30 Cdo 6047/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/589D14E022F2F23CC125829B0052A9A6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Rod…*
 
 #### § 866—867 — Zájem dítěte a slyšení
 
@@ -234,13 +260,15 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 3078/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3078-14_1) — 12. 11. 2014
+- *ÚS* [I. ÚS 2974/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2974-13_1) — 10. 7. 2014
+- *ÚS* [III. ÚS 2135/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2135-15_1) — 13. 8. 2015
+- *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — 21. 5. 2015
 - *NS* [30 Cdo 1811/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B66A0FA44D45D7C1258AB1001B7EAA?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
 - *NS* [24 Cdo 3032/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1BC9E254D4D0F8CC12588370017DC32?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
 - *NS* [24 Cdo 2837/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/499503948E8CDCFCC12586E0001858C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 - *NS* [24 Cdo 1173/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF72B67065AB7003C1258B0E004D370F?openDocument) — *Rodičovská odpovědnost (o. z.) (poctivý) obohacený/ochuzený (o. z.) [ Zneužití a omezení…*
 - *NS* [24 Cdo 3273/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/452BEB306BF0B77CC1258AF3004D48BB?openDocument) — *Rodičovská odpovědnost (o. z.) Nezletilí*
-- *NS* [24 Cdo 4217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36D1597D468877FBC12587D4001C2871?openDocument) — *Rodičovská odpovědnost (o. z.)*
-- *NS* [24 Cdo 80/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDB2887B8FCEF017C12585B20018FDEA?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem Výchova nezletilých dětí*
 
 #### § 868—871 — Omezení, pozastavení, zbavení
 
@@ -284,6 +312,8 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - *NS* [24 Cdo 1825/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50D742D57FADA672C1258A91001B7C47?openDocument) — *Rodičovská odpovědnost (o. z.)*
 - *NS* [24 Cdo 3032/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1BC9E254D4D0F8CC12588370017DC32?openDocument) — *Rodičovská odpovědnost (o. z.) Styk s dítětem*
 - *NS* [24 Cdo 2650/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41BE53BD74BF6381C12587E0001B86AD?openDocument) — *Rodičovská odpovědnost (o. z.) Výchova nezletilých dětí Řízení ve věcech péče o nezletilé*
+- *NS* [24 Cdo 2098/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0021D98B93A75AC1258BF60052C18C?openDocument) — *Rodičovská odpovědnost (o. z.) Pěstounská péče*
+- *NS* [24 Cdo 1173/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF72B67065AB7003C1258B0E004D370F?openDocument) — *Rodičovská odpovědnost (o. z.) (poctivý) obohacený/ochuzený (o. z.) [ Zneužití a omezení…*
 
 #### § 872—874 — Styk a vyživovací povinnost po omezení/zbavení
 
@@ -355,6 +385,14 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 V případě neshody → **soud rozhoduje na návrh** kteréhokoli rodiče.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Plzni* [56 Co 199/2023-912](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:56.Co.199.2023.1) — 26. 9. 2023
+- *MS v Brně* [112 C 57/2021-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2021:112.C.57.2021.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, zadostiu…*
+- *MS v Praze* [39 Co 200/2025-199](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:39.Co.200.2025.199) — *bezdůvodné obohacení, zvýšení výživného, rozvod manželství, společné jmění manželů, zast…*
+- *ObS pro Prahu 4* [30 C 196/2022-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:30.C.196.2022.1) — *nemajetková újma, znalecký posudek*
+- *KS v Ústí nad Labem* [8 Co 414/2025-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2026:8.Co.414.2025.1) — *zavinění, výkon rozhodnutí, náhrada nákladů, koupě, rodičovská odpovědnost, náklady říze…*
+
 #### § 878 — Výkon jedním rodičem
 
 > (1) Nežije-li některý z rodičů nebo není-li znám, nemá-li některý z rodičů rodičovskou odpovědnost, nebo je-li výkon jeho rodičovské odpovědnosti pozastaven, vykonává rodičovskou odpovědnost druhý rodič; to platí i tehdy, je-li rodičovská odpovědnost jednoho z rodičů omezena nebo je-li omezen její výkon.
@@ -380,6 +418,11 @@ V případě neshody → **soud rozhoduje na návrh** kteréhokoli rodiče.
 >
 
 Jednání vůči dítěti, které není způsobilé samostatně jednat, postačí **jen vůči jednomu z rodičů**. Pro posouzení **dobré víry / vědomosti** dítěte se však posuzuje **obou rodičů**.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [22 Co 119/2024-102](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:22.Co.119.2024.1) — *smlouva o zápůjčce, postoupení pohledávky, bezdůvodné obohacení, peněžité plnění*
+- *OS v Sokolově* [11 C 113/2022-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2022:11.C.113.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, smluvní pokuta*
 
 ### Péče o dítě a jeho ochrana (§ 880—886)
 
@@ -448,6 +491,14 @@ Jednání vůči dítěti, které není způsobilé samostatně jednat, postač�
 - **Solidární odpovědnost** rodičů za škodu z porušení.
 
 **§ 897 — Soudní rozhodnutí při neshodě** o podstatných věcech.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Ústí nad Orlicí* [6 C 153/2021-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:6.C.153.2021.1) — *smlouva o účtu, smlouva o zápůjčce*
+- *OS v Kladně* [218 C 65/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:218.C.65.2022.1) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 9/2022-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.9.2022.1) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 1/2022-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.1.2022.1) — *jízdné, peněžité plnění*
+- *OS v Kladně* [222 C 8/2022-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2022:222.C.8.2022.1) — *jízdné, peněžité plnění*
 
 #### § 898 — KLÍČOVÉ — Souhlas soudu k některým úkonům
 
@@ -522,6 +573,14 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **§ 905 — Opatrovník vedle rodičů**: soud jmenuje opatrovníka pro správu jmění **při ohrožení zájmů dítěte** (zvláště společná majetková práva rodičů a dítěte / sourozenců).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Nymburce* [6 C 305/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2023:6.C.305.2022.3) — *peněžité plnění, výživné*
+- *MS v Praze* [12 Co 313/2024-258](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:12.Co.313.2024.258) — 12. 11. 2024
+- *MS v Praze* [12 Co 314/2024-258](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:12.Co.314.2024.258) — 12. 11. 2024
+- *OS v Mostě* [22 C 355/2022-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.355.2022.1) — *peněžité plnění*
+- *OS Praha-západ* [8 C 416/2021-248](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2024:8.C.416.2021.1) — *smlouva kupní, poplatky rozhlasové a televizní, výživné, dodávky energie, podnájem, jmění*
+
 ### Výkon po rozvodu (§ 906—909)
 
 #### § 906—907 — Úprava péče při rozvodu
@@ -552,6 +611,18 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 **§ 908 — Oddělené žití bez rozvodu**: pokud rodiče nezletilého dítěte nežijí spolu + nedohodnou se → soud i bez návrhu rozhodne. Použijí se § 906—907 obdobně.
 
 **§ 909 — Změna poměrů**: soud rozhodne i bez návrhu, pokud se poměry změnily a rodiče se nedohodnou.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II. ÚS 320/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-320-26_1) — 12. 2. 2026
+- *ÚS* [IV. ÚS 3330/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3330-14_1) — 14. 10. 2015
+- *ÚS* [III. ÚS 2053/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2053-15_1) — 24. 9. 2015
+- *ÚS* [I. ÚS 1234/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1234-15_1) — 12. 8. 2015
+- *ÚS* [IV. ÚS 3583/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3583-14_1) — 26. 5. 2015
+- *ÚS* [III. ÚS 816/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-816-15_1) — 12. 5. 2015
+- *ÚS* [IV. ÚS 3659/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3659-14_1) — 20. 4. 2015
+- *ÚS* [IV. ÚS 582/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-582-15_1) — 9. 4. 2015
+- *ÚS* [IV. ÚS 106/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-106-15_1) — 17. 3. 2015
 
 ---
 
@@ -627,13 +698,15 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 2412/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2412-15_1) — 3. 11. 2015
+- *ÚS* [II. ÚS 2877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2877-14_1) — 20. 10. 2015
+- *ÚS* [I. ÚS 30/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-30-15_1) — 15. 7. 2015
+- *ÚS* [II. ÚS 3628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3628-14_1) — 24. 3. 2015
+- *ÚS* [IV. ÚS 2271/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2271-14_1) — 14. 10. 2014
+- *ÚS* [II. ÚS 2805/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2805-14_1) — 25. 11. 2014
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
 - *NS* [3 Tdo 637/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5D688BF56ACD59EC1258BCC0052AE69?openDocument) — *Předběžné otázky Výživné Vyživovací povinnost Zanedbání povinné výživy z nedbalosti*
 - *NS* [4 Tdo 1157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E2B0616DD5665CFC1258AF5004D30FF?openDocument) — *Dokazování Předběžné otázky Subjektivní stránka Vyživovací povinnost Zanedbání povinné v…*
-- *NS* [3 Tdo 1192/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79ACD1CA9FAA2F8CC12585500018B5F6?openDocument) — *Zanedbání povinné výživy*
-- *NS* [3 Tdo 1192/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ABC4B2E5C78F3AABC1258224004CE22F?openDocument) — *Zanedbání povinné výživy*
-- *NS* [30 Cdo 2183/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/892E3DE97241448EC12587D9001B8673?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Dokazování Výživné*
-- *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
-- *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
 
 ### § 915—919 — Výživné mezi rodiči a dětmi
 
@@ -674,6 +747,13 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 1245/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1245-15_1) — 23. 6. 2015
+- *ÚS* [III. ÚS 527/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-527-15_1) — 19. 3. 2015
+- *ÚS* [II. ÚS 2198/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2198-14_1) — 13. 1. 2015
+- *ÚS* [II. ÚS 2727/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2727-14_1) — 19. 11. 2014
+- *ÚS* [II. ÚS 2232/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2232-14_1) — 26. 8. 2014
+- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — 31. 8. 2015
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
 - *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
 - *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
 
@@ -695,6 +775,14 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 | **Náklady těhotenství a porodu** | Přiměřený rozsah (i v případě nepřežití dítěte — § 920 odst. 1 in fine) |
 
 **Předem poskytnuté plnění** (odst. 2—3): těhotná žena může žádat soud o uložení povinnému (s pravděpodobným otcovstvím), aby poskytl částku **předem** — typicky před narozením (k zajištění lékařské péče, nákupů pro dítě).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Chebu* [15 C 237/2025-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2026:15.C.237.2025.1) — *náhrada nákladů, výživné, příspěvek na bydlení, porod, náklady řízení*
+- *OS v Přerově* [16 C 263/2025-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2025:16.C.263.2025.1) — *porod, jízdné, náklady řízení, lhůty, dokazování, výživné*
+- *OS v České Lípě* [34 C 84/2025-106](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2025:34.C.84.2025.1) — *náhrada nákladů, nemocenské dávky, porod, příspěvek na bydlení, náklady řízení, lhůty, v…*
+- *OS v Chomutově* [45 C 121/2024-28](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2025:45.C.121.2024.1) — *výživné, dokazování, náhrada nákladů, porod, náklady řízení*
+- *OS v Kladně* [8 C 33/2025-50](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:8.C.33.2025.1) — *náklady řízení, příspěvek na bydlení, výživné, pěstounská péče, náhrada nákladů*
 
 ### § 921—923 — Společná ustanovení o výživném
 
@@ -739,6 +827,12 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 699/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-699-15_1) — 26. 5. 2015
+- *ÚS* [IV. ÚS 1104/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1104-15_1) — 26. 5. 2015
+- *ÚS* [I. ÚS 3968/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3968-14_1) — 24. 2. 2015
+- *ÚS* [IV. ÚS 1738/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1738-14_1) — 19. 8. 2014
+- *ÚS* [III. ÚS 1877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1877-14_1) — 17. 7. 2014
+- *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — 31. 8. 2015
 - *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
 - *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
 - *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
@@ -759,6 +853,12 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 - **Akutně** — i bez řádného zastoupení dítěte.
 
 **Procesní úprava**: § 452 a násl. ZŘS — řízení o předběžných opatřeních o péči o nezletilé.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 153/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.153.2022.1) — 8. 6. 2022
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 145/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.145.2022.1) — 30. 5. 2022
+- *OS Praha-východ* [8 C 389/2019-145](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2022:8.C.389.2019.1) — *bolestné, peněžité plnění, rehabilitace, znalecký posudek, ztížení společenského uplatnění*
 
 ### § 925 — Preventivní, výchovná a sankční opatření
 
@@ -812,6 +912,7 @@ Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce �
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 308/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-308-15_1) — 18. 6. 2015
 - *NS* [24 Cdo 2328/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C36CEB441BD618D3C1258A97001B9467?openDocument) — *Popření otcovství*
 
 ---

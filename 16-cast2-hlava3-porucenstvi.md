@@ -127,6 +127,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **Tvrdší režim než u rodiče**: u rodiče bez souhlasu soudu **relativní neplatnost s testem újmy** (§ 898 odst. 4); u poručníka **zdánlivé jednání** (§ 934 odst. 1).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS Plzeň-sever* [8 C 21/2024-185](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPS:2025:8.C.21.2024.1) — *služebnost, podvod, věcná břemena, dědické řízení, smlouva kupní, výprosa, oddlužení, dr…*
+
 ### § 935—937 — Zánik a odvolání
 
 **§ 935**:
@@ -156,6 +160,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **§ 937 — Odvolání**:
 - (1) **Povinné** — při porušení povinností;
 - (2) **Volitelné** — při nevhodnosti pro výkon.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Jindřichově Hradci* [13 C 147/2021-30](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJH:2021:13.C.147.2021.1) — *peněžité plnění, ústavní výchova*
 
 ### § 938—942 — Závěr funkce + speciální situace
 
@@ -210,6 +218,11 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 3. **Jiný zájem dítěte** nebo **zákonné stanovení** (např. v trestním řízení proti dítěti, v řízení o osvojení).
 
 **Aktivní legitimace opatrovníka**: má **vlastní právo navrhovat zahájení řízení**, je-li to v zájmu dítěte.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 151/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-151-26_1) — 26. 2. 2026
+- *ÚS* [II. ÚS 234/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-234-26_1) — 13. 2. 2026
 
 ### § 944—947 — Subsidiární aplikace pravidel o poručenství
 
@@ -304,6 +317,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 - **Před ústavní výchovou** (klíčový princip subsidiarity);
 - **Není náhradou** pěstounské péče (ta je více formalizovaná a financovaná).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+
 ### § 954—957 — Podmínky a financování
 
 **§ 954**:
@@ -337,6 +354,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 957 — Nepoužitelnost při nemožnosti výživného**: pokud nelze uložit vyživovací povinnost rodičům ani příbuzným → ustanovení § 953—956 **se nepoužijí** (jiná forma péče — typicky pěstounská).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
+
 ### Oddíl 2 — Pěstounství (§ 958—970)
 
 **Pěstounská péče** (*Pflegschaft*, *foster care*) — **formalizovaná** náhradní rodinná péče s **finanční podporou státu** podle zákona č. 359/1999 Sb.
@@ -357,6 +378,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 |---|---|
 | **Trvalá / dlouhodobá** | Dítě v pěstounské rodině do dospělosti |
 | **Přechodná** | Krátkodobá (max. 1 rok podle zákona č. 359/1999 Sb.) — pro akutní krizi |
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
 
 ### § 959—960 — Doba a vztah s rodiči
 
@@ -394,6 +419,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 - **Rozdíl výživné — státní příspěvek** patří dítěti.
 
 **Praktický důsledek**: rodič nemůže přesunout svou povinnost na stát; výživné se vymáhá ve prospěch státu nebo dítěte.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
 
 ### § 962—965 — Předpoklady, manželé, předpěstounská péče
 
@@ -433,6 +462,10 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 - **Smrt** jednoho pěstouna: dítě **zůstává** u přeživšího.
 
 **§ 965 — Souhlas druhého manžela**: i jednotlivému pěstounovi-manželu lze svěřit dítě jen se souhlasem druhého manžela. Výjimka: druhý není svéprávný / souhlas obtížně získat. **Manžel pěstouna se podílí** na osobní péči.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — 29. 4. 2015
 
 ### § 966—968 — Práva a povinnosti pěstouna
 
@@ -522,6 +555,14 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 - **NESMÍ být zdravotnické zařízení** (ochrana před hospitalizací jako trestem);
 - **Co nejblíže bydlišti** rodičů / blízkých (zachování kontaktu).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Hodoníně* [6 C 187/2022-65](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2023:6.C.187.2022.1) — *ústavní výchova, výživné*
+- *OS v Hodoníně* [6 C 133/2023-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2024:6.C.133.2023.1) — *zaopatřovací příspěvek, výživné, ústavní výchova, rodinná domácnost*
+- *OS v Šumperku* [15 C 23/2025-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSU:2025:15.C.23.2025.1) — *výživné, srážky ze mzdy, dokazování, pěstounská péče, majetek, náhrada nákladů, zaopatřo…*
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
+- *KS v Praze* [21 Co 30/2025-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:21.Co.30.2025.1) — *výživné, rodinná domácnost, bezdůvodné obohacení, zaopatřovací příspěvek, ústavní výchov…*
+
 ### § 972 — Doba a prodloužení
 
 > (1) Ústavní výchovu lze nařídit nejdéle na dobu tří let. Ústavní výchovu lze před uplynutím tří let od jejího nařízení prodloužit, jestliže důvody pro nařízení ústavní výchovy stále trvají. Trvání ústavní výchovy lze prodloužit opakovaně, vždy však nejdéle na dobu tří let. Po dobu, než soud rozhodne o zrušení nebo o prodloužení ústavní výchovy, dítě zůstává v ústavní výchově, i když už uběhla doba dříve rozhodnutím soudu stanovená.
@@ -541,6 +582,10 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 - **Pominutí důvodů** → **neprodleně** zrušit + rozhodnout, komu bude svěřeno;
 - **Osvojení** → automatický zánik;
 - **Předpěstounská / předosvojitelská péče** → **přerušení**.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
 
 ### § 973 — Pravidelný přezkum
 
@@ -570,3 +615,11 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 > Rozhodne-li soud o umístění dítěte do ústavní nebo ochranné výchovy, upraví také rozsah vyživovací povinnosti rodičů.
 
 > Konec kapitoly 16. Pokračování: **kapitola 17** — Část třetí, Hlava I—II (§ 976—1114): **Věcná práva** — všeobecná ustanovení, držba, vlastnické právo (nabytí, ochrana, vyvlastnění).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [36 CO 57/2020-467](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:36.Co.57.2020 .1) — *peněžité plnění, výživné*
+- *KS v Ústí nad Labem, pobočka Liberec* [36 Co 220/2024-85](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:36.Co.220.2024.85) — *rozvod manželství, daň z nemovitosti, výživné*
+- *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.145.2022.1) — *pěstounská péče, ústavní výchova, výživné*
+- *KS v Ústí nad Labem* [95 Co 165/2025-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:95.Co.165.2025.1) — *notářský zápis, spoluvlastnictví, mimořádné vydržení, smlouva kupní, podílové spoluvlast…*
+

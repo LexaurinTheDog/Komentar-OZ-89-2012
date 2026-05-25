@@ -50,6 +50,14 @@
 
 **Princip**: zvláštní ochrana **nad rámec OZ** zůstává v platnosti — OZ je obecná úprava.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS Brno-Venkov* [7 C 16/2026-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2026:7.C.16.2026.1) — *rozsudek pro uznání, náhrada nákladů, dokazování, advokátní tarif, lhůty, odročení, smlo…*
+- *OS Brno-Venkov* [7 C 98/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2025:7.C.98.2025.1) — *dokazování, rozsudek pro uznání, náklady řízení, odročení, smlouva o úvěru, advokátní ta…*
+- *OS ve Svitavách* [17 C 12/2025-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.12.2025.1) — *náhrada nákladů, dokazování, smlouva o úvěru, náklady řízení*
+- *OS ve Svitavách* [17 C 71/2024-190](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.71.2024.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS ve Svitavách* [17 C 20/2025-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2025:17.C.20.2025.1) — 21. 5. 2025
+
 ### § 3017 — Rozhodčí řízení
 
 > Ustanovení tohoto zákona, která se týkají uplatnění práva u soudu nebo soudního řízení či soudního rozhodnutí, se obdobně použijí i pro uplatnění práva před rozhodcem, pro rozhodčí řízení nebo pro rozhodčí nález.
@@ -58,11 +66,23 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - **Rozhodčí řízení** (zákon č. 216/1994 Sb. o rozhodčím řízení);
 - **Mediaci** (zákon č. 202/2012 Sb. o mediaci).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Ostravě* [33 C 70/2025-244](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2026:33.C.70.2025.1) — *zavinění, pracovní poměr, smlouva pracovní, bezdůvodné obohacení, jistota, podnikatel, r…*
+
 ### § 3018 — Zveřejnění
 
 > Povinnost zveřejnit údaje je splněna jejich zveřejněním v Obchodním věstníku, nestanoví-li jiný právní předpis jinak.
 
 **Obchodní věstník** je výchozím médiem pro publikační povinnosti — nestanoví-li jiný zákon jinak. (Praktický význam: kapitálové změny, převody závodu, fúze.)
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 115/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.115.2022.0) — 10. 10. 2022
+- *VS v Praze* [9 Cmo 34/2025-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.34.2025.1) — 7. 5. 2025
+- *VS v Praze* [9 Cmo 147/2022-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.147.2022.1) — 21. 2. 2023
+- *VS v Praze* [9 Cmo 236/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.236.2024.0) — 3. 9. 2024
+- *VS v Praze* [9 Cmo 119/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.119.2023.0) — 15. 11. 2023
 
 ### § 3019 — Identifikační údaje
 
@@ -71,6 +91,14 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **Identifikační údaje**:
 - **FO**: jméno + bydliště + datum narození (nebo **rodné číslo** dle § 16 zákona č. 133/2000 Sb. o evidenci obyvatel);
 - **PO/podnikatel**: **IČO** (identifikační číslo osoby — zákon č. 304/2013 Sb.).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-východ* [22 C 358/2024-76](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2025:22.C.358.2024.76) — *uznání dluhu, nebytový prostor, smlouva nájemní*
+- *OS v Přerově* [9 C 222/2023-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:9.C.222.2023.1) — *elektronický podpis, insolvence, peněžité plnění, smlouva o úvěru, smlouva o zápůjčce*
+- *OS v Přerově* [12 C 319/2022-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:12.C.319.2022.1) — *podvod, bezdůvodné obohacení, akcie*
+- *OS v Přerově* [9 C 8/2024-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:9.C.8.2024.1) — *smlouva o úvěru, postoupení pohledávky*
+- *OS v Přerově* [9 C 248/2023-35](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:9.C.248.2023.1) — *smlouva o úvěru, elektronický podpis, insolvence, postoupení pohledávky*
 
 ### § 3020 — Registrované partnerství
 
@@ -89,6 +117,14 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **Výjimka**: ne pro **určování rodičovství** (= § 776, 777 OZ — domněnky otcovství). 
 
 **Pozn.**: V letech 2023—2025 probíhala diskuse o **plné rovnoprávnosti** (manželství pro stejnopohlavní páry) — zákon č. 124/2024 Sb. od 1. 1. 2025 (institut „rodina" rozšířen, ale formálně manželství zachováno jako "muž a žena" — sporné, vede k novelizacím).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Benešově* [11 C 252/2025-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBN:2025:11.C.252.2025.1) — *náklady řízení, dokazování, náhrada nákladů*
+- *OS Praha-západ* [16 C 148/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2022:16.C.148.2022.1) — 19. 7. 2022
+- *KS v Hradci Králové, pobočka Pardubice* [22 CO 20/2022-936](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHKPA:2022:22.Co.20.2022.1) — *dotace, peněžité plnění, svědečné, znalecký posudek*
+- *OS v Pardubicích* [10 C 30/2022-11](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2022:10.C.30.2022.1) — 5. 4. 2022
+- *OS v Pardubicích* [11 C 263/2021-36](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2021:11.C.263.2021.1) — 20. 12. 2021
 
 ### § 3021 — Domácí násilí
 
@@ -193,6 +229,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 2261/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2261-15_1) — 27. 10. 2015
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
 - *NS* [22 Cdo 2486/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8271CDA53D3B05E1C1258DBF0052CD04?openDocument) — *Přípustnost dovolání Společné jmění manželů*
 - *NS* [22 Cdo 2315/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/215FD174F33F080FC1258D9F0052D8DB?openDocument) — *Přípustnost dovolání Držba Vydržení*
 - *NS* [28 Cdo 537/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7DD4ADC0096E1E3C1258D5C0052D3CA?openDocument) — *Smluvní pokuta Moderační právo soudu Přechodná (intertemporální) ustanovení*
@@ -221,6 +259,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 3940/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3940-14_1) — 24. 2. 2015
 - *NS* [33 Cdo 2579/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4C4E09C28A029B4C125843B002356C8?openDocument) — *Závazkové vztahy občanskoprávní Společné jmění manželů Smlouva kupní Smlouva o smlouvě b…*
 - *NS* [28 Cdo 2908/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44191FC5EC7A82C2C12583A000221E54?openDocument) — *Bezdůvodné obohacení Přípustnost dovolání*
 - *NS* [29 Cdo 4365/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B40F5419D3D9852C12583600042D5AA?openDocument) — *Zpětná účinnost právních předpisů Přípustnost dovolání Správce konkursní podstaty Konkur…*
@@ -228,6 +267,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - *NS* [26 Cdo 2430/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D32280059F0640CC125827A00476BA4?openDocument) — 15. 2. 2018
 - *NS* [32 Cdo 1082/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2BED84F016EF410C125825D0026197D?openDocument) — *Smlouva pojistná*
 - *NS* [26 Cdo 2479/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/692585654B332C5DC125820C004C966A?openDocument) — 19. 10. 2017
+- *NS* [30 Cdo 1311/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E352169EBE6B274C12580C300419221?openDocument) — *Přípustnost dovolání*
 
 ### § 3031—3035 — Specifika
 
@@ -374,6 +414,14 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 - **Zákon č. 37/2004 Sb.** — pojistná smlouva;
 - ... a další.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 151/2022-186](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.151.2022.1) — 19. 1. 2023
+- *ObS pro Prahu 4* [57 C 177/2021-8](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2022:57.C.177.2021.1) — *doménové jméno, náhrada nemajetkové újmy, nemajetková újma, peněžité plnění, rehabilitac…*
+- *ObS pro Prahu 2* [22 C 122/2023-249](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2025:22.C.122.2023.1) — *zadostiučinění / satisfakce, duševní útrapy, nemajetková újma, ztížení společenského upl…*
+- *OS v Ostravě* [16 C 125/2018-276](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2023:16.C.125.2018.1) — *náhrada za ztrátu na výdělku, ušlý zisk, smlouva pracovní, náhrada mzdy, svědečné, boles…*
+- *KS v Praze* [73 CM 105/2021-124](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2021:73.Cm.105.2021 .1) — *bytové družstvo, družstevní byt, převod nemovitostí*
+
 ### § 3081 — Účinnost
 
 > Tento zákon nabývá účinnosti dnem 1. ledna 2014.
@@ -381,6 +429,14 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 **Účinnost OZ od 1. 1. 2014** — největší rekodifikace soukromého práva v dějinách Československa a České republiky.
 
 **Doba mezi přijetím a účinností**: zákon byl publikován **22. 3. 2012** (Sbírka zákonů částka 33/2012), účinnost po **více než 21 měsících** — k umožnění adaptace praxe, legislativní práce na navazujících zákonech (ZOK, ZMPS, ZŘS, KatZ).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Plzni* [14 Co 148/2024-135](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2024:14.Co.148.2024.1) — 3. 9. 2024
+- *MS v Praze* [20 CO 327/2022-297](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:20.Co.327.2022.1) — *duševní porucha, náhrada za ztrátu na výdělku, peněžité plnění, pojištění odpovědnosti z…*
+- *ObS pro Prahu 1* [30 C 116/2019](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:30.C.116.2019.1) — *majetková újma, peněžité plnění, pojištění majetku, pojištění odpovědnosti za škodu, sml…*
+- *ObS pro Prahu 1* [30 C 189/2016-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:30.C.189.2016.1) — *opilost, peněžité plnění, pojištění odpovědnosti za škodu, pracovní cesta, řidičský průk…*
+- *ObS pro Prahu 1* [64 C 88/2016](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:64.C.88.2016.1) — *duševní porucha, náhrada za ztrátu na výdělku, nemocenské dávky, obchodní podíl, peněžit…*
 
 ---
 

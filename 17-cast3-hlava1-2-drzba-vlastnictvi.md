@@ -35,6 +35,14 @@ Tato kapitola pokrývá:
 
 **Klíčové: numerus clausus absolutních práv** (§ 977) — jen zákon stanoví, která práva jsou absolutní. Strany **nemohou samy vytvořit** nový typ věcného práva (na rozdíl od inominátních smluv § 1746).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Ústí nad Labem* [8 C 274/2022-182](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2023:8.C.274.2022.1) — 31. 10. 2023
+- *OS ve Frýdku-Místku* [11 C 332/2022-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2025:11.C.332.2022.1) — *služebnost*
+- *ObS pro Prahu 4* [21 C 403/2020-101](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:21.C.403.2020.1) — *absolutní majetková práva, akcionář, exekuce, korporace, peněžité plnění, smlouva darova…*
+- *KS v Brně* [13 CO 265/2022-97](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2023:13.Co.265.2022.1) — *právo užívání, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrácení daru*
+- *OS v Litoměřicích* [7 C 69/2021-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2022:7.C.69.2021.1) — *absolutní majetková práva, ochrana osobnosti, peněžité plnění, smlouva o dílo, smlouva p…*
+
 ### § 978 — Omezená dispozitivnost vůči třetím osobám
 
 > Od ustanovení této části se lze odchýlit ujednáním s účinky vůči třetím osobám, jen připouští-li to zákon.
@@ -42,6 +50,14 @@ Tato kapitola pokrývá:
 **Výklad:**
 
 **Kogentnost vůči třetím osobám** — ujednání odchylné od OZ má **inter partes účinky**, ale **erga omnes účinky jen pokud zákon dovoluje** (a typicky vyžaduje zápis do VR — katastru).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [54 Co 156/2023-243](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:54.Co.156.2023.1) — *držba, rozsudek doplňující, převod vlastnictví, nájem pozemku, právo požívání, náklady ř…*
+- *ObS pro Prahu 3* [6 C 512/2022-97](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2023:6.C.512.2022.97) — *převod nemovitostí, převod vlastnictví, smlouva kupní, smlouva zástavní, zajištění dluhu…*
+- *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:7.Co.766.2025.1) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
+- *KS v Ostravě* [71 Co 223/2024-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2025:71.Co.223.2024.1) — *služebnost, věcné právo k věci cizí, převod nemovitostí, telekomunikace, právo požívání,…*
+- *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:69.Co.190.2025.267) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
 
 ---
 
@@ -119,6 +135,8 @@ Hlava II se vztahuje na:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 2526/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2526-14_1) — 15. 9. 2015
+- *ÚS* [I. ÚS 315/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-315-15_1) — 5. 3. 2015
 - *NS* [22 Cdo 963/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9A4CEEE17976E15C1258CAB004D1DFE?openDocument) — *Nabytí vlastnického práva od neoprávněného*
 - *NS* [22 Cdo 679/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F8A5A742F5C50C6C1258C9F004D1E4A?openDocument) — *Přípustnost dovolání Dobrá víra Vlastnictví Vydržení Veřejný seznam (o. z.)*
 - *NS* [22 Cdo 817/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE47C821A493DA52C1258C77004D21F7?openDocument) — *Nabytí vlastnického práva od neoprávněného*
@@ -171,12 +189,21 @@ Hlava II se vztahuje na:
 - *NS* [22 Cdo 507/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46ACC56F86D9B638C1258DCE004D4E37?openDocument) — *Přípustnost dovolání Žaloba určovací Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
 - *NS* [22 Cdo 2769/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/516FE04BC7F5792AC1258D700052AB14?openDocument) — *Ochrana vlastnictví Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
 - *NS* [22 Cdo 1310/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/604016FC16BDBD02C1258CF9004D26E1?openDocument) — *Vlastnictví Vydržení Mimořádné vydržení (o. z.)*
+- *NS* [22 Cdo 46/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB714CA006AB2E09C1258DA60052AA47?openDocument) — *Přípustnost dovolání Ochrana vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
 
 ### § 990 — Nabytí držby
 
 > (1) **Bezprostředně** — držitel se jí **ujme svou mocí** (v rozsahu fakticky ujatém).
 
 > (2) **Odvozeně** — od dosavadního držitele (převod / sukcese; v rozsahu, jak ji on měl).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Praze* [25 Co 92/2024-235](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:25.Co.92.2024.1) — *držba, rozvod manželství, spoluvlastnictví, společné jmění manželů, notářský zápis, vydr…*
+- *KS v Plzni* [61 Co 290/2025-121](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2026:61.Co.290.2025.1) — *neplatnost právního jednání, smlouva darovací, náhrada nákladů, příslušenství věci, nepl…*
+- *KS v Českých Budějovicích* [5 Co 1148/2024-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:5.Co.1148.2024.1) — *spoluvlastnictví, notářský zápis, smlouva darovací, smlouva kupní, podílové spoluvlastni…*
+- *OS v Kladně* [16 C 7/2026-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2026:16.C.7.2026.1) — *lhůty, držba, náklady řízení*
+- *OS v Teplicích* [11 C 230/2022-141](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTP:2024:11.C.230.2022.1) — *základní jmění, odbory, pozemní komunikace, smlouva kupní, věcná břemena, držba, služebn…*
 
 ### § 991—994 — Typy držby
 
@@ -219,6 +246,8 @@ Hlava II se vztahuje na:
 - *NS* [22 Cdo 1620/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BA835E850007978C1258BBE004D30F7?openDocument) — *Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
 - *NS* [22 Cdo 3815/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D767402CB0BAACAC1258AF4004B462E?openDocument) — *Držba (o. z.) Poctivá držba (o. z.) [ Držba (o. z.) ] Pravá držba (o. z.) [ Držba (o. z.…*
 - *NS* [22 Cdo 2826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17B66DFBDBBB0233C1258D850052C87B?openDocument) — *Držba Úmysl Vydržení*
+- *NS* [8 Tdo 702/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93418B4A83BB1E24C1258D17004D3C08?openDocument) — *Zpronevěra Znalecký posudek Znalec Dokazování Škoda Škoda značná Hodnocení důkazů Cizí v…*
+- *NS* [22 Cdo 2769/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/516FE04BC7F5792AC1258D700052AB14?openDocument) — *Ochrana vlastnictví Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
 
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
 
@@ -325,6 +354,10 @@ Hlava II se vztahuje na:
 - Trvalá ztráta možnosti vykonávat;
 - Vypuzení bez uchování svépomocí / žalobou.
 - **Nevykonávání samo o sobě nezpůsobuje zánik** (! — odlišnost od některých zahraničních úprav).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II. ÚS 162/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-162-26_1) — 4. 2. 2026
 
 ---
 
@@ -433,6 +466,7 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 415/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-415-14_1) — 24. 3. 2015
 - *NS* [22 Cdo 2848/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B94B71F2E39158FCC1258D650052BC55?openDocument) — *Imise*
 - *NS* [22 Cdo 1494/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/915AD7DBEF4FDE28C1258D3900472E89?openDocument) — *Imise Přípustnost dovolání*
 - *NS* [22 Cdo 2483/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489750AA199AE91EC1258D490052C0BE?openDocument) — *Imise*
@@ -440,6 +474,7 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 1720/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B483BBFD711073A9C1258CDF004D1C9D?openDocument) — *Ochrana vlastnictví Imise Dokazování Znalecký posudek*
 - *NS* [22 Cdo 808/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/547D7379D24101F0C1258CEB004D255F?openDocument) — *Přípustnost dovolání*
 - *NS* [22 Cdo 2974/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/449A145F56694715C1258C3C00529BB9?openDocument) — *Imise*
+- *NS* [22 Cdo 2084/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417A30BC18109522C1258C3B0052B31E?openDocument) — *Imise Sousedská práva*
 
 ### § 1024—1028 — Rozhrady
 
@@ -479,6 +514,8 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 2884/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17F9802385CD353EC125867800318FCA?openDocument) — *Vlastnictví*
 - *NS* [22 Cdo 1064/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1B3E86EAAC3A55BC12585CE001890A5?openDocument) — *Rozhrady (o. z.)*
 - *NS* [22 Cdo 842/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/621A72B1697F1CD2C12585AC0018FD0D?openDocument) — *Zastavení řízení Vlastnictví*
+- *NS* [22 Cdo 4043/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08DC2CE192F17D34C125841A00182C23?openDocument) — *Rozhrady (o. z.)*
+- *NS* [22 Cdo 3162/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFEBE271E208AFBCC12583B000387988?openDocument) — *Vlastnictví*
 
 ### § 1029—1036 — Nezbytná cesta
 
@@ -554,6 +591,8 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 1548/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FAA968732DA519DC1258D5E0052BC09?openDocument) — *Přípustnost dovolání Nezbytná cesta (o. z.)*
 - *NS* [22 Cdo 1591/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D194E36A7505FA3EC1258D650052BC33?openDocument) — *Přípustnost dovolání Nezbytná cesta (o. z.)*
 - *NS* [22 Cdo 1989/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55CC21D02290F24FC1258D2D004D1D62?openDocument) — *Nezbytná cesta (o. z.)*
+- *NS* [22 Cdo 1249/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AC41FB05C384FC6C1258CD3004D3B82?openDocument) — *Nezbytná cesta (o. z.)*
+- *NS* [22 Cdo 3253/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF375F5CB907ED5C1258C510052BBDF?openDocument) — *Vedlejší účastník Nezbytná cesta (o. z.)*
 
 ### § 1037—1039 — Vyvlastnění
 
@@ -629,6 +668,8 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [22 Cdo 1058/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3827940C8E426445C1258CBE004D1DAC?openDocument) — *Vydání věci*
 - *NS* [24 Cdo 2395/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80FA06866EF4DF3AC1258CC4004D352E?openDocument) — *Žaloba (rei)vindikační [ Žaloba ] Notář Úschova*
 - *NS* [22 Cdo 1132/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFA943E80F8093FFC1258CAB004D1E09?openDocument) — *Přípustnost dovolání Vydání věci*
+- *NS* [22 Cdo 823/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46769CEE602A955FC1258C92004D09CB?openDocument) — *Vydání věci*
+- *NS* [26 Cdo 3600/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E26FE6B6D42E3A9C1258C77004D2260?openDocument) — *Vyklizení nemovitosti*
 
 ### Oddíl 2 — Nabytí vlastnického práva
 
@@ -682,6 +723,7 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [22 Cdo 1268/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DDDC2677B483E49C1258D16004D3C31?openDocument) — *Vlastnictví Držba (o. z.) Vydržení Opuštěná nemovitá věc (o. z.)*
 - *NS* [21 Cdo 2257/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC4E056D7E57197C12584050017B03D?openDocument) — *Vklad do katastru nemovitostí Vlastnictví Opuštěná nemovitá věc (o. z.) Notářský zápis*
 - *NS* [8 Tdo 702/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93418B4A83BB1E24C1258D17004D3C08?openDocument) — *Zpronevěra Znalecký posudek Znalec Dokazování Škoda Škoda značná Hodnocení důkazů Cizí v…*
+- *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
 
 #### § 1051—1065 — Nález
 
@@ -774,6 +816,8 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [29 ICdo 20/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2139C7CA1A85CEA1C12589B800184B45?openDocument) — *Nepřípustnost dovolání Žaloba pro zmatečnost Zastavení řízení Vydržení Insolvenční řízení*
 - *NS* [22 Cdo 2747/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DE434DA01DD80C7C125899C001827BE?openDocument) — *Vydržení*
 - *NS* [22 Cdo 2961/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0A15C14A814B290C12588A00017DFF5?openDocument) — *Přípustnost dovolání Vydržení*
+- *NS* [28 Cdo 3425/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD30128A7F62DA25C125844000180566?openDocument) — *Územní samosprávné celky Vlastnictví Vydržení*
+- *NS* [22 Cdo 505/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6898290FED6A0B2C1258CB2004F1B7F?openDocument) — *Vydržení Vlastnictví Vázanost rozhodnutím jiného orgánu*
 
 ---
 

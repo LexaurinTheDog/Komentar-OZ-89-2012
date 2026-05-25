@@ -55,6 +55,8 @@ Vnitřní struktura Dílu 1:
 - *NS* [26 Cdo 3525/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645817946A9E105CC1258A4C00160178?openDocument) — *Nájem pozemku Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Dovolací důvody…*
 - *NS* [21 Cdo 2061/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3309C001284EF5AC1258848002C0F1E?openDocument) — *Právní jednání (o. z.) Pracovněprávní vztahy*
 - *NS* [33 Cdo 3641/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A19D54D3824CFCAC125877A0018B6AF?openDocument) — *Právní jednání (o. z.) Obec*
+- *NS* [24 Cdo 3481/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E2CF2EC18538A84C12586D8001873DA?openDocument) — *Přípustnost dovolání Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Žalo…*
+- *NS* [25 Cdo 740/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41D0C1E5F3D25378C1258D710052AAEB?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Škoda na převzaté věci [ Škod…*
 
 ### § 546 — Konání a opomenutí; výslovný a konkludentní projev
 
@@ -165,6 +167,8 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 - *NS* [29 ICdo 59/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EDA6B1B4D696208C1258B8E004D414F?openDocument) — *Právní jednání (o. z.) Incidenční spory*
 - *NS* [23 Cdo 1694/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/271FD0BC9EC16EBBC1258B5D004D2F5B?openDocument) — *Veřejný příslib*
 - *NS* [33 Cdo 832/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67E3D0C10AEC0C58C1258A5F001B9143?openDocument) — *Smluvní pokuta Přípustnost dovolání*
+- *NS* [32 Cdo 3505/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63E1A6C19C2A686FC125871E00187851?openDocument) — *Smlouva o dílo*
+- *NS* [33 Cdo 4737/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/714ABB8D66615420C12585720019B3B8?openDocument) — *Předkupní právo*
 
 ### § 551—554 — Zdánlivé právní jednání
 
@@ -206,6 +210,8 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 - *NS* [33 ICdo 154/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/642B8EEFE1131C79C1258D6F0052941C?openDocument) — *Majetková podstata Žaloba vylučovací (excindační) Smlouva kupní*
 - *NS* [23 Cdo 1001/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E827958B8689CCF7C1258C260052C43C?openDocument) — *Přípustnost dovolání Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad p…*
 - *NS* [33 Cdo 601/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D79F1E0DAC4E418C1258B42004D42EE?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+- *NS* [28 Cdo 1758/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07B2092CE8900B84C1258A4300160F91?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení Výklad projevu vůle Znalecký posudek*
+- *NS* [32 Cdo 3505/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63E1A6C19C2A686FC125871E00187851?openDocument) — *Smlouva o dílo*
 
 ---
 
@@ -240,6 +246,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - *NS* [33 Cdo 3573/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/85924BF2CFF1983AC1258BE10052C404?openDocument) — *Splnění dluhu Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [21 Cdo 794/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10A7CFFFE9869591C1258BA1004D3C02?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Okamžité zrušení pracovního p…*
 - *NS* [27 Cdo 2767/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/879050A6AFD719B2C1258B41004D14CF?openDocument) — *Převodní smlouva Podíl v obchodní korporaci [ Obchodní korporace ] Zdánlivé právní jedná…*
+- *NS* [33 Cdo 2895/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/935CAE9CC1A66876C1258B0F004D4E84?openDocument) — *Přípustnost dovolání Závaznost rozsudku Výklad právních jednání (o. z.) [ Právní jednání…*
+- *NS* [20 Cdo 2944/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45A683571D8AA09AC1258AF4004C8F84?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Spotřebitel Vykonatelnost roz…*
 
 ### § 556 — Subjektivní a objektivní výklad
 
@@ -274,6 +282,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - *NS* [21 Cdo 1451/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/354E0A3AD73E43DFC1258CD5004D5310?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Dokazování Vady řízení*
 - *NS* [28 Cdo 3117/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62083041A82B92EAC1258CB3004D3545?openDocument) — *Smlouva zprostředkovatelská Smluvní pokuta Přípustnost dovolání*
 - *NS* [33 Cdo 2639/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C24E7095D5423386C1258C9A004D5019?openDocument) — *Přípustnost dovolání Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání (o…*
+- *NS* [23 Cdo 3247/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4918DDA0B714D7AC1258CA4004D3A32?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [28 Cdo 3513/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EDE4427D40CC84AC1258C540052D1F3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o dílo*
 
 ### § 557 — Contra proferentem
 
@@ -299,6 +309,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - *NS* [29 Cdo 3950/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/898105F23D7B8DA0C12585880018F3CD?openDocument) — *Bankovní záruka*
 - *NS* [23 Cdo 505/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A23CC0431346D07C12582EA00315F6B?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [23 Cdo 3318/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8178F2DCD9478449C1258DA90052AA8E?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [26 Cdo 2280/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B410AFCD85AD679C1258D750052CA46?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [33 Cdo 3051/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4B5428BC6FE47CBC1258D18004D3C00?openDocument) — *Přípustnost dovolání Právní úkony Výklad právních jednání (o. z.) [ Právní jednání (o. z…*
 
 ### § 558 — Výklad v podnikatelském styku
 
@@ -323,6 +335,7 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 2798/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2798-14_1) — 24. 6. 2015
 - *NS* [28 Cdo 1331/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED7C950CC6414464C1257C050034CE35?openDocument) — *Postoupení pohledávky Promlčení Uznání závazku*
 - *NS* [26 Cdo 2280/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B410AFCD85AD679C1258D750052CA46?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [28 Cdo 3520/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA8D50EA588D6234C1258C92004D0A3A?openDocument) — *Závazek (o. z.)*
@@ -379,6 +392,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 - *NS* [33 Cdo 340/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19D11DA59641402EC1258C92004D0957?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Přev…*
 - *NS* [24 Cdo 2779/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08FF091038562E4EC12586AE00185019?openDocument) — *Převodní smlouva Vlastnictví Smlouva kupní Neplatnost právního jednání (o. z.)*
 - *NS* [33 Cdo 72/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B8BC9F16F660F4C12588A60017EA18?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Věcn…*
+- *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
+- *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
 
 ### § 561 — Podpis a více osob
 
@@ -404,6 +419,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 - *NS* [24 Cdo 1520/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0576C1BF819FEEC8C1258D2D004D1C6D?openDocument) — *Převod nemovitostí Předkupní právo Předkupník, koupěchtivý (o. z.) Nabídka (návrh na uza…*
 - *NS* [26 Cdo 530/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F9438601D6B6586C1258C0800529D2B?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
 - *NS* [23 ICdo 60/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/311BC9623B3A3F4DC1258A6B001B8426?openDocument) — *Uznání dluhu Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Právní úkony*
+- *NS* [21 Cdo 2114/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0B4D14223797DE4C12586F400161271?openDocument) — *Přípustnost dovolání Okamžité zrušení pracovního poměru Plná moc Forma právních jednání…*
+- *NS* [26 Cdo 3501/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40B745F50256FEF9C12585560019EBF1?openDocument) — *Smlouva nájemní Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost prá…*
 
 ### § 562 — Elektronická forma
 
@@ -514,6 +531,8 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - *NS* [33 Cdo 3489/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06FEC0C6B5BC309EC1258B95004D3F1C?openDocument) — *Přípustnost dovolání Soukromá listina (o. z.)*
 - *NS* [25 Cdo 531/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2770FA49DC5BC404C1258AEC00529924?openDocument) — *Přípustnost dovolání Dokazování*
 - *NS* [23 Cdo 2590/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09552A30F442C4D1C1258AE4001B86BF?openDocument) — *Soukromá listina (o. z.)*
+- *NS* [33 Cdo 3057/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90A63AD071226397C1258A59001B81D0?openDocument) — *Břemeno důkazní Soukromá listina (o. z.)*
+- *NS* [33 Cdo 1469/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D5DECC4C8A7FC39C1258A1F001616FE?openDocument) — *Soukromá listina (o. z.) Břemeno důkazní*
 
 ### § 567—569 — Veřejná listina
 
@@ -593,6 +612,8 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - *NS* [26 Cdo 4130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CE10EB4CCCF7E9CC12584050017B013?openDocument) — 7. 3. 2019
 - *NS* [20 Cdo 4016/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E5B7E4E6549695C125820B002B4C46?openDocument) — *Exekuce Doručování Neplatnost právního úkonu Neplatnost právních jednání (o. z.) [ Právn…*
 - *NS* [26 Cdo 977/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5119F6320005B91FC12588DF00183768?openDocument) — *Nájem bytu Zánik závazku*
+- *NS* [26 Cdo 979/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F28DE780E8DDCDEC12585E30018AC18?openDocument) — *Výpověď z nájmu bytu Vyklizení bytu*
+- *NS* [26 Cdo 1926/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54271A4B9BB8EA59C12584240017F8FE?openDocument) — *Výpověď z nájmu bytu Právní jednání (o. z.)*
 
 ### § 573 — Domněnka doby dojití
 
@@ -605,6 +626,14 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - **Do zahraničí**: **15 pracovních dnů** po odeslání.
 
 Praktický význam: usnadňuje důkaz dojití bez nutnosti dokládat doručenku. Vyvrácení: prokazatelná pozdější / nepřevzatá zásilka.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Mladé Boleslavi* [23 C 137/2025-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2026:23.C.137.2025.1) — *postoupení pohledávky, náhrada nákladů, bezdůvodné obohacení, lhůty, smlouva o úvěru, ná…*
+- *OS ve Zlíně* [10 C 347/2025-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:10.C.347.2025.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS ve Zlíně* [10 C 343/2025-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:10.C.343.2025.1) — *náhrada nákladů, smlouva o úvěru, náklady řízení*
+- *OS Plzeň-město* [36 C 378/2025-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2026:36.C.378.2025.1) — *bezdůvodné obohacení, smlouva o úvěru*
+- *OS v Karviné, pobočka Havířov* [117 C 28/2026-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2026:117.C.28.2026.26) — *náhrada nákladů, dokazování, doručování, ručení, lhůty, náklady řízení*
 
 ---
 
@@ -645,6 +674,7 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — 9. 9. 2014
 - *NS* [25 Cdo 1993/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FE942A101AE0BAC1258A3500160EC0?openDocument) — *Ušlý zisk Neplatnost smlouvy Přípustnost dovolání*
 - *NS* [24 Cdo 1608/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F93BC0DEA103273C1258812001B7C7B?openDocument) — *Přípustnost dovolání Vklad do katastru nemovitostí*
 - *NS* [23 Cdo 568/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE215360101D41C0C125872C0018AFDD?openDocument) — *Rozhodčí doložka Neplatnost právního jednání (o. z.)*
@@ -652,6 +682,7 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 - *NS* [25 Cdo 487/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1F90914F15FD877DC1258A2E0015F620?openDocument) — *Náhrada škody Ušlý zisk Neplatnost právního jednání (o. z.) Přípustnost dovolání*
 - *NS* [29 ICdo 75/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D0FF4AE0C084DC1C1258932001B92E8?openDocument) — *Neplatnost právního jednání (o. z.) Neplatnost smlouvy Incidenční spory*
 - *NS* [24 Cdo 3641/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/580D2325B3DFBF22C12588130015FE0F?openDocument) — *Závěť holografní [ Závěť ]*
+- *NS* [24 Cdo 3568/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CE98BD2D0F9B635C1258504001E4F12?openDocument) — *Dovolání Přípustnost dovolání Závěť*
 
 ### § 580—582 — Hlavní důvody neplatnosti
 
@@ -691,6 +722,7 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [I. ÚS 173/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-173-13_1) — 20. 8. 2014
 - *NS* [29 ICdo 62/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/939EA175960351DBC1258DD5004D3641?openDocument) — *Insolvenční řízení Neplatnost právního jednání (o. z.) Postoupení pohledávky*
 - *NS* [27 Cdo 570/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D396ED28A30007EC1258CFA004D3FD6?openDocument) — *Přípustnost dovolání Dobré mravy Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
 - *NS* [28 Cdo 575/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FFEFA20F0095A02C1258CC0004D0B08?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek Svéprávnost (o. z.) Dokazování*
@@ -698,6 +730,7 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 - *NS* [24 Cdo 3333/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B82668B4880BACA3C1258C5E004D1A20?openDocument) — *Přípustnost dovolání Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Znal…*
 - *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — *Advokát Kárná odpovědnost Neplatnost smlouvy Podíl v obchodní korporaci (převod) [ Obcho…*
 - *NS* [21 Cdo 1209/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDE8B7F903D05540C1258BE70052C174?openDocument) — *Okamžité zrušení pracovního poměru Dovolená na zotavenou*
+- *NS* [28 Cdo 2370/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE317944A29EE659C1258BCB0052C644?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek*
 
 ### § 583—585 — Omyl
 
@@ -733,6 +766,8 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [33 Cdo 522/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B887EB1295A31AC6C1258A9E001B7D9A?openDocument) — *Přípustnost dovolání Omyl*
 - *NS* [23 Cdo 3121/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C59BD221162AC738C12588220017E246?openDocument) — *Omyl*
 - *NS* [24 Cdo 2178/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675F7A9C38A7B94DC1258524001E17FE?openDocument) — *Přípustnost dovolání Neplatnost právního jednání*
+- *NS* [22 Cdo 6082/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ABD61B7098765371C12582B800263F5A?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+- *NS* [23 Cdo 2420/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/015696272F641AAAC1258D610052BC22?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy Omyl*
 
 ### § 586—588 — Následky neplatnosti
 
@@ -774,6 +809,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — 5. 2. 2014
 - *NS* [29 ICdo 100/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE77BEB5DE139F53C1258D18004D3C0C?openDocument) — *Přípustnost dovolání Neplatnost právního jednání (o. z.) Incidenční spory (vylučovací ža…*
 - *NS* [21 Cdo 512/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/825280B971C27D37C1258D0A004D1CE4?openDocument) — *Přípustnost dovolání Dokazování Dovolací důvody Náklady řízení Bezprávná výhrůžka Dobré…*
 - *NS* [33 ICdo 92/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED77758F4AACA4A6C1258C6D004D22E3?openDocument) — *Spotřebitel Smlouva spotřebitelská Dobré mravy*
@@ -781,6 +817,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [21 Cdo 992/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E54564D62D0EF548C1258BA2004D3B79?openDocument) — *Bezprávná výhrůžka Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [5 Tz 17/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E5E650DE0F9B530C1258BBD004D3351?openDocument) — *Ochranná opatření Stížnost pro porušení zákona Vrácení, vydání a další nakládání s věcmi…*
 - *NS* [3 Tdo 1161/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D46AF0C0712073F6C1258AF4004B44E7?openDocument) — *Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru*
+- *NS* [21 Cdo 886/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2088FCD8EE49D757C1258ADF001B86EF?openDocument) — *Neplatnost právního jednání (o. z.) Bezprávná výhrůžka Přípustnost dovolání Dovolací dův…*
 
 ---
 
@@ -813,6 +850,8 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [24 Cdo 1415/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50119C95D5C6B586C125879B001E547F?openDocument) — *Neúčinnost právního jednání*
 - *NS* [29 Cdo 867/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F67C122F99C4DF1C1258DCC004D1FA0?openDocument) — *Dokazování Účastníci řízení Právnická osoba Neúčinnost právního jednání*
 - *NS* [29 Cdo 2329/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/327386098DA9DFE7C1258AF6004D30CE?openDocument) — *Neúčinnost právního jednání Poučovací povinnost soudu Dokazování*
+- *NS* [29 Cdo 710/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8A06DF86E491F16C1258A78001B8560?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Odporovatelnost*
+- *NS* [23 Cdo 2094/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7BC8FC54612239C12588FB001DC1FA?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Přípustnost dovolání*
 
 ### § 590 — Důvody odpůrčí žaloby
 
@@ -868,6 +907,8 @@ Tři kategorie odporovatelných jednání (s různými lhůtami):
 - *NS* [29 Cdo 2329/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/327386098DA9DFE7C1258AF6004D30CE?openDocument) — *Neúčinnost právního jednání Poučovací povinnost soudu Dokazování*
 - *NS* [24 Cdo 356/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF1FFC79A8E72877C125877300188CDD?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Závěť*
 - *NS* [21 Cdo 955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7171A5079CF2DC1C125840600184FB7?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [21 Cdo 867/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A11F6F65BD0D8645C12583750021F241?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Právní jednání (o. z.) Žaloba Dě…*
+- *NS* [21 Cdo 2332/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61B8F2A6C30D1D3C12583B700573061?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního úkonu Závěť…*
 
 ### § 592 — Opomenutí
 
@@ -969,6 +1010,7 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 353/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-353-14_1) — 19. 2. 2015
 - *NS* [27 Cdo 2025/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4EFD16E7F9CDA64C12585880018F3F6?openDocument) — *Obchodní rejstřík Veřejný seznam (o. z.) Veřejný rejstřík (zápis & výmaz) (o. z.)*
 - *NS* [29 Cdo 1772/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C191402796792D1FC1258A21001610FA?openDocument) — *Neúčinnost právního jednání Smír Rozsudek pro uznání*
 - *NS* [29 Cdo 334/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument) — *Neúčinnost právního jednání Pohledávka Dlužník Věřitel*

@@ -71,6 +71,8 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - *NS* [25 Cdo 1241/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADACECC57B0CAC8CC1258BE40052ACD1?openDocument) — *Vázanost rozhodnutím jiného orgánu Soukromé právo*
 - *NS* [21 Cdo 3047/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18BEE5F87F5565BBC1258B62004D193E?openDocument) — *Náhrada mzdy Mzda (a jiné obdobné příjmy) Překážky v práci*
 - *NS* [27 Cdo 1889/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1442D4434EEF8A6AC12588F3001DCDAB?openDocument) — *Bytové družstvo [ Družstvo ] Družstevní podíl [ Družstvo ]*
+- *NS* [21 Cdo 496/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1A6894B412097297C12588FB001DC1BA?openDocument) — *Okamžité zrušení pracovního poměru Překážky v práci Náhrada mzdy Pracovní volno*
+- *NS* [21 Cdo 2340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBCED09BB8C0A660C1258652001DDDD7?openDocument) — *Pravomoc soudu Vojenská služba Náhrady při ublížení na zdraví [ Náhrady při ublížení na…*
 
 ---
 
@@ -102,13 +104,15 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 1782/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1782-15_1) — 16. 7. 2015
+- *ÚS* [IV. ÚS 3188/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3188-14_1) — 11. 12. 2014
+- *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — 1. 12. 2014
 - *NS* [30 Cdo 2893/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA000D7FDDF8703C1258D840052B087?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ]*
 - *NS* [22 Cdo 2350/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB4E589C083A7184C1258D480052C13D?openDocument) — *Zisk Podnikání Dobré mravy*
 - *NS* [21 Cdo 2993/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/494D255BA663421DC1258C440052B307?openDocument) — *Dražba Insolvenční řízení Výklad právních předpisů (výklad právních norem)*
 - *NS* [26 Cdo 3520/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7572D324E7A59D0C1258C0800529D30?openDocument) — *Dobré mravy*
 - *NS* [28 Cdo 1334/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C94CC88992D3CB8C1258BDA0052DBB6?openDocument) — *Dobré mravy Veřejné zakázky Jistota*
 - *NS* [25 Cdo 753/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C2A8F3584D542A5C1258AF5004D3118?openDocument) — *Ochrana osobnosti Dobré mravy Dovolací důvody Přípustnost dovolání Dokazování Promlčení*
-- *NS* [25 Cdo 1265/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4102E2DE022D541CC12588EB001DDA05?openDocument) — *Dobré mravy Náhrada škody*
 
 ---
 
@@ -143,13 +147,15 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 716/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-716-14_1) — 8. 7. 2015
+- *ÚS* [II. ÚS 2678/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2678-14_1) — 28. 4. 2015
+- *ÚS* [II. ÚS 804/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-804-14_1) — 14. 10. 2014
+- *ÚS* [II. ÚS 589/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-589-13_1) — 8. 7. 2014
+- *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — 9. 9. 2015
+- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — 23. 9. 2014
 - *NS* [25 Cdo 1019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43CC7C0402FC53F6C1258C4500529BBF?openDocument) — *Předběžná otázka Dobré mravy*
 - *NS* [26 Cdo 1171/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D103CB1BD0054F01C125876C00189DD2?openDocument) — *Ochrana vlastnictví Promlčení Dobré mravy*
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
-- *NS* [29 NSCR 21/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CB2D640DEF3EDD2C1258BB8004D3BB6?openDocument) — *Úpadek Insolvenční řízení*
-- *NS* [29 NSCR 69/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63A1C0A05B50C511C12589650041BC64?openDocument) — *Manželství Mateřská dovolená Rodičovská dovolená Oddlužení (společné oddlužení manželů)*
-- *NS* [27 Cdo 2293/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/425098C75E70138CC1258C7A004D2A20?openDocument) — *Ručení Statutární orgán Jednatel Úmysl Společnost s ručením omezeným*
-- *NS* [27 Cdo 451/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7ADA174D9152FA7C12586E500186B9C?openDocument) — *Neúměrné zkrácení (o. z.) Akcie na jméno Akcie Akcionář Cena Cena věci (o. z.) Znalecký…*
 
 ---
 
@@ -250,6 +256,8 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - *NS* [32 Cdo 3898/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE015E0A5391E02BC125851E001E8636?openDocument) — *Dobré mravy Přípustnost dovolání*
 - *NS* [29 NSCR 41/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD84B0147F0F7214C12583E200183D78?openDocument) — *Oddlužení Poctivost (o. z.)*
 - *NS* [28 Cdo 1119/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54AC6384322A1718C1257F7E00364AD6?openDocument) — *Občanské sdružení*
+- *NS* [21 Cdo 1092/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EA8F5F8409D60DFC1258D04004D42DF?openDocument) — *Přípustnost dovolání Dovolací důvody Veřejná nedobrovolná dražba [ Veřejná dražba ] Vydá…*
+- *NS* [27 Cdo 1943/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02D0A755B62C4DC1258BA2004D3C65?openDocument) — *Žaloba Zneužívání výkonu práv a povinností Společník*
 
 ---
 
@@ -270,6 +278,7 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — 23. 6. 2015
 - *NS* [27 Cdo 2126/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82A2B48544644291C1258BEB0052C157?openDocument) — *Dobrá víra Obchodní rejstřík Statutární orgán Zastoupení*
 - *NS* [22 Cdo 1946/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A40DCF6734A98BFC1258D2D004D1D94?openDocument) — *Katastr nemovitostí Dobrá víra*
 - *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
@@ -277,6 +286,7 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 - *NS* [24 Cdo 221/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D00B831FD6419AFFC125870400188CF4?openDocument) — *Dobrá víra Katastr nemovitostí Vlastnictví Nabytí vlastnického práva od neoprávněného*
 - *NS* [24 Cdo 279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/091AFB0766A514DEC1258AFA004D3115?openDocument) — *Dobré mravy Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ]*
 - *NS* [27 Cdo 485/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/713CE5BFA88DB3A8C1258A6D001B84A0?openDocument) — *Odstoupení od smlouvy Lhůta hmotněprávní [ Lhůty ] Dobrá víra Právnická osoba Jednání za…*
+- *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
 
 ---
 
@@ -317,6 +327,8 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 - *NS* [26 Cdo 1722/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE66C54672A191D2C1258D29004D4703?openDocument) — *Smluvní pokuta Dobré mravy*
 - *NS* [27 Cdo 1395/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF11F6509D8BF8A6C1258CE6004D33D3?openDocument) — *Zneužívání výkonu práv a povinností Žaloba Společník*
 - *NS* [22 Cdo 662/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4816CC6BD28F7254C1258C92004D09F3?openDocument) — *Přípustnost dovolání Zneužívání výkonu práv a povinností*
+- *NS* [33 Cdo 642/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4FC2E66F8499BFAC1258C5A0052D0C0?openDocument) — *Odměna advokáta Dobré mravy*
+- *NS* [27 Cdo 1236/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A59FD4BC785804AEC1258C400052B32D?openDocument) — *Konkurenční doložka Smlouva o výkonu funkce Odstoupení od smlouvy*
 
 ---
 
@@ -388,6 +400,8 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 - *NS* [22 Cdo 3651/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9CFE6A4F4587ED5C125850A001E54E8?openDocument) — *Přípustnost dovolání Stavba*
 - *NS* [33 Cdo 1109/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489E79F0E0BBB090C125857E00452C7B?openDocument) — *Smlouva o smlouvě budoucí*
 - *NS* [30 Cdo 4888/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CD5CB763DC69059C12582F6002679C7?openDocument) — *Neplatnost právního úkonu Dobrá víra Přípustnost dovolání*
+- *NS* [33 Cdo 2352/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6439B705F531C379C12589D50018293F?openDocument) — *Odstoupení od smlouvy Analogie iuris*
+- *NS* [27 Cdo 3150/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55B66445D61A5DB1C1258923001E1510?openDocument) — *Zájmové sdružení právnických osob Spolek (o. z.)*
 
 ---
 
@@ -480,13 +494,15 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 1976/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1976-15_1) — 20. 10. 2015
+- *ÚS* [I. ÚS 491/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-491-15_1) — 22. 9. 2015
+- *ÚS* [II. ÚS 1512/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1512-15_1) — 8. 9. 2015
+- *ÚS* [I. ÚS 3917/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3917-11_1) — 6. 3. 2014
+- *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — 23. 6. 2015
 - *NS* [28 Cdo 2174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53465E92D0A5A74DC1258DB00052C041?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek*
 - *NS* [25 Cdo 2171/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2580657FC767F617C1258CD9004D23E9?openDocument) — *Náklady léčení Dovolání Přípustnost dovolání*
 - *NS* [28 Cdo 174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A000C27BE9EB7B19C1258CCE004D3C02?openDocument) — *Bezdůvodné obohacení Dokazování*
 - *NS* [26 Cdo 178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D453FDD3E87CAD3C1258C83004D1D89?openDocument) — *Přípustnost dovolání Předběžná otázka Závaznost rozsudku*
-- *NS* [23 Cdo 200/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6DE12D2969773560C1258C68004D1A80?openDocument) — *Přípustnost dovolání Vady řízení*
-- *NS* [29 ICdo 5/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F05F92D1B63D4774C1258C500052A31C?openDocument) — *Incidenční spory Neúčinnost právního jednání Majetková podstata Dlužník Insolvenční sprá…*
-- *NS* [21 Cdo 1930/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A3FE58CD3199F4BC1258C130052AF95?openDocument) — *Přípustnost dovolání Dokazování Svědci*
 
 ---
 

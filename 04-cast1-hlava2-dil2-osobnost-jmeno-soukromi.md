@@ -45,6 +45,12 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 - Smlouva uzavřená pod cizím jménem se přičítá osobě, která ji uzavřela (§ 552 — projev vůle se posuzuje podle obsahu, nikoliv označení), s případnou odpovědností za škodu třetí osoby v dobré víře.
 - Pokud někdo zneužije cizí jméno, je odpovědný za škodu (§ 2956 — náhrada újmy z ochrany osobnosti).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:13.C.215.2022.1) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
+- *KS v Brně* [70 CO 93/2022-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:70.Co.93.2022.1) — *náhrada nemajetkové újmy, nekalá soutěž, nemajetková újma, ochrana osobnosti, pasivní le…*
+- *KS v Plzni* [10 CO 298/2023-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.298.2023.1) — *bezdůvodné obohacení, majetková újma, náhrada nemajetkové újmy, nemajetková újma, peněži…*
+
 ### § 78 — Ochrana jména
 
 > (1) Člověk, který byl dotčen zpochybněním svého práva ke jménu nebo který utrpěl újmu pro neoprávněný zásah do tohoto práva, zejména neoprávněným užitím jména, se může domáhat, aby bylo od neoprávněného zásahu upuštěno nebo aby byl odstraněn jeho následek.
@@ -76,6 +82,14 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 - § 2956—2971 (ochrana osobnosti — peněžitá náhrada nemajetkové újmy);
 - § 1909 (převod pohledávky — postoupení nesmí narušit osobní povahu závazku);
 - Trestní právo § 184—186 (pomluva, šíření poplašné zprávy).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Mělníku* [12 C 251/2022-178](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSME:2024:12.C.251.2022.1) — *nemajetková újma, podvod, svědečné, náklady řízení, dokazování*
+- *ObS pro Prahu 7* [18 C 76/2023-473](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2025:18.C.76.2023.1) — *obchodní rejstřík, exces, advokacie, ochrana osobnosti, obchodní firma, svědek, náhrada…*
+- *KS v Brně* [70 Co 35/2024-315](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:70.Co.35.2024.1) — *nemajetková újma, náhrada nemajetkové újmy, znalecký posudek, rodičovská odpovědnost, oc…*
+- *OS v Blansku* [9 C 4/2017-214](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBK:2022:9.C.4.2017.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, zadostiučinění / satisfak…*
+- *OS Praha-východ* [3 C 290/2019](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2021:3.C.290.2019.1) — *smlouva o půjčce, smlouva o zápůjčce*
 
 ### § 79 — Pseudonym
 
@@ -196,6 +210,8 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
 - *NS* [25 Cdo 2919/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9BAF39299851C81C1258D1B004D2962?openDocument) — *Ochrana osobnosti Přípustnost dovolání*
 - *NS* [25 Cdo 2091/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1650511D0072FB51C1258D1B004D295C?openDocument) — *Ochrana osobnosti Nepřípustnost dovolání*
 - *NS* [25 Cdo 1882/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06690E2FD1829719C1258CAD004D1D92?openDocument) — *Přípustnost dovolání Ochrana osobnosti*
+- *NS* [25 Cdo 1508/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7C71EA0B40B0238C1258CAC004D1EA2?openDocument) — *Přípustnost dovolání Ochrana osobnosti*
+- *NS* [25 Cdo 3931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/432300EA45409D06C1258B72004D1A37?openDocument) — *Změna návrhu na zahájení řízení Ochrana osobnosti Zadostiučinění (satisfakce) Přípustnos…*
 
 ### § 82 — Aktivní legitimace k ochraně
 
@@ -220,6 +236,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 577/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-577-13_1) — 23. 6. 2015
 - *NS* [25 Cdo 2375/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42DA3D3A6ADDB6EDC1258CF3004D3878?openDocument) — *Ochrana osobnosti*
 - *NS* [25 Cdo 3277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FF949B0166873D3C1258CF3004D3883?openDocument) — *Osobnost člověka (o. z.)*
 - *NS* [30 Cdo 492/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA0620B0C27AC3EAC1258C69004D314C?openDocument) — *Ochrana osobnosti Odpovědnost státu za újmu Exces*
@@ -227,6 +244,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [25 Cdo 3025/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/197902C34B60B915C1258AF4004C8EF0?openDocument) — *Ochrana osobnosti*
 - *NS* [30 Cdo 3033/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/916FE7291CB841E1C125839200223128?openDocument) — *Přípustnost dovolání Ochrana osobnosti Nemajetková újma (o. z.) Zadostiučinění (satisfak…*
 - *NS* [30 Cdo 547/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6943ADEE1C0EA9ECC125833F002FBB4B?openDocument) — *Přípustnost dovolání Ochrana osobnosti Osoba blízká Nemajetková újma (o. z.) Zadostiučin…*
+- *NS* [30 Cdo 5848/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AEF771EA85E22CC3C125829600476AF9?openDocument) — *Ochrana osobnosti*
 
 ### § 83 — Aktivní legitimace právnické osoby
 
@@ -241,6 +259,14 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - **Není-li schopen projevit vůli** (např. nepřítomnost, neschopnost úsudku) — souhlasu netřeba.
 
 **Po smrti** (odst. 2) — PO se může domáhat samostatně. Příklad: redaktor zemřel, ale negativní tvrzení o něm pokračují → vydavatelství, kde pracoval, může žalobu podat samo.
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [47 C 113/2021-145](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2022:47.C.113.2021.1) — *duševní útrapy, náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, osoba blí…*
+- *KS v Brně* [70 CO 81/2022-385](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:70.Co.81.2022.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, veřejná…*
+- *OS v Ústí nad Orlicí* [10 C 41/2020-116](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2022:10.C.41.2020.1) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, stavba n…*
+- *KS v Hradci Králové, pobočka Pardubice* [22 CO 99/2022-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHKPA:2022:22.Co.99.2022.1) — *nemajetková újma, ochrana osobnosti, peněžité plnění, svědečné, zadostiučinění / satisfa…*
+- *MS v Brně* [47 C 217/2023-130](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:47.C.217.2023.1) — *ochrana osobních údajů, ochrana osobnosti*
 
 ---
 
@@ -318,6 +344,8 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
 - *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+- *NS* [25 Cdo 1260/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAEB2EED6C9F56BEC1258AA6001B8313?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
+- *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
 
 ### § 87 — Odvolání souhlasu
 
@@ -345,6 +373,14 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 - Nečekané negativní použití obrazu (parodie, dehonestace);
 - Změna profesní situace (např. politik chce omezit svou tvář z reklamy);
 - Náboženské či světonázorové důvody (změna životního přesvědčení).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 5* [11 C 254/2023-120](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:11.C.254.2023.1) — *bezdůvodné obohacení, církev, peněžité plnění, postoupení pohledávky, smlouva nájemní, s…*
+- *KS v Brně* [47 CO 138/2021-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:47.Co.138.2021.1) — *peněžité plnění, postoupení pohledávky*
+- *OS v Mladé Boleslavi* [16 C 54/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2021:16.C.54.2021.1) — *peněžité plnění, smlouva o úvěru*
+- *OS v Jičíně* [9 C 27/2022-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:9.C.27.2022.1) — *peněžité plnění, smlouva o úvěru*
+- *OS v Jihlavě* [11 C 147/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2022:11.C.147.2022.1) — *odstoupení od smlouvy, smlouva o úvěru*
 
 ### § 88—89 — Zákonné výjimky ze souhlasu
 
@@ -382,6 +418,8 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 - *NS* [25 Cdo 2749/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE5AACCDED92C2B4C1258CE5004D347C?openDocument) — *Ochrana osobnosti*
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
+- *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+- *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
 
 ### § 90 — Korekční klauzule
 
@@ -409,6 +447,8 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
 - *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+- *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
+- *NS* [25 Cdo 1778/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42EEAF28CE000340C12584EC002063F1?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Podoba člověka (o. z.) [ Osobnost člověka (o.…*
 
 ---
 
@@ -423,6 +463,14 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 § 91 je **základní deklarace** — paralela k čl. 7 odst. 1 LZPS („Nedotknutelnost osoby a jejího soukromí je zaručena. Omezena může být jen v případech stanovených zákonem.").
 
 Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesné a duševní integrity ostatních. Z této věty také plyne **kogentní limit autonomie** podle § 1 odst. 2 — nelze platně sjednat zásah, který by porušil integritu člověka (např. otroctví, mučení, doživotní podřízení tělesným trestům).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 4* [56 C 137/2022-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:56.C.137.2022.1) — *rozsudek částečný, rozsudek pro uznání, ručení, smlouva o úvěru*
+- *OS v Děčíně* [20 C 97/2020-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSDC:2021:20.C.97.2020.3) — *výživné*
+- *OS v Pardubicích* [18 C 175/2022-467](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2023:18.C.175.2022.1) — *náhrada za ztrátu na výdělku, pasivní legitimace, peněžité plnění, rehabilitace*
+- *KS v Českých Budějovicích* [15 Co 241/2024-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2024:15.Co.241.2024.1) — *spoluvlastnictví, porod, osoba blízká, nemajetková újma, náhrada nemajetkové újmy, nákla…*
+- *OS ve Frýdku-Místku* [16 C 232/2022-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2023:16.C.232.2022.1) — *bolestné, náhrada mzdy, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetk…*
 
 ### § 92 — Ochrana lidského těla po smrti
 
@@ -544,6 +592,14 @@ Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařsk�
 
 **Důsledek nedodržení formy:** souhlas je **neplatný** (§ 582 — neplatnost pro nedostatek formy), zákrok protiprávní. Nemocnice / lékař odpovídá za újmu.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Chebu* [12 C 150/2021-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2021:12.C.150.2021.5) — *peněžité plnění*
+- *MS v Praze* [18 Co 173/2025-266](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:18.Co.173.2025.266) — *náhrada nákladů, nemajetková újma, exces, náhrada nemajetkové újmy, bolestné, odvolání,…*
+- *OS v Ústí nad Orlicí* [7 C 153/2020-46](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:7.C.153.2020.1) — *dlužné nájemné, dotace, nájem bytu, smlouva nájemní, výpověď z nájmu*
+- *OS v Litoměřicích* [8 C 64/2020-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2020:8.C.64.2020.2) — *peněžité plnění*
+- *MS v Praze* [35 Co 192/2025-499](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:35.Co.192.2025.499) — *majetková újma, ztížení společenského uplatnění, znalecký posudek, pasivní legitimace, b…*
+
 ### § 97 — Odvolání souhlasu
 
 > (1) Udělený souhlas může být odvolán v jakékoli formě, i když se pro udělení souhlasu vyžaduje písemná forma.
@@ -588,6 +644,13 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 - Zákrok ve prospěch zdraví je **nezbytný**.
 
 → Lékař zakročí bez souhlasu. Klasický příklad: bezvědomý pacient po dopravní nehodě — okamžitá resuscitace, urgentní operace.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Litoměřicích* [8 C 240/2022-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2022:8.C.240.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o dílo*
+- *MS v Praze* [51 Co 179/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:51.Co.179.2025.96) — *akcie, odvolání, smlouva o úvěru, smlouva o nájmu dopravního prostředku, bezdůvodné oboh…*
+- *OS v Ústí nad Orlicí* [18 C 386/2024-73](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2025:18.C.386.2024.1) — *smlouva o úschově, právní domněnka, pravá držba, dokazování, prevence, podnikatel, lhůty…*
+- *OS v Berouně* [111 C 5/2020-370](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:111.C.5.2020.1) — *bezdůvodné obohacení, bytové družstvo, peněžité plnění, smlouva o dílo, ušlý zisk, znale…*
 
 ### § 100—103 — Souhlas soudu, vysvětlení po zákroku
 
@@ -638,6 +701,11 @@ Výjimka: § 99 (okamžité zakročení).
 - Rizika neprovedení.
 
 Toto pravidlo má **terapeutickou** i **etickou** dimenzi: pacient má právo na pravdivou informaci o tom, co se s ním dělo.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — 14. 4. 2015
+- *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — 23. 9. 2014
 
 ---
 
@@ -711,6 +779,7 @@ Dva principy:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — 13. 10. 2015
 - *NS* [5 Tdo 124/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77237A2924BE6039C1258796001E50F6?openDocument) — *Podvod Poškozování věřitele Promlčení trestní odpovědnosti Příčetnost Úvěrový podvod Zkr…*
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
 
@@ -790,6 +859,9 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 1366/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1366-15_1) — 11. 6. 2015
+- *ÚS* [IV. ÚS 1026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1026-14_1) — 25. 6. 2014
+- *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — 3. 7. 2014
 - *NS* [20 Cdo 807/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21AC326AC551E62BC1257FE5001A09B8?openDocument) — *Exekuce*
 
 ---
@@ -811,3 +883,12 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 > (3) Jiný právní předpis stanoví, jakým způsobem a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů pohřbu nestačí a není-li nikdo ochoten uhradit náklady pohřbu dobrovolně.
 
 > Konec kapitoly 04. Pokračování: kapitola 05 — Hlava II Díl 3 (Oddíl 1—2): Právnické osoby obecně — ustavení, vznik, název, sídlo, orgány, jednání za PO, zrušení a zánik (§ 118—209).
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [2119 C 24/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:2119.C.24.2024.1) — *pozůstalost*
+- *MS v Praze* [29 Co 206/2025-310](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:29.Co.206.2025.310) — *zadostiučinění / satisfakce, ochrana osobnosti, podjatost, pozůstalost*
+- *ObS pro Prahu 1* [26 C 191/2019-253](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:26.C.191.2019.1) — *znalecký posudek, pasivní legitimace*
+- *VS v Praze* [2 Cmo 89/2024-385](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.89.2024.1) — 30. 12. 2024
+- *VS v Praze* [14 Cmo 134/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.134.2024.0) — 21. 8. 2024
+

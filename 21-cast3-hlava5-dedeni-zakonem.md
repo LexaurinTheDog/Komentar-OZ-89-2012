@@ -55,6 +55,8 @@
 - *NS* [25 Cdo 1630/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/976E863FFA729E8DC1258ADD0026A09E?openDocument) — *Dědic zákonný Nemajetková újma (o. z.) Odpovědnost za škodu způsobenou provozem dopravní…*
 - *NS* [27 Cdo 1339/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C541C3765547B19AC1258AC6001B8745?openDocument) — *Obecně prospěšná společnost Právní nástupnictví Dědické právo (právo na pozůstalost) (o.…*
 - *NS* [25 Cdo 2983/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E9E2A0377C5FE54C1258800001B8AFF?openDocument) — *Ochrana osobnosti Náhrada škody Dědění*
+- *NS* [25 Cdo 3402/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EB26E65F84A5470C125870B00463D3D?openDocument) — *Procesní nástupnictví*
+- *NS* [25 Cdo 4873/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CBA20B83AD7337DC12583F30017E03C?openDocument) — *Promlčení Způsobilost být účastníkem řízení Dědění Bolestné*
 
 ### § 1476 — Dědické tituly
 
@@ -66,6 +68,14 @@
 3. **Zákon** (*ab intestato*) — **subsidiárně**, pokud není dispozice.
 
 **Kumulace**: zůstavitel může pořídit závětí o části, zbytek nechat na zákonné dědice (typicky závěť o nemovitosti + zbytek dle zákona).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Pardubicích* [7 C 13/2019-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2021:7.C.13.2019.1) — *dědění, smír, vydědění, výživné, závěť*
+- *OS v Nymburce* [7 C 349/2022-226](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2024:7.C.349.2022.1) — *osobní užívání pozemku, závěť, pozůstalost, rozvod manželství, spoluvlastnictví, smlouva…*
+- *OS v Ostravě* [23 C 286/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.286.2022.2) — *peněžité plnění*
+- *OS v Ostravě* [23 C 82/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.82.2022.2) — *peněžité plnění*
+- *OS v Ostravě* [23 C 91/2022-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:23.C.91.2022.2) — *peněžité plnění*
 
 ### § 1477—1478 — Odkaz, budoucí PO
 
@@ -80,6 +90,14 @@
 **§ 1477** — **Odkaz** ≠ dědictví. Odkazovník (*legatarius*) **není dědic** — má jen **obligační nárok** vůči dědicům na **vydání věci** nebo zřízení práva.
 
 **§ 1478** — Dědicem může být i **PO, která má teprve vzniknout** (např. nadace zřízená závětí), pokud vznikne **do 1 roku** od smrti zůstavitele.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Rychnově nad Kněžnou* [6 C 98/2023-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2023:6.C.98.2023.1) — *bezdůvodné obohacení, dědění, notářský zápis, ochrana oprávněného dědice, peněžité plněn…*
+- *KS v Praze* [26 CO 60/2022-203](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2023:26.Co.60.2022.1) — *držba, mimořádné vydržení, odstupné, rozvod manželství, vydržení*
+- *OS v Jablonci nad Nisou* [5 C 78/2021-419](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:5.C.78.2021.1) — *pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, věcná břemena, souk…*
+- *ObS pro Prahu 10* [35 C 61/2023-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2023:35.C.61.2023.1) — *akcie, dědění, náklady pohřbu, opilost, podnájem, pozůstalost, smlouva o účtu, vydědění,…*
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
 
 ### § 1479—1480 — Dědický nápad
 
@@ -133,6 +151,8 @@
 - *NS* [24 Cdo 565/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D449477146E6FD4C1258C6C004D396D?openDocument) — *Přípustnost dovolání Pozůstalost (o. z.) Dědická nezpůsobilost*
 - *NS* [24 Cdo 2967/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A71A483446A70D5FC12588910017D6FD?openDocument) — *Dědická nezpůsobilost Výživné Dobré mravy*
 - *NS* [24 Cdo 106/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D278E729B22E6AA3C125873B00160418?openDocument) — *Dědická nezpůsobilost*
+- *NS* [24 Cdo 4761/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2120D7D546ECEE75C1258462001847B4?openDocument) — *Dědění Vázanost rozhodnutím soudu*
+- *NS* [24 Cdo 614/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B29DECB7441C81A3C125845200183A7C?openDocument) — *Přerušení řízení Dědění Dědické právo (právo na pozůstalost) (o. z.)*
 
 ### § 1484 — Zřeknutí se dědického práva (předem)
 
@@ -202,6 +222,12 @@
 - Vyžaduje **souhlas druhého dědice**;
 - Použijí se ustanovení o zcizení dědictví (§ 1714—1720).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Mladé Boleslavi* [7 C 482/2022-14](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2022:7.C.482.2022.2) — *peněžité plnění, ručení*
+- *KS v Hradci Králové* [21 Co 224/2025-456](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.224.2025.1) — *duševní porucha, závěť, pozůstalost, vydědění, podjatost*
+- *KS v Hradci Králové* [21 Co 5/2025-231](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:21.Co.5.2025.1) — *závěť, pozůstalost*
+
 ---
 
 ## Díl 2 — Pořízení pro případ smrti (§ 1491—1593)
@@ -243,6 +269,8 @@
 - *NS* [24 Cdo 3641/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/580D2325B3DFBF22C12588130015FE0F?openDocument) — *Závěť holografní [ Závěť ]*
 - *NS* [24 Cdo 803/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE8078EECF390C92C1258CAF004D1ED9?openDocument) — 29. 5. 2025
 - *NS* [24 Cdo 2343/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F4D3B61B19F2F69C1258BD300527FEA?openDocument) — *Pozůstalost (o. z.) Závěť Dobré mravy Vydědění Účastníci řízení Dědické řízení Nepominut…*
+- *NS* [24 Cdo 1583/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9AC99195CF038C8EC12588C30017D433?openDocument) — *Závěť Závěť holografní [ Závěť ]*
+- *NS* [24 Cdo 2122/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B50A2EC7847A51E4C1258934001DEC51?openDocument) — *Vedlejší doložky v závěti (o. z.) Příkaz (o. z.) [ Vedlejší doložky v závěti (o. z.) ]*
 
 ### § 1495—1497 — Další pravidla
 
@@ -364,6 +392,12 @@
 
 **Klíčový rozdíl od závěti**: dědická smlouva **je závazná** — zůstavitel **nemůže** ji jednostranně odvolat (jen za omezených podmínek).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:9.C.450.2021.1) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
+- *KS v Brně* [54 Co 13/2024-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:54.Co.13.2024.1) — *předkupní právo*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
+
 ### § 1585—1593 — Specifika
 
 **§ 1585**:
@@ -411,6 +445,12 @@
 
 **§ 1593 — Zánik dědické smlouvy** rozvodem manželství — dispozitivně.
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 9* [9 C 450/2021-260](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2024:9.C.450.2021.1) — *vlastnictví bytů, smlouva kupní, pozůstalost, závěť, rozvod manželství, veřejná listina,…*
+- *ObS pro Prahu 10* [35 C 70/2021-325](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2024:35.C.70.2021.325) — *odstoupení od smlouvy, pasivní legitimace, smlouva o dílo, narovnání, postoupení smlouvy…*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
+
 ---
 
 ## Díl 3 — Odkaz (§ 1594—1632)
@@ -424,6 +464,14 @@
 - Má **pohledávku vůči dědici** (obtíženému odkazem);
 - Předmětem je: **věc**, **právo**, **služba**;
 - **Odkazovník neručí za dluhy** (na rozdíl od dědice).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [14 Cmo 76/2023-566](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.76.2023.1) — 12. 12. 2023
+- *OS ve Žďáru nad Sázavou* [8 C 107/2022-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2023:8.C.107.2022.1) — *darování pro případ smrti, notářský zápis, peněžité plnění, smlouva darovací*
+- *OS Praha-západ* [15 C 4/2020-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2021:15.C.4.2020.1) — *smlouva o smlouvě budoucí, závěť*
+- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:XXXXX9:2022:15.Co.59.2022.1) — *pozůstalost*
+- *ObS pro Prahu 3* [17 C 278/2021-221](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2024:17.C.278.2021.221) — *pozůstalost, povinný díl z pozůstalosti, znalecký posudek, vydědění, závěť*
 
 ### § 1597—1602 — Zřízení a obtížení odkazem
 
@@ -457,6 +505,12 @@
 - **§ 1599 — Pododkaz** (*sublegatum*): odkazovník obtížený dalším odkazem;
 - **§ 1600 — Náhradnictví při odkazech** (substituce);
 - **§ 1601—1602 — Odvolání odkazu** (kdykoliv až do smrti).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Brně* [54 Co 260/2024-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:54.Co.260.2024.1) — 27. 5. 2025
+- *OS v Jihlavě* [21 C 257/2023-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJI:2024:21.C.257.2023.1) — *náhrada nákladů, dokazování, lhůty, náklady řízení*
+- *OS ve Vyškově* [4 C 82/2018-200](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:4.C.82.2018.1) — *pozůstalost, věcná břemena, znalecký posudek, smlouva darovací, duševní porucha*
 
 ### Druhy odkazů
 
@@ -523,6 +577,12 @@
 
 **§ 1628—1631** — **Práva dědice s výhradou soupisu**: dědic odpovídá za odkazy **jen do výše pozůstalosti** (§ 1701).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS Brno-Venkov* [7 C 51/2021-486](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2023:7.C.51.2021.1) — *exces, majetek, odstoupení od smlouvy, závěť, svědek, náhrada nákladů, dokazování, rodin…*
+- *OS Brno-Venkov* [29 C 253/2019-299](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBI:2022:29.C.253.2019.1) — *notářský zápis, pozůstalost, ručení, smlouva darovací, závěť*
+- *KS v Českých Budějovicích* [15 CO 59/2022-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:XXXXX9:2022:15.Co.59.2022.1) — *pozůstalost*
+
 ---
 
 ## Díl 4 — Zákonná dědická posloupnost (§ 1633—1641)
@@ -532,6 +592,14 @@
 > Pokud nedědí žádný z dědiců, připadne pozůstalost státu jako odúmrť. Stát má postavení, jako by byl zákonným dědicem.
 
 **Odúmrť** (*Heimfall*, *bona vacantia*) — **závěrečná dědická třída**: stát dědí, pokud nikdo jiný. Stát **nemůže odmítnout**.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 7* [4 C 164/2021-201](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2024:4.C.164.2021.201) — *bezdůvodné obohacení, veřejná listina, společné jmění manželů, pozůstalost, osvojení, st…*
+- *ObS pro Prahu 4* [21 C 334/2023-194](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2025:21.C.334.2023.1) — *svědek, náhrada nákladů, majetek, podvod, dědické řízení, závěť, náklady řízení, pozůsta…*
+- *OS Praha-západ* [15 C 4/2022-158](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2025:15.C.4.2022.158) — *dokazování, svědečné, náhrada nákladů, svědek, lhůty, náklady řízení*
+- *OS v Litoměřicích* [10 C 74/2022-81](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2023:10.C.74.2022.1) — *dědění, duševní porucha, podílové spoluvlastnictví, pozůstalost, spoluvlastnictví, zásta…*
+- *KS v Brně* [18 CO 283/2022-157](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:18.Co.283.2022 .1) — *pozůstalost, soupis pozůstalosti*
 
 ### § 1635—1640 — Šest dědických tříd
 
@@ -586,6 +654,8 @@
 - *NS* [24 Cdo 116/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EED0F219A393A17C1258B38004D42E6?openDocument) — *Dědické třídy (o. z.) Dědění Zákonná dědická posloupnost k pozůstalosti (o. z.)*
 - *NS* [24 Cdo 1005/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFC16A1A3061DB89C1258B2A004D2B0B?openDocument) — *Dědění Společná domácnost Dovolací důvody*
 - *NS* [24 Cdo 307/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBBFB1ACCE8C7983C1258B0E004D374A?openDocument) — *Společná domácnost Dědění Dědic zákonný Dobré mravy*
+- *NS* [24 Cdo 3638/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F05EC26739AA0441C1258ACA001B8751?openDocument) — *Společná domácnost Dědění Dědic zákonný*
+- *NS* [24 Cdo 2946/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A75206280B8A7D07C1258A98001B7CA1?openDocument) — *Přípustnost dovolání Společná domácnost Dědění*
 
 ### § 1641 — Několikeré příbuzenství
 
@@ -665,6 +735,8 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 3795/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3795-14_1) — 19. 2. 2015
+- *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — 23. 1. 2014
 - *NS* [24 Cdo 2154/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AD6BF70F75A3551C1258BD40052AF85?openDocument) — *Vydědění*
 - *NS* [24 Cdo 1146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED4D76C6C6250510C1258B4E004D17C8?openDocument) — *Vydědění Žaloba určovací*
 - *NS* [24 Cdo 811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52C155DB1A69A887C1258B12004D4E27?openDocument) — *Vydědění Přípustnost dovolání*
@@ -712,6 +784,10 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
   - Byl odkázán na zůstavitelův příjem;
   - Nemůže se nyní sám živit.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [21 CO 196/2019-377](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:21.Co.196.2019.1) — *podílové spoluvlastnictví, společenství vlastníků jednotek, spoluvlastnictví, stanovy, v…*
+
 ### § 1668—1669 — Rozsah a způsob plnění
 
 **§ 1668**:
@@ -725,6 +801,10 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 - **Sluší** zaopatření **přiměřené** majetkové situaci pozůstalosti;
 - Forma: **jednorázová** nebo **periodická** platba (renta);
 - Promlčuje se ve standardní tříleté lhůtě.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Novém Jičíně* [24 C 56/2023-140](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:24.C.56.2023.1) — *smlouva o dílo, bezdůvodné obohacení, dlužné nájemné, smlouva nájemní, smlouva kupní, vy…*
 
 ---
 
@@ -840,6 +920,8 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 - *NS* [24 Cdo 829/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEC0648EB9F10A24C1258D20001607B9?openDocument) — *Úschova Řízení o úschovách Pozůstalost (o. z.) Správce pozůstalosti (o. z.)*
 - *NS* [24 Cdo 1057/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8718AF25E3AB1ECC1258A86001B8505?openDocument) — *Závěra pozůstalosti (o. z.) [ Pozůstalost (o. z.) ]*
 - *NS* [28 Cdo 2243/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/452B775C2426DE13C1258A83001B8665?openDocument) — *Bezdůvodné obohacení Pozůstalost (o. z.)*
+- *NS* [24 Cdo 691/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFB185A23490EB38C12588980017E711?openDocument) — *Soupis pozůstalosti (o. z.) [ Pozůstalost (o. z.) ]*
+- *NS* [24 Cdo 3642/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FCC7726DED66DAFC125889600199CCB?openDocument) — *Správce pozůstalosti (o. z.) Prostá správa cizího majetku (o. z.) [ Správa cizího majetk…*
 
 ### Oddíl 2 — Správa pozůstalosti (§ 1677—1690)
 
@@ -909,3 +991,9 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 > - Šešina, M. — Wawerka, K.: *Dědické právo. Praktická příručka.* C. H. Beck;
 > - Bednář, V.: *Dědické právo v novém občanském zákoníku.* Linde;
 > - Svoboda, J.: *Dědická smlouva.* C. H. Beck.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Chomutově* [57 C 61/2024-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2024:57.C.61.2024.29) — *odstoupení od smlouvy, dodávky energie, smlouva o sdružení*
+- *OS v Chomutově* [57 C 120/2024-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2025:57.C.120.2024.1) — *smlouva o sdružení, dodávky energie, odstoupení od smlouvy*
+

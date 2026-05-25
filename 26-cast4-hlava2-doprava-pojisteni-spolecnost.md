@@ -35,6 +35,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Cestující**;
 - **Plnění**: přeprava do destinace × jízdné.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Benešově* [12 C 35/2026-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBN:2026:12.C.35.2026.1) — *náhrada nákladů, lhůty, náklady řízení, jízdné*
+- *ObS pro Prahu 3* [5 C 33/2026-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2026:5.C.33.2026.1) — *náhrada nákladů, náklady řízení, jízdné*
+- *OS ve Zlíně* [28 C 289/2025-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZL:2026:28.C.289.2025.1) — *lhůty, náklady řízení, jízdné*
+- *OS v Prostějově* [8 C 136/2025-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2026:8.C.136.2025.1) — *jízdné*
+- *OS v Třebíči* [4 C 66/2025-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTR:2026:4.C.66.2025.37) — 22. 1. 2026
+
 ### § 2551—2554 — Práva a povinnosti
 
 **§ 2551**:
@@ -81,6 +89,7 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [33 Cdo 2327/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3832843E910BD6B6C1258A5F001B9206?openDocument) — *Smlouva o přepravě osob*
 - *NS* [33 Cdo 3821/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F53ADE01F9B6D340C1258A57001B81C1?openDocument) — *Smlouva o přepravě osob Přípustnost dovolání*
 - *NS* [25 Cdo 3554/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C87625773A22DBAC1258B5D004D2EE3?openDocument) — *Náhrada škody Nájem prostoru sloužícího k podnikání (o. z.)*
+- *NS* [33 Cdo 3206/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D423CF573EB8686CC12589B700181518?openDocument) — *Promlčení Smlouva o přepravě osob Spotřebitel*
 
 ---
 
@@ -291,6 +300,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Quality control v průmyslu;
 - Certifikace shody (CE, BIO).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Olomouci* [11 C 263/2021-42](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOL:2022:11.C.263.2021.1) — *peněžité plnění*
+- *OS v Bruntále* [18 C 9/2024-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2024:18.C.9.2024.1) — *prodlení věřitele, smlouva o kontrolní činnosti*
+- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:15.C.70.2021.1) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v Příbrami* [11 C 156/2022-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2023:11.C.156.2022.3) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v Nymburce* [6 C 32/2021-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNB:2021:6.C.32.2021.1) — *peněžité plnění, smlouva o dílo, smlouva o kontrolní činnosti*
+
 ### § 2654—2661 — Specifika
 
 **§ 2654**:
@@ -326,6 +343,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2658 — Kontrolní osvědčení** — písemný dokument s výsledkem.
 
 **§ 2660 — Odpovědnost** za vady kontroly.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 9* [18 C 101/2022-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2022:18.C.101.2022.1) — *peněžité plnění, postoupení pohledávky, smlouva o účtu, smlouva o vedení účtu*
+- *OS v České Lípě* [48 C 277/2024-13](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2024:48.C.277.2024.1) — *smlouva o úvěru*
+- *OS v České Lípě* [48 C 226/2024-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2024:48.C.226.2024.1) — *smlouva o úvěru*
+- *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:15.C.70.2021.1) — *peněžité plnění, smlouva o kontrolní činnosti*
+- *OS v České Lípě* [51 C 417/2024-61](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2025:51.C.417.2024.1) — *právní domněnka, dokazování, náklady řízení*
 
 ---
 
@@ -562,6 +587,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Podnikatel** — vede podnikání **vlastním jménem**;
 - Tichý společník je **neviditelný** — nesděluje se vůči třetím osobám.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [94 Ncp 705/2025-12](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:94.Ncp.705.2025.12) — 20. 11. 2025
+- *MS v Brně* [13 C 159/2023-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:13.C.159.2023.1) — *obchodní podíl, smlouva o půjčce, pozůstalost*
+- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:27.C.26.2024.62) — *peněžité plnění*
+- *MS v Praze* [39 CO 316/2022-83](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:39.Co.316.2022.1) — *peněžité plnění, rozsudek mezitímní, smlouva o běžném účtu, znalecký posudek*
+- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2025:38.C.145.2024.333) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
+
 ### § 2748—2755 — Pravidla
 
 **§ 2748**:
@@ -635,6 +668,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Mezzanine financování**;
 - **Family financing** (rodinný člen finanční podpora podnikání).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2024:27.C.26.2024.62) — *peněžité plnění*
+- *KS v Plzni* [64 Co 257/2025-142](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:64.Co.257.2025.1) — *ručení*
+- *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2025:38.C.145.2024.333) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
+- *KS v Brně* [38 Co 87/2024-204](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2024:38.Co.87.2024.1) — *postoupení smlouvy, akcie, pasivní legitimace*
+- *VS v Praze* [7 Cmo 141/2022-122](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.141.2022.1) — 30. 11. 2022
+
 ---
 
 ## Díl 15 — Závazky z odvážných smluv (§ 2756—2883)
@@ -652,6 +693,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2757 — Vyloučení nepoužití**:
 - **Změna okolností (§ 1764—1766)**: u odvážných **nepoužije** — strany vědomě přijaly riziko;
 - **Neúměrné zkrácení (§ 1793—1795)**: u odvážných **nepoužije** — disparate plnění je vlastnost aleatorního závazku.
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [44 C 46/2022-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:44.C.46.2022.1) — *bezdůvodné obohacení, duševní vlastnictví, peněžité plnění, podnájem, postoupení pohledá…*
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS v Jičíně* [5 C 73/2022-50](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:5.C.73.2022.1) — *peněžité plnění, pojištění*
+- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:27.C.358.2022.1) — 29. 8. 2023
+- *KS v Brně* [60 Co 215/2025-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:60.Co.215.2025.1) — *náhrada nákladů, podnikatel, odvolání, náklady řízení, odstoupení od smlouvy, lhůty, hod…*
 
 ---
 
@@ -684,6 +733,7 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
 - *NS* [25 Cdo 31/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B36C48C08AC3EA5DC1258D320052AE7C?openDocument) — *Pojištění Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [33 Cdo 605/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C22DB119342DD90C1258C0300529DF0?openDocument) — *Pojištění Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ] Povinnost zakročovací*
+- *NS* [27 Cdo 935/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/752DD9DFD6E8FC7CC1258956001E0244?openDocument) — 30. 11. 2022
 
 ### § 2761—2765 — Pojistný zájem
 
@@ -712,6 +762,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Cizí život/zdraví/majetek**: pojistník musí prokázat **oprávněnou potřebu ochrany** (typicky rodinný vztah, ekonomický prospěch).
 
 **Bez pojistného zájmu** → smlouva **neplatná** (§ 2764) — zabraňuje "pojišťování cizího domu, aby vyhořel".
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Berouně* [10 C 437/2020-52](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:10.C.437.2020.1) — *peněžité plnění, pozemní komunikace*
+- *MS v Brně* [42 C 265/2022-108](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:42.C.265.2022.1) — *pojištění majetku, dokazování, náhrada nákladů, smlouva kupní*
+- *ObS pro Prahu 6* [14 C 305/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2022:14.C.305.2022.1) — *peněžité plnění, pojištění odpovědnosti za škodu*
+- *ObS pro Prahu 8* [10 C 58/2022-175](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2022:10.C.58.2022.1) — *peněžité plnění, znalecký posudek*
+- *MS v Praze* [53 CO 247/2022-104](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.247.2022.1) — *náklady léčení, pasivní legitimace, peněžité plnění, pojištění odpovědnosti za škodu, ru…*
 
 ### § 2766—2772 — Strany pojištění
 
@@ -841,6 +899,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - Náhodná hra (loterie, tombola);
 - Regulace **zákonem č. 186/2016 Sb. o hazardních hrách**.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Žďáru nad Sázavou* [8 C 143/2021-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:8.C.143.2021.1) — *peněžité plnění*
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:8.C.61.2020.1) — *notářský zápis, pasivní legitimace, peněžité plnění*
+- *OS v Berouně* [18 C 87/2020-170](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2021:18.C.87.2020.1) — *peněžité plnění, software*
+- *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2023:27.C.358.2022.1) — 29. 8. 2023
+
 ### § 2876—2883 — Vymahatelnost
 
 **§ 2876**:
@@ -876,6 +942,14 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2882—2883 — Veřejné soutěže** (loterie, tomboly):
 - Vyžaduje **státní povolení**;
 - Vymahatelné podle zvláštního zákona č. 186/2016 Sb.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 6* [27 C 272/2024-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2025:27.C.272.2024.1) — *obchodní rejstřík, dokazování, akcie, náklady řízení, odstoupení od smlouvy, náhrada nák…*
+- *OS Praha-západ* [8 C 61/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:8.C.61.2020.1) — *notářský zápis, pasivní legitimace, peněžité plnění*
+- *KS v Plzni* [14 Co 50/2025-98](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:14.Co.50.2025.1) — *smlouva o půjčce, neplatnost právního úkonu*
+- *KS v Praze* [26 Co 279/2024-143](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:26.Co.279.2024.1) — *smlouva nájemní, výpověď z nájmu*
+- *ObS pro Prahu 3* [11 C 320/2023-107](https://rozhodnuti.justice.cz/?q=ECLI) — *software, doménové jméno, podvod, dotace*
 
 ---
 
@@ -958,6 +1032,12 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Logo soutěže**;
 - **Veřejné zakázky** (regulované zvláštním zákonem č. 134/2016 Sb. o zadávání VZ);
 - **Vědecké soutěže o cenu** (např. Nobelova cena formálně mimo OZ, ale paralela).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [64 C 255/2023-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2025:64.C.255.2023.1) — 29. 5. 2025
+- *OS Praha-východ* [18 C 168/2024-54](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2025:18.C.168.2024.54) — *dokazování, advokátní tarif, náklady řízení, zavinění, majetková újma, svědek, majetek,…*
+- *ObS pro Prahu 9* [9 C 37/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH09:2020:9.C.37.2020.1) — *peněžité plnění, slib odškodnění, započtení pohledávky*
 
 ---
 

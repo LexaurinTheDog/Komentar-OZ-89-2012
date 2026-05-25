@@ -74,6 +74,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Veškerý současný majetek** lze darovat;
 - **Budoucí majetek**: **max. polovinu** (zbytek je neplatný — chrání dárce před totální chudobou).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Českém Krumlově* [9 C 3/2021-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2021:9.C.3.2021.2) — *peněžité plnění*
+- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.957.2025.1) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
+- *KS v Praze* [23 Co 111/2025-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:23.Co.111.2025.1) — *společné jmění manželů, rozvod manželství, smlouva darovací, vydržení*
+- *OS v Pardubicích* [27 C 41/2024-229](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPU:2024:27.C.41.2024.1) — *osoba blízká, smlouva o zápůjčce, podvod, finanční arbitr, reklama, spoluvlastnictví, be…*
+- *KS v Hradci Králové* [25 Co 251/2024-233](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:25.Co.251.2024.1) — *věcná břemena, spoluvlastnictví, notářský zápis, vrácení daru, pasivní legitimace, smlou…*
+
 ### § 2059—2065 — Speciální situace
 
 **§ 2059**:
@@ -113,6 +121,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - O tom vydá listinu (= **darování mezi živými s odkládací podmínkou**).
 
 **§ 2065 — Cizí věc / vadná věc**: pokud dárce vědomě daruje **cizí věc** nebo **věc s vadou** a zatají to → **odpovídá za škodu** + obdarovaný může **odstoupit a vrátit dar**.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Karviné, pobočka Havířov* [110 C 340/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2023:110.C.340.2022.1) — *insolvence, konkurs, oddlužení, smlouva darovací*
+- *OS Praha-západ* [8 C 200/2021-92](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2023:8.C.200.2021.1) — *notářský zápis, smlouva darovací*
+- *KS v Českých Budějovicích* [19 Co 957/2025-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.957.2025.1) — *náhrada nákladů, smlouva darovací, odvolání, náklady řízení, notářský zápis, dokazování*
+- *OS v Českých Budějovicích* [30 C 327/2024-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCB:2025:30.C.327.2024.1) — *služebnost, věcná břemena*
+- *OS v Českém Krumlově* [7 C 86/2024-104](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2025:7.C.86.2024.1) — *osoba blízká, zkušební doba, zadostiučinění / satisfakce, duševní útrapy, nemajetková új…*
 
 ---
 
@@ -194,6 +210,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - *NS* [24 ICdo 20/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/031AA18144FF3C14C1258623001D49C2?openDocument) — *Neplatnost smlouvy Žaloba vylučovací (excindační)*
 - *NS* [29 ICdo 78/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1FFA7D7C897D683C1258A60001B8CB9?openDocument) — *Neplatnost smlouvy Zpeněžování Incidenční spory Vady řízení*
 - *NS* [33 Cdo 3645/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A678BD72D853AD3C12586DE00185175?openDocument) — *Smlouva kupní Odpovědnost za vady*
+- *NS* [33 Cdo 2889/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F6795E645FA7FC4C1258B54004D17A7?openDocument) — *Smlouva o smlouvě budoucí Změna okolností (o. z.) Zánik závazku Smlouva kupní Poctivost…*
 
 ### § 2080—2084 — Cena, náklady, nebezpečí
 
@@ -344,6 +361,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 504/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-504-26_1) — 11. 3. 2026
 - *NS* [33 Cdo 1234/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA05DD58D4CAEA92C1258D23004D2971?openDocument) — *Přípustnost dovolání Smlouva o dílo*
 - *NS* [33 Cdo 204/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2033CEBF8A0E7757C1258C500052A284?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy*
 - *NS* [23 Cdo 3170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00B87AF5E36BF8B2C1258C090052B4CD?openDocument) — *Přípustnost dovolání Vady*
@@ -351,6 +369,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - *NS* [33 Cdo 1393/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E7C425C83EAE1B2C1258D790052DA82?openDocument) — *Přípustnost dovolání Dovolací důvody Vady*
 - *NS* [28 Cdo 2770/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1815A5C8F55D4B35C1258D670052AF63?openDocument) — *Vady Smlouva kupní Sleva z ceny Přípustnost dovolání*
 - *NS* [33 Cdo 2319/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AC50AF59C25ABF8C1258D310052ADE7?openDocument) — *Dovolání Smlouva kupní*
+- *NS* [23 Cdo 2666/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B50439D14293F07C1258CC8004D356E?openDocument) — *Sleva z ceny*
 
 ### § 2106—2108 — Práva z vadného plnění
 
@@ -401,6 +420,8 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - *NS* [33 Cdo 4442/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07752AF422486542C1258469002358EA?openDocument) — *Odpovědnost za vady Sleva z ceny*
 - *NS* [33 Cdo 1263/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97E9518EC4D41383C12584550017D3CC?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy*
 - *NS* [28 Cdo 2770/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1815A5C8F55D4B35C1258D670052AF63?openDocument) — *Vady Smlouva kupní Sleva z ceny Přípustnost dovolání*
+- *NS* [23 Cdo 2666/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B50439D14293F07C1258CC8004D356E?openDocument) — *Sleva z ceny*
+- *NS* [33 Cdo 872/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2D234FEC00FDAC6C1258BEE0052CBE0?openDocument) — *Vady Odpovědnost za vady Koupě nemovité věci (o. z.) Dokazování Dovolací důvody Vady říz…*
 
 ### § 2109—2117 — Záruka za jakost
 
@@ -454,6 +475,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 24/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-24-23_1) — 7. 2. 2023
 - *NS* [23 Cdo 2938/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B0D3247F97AD988C125892A001EAEA2?openDocument) — *Smlouva kupní*
 - *NS* [27 Cdo 1531/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCBCC43AE881CAF8C12584C4001E0D00?openDocument) — *Přípustnost dovolání Lhůty*
 - *NS* [33 Cdo 2488/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3189A8988A03E13C1258719001871C5?openDocument) — *Odstoupení od smlouvy Odpovědnost za vady*
@@ -514,6 +536,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **§ 2123 — Cenné papíry** — speciální pravidla;
 
 **§ 2124—2127 — Dodací doložky** a dohody o riziku přepravy.
+
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [37 C 182/2023-142](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:37.C.182.2023.1) — *odměna opatrovníka, smlouva kupní*
+- *MS v Brně* [37 C 184/2023-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2024:37.C.184.2023.1) — *smlouva kupní, dlužné nájemné*
+- *OS v Přerově* [8 C 78/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2023:8.C.78.2023.1) — *peněžité plnění, smlouva kupní*
+- *OS v Liberci* [32 C 96/2022-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2022:32.C.96.2022.1) — *místní příslušnost, peněžité plnění, smlouva kupní*
+- *OS v Českém Krumlově* [2 C 162/2022-14](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCK:2022:2.C.162.2022.1) — *peněžité plnění*
 
 ---
 
@@ -728,6 +758,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - Klíčové: **NENÍ peněžitá** (jinak by šlo o koupi);
 - Pokud kombinace věci + peněz → **smíšená smlouva** = koupě nebo směna podle převažujícího plnění.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Kladně* [24 C 61/2024-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:24.C.61.2024.1) — *smlouva kupní, vydání věci, ručení*
+- *OS v Kladně* [24 C 40/2024-41](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2024:24.C.40.2024.1) — *smlouva kupní, ručení, vydání věci*
+- *OS v Kladně* [24 C 20/2023-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2023:24.C.20.2023.1) — *peněžité plnění, pojištění odpovědnosti za škodu, ručení, smlouva směnná, vydání věci*
+- *OS v Ústí nad Orlicí* [10 C 63/2021](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUO:2021:10.C.63.2021.1) — *peněžité plnění, ručení, smlouva kupní, smlouva směnná*
+- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2026:10.C.120.2025.1) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
+
 ### § 2185—2188 — Specifické otázky
 
 **§ 2185**:
@@ -758,6 +796,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - Výměna nemovitostí (typicky pozemky);
 - Výměna ojetých vozů s doplatkem;
 - Barter (zboží za zboží) v podnikání.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2026:10.C.120.2025.1) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
+- *OS v Havlíčkově Brodě* [15 C 47/2022-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2022:15.C.47.2022.4) — *smlouva kupní, smlouva směnná*
+- *ObS pro Prahu 3* [19 C 70/2022-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2022:19.C.70.2022.1) — *nájem bytu, peněžité plnění, smlouva nájemní, výpověď z nájmu*
+- *ObS pro Prahu 10* [12 C 8/2019-250](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2022:12.C.8.2019.5) — *bezdůvodné obohacení, cizina, odpovědnost za vady, odstoupení od smlouvy, peněžité plněn…*
+- *OS v Sokolově* [23 C 363/2023-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2024:23.C.363.2023.1) — *odpovědnost za vady, znalecký posudek, smlouva směnná*
 
 ---
 
@@ -800,6 +846,14 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **§ 2192**: **Odpovědnost prosícího** za škodu na věci (kromě obvyklého opotřebení).
 
 **Praktické případy**: zápůjčka knížek mezi přáteli, dočasné zapůjčení nářadí, lůžek atd.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Liberci* [13 C 320/2022-167](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:13.C.320.2022.167) — *smlouva kupní, výprosa, obchodní podíl, narovnání, vyklizení bytu, smlouva nájemní, bezd…*
+- *KS v Brně* [37 CO 107/2021-291](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:37.Co.107.2021 .1) — *bezdůvodné obohacení, peněžité plnění, výprosa*
+- *OS v Táboře* [2 C 118/2020-91](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTA:2021:2.C.118.2020.1) — *bezdůvodné obohacení, nájem prostoru sloužícího k podnikání, obchodní podíl, peněžité pl…*
+- *OS v Kutné Hoře* [1 C 324/2025-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2026:1.C.324.2025.1) — *dokazování, náklady řízení*
+- *OS ve Žďáru nad Sázavou* [10 C 114/2024-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2024:10.C.114.2024.1) — *výprosa, vyklizení nemovitosti*
 
 ---
 

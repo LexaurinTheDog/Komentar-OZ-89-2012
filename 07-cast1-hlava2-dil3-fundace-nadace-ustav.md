@@ -83,6 +83,11 @@ Statut (§ 305) je **vnitřní dokument** fundace upravující její organizaci.
 
 **Důsledek porušení:** soud zruší nadaci **i bez návrhu** a nařídí likvidaci.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ostravě* [11 CO 237/2021-2117](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:11.Co.237.2021.1) — *bezdůvodné obohacení, dlužné nájemné, dražba, držba, majetková újma, nájem domu, nájem n…*
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+
 ### § 307 — Vedlejší podnikání
 
 > (1) Nadace může podnikat, pokud podnikání představuje pouhou vedlejší činnost a výtěžky podnikání slouží jen k podpoře jejího účelu; nadace však podnikat nesmí, pokud to zakladatel v nadační listině vyloučil. Za stejných podmínek může nadace převzít vedení obchodní společnosti.
@@ -133,6 +138,10 @@ Příklady: „Nadace Charta 77", „Nadace Naše dítě", „Nadace Open Societ
 **Více zakladatelů**: považují se za **jediného** zakladatele a musí jednat **jednomyslně**. Při odmítnutí souhlasu bez vážného důvodu může soud nahradit souhlas.
 
 **Forma**: **veřejná listina** (notářský zápis — § 776 OZ a § 6 NotZ).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.322.2019.0) — 25. 5. 2020
 
 #### § 310 — Náležitosti zakládací listiny
 
@@ -193,6 +202,11 @@ Zakládací listina obsahuje alespoň:
 
 Specifické náležitosti pro založení závětí (omezenější obsah; ostatní rozhodne vykonavatel závěti nebo soud).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.186.2019.5) — *držba, podílové spoluvlastnictví, vydržení*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+
 #### § 313 — Předmět vkladu
 
 > (1) Neuvede-li nadační listina předmět vkladu, platí, že se vkladová povinnost plní v penězích.
@@ -200,6 +214,10 @@ Specifické náležitosti pro založení závětí (omezenější obsah; ostatn�
 > (2) Určila-li nadační listina, že se vkladová povinnost splní vnesením nepeněžitého předmětu, a není-li to možné nebo nedosáhne-li hodnota vkladu při splnění vkladové povinnosti výše určené v nadační listině, má se za to, že vkladatel vyrovná rozdíl v penězích.
 
 Default: vkladová povinnost se plní **v penězích**. Pokud zakladatel ujednal nepeněžitý vklad a ten nedosáhne stanovené hodnoty, **vyrovná rozdíl v penězích**.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 ### § 314 — Statut nadace
 
@@ -278,17 +296,30 @@ Pokud zakladatel **výslovně určí**, že nadační listina (nebo její část
 - Pokud nesouhlasí zakladatel / osoba určená v nadační listině, soud **návrh zamítne**;
 - **30 dnů na odporování** od zveřejnění oznámení.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 55/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.55.2022.0) — 4. 8. 2022
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+
 #### § 322 — Nedosažitelný účel
 
 > Je-li dosažení účelu nadace nemožné nebo obtížně dosažitelné z příčin zakladateli neznámých nebo pro něho nepředvídatelných, nahradí soud na návrh zakladatele nebo osoby, která na tom má právní zájem, dosavadní účel nadace podobným účelem, ledaže nadační listina určuje něco jiného.
 
 Pokud je dosažení účelu **nemožné nebo obtížně dosažitelné** z příčin neznámých / nepředvídatelných zakladateli, soud nahradí **podobným účelem** (na návrh zakladatele nebo osoby s právním zájmem).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSVY:2022:6.C.186.2019.5) — *držba, podílové spoluvlastnictví, vydržení*
+
 #### § 323 — Nepřítomný zakladatel
 
 > Není-li tu již zakladatel a není-li ani osoba, které zakladatel popřípadě založil právo souhlasit se změnou účelu nadace nebo takový souhlas odmítnout, soud vezme při rozhodování o změně účelu nadace zřetel na známé zakladatelovy úmysly a přání, i když nejsou z nadační listiny zřejmé.
 
 Pokud zakladatel již není, soud při změně účelu vezme zřetel na **známé úmysly a přání** zakladatele.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
 
 #### § 324 — Veřejně prospěšný → dobročinný
 
@@ -306,6 +337,13 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 - Dary poskytnuté na **původní účel** se musí použít k **původnímu účelu** (nikoli k novému);
 - Default při změně z veřejně prospěšného na dobročinný: **4/5 výnosů** se používá na **původní účel** **po dobu 5 let**.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
+- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.16.2022.1) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+
 ### Vklady do nadace (§ 327—334)
 
 #### § 327 — Nepeněžitý vklad
@@ -317,6 +355,10 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 - **Cena podle posudku znalce** (nelze určit vyšší);
 - Musí splňovat **předpoklad trvalého výnosu**;
 - **Nesmí sloužit jako jistota** (musí být volně použitelný).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
 
 #### § 328—329 — Specifické vklady
 
@@ -335,6 +377,11 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 - **Cenné papíry / nástroje peněžního trhu** (§ 328) — lze určit hodnotu váženým průměrem cen za 6 měsíců na regulovaném trhu;
 - **Jiné věci** (§ 329) — tržní hodnota odborníkem / účetní hodnota s auditorovým výrokem bez výhrad.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Žďáru nad Sázavou* [12 C 247/2016-212](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:12.C.247.2016.1) — *smlouva o dílo, majetek, smlouva kupní, náklady řízení, konkurs, lhůty, výkon rozhodnutí…*
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 266/2025-453](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:29.Co.266.2025.453) — *právní domněnka, pozemková služebnost, vedlejší účastník, služebnost, náklady řízení, vě…*
+
 #### § 330 — Minimální vklad a správce vkladů
 
 > (1) Před vznikem nadace se vkladová povinnost splní alespoň tak, aby souhrnná výše vkladů odpovídala alespoň částce 500 000 Kč.
@@ -342,6 +389,10 @@ Změnu pouze soud, **pro zvlášť závažný důvod** a pokud to nadační list
 > (2) Vklady do nadace přijme před jejím vznikem osoba, kterou nadační listina určila jako správce vkladů. Zanikne-li jeho funkce, povolá zakladatel, popřípadě vykonavatel závěti nebo jiná oprávněná osoba bez zbytečného odkladu nového správce vkladů; není-li to možné, povolá nové správce vkladů správní rada nadace. O právech a povinnostech správce platí obdobně ustanovení o právech a povinnostech členů orgánů právnických osob.
 
 **Minimální výše vkladů: 500 000 Kč** (souhrnně). Vklady přijímá **správce vkladů** určený nadační listinou (zaniknutí funkce → nový správce povolává zakladatel / vykonavatel závěti / nakonec správní rada nadace).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
 
 #### § 331 — Splnění vkladové povinnosti
 
@@ -375,6 +426,10 @@ Správce **písemně potvrdí** osobě podávající návrh na zápis nadace: kd
 - Po vzniku nadace předá správce předmět **bez zbytečného odkladu**;
 - Po vzniku lze **rozmnožit nadační jistinu** nadačními dary nebo rozhodnutím o zvýšení kapitálu.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Plzni* [10 CO 184/2021-522](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:10.Co.184.2021.1) — *peněžité plnění, služebnost, věcná břemena*
+
 ### Majetek nadace, nadační kapitál (§ 335—341)
 
 #### § 335—337 — Nadační jistina vs. ostatní majetek
@@ -395,6 +450,11 @@ Správce **písemně potvrdí** osobě podávající návrh na zápis nadace: kd
 
 **Minimum jistiny: 500 000 Kč** (§ 336 odst. 2).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.74.2025.1) — 24. 7. 2025
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+
 #### § 338 — Použití majetku
 
 > (1) Nadace používá svůj majetek v souladu s účelem uvedeným v nadační listině i ve statutu a za podmínek tam určených k poskytování nadačních příspěvků, k zajištění vlastní činnosti k naplnění svého účelu a k úhradě nákladů na zhodnocení nadační jistiny i nákladů na vlastní správu.
@@ -409,6 +469,10 @@ Nadace používá majetek **v souladu s účelem** k:
 
 **Zákaz neomezeného ručení** — k jednání nadace, kterým převezme neomezené ručení, **se nepřihlíží** (zdánlivé jednání).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.286.2023.0) — 23. 5. 2024
+
 #### § 339 — Zákaz zatížení jistiny
 
 > (1) Co tvoří nadační jistinu, nelze zastavit ani jinak použít k zajištění dluhu. To neplatí, pokud nadace provozuje obchodní závod, v rozsahu potřebném pro jeho plynulý provoz.
@@ -422,11 +486,20 @@ Nadace používá majetek **v souladu s účelem** k:
 - Jinak jen **za protiplnění** zahrnuté do jistiny;
 - Nebo při **neočekávané změně okolností**.
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:30.C.35.2015.1) — *peněžité plnění, smlouva kupní, znalecký posudek*
+
 #### § 340 — Péče při správě jistiny
 
 > Nadace nakládá s nadační jistinou s péčí, jakou tento zákon stanoví pro správu cizího majetku. Vyžaduje-li se podle ustanovení o prosté správě cizího majetku k určitému právnímu jednání souhlas beneficienta, vyžaduje se k takovému právnímu jednání předchozí souhlas osoby určené v nadační listině; není-li tato osoba určena, vyžaduje se předchozí souhlas dozorčí rady.
 
 Nadace nakládá s jistinou s **péčí podle ustanovení o správě cizího majetku** (§ 1400 a násl. OZ). Pro úkony vyžadující souhlas beneficienta → souhlas osoby určené v nadační listině (default: dozorčí rada).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [31 C 9/2015-349](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:31.C.9.2015.1) — *peněžité plnění, rozsudek doplňující, smlouva o dílo, znalecký posudek*
+- *ObS pro Prahu 1* [31 C 9/2015-331](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:31.C.9.2015.1) — *peněžité plnění, rozhodčí doložka, rozhodčí řízení, smlouva o dílo, znalecký posudek*
 
 #### § 341 — Povinný audit
 
@@ -480,6 +553,12 @@ Auditor ověřuje **řádnou, mimořádnou a konsolidovanou účetní závěrku*
 
 **Doplnění při ztrátě** (§ 346): pokud nadace pozbude část jistiny / klesne hodnota, doplní; pokud nemožné, sníží kapitál odpovídajícím způsobem.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2023:16.C.262.2021.1) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
+- *KS v Hradci Králové* [26 CO 16/2022-180](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.16.2022.1) — *držba, mimořádné vydržení, péče řádného hospodáře, peněžité plnění, smlouva darovací, vy…*
+- *OS v Rychnově nad Kněžnou* [3 C 209/2024-96](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2025:3.C.209.2024.1) — *právnická osoba, pravá držba, dokazování, převod nemovitostí, spoluvlastnictví, lhůty, p…*
+
 #### § 347—348 — Společná ustanovení
 
 > O zvýšení nebo o snížení nadačního kapitálu rozhoduje správní rada po předchozím souhlasu dozorčí rady.
@@ -488,6 +567,11 @@ Auditor ověřuje **řádnou, mimořádnou a konsolidovanou účetní závěrku*
 >
 
 Rozhoduje **správní rada po souhlasu dozorčí rady**. **Účinnost dnem zápisu do VR**.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.74.2025.1) — 24. 7. 2025
+- *OS v Jeseníku* [11 C 97/2021-168](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2022:11.C.97.2021.1) — *jmění, peněžité plnění, smlouva kupní, zastavení řízení*
 
 ### Přidružený fond (§ 349—352)
 
@@ -513,6 +597,11 @@ Při zrušení nadace likvidátor naloží s přidruženým fondem tak, aby **za
 - b) **Zakladateli** ani osobě jemu blízké — vyjma případů zvláštního zřetele hodných po projednání s dozorčí radou. (Výjimka: pokud nadace byla zřízena k podpoře osob blízkých zakladateli.)
 
 **Anti-fraud klauzule** proti zneužití nadace pro osobní obohacení správců.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Kolíně* [17 C 369/2023-110](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKO:2024:17.C.369.2023.1) — *smlouva pracovní, náhrada za ztrátu na výdělku, náhrada mzdy*
+- *OS v Pelhřimově* [5 C 212/2023-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPE:2023:5.C.212.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
 
 #### § 354 — Použití příspěvku
 
@@ -692,11 +781,26 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 - g) Správce vkladů;
 - h) Podmínky příspěvků.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 274/2023-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.274.2023.1) — 11. 3. 2024
+- *OS v České Lípě* [10 C 294/2023-15](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2023:10.C.294.2023.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS v České Lípě* [10 C 213/2022-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:10.C.213.2022.2) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.227.2021.1) — 11. 2. 2022
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
+
 ### § 397 — Vznik
 
 > Nadační fond vzniká dnem zápisu do veřejného rejstříku.
 
 Vznik **dnem zápisu** do VR.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:29.Co.232.2022.1) — *smlouva kupní*
+- *OS v Opavě* [16 C 90/2019-144](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOP:2022:16.C.90.2019.1) — *bezdůvodné obohacení, podílové spoluvlastnictví, smlouva kupní, vlastnictví bytů*
+- *OS v České Lípě* [114 C 55/2015-151](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2021:114.C.55.2015.4) — *peněžité plnění, postoupení pohledávky, rozhodčí doložka, rozhodčí řízení, smlouva o úvěru*
+- *KS v Ostravě* [8 Co 9/2024-326](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2024:8.Co.9.2024.1) — *smluvní pokuta, peněžité plnění, smlouva o dílo*
 
 ### § 398 — Majetek
 
@@ -712,6 +816,11 @@ Vznik **dnem zápisu** do VR.
 - **Nepožadavek trvalého výnosu** — lze přijímat věci spotřebitelné, jednorázové dary;
 - **Použití k obezřetné investici** — analogicky § 1432 a násl. (investování opatrovníka);
 - **Veškerý majetek** nelze zatížit (širší ochrana než u nadace, kde je chráněna jen jistina).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSULLI:2022:29.Co.232.2022.1) — *smlouva kupní*
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
 
 ### § 399—400 — Změna formy na nadaci
 
@@ -730,6 +839,10 @@ Pokud **zakladatelské jednání výslovně dovoluje**, lze rozhodnout o **změn
 
 Typický důvod: **nahromadění majetku** s charakterem trvalého výnosu → racionální převod na trvalou strukturu nadace.
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2025:7.C.288.2024.1) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
+
 ### § 401 — Zrušení
 
 > (1) Není-li trvale možné, aby nadační fond nadále plnil svůj účel, rozhodne správní rada o zrušení nadačního fondu s likvidací a zvolí likvidátora.
@@ -742,6 +855,12 @@ Typický důvod: **nahromadění majetku** s charakterem trvalého výnosu → r
 - **Soudní zrušení** — pokud neplní účel (na návrh osoby s právním zájmem).
 
 Pro likvidaci se aplikují obecná pravidla § 187—209 OZ.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [12 Cmo 146/2023-443](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:12.Cmo.146.2023.1) — 29. 4. 2024
+- *OS v Liberci* [18 C 17/2022-352](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2024:18.C.17.2022.1) — *odstoupení od smlouvy, ručení, znalecký posudek, smlouva kupní*
+- *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2025:7.C.288.2024.1) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
 
 ---
 
@@ -766,6 +885,12 @@ Pro likvidaci se aplikují obecná pravidla § 187—209 OZ.
 
 **Historický kontext**: ústav v OZ nahrazuje (částečně) bývalé **obecně prospěšné společnosti (OPS)** podle zákona č. 248/1995 Sb., který byl 1. 1. 2014 zrušen. **Existující OPS dále fungují**, ale nové se zakládat nemohou — nahradil je ústav.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 130/2022-205](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.130.2022.1) — 25. 1. 2023
+- *KS v Praze* [27 Co 55/2025-438](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:27.Co.55.2025.1) — *doménové jméno, advokacie, zadostiučinění / satisfakce, insolvence, dotace, nemajetková…*
+- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.331.2024.1) — 1. 4. 2025
+
 ### § 403 — Vedlejší činnost
 
 > Provozuje-li ústav obchodní závod nebo jinou vedlejší činnost, nesmí být provoz na újmu jakosti, rozsahu a dostupnosti služeb poskytovaných v rámci hlavní činnosti ústavu. Zisk může ústav použít jen k podpoře činnosti, pro niž byl založen, a k úhradě nákladů na vlastní správu.
@@ -777,6 +902,10 @@ Stejná logika jako u nadace (§ 307) a spolku (§ 217) — vedlejší činnost 
 ### § 404 — Název
 
 > Název ústavu musí obsahovat slova „zapsaný ústav", postačí však zkratka „z. ú."
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [6 Cmo 227/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.227.2021.1) — 11. 2. 2022
 
 ### § 405 — Založení
 
@@ -805,6 +934,11 @@ Stejná logika jako u nadace (§ 307) a spolku (§ 217) — vedlejší činnost 
 
 Volitelně: dozorčí rada (počet, první členové).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.43.2024.1) — 21. 3. 2024
+- *VS v Praze* [7 Cmo 118/2023-151](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:7.Cmo.118.2023.1) — 12. 12. 2024
+
 ### § 406 — Změny zakladatelského jednání
 
 > (1) O změnách zakladatelského právního jednání rozhoduje i za trvání ústavu zakladatel.
@@ -812,6 +946,11 @@ Volitelně: dozorčí rada (počet, první členové).
 > (2) Není-li rozhodování zakladatele možné, nabývá jeho práva vůči ústavu osoba určená zakladatelským právním jednáním v rozsahu tam uvedeném, jinak je nabývá správní rada; v takovém případě se však k rozhodnutí správní rady o změně účelu ústavu nebo o jeho zrušení vyžaduje předchozí souhlas soudu.
 
 **Klíčové specifikum**: za trvání ústavu rozhoduje **zakladatel** (na rozdíl od nadace, kde má pravomoci primárně správní rada). Pokud zakladatel není dispozici → osoba určená nebo (subsidiárně) správní rada s **předchozím souhlasem soudu** u změny účelu / zrušení.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
+- *VS v Praze* [7 Cmo 322/2019-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2020:7.Cmo.322.2019.0) — 25. 5. 2020
 
 ### § 407 — Vznik
 
@@ -830,6 +969,11 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Inkompatibility**: nelze být zároveň členem SR/DR (oddělení manažerské a kontrolní funkce — corporate governance). **Bezúhonnost** — odsouzení za úmyslný TČ = zdánlivá volba.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.43.2024.1) — 21. 3. 2024
+- *OS Praha-východ* [35 C 182/2024-378](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:35.C.182.2024.1) — *doménové jméno, zadostiučinění / satisfakce, podvod, insolvence, dotace, nemajetková újm…*
+
 ### § 409—410 — Správní rada
 
 **§ 409**:
@@ -846,6 +990,14 @@ Den zápisu do VR (rejstřík ústavů).
 **Default funkční období**: **3 roky** (kratší než u nadace).
 
 **§ 410 — Klíčová pravomoc SR**: **volí + odvolává ředitele**, dohlíží na jeho výkon, rozhoduje o jednáních vůči řediteli (default zastupuje předseda SR).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Bruntále* [207 C 15/2022-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:207.C.15.2022.1) — *bezdůvodné obohacení, insolvence, peněžité plnění, smlouva o úvěru*
+- *OS v Bruntále* [7 C 54/2022-43](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.54.2022.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
+- *OS v Bruntále* [7 C 21/2022-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.21.2022.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o půjčce, smlouva…*
+- *OS v Bruntále* [7 C 135/2021-47](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2022:7.C.135.2021.1) — *bezdůvodné obohacení, postoupení pohledávky, smlouva nájemní, smlouva o zápůjčce, smlouv…*
+- *OS v Bruntále* [7 C 23/2023-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBU:2023:7.C.23.2023.1) — *bezdůvodné obohacení, peněžité plnění, smlouva o zápůjčce*
 
 ### § 411—412 — Další pravomoci SR
 
@@ -873,6 +1025,13 @@ Den zápisu do VR (rejstřík ústavů).
 - Zatížení nemovitosti;
 - Založení/účasti v jiné PO;
 - Default: dispozice s movitými věcmi nad **hodnotu zakázky malého rozsahu** (zákon o veřejných zakázkách).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 8* [10 C 56/2024-401](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2025:10.C.56.2024.1) — *právnická osoba, obvyklý dar, smlouva pracovní, bezdůvodné obohacení, dokazování, veřejn…*
+- *OS v Prostějově* [14 C 44/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:14.C.44.2023.1) — *insolvence, peněžité plnění, smlouva o úvěru*
+- *OS v Prostějově* [14 C 20/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:14.C.20.2023.1) — *insolvence, peněžité plnění, řidičský průkaz, smlouva o úvěru*
+- *OS v Rakovníku* [11 C 79/2021-59](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRA:2021:11.C.79.2021.1) — *náhradní pozemek, peněžité plnění, smlouva kupní, smlouva o smlouvě budoucí*
 
 ### § 413 — Statut
 
@@ -902,6 +1061,10 @@ Den zápisu do VR (rejstřík ústavů).
 
 **Povinný audit** při čistém obratu **> 10 mil. Kč** (nebo když to zakladatelské jednání stanoví).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
+
 ### § 416 — Výroční zpráva
 
 > (1) Výroční zpráva ústavu obsahuje kromě náležitostí stanovených jiným právním předpisem upravujícím účetnictví další významnější údaje o činnosti a hospodaření ústavu, včetně výše plnění poskytnutých členům orgánů ústavu, a o případných změnách zakladatelského právního jednání nebo změnách členství v orgánech ústavu.
@@ -916,6 +1079,12 @@ Obsahuje: údaje o činnosti, **plnění poskytnutá členům orgánů**, změny
 
 Nenaplňování účelu dlouhodobě → soud zruší na návrh osoby s právním zájmem.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 216/2022-164](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:7.Cmo.216.2022.1) — 13. 4. 2023
+- *OS v Kutné Hoře* [11 C 107/2020-242](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKH:2021:11.C.107.2020.1) — *nájem bytu, znalecký posudek*
+- *OS ve Frýdku-Místku* [19 C 13/2011-707](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2021:19.C.13.2011.1) — *odpovědnost za škodu způsobenou provozem dopravních prostředků, opilost, peněžité plnění*
+
 ### § 418 — Subsidiární použití pravidel o nadaci
 
 V ostatním se **přiměřeně použijí ustanovení o nadaci**, vyjma:
@@ -923,6 +1092,13 @@ V ostatním se **přiměřeně použijí ustanovení o nadaci**, vyjma:
 - Nadační kapitál.
 
 Tj. pro fúzi/přeměnu/likvidaci ústavu platí pravidla § 376—393 přiměřeně.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.95.2022.0) — 23. 1. 2023
+- *VS v Praze* [9 Cmo 331/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.331.2024.1) — 1. 4. 2025
+- *VS v Praze* [9 Cmo 347/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.347.2024.0) — 2. 12. 2024
+- *ObS pro Prahu 5* [13 C 515/2024-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2025:13.C.515.2024.1) — *smlouva o smlouvě budoucí, neplatnost právního jednání, dokazování, jistota, podnikatel,…*
 
 ---
 

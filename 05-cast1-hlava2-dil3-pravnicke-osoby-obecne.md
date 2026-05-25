@@ -57,6 +57,8 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 - *NS* [29 ICdo 87/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/862B3FCC00BFADD3C125876A0018A3C8?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
 - *NS* [27 Cdo 2098/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D8D4322FE0E750FC125870E00187F08?openDocument) — *Přípustnost dovolání Zánik obchodní společnosti Podmínky řízení Právní osobnost (o. z.)*
 - *NS* [23 Cdo 873/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66793AEC79C42CD1C12585890018DBD6?openDocument) — *Způsobilost být účastníkem řízení Zánik obchodní společnosti*
+- *NS* [32 Cdo 5717/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFB8F522DC29F21CC125825F003C2BCB?openDocument) — *Podmínky řízení Způsobilost být účastníkem řízení*
+- *NS* [29 Cdo 2092/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19B98F27F4D2C6FCC1258900001DEEAF?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
 
 ### § 119 — Záznamy o majetkových poměrech
 
@@ -72,6 +74,14 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 - Malé spolky bez ekonomické činnosti — postačí jednoduchá evidence (zápisy z členských schůzí, prosté hospodářské záznamy);
 - Korporace s podnikáním — plné účetnictví podle zákona o účetnictví;
 - Subjekty veřejně prospěšné (§ 146) — důsledné záznamy nutné pro průhlednost.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 111/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.111.2025.0) — 19. 6. 2025
+- *VS v Praze* [7 Cmo 109/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.109.2025.0) — 17. 6. 2025
+- *VS v Praze* [14 Cmo 108/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:14.Cmo.108.2021.0) — 17. 5. 2021
+- *ObS pro Prahu 4* [39 C 390/2018-187](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2023:39.C.390.2018.1) — *bezdůvodné obohacení, držba, náhrada mzdy, nemoc z povolání, občanské sdružení, pasivní…*
+- *MS v Brně* [16 C 34/2016-491](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2025:16.C.34.2016.1) — *koupě, bezdůvodné obohacení, náklady řízení, stavba neoprávněná, znalecký posudek, lhůty…*
 
 ---
 
@@ -105,6 +115,14 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 
 **Veřejnost rejstříku** (odst. 2 věta poslední) — **principiálně přístupné každému**, bez doložení důvodu. Údaje jsou na internetu (justice.cz).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [7 Cmo 359/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:7.Cmo.359.2024.0) — 1. 4. 2025
+- *VS v Praze* [9 Cmo 120/2023-2065](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.120.2023.1) — 6. 3. 2024
+- *VS v Praze* [9 Cmo 27/2023-75](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.27.2023.1) — 14. 9. 2023
+- *VS v Praze* [7 Cmo 332/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.332.2021.0) — 28. 3. 2022
+- *OS v Klatovech* [5 C 221/2020-405](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKT:2021:5.C.221.2020.1) — *smlouva nájemní, náhradní pozemek, odbory, pozemkový úřad, spoluvlastnictví, znalecký po…*
+
 ### § 121 — Materiální publicita
 
 > (1) Proti osobě, která právně jedná důvěřujíc údaji zapsanému do veřejného rejstříku, nemá ten, jehož se zápis týká, právo namítnout, že zápis neodpovídá skutečnosti.
@@ -136,6 +154,7 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 3041/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3041-12_1) — 5. 3. 2014
 - *NS* [27 Cdo 1739/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCF577A1F7F2CB68C125877F001E4386?openDocument) — *Veřejný rejstřík (zápis & výmaz) (o. z.) Neplatnost právního jednání (o. z.) Spolek (o.…*
 
 ---
@@ -159,6 +178,14 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 - **Ustavení** = pojmový začátek; ne všechny účinky;
 - **Vznik** = okamžik nabytí právní osobnosti (typicky zápis do VR podle § 126).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [12 C 265/2021-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:12.C.265.2021.1) — *korporace, peněžité plnění, zastavení řízení*
+- *KS v Ústí nad Labem* [8 Co 194/2025-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2025:8.Co.194.2025.1) — *utvrzení dluhu, smlouva o úvěru*
+- *KS v Plzni* [10 CO 25/2021-241](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2021:10.Co.25.2021.1) — *peněžité plnění*
+- *VS v Praze* [9 Cmo 37/2022-248](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.37.2022.1) — 11. 10. 2022
+- *ObS pro Prahu 3* [7 C 67/2021-152](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:7.C.67.2021.1) — *peněžité plnění, smlouva o úvěru, smlouva pracovní, uznání dluhu, znalecký posudek*
+
 ### § 123 — Náležitosti zakladatelského jednání
 
 > (1) Zakladatelské právní jednání určí alespoň název, sídlo právnické osoby, předmět činnosti, jaký má právnická osoba statutární orgán a jak se vytváří... Určí též, kdo jsou první členové statutárního orgánu.
@@ -177,6 +204,14 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 | **První členové stat. orgánu** | Jmenovitě |
 
 **Forma:** povinně **písemná** (odst. 2). U mnoha PO je vyžadována i forma **notářského zápisu** (např. a.s., družstvo, nadace — viz speciální úprava).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [14 Cmo 297/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.297.2024.0) — 30. 10. 2024
+- *VS v Praze* [9 Cmo 82/2022-126](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:9.Cmo.82.2022.1) — 15. 12. 2022
+- *KS v Brně* [16 CO 240/2021-674](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:16.Co.240.2021.1) — *bezdůvodné obohacení, dlužné nájemné, držba, nájem nebytových prostor, nebytový prostor,…*
+- *MS v Praze* [15 CO 73/2022-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:15.Co.73.2022 .1) — *dražba, peněžité plnění, smlouva nájemní*
+- *ObS pro Prahu 1* [40 C 63/2020-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:40.C.63.2020.1) — *dražba, peněžité plnění, smlouva nájemní*
 
 ### § 124 — Doba ustavení
 
@@ -225,6 +260,14 @@ Kdo jedná **jménem PO před jejím vznikem**:
 - Převzetí musí být oznámeno dalším zúčastněným.
 
 Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronájmu kanceláře. Smlouva se uzavírá jejich jménem (s poznámkou „jménem s.r.o. v zakládání"). Po vzniku s.r.o. valná hromada do 3 měsíců rozhodne o převzetí — pak s.r.o. nahradí zakladatele jako smluvní stranu. Pokud nepřevezme, zakladatelé zůstávají osobně vázáni.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Kladně* [8 C 52/2025-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2025:8.C.52.2025.1) — *smlouva nájemní, náhrada nákladů, lhůty, výpověď z nájmu, náklady řízení*
+- *OS v Mladé Boleslavi* [9 C 349/2024-79](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMB:2025:9.C.349.2024.1) — *převod vlastnictví, náklady řízení, vydání věci, byty služební, nájem bytu, vlastnictví…*
+- *VS v Praze* [2 Cmo 156/2024-357](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.156.2024.1) — 1. 11. 2024
+- *OS v Kladně* [16 C 17/2023](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2023:16.C.17.2023.1) — *nájem bytu, peněžité plnění, smlouva nájemní*
+- *VS v Praze* [7 Cmo 269/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.269.2021.0) — 16. 5. 2022
 
 ### § 128—131 — Nepřípustnost rušení vzniku, neplatnost PO
 
@@ -314,13 +357,15 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 2237/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2237-14_1) — 8. 6. 2015
+- *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — 15. 1. 2025
+- *ÚS* [Pl. ÚS 20/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-24_1) — 4. 9. 2024
 - *NS* [23 Cdo 3345/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB20FAEA86396C91C1258D760052C2D9?openDocument) — *Ochrana dobré pověsti právnické osoby Svoboda projevu*
 - *NS* [23 Cdo 3576/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB328758FF3FB871C1258D310023EB5E?openDocument) — *Ochrana dobré pověsti právnické osoby Přípustnost dovolání*
 - *NS* [25 Cdo 1560/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53AE45B4538E7E72C1258BE50052C3F6?openDocument) — *Vedlejší účastník Přípustnost dovolání*
 - *NS* [23 Cdo 2288/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7817C6068A896CB9C1258B95004D3F35?openDocument) — *Ochrana dobré pověsti právnické osoby Svoboda projevu*
 - *NS* [23 Cdo 1808/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CEC28839FD65C91C1258B02004D3119?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
 - *NS* [23 Cdo 2494/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F826D7073EC26848C1258A5100160246?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
-- *NS* [23 Cdo 2482/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3578E453A1598566C1258A2500161166?openDocument) — *Ochrana dobré pověsti právnické osoby*
 
 ---
 
@@ -409,6 +454,10 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **§ 143 — Pobočky**: pravidla § 138—142 se použijí **obdobně** pro zřizování a přemísťování poboček PO.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 3893/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3893-13_1) — 20. 3. 2014
+
 ---
 
 ## Účel a zakázané PO
@@ -425,6 +474,14 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 - **Veřejný zájem** — nadace, ústavy, OPS, některé spolky (např. ochrana přírody, kultura).
 
 **Rozhodující je hlavní činnost** — ne formální označení. PO může mít vedlejší činnost odlišnou (např. nadace s vedlejší hospodářskou činností pro financování hlavní).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Liberci* [14 C 348/2015](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2022:14.C.348.2015.1) — *družstevní byt, oddlužení, peněžité plnění, rozvod manželství, vypořádání SJM, zástavní…*
+- *OS v Jeseníku* [4 C 98/2017-125](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2021:4.C.98.2017.1) — *dědění, insolvence, jmění, oddlužení, peněžité plnění, pěstounská péče, podílové spoluvl…*
+- *OS v Ústí nad Labem* [8 C 209/2022-252](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:8.C.209.2022.1) — *pojištění, společné jmění manželů, rozvod manželství, náhrada nemajetkové újmy, nemajetk…*
+- *ObS pro Prahu 5* [16 C 415/2013-1499](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2024:16.C.415.2013.1) — *společné jmění manželů, držba, vydržení, znalecký posudek, obchodní podíl, spoluvlastnic…*
+- *OS v Ústí nad Labem* [8 C 39/2022-315](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2023:8.C.39.2022.1) — *náhrada nemajetkové újmy, podílové spoluvlastnictví, spoluvlastnictví, družstevní byt, n…*
 
 ### § 145 — Zakázané PO
 
@@ -455,6 +512,11 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **Důsledek porušení § 145:** soud PO **prohlásí za neplatnou** (§ 129 odst. 1 písm. c)); pokud byla zaregistrována, vstupuje do likvidace.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — 13. 10. 2015
+- *ÚS* [III. ÚS 4001/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-4001-13_1) — 15. 5. 2014
+
 ---
 
 ## Veřejná prospěšnost
@@ -478,6 +540,13 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 Zákon o statusu veřejné prospěšnosti **dosud nebyl přijat** (§ 147—150 byly v původním textu OZ a měly stanovit konkrétní účinky statusu — daňová zvýhodnění, oprávnění přijímat veřejné prostředky, oprávnění užívat označení „veřejně prospěšná organizace"). **Tyto paragrafy byly zákonem č. 460/2016 Sb. zrušeny** (jsou nyní vypuštěny z textu). Status veřejné prospěšnosti tedy **dnes není formálně registrovanou kategorií** — jen materiální charakteristikou.
 
 **Pro daňové účely** veřejnou prospěšnost nahrazuje pojem „**veřejně prospěšný poplatník**" podle § 17a zákona o daních z příjmů č. 586/1992 Sb. — ten se aplikuje na základě materiálních kritérií, ne na základě formálního statusu.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Hradci Králové* [17 C 190/2022-31](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2022:17.C.190.2022.1) — *peněžité plnění*
+- *OS v Ostravě* [54 C 107/2021-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2022:54.C.107.2021.3) — *dodávky energie, peněžité plnění, smlouva kupní*
+- *OS v Ostravě* [55 C 445/2020-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSOV:2021:55.C.445.2020.2) — *dodávky energie, peněžité plnění*
+- *KS v Praze* [23 Co 60/2025-203](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:23.Co.60.2025.1) — *dodávky energie, odbory*
 
 ---
 
@@ -534,6 +603,14 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **Praktický význam**: chrání PO před skrytým úpadcem ve vedení (riziko zneužití funkce, anti-fraud klauzule). Vazba na § 73 ZOK (zákaz výkonu funkce u úpadce po dobu 3 let — disqualifikace).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 21/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.21.2024.0) — 10. 7. 2024
+- *VS v Praze* [6 Cmo 209/2021-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.209.2021.1) — 24. 1. 2022
+- *VS v Praze* [14 Cmo 317/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:14.Cmo.317.2021.0) — 22. 10. 2024
+- *VS v Praze* [14 Cmo 146/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:14.Cmo.146.2023.0) — 21. 11. 2023
+- *VS v Praze* [9 Cmo 136/2023-208](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.136.2023.1) — 6. 12. 2023
+
 ### § 154—155 — PO jako člen orgánu; vady povolání
 
 **§ 154**:
@@ -584,6 +661,14 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **§ 158a — archivační povinnost**: zápisy nejvyššího orgánu se uchovávají **po celou dobu existence PO + 10 let** po zániku (zajišťuje právní nástupce, likvidátor nebo IS).
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 26/2024-182](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.26.2024.1) — 8. 11. 2024
+- *VS v Praze* [6 Cmo 260/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.260.2021.0) — 16. 2. 2022
+- *OS v České Lípě* [15 C 278/2021-80](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2022:15.C.278.2021.3) — *exekuce, notářský zápis, péče řádného hospodáře, smlouva kupní*
+- *VS v Praze* [7 Cmo 144/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.144.2021.0) — 26. 7. 2021
+- *VS v Praze* [7 Cmo 162/2021-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.162.2021.0) — 26. 7. 2021
+
 ### § 159 — Péče řádného hospodáře, ručení
 
 > (1) Kdo přijme funkci člena voleného orgánu, zavazuje se, že ji bude vykonávat s nezbytnou loajalitou i s potřebnými znalostmi a pečlivostí. Má se za to, že jedná nedbale, kdo není této péče řádného hospodáře schopen, ač to musel zjistit při přijetí funkce nebo při jejím výkonu, a nevyvodí z toho pro sebe důsledky.
@@ -621,6 +706,8 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 - *NS* [27 Cdo 1078/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B806027EBA14745BC1258BB6004D3B29?openDocument) — *Péče řádného hospodáře Představenstvo Vady řízení Zaměstnanci*
 - *NS* [27 ICdo 152/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D064BE8774550FFC1258B81004D2B39?openDocument) — *Jednatel Péče řádného hospodáře Škoda Ručení*
 - *NS* [27 Cdo 2728/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02C4E4B00C0B59C1258B38004D42E1?openDocument) — *Péče řádného hospodáře Ručení Společnost s ručením omezeným*
+- *NS* [27 Cdo 1601/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9AF3E1F6D84EF59C1258AE70052A60F?openDocument) — *Jednatel Člen voleného orgánu [ Právnická osoba ] Péče řádného hospodáře*
+- *NS* [27 Cdo 1791/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/49F84F13D47D8F1BC1258AF4004C8EB3?openDocument) — *Péče řádného hospodáře Ručení Jednatel Škoda*
 
 ### § 160 — Odstoupení z funkce
 
@@ -631,6 +718,14 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 **2měsíční fáze** mezi odstoupením a zánikem funkce — chrání PO před nečekanou ztrátou orgánu. PO má čas vybrat nástupce.
 
 **Možnost zkrátit lhůtu** — pokud zakladatelské jednání nebo dohoda určí jinak. PO může také okamžitě přijmout odstoupení a obsadit funkci.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 260/2023-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.260.2023.0) — 11. 3. 2024
+- *OS Plzeň-sever* [8 C 343/2024-18](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPS:2024:8.C.343.2024.1) — *smlouva o úvěru*
+- *VS v Praze* [9 Cmo 234/2024-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.234.2024.0) — 14. 10. 2024
+- *OS Plzeň-město* [12 C 136/2021-84](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2022:12.C.136.2021.1) — *dodávky energie, peněžité plnění*
+- *VS v Praze* [6 Cmo 80/2021-177](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:6.Cmo.80.2021.1) — 27. 4. 2022
 
 ---
 
@@ -712,6 +807,7 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 276/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-276-14_1) — 4. 6. 2014
 - *NS* [20 Cdo 1485/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15A2824FD0BAA5E5C1258D22004D3C2D?openDocument) — *Zastavení exekuce*
 - *NS* [24 Cdo 1550/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FFEB7A02A5234DFEC1258CCE004D3BB6?openDocument) — *Dědění Dědic zákonný Společná domácnost*
 - *NS* [27 Cdo 3330/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8FFFDBE61C8C1BBC12588220015FEE3?openDocument) — *Záloha Započtení pohledávky Dividenda*
@@ -719,6 +815,7 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 - *NS* [29 Cdo 880/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4CB8A67EC474F69C1257EE0003BFD27?openDocument) — *Právní jednání (o. z.) Akciová společnost Zastoupení Řízení ve věcech obchodního rejstří…*
 - *NS* [28 Cdo 2485/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFE73F60AFB33231C1258C0D0052AEC1?openDocument) — *Omyl Zastoupení Právnická osoba Neplatnost právních jednání (o. z.) [ Právní jednání (o.…*
 - *NS* [33 Cdo 3817/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ACB1C8C86C61224C1258B61004D1921?openDocument) — *Zastoupení Jednání za právnickou osobu (o. z.) Statutární orgán*
+- *NS* [27 Cdo 3790/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/690F5A8180278830C1258AE70052A49A?openDocument) — *Opatrovník (opatrovnictví) právnické osoby (o. z.) Opatrovník hmotně právní [ Opatrovník…*
 
 ---
 
@@ -781,6 +878,8 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 - *NS* [27 Cdo 15/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67E83230067E0739C12585640019BB0A?openDocument) — *Zrušení obchodní společnosti Návrh na zahájení řízení*
 - *NS* [27 Cdo 1342/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1D6228C491560A8C125829800316115?openDocument) — *Změna soudního rozhodnutí Zrušení obchodní společnosti Přípustnost dovolání*
 - *NS* [29 Cdo 4549/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9A37C7A86CB855BC12582980031606F?openDocument) — *Likvidace právnické osoby (o. z.)*
+- *NS* [27 Cdo 1135/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4086A4C952F3B165C1258282003C3E59?openDocument) — *Zrušení obchodní společnosti Změna soudního rozhodnutí*
+- *NS* [29 Cdo 3224/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2535DC7D86244EA6C125873200189D15?openDocument) — *Konkurs - zrušení konkurzu Zastavení řízení Obchodní rejstřík Způsobilost být účastníkem…*
 
 ### § 174—184 — Přeměna PO (fúze, rozdělení, změna formy)
 
@@ -896,6 +995,8 @@ Klíčové instituty:
 - *NS* [29 ICdo 138/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A77C0B61FF95AA3FC125879B001E5477?openDocument) — *Zánik obchodní společnosti Zastavení řízení Způsobilost být účastníkem řízení*
 - *NS* [29 ICdo 87/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/862B3FCC00BFADD3C125876A0018A3C8?openDocument) — *Způsobilost být účastníkem řízení Zastavení řízení*
 - *NS* [29 Cdo 3224/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2535DC7D86244EA6C125873200189D15?openDocument) — *Konkurs - zrušení konkurzu Zastavení řízení Obchodní rejstřík Způsobilost být účastníkem…*
+- *NS* [27 Cdo 2098/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D8D4322FE0E750FC125870E00187F08?openDocument) — *Přípustnost dovolání Zánik obchodní společnosti Podmínky řízení Právní osobnost (o. z.)*
+- *NS* [32 Cdo 1810/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/061624D26183B052C1258627001DCA4C?openDocument) — *Zastavení řízení Podmínky řízení Účastníci řízení*
 
 ---
 
@@ -923,6 +1024,7 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 1034/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1034-15_1) — 12. 5. 2015
 - *NS* [30 Cdo 174/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/108E65EB3FAA12AEC12583D3003950EB?openDocument) — *Přípustnost dovolání Likvidace právnické osoby (o. z.) Statutární orgán*
 - *NS* [29 NSCR 34/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5BFD11C0AE6FB52C1258CCE004D3C8C?openDocument) — *Insolvenční řízení Přihláška pohledávky Likvidace právnické osoby (o. z.)*
 - *NS* [27 Cdo 2232/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F911C2115C14C56AC12589F700186857?openDocument) — *Veřejná obchodní společnost Vyloučení společníka Likvidace obchodní společnosti*

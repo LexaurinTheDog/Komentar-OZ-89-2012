@@ -62,6 +62,8 @@ Závěr Hlavy II přináší **dvě úzce propojené kategorie osob soukromého 
 - *NS* [29 Cdo 1569/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A269517D90BF34C5C12588F6004B1A84?openDocument) — *Spotřebitel Směnka Úroky*
 - *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
 - *NS* [25 Cdo 292/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0364D120F04BCDE6C1258D550052A476?openDocument) — *Smlouva o dílo Spotřebitel Odpovědnost za vady*
+- *NS* [29 ICdo 98/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475DC66985DD4644C1258BD600527FD7?openDocument) — *Oddlužení Incidenční spory (odporové spory) Popření pohledávky Poučovací povinnost soudu*
+- *NS* [26 Cdo 2666/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56ECEBE628DF6740C125833200256859?openDocument) — *Smlouva o ubytování Smlouva spotřebitelská Podnikatel Ochrana spotřebitele Ochrana spotř…*
 
 ---
 
@@ -99,6 +101,8 @@ Rozšíření zahrnuje:
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 651/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-651-14_1) — 10. 7. 2014
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
 - *NS* [33 Cdo 2512/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F1FE6435921FDEFC1258AFE004D1AA3?openDocument) — *Podnikatel*
 - *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
 - *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
@@ -139,6 +143,7 @@ Rozšíření zahrnuje:
 - *NS* [33 Cdo 3165/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/575447904F66400FC12589A900180370?openDocument) — *Přípustnost dovolání Spotřebitel Podnikatel*
 - *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
 - *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
+- *NS* [29 Cdo 5758/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A89132FFCAEB0502C125838300221393?openDocument) — *Právnická osoba Obchodní rejstřík Obchodní firma Ochrana názvu právnické osoby Ochrana o…*
 
 ### § 422 — Jednání pod vlastním jménem
 
@@ -149,6 +154,12 @@ Rozšíření zahrnuje:
 **Default**: podnikatel-FO bez obchodní firmy jedná **pod osobním jménem** (například „Jan Novák — pekař" v právním styku používá jméno „Jan Novák").
 
 **Volitelné dodatky**: lze připojit identifikační doplňky (např. „Jan Novák — Pekařství U Dvou kohoutů"). **Limit**: dodatky nesmí být **klamavé** (např. „Jan Novák — Mezinárodní pekařský koncern" pro místní pekařství by bylo klamavé).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 313/2023-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:9.Cmo.313.2023.1) — 25. 7. 2024
+- *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPV:2023:13.C.215.2022.1) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
+- *KS v Praze* [25 CO 222/2021-230](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:25.Co.222.2021.1) — *odpovědnost za vady, odtah vozidla, ochrana osobních údajů, pasivní legitimace, peněžité…*
 
 ### Obchodní firma (§ 423—428)
 
@@ -201,6 +212,7 @@ Obojí lze mít současně a vzájemně se doplňují.
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — 29. 4. 2015
 - *NS* [23 Cdo 900/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA56B862D56CF8D0C1258BB3004D3B63?openDocument) — *Obchodní firma Přípustnost dovolání*
 - *NS* [23 Cdo 1404/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F752B9EA3EC0E12DC12588F4001DF496?openDocument) — *Přípustnost dovolání Obchodní firma*
 - *NS* [23 Cdo 1308/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50A615966A074CBCC12585D40019AEB3?openDocument) — *Obchodní firma*
@@ -222,6 +234,12 @@ Obojí lze mít současně a vzájemně se doplňují.
 **Kontinuita při změně jména** (odst. 1) — typicky **manželství** (změna příjmení) → osoba může pokračovat pod původním jménem (zachování obchodního goodwill); **publikace změny** je povinná pro transparentnost.
 
 **Firmy FO bez jména** (odst. 2): pokud se FO zapíše pod fantasy názvem (např. „BAKERY HOUSE"), **musí být zřejmé, že nejde o PO**. Typicky: připojení označení „— Jan Novák" nebo „IČO 12345678".
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [9 Cmo 67/2025-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:9.Cmo.67.2025.000) — 2. 9. 2025
+- *KS v Praze* [103 Co 17/2023-805](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2024:103.Co.17.2023.1) — *nápadně nevýhodné podmínky, spoluvlastnictví, převod vlastnictví, smlouva kupní, podílov…*
+- *KS v Praze* [21 Co 229/2024-881](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:21.Co.229.2024.1) — *držba, pozemková reforma, spoluvlastnictví, převod vlastnictví, smlouva o smlouvě budouc…*
 
 #### § 426 — Skupiny podnikatelů (koncerny)
 
@@ -248,6 +266,14 @@ Obojí lze mít současně a vzájemně se doplňují.
    - **Povinná zmínka o nástupnictví** (např. „ABC, s.r.o. — právní nástupce XYZ, s.r.o.").
 
 2. **Přeměna PO** (odst. 2) — automatický přechod na nástupce (s jeho souhlasem). Při více nástupcích bez určení → **nepřejde na žádného** (zachování právní jistoty třetích osob, kteří by jinak nevěděli, ke kterému nástupci se obrátit).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [41 C 31/2012-530](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:41.C.31.2012.1) — *bolestné, duševní porucha, peněžité plnění, porod, pracovní cesta, pracovní úraz, rehabi…*
+- *OS v Karviné, pobočka Havířov* [106 C 304/2015-234](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKIHA:2018:106.C.304.2015.1) — *peněžité plnění, pojištění odpovědnosti za škodu, smlouva nájemní*
+- *OS ve Frýdku-Místku* [13 C 275/99-1856](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2024:13.C.275.99.1) — *vedlejší účastník, těžká újma na zdraví, náklady řízení, náhrada nemajetkové újmy, boles…*
+- *OS v Kladně* [7 C 56/2020-90](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:7.C.56.2020.1) — *nájem pozemku, pasivní legitimace, peněžité plnění, smlouva kupní, smlouva nájemní, znal…*
+- *OS v Českých Budějovicích* [30 C 201/2021-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCB:2021:30.C.201.2021.1) — *odtah vozidla, peněžité plnění, ručení*
 
 #### § 428 — Odvolání souhlasu k jménu v firmě PO
 
@@ -297,6 +323,14 @@ Podnikatel **nemůže namítat skutečné sídlo** vůči tomu, kdo se v dobré 
 - **Doručování soudních a jiných písemností** (zákon o doručování, OSŘ § 46);
 - **Datové schránky** (§ 17 zákona č. 300/2008 Sb.);
 - **Příslušnost soudu** v obchodněprávních sporech (§ 85 OSŘ — sídlo PO/podnikatele).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 84/2024-184](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.84.2024.1) — 13. 6. 2024
+- *VS v Praze* [6 Cmo 367/2020-29](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:6.Cmo.367.2020.1) — 25. 8. 2021
+- *MS v Praze* [14 Cmo 245/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:14.Cmo.245.2022.0) — 15. 11. 2022
+- *ObS pro Prahu 1* [74 C 19/2022](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:74.C.19.2022.1) — *dodávky energie, peněžité plnění*
+- *VS v Praze* [7 Cmo 144/2020-17](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2021:7.Cmo.144.2020.1) — 1. 2. 2021
 
 ### Zastoupení podnikatele (§ 430—432)
 
@@ -427,6 +461,8 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 - *NS* [33 ICdo 99/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A459F7BEE2B3FB2C1258B0B004D372B?openDocument) — *Přípustnost dovolání Dobré mravy Podnikatel*
 - *NS* [26 Cdo 3076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79303935FEC2568FC12589DB0018287F?openDocument) — *Pachtovní smlouva*
 - *NS* [20 Cdo 536/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA7DF365A151E717C1258B64004D1AC6?openDocument) — *Neplatnost smlouvy Zastavení exekuce*
+- *NS* [33 Cdo 3812/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EAA7D1B23BFB30BC1258B32004D438B?openDocument) — *Smluvní pokuta*
+- *NS* [33 Cdo 5942/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB2602FB242F8CF8C125839F00220CE3?openDocument) — *Rozhodčí doložka Rozhodčí řízení Ochrana spotřebitele*
 
 ### § 434—435 — Provozovna a informační povinnosti
 
@@ -439,3 +475,12 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 > (2) Na listině podle odstavce 1 lze uvést i další údaje, nejsou-li způsobilé vyvolat klamavý dojem.
 
 > Konec kapitoly 08. Pokračování: kapitola 09 — Hlava III: Zastoupení (§ 436—488) — smluvní zastoupení, prokura, zákonné zastoupení, opatrovník, opatrovnická rada.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Jablonci nad Nisou* [105 C 15/2023-286](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJN:2025:105.C.15.2023.1) — *konkurs, smlouva kupní*
+- *KS v Brně* [21 Co 147/2024-160](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2025:21.Co.147.2024.1) — *vydržení, patent*
+- *ObS pro Prahu 8* [26 C 223/2021-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2021:26.C.223.2021.1) — 21. 9. 2021
+- *VS v Praze* [3 Cmo 8/2025-68](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:3.Cmo.8.2025.1) — 27. 10. 2025
+- *KS v Českých Budějovicích* [19 Co 1878/2024-187](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSCB:2025:19.Co.1878.2024.1) — *smlouva o dílo*
+

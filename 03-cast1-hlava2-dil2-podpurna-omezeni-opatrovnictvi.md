@@ -37,6 +37,10 @@ Tento postup je v souladu s **Úmluvou OSN o právech osob se zdravotním posti�
 - **Soud má povinnost vůli respektovat** (§ 62 — při výběru opatrovníka přihlédne k přáním opatrovance; § 469 odst. 2 — opatrovník je povinen jednat ve shodě s přáními opatrovance).
 - **Není to ovšem absolutní vázanost** — viz § 43 (změna okolností).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV. ÚS 2358/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2358-13_1) — 5. 8. 2014
+
 ### § 39 — Forma předběžného prohlášení
 
 > (1) Nemá-li prohlášení formu veřejné listiny, musí být učiněno soukromou listinou opatřenou datem a potvrzenou dvěma svědky; svědek o sobě uvede v potvrzení údaje, podle nichž ho lze zjistit.
@@ -56,6 +60,18 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Doporučení v praxi:** Forma veřejné listiny (notářský zápis) je **silně preferována** — vyhne se sporům o pravost, pravost svědků, čas vyhotovení, a zajistí evidenci.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — 25. 6. 2015
+- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — 26. 6. 2014
+- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — 26. 6. 2014
+- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — 26. 6. 2014
+- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — 9. 6. 2014
+- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — 9. 6. 2014
+
 ### § 40 — Zvláštní úprava pro osoby s postižením
 
 > (1) Činí-li prohlášení nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, musí jí být prohlášení nahlas přečteno svědkem, který prohlášení nepsal. Nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, před svědky potvrdí, že listina obsahuje jeho pravou vůli.
@@ -69,6 +85,10 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 - **Zvolený způsob dorozumívání** (znakový jazyk, Brailleovo písmo, daktylní abeceda).
 
 **Vazba na zákon o znakové řeči č. 155/1998 Sb.** a antidiskriminační zákon č. 198/2009 Sb.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV. ÚS 3332/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3332-14_1) — 22. 9. 2015
 
 ### § 41—44 — Odvolání, podmínky, změna okolností, neplatnost
 
@@ -113,6 +133,14 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Neplatnost s přihlédnutím (§ 44):**
 - I neplatné prohlášení (např. vady formy, vady svědků) **soud zohlední**, není-li příčiny pochybovat o vůli pořizovatele.
 - To je **silně proautonomní pravidlo**: vady formy nesmějí potlačit zjevnou vůli člověka.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-východ* [24 C 7/2024-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:24.C.7.2024.1) — *služebnost, narovnání, náklady řízení, věcná břemena, dokazování, náhrada nákladů*
+- *OS v Hodoníně* [23 C 24/2023-198](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2025:23.C.24.2023.1) — *zpeněžování, podvod, bezdůvodné obohacení, uznání dluhu, dražba, znalecký posudek, lichv…*
+- *KS v Brně* [14 CO 190/2021-207](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSBR:2022:14.Co.190.2021.1) — *oddlužení, peněžité plnění, postoupení pohledávky, převod nemovitostí, rozhodnutí o úpad…*
+- *OS v Příbrami* [17 C 203/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:17.C.203.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
+- *OS v Příbrami* [17 C 204/2021-63](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:17.C.204.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o půjčce*
 
 ---
 
@@ -163,6 +191,11 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **Procesní úprava:** § 63 ZŘS — řízení o schválení smlouvy o nápomoci. Příslušnost: obecný soud podporovaného (§ 4 ZŘS).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 10* [34 C 130/2021-78](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2022:34.C.130.2021.2) — *peněžité plnění, převod nemovitostí, smlouva kupní, zástavní právo, znalecký posudek*
+- *KS v Ostravě* [75 CO 322/2021-261](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:75.Co.322.2021.1) — *držba, nájem bytu, pacht, smlouva nájemní, spoluvlastnictví, vydání věci, vyklizení nemo…*
+
 ### § 47 — Povinnosti podpůrce
 
 > (1) Podpůrce nesmí ohrozit zájmy podporovaného nevhodným ovlivňováním, ani se na úkor podporovaného bezdůvodně obohatit.
@@ -190,6 +223,11 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 - **Soud z úřední povinnosti** (i bez návrhu) — při závažném porušení povinností (zneužití, manipulace, obohacení).
 
 **Procesní úprava:** § 63 ZŘS.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Hodoníně* [6 C 110/2022-71](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHO:2023:6.C.110.2022.2) — *nápadně nevýhodné podmínky, odstoupení od smlouvy, smlouva kupní*
+- *MS v Praze* [62 CO 361/2021-168](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:62.Co.361.2021.1) — *odstoupení od smlouvy, peněžité plnění, pozůstalost, rozsudek pro uznání, smlouva kupní,…*
 
 ---
 
@@ -244,6 +282,12 @@ Konstitutivní účinek **schválení soudu** — zastoupení vzniká až rozhod
 
 **Procesní úprava:** § 64 ZŘS — řízení o schválení zastoupení členem domácnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Příbrami* [5 C 199/2022-48](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPB:2022:5.C.199.2022.1) — *peněžité plnění, postoupení pohledávky*
+- *OS v Sokolově* [7 C 254/2023-24](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSO:2023:7.C.254.2023.3) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+- *MS v Praze* [53 CO 306/2022-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:53.Co.306.2022.1) — *duševní choroba, duševní porucha, omezení svéprávnosti, peněžité plnění, postoupení pohl…*
+
 ### § 51 — Povinnosti zástupce
 
 > Zástupce dbá o ochranu zájmů zastoupeného a naplňování jeho práv i o to, aby způsob jeho života nebyl v rozporu s jeho schopnostmi a aby, nelze-li tomu rozumně odporovat, odpovídal i zvláštním představám a přáním zastoupeného.
@@ -258,6 +302,7 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — 14. 4. 2015
 - *NS* [20 Ncu 146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF133A25BABAA632C1258C280052F2E6?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 80/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB750956D421F730C1258A0100160E86?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 86/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA761275E02E06AC12589FD002D344F?openDocument) — *Uznání cizích rozhodnutí*
@@ -265,6 +310,7 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 - *NS* [20 Ncu 85/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D65D4DE7F0D8A07C1258928001DBE2F?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 76/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/369AB8B0B504E524C125874400242500?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 65/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F55760A27A4CBB0C125864C0028B261?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+- *NS* [29 Cdo 2119/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/100313DEE9F526CFC1258A4300161076?openDocument) — *Majetková podstata Škoda Insolvenční správce Konkurs Konflikt zájmů Přípustnost dovolání…*
 
 ### § 52 — Rozsah zastoupení
 
@@ -288,6 +334,14 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 - Buď plná moc (§ 441), pokud je zastoupený schopen ji udělit;
 - Nebo opatrovnictví s omezením svéprávnosti (§ 55) a soudem definovaným rozsahem oprávnění.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Mostě* [39 C 13/2025-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2025:39.C.13.2025.1) — *smlouva o půjčce, postoupení pohledávky*
+- *OS v Ústí nad Labem* [7 C 316/2024-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.316.2024.1) — *postoupení pohledávky, smlouva o půjčce*
+- *OS v Ústí nad Labem* [7 C 239/2024-21](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.239.2024.1) — *smlouva o půjčce, postoupení pohledávky*
+- *OS v Ústí nad Labem* [7 C 136/2024-19](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSUL:2024:7.C.136.2024.1) — *postoupení pohledávky, smlouva o půjčce*
+- *OS v Mostě* [39 C 132/2023-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2023:39.C.132.2023.2) — *peněžité plnění, postoupení pohledávky*
+
 ### § 53—54 — Pluralita zástupců, zánik zastoupení
 
 **§ 53**:
@@ -305,6 +359,11 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 - Odmítnutí zastoupeným (stačí schopnost projevit přání);
 - Jmenování opatrovníka (přechod na vyšší formu péče);
 - Uzavření smlouvy o nápomoci (přechod na mírnější formu — v rozsahu, v jakém je zastoupený způsobilý).
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [2 Cmo 101/2024-16](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:2.Cmo.101.2024.1) — 4. 11. 2024
+- *VS v Praze* [7 Cmo 17/2022-132](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:7.Cmo.17.2022.1) — 9. 12. 2022
 
 ---
 
@@ -343,13 +402,15 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [24 Cdo 1380/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79390601274BF473C1258D10004D4371?openDocument) — *Svéprávnost (o. z.) Dovolání Přípustnost dovolání*
-- *NS* [24 Cdo 938/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93A44E11B7062EC8C1258C74004D2628?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
-- *NS* [24 Cdo 288/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B474C55737776CD5C1258AF3004D48C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Přípustnost dovolání Dovolací důvody*
-- *NS* [24 Cdo 3777/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E7A097DCA80B617C1258AF9004D0492?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Dokazování*
-- *NS* [24 Cdo 3493/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6585627DFA2121CC12589810017F66B?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Plná svéprávnost (o. z.) [ Svéprávn…*
-- *NS* [24 Cdo 3143/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8913873894AE0095C1258932001E1FDF?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
-- *NS* [24 Cdo 3006/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48250803B547AC92C125892A001EAE38?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+- *ÚS* [III. ÚS 53/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-53-24_1) — 21. 2. 2024
+- *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — 26. 6. 2014
+- *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — 26. 6. 2014
+- *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — 26. 6. 2014
+- *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — 11. 6. 2014
+- *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — 9. 6. 2014
+- *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — 9. 6. 2014
 
 ### § 56 — Pravomoc soudu
 
@@ -368,6 +429,14 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 - **Slyšení blízkých osob** (§ 39 ZŘS);
 - **Povinné zastoupení** opatrovance v řízení (advokátem nebo zákonným zástupcem);
 - **Možnost komunikovat zvoleným způsobem** (znakový jazyk, AAC — augmentativní a alternativní komunikace).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ostravě* [8 CO 116/2022-500](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:8.Co.116.2022 .1) — *dotace, odpovědnost za vady, peněžité plnění, smlouva o dílo, znalecký posudek*
+- *ObS pro Prahu 3* [12 C 170/2021-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:12.C.170.2021.1) — *postoupení pohledávky, smlouva o půjčce, smlouva o úvěru*
+- *OS ve Svitavách* [9 C 213/2020-55](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSSY:2021:9.C.213.2020.1) — *peněžité plnění, smlouva o úvěru*
+- *OS v Karlových Varech* [13 C 13/2025-34](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKV:2025:13.C.13.2025.1) — *smlouva o zápůjčce, postoupení pohledávky*
+- *VS v Praze* [2 Cmo 102/2023-154](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:2.Cmo.102.2023.1) — 11. 12. 2023
 
 ### § 57 — Rozsah omezení
 
@@ -399,6 +468,8 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 - *NS* [24 Cdo 1087/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2737BDDABA15EC48C125876000196C95?openDocument) — *Svéprávnost (o. z.) Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Advokacie Opatr…*
 - *NS* [30 Cdo 412/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E51C6ED2DA705B0C12583570021EF12?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Doka…*
 - *NS* [30 Cdo 6047/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/589D14E022F2F23CC125829B0052A9A6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Rod…*
+- *NS* [24 Cdo 2347/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/390CEBB05FE81A91C1258A140016188E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
+- *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
 
 ### § 58 — Předběžné svěření jednání
 
@@ -500,6 +571,7 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — 25. 6. 2015
 - *NS* [30 Cdo 2233/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA3C27348EB01344C125830400314562?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník*
 - *NS* [30 Cdo 2235/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A52C01716F3BF81C125830400314563?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Opatrovník Správa cizího majetku (o. z.)*
 - *NS* [30 Cdo 643/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77F189828A32F211C1257EB90025B625?openDocument) — 17. 6. 2015
@@ -507,6 +579,7 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 - *NS* [24 Cdo 2497/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AE2B67D4164C5D2C125866E001DBE33?openDocument) — *Opatrovník Kolizní opatrovník (o. z.)*
 - *NS* [24 Cdo 3590/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDCCFD6513B95A55C12585D6001853F1?openDocument) — *Omezení svéprávnosti (o.z.) Opatrovník Řízení opatrovnické*
 - *NS* [24 Cdo 3307/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DD18E48B869BE86C12584170018BD83?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+- *NS* [30 Cdo 4910/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF5A2FB2D998837FC12580E2002B9646?openDocument) — *Opatrovník*
 
 ### § 64 — Běžné záležitosti každodenního života
 
@@ -554,6 +627,14 @@ Toto je **kogentní ustanovení** — soud nemůže omezit svéprávnost natolik
 
 Tato úprava je **prosvobodná** — chrání svobodu kontraktovat i u osob s omezenou svéprávností, pokud jim transakce neškodí. Druhá strana (obchodník) je tím chráněna před překvapivou neplatností, jak ji znal starý OZ.
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Chebu* [8 C 159/2024-37](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCH:2025:8.C.159.2024.1) — *náhrada nákladů, peněžité plnění, náklady řízení, odstoupení od smlouvy, omezení svépráv…*
+- *ObS pro Prahu 10* [46 C 31/2021-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH10:2021:46.C.31.2021.1) — *omezení svéprávnosti, pojištění majetku, smlouva nájemní*
+- *OS v Mostě* [22 C 383/2021-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.383.2021.2) — *odtah vozidla, smlouva kupní*
+- *OS v Trutnově* [9 C 354/2021-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSTU:2022:9.C.354.2021.1) — *bezdůvodné obohacení, dodávky energie, nájem bytu, omezení svéprávnosti, podvod, smlouva…*
+- *OS v Kladně* [214 C 160/2019-255](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKD:2021:214.C.160.2019.1) — *dodávky energie, duševní porucha, peněžité plnění, smlouva darovací*
+
 ---
 
 ## Oddíl 3 — Nezvěstnost (§ 66—70)
@@ -580,6 +661,10 @@ Tato úprava je **prosvobodná** — chrání svobodu kontraktovat i u osob s om
 - **Korporace, na níž má účast** (např. s.r.o., kde je společníkem — potřeba vyřešit blokované valné hromady).
 
 **Procesní úprava:** § 65—68 ZŘS.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 3* [17 C 194/2020-72](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH03:2021:17.C.194.2020.4) — *smlouva darovací, vrácení daru*
 
 ### § 67 — Účinky prohlášení
 
@@ -613,6 +698,10 @@ Tři způsoby zániku účinků prohlášení:
 2. **Jmenování správce** — i bez návratu, pokud nezvěstný projevil vůli (typicky e-mailem, telefonem) a jmenoval správce majetku;
 3. **Prohlášení za mrtvého** — nezvěstnost se transformuje v domněnku smrti (§ 71 a násl.).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Karviné* [25 C 13/2023-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSKI:2023:25.C.13.2023.1) — *duševní útrapy, majetková újma, nemajetková újma, ochrana osobnosti, peněžité plnění, za…*
+
 ### § 69 — Vyloučení námitky neplatnosti
 
 > Kdo byl prohlášen za nezvěstného, nemůže namítat neplatnost nebo neúčinnost právního jednání učiněného za jeho nepřítomnosti, k němuž došlo za účinků takového prohlášení, pro to, že se při nich projev jeho vůle nevyžadoval.
@@ -636,6 +725,10 @@ Pokud nezvěstný **dříve ustavil správce** svého majetku (např. plnou moc�
 - Nemůže jednat (smrt, nezpůsobilost).
 
 V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby bez ohledu na souhlas nezvěstného).
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [19 CO 81/2022-250](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:19.Co.81.2022.1) — *bezdůvodné obohacení, nebytový prostor, peněžité plnění, podílové spoluvlastnictví, spol…*
 
 ---
 

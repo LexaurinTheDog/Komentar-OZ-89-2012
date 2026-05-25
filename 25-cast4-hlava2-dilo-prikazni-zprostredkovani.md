@@ -78,6 +78,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 > (3) Nabyvatel předloží poskytovateli pravidelná vyúčtování odměny podle odstavce 2 v ujednaných časových obdobích; není-li ujednáno jinak, je povinen tak učinit alespoň jednou ročně.
 **Podlicence** — nabyvatel může postoupit licenci nebo udělit podlicenci **jen se souhlasem** poskytovatele (kogentní, ledaže smluvně jinak).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS v Hradci Králové* [13 C 127/2022-44](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHK:2022:13.C.127.2022.1) — *peněžité plnění, reklama*
+- *KS v Plzni* [61 Co 183/2025-156](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2025:61.Co.183.2025.1) — *příslušnost soudu, výklad projevu vůle, dokazování, odvolání, smlouva o dílo, smlouva o…*
+
 ### § 2367—2370 — Odměna
 
 **§ 2367**:
@@ -209,6 +214,14 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - Licence k **autorskému dílu** (§ 2371—2381) — návaznost na autorský zákon č. 121/2000 Sb.;
 - **Licence pro nakladatelskou smlouvu** (§ 2384—2389) — kniha, periodikum, audiovizuální dílo.
 
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [3 CO 82/2023-57](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:3.Co.82.2023.1) — *autorské dílo, rozsudek pro zmeškání*
+- *OS v Přerově* [7 C 64/2024-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2024:7.C.64.2024.1) — *rozsudek pro zmeškání*
+- *KS v Praze* [73 C 3/2021-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2022:73.C.3.2021.1) — *autorské dílo, peněžité plnění, práva související s autorským právem, smlouva licenční*
+- *OS v Přerově* [7 C 309/2021-26](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2022:7.C.309.2021.1) — *bezdůvodné obohacení, smlouva o úvěru, smlouva o zápůjčce*
+- *ObS pro Prahu 4* [43 C 270/2021-22](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:43.C.270.2021.1) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
+
 ---
 
 ## Zápůjčka (§ 2390—2394)
@@ -232,6 +245,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 836/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DD015BB338DBDC4FC1258AA5001B8430?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Přípustnost dovolání*
 - *NS* [33 Cdo 565/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78F443FDE887ABF1C12587D3001C3D13?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.) Břemeno tvrzení Břemeno důkazní*
 - *NS* [23 Cdo 2939/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/255E7B022256F751C12586F200186C6F?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.)*
+- *NS* [27 Cdo 226/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CF9A40FFE0EC4CFC1258659001DD2FC?openDocument) — *Valná hromada Akciová společnost Neplatnost právního jednání*
+- *NS* [33 Cdo 2141/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC63D9820B0553AC125861E0041D8AD?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.)*
 
 ### § 2391—2394 — Podrobnosti
 
@@ -387,6 +402,14 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - **Bez viny schovatele** → bez odpovědnosti;
 - **Při vyšší moci** → bez odpovědnosti.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Ústí nad Labem, pobočka Liberec* [29 Co 152/2024-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSUL:2024:29.Co.152.2024.66) — *zastavení výkonu rozhodnutí, smlouva o úschově, veřejná dražba, dražba*
+- *ObS pro Prahu 6* [27 C 462/2020-23](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH06:2021:27.C.462.2020.1) — *peněžité plnění*
+- *OS v Havlíčkově Brodě* [18 C 6/2023-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2023:18.C.6.2023.3) — *peněžité plnění, pozůstalost, smlouva o úschově*
+- *OS v Havlíčkově Brodě* [14 C 109/2022-38](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSHB:2022:14.C.109.2022.3) — *peněžité plnění, pozůstalost, smlouva o úschově*
+- *ObS pro Prahu 1* [14 C 141/2018-94](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2021:14.C.141.2018.1) — *bezdůvodné obohacení, peněžité plnění, podvod, smlouva kupní, smlouva zprostředkovatelská*
+
 ### § 2409—2414 — Skladování
 
 **§ 2409**:
@@ -422,6 +445,10 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - Vždy **úplatná**;
 - **Skladní list** (= cenný papír reprezentující skladované zboží);
 - Účet je typicky vázán na **logistický systém** (WMS).
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 4* [7 C 192/2023-185](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2024:7.C.192.2023.1) — *neplatnost právního jednání, podnájem, dlužné nájemné, notářský zápis, narovnání, znalec…*
 
 ---
 
@@ -666,6 +693,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [32 Cdo 2813/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9E317AA07BF40CC125851E001E863A?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 902/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF57759CDEF82C0C125843800236FFD?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
+- *NS* [33 Cdo 2887/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44A410737C1815F2C125837D0058B941?openDocument) — 26. 9. 2018
 
 ---
 
@@ -915,6 +943,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [25 Cdo 1174/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1D44EC32B82E70DC1258C350052B24C?openDocument) — *Náhrada nemajetkové újmy (o. z.) Znalecký posudek*
 - *NS* [25 Cdo 13/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A678142B5C004BAC1258A8A001B7B69?openDocument) — *Újma z porušení smluvní povinnosti Zdravotnictví*
 - *NS* [25 Cdo 577/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB47122F1588AF0CC12588C700193FAB?openDocument) — *Nemajetková újma (o. z.) Smlouva o péči o zdraví (o. z.) Náhrada škody*
+- *NS* [25 Cdo 486/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE9FCD1CAE55C230C125884900195A41?openDocument) — *Náhrada škody Smlouva o péči o zdraví (o. z.) Nemajetková újma (o. z.)*
+- *NS* [25 Cdo 2968/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1546F50D0D7B3C9C125840C001811DF?openDocument) — *Náhrada nemajetkové újmy (o. z.)*
 
 ### § 2648—2651 — Odpovědnost
 
@@ -950,6 +980,14 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - Zákon č. 48/1997 Sb. o veřejném zdravotním pojištění;
 - Etický kodex ČLK.
 
+**Judikatura (z místních zdrojů):**
+
+- *KS v Praze* [25 Co 137/2025-159](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPH:2025:25.Co.137.2025.1) — *smlouva o přepravě věci, smlouva mezinárodní, držba*
+- *MS v Praze* [28 Co 416/2024-287](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:28.Co.416.2024.287) — *smlouva o dílo, peněžité plnění*
+- *KS v Plzni* [11 CO 136/2022-399](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2023:11.Co.136.2022 .1) — *náhrada nemajetkové újmy, nemajetková újma, znalecký posudek*
+- *MS v Praze* [25 Co 50/2025-155](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:25.Co.50.2025.155) — *svědek, náhrada nákladů, vady řízení, následek, odvolání, náklady řízení, odměna opatrov…*
+- *OS ve Frýdku-Místku* [119 C 5/2024-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSFM:2025:119.C.5.2024.1) — *peněžité plnění*
+
 ---
 
 ## Smlouva o dílo (§ 2586—2635)
@@ -979,6 +1017,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D677CAD6CF58B08C125870900188AD4?openDocument) — *Přípustnost dovolání Smlouva o dílo Bezdůvodné obohacení*
 - *NS* [33 Cdo 1007/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C2DADE3F8363276C1258C7A004D2A83?openDocument) — *Smlouva o dílo Cena Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [33 Cdo 3444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83618E5842A222FFC1258C3D0052B3B0?openDocument) — *Smlouva o dílo Sleva z ceny*
+- *NS* [33 Cdo 1710/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E87319A47460AB6CC12588BB0017E39A?openDocument) — *Smlouva o dílo Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Přípustnost do…*
+- *NS* [23 Cdo 2696/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FDBCC48BB18109FC12588360017E224?openDocument) — *Smlouva o dílo Bezdůvodné obohacení*
 
 ### § 2587—2589 — Předmět díla
 
@@ -1053,6 +1093,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 3444/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12EC489A4821E90FC1258C6D004D22FF?openDocument) — *Smlouva o dílo Vady*
 - *NS* [23 Cdo 3360/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/749ABAF949E32CA5C1258AF4004C9A97?openDocument) — *Smlouva o dílo*
 - *NS* [33 Cdo 3444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83618E5842A222FFC1258C3D0052B3B0?openDocument) — *Smlouva o dílo Sleva z ceny*
+- *NS* [33 Cdo 2384/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D05557F7538E4E16C1258CD2004D3CFB?openDocument) — *Smlouva o dílo Přípustnost dovolání*
+- *NS* [28 Cdo 2952/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBC48FCC8841DB65C1258CBC004D3D52?openDocument) — *Smlouva o dílo Vady Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 
 ### § 2597—2606 — Provedení díla
 
@@ -1115,6 +1157,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 1007/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CE6D9F900905994C125883E0017D6C7?openDocument) — *Přípustnost dovolání Koncentrace řízení Dokazování Smlouva o dílo*
 - *NS* [33 Cdo 724/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2DF3ED99D7A5ABC9C12583750021F1F3?openDocument) — *Provedení prací a výkonů Smlouva o dílo*
 - *NS* [33 Cdo 1677/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3D79FE72A6958EFC1258C92004D08CF?openDocument) — *Smlouva o dílo Spotřebitel Vady*
+- *NS* [23 Cdo 197/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/171DB09923C95CC2C1258BA1004D3B5F?openDocument) — *Smlouva o dílo Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+- *NS* [33 Cdo 1260/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D8A25974AE0DBA7C125884900195A51?openDocument) — *Smlouva o dílo*
 
 ### § 2607—2620 — Předání a převzetí
 
@@ -1183,6 +1227,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — 13. 2. 2024
 - *NS* [23 Cdo 2153/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C125039D9968F03C1258D7D0052AAFD?openDocument) — *Smlouva o dílo*
 - *NS* [33 Cdo 2974/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A82650F4260E52DC1258D670052AF7A?openDocument) — *Přípustnost dovolání Znalecký posudek*
 - *NS* [23 Cdo 173/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/938996BEADBBDF82C1258CA8004D3A4E?openDocument) — *Přípustnost dovolání Dovolací důvody Smlouva o dílo*
@@ -1190,6 +1235,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 301/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7413400DF3F7B0D7C1258A91001B7C8F?openDocument) — *Smlouva o dílo*
 - *NS* [33 Cdo 2664/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B13DE045AB69551C12588AD0017E67C?openDocument) — *Přípustnost dovolání Smlouva o dílo*
 - *NS* [33 Cdo 3291/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B69F7FC1097D813C12588310017D68A?openDocument) — *Přípustnost dovolání Smlouva o dílo Cena*
+- *NS* [25 Cdo 3132/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F4813171589A2FC1258BE50052C41D?openDocument) — *Smlouva o dílo Přípustnost dovolání*
 
 ### § 2615—2635 — Vady díla
 
@@ -1295,6 +1341,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — 13. 2. 2024
 - *NS* [33 Cdo 2974/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A82650F4260E52DC1258D670052AF7A?openDocument) — *Přípustnost dovolání Znalecký posudek*
 - *NS* [33 Cdo 1605/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB35F874C139C017C1258D1B004D29D1?openDocument) — *Smlouva o dílo*
 - *NS* [23 Cdo 173/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/938996BEADBBDF82C1258CA8004D3A4E?openDocument) — *Přípustnost dovolání Dovolací důvody Smlouva o dílo*
@@ -1302,6 +1349,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [25 Cdo 590/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15492311685DA185C1258D770052C294?openDocument) — *Odpovědnost subjektivní Odpovědnost za vady Koncentrace řízení Dokazování*
 - *NS* [33 Cdo 3444/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12EC489A4821E90FC1258C6D004D22FF?openDocument) — *Smlouva o dílo Vady*
 - *NS* [25 Cdo 3132/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F4813171589A2FC1258BE50052C41D?openDocument) — *Smlouva o dílo Přípustnost dovolání*
+- *NS* [23 Cdo 3360/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/749ABAF949E32CA5C1258AF4004C9A97?openDocument) — *Smlouva o dílo*
 
 ---
 
@@ -1592,6 +1640,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 3283/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54B58CF6F809388CC12582DB003C585D?openDocument) — 29. 5. 2018
 - *NS* [33 Cdo 2348/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09C6806FEDE47CFEC1258BD20052AF1A?openDocument) — *Přerušení řízení Předběžná otázka Náhrada škody Smlouva o zájezdu (o. z.)*
 - *NS* [33 Cdo 3884/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9EDC31ACEABAC56C1258A2700161247?openDocument) — *Přípustnost dovolání Smlouva o zájezdu (o. z.) Odstupné*
+- *NS* [33 Cdo 115/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE6AF584E97C146DC12588660017B03B?openDocument) — *Smlouva o zájezdu (o. z.)*
+- *NS* [33 Cdo 1809/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CF7C88C2EA352B8C125876D0018A049?openDocument) — *Smlouva o zájezdu (o. z.)*
 
 ---
 

@@ -50,6 +50,11 @@ Závěrečná kapitola Části první OZ pokrývá tři vzájemně související
 
 **Pluralita právních skutečností**: některé právní následky vznikají z **kombinace jednání + události** (např. uznání závazku + uplynutí promlčecí lhůty = obnovení nároku § 653).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 1* [64 C 43/2018-64](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2020:64.C.43.2018.1) — *obnosové pojištění, peněžité plnění*
+- *OS v Přerově* [8 C 328/2021-31](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPR:2022:8.C.328.2021.1) — *jízdné, postoupení pohledávky*
+
 ---
 
 ## Význam času (§ 601—604)
@@ -170,6 +175,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [IV. ÚS 2026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2026-14_1) — 1. 10. 2014
+- *ÚS* [IV. ÚS 4868/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-4868-12_1) — 3. 4. 2014
 - *NS* [30 Cdo 3248/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43167E03586773C5C1258803001B7BD8?openDocument) — *Zadostiučinění (satisfakce) Promlčení Odpovědnost státu za nemajetkovou újmu [ Odpovědno…*
 - *NS* [25 Cdo 1582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/888A2D16F9875C82C1258A1A0016119B?openDocument) — *Promlčení Nemajetková újma (o. z.)*
 
@@ -219,6 +226,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [25 Cdo 3433/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E86A6E8CA71CD56C1258AF4004B45A7?openDocument) — *Náhrada škody Promlčení*
 - *NS* [28 Cdo 3041/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E584A25FDC00DF9C1258954001DEE42?openDocument) — *Bezdůvodné obohacení Promlčení Řízení u odvolacího soudu*
 - *NS* [21 Cdo 2724/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DD7E6D1F6B88ED3C1258697001DC4F4?openDocument) — *Pracovní úraz Ztížení společenského uplatnění Promlčení Lhůta promlčecí [ Lhůty ]*
+- *NS* [21 Cdo 1517/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61EB777E32D763BC1258A25001611C4?openDocument) — *Promlčení Náhrada škody Dokazování*
+- *NS* [33 Cdo 501/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBD2CFECBAA0B344C1258AF9004D03D0?openDocument) — *Promlčení Spotřebitel Rozhodce Rozhodčí řízení Exekuce Řízení před soudem*
 
 #### § 610 — Aplikace soudem, nemožnost vzdání
 
@@ -272,6 +281,7 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — *Služebnost (o. z.) Promlčení*
 - *NS* [25 Cdo 240/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51F9330AE74EED31C1258B01004D3144?openDocument) — *Promlčení Náhrada škody Náhrada za ztrátu na výdělku*
 - *NS* [31 Cdo 3125/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056B104128B86B03C12589EA003AC7E3?openDocument) — *Promlčení Smlouva příkazní Splatnost pohledávky*
+- *NS* [31 Cdo 3263/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F1A776D81C25769C1258C98004D4F70?openDocument) — 23. 4. 2025
 
 #### § 615—618 — Zástavní a zadržovací právo, započtení, výmaz
 
@@ -337,6 +347,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [33 Cdo 1704/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AFB9BCCA4297B3AC1258C1F0052955D?openDocument) — *Rozhodčí doložka Exekuční titul Rozhodce Bezdůvodné obohacení Promlčení Lhůta promlčecí…*
 - *NS* [27 Cdo 2357/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB5378F547087DABC1258C0800529D71?openDocument) — *Usnesení členské schůze (neplatnost) [ Družstvo ] Promlčení*
 - *NS* [33 Cdo 2807/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8588C9BB74F2276C1258B8E004D411A?openDocument) — *Přípustnost dovolání Promlčení Smlouva o úvěru*
+- *NS* [23 Cdo 2120/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E605FFB5F4F393FC1258A3C00160EF7?openDocument) — *Promlčení*
+- *NS* [22 Cdo 3169/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18748CAE47252C41C125871E00187799?openDocument) — *Promlčení*
 
 #### § 620—622 — Specifické počátky
 
@@ -363,6 +375,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [25 Cdo 3465/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/213EDF1EF54E4C9EC1258510001F0755?openDocument) — *Přípustnost dovolání Promlčení*
 - *NS* [20 Cdo 626/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70EAC5B9E1A8D2D7C1258D14004D3C35?openDocument) — *Zastavení exekuce Promlčení Započtení*
 - *NS* [33 Cdo 651/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/066C2BF676AF075AC1258C270052DC1B?openDocument) — *Promlčení Neplatnost smlouvy Přípustnost dovolání*
+- *NS* [27 Cdo 459/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E824E4490BA2FB8C1258C3D0052B38E?openDocument) — *Bezdůvodné obohacení Promlčení*
+- *NS* [25 Cdo 301/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2AEEC4E68E5BF20C1258C4200529E93?openDocument) — *Promlčení*
 
 #### § 623—628 — Specifické situace
 
@@ -403,6 +417,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [33 Cdo 950/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C18DB67C56EC32CFC1258910001E03F5?openDocument) — *Promlčení*
 - *NS* [25 Cdo 1233/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7245D0C4C13D43DC125872600189071?openDocument) — *Náhrada škody Pojištění odpovědnosti za škodu Promlčení*
 - *NS* [25 Cdo 2566/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/338726580BFA12C5C1258645001DC8A9?openDocument) — *Přípustnost dovolání Promlčení Pojištění odpovědnosti za škodu Náhrada škody*
+- *NS* [25 Cdo 3484/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFD7AE79855B82E0C12585CD00160568?openDocument) — *Pojištění odpovědnosti za škodu Promlčení Přípustnost dovolání*
+- *NS* [25 Cdo 4303/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF596F84BF2495BAC12585CD0019A601?openDocument) — *Pojištění odpovědnosti za škodu Promlčení*
 
 ### Pododdíl 3 — Délka promlčecí lhůty (§ 629—644)
 
@@ -430,6 +446,8 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 - *NS* [29 Cdo 1656/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC07DA5DC2853BC5C1258CFF004D3EA1?openDocument) — *Žaloba vylučovací (excindační) Bezdůvodné obohacení Promlčení Nájemné Konkurs*
 - *NS* [33 Cdo 383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3830874D045BD11EC1258C68004D1A29?openDocument) — *Zastavení exekuce Rozhodčí řízení Bezdůvodné obohacení Exekuční titul Promlčení*
 - *NS* [6 Tdo 607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B70369D9026E203BC1258BA2004D3B5F?openDocument) — *Náhrada škody Zkrácení daně, poplatku a podobné povinné platby*
+- *NS* [23 Cdo 1828/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93427FBCAE35B84BC1258B6D004D19A4?openDocument) — *Promlčení*
+- *NS* [25 Cdo 2685/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB2F244D1B6D4D41C1258684001E0EA0?openDocument) — *Přípustnost dovolání Promlčení*
 
 #### § 630 — Modifikace lhůty smluvně
 
@@ -453,6 +471,7 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [II. ÚS 3463/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3463-14_1) — 9. 12. 2014
 - *NS* [23 Cdo 2444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACDAADE3890F8FE0C1258AD6001B868E?openDocument) — *Promlčení*
 
 #### § 631—644 — Speciální lhůty
@@ -504,6 +523,8 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 - *NS* [20 Cdo 3231/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1D79A1A14787C59C1258C490052B021?openDocument) — *Promlčení Exekuce Neúčinnost právního jednání*
 - *NS* [6 Tdo 607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B70369D9026E203BC1258BA2004D3B5F?openDocument) — *Náhrada škody Zkrácení daně, poplatku a podobné povinné platby*
 - *NS* [28 Cdo 114/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCAC495696AC9D1DC1258B62004D1962?openDocument) — *Bezdůvodné obohacení Promlčení Dobré mravy*
+- *NS* [22 Cdo 3645/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/621F17E98AC3D57EC1258AE70052A5FC?openDocument) — *Přípustnost dovolání Věcná břemena*
+- *NS* [25 Cdo 3530/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9C0ACE36DB10CC8C1258AD6001B87A4?openDocument) — *Promlčení*
 
 ### Pododdíl 3 — Běh promlčecí lhůty (stavění a prodloužení) (§ 645—652)
 
@@ -573,6 +594,8 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 - *NS* [30 Cdo 3153/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3C208A5FF19B9AFC12589CB00182A05?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Přípustnost dovolání Náhrada šk…*
 - *NS* [30 Cdo 1776/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056323D1EF396DF9C12585F60014BFAB?openDocument) — *Odpovědnost státu za škodu Promlčení*
 - *NS* [29 Cdo 1774/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CBA497A11BC457CC12582B400306411?openDocument) — *Insolvenční návrh Insolvenční řízení Promlčení*
+- *NS* [27 Cdo 2246/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7ADE0D5CC40222B6C1258D4E0052BBCF?openDocument) — *Společnost s ručením omezeným Zastoupení Poplatky soudní Dobré mravy Promlčení Péče řádn…*
+- *NS* [29 ICdo 92/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6B73DF355679337CC125895B001E1323?openDocument) — 30. 11. 2022
 
 #### § 650—652 — Hrozba, vyšší moc, prodloužení po odpadnutí překážky
 
@@ -613,6 +636,14 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 - Při určení doby splnění: 10 let od posledního dne určené doby.
 
 Toto pravidlo umožňuje **revitalizaci spícího práva** — dlužník vědomě potvrdí dluh, věřitel získá nový titul.
+
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 7* [15 C 117/2022-101](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH07:2022:15.C.117.2022.1) — *cizina, nájem bytu, peněžité plnění, poplatek z prodlení, smlouva nájemní, zastavení exe…*
+- *OS Plzeň-město* [16 C 196/2019-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2021:16.C.196.2019.1) — *dlužné nájemné, smlouva nájemní*
+- *ObS pro Prahu 5* [42 C 439/2020-49](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH05:2021:42.C.439.2020.1) — *místní příslušnost, peněžité plnění, smlouva o dílo, uznání dluhu*
+- *OS v Liberci* [53 C 345/2017-500](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLI:2021:53.C.345.2017.1) — *právní domněnka, smlouva kupní, odvolání, koupě, rozhodčí nález, dokazování, svědek, vad…*
+- *KS v Ostravě* [16 CO 191/2022-153](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2022:16.Co.191.2022.1) — *smlouva kolektivní, uznání dluhu*
 
 ---
 

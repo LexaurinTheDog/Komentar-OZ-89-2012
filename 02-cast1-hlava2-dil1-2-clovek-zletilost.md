@@ -65,6 +65,10 @@ K takovému ujednání **se nepřihlíží** (§ 554 — zdánlivé právní jed
 
 **Omezení svéprávnosti** (§ 55—65) lze provést **jen rozhodnutím soudu**, nikoliv smlouvou — a to jen v rozsahu nezbytném, na omezenou dobu (max. 5 let, prodloužitelné) a se subsidiaritou podpůrných opatření (§ 38—54).
 
+**Judikatura (z místních zdrojů):**
+
+- *MS v Praze* [25 Co 354/2024-491](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2025:25.Co.354.2024.491) — *odbory, znalecký posudek, náhradní pozemek, věcná břemena, právní domněnka, pozemkový úř…*
+
 ---
 
 ### § 17 — Práva a povinnosti náleží jen osobám
@@ -106,6 +110,14 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 - **Územní samosprávné celky** (obec, kraj) — právnické osoby veřejného práva, jednají podle zákona o obcích / krajích.
 - **Svěřenský fond** — není právnická osoba (§ 1448 odst. 2: nemá právní osobnost; vlastníkem majetku je svěřenský správce); je to **oddělené jmění** spravované pro určitý účel.
 - **Pobočný spolek** — má vlastní právní osobnost odvozenou od hlavního spolku (§ 228 a násl.).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Jeseníku* [105 C 3/2017-307](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJE:2022:105.C.3.2017.1) — *bezdůvodné obohacení, pasivní legitimace, peněžité plnění, vydržení, znalecký posudek*
+- *OS ve Znojmě* [5 C 139/2018](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:5.C.139.2018.1) — *peněžité plnění, pozemkový úřad*
+- *MS v Praze* [23 Co 296/2024-128](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2024:23.Co.296.2024.128) — *odpovědnost státu za škodu, korporace, ušlý zisk*
+- *KS v Hradci Králové* [25 Co 110/2024-440](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2024:25.Co.110.2024.1) — *způsobilost procesní, znalecký posudek, podjatost*
+- *ObS pro Prahu 8* [24 C 135/2023-218](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH08:2025:24.C.135.2023.1) — *dokazování, obchodní rejstřík, koupě, oddělení ze spoluvlastnictví, nebytový prostor, ná…*
 
 ---
 
@@ -160,6 +172,14 @@ Pro PO veřejného práva platí podle § 20 odst. 2 zásada **subsidiarity OZ**
 - Obec uzavírá smlouvy podle OZ, ale jejich příprava se řídí zákonem o obcích (souhlas zastupitelstva atd.).
 
 § 20 odst. 1 věta druhá obsahuje **univerzální způsobilost právnické osoby** — PO může mít všechna práva a povinnosti slučitelná s její povahou, **bez ohledu na předmět činnosti**. To je opak teorie *ultra vires* (která omezovala PO jen na práva spjatá s předmětem činnosti). Pro praxi to znamená, že akt PO **mimo předmět činnosti není automaticky neplatný**.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS v Berouně* [13 C 59/2022-20](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSBR:2022:13.C.59.2022.1) — 12. 4. 2022
+- *MS v Praze* [62 CO 67/2022-319](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSPH:2022:62.Co.67.2022.1) — *peněžité plnění, podvod, promlčení, smlouva kupní, uznání dluhu*
+- *VS v Praze* [14 Cmo 259/2021-66](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2022:14.Cmo.259.2021.1) — 24. 3. 2022
+- *VS v Praze* [19 Cmo 39/2023-33](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2024:19.Cmo.39.2023.1) — 12. 1. 2024
+- *ObS pro Prahu 1* [26 C 164/2020-160](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH01:2022:26.C.164.2020.1) — *hospodářská soutěž, monopolní postavení, peněžité plnění, podjatost, rozhodčí doložka, r…*
 
 ---
 
@@ -220,6 +240,7 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [III. ÚS 2264/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2264-13_1) — 27. 3. 2014
 - *NS* [29 ICdo 90/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97B7883A1BE00683C1258CE7004D3389?openDocument) — *Insolvenční řízení Právní jednání (o. z.) Zvýhodňování věřitele Přípustnost dovolání Poh…*
 - *NS* [29 ICdo 39/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42FC4DB2E20180A9C1258C6F004D21BA?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Akciová společnost Společnost s ručením o…*
 - *NS* [29 ICdo 81/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65F9B9F9D73301DFC1258C7C004D5DE7?openDocument) — *Incidenční spory (žaloba odpůrčí) Osoba blízká Poučovací povinnost soudu*
@@ -227,6 +248,7 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 - *NS* [29 ICdo 136/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9A35694390206130C1258BC50052974B?openDocument) — *Rozsudek pro uznání Incidenční spory (žaloba odpůrčí) Osoba blízká Dokazování Ovládání*
 - *NS* [29 ICdo 157/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79A6B71A853614A9C1258BCE0052AEB1?openDocument) — *Incidenční spory (žaloba odpůrčí) Úmysl Dokazování*
 - *NS* [29 ICdo 8/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/967684726585F662C1258B07004D37B0?openDocument) — *Insolvence Odporovatelnost Neúčinnost právního jednání Osoba blízká*
+- *NS* [29 ICdo 29/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AF3912FD0ECBA79C1258914001F17DA?openDocument) — *Incidenční spory (žaloba odpůrčí) Započtení pohledávky*
 
 ---
 
@@ -255,6 +277,7 @@ Právní osobnost je **automatická a nedělitelná** — vzniká samým narozen
 - *NS* [27 Cdo 4102/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC72AD42C6971235C125861E0041D8EC?openDocument) — *Podmínky řízení Lhůty Bytové družstvo*
 - *NS* [30 Cdo 207/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFD1957AC494B00C125871000189D4A?openDocument) — *Způsobilost být účastníkem řízení Podmínky řízení Právní nástupnictví Zastavení řízení*
 - *NS* [27 Cdo 697/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAE5B4ABD4054F38C12586CA001843FB?openDocument) — *Žaloba pro zmatečnost Doručování Způsobilost být účastníkem řízení*
+- *NS* [25 Cdo 2258/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06264873FDB498FFC1258D460052E0F7?openDocument) — *Zastoupení Dědění Náhrada nemajetkové újmy (o. z.)*
 
 ---
 
@@ -281,6 +304,14 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 - § 2918—2920 (odpovědnost nezletilého a osoby s duševní poruchou);
 - § 2906 (nutná obrana — bez nutné obrany dotčená osoba nese odpovědnost).
 
+**Judikatura (z místních zdrojů):**
+
+- *OS ve Žďáru nad Sázavou* [7 C 18/2022-27](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZR:2022:7.C.18.2022.1) — *duševní porucha, jízdné, peněžité plnění, postoupení pohledávky*
+- *OS v České Lípě* [10 C 422/2022-32](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCL:2023:10.C.422.2022.2) — *peněžité plnění, telekomunikace*
+- *VS v Praze* [9 Cmo 150/2022-0](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2023:9.Cmo.150.2022.0) — 24. 1. 2023
+- *OS v Mostě* [22 C 3/2022-25](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2022:22.C.3.2022.1) — *dodávky energie, peněžité plnění, postoupení pohledávky, znalecký posudek*
+- *KS v Ostravě, pobočka Olomouc* [69 Co 245/2025-188](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSOS:2026:69.Co.245.2025.188) — *náhrada nákladů, dokazování, lhůty, náklady řízení, smlouva darovací, odvolání*
+
 ---
 
 ### § 25 — Nasciturus (počaté dítě)
@@ -300,6 +331,14 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 **Vyvratitelná domněnka živého narození** (věta druhá) — pokud existují pochybnosti, předpokládá se, že dítě se narodilo živé (důkazní břemeno mrtvonarození nese ten, kdo z toho profituje, typicky pojišťovna).
 
 **Mrtvonarození** (věta třetí) — pokud se dítě nenarodí živé, hledí se na ně, jako by nikdy nebylo. To znamená retroaktivní zrušení všech práv, která by mu mezitím vznikla; dědictví připadne dalšímu zákonnému dědici, jako by nasciturus nikdy neexistoval.
+
+**Judikatura (z místních zdrojů):**
+
+- *KS v Hradci Králové* [26 CO 79/2022-363](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2022:26.Co.79.2022.1) — *družstevní byt, dlužné platby spojené s užíváním bytu, peněžité plnění, poplatek z prodl…*
+- *OS v Mostě* [46 C 80/2020-100](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSMO:2021:46.C.80.2020.6) — *bezdůvodné obohacení, duševní porucha, peněžité plnění, postoupení pohledávky, smlouva o…*
+- *OS v Novém Jičíně* [7 C 83/2024-7](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:7.C.83.2024.1) — *veřejný rejstřík, zastavení řízení*
+- *OS v Novém Jičíně* [14 C 81/2024-2](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:14.C.81.2024.1) — *veřejný rejstřík, zastavení řízení*
+- *OS v Novém Jičíně* [14 C 50/2024-45](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSNJ:2024:14.C.50.2024.1) — *veřejný rejstřík, zastavení řízení*
 
 ---
 
@@ -325,6 +364,13 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 **Návaznost — § 71—79 nezvěstnost a prohlášení za mrtvého**: tato úprava se použije, když je člověk **nezvěstný** (nezná se místo pobytu), nikoliv pokud je smrt jistá. § 71—79 stanoví **lhůty** (7 let nezvěstnosti, 3 roky u osob nad 80 let, kratší lhůty při určitých okolnostech).
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 2* [28 C 53/2022-53](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH02:2023:28.C.53.2022.4) — *nemajetková újma, peněžité plnění, zadostiučinění / satisfakce*
+- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.300.2019.1) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
+- *OS v Litoměřicích* [7 C 31/2025-69](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSLT:2025:7.C.31.2025.1) — *smlouva o dílo*
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
+
 ---
 
 ### § 27 — Současné úmrtí
@@ -342,6 +388,10 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí na základě postmortálních změn, černá skříňka letadla — záznam doby smrti).
 
+**Judikatura (z místních zdrojů):**
+
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
+
 ---
 
 ### § 28 — Místo úmrtí
@@ -355,6 +405,12 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - **Místní příslušnost soudu** v řízení o pozůstalosti (§ 88 ZŘS — místně příslušný okresní soud, v jehož obvodu měl zůstavitel v době smrti evidovaný pobyt; pokud takový soud nelze určit, použije se § 28 OZ);
 - **Místně příslušná matrika** pro zápis úmrtí (zákon č. 301/2000 Sb. o matrikách);
 - **Volební seznamy** — vyškrtnutí ze seznamu.
+
+**Judikatura (z místních zdrojů):**
+
+- *VS v Praze* [12 Cmo 183/2024-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:VSPH:2025:12.Cmo.183.2024.1) — 28. 1. 2025
+- *OS ve Znojmě* [12 C 300/2019-58](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSZN:2020:12.C.300.2019.1) — *bezdůvodné obohacení, neplatnost právního úkonu, omezení svéprávnosti, pasivní legitimac…*
+- *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/?q=ECLI:CZ:MSBR:2023:16.C.171.2021.1) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
 
 ---
 
@@ -380,6 +436,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - Zákon č. 301/2000 Sb. o matrikách (§ 17a a násl. — změna jména po změně pohlaví — zjednodušený postup);
 - ÚS Pl. ÚS 7/22 — sterilizační požadavek protiústavní.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl. ÚS 52/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-52-23_1) — 24. 4. 2024
+
 ---
 
 ### § 30 — Zletilost
@@ -398,6 +458,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 | **Uzavření manželství** | Věk ≥ 16, povolení soudu (§ 672 OZ) | Řízení o povolení uzavřít manželství (§ 367 ZŘS) |
 
 **Klíčové: ireverzibilita svéprávnosti nabyté manželstvím** — i po rozvodu, anulaci nebo úmrtí druhého manžela zůstává nezletilý plně svéprávný. To je důležité, aby se zabránilo „skoku zpět" do nezletilosti, který by byl právně chaotický.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I. ÚS 1041/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1041-14_1) — 4. 12. 2014
 
 ---
 
@@ -455,6 +519,12 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - Vůči **třetí osobě v dobré víře** stačí souhlas jednoho zástupce (chrání obchodní styk).
 - Pokud třetí osoba **věděla**, že si zástupci odporují, vyžaduje se konsenzus obou.
 
+**Judikatura (z místních zdrojů):**
+
+- *ObS pro Prahu 4* [30 C 77/2020-82](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPH04:2021:30.C.77.2020.1) — *peněžité plnění*
+- *OS Praha-východ* [22 C 201/2023-88](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPY:2024:22.C.201.2023.88) — *pozůstalost, započtení pohledávky, správce pozůstalosti, bezdůvodné obohacení*
+- *OS v Chomutově* [28 C 268/2021-51](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSCV:2022:28.C.268.2021.1) — *peněžité plnění, smlouva o výpůjčce*
+
 ---
 
 ### § 33 — Souhlas k samostatnému provozování závodu
@@ -478,6 +548,10 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 - Souhlas je **odvolatelný jen s přivolením soudu** (odst. 3) — chrání nezletilého před libovolným odvoláním souhlasu zákonným zástupcem (typicky v případě rodinného konfliktu).
 
 **Příklad:** 16letý nezletilý chce provozovat e-shop. Rodič dá souhlas, soud schválí. Nezletilý získá živnostenský list, vystavuje faktury, podává daňové přiznání. Pokud později rodič chce souhlas odvolat (např. proto, že podnikání podle něj brání školní docházce), musí podat návrh soudu, který posoudí, zda je odvolání v zájmu nezletilého.
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Praha-západ* [16 C 287/2015](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPZ:2020:16.C.287.2015.1) — *obchodní podíl, peněžité plnění, ručení, znalecký posudek*
 
 ---
 
@@ -511,6 +585,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [I. ÚS 626/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-626-14_1) — 26. 6. 2014
 - *NS* [26 Cdo 1892/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AE5AE0C4B0AE721C1257F1D002B36B5?openDocument) — *Dovolání Exekuce Výklad projevu vůle*
 
 ---
@@ -535,6 +610,14 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 § 36 odst. 2 zavádí mechanismus **odložené účinnosti**: nezletilý uzavře smlouvu, ale účinky nastanou až schválením zákonného zástupce (default lhůta 2 týdny od vyžádání). Tento mechanismus chrání druhou stranu — vyzve zákonného zástupce, ten do 2 týdnů odpoví; pokud neodpoví, mlčení se vykládá jako odmítnutí.
 
 **Výjimky** (věta poslední): netýká se právních jednání **osobní povahy** (např. souhlas s lékařským zákrokem — § 95) a jednání podle § 33 (provozování závodu se souhlasem soudu).
+
+**Judikatura (z místních zdrojů):**
+
+- *OS Plzeň-město* [35 C 31/2011-865](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSPM:2023:35.C.31.2011.1) — *dotace, neplatnost právního úkonu, odstoupení od smlouvy, peněžité plnění, rozsudek mezi…*
+- *KS v Hradci Králové* [47 Co 191/2024-109](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSHK:2025:47.Co.191.2024.1) — *odstupné, odstoupení od smlouvy*
+- *OS v Rychnově nad Kněžnou* [10 C 96/2023-39](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSRK:2023:10.C.96.2023.1) — *peněžité plnění, smlouva darovací, věcná břemena, vrácení daru*
+- *OS v Jičíně* [5 C 144/2022-60](https://rozhodnuti.justice.cz/?q=ECLI:CZ:OSJC:2022:5.C.144.2022.1) — *peněžité plnění*
+- *KS v Plzni* [10 Co 850/2024-150](https://rozhodnuti.justice.cz/?q=ECLI:CZ:KSPL:2024:10.Co.850.2024.1) — *bolestné, prohlášení o majetku, pracovní způsobilost, majetková újma, nemajetková újma,…*
 
 ---
 
@@ -574,6 +657,8 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 
 **Judikatura (z místních zdrojů):**
 
+- *ÚS* [I. ÚS 1467/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1467-14_1) — 9. 9. 2014
+- *ÚS* [II. ÚS 160/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-160-13_1) — 5. 2. 2014
 - *NS* [28 Cdo 2884/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78A685C0FB550838C1257A4E0066D834?openDocument) — *Právní úkony Převod nemovitostí Převod vlastnictví Zemědělské družstvo*
 
 ---
