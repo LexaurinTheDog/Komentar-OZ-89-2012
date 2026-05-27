@@ -480,6 +480,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 132/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB350F8D18F6F6F8C1258903001DC089?openDocument) — *Likvidace dědictví Majetková podstata Žaloba vylučovací (excindační) Příkaz k výplatě z…*
+  > „Za takto zanikající zůstavitelův příkaz, resp. jednání, které by mělo pokračovat i po jeho smrti, lze považovat i „příkaz“ zůstavitele, jako majitele účtu, vyplývající z ustanovení § 2666 o. z. Toto ustanovení je součástí právní úpravy závazků ze smlouvy o účtu (§ 2662 a násl. o."
 - *NS* [22 Cdo 1036/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38ACB1BAE3D46F22C125863E001DB01F?openDocument) — *Smlouva příkazní Smlouva o účtu (o. z.)*
   > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zák. č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [22 Cdo 1170/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7AB67D4D330BC1258693001E1B85?openDocument) — *Zastoupení Spoluvlastnictví Správa (správce) společné věci (o. z.) Smlouva o běžném účtu*
@@ -672,6 +673,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 2113/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/122744ABCCA41060C12588670017CD6D?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
   > „Po právní stránce odvolací soud dovodil, že účastníci uzavřeli ústní smlouvu o zprostředkování dle § 2445 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), na základě které žalobkyně pro žalovaného vyhledala zájemce o koupi jeho nemovitostí v katastrálním území XY, s nímž žalovaný dne 23."
 - *NS* [33 Cdo 902/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF57759CDEF82C0C125843800236FFD?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
+  > „V dovolání formuluje následující otázky: 1) zda zakládá uzavření písemné smlouvy mezi zprostředkovatelem, zájemcem o zprostředkování a stranou kupující, v níž je výslovně uvedeno, …"
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
   > „Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jehož přípustnost spatřuje v tom, že rozhodnutí odvolacího soudu spočívá na vyřešení otázky hmotného práva, která nebyla dosud v rozhodování dovolacího soudu vyřešena, konkrétně na výkladu ustanovení § 2445 a násl. o.z., resp."
 
@@ -725,6 +727,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „2018 kupní smlouvu uzavřel, žalovaný však nesplnil svůj závazek uhradit žalobkyni sjednanou odměnu (§ 2447 o. z.)."
 - *NS* [32 Cdo 2813/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9E317AA07BF40CC125851E001E863A?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 902/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF57759CDEF82C0C125843800236FFD?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
+  > „V dovolání formuluje následující otázky: 1) zda zakládá uzavření písemné smlouvy mezi zprostředkovatelem, zájemcem o zprostředkování a stranou kupující, v níž je výslovně uvedeno, …"
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
   > „Podle § 2447 odst. 2 o.z., bylo-li ujednáno, že zprostředkovatel pro zájemce obstará příležitost uzavřít s třetí osobou smlouvu s určitým obsahem, je provize splatná již obstaráním příležitosti."
 - *NS* [33 Cdo 2887/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44A410737C1815F2C125837D0058B941?openDocument) — 26. 9. 2018

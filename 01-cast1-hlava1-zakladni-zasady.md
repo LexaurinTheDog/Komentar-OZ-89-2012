@@ -179,6 +179,7 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
   > „Odvolací soud neshledal za důvodnou ani námitku stěžovatelky, že jednání původního žalobce bylo v rozporu s dobrými mravy podle § 3 o."
 - *NS* [25 Cdo 1019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43CC7C0402FC53F6C1258C4500529BBF?openDocument) — *Předběžná otázka Dobré mravy*
 - *NS* [26 Cdo 1171/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D103CB1BD0054F01C125876C00189DD2?openDocument) — *Ochrana vlastnictví Promlčení Dobré mravy*
+  > „2018, sp. zn. 26 Cdo 5278/2017), že právo na náhradu se promlčuje v obecné tříleté době podle § 101 obč. zák., která počíná dnem omezení vlastnického práva; případná aplikace ustanovení § 3 odst. 1 obč. zák. tím není vyloučena."
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
   > „Odkázal na § 3 odst. 2 písm. a) a § 81 odst. 1 o. z. a na § 28 odst. 1, 2 a 3 písm. a), § 31 a § 34 odst. 1 a 3 zákona č."
 

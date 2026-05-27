@@ -219,6 +219,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 1377/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/223D4D9E5338D1EAC1258D630052EAFE?openDocument) — *Nájemné*
   > „Nejvyšší soud se ve svých rozhodnutích při výkladu § 2221 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, přihlásil k dřívější ustálené soudní praxi ohledně výkladu obsahově shodného § 680 odst. 2 zákona č. 40/1964, občanský zákoník ve znění do 31."
 - *NS* [26 Cdo 1139/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D140FBB21690ADCC1258B6F004D1980?openDocument) — *Nájem pozemku Vyklizení nemovitosti*
+  > „K soudní praxi ohledně výkladu § 680 odst. 2 obč. zák. se Nejvyšší soud přihlásil i při výkladu § 2221 o. z. (srovnej např. rozsudek Nejvyššího soudu ze dne 8."
 - *NS* [26 Cdo 1534/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/822667F8B27B9EEFC12589A9001803A7?openDocument) — *Nájem domu (o. z.)*
   > „Právní mocí rozsudku, který rozhodl o propadnutí majetku L. S. státu, žalobkyně jednak nabyla do svého vlastnictví jeho spoluvlastnický podíl k Nemovitostem a jednak v souladu s § 2221 o. z. ve spojení s § 41 odst. 1 zákona č. 219/2000 Sb."
 - *NS* [26 Cdo 2176/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFD130DA50818362C125866F001DE47D?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*

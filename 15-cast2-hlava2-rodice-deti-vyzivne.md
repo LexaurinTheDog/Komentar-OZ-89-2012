@@ -40,6 +40,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 - *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
   > „Smyslem a účelem souhrnu práv a povinností, jež tvoří obsah institutu rodičovské zodpovědnosti (§ 31 zákona o rodině, resp. rodičovské odpovědnosti dle § 858 o. z.) je zabezpečení výchovy dítěte v nejširším slova smyslu, tj. morálního a hmotného prospěchu dítěte (§ 855 o."
 - *NS* [8 Tdo 1003/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CAEB178FEBBB3BAC125866E001FEE50?openDocument) — 22. 10. 2020
+  > „Podle § 855 odst. 2 obč. zák. účelem povinností a práv k dítěti je zajištění morálního a hmotného prospěchu dítěte."
 
 ### § 856 — Časový rozsah
 
@@ -715,6 +716,7 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2412/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2412-15_1) — usnesení, 3. 11. 2015
+  > „2014 ustanovení § 923, § 911, § 913, § 914 a § 915 obč. zák. aplikovaly."
 - *ÚS* [II. ÚS 2877/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2877-14_1) — usnesení, 20. 10. 2015
 - *ÚS* [I. ÚS 30/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-30-15_1) — usnesení, 15. 7. 2015
 - *ÚS* [II. ÚS 3628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3628-14_1) — usnesení, 24. 3. 2015

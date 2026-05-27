@@ -59,6 +59,7 @@ Hlava III pokrývá:
 - *NS* [33 Cdo 3430/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8472A5B38002189FC12588CA0017DEB3?openDocument) — *Dovolací důvody Zastoupení*
   > „2015, sp. zn. 23 Cdo 4450/2014).“ Odvolací soud se náležitě vypořádal s otázkou přímého zastoupení žalobce (§ 436 o. z.) a rozhodl v souladu s výše označenou judikaturou Nejvyššího soudu."
 - *NS* [20 Cdo 3298/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F83D45C7546EC636C12583780058C3A6?openDocument) — *Plná moc Postoupení pohledávky Zastoupení Exekuce*
+  > „Vzhledem k tomu, že plná moc byla udělena dne 17. února 2016, je třeba její platnost posuzovat podle o. z. a nikoli (jak učinil odvolací soud) dle obč. zák. Podle ustanovení § 436 o. z. kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem; ze zastoupení vznikají práva a povinnosti přímo zastoupenému."
 - *NS* [27 Cdo 1977/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9D1F352D527B8AFC1258C8F004D374B?openDocument) — *Smluvní zastoupení (o. z.) Plná moc Odvolání*
   > „[38] Občanský zákoník vychází z tzv. teorie reprezentace; právně jedná (projevuje vůli) zástupce, a to s účinky pro zastoupeného (§ 436 odst. 1 o. z.)."
 - *NS* [26 Cdo 1051/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21508ED652A275D1C12585510018A2D3?openDocument) — *Společenství vlastníků jednotek Zastoupení*

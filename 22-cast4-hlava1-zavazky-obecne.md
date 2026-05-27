@@ -47,6 +47,7 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 - *NS* [21 Cdo 2061/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3309C001284EF5AC1258848002C0F1E?openDocument) — *Právní jednání (o. z.) Pracovněprávní vztahy*
   > „Na postup při uzavírání pracovněprávních smluv se tak užijí pravidla obsažená v zákoně č. 89/2012 Sb., občanský zákoník, zejména potom ustanovení části první, hlavy V., § 545 a násl. a části čtvrté, hlavy I., § 1721 a násl. Smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [33 Cdo 156/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D8E45712CFF60F0C12584CF001E5670?openDocument) — *Započtení pohledávky Přechodná (intertemporální) ustanovení*
+  > „§ 488 obč. zák. a § 1721 o. z.) vznikla (jehož je součástí)."
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
   > „Uvedená definice, jak vyplývá i z důvodové zprávy k zákonu č. 89/2012 Sb., občanskému zákoníku, nebyla zcela přesná, neboť poněkud směšovala pojmový obsah slov dlužník, věřitel, právo, povinnost, pohledávka, dluh, závazek, smlouva; nová, obsahově totožná, definice v ustanovení § 1721 o. z."
 - *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*

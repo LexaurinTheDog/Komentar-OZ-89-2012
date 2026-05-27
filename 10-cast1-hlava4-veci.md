@@ -611,6 +611,7 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
   > „Podle § 506 odst. 1 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
 - *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
+  > „Stavba, která není věcí podle § 119 obč. zák., resp. nyní podle výjimek ze superficiální zásady (zejména § 506 odst. 1, § 509, § 3054 a násl. o. z.), je zpravidla součástí pozemku (k tomu srovnej např. rozsudek Nejvyššího soudu ze dne 28."
 - *NS* [22 Cdo 2851/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CAF3371B6CB4BD78C125815D003C5F4B?openDocument) — *Přestavek (o. z.) Vydržení*
   > „Podle § 506 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
 
@@ -679,6 +680,7 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - *NS* [25 Cdo 627/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/126A7543608D8BC8C12589BC0019A49D?openDocument) — *Věc Škoda na nemovité věci (o. z.)*
   > „Smyslem a účelem § 509 o. z. je pak vymezit podmnožinu tzv. superaedifikátů, kterou tvoří liniové stavby a jiné předměty, jež ze své povahy zasahují více pozemků (dříve šlo pouze o inženýrské sítě)."
 - *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
+  > „Stavba, která není věcí podle § 119 obč. zák., resp. nyní podle výjimek ze superficiální zásady (zejména § 506 odst. 1, § 509, § 3054 a násl. o. z.), je zpravidla součástí pozemku (k tomu srovnej např. rozsudek Nejvyššího soudu ze dne 28."
 - *NS* [25 Cdo 3086/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4355EF71F2C805DC1258D770052C279?openDocument) — *Poučovací povinnost soudu Věc Škoda z provozní činnosti Škoda na nemovité věci (o. z.) S…*
   > „Po právní stránce soud posoudil poškozený kabel jako samostatnou nemovitou věc, neboť jde o liniovou stavbu (§ 509 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“)."
 

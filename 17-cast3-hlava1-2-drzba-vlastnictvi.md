@@ -497,6 +497,7 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
   > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
 - *NS* [22 Cdo 808/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/547D7379D24101F0C1258CEB004D255F?openDocument) — *Přípustnost dovolání*
 - *NS* [22 Cdo 2974/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/449A145F56694715C1258C3C00529BB9?openDocument) — *Imise*
+  > „Ustanovení § 127 odst. 1 obč. zák. ohledně imisí (obtěžování sousedů hlukem, prachem, popílkem, kouřem, plyny, parami, pachy, pevnými a tekutými odpady, světlem, stíněním a vibracemi, jakož i vnikáním chovaných zvířat na sousedící pozemek) se totiž – přes odlišné slovní vyjádření – obsahově neliší od § 1013 odst. 1 o. z."
 - *NS* [22 Cdo 2084/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417A30BC18109522C1258C3B0052B31E?openDocument) — *Imise Sousedská práva*
   > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
 

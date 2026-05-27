@@ -162,6 +162,7 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
 - *NS* [24 Cdo 1282/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FB1E75D8645E13CC125849F0018549A?openDocument) — *Přípustnost dovolání Opatrovník*
   > „Nadto vytýká-li dovolatel odvolacímu soudu nesprávnou aplikaci ustanovení § 80 odst. 2 věta druhá zákona č. 89/2012 Sb., občanský zákoník (dále jen o."
 - *NS* [24 Cdo 3717/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC85F090349EEC4BC1258AE4001B87E1?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Byd…*
+  > „Dovolatelka se mýlí, pokud tvrdí, že se odvolací soud odchýlil od ustálené rozhodovací praxe Nejvyššího soudu, v níž se podává, že podle § 471 odst. 3 o. z. způsobilost být veřejným opatrovníkem má obec, kde má opatrovanec bydliště, přičemž podle § 80 odst. 1 věty první o. z."
 - *NS* [24 Cdo 1140/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A90C7D0858EE63ADC1258A0600160F5F?openDocument) — *Přípustnost dovolání Opatrovník Bydliště (o. z.)*
   > „Podle ustanovení § 80 o. z. člověk má bydliště v místě, kde se zdržuje s úmyslem žít tam s výhradou změny okolností trvale; takový úmysl může vyplývat z jeho prohlášení nebo z okolností případu."
 - *NS* [24 Cdo 2747/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FBB3FABE17742F5C12587C1001E88BD?openDocument) — *Svéprávnost (o. z.) Bydliště (o. z.) Opatrovník*

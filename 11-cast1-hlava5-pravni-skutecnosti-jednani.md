@@ -461,9 +461,11 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 - *NS* [33 Cdo 340/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19D11DA59641402EC1258C92004D0957?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Přev…*
   > „Dospěl k závěru, že z § 560 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“ nebo „občanský zákoník“), přímo vyplývá závěr, že má-li být předmětem budoucí koupě nemovitá věc, musí mít i smlouva o budoucí kupní smlouvě písemnou formu."
 - *NS* [24 Cdo 2779/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08FF091038562E4EC12586AE00185019?openDocument) — *Převodní smlouva Vlastnictví Smlouva kupní Neplatnost právního jednání (o. z.)*
+  > „Neuplatní-li se totiž sjednaný režim pro uzavírání smlouvy ve smyslu § 1770 o. z. a jde-li o uzavírání smlouvy o převodu nemovitostí, pak s přihlédnutím k § 560 a 561 odst. 1 o. z., je třeba posuzovat přijetí nabídky ve smyslu § 1740 o."
 - *NS* [33 Cdo 72/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B8BC9F16F660F4C12588A60017EA18?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Věcn…*
   > „Podle § 560 o. z. písemnou formu vyžaduje právní jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, jakož i právní jednání, kterým se takové právo mění nebo ruší."
 - *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
+  > „Neuplatní-li se totiž sjednaný režim pro uzavírání smlouvy ve smyslu § 1770 o. z. a jde-li o uzavírání smlouvy o převodu nemovitostí, pak s přihlédnutím k § 560 a § 561 odst. 1 o. z., je třeba posuzovat přijetí nabídky ve smyslu § 1740 o."
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
   > „Dovodil, že neexistuje plná moc, která by opravňovala B. uzavřít smlouvu o spolupráci se žalobkyní, přičemž by se muselo jednat o písemnou plnou moc, jak vyžaduje § 560 a § 2128 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 
@@ -940,6 +942,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [5 Tz 17/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E5E650DE0F9B530C1258BBD004D3351?openDocument) — *Ochranná opatření Stížnost pro porušení zákona Vrácení, vydání a další nakládání s věcmi…*
   > „Ochranná opatření § 101 odst. 1, 2 tr. zákoníku, § 230 odst. 1 tr. ř. I. Ochranné opatření zabrání věci podle § 101 odst. 1 nebo 2 tr. zákoníku lze uložit osobě odlišné od pachatele (zúčastněné osobě) jedině na návrh státního zástupce (viz rozhodnutí č. 26/2024 Sb. rozh. tr.)."
 - *NS* [3 Tdo 1161/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D46AF0C0712073F6C1258AF4004B44E7?openDocument) — *Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru*
+  > „3) § 586 odst. 1 obč. zák. - Je-li neplatnost právního jednání stanovena na ochranu zájmu určité osoby, může vznést námitku neplatnosti jen tato osoba."
 - *NS* [21 Cdo 886/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2088FCD8EE49D757C1258ADF001B86EF?openDocument) — *Neplatnost právního jednání (o. z.) Bezprávná výhrůžka Přípustnost dovolání Dovolací dův…*
 
 ---
