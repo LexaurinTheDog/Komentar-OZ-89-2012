@@ -100,13 +100,21 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1602/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/816A65532AA3ACE4C1258B6F004D1989?openDocument) — *Přípustnost dovolání Jednatel Společník*
+  > „Pouze z principu loajality pak nelze dovozovat, že žalovaný jako společník byl ve smyslu § 212 odst. 1 o. z. bez dalšího povinen upřednostnit při jednání se společností její zájem před svým vlastním zájmem věřitele společnosti."
 - *NS* [27 Cdo 1306/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C6A9424785554F0C1258AAE001B7EA0?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Rozhodnutí o rozdělení zisku [ Zis…*
+  > „[32] Podle § 212 odst. 2 o. z. zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet."
 - *NS* [27 Cdo 2414/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6404D90C5680D160C1258A74001B84E0?openDocument) — *Přípustnost dovolání Spolek (o. z.)*
+  > „[8] Dovolání nečiní přípustným ani otázka výkladu § 212 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), neboť na jejím posouzení napadené rozhodnutí nespočívá (srov."
 - *NS* [27 Cdo 1753/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F507B2C1F3EF0DBC1258C9D004D3C44?openDocument) — *Kvalifikovaný akcionář [ Akcionář ] Akciová společnost Zneužívání výkonu práv a povinnos…*
+  > „Podáním akcionářské žaloby tak žalovaný zvolil zcela neadekvátní a nákladný prostředek „k ochraně svých akcionářských práv, a to konkrétně práva na informace“, čímž postupoval nehospodárně a v rozporu s principem korporační loajality ve smyslu § 212 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), zneužil svých práv akcionáře."
 - *NS* [27 Cdo 698/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE6DBB8E94271008C1258C62004D3181?openDocument) — *Zájmové sdružení právnických osob Usnesení valné hromady (neplatnost) Korporační loajali…*
+  > „[8] Dovolání nečiní přípustným otázka, zda „je či není znevýhodnění určitých členů zájmového sdružení právnických osob, tj. omezení množství hlasů určitých členů na valném shromáždění na maximálně 5 %, bezdůvodné ve smyslu § 212 o. z.“ [9] Odvolací soud v souladu s ustálenou judikaturou (viz např. usnesení Nejvyššího soudu ze dne 26."
 - *NS* [26 Cdo 3887/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B572D8F561121D6C1258C0800529D58?openDocument) — *Přípustnost dovolání Společenství vlastníků jednotek*
+  > „2020, sp. zn. 27 Cdo 2613/2018) odvolací soud také vyložil a aplikoval § 212 odst. 1 o. z. upravující princip korporační loajality."
 - *NS* [26 Cdo 751/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CB3F5AAFDEBAB23C12585D50015FAE4?openDocument) — *Společenství vlastníků jednotek Spojení věcí ke společnému řízení*
+  > „Podle § 212 odst. 2 o. z. zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet."
 - *NS* [27 Cdo 3439/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E8EE0DEDE1D37D1C1258340002CD572?openDocument) — *Akciová společnost Valná hromada Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
+  > „Jednalo se tak o pouhé „vyjádření nepřijetí“ návrhu usnesení. Konečně případné vyslovení neplatnosti usnesení valné hromady o neodvolání člena představenstva by na výkon jeho funkce nemělo žádný vliv, doplnil soud prvního stupně a konstatoval, že navrhovatel má k dispozici jiné možnosti obrany, např."
 
 ### § 213 — Derivativní žaloba
 
@@ -455,6 +463,7 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 - *NS* [29 Cdo 3476/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C37D3314B3DE5FACC1258327003C9B69?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Odvolání Příslušnost soudu věcná Právnická osoba*
 - *NS* [27 Cdo 4173/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BAE95864E02647EC125855F0016034E?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Stanovy Právnická osoba Vady řízení Příslušnost sou…*
 - *NS* [28 Cdo 4916/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F30F041DFF1FCA16C12580DB002B748B?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Občanské sdružení Myslivost*
+  > „Pravidla určující, kdy soud nevysloví neplatnost rozhodnutí orgánu spolku (§ 260 o. z.), se uplatní i při přezkumu rozhodnutí spolku o vyloučení člena ve smyslu § 242 téhož zákona."
 - *NS* [27 Cdo 1757/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91181FA2B946521C1258BB6004D3B3C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Myslivost Stanovy*
 - *NS* [27 Cdo 1703/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F97D1E8665D42F25C125869A001DE087?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Členská schůze [ Spolek (o. z.) ]*
 
@@ -498,6 +507,7 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - *NS* [26 Cdo 582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/429F31B23390CAC4C12588D70017C29F?openDocument) — 26. 7. 2022
 - *NS* [27 Cdo 1129/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F724452908B2C89C1258CE0004D09D3?openDocument) — *Statutární orgán Zájmové sdružení právnických osob Zdánlivé právní jednání (o. z.) [ Prá…*
 - *NS* [26 Cdo 3352/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99333E012B13AA3DC12588CA0017DED2?openDocument) — *Společenství vlastníků jednotek*
+  > „Zjistí-li soud v průběhu řízení o neplatnost rozhodnutí shromáždění vlastníků, že rozhodnutí je zdánlivé, rozhodne z úřední povinnosti, že o rozhodnutí shromáždění nejde (§ 90 odst. 1 z. ř. s.)."
 
 #### § 246 — Funkční období, kooptace, postup
 

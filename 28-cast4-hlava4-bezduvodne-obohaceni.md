@@ -36,14 +36,23 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 3392/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3392-14_1) — usnesení, 5. 3. 2015
+  > „§ 2991 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, neplyne přechod věřitelem vymáhaného práva na ručitele s důsledky předjímanými ustanoveními 254 odst. 2, § 107a o. s. ř., resp."
 - *NS* [28 Cdo 86/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF9EA37A1E344E46C1258DCD004D1F13?openDocument) — *Bezdůvodné obohacení*
+  > „2026 Spisová značka : 28 Cdo 86/2026 ECLI: ECLI:CZ:NS:2026:28.CDO.86.2026.1 Typ rozhodnutí: USNESENÍ Heslo: Bezdůvodné obohacení Dotčené předpisy: § 2991 předpisu č. 89/2012 Sb. Kategorie rozhodnutí: C Zveřejněno na webu: 2."
 - *NS* [28 Cdo 109/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70D36F88DD3C424DC1258DCD004D1EFE?openDocument) — *Bezdůvodné obohacení*
+  > „O obohacení jde tedy tehdy, jestliže se plněním někomu dostalo majetkové hodnoty bez právem aprobovaného důvodu, vyjádřené tím, že v jeho majetku došlo buď ke zvýšení aktiv, anebo snížení pasiv (viz § 2991 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen – „o. z.“)."
 - *NS* [28 Cdo 2542/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D9F4105D13EE17C1258DCD004D1F42?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.) Bezdůvodné obohacení*
+  > „Na rozdíl od soudu prvního stupně dospěl k závěru, že nárok na vydání bezdůvodného obohacení (§ 2991 a násl. zákona č. 89/2012 Sb., občanský zákoník; dále jen „o. z.“) je v přítomné věci vyloučen, neboť předmětné prostory jsou užívány na základě tzv. aktu věnování veřejnému užívání."
 - *NS* [28 Cdo 247/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D0F37618B7996D2C1258DC200529D84?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení*
+  > „Odvolací soud aproboval soudem prvního stupně učiněný závěr o vzniku bezdůvodného obohacení na straně druhé žalované (§ 2991 a násl. zákona č."
 - *NS* [28 Cdo 2283/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2E6A6B5A943D05C1258DBF0052CCEB?openDocument) — *Bezdůvodné obohacení Veřejný statek (o. z.)*
+  > „Rozhodnutí v posuzované kauze nijak nezávisí na vymezení pojmu spravedlivý důvod ve smyslu § 2991 o. z. (k dalším informacím ke zmíněné problematice srov. blíže rozsudek Nejvyššího soudu ze dne 7."
 - *NS* [28 Cdo 2137/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/462339ADF70EB2C7C1258DBF0052CCF7?openDocument) — *Bezdůvodné obohacení Poučovací povinnost soudu Spoluvlastnictví Smlouva*
+  > „Soud dospěl k závěru, že žalovaný neužíval předmětné nemovitosti bez právního titulu, a tudíž nemohlo dojít k jeho bezdůvodnému obohacení dle § 2991 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů."
 - *NS* [28 Cdo 103/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66AD28E0CC9B8683C1258DB90052CAD3?openDocument) — *Bezdůvodné obohacení Veřejný statek (o. z.)*
+  > „Jelikož účastnice neuzavřely žádnou smlouvu upravující užívání předmětných pozemků, soud prvního stupně uzavřel, že žalovaná (obec, v jejíž lokalitě se pozemky nacházejí a jež je uzpůsobila danému účelu) se na úkor žalobkyně bezdůvodně obohatila (§ 2991 zákona č. 89/2012 Sb., občanský zákoník; dále jen „o. z.“)."
 - *NS* [28 Cdo 3281/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/561A2B10701D4D6AC1258DB10052C21E?openDocument) — *Bezdůvodné obohacení*
+  > „§ 2991 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen – „o. z.“) je i stav, kdy je cizí pozemek užíván subjektem odlišným od jeho vlastníka bez nájemní smlouvy či jiného obdobného titulu."
 
 ### Čtyři klasické typy obohacení (§ 2991 odst. 2)
 
@@ -88,9 +97,13 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 1172/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43DD4F18EE5EFFE8C1258B5D004D2EC0?openDocument) — *Bezdůvodné obohacení Vady řízení*
+  > „K výkladu § 2992 o. z. se dovolací soud vyslovil v rozsudku Nejvyššího soudu ze dne 13."
 - *NS* [23 Cdo 82/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F457B462FAC806CC12585C200188B8A?openDocument) — *Bezdůvodné obohacení*
+  > „Jednání ochuzeného na vlastní nebezpečí ve smyslu § 2992 o. z."
 - *NS* [28 Cdo 725/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0F74CCC94AB3708C1258ADB001B8710?openDocument) — *Bezdůvodné obohacení*
+  > „Splnění předpokladů přípustnosti dovolání spatřují v tom, že odvolací soud dílem nerespektoval ustálenou judikaturu a dílem „vzhledem k relativně nové úpravě § 2991 a § 2992 o. z. otázka nebyla v rozhodování dovolacího soudu dosud řešena“."
 - *NS* [28 Cdo 5089/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EA6C6D45FFD6D39C125826400255FE7?openDocument) — *Bezdůvodné obohacení*
+  > „V komentáři k zákonu č. 89/2012 Sb. dostupném v systému ASPI je k § 2997 mimo jiné uvedeno, že „toto ustanovení bude v zásadě dopadat na situace, v nichž je vznik povinnosti vydat bezdůvodné obohacení vyloučen současně jinými zákonnými ustanoveními (srov. především § 2992 o."
 
 ### § 2993 — Plnění bez platného závazku
 
@@ -103,14 +116,22 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1751/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C32F74AFFBD9BAE9C1258AF4004C926D?openDocument) — *Bezdůvodné obohacení*
+  > „Nejvyšší soud se k otázce podmíněnosti restitučních povinností podle § 2993 o. z. vyjádřil v tom smyslu, že „[S] ynallagmatická povaha závazku vrátit si vzájemně poskytnutá plnění je … zachována k námitce toho, kdo je o vrácení plnění žádán ."
 - *NS* [23 Cdo 3429/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA137CE8C292013BC12589CC00181174?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení*
+  > „Uvedenou argumentaci žalované lze jinými slovy shrnout tak, že povinnost žalobce vydat, co v rámci zrušené smlouvy o dílo získal (§ 2993 zákona č. 89/2012 Sb., občanský zákoník, dále jen „o."
 - *NS* [33 Cdo 2693/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/624073AA3B006197C12588AB00194923?openDocument) — *Bezdůvodné obohacení Vzájemný návrh Odstoupení od smlouvy*
+  > „Smlouva byla zrušena a strany jsou povinny vrátit si vše, co si na jejím základě poskytly (§ 2004, § 2993 o. z.)."
 - *NS* [33 Cdo 3788/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FAE862162573B96CC125871100187F59?openDocument) — *Smlouva o úvěru Přípustnost dovolání Bezdůvodné obohacení Dobré mravy*
+  > „Nárok žalobkyně pak posoudil v režimu práva na vydání bezdůvodného obohacení z neplatné smlouvy podle § 2993 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jako „o. z.“)."
 - *NS* [33 Cdo 1155/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58FC5A491646006EC1258703001870BC?openDocument) — *Přípustnost dovolání Bagatelnost Bezdůvodné obohacení*
 - *NS* [33 Cdo 1383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE07DE9197251D60C1258C62004D3232?openDocument) — *Zastoupení Bezdůvodné obohacení*
+  > „Podle § 2993 o. z., plnila-li strana, aniž tu byl platný závazek, má právo na vrácení toho, co plnila."
 - *NS* [20 Cdo 1708/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FC87948E0C54A5C1258A3300160E5D?openDocument) — *Zadržovací právo Vzájemné plnění Zastavení exekuce*
+  > „Podle § 2993 o. z. plnila-li strana, aniž tu byl platný závazek, má právo na vrácení toho, co plnila."
 - *NS* [33 Cdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D677CAD6CF58B08C125870900188AD4?openDocument) — *Přípustnost dovolání Smlouva o dílo Bezdůvodné obohacení*
+  > „Jelikož žalobkyně plnila na základě neplatné smlouvy o dílo, shledal odvolací soud opodstatněným právo na vydání bezdůvodného obohacení podle § 2993 o. z.; ohledně jeho výše vyšel ze znaleckého posudku Ing. Němce."
 - *NS* [33 Cdo 5501/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C6D995216031AA2C12585560019EB0B?openDocument) — *Smlouva Bezdůvodné obohacení*
+  > „Majetková sféra prodávajícího se rozrostla o část kupní ceny ve výši 500.000,- Kč, aby vzápětí byla snížena v důsledku zápočtu žalovanou o provizi ze zprostředkované smlouvy ve výši 494.650,- Kč."
 
 ### § 2994 — Bezdůvodné užívání
 
@@ -121,14 +142,23 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 276/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/596005DA9C654724C1258C98004D4F68?openDocument) — *Bezdůvodné obohacení*
+  > „Předestřel otázku, zda v případě, kdy je nemovitá věc neoprávněně přenechána třetímu subjektu, jenž není v dobré víře stran oprávnění věc užívat, je v režimu § 2994 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o."
 - *NS* [28 Cdo 3476/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E83810B78AB3DD69C1258C83004D1DEB?openDocument) — *Dobrá víra Bezdůvodné obohacení*
+  > „Podle § 2994 o. z. dal-li někdo neoprávněně věc k užívání nebo požívání jinému, aniž ten byl v dobré víře, má vlastník nebo spoluvlastník věci vůči uživateli nebo poživateli právo na náhradu."
 - *NS* [29 Cdo 2999/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4078246A94708DADC1258675001F7494?openDocument) — *Konkurs Žaloba vylučovací (excindační) Bezdůvodné obohacení Úschova*
+  > „[13] Doposud uvedené je však v poměrech „nového“ občanského zákoníku třeba poměřovat ustanovením § 2994 o. z, podle něhož dal-li někdo neoprávněně věc k užívání nebo požívání jinému, aniž ten byl v dobré víře, má vlastník nebo spoluvlastník věci vůči uživateli nebo poživateli právo na náhradu."
 - *NS* [26 Cdo 2731/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B0F3392C9354E08DC1258D850052C82D?openDocument) — *Bezdůvodné obohacení*
+  > „Z dikce § 2994 o. z. potom vyplývá, že se nastíněná idea prosadí i v případě, že subjekt, jenž neoprávněně disponuje s cizí hodnotou, věc třetí osobě přenechal nikoli na základě smlouvy, ale například i v rámci společenské úsluhy."
 - *NS* [28 Cdo 384/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52B640637FB5564DC1258D2D004D1D09?openDocument) — *Bezdůvodné obohacení Dobrá víra Bytová náhrada*
+  > „Za neúplné, a tudíž nesprávné pokládají posouzení věci z hlediska § 2994 o. z., jehož výklad tak, jak byl proveden odvolacím soudem, považují za rozporný se jmenovanou judikaturou."
 - *NS* [26 Cdo 731/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77BE872B3E2B2BDBC1258CAF004D1E83?openDocument) — *Bezdůvodné obohacení Přípustnost dovolání*
+  > „Z dikce § 2994 o. z. potom vyplývá, že se nastíněná idea prosadí i v případě, že subjekt, jenž neoprávněně disponuje s cizí hodnotou, věc třetí osobě přenechal nikoli na základě smlouvy, ale například i v rámci společenské úsluhy."
 - *NS* [26 Cdo 3353/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D2A5E2ED2305ADC8C1258C580052A2AE?openDocument) — *Bezdůvodné obohacení Podnájem*
+  > „Za této situace je přitom zapotřebí zabývat se naplněním podmínek vymezených v § 2994 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále též jen „o. z.“), což ovšem soud prvního stupně – veden nesprávným právním názorem – neučinil."
 - *NS* [28 Cdo 1687/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/704662B93C44E0ABC1258AAD001B7EA1?openDocument) — *Bezdůvodné obohacení*
+  > „Podle § 2994 o. z. dal-li někdo neoprávněně věc k užívání nebo požívání jinému, aniž ten byl v dobré víře, má vlastník nebo spoluvlastník věci vůči uživateli nebo poživateli právo na náhradu."
 - *NS* [28 Cdo 493/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4071E8A3C677B3DC125870F00188F2D?openDocument) — *Bezdůvodné obohacení*
+  > „Ve smyslu ustanovení § 2994 o. z. lze též dát věc do užívání v rámci společenské úsluhy."
 
 ### § 2995—2998 — Specifické situace
 
@@ -163,6 +193,7 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - *NS* [28 Cdo 1374/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/92B6A4BDE45BC5EEC1258A3400160DFE?openDocument) — *Bezdůvodné obohacení*
 - *NS* [33 Cdo 2502/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19A93D4F81AE4B99C12589CB00182A29?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská Bezdůvodné obohacení*
 - *NS* [30 Cdo 3514/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3101D31661A9133CC1258839002C1F52?openDocument) — *Bezdůvodné obohacení*
+  > „Nárok na vydání bezdůvodného obohacení ve smyslu § 2997 o. z., vzniká i v případě, že dlužník (nedobrovolně) plnil svému věřiteli promlčený dluh na základě povinnosti uložené mu pravomocným a vykonatelným rozhodnutím soudu, které bylo následně zrušeno."
 - *NS* [28 Cdo 1962/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB2B229AC556CD3FC1258799001E23A5?openDocument) — *Bezdůvodné obohacení*
 - *NS* [28 Cdo 354/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C54C1C1142C591F3C125861E0041D7D2?openDocument) — *Bezdůvodné obohacení Dokazování Smlouva darovací*
 - *NS* [28 Cdo 1991/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/439B5A285C4AC87CC12586000018AA15?openDocument) — *Bezdůvodné obohacení Břemeno důkazní*
@@ -216,14 +247,22 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1311/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B8372607C8C0592C12588FF001FB6F7?openDocument) — *Odstoupení od smlouvy*
+  > „Ustanovení § 3002 odst. 2 o. z. o náhradě za užívání věci poctivým příjemce se vztahuje i na případy smluv zrušených na základě zákonného ustanovení. Toto ustanovení se neuplatní v případě přibližně současného plnění smluvních stran."
 - *NS* [28 Cdo 1579/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BFE1EF07CDBF6D5C125875C0018B2C7?openDocument) — *Bezdůvodné obohacení Obec Pozemní komunikace*
+  > „Podle § 2999 odst. 1 o. z., není-li vydání předmětu bezdůvodného obohacení dobře možné, má ochuzený právo na peněžitou náhradu ve výši obvyklé ceny."
 - *NS* [20 Cdo 1373/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/834EB721F7D5196FC125837D0022217E?openDocument) — *Bezdůvodné obohacení Započtení pohledávky Zastavení exekuce*
+  > „Pokud se týče dodávky vody v roce 2014, užije se ustanovení § 2999 odst. 1 o. z., podle kterého není-li vydání předmětu bezdůvodného obohacení dobře možné, má ochuzený právo na peněžitou náhradu ve výši obvyklé ceny."
 - *NS* [26 Cdo 2323/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/270F937A88FABC0EC125829B003C6FD1?openDocument) — *Bezdůvodné obohacení Nájem bytu Náklady řízení*
+  > „Od uvedených závěrů se dovolací soud neodklání ani v posuzované věci, přičemž zastává názor, že jsou využitelné i v poměrech právní úpravy obsažené s účinností od 1. ledna 2014 v ustanovení § 2999 odst. 1 o. z., a to tím spíše, že dosavadní právní praxi nyní promítl zákonodárce skrze citované ustanovení do výslovné právní úpravy (viz Eliáš, K."
 - *NS* [26 Cdo 3067/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417DD8C28D8B60CEC1258D870052C801?openDocument) — *Přípustnost dovolání Nájemné Bezdůvodné obohacení*
 - *NS* [28 Cdo 2917/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/188777B1BCB7D873C1258D680052DAD3?openDocument) — *Náhradní pozemek Bezdůvodné obohacení*
+  > „Splnění předpokladů přípustnosti dovolání spatřuje v tom, že se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu při řešení otázek hmotného práva, zda lze rozhodnutí soudu ukládající povinné osobě uzavřít s oprávněnou osobou smlouvu o převodu náhradního pozemku považovat za úplatnou smlouvu ve smyslu § 3002 odst. 1 zákona č."
 - *NS* [28 Cdo 2638/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D65ED802B62DB5EBC1258D560052D477?openDocument) — *Bezdůvodné obohacení Náklady řízení*
+  > „Obohacený přirozeně není v podobných situacích schopen prospěch spočívající ve výkonu práva užívání cizí věci vrátit, a je proto povinen nahradit bezdůvodné obohacení peněžitou formou (§ 2999 o. z.)."
 - *NS* [28 Cdo 2440/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9A33AC6D93D1990C1258D560052D42A?openDocument) — *Bezdůvodné obohacení*
+  > „Rozhodovací praxe dovolacího soudu je dále ustálena také v tom, že peněžitá náhrada za protiprávní užití cizí hodnoty (§ 2999 odst. 1 o. z.) musí být poskytnuta ve výši (zpravidla) obvyklého nájemného vynakládaného za užívání stejné nebo obdobné věci v daném místě, čase a za srovnatelných podmínek (viz např. rozsudek Nejvyššího soudu ze dne 9."
 - *NS* [26 Cdo 1782/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5418DB6EFD5858E0C1258CAF004D1E50?openDocument) — *Bezdůvodné obohacení Nájem pozemku Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „§ 2999 odst. 1 větu první o. z.)."
 
 ### § 3005 — Náklady obohaceného
 
@@ -278,7 +317,9 @@ Obohacený, který vydává předmět, má právo na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1746/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0878639CAC3FBA7C1258805001B7BF9?openDocument) — *Přípustnost dovolání Jednatelství bez příkazu Smlouva o zápůjčce (mutuum) (o. z.)*
+  > „V poslední řadě žalobce odvolacímu soudu vytýká, že nesprávně vyhodnotil i možnost na věc aplikovat § 3007 o. z. o nepřikázaném jednatelství, neboť nejde o nepřípustnou novotu v rámci odvolacího řízení, ale o možné jiné právní posouzení věci na základě shodných právních a skutkových přednesů učiněných v rámci nalézacího řízení."
 - *NS* [33 Cdo 1850/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E6B35330398C559C12583F00017FBED?openDocument) — *Jednatelství bez příkazu*
+  > „Protože žalovaná elektřinu odebrala, měla by jí uhradit účelně vynaložené náklady dodávky elektřiny v částce 59.707 Kč. Podle § 3007 zákona č. 89/2012 Sb., občanského zákoníku, ve znění účinném od 1."
 
 ### § 3008 — Záchrana cizí věci
 
@@ -315,6 +356,7 @@ Obohacený, který vydává předmět, má právo na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1850/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E6B35330398C559C12583F00017FBED?openDocument) — *Jednatelství bez příkazu*
+  > „Podle § 3009 o. z., ujme-li se někdo záležitosti ve prospěch jiné osoby bez jejího svolení, nahradí mu tato osoba účelně vynaložené náklady, zařídil-li záležitost k jejímu převážnému užitku."
 
 ### § 3010—3011 — Společná ustanovení
 

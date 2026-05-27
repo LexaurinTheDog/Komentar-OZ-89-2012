@@ -54,7 +54,9 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1173/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29C90A1E94AA93EFC1258749001880B9?openDocument) — *Uznání cizích rozhodnutí Osvojení*
+  > „Podle ustanovení § 655 věty první o. z. je manželství trvalý svazek muže a ženy vzniklý způsobem, který stanoví tento zákon."
 - *NS* [29 NSCR 69/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63A1C0A05B50C511C12589650041BC64?openDocument) — *Manželství Mateřská dovolená Rodičovská dovolená Oddlužení (společné oddlužení manželů)*
+  > „(2) Soukromé právo spočívá zejména na zásadách, že (…) b/ rodina, rodičovství a manželství požívají zvláštní zákonné ochrany, (…) § 655 (o. z.) Manželství je trvalý svazek muže a ženy vzniklý způsobem, který stanoví tento zákon."
 
 ---
 
@@ -668,6 +670,7 @@ Při volbě svých pracovních/studijních činností musí každý manžel **br
 - *NS* [22 Cdo 1739/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7731866FD78C0FEC1258916001FBDD4?openDocument) — *Přípustnost dovolání Společné jmění manželů*
 - *NS* [27 Cdo 4040/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E28514A9E41D0B3C1258675001F749C?openDocument) — *Společné jmění manželů Neplatnost právního jednání (o. z.) Přípustnost dovolání*
 - *NS* [22 Cdo 3457/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02961098574CB794C12583970021F342?openDocument) — *Společné jmění manželů*
+  > „Dojde-li k platnému prodeji věci tvořící součást společného jmění manželů za trvání manželství, je předmětem vypořádání společného jmění částka za prodej získaná, nikoliv tzv. obvyklá cena takové věci zjištěná ke dni zániku společného jmění."
 - *NS* [22 Cdo 3799/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD945D1B34468255C125821E0041A5F3?openDocument) — *Přípustnost dovolání Společné jmění manželů Neplatnost právního úkonu*
 
 #### Smluvený režim (§ 716—723)
@@ -964,6 +967,7 @@ V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnik�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Ncu 55/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7BEC110BEF4A414C1258435002E661F?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství Veřejný pořádek (o. z.)*
+  > „Podle ustanovení § 754 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, manželství zaniká jen z důvodů stanovených zákonem, a to rozvodem (§ 755), smrtí manžela, resp. prohlášením manžela za mrtvého (§ 71 odst. 2), případně změnou pohlaví (§ 29)."
 
 ### § 755—758 — Rozvod
 
@@ -1025,13 +1029,21 @@ V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnik�
 
 - *ÚS* [II. ÚS 902/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-902-15_1) — usnesení, 21. 7. 2015
 - *NS* [20 Ncu 164/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/361EA768EB0F039FC1258DD3004D1FB8?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „2/ Za situace, kdy vztahy mezi manžely byly trvale rozvráceny natolik, že nelze očekávat jejich obnovení, je ve výroku uvedené rozhodnutí cizího orgánu v souladu s ustanovením § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 144/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41ED075042226C4EC1258DC50052B493?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „Nejvyšší soud konstatuje, že z předložených listin nic nenasvědčuje tomu, že by rozvodový rozsudek byl v rozporu s § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 19/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC030223FA814805C1258DCB004D0785?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „Nejvyšší soud konstatuje, že z předložených listin nic nenasvědčuje tomu, že by rozvodový rozsudek byl v rozporu s § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 1/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAE75717D2C0DF4BC1258DB90052CAB0?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „Nejvyšší soud konstatuje, že z předložených listin nic nenasvědčuje tomu, že by rozvodový rozsudek byl v rozporu s § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 8/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3D61F1A4CC25E965C1258DC40052B4C2?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „2/ Za situace, kdy vztahy mezi manžely byly trvale rozvráceny natolik, že nelze očekávat jejich obnovení, je ve výroku uvedené rozhodnutí cizího orgánu v souladu s ustanovením § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 4/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D965E7CC92100816C1258DAE0052C614?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „Ve výroku uvedené rozhodnutí cizího soudu je v souladu s § 755 zákona č. 89/2012 Sb., občanský zákoník."
 - *NS* [20 Ncu 7/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1F41661B12F78991C1258DAE0052C5F8?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+  > „Nejvyšší soud konstatuje, že z předložených listin nic nenasvědčuje tomu, že by rozvodový rozsudek byl v rozporu s § 755 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [20 Ncu 183/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F4C453BA00C1899C1258DAE0052C628?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+  > „Ve výroku uvedené rozhodnutí cizího soudu je v souladu s § 755 zákona č. 89/2012 Sb., občanský zákoník."
 
 ### Následky zániku — příjmení, výživné, majetek, bydlení (§ 759—770)
 
@@ -1119,6 +1131,7 @@ Soud zohlední věk, zdravotní stav, dobu manželství, dobu od rozvodu, neopat
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 388/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0F9A8B3CC599E14C12589E10018307A?openDocument) — *Společné jmění manželů*
+  > „Při výkonu rozhodnutí (exekuci) přikázáním jiné peněžité pohledávky vedenému proti rozvedeným manželům jako povinným není oprávněný podle § 312 odst. 2 o. s. ř. legitimován k podání žaloby o vypořádání rozvodem zaniklého společného jmění povinných rozvedených manželů."
 - *NS* [24 Cdo 2071/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EECF4EDD0B87EF43C1258D780052AF32?openDocument) — *Pozůstalost (o. z.) Vypořádání SJM Řízení o dědictví*
 - *NS* [22 Cdo 3199/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/479419B67472A71DC1258B1F004D3882?openDocument) — *Vypořádání SJM Dědické řízení*
 - *NS* [24 Cdo 754/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65BF407A6F8A2DA8C12589E3001803E7?openDocument) — *Společné jmění manželů Pozůstalost (o. z.)*
@@ -1142,6 +1155,7 @@ Soud zohlední věk, zdravotní stav, dobu manželství, dobu od rozvodu, neopat
 
 - *NS* [26 Cdo 705/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B122A614E8341EFC1258915001E19FA?openDocument) — *Společný nájem bytu manžely*
 - *NS* [26 Cdo 1040/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D961F385FC4CFA0C12588660017B061?openDocument) — *Společné jmění manželů Společný nájem bytu manžely Spoluvlastnictví*
+  > „Samostatná úprava vypořádání společného jmění manželů (§ 736 a násl. o. z.) a samostatná úprava zrušení a vypořádání podílového spoluvlastnictví (§ 1140 a násl. o. z.) použití § 768 o. z. neumožňuje."
 - *NS* [26 Cdo 2753/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B7E2ED3267852B7C1258C8B004D4489?openDocument) — *Vyklizení nemovitosti Společná domácnost*
 
 ---

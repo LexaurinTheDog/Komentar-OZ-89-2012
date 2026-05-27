@@ -122,6 +122,7 @@ Pokud jsou splněny, smlouva je **platná** — i když na ní je pseudonym mís
 
 - *NS* [27 Cdo 2065/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/828A5FDA6B0A1A53C1258AE70052A558?openDocument) — *Vady podání*
 - *NS* [29 ICdo 84/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96252E7AE61CFBE0C12584AE001EA73E?openDocument) — *Podnikatel Právní úkony Osoba blízká Jednatel*
+  > „4) Slovní spojení „osoba blízká“ (dlužníku) a osoba „tvořící s dlužníkem koncern“ je nutno vykládat způsobem vymezeným legální definicí těchto pojmů v příslušných právních předpisech; srov. pro dobu před 1. lednem 2014 ustanovení § 116 obč. zák. a ustanovení § 66a odst. 7 zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch."
 
 ### § 80 — Bydliště
 
@@ -159,10 +160,14 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
 
 - *NS* [24 Cdo 1044/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10DE4F8A6BA7451EC1258CD3004D3B90?openDocument) — *Žaloba určovací Dědické řízení Zákonná dědická posloupnost k pozůstalosti (o. z.) Závěť…*
 - *NS* [24 Cdo 1282/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FB1E75D8645E13CC125849F0018549A?openDocument) — *Přípustnost dovolání Opatrovník*
+  > „Nadto vytýká-li dovolatel odvolacímu soudu nesprávnou aplikaci ustanovení § 80 odst. 2 věta druhá zákona č. 89/2012 Sb., občanský zákoník (dále jen o."
 - *NS* [24 Cdo 3717/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC85F090349EEC4BC1258AE4001B87E1?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Byd…*
 - *NS* [24 Cdo 1140/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A90C7D0858EE63ADC1258A0600160F5F?openDocument) — *Přípustnost dovolání Opatrovník Bydliště (o. z.)*
+  > „Podle ustanovení § 80 o. z. člověk má bydliště v místě, kde se zdržuje s úmyslem žít tam s výhradou změny okolností trvale; takový úmysl může vyplývat z jeho prohlášení nebo z okolností případu."
 - *NS* [24 Cdo 2747/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FBB3FABE17742F5C12587C1001E88BD?openDocument) — *Svéprávnost (o. z.) Bydliště (o. z.) Opatrovník*
+  > „Odvolací soud předně zdůraznil, že: „opatrovanec měl své skutečné bydliště ve smyslu § 80 odst. 1 o. z. naposledy v obvodu obce Statenice, avšak v tomto svém bydlišti se již dlouhodobě vůbec nezdržuje."
 - *NS* [30 Cdo 3379/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F082DB9E42281A0C12580F00025CFD3?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+  > „Z vyloženého vyplývá, že při rozhodování o jmenovámí veřejného opatrovníka ve smyslu ustanovení § 471 odst. 3 o.z., je na soudu, aby při úvahách o bydlišti opatrovance učinil konkrétní skutková zjištění zacílená na ověření existence jednotlivých, již uvedených, hledisek charakterizujících bydliště člověka podle ustanovení § 80 o.z."
 
 ---
 
@@ -205,12 +210,17 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
 
 - *NS* [25 Cdo 2287/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/785A3766266FE015C1258DCA004D4E07?openDocument) — *Ochrana osobnosti Advokacie Soukromá listina (o. z.)*
 - *NS* [25 Cdo 183/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD1A71626DCE1ECFC1258DA30052C20B?openDocument) — *Osobnost člověka (o. z.)*
+  > „2016, zákona č. 110/2019 Sb. a § 81 a § 82 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), marginalizaci odpovědnosti žalovaného za zcela jednoznačně zaviněné jednání, nepřiléhavou aplikaci judikatury Nejvyššího soudu a nepochopení argumentace žalobkyně podle jejího názoru vadným rozsudkem Okresního soudu v Benešově sp. zn."
 - *NS* [25 Cdo 1552/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A2ECFB8924B1D27C1258D7F0052C3AC?openDocument) — *Ochrana osobnosti Ochrana dobré pověsti právnické osoby Náklady řízení Odměna advokáta*
 - *NS* [25 Cdo 2867/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FF0E6EAA147F7DCC1258D22004D3BD1?openDocument) — *Ochrana osobnosti Zadostiučinění (satisfakce) Přípustnost dovolání*
 - *NS* [25 Cdo 2919/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9BAF39299851C81C1258D1B004D2962?openDocument) — *Ochrana osobnosti Přípustnost dovolání*
+  > „Nárok žalobce posoudil soud prvního stupně podle § 81 odst. 1 a odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“, a uzavřel, že žalovaná do osobnosti žalobce protiprávně nezasáhla."
 - *NS* [25 Cdo 2091/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1650511D0072FB51C1258D1B004D295C?openDocument) — *Ochrana osobnosti Nepřípustnost dovolání*
+  > „Odvolací soud ve shodě se soudem prvního stupně posoudil nárok žalobce podle § 81 odst. 1 a odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, a uzavřel, že žalovaný do osobnosti žalobce protiprávně nezasáhl."
 - *NS* [25 Cdo 1882/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06690E2FD1829719C1258CAD004D1D92?openDocument) — *Přípustnost dovolání Ochrana osobnosti*
+  > „Právně odvolací soud věc posoudil podle § 81, § 82 odst. 1, § 2910, § 2911, § 2894 a § 2951 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“)."
 - *NS* [25 Cdo 1508/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7C71EA0B40B0238C1258CAC004D1EA2?openDocument) — *Přípustnost dovolání Ochrana osobnosti*
+  > „Odvolací soud ve shodě se soudem prvního stupně posoudil nárok žalobkyně podle § 81 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a dospěl k závěru, že žalovaná do osobnosti žalobkyně zasáhla, nikoli však neoprávněně."
 - *NS* [25 Cdo 3931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/432300EA45409D06C1258B72004D1A37?openDocument) — *Změna návrhu na zahájení řízení Ochrana osobnosti Zadostiučinění (satisfakce) Přípustnos…*
 
 ### § 82 — Aktivní legitimace k ochraně
@@ -237,14 +247,20 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 577/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-577-13_1) — nález, 23. 6. 2015
+  > „§ 82 odst. 1 zákona č. 89/2012 Sb., občanský zákoník; předtím § 13 zákona č. 40/1964 Sb., občanský zákoník)."
 - *NS* [25 Cdo 2375/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42DA3D3A6ADDB6EDC1258CF3004D3878?openDocument) — *Ochrana osobnosti*
+  > „Soud prvního stupně věc po právní stránce posoudil podle § 81 a § 82, § 2951 a § 2956 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a podle § 28 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách)."
 - *NS* [25 Cdo 3277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FF949B0166873D3C1258CF3004D3883?openDocument) — *Osobnost člověka (o. z.)*
+  > „Podle § 82 odst. 1 o. z. člověk, jehož osobnost byla dotčena, má právo domáhat se toho, aby bylo od neoprávněného zásahu upuštěno nebo aby byl odstraněn jeho následek."
 - *NS* [30 Cdo 492/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA0620B0C27AC3EAC1258C69004D314C?openDocument) — *Ochrana osobnosti Odpovědnost státu za újmu Exces*
 - *NS* [25 Cdo 1423/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/28E102A86BC56BA9C1258C4200529E7C?openDocument) — *Ochrana osobnosti Ochrana osobních údajů Zdravotnictví*
 - *NS* [25 Cdo 3025/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/197902C34B60B915C1258AF4004C8EF0?openDocument) — *Ochrana osobnosti*
+  > „Podle § 82 odst. 1 o. z. dovodil, že žalovaný jednal v rozporu s principem presumpce neviny, neboť v souvislosti s informací o trestním řízení tvrdil jako fakt, že žalobce spáchal trestnou činnost, za kterou byl obviněn, nikoli však odsouzen."
 - *NS* [30 Cdo 3033/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/916FE7291CB841E1C125839200223128?openDocument) — *Přípustnost dovolání Ochrana osobnosti Nemajetková újma (o. z.) Zadostiučinění (satisfak…*
 - *NS* [30 Cdo 547/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6943ADEE1C0EA9ECC125833F002FBB4B?openDocument) — *Přípustnost dovolání Ochrana osobnosti Osoba blízká Nemajetková újma (o. z.) Zadostiučin…*
+  > „§ 82 odst. 1 a 2 o. z. Kategorie rozhodnutí: E Zveřejněno na webu: 8."
 - *NS* [30 Cdo 5848/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AEF771EA85E22CC3C125829600476AF9?openDocument) — *Ochrana osobnosti*
+  > „Bylo již zmíněno, že odvolací soud daný spor podřadil pod ustanovení o ochraně osobnosti člověka občanského zákoníku č. 89/2012 Sb. (konkrétně upravující postmortální ochranu člověka ve smyslu ustanovení § 82 odst. 2 o.z.)."
 
 ### § 83 — Aktivní legitimace právnické osoby
 
@@ -305,6 +321,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [25 Cdo 3417/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/188E44E9091122ACC1258D840052B0A5?openDocument) — *Ochrana osobnosti*
 - *NS* [25 Cdo 216/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F43341EF7EF698D5C1258B39004D42BF?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Náklady řízení*
 - *NS* [25 Cdo 801/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99AB289551261882C12586B8002F04E7?openDocument) — *Ochrana osobnosti Podoba člověka (o. z.) [ Osobnost člověka (o. z.) ]*
+  > „Podle § 84 o. z. zachytit jakýmkoli způsobem podobu člověka tak, aby podle zobrazení bylo možné určit jeho totožnost, je možné jen s jeho svolením."
 - *NS* [25 Cdo 1778/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42EEAF28CE000340C12584EC002063F1?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Podoba člověka (o. z.) [ Osobnost člověka (o.…*
 
 ### § 86 — Soukromí
@@ -338,14 +355,22 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 577/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18BD4919C91BF8ECC1258D01004D5582?openDocument) — *Dokazování Hodnocení důkazů Skutkové vady a vady dokazování Důkaz In dubio pro reo Presu…*
+  > „Pořízení kamerového záznamu nebylo problematické ani z hlediska § 86 obč. zákoníku, na který obviněný v rámci svého dovolání odkázal."
 - *NS* [23 Cdo 1859/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7F596ED688966D5C12588AF00191767?openDocument) — *Dokazování*
+  > „Citoval § 86 a 88 zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o. z.“), a připomněl nález Ústavního soudu ze dne 13."
 - *NS* [25 Cdo 1786/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/22E4CC90D375A794C1258942001E18C4?openDocument) — *Ochrana osobnosti Spolu způsobení si újmy poškozeným Zadostiučinění (satisfakce)*
+  > „Podle § 86 o. z. nikdo nesmí zasáhnout do soukromí jiného, nemá-li k tomu zákonný důvod."
 - *NS* [25 Cdo 2303/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/184C956327FAA19AC1258AF4004C928E?openDocument) — *Ochrana osobnosti*
+  > „Soud věc právně posoudil podle § 81, § 82 a § 86 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“)."
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
+  > „Nikdo nesmí zasáhnout do soukromí jiného, nemá-li k tomu zákonný důvod; zejména nelze bez svolení člověka narušit jeho soukromé prostory, sledovat jeho soukromý život nebo pořizovat o tom zvukový nebo obrazový záznam, využívat takové či jiné záznamy pořízené o soukromém životě člověka třetí osobou, …"
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
+  > „Dovolací soud s odkazem na § 81 odst. 1 a 2, § 86, § 88 odst. 2, § 89 a § 90 o. z., a dále věc týchž žalobců, o níž rozhodl rozsudkem ze dne 19."
 - *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+  > „Podle § 86 věty první a druhé o. z. nikdo nesmí zasáhnout do soukromí jiného, nemá-li k tomu zákonný důvod."
 - *NS* [25 Cdo 1260/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAEB2EED6C9F56BEC1258AA6001B8313?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
 - *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
+  > „Podle § 86 věty první a druhé o. z. nikdo nesmí zasáhnout do soukromí jiného, nemá-li k tomu zákonný důvod."
 
 ### § 87 — Odvolání souhlasu
 
@@ -412,14 +437,21 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 577/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18BD4919C91BF8ECC1258D01004D5582?openDocument) — *Dokazování Hodnocení důkazů Skutkové vady a vady dokazování Důkaz In dubio pro reo Presu…*
+  > „Podle § 88 odst. 1 obč. zákoníku však svolení není třeba, pokud se podobizna nebo zvukový či obrazový záznam pořídí nebo použijí k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů jiných osob."
 - *NS* [23 Cdo 1859/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7F596ED688966D5C12588AF00191767?openDocument) — *Dokazování*
+  > „Podle § 88 odst. 1 o. z. není svolení třeba, pokud se podobizna nebo zvukový či obrazový záznam pořídí nebo použijí k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů jiných osob."
 - *NS* [30 Cdo 1467/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B61E53E628F0D2AC1258370003781BC?openDocument) — *Přípustnost dovolání Ochrana osobnosti Nemajetková újma (o. z.) Zadostiučinění (satisfak…*
+  > „V daném případě z napadeného rozhodnutí odvolacího soudu vyplývá, že z uvedených zásad při svém rozhodování vycházel, když s ohledem na zjištěné okolnosti případu dovodil, …"
 - *NS* [25 Cdo 2728/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/692B3D111BB4A23CC1258D1B004D29F2?openDocument) — *Osobnost člověka (o. z.)*
 - *NS* [25 Cdo 2749/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE5AACCDED92C2B4C1258CE5004D347C?openDocument) — *Ochrana osobnosti*
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
+  > „Svolení není třeba ani v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu (§ 88 odst. 2 o. z.)."
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
+  > „Dovolací soud s odkazem na § 81 odst. 1 a 2, § 86, § 88 odst. 2, § 89 a § 90 o. z., a dále věc týchž žalobců, o níž rozhodl rozsudkem ze dne 19."
 - *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+  > „Podle § 88 odst. 2 o. z. svolení není třeba v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu."
 - *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
+  > „Podle § 88 odst. 2 o. z. svolení není třeba v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu."
 
 ### § 90 — Korekční klauzule
 
@@ -441,14 +473,23 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2250/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/436F48F47A2BA1FCC1258787001E7045?openDocument) — *Přípustnost dovolání Skončení pracovního poměru Smír Narovnání*
+  > „§ 90 - 92 o. z. Kategorie rozhodnutí: E Zveřejněno na webu: 8."
 - *NS* [30 Cdo 1467/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B61E53E628F0D2AC1258370003781BC?openDocument) — *Přípustnost dovolání Ochrana osobnosti Nemajetková újma (o. z.) Zadostiučinění (satisfak…*
+  > „Poukazuje na to, že odvolací soud dovodil, že je zde silnější právo společnosti na informování o veřejném dění (v případě dovolatele se jednalo o zachycení a šíření videozáznamu z veřejného soudního jednání), než-li právo jednotlivce sám rozhodnout, zda jeho podobizna či jiný záznam budou veřejně šířeny, …"
 - *NS* [25 Cdo 2728/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/692B3D111BB4A23CC1258D1B004D29F2?openDocument) — *Osobnost člověka (o. z.)*
+  > „Ustanovení § 90 o. z. pak tuto licenci doplňuje o pravidlo vylučující podání informace nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka."
 - *NS* [25 Cdo 2303/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/184C956327FAA19AC1258AF4004C928E?openDocument) — *Ochrana osobnosti*
+  > „Podle § 90 o. z. zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka."
 - *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — *Dokazování Okamžité zrušení pracovního poměru*
+  > „§ 90 o. z.)."
 - *NS* [25 Cdo 2185/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/723F651CF999CC9CC1258C470052B36B?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.)*
+  > „Dovolací soud s odkazem na § 81 odst. 1 a 2, § 86, § 88 odst. 2, § 89 a § 90 o. z., a dále věc týchž žalobců, o níž rozhodl rozsudkem ze dne 19."
 - *NS* [25 Cdo 1444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BB13BF90A214572C1258BAC004D23E8?openDocument) — *Osobnost člověka (o. z.) Nemajetková újma (o. z.) Veřejnost soudního řízení*
+  > „Podle § 90 o. z. zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka. a) K testu proporcionality a dokazování 75."
 - *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
+  > „Podle § 90 o. z. zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka."
 - *NS* [25 Cdo 1778/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42EEAF28CE000340C12584EC002063F1?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Podoba člověka (o. z.) [ Osobnost člověka (o.…*
+  > „Podle § 90 o. z. zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka."
 
 ---
 
@@ -503,6 +544,7 @@ Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesn�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 1882/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/618AA6CDA93D4232C125839200223104?openDocument) — *Ochrana osobnosti*
+  > „Odvolací soud dále připomněl, že právo na vydání lidských ostatků podle ustanovení § 92 odst. 2 o.z. není nárokem vyplývajícím z ochrany vlastnického práva; svou povahou se jedná o osobnostní relativní právo sui generis vznikající ex lege pohřbením těla zemřelého člověka a zanikajícím uložením ostatků na veřejném pohřebišti."
 
 ### § 93 — Zásah do integrity — souhlas
 
@@ -535,8 +577,11 @@ Souhlas zákonného zástupce **musí být v přímém prospěchu** zastoupenéh
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3727/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6BFA4DC7CDAC99A1C1258AF4004C8F66?openDocument) — *Lidská práva Právo na duševní a tělesnou integritu (o. z.) [ Osobnost člověka (o. z.) ]…*
+  > „Ustanovení § 93 odst. 1 o. z. pak uvádí, že mimo případ stanovený zákonem nesmí nikdo zasáhnout do integrity jiného člověka bez jeho souhlasu uděleného s vědomím o povaze zásahu a o jeho možných následcích."
 - *NS* [25 Cdo 1176/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7621B46F17210B3C1258C9C004D4F50?openDocument) — *Náhrada nemajetkové újmy (o. z.) Zdravotnictví*
+  > „Tady ovšem popis možných komplikací a z nich plynoucích rizik zcela absentoval (závěr soudu o obsahu informace podané poskytovatelem zdravotní péče pacientovi má rovněž povahu skutkového zjištění, jehož správnost nepodléhá dovolacímu přezkumu), tedy je správný závěr odvolacího soudu, že operace byla provedena v rozporu s požadavky plynoucími z čl."
 - *NS* [25 Cdo 3100/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27280C9674CD3652C12589A20017F8FB?openDocument) — *Nemajetková újma (o. z.) Zdravotnictví*
+  > „Podle § 93 odst. 1 věty první o. z. mimo případ stanovený zákonem nesmí nikdo zasáhnout do integrity jiného člověka bez jeho souhlasu uděleného s vědomím o povaze zásahu a o jeho možných následcích."
 
 ### § 94—95 — Vysvětlení zákroku a nezletilí
 
@@ -573,7 +618,9 @@ Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařsk�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1176/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7621B46F17210B3C1258C9C004D4F50?openDocument) — *Náhrada nemajetkové újmy (o. z.) Zdravotnictví*
+  > „Tady ovšem popis možných komplikací a z nich plynoucích rizik zcela absentoval (závěr soudu o obsahu informace podané poskytovatelem zdravotní péče pacientovi má rovněž povahu skutkového zjištění, jehož správnost nepodléhá dovolacímu přezkumu), tedy je správný závěr odvolacího soudu, že operace byla provedena v rozporu s požadavky plynoucími z čl."
 - *NS* [25 Cdo 3100/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27280C9674CD3652C12589A20017F8FB?openDocument) — *Nemajetková újma (o. z.) Zdravotnictví*
+  > „Podle § 94 odst. 1 o. z. kdo chce provést na jiném člověku zákrok, vysvětlí mu srozumitelně povahu tohoto zákroku."
 
 ### § 96 — Písemná forma souhlasu
 
@@ -705,7 +752,9 @@ Toto pravidlo má **terapeutickou** i **etickou** dimenzi: pacient má právo na
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — usnesení, 14. 4. 2015
+  > „Jestliže tedy nepojmenovanou smlouvu spolu uzavřeli právní předchůdce stěžovatelky, žalovaná a kupující v intencích § 51 o. z., je proto třeba otázky promlčení hodnotit podle § 100 a násl. o. z. Stěžovatelka (resp. její právní předchůdce) mohla uplatnit nárok na zaplacení smluvní pokuty [podle čl. III. odst. 4 písm."
 - *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — usnesení, 23. 9. 2014
+  > „Konstatoval, že souhlas věřitele s převzetím dluhu není majetkovým právem ve smyslu § 100 odst. 2 o. z. a ani právem ze závazkového vztahu ve smyslu § 387 odst. 2 obch. zák., nýbrž jde o právní úkon, projev vůle věřitele, kterým se závazkový vztah zakládá, resp. mění se závazkový vztah původní."
 
 ---
 
@@ -730,10 +779,13 @@ Dva principy:
 - *NS* [30 Cdo 2353/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66C937BB99B6D392C1258D18004D3C97?openDocument) — *Dovolání Zastoupení povinné [ Zastoupení ] Podmínky řízení*
 - *NS* [30 Cdo 416/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF2ACEDBF815FFA7C1258C590052A2AE?openDocument) — *Příslušnost soudu funkční Podmínky řízení Žaloba Vady podání Přípustnost dovolání*
 - *NS* [24 Cdo 3387/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4237DC2090AAF929C1258C320052B8D6?openDocument) — *Řízení o přípustnosti převzetí nebo držení v ústavu zdravotnické péče (detence)*
+  > „Podle ustanovení § 104 o. z. lze převzít člověka bez jeho souhlasu do zařízení poskytujícího zdravotní péči nebo ho v něm bez jeho souhlasu držet jen z důvodu stanoveného zákonem a za podmínky, že nezbytnou péči o jeho osobu nelze nahradit mírnějším a méně omezujícím opatřením."
 - *NS* [24 Cdo 2368/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/308C690E2E932C46C1258BB9004D3AFF?openDocument) — *Řízení o přípustnosti převzetí nebo držení v ústavu zdravotnické péče (detence)*
+  > „Podle § 104 o. z., lze převzít člověka bez jeho souhlasu do zařízení poskytujícího zdravotní péči nebo ho v něm bez jeho souhlasu držet jen z důvodu stanoveného zákonem a za podmínky, že nezbytnou péči o jeho osobu nelze nahradit mírnějším a méně omezujícím opatřením."
 - *NS* [28 Cdo 1763/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8174795DAAD0C44C1258BB6004D3B6E?openDocument) — *Zastavení řízení Zastoupení povinné [ Zastoupení ]*
 - *NS* [24 Cdo 1722/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8F7FD1FE52E16EBC1258784001E32AD?openDocument) — *Přípustnost dovolání Dědické řízení Poplatky soudní*
 - *NS* [30 Cdo 3005/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25ED4794FFC90198C12582550041966C?openDocument) — *Řízení o přípustnosti převzetí nebo držení v ústavu zdravotnické péče (detence)*
+  > „Podle ustanovení § 104 zákona č. 89/2012 Sb., občanský zákoník (dále též „o.z.“) převzít člověka bez jeho souhlasu do zařízení poskytujícího zdravotní péči nebo ho v něm bez jeho souhlasu držet lze jen z důvodu stanoveného zákonem a za podmínky, že nezbytnou péči o jeho osobu nelze zajistit mírnějším a méně omezujícím opatřením."
 
 ### § 105 — Oznamovací povinnost
 
@@ -781,6 +833,7 @@ Dva principy:
 
 - *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — usnesení, 13. 10. 2015
 - *NS* [5 Tdo 124/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77237A2924BE6039C1258796001E50F6?openDocument) — *Podvod Poškozování věřitele Promlčení trestní odpovědnosti Příčetnost Úvěrový podvod Zkr…*
+  > „Pak je podle státního zástupce namístě použít ustanovení § 106 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále ve zkratce jen „obč. zák.“), jak učinily ve věci soudy."
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
 
 ### § 109—110 — Nezávislý lékař, právo odmítnout zákrok

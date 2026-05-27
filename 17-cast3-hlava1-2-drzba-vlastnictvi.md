@@ -77,7 +77,9 @@ Hlava II se vztahuje na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+  > „Ze systematiky zákona vyplývá, že právo na plnění (pohledávka) není nehmotnou věcí, neboť to jeho povaha nepřipouští (§ 496 odst. 2, § 979 o. z.)."
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+  > „Ze systematiky zákona vyplývá, že právo na plnění (pohledávka) není nehmotnou věcí, neboť to jeho povaha nepřipouští (§ 496 odst. 2, § 979 o. z.)."
 
 ### § 980—986 — Materiální publicita veřejného seznamu
 
@@ -139,10 +141,13 @@ Hlava II se vztahuje na:
 - *ÚS* [I. ÚS 315/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-315-15_1) — usnesení, 5. 3. 2015
 - *NS* [22 Cdo 963/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9A4CEEE17976E15C1258CAB004D1DFE?openDocument) — *Nabytí vlastnického práva od neoprávněného*
 - *NS* [22 Cdo 679/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F8A5A742F5C50C6C1258C9F004D1E4A?openDocument) — *Přípustnost dovolání Dobrá víra Vlastnictví Vydržení Veřejný seznam (o. z.)*
+  > „Požadavek na takové ověřování souladu mezi zápisem ve veřejném seznamu a skutečným právním stavem by byl v rozporu s ustanovením § 980 odst. 2 o. z., které zakládá domněnku souladu stavu zapsaného ve veřejném seznamu se skutečným stavem."
 - *NS* [22 Cdo 817/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE47C821A493DA52C1258C77004D21F7?openDocument) — *Nabytí vlastnického práva od neoprávněného*
+  > „Podle § 980 odst. 2 o. z. je-li právo k věci zapsáno do veřejného seznamu, má se za to, že bylo zapsáno v souladu se skutečným právním stavem."
 - *NS* [23 Cdo 2873/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD1F864B6A9060C8C1258C1F00529551?openDocument) — *Přípustnost dovolání Dobré mravy Převod nemovitostí*
 - *NS* [29 NSCR 67/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2619312A4B3E52C8C1258B78004D3108?openDocument) — 30. 7. 2024
 - *NS* [22 Cdo 916/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67D0507A1926AB14C1258B48004D174A?openDocument) — *Žaloba určovací Nabytí vlastnického práva od neoprávněného*
+  > „5) Nastanou takovou nečinností účinky předvídané v § 980 odst. 2 o. z.? 6) Dopadá § 984 odst. 1 o. z. i na bezúplatné převody nemovitých věcí – nadto pokud stranou převodní smlouvy je společný potomek manželů?"
 - *NS* [22 Cdo 304/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FA37DFA20FA76E3C1258AF9004D03AB?openDocument) — *Nabytí vlastnického práva od neoprávněného*
 
 ---
@@ -183,13 +188,19 @@ Hlava II se vztahuje na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [3 Tdo 820/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86FDC5F1BCBE987FC1258D530052BC54?openDocument) — *Poškození cizí věci Neoprávněné opatření, padělání a pozměnění platebního prostředku Krá…*
+  > „Objektem trestného činu poškození cizí věci je zájem na ochraně vlastnického práva, případně i pouhé držby (viz § 987 a násl. Občanského zákoníku), který je spojen s ochranou konkrétní věci (předmětu útoku), jež je alespoň zčásti ve vlastnictví jiné osoby než pachatele ."
 - *NS* [22 Cdo 2957/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB6AC549AAC8B664C12586F6001880E0?openDocument) — *Držba (o. z.)*
+  > „Právo ke vkladu na vkladní knížce není způsobilé být předmětem držby a nemůže dojít k jeho vydržení, neboť jeho povaha nepřipouští trvalý nebo opakovaný výkon."
 - *NS* [22 Cdo 2467/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B69565688D51267BC1258DBE0052B961?openDocument) — *Mimořádné vydržení (o. z.) Držba Služebnost stezky, průhonu a cesty (o. z.) [ Služebnost…*
+  > „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
 - *NS* [22 Cdo 1386/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C2660567C1E4A11C1258CEE004D38D7?openDocument) — *Vydržení Mimořádné vydržení (o. z.) Služebnost (o. z.)*
+  > „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
 - *NS* [22 Cdo 507/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46ACC56F86D9B638C1258DCE004D4E37?openDocument) — *Přípustnost dovolání Žaloba určovací Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
 - *NS* [22 Cdo 2769/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/516FE04BC7F5792AC1258D700052AB14?openDocument) — *Ochrana vlastnictví Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
 - *NS* [22 Cdo 1310/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/604016FC16BDBD02C1258CF9004D26E1?openDocument) — *Vlastnictví Vydržení Mimořádné vydržení (o. z.)*
+  > „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
 - *NS* [22 Cdo 46/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB714CA006AB2E09C1258DA60052AA47?openDocument) — *Přípustnost dovolání Ochrana vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
+  > „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
 
 ### § 990 — Nabytí držby
 
@@ -241,12 +252,15 @@ Hlava II se vztahuje na:
 
 - *NS* [26 Cdo 1576/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50086538C99673FCC1258D330052AE02?openDocument) — *Držba Dobrá víra*
 - *NS* [22 Cdo 2163/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70863DD2DF015039C1258BE70052C186?openDocument) — *Vydržení*
+  > „Vyložil, že držba způsobilá k řádnému vydržení musí být podle výslovného znění zákona poctivá (§ 1089 ve spojení s § 992 odst. 2 o. z.) a pravá (§ 993 o. z.); naopak nemusí být řádná ve smyslu § 991 o. z.; to výslovně uvádí i důvodová zpráva: „Zároveň se vyžaduje držba opřená o řádný titul."
 - *NS* [22 Cdo 2307/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7563C67E4E7505FAC1258A0200160F03?openDocument) — *Poctivá držba (o. z.) [ Držba (o. z.) ]*
 - *NS* [22 Cdo 2464/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26104C336EB1743BC1258D570052A4DF?openDocument) — *Držba Přípustnost dovolání Věcná břemena*
 - *NS* [22 Cdo 1620/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BA835E850007978C1258BBE004D30F7?openDocument) — *Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
+  > „Držba způsobilá k řádnému vydržení musí být podle výslovného znění zákona poctivá (§ 1089 ve spojení s § 992 odst. 2 o. z.) a pravá (§ 993 o. z.); naopak nemusí být řádná ve smyslu § 991 o. z.; to výslovně uvádí i důvodová zpráva: „Zároveň se vyžaduje držba opřená o řádný titul."
 - *NS* [22 Cdo 3815/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D767402CB0BAACAC1258AF4004B462E?openDocument) — *Držba (o. z.) Poctivá držba (o. z.) [ Držba (o. z.) ] Pravá držba (o. z.) [ Držba (o. z.…*
 - *NS* [22 Cdo 2826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17B66DFBDBBB0233C1258D850052C87B?openDocument) — *Držba Úmysl Vydržení*
 - *NS* [8 Tdo 702/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93418B4A83BB1E24C1258D17004D3C08?openDocument) — *Zpronevěra Znalecký posudek Znalec Dokazování Škoda Škoda značná Hodnocení důkazů Cizí v…*
+  > „Obviněná nebyla vlastníkem předmětných finančních prostředků, byť byly zaslány na její účet, ale pouze osobou, které byly tyto finanční prostředky svěřeny k tomu, aby s nimi v souladu s účelem jejich svěření nakládala (k tomu srov. § 991 a násl. obč. zákoníku)."
 - *NS* [22 Cdo 2769/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/516FE04BC7F5792AC1258D700052AB14?openDocument) — *Ochrana vlastnictví Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
 
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
@@ -293,7 +307,9 @@ Hlava II se vztahuje na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3071/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7398C9C6B9FC9645C1258C3D0052B33D?openDocument) — *Řízení u odvolacího soudu*
+  > „Domníval se, že bylo namístě aplikovat ustanovení zákona č. 89/2012 Sb., občanský zákoník, upravující vzájemné nároky mezi držitelem nemovitosti a vlastníkem, konkrétně § 996 až 999 o. z. pro případ poctivých držitelů, nebo § 1000 a 1001 o. z. v případě, že by šlo o nepoctivé držitele."
 - *NS* [28 Cdo 2738/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EF0DDCE97468CFC1258BE80052D93D?openDocument) — *Přípustnost dovolání Poctivá držba (o. z.) [ Držba (o. z.) ] Užitky (o. z.)*
+  > „2014 (dále „o. z.“ nebo „zákon č. 89/2012 Sb.“), a měl tudíž stejná práva jako vlastník (včetně práva požívat plody a užitky z předmětu držby – viz § 130 odst. 2 obč. zák., jakož i § 996 odst. 2 o. z.)."
 - *NS* [22 Cdo 3718/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9BA485208C087ACC1258A58001B8192?openDocument) — *Poctivá držba (o. z.) [ Držba (o. z.) ]*
 
 ### § 1003—1009 — Ochrana držby
@@ -385,7 +401,9 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 350/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84F7DBACD643248FC1258C820015FFF1?openDocument) — *Přípustnost dovolání Vlastnictví Obec Stavební řízení*
 - *NS* [22 Cdo 891/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF5C0DD513D71080C1258B86004D2948?openDocument) — *Vlastnictví Ochrana vlastnictví Zneužívání výkonu práv a povinností*
 - *NS* [29 ICdo 46/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F48B00E9C13509D9C12588CF0017BF1C?openDocument) — *Vydržení Postoupení pohledávky Žaloba pro zmatečnost Insolvenční řízení Incidenční spory…*
+  > „Ustanovení § 1011 o. z. sice podřazuje pod pojem „vlastnictví“ vše, co někomu patří, všechny jeho věci hmotné i nehmotné, jde však o vymezení vlastnictví v širším smyslu a na právní režim všech takto široce vymezených předmětů vlastnictví nelze vztáhnout beze zbytku ustanovení upravující vlastnické právo."
 - *NS* [26 Cdo 2359/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42BEF7ED3BE82365C125847500181FD5?openDocument) — *Společenství vlastníků jednotek Spoluvlastnictví*
+  > „S odkazem na § 1011 až § 1013 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), uzavřel, že žalované odvětráváním sklepních prostor, suterénu a bytové jednotky do společných prostor nad míru přiměřenou poměrům ruší výkon vlastnického práva žalobkyně a obtěžují ji."
 - *NS* [22 Cdo 4167/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03A7D8C12669C714C12585E40018A0FB?openDocument) — *Ochrana vlastnictví*
 - *NS* [4 Tdo 887/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FB3F4C6C1181346C1258ABA001B7FA7?openDocument) — *Bezplatná obhajoba Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru Po…*
 
@@ -468,13 +486,19 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 - *ÚS* [II. ÚS 415/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-415-14_1) — nález, 24. 3. 2015
 - *NS* [22 Cdo 2848/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B94B71F2E39158FCC1258D650052BC55?openDocument) — *Imise*
+  > „Namítla, že napadené rozhodnutí závisí na vyřešení otázky hmotného práva související s aplikací § 1013 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“)."
 - *NS* [22 Cdo 1494/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/915AD7DBEF4FDE28C1258D3900472E89?openDocument) — *Imise Přípustnost dovolání*
+  > „Má za to, že dovolací soud dosud nerozhodoval „ve věci omezení provozu úředně schváleného autodromu a polygonu ve smyslu § 1013 o. z. včetně otázky, zda a za jakých podmínek lze považovat provoz úředně schváleného autodromu nebo polygonu za obtěžující nad míru přiměřenou poměrům ve smyslu § 1013 odst. 1 o. z.“."
 - *NS* [22 Cdo 2483/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489750AA199AE91EC1258D490052C0BE?openDocument) — *Imise*
+  > „Konkrétně šlo o otázku, zda jí mohly soudy uložit výše vymezenou povinnost zdržet se hlukových imisí nad 64 dB (LAeq, 5min) bez ohledu na denní či noční hodinu, tedy fakticky po celý rok, a zda to bylo možné bez kvantitativního stanovení počtu přípustných koncertů; zda je podle § 1042 zákona č. 89/2012 Sb., občanského zákoníku, (dále též jen „o. z."
 - *NS* [22 Cdo 387/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7A820755284E522C1258D10004D4318?openDocument) — *Sousedská práva Imise Ochrana vlastnictví*
+  > „Proto zvažoval, zda jde o obtěžování nad míru přiměřenou poměrům ve smyslu § 1013 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“)."
 - *NS* [22 Cdo 1720/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B483BBFD711073A9C1258CDF004D1C9D?openDocument) — *Ochrana vlastnictví Imise Dokazování Znalecký posudek*
+  > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
 - *NS* [22 Cdo 808/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/547D7379D24101F0C1258CEB004D255F?openDocument) — *Přípustnost dovolání*
 - *NS* [22 Cdo 2974/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/449A145F56694715C1258C3C00529BB9?openDocument) — *Imise*
 - *NS* [22 Cdo 2084/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417A30BC18109522C1258C3B0052B31E?openDocument) — *Imise Sousedská práva*
+  > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
 
 ### § 1024—1028 — Rozhrady
 
@@ -513,8 +537,10 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 2471/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48A824269CA7803BC12588980017E6AA?openDocument) — *Ochrana vlastnictví*
 - *NS* [22 Cdo 2884/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17F9802385CD353EC125867800318FCA?openDocument) — *Vlastnictví*
 - *NS* [22 Cdo 1064/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1B3E86EAAC3A55BC12585CE001890A5?openDocument) — *Rozhrady (o. z.)*
+  > „Zeď je totiž jediným, „jednolitým“ objektem a uplatnění zásady „superficies solo cedit“ může být tam, kde stojí na dvou či více pozemcích, problematické; nelze na ni též použít obvyklé předpisy o stavbách, už proto, že je tu zvláštní úprava v § 1024 a násl. o. z."
 - *NS* [22 Cdo 842/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/621A72B1697F1CD2C12585AC0018FD0D?openDocument) — *Zastavení řízení Vlastnictví*
 - *NS* [22 Cdo 4043/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08DC2CE192F17D34C125841A00182C23?openDocument) — *Rozhrady (o. z.)*
+  > „2018, sp. zn. 22 Cdo 3009/2018 (uveřejněném na www.nsoud.cz ) ozřejmil, že ustanovení zákona č. 89/2012 Sb., občanského zákoníku, o rozhradách (§ 1024 a násl. o. z.) nelze aplikovat v případě, že prostor, ve kterém bylo schodiště umístěno, se zcela nachází na pozemku ve vlastnictví žalovaných."
 - *NS* [22 Cdo 3162/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFEBE271E208AFBCC12583B000387988?openDocument) — *Vlastnictví*
 
 ### § 1029—1036 — Nezbytná cesta
@@ -585,13 +611,18 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2583/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A03A8BC117E0AC83C1258DB70052B313?openDocument) — *Přípustnost dovolání Vady podání Nezbytná cesta (o. z.)*
+  > „V této věci, v níž se žalobci domáhali povolení nezbytné cesty ke svým nemovitostem podle § 1029 a násl. zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o."
 - *NS* [22 Cdo 2902/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10FA8BC8A2E3BB1EC1258DC100529D3F?openDocument) — *Přípustnost dovolání Nezbytná cesta (o. z.)*
+  > „Poukazuje na to, že dovolatelka sice tvrdí, že v konkrétní zjištěné situaci je na místě aplikovat § 1029 odst. 2 o. z. a nikoliv § 1032 odst. 1 písm. c) o. z., nicméně dovolání se zřetelem na některé ze zákonných hledisek jeho přípustnosti nijak neodůvodňuje."
 - *NS* [22 Cdo 2969/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC67C31C31AF0911C1258D880052997B?openDocument) — *Nezbytná cesta (o. z.)*
 - *NS* [22 Cdo 2688/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/286BAE197433A570C1258D650052BC27?openDocument) — *Nezbytná cesta (o. z.)*
 - *NS* [22 Cdo 1548/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FAA968732DA519DC1258D5E0052BC09?openDocument) — *Přípustnost dovolání Nezbytná cesta (o. z.)*
+  > „Podle § 1029 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“) vlastník nemovité věci, na níž nelze řádně hospodařit či jinak ji řádně užívat proto, že není dostatečně spojena s veřejnou cestou, může žádat, aby mu soused za náhradu povolil nezbytnou cestu přes svůj pozemek."
 - *NS* [22 Cdo 1591/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D194E36A7505FA3EC1258D650052BC33?openDocument) — *Přípustnost dovolání Nezbytná cesta (o. z.)*
+  > „Podle § 1029 odst. 1 o. z. vlastník nemovité věci, na níž nelze řádně hospodařit či jinak ji řádně užívat proto, že není dostatečně spojena s veřejnou cestou, může žádat, aby mu soused za náhradu povolil nezbytnou cestu přes svůj pozemek."
 - *NS* [22 Cdo 1989/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55CC21D02290F24FC1258D2D004D1D62?openDocument) — *Nezbytná cesta (o. z.)*
 - *NS* [22 Cdo 1249/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5AC41FB05C384FC6C1258CD3004D3B82?openDocument) — *Nezbytná cesta (o. z.)*
+  > „Podle § 1029 odst. 1 o. z. vlastník nemovité věci, na níž nelze řádně hospodařit či jinak ji řádně užívat proto, že není dostatečně spojena s veřejnou cestou, může žádat, aby mu soused za náhradu povolil nezbytnou cestu přes svůj pozemek."
 - *NS* [22 Cdo 3253/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF375F5CB907ED5C1258C510052BBDF?openDocument) — *Vedlejší účastník Nezbytná cesta (o. z.)*
 
 ### § 1037—1039 — Vyvlastnění
@@ -667,8 +698,10 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [22 Cdo 1535/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4FFE8FD115F2B50C1258CF7004D0995?openDocument) — *Vydání věci*
 - *NS* [22 Cdo 1058/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3827940C8E426445C1258CBE004D1DAC?openDocument) — *Vydání věci*
 - *NS* [24 Cdo 2395/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80FA06866EF4DF3AC1258CC4004D352E?openDocument) — *Žaloba (rei)vindikační [ Žaloba ] Notář Úschova*
+  > „Podle ustanovení § 1040 odst. 1 o. z. kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal."
 - *NS* [22 Cdo 1132/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFA943E80F8093FFC1258CAB004D1E09?openDocument) — *Přípustnost dovolání Vydání věci*
 - *NS* [22 Cdo 823/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46769CEE602A955FC1258C92004D09CB?openDocument) — *Vydání věci*
+  > „Podle § 1040 odst. 1 o. z. kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal."
 - *NS* [26 Cdo 3600/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E26FE6B6D42E3A9C1258C77004D2260?openDocument) — *Vyklizení nemovitosti*
 
 ### Oddíl 2 — Nabytí vlastnického práva

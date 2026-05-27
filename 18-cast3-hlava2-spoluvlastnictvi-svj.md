@@ -34,13 +34,19 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 - *NS* [22 Cdo 1085/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF6DE8332A53EEBFC125890A001DDDAC?openDocument) — *Přípustnost dovolání Vydržení*
 - *NS* [22 Cdo 3680/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/125D8949CCD8FFF5C1258AF4004C975A?openDocument) — *Mimořádné vydržení (o. z.)*
+  > „Podle § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 - *NS* [22 Cdo 3044/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/508D5EAE90154CC0C1258DA00052DD7E?openDocument) — *Žaloba určovací Mimořádné vydržení (o. z.) Přechodná (intertemporální) ustanovení*
+  > „Podle ustanovení § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 - *NS* [22 Cdo 1386/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C2660567C1E4A11C1258CEE004D38D7?openDocument) — *Vydržení Mimořádné vydržení (o. z.) Služebnost (o. z.)*
+  > „Podle § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 - *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
 - *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
+  > „Podle § 1091 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“) k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 - *NS* [22 Cdo 1310/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/604016FC16BDBD02C1258CF9004D26E1?openDocument) — *Vlastnictví Vydržení Mimořádné vydržení (o. z.)*
+  > „Podle § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 - *NS* [22 Cdo 4440/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042E7ACD5F089816C1258440002E7E8C?openDocument) — *Držba Držba (o. z.)*
 - *NS* [22 Cdo 1495/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1679A283872E6A6C1258D480052C123?openDocument) — *Vydržení Řádné vydržení (o. z.) Mimořádné vydržení (o. z.)*
+  > „Podle § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 
 ### § 1092—1094 — Započtení, přerušení, ochrana
 
@@ -61,10 +67,13 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3387/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/347FE1C3F7E88464C1258882001612D5?openDocument) — *Mimořádné vydržení (o. z.) Vydržení*
+  > „Podmínkou mimořádného vydržení (§ 1095 o. z.) není poctivá držba (§ 992 odst. 1 o. z.), ani (pro dobu držby před 1. 1. 2014) držba oprávněná (§ 130 odst. 1 obč. zák.), ale nedostatek nepoctivého úmyslu držitele. O nepoctivý úmysl jde, jestliže jednání držitele při nabytí a výkonu držby nebylo úmyslně poctivé (morální) v obecném smyslu."
 - *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
 - *NS* [22 Cdo 2721/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9AEFCEC302EC0F4C1258C67004D1962?openDocument) — *Vydržení*
+  > „2015 došlo k uplynutí desetileté vydržecí doby podle § 1091 odst. 2 o. z., přičemž do této vydržecí doby byla ve smyslu § 1092 o. z. započtena i doba řádné a poctivé držby její právní předchůdkyně."
 - *NS* [22 Cdo 4440/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042E7ACD5F089816C1258440002E7E8C?openDocument) — *Držba Držba (o. z.)*
 - *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+  > „Trvá-li tedy například vydržecí doba u nemovité věci deset let a zcizil-li by neoprávněný dědic za úplatu nemovitou věc (za podmínek uvedených v ustanovení § 984 odst. 1 o."
 
 ### § 1095 — Mimořádné vydržení
 
@@ -83,14 +92,21 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2142/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2142-14_1) — usnesení, 23. 9. 2014
+  > „Zde Ústavní soud odkazuje rovněž na odůvodnění ústavní stížností napadeného usnesení Nejvyššího soudu, který správně doplnil - byť to na projednávanou věc s ohledem na princip ratione temporis nemůže mít přímo vliv - že stěžovatelka by bytovou jednotku nemohla vydržet ani za podmínek tzv. mimořádného vydržení podle § 1095 zákona č."
 - *NS* [22 ICdo 15/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0FAC07FB2D8376B6C1258DD5004D36AF?openDocument) — *Mimořádné vydržení (o. z.)*
+  > „Dovolání je dále značně nepřehledné, neboť žalobce zaměňuje poctivou držbu (kterou však upravuje § 992 o. z.) s nepoctivým úmyslem ve smyslu § 1095 o. z., o jehož posouzení v řízení šlo."
 - *NS* [22 Cdo 16/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54CA21C58B8EDB6C1258DAF0052C064?openDocument) — *Přípustnost dovolání Mimořádné vydržení (o. z.) Vlastnictví Žaloba určovací Pozemkový úřad*
 - *NS* [22 Cdo 3108/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8BDEDAC2F5719E6C1258DA60052AA39?openDocument) — *Mimořádné vydržení (o. z.)*
 - *NS* [22 Cdo 3258/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46639D388F2562CEC1258DB00052C12A?openDocument) — *Mimořádné vydržení (o. z.)*
+  > „Předložili otázku, „zda nepoctivé jednání (ve smyslu § 6 občanského zákoníku) mimořádného vydržitele vůči (stávajícímu) vlastníku věci nebrání mimořádnému vydržení ve smyslu § 1095 občanského zákoníku, a to v situaci, kdy se mimořádný vydržitel vlastnického práva v průběhu mimořádné vydržecí doby (ve smyslu § 1095 občanského zákoníku) dozví, …"
 - *NS* [22 Cdo 2572/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4F49603058F83BCC1258D600052A8DE?openDocument) — *Přípustnost dovolání Žaloba určovací Vlastnictví Mimořádné vydržení (o. z.)*
+  > „Podle ustanovení § 1095 o. z. uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá."
 - *NS* [22 Cdo 191/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3B09B5C552DEE43C1258C91004D0904?openDocument) — *Mimořádné vydržení (o. z.)*
+  > „Podle § 1095 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“) uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá."
 - *NS* [22 Cdo 3413/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/953D8E6C7C181145C1258C77004D2218?openDocument) — *Služebnost (o. z.) Vydržení*
+  > „Podle § 1095 o. z. uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá."
 - *NS* [22 Cdo 226/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F20737744278DE86C1258C4C0052AF72?openDocument) — *Přípustnost dovolání Vady podání Služebnost (o. z.) Mimořádné vydržení (o. z.)*
+  > „Nad rámec uvedeného se Nejvyšší soud zabýval otázkou mimořádného vydržení práva odpovídajícího služebnosti ve smyslu § 1095 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“)."
 
 ### § 1096—1098 — Specifika
 
@@ -113,6 +129,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
+  > „Podle § 1096 odst. 2 o. z. při mimořádném vydržení se nástupci započte vydržecí doba poctivého předchůdce bez dalšího."
 
 ---
 
@@ -135,6 +152,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 51/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-51-23_1) — usnesení, 28. 2. 2023
+  > „Co se týče osobního automobilu, samotná skutečnost, že nedošlo k jeho přepsání v registru, nemůže mít žádný následek na posouzení vlastnictví, neboť podle § 1099 zákona č. 89/2012 Sb., občanský zákoník, dochází k nabytí vlastnictví v okamžiku účinnosti kupní smlouvy."
 
 ### § 1100 — Postupný převod různým osobám
 
@@ -236,10 +254,12 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 95/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC24B6402E084889C12586DD00185207?openDocument) — *Věcná břemena Omezení vlastnictví (náhrada) Vlastnictví*
+  > „Namítá, že uvedená povinnost není s věcí spojena a spolu s převodem vlastnického práva nedochází k jejímu přechodu na nového nabyvatele; nelze ji považovat ani za povinnost přecházející ve smyslu § 1106 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [22 Cdo 1225/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F3D2B3AEE68FB213C1258D480052C137?openDocument) — *Předkupní právo*
 - *NS* [33 Cdo 3583/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3E313647270A60CC12586C5001607C6?openDocument) — *Odpovědnost za vady Převod vlastnictví*
 - *NS* [33 Cdo 1480/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4062DC8A1A0F7FDC1258670001B7F65?openDocument) — *Předkupní právo Podílové spoluvlastnictví*
 - *NS* [26 Cdo 557/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6181D817E6E1798FC125860E001E2E58?openDocument) — *Převod vlastnictví Vlastnictví bytů*
+  > „Podle § 1108 platí ustanovení § 1106 a 1107 obdobně také při nabytí vlastnického práva jinak než převodem."
 - *NS* [22 Cdo 2824/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37F5E19713116298C1258C91004D08E2?openDocument) — *Spoluvlastnictví Předkupní právo Předkupník, koupěchtivý (o. z.) Vlastnictví Dobré mravy…*
 
 ---
@@ -279,13 +299,21 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 870/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7CE464474E860DFC1258941001E2637?openDocument) — *Vlastnictví Vydržení*
+  > „2022, sp. zn. 22 Cdo 2961/2021; při výkladu § 1109 o. z. lze přihlédnout k tomu, co uvádí Dobrovolná, E ., in Spáčil, J., Králík, M. a kol : Občanský zákoník III. Komentář."
 - *NS* [24 Cdo 3166/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F20F9E94E8A4C6EC12589300020822B?openDocument) — *Nabytí vlastnického práva od neoprávněného*
+  > „Podle ustanovení § 1109 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o."
 - *NS* [20 Cdo 1040/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5159E5C2F8E4B3F1C12588F4001DF49D?openDocument) — *Přípustnost dovolání Nabytí vlastnického práva od neoprávněného Exekuce*
+  > „Jestliže v posuzované věci žalovaný formálně ohlášenou přípustnost dovolání k otázce „nabytí vlastnictví od neoprávněného“ podle § 1109 písm. c) o. z."
 - *NS* [22 ICdo 61/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3036527C49AB8336C1258D16004D3C84?openDocument) — *Vlastnictví Věc Veřejný seznam (o. z.) Katastr nemovitostí Převod nemovitostí*
+  > „Podle § 1109 o. z. lze nabýt vlastnické právo od neoprávněného pouze k věci nezapsané ve veřejném seznamu."
 - *NS* [23 Cdo 1888/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C3F9949CFB2D4ECC1258A2E0015F598?openDocument) — *Výhrada vlastnického práva Nabytí vlastnického práva od neoprávněného*
+  > „Sjednání výhrady vlastnického práva k věci, jež se nezapisuje do veřejného seznamu, mezi prodávajícím a kupujícím ve formě neodpovídající § 2134 větě první o. z. nevylučuje aplikaci § 1109 a násl. o. z. pro posouzení, zda se stala vlastníkem věci třetí osoba, které se kupující smluvně zavázal věc převést."
 - *NS* [23 Cdo 1837/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA19F67DE0749D65C12588EC001DC219?openDocument) — *Dobrá víra Nevlastník Vozidla silniční Vlastnictví Smlouva kupní*
+  > „V této souvislosti shledal naplnění všech zákonných podmínek pro nabytí vlastnictví traktoru žalobkyní od neoprávněného podle § 1109 písm. b) zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“)."
 - *NS* [21 Cdo 822/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60EE33FE15DE3782C1258941001E25C8?openDocument) — *Veřejná nedobrovolná dražba [ Veřejná dražba ] Vydání věci Vlastnictví Příklep Poctivost…*
+  > „Proti osobě, jež nabyla své vlastnické právo příklepem licitátora v nedobrovolné veřejné dražbě, provedené podle zákona č. 26/2000 Sb., o veřejných dražbách, ve znění pozdějších předpisů, může třetí osoba prosadit své tvrzené vlastnické právo, nabyté z jiného právního titulu, jenž není vymezen v ustanovení § 1109 a § 1110 o."
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
+  > „Nejvyšší soud přitom nepochybuje o tom, že podmínky nabývání vlastnického práva od neoprávněného (§ 1109 a násl. o. z.) se vztahují i na zajišťovací převody vlastnického práva; i v takovém případě se totiž nabyvatel stává vlastníkem převáděné věci (byť podmíněně s ohledem na účel uvedeného zajišťovacího institutu)."
 
 ### § 1110 — Použité věci od podnikatele
 
@@ -303,6 +331,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 83/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A3026E425424792C12589D800309D02?openDocument) — *Úschova Nabytí vlastnického práva od neoprávněného Dovolací důvody*
+  > „2017 odvezla žalobkyně vozidlo na technickou prohlídku před registrací po dovozu z Německa“ a „následně byla zapsána jako vlastník vozidla do nově vydaného osvědčení o registraci vozidla“, soud prvního stupně uvedl, že občanský zákoník umožňuje nabytí od nevlastníka v explicitně uvedených a definovaných případech, …"
 
 ### § 1111 — Mimo § 1109 a 1110
 
@@ -319,10 +348,15 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 **Judikatura (z místních zdrojů):**
 
 - *NS* [7 Tdo 967/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2786BEAF94C76E79C12589370020556C?openDocument) — *Legalizace výnosů z trestné činnosti Náhrada škody Propadnutí náhradní hodnoty Propadnut…*
+  > „Občanský zákoník sice stanoví v § 1109 až § 1111 případy, kdy je možné nabýt vlastnické právo i od neoprávněného, ani jedno ze zmiňovaných ustanovení však zjevně nelze na daný případ aplikovat."
 - *NS* [29 ICdo 144/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B16B5233D53BFC7CC1258684001E0EDB?openDocument) — *Žaloba vylučovací (excindační) Dobrá víra Nabytí vlastnického práva od neoprávněného Veř…*
+  > „K tomu srov. např. důvody usnesení Nejvyššího soudu ze dne 9. října 2019, sp. zn. 22 Cdo 240/2019, jakož i ustanovení § 1111 o. z. 3/ Technický průkaz pouze osvědčuje určité skutečnosti předpokládané zákonem č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č."
 - *NS* [22 Cdo 240/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4BF1276F32BC9F3C12584EE001F3BA5?openDocument) — *Přípustnost dovolání Exekuce Vlastnictví*
+  > „Při úvaze o nabytí vlastnického práva k vozidlu žalobkyní od B. P. proto bylo namístě aplikovat příslušná ustanovení občanského zákoníku vztahující se k nabytí od neoprávněného, v tomto případě ustanovení § 1111 o. z., jelikož privilegované nabytí ve smyslu § 1109 o. z., ani 1110 o. z. aplikovat nelze."
 - *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
+  > „2019 sp. zn. 22 Cdo 240/2019, na které odkazuje i sám dovolatel), že ustanovení § 1111 o. z. představuje obecnou skutkovou podstatu nabytí movité věci od neoprávněného a že předpokladem takového nabytí vlastnického práva je jednak existence platného právního titulu, a dále existence dobré víry v oprávnění převodce převést vlastnické právo k věci."
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
+  > „Insolvenční soud – vycházeje z ustanovení § 225 odst. 1 a 2 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona), z ustanovení § 7, § 1099, § 1109, § 1111 a § 2900 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o."
 
 ### § 1112—1113 — Vyloučení a CP
 
@@ -344,6 +378,7 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
+  > „Důvodová zpráva k vládnímu návrhu občanského zákoníku (sněmovní tisk číslo 362, Poslanecká sněmovna Parlamentu České republiky, 6. volební období 2010-2013) k ustanovení § 1112 o. z. uvádí: „Ochrana stavu založeného při nabytí od neoprávněného dobrou vírou nabyvatele nemůže být bezbřehá."
 
 ### § 1114 — Nabytí rozhodnutím orgánu VM
 
@@ -360,14 +395,23 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1825/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/345808FDD4507E60C1258D5B004A53AE?openDocument) — *Zmírnění křivd (restituce) Katastr nemovitostí Rozsudek částečný*
+  > „Podle § 1114 o. z. rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen."
 - *NS* [28 Cdo 1566/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/529A52A2F0789254C1258A1E00161184?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Vlastnictví*
+  > „Podle ustanovení § 1114 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále „o. z.“) rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen."
 - *NS* [33 Cdo 2230/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E4AC5F21B3A38D5C12589E90018251A?openDocument) — *Přípustnost dovolání Vlastnictví*
+  > „§ 1 odst. 1 zákona č. 256/2013 Sb., zákon o katastru nemovitostí, ve znění pozdějších předpisů (dále jen „katastrální zákon“)], platí pak, že v případě nemovitostí evidovaných v katastru nemovitostí se vlastnické právo k těmto nemovitostem nabývá dnem vkladu do katastru a tento vklad, resp. zápis má konstitutivní účinky Podle § 1114 o."
 - *NS* [28 Cdo 3627/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3AFFAF59181EE558C12588190015FE6A?openDocument) — *Náhradní pozemek Zmírnění křivd (restituce) Stavební řízení Vlastnictví*
+  > „Podle ustanovení § 1114 zákona č. 89/2012 Sb., občanský zákoník (dále „o. z.“) rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen."
 - *NS* [28 Cdo 1520/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8BB3352B50F4362C12587630018BE86?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Stavební řízení Vlastnictví*
+  > „Podle ustanovení § 1114 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“) rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen."
 - *NS* [28 Cdo 979/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F690D68D6A08D7B9C12587080018798C?openDocument) — *Přípustnost dovolání Zmírnění křivd (restituce) Stavební řízení Vlastnictví*
+  > „Rozdíl mezi vkladem vlastnického práva do katastru nemovitostí podle soukromé listiny na straně jedné a podle veřejné listiny, tedy i pravomocného rozhodnutí soudu o vlastnickém právu, na straně druhé tkví v tom, že v prvním případě si vklad i nadále uchovává svůj právotvorný význam v souladu s teorií o titulu a modu (má konstitutivní účinky, …"
 - *NS* [28 Cdo 509/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA0042D870D29B1DC125871E0018787D?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek Stavební řízení Vlastnictví*
+  > „Podle ustanovení § 1114 o. z. rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen."
 - *NS* [22 Cdo 295/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C10C47776EA07B0CC1258DCB004D078A?openDocument) — *Přípustnost dovolání Vlastnictví Žaloba určovací Zabrání věci*
+  > „V nyní posuzované věci žalovaná nabyla vlastnické právo k předmětným nemovitostem přechodem na základě usnesení o zabrání věci ve smyslu § 1114 zákona č. 89/2012 Sb., občanský zákoník, (dále „o. z.“)."
 - *NS* [21 Cdo 2576/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B34DBF98E78B002C125854B0018AAE0?openDocument) — *Vlastnictví Zástavní právo Vady řízení*
+  > „2011, sp. zn. 28 Cdo 1132/2010, vztahující se sice k úpravě ustanovení § 132 odst. 1 zákona č.40/1964 Sb., občanského zákoníku, avšak s ohledem na ustanovení § 1114 o. z. jsou závěry aplikovatelné i nyní, ostatně pochybnosti nejsou ani v komentářové literatuře)."
 
 ---
 
@@ -416,6 +460,7 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [29 Cdo 1194/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/238ACC30685C6B99C12589C000182BCC?openDocument) — *Insolvenční řízení Předkupní právo Převod vlastnictví Návrh na zahájení řízení*
 - *NS* [22 Cdo 890/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70657CB3C3F45FD6C125871100187EBA?openDocument) — *Předkupní právo*
 - *NS* [22 Cdo 1738/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7A5E6BC2F7D36678C125863E001DB091?openDocument) — *Spoluvlastnictví Předkupní právo*
+  > „Předkupní právo spoluvlastníků podle § 1124 odst. 1 o. z., ve znění účinném do 31. 12. 2017, bylo omezeno pouze na ty případy, ve kterých bylo spoluvlastnictví jako majetkové společenství nově založeno pořízením pro případ smrti nebo jinou právní skutečností."
 - *NS* [22 Cdo 4212/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/588DB4A60399C056C12585B20018FE25?openDocument) — *Předkupní právo*
 - *NS* [28 Cdo 2783/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B21B5B0A929275ADC1258525001F1030?openDocument) — *Náhradní pozemek Zmírnění křivd (restituce) Spoluvlastnictví*
 - *NS* [28 Cdo 4423/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62188E7386CA079BC12584C2001DFCA4?openDocument) — *Zmírnění křivd (restituce) Podílové spoluvlastnictví Předkupní právo Náhradní pozemek*

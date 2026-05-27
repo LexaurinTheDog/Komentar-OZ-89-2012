@@ -40,13 +40,20 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 - *NS* [26 Cdo 2945/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/047D4AA4424C1833C1258AF4004C9190?openDocument) — *Nájem*
 - *NS* [26 Cdo 5212/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/59530611580534E8C1258340004DDAEE?openDocument) — *Nájem*
+  > „Podle § 2201 o. z. nájemní smlouvou se pronajímatel zavazuje přenechat nájemci věc k dočasnému užívání a nájemce se zavazuje platit za to pronajímateli nájemné."
 - *NS* [26 Cdo 3010/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/716ABAE8A66A20AEC1258DA40052D9A5?openDocument) — *Nájem bytu*
+  > „Odvolací soud po částečném zopakování dokazování shodně se soudem prvního stupně k dílčímu nároku z titulu dlužného nájemného za dobu od srpna do ledna 2021 konstatoval, že mezi účastníky řízení byla platně uzavřena písemná nájemní smlouva o nájmu bytu dle § 2201 ve spojení s § 2235 zákona č."
 - *NS* [29 Cdo 3264/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D77AABDCE1FFD2F7C1258C590052A2A0?openDocument) — *Vyklizení bytu Insolvence Zajištění závazku Dražba Rodinná domácnost (o. z.) Smlouva náj…*
+  > „Podle § 2201 o. z. nájemní smlouvou se pronajímatel zavazuje přenechat nájemci věc k dočasnému užívání a nájemce se zavazuje platit za to pronajímateli nájemné."
 - *NS* [26 Cdo 2213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA53D2F7964DD3EAC1258957001DEA81?openDocument) — *Výpověď z nájmu*
 - *NS* [26 Cdo 2192/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26801AFF189B85FCC125872700188352?openDocument) — *Nájem Výpověď z nájmu*
+  > „Na rozdíl o předchozí právní úpravy (zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů) se v občanském zákoníku rozlišení obecné úpravy nájmu (§ 2201 a násl. o. z.) a úprav zvláštních (§ 2235 a násl. o."
 - *NS* [26 Cdo 3139/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475AADD6959936A5C12587150015FD9A?openDocument) — *Nájem*
+  > „Dovolání je však přípustné pro řešení otázky č. 2, zda smlouvu, kterou se poskytovatel sociálních služeb zavázal poskytnout sociální pobytovou službu podle zákona o sociálních službách, lze vypovědět jen z důvodů v ní sjednaných nebo subsidiárně i podle občanského zákoníku, a otázky č."
 - *NS* [26 Cdo 1932/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FDEBED4A8B5DA156C12583C1003ECAD8?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Zánik závazku*
+  > „Právní úprava nájmu prostoru sloužícího podnikání (§ 2302 a násl. o. z.), která s účinností od 1. ledna 2014 nahradila dosavadní právní úpravu nájmu nebytových prostor obsaženou v zákoně č. 116/1990 Sb., ani obecná úprava nájemního poměru (§ 2201 a násl. o. z.), již neobsahuje ustanovení obdobné § 9 odst. 1 uvedeného zákona."
 - *NS* [26 Cdo 1067/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FF160CF7C01E1BEC1258BA9004D23E9?openDocument) — *Nájem Leasing Dobré mravy*
+  > „S ohledem na účel vyjádřený ve Smlouvě, lze její označení považovat za správné, neboť přenechání věci k dočasnému užívání za úplatu je podstatným znakem smlouvy nájemní, která je upravena v § 2201 a násl. o. z. Pronajímatelka je podnikatelka (§ 420 a násl. o."
 
 ### § 2202 — Předmět nájmu
 
@@ -61,6 +68,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
+  > „2014, by se posuzovaly podle současné právní úpravy, tedy podle o. z. Podle úpravy v o. z. (§ 2202 a násl. a § 2332 a násl.) jsou nájem i pacht závazky, které zpravidla vznikají smlouvou, v obou případech jde o smlouvu konsenzuální."
 
 ### § 2203—2204 — Povinnosti pronajímatele
 
@@ -87,6 +95,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 740/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC708269E05A1CC1C12587E9001B8C3C?openDocument) — *Nájem Závazkové vztahy občanskoprávní*
+  > „Ustanovení § 2000 odst. 1 o. z. o možnosti předčasného zrušení závazku soudem se uplatní i v nájemních vztazích."
 
 ### § 2213—2216 — Povinnosti nájemce
 
@@ -170,6 +179,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 107/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96796186DA5DA7AFC1258DCA004D4DDD?openDocument) — *Nájem bytu*
 - *NS* [26 Cdo 1915/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/946DB80011589EB3C1258525001F1025?openDocument) — *Nájem bytu*
 - *NS* [26 Cdo 1826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CC0FEDD3202CFC9FC12584BA001E3C2E?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „I podle ustanovení § 2219 odst. 1 o. z."
 - *NS* [26 Cdo 1477/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/329CD38B41E18DF9C12584BA001E3C3F?openDocument) — *Nájem*
 - *NS* [26 Cdo 3959/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BA2629EF4AB5A2AC125845A00188967?openDocument) — *Nájem Poučovací povinnost soudu*
 - *NS* [26 Cdo 1793/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88B428E800570443C1258C6F004D21D1?openDocument) — *Bezdůvodné obohacení Družstvo Nájem bytu*
@@ -207,14 +217,22 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 1377/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/223D4D9E5338D1EAC1258D630052EAFE?openDocument) — *Nájemné*
+  > „Nejvyšší soud se ve svých rozhodnutích při výkladu § 2221 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, přihlásil k dřívější ustálené soudní praxi ohledně výkladu obsahově shodného § 680 odst. 2 zákona č. 40/1964, občanský zákoník ve znění do 31."
 - *NS* [26 Cdo 1139/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D140FBB21690ADCC1258B6F004D1980?openDocument) — *Nájem pozemku Vyklizení nemovitosti*
 - *NS* [26 Cdo 1534/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/822667F8B27B9EEFC12589A9001803A7?openDocument) — *Nájem domu (o. z.)*
+  > „Právní mocí rozsudku, který rozhodl o propadnutí majetku L. S. státu, žalobkyně jednak nabyla do svého vlastnictví jeho spoluvlastnický podíl k Nemovitostem a jednak v souladu s § 2221 o. z. ve spojení s § 41 odst. 1 zákona č. 219/2000 Sb."
 - *NS* [26 Cdo 2176/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFD130DA50818362C125866F001DE47D?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „Nový vlastník pak není vázán tímto ujednáním, neboť na něj přešla práva a povinnosti z dosud sjednaného nájmu (§ 2221 odst. 1 zákona č. 89/2012 Sb., občanský zákoník – dále jen „o. z.“), nikoli práva a povinnosti plynoucí z nájemní smlouvy, která by měla být teprve v budoucnu sjednána a týká se jiných prostor než stávajících pronajatých prostor."
 - *NS* [29 Cdo 3264/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D77AABDCE1FFD2F7C1258C590052A2A0?openDocument) — *Vyklizení bytu Insolvence Zajištění závazku Dražba Rodinná domácnost (o. z.) Smlouva náj…*
+  > „Při výkladu § 2221 o. z. se Nejvyšší soud v obecné rovině hlásí k závěrům, jež formuloval v souvislosti s interpretací obsahově obdobného § 680 odst. 2 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31. prosince 2013."
 - *NS* [26 Cdo 513/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2AE29315F996B1CC1258BCB0052C60F?openDocument) — *Výpověď z nájmu bytu Odvolání*
+  > „Při výkladu ustanovení § 2221 o. z. se Nejvyšší soud v obecné rovině hlásí k závěrům, jež formuloval v souvislosti s interpretací obsahově obdobného ustanovení § 680 odst. 2 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31."
 - *NS* [26 Cdo 2814/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AD7F853640FACFCC12589AA001A8F7A?openDocument) — *Neplatnost právního jednání (o. z.) Přechod nájmu bytu*
+  > „Podle § 2221 odst. 2 o. z. převedl–li pronajímatel vlastnické právo k věci, nejsou pro nového vlastníka závazná ujednání o pronajímatelových povinnostech, které zákon nestanoví."
 - *NS* [28 Cdo 270/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A998AAEFCE88FCE0C1258428001826FF?openDocument) — *Nájem Převod vlastnictví*
+  > „Podle § 2221 o. z. změní-li se vlastník věci, přejdou práva a povinnosti z nájmu na nového vlastníka (odstavec 1)."
 - *NS* [26 Cdo 1733/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD48E88324F47A55C1258D310052ADD4?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
+  > „Praha: C. H. Beck, 2013; k § 2221 In: Hulmák, M. a kol.: Občanský zákoník VI. Závazkové právo."
 
 ### § 2225—2234 — Skončení nájmu
 
@@ -288,6 +306,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 2213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA53D2F7964DD3EAC1258957001DEA81?openDocument) — *Výpověď z nájmu*
 - *NS* [26 Cdo 2192/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26801AFF189B85FCC125872700188352?openDocument) — *Nájem Výpověď z nájmu*
 - *NS* [22 Cdo 4574/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC7476A05C31F03EC125822F002B7F68?openDocument) — *Přípustnost dovolání Vlastnictví Nájem*
+  > „Případné veřejnoprávní důsledky proto nemají vliv na možnost aplikace § 2225 odst. 1 o. z. K právní úpravě rozhodné pro posouzení skončení nájemního vztahu Občanským zákoníkem č. 89/2012 Sb. se řídí práva a povinnosti vzniklé ode dne nabytí jeho účinnosti (§ 3028 odst. 1 o. z.)."
 - *NS* [26 Cdo 498/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C91329E4CF9B8C8C125891D001E0DC3?openDocument) — *Nájem pozemku Výpověď z nájmu Vyklizení nemovitosti Ochrana vlastnictví Zneužívání výkon…*
 - *NS* [26 Cdo 3385/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0310E27F2F665AE8C125884C0017D674?openDocument) — *Nájem bytu Vyklizení bytu Dobré mravy*
 
@@ -313,12 +332,19 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3010/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/716ABAE8A66A20AEC1258DA40052D9A5?openDocument) — *Nájem bytu*
+  > „Odvolací soud po částečném zopakování dokazování shodně se soudem prvního stupně k dílčímu nároku z titulu dlužného nájemného za dobu od srpna do ledna 2021 konstatoval, že mezi účastníky řízení byla platně uzavřena písemná nájemní smlouva o nájmu bytu dle § 2201 ve spojení s § 2235 zákona č."
 - *NS* [26 Cdo 2694/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/343A22AA3C72C8E3C12589FD002D33B8?openDocument) — 16. 5. 2023
+  > „2019 za účelem bydlení, jednalo se o nájem bytu podle § 2235 a násl. zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o. z.“)."
 - *NS* [27 Cdo 3144/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32BD257FC28C55F8C125871D00184981?openDocument) — *Nájem bytu Nájem domu (o. z.) Smlouva nájemní Vyklizení nemovitosti*
+  > „2014 řídí úpravou nájmu bytu a nájmu domu dle § 2235 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“); k tomu srov. § 3074 odst. 1 o. z."
 - *NS* [26 Cdo 3301/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F70EB415A165416C125840D001817CB?openDocument) — *Nájem Výpověď z nájmu bytu Dobrá víra*
+  > „Navíc byly-li všechny nemovitosti, které se staly předmětem nájmu podle Nájemní smlouvy, pronajaty za účelem vymezeným v předchozím odstavci, tj. k jinému účelu než k bydlení, nelze použít zvláštní ustanovení o nájmu bytu a nájmu domu (§ 2235 a násl. o. z.), a to ani ustanovení § 2238 o. z."
 - *NS* [26 Cdo 761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E1AE87B095F6392C125874D0018679C?openDocument) — *Výpověď z nájmu bytu Nájem bytu*
+  > „S ohledem na ochranu nájemce a relativně kogentní úpravu nájmu bytu v občanském zákoníku (§ 2235 odst. 1, § 2239 o. z.) je třeba posuzovat důvody, které by mohly vést k vypovězení nájmu podle § 2288 odst. 1 písm. d) o. z., restriktivně."
 - *NS* [26 Cdo 2059/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA23614B7030DC0CC12584780015F9D1?openDocument) — *Nájem bytu Úroky z prodlení*
+  > „Je-li účelem nájemní smlouvy zajištění bytových potřeb nájemce (a členů jeho domácnosti), jsou však strany takové smlouvy při sjednávání výše úroků z prodlení pro případ prodlení s placením nájemného omezeny relativně kogentní úpravou nájmu bytu vyplývající z § 2235 odst. 1 o. z., případně úpravou v § 2239 o. z."
 - *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
+  > „Nájem družstevního bytu je upraven v § 741 až 747 z. o. k., použijí se také ustanovení občanského zákoníku upravující nájem bytu (§ 2235 a násl. o. z.) a ujednání stanov družstva (jsou-li v souladu s kogentní úpravou nájmu bytu)."
 
 ### § 2237—2239 — Zakázaná ujednání
 
@@ -552,11 +578,15 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 1502/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F726C7C1CD326BEC125878E001B7D57?openDocument) — *Společný nájem bytu Společenství účastníků řízení Výpověď z nájmu bytu*
 - *NS* [26 Cdo 1296/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0B1314C278BF3ED3C125863D001DB4AB?openDocument) — *Nájem družstevního bytu [ Nájem bytu ] Nemajetková újma (o. z.) Imise*
 - *NS* [8 Tdo 1159/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CC2220B9C317C3DC12582DB003C58A6?openDocument) — *Porušení důležité povinnosti Usmrcení z nedbalosti*
+  > „Povinnost nájemce provádět běžnou údržbu a drobné opravy bytu ve smyslu § 2257 odst. 2 o. z. nelze považovat za důležitou povinnost ve smyslu zmiňovaného doktrinálního výkladu."
 - *NS* [26 Cdo 33/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C63F03FE87FD545C1258A1B0016118D?openDocument) — *Nájem bytu Byty družstevní*
 - *NS* [25 Cdo 1999/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C892C465CD4D5AA9C12589E100182FD8?openDocument) — *Odpovědnost subjektivní Smlouva o nájmu bytu*
+  > „Soudy obou stupňů těmto požadavkům dostály doplněním dokazování a výkladem nájemní smlouvy, tedy se v zásadě zachovaly podle pokynu dovolacího soudu a potřebnou problematiku ohledně odpovědnosti podle § 2910 o. z. a povinnosti nájemce podle § 2257 o. z. řádně zdůvodnily."
 - *NS* [25 Cdo 3230/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A3F2A6A53A4A55DC12588900017C1C7?openDocument) — *Přípustnost dovolání*
+  > „Podle § 2257 odst. 1 o. z. pronajímatel udržuje po dobu nájmu byt a dům ve stavu způsobilém k užívání."
 - *NS* [26 Cdo 3310/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D1FD45678DC9258C12588430017C34A?openDocument) — 8. 3. 2022
 - *NS* [25 Cdo 1817/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D2812813B7FC563BC12586C5001607C1?openDocument) — *Náhrada škody Nájem bytu*
+  > „Občanský zákoník sice v § 2257 zakládá povinnost nájemce provádět řádnou údržbu pronajatého bytu, a to v souladu s nařízením č."
 
 ### § 2278—2284 — Skončení nájmu bytu
 
@@ -733,12 +763,18 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 42/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9EA66D988748F35C1258AE70052A4E9?openDocument) — *Nájem bytu*
+  > „2019, sp. zn. II. ÚS 3230/19), Nejvyšší soud dovodil, že ustanovení § 2295 o. z. dává pronajímateli právo požadovat po (bývalém) nájemci úhradu za užívání bytu ve výši naposledy sjednaného nebo soudem stanoveného (§ 2249 o. z.) nájemného, ačkoliv již nájem skončil, a to až do doby, kdy mu (bývalý) nájemce byt předá."
 - *NS* [26 Cdo 3491/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E135D5CB323C794C1258ADB001B878F?openDocument) — *Bezdůvodné obohacení Bytové družstvo [ Družstvo ]*
+  > „Za správné považoval i jeho právní posouzení, podle něhož výši bezdůvodného obohacení na straně žalovaného za užívání bytu bez právního důvodu je třeba stanovit ve smyslu § 2295 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“) ve spojení s § 744 odst. 1 zákona č."
 - *NS* [26 Cdo 562/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDFD602AEDB92082C1258CA7004D2272?openDocument) — *Nájem bytu*
+  > „2014 (den podání žaloby o určení výše nájemného) až do vyklizení bytu (§ 2295 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů – dále jen „o. z.“), a rozdíl mezi jimi placeným a zvýšeným nájemným činí žalovanou částku."
 - *NS* [26 Cdo 1978/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B41A5C5DA689D76CC12586CB0018523A?openDocument) — *Nájem bytu*
 - *NS* [26 Cdo 2059/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA23614B7030DC0CC12584780015F9D1?openDocument) — *Nájem bytu Úroky z prodlení*
+  > „Při prodlení s placením nájemného je nájemce bytu povinen zaplatit úrok z prodlení ve výši stanovené nařízením vlády č. 351/2013 Sb. smluvní úrok z prodlení nelze sjednat nad tuto výši. Pronajímatel má právo na náhradu za užívání bytu (bývalým) nájemcem ve výši ujednaného nájemného podle § 2295 o. z."
 - *NS* [26 Cdo 105/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D0ACB9AC35AEF29AC1258C7A004D2A44?openDocument) — 1. 4. 2025
+  > „2012, z níž se k výkladu ustanovení § 2295 o. z. podává, že citované ustanovení má „napomoci vyloučit pochybnosti o povaze užívání bytu“."
 - *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
+  > „Podle § 2295 o. z. má pronajímatel právo na náhradu ve výši ujednaného nájemného, neodevzdá-li nájemce byt pronajímateli v den skončení nájmu až do dne, kdy nájemce pronajímateli byt skutečně odevzdá."
 
 ---
 
@@ -774,13 +810,20 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 - *NS* [26 Cdo 2612/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EDCC8C6969913DAC1258C5B0052D116?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
 - *NS* [26 Cdo 2788/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F84F9326F891A9C1258B88004D56C7?openDocument) — *Žaloba Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „2013), resp. nájmu prostoru sloužícího podnikání [podle § 2302 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), včetně ustanovení obsažených v zákoně č. 67/2013 Sb. (viz § 2303 o."
 - *NS* [26 Cdo 1378/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D7F40E95919A4428C1258915001E1A02?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „Ve smyslu § 2302 odst. 1 o. z. je totiž rozhodující účel nájmu (srovnej rozsudek Nejvyššího soudu ze dne 6."
 - *NS* [4 Tdo 1359/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EB85274BD5C9353C12586B700186BFC?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Nebytový prostor Neoprávněný zásah do práva k…*
+  > „Podle § 2302 odst."
 - *NS* [26 Cdo 4320/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/102C36882E157630C12585B30018C772?openDocument) — 13. 5. 2020
+  > „2014 se ve smyslu § 3074 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), posuzuje jako smlouva o nájmu prostoru sloužícího k podnikání (§ 2302 a násl. o. z.)."
 - *NS* [26 Cdo 3609/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/142DAEDF6576B665C125859B001905B8?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
+  > „Současně však dovodil, že s účinností od 1. ledna 2014 se právní vztah účastníků založený nájemní smlouvou řídí úpravou nájmu prostoru sloužícího podnikání (§ 2302 a násl. o. z.), která je úpravou dispozitivní (smysl ani účel těchto ustanovení nevyžaduje, aby šlo o úpravu kogentní), což nepochybně platí i o ustanovení § 2312 o."
 - *NS* [26 Cdo 2291/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7136477899E7E35EC1258D620052A934?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Právní jednání*
 - *NS* [26 Cdo 1001/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCE67B4AA22B624CC1258D11004D425D?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
+  > „Po právní stránce přisvědčil závěrům soudu prvního stupně, že na právní vztah účastníků je třeba aplikovat § 2302 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále též jen „o. z.“), upravující nájem prostor sloužících podnikání."
 - *NS* [26 Cdo 836/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C06648EDC2BEC26C1258B80004D3F61?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „2020 je smlouvou o nájmu prostor sloužících podnikání ve smyslu § 2302 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), a bylo možno ji vypovědět pouze v případě nedodržení placení domluvených splátek, ostatní zákonné výpovědní důvody účastníci v rámci své smluvní volnosti vyloučili."
 
 ### § 2306—2315 — Specifika
 
@@ -848,6 +891,7 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 428/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C732DB16129FEFB2C1258A4C0016016C?openDocument) — 9. 8. 2023
 - *NS* [26 Cdo 801/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/883605ABB3893099C1258A2E0015F613?openDocument) — *Nájem nebytových prostor*
 - *NS* [26 Cdo 3644/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1EA0E258E6D5A26C12589D10019E591?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „Ve sporu o zaplacení náhrady za převzetí zákaznické základny (§ 2315 o. z.) může být pasivně věcně legitimován jen (dřívější) pronajímatel."
 - *NS* [26 Cdo 596/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCA6CE9FBA7A0330C125889E0017D37A?openDocument) — *Výpověď z nájmu nebytových prostor*
 - *NS* [26 Cdo 3115/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C7D9CE326D0D8BC125889F0017F13C?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu nebytových prostor Náklady…*
 - *NS* [26 Cdo 89/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ECED6B6592331194C125884A0017BCB0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Výpověď z nájmu*
@@ -877,6 +921,7 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 30/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D076E55401C9758C1258C0300529EA3?openDocument) — *Spotřebitel Smlouva o ubytování Odstupné*
+  > „Podle § 2326 o. z."
 
 ### § 2327—2331 — Práva a povinnosti
 
@@ -950,10 +995,13 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3395/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/61DEA92511628C84C12589D300183F33?openDocument) — *Nájem pozemku Pacht /pachtýř, propachtovatel) (o. z.)*
+  > „Podle úpravy obsažené v zákoně č. 89/2012 Sb., občanský zákoník (§ 2202 a násl. a § 2332 a násl.) jsou nájem i pacht závazky, které zpravidla vznikají smlouvou, v obou případech jde o smlouvu konsenzuální."
 - *NS* [26 Cdo 3744/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46B20C10685785F8C1258AF4004C918B?openDocument) — *Pacht /pachtýř, propachtovatel) (o. z.) Náhrada škody*
 - *NS* [26 Cdo 2457/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/434E533F18A7895EC1258C540052D211?openDocument) — *Nájem nebytových prostor Pacht /pachtýř, propachtovatel) (o. z.)*
+  > „K odůvodnění uvedených právních názorů Nejvyšší soud mimo jiné uvedl, že podle úpravy obsažené v občanském zákoníku (§ 2202 a násl. a § 2332 a násl.) jsou nájem i pacht závazky, které zpravidla vznikají smlouvou, v obou případech jde o smlouvu konsenzuální."
 - *NS* [26 Cdo 3498/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BABA6F9C2C982F52C1258BA4004D3BB2?openDocument) — *Pacht /pachtýř, propachtovatel) (o. z.) Výklad projevu vůle*
 - *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
+  > „Poukázala na komentáře o. z. k § 2332 o. z. a dřívější judikaturu, zejména k občanskému zákonu č. 946/1811 Sb. z. s., který od 28. října 1918 platil jako československý obecný zákoník občanský (dále též jen “o.z.o.”) a z jejich závěrů dovozovala, že v daném případě se jedná o nájem prostoru sloužícího k podnikání."
 
 ### § 2333—2344 — Obecná pravidla
 
@@ -1058,6 +1106,7 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2495/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/261027562D8E55A8C1258948001DFF37?openDocument) — *Licence Pacht závodu (o. z.)*
+  > „Předmětem pachtu závodu nemůže být podle § 2349 a násl. o. z. ani právo nezapsaného označení podle § 10 odst. 2 zákona o ochranných známkách, neboť to vylučuje povaha tohoto práva."
 
 ### § 2350—2357 — Procesní rámec
 

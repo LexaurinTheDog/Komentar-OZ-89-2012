@@ -86,8 +86,11 @@ Příklad: zánik smlouvy o dílo + vznik práva na zaplacení ceny → současn
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54A00EDD96AC4F5C1258BA2004D3AF2?openDocument) — *Právní nástupnictví*
+  > „Ustanovení § 601 o. z. se zásadně uplatní na určení času nabytí (vzniku) či pozbytí (zániku) práva nebo povinnosti bez ohledu na to, na základě jaké právní skutečnosti tato práva nebo povinnosti vznikají či zanikají."
 - *NS* [21 Cdo 3103/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C26942CFB56CE05AC125848A0018093C?openDocument) — *Skončení pracovního poměru Dohoda o rozvázání pracovního poměru Lhůty Přechod práv a pov…*
+  > „Podle ustanovení § 601 odst. 1 o. z. nabývá-li se právo nebo vzniká-li povinnost v určitý den, nabude se nebo vznikne počátkem toho dne; zaniká-li právo nebo povinnost v určitý den, zanikne koncem toho dne."
 - *NS* [21 Cdo 5432/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91327E11B45D710C12582CD002624E4?openDocument) — *Konkurenční doložka Přípustnost dovolání*
+  > „12., závazek z konkurenční doložky vzniká ve smyslu ustanovení § 601 odst. 2 občanského zákoníku v tentýž okamžik, a proto již z povahy věci nemůže být za rozhodné období pro výpočet průměrného výdělku bráno období, do kterého spadá rozhodná skutečnost, ve vztahu k níž se průměrný výdělek zjišťuje."
 
 ### § 602—604 — Doba splnění, omezené trvání, změna stran
 
@@ -143,9 +146,13 @@ Příklady:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 1839/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04C78F63AF8B2DB6C1258BC5005297D5?openDocument) — *Nezákonné rozhodnutí Nesprávný úřední postup (nepřiměřená délka řízení) Odpovědnost stát…*
+  > „Podle § 605 odst. 2 o. z. konec lhůty nebo doby určené podle týdnů, měsíců nebo let připadá na den, který se pojmenováním nebo číslem shoduje se dnem, na který připadá skutečnost, od níž se lhůta nebo doba počítá."
 - *NS* [29 ICdo 88/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56981FC485591269C1258ADD00269AD2?openDocument) — *Incidenční spory (odporové spory) Lhůty*
+  > „§ 605 (o. z.) (1) Lhůta nebo doba určená podle dnů počíná dnem, který následuje po skutečnosti rozhodné pro její počátek."
 - *NS* [30 Cdo 3248/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43167E03586773C5C1258803001B7BD8?openDocument) — *Zadostiučinění (satisfakce) Promlčení Odpovědnost státu za nemajetkovou újmu [ Odpovědno…*
+  > „Od tohoto dne je třeba za použití § 605 odst. 2 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), určit konkrétní den, k němuž dochází k promlčení nároku."
 - *NS* [29 Cdo 1103/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE325AE7438A2AF8C1257FED0046E046?openDocument) — *Poplatky soudní*
+  > „Sama o sobě totiž nic nevypovídá o obsahu (dovolatelem uzavřených) smluv o výkonu funkce a o odměně (v tom smyslu, zda odpovídá požadavkům určeným ustanoveními § 59 a § 60 zákona o obchodních korporacích), nehledě na to, že nevyvratitelná domněnka bezplatnosti výkonu funkce by za stavu předvídaného ustanovením § 777 odst."
 
 ### § 606—608 — Polovina měsíce, soboty a kratší jednotky
 
@@ -177,6 +184,7 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 - *ÚS* [IV. ÚS 2026/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2026-14_1) — nález, 1. 10. 2014
 - *ÚS* [IV. ÚS 4868/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-4868-12_1) — usnesení, 3. 4. 2014
+  > „Jestliže nájemce svého práva první koupě nevyužije, což se stalo i v předmětném případě, je nájemce po uplynutí zmíněné šestiměsíční lhůty dále chráněn tak, že mu v souladu s ustanovením § 22 odst. 2 zmíněného zákona začne plynout jednoroční lhůta, v níž je mu dáno předkupní právo podle ustanovení § 606 o. z."
 - *NS* [30 Cdo 3248/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43167E03586773C5C1258803001B7BD8?openDocument) — *Zadostiučinění (satisfakce) Promlčení Odpovědnost státu za nemajetkovou újmu [ Odpovědno…*
 - *NS* [25 Cdo 1582/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/888A2D16F9875C82C1258A1A0016119B?openDocument) — *Promlčení Nemajetková újma (o. z.)*
 
@@ -279,6 +287,7 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [29 Cdo 2095/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D5914B95BE16F14C125897F00183486?openDocument) — *Odporovatelnost Výživné*
 - *NS* [25 Cdo 1620/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19D5CBC5011A35F0C125866A00289E26?openDocument) — *Promlčení Ochrana osobnosti Náhrada nemajetkové újmy (o. z.)*
 - *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — *Služebnost (o. z.) Promlčení*
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení."
 - *NS* [25 Cdo 240/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51F9330AE74EED31C1258B01004D3144?openDocument) — *Promlčení Náhrada škody Náhrada za ztrátu na výdělku*
 - *NS* [31 Cdo 3125/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056B104128B86B03C12589EA003AC7E3?openDocument) — *Promlčení Smlouva příkazní Splatnost pohledávky*
 - *NS* [31 Cdo 3263/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F1A776D81C25769C1258C98004D4F70?openDocument) — 23. 4. 2025
@@ -316,8 +325,10 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 - *NS* [22 Cdo 597/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB4C7920A156C081C12588E600183AE0?openDocument) — *Promlčení Absolutní majetková práva (o. z.) Služebnost (o. z.)*
 - *NS* [21 Cdo 575/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FECBDAF727554521C1258AAD001B7E6C?openDocument) — *Pohledávka Promlčení Zástavní právo (o. z.) Žaloba určovací Smlouva o půjčce Smlouva zás…*
 - *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — *Služebnost (o. z.) Promlčení*
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení."
 - *NS* [21 Cdo 1820/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C59492E04433948CC1258C350052B240?openDocument) — *Nepřípustnost dovolání Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání…*
 - *NS* [26 Cdo 749/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57E866F1BDEFCB24C1258B3B004D4275?openDocument) — *Bezdůvodné obohacení Smluvní pokuta Započtení pohledávky Bankovní záruka Pohledávka Smlo…*
+  > „Za provázané pohledávky lze podle § 617 odst. 1 o. z. pokládat pohledávky, které jsou součástí stejného právního vztahu není významné, zda jde o právo na plnění vzniklé ze smlouvy nebo o nárok na bezdůvodné obohacení."
 - *NS* [28 Cdo 2759/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3FF8DD1F3FB00C5CC1258C090052B4D8?openDocument) — *Bezdůvodné obohacení Promlčení Započtení Poctivost (o. z.) Zdánlivé právní jednání (o. z…*
 
 ### Pododdíl 2 — Počátek promlčecí lhůty (§ 619—628)
@@ -473,6 +484,7 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 
 - *ÚS* [II. ÚS 3463/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3463-14_1) — usnesení, 9. 12. 2014
 - *NS* [23 Cdo 2444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACDAADE3890F8FE0C1258AD6001B868E?openDocument) — *Promlčení*
+  > „Strany závazku si mohou podle § 630 o. z. ujednat delší promlčecí lhůtu i pro právo na vydání bezdůvodného obohacení."
 
 #### § 631—644 — Speciální lhůty
 
@@ -569,6 +581,7 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 - *NS* [30 Cdo 3337/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/260CDE084D663483C1258AF4004C9AD8?openDocument) — *Nepřípustnost dovolání Promlčení*
 - *NS* [28 Cdo 602/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FD7DD099F5C501DC1258BF20052A9F0?openDocument) — *Bezdůvodné obohacení Promlčení Přípustnost dovolání*
 - *NS* [23 Cdo 1191/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE2BB16273A3B20C12588EC001DC221?openDocument) — *Promlčení*
+  > „Úprava důsledků mimosoudního jednání věřitele a dlužníka (§ 647 o. z.) se neuplatní, jestliže promlčecí doba začala běžet před 1. lednem 2014."
 - *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — *Lhůta prekluzivní [ Lhůty ] Zkušební doba Neplatnost právního jednání (o. z.)*
 
 #### § 648 — Soudní řízení
@@ -593,6 +606,7 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 - *NS* [25 Cdo 1394/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52270B883381CB16C1258A1A0016116C?openDocument) — *Promlčení Přistoupení do řízení*
 - *NS* [30 Cdo 3153/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3C208A5FF19B9AFC12589CB00182A05?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Přípustnost dovolání Náhrada šk…*
 - *NS* [30 Cdo 1776/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056323D1EF396DF9C12585F60014BFAB?openDocument) — *Odpovědnost státu za škodu Promlčení*
+  > „Předběžné projednání nároku podle § 14 odst. 1 a 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) není řízením před orgánem veřejné moci ve smyslu § 648 o. z. pravidlo o prodloužení promlčecí lhůty podle § 652 o. z. se proto v takovém případě nepoužije."
 - *NS* [29 Cdo 1774/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CBA497A11BC457CC12582B400306411?openDocument) — *Insolvenční návrh Insolvenční řízení Promlčení*
 - *NS* [27 Cdo 2246/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7ADE0D5CC40222B6C1258D4E0052BBCF?openDocument) — *Společnost s ručením omezeným Zastoupení Poplatky soudní Dobré mravy Promlčení Péče řádn…*
 - *NS* [29 ICdo 92/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6B73DF355679337CC125895B001E1323?openDocument) — 30. 11. 2022
@@ -617,6 +631,7 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 
 - *NS* [21 Cdo 245/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0226D0B4918EA8B3C1258C300052A176?openDocument) — *Nepřípustnost dovolání Omyl*
 - *NS* [30 Cdo 1776/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056323D1EF396DF9C12585F60014BFAB?openDocument) — *Odpovědnost státu za škodu Promlčení*
+  > „Předběžné projednání nároku podle § 14 odst. 1 a 3 zákona č. 82/1998 Sb. (ve znění pozdějších předpisů) není řízením před orgánem veřejné moci ve smyslu § 648 o. z. pravidlo o prodloužení promlčecí lhůty podle § 652 o. z. se proto v takovém případě nepoužije."
 - *NS* [29 Cdo 1774/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CBA497A11BC457CC12582B400306411?openDocument) — *Insolvenční návrh Insolvenční řízení Promlčení*
 - *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — *Lhůta prekluzivní [ Lhůty ] Zkušební doba Neplatnost právního jednání (o. z.)*
 
@@ -692,9 +707,13 @@ Toto pravidlo umožňuje **revitalizaci spícího práva** — dlužník vědom�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 343/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B9C03E047620438C12582F600267860?openDocument) — *Prekluze Promlčení Výpověď z pracovního poměru Žaloba Lhůty*
+  > „Podle ustanovení § 654 odst. 2 o. z. ustanovení tohoto zákona o běhu promlčecí lhůty platí obdobně i pro prekluzivní lhůtu."
 - *NS* [21 Cdo 1316/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6CF648E1AF0D525C12588E300192789?openDocument) — 26. 7. 2022
+  > „Přitom podle ustanovení § 654 odst. 1 věty prvé o. z., jež upravuje prekluzi, platí, že nebylo-li právo vykonáno ve stanovené lhůtě, zanikne jen v případech stanovených zákonem výslovně."
 - *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — *Lhůta prekluzivní [ Lhůty ] Zkušební doba Neplatnost právního jednání (o. z.)*
+  > „Uvádí, že oba soudy vycházely z prekluzivní lhůty stanovené v § 72 zákoníku práce, pro kterou platí obdobně ustanovení o běhu promlčecí lhůty v § 654 odst. 2 občanského zákoníku, a že je proto možné uplatnit neplatnost rozvázání pracovního poměru v delší než dvouměsíční lhůtě, stanoví-li to § 645 až § 652 občanského zákoníku."
 - *NS* [21 Cdo 4075/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/634B0E8B4C39D487C125859C0019FEF0?openDocument) — *Lhůty Dohoda o rozvázání pracovního poměru Neplatnost právních jednání (o. z.) [ Právní…*
+  > „Podle ustanovení § 654 odst. 2 o. z. ustanovení tohoto zákona o běhu promlčecí lhůty platí obdobně i pro prekluzivní lhůtu."
 
 ---
 

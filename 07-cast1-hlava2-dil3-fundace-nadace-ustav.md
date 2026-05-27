@@ -54,7 +54,9 @@ Statut (§ 305) je **vnitřní dokument** fundace upravující její organizaci.
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
+  > „Podle § 303 o. z. je fundace právnická osoba vytvořená majetkem vyčleněným k určitému účelu."
 - *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
+  > „Z § 303 o. z. plyne, že fundace je právnická osoba vytvořená majetkem vyčleněným k určitému účelu."
 
 ---
 
@@ -242,6 +244,7 @@ Default: vkladová povinnost se plní **v penězích**. Pokud zakladatel ujednal
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
+  > „Podle § 314 odst. 2 o. z. nevydá-li zakladatel statut nadace společně s nadační listinou, vydá jej po předchozím souhlasu dozorčí rady správní rada do jednoho měsíce ode dne vzniku nadace."
 
 ### § 315 — Vznik nadace
 
@@ -1064,6 +1067,7 @@ Den zápisu do VR (rejstřík ústavů).
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — usnesení, 29. 4. 2015
+  > „Dovolací soud dále uvedl, že ke stěžovatelkou tvrzenému vzniku škody v důsledku údajného porušení předsmluvní povinnosti ze strany žalované nedošlo, neboť naopak neporušila žádnou právní povinnost a odvolací soud ji správně posoudil podle § 415 a § 420 o. z. (viz také rozsudek Nejvyššího soudu ze dne 11."
 
 ### § 416 — Výroční zpráva
 

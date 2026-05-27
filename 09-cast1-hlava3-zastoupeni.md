@@ -53,14 +53,22 @@ Hlava III pokrývá:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1B0042D7807B5C4C1258C150052AF8E?openDocument) — *Přípustnost dovolání Nabytí vlastnického práva od neoprávněného*
+  > „Z odůvodnění napadeného rozsudku vyplývá, že odvolací soud na základě provedeného dokazování dospěl k závěru, že z konkrétního způsobu jednání S. S. při uzavírání předmětné kupní smlouvy nebylo zřejmé, že by jednal za jiného, neboť při jednání nevystupoval jako zmocněnec žalobkyně, a tudíž podle § 436 odst. 1 věta druhá o. z."
 - *NS* [23 Cdo 1922/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42E3BC24E73EDD6BC1258A58001B822C?openDocument) — *Příslušnost soudu funkční Přípustnost dovolání Smlouva kupní Zastoupení Dobrá víra*
+  > „2014, neodchýlil, aplikoval-li ustanovení § 436 odst. 1, § 441, § 444 odst. 1 a § 446 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), upravující otázky zmocnění."
 - *NS* [33 Cdo 3430/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8472A5B38002189FC12588CA0017DEB3?openDocument) — *Dovolací důvody Zastoupení*
+  > „2015, sp. zn. 23 Cdo 4450/2014).“ Odvolací soud se náležitě vypořádal s otázkou přímého zastoupení žalobce (§ 436 o. z.) a rozhodl v souladu s výše označenou judikaturou Nejvyššího soudu."
 - *NS* [20 Cdo 3298/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F83D45C7546EC636C12583780058C3A6?openDocument) — *Plná moc Postoupení pohledávky Zastoupení Exekuce*
 - *NS* [27 Cdo 1977/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9D1F352D527B8AFC1258C8F004D374B?openDocument) — *Smluvní zastoupení (o. z.) Plná moc Odvolání*
+  > „[38] Občanský zákoník vychází z tzv. teorie reprezentace; právně jedná (projevuje vůli) zástupce, a to s účinky pro zastoupeného (§ 436 odst. 1 o. z.)."
 - *NS* [26 Cdo 1051/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21508ED652A275D1C12585510018A2D3?openDocument) — *Společenství vlastníků jednotek Zastoupení*
+  > „Každá osoba může jednat buďto osobně nebo prostřednictvím svého zástupce (§ 436 a násl. o. z.), institut zastoupení řeší nejen situace, kdy osoba sama právně jednat nemůže nebo to není vhodné, ale i situace, kdy sama sice jednat může, ale nechce (srovnej např. MELZER, F., TÉGL, P. a kolektiv: Občanský zákoník – velký komentář."
 - *NS* [33 Cdo 2131/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F465E15C1F56453C1258BF40052C108?openDocument) — *Datové schránky Zastoupení*
+  > „K otázce ad 1): Podle § 436 odst. 1 o. z. kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem; ze zastoupení vznikají práva a povinnosti přímo zastoupenému."
 - *NS* [26 Cdo 2076/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB7BF32991D43B6DC12584EF001E4A23?openDocument) — *Společenství vlastníků jednotek Zastoupení*
+  > „Konečně je třeba připomenout, že současná právní úprava umožňuje zásadně každému nechat se při právním jednání zastoupit (§ 436, § 441 odst. 1 o. z.)."
 - *NS* [26 Cdo 1657/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD6BD35B9AB85233C12584E7001E63CB?openDocument) — *Společenství vlastníků jednotek Zastoupení*
+  > „Ustanovení § 260 o. z., týkající se neplatnosti rozhodnutí orgánu spolku, se ve spojení s § 1221 o. z. použije přiměřeně i v poměrech společenství vlastníků. Vlastník jednotky je oprávněn nechat se zastoupit na shromáždění jinou osobou (odlišnou od vlastníka jednotky)."
 
 ### § 437 — Konflikt zájmů
 
@@ -99,14 +107,22 @@ Hlava III pokrývá:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 452/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-452-26_1) — usnesení, 5. 3. 2026
+  > „Konstatoval, že podle § 437 zákona č. 89/2012 Sb., občanský zákoník (dále jen "obč. zák."), ztratil stěžovatel oprávnění v tomto konkrétním případě vedlejšího účastníka zastupovat a smlouva o výpůjčce vedlejšího účastníka vůči stěžovateli nezavazuje (nikoliv, že je relativně neplatná, jak dovodil okresní soud)."
 - *NS* [26 Cdo 2355/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475438A7398366F0C1258D500052A4BF?openDocument) — *Přípustnost dovolání Zastoupení*
+  > „2015 ohledně předmětných nemovitostí, kterou uzavíral - na základě všeobecné, dříve udělené plné moci - na straně jedné v zastoupení žalobce a na straně druhé sám, spolu se žalovanou 2) (dále též jen „smlouva o výpůjčce“), je založena „zákonná domněnka rozporu zájmů“ dle § 437 odst. 2 věta druhá zákona č."
 - *NS* [27 Cdo 2699/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8342058E4C1098D7C125895D001DFD6E?openDocument) — *Člen voleného orgánu [ Právnická osoba ] Konflikt zájmů Obchodní korporace*
+  > „[4] Na uvedeném skutkovém základě soud prvního stupně dovodil, že smlouvy jsou neplatné, neboť zájmy žalobce při jejich uzavření byly ve střetu se zájmy společnosti a společnost vznesla námitku jejich relativní neplatnosti ve smyslu § 437 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [27 Cdo 3660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07DC9577AAB49B0FC1258955004080FC?openDocument) — *Plná moc Právní jednání (o. z.)*
+  > „[38] K účinkům právního jednání členů statutárních orgánů obchodních korporací při střetu jejich zájmu se zájmem obchodní korporace srovnej úpravu § 54 a násl. z. o. k. a § 437 zákona č. 89/2012 Sb., občanského zákoníku."
 - *NS* [33 Cdo 1383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE07DE9197251D60C1258C62004D3232?openDocument) — *Zastoupení Bezdůvodné obohacení*
+  > „Podle § 437 o. z. zastoupit jiného nemůže ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže při smluvním zastoupení zastoupený o takovém rozporu věděl nebo musel vědět (odst."
 - *NS* [24 Cdo 1625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE3B25A39B381F0EC1258B94004D26F6?openDocument) — *Pasiva Pozůstalost (o. z.) Vady řízení*
+  > „Podle ustanovení § 437 odst. 1 o. z. zastoupit jiného nemůže ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže při smluvním zastoupení zastoupený o takovém rozporu věděl nebo musel vědět."
 - *NS* [20 Cdo 2609/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FDD0FA86F88FE04C1258A89001B7BA0?openDocument) — *Exekuce Změna soudního rozhodnutí Přistoupení do řízení*
 - *NS* [27 Cdo 1206/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87CF06F649C6123BC125898F00189CBD?openDocument) — *Zastoupení Konflikt zájmů Člen voleného orgánu [ Právnická osoba ] Obchodní korporace*
+  > „Nedostatku zástupčího oprávnění zástupce (způsobeného nedovoleným střetem zájmů) se zastoupený dovolá ve smyslu § 437 odst. 2 věty první o. z. tím, že právní jednání bez zbytečného odkladu dodatečně neschválí."
 - *NS* [31 Cdo 1640/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2BAC2370632A213C12588F300319013?openDocument) — *Zastoupení Statutární orgán Konflikt zájmů Neplatnost právního jednání (o. z.) Jednání z…*
+  > „1. Jedná-li zástupce, jehož zájmy jsou ve střetu se zájmy zastoupeného, je tímto jednáním zastoupený vázán vždy, byla-li třetí osoba (s níž zástupce jednal) v dobré víře, že zástupci svědčí zástupčí oprávnění (že mezi zájmy zástupce a zájmy zastoupeného není rozpor, popř. že existující rozpor neomezuje zástupčí oprávnění zástupce). 2."
 
 ### § 438 — Osobní výkon, substituce
 
@@ -183,14 +199,23 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2936/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E861E6FEE68E5AEC1258D5B0052A57D?openDocument) — *Zastoupení Plná moc Podmínky řízení*
+  > „Podle § 440 o. z. překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 - *NS* [33 Cdo 3134/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27A863BD5D9C1820C1258D490052C0CB?openDocument) — *Zastoupení*
+  > „Praha: C. H. Beck, 2022, § 440 marg. č. 50 a § 436 marg. č. 49 a 50]."
 - *NS* [21 Cdo 2877/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51D2AAA24C35C4BEC1258BD90052AD79?openDocument) — *Nepřípustnost dovolání Zastoupení Výpověď z pracovního poměru Školství Dokazování*
+  > „Při výkladu ustanovení § 440 odst. 1 o. z. dospěl Nejvyšší soud k závěru, že k dodatečnému schválení právního jednání neoprávněného zástupce musí dojít ve lhůtě bez zbytečného odkladu běžící od okamžiku, kdy se zastoupený dozví o jednání, jakož i o tom, že je za něj učinil neoprávněný zástupce (srov."
 - *NS* [25 Cdo 47/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70AEC0C12CA50D30C1258A1E00161174?openDocument) — *Přípustnost dovolání Dovolací důvody Promlčení Náhrada škody Spotřebitel*
+  > „Nárok na náhradu škody za zpožděný let uplatnili žalobci v souladu s články 5 a 7 nařízení včas, tj. ve lhůtě stanovené v § 2553 odst. 3 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o."
 - *NS* [23 Cdo 325/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B90EF3E2CCBCA37C12589D50018295D?openDocument) — *Přípustnost dovolání Zastoupení Lhůty Vady řízení*
+  > „Při výkladu ustanovení § 440 odst. 1 věty první zákona č. 89/2012 Sb., občanský zákoník, dospěl Nejvyšší soud k závěru, že k dodatečnému schválení právního jednání neoprávněného zástupce musí dojít ve lhůtě bez zbytečného odkladu běžící od okamžiku, kdy se zastoupený dozví o jednání, jakož i o tom, že je za něj učinil neoprávněný zástupce (srov."
 - *NS* [23 Cdo 187/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D39C51A77483BF5BC1258963001D9317?openDocument) — *Přípustnost dovolání Zastoupení Lhůty Dobré mravy Promlčení*
+  > „Ve vztahu k výkladu § 440 odst. 1 věty první zákona č."
 - *NS* [33 Cdo 83/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/984CC617E345CD08C12588DD001879DF?openDocument) — *Dovolací důvody Nepřípustnost dovolání Lhůty Vady řízení Nepřípustnost dovolání subjekti…*
+  > „Nárok na náhradu škody za zpožděný let uplatnila žalobkyně v souladu s články 5 a 7 nařízení včas, tj. ve lhůtě stanovené v § 2553 odst. 3 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o."
 - *NS* [24 Cdo 1625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE3B25A39B381F0EC1258B94004D26F6?openDocument) — *Pasiva Pozůstalost (o. z.) Vady řízení*
+  > „§ 440 a § 446 o. z. a dále výklad podaný Nejvyšším soudem v R 37/2020).“ 25."
 - *NS* [33 Cdo 3817/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ACB1C8C86C61224C1258B61004D1921?openDocument) — *Zastoupení Jednání za právnickou osobu (o. z.) Statutární orgán*
+  > „Podle § 440 o. z. překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 
 ---
 
@@ -227,9 +252,13 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - *NS* [33 Cdo 3158/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EE46DFCF6E3EED4C125818A002609DC?openDocument) — *Přípustnost dovolání Cizinci Plná moc*
 - *NS* [33 Cdo 2067/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E28901C67DA14E8C1258D4E0052BC56?openDocument) — *Zastoupení Právní jednání (o. z.) Přípustnost dovolání Dovolací důvody*
 - *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — *Plná moc Společnost s ručením omezeným*
+  > „Podle § 440 odst. 1 OZ překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 - *NS* [23 Cdo 1565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AAC729000FB5C2E8C1258C0000529E1B?openDocument) — *Smluvní zastoupení (o. z.)*
+  > „§ 440 a § 446 o. z. a dále výklad podaný Nejvyšším soudem v rozsudku ze dne 23."
 - *NS* [26 Cdo 3916/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B18A0164B74E845C1258BE40052ACBB?openDocument) — *Nájem nebytových prostor Podnájem Jednání právnických osob Jednání za právnickou osobu (…*
+  > „2015 za druhou členku představenstva Denisu Pancnerovou), nelze tato jednání přičíst této společnosti, neboť plná moc je neplatná (§ 164 odst. 2 poslední věta o. z., § 588 o. z.), dodatečné schválení těchto jednání ze strany F.D.INVEST a. s. (§ 440 odst. 1 o."
 - *NS* [21 Cdo 2114/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0B4D14223797DE4C12586F400161271?openDocument) — *Přípustnost dovolání Okamžité zrušení pracovního poměru Plná moc Forma právních jednání…*
+  > „Náležitě však nevzal v úvahu možnost dodatečného schválení (ratihabice) okamžitého zrušení pracovního poměru žalovaným ve smyslu ustanovení § 440 odst. 1 o. z. a z tohoto pohledu se věcí nezabýval."
 - *NS* [26 Cdo 2076/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB7BF32991D43B6DC12584EF001E4A23?openDocument) — *Společenství vlastníků jednotek Zastoupení*
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
 
@@ -302,6 +331,7 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 
 - *NS* [23 Cdo 1846/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/859A3F6EC45E52A5C1258C140052AF87?openDocument) — *Přípustnost dovolání Zastoupení*
 - *NS* [33 Cdo 2131/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F465E15C1F56453C1258BF40052C108?openDocument) — *Datové schránky Zastoupení*
+  > „Podle § 440 o. z. překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 
 #### § 445 — Nezpůsobilý zástupce
 
@@ -337,8 +367,10 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1011/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2307D4198A71655EC1258B28004D420B?openDocument) — *Výpověď z pracovního poměru Zastoupení*
+  > „Podle ustanovení § 440 odst. 1 o. z. překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 - *NS* [33 Cdo 2067/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E28901C67DA14E8C1258D4E0052BC56?openDocument) — *Zastoupení Právní jednání (o. z.) Přípustnost dovolání Dovolací důvody*
 - *NS* [23 Cdo 1565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AAC729000FB5C2E8C1258C0000529E1B?openDocument) — *Smluvní zastoupení (o. z.)*
+  > „§ 440 a § 446 o. z. a dále výklad podaný Nejvyšším soudem v rozsudku ze dne 23."
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
 
 #### § 447 — Pokyny v plné moci
@@ -396,6 +428,7 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 - *NS* [26 Cdo 550/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA9EC9EFD0867439C12585B000190150?openDocument) — *Zastoupení Plná moc*
 - *NS* [30 Cdo 207/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EFD1957AC494B00C125871000189D4A?openDocument) — *Způsobilost být účastníkem řízení Podmínky řízení Právní nástupnictví Zastavení řízení*
+  > „Nedostatek způsobilosti žalobce být účastníkem řízení v den jeho zahájení vede vždy k zastavení řízení a nemůže být zhojen cestou tzv. neodkladného úkonu za zemřelého. Jednání zmocněnce v takovém případě musí být činěno již jménem právních nástupců zůstavitele."
 
 ### Oddíl 2 — Prokura (§ 450—456)
 
@@ -577,6 +610,7 @@ Pro tato jednání není možné použít plnou moc ani zákonné zastoupení �
 
 - *NS* [24 Cdo 2007/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D5D75C0FE912FE0C1258BB3004D3AF2?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Právní jednání (o. z.) Závěť*
 - *NS* [26 Cdo 3916/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B18A0164B74E845C1258BE40052ACBB?openDocument) — *Nájem nebytových prostor Podnájem Jednání právnických osob Jednání za právnickou osobu (…*
+  > „2015 za druhou členku představenstva Denisu Pancnerovou), nelze tato jednání přičíst této společnosti, neboť plná moc je neplatná (§ 164 odst. 2 poslední věta o. z., § 588 o. z.), dodatečné schválení těchto jednání ze strany F.D.INVEST a. s. (§ 440 odst. 1 o."
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
 - *NS* [24 Cdo 649/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/589B40EE33D09E77C1258DCE004D4DF2?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Účastníci řízení*
 - *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*

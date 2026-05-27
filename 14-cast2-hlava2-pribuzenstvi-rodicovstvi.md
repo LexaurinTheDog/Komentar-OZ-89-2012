@@ -107,6 +107,7 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2685/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9112E2C095C2DDE1C1258912004AE1A8?openDocument) — *Odkaz (odkazovník) (o. z.) Nepominutelný dědic (o. z.)*
+  > „Podle ustanovení § 774 o. z. o. povinný díl může být zanechán ve způsobu dědického podílu nebo odkazu i bez výslovného pojmenování jako povinný díl."
 
 ---
 
@@ -215,6 +216,7 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 19/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2EF3484057A5015C12586C5001607CC?openDocument) — *Určení otcovství*
+  > „Biologický otec dítěte narozeného za trvání manželství matky s jiným mužem, může výjimečně popřít otcovství manžela matky, sleduje-li popření otcovství soulad biologického, sociálního a právního otcovství."
 
 #### § 783—784 — Třetí domněnka: soudní rozhodnutí
 

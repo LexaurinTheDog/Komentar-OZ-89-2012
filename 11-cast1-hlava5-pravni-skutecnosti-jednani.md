@@ -49,14 +49,22 @@ Vnitřní struktura Dílu 1:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1064/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A80550A63C7B3EC9C1258BDD0052C466?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+  > „2021 adresovaný Drážnímu úřadu v Praze není (hmotně)právním jednáním ve smyslu § 545 a násl. o. z., nýbrž procesním úkonem vůči správnímu orgánu směřujícím k vydání rozhodnutí podle předpisu veřejného práva, u nějž je vyloučeno zkoumat či posuzovat (ne)platnost podle hmotněprávních předpisů."
 - *NS* [23 Cdo 3904/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/271FF9EFB52E7F77C1258B46004D184B?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+  > „Jak se totiž jednoznačně podává z napadeného rozhodnutí, v projednávané věci odvolací soud vyšel ze závěru, že usnesení zastupitelstva obce, které představuje toliko materiálně právní podmínku pro vyjádření projevu vůle obce, není právním jednáním žalovaného, které by podle ustanovení zákona bylo způsobilé vyvolat právní následky podle § 545 o. z."
 - *NS* [27 Cdo 395/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F3D064364BF20276C1258780001E1BE2?openDocument) — *Usnesení členské schůze (neplatnost) [ Družstvo ] Právní jednání (o. z.) Výklad právních…*
+  > „2014 usnesení členské schůze družstva právním jednáním [§ 45 odst. 3 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích), dále též jen „z. o. k.“, ve spojení s § 545 a násl. zákona č. 89/2012 Sb., občanského zákoníku], tj."
 - *NS* [21 Cdo 863/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00E2FD268BB77753C125871C0018696C?openDocument) — *Odbory Právní jednání (o. z.) Neplatnost právních jednání (o. z.) [ Právní jednání (o. z…*
+  > „§ 545 o. z.)."
 - *NS* [26 Cdo 3525/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/645817946A9E105CC1258A4C00160178?openDocument) — *Nájem pozemku Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Dovolací důvody…*
+  > „Protože však strany spolu prostřednictvím e-mailu běžně komunikovaly a jednalo se o zavedenou praxi (§ 545 o. z.), bylo možné akceptovat i tuto formu."
 - *NS* [21 Cdo 2061/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3309C001284EF5AC1258848002C0F1E?openDocument) — *Právní jednání (o. z.) Pracovněprávní vztahy*
+  > „Na postup při uzavírání pracovněprávních smluv se tak užijí pravidla obsažená v zákoně č. 89/2012 Sb., občanský zákoník, zejména potom ustanovení části první, hlavy V., § 545 a násl. a části čtvrté, hlavy I., § 1721 a násl. Smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [33 Cdo 3641/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A19D54D3824CFCAC125877A0018B6AF?openDocument) — *Právní jednání (o. z.) Obec*
 - *NS* [24 Cdo 3481/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E2CF2EC18538A84C12586D8001873DA?openDocument) — *Přípustnost dovolání Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Žalo…*
+  > „Jestliže § 545 o. z."
 - *NS* [25 Cdo 740/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41D0C1E5F3D25378C1258D710052AAEB?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Škoda na převzaté věci [ Škod…*
+  > „Na základě dokazování založeného především na výpovědích svědků uzavřel okresní soud, že žalovaný se zavázal, že zajistí pro žalobce (otce jeho tehdejší partnerky J. L.) opravu jeho poškozeného vozidla, a to se zohledněním výkladu tohoto právního jednání ve smyslu § 545 a § 6 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o."
 
 ### § 546 — Konání a opomenutí; výslovný a konkludentní projev
 
@@ -86,10 +94,15 @@ Vnitřní struktura Dílu 1:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2039/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26121ECB02778D0EC1258AF4004C97C9?openDocument) — *Dovolací důvody Právní jednání (o. z.)*
+  > „Shodné závěry k ustanovení § 546 o. z. zaujala i právní nauka [srov."
 - *NS* [26 Cdo 2534/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81809C175D40B466C1258438001818C0?openDocument) — *Právní jednání (o. z.)*
+  > „Podle § 546 právně lze jednat konáním nebo opomenutím; může se tak stát výslovně nebo jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoba chtěla projevit."
 - *NS* [23 Cdo 3482/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9BBD3CE29BCE36AC1258DD2004D1F2C?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Nemožnost plnění*
+  > „Podle § 546 právně lze jednat konáním nebo opomenutím, může se tak stát výslovně nebo jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoba chtěla projevit."
 - *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+  > „Podle § 546 o. z. platí, že právně lze jednat konáním nebo opomenutím; může se tak stát výslovně nebo jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoba chtěla projevit."
 - *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
+  > „Lze je učinit konáním nebo opomenutím, výslovně nebo jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoba chtěla projevit (§ 546 o. z.)."
 
 ### § 547 — Obsahový a účelový soulad s mravy a zákonem
 
@@ -112,12 +125,18 @@ Vnitřní struktura Dílu 1:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2534/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/603168EE2B9ECCB9C12588F7001DD8CE?openDocument) — *Přípustnost dovolání*
+  > „[8] Posouzení souladu či rozporu právního jednání s dobrými mravy podle § 1 odst. 2 a § 547 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“), závisí v každém konkrétním případě na úvaze soudu, neboť tato ustanovení jsou právními normami s relativně neurčitou (abstraktní) hypotézou, tj."
 - *NS* [33 Cdo 3641/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A19D54D3824CFCAC125877A0018B6AF?openDocument) — *Právní jednání (o. z.) Obec*
 - *NS* [32 Cdo 1490/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66E7E8E569F7E513C1258645001DC93F?openDocument) — *Dobré mravy Úroky z prodlení*
+  > „Podle § 547 o. z. právní jednání musí obsahem a účelem odpovídat dobrým mravům i zákonu."
 - *NS* [24 Cdo 3798/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6940B0255E8AEC88C12585900018E010?openDocument) — 27. 3. 2020
+  > „Jak se praví již v důvodové zprávě k novému civilnímu kodexu, „obcházení účelu zákona není jako důvod neplatnosti výslovně uvedeno, nicméně není pochyb, že i to zakládá rozpor se zákonem a navržené znění úvodního ustanovení kryje i tento případ.“ Nejvyšší soud pak v rozsudku ze dne 15. října 2018, sp. zn."
 - *NS* [33 ICdo 184/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B25349179F8BC6D8C1258C62004D322A?openDocument) — *Dobré mravy Smluvní pokuta Neplatnost právního jednání (o. z.) Podnikatel*
+  > „Podle § 547 o. z. právní jednání musí obsahem a účelem odpovídat dobrým mravům a zákonu."
 - *NS* [21 Cdo 1070/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C145BAFE5234839C12587F1001B8A57?openDocument) — *Dobré mravy Zneužívání výkonu práv a povinností Zástavní právo Neplatnost právního jedná…*
+  > „Podle ustanovení § 547 o. z. právní jednání musí obsahem a účelem odpovídat dobrým mravům i zákonu."
 - *NS* [23 ICdo 56/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF7647A39D8B1A04C12586DC002F082D?openDocument) — *Úroky Neplatnost právního jednání (o. z.) Dobré mravy Lichva (o. z.) Podnikatel Spotřebi…*
+  > „Podle § 547 o. z. právní jednání musí obsahem a účelem odpovídat dobrým mravům i zákonu."
 
 ### § 548—550 — Podmínky a doložení času
 
@@ -161,14 +180,22 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 157/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF1F3CF5CD7AEB56C12589E100182F9F?openDocument) — *Blankosměnka [ Směnka ] Směnka Incidenční spory Popření pohledávky Pohledávka Dovolání O…*
+  > „Podle § 548 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“), lze vznik, změnu nebo zánik práv vázat na splnění podmínky."
 - *NS* [29 ICdo 32/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6B89317DF980026C12589C000182BD4?openDocument) — *Blankosměnka [ Směnka ] Pohledávka Insolvenční řízení Insolvence Přihláška pohledávky*
+  > „Věřitel jako remitent směnky je oprávněn přihlásit do insolvenčního řízení vedeného na majetek směnečného rukojmího pohledávku z blankosměnky jako pohledávku podmíněnou ve smyslu § 173 odst. 3 insolvenčního zákona."
 - *NS* [24 Cdo 2393/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4952CFB5D27C830BC125867D001DFF4D?openDocument) — *Smlouva darovací Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 548 odst. 1 o. z. vznik, změnu nebo zánik práv lze vázat na splnění podmínky."
 - *NS* [29 ICdo 83/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE751C92BA617C2CC1258C440052B2E0?openDocument) — *Neúčinnost právního jednání Postoupení pohledávky Incidenční spory (žaloba odpůrčí)*
+  > „Podle § 548 o. z. vznik, změnu nebo zánik práv lze vázat na splnění podmínky."
 - *NS* [29 ICdo 59/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EDA6B1B4D696208C1258B8E004D414F?openDocument) — *Právní jednání (o. z.) Incidenční spory*
+  > „Rozvazovací podmínku lze sjednat i v dohodě o prominutí dluhu."
 - *NS* [23 Cdo 1694/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/271FD0BC9EC16EBBC1258B5D004D2F5B?openDocument) — *Veřejný příslib*
+  > „Právní úprava fikce splnění podmínky podle § 549 odst. 2 o. z. se (analogicky) uplatní i pro posouzení záměrného zmaření splnění podmínky veřejného příslibu odměny přislibujícím."
 - *NS* [33 Cdo 832/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67E3D0C10AEC0C58C1258A5F001B9143?openDocument) — *Smluvní pokuta Přípustnost dovolání*
+  > „Závazek žalovaného odstranit „černou“ stavbu na svém pozemku posoudil jako platný závazek spojený s rozvazovací podmínkou podle § 548 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), která nebyla naplněna."
 - *NS* [32 Cdo 3505/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63E1A6C19C2A686FC125871E00187851?openDocument) — *Smlouva o dílo*
 - *NS* [33 Cdo 4737/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/714ABB8D66615420C12585720019B3B8?openDocument) — *Předkupní právo*
+  > „Uplatněním předkupního práva dochází k naplnění rozvazovací podmínky, ale pouze, pokud je předkupní právo uplatněno předkupníkem vůči dlužníkovi (§ 2145 o. z. ve spojení s § 548 odst. 2 o. z.)."
 
 ### § 551—554 — Zdánlivé právní jednání
 
@@ -206,10 +233,13 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 - *NS* [33 ICdo 75/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FB8B2AB9F836A34C1258D790052DA50?openDocument) — *Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [26 Cdo 2880/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F5532CC58BCAF06C1258C5B0052D12D?openDocument) — *Nájem domu (o. z.) Právní jednání*
 - *NS* [23 Cdo 2796/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/611CC7FA27DC559FC1258AAC001B7E69?openDocument) — *Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „2022, sp. zn. 23 Cdo 2901/2021, Nejvyšší soud vyložil, že i nadále je jedním z předpokladů zániku pohledávek jednostranným započtením (srov. ustanovení § 1982 o. z.) kompenzační projev, jenž vyhovuje požadavkům na právní jednání podle ustanovení § 551 až § 553 o. z."
 - *NS* [22 Cdo 3515/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D22451D07EB29BC6C12589DA00183D86?openDocument) — *Přípustnost dovolání Zajištění závazku převodem práva Dobrá víra*
 - *NS* [33 ICdo 154/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/642B8EEFE1131C79C1258D6F0052941C?openDocument) — *Majetková podstata Žaloba vylučovací (excindační) Smlouva kupní*
+  > „2014 a pro kolizi §§ 551–552 o. z. s § 225 IZ v této konfiguraci řešeny“ a že se odvolací soud „odchýlil i od závazných pokynů vyslovených v jeho zrušujícím usnesení ze dne 21."
 - *NS* [23 Cdo 1001/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E827958B8689CCF7C1258C260052C43C?openDocument) — *Přípustnost dovolání Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad p…*
 - *NS* [33 Cdo 601/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D79F1E0DAC4E418C1258B42004D42EE?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+  > „Podle § 551 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), o právní jednání nejde, chybí-li vůle jednající osoby."
 - *NS* [28 Cdo 1758/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07B2092CE8900B84C1258A4300160F91?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení Výklad projevu vůle Znalecký posudek*
 - *NS* [32 Cdo 3505/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63E1A6C19C2A686FC125871E00187851?openDocument) — *Smlouva o dílo*
 
@@ -241,13 +271,20 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 
 - *NS* [23 Cdo 2520/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8814BD146F1B916FC1258DB00052C047?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [33 Cdo 3148/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8428259A3C6DAA1C1258D840052B090?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Dokazování*
+  > „Podle § 555 o. z. se právní jednání se posuzuje podle svého obsahu."
 - *NS* [29 Cdo 2387/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3E4F465164D0BAB5C1258D47005299E2?openDocument) — *Blankosměnka [ Směnka ] Smlouva nepojmenovaná (inominátní) Smlouva spotřebitelská Smluvn…*
+  > „Výklad předmětného ujednání smlouvy o půjčce odvolacím soudem nemá Nejvyšší soud ani za zjevně nepřiměřený (rozporný s výkladovými pravidly určenými ustanoveními § 555 a násl. zákona č. 89/2012 Sb., občanského zákoníku)."
 - *NS* [33 Cdo 688/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2537478E2D9BF37C1258CA6004D1E7A?openDocument) — *Smlouva o dílo Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Zdánlivé právn…*
+  > „Právní jednání, jehož neurčitost se soudu nepodaří odstranit výkladem (§ 555 a násl. o. z.), tzn. ozřejmit, k jakým právním následkům projevená vůle účastníků směřovala (srov. rozsudek Nejvyššího soudu ze dne 23."
 - *NS* [33 Cdo 3573/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/85924BF2CFF1983AC1258BE10052C404?openDocument) — *Splnění dluhu Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Uvedl, že „ustanovení § 555 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), formuluje východisko výkladu jakéhokoliv právního jednání; podstatný je jeho obsah, nikoliv např. jeho označení či pojmenování.“ „Základní (prvotní) pravidlo výkladu adresovaných právních jednání formuluje ustanovení § 556 odst. 1 věta první o. z."
 - *NS* [21 Cdo 794/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10A7CFFFE9869591C1258BA1004D3C02?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Okamžité zrušení pracovního p…*
+  > „2021, sp. zn. 21 Cdo 620/2021, a v nich vyjádřený právní názor, že právní jednání se posuzuje podle svého obsahu (§ 555 odst."
 - *NS* [27 Cdo 2767/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/879050A6AFD719B2C1258B41004D14CF?openDocument) — *Převodní smlouva Podíl v obchodní korporaci [ Obchodní korporace ] Zdánlivé právní jedná…*
 - *NS* [33 Cdo 2895/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/935CAE9CC1A66876C1258B0F004D4E84?openDocument) — *Přípustnost dovolání Závaznost rozsudku Výklad právních jednání (o. z.) [ Právní jednání…*
+  > „2018 podle § 555 odst. 1 o. z. dovodil, že taková „přátelská“ dohoda byla uzavřena jen mezi žalovanou a M. K. jako fyzickou osobou."
 - *NS* [20 Cdo 2944/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45A683571D8AA09AC1258AF4004C8F84?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Spotřebitel Vykonatelnost roz…*
+  > „Smlouvu o zápůjčce rovněž nelze považovat za disimulované právní jednání podle § 555 o. z. z důvodu, že finanční prostředky neměly být poskytnuty povinné, nýbrž společnosti Auto Duba."
 
 ### § 556 — Subjektivní a objektivní výklad
 
@@ -276,14 +313,23 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 781/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E2F5F2B79C0C527C1258DBA00529FDA?openDocument) — *Přípustnost dovolání Právní jednání Dobrá víra Vady řízení*
+  > „Teprve tehdy, nelze-li zjistit skutečnou vůli (úmysl) jednajícího, postupuje soud podle pravidla vyjádřeného v § 556 odst. 1 větě druhé o. z. Nejvyšší soud zdůraznil, že základním hlediskem pro výklad právního jednání podle právní úpravy účinné od 1."
 - *NS* [21 Cdo 2995/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9BCC0EF35CED9D0C1258D7A0052C2AC?openDocument) — *Nepřípustnost dovolání Výpověď z pracovního poměru Výklad právních jednání (o. z.) [ Prá…*
+  > „§ 556 odst. 1 o. z.)."
 - *NS* [23 Cdo 190/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1866A666D3CAC191C1258D560052D4BA?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Požadavkům na výklad právního jednání stanoveným v § 556 o. z. tak, jak tato pravidla pojímá ve své rozhodovací praxi dovolací soud, odvolací soud dostál."
 - *NS* [27 Cdo 681/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03704E2E965197CCC1258CDF004D1CEA?openDocument) — *Valná hromada Usnesení valné hromady (neplatnost) [ Valná hromada ] Společnost s ručením…*
+  > „2) Základní (prvotní) pravidlo výkladu adresovaných právních jednání formuluje ustanovení § 556 odst. 1 věty první zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [21 Cdo 1451/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/354E0A3AD73E43DFC1258CD5004D5310?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Dokazování Vady řízení*
+  > „Při zjišťování tohoto úmyslu je třeba vycházet z hledisek uvedených v § 556 odst. 2 o. z. a přihlédnout též k praxi zavedené mezi stranami v právním styku, k tomu, co právnímu jednání předcházelo, i k tomu, jak strany následně daly najevo, jaký obsah a význam právnímu jednání přikládají."
 - *NS* [28 Cdo 3117/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62083041A82B92EAC1258CB3004D3545?openDocument) — *Smlouva zprostředkovatelská Smluvní pokuta Přípustnost dovolání*
+  > „Teprve tehdy, nelze-li zjistit skutečnou vůli (úmysl) jednajícího, postupuje soud podle pravidla vyjádřeného v § 556 odst. 1 větě druhé o. z. Ustanovení § 556 odst. 2 o. z. pak uvádí demonstrativní výčet okolností, k nimž soud při výkladu právního jednání přihlíží."
 - *NS* [33 Cdo 2639/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C24E7095D5423386C1258C9A004D5019?openDocument) — *Přípustnost dovolání Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání (o…*
+  > „Nepodaří-li se společný úmysl smluvních stran subjektivní metodou výkladu zjistit, je namístě užít objektivní metodu interpretace, tj. přisoudit projevu vůle význam, jaký by mu zpravidla přikládala osoba v postavení toho, jemuž byl projev určen (§ 556 odst. 1 věta druhá o. z.)."
 - *NS* [23 Cdo 3247/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C4918DDA0B714D7AC1258CA4004D3A32?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 556 odst. 2 o. z. při výkladu projevu vůle se přihlédne k praxi zavedené mezi stranami v právním styku, k tomu, co právnímu jednání předcházelo, i k tomu, jak strany následně daly najevo, jaký obsah a význam právnímu jednání přikládají."
 - *NS* [28 Cdo 3513/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EDE4427D40CC84AC1258C540052D1F3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o dílo*
+  > „Kromě úmyslu (záměru) jednajícího ve zjištěné nebo přisouzené podobě se při výkladu projevu vůle přihlíží také k praxi zavedené mezi stranami v právním styku, k tomu, co projevu vůle předcházelo, a k tomu, jak strany daly následně najevo, jaký obsah a význam projevu vůle přikládají (§ 556 odst. 2 o. z.)."
 
 ### § 557 — Contra proferentem
 
@@ -303,14 +349,23 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1471/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93DD1C2EB6A156CAC1258D500052A4AD?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 557 o. z. připouští-li použitý výraz různý výklad, vyloží se v pochybnostech k tíži toho, kdo výrazu použil jako první."
 - *NS* [23 Cdo 186/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0BBC071C313F20BC1258CB3004D359B?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Vady říz…*
+  > „Dovolací soud ve své rozhodovací praxi k pravidlu contra proferentem , obsaženému v § 557 o. z., opakovaně uvedl, že zásada, podle níž se pojem vykládá k tíži toho, kdo jej použil jako první, může nalézt uplatnění jen, je-li vykládaný pojem skutečně nejednoznačný (k tomu srov. například usnesení Nejvyššího soudu ze dne 25."
 - *NS* [23 Cdo 764/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF09896D85DBA911C12588840017D114?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Jestliže v dalším řízení nebude lze pochybnosti o obsahu tohoto právního jednání odstranit ani za použití výkladových metod shora popsaných, je pak namístě posoudit i výklad contra proferentem k tíži toho, kdo výrazu použil první (§ 557 o. z.)."
 - *NS* [23 Cdo 468/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04607DB32766C0BDC1258719001871DB?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Dle § 557 o. z. připouští-li použitý výraz různý výklad, vyloží se v pochybnostech k tíži toho, kdo výrazu použil jako první."
 - *NS* [29 Cdo 3950/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/898105F23D7B8DA0C12585880018F3CD?openDocument) — *Bankovní záruka*
+  > „V poměrech projednávané věci pak Nejvyšší soud (ve shodě s odvolacím soudem) nemá žádné pochybnosti o tom, že prostor pro aplikaci ustanovení § 557 o. z."
 - *NS* [23 Cdo 505/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A23CC0431346D07C12582EA00315F6B?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 557 o. z. platí, že připouští-li použitý výraz různý výklad, vyloží se v pochybnostech k tíži toho, kdo výrazu použil jako první."
 - *NS* [23 Cdo 3318/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8178F2DCD9478449C1258DA90052AA8E?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Dovolací soud ve své rozhodovací praxi k pravidlu contra proferentem , obsaženému v § 557 o. z., opakovaně uvedl, že zásada, podle níž se pojem vykládá k tíži toho, kdo jej použil jako první, může nalézt uplatnění jen, je-li vykládaný pojem skutečně nejednoznačný (k tomu srov. například usnesení Nejvyššího soudu ze dne 25."
 - *NS* [26 Cdo 2280/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B410AFCD85AD679C1258D750052CA46?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Za tohoto stavu nebyl důvod aplikovat § 557 o. z. (k jen podpůrnému, resp. doplňujícímu charakteru výkladového pravidla zakotveného v § 557 o. z. srov. již zmíněný rozsudek Nejvyššího soudu sp. zn. 33 Cdo 3857/2023, rozsudek Nejvyššího soudu ze dne 25."
 - *NS* [33 Cdo 3051/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4B5428BC6FE47CBC1258D18004D3C00?openDocument) — *Přípustnost dovolání Právní úkony Výklad právních jednání (o. z.) [ Právní jednání (o. z…*
+  > „Byl-li při výslovném projevu vůle použit výraz, který sám o sobě připouští různý výklad, a nepodaří-li se výše uvedeným postupem vyjasnit projev vůle, měl by se podle ustanovení § 557 o. z. vyložit k tíži toho, kdo výrazu použil jako první."
 
 ### § 558 — Výklad v podnikatelském styku
 
@@ -336,13 +391,21 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2798/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2798-14_1) — usnesení, 24. 6. 2015
+  > „2007 N 133/2007, NZ 122/2007, obvodní soud konstatoval, že má všechny náležitosti, které vyžaduje ustanovení § 558 o. z. Uznání dluhu tedy založilo právní domněnku existence dluhu, která v řízení nebyla žádným způsobem vyvrácena."
 - *NS* [28 Cdo 1331/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED7C950CC6414464C1257C050034CE35?openDocument) — *Postoupení pohledávky Promlčení Uznání závazku*
+  > „Podle dovolacího soudu nelze tedy považovat za správný rozsudek odvolacího soudu, který vycházel z názoru, že žalovaný neuznal závazek na zaplacení předmětné částky a nemohlo dojít k promlčení nároku podle § 110 odst. 1 o. z., neboť došlo k platnému uznání závazku ve smyslu § 558 o. z."
 - *NS* [26 Cdo 2280/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B410AFCD85AD679C1258D750052CA46?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Pochybnosti o obsahu pojmu „smluvní penále“, použitém ve sporném ujednání, lze tudíž v souzené věci odstranit za použití výkladových pravidel stanovených v § 556 a v § 558 o. z."
 - *NS* [28 Cdo 3520/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA8D50EA588D6234C1258C92004D0A3A?openDocument) — *Závazek (o. z.)*
+  > „Podle § 558 odst. 1 o. z. v právním styku s podnikatelem se výrazu připouštějícímu různý výklad přisoudí význam, jaký má v takovém styku pravidelně."
 - *NS* [32 Cdo 1150/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2872495745EC4301C1258669001DDC84?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Vady řízení*
+  > „Ustanovení § 558 odst. 1 věty první o. z. pak stanoví, že v právním styku s podnikatelem se výrazu připouštějícímu různý výklad přisoudí význam, jaký má v takovém styku pravidelně."
 - *NS* [33 Cdo 1720/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77EE2F054803960DC1258CE0004D09DE?openDocument) — 29. 7. 2025
+  > „Podle § 558 odst. 2 o. z. v právním styku podnikatelů se přihlíží k obchodním zvyklostem zachovávaným obecně, anebo v daném odvětví, ledaže to vyloučí ujednání stran nebo zákon."
 - *NS* [23 Cdo 71/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F94A498D1B2251EC1258976001D76E3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 558 o. z. v právním styku s podnikatelem se výrazu připouštějícímu různý výklad přisoudí význam, jaký má v takovém styku pravidelně."
 - *NS* [23 Cdo 61/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2667C166AEE4A5D4C125887300193F1C?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 558 o. z. v právním styku s podnikatelem se výrazu připouštějícímu různý výklad přisoudí význam, jaký má v takovém styku pravidelně."
 
 ---
 
@@ -363,8 +426,11 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 2457/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B1A7762B8AD0052C12585BA00160CEF?openDocument) — *Směnky Cenné papíry Právní nástupnictví Forma právních jednání (o. z.) [ Právní jednání…*
+  > „Ustanovení § 559 o. z. stanoví, že každý má právo zvolit si pro právní jednání libovolnou formu, není-li ve volbě formy omezen ujednáním nebo zákonem."
 - *NS* [23 Cdo 2874/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7883AE47585AABAAC1258947001DFD53?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právních jednání (o…*
+  > „Ustanovení § 559 v obecné poloze stanoví, že každý má právo zvolit si pro právní jednání libovolnou formu, není-li ve volbě formy omezen ujednáním nebo zákonem."
 - *NS* [33 Cdo 72/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B8BC9F16F660F4C12588A60017EA18?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Věcn…*
+  > „Podle § 559 o. z. každý má právo zvolit si pro právní jednání libovolnou formu, není-li ve volbě formy omezen ujednáním nebo zákonem."
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
 
 ### § 560 — Písemná forma pro nemovitosti
@@ -387,13 +453,19 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 
 - *NS* [23 Cdo 1230/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/780866B67BC76301C1258ABB001B7E91?openDocument) — *Přípustnost dovolání Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Výklad pr…*
 - *NS* [21 Cdo 2257/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC4E056D7E57197C12584050017B03D?openDocument) — *Vklad do katastru nemovitostí Vlastnictví Opuštěná nemovitá věc (o. z.) Notářský zápis*
+  > „Podle ustanovení § 560 o. z. písemnou formu vyžaduje právní jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, jakož i právní jednání, kterým se takové právo mění nebo ruší."
 - *NS* [24 Cdo 1520/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0576C1BF819FEEC8C1258D2D004D1C6D?openDocument) — *Převod nemovitostí Předkupní právo Předkupník, koupěchtivý (o. z.) Nabídka (návrh na uza…*
+  > „Podle soudu prvního stupně však ustanovení § 560 a 561 odst. 2 o. z. vyžadovala v dané věci obligatorně písemnou formu a také písemné projevy vůle zachycené na stejné listině."
 - *NS* [23 Cdo 2874/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7883AE47585AABAAC1258947001DFD53?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právních jednání (o…*
+  > „Podle kogentního ustanovení § 560 písemnou formu vyžaduje právní jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, jakož i právní jednání, kterým se takové právo mění nebo ruší."
 - *NS* [33 Cdo 340/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19D11DA59641402EC1258C92004D0957?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Přev…*
+  > „Dospěl k závěru, že z § 560 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“ nebo „občanský zákoník“), přímo vyplývá závěr, že má-li být předmětem budoucí koupě nemovitá věc, musí mít i smlouva o budoucí kupní smlouvě písemnou formu."
 - *NS* [24 Cdo 2779/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08FF091038562E4EC12586AE00185019?openDocument) — *Převodní smlouva Vlastnictví Smlouva kupní Neplatnost právního jednání (o. z.)*
 - *NS* [33 Cdo 72/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67B8BC9F16F660F4C12588A60017EA18?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o smlouvě budoucí Věcn…*
+  > „Podle § 560 o. z. písemnou formu vyžaduje právní jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, jakož i právní jednání, kterým se takové právo mění nebo ruší."
 - *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
+  > „Dovodil, že neexistuje plná moc, která by opravňovala B. uzavřít smlouvu o spolupráci se žalobkyní, přičemž by se muselo jednat o písemnou plnou moc, jak vyžaduje § 560 a § 2128 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 
 ### § 561 — Podpis a více osob
 
@@ -413,14 +485,23 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2886/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/61E6DA26B830E35BC12585D30018A01B?openDocument) — *Výpověď z pracovního poměru Právní jednání (o. z.) Právnická osoba Statutární orgán*
+  > „Podle ustanovení § 561 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o. z.“), k platnosti právního jednání učiněného v písemné formě se vyžaduje podpis jednajícího."
 - *NS* [26 Cdo 1230/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D052EC843D0D4ADEC125844C0018786B?openDocument) — *Přípustnost dovolání*
+  > „2017, sp. zn. 20 Cdo 1741/2017, na které odkázal odvolací soud, písemná forma právního jednání (ve smyslu § 561 a § 562 o. z.) předpokládá existenci dvou náležitostí, a to písemnosti a podpisu."
 - *NS* [21 Cdo 3066/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C9B16A2F922CED9C12582B1003C7D2D?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí*
+  > „Nakonec soud prvního stupně dospěl také k závěru, že u převodu nemovitostí je nezbytné, ve smyslu ustanovení § 560 ve spojení s § 2128 občanského zákoníku, dodržení písemné formy, u které je stanovena náležitost podpisu podle ustanovení § 561 občanského zákoníku."
 - *NS* [20 Cdo 1741/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/026FD531DF5B5B58C125817600475282?openDocument) — *Výkon rozhodnutí Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Oprávněný uvádí, že měl za to, že veřejná omluva bude na univerzitních i fakultních webových stránkách automaticky zveřejněna i s podpisem za ni jednající odpovědné osoby, neboť jde o právní jednání ve smyslu § 545 zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o. z.“), když podle ustanovení § 561 odst. 1 o. z."
 - *NS* [24 Cdo 1520/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0576C1BF819FEEC8C1258D2D004D1C6D?openDocument) — *Převod nemovitostí Předkupní právo Předkupník, koupěchtivý (o. z.) Nabídka (návrh na uza…*
+  > „Pro dané řešení lze nepochybně argumentovat i prostřednictvím systematického výkladu [včetně argumentu a rubrica ], kdy (obecný) požadavek na podpis osob na „téže listině“ při převodu či zřízení práva k nemovité věci plynoucí z § 561 odst. 2 o. z."
 - *NS* [26 Cdo 530/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F9438601D6B6586C1258C0800529D2B?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+  > „Podle § 561 odst. 1 věty první o. z. k platnosti právního jednání učiněného v písemné formě se vyžaduje podpis jednajícího."
 - *NS* [23 ICdo 60/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/311BC9623B3A3F4DC1258A6B001B8426?openDocument) — *Uznání dluhu Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Právní úkony*
+  > „Datum vyhotovení prohlášení o uznání dluhu není obligatorní obsahovou náležitostí tohoto právního úkonu (právního jednání)."
 - *NS* [21 Cdo 2114/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0B4D14223797DE4C12586F400161271?openDocument) — *Přípustnost dovolání Okamžité zrušení pracovního poměru Plná moc Forma právních jednání…*
+  > „Podle ustanovení § 561 odst. 1 o. z. k platnosti právního jednání učiněného v písemné formě se vyžaduje podpis jednajícího."
 - *NS* [26 Cdo 3501/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40B745F50256FEF9C12585560019EBF1?openDocument) — *Smlouva nájemní Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost prá…*
+  > „Podle § 561 odst. 1 věty první a druhé o. z. k platnosti právního jednání učiněného v písemné formě se vyžaduje podpis jednajícího."
 
 ### § 562 — Elektronická forma
 
@@ -448,8 +529,11 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 1230/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D052EC843D0D4ADEC125844C0018786B?openDocument) — *Přípustnost dovolání*
+  > „2017, sp. zn. 20 Cdo 1741/2017, uvedl, že pro zachování písemné formy ve smyslu § 562 odst. 1 o. z. bylo nutné e-mail, kterým byly Námitky zaslány, doplnit o elektronický podpis."
 - *NS* [20 Cdo 1741/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/026FD531DF5B5B58C125817600475282?openDocument) — *Výkon rozhodnutí Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle ustanovení § 562 odst. 1 o. z., písemná forma je zachována i při právním jednání učiněném elektronickými nebo jinými technickými prostředky umožňujícími zachycení jeho obsahu a určení jednající osoby."
 - *NS* [33 Cdo 2869/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/771A5F4AA6952A94C125873500189608?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Forma právních jednání (o. z.) [ Právní jednání (o.…*
+  > „Podle § 562 odst. 1 o. z. je písemná forma zachována i při právním jednání učiněném elektronickými nebo jinými technickými prostředky umožňujícími zachycení jeho obsahu a určení jednající osoby."
 
 ### § 563 — Osoby neumějící číst/psát
 
@@ -473,6 +557,7 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1070/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C145BAFE5234839C12587F1001B8A57?openDocument) — *Dobré mravy Zneužívání výkonu práv a povinností Zástavní právo Neplatnost právního jedná…*
+  > „Zjištění soudů, že žalobkyně trpí „výrazným zrakovým postižením (praktická slepota)“, nemůže samo o sobě vést k závěru o neplatnosti předmětné zástavní smlouvy, bylo-li soudy zároveň shledáno, že žalobkyně jednala v souladu s právní úpravou obsaženou v ustanovení § 563 odst. 1 o."
 
 ### § 564 — Změna formy
 
@@ -492,11 +577,15 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 3192/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/005A7FB9A1C89D59C1258DAE0052C619?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Exekuce Přípustnost dovolání*
+  > „Smluvní strany tak učinily součástí smluvních ujednání doložku písemných změn ve smyslu § 564 zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o."
 - *NS* [33 Cdo 494/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/74E393FAAF42A023C12588AB0019492B?openDocument) — *Smlouva o dílo Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost práv…*
+  > „2012, sp. zn. 33 Cdo 4276/2010, i s ustanoveními § 564 a § 1758 zákona č. 89/2012 Sb., občanského zákoníku (dále jako „o. z.“), uzavřel, že smluvní strany si (v e-mailové korespondenci) platně dohodly cenu za provedené práce."
 - *NS* [23 Cdo 2735/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3B778F1D023CFC6C125888F0018FACB?openDocument) — *Přípustnost dovolání Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [23 Cdo 1636/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C75BAABC0CE69062C1258DB70052B305?openDocument) — *Přípustnost dovolání Dovolací důvody Vady řízení Forma právních jednání (o. z.) [ Právní…*
 - *NS* [23 Cdo 2565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/770A80A6F55B057BC1258D1B004D2956?openDocument) — *Forma právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního jednání (o…*
+  > „2014, lze přiměřeně odkázat na závěry zde vyslovené i při aplikaci právní úpravy platné a účinné, vzhledem k obsahové podobnosti § 272 zák. č. 513/1991 Sb., obchodní zákoník, s úpravou § 564 o. z., jakož i s ohledem na skutečnost, že v odkazovaném rozsudku dovolací soud předestřel úvahu ke způsobu aplikace § 582 odst. 2 o. z. 30."
 - *NS* [23 Cdo 1666/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D80EB5C302EBB346C1258AFA002CB849?openDocument) — *Novace privativní Novace kumulativní Změna závazku Forma právních jednání (o. z.) [ Práv…*
+  > „Pro účely požadavku formy vyjádřeného v § 1906 o. z. se považuje za novaci ve smyslu § 1902 o. z. jen taková dohoda o změně obsahu závazku, kterou se dosavadní závazek ruší a nahrazuje se závazkem novým. V případě dohody o změně obsahu závazku za jeho trvání podle § 1901 o. z. se forma takového právního jednání řídí § 564 o. z."
 
 ---
 
@@ -525,14 +614,22 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 44/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC88C8BCDFCCC6D6C1258DA40052D9EF?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.) Zástavní právo Soukromá listina…*
+  > „Za této situace lze mít všechny náležitosti smlouvy o zápůjčce (včetně poskytnutí předmětu zápůjčky) za osvědčené [k tomu srovnej ustanovení § 565 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a k jeho výkladu potom odůvodnění rozsudku Nejvyššího soudu ze dne 7."
 - *NS* [28 Cdo 607/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B38F2D210D6BE249C1258D560052D4D9?openDocument) — *Soukromá listina (o. z.) Dokazování Znalecký posudek*
+  > „Proti rozsudku Krajského soudu v Ostravě v celém rozsahu brojí žalobkyně dovoláním, majíc je za přípustné ve smyslu § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), pro otázku v rozhodovací praxi dovolacího soudu doposud neřešenou, a to, zda se v případě konverze listiny dle § 22 odst."
 - *NS* [27 Cdo 1600/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8873A78D4707F3E6C1258D09004D1CAD?openDocument) — *Přípustnost dovolání Dokazování Břemeno důkazní Soukromá listina (o. z.)*
 - *NS* [23 Cdo 1464/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7010C9FD01F103F5C1258CEF004D2137?openDocument) — *Přípustnost dovolání Dokazování Soukromá listina (o. z.)*
+  > „Pro úplnost pak lze uvést, že z ustálené rozhodovací praxe dovolacího soudu (jež je přiměřeně použitelná i ve vztahu k výkladu § 565 zákona č. 89/2012 Sb., občanského zákoníku, dále též jen „o."
 - *NS* [33 Cdo 3489/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06FEC0C6B5BC309EC1258B95004D3F1C?openDocument) — *Přípustnost dovolání Soukromá listina (o. z.)*
+  > „K tomu je třeba předně uvést, že judikatura dovolacího soudu opakovaně dovodila, že pravidla vyplývající z § 565 o. z. platila i před přijetím nového občanského zákoníku (srov. např. usnesení Nejvyššího soudu ze dne 18."
 - *NS* [25 Cdo 531/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2770FA49DC5BC404C1258AEC00529924?openDocument) — *Přípustnost dovolání Dokazování*
+  > „Soudy opomněly, že žalovaná popřela pravost a správnost předložených dodacích listů jako soukromých listin ve smyslu § 565 o. z., důkazní břemeno ohledně prokázání jejich pravosti tak tížilo žalující stranu, která je neunesla."
 - *NS* [23 Cdo 2590/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09552A30F442C4D1C1258AE4001B86BF?openDocument) — *Soukromá listina (o. z.)*
+  > „Podle § 565 o. z. platí, že je na každém, kdo se dovolává soukromé listiny, aby dokázal její pravost a správnost."
 - *NS* [33 Cdo 3057/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90A63AD071226397C1258A59001B81D0?openDocument) — *Břemeno důkazní Soukromá listina (o. z.)*
+  > „Podle ustanovení § 565 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), je na každém, kdo se dovolává soukromé listiny, aby dokázal její pravost a správnost."
 - *NS* [33 Cdo 1469/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D5DECC4C8A7FC39C1258A1F001616FE?openDocument) — *Soukromá listina (o. z.) Břemeno důkazní*
+  > „Podle ustanovení § 565 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, je na každém, kdo se dovolává soukromé listiny, aby dokázal její pravost a správnost."
 
 ### § 567—569 — Veřejná listina
 
@@ -571,8 +668,10 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 2324/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042963CA0DAF40C8C1258D400052D2EF?openDocument) — *Veřejná listina (o. z.)*
+  > „Podle § 567 zákona č. 89/2012 Sb., občanský zákoník, dále též jen „o. z“., veřejná listina je listina vydaná orgánem veřejné moci v mezích jeho pravomoci nebo listina, kterou za veřejnou listinu prohlásí zákon; to neplatí, pokud trpí takovými vadami, že se na ni hledí, jako by veřejnou listinou nebyla."
 - *NS* [22 Cdo 871/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB59C0B80128CED3C1258C76004D3940?openDocument) — *Přípustnost dovolání Vlastnictví Vydání věci Dokazování Poučovací povinnost soudu Veřejn…*
 - *NS* [30 Cdo 1332/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CD22E7A0FC87F60C1258689001EFDFC?openDocument) — *Odpovědnost státu za újmu Veřejná listina (o. z.) Přípustnost dovolání*
+  > „Úřední záznam o použití donucovacího prostředku sepsaný dle § 57 odst. 2 zákona č. 273/2008 Sb. (ve znění pozdějších předpisů) je veřejnou listinou ve smyslu § 134 o. s. ř."
 
 ---
 
@@ -606,14 +705,22 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3499/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE36461FD8E9CF51C1258B8C004D2879?openDocument) — *Doručování*
+  > „Podle § 570 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), právní jednání působí vůči nepřítomné osobě od okamžiku, kdy jí projev vůle dojde; zmaří-li vědomě druhá strana dojití, platí, že řádně došlo."
 - *NS* [26 Cdo 2650/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30F736D144E68A8BC12586AE0018506C?openDocument) — *Výpověď z nájmu bytu Doručování*
+  > „Povaha výpovědi z nájmu bytu jakožto adresného jednostranného hmotněprávního jednání totiž zůstala nedotčena a i nadále platí, že právní jednání působí vůči nepřítomné osobě v okamžiku, kdy jí projev vůle dojde (§ 570 odst. 1 o. z.) - srov. např. usnesení Nejvyššího soudu ze dne 14."
 - *NS* [33 Cdo 4344/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766E7CB848710C97C1258683001DFF86?openDocument) — *Právní jednání (o. z.) Doručování*
 - *NS* [26 Cdo 4082/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/187FD885D7813790C1258438001818D9?openDocument) — *Výpověď z nájmu bytu Doručování*
+  > „Povaha výpovědi z nájmu bytu jakožto adresného jednostranného hmotněprávního jednání totiž zůstala nedotčena a i nadále platí, že právní jednání působí vůči nepřítomné osobě v okamžiku, kdy jí projev vůle dojde (§ 570 odst. 1 o. z.) - srov. usnesení Nejvyššího soudu ze dne 14."
 - *NS* [26 Cdo 4130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CE10EB4CCCF7E9CC12584050017B013?openDocument) — 7. 3. 2019
+  > „2017, sp. zn. 20 Cdo 4016/2017), že tato ustálená rozhodovací praxe je použitelná i za účinnosti zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“ (§ 570 odst. 1 část věty před středníkem o. z.)."
 - *NS* [20 Cdo 4016/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50E5B7E4E6549695C125820B002B4C46?openDocument) — *Exekuce Doručování Neplatnost právního úkonu Neplatnost právních jednání (o. z.) [ Právn…*
+  > „Ostatně jak dovodila judikatura ohledně doručování hmotněprávního jednání, byť vztahující se k zákonu č. 40/1964 Sb., občanský zákoník, ve znění účinném do 31. prosince 2013 (dále jen „obč. zák.“), avšak závěry zde uvedené je možné aplikovat i v kontextu zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějích předpisů (dále jen „o."
 - *NS* [26 Cdo 977/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5119F6320005B91FC12588DF00183768?openDocument) — *Nájem bytu Zánik závazku*
+  > „Podle § 570 odst. 1 o. z. právní jednání působí vůči nepřítomné osobě od okamžiku, kdy jí projev vůle dojde; zmaří-li vědomě druhá strana dojití, platí, že řádně došlo."
 - *NS* [26 Cdo 979/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F28DE780E8DDCDEC12585E30018AC18?openDocument) — *Výpověď z nájmu bytu Vyklizení bytu*
+  > „Povaha výpovědi z nájmu bytu jakožto adresného jednostranného hmotněprávního jednání totiž zůstala nedotčena a i nadále platí, že právní jednání působí vůči nepřítomné osobě v okamžiku, kdy jí projev vůle dojde (§ 570 odst. 1 o. z.) - srov. např. usnesení Nejvyššího soudu ze dne 14."
 - *NS* [26 Cdo 1926/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54271A4B9BB8EA59C12584240017F8FE?openDocument) — *Výpověď z nájmu bytu Právní jednání (o. z.)*
+  > „Povaha výpovědi z nájmu bytu jakožto adresného jednostranného hmotněprávního jednání totiž zůstala nedotčena a i nadále platí, že právní jednání působí vůči nepřítomné osobě v okamžiku, kdy jí projev vůle dojde (§ 570 odst. 1 o. z.) - srov. např. usnesení Nejvyššího soudu ze dne 22."
 
 ### § 573 — Domněnka doby dojití
 
@@ -678,11 +785,14 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 - *NS* [25 Cdo 1993/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FE942A101AE0BAC1258A3500160EC0?openDocument) — *Ušlý zisk Neplatnost smlouvy Přípustnost dovolání*
 - *NS* [24 Cdo 1608/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F93BC0DEA103273C1258812001B7C7B?openDocument) — *Přípustnost dovolání Vklad do katastru nemovitostí*
 - *NS* [23 Cdo 568/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE215360101D41C0C125872C0018AFDD?openDocument) — *Rozhodčí doložka Neplatnost právního jednání (o. z.)*
+  > „Soud prvního stupně vyšel z ustanovení § 574 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), podle něhož je na právní jednání třeba spíše hledět jako na platné než jako na neplatné a ustanovení § 576 o."
 - *NS* [25 Cdo 909/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16FE18EEDE2D1B5C125852D001E6C8F?openDocument) — *Obec Náhrada škody*
 - *NS* [25 Cdo 487/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1F90914F15FD877DC1258A2E0015F620?openDocument) — *Náhrada škody Ušlý zisk Neplatnost právního jednání (o. z.) Přípustnost dovolání*
 - *NS* [29 ICdo 75/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D0FF4AE0C084DC1C1258932001B92E8?openDocument) — *Neplatnost právního jednání (o. z.) Neplatnost smlouvy Incidenční spory*
 - *NS* [24 Cdo 3641/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/580D2325B3DFBF22C12588130015FE0F?openDocument) — *Závěť holografní [ Závěť ]*
+  > „K námitkám obsaženým v dovolání se sluší ve stručnosti dodat, že je v poměrech právě projednávané věci nepřípadný poukaz dovolatele na zásadu favor testamenti vtělenou do § 1494 odst. 2 zákona č. 89/2012 Sb., občanský zákon (dále jen „o."
 - *NS* [24 Cdo 3568/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CE98BD2D0F9B635C1258504001E4F12?openDocument) — *Dovolání Přípustnost dovolání Závěť*
+  > „Lze dodat, že pokud žalobkyně poukazuje na zásadu zakotvenou v ustanovení § 574 o."
 
 ### § 580—582 — Hlavní důvody neplatnosti
 
@@ -724,12 +834,16 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 
 - *ÚS* [I. ÚS 173/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-173-13_1) — nález, 20. 8. 2014
 - *NS* [29 ICdo 62/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/939EA175960351DBC1258DD5004D3641?openDocument) — *Insolvenční řízení Neplatnost právního jednání (o. z.) Postoupení pohledávky*
+  > „Smlouvu o postoupení pohledávek nepovažoval za neplatnou ani pro rozpor s § 580 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), neboť neměl za to, že by jednání žalovaných bylo v rozporu s uvedenými ustanoveními insolvenčního zákona nebo s jeho zásadami."
 - *NS* [27 Cdo 570/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D396ED28A30007EC1258CFA004D3FD6?openDocument) — *Přípustnost dovolání Dobré mravy Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
+  > „2020 nejsou dluhopisy úročeny (dále jen „rozhodnutí“), v rozporu s dobrými mravy, a tudíž neplatné ve smyslu § 580 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [28 Cdo 575/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FFEFA20F0095A02C1258CC0004D0B08?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek Svéprávnost (o. z.) Dokazování*
 - *NS* [29 ICdo 85/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFE8E9C90550EDC8C1258CA0004D1DFA?openDocument) — *Insolvenční řízení Incidenční spory Dokazování Znalecký posudek Zajištění závazku*
 - *NS* [24 Cdo 3333/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B82668B4880BACA3C1258C5E004D1A20?openDocument) — *Přípustnost dovolání Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Znal…*
 - *NS* [27 Cdo 3120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E49D15A6C687948C1258C1F0052950B?openDocument) — *Advokát Kárná odpovědnost Neplatnost smlouvy Podíl v obchodní korporaci (převod) [ Obcho…*
+  > „3 až 9), zároveň být v rozporu se zákonem podle § 580 o. z., resp. zjevně narušovat veřejný pořádek ve smyslu § 588 o. z. (pro střet zájmů ověřující osoby), a 7) jaký vliv má na toto posouzení § 574 o. z. [10] Dovolatelka je přesvědčena, že soudy posoudily otázku platnosti smlouvy a tudíž i otázku aktivní věcné legitimace dovolatelky nesprávně."
 - *NS* [21 Cdo 1209/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDE8B7F903D05540C1258BE70052C174?openDocument) — *Okamžité zrušení pracovního poměru Dovolená na zotavenou*
+  > „Není-li doba oznámení zaměstnance o čerpání dovolené zaměstnavateli stanovená v § 218 odst. 3 zák. práce dodržena (aniž by se zaměstnanec a zaměstnavatel dohodli na jiné době oznámení), je toto oznámení neplatné (§ 580 odst. 1 občanského zákoníku) a čerpání dovolené tak není určeno."
 - *NS* [28 Cdo 2370/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE317944A29EE659C1258BCB0052C644?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek*
 
 ### § 583—585 — Omyl
@@ -760,14 +874,22 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 3381/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3448CB4B9EDAAD8C1258C8A004D5BC5?openDocument) — *Přípustnost dovolání Vady řízení Poučovací povinnost soudu Omyl*
+  > „Odvolací soud totiž napadený rozsudek nezaložil na tom, že žalobkyně neunesla břemeno tvrzení či břemeno důkazní, nýbrž se ztotožnil se závěry soudu prvního stupně, jenž naopak shledal, že učiněná skutková zjištění soudu umožňují rozhodnout o meritu věci, přičemž následně uzavřel, …"
 - *NS* [33 Cdo 685/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E32E26D60B70A0C3C1258BC0004D18F8?openDocument) — *Omyl Odpovědnost za vady Smlouva kupní*
+  > „Podle § 583 o. z. jednal-li někdo v omylu o rozhodující okolnosti a byl-li v omyl uveden druhou stranou, je právní jednání neplatné."
 - *NS* [23 Cdo 435/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/047FC9CD8A4BF90BC1258BB3004D3B42?openDocument) — *Přípustnost dovolání Omyl*
+  > „Konkrétně se jednalo o tyto otázky: a) Zda může rozsudek pro uznání zakládat důvod následné právní nemožnosti plnění za situace, kdy se nejedná o konstitutivní rozhodnutí. b) Zda může odvolací soud dospět k odlišnému hodnocení otázky existence a omluvitelnosti omylu ve smyslu § 583 zákona č. 89/2012 Sb., občanského zákoníku, (dále též „o."
 - *NS* [33 Cdo 3476/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8630615F459B9D26C1258B56004D2F24?openDocument) — *Omyl Dovolací důvody Dokazování Přípustnost dovolání Vady řízení*
+  > „2018 oprávněně namítla (§ 583, § 586 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen „o. z.“)."
 - *NS* [33 Cdo 522/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B887EB1295A31AC6C1258A9E001B7D9A?openDocument) — *Přípustnost dovolání Omyl*
 - *NS* [23 Cdo 3121/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C59BD221162AC738C12588220017E246?openDocument) — *Omyl*
+  > „Přestože Nevyšší soud uvedené právní závěry formuloval na základě předchozí právní úpravy (k ustanovení § 49a zákona č. 40/1964 sb., občanský zákoník) lze je z hlediska uplatněných dovolacích důvodů vztáhnout i do poměrů nové právní úpravy civilního práva (§ 583 a násl. zákona č. 89/2012 Sb., občanský zákoník, dále jen „o."
 - *NS* [24 Cdo 2178/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/675F7A9C38A7B94DC1258524001E17FE?openDocument) — *Přípustnost dovolání Neplatnost právního jednání*
+  > „Navíc dovolatelkou odkazované rozhodnutí Nejvyššího soudu ve věci sp. zn."
 - *NS* [22 Cdo 6082/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ABD61B7098765371C12582B800263F5A?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
+  > „K námitce, že dovolatel byl uveden v omyl obsahem znaleckého posudku: Podle § 583 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“) jednal-li někdo v omylu o rozhodující okolnosti a byl-li v omyl uveden druhou stranou, je právní jednání neplatné."
 - *NS* [23 Cdo 2420/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/015696272F641AAAC1258D610052BC22?openDocument) — *Přípustnost dovolání Odstoupení od smlouvy Omyl*
+  > „2022, sp. zn."
 
 ### § 586—588 — Následky neplatnosti
 
@@ -816,6 +938,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [21 Cdo 2872/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0BAD8243950C0D5EC1258C1C0052AC92?openDocument) — *Přípustnost dovolání Bezprávná výhrůžka*
 - *NS* [21 Cdo 992/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E54564D62D0EF548C1258BA2004D3B79?openDocument) — *Bezprávná výhrůžka Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [5 Tz 17/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E5E650DE0F9B530C1258BBD004D3351?openDocument) — *Ochranná opatření Stížnost pro porušení zákona Vrácení, vydání a další nakládání s věcmi…*
+  > „Ochranná opatření § 101 odst. 1, 2 tr. zákoníku, § 230 odst. 1 tr. ř. I. Ochranné opatření zabrání věci podle § 101 odst. 1 nebo 2 tr. zákoníku lze uložit osobě odlišné od pachatele (zúčastněné osobě) jedině na návrh státního zástupce (viz rozhodnutí č. 26/2024 Sb. rozh. tr.)."
 - *NS* [3 Tdo 1161/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D46AF0C0712073F6C1258AF4004B44E7?openDocument) — *Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru*
 - *NS* [21 Cdo 886/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2088FCD8EE49D757C1258ADF001B86EF?openDocument) — *Neplatnost právního jednání (o. z.) Bezprávná výhrůžka Přípustnost dovolání Dovolací dův…*
 
@@ -844,13 +967,21 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3326/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD84879670FF8BD3C1258B12004D4E37?openDocument) — *Přerušení řízení Neúčinnost právního jednání*
+  > „Ostatně vzhledem k tomu, že hypotéza § 737 odst. 1 o. z. je oproti § 589 odst. 1 o. z. jiná, širší, ani zde o „vykonatelné právo“ jako podmínku relativní neúčinnosti jít nemůže; jsou pod ní totiž zahrnutelné nejen (potenciálně vykonatelné) pohledávky, ale i jiná práva, která vypořádáním nesmí být dotčena (k tomu viz Zuklínová, M."
 - *NS* [23 Cdo 1046/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD580D224160A58C1258B17004D4DC9?openDocument) — *Neúčinnost právního jednání*
+  > „Podle § 589 o. z. zkracuje-li právní jednání dlužníka uspokojení vykonatelné pohledávky věřitele, má věřitel právo domáhat se, aby soud určil, že právní jednání dlužníka není vůči věřiteli právně účinné."
 - *NS* [29 Cdo 2920/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90D010CE43D96849C12589F700160D7A?openDocument) — *Insolvenční řízení Odporovatelnost*
+  > „Odvolací soud – vycházeje z ustanovení § 235 a § 239 odst. 1 insolvenčního zákona a z ustanovení § 589 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“) – dospěl po přezkoumání napadeného rozhodnutí k následujícím závěrům: 5."
 - *NS* [20 Cdo 2186/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27A51593ADF83E8DC1258900001DEE33?openDocument) — *Exekuce Odporovatelnost*
+  > „2013 je vůči němu neúčinné (výrok I. a II.), a kterým dále na základě ustanovení § 589 zákona č. 89/2012 Sb., občanského zákoníku – dále jen „o. z.“, rozhodl, že se určuje, že právní jednání spočívající v uzavření darovacích smluv ze dne 20."
 - *NS* [24 Cdo 1415/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50119C95D5C6B586C125879B001E547F?openDocument) — *Neúčinnost právního jednání*
+  > „Smyslem žaloby podle ustanovení § 589 o. z. (odpůrčí žaloby) je – uvažováno z pohledu žalujícího věřitele – dosáhnout rozhodnutí soudu, kterým by bylo určeno, že právní jednání dlužníka není vůči tomuto věřiteli účinné."
 - *NS* [29 Cdo 867/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F67C122F99C4DF1C1258DCC004D1FA0?openDocument) — *Dokazování Účastníci řízení Právnická osoba Neúčinnost právního jednání*
+  > „Pro další úvahy Nejvyššího soudu jsou rozhodná následující ustanovení zákona č. 89/2012 Sb., občanského zákoníku (ve znění, jež nedoznalo změn od přijetí občanského zákoníku), a občanského soudního řádu (ve znění, jež nedoznalo změn od zahájení sporu): § 589 (o."
 - *NS* [29 Cdo 2329/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/327386098DA9DFE7C1258AF6004D30CE?openDocument) — *Neúčinnost právního jednání Poučovací povinnost soudu Dokazování*
+  > „Okresní soud – vycházeje z ustanovení § 589 odst. 1 a 2, § 591 a § 594 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“) – dospěl po provedeném dokazování k následujícím závěrům: 5."
 - *NS* [29 Cdo 710/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8A06DF86E491F16C1258A78001B8560?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Odporovatelnost*
+  > „Jakkoli byla výše zmíněná rozhodnutí přijata na podkladě předchozí právní úpravy (v režimu § 42a zákona č. 40/1964 Sb., občanského zákoníku), Nejvyšší soud nemá pochyb, že jsou uvedené závěry plně použitelné i při výkladu pojmů „zkracující právní jednání“ a „zkrácení věřitele“ ve smyslu (nyní účinného) ustanovení § 589 odst. 1 o. z. 32."
 - *NS* [23 Cdo 2094/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7BC8FC54612239C12588FB001DC1FA?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Přípustnost dovolání*
 
 ### § 590 — Důvody odpůrčí žaloby
@@ -878,11 +1009,17 @@ Tři kategorie odporovatelných jednání (s různými lhůtami):
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 867/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F67C122F99C4DF1C1258DCC004D1FA0?openDocument) — *Dokazování Účastníci řízení Právnická osoba Neúčinnost právního jednání*
+  > „Okresní soud – vycházeje z § 590 odst. 1 písm. a/ zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“) – dospěl po provedeném dokazování k následujícím závěrům: 3."
 - *NS* [29 Cdo 710/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8A06DF86E491F16C1258A78001B8560?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Odporovatelnost*
+  > „Nejvyšší soud tak vychází z toho, že jde o případ dovolání se neúčinnosti právního jednání podle § 590 odst. 1 písm. c/ o. z. 26."
 - *NS* [30 Cdo 2315/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87BDA18DE1FC33CEC125895B001E12C1?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Náhrada škody Neúčinnost právní…*
+  > „2014 s úspěchem domoci, tedy, zda byla v rozhodném okamžiku (viz níže) dána některá ze situací, které vymezuje § 590 o. z. 30."
 - *NS* [21 Cdo 955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7171A5079CF2DC1C125840600184FB7?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ]*
+  > „Vzájemný vztah ustanovení § 590 a § 591 o. z. je nutné posoudit pomocí výkladového pravidla lex specialis derogat legi generali (tj. že zvláštní právní úprava vylučuje použití právní úpravy obecné), z čehož vyplývá, že ustanovení § 590 o. z."
 - *NS* [25 Cdo 455/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82F09EF7E8A9C0C5C1258521001E454D?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Náhrada škody*
+  > „Naopak souhlasí se závěrem odvolacího soudu a zdůrazňuje, že nebyly naplněny podmínky pro určení neúčinnosti právního jednání podle § 590 odst. 2 o. z. Navrhuje proto, aby dovolací soud dovolání žalobkyně zamítl."
 - *NS* [21 Cdo 2332/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61B8F2A6C30D1D3C12583B700573061?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního úkonu Závěť…*
+  > „Podle ustanovení § 592 o. z. stejně jako právní jednání uvedená v § 590 nebo 591 se posoudí i opomenutí, kterým dlužník pozbyl majetkové právo nebo kterým jiné osobě vůči sobě vznik, zachování nebo zajištění jejího práva majetkové povahy způsobil; to platí i tehdy, odmítl-li dlužník dědictví, ledaže bylo předluženo."
 
 ### § 591 — Bezúplatná jednání
 
@@ -901,14 +1038,23 @@ Tři kategorie odporovatelných jednání (s různými lhůtami):
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 820/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5B289B818438472CC1258C9A004D5059?openDocument) — *Přípustnost dovolání Odporovatelnost*
+  > „Žalovaná pak dle odvolacího soudu netvrdila žádné skutečnosti podstatné pro uplatnění výjimky z relativní neúčinnosti právního jednání ve smyslu § 591 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“)."
 - *NS* [23 Cdo 3431/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C185F2E9733B1EFC1258BBE004D3046?openDocument) — *Přípustnost dovolání Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ]*
+  > „Ve smyslu shora citované judikatury záviselo vymezení hypotézy právní normy (§ 591 písm. d/ o. z.) v tomto konkrétním případě na úvaze soudu, přičemž odvolací soud podmínky pro aplikaci ustanovení § 591 písm. d) o. z."
 - *NS* [24 Cdo 823/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE17F3CE5EE5BDD7C125873A001885F8?openDocument) — *Přípustnost dovolání Neúčinnost právního jednání*
+  > „Rozhodnutí o tom, zda jsou splněny podmínky pro aplikaci § 591 písm. d) o. z., je vždy třeba učinit po pečlivé úvaze, v jejímž rámci musí být zváženy všechny rozhodné okolnosti případu."
 - *NS* [29 ICdo 178/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6916242A45EF7090C1258524001E183D?openDocument) — *Insolvenční řízení Incidenční spory Odporovatelnost Věcná břemena*
+  > „2/ Podmínky uvedené v § 591 písm. d/ o. z. je třeba – vzhledem k tomu, že jde o výjimku, která vylučuje možnost věřitele dovolat se neúčinnosti bezúplatného právního jednání dlužníka – vykládat v souladu se smyslem a účelem institutu relativní neúčinnosti."
 - *NS* [29 Cdo 2329/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/327386098DA9DFE7C1258AF6004D30CE?openDocument) — *Neúčinnost právního jednání Poučovací povinnost soudu Dokazování*
+  > „Vykonatelná pohledávka, pro kterou věřitel odporuje bezúplatnému právnímu jednání dlužníka podle § 591 o. z., může vzniknout i po účinnosti (provedení) právního jednání, jemuž se odporuje podstatné je jen to, že jde o právní jednání, které není starší dvou let (k němuž došlo v posledních dvou letech)."
 - *NS* [24 Cdo 356/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF1FFC79A8E72877C125877300188CDD?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Závěť*
+  > „Podle ustanovení § 591 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), neúčinnosti bezúplatného právního jednání dlužníka se může věřitel dovolat tehdy, pokud k němu došlo v posledních dvou letech."
 - *NS* [21 Cdo 955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7171A5079CF2DC1C125840600184FB7?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle ustanovení § 591 o. z. neúčinnosti bezúplatného právního jednání dlužníka se může věřitel dovolat tehdy, pokud k němu došlo v posledních dvou letech."
 - *NS* [21 Cdo 867/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A11F6F65BD0D8645C12583750021F241?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Právní jednání (o. z.) Žaloba Dě…*
+  > „Uvedl, že neúčinnosti bezúplatného právního jednání dlužníka se věřitel může dovolat tehdy, pokud k němu došlo v posledních dvou letech, s výjimkami uvedenými v § 591 občanského zákoníku, a že výjimka se ve smyslu § 591 písm. d) občanského zákoníku uplatní i u plnění, kterým bylo vyhověno mravnímu závazku nebo ohledům slušnosti."
 - *NS* [21 Cdo 2332/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61B8F2A6C30D1D3C12583B700573061?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního úkonu Závěť…*
+  > „Vyvolalo-li právní jednání (opomenutí) dlužníka, jehož neúčinnosti se věřitel domáhá, následky až po 31. 12. 2013, posuzuje se otázka, zda a popřípadě za jakých podmínek jde o plnění, kterým bylo vyhověno mravnímu závazku nebo ohledům slušnosti, podle zákona č. 89/2012 Sb., občanského zákoníku."
 
 ### § 592 — Opomenutí
 
@@ -926,8 +1072,11 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 356/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF1FFC79A8E72877C125877300188CDD?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Závěť*
+  > „Podle ustanovení § 592 o. z. stejně jako právní jednání uvedená v § 590 nebo 591 se posoudí i opomenutí, kterým dlužník pozbyl majetkové právo nebo kterým jiné osobě vůči sobě vznik, zachování nebo zajištění jejího práva majetkové povahy způsobil; to platí i tehdy, odmítl-li dlužník dědictví, ledaže bylo předluženo."
 - *NS* [24 Cdo 3481/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E2CF2EC18538A84C12586D8001873DA?openDocument) — *Přípustnost dovolání Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Žalo…*
+  > „§ 592 o. z.)."
 - *NS* [21 Cdo 2332/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B61B8F2A6C30D1D3C12583B700573061?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního úkonu Závěť…*
+  > „Podle ustanovení § 592 o. z. stejně jako právní jednání uvedená v § 590 nebo 591 se posoudí i opomenutí, kterým dlužník pozbyl majetkové právo nebo kterým jiné osobě vůči sobě vznik, zachování nebo zajištění jejího práva majetkové povahy způsobil; to platí i tehdy, odmítl-li dlužník dědictví, ledaže bylo předluženo."
 
 ### § 593 — Rezervace lhůty před vykonatelností
 
@@ -940,11 +1089,16 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 1898/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FDD336441BD857CC1258CE0004D09CB?openDocument) — *Neúčinnost právního jednání Přerušení řízení Žaloba odpůrčí [ Žaloba ] Pohledávka Přípus…*
+  > „Odvolací soud – cituje § 593 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), a § 109 odst. 2 písm. c) o. s. ř. – zdůraznil, že není důvod, aby věřitelé (žalobci) podávali odpůrčí žalobu za situace, kdy ještě nemají vykonatelnou pohledávku proti svému dlužníku (P."
 - *NS* [24 Cdo 1413/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45A34DA55FA71231C125875C0018B2FA?openDocument) — *Odporovatelnost Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Přerušení řízení*
+  > „V souvislosti s tím poukazuje na to, že podle ustanovení § 593 zákona č. 89/2012 Sb. lze učinit výhradu prostřednictvím soudu, notáře či exekutora, v takovém případě po učinění výhrady neběží věřiteli lhůta k podání odpůrčí žaloby."
 - *NS* [30 Cdo 2315/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87BDA18DE1FC33CEC125895B001E12C1?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Náhrada škody Neúčinnost právní…*
+  > „Tato podmínka však již splněna není, neboť žalobkyně tím, že si postupem podle § 593 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), ve spojení s § 589 odst. 1, 2 téhož zákona, nevyhradila prostřednictvím notáře, exekutora nebo soudu právo dovolat se neúčinnosti kupní smlouvy ze dne 30."
 - *NS* [23 Cdo 2094/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7BC8FC54612239C12588FB001DC1FA?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Přípustnost dovolání*
+  > „Tento závěr vyplýval z požadavku na zachování lhůty k dovolání se odporovatelnosti dlužníkova právního úkonu v případě, že věřitelova pohledávka je předmětem jiného řízení, nadále však tento závěr není opodstatněn, a to s ohledem na odlišné řešení možnosti zachování lhůty k dovolání se neúčinnosti právního jednání, …"
 - *NS* [24 Cdo 560/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1ECE840EDD1911EBC12584C3001EE4A0?openDocument) — *Neúčinnost právního jednání*
 - *NS* [29 Cdo 1772/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C191402796792D1FC1258A21001610FA?openDocument) — *Neúčinnost právního jednání Smír Rozsudek pro uznání*
+  > „§ 593 (o."
 
 ### § 594—596 — Pasivní legitimace
 
@@ -984,11 +1138,15 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 261/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50727D2748D90FF1C1258C590052A2A6?openDocument) — *Přerušení řízení Odporovatelnost Insolvenční řízení (účinky, zahájení)*
+  > „Ustanovení § 594 o. z. v citovaném znění platí v nezměněné podobě od přijetí zákona č. 89/2012 Sb., občanského zákoníku."
 - *NS* [23 Cdo 3013/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90E95EA813954910C1258C92004D09C3?openDocument) — *Změna návrhu na zahájení řízení Přípustnost dovolání Relativní neúčinnost (o. z.) [ Práv…*
 - *NS* [20 Cdo 3231/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1D79A1A14787C59C1258C490052B021?openDocument) — *Promlčení Exekuce Neúčinnost právního jednání*
 - *NS* [25 Cdo 455/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82F09EF7E8A9C0C5C1258521001E454D?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Náhrada škody*
+  > „§ 595 odst. 1 větu první o. z.), a to nikoliv proti dlužníku, ale vůči tomu, kdo s dlužníkem právně jednal, nebo kdo z právního jednání přímo nabyl prospěch, vůči jeho dědici nebo vůči tomu, kdo nabyl jmění při přeměně právnické osoby jako její právní nástupce, anebo – je-li splněna některá z podmínek uvedených v ustanovení § 594 odst. 2 písm."
 - *NS* [21 Cdo 1079/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48BB6CA31B015F05C125821000419E36?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Žaloba Žaloba poddlužnická*
+  > „Podle ustanovení § 594 odst. 1 o. z. se lze neúčinnosti právního jednání dovolat proti tomu, kdo s dlužníkem právně jednal, nebo kdo z právního jednání přímo nabyl prospěch, vůči jeho dědici nebo vůči tomu, kdo nabyl jmění při přeměně právnické osoby jako její právní nástupce."
 - *NS* [29 Cdo 1772/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C191402796792D1FC1258A21001610FA?openDocument) — *Neúčinnost právního jednání Smír Rozsudek pro uznání*
+  > „§ 594 (o. z.) (1) Neúčinnosti právního jednání se lze dovolat proti tomu, kdo s dlužníkem právně jednal, nebo kdo z právního jednání přímo nabyl prospěch, vůči jeho dědici nebo vůči tomu, kdo nabyl jmění při přeměně právnické osoby jako její právní nástupce."
 - *NS* [29 Cdo 334/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument) — *Neúčinnost právního jednání Pohledávka Dlužník Věřitel*
 
 ### § 597—599 — Zproštění, pluralita věřitelů, evidence
@@ -1013,4 +1171,6 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 - *ÚS* [II. ÚS 353/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-353-14_1) — usnesení, 19. 2. 2015
 - *NS* [27 Cdo 2025/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4EFD16E7F9CDA64C12585880018F3F6?openDocument) — *Obchodní rejstřík Veřejný seznam (o. z.) Veřejný rejstřík (zápis & výmaz) (o. z.)*
 - *NS* [29 Cdo 1772/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C191402796792D1FC1258A21001610FA?openDocument) — *Neúčinnost právního jednání Smír Rozsudek pro uznání*
+  > „Povaha řízení o odpůrčí žalobě podle zákona č. 89/2012 Sb., občanského zákoníku, nevylučuje skončení řízení soudním smírem, a tudíž ani možnost vydat v takové věci rozsudek pro uznání (§ 153a odst. 2 o. s. ř.)."
 - *NS* [29 Cdo 334/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument) — *Neúčinnost právního jednání Pohledávka Dlužník Věřitel*
+  > „Podle § 597 odst. 1 o. z. kdo má vůči věřiteli povinnost podle § 595 nebo 596, může se jí zprostit uspokojením věřitelovy pohledávky za dlužníkem."

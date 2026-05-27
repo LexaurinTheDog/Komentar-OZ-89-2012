@@ -40,6 +40,7 @@ Tento postup je v souladu s **Úmluvou OSN o právech osob se zdravotním posti�
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2358/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2358-13_1) — usnesení, 5. 8. 2014
+  > „V této souvislosti uvedli, že v podstatě se jednalo o to, zda pro aplikaci § 38 odst. 2 o. z. ve vztahu k závěru o absolutní neplatnosti právního úkonu postačuje pouze vysoká pravděpodobnost absence kognitivních a volních schopností účastníka právního vztahu, či zda musí být dána v tomto ohledu jistota."
 
 ### § 39 — Forma předběžného prohlášení
 
@@ -63,14 +64,23 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 920/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-920-15_1) — usnesení, 25. 6. 2015
+  > „2010 sp. zn. 26 Cdo 1336/2009) - k závěru, že příslušná část smlouvy o nájmu je neplatným právním úkonem ve smyslu § 39 občanského zákoníku (dále jen "o. z.") ve spojení s § 126 odst. 1 stavebního zákona."
 - *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — usnesení, 26. 6. 2014
+  > „Současně stěžovatel Ústavnímu soudu navrhl, aby postupoval ve smyslu § 39 zákona o Ústavním soudu."
 - *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — usnesení, 26. 6. 2014
+  > „Současně stěžovatel Ústavnímu soudu navrhl, aby postupoval ve smyslu § 39 zákona o Ústavním soudu."
 - *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — usnesení, 26. 6. 2014
+  > „Současně stěžovatel Ústavnímu soudu navrhl, aby postupoval ve smyslu § 39 zákona o Ústavním soudu."
 - *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — usnesení, 11. 6. 2014
+  > „Jestliže ústavní stížnost nebyla způsobilá věcného projednání, nebylo možné rozhodnout o naléhavosti věci ve smyslu § 39 zákona o Ústavním soudu, nicméně Ústavní soud v souzené věci postupoval tak, aby došlo - pokud možno - k jejímu neprodlenému vyřízení."
 - *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — usnesení, 11. 6. 2014
+  > „Jestliže ústavní stížnost nebyla způsobilá věcného projednání, nebylo možné rozhodnout o naléhavosti věci ve smyslu § 39 zákona o Ústavním soudu, nicméně Ústavní soud v souzené věci postupoval tak, aby došlo - pokud možno - k jejímu neprodlenému vyřízení."
 - *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — usnesení, 11. 6. 2014
+  > „Jestliže ústavní stížnost nebyla způsobilá věcného projednání, nebylo možné rozhodnout o naléhavosti věci ve smyslu § 39 zákona o Ústavním soudu, nicméně Ústavní soud v souzené věci postupoval tak, aby došlo - pokud možno - k jejímu neprodlenému vyřízení."
 - *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — usnesení, 9. 6. 2014
+  > „Jestliže ústavní stížnost nebyla způsobilá věcného projednání, nebylo možné rozhodnout o naléhavosti věci ve smyslu § 39 zákona o Ústavním soudu, nicméně Ústavní soud v souzené věci postupoval tak, aby došlo - pokud možno - k jejímu neprodlenému vyřízení."
 - *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — usnesení, 9. 6. 2014
+  > „Jestliže ústavní stížnost nebyla způsobilá věcného projednání, nebylo možné rozhodnout o naléhavosti věci ve smyslu § 39 zákona o Ústavním soudu, nicméně Ústavní soud v souzené věci postupoval tak, aby došlo - pokud možno - k jejímu neprodlenému vyřízení."
 
 ### § 40 — Zvláštní úprava pro osoby s postižením
 
@@ -89,6 +99,7 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 3332/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3332-14_1) — usnesení, 22. 9. 2015
+  > „2006 uzavřená mezi dlužníkem jako přejímatelem a obchodní společností LBO Group, s. r. o. (dále jen "smlouva") je neplatná pro nedodržení obligatorní formy ve smyslu § 132 odst. 3 obch. z. (§ 40 odst. 1 o. z.)."
 
 ### § 41—44 — Odvolání, podmínky, změna okolností, neplatnost
 
@@ -168,8 +179,11 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 794/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D25E28934EFC6A22C1258C8B004D445D?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Nápomoc při ro…*
+  > „Podle ustanovení § 45 o. z. potřebuje-li člověk nápomoc při rozhodování, protože mu v tom duševní porucha působí obtíže, třebaže nemusí být omezen ve svéprávnosti, může si s podpůrcem ujednat poskytování podpory; podpůrců může být i více."
 - *NS* [24 Cdo 1569/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475EF1BBABA68F4AC12588EC001DC14D?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „V těchto souvislostech pak dovolatel opomíjí, že odvolací soud při svém rozhodování postupoval důsledně v souladu s citovanými právními názory dovolacího soudu, jestliže při posuzování možného mírnějšího opatření (nápomoc při rozhodování, zastoupení členem domácnosti) podle § 45 a násl. o. z."
 - *NS* [24 Cdo 257/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7980A63A30A7901FC1258B12004D4E2F?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Smlouva o nápomoci (o. z.) [ Podpůr…*
+  > „Podle ustanovení § 45 o. z. potřebuje-li člověk nápomoc při rozhodování, protože mu v tom duševní porucha působí obtíže, třebaže nemusí být omezen ve svéprávnosti, může si s podpůrcem ujednat poskytování podpory; podpůrců může být i více."
 
 ### § 46 — Obsah smlouvy
 
@@ -263,11 +277,17 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 4701/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7D1AE2DECD7EC7CC12582E8002631AE?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+  > „Podle § 49 odst. 1 o.z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 - *NS* [30 Cdo 1739/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FDD5A7A18ACC167C12582DA0031584D?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+  > „Podle § 49 odst. 1 o.z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 - *NS* [30 Cdo 1151/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/14AEF8563EFC9533C12582C9003C6BC0?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+  > „Podle § 49 odst. 1 o.z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 - *NS* [30 Cdo 4529/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57E3BF7DA6B7A6F7C1258272003C1564?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Přiznání svéprávnosti (emancipace) (o. z.) [ Sv…*
+  > „Podle § 49 odst. 1 o.z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 - *NS* [30 Cdo 5301/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC8A0BE4A3731752C125826A002617E6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
+  > „Podle § 49 odst. 1 o.z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 - *NS* [30 Cdo 944/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE23074EF0C8E8ADC1257FFE0025E05B?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Podle § 49 odst. 1 o. z. brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky."
 
 ### § 50 — Schválení soudem
 
@@ -303,13 +323,21 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — usnesení, 14. 4. 2015
+  > „Jestliže tedy nepojmenovanou smlouvu spolu uzavřeli právní předchůdce stěžovatelky, žalovaná a kupující v intencích § 51 o. z., je proto třeba otázky promlčení hodnotit podle § 100 a násl. o. z. Stěžovatelka (resp. její právní předchůdce) mohla uplatnit nárok na zaplacení smluvní pokuty [podle čl. III. odst. 4 písm."
 - *NS* [20 Ncu 146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF133A25BABAA632C1258C280052F2E6?openDocument) — *Uznání cizích rozhodnutí*
+  > „Ve smyslu ustanovení § 51 odst. 1, 2 ZMPS byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občanem České republiky."
 - *NS* [20 Ncu 80/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB750956D421F730C1258A0100160E86?openDocument) — *Uznání cizích rozhodnutí*
+  > „Rovněž skutkový základ byl cizím soudem zjištěn způsobem vyhovujícím v podstatě příslušným ustanovením právního řádu České republiky (§ 51 odst. 3 ve spojení s § 55 odst. 1 zákona č. 91/2012 Sb., o mezinárodním právu soukromém)."
 - *NS* [20 Ncu 86/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA761275E02E06AC12589FD002D344F?openDocument) — *Uznání cizích rozhodnutí*
+  > „Rovněž skutkový základ byl cizím soudem zjištěn způsobem vyhovujícím v podstatě příslušným ustanovením právního řádu České republiky (§ 51 odst. 3 ve spojení s § 55 odst. 1 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, ve znění pozdějších předpisů, dále jen „ZMPS“)."
 - *NS* [20 Ncu 57/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15F6AAB089B5CBB3C12588C400234DEE?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+  > „Ve smyslu ustanovení § 51 odst. 1, 2 ZMPS byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občanem České republiky."
 - *NS* [20 Ncu 85/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D65D4DE7F0D8A07C1258928001DBE2F?openDocument) — *Rozvod manželství Uznání cizích rozhodnutí*
+  > „Ve smyslu ustanovení § 51 odst. 1, 2 ZMPS byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občankou České republiky."
 - *NS* [20 Ncu 76/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/369AB8B0B504E524C125874400242500?openDocument) — *Uznání cizích rozhodnutí*
+  > „Ve smyslu ustanovení § 51 odst. 1, 2 ZMPS byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občanem České republiky."
 - *NS* [20 Ncu 65/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F55760A27A4CBB0C125864C0028B261?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
+  > „Ve smyslu § 51 odst. 1, 2 zákona č. 91/2012 Sb. byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občanem České republiky."
 - *NS* [29 Cdo 2119/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/100313DEE9F526CFC1258A4300161076?openDocument) — *Majetková podstata Škoda Insolvenční správce Konkurs Konflikt zájmů Přípustnost dovolání…*
 
 ### § 52 — Rozsah zastoupení
@@ -403,14 +431,23 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 53/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-53-24_1) — usnesení, 21. 2. 2024
+  > „Ústavní soud podotýká, že při soudním rozhodování o omezení svéprávnosti dle § 55 odst. 1 zákona č. 89/2012 Sb., občanský zákoník ("občanský zákoník") je vždy zapotřebí dbát toho, aby nedošlo k omezení ve větším rozsahu, než vyžaduje ochrana zájmů posuzovaného a než je nezbytně nutné k ochraně základních práv třetích osob."
 - *ÚS* [I. ÚS 829/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-829-14_1) — usnesení, 26. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího soudu a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, když nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [II. ÚS 854/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-854-14_1) — usnesení, 26. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího soudu a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, když nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [I. ÚS 3852/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3852-13_1) — usnesení, 26. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího soudu a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, když nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [III. ÚS 1049/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1049-14_1) — usnesení, 11. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [III. ÚS 628/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-628-14_1) — usnesení, 11. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [III. ÚS 518/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-518-14_1) — usnesení, 11. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [III. ÚS 1119/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1119-14_1) — usnesení, 9. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, přičemž nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 - *ÚS* [III. ÚS 669/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-669-14_1) — usnesení, 9. 6. 2014
+  > „Obvodnímu soudu následně vytýká, že jeho rozsudek zcela pomíjí judikaturu Nejvyššího a Ústavního soudu i příslušnou právní úpravu, že v něm nesprávně akcentoval zásadu autonomie vůle smluvních stran, nedostatečně zhodnotil zásadu ochrany spotřebitele jako slabší smluvní strany, …"
 
 ### § 56 — Pravomoc soudu
 
@@ -464,11 +501,17 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 - *NS* [24 Cdo 3225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0770FE6C8165A89EC1258C130052AF87?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 - *NS* [24 Cdo 3740/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/22725B325A42C6F1C1258AF4004C8F14?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odp…*
 - *NS* [24 Cdo 3550/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15A194F298AB9C04C12589A000191C04?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „2) V jakém rozsahu může soud omezit svéprávnost člověka ve smyslu ustanovení § 57 odst. 1 občanského zákoníku, a to především v jakém rozsahu nemůže pro duševní poruchu, která není jen přechodná, právně jednat?"
 - *NS* [24 Cdo 3064/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/719208C0DF07C76FC12585750018B7AE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Podle § 57 odst. 1 o. z. soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil."
 - *NS* [24 Cdo 1087/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2737BDDABA15EC48C125876000196C95?openDocument) — *Svéprávnost (o. z.) Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Advokacie Opatr…*
+  > „Podle § 57 odst. 1 o. z. soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil."
 - *NS* [30 Cdo 412/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E51C6ED2DA705B0C12583570021EF12?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Doka…*
+  > „Podle § 57 odst. 1 o. z. soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil."
 - *NS* [30 Cdo 6047/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/589D14E022F2F23CC125829B0052A9A6?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník Rod…*
+  > „Podle § 57 odst. 1 o.z. soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil."
 - *NS* [24 Cdo 2347/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/390CEBB05FE81A91C1258A140016188E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
+  > „Podle ustanovení § 57 odst. 1 o.z. soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil."
 - *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
 
 ### § 58 — Předběžné svěření jednání
@@ -484,6 +527,7 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3474/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/054FC8BA55766318C12585F300189601?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Ohledně určitosti výroku, kterým se schvaluje právní jednání, lze poukázat rovněž na komentářovou literaturu, která zastává názor, že ve výroku usnesení vydaného podle ustanovení § 58 o. z."
 
 ### § 59 — Časové omezení
 
@@ -511,10 +555,15 @@ OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení své
 
 - *NS* [24 Cdo 1123/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72031DAEDE978C61C1258B3F004D5A46?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
 - *NS* [24 Cdo 734/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C3BA67C541AD209C1258A15002C283C?openDocument) — *Omezení svéprávnosti (o.z.) Lhůta hmotněprávní [ Lhůty ] Odvolání*
+  > „Podle § 59 o. z. soud může svéprávnost omezit v souvislosti s určitou záležitostí na dobu nutnou pro její vyřízení, nebo na jinak určenou určitou dobu, nejdéle však na tři roky."
 - *NS* [24 Cdo 2179/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8D22BAA982D235BC125890E001DFF86?openDocument) — 12. 8. 2022
+  > „V projednávané věci závisí rozhodnutí odvolacího soudu – mimo jiné – na vyřešení otázky, jaké procesní následky nastávají v řízení o návrhu posuzovaného, který se domáhá vrácení svéprávnosti nebo jejího mírnějšího omezení (ve smyslu § 60 zák. č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“ ve spojení s § 35 odst. 1 a odst. 3 věta první z. ř."
 - *NS* [24 Cdo 2157/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70800B833466C44EC1258525001F0F8E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Jejím uplynutím (dnem 16. prosince 2017) by podle § 59 odst. 2 o. z. zanikly účinky omezujícího rozsudku, pokud by dne 12. září 2017 nebylo zahájeno řízení o prodloužení doby omezení."
 - *NS* [27 Cdo 5340/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65812C705069DADAC12584FA001E3324?openDocument) — *Smlouva pracovní Jednatel Společnost s ručením omezeným*
+  > „[29] Podle § 59 z. o. k. není-li odměňování ve smlouvě o výkonu funkce sjednáno v souladu s tímto zákonem, platí, že výkon funkce je bezplatný (odstavec třetí)."
 - *NS* [24 Cdo 2160/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03BF585E7420D38BC1258ADD00269B05?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Právní moc rozhodnutí*
+  > „Dobu jednoho roku uvedenou v § 59 odst. 2 o."
 - *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
 
 ### § 60 — Změna nebo zrušení i bez návrhu
@@ -530,10 +579,15 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1425/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66FF04AE102B32BEC1258A2700161283?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Změna poměrů*
+  > „Podle ustanovení § 60 o.z. změní-li se okolnosti, soud své rozhodnutí bezodkladně změní nebo zruší, a to i bez návrhu."
 - *NS* [24 Cdo 3488/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44FC14940A12B8C6C12587150018B1DC?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Podle ustanovení § 60 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o.z.“) změní-li se okolnosti, soud své rozhodnutí (ve věci svéprávnosti člověka) bezodkladně změní nebo zruší, a to i bez návrhu."
 - *NS* [24 Cdo 2612/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F77AA8ECF527E392C12586C10018043C?openDocument) — *Znalecký posudek Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Podle ustanovení § 60 o.z. změní-li se okolnosti, soud své rozhodnutí (ve věci svéprávnosti člověka) bezodkladně změní nebo zruší, a to i bez návrhu."
 - *NS* [24 Cdo 257/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7980A63A30A7901FC1258B12004D4E2F?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Smlouva o nápomoci (o. z.) [ Podpůr…*
+  > „Podle ustanovení § 60 zákona o. z. změní-li se okolnosti, soud své rozhodnutí (ve věci svéprávnosti člověka) bezodkladně změní nebo zruší, a to i bez návrhu."
 - *NS* [30 Cdo 4529/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57E3BF7DA6B7A6F7C1258272003C1564?openDocument) — *Přípustnost dovolání Svéprávnost (o. z.) Přiznání svéprávnosti (emancipace) (o. z.) [ Sv…*
+  > „Podle § 60 o.z. změní-li se okolnosti, soud své rozhodnutí (ve věci svéprávnosti člověka) bezodkladně změní nebo zruší, a to i bez návrhu."
 
 ### § 61—63 — Opatrovník
 
@@ -580,6 +634,7 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 - *NS* [24 Cdo 3590/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDCCFD6513B95A55C12585D6001853F1?openDocument) — *Omezení svéprávnosti (o.z.) Opatrovník Řízení opatrovnické*
 - *NS* [24 Cdo 3307/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DD18E48B869BE86C12584170018BD83?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
 - *NS* [30 Cdo 4910/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF5A2FB2D998837FC12580E2002B9646?openDocument) — *Opatrovník*
+  > „Výkon přenesené působnosti vykonávají ve smyslu § 61 odst. 1 obecního zřízení obce tří kategorií: a) tzv. obce I, neboli obce s běžnými obecními úřady, b) obce II, neboli obce s pověřeným obecním úřadem a c) obce III, neboli obce s rozšířenou působností."
 
 ### § 64 — Běžné záležitosti každodenního života
 
@@ -599,7 +654,9 @@ Toto je **kogentní ustanovení** — soud nemůže omezit svéprávnost natolik
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3269/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DE97B0DF46F104DC1258DB70052B31E?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Relativně abstraktně formulovaná hypotéza ustanovení § 64 o.z. obsahuje blíže neurčená právní jednání, z nichž lze z hlediska ekonomického důvodu právního jednání (podle kauzy) vyčlenit (zásadní) skupinu těch, které se týkají směny ekonomicky ekvivalentních hodnot (dále také jen „předmětná právní jednání“)."
 - *NS* [24 Cdo 2837/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/499503948E8CDCFCC12586E0001858C6?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
+  > „Podle ustanovení § 64 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), jehož znění nedoznalo od počátku účinnosti žádných změn, rozhodnutí o omezení svéprávnosti nezbavuje člověka práva samostatně právně jednat v běžných záležitostech každodenního života."
 
 ### § 65 — Důsledky jednání mimo rozsah
 
@@ -761,6 +818,7 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
+  > „Podle ustanovení § 71 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), na návrh osoby, která na tom má právní zájem, prohlásí soud za mrtvého člověka, o němž lze mít důvodně za to, že zemřel, a určí den, který se pokládá za den jeho smrti."
 
 ### § 72 — Domněnka po prohlášení za nezvěstného
 
@@ -775,6 +833,7 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
+  > „Podle ustanovení § 72 o. z. byl-li člověk prohlášen za nezvěstného a vyplývají-li z okolností vážné pochybnosti, zda je ještě živ, ačkoli jeho smrt není nepochybná, může ho soud prohlásit za mrtvého na návrh osoby, která na tom má právní zájem, a určí den, který nezvěstný zřejmě nepřežil."
 
 ### § 73 — Lhůta po prohlášení za nezvěstného
 
@@ -799,6 +858,7 @@ V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby b
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
+  > „Den, který se pokládá za den smrti člověka, který se stal nezvěstný tím, že opustil své bydliště, nepodal o sobě zprávu a není o něm známo, kde se zdržuje, avšak nebyl za nezvěstného prohlášen (§ 74 odst. 1 o.z.), může být určen zpětně ke dni, který bude předcházet konci ochranné sedmileté doby."
 
 ### § 75 — Lhůta při hromadných událostech
 
@@ -843,6 +903,7 @@ Důvod zkrácení: u takových událostí je pravděpodobnost úmrtí **kvalitat
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
+  > „Podle ustanovení § 76 odst. 1 o. z. byl-li člověk prohlášen za mrtvého, nevylučuje to důkaz, že zemřel dříve nebo později, anebo že je ještě naživu."
 
 ---
 

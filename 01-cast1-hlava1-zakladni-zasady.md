@@ -65,14 +65,23 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 2288/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9856B3770CC84E53C1258DAB0052C5F9?openDocument) — *Vyklizení nemovitosti Exekuční titul*
+  > „Závěr odvolacího soudu o „nekonkurující povaze“ předcházejícího rozhodnutí stavebního úřadu o odstranění „stavby“ je též v souladu s § 1 odst. 1 věta druhá zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů."
 - *NS* [33 Cdo 1128/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/883F9DCC29203A35C1258CA8004D3A78?openDocument) — *Přípustnost dovolání Soukromé právo*
+  > „Zákon č. 89/2012 Sb., občanský zákoník, v § 1 odst. 1 zakotvuje, že „[U]stanovení právního řádu upravující vzájemná práva a povinnosti osob vytvářejí ve svém souhrnu soukromé právo."
 - *NS* [33 Cdo 2864/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37C099458189E734C1258C68004D19C7?openDocument) — *Smír Přípustnost dovolání Dovolací důvody*
+  > „Podle § 1 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), je uplatňování soukromého práva nezávislé na veřejném právu."
 - *NS* [22 Cdo 1687/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4C911F001B50FC3C1258C0D0052AE3D?openDocument) — *Vydržení Držba*
+  > „Podle § 1 odst. 1 věty druhé o. z. je uplatňování práva soukromého nezávislé na uplatňování práva veřejného."
 - *NS* [25 Cdo 1241/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ADACECC57B0CAC8CC1258BE40052ACD1?openDocument) — *Vázanost rozhodnutím jiného orgánu Soukromé právo*
+  > „Uvedený závěr, který v posuzované věci učinil i odvolací soud, přitom vyplývá z § 1 odst. 1 o. z. Dovolací soud dále podotýká, že s ohledem na dikci čl. 11 odst. 4 nařízení není vyloučeno, že by osobní ochranné prostředky byly uvedeny do souladu s ním dodatečně."
 - *NS* [21 Cdo 3047/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18BEE5F87F5565BBC1258B62004D193E?openDocument) — *Náhrada mzdy Mzda (a jiné obdobné příjmy) Překážky v práci*
+  > „Podle ustanovení § 1 odst. 2 o. z. nezakazuje-li to zákon výslovně, mohou si osoby ujednat práva a povinnosti odchylně od zákona; zakázána jsou ujednání porušující dobré mravy, veřejný pořádek nebo právo týkající se postavení osob, včetně práva na ochranu osobnosti."
 - *NS* [27 Cdo 1889/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1442D4434EEF8A6AC12588F3001DCDAB?openDocument) — *Bytové družstvo [ Družstvo ] Družstevní podíl [ Družstvo ]*
+  > „2) Ustanovení § 1 odst. 2 části věty před středníkem zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), pak vychází z toho, že takový zákaz bude výslovný."
 - *NS* [21 Cdo 496/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1A6894B412097297C12588FB001DC1BA?openDocument) — *Okamžité zrušení pracovního poměru Překážky v práci Náhrada mzdy Pracovní volno*
+  > „Odvolací soud uzavřel, že se jednalo o situaci, která odpovídá vymezení „jiné překážky na straně zaměstnavatele“ ve smyslu § 209 odst."
 - *NS* [21 Cdo 2340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBCED09BB8C0A660C1258652001DDDD7?openDocument) — *Pravomoc soudu Vojenská služba Náhrady při ublížení na zdraví [ Náhrady při ublížení na…*
+  > „Je přitom mimo pochybnost, že všechny nároky, které žalobce žalobou uplatňuje, mají soukromoprávní povahu (ustanovení právního řádu upravující vzájemná práva a povinnosti osob vytvářejí ve svém souhrnu soukromé právo - § 1 odst. 1 věta první zákona č. 89/2012 Sb., občanský zákoník)."
 
 ---
 
@@ -105,14 +114,23 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 1782/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1782-15_1) — usnesení, 16. 7. 2015
+  > „Za tohoto stavu by vyhovění žalobě bylo dle názoru odvolacího soudu v rozporu s § 2 odst. 3 zákona č. 89/2012 Sb., občanský zákoník."
 - *ÚS* [IV. ÚS 3188/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3188-14_1) — usnesení, 11. 12. 2014
+  > „Pro úplnost stěžovatelka poukázala na ustanovení § 2 odst. 3 zákona č. 89/2012 Sb., občanský zákoník, podle kterého výklad a použití právního předpisu nesmí být v rozporu s dobrými mravy."
 - *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
+  > „Pokud jde o dobré mravy, odvolací soud konstatoval, že ty jsou upraveny v § 2 odst. 3 o. z. a z právně teoretického hlediska je lze vymezit jako způsoby chování, které nejsou nikomu na újmu."
 - *NS* [30 Cdo 2893/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA000D7FDDF8703C1258D840052B087?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ]*
+  > „2012, sp. zn. 30 Cdo 3731/2011] je nutné posuzovat individuální okolnosti daného případu též prizmatem kogentního ustanovení § 2 odst. 3 zákona č. 89/2012 Sb., občanský zákoník, zakotvujícího zásadu souladného výkonu práv s dobrými mravy, která je v rovině podústavního práva právě odrazem ústavního požadavku nalezení spravedlivého řešení."
 - *NS* [22 Cdo 2350/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB4E589C083A7184C1258D480052C13D?openDocument) — *Zisk Podnikání Dobré mravy*
+  > „Ustanovení § 2 odst. 3 o. z. zakotvuje zásadu dobrých mravů jako obecný princip ovládající výklad i aplikaci občanskoprávních norem, ke kterému je třeba přihlížet i při vydání konstitutivního rozhodnutí (srov. rozsudek Nejvyššího soudu ze dne 16."
 - *NS* [21 Cdo 2993/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/494D255BA663421DC1258C440052B307?openDocument) — *Dražba Insolvenční řízení Výklad právních předpisů (výklad právních norem)*
+  > „Zákonnému ustanovení nelze přikládat jiný význam, než jaký plyne z vlastního smyslu slov v jejich vzájemné souvislosti a z jasného úmyslu zákonodárce; nikdo se však nesmí dovolávat slov právního předpisu proti jeho smyslu (§ 2 odst. 2 o. z.)."
 - *NS* [26 Cdo 3520/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7572D324E7A59D0C1258C0800529D30?openDocument) — *Dobré mravy*
+  > „Nárok žalobkyně na zaplacení pokuty podle § 13 zákona č. 67/2013 Sb. považoval odvolací soud za výkon práva v rozporu s dobrými mravy ve smyslu § 2 odst. 3 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [28 Cdo 1334/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3C94CC88992D3CB8C1258BDA0052DBB6?openDocument) — *Dobré mravy Veřejné zakázky Jistota*
+  > „Rozhodovací praxe Nejvyššího soudu se ohledně otázky rozporu výkonu práva s dobrými mravy (§ 2 odst. 3 o. z., shodně jako ve smyslu § 3 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění účinném do 31."
 - *NS* [25 Cdo 753/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C2A8F3584D542A5C1258AF5004D3118?openDocument) — *Ochrana osobnosti Dobré mravy Dovolací důvody Přípustnost dovolání Dokazování Promlčení*
+  > „K použití korektivu dobrých mravů ve smyslu § 2 odst. 3 o. z. (obdobně podle dřívějšího § 3 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31."
 
 ---
 
@@ -148,14 +166,21 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 716/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-716-14_1) — usnesení, 8. 7. 2015
+  > „Ze strany 4 napadeného rozsudku odvolacího soudu jednoznačně vyplývá, že dle jeho názoru se povinný dovolal promlčení, přičemž není důvod k aplikaci korektivu dobrých mravů, jak to umožňuje ustanovení § 3 odst. 1 o. z."
 - *ÚS* [II. ÚS 2678/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2678-14_1) — usnesení, 28. 4. 2015
+  > „Stěžovatel uzavřel, že podle § 3 odst. 2 písm. f) zákona č. 89/2012 Sb., občanský zákoník, nikomu nelze odepřít, co mu po právu náleží a zjevné zneužití práva nepožívá právní ochrany (§ 8 citovaného zákona)."
 - *ÚS* [II. ÚS 804/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-804-14_1) — usnesení, 14. 10. 2014
+  > „Odvolací soud řešil i otázku, zda nejsou dány důvody pro posouzení uplatněné námitky promlčení v rozporu s dobrými mravy dle § 3 odst. 1 o. z., byť takovou námitku stěžovatel neuplatnil."
 - *ÚS* [II. ÚS 589/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-589-13_1) — usnesení, 8. 7. 2014
+  > „Odvolací soud uvedl, že za bezpředmětnou je nutno také považovat námitku stěžovatelky, že pohledávku nemohla uplatnit proti dlužníkovi po odložení věci v trestním řízení z důvodu promlčení, neboť je na dlužníkovi, zda ji uplatní, na soudu, zda ji bude akceptovat nebo bude postupovat podle § 3 o. z."
 - *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — usnesení, 9. 9. 2015
+  > „Dovolací soud konečně uzavřel poukazem na to, že nelze ani přehlédnout, že zamítnutí žaloby na vyklizení bytu na základě aplikace § 3 odst. 1 o. z."
 - *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — usnesení, 23. 9. 2014
+  > „Odvolací soud neshledal za důvodnou ani námitku stěžovatelky, že jednání původního žalobce bylo v rozporu s dobrými mravy podle § 3 o."
 - *NS* [25 Cdo 1019/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43CC7C0402FC53F6C1258C4500529BBF?openDocument) — *Předběžná otázka Dobré mravy*
 - *NS* [26 Cdo 1171/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D103CB1BD0054F01C125876C00189DD2?openDocument) — *Ochrana vlastnictví Promlčení Dobré mravy*
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
+  > „Odkázal na § 3 odst. 2 písm. a) a § 81 odst. 1 o. z. a na § 28 odst. 1, 2 a 3 písm. a), § 31 a § 34 odst. 1 a 3 zákona č."
 
 ---
 
@@ -182,11 +207,17 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1510/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC1D9BD286ADE13C125882E0015FE70?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ]*
+  > „2014 – v rámci rekodifikace soukromého práva – vstoupil v účinnost občanský zákoník, který v § 4 odst. 2 (mimo jiné) upravil výklad pojmu „vědomost“ v případech, kdy zákon s touto vědomostí spojuje určitý následek."
 - *NS* [22 Cdo 2464/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26104C336EB1743BC1258D570052A4DF?openDocument) — *Držba Přípustnost dovolání Věcná břemena*
+  > „Takový úmysl nelze zpravidla prokázat přímo, je-li však prokázána existence skutečností, zakládajících nepoctivost držitele, o kterých věděl anebo – při splnění předpokladu § 4 odst. 1 o."
 - *NS* [23 Cdo 1837/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA19F67DE0749D65C12588EC001DC219?openDocument) — *Dobrá víra Nevlastník Vozidla silniční Vlastnictví Smlouva kupní*
+  > „Touto „modelovou“ osobou je nutno zásadně rozumět podle § 4 odst. 1 o. z. osobu průměrného rozumu, která si počíná s běžnou péčí a opatrností."
 - *NS* [25 Cdo 2679/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C66DA72ECACCE28C1258684001E0EB3?openDocument) — *Náhrada při poškození věci Cena věci (o. z.) Přípustnost dovolání*
+  > „I v kontextu se zákonem formulovaným předpokladem průměrného rozumu svéprávného člověka a schopnosti jej využívat při zachování běžné péče a opatrnosti, které od něj může každý v právním styku důvodně očekávat (§ 4 o."
 - *NS* [22 Cdo 2826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17B66DFBDBBB0233C1258D850052C87B?openDocument) — *Držba Úmysl Vydržení*
+  > „Takový úmysl nelze zpravidla prokázat přímo, je-li však prokázána existence skutečností, zakládajících nepoctivost držitele, o kterých věděl anebo – při splnění předpokladu § 4 odst. 1 o."
 - *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
+  > „Podle § 4 odst. 1 o. z. lze od běžného (průměrného) člověka očekávat, že při zachování běžné opatrnosti nebude vstupovat do prostoru, kam setrvale stéká voda, a zvolí bezpečnější cestu, čemuž v tomto případě nic nebránilo."
 
 ---
 
@@ -210,12 +241,19 @@ To má dopady na:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2146/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7C668580D8FF147C1258D4E0052BC35?openDocument) — *Smlouva zprostředkovatelská Konflikt zájmů Odborný výkon (odborník) (o. z.)*
+  > „Podle § 5 o. z. kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena."
 - *NS* [25 Cdo 2949/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87FD857379857920C125886C001929C8?openDocument) — *Spolu způsobení si újmy poškozeným Náhrada škody*
+  > „Jak dovolatelka správně uvedla, podle § 5 odst. 1 o. z. se žalovaní nemohou zprostit své odpovědnosti poukazem na přání zákazníka či vlastní neodbornost."
 - *NS* [32 Cdo 3925/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD9E632E272A991BC125859C0019FF3D?openDocument) — *Přípustnost dovolání Náhrada škody*
+  > „Přípustnost dovolání podle ustanovení § 237 o. s. ř. obdobně nezakládá ani otázka dovolatelky, zda odvolací soud mohl její odpovědnost posoudit podle ustanovení § 5 odst. 1 a § 2912 odst. 2 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“)."
 - *NS* [7 Tdo 676/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A4507C4125348E9C125848000180BC6?openDocument) — *Porušení důležité povinnosti Prevence Těžké ublížení na zdraví z nedbalosti*
+  > „Odmítá, že by získal postavení garanta ve smyslu § 5 odst. 1 občanského zákoníku nabízením nebo umožněním vstupu do jeskyně."
 - *NS* [29 Cdo 4136/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1D2A6791C3D7150C12582320041A030?openDocument) — *Banky Úpadek Zástavní právo Konkurs*
+  > „2) „Zda na jednání správce konkursní podstaty podle zákona č. 328/1991 Sb., o konkursu a vyrovnání (dále jen „ZKV“), k němuž došlo před 1. lednem 2014, je či není na základě ustanovení § 3030 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), aplikovatelné ustanovení § 5 o."
 - *NS* [33 Cdo 131/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D127E09BAE42A344C125872300185AB8?openDocument) — *Přípustnost dovolání Zastoupení*
+  > „Podle odvolacího soudu žalobkyni jakožto realitní kanceláři podléhající režimu § 5 odst. 1 o. z. muselo být bez pochybností zřejmé, že B. podpisem smlouvy o spolupráci překračuje své zástupčí oprávnění, resp. že zástupčí oprávnění k uzavření smlouvy o spolupráci nemá, neboť nedisponoval plnou mocí od žalované."
 - *NS* [28 Cdo 568/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A639C0C01682AB29C1258B32004D43AC?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 5 o. z. kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena."
 
 ---
 
@@ -250,14 +288,22 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 3767/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F18909AE1AA8CFE2C1258A3600160EEC?openDocument) — *Přípustnost dovolání Výpověď z pracovního poměru Dobré mravy Diskriminace*
+  > „S ohledem na uvedenou rozhodovací praxi dovolacího soudu proto nemohou obstát dovolací námitky, podle kterých žalovaná v rozporu s ustanovením § 6 odst. 1 o. z. při dání výpovědi nejednala poctivě a zjevné zneužití práva žalovanou tak ve smyslu ustanovení § 8 o. z. nepožívá právní ochrany."
 - *NS* [29 Cdo 2044/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA56C6801C33CC11C125863B001DA04C?openDocument) — *Směnka Poctivost (o. z.) Právní jednání (o. z.)*
 - *NS* [29 Cdo 3825/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E4FDD687E46F40CC12586060018879A?openDocument) — *Směnečný a šekový platební rozkaz Zajištění závazku*
+  > „Na řešení dalších dovolatelem otevřených právních otázek, týkajících se (ne)splnění poučovací povinnosti soudy nižších stupňů, rozhodnutí odvolacího soudu nespočívá; právní posouzení věci odvolacím soudem, založené na výkladu ustanovení § 6 odst. 2 o. z. (včetně toho, že v tomto ustanovení formulovaná zásada obecně platila i v době do 31."
 - *NS* [30 Cdo 1205/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/077FAABBE4A6CB70C12585C1003A0FA5?openDocument) — *Dobré mravy Promlčení*
+  > „Předpoklad přípustnosti dovolání dovolatel spatřoval v tom, že napadené rozhodnutí závisí na vyřešení otázky hmotného práva, která dosud nebyla v rozhodovací praxi dovolacího soudu řešena, a to, zda výkon práva žalované dovolávat se promlčení nebyl v projednávané věci v rozporu s dobrými mravy ve smyslu § 6 zákona č."
 - *NS* [32 Cdo 3898/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE015E0A5391E02BC125851E001E8636?openDocument) — *Dobré mravy Přípustnost dovolání*
+  > „Otázka, zda v poměrech zde souzené věci lze aplikovat ustanovení § 6 a 8 o. z. či nikoliv, ostatně nemá z hlediska věcného zásadní význam."
 - *NS* [29 NSCR 41/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD84B0147F0F7214C12583E200183D78?openDocument) — *Oddlužení Poctivost (o. z.)*
+  > „Ustanovení § 6 odst. 1 o. z. je tedy nutno chápat jako určitou generální, přímo aplikovatelnou normu, která není jen proklamací bez praktického aplikačního významu, a použije se vždy jako východisko pro výklad některých speciálních skutkových podstat [ Melzer, F., Tégl, P. a kol. Občanský zákoník – velký komentář."
 - *NS* [28 Cdo 1119/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54AC6384322A1718C1257F7E00364AD6?openDocument) — *Občanské sdružení*
+  > „Dosud nezodpovězenou otázkou je i to, obstojí-li počínání žalované z pohledu § 6 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“), zakazujícího každému těžit ze svého protiprávního činu či jím vyvolaného protiprávního stavu."
 - *NS* [21 Cdo 1092/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EA8F5F8409D60DFC1258D04004D42DF?openDocument) — *Přípustnost dovolání Dovolací důvody Veřejná nedobrovolná dražba [ Veřejná dražba ] Vydá…*
+  > „V daném případě nelze „na oko“ proběhlé dražbě přiznat právní ochranu a považovat ji za souladnou s principy poctivosti a zákazu zneužití práva (§ 6 odst. 1 a 2 a § 8 o. z.)."
 - *NS* [27 Cdo 1943/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02D0A755B62C4DC1258BA2004D3C65?openDocument) — *Žaloba Zneužívání výkonu práv a povinností Společník*
+  > „[26] Podle § 6 odst. 1 o. z. každý má povinnost jednat v právním styku poctivě."
 
 ---
 
@@ -279,14 +325,23 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — usnesení, 23. 6. 2015
+  > „Pokud se stěžovatelka dovolávala porušení dobrých mravů s odkazem na ustanovení § 7 a § 13 zákona č. 89/2012 Sb., občanský zákoník, Ústavní soud uvádí, že práva a povinnosti musí být vykládány především ve shodě s Listinou a současným ústavním pořádkem v souladu s dobrými mravy a spravedlností."
 - *NS* [27 Cdo 2126/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/82A2B48544644291C1258BEB0052C157?openDocument) — *Dobrá víra Obchodní rejstřík Statutární orgán Zastoupení*
+  > „Podle § 7 o. z. se má za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře."
 - *NS* [22 Cdo 1946/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0A40DCF6734A98BFC1258D2D004D1D94?openDocument) — *Katastr nemovitostí Dobrá víra*
+  > „Oproti dosavadní judikatuře však platí, že ve shodě s ustanovením § 7 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“) se dobrá víra dobrověrného nabyvatele presumuje."
 - *NS* [21 Cdo 1811/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C51146D7BF8AEA6DC12588280017B6D0?openDocument) — *Přípustnost dovolání Dovolací důvody Dovolání (vady) Dobrá víra Úschova*
+  > „Dobrou víru je v uvedeném případě povinen prokázat nabyvatel, čímž dochází k odchylce od zásady stanovené v ustanovení § 7 o. z., podle kterého se dobrá víra presumuje."
 - *NS* [24 Cdo 793/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B8E4D4D91E11D8C5C125873B001874AD?openDocument) — *Dobrá víra Nabytí vlastnického práva od neoprávněného Katastr nemovitostí Dokazování*
+  > „Dobrou víru občanský zákoník presumuje, když dle jeho § 7 se má za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře."
 - *NS* [24 Cdo 221/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D00B831FD6419AFFC125870400188CF4?openDocument) — *Dobrá víra Katastr nemovitostí Vlastnictví Nabytí vlastnického práva od neoprávněného*
+  > „Dobrou víru občanský zákoník presumuje, když dle jeho § 7 se má za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře."
 - *NS* [24 Cdo 279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/091AFB0766A514DEC1258AFA004D3115?openDocument) — *Dobré mravy Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ]*
+  > „Dále základní zásady nového občanského zákoníku vycházejí z pravidla, že se má za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře (§ 7) a že zjevné zneužití práva nepožívá právní ochrany (§ 8 o. z.)."
 - *NS* [27 Cdo 485/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/713CE5BFA88DB3A8C1258A6D001B84A0?openDocument) — *Odstoupení od smlouvy Lhůta hmotněprávní [ Lhůty ] Dobrá víra Právnická osoba Jednání za…*
+  > „[40] Z ustálené rozhodovací praxe Nejvyššího soudu se dále podává, že § 7 o. z. vyjadřuje vyvratitelnou domněnku jednání v dobré víře; ten, kdo ji popírá, musí tvrdit skutečnosti ji vylučující a ohledně nich nese důkazní břemeno."
 - *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
+  > „Hovoří-li dovolatelka o dobré víře chodce v to, že souvislý chodník má stejné nebo srovnatelné vlastnosti po celé své délce, opomíjí, že kategorie dobré víry je zákonem obecně stanovenou vyvratitelnou domněnkou pro jednání v právních vztazích (viz § 7 o."
 
 ---
 
@@ -321,14 +376,23 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3235/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1AE36B439D4DA9B2C1258D9C0052B12A?openDocument) — *Stavba Dobré mravy*
+  > „Dovolací soud přitom zdůraznil, že zákaz zneužití práva (§ 8 o. z.) je institutem ztělesňujícím korigující funkci principu poctivosti."
 - *NS* [23 Cdo 1178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/48A6DA9B7A67581DC1258D8F0052B087?openDocument) — *Přípustnost dovolání Vady podání Dobré mravy*
+  > „Pro úplnost lze doplnit, že dovolací soud ve svém rozhodování dovodil závěr, podle kterého ustanovení § 8 o. z. patří k právním normám s relativně neurčitou (abstraktní) hypotézou, tj."
 - *NS* [22 Cdo 2824/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D8F8775B17504FC1258D690052D9AE?openDocument) — *Zneužívání výkonu práv a povinností Předkupní právo*
+  > „163].“ Dovolací soud poznamenává, že otázku aplikace § 8 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“) učiní předmětem svého přezkumu jen v případě zjevné nepřiměřenosti relevantních úvah soudů v nalézacím řízení (srov. přiměřeně usnesení Nejvyššího soudu ze dne 29."
 - *NS* [22 Cdo 2225/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6DF90EE5B1D38667C1258D26004D11DA?openDocument) — *Přípustnost dovolání Stavba neoprávněná Zneužívání výkonu práv a povinností*
+  > „Dále žalovaní mají za to, že dovolání je přípustné také proto, že odvolací soud poskytl ochranu výkonu práva, které má šikanózní povahu a směřuje toliko k poškození práva žalovaných bez toho, aby žalobkyni přineslo jakýkoliv prospěch; argumentují tudíž tím, že žaloba na odstranění stavby je zjevným zneužitím práva, …"
 - *NS* [26 Cdo 1722/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE66C54672A191D2C1258D29004D4703?openDocument) — *Smluvní pokuta Dobré mravy*
+  > „Pro úplnost lze dodat, že novelizovaný § 8 odst. 2 zákona č. 67/2013 Sb. ve znění účinném od 1."
 - *NS* [27 Cdo 1395/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF11F6509D8BF8A6C1258CE6004D33D3?openDocument) — *Zneužívání výkonu práv a povinností Žaloba Společník*
+  > „[3] Na takto ustaveném základě soud prvního stupně předně uzavřel, že J. Š. byl jako společník žalované oprávněn uzavřít smlouvu a podat za žalovanou žalobu na náhradu újmy podle § 71 z. o. k. Soud neshledal, že by podání žaloby představovalo zjevné zneužití práva podle § 8 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“)."
 - *NS* [22 Cdo 662/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4816CC6BD28F7254C1258C92004D09F3?openDocument) — *Přípustnost dovolání Zneužívání výkonu práv a povinností*
+  > „Z judikatury Nejvyššího soudu k otázce výkonu práva v rozporu s dobrými mravy ve smyslu § 2 odst. 3 o. z. a § 8 o. z. vyplývá následující."
 - *NS* [33 Cdo 642/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E4FC2E66F8499BFAC1258C5A0052D0C0?openDocument) — *Odměna advokáta Dobré mravy*
+  > „S odkazem na rozhodnutí Nejvyššího soudu sp. zn. 28 Cdo 1927/2015 a sp. zn. 22 Cdo 3082/2016 namítá, že při stanovení hodnoty věci podle ustanovení § 8 odst. 1 advokátního tarifu „ se může vycházet pouze“ z ceny obvyklé."
 - *NS* [27 Cdo 1236/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A59FD4BC785804AEC1258C400052B32D?openDocument) — *Konkurenční doložka Smlouva o výkonu funkce Odstoupení od smlouvy*
+  > „Podle § 8 o. z. zjevné zneužití práva nepožívá právní ochrany. b) K odstoupení od konkurenční doložky v kontextu zneužití práva 19."
 
 ---
 
@@ -362,6 +426,7 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+  > „Podle ustanovení § 9 odst. 2 věta první o. z. soukromá práva a povinnosti osobní a majetkové povahy se řídí občanským zákoníkem v tom rozsahu, v jakém je neupravují jiné právní předpisy."
 
 ---
 
@@ -394,14 +459,23 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1111/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/65E4C851F4EBCA5BC1258CB3004D3534?openDocument) — *Skončení pracovního poměru Cizinci Analogie legis Výklad právních předpisů (výklad právn…*
+  > „Pro závěr, zda důvod skončení pracovního poměru upravený v § 48 odst. 3 písm. c) zák. práce lze aplikovat i na pozbytí oprávnění k volnému vstupu na tuzemský pracovní trh podle § 98 písm. j) zák. o zaměstnanosti, je proto určující posouzení splnění podmínek pro analogii legis (§ 10 odst. 1 zákona č."
 - *NS* [28 Cdo 1623/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F40E0BA7195AC75CC1258BDA0052DBC9?openDocument) — *Analogie legis Bezdůvodné obohacení*
+  > „Ustanovení § 10 o. z. reguluje posloupnost, v jaké mají být na určitou skutkovou podstatu aplikována právní pravidla."
 - *NS* [23 Cdo 2178/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1E8A30F8249231CC1258A37004B2977?openDocument) — *Analogie legis Autorské právo Autorské dílo Duševní vlastnictví Licence*
+  > „V případě tzv. otevřené nepravé (teleologické) mezery v právu přichází v úvahu též soudcovské dotváření práva prostřednictvím analogického použití právní normy (ve smyslu § 10 odst. 1 zák. č. 89/2012 Sb., občanského zákoníku)."
 - *NS* [27 Cdo 2453/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63D06177761E1267C12588510015FF01?openDocument) — *Valná hromada Usnesení valné hromady (zdánlivost) [ Valná hromada ]*
+  > „[20] Podle § 10 odst. 1 o. z. nelze-li právní případ rozhodnout na základě výslovného ustanovení, posoudí se podle ustanovení, které se týká právního případu co do obsahu a účelu posuzovanému právnímu případu nejbližšího."
 - *NS* [22 Cdo 3651/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9CFE6A4F4587ED5C125850A001E54E8?openDocument) — *Přípustnost dovolání Stavba*
+  > „K možnosti přikázání stavbu zřízenou na cizím pozemku do vlastnictví vlastníka pozemku na základě analogické aplikace zákona (§ 10 o. z.): Přípustnost dovolání proti rozsudku odvolacího soudu není dána ani řešením - podle dovolání dosud neřešené - otázky, zda odvolací soud měl postupovat podle § 10 občanského zákoníku č. 89/2012 Sb. („o."
 - *NS* [33 Cdo 1109/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/489E79F0E0BBB090C125857E00452C7B?openDocument) — *Smlouva o smlouvě budoucí*
+  > „Podle § 10 odst. 1 o. z., nelze-li právní případ rozhodnout na základě výslovného ustanovení, posoudí se podle ustanovení, které se týká právního případu co do obsahu a účelu posuzovanému právnímu případu nejbližšího."
 - *NS* [30 Cdo 4888/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CD5CB763DC69059C12582F6002679C7?openDocument) — *Neplatnost právního úkonu Dobrá víra Přípustnost dovolání*
+  > „Odvolací soud neshledal právně relevantními námitky žalobkyně týkající se možnosti konvalidace předmětných neplatných právních úkonů, vydržení vlastnického práva ani možnosti aplikace § 10 odst. 2 o. z. pro dobré uspořádání práv a povinností."
 - *NS* [33 Cdo 2352/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6439B705F531C379C12589D50018293F?openDocument) — *Odstoupení od smlouvy Analogie iuris*
+  > „Podle § 10 o. z., nelze-li právní případ rozhodnout na základě výslovného ustanovení, posoudí se podle ustanovení, které se týká právního případu co do obsahu a účelu posuzovanému právnímu případu nejbližšího (odstavec 1/)."
 - *NS* [27 Cdo 3150/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55B66445D61A5DB1C1258923001E1510?openDocument) — *Zájmové sdružení právnických osob Spolek (o. z.)*
+  > „11) Vedle tzv. otevřené mezery v zákoně je dalším předpokladem pro užití analogie ve smyslu § 10 odst. 1 o. z. podobnost s jiným – právem výslovně upraveným – případem."
 
 ---
 
@@ -425,10 +499,14 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 
 - *NS* [33 Nd 380/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A2EE9D59C649B8AC1258BA9004D2466?openDocument) — *Příslušnost soudu místní*
 - *NS* [25 Cdo 268/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/75EA7445D9CEB8ECC1258AD8001B8AB7?openDocument) — *Ochrana osobnosti*
+  > „Soud prvního stupně uplatněné nároky posoudil podle § 11 a § 13 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31."
 - *NS* [22 Cdo 3596/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4AE80122D327578C1258AAE001B7F86?openDocument) — *Služebnost (o. z.) Výpověď smlouvy*
+  > „Služebnost nelze vypovědět podle § 1999 odst. 1 o. z."
 - *NS* [22 Cdo 1925/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9318C770A8F1F2C1258799001B8397?openDocument) — *Vlastnictví*
+  > „Jestliže však v důsledku takového přemístění vzniknou žalovanému zvýšené náklady a zvýšené nebezpečí, může je podle okolností případu nést vlastník pozemku (§ 11 o. z. ve spojení s analogickou aplikací § 1956 o. z.)."
 - *NS* [26 Cdo 3654/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/610E048C0666B046C1258535001DEDA0?openDocument) — *Přípustnost dovolání Dobré mravy*
 - *NS* [30 Cdo 4207/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC47AD84E40F4FF2C1257F4C00364BA8?openDocument) — *Ochrana osobnosti Správce konkursní podstaty*
+  > „Podle ustanovení § 11 občanského zákoníku, má fyzická osoba právo na ochranu své osobnosti, zejména života a zdraví, občanské cti a lidské důstojnosti, jakož i soukromí, svého jména a projevů osobní povahy."
 
 ---
 
@@ -461,9 +539,13 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 
 - *NS* [25 Nd 670/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CD865DD9144558CC1258AAD00529B97?openDocument) — *Přikázání věci (delegace)*
 - *NS* [21 Cdo 1180/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF05A5CF97D8CD78C1258A14001618CE?openDocument) — *Pracovní doba Diskriminace Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Pr…*
+  > „Stanoví-li § 12 o. z., že každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávajícího veřejnou moc (dále jen „orgán veřejné moci“) a že není-li v zákoně stanoveno něco jiného, je tímto orgánem veřejné moci soud, musí být k dispozici i konkrétní prostředek (žalobní nárok), jehož prostřednictvím se lze ochrany domáhat."
 - *NS* [23 Nd 190/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7845E53483D4AF20C12589EA00182876?openDocument) — *Přikázání věci (delegace)*
+  > „2023 Spisová značka : 23 Nd 190/2023 ECLI: ECLI:CZ:NS:2023:23.ND.190.2023.1 Typ rozhodnutí: USNESENÍ Heslo: Přikázání věci (delegace) Dotčené předpisy: § 12 odst. 2 o. z. Kategorie rozhodnutí: E Zveřejněno na webu: 12."
 - *NS* [22 Cdo 787/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/965E57C9C8AB0577C12585AA0018EB04?openDocument) — *Stavba neoprávněná Zneužívání výkonu práv a povinností Obec*
+  > „Podle § 12 o. z. každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávajícího veřejnou moc."
 - *NS* [30 Cdo 107/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7643093CAE143AB7C125895E001E0354?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
+  > „Uplatnění nároku na zadostiučinění za nemajetkovou újmu zůstavitelem u úřadu uvedeného v § 6 zákona č. 82/1998 Sb. postupem podle § 14 odst. 1 zákona č. 82/1998 Sb. není uplatněním práva u orgánu veřejné moci ve smyslu § 1475 odst. 2 o. z."
 
 ---
 
@@ -495,14 +577,23 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [I. ÚS 491/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-491-15_1) — nález, 22. 9. 2015
+  > „Nic na tom nemění ani stěžovatelčin odkaz na ochranu legitimního očekávání, zakotvenou v § 13 zákona č. 89/2012 Sb., občanský zákoník, neboť stěžovatelka sice uváděla, že jiné soudy nebránily vymožení jejích obdobných nároků, ovšem z této okolnosti není zřejmé, na podkladě jakých titulů bylo exekučnímu návrhu v jiných případech vyhověno."
 - *ÚS* [II. ÚS 1976/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1976-15_1) — usnesení, 20. 10. 2015
+  > „Vzhledem k tomuto postoji Nejvyššího soudu tak je dle krajského soudu namístě vybírat v daných věcech i nadále soudní poplatek ve výši 5 000,- Kč. Stěžovatelka považuje odůvodnění napadeného rozhodnutí krajského soudu za nedostatečné a zjevně rozporné s imperativem obsaženým v ustanovení § 13 občanského zákoníku."
 - *ÚS* [II. ÚS 1512/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1512-15_1) — usnesení, 8. 9. 2015
+  > „Podle stěžovatelky tím byla rovněž porušena zásada zakotvená v ustanovení § 13 zákona č. 89/2012 Sb., občanský zákoník (dále jen "občanský zákoník" nebo "zákon č. 89/2012 Sb."), o předvídatelnosti soudních rozhodnutí a tedy i právní jistoty."
 - *ÚS* [I. ÚS 3917/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3917-11_1) — usnesení, 6. 3. 2014
+  > „Pokud jde o neoprávněný zásah ve smyslu § 13 občanského zákoníku (dále jen "o."
 - *ÚS* [II. ÚS 1007/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1007-15_1) — usnesení, 23. 6. 2015
+  > „Pokud se stěžovatelka dovolávala porušení dobrých mravů s odkazem na ustanovení § 7 a § 13 zákona č. 89/2012 Sb., občanský zákoník, Ústavní soud uvádí, že práva a povinnosti musí být vykládány především ve shodě s Listinou a současným ústavním pořádkem v souladu s dobrými mravy a spravedlností."
 - *NS* [28 Cdo 2174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53465E92D0A5A74DC1258DB00052C041?openDocument) — *Zmírnění křivd (restituce) Náhradní pozemek*
+  > „K řečenému rovněž v intencích § 13 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), připomněl analogické závěry soudů v souvisejících řízeních."
 - *NS* [25 Cdo 2171/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2580657FC767F617C1258CD9004D23E9?openDocument) — *Náklady léčení Dovolání Přípustnost dovolání*
+  > „Tím odvolací soud porušil § 13 o. z. Dovolatelka proto navrhla, aby napadené rozhodnutí v jeho zamítavé části Nejvyšší soud zrušil a věc vrátil odvolacímu soudu k dalšímu řízení."
 - *NS* [28 Cdo 174/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A000C27BE9EB7B19C1258CCE004D3C02?openDocument) — *Bezdůvodné obohacení Dokazování*
+  > „2021, sp. zn. 28 Cdo 2591/2021), namítajíc překvapivost rozhodnutí odvolacího soudu příčící se principu vtělenému do § 13 o. z., jež je ve smyslu § 3030 o. z. aplikovatelný i v nynější věci, nelze jejím námitkám zcela přitakat."
 - *NS* [26 Cdo 178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D453FDD3E87CAD3C1258C83004D1D89?openDocument) — *Přípustnost dovolání Předběžná otázka Závaznost rozsudku*
+  > „§ 13 o. z.; též nález Ústavního soudu ze dne 27."
 
 ---
 
@@ -543,8 +634,11 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [4 Tdo 246/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1E14B68C8732F21C125858F0018E7A9?openDocument) — *Domovní svoboda Důvod dovolání pro právní vady rozhodnutí Porušování domovní svobody Sub…*
+  > „Obviněný současně dovozuje své oprávnění vstoupit na pozemek poškozené z toho, že je podílovým vlastníkem předmětného zahradního stolku, který si z pozemku poškozené odnesl a odkazuje na ustanovení občanského zákoníku, konkrétně na § 14 odst. 1 a § 1014 odst. 1."
 - *NS* [22 Cdo 4580/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/112924E483ED88D0C1258211002B8EEB?openDocument) — *Svépomoc Vlastnictví*
+  > „Přípustnost dovolání je dána tím, že otázku dovolené svépomoci (§ 14 občanského zákoníku č. 89/2012 Sb. – o. z.), dovolací soud dosud neřešil."
 - *NS* [22 Cdo 1925/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9318C770A8F1F2C1258799001B8397?openDocument) — *Vlastnictví*
+  > „Vlastníku pozemku, na kterém je bez právního důvodu umístěna cizí věc, nelze odepřít ochranu podle § 1042 o. z. jen proto, že věc přemístil, třeba i na jiný svůj pozemek, aniž byly splněny podmínky svépomoci dle § 14 odst. 1 o. z., měl-li k tomu rozumné důvody."
 
 ---
 

@@ -239,14 +239,23 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3597/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB5AEA3A88BC5836C1258D5C0052D48C?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Dovolání Spotřebitel*
+  > „Na podkladě uvedených zjištění odvolací soud shodně se soudem prvního stupně poměřoval účastníky uzavřenou smlouvu ustanoveními § 2390 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), a dovodil, že žalovaný v právním vztahu s žalobkyní vystupoval v pozici spotřebitele."
 - *NS* [28 Cdo 2866/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/019D2102DCB1AEF8C1258C0D0052AE8A?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Dokazování Přípustnost dovolání*
+  > „Rozhodnutím odvolací soud aproboval soudem prvního stupně učiněný závěr, že mezi účastníky (žalobcem coby zapůjčitelem, žalovaným jako vydlužitelem) vznikl přenecháním peněžních prostředků v určené výši závazek ze smlouvy o zápůjčce (§ 2390 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů; dále jen „o."
 - *NS* [33 Cdo 657/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9AF3D0D56994AABDC1258B0F004D4E3F?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Koncentrace řízení*
+  > „2015 žalobce jako zapůjčitel uzavřel se žalovanou jako vydlužitelkou smlouvu o zápůjčce podle § 2390 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [23 Cdo 3291/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F364364BFCF12643C1258AE2001B86D7?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.)*
+  > „2020, sp. zn. 33 Cdo 1261/2019, Nejvyšší soud k výkladu § 2390 o. z. uvedl, že smlouvou o zápůjčce přenechává zapůjčitel vydlužiteli věci určené podle druhu, zejména peníze, a dlužník se zavazuje vrátit po uplynutí dohodnuté doby věci stejného druhu."
 - *NS* [33 Cdo 836/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DD015BB338DBDC4FC1258AA5001B8430?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Přípustnost dovolání*
+  > „Odvolací soud ve shodě se soudem prvního stupně věc právně posoudil podle § 2390 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [33 Cdo 565/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78F443FDE887ABF1C12587D3001C3D13?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.) Břemeno tvrzení Břemeno důkazní*
+  > „Na tuto judikaturu navázala (vyšla z ní jako z použitelné) i judikatura Nejvyššího soudu k ustanovení § 2390 o. z. (srov. např. rozsudek Nejvyššího soudu ze dne 29."
 - *NS* [23 Cdo 2939/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/255E7B022256F751C12586F200186C6F?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.)*
+  > „Podle § 2390 o. z. přenechá-li zapůjčitel vydlužiteli zastupitelnou věc tak, aby ji užil podle libosti a po čase vrátil věc stejného druhu, vznikne smlouva o zápůjčce."
 - *NS* [27 Cdo 226/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CF9A40FFE0EC4CFC1258659001DD2FC?openDocument) — *Valná hromada Akciová společnost Neplatnost právního jednání*
+  > „I když při zápůjčce se zapůjčitel zavazuje převést (a převádí) vlastnické právo k zastupitelné věci na vydlužitele, pojmovým znakem této smlouvy je závazek vydlužitele po čase vrátit zapůjčiteli věc stejného druhu (§ 2390 o. z.)."
 - *NS* [33 Cdo 2141/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC63D9820B0553AC125861E0041D8AD?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.)*
+  > „Výtkou, že soudy porušily zásadu předvídatelnosti rozhodnutí, neboť nebyl poučen o případné možné právní kvalifikaci spočívající v aplikaci ustanovení § 2390 zákona č. 89/2012 Sb., občanský zákoník, ve znění účinném od 1."
 
 ### § 2391—2394 — Podrobnosti
 
@@ -303,9 +312,13 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [29 ICdo 127/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC4660F76B4B996BC1258931001E9F4D?openDocument) — *Dokazování Postoupení pohledávky Přihláška pohledávky Incidenční spory*
 - *NS* [33 ICdo 154/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AD879FC39A98938C1258A0B00160D6A?openDocument) — *Spotřebitel Smlouva o úvěru Změna závazku Insolvenční řízení Incidenční spory (odporové…*
+  > „Doplnit lze, že v konsolidační smlouvě zpravidla bývá vyjádřen účel úvěrové smlouvy (např. je uvedena přímo „konsolidace“), třebaže stanovení účelu úvěru není podstatnou náležitostí tohoto smluvního typu, a je tak na rozhodnutí smluvních stran, jestli účel úvěru ve smlouvě sjednají či nikoli, případně nakolik konkrétně (srov. např. ELEK, Š."
 - *NS* [4 Tdo 168/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFA740460DE6177FC125857F001903AB?openDocument) — 25. 2. 2020
+  > „2017 mezi obviněným jako úvěrovaným na straně jedné a společností ESSOX s. r. o. jako úvěrujícím na straně druhé lze považovat za úvěrovou smlouvu uzavřenou podle § 2395 a násl. občanského zákoníku, tj. úvěrovou smlouvu ve smyslu § 211 tr. zákoníku."
 - *NS* [33 Cdo 4155/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBD6AE5DF4A9786AC1258474002EA260?openDocument) — *Smlouva o úvěru*
+  > „2015 je úvěrovou smlouvou (§ 2395 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen „o. z.“), na jejímž základě banka poukázala na účet splátkové kreditní karty žalovaného peněžní prostředky za účelem umoření své pohledávky z produktu smlouvy o úvěru „Karta.“ Tzv."
 - *NS* [33 Cdo 1459/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B4CB07A049A07F5C1258AC1001B7E9E?openDocument) — *Neplatnost právního jednání (o. z.) Smlouva o úvěru*
+  > „Účel úvěru – poskytnutí peněžních prostředků a jejich vrácení spolu s úroky (§ 2395 o. z.) – svědčí pro závěr, že zbylé části právního jednání, tedy i utvrzení dluhu smluvní pokutou (článek V.4) obstojí."
 
 ### § 2396—2400 — Specifika
 
@@ -363,6 +376,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2114/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A4DD72C47178C1FC1258947001DFCB4?openDocument) — *Smlouva spotřebitelská Smlouva o smlouvě budoucí Smlouva o úschově Dovolací důvody Přípu…*
+  > „Podle odvolacího soudu žalobci jakožto budoucí kupující uzavřeli s žalovanou (mimo prostor obvyklý pro její podnikání, § 1828 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů /dále jen „o."
 
 ### § 2403—2408 — Práva a povinnosti
 
@@ -467,9 +481,13 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [24 Cdo 132/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB350F8D18F6F6F8C1258903001DC089?openDocument) — *Likvidace dědictví Majetková podstata Žaloba vylučovací (excindační) Příkaz k výplatě z…*
 - *NS* [22 Cdo 1036/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38ACB1BAE3D46F22C125863E001DB01F?openDocument) — *Smlouva příkazní Smlouva o účtu (o. z.)*
+  > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zák. č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [22 Cdo 1170/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7AB67D4D330BC1258693001E1B85?openDocument) — *Zastoupení Spoluvlastnictví Správa (správce) společné věci (o. z.) Smlouva o běžném účtu*
+  > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zák. č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [22 Cdo 994/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/894F6CED0E7D5130C125863E001DB037?openDocument) — *Správa (správce) společné věci (o. z.) Zastoupení Běžný účet*
+  > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zákona č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [21 ICdo 44/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/113A24CE7E890673C12588B90018C6AE?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o účtu (o. z.) Zástav…*
+  > „2014 i ustanovení § 2662 o. z., podle něhož smlouvou o účtu se ten, kdo vede účet, zavazuje zřídit od určité doby v určité měně účet pro jeho majitele, umožnit vložení hotovosti na účet nebo výběr hotovosti z účtu nebo provádět převody peněžních prostředků z účtu či na účet."
 
 ### Specifika
 
@@ -528,10 +546,15 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [25 Cdo 2629/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5382FDCDEA142FF2C1258D840052B0B9?openDocument) — *Advokacie Dokazování Odpovědnost objektivní Odklad vykonatelnosti*
 - *NS* [33 Cdo 953/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE70FD200650A41AC1258988002F4900?openDocument) — *Smlouva komisionářská Smlouva příkazní Zastoupení*
+  > „Definice komise je ekvivalentní vymezení příkazu (§ 2430 o. z.) a stejně jako u příkazu jde o závazek fiduciární povahy (2430 o. z.)."
 - *NS* [33 Cdo 1679/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0E27C6640A5BA96C1258AD6001B87CB?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva příkazní*
+  > „Z judikatury dovolacího soudu vyplývá, že smlouvu příkazní podle § 2430 o. z. lze charakterizovat jako smlouvu o vynaložení úsilí, nikoli smlouvu o výsledku a z této podstaty je nezbytné vycházet (srov. nález Ústavního soudu ze dne ze dne 14."
 - *NS* [4 Tdo 1137/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD81132F4FE73D04C1258682001DCF94?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Důvod dovolání, že bylo rozhodnuto o zamítnutí…*
+  > „Podle § 2430 občanského zákoníku se příkazní smlouvou příkazník zavazuje obstarat záležitost příkazce."
 - *NS* [31 Cdo 3125/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056B104128B86B03C12589EA003AC7E3?openDocument) — *Promlčení Smlouva příkazní Splatnost pohledávky*
+  > „Okresní soud – vycházeje z ustanovení § 609, § 611, § 619 odst. 2, § 629, § 2430 a § 2438 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, (dále též jen „o. z.“) – dospěl po provedeném dokazování k následujícím závěrům: 3."
 - *NS* [23 Cdo 2070/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3EDC74906496F0FC125858A0018BED3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního jednání V…*
+  > „2015 tři smlouvy o poskytování poradenských služeb dle § 2430 a násl. zák. č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), které se vztahovaly k projektům žalované souvisejícím s objektem v Šumperku, ve Znojmě a v Krnově."
 
 ### § 2432—2440 — Práva a povinnosti
 
@@ -584,6 +607,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [23 Cdo 4565/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2608A35461461C66C125861E00404130?openDocument) — *Smlouva příkazní*
 - *NS* [25 Cdo 2629/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5382FDCDEA142FF2C1258D840052B0B9?openDocument) — *Advokacie Dokazování Odpovědnost objektivní Odklad vykonatelnosti*
 - *NS* [33 Cdo 3447/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27DBDCFE23A7BD24C1258B8E004D41A1?openDocument) — *Smlouva příkazní Odpovědnost za vady*
+  > „Podle § 2432 odst. 1 o. z. plní příkazník příkaz poctivě a pečlivě podle svých schopností; použije přitom každého prostředku, kterého vyžaduje povaha obstarávané záležitosti, jakož i takového, který se shoduje s vůlí příkazce."
 - *NS* [22 Cdo 1170/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7AB67D4D330BC1258693001E1B85?openDocument) — *Zastoupení Spoluvlastnictví Správa (správce) společné věci (o. z.) Smlouva o běžném účtu*
 - *NS* [22 Cdo 994/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/894F6CED0E7D5130C125863E001DB037?openDocument) — *Správa (správce) společné věci (o. z.) Zastoupení Běžný účet*
 - *NS* [31 Cdo 3125/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056B104128B86B03C12589EA003AC7E3?openDocument) — *Promlčení Smlouva příkazní Splatnost pohledávky*
@@ -640,11 +664,16 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [23 Cdo 2376/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6959D3C6CAD4436C12589E200183903?openDocument) — *Smlouva zprostředkovatelská Přípustnost dovolání*
 - *NS* [33 Cdo 2907/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E2DF4BD662E136E4C12588FB001DC1F2?openDocument) — *Smlouva zprostředkovatelská*
+  > „2019 mu bytovou jednotku prodali za 4 600 000 Kč. Z takto zjištěného skutkového stavu odvolací soud (shodně se soudem prvního stupně) dovodil, že účastníci uzavřeli platnou zprostředkovatelskou smlouvu ve smyslu § 2445 zákona č. 89/2012 Sb., občanského zákoníku, v rozhodném znění (dále jen „o."
 - *NS* [32 Cdo 2842/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C661BF579CED8AFC125834A00428AC7?openDocument) — *Smlouva zprostředkovatelská*
+  > „Podle § 2445 odst. 1 o. z. smlouvou o zprostředkování se zprostředkovatel zavazuje, že zájemci zprostředkuje uzavření určité smlouvy s třetí osobou, a zájemce se zavazuje zaplatit zprostředkovateli provizi."
 - *NS* [33 Cdo 2146/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7C668580D8FF147C1258D4E0052BC35?openDocument) — *Smlouva zprostředkovatelská Konflikt zájmů Odborný výkon (odborník) (o. z.)*
+  > „Podle § 2445 odst. 1 o. z. se smlouvou o zprostředkování zprostředkovatel zavazuje, že zájemci zprostředkuje uzavření určité smlouvy s třetí osobou, a zájemce se zavazuje zaplatit zprostředkovateli provizi."
 - *NS* [33 Cdo 2113/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/122744ABCCA41060C12588670017CD6D?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
+  > „Po právní stránce odvolací soud dovodil, že účastníci uzavřeli ústní smlouvu o zprostředkování dle § 2445 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), na základě které žalobkyně pro žalovaného vyhledala zájemce o koupi jeho nemovitostí v katastrálním území XY, s nímž žalovaný dne 23."
 - *NS* [33 Cdo 902/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF57759CDEF82C0C125843800236FFD?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
+  > „Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jehož přípustnost spatřuje v tom, že rozhodnutí odvolacího soudu spočívá na vyřešení otázky hmotného práva, která nebyla dosud v rozhodování dovolacího soudu vyřešena, konkrétně na výkladu ustanovení § 2445 a násl. o.z., resp."
 
 ### § 2447—2454 — Specifika
 
@@ -687,13 +716,19 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2379/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/207E5B2D0E750826C1258800001B8B5E?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
+  > „Žalovaná považuje dovolání za přípustné pro řešení v rozhodování dovolacího soudu podle jejího názoru dosud nevyřešené otázky okamžiku vzniku práva zprostředkovatele na provizi "za situace, kdy smluvní strany výslovně vyloučily aplikaci ustanovení § 2447 občanského zákoníku"."
 - *NS* [33 Cdo 997/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B953653DD38DECE0C12585B100191958?openDocument) — *Smlouva zprostředkovatelská*
+  > „Podle § 2447 odst. 2 o. z., bylo-li ujednáno, že zprostředkovatel pro zájemce obstará příležitost uzavřít s třetí osobou smlouvu s určitým obsahem, je provize splatná již obstaráním příležitosti."
 - *NS* [33 Cdo 1879/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/343B110F7C990012C1258C150052AF67?openDocument) — *Smlouva zprostředkovatelská Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 2447 o. z., je provize je splatná dnem uzavření zprostředkované smlouvy; byla-li tato smlouva uzavřena s odkládací podmínkou, je provize splatná až splněním podmínky (odst."
 - *NS* [33 Cdo 2113/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/122744ABCCA41060C12588670017CD6D?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
+  > „2018 kupní smlouvu uzavřel, žalovaný však nesplnil svůj závazek uhradit žalobkyni sjednanou odměnu (§ 2447 o. z.)."
 - *NS* [32 Cdo 2813/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9E317AA07BF40CC125851E001E863A?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 902/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7FF57759CDEF82C0C125843800236FFD?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
+  > „Podle § 2447 odst. 2 o.z., bylo-li ujednáno, že zprostředkovatel pro zájemce obstará příležitost uzavřít s třetí osobou smlouvu s určitým obsahem, je provize splatná již obstaráním příležitosti."
 - *NS* [33 Cdo 2887/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44A410737C1815F2C125837D0058B941?openDocument) — 26. 9. 2018
+  > „Dovodil, že účastnice uzavřely ústní smlouvu o zprostředkování bez ujednání doby jejího trvání (§ 2445 odst. 1 o. z.); splatnost provize ujednaly k okamžiku uzavření zprostředkovávané smlouvy (§ 2447 odst. 1 o. z.)."
 
 ---
 
@@ -716,8 +751,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 505/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D02C9B83D0144D6DC1258BE80052D8E9?openDocument) — *Smlouva komisionářská Přípustnost dovolání*
+  > „Konkrétně předkládá dovolacímu soudu otázku, zda si mohou strany v komisionářské smlouvě uzavřené ve smyslu § 2455 o. z. ujednat jako součást obstarávané záležitosti vymáhání pohledávky formou nepřímého zastoupení (a to i před soudem), případně zda tak strany mohou učinit alespoň v nepojmenované smlouvě ve smyslu § 1746 odst. 2 o. z. 6."
 - *NS* [33 Cdo 953/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE70FD200650A41AC1258988002F4900?openDocument) — *Smlouva komisionářská Smlouva příkazní Zastoupení*
+  > „Dovolání je přípustné, neboť výkladem § 2455 o. z. se Nejvyšší soud ve své rozhodovací praxi dosud nezabýval; na něm je přitom právní posouzení věci založeno."
 - *NS* [28 Cdo 2015/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E341972C1E38A10C1258BE10052C40B?openDocument) — *Smlouva komisionářská*
+  > „2024 Spisová značka : 28 Cdo 2015/2024 ECLI: ECLI:CZ:NS:2024:28.CDO.2015.2024.1 Typ rozhodnutí: USNESENÍ Heslo: Smlouva komisionářská Dotčené předpisy: § 2455 o. z. § 2466 o. z. § 2913 odst. 1 o. z. Kategorie rozhodnutí: C Zveřejněno na webu: 26."
 
 ### § 2456—2470 — Pravidla
 
@@ -838,9 +876,13 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 3675/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4569125C70670F1C125859C0019FF05?openDocument) — *Náhrada škody Smlouva o péči o zdraví (o. z.)*
+  > „Po právní stránce soud prvního stupně věc posoudil podle § 2636 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) upravujícího smlouvu o péči o zdraví, podle § 4 a § 5 zákona č."
 - *NS* [25 Cdo 2850/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10AC0F198F4FED5EC1258ABA001B7F67?openDocument) — *Náhrada nemajetkové újmy (o. z.)*
+  > „Odvolací soud věc po právní stránce posoudil podle § 2636 odst. 1, § 2643 odst. 1, § 2645, § 2910 a § 2913 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“, a § 4 odst. 5 a § 45 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách."
 - *NS* [25 Cdo 2087/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5E2BD524910FDA4C1258D26004D118E?openDocument) — *Zdravotnictví Rodičovská odpovědnost (o. z.) Ochrana osobnosti Nemajetková újma (o. z.)…*
+  > „Pro právní posouzení věci je významná i řada dalších ustanovení právních předpisů (zejména § 81 odst. 1 a 2, § 82 odst. 1, § 858, § 875 odst. 1, § 2910, § 2951 odst. 2, § 2956, § 2636 odst. 1 a 2, zákona č. 89/2012 Sb., občanského zákoníku, § 28 odst. 3 písm. e), § 45 odst. 1 zákona o zdravotních službách, a vyhlášek č. 92/2012 Sb. a č."
 - *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
+  > „Při právním posouzení soudy postupovaly podle § 81, § 2910, § 2911, § 2914, § 2636, § 2643, § 2645, § 2951, § 2955, § 2956, § 2958 a § 2960 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a § 4 odst. 5, § 28 odst. 2, § 31 odst. 1 písm. a) a § 34 zákona č."
 
 ### § 2637—2651 — Specifika
 
@@ -1011,14 +1053,20 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 85/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2316098F08D6D7BC1258DD3004D1EEF?openDocument) — *Podvod Hodnocení důkazů Úmysl*
+  > „Podle § 2586 až § 2635 obč. zákoníku je smlouva o dílo právní ujednání, jehož předmětem je zhotovení, údržba, oprava nebo úprava určité věci."
 - *NS* [23 Cdo 1541/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09FD7B0FF79FB7CEC1258DA10052AE7B?openDocument) — *Smlouva o dílo Přípustnost dovolání*
+  > „Otázka dovolatele, zda lze dohodu o zpracování znaleckého posudku podřadit pod ustanovení § 2586 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o."
 - *NS* [33 Cdo 3238/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/31AA3F1C86CA7939C1258956001E0195?openDocument) — *Přípustnost dovolání Smlouva o dílo Znalecký posudek*
+  > „Po právní stránce odvolací soud dovodil, že účastníci uzavřeli podle § 2586 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), smlouvu o dílo, jejímž předmětem plnění mělo být podání posudku podle otázek položených žalovaným."
 - *NS* [33 Cdo 520/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9200D492CA0D3234C1258D9300529DB0?openDocument) — *Smlouva o dílo Odstoupení od smlouvy*
 - *NS* [33 Cdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D677CAD6CF58B08C125870900188AD4?openDocument) — *Přípustnost dovolání Smlouva o dílo Bezdůvodné obohacení*
+  > „Odvolací soud ze zjištění, že veškerá předsmluvní i následná komunikace byla vedena výlučně mezi účastníky a že žalovaný „bez námitek“ uhradil zálohu, učinil právní závěr, že žalobkyně se žalovaným uzavřela smlouvu o dílo podle § 2586 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o."
 - *NS* [33 Cdo 1007/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C2DADE3F8363276C1258C7A004D2A83?openDocument) — *Smlouva o dílo Cena Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [33 Cdo 3444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83618E5842A222FFC1258C3D0052B3B0?openDocument) — *Smlouva o dílo Sleva z ceny*
 - *NS* [33 Cdo 1710/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E87319A47460AB6CC12588BB0017E39A?openDocument) — *Smlouva o dílo Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Přípustnost do…*
+  > „2017 označena jako kupní smlouva, je třeba ji posoudit jako smlouvu o dílo podle § 2586 a násl. zákona č. 89/2012 Sb., občanský zákoník (dále též jen „o. z.“)."
 - *NS* [23 Cdo 2696/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FDBCC48BB18109FC12588360017E224?openDocument) — *Smlouva o dílo Bezdůvodné obohacení*
+  > „Podle § 2586 odst. 1 o. z. se smlouvou o dílo zhotovitel zavazuje provést na svůj náklad a nebezpečí pro objednatele dílo a objednatel se zavazuje dílo převzít a zaplatit cenu."
 
 ### § 2587—2589 — Předmět díla
 
@@ -1041,9 +1089,13 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2680/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE05B818C4CB10B2C1258AC6001B871B?openDocument) — *Smlouva o dílo*
+  > „Podle ustanovení § 2587 o. z. se dílem rozumí zhotovení určité věci, nespadá-li pod kupní smlouvu, a dále údržba, oprava nebo úprava věci, nebo činnost s jiným výsledkem."
 - *NS* [28 Cdo 2380/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9FF12ACD7A2C2A1C1258C300052A1CC?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o dílo*
+  > „2023, sp. zn."
 - *NS* [33 Cdo 1043/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C317EEBEB23C2263C12586C3001965A3?openDocument) — *Prodlení dlužníka Smlouva o dílo Stavba jako předmět díla (o. z.)*
+  > „Řádné splnění předpokládá dodržení veškerých požadavků sjednaného předmětu plnění, jako je např. jeho předmět, provedení apod. Povinnost zhotovitele provést dílo (stavbu podle § 2587 a § 2623 o. z.) řádně a včas vyplývá z ustanovení § 2604 o. z. a § 2590 odst. 1 o. z."
 - *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
+  > „V této souvislosti ozřejmil, že dílem ve smyslu § 2587 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), se rozumí vždy určitá činnost a předmětem díla je její výsledek, který je dílem."
 
 ### § 2590—2596 — Cena díla
 
@@ -1090,8 +1142,10 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 686/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/64A8C001766D65AAC12589BC0019A47C?openDocument) — *Přípustnost dovolání Odpovědnost za vady*
 - *NS* [23 Cdo 214/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B9E9A7C2A87147DC12585B50018B141?openDocument) — *Přípustnost dovolání Smlouva o dílo*
 - *NS* [28 Cdo 1766/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D704D76159E63C8DC1258D23004D29A3?openDocument) — *Bezdůvodné obohacení Splnění závazku Výklad právních jednání (o. z.) [ Právní jednání (o…*
+  > „2025 Spisová značka : 28 Cdo 1766/2025 ECLI: ECLI:CZ:NS:2025:28.CDO.1766.2025.1 Typ rozhodnutí: USNESENÍ Heslo: Bezdůvodné obohacení Splnění závazku Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Dotčené předpisy: § 2590 odst. 2 předpisu č. 89/2012 Sb. § 555 předpisu č. 89/2012 Sb. Kategorie rozhodnutí: C Zveřejněno na webu: 14."
 - *NS* [33 Cdo 3444/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12EC489A4821E90FC1258C6D004D22FF?openDocument) — *Smlouva o dílo Vady*
 - *NS* [23 Cdo 3360/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/749ABAF949E32CA5C1258AF4004C9A97?openDocument) — *Smlouva o dílo*
+  > „Zhotovitel tak nepostupoval s potřebnou péčí (§ 2590 o. z.), když vůči objednateli vystupoval jako příslušník určitého odborného stavu (§ 5 odst. 1 o. z.), který však objednatele neupozornil na nevhodnost jeho příkazu (viz § 2594 odst. 4 o. z.) a tak nese zodpovědnost za vady díla."
 - *NS* [33 Cdo 3444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83618E5842A222FFC1258C3D0052B3B0?openDocument) — *Smlouva o dílo Sleva z ceny*
 - *NS* [33 Cdo 2384/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D05557F7538E4E16C1258CD2004D3CFB?openDocument) — *Smlouva o dílo Přípustnost dovolání*
 - *NS* [28 Cdo 2952/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBC48FCC8841DB65C1258CBC004D3D52?openDocument) — *Smlouva o dílo Vady Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
@@ -1343,12 +1397,14 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — usnesení, 13. 2. 2024
 - *NS* [33 Cdo 2974/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A82650F4260E52DC1258D670052AF7A?openDocument) — *Přípustnost dovolání Znalecký posudek*
+  > „Na otázce, zda lze nesouhlas objednatele se závěry znaleckého posudku, resp. výhrady k jeho metodice či obsahu, považovat za vadu díla ve smyslu § 2615 o. z ., při jejímž řešení se odvolací soud podle názoru dovolatele odchýlil od ustálené rozhodovací praxe dovolacího soudu, konkrétně od usnesení ze dne 30."
 - *NS* [33 Cdo 1605/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB35F874C139C017C1258D1B004D29D1?openDocument) — *Smlouva o dílo*
 - *NS* [23 Cdo 173/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/938996BEADBBDF82C1258CA8004D3A4E?openDocument) — *Přípustnost dovolání Dovolací důvody Smlouva o dílo*
 - *NS* [33 Cdo 301/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7413400DF3F7B0D7C1258A91001B7C8F?openDocument) — *Smlouva o dílo*
 - *NS* [25 Cdo 590/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15492311685DA185C1258D770052C294?openDocument) — *Odpovědnost subjektivní Odpovědnost za vady Koncentrace řízení Dokazování*
 - *NS* [33 Cdo 3444/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12EC489A4821E90FC1258C6D004D22FF?openDocument) — *Smlouva o dílo Vady*
 - *NS* [25 Cdo 3132/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F4813171589A2FC1258BE50052C41D?openDocument) — *Smlouva o dílo Přípustnost dovolání*
+  > „Současně pak podle § 2615 ve spojení s § 2106 o. z. platí, že neodstraní-li zhotovitel vady v přiměřené lhůtě či oznámí-li objednateli, že vady neodstraní, může objednatel požadovat místo odstranění vady přiměřenou slevu, nebo může od smlouvy odstoupit."
 - *NS* [23 Cdo 3360/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/749ABAF949E32CA5C1258AF4004C9A97?openDocument) — *Smlouva o dílo*
 
 ---
@@ -1369,8 +1425,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B08811983AF3F78EC1258CB6004D35DC?openDocument) — *Smlouva o zájezdu (o. z.) Pojištění záruky (o. z.) [ Odvážné smlouvy (o. z.) ]*
+  > „Podle § 2521 odst. 1 o. z. smlouvou o zájezdu se pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou cenu."
 - *NS* [33 Cdo 2348/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09C6806FEDE47CFEC1258BD20052AF1A?openDocument) — *Přerušení řízení Předběžná otázka Náhrada škody Smlouva o zájezdu (o. z.)*
+  > „Podle § 2521 odst. 1 o. z. se smlouvou o zájezdu pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou cenu."
 - *NS* [33 Cdo 1553/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A962B75C3F936D20C125899600182356?openDocument) — *Odstoupení od smlouvy Smlouva o zájezdu (o. z.)*
+  > „Podle § 2521 o. z. se pořadatel smlouvou o zájezdu zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou sumu (odstavec 1/)."
 
 ### § 2525—2549 — Klíčové prvky
 
@@ -1639,6 +1698,7 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 1959/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F00F5DF0E664E79DC1258336002BD75D?openDocument) — 28. 8. 2018
 - *NS* [33 Cdo 3283/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54B58CF6F809388CC12582DB003C585D?openDocument) — 29. 5. 2018
 - *NS* [33 Cdo 2348/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09C6806FEDE47CFEC1258BD20052AF1A?openDocument) — *Přerušení řízení Předběžná otázka Náhrada škody Smlouva o zájezdu (o. z.)*
+  > „V projednávané věci se žalobkyně domáhala po žalované mimo jiné náhrady škody ve výši 69 310 Kč s příslušenstvím vzniklé porušením povinnosti stanovené v § 2525 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [33 Cdo 3884/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9EDC31ACEABAC56C1258A2700161247?openDocument) — *Přípustnost dovolání Smlouva o zájezdu (o. z.) Odstupné*
 - *NS* [33 Cdo 115/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE6AF584E97C146DC12588660017B03B?openDocument) — *Smlouva o zájezdu (o. z.)*
 - *NS* [33 Cdo 1809/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CF7C88C2EA352B8C125876D0018A049?openDocument) — *Smlouva o zájezdu (o. z.)*

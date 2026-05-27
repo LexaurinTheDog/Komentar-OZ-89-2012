@@ -36,7 +36,9 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [I. ÚS 433/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-433-15_1) — usnesení, 26. 3. 2015
+  > „Otec ve styku s matkou nebrání, je zcela jistě v zájmu nezletilých, aby se s matkou stýkaly, rozvíjely se mezi nimi vzájemné vztahy a matka mohla na ně výchovně působit (§ 855 o. z.)."
 - *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
+  > „Smyslem a účelem souhrnu práv a povinností, jež tvoří obsah institutu rodičovské zodpovědnosti (§ 31 zákona o rodině, resp. rodičovské odpovědnosti dle § 858 o. z.) je zabezpečení výchovy dítěte v nejširším slova smyslu, tj. morálního a hmotného prospěchu dítěte (§ 855 o."
 - *NS* [8 Tdo 1003/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CAEB178FEBBB3BAC125866E001FEE50?openDocument) — 22. 10. 2020
 
 ### § 856 — Časový rozsah
@@ -117,13 +119,20 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 672/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-672-13_1) — usnesení, 21. 5. 2015
+  > „Smyslem a účelem souhrnu práv a povinností, jež tvoří obsah institutu rodičovské zodpovědnosti (§ 31 zákona o rodině, resp. rodičovské odpovědnosti dle § 858 o. z.) je zabezpečení výchovy dítěte v nejširším slova smyslu, tj. morálního a hmotného prospěchu dítěte (§ 855 o."
 - *NS* [7 Tdo 596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DFF16DA99F28234C1258D07004D04FB?openDocument) — *Ublížení na zdraví z nedbalosti Rodičovská zodpovědnost Subsidiarita trestní represe*
+  > „Podává se z něj, že v případě rodičů povinnost dohledu nad dítětem vyplývá z rodičovské odpovědnosti, jejíž součástí je i ochrana dítěte podle § 858 občanského zákoníku; tato povinnost je přitom zjevně ochrannou normou, jejímž účelem je ochrana individuálních zájmů dítěte, které nenabylo plné svéprávnosti."
 - *NS* [4 Tdo 75/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A0073378A0F2F69C1258B470015F9F7?openDocument) — *Dokazování Listinný důkaz Maření výkonu úředního rozhodnutí a vykázání Ohrožování výchov…*
+  > „Rodičovskou odpovědnost upravuje především § 858 zákona č."
 - *NS* [24 Cdo 1447/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6E189EAEBCC5ECEBC12587690018C0DE?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.)*
+  > „Názor navrhovatelky totiž – vyložil dále odvolací soud v odůvodnění svého rozsudku – „vykládá § 858 o. z. vytrženě z kontextu celé koncepce právní úpravy svéprávnosti, jak ji provádí občanský zákoník.“ Podle odvolacího soudu „§ 858 o. z."
 - *NS* [4 Tdo 1160/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EDC0C18A34067232C1258692001E1002?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Lhostejnost Opomenutí Pokus trestného činu Sro…*
+  > „Předně, rodičovská odpovědnost podle § 858 občanského zákoníku se vztahuje na oba rodiče, nikoliv jen na matku."
 - *NS* [4 Tdo 1293/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1CB1DFE1C83E1511C12583CE001D57DC?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Jednočinný souběh Ohrožování výchovy dítěte Tý…*
+  > „Takové jednání, pokud podstatně zasahuje do zdravého citového, rozumového a mravního vývoje dítěte, lze považovat nejméně za porušení povinnosti rodiče pečovat o své dítě ve smyslu § 858 a § 884 občanského zákoníku a tato jednání posuzovat podle § 201 tr."
 - *NS* [7 Tdo 1249/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D397F074BD043034C1257DC800411F24?openDocument) — *Nedbalost Rodičovská zodpovědnost Těžké ublížení na zdraví z nedbalosti*
 - *NS* [24 Cdo 1557/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B60867FC1C77CA6C1258B95004D3E7E?openDocument) — *Rodičovská odpovědnost (o. z.)*
+  > „Trvání a rozsah rodičovské odpovědnosti může změnit jen soud (§ 858 o.z.)."
 - *NS* [7 Tdo 328/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81A2221885F33D78C1258B58004D1720?openDocument) — *Ohrožování výchovy dítěte Příčetnost Příčetnost zmenšená Rodičovská zodpovědnost Volné h…*
 
 ### § 859 — Oddělenost vyživovací povinnosti
@@ -146,6 +155,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 **Judikatura (z místních zdrojů):**
 
 - *NS* [4 Tdo 391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C16DE41D974EBE24C12585B30018C5A1?openDocument) — *Důvod dovolání pro právní vady rozhodnutí Subsidiarita trestní represe Vyživovací povinn…*
+  > „Ze znění zákona, konkrétně z ustanovení § 859 občanského zákoníku, je rovněž zřejmá nezávislost trvání vyživovací povinnosti na nabytí zletilosti či svéprávnosti oprávněné osoby."
 
 ---
 
@@ -654,11 +664,17 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 1135/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8BA4E5FE218FD1D0C1258C540052D174?openDocument) — *Hodnocení důkazů Vyživovací povinnost Zanedbání povinné výživy Úmysl přímý*
+  > „2024, sp. zn. 58 T 4/2024, byl obviněný M. K. uznán vinným v bodech I. a II. dvěma přečiny zanedbání povinné výživy podle § 196 odst. 1 tr. zákoníku, kterých se dopustil tím, že I."
 - *NS* [8 Tdo 514/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/370545FA857FB619C1258B8C004D284C?openDocument) — *Insolvenční řízení Nedbalost vědomá Vyživovací povinnost Zanedbání povinné výživy*
+  > „Podle § 910 odst. 1 obč. zákoníku mají předci a potomci vzájemnou vyživovací povinnost."
 - *NS* [29 ICdo 140/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A8B45591EEFD96AC12588F9001B7FB0?openDocument) — *Pohledávka přednostní Výživné Incidenční spory (odporové spory) Insolvenční řízení*
+  > „Pohledávka z titulu výživného, jímž rodič (dlužník) plní svou vyživovací povinnost k nezletilému dítěti (za podmínek plynoucích též z § 912 o. z.), nebo ke zletilému dítěti, jež není schopno se samo živit (srov. i § 910 a § 911 o. z.), je pohledávkou dítěte (věřitele) na výživném ze zákona, tedy ve smyslu ustanovení § 169 odst. 1 písm."
 - *NS* [8 Tdo 599/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52A58AA736FB0997C1258195003C2ACD?openDocument) — *Trest Zanedbání povinné výživy úmysné*
+  > „2014 z § 910 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „zákon č. 89/2012 Sb.“), přičemž konkrétní výši vyživovací povinnosti stanovil rozsudek Okresního soudu v České Lípě ze dne 18."
 - *NS* [30 Cdo 2183/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/892E3DE97241448EC12587D9001B8673?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Dokazování Výživné*
+  > „Podle § 910 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), předci a potomci mají vzájemnou vyživovací povinnost (odstavec 1)."
 - *NS* [29 Cdo 2095/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D5914B95BE16F14C125897F00183486?openDocument) — *Odporovatelnost Výživné*
+  > „§ 910 (o. z.) (1) Předci a potomci mají vzájemnou vyživovací povinnost."
 
 ### § 911—914 — Obecná pravidla
 
@@ -748,14 +764,20 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 1245/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1245-15_1) — usnesení, 23. 6. 2015
+  > „Soud prvního stupně dospěl k závěru, že i když otec opětovně měnil zaměstnání a nyní bude pracovat jako číšník, je nepochybné, že je schopen platit výživné ve výši 3000 Kč pro N. a 2000 Kč pro D. Takto určené výživné podle názoru soudu prvního stupně odpovídá § 915 odst. 1 zákona č."
 - *ÚS* [III. ÚS 527/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-527-15_1) — usnesení, 19. 3. 2015
 - *ÚS* [II. ÚS 2198/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2198-14_1) — usnesení, 13. 1. 2015
+  > „Ve vztahu k určení výše výživného Ústavní soud ustáleně judikuje, že oba rodiče přispívají na výživu svých dětí podle svých schopností, možností a majetkových poměrů, přičemž dítě má právo se podílet na životní úrovni svých rodičů (srov. též ustanovení § 913 či § 915 zákona č. 89/2012 Sb., občanský zákoník, nebo ustanovení § 85 odst. 2 a odst."
 - *ÚS* [II. ÚS 2727/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2727-14_1) — usnesení, 19. 11. 2014
+  > „K předmětu přezkoumávaného řízení, tj. k určení výše výživného, Ústavní soud konstatuje, že ze zákonné úpravy a také z jeho ustálené judikatury plyne zásada, že oba rodiče přispívají na výživu svých dětí podle svých schopností, možností a majetkových poměrů, přičemž dítě má právo se podílet na životní úrovni svých rodičů (srov."
 - *ÚS* [II. ÚS 2232/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2232-14_1) — usnesení, 26. 8. 2014
 - *ÚS* [II. ÚS 1588/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1588-15_1) — usnesení, 31. 8. 2015
+  > „K polemice stěžovatele se způsobem, jakým obecné soudy rozhodly o jeho vyživovací povinnosti ve vztahu k nezletilým dětem, Ústavní soud uvádí, že obecně ve vztahu k určení výše výživného ustáleně judikuje, že oba rodiče přispívají na výživu svých dětí podle svých schopností, možností a majetkových poměrů, …"
 - *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
+  > „Odvolací soud postupoval podle ustanovení § 3028 odst. 2 zákona č. 89/2012 Sb., občanský zákoník (dále jen "o. z."), a v souladu s ustanovením § 910 až § 919 a § 921 až § 923 stěžovateli vysvětlil, že podstatnou změnou oproti zákonu o rodině účinném do 31."
 - *NS* [33 Cdo 1372/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F32EA36E97F92984C1258C300052A246?openDocument) — *Dovolací důvody Výživné Změna soudního rozhodnutí Změna poměrů*
 - *NS* [29 NSCR 51/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58B4043C6244AF06C1258ADE001B86C3?openDocument) — *Oddlužení (povolení, schválení) Jednání soudu Nepoctivý záměr*
+  > „Jakkoliv může mít vyživované dítě z různých důvodů vyšší životní náklady, výživa dítěte má být zásadně shodná s životní úrovní rodičů [ § 915 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“) ] , přičemž toto hledisko předchází hledisku odůvodněných potřeb dítěte."
 
 ### § 920 — Výživné neprovdané matce
 
@@ -913,7 +935,9 @@ Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce �
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 308/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-308-15_1) — usnesení, 18. 6. 2015
+  > „Nikterak nezpochybnily, že je právem stěžovatelů jako pěstounů stýkat se s nezletilým a výchovně na něj působit; tomuto právu na druhé straně koresponduje i odpovídající právo dítěte stýkat se stěžovateli, a to za situace, kdy je zřejmé, že by nedostatek styku s nimi znamenal pro dítě znatelnou újmu (§ 927 o. z.)."
 - *NS* [24 Cdo 2328/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C36CEB441BD618D3C1258A97001B9467?openDocument) — *Popření otcovství*
+  > „Zřejmý zájem dítěte na popření otcovství matrikového otce (§ 793 o. z.) je dán i tehdy, jestliže souhlasné prohlášení o otcovství muže, který nemůže být biologickým otcem dítěte, a matky, účelově sledovalo vyloučení biologického otce z rodinného života s nezletilým."
 
 ---
 

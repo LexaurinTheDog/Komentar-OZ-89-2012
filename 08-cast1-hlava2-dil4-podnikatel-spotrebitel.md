@@ -56,14 +56,23 @@ Závěr Hlavy II přináší **dvě úzce propojené kategorie osob soukromého 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1972/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBD1A0ACDF8584DEC1258A83001B8676?openDocument) — *Exekuce Spotřebitel Podnikání Rozhodčí doložka Vady řízení*
+  > „Otázkou je pouze to, zda lze samostatně posuzovat povahu rozhodčí doložky, kterou povinný uzavřel v době, kdy již nebyl advokátem (podnikatelem), a pokud ano, zda je rozhodčí doložka smlouvou spotřebitelskou ve smyslu § 419 o. z., přičemž tato otázka dosud nebyla v rozhodovací praxi dovolacího soudu vyřešena."
 - *NS* [24 Cdo 1991/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46F25074A62B0CFBC1258A64001B8D52?openDocument) — *Přípustnost dovolání Spotřebitel Správce pozůstalosti (o. z.) Rozhodčí doložka*
+  > „2020 byl (a je) žalobce v postavení spotřebitele ve smyslu ustanovení § 419 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), což by podle ustanovení § 2 odst. 1 zákona č."
 - *NS* [33 Cdo 3704/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A7C8581ED04756FC1258796001E51A6?openDocument) — *Rozhodčí doložka Spotřebitel Smlouva zástavní*
+  > „Podle ustanovení § 419 o. z. je spotřebitelem každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná."
 - *NS* [25 Cdo 3497/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/69A5138B5C60F154C12589B00018E63C?openDocument) — *Náhrada škody Spotřebitel*
+  > „Podle § 419 o. z. je spotřebitelem každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná."
 - *NS* [29 Cdo 1569/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A269517D90BF34C5C12588F6004B1A84?openDocument) — *Spotřebitel Směnka Úroky*
+  > „Nejvyšší soud v této souvislosti předesílá, že odvolací soud (ve shodě se soudem prvního stupně) správně vyhodnotil, že smlouva o půjčce, kterou uzavřel žalobce (podnikatel ‒ § 420 a násl. o. z.) s žalovanými (spotřebiteli ‒ § 419 o. z.) je smlouvou spotřebitelskou (§ 1810 a násl. o."
 - *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
+  > „Podle § 419 o. z. spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná."
 - *NS* [25 Cdo 292/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0364D120F04BCDE6C1258D550052A476?openDocument) — *Smlouva o dílo Spotřebitel Odpovědnost za vady*
+  > „Podle § 419 o. z. spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná."
 - *NS* [29 ICdo 98/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/475DC66985DD4644C1258BD600527FD7?openDocument) — *Oddlužení Incidenční spory (odporové spory) Popření pohledávky Poučovací povinnost soudu*
+  > „431 (k § 52 obč. zák.), nebo (k § 419 o. z.) dílo Lavický, P. a kol. Občanský zákoník I. Obecná část (§ 1–654)."
 - *NS* [26 Cdo 2666/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56ECEBE628DF6740C125833200256859?openDocument) — *Smlouva o ubytování Smlouva spotřebitelská Podnikatel Ochrana spotřebitele Ochrana spotř…*
+  > „Spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná (§ 419 o. z.)."
 
 ---
 
@@ -102,14 +111,23 @@ Rozšíření zahrnuje:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 651/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-651-14_1) — usnesení, 10. 7. 2014
+  > „Soudy obou stupňů v napadených rozhodnutích nezohlednily základ věci, a sice ustanovení § 420 odst. 2 o. z....")."
 - *ÚS* [IV. ÚS 2071/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2071-13_1) — usnesení, 29. 4. 2015
+  > „Dovolací soud dále uvedl, že ke stěžovatelkou tvrzenému vzniku škody v důsledku údajného porušení předsmluvní povinnosti ze strany žalované nedošlo, neboť naopak neporušila žádnou právní povinnost a odvolací soud ji správně posoudil podle § 415 a § 420 o. z. (viz také rozsudek Nejvyššího soudu ze dne 11."
 - *NS* [33 Cdo 2512/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F1FE6435921FDEFC1258AFE004D1AA3?openDocument) — *Podnikatel*
+  > „2023, sp. zn. 33 Cdo 3165/2022, že podle „nového“ občanského zákoníku (zejména § 420 a 421) je při posuzování toho, zda se jedná o vztah ze spotřebitelské smlouvy, zejména rozhodné, jak podnikatel v právním vztahu se spotřebitelem vystupuje navenek."
 - *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
+  > „Podle § 420 o. z. kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele (odstavec 1)."
 - *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
+  > „Uzavřel, že žalobkyně je sice nepochybně podnikatelem ve smyslu § 420 odst. 1 o. z. , avšak Smlouvy I a II nebyly uzavřeny v rámci jejího předmětu podnikání uvedeného v obchodním rejstříku (výroba, obchod a služby neuvedené v přílohách 1-3 živnostenského zákona) a žalobkyně v nich tedy nevystupovala v pozici podnikatele."
 - *NS* [23 Cdo 3631/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFB8471C76252393C1258B5D004D2F45?openDocument) — *Podnikatel Rozhodčí doložka Koupě nemovité věci (o. z.)*
+  > „Podle § 420 o. z. kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele (odstavec 1)."
 - *NS* [28 Cdo 4380/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C38E53C22ACAAD32C12584F8004B3D13?openDocument) — *Bezdůvodné obohacení Znalecký posudek Pozemní komunikace Podnikání*
+  > „Podobně je podnikatelská aktivita vymezena i v dnes (a po zbytek žalovaného období) účinném občanském zákoníku – § 420 o. z. Spatřuje-li dovolatelka naplnění jmenovaných znaků u žalovaného, pomíjí zcela význam pojmu podnikání, respektive podnikatelská činnost."
 - *NS* [33 Cdo 3165/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/575447904F66400FC12589A900180370?openDocument) — *Přípustnost dovolání Spotřebitel Podnikatel*
+  > „Podle nového občanského zákoníku (zejména § 420 a 421 o. z.) je při posuzování toho, zda se jedná o vztah ze spotřebitelské smlouvy, rozhodné zejména to, jak podnikatel v právním vztahu se spotřebitelem vystupuje navenek (Občanský zákoník V. Závazkové právo."
 - *NS* [29 Cdo 1569/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A269517D90BF34C5C12588F6004B1A84?openDocument) — *Spotřebitel Směnka Úroky*
+  > „Nejvyšší soud v této souvislosti předesílá, že odvolací soud (ve shodě se soudem prvního stupně) správně vyhodnotil, že smlouva o půjčce, kterou uzavřel žalobce (podnikatel ‒ § 420 a násl. o. z.) s žalovanými (spotřebiteli ‒ § 419 o. z.) je smlouvou spotřebitelskou (§ 1810 a násl. o."
 
 ### § 421 — Domněnka podnikatele
 
@@ -137,13 +155,20 @@ Rozšíření zahrnuje:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 173/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98498F7EB5F930DBC125842D00236975?openDocument) — *Insolvence Oddlužení*
+  > „V poměrech úpravy účinné od 1. ledna 2014 se podává z § 421 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o."
 - *NS* [33 Cdo 2403/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09A061B6970EB232C1258D310052ADC9?openDocument) — *Smlouva o smlouvě budoucí Smluvní pokuta Odvolání Podnikatel Spotřebitel*
+  > „Podle § 421 odst. 1 věty první o. z. se za podnikatele považuje osoba zapsaná v obchodním rejstříku."
 - *NS* [33 Cdo 1279/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18E5B201552E8E03C1258C6D004D22F4?openDocument) — *Rozhodčí doložka Spotřebitel*
+  > „Doslovné znění § 421 odst. 1 o. z. soud označil za příliš formalistické, neboť jeho jazykový výklad vede k absurdnímu závěru, že pouhým zápisem v obchodním rejstříku lze naplnit předpoklady pro zařazení do kategorie podnikatel, což zamezuje sjednat rozhodčí smlouvy ve vztazích mezi jakoukoli právnickou osobou zapsanou v obchodním rejstříku (tj."
 - *NS* [23 Cdo 3631/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFB8471C76252393C1258B5D004D2F45?openDocument) — *Podnikatel Rozhodčí doložka Koupě nemovité věci (o. z.)*
+  > „Podle § 421 o. z. se za podnikatele považuje osoba zapsaná v obchodním rejstříku (odstavec 1)."
 - *NS* [33 Cdo 3165/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/575447904F66400FC12589A900180370?openDocument) — *Přípustnost dovolání Spotřebitel Podnikatel*
+  > „S přihlédnutím k okolnostem případu, kdy kupní smlouva byla uzavřena mimo obchodní prostory či sídlo žalované (konkrétně na veřejném parkovišti v XY), žalovaná se ve smlouvě i v protokolu o zkušební jízdě a předání vozidla označila jako podnikatelský subjekt (vozidlo bylo součástí jejího obchodního majetku), …"
 - *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
 - *NS* [31 Cdo 1737/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/793E270297D0BB6BC1258DBC0052A198?openDocument) — *Spotřebitel Smlouva spotřebitelská Podnikatel*
+  > „Po právní stránce soud prvního stupně dovodil, že žalobkyně – soukromá vysoká škola podle § 39 odst. 1 zákona č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů – je akciovou společností, tj."
 - *NS* [29 Cdo 5758/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A89132FFCAEB0502C125838300221393?openDocument) — *Právnická osoba Obchodní rejstřík Obchodní firma Ochrana názvu právnické osoby Ochrana o…*
+  > „Podle § 421 odst. 1 o. z. se za podnikatele považuje osoba zapsaná v obchodním rejstříku."
 
 ### § 422 — Jednání pod vlastním jménem
 
@@ -455,14 +480,23 @@ Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá z�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1761/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F02BF39B10C8904C1258B85004D2846?openDocument) — *Nepřípustnost dovolání Dobré mravy Smlouva o úvěru Neplatnost právního jednání (o. z.)*
+  > „Uzavřel-li podnikatel –fyzická osoba smlouvu s jiným podnikatelem v rámci své podnikatelské činnosti, nelze vyloučit, že mu bude přináležet zákonná ochrana jako tzv. slabší straně za podmínek § 433 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších přepisů (dále jen „o. z.“)."
 - *NS* [26 Cdo 2455/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1B390F284976E5FC12589AA001A8FAC?openDocument) — *Přípustnost dovolání Smlouva nájemní Neplatnost právních jednání (o. z.) [ Právní jednán…*
+  > „2022, neboť bylo učiněno až po uplynutí lhůty stanovené v § 240 odst. 1 o. s. ř."
 - *NS* [29 Cdo 4819/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63000D20CF5F0E91C12580C1004CA5D7?openDocument) — *Směnečný a šekový platební rozkaz Leasing Smluvní pokuta Směnky*
+  > „Navíc v tomto směru dovolatelka sama poukazuje na ustanovení § 433 o. z., přestože leasingovou smlouvu uzavřely obě smluvní strany jako podnikatelé při své podnikatelské činnosti."
 - *NS* [33 Cdo 2138/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B56439332355DE3C1258CDF004D1DFE?openDocument) — *Veřejné zakázky*
+  > „Pro aplikaci ustanovení občanského zákoníku o adhezních smlouvách musí souběžně nastat dva předpoklady: a) adhezní kontraktace ve smyslu § 1798 odst. 1 o. z. a b) postavení adherujícího smluvního partnera jakožto slabší strany ve smyslu § 433 o. z. (srov. shodně v literatuře Bejček, J. Smluvní svoboda a ochrana slabšího obchodníka."
 - *NS* [33 ICdo 99/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6A459F7BEE2B3FB2C1258B0B004D372B?openDocument) — *Přípustnost dovolání Dobré mravy Podnikatel*
+  > „2021, sen. zn. 23 ICdo 56/2019, dovodil-li, že mezi podnikateli de facto nemůže nastat případ, kdy by jeden z nich byl slabší smluvní stranou, a proto na zjištěný skutkový stav neaplikoval ustanovení § 433 odst. 2 o. z."
 - *NS* [26 Cdo 3076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79303935FEC2568FC12589DB0018287F?openDocument) — *Pachtovní smlouva*
+  > „Přípustnost dovolání nezakládá ani otázka výkladu § 433 o. z.. Jednak proto, že výkladem tohoto ustanovení se již Nejvyšší soud zabýval v řadě svých rozhodnutí (srovnej např. rozsudky Nejvyššího soudu ze dne 16."
 - *NS* [20 Cdo 536/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CA7DF365A151E717C1258B64004D1AC6?openDocument) — *Neplatnost smlouvy Zastavení exekuce*
+  > „5/ Proti usnesení odvolacího soudu podal povinný dovolání, v němž dovolacímu soudu ve smyslu vymezení předpokladu přípustnosti dovolání podle § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále „o. s."
 - *NS* [33 Cdo 3812/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EAA7D1B23BFB30BC1258B32004D438B?openDocument) — *Smluvní pokuta*
+  > „Podle § 433 odst. 1 o. z. kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran."
 - *NS* [33 Cdo 5942/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB2602FB242F8CF8C125839F00220CE3?openDocument) — *Rozhodčí doložka Rozhodčí řízení Ochrana spotřebitele*
+  > „Podle § 433 odst. 1 občanského zákoníku kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran."
 
 ### § 434—435 — Provozovna a informační povinnosti
 

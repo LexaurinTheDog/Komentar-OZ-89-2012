@@ -222,7 +222,9 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 151/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-151-26_1) — usnesení, 26. 2. 2026
+  > „Podle § 469 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, § 892 odst. 3 a § 943 zákona č. 89/2012 Sb., občanský zákoník, nemůže-li dítě (z důvodů kolize zájmů v řízení) zastoupit žádný z rodičů, jmenuje soud dítěti opatrovníka, který bude dítě v řízení zastupovat."
 - *ÚS* [II. ÚS 234/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-234-26_1) — usnesení, 13. 2. 2026
+  > „Podle § 63 zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, ve spojení s § 469 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů, jakož i § 892 odst. 3 a § 943 zákona č."
 
 ### § 944—947 — Subsidiární aplikace pravidel o poručenství
 
@@ -320,6 +322,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
+  > „Ústavní soud v prvé řadě nemůže obecným soudům vytknout, že by při svém rozhodování vadně zohlednily povahu institutu svěření dítěte do péče jiné osoby (§ 953 a násl. o. z.) na straně jedné a pěstounství na straně druhé (§ 958 a násl. o. z.)."
 
 ### § 954—957 — Podmínky a financování
 
@@ -357,6 +360,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
+  > „Prvně uvedený institut najde své uplatnění v těch případech, kdy existuje v okruhu dítěte osoba, která je schopna a ochotna namísto rodičů o dítě pečovat, zpravidla půjde o některého z členů užší rodiny či osobu dítěti jinak velmi blízkou (§ 954 odst. 2 o."
 
 ### Oddíl 2 — Pěstounství (§ 958—970)
 
@@ -382,6 +386,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
+  > „Ústavní soud v prvé řadě nemůže obecným soudům vytknout, že by při svém rozhodování vadně zohlednily povahu institutu svěření dítěte do péče jiné osoby (§ 953 a násl. o. z.) na straně jedné a pěstounství na straně druhé (§ 958 a násl. o. z.)."
 
 ### § 959—960 — Doba a vztah s rodiči
 
@@ -423,6 +428,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
+  > „Rozdílný je i způsob financování této péče, v prvním případě je zdrojem výživné hrazené rodiči nezletilého, případně i jinými osobami (§ 956 a 957 o. z.), zatímco pěstounská péče, i když vyživovací povinnost rodičů rovněž nezaniká, bude zpravidla financována státem (§ 961 o."
 
 ### § 962—965 — Předpoklady, manželé, předpěstounská péče
 
@@ -466,6 +472,7 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
+  > „Prvně uvedený institut najde své uplatnění v těch případech, kdy existuje v okruhu dítěte osoba, která je schopna a ochotna namísto rodičů o dítě pečovat, zpravidla půjde o některého z členů užší rodiny či osobu dítěti jinak velmi blízkou (§ 954 odst. 2 o."
 
 ### § 966—968 — Práva a povinnosti pěstouna
 
@@ -499,6 +506,7 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 24/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DDB89B61B79C582C1258CF4004D0E21?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Pěst…*
+  > „36 Co 132/2020-502 stanoveny šířeji, než jak je obecně upravuje ustanovení § 966 o.z., neboli – jak vyplývá ze shora podaného výkladu – zda již tento aktuální, soudem stanovený rámec práv a povinností pěstounů (bez dalšího) není dostatečným prostředkem k dosažení legitimního cíle, jímž je ochrana nejlepšího zájmu nezletilého AAAAA (pseudonym)."
 
 ### § 969—970 — Změny a zánik
 
@@ -518,6 +526,7 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2098/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A0021D98B93A75AC1258BF60052C18C?openDocument) — *Rodičovská odpovědnost (o. z.) Pěstounská péče*
+  > „Podle názoru odvolacího soudu „řešením této záležitosti, tedy neshod mezi pěstounem a otcem (rodiči) v podstatné záležitosti týkající se dítěte, by bylo rozšíření kompetencí pěstouna (§ 969 o.z.)“."
 
 ---
 

@@ -51,9 +51,13 @@ Společná úprava § 1400—1447 se aplikuje **subsidiárně** ke všem těmto 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 1036/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38ACB1BAE3D46F22C125863E001DB01F?openDocument) — *Smlouva příkazní Smlouva o účtu (o. z.)*
+  > „Ostatně i § 1400 o.z., upravující postavení správce cizí věci, stanoví vyvratitelnou domněnku, že správce jedná jako zástupce vlastníka; nepřímé zastoupení tedy nevylučuje."
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+  > „Podle ustanovení § 1400 odst. 1 o. z. každý, komu je svěřena správa majetku, který mu nepatří, ve prospěch někoho jiného (dále jen „beneficient“), je správcem cizího majetku."
 - *NS* [22 Cdo 1170/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D61F7AB67D4D330BC1258693001E1B85?openDocument) — *Zastoupení Spoluvlastnictví Správa (správce) společné věci (o. z.) Smlouva o běžném účtu*
+  > „Ostatně i § 1400 o. z., upravující postavení správce cizí věci, stanoví vyvratitelnou domněnku, že správce jedná jako zástupce vlastníka; nepřímé zastoupení tedy nevylučuje."
 - *NS* [22 Cdo 994/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/894F6CED0E7D5130C125863E001DB037?openDocument) — *Správa (správce) společné věci (o. z.) Zastoupení Běžný účet*
+  > „Ostatně i § 1400 o. z., upravující postavení správce cizí věci, stanoví vyvratitelnou domněnku, že správce jedná jako zástupce vlastníka; nepřímé zastoupení tedy nevylučuje."
 
 ### § 1401 — Osobní výkon
 
@@ -69,8 +73,11 @@ Společná úprava § 1400—1447 se aplikuje **subsidiárně** ke všem těmto 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 64/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBC8E89D0BE129A7C1258D08004D33EA?openDocument) — *Plná správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Konkurs Insolvenční…*
+  > „(…) § 1401 (o. z.) (1) Správce plní své povinnosti osobně."
 - *NS* [29 ICdo 57/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/266111F8E187AD90C1258A7A001B85AA?openDocument) — *Incidenční spory Insolvenční správce Zpeněžování Smlouva kupní Společník Veřejná obchodn…*
+  > „Podle ustanovení § 1401 o. z. správce plní své povinnosti osobně."
 - *NS* [29 NSCR 208/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/710ADD2807820BC1C1258A28001611E5?openDocument) — *Insolvenční správce (odvolání, zproštění) Plná správa cizího majetku (o. z.) [ Správa ci…*
+  > „Postup, jímž insolvenční správce paušálně přenese již na počátku výkonu správy majetkové podstaty dlužníka plnění všech povinností insolvenčního správce na fyzickou osobu, která by funkci insolvenčního správce jinak sama nemohla vykonávat, patří ke skutečnostem, …"
 
 ### § 1402 — Odměna
 
@@ -111,12 +118,19 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1778/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40FDD52E5D09C2DEC1258D1D004C94EF?openDocument) — *Pozůstalost (o. z.) Procesní nástupnictví Přerušení řízení*
+  > „Kdo vykonává prostou správu cizího majetku, činí vše, co je nutné k jeho zachování (§ 1405 o. z.)."
 - *NS* [24 Cdo 221/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/78E94A364BDDB4C3C12588CE0018FE58?openDocument) — *Prostá správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Správce pozůstalo…*
+  > „Kdo vykonává prostou správu cizího majetku, činí vše, co je nutné k jeho zachování (§ 1405 o. z.)."
 - *NS* [24 Cdo 2261/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/998D6F8697F70193C125878D001E4BFE?openDocument) — 31. 8. 2021
+  > „Prostá správa je v současném občanském zákoníku upravena v ustanovení § 1405 až 1408, jako jedna z forem správy cizího majetku (vedle plné správy)."
 - *NS* [24 Cdo 2238/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/706EC59A5A171B1FC125878D001E4C2E?openDocument) — 31. 8. 2021
+  > „Prostá správa je v současném občanském zákoníku upravena v ustanovení § 1405 až 1408, jako jedna z forem správy cizího majetku (vedle plné správy)."
 - *NS* [24 Cdo 1660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AAA31CDB7B08AEEC1258784001E32A5?openDocument) — 31. 8. 2021
+  > „Prostá správa je v současném občanském zákoníku upravena v ustanovení § 1405 až 1408, jako jedna z forem správy cizího majetku (vedle plné správy)."
 - *NS* [24 Cdo 1286/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C34A96D1ECA739D8C1258793001E436F?openDocument) — 31. 8. 2021
+  > „Prostá správa je v současném občanském zákoníku upravena v ustanovení § 1405 až 1408, jako jedna z forem správy cizího majetku (vedle plné správy)."
 - *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+  > „Činnost správce pozůstalosti vedoucí k dovršení přiznaného restitučního nároku je činností naplňující prostou správu podle ustanovení § 1405 o. z."
 
 ### § 1406 — Práva a omezení
 
@@ -127,8 +141,11 @@ Správce **uplatňuje všechna práva** k majetku, **hospodaří řádně**. **Z
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AAA31CDB7B08AEEC1258784001E32A5?openDocument) — 31. 8. 2021
+  > „Hranici pravomoci správce upravuje ustanovení § 1406 občanského zákoníku, které zakazuje změnit účel spravovaného majetku, k čemuž v dané věci v žádném případě nedochází, když nárok na náhradu za odejmuté pozemky podle zákona o půdě byl zůstavitelce přiznán za jejího života a ona také vybrala konkrétní pozemky, …"
 - *NS* [24 Cdo 1286/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C34A96D1ECA739D8C1258793001E436F?openDocument) — 31. 8. 2021
+  > „Hranici pravomoci správce upravuje ustanovení § 1406 občanského zákoníku, které zakazuje změnit účel spravovaného majetku, k čemuž v dané věci v žádném případě nedochází, když nárok na náhradu za odejmuté pozemky podle zákona o půdě byl zůstavitelce přiznán za jejího života a ona také vybrala konkrétní pozemky, …"
 - *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+  > „Hranici pravomoci správce upravuje ustanovení § 1406 občanského zákoníku, které zakazuje změnit účel spravovaného majetku, k čemuž v dané věci v žádném případě nedochází, když nárok na náhradu za odejmuté pozemky podle zákona o půdě byl zůstavitelce přiznán za jejího života a ona také vybrala konkrétní pozemky, …"
 
 ### § 1407 — Obezřetnost u peněz
 
@@ -139,6 +156,7 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+  > „Správce uplatňuje všechna práva týkající se spravovaného majetku a řádně s ním hospodaří, bez souhlasu beneficienta nesmí změnit účel spravovaného majetku (§ 1406), peněžní prostředky musí vynaložit obezřetně (§ 1407), se souhlasem beneficienta (v případě, kdy majetku hrozí rychlá zkáza nebo ztráta na hodnotě, …"
 
 ### § 1408 — Zcizení, zástava
 
@@ -156,6 +174,7 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
+  > „Správce uplatňuje všechna práva týkající se spravovaného majetku a řádně s ním hospodaří, bez souhlasu beneficienta nesmí změnit účel spravovaného majetku (§ 1406), peněžní prostředky musí vynaložit obezřetně (§ 1407), se souhlasem beneficienta (v případě, kdy majetku hrozí rychlá zkáza nebo ztráta na hodnotě, …"
 
 ---
 
@@ -222,6 +241,7 @@ Při více beneficientech **simultánně nebo postupně** — rovné zacházení
 
 - *NS* [24 Cdo 3166/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/515B225325636423C1258C370052B1E2?openDocument) — *Přípustnost dovolání Správce pozůstalosti (o. z.)*
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+  > „Podle ustanovení § 1412 odst. 1 o. z. je-li beneficientů více, ať současně nebo následně, musí správce jednat vůči všem nestranně a brát ohled na jejich příslušná práva."
 
 ### § 1413 — Konflikt zájmů
 
@@ -498,8 +518,11 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 617/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/038E2E44596B78F0C12587C8001E4C2A?openDocument) — *Přípustnost dovolání Zastavení exekuce Žaloba vylučovací (excindační) Svěřenský fond (o.…*
+  > „Podle § 1448 odst. 1 o. z. svěřenský fond se vytváří vyčleněním majetku z vlastnictví zakladatele tak, že ten svěří správci majetek k určitému účelu smlouvou nebo pořízením pro případ smrti a svěřenský správce se zaváže tento majetek držet a spravovat."
 - *NS* [27 Cdo 3033/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A031FE7A23B1D4F9C1258690001DF59D?openDocument) — *Způsobilost být účastníkem řízení*
+  > „[10] Právní názor soudu prvního stupně i soudu odvolacího, že svěřenský fond je entitou bez právní subjektivity, která představuje autonomní majetek bez vlastníka vyčleněný zakladatelem k naplňování konkrétního účelu a spravovaný svěřenským správcem, plynoucí z výslovné právní úpravy § 1448 odst. 2 a 3 o. z., je správný."
 - *NS* [24 Cdo 1754/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DAD4E773D0EE984C1258B0E004D3704?openDocument) — *Svěřenský fond (o. z.) Pasivní legitimace Žaloba určovací*
+  > „Podle ustanovení § 1448 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění účinném do 31."
 
 ### § 1449 — Účel
 

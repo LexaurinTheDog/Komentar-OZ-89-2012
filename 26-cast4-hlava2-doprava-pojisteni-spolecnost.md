@@ -107,9 +107,13 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 121/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAB194EC38212996C1258D3F0052D32B?openDocument) — *Smlouva o přepravě věci*
+  > „1974 pod č. 11/1975 Sb., dále jen „Úmluva CMR“, a na ustanovení § 2555 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), jež upravuje přepravní smlouvu."
 - *NS* [24 Cdo 2221/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A13E5948BD97CC2AC1258A7B001B86A1?openDocument) — *Vady řízení Smlouva o přepravě nákladu*
+  > „Na zjištěný skutkový stav poté soud prvního stupně aplikoval ustanovení § 2555 zákona 89/2012 Sb., občanský zákoník (dále „o. z.“), a Úmluvu o přepravní smlouvě v mezinárodní silniční nákladní dopravě (CMR), uveřejněnou vyhláškou ministra zahraničních věcí pod číslem 11/1975 Sb."
 - *NS* [23 Cdo 198/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CCD0586E05061242C1258D5C0052D46C?openDocument) — *Smlouva o přepravě nákladu Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „1974 pod č. 11/1975 Sb., (dále jen „Úmluva CMR“) a na § 2555 zákona č. 89/2012 Sb., občanského zákoníku, (dále také jen „o. z.“) a uzavřel, že účastnice uzavřely smlouvu o přepravě, tudíž se jejich právní vztah řídí Úmluvou CMR."
 - *NS* [31 Cdo 1163/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8112131096F2EEECC1258D20001607C7?openDocument) — 10. 9. 2025
+  > „1974 pod č. 11/1975 Sb., dále jen „Úmluva CMR“, a na ustanovení § 2555 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), jež upravuje přepravní smlouvu."
 
 ### § 2556—2585 — Klíčová pravidla
 
@@ -375,6 +379,7 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
+  > „Smlouvu o důchodu upravuje ustanovení § 2701 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“)."
 
 ### Oddíl 2 — Výměnek (§ 2707—2715)
 
@@ -392,6 +397,7 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2769/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/511529A85C2574E9C1258521001E453B?openDocument) — *Výměněk (o. z.) Darování Vlastnictví Katastr nemovitostí*
+  > „Je-li v souvislosti s darovací smlouvou uzavřena smlouva o výměnku, posuzuje se pro účel předpokládaný § 984 odst. 1 o. z. darovací smlouva zpravidla jako smlouva úplatná."
 
 ---
 
@@ -414,7 +420,9 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 1370/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/085F7E19440BE6D7C12588D8001831AA?openDocument) — *Vedlejší účastník Společnost (o. z.) Bankovní záruka Bezdůvodné obohacení*
+  > „Podle odvolacího soudu soud prvního stupně pominul, že žalobce a společnost G byli účastníky společnosti ve smyslu § 2716 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), vytvořené na základě společenské smlouvy ze dne 1. července 2016 za účelem získání a provedení v ní specifikované veřejné zakázky."
 - *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
+  > „Podle § 2716 o. z. zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci, vzniká společnost."
 
 ### § 2718—2746 — Klíčová pravidla
 
@@ -727,13 +735,20 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 14/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/184678533FD3D00BC1258DA40052D935?openDocument) — *Pojistný podvod Hodnocení důkazů Pojistná smlouva*
+  > „§ 2758, § 2759 a 2760 obč. zákoníku)."
 - *NS* [25 Cdo 567/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50CF096AC942D9DFC1258B2B004D4247?openDocument) — *Znalecký posudek Dokazování Pojištění majetku*
+  > „Dovolací soud by měl pro určení příčiny a následku ve vztahu k definici pojistné smlouvy podle § 2758 o. z. určit výkladová pravidla, neboť se jedná o otázku zásadního právního významu."
 - *NS* [23 Cdo 2037/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2460707ECD1AAF92C125880A001B7BED?openDocument) — *Pojištění majetku*
+  > „Podle § 2758 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“) pojistnou smlouvou se pojistitel zavazuje vůči pojistníkovi poskytnout jemu nebo třetí osobě pojistné plnění, nastane-li nahodilá událost krytá pojištěním (pojistná událost), a pojistník se zavazuje zaplatit pojistiteli pojistné."
 - *NS* [25 Cdo 2228/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25A66159375A2B8FC1258CAD004D1DAC?openDocument) — *Pojištění Výluka Přípustnost dovolání*
+  > „Na zjištěný skutkový stav věci soudy obou stupňů aplikovaly § 2758 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o."
 - *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
 - *NS* [25 Cdo 31/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B36C48C08AC3EA5DC1258D320052AE7C?openDocument) — *Pojištění Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Na zjištěný skutkový stav věci soudy obou stupňů aplikovaly § 2758 odst. 1 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o."
 - *NS* [33 Cdo 605/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8C22DB119342DD90C1258C0300529DF0?openDocument) — *Pojištění Škodové pojištění (o. z.) [ Odvážné smlouvy (o. z.) ] Povinnost zakročovací*
+  > „Podle § 2758 odst. 1 o. z. se pojistitel zavazuje pojistnou smlouvou vůči pojistníkovi poskytnout jemu nebo třetí osobě pojistné plnění, nastane-li nahodilá událost krytá pojištěním (pojistná událost), a pojistník se zavazuje zaplatit pojistiteli pojistné."
 - *NS* [27 Cdo 935/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/752DD9DFD6E8FC7CC1258956001E0244?openDocument) — 30. 11. 2022
+  > „Nedodržení požadavku písemné formy pojistné smlouvy podle § 2758 odst. 2 věty první o. z. nezakládá samo o sobě absolutní neplatnost pojistné smlouvy."
 
 ### § 2761—2765 — Pojistný zájem
 
@@ -814,6 +829,7 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 - *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
 - *NS* [23 Cdo 369/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D26ABAD451A0A222C1258B46004D1850?openDocument) — *Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad právních jednání (o. z…*
+  > „Za této situace pak již neměl důvod zabývat se otázkou kogentnosti ustanovení § 2766 o. z., od kterého se pojistná smlouva (jak její obsah vyložil) neodchylovala, ani otázkou 4) vycházející z předpokladu, že jako pojištěný byla ve smlouvě určena osoba odlišná od vlastníka předmětné budovy."
 
 ### Pododdíl 2 — Pojistné období (§ 2773—2785)
 
@@ -974,7 +990,9 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1694/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/271FD0BC9EC16EBBC1258B5D004D2F5B?openDocument) — *Veřejný příslib*
+  > „Právní úprava fikce splnění podmínky podle § 549 odst. 2 o. z. se (analogicky) uplatní i pro posouzení záměrného zmaření splnění podmínky veřejného příslibu odměny přislibujícím."
 - *NS* [27 Cdo 2309/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6C1AB7C4CE2C2FCC1258678001E0B3B?openDocument) — *Autorské právo Licenční smlouva (o. z.) Veřejný příslib Promlčení*
+  > „[4] Na takto ustaveném skutkovém základu soud mimo jiné uzavřel, že prohlášení naplňuje znaky veřejného příslibu ve smyslu § 2884 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o."
 
 ### § 2885—2890 — Pravidla
 

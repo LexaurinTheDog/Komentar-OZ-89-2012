@@ -230,14 +230,23 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2261/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2261-15_1) — usnesení, 27. 10. 2015
+  > „§ 3028 zákona č. 89/2012 Sb.)."
 - *ÚS* [IV. ÚS 3036/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3036-14_1) — usnesení, 1. 12. 2014
+  > „Odvolací soud postupoval podle ustanovení § 3028 odst. 2 zákona č. 89/2012 Sb., občanský zákoník (dále jen "o. z."), a v souladu s ustanovením § 910 až § 919 a § 921 až § 923 stěžovateli vysvětlil, že podstatnou změnou oproti zákonu o rodině účinném do 31."
 - *NS* [22 Cdo 2486/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8271CDA53D3B05E1C1258DBF0052CD04?openDocument) — *Přípustnost dovolání Společné jmění manželů*
+  > „2013 (dále též jen „obč. zák.“), za použití § 3028 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále též jen „o. z.“)], učiněné odvolacím soudem (potažmo soudem prvního stupně) prostřednictvím skutkových námitek, a uplatňuje tak jiný dovolací důvod, než který je uveden v § 241a odst. 1 o. s. ř."
 - *NS* [22 Cdo 2315/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/215FD174F33F080FC1258D9F0052D8DB?openDocument) — *Přípustnost dovolání Držba Vydržení*
+  > „2013 (dále též jen „obč. zák.“), za použití § 3028 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále též jen „o. z.“)."
 - *NS* [28 Cdo 537/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7DD4ADC0096E1E3C1258D5C0052D3CA?openDocument) — *Smluvní pokuta Moderační právo soudu Přechodná (intertemporální) ustanovení*
+  > „Podle § 3028 odst. 3, věty první, o. z. není-li dále stanoveno jinak, řídí se jiné právní poměry vzniklé přede dnem nabytí účinnosti tohoto zákona, jakož i práva a povinnosti z nich vzniklé, včetně práv a povinností z porušení smluv uzavřených přede dnem nabytí účinnosti tohoto zákona, dosavadními právními předpisy."
 - *NS* [22 Cdo 1922/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3895F0C936D6F822C1258D2B004D1F1D?openDocument) — *Vlastnictví Žaloba odpůrčí [ Žaloba ] Spoluvlastnictví*
+  > „Podle § 3028 odst. 2 o. z. není-li dále stanoveno jinak, řídí se ustanoveními tohoto zákona i právní poměry týkající se práv osobních, rodinných a věcných; jejich vznik, jakož i práva a povinnosti z nich vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů."
 - *NS* [33 Cdo 2802/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CB8E70BBB1F22ABC1258D26004D11A8?openDocument) — *Náhrada škody*
+  > „Oproti soudu prvního stupně ji správně posuzoval podle dosavadních právních předpisů, tedy občanského zákoníku č. 40/1964 Sb. Pokud dovodil, že jí nebylo založeno věcné právo (pro jehož posouzení by platilo pravidlo zakotvené v § 3028 odst. 2 o. z., tedy že práva a povinnosti z něj vzniklé po 1."
 - *NS* [20 Cdo 1475/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04F2CDE35014B146C1258D0D004D42EE?openDocument) — *Exekuce Přechodná (intertemporální) ustanovení Započtení pohledávky*
+  > „Pro určení právního režimu, jemuž podléhá určitá pohledávka, není v koncepci § 3028 odst. 3 věty první o. z. rozhodné, kdy tato pohledávka vznikla (ve smyslu kdy věřiteli vzniklo bezprostřední, nepodmíněné právo na plnění), nýbrž kdy vznikl právní poměr (právní vztah), z něhož tato pohledávka vznikla."
 - *NS* [23 Cdo 82/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/790C13CBE3135D94C1258CC3004D35E2?openDocument) — *Přípustnost dovolání Postoupení pohledávky Neplatnost smlouvy Přechodná (intertemporální…*
+  > „Nejvyšší soud, maje na zřeteli hledisko časové působnosti v úvahu přicházejících právních předpisů, k tomu předesílá, že ustanovení § 3028 odst. 3 o. z. týkající se smluvních obligací aplikuje pravidlo, že na právní vztah založený před 1."
 
 ### § 3029—3030 — Vztah k jiným předpisům
 

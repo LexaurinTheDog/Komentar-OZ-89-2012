@@ -305,8 +305,10 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 - *NS* [22 Cdo 3632/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BC6943308D8D3962C12588360017E1F2?openDocument) — *Přípustnost dovolání Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ]*
 - *NS* [22 Cdo 1234/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6C36CC18C724CBCC12585E500188CBA?openDocument) — *Služebnost (o. z.) Věcná břemena*
+  > „Podle § 1257 odst. 1 o. z. věc může být zatížena služebností, která postihuje vlastníka věci jako věcné právo tak, že musí ve prospěch jiného něco trpět nebo něčeho se zdržet."
 - *NS* [22 Cdo 2260/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE42A2648F44F0F3C1258A98001B7CFA?openDocument) — *Věcná břemena Služebnost bytu (o. z.) [ Služebnost (o. z.) ] Vyklizení nemovitosti Výkla…*
 - *NS* [22 Cdo 985/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E408765FF72D5E3C1258CAC004D1E60?openDocument) — *Ochrana vlastnictví Služebnost stezky, průhonu a cesty (o. z.) [ Služebnost (o. z.) ]*
+  > „Podle § 1257 odst. 1 o. z. věc může být zatížena služebností, která postihuje vlastníka věci jako věcné právo tak, že musí ve prospěch jiného něco trpět nebo něčeho se zdržet."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
 ### § 1258—1259 — Rozsah a ochrana
@@ -327,8 +329,11 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 - *NS* [22 Cdo 806/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DE3345060C0112DC125873200189C79?openDocument) — *Služebnost (o. z.)*
 - *NS* [22 Cdo 4491/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/76D1DB3819126BEFC1258164003151D7?openDocument) — *Služebnost (o. z.)*
+  > „Podle § 1258 o. z. služebnost zahrnuje vše, co je nutné k jejímu výkonu."
 - *NS* [22 Cdo 654/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9F92B5F55E5B5E6C1258BCB0052C627?openDocument) — *Nájem domu (o. z.) Služebnost (o. z.) Služebnost stezky, průhonu a cesty (o. z.) [ Služe…*
+  > „Podle § 1258 o. z. služebnost zahrnuje vše, co je nutné k jejímu výkonu."
 - *NS* [22 Cdo 985/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E408765FF72D5E3C1258CAC004D1E60?openDocument) — *Ochrana vlastnictví Služebnost stezky, průhonu a cesty (o. z.) [ Služebnost (o. z.) ]*
+  > „Podle § 1258 o. z. služebnost zahrnuje vše, co je nutné k jejímu výkonu."
 
 ---
 
@@ -352,14 +357,22 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 1589/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B6525B008B4F671C1258D06004D2481?openDocument) — *Služebnost (o. z.) Vydržení*
+  > „Podle § 1260 odst. 1 služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena."
 - *NS* [22 Cdo 1338/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1098DFA1B299457CC1258A6D001B857D?openDocument) — *Přípustnost dovolání Vady podání Služebnost (o. z.) Vydržení Účelová komunikace*
+  > „V souvislosti se závěrem odvolacího soudu, že právo odpovídající veřejně přístupné účelové komunikaci nelze považovat za veřejný statek ve smyslu § 1260 odst. 2 o. z. a dalších, příslušných ustanovení zákona č. 89/2012 Sb., občanský zákoník, ve znění účinném od 1."
 - *NS* [22 Cdo 2950/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/576D8E947871A1A1C12584EF001E49E3?openDocument) — *Služebnost (o. z.)*
+  > „Pokud tedy žalobkyně namítá, že obecné soudy pochybily, když svým rozhodnutím služebnost inženýrské sítě odmítly zřídit, přestože občanský zákoník vznik služebnosti rozhodnutím orgánu veřejné moci v § 1260 odst. 1 připouští, není tato námitka opodstatněná."
 - *NS* [22 Cdo 5237/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D36BB49B71158E06C1258265005190F9?openDocument) — *Přípustnost dovolání Služebnost (o. z.)*
 - *NS* [21 Cdo 3460/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA7B5925FD8397C5C12586DF00187B2A?openDocument) — *Katastr nemovitostí Dražební vyhláška Vydržení Vydražitel Věcná břemena*
+  > „Podle ustanovení § 1260 odst. 1 o. z. služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena; ze zákona nebo rozhodnutím orgánu veřejné moci se služebnost nabývá v případech stanovených zákonem."
 - *NS* [22 Cdo 2015/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB2EC05199517692C1258DAF0052C05E?openDocument) — *Přípustnost dovolání Služebnost (o. z.) Vodovody Obec Dobré mravy*
+  > „§ 1260 o. z.), v jiných případech soud svým rozhodnutím služebnost zřídit nemůže, a to ani na základě analogické aplikace zákona a ani tehdy, kdyby se z okolností případu jevilo zřízení věcného břemene vhodným způsobem k jeho řešení [srov. rozsudky Nejvyššího soudu ze dne 16."
 - *NS* [22 Cdo 1161/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9173A5D2C02B960DC1258D2D004D1D6F?openDocument) — *Vydržení Mimořádné vydržení (o. z.) Řádné vydržení (o. z.) Služebnost (o. z.) Věcná břem…*
+  > „Podle § 1260 odst. 1 věta první o. z. služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena."
 - *NS* [22 Cdo 3027/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/591D0B195B6BD8F5C1258C180052DB48?openDocument) — *Přípustnost dovolání Služebnost (o. z.) Mimořádné vydržení (o. z.)*
+  > „Podle § 1260 odst. 1 věta první o. z. služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena."
 - *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
+  > „Podle ustanovení § 1260 odst. 1 věta první o. z. služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena."
 
 ### § 1261 — Lesní pozemky
 
@@ -391,6 +404,7 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 3460/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA7B5925FD8397C5C12586DF00187B2A?openDocument) — *Katastr nemovitostí Dražební vyhláška Vydržení Vydražitel Věcná břemena*
+  > „Podle ustanovení § 1262 odst. 1 o. z. zřizuje-li se právním jednáním služebnost k věci zapsané ve veřejném seznamu, vzniká zápisem do takového seznamu; vzniká-li služebnost k věci zapsané do veřejného seznamu na základě jiné právní skutečnosti, zapíše se do veřejného seznamu i v takovém případě."
 
 ---
 
@@ -441,6 +455,7 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 - *NS* [29 ICdo 91/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/760465D846C185B7C1258A5D001B823B?openDocument) — 31. 7. 2023
 - *NS* [22 Cdo 654/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9F92B5F55E5B5E6C1258BCB0052C627?openDocument) — *Nájem domu (o. z.) Služebnost (o. z.) Služebnost stezky, průhonu a cesty (o. z.) [ Služe…*
+  > „2014 vykonává oprávnění ze služebnosti stezky nejen vlastník pozemku, ale za účelem přicházení k oprávněné osobě a odcházení od ní i „jiní“ (§ 1274 odst. 1 o. z.) a míra služebnosti je dána potřebou panujícího pozemku (§ 1264 odst. 1 o. z.), závěry výše uvedené judikatury Nejvyššího soudu jsou proto použitelné i v poměrech zákona č."
 
 ---
 
@@ -475,6 +490,7 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2015/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB2EC05199517692C1258DAF0052C05E?openDocument) — *Přípustnost dovolání Služebnost (o. z.) Vodovody Obec Dobré mravy*
+  > „§ 1257 a násl. o. z.), v dané věci služebnosti inženýrské sítě podle § 1267 o. z. Soud může o zřízení služebnosti rozhodnout jen v případech upravených zákonem (srov."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
 ### § 1269 — Opora cizí stavby
@@ -559,8 +575,11 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 
 - *NS* [22 Cdo 120/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/973535F673E203E7C1258DB20052D8F0?openDocument) — *Přípustnost dovolání Ochrana vlastnictví Služebnost stezky, průhonu a cesty (o. z.) [ Sl…*
 - *NS* [22 Cdo 654/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9F92B5F55E5B5E6C1258BCB0052C627?openDocument) — *Nájem domu (o. z.) Služebnost (o. z.) Služebnost stezky, průhonu a cesty (o. z.) [ Služe…*
+  > „2014 vykonává oprávnění ze služebnosti stezky nejen vlastník pozemku, ale za účelem přicházení k oprávněné osobě a odcházení od ní i „jiní“ (§ 1274 odst. 1 o. z.) a míra služebnosti je dána potřebou panujícího pozemku (§ 1264 odst. 1 o. z.), závěry výše uvedené judikatury Nejvyššího soudu jsou proto použitelné i v poměrech zákona č."
 - *NS* [22 Cdo 1969/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B2636514BBEED02C1258B7E004D27CF?openDocument) — *Přípustnost dovolání Promlčení Pozemková služebnost (o. z.) [ Služebnost (o. z.) ]*
+  > „Uvedly, že spor se týká věcného břemene zřízeného jako služebnost (§ 1257 odst. 1 o. z.); jedná se přitom o služebnost cesty umožňující vlastníku panujícího pozemku jak jízdu, tak i chůzi po služebném pozemku (§ 1274 a § 1276 o. z.)."
 - *NS* [22 Cdo 985/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E408765FF72D5E3C1258CAC004D1E60?openDocument) — *Ochrana vlastnictví Služebnost stezky, průhonu a cesty (o. z.) [ Služebnost (o. z.) ]*
+  > „Ze Smlouvy vyplývá, že žalovaná má právo vhodným a bezpečným způsobem chodit a jezdit po předmětných pozemcích ve smyslu § 1274 a § 1276 zákona č. 89/2012 Sb., občanský zákoník, (dále ,,o. z.“)."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
 ### § 1278—1282 — Právo pastvy
@@ -691,7 +710,9 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 1733/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD48E88324F47A55C1258D310052ADD4?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
+  > „Požívací právo ke služebné věci v důsledku toho také obstojí vedle již existujícího práva nájmu (pachtu) a není v kolizi s § 1763 o. z. [srov. komentáře k § 1285 a 1287 In: Spáčil, J. a kol.: Občanský zákoník III. Věcná práva (§ 976–1474)."
 - *NS* [26 Cdo 1469/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5C677C7E8A698CBC1258D07004D0519?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
+  > „K otázce požívacího práva poukázal na (v rozsudku citovanou) judikaturu prvorepublikového Nejvyššího soudu a judikaturu rakouských soudů k výkladu požívacího práva a k otázce výkladu smlouvy o požívacím právu coby ve skutečnosti (další) smlouvy nájemní na tam označená rozhodnutí Ústavního soudu; odkázal též na § 1285 a § 978 zákona č."
 
 ---
 
@@ -726,14 +747,22 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [I. ÚS 2096/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2096-15_1) — usnesení, 18. 8. 2015
+  > „Takové řešení v současné právní úpravě nabízí ustanovení § 1299 zákona č. 89/2012 Sb., občanského zákoníku, podle nějž se vlastník služebné věci při trvalé změně vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou panujícího pozemku nebo oprávněné osoby může domáhat omezení nebo zrušení služebnosti za přiměřenou náhradu."
 - *NS* [22 Cdo 2402/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01212F26375B1136C1258D4F0052A4BE?openDocument) — *Služebnost (o. z.) Věcná břemena*
 - *NS* [22 Cdo 2169/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B3EABFFF75CAF35C1258D2D004D1D38?openDocument) — *Služebnost (o. z.)*
+  > „Argumentovala, že koupí pozemku parc. č. XY dcerou žalované nebyl založen žádný nepoměr, natož hrubý nepoměr ve smyslu § 1299 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“)."
 - *NS* [22 Cdo 2892/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D35EC56B79D055C3C1258C360052C9A6?openDocument) — *Přípustnost dovolání Služebnost bytu (o. z.) [ Služebnost (o. z.) ]*
+  > „2020, sp. zn. 22 Cdo 1101/2020, Nejvyšší soud dovodil, že nelze vyloučit zrušení nebo omezení věcného břemene založeného podle § 28d transformačního zákona pro trvalou změnu vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou panujícího pozemku nebo oprávněné osoby za náhradu ve smyslu § 1299 odst. 2 o. z. Zákon č."
 - *NS* [22 Cdo 1078/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D602B2167F2704E5C12588530017C584?openDocument) — *Služebnost (o. z.)*
+  > „Podle § 1299 odst. 2 zákona č. 89/2012 Sb., občanský zákoník (dále „o. z.“), při trvalé změně vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou panujícího pozemku nebo oprávněné osoby se vlastník služebné věci může domáhat omezení nebo zrušení služebnosti za přiměřenou náhradu."
 - *NS* [22 Cdo 1187/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CC78CB30C9B71F3C125874F0018A855?openDocument) — *Věcná břemena*
+  > „Soudy nižších stupňů vyložily, že v posuzované věci nejsou dány skutečnosti opodstatňující uzavřít, že došlo k trvalé změně vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou oprávněné osoby, na základě které by soud byl oprávněn rozhodnout o zrušení služebnosti ve smyslu § 1299 odst. 2 o. z. Z tohoto důvodu žalobu zamítly."
 - *NS* [22 Cdo 3845/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C7640AD85E30F81C12586D20018809D?openDocument) — *Věcná břemena*
+  > „§ 1299 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, ve znění účinném od 1."
 - *NS* [22 Cdo 1101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03D96817D7EB0C7EC12585E500188CA7?openDocument) — *Věcná břemena*
+  > „Soud neshledal trvalou změnu poměrů, k níž by došlo oproti době vzniku služebnosti, vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou panující oprávněné osoby dle § 1299 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“."
 - *NS* [22 Cdo 683/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2045BEA3461D6328C12585EB0018BEAB?openDocument) — *Služebnost (o. z.)*
+  > „Uvádí, že dovolání je přípustné, neboť odvolací soud se odchýlil od ustálené judikatury dovolacího soudu v otázce, týkající se konstitutivního rozhodnutí, kdy výrok o zrušení věcného břemene – zrušení služebnosti podle § 1299 o. z. nelze oddělit od současného rozhodnutí o náhradě za jeho zrušení."
 
 ### § 1300 — Smluvní zánik
 
@@ -862,11 +891,17 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2694/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D2F4F56370DBAEC1258D870052C815?openDocument) — *Zástavní právo Neplatnost smlouvy*
+  > „Podle ustanovení § 1309 odst. 1 o. z. při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 - *NS* [21 Cdo 1014/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/140981EB08AE1CDFC12587F0001B8A5C?openDocument) — *Zástavní právo Poučovací povinnost soudu Neplatnost smlouvy*
+  > „Podle ustanovení § 1309 odst. 1 o. z. při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
+  > „Podle ustanovení § 1309 odst. 1 o. z. při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 - *NS* [21 Cdo 1304/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/290CF395B4A60B23C1258A510037262F?openDocument) — *Zástavní právo Břemeno důkazní Břemeno tvrzení Uznání dluhu Výklad právních jednání (o.…*
+  > „Podle ustanovení § 1309 odst. 1 o. z. platí, že při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 - *NS* [21 Cdo 1761/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B6A94F8FF754B19C1258BD40052AF8A?openDocument) — *Zástavní právo Smlouva zástavní Břemeno důkazní Soukromá listina (o. z.) Zdánlivé právní…*
+  > „Podle ustanovení § 1309 odst. 1 o. z. platí, že při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+  > „Podle ustanovení § 1309 odst. 1 o. z. při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 
 ### § 1310 — Zástava (předmět)
 
@@ -905,9 +940,13 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1382/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21064F39E352A18DC1258792001E4A02?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí Smlouva zástavní Přípustnost dovolání*
+  > „Podle soudu prvního stupně „vymezení zajišťovaných dluhů v předmětné vkladové listině představuje jejich určení dle druhu ve smyslu § 1311 odst. 2 o. z. Takové vymezení ovšem postrádá určení doby, ve které mají zajišťované dluhy vzniknout."
 - *NS* [21 Cdo 2694/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D2F4F56370DBAEC1258D870052C815?openDocument) — *Zástavní právo Neplatnost smlouvy*
+  > „Podle ustanovení § 1311 odst. 1 o. z. lze zástavním právem zajistit dluh o určité výši nebo dluh, jehož výši lze určit kdykoli v době trvání zástavního práva."
 - *NS* [21 Cdo 1014/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/140981EB08AE1CDFC12587F0001B8A5C?openDocument) — *Zástavní právo Poučovací povinnost soudu Neplatnost smlouvy*
+  > „Podle ustanovení § 1311 odst. 1 o. z. lze zástavním právem zajistit dluh o určité výši nebo dluh, jehož výši lze určit kdykoli v době trvání zástavního práva."
 - *NS* [29 ICdo 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9314023D1BC53F52C12587B5001B8CCB?openDocument) — *Zástavní právo Zástavní právo (o. z.) Výklad právních jednání (o. z.) [ Právní jednání (…*
+  > „Na výše uvedeném základě insolvenční soud – vycházeje z ustanovení § 1311 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“) – dospěl k závěru, že v zástavní smlouvě „nebyla sjednána určitá doba, po níž mají zajišťované dluhy vznikat“, přičemž „takovou dobou“ nemůže být určení výše pohledávek."
 
 ---
 
@@ -971,13 +1010,18 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [21 Cdo 1169/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E70DBABFEBC7EB1AC1258A3E00160F18?openDocument) — *Nepřípustnost dovolání Zastavení exekuce Smlouva zástavní Zástavní právo*
 - *NS* [24 Cdo 1382/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21064F39E352A18DC1258792001E4A02?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí Smlouva zástavní Přípustnost dovolání*
+  > „Podle § 1312 odst. 2 o. z. zástava může být určena jednotlivě nebo jiným způsobem tak, aby ji bylo možné určit kdykoli v době trvání zástavního práva."
 - *NS* [21 Cdo 1516/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D71ABDF68EE48C1C125876D0018A03D?openDocument) — *Přípustnost dovolání Dovolací důvody Zástavní právo*
 - *NS* [21 Cdo 2694/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15D2F4F56370DBAEC1258D870052C815?openDocument) — *Zástavní právo Neplatnost smlouvy*
+  > „Podle ustanovení § 1312 odst. 1 o. z. se zástavní právo zřizuje zástavní smlouvou."
 - *NS* [21 Cdo 1014/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/140981EB08AE1CDFC12587F0001B8A5C?openDocument) — *Zástavní právo Poučovací povinnost soudu Neplatnost smlouvy*
+  > „Podle ustanovení § 1312 odst. 1 o. z. se zástavní právo zřizuje zástavní smlouvou."
 - *NS* [29 ICdo 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9314023D1BC53F52C12587B5001B8CCB?openDocument) — *Zástavní právo Zástavní právo (o. z.) Výklad právních jednání (o. z.) [ Právní jednání (…*
+  > „Odvolací soud – vycházeje z ustanovení § 553 odst. 1, § 554, § 555, § 556, § 1311, § 1312 a § 1341 o. z., ustanovení § 155 odst. 4 zákona č. 40/1964 Sb., občanského zákoníku (dále též jen „obč. zák.“), ustanovení § 299 odst. 1 zákona č. 513/1991 Sb., obchodního zákoníku, ustanovení § 17 odst. 4 vyhlášky č."
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
 - *NS* [29 ICdo 138/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1B869CBC500E2CCC1258C0B0052AFA4?openDocument) — 27. 11. 2024
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
+  > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
 ### § 1316—1319 — Vznik zástavního práva (4 způsoby)
 
@@ -1014,10 +1058,15 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [29 ICdo 104/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CAB6DF6EBB1AC604C1258D5C0052D493?openDocument) — *Insolvenční řízení Konkurs Zástavní právo Žaloba určovací*
 - *NS* [21 Cdo 2576/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B34DBF98E78B002C125854B0018AAE0?openDocument) — *Vlastnictví Zástavní právo Vady řízení*
+  > „Z uvedených důvodů dospěl dovolací soud k závěru, že předpoklady vzniku zástavního práva při zastavení nemovité věci nevlastníkem je třeba zkoumat nejenom ke dni zřízení zástavního práva (tedy ke dni uzavření zástavní smlouvy - srov. ustanovení § 1312 odst. 1 o. z.), ale (především) ke dni jeho vzniku (srov. ustanovení § 1316 o."
 - *NS* [21 Cdo 1304/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/290CF395B4A60B23C1258A510037262F?openDocument) — *Zástavní právo Břemeno důkazní Břemeno tvrzení Uznání dluhu Výklad právních jednání (o.…*
+  > „Podle ustanovení § 1316 odst. 1 o. z. zástavní právo k věci zapsané ve veřejném seznamu vzniká zápisem v tomto seznamu, ledaže jiný právní předpis stanoví jinak."
 - *NS* [21 Cdo 1761/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B6A94F8FF754B19C1258BD40052AF8A?openDocument) — *Zástavní právo Smlouva zástavní Břemeno důkazní Soukromá listina (o. z.) Zdánlivé právní…*
+  > „Podle ustanovení § 1316 o. z. zástavní právo k věci zapsané ve veřejném seznamu vzniká zápisem v tomto seznamu, ledaže jiný právní předpis stanoví jinak."
 - *NS* [21 Cdo 1353/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA8EAE45E3DC65A3C12585AC0018FCE1?openDocument) — *Zástavní právo (o. z.) Postoupení pohledávky Veřejný seznam (o. z.) Dobrá víra*
+  > „Podle ustanovení § 1316 o. z. zástavní právo k věci zapsané ve veřejném seznamu vzniká zápisem v tomto seznamu, ledaže jiný právní předpis stanoví jinak."
 - *NS* [21 Cdo 264/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC930659C8144AC4C1258CB6004D35A7?openDocument) — *Zástavní právo (o. z.) Postoupení pohledávky Veřejný seznam (o. z.) Dobrá víra Princip m…*
+  > „Podle ustanovení § 1316 o. z. zástavní právo k věci zapsané ve veřejném seznamu vzniká zápisem v tomto seznamu, ledaže jiný právní předpis stanoví jinak."
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
 
 ### § 1320—1327 — Zastavení podílu v korporaci
@@ -1160,10 +1209,14 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [29 ICdo 200/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29BAFB577EE51227C1258DB00052C0EB?openDocument) — *Incidenční spory (odporové spory) Podmínky řízení Zástavní právo (o. z.) Podzástavní prá…*
 - *NS* [29 ICdo 105/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/10E91838A6180ABCC1258D88005299AC?openDocument) — *Dlužník Likvidace obchodní společnosti Konkurs Insolvence Insolvenční návrh Insolvenční…*
+  > „Na závěr, podle kterého se dlužník nemůže účastnit insolvenčního řízení vedeného na jeho majetek jako svůj vlastní věřitel, nemá vliv ani hmotněprávní úprava zastavení pohledávky promítnutá v textu § 1335 o. z. K významu tam obsaženého pravidla srov. v literatuře např. výklad podaný k předmětnému ustanovení v díle Spáčil, J."
 - *NS* [29 ICdo 116/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD2114CD11AFA701C1258D7A001B8D7E?openDocument) — *Incidenční spory (odporové spory) Podmínky řízení Zástavní právo (o. z.) Podzástavní prá…*
+  > „Na závěr, podle kterého se dlužník nemůže účastnit insolvenčního řízení vedeného na jeho majetek jako svůj vlastní věřitel, nemá vliv ani hmotněprávní úprava zastavení pohledávky promítnutá v textu § 1335 o. z. K významu tam obsaženého pravidla srov. v literatuře např. výklad podaný k předmětnému ustanovení v díle Spáčil, J."
 - *NS* [20 Cdo 2609/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FDD0FA86F88FE04C1258A89001B7BA0?openDocument) — *Exekuce Změna soudního rozhodnutí Přistoupení do řízení*
+  > „Po provedeném dokazování uzavřel, že předmětná pohledávka není v souladu s ustanovením § 1335 o. z. způsobilým předmětem zástavního práva, jelikož již v předchozích fázích řízení bylo vyřešeno, že ji nelze postoupit (bylo to ve smlouvě o převodu akcií vyloučeno)."
 - *NS* [29 NSCR 91/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FE8D9AA544543E6C12587A9001ECE3F?openDocument) — *Zpeněžování Zajištění majetku Zástavní právo (o. z.) Insolvenční řízení Insolvenční sprá…*
 - *NS* [21 ICdo 44/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/113A24CE7E890673C12588B90018C6AE?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o účtu (o. z.) Zástav…*
+  > „Zastavit lze pohledávku, kterou lze postoupit jinému; je-li zástavou pohledávka zástavního dlužníka za zástavním věřitelem, pohledávka a dluh nezanikají splynutím osoby věřitele a dlužníka (§ 1335 odst. 1 o. z.)."
 
 ### § 1341—1345 — Specifické situace
 
@@ -1250,14 +1303,23 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 3882/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/444446AA5EAEFCE7C1258B63004D02C7?openDocument) — *Zástavní právo (o. z.) Exekuční titul Výkon rozhodnutí prodejem zástavy [ Výkon rozhodnu…*
+  > „Podle ustanovení § 1359 odst. 1 zákona č. 89/2012 Sb., občanský zákoník (dále jen „občanský zákoník“ nebo „o."
 - *NS* [24 Cdo 2755/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F7D757791051D40C12589C000182B8C?openDocument) — *Zástavní právo (o. z.) Exekuce Katastr nemovitostí*
+  > „Omezení v nakládání s nemovitou věcí povinného postiženou exekučním příkazem se po dobu trvání účinků speciálního inhibitoria dle § 47 odst. 6 exekučního řádu vztahuje i na jednání zástavního věřitele směřující k prodeji této nemovité věci na základě předchozího ujednání se zástavcem (§ 1359 odst. 1 o. z.)."
 - *NS* [20 Cdo 1596/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/56ACF80D7879FC27C12587620018A841?openDocument) — *Přípustnost dovolání Zastavení exekuce Zástavní právo*
+  > „10/ Nejvyšší soud ostatně recentním usnesením ze dne 9. června 2021, sp. zn. 20 Cdo 1522/2021 (v řízení vedeném mezi týmiž účastníky), dospěl k závěru, že realizace zástavního práva postupem podle § 1359 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, je právem, a nikoliv povinností věřitele."
 - *NS* [21 Cdo 2345/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/696134BBE2F97E9AC1258C230052ACD6?openDocument) — *Zadržovací právo Zástavní právo Nepřípustnost dovolání*
+  > „Nemohou být žádné pochybnosti o tom, že zadržovací právo rovněž poskytuje věřiteli jistotu, že se bude moci uspokojit z výtěžku prodeje nebo jiného zpeněžení zadržené věci, jestliže dlužník ani dodatečně dobrovolně nesplní svůj dluh; i když zákon uhrazovací funkci zadržovacího práva přímo neuvádí, …"
 - *NS* [21 Cdo 1212/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EB9C09C01B4B80DC1258BD90052AD2B?openDocument) — *Dražba Exekuce Insolvenční řízení Zástavní právo*
+  > „Pakliže tedy v insolvenčním řízení došlo postupem podle ustanovení 286 odst. 1 insolvenčního zákona ke zpeněžení té části majetkové podstaty, která sloužila jako zástava, došlo tak k realizaci zástavního práva [§ 1359 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)]."
 - *NS* [21 Cdo 1516/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D71ABDF68EE48C1C125876D0018A03D?openDocument) — *Přípustnost dovolání Dovolací důvody Zástavní právo*
+  > „§ 1359 odst. 1 o. z. Kategorie rozhodnutí: E Zveřejněno na webu: 13."
 - *NS* [20 Cdo 1522/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC785D9DC8578E63C12587340018A0F1?openDocument) — *Exekuce Zástavní právo*
+  > „Podle ustanovení § 1359 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku – dále jen „o. z.“, jakmile je zajištěný dluh splatný, může se zástavní věřitel uspokojit způsobem, o němž se dohodl se zástavcem, popřípadě zástavním dlužníkem, v písemné formě, jinak z výtěžku zpeněžení zástavy ve veřejné dražbě nebo z prodeje zástavy podle jiného zákona."
 - *NS* [29 ICdo 92/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6B73DF355679337CC125895B001E1323?openDocument) — 30. 11. 2022
+  > „Na tomto základě dospěl insolvenční soud ‒ cituje ustanovení § 198 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona), ustanovení § 101, § 110, § 112, § 152, § 165, § 165a odst. 1, § 552, § 558, § 657 zákona č. 40/1964 Sb., občanského zákoníku (dále též jen „obč."
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
+  > „Má za to, že dražba, kterou nechal zástavní věřitel provést, nemá statut veřejné dražby ve smyslu zákona č."
 
 ### § 1361—1364 — Procesní postup
 
@@ -1296,6 +1358,7 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
+  > „Uvedl, že dražba, kterou zástavní věřitel nechal provést, nemá statut veřejné dražby ve smyslu zákona č. 26/2000 Sb., a proto nenaplňuje předpoklad prodeje zástavy veřejnou dražbou ve smyslu ustanovení § 1359 občanského zákoníku, že strany si sice v čl."
 
 ### § 1366—1370 — Doklad, součinnost, rozdělení výtěžku
 
@@ -1361,7 +1424,9 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 2218/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79B67D1C6BEDDAD0C1258AEF00529860?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Smluvní pokuta Daňové řízení*
+  > „Zástavní právo podle § 170 odst."
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
+  > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
 ### § 1377 — Zánik bez zániku pohledávky
 
@@ -1381,7 +1446,9 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2900/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0E2EBEA26AA9CBFC1258B7F004D2960?openDocument) — 23. 7. 2024
+  > „Dovoláním napadený rozsudek odvolacího soudu je [v závěru, že „případnou dobrou víru žalobce ve smyslu § 1377 odst. 2 (ve spojení s § 984 odst. 1 věta druhá) o. z. je nutno zkoumat k datu nabytí vlastnického práva ke druhé polovině předmětných nemovitostí, resp. ke dni podání zápisu na jeho vklad“ (správně: ke dni podání návrhu na zápis – pozn."
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
+  > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
 ### § 1378—1379 — Výmaz
 
@@ -1474,14 +1541,23 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1313/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7334FCCAB00F2F3C1258A4A001601A3?openDocument) — *Smlouva o skladování Zadržovací právo Dokazování*
+  > „Ve smlouvě byla dohodnuta „nemožnost výkonu zadržovacího práva ve smyslu § 1395 a násl. občanského zákoníku ze strany skladovatele“."
 - *NS* [23 Cdo 3442/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06A31F91A544D251C12585C7001885FA?openDocument) — *Zadržovací právo*
+  > „Má za to, že oba soudy nesprávně dospěly k závěru, že žalobkyně v souladu s ust. § 1395 o. z. uplatnila zadržovací právo k výsledku své činnosti, tedy rekonstruovanému účetnictví, neboť právní úprava v uvedeném ustanovení občanského zákoníku neumožňuje uplatnit zadržovací právo k věci vlastní."
 - *NS* [26 Cdo 2397/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/68C9B3526C5A1CAFC1258C570052A1EE?openDocument) — *Nájem Zadržovací právo*
+  > „Podle § 1395 odst. 1 o. z. kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 - *NS* [29 ICdo 147/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766A222F5C654C9DC1258AD6001B86BB?openDocument) — *Incidenční spory (vylučovací žaloba) Žaloba vylučovací (excindační) Majetková podstata U…*
+  > „Podle § 1395 odst. 1 o. z. kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 - *NS* [21 Cdo 2155/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D46A7F0821F87548C1258A74001B8560?openDocument) — *Lhůta hmotněprávní [ Lhůty ] Zadržovací právo*
+  > „§ 1395 odst. 1 OZ“ na ustájené koně, čímž žalovaná zajistila splatný dluh žalobkyně."
 - *NS* [20 Cdo 1708/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FC87948E0C54A5C1258A3300160E5D?openDocument) — *Zadržovací právo Vzájemné plnění Zastavení exekuce*
+  > „Podle § 1395 odst. 1 o. z. kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 - *NS* [21 Cdo 3926/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D813A2B8A58B3AAEC125882A0017DFB3?openDocument) — *Zadržovací právo Věcné právo k věci cizí (o. z.) Věřitel Dlužník*
+  > „Podle ustanovení § 1395 odst. 1 o. z. kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 - *NS* [21 Cdo 2976/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04A4D9424772E601C1258B0A004D07B1?openDocument) — *Zadržovací právo Jistota Úschova Břemeno důkazní*
+  > „Podle ustanovení § 1395 odst. 1 o. z. kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat, dle odst."
 - *NS* [21 Cdo 734/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4CEC08E891A1337C1258C96004D379F?openDocument) — *Zadržovací právo Absolutní majetková práva (o. z.) Věcné právo k věci cizí (o. z.) Zajiš…*
+  > „Podle ustanovení § 1395 odst. 1 o. z. ten, kdo má povinnost vydat cizí movitou věc, kterou má u sebe, ji může ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 
 ### § 1396 — Vyloučení
 
@@ -1496,8 +1572,11 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [29 ICdo 9/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/33510C25DFEA16C5C12586B6001847D3?openDocument) — *Incidenční spory Insolvence Zadržovací právo*
 - *NS* [29 ICdo 13/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D95D51D4535722AEC1258510001F0722?openDocument) — *Incidenční spory Zadržovací právo*
 - *NS* [21 Cdo 3926/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D813A2B8A58B3AAEC125882A0017DFB3?openDocument) — *Zadržovací právo Věcné právo k věci cizí (o. z.) Věřitel Dlužník*
+  > „Za tohoto skutkového stavu závisí napadený rozsudek odvolacího soudu (mimo jiné) na vyřešení otázky hmotného práva, kdy má věřitel u sebe cizí movitou věc neprávem ve smyslu ustanovení § 1396 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [21 Cdo 734/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4CEC08E891A1337C1258C96004D379F?openDocument) — *Zadržovací právo Absolutní majetková práva (o. z.) Věcné právo k věci cizí (o. z.) Zajiš…*
+  > „Podle ustanovení § 1396 odst. 1 o. z. zadržet cizí věc nesmí ten, kdo ji má u sebe neprávem, zejména zmocnil-li se jí násilně nebo lstí."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
+  > „Podle ustanovení § 1396 odst. 1 o. z. zadržet cizí věc nesmí ten, kdo ji má u sebe neprávem, zejména zmocnil-li se jí násilně nebo lstí."
 
 ### § 1397 — Vyrozumění a péče
 
@@ -1512,7 +1591,9 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [3 Tdo 590/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11678B5E56642045C125848C00186079?openDocument) — *Krádež*
+  > „Má za to, že se jedná o civilněprávní spor, kdy podle názoru soudu je jednání trestné proto, že obviněný nesplnil v rámci institutu zadržovacího práva svou povinnost o zadržení věci dlužníka informovat podle § 1397 odst. 1 občanského zákoníku."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
+  > „Podle ustanovení § 1397 odst. 1 o. z. kdo zadržel cizí věc, vyrozumí dlužníka o jejím zadržení a jeho důvodu."
 
 ### § 1398 — Přednostní uspokojení
 
@@ -1527,7 +1608,9 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2345/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/696134BBE2F97E9AC1258C230052ACD6?openDocument) — *Zadržovací právo Zástavní právo Nepřípustnost dovolání*
+  > „2022 pak srov. obecné ustanovení § 52 odst. 1 exekučního řádu), § 1398 o. z.]."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
+  > „Podle ustanovení § 1398 o. z. věřiteli, který zajistil svou pohledávku zadržovacím právem, náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním."
 
 ### § 1399 — Zánik
 
@@ -1544,7 +1627,9 @@ Lze zajistit **jakýkoliv dluh**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2976/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/04A4D9424772E601C1258B0A004D07B1?openDocument) — *Zadržovací právo Jistota Úschova Břemeno důkazní*
+  > „Z uvedeného zcela jasně vyplývá, že výklad a aplikace ustanovení § 1399 občanského zákoníku musí být v souladu s dobrými mravy, jakož i principem poctivosti a zákazem zneužití práva."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
+  > „Podle ustanovení § 1399 o. z. zadržovací právo zaniká a) zánikem zajištěného dluhu nebo zadržené věci, b) vzdá-li se věřitel zadržovacího práva jednostranně či ujednáním s vlastníkem zadržené věci, c) dostane-li se věc trvale z moci věřitele, nebo d) dá-li se věřiteli dostatečná jistota."
 
 ---
 

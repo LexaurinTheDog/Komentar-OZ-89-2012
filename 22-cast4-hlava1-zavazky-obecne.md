@@ -41,14 +41,22 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1765/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44BC156B78888AA2C1258C180052DBEB?openDocument) — *Zastavení exekuce Zánik závazku*
+  > „Pohledávka ve smyslu § 1721 o. z. představuje právo věřitele na určité plnění."
 - *NS* [27 ICdo 103/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2DE30299CEE41C81C12589FD002D332D?openDocument) — *Cenný papír na řad [ Cenné papíry ] Pohledávka Postoupení pohledávky Neúčinnost právního…*
+  > „S dluhopisem je tedy spojeno právo věřitele (majitele dluhopisu) vůči dlužníku (emitentovi dluhopisu) na určité plnění – pohledávka (§ 1721 zákona č. 89/2012 Sb., občanského zákoníku; dále též jen „o. z.“)."
 - *NS* [21 Cdo 2061/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3309C001284EF5AC1258848002C0F1E?openDocument) — *Právní jednání (o. z.) Pracovněprávní vztahy*
+  > „Na postup při uzavírání pracovněprávních smluv se tak užijí pravidla obsažená v zákoně č. 89/2012 Sb., občanský zákoník, zejména potom ustanovení části první, hlavy V., § 545 a násl. a části čtvrté, hlavy I., § 1721 a násl. Smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [33 Cdo 156/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D8E45712CFF60F0C12584CF001E5670?openDocument) — *Započtení pohledávky Přechodná (intertemporální) ustanovení*
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
+  > „Uvedená definice, jak vyplývá i z důvodové zprávy k zákonu č. 89/2012 Sb., občanskému zákoníku, nebyla zcela přesná, neboť poněkud směšovala pojmový obsah slov dlužník, věřitel, právo, povinnost, pohledávka, dluh, závazek, smlouva; nová, obsahově totožná, definice v ustanovení § 1721 o. z."
 - *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
+  > „§ 1721 (o. z.) Ze závazku má věřitel vůči dlužníku právo na určité plnění jako na pohledávku a dlužník má povinnost toto právo splněním dluhu uspokojit."
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+  > „Podle ustanovení § 1721 o. z. ze závazku má věřitel vůči dlužníku právo na určité plnění jako na pohledávku a dlužník má povinnost toto právo splněním dluhu uspokojit."
 - *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+  > „Dovolací soud k otázkám vztahujícím se k pohledávce majitele účtu potvrzeného vkladní knížkou vůči tomu, kdo vede účet (výstavci vkladní knížky), a k povaze vkladní knížky na jméno opakuje to, co uvedl v předcházejícím rozhodnutí, což Ústavní soud nezpochybnil: „… soudní praxe dovodila, že relativní majetková práva upravená v části IV."
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+  > „K otázkám vztahujícím se k pohledávce majitele účtu potvrzeného vkladní knížkou vůči tomu, kdo vede účet (výstavci vkladní knížky), a k povaze vkladní knížky na jméno soudní praxe dovodila, že relativní majetková práva upravená v části IV."
 
 ### § 1722 — Obsah závazku
 
@@ -61,7 +69,9 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3447/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27DBDCFE23A7BD24C1258B8E004D41A1?openDocument) — *Smlouva příkazní Odpovědnost za vady*
+  > „Podle § 1722 o. z. plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový."
 - *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
+  > „§ 1722 (o. z.) Plnění, které je předmětem závazku, musí být majetkové povahy a odpovídat zájmu věřitele, i když tento zájem není jen majetkový."
 
 ### § 1723 — Vznik závazku
 
@@ -75,7 +85,9 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3268/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6769B314DDF893D2C125870B001883EB?openDocument) — 14. 4. 2021
+  > „2013; § 1723 zákona č. 89/2012 Sb., občanský zákoník, dále též jen „o. z.“ – jde-li o plnění poskytnuté od 1."
 - *NS* [33 Cdo 1261/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD7D6782477841CDC1258A100016179C?openDocument) — *Úplata za plnění (o. z.)*
+  > „Podle § 1723 odst. 1 o. z. závazek vzniká ze smlouvy, z protiprávního činu, nebo z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá."
 
 ---
 
@@ -92,9 +104,13 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 352/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C345A1A587029D7C1258D860052994B?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Právní jednání (o. z.)*
+  > „Podle § 1724 o. z. smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy (odst."
 - *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+  > „Podle § 1724 odst. 1 o. z. platí, že smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy."
 - *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
+  > „Podle § 1724 odst. 1 o. z. smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy."
 - *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
+  > „Smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy (§ 1724 odst. 1 o. z.)."
 
 ### § 1725 — Vznik smlouvy
 
@@ -113,11 +129,17 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3247/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E594226E796D8FD8C12589F80018524E?openDocument) — *Smlouva kupní Převzetí dluhu*
+  > „Podle § 1725 o. z. je smlouva uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [21 Cdo 1528/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177602E7DFAB5408C12584CC00364263?openDocument) — *Výpověď z pracovního poměru Pracovní poměr Povinnosti zaměstnavatelů Smlouva*
+  > „Podle ustanovení § 1725 o. z. smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+  > „Podle § 1725 o. z. platí, že smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [33 Cdo 1584/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23CCAB8A359CA552C125876D0018A05E?openDocument) — *Smlouva Smlouva o smlouvě budoucí Nabídka (návrh na uzavření smlouvy) (o. z.)*
+  > „Smlouva vzniká v okamžiku, kdy se strany dohodnou na jejím obsahu (§ 1725 o. z.)."
 - *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
+  > „Podle § 1725 o. z. smlouva je uzavřena, jakmile si strany ujednaly její obsah."
 - *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
+  > „V mezích právního řádu je stranám ponecháno na vůli svobodně si smlouvu ujednat a určit její obsah (§ 1725 o. z.)."
 
 ### § 1726—1729 — Předsmluvní fáze
 
@@ -232,14 +254,22 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 3791/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1A9E13F4FDB2EE3C1258C4C0052AF7A?openDocument) — *Mzda (a jiné obdobné příjmy) Odměna Smlouva Zastoupení Vady řízení*
+  > „Uzavření (vznik) smlouvy v pracovněprávních vztazích, které se řídí ustanoveními § 1731–1745 o. z. (neujednají-li si strany pro uzavření smlouvy jiný postup – srov. § 1770 o. z.), předpokládá podání návrhu (nabídky – oferty) a přijetí návrhu (akceptaci)."
 - *NS* [33 Cdo 3951/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/743F64AA676D8458C1258255002B9E1C?openDocument) — 23. 1. 2018
 - *NS* [21 Cdo 3066/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C9B16A2F922CED9C12582B1003C7D2D?openDocument) — *Katastr nemovitostí Vklad do katastru nemovitostí*
+  > „Dospěl k závěru, že „osoba, která podepsala nabídku není dostatečně určitě identifikována“, že „z nabídky nevyplývá zřejmý úmysl uzavřít určitou smlouvu ve smyslu § 1731 OZ ve spojení s § 545 OZ a neplyne z ní vůle být takovouto smlouvou vázán, bude-li nabídka přijata ve smyslu § 1732 (1) OZ“, že „není zřejmé, …"
 - *NS* [24 Cdo 1749/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8232F75FC541ECBC125864B001DE13C?openDocument) — *Rozhodčí doložka Ochrana spotřebitele Lichva (o. z.) Neplatnost právního jednání (o. z.)…*
+  > „Je tedy zjevné, že nebyla věnována patřičná pozornost otázce uzavření této smlouvy, tj. zda v daném případě byly naplněny podmínky předvídané v § 1731 a násl. o."
 - *NS* [24 Cdo 1090/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44C8319D45CFC752C125861E0041D583?openDocument) — 4. 8. 2020
+  > „Nejvyšší soud předně vytkl odvolacímu soudu, že nevěnoval patřičnou pozornost otázce uzavření předmětné (první) kupní smlouvy, tj. zda v daném případě byly naplněny podmínky předvídané v § 1731 a násl. o."
 - *NS* [23 Cdo 1076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8FEDAA9AF4DBDF64C12589A30018BDAC?openDocument) — *Nabídka (návrh na uzavření smlouvy) (o. z.) Právní jednání (o. z.)*
+  > „Podle § 1731 o. z., platí, že z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí."
 - *NS* [24 Cdo 2068/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C06677C7FD402631C12587C8001E4BCC?openDocument) — *Žaloba určovací Zajištění závazku převodem práva Závazkové vztahy občanskoprávní Nabídka…*
+  > „Dovolací soud vytkl mj. oběma soudům, že nevěnovaly patřičnou pozornost otázce uzavření předmětné smlouvy o zajišťovacím převodu, tj. zda v daném případě byly naplněny podmínky předvídané v § 1731 a násl. o."
 - *NS* [33 Cdo 2550/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2853B5D097F243ADC1258C0300529DE5?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o zájezdu (o. z.)*
+  > „Podle § 1731 o. z. z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí."
 - *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
+  > „Z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí (§ 1731 o. z.)."
 
 ### § 1734—1739 — Přijetí nabídky
 
@@ -277,8 +307,11 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 - *NS* [24 Cdo 2673/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5A6CA7F04866E3AC12587C1001E88DE?openDocument) — *Přípustnost dovolání Žaloba určovací Nabídka (návrh na uzavření smlouvy) (o. z.)*
 - *NS* [21 Cdo 1528/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/177602E7DFAB5408C12584CC00364263?openDocument) — *Výpověď z pracovního poměru Pracovní poměr Povinnosti zaměstnavatelů Smlouva*
+  > „Podle ustanovení § 1734 o. z. nabídka učiněná ústně musí být přijata bezodkladně, ledaže něco jiného plyne z jejího obsahu nebo z okolností, za nichž se stala."
 - *NS* [24 Cdo 2779/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08FF091038562E4EC12586AE00185019?openDocument) — *Převodní smlouva Vlastnictví Smlouva kupní Neplatnost právního jednání (o. z.)*
+  > „Odvolací soud tedy v daném případě přistoupil k aplikaci § 1734 o. z., který stanoví: „Nabídka učiněná ústně musí být přijata bezodkladně, ledaže něco jiného plyne z jejího obsahu nebo z okolností, za nichž se stala."
 - *NS* [33 Cdo 1346/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B23E0056E0E3396C1258CC3004D35AB?openDocument) — *Vady řízení Právní jednání (o. z.) Kontraktace Započtení pohledávky*
+  > „Nabídka učiněná ústně musí být přijata bezodkladně, ledaže něco jiného plyne z jejího obsahu nebo z okolností, za nichž se stala (§ 1734 věta první o. z.)."
 
 ### § 1746—1755 — Smlouva o smlouvě budoucí
 
@@ -334,12 +367,17 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 - *NS* [23 Cdo 2151/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54C64D05277B5B81C1258BCB0052C66F?openDocument) — *Přípustnost dovolání Rozhodčí doložka Smlouva*
 - *NS* [28 Cdo 2500/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87A43569032244E1C1258BC0004D18B0?openDocument) — *Přípustnost dovolání Vady podání Smlouva nepojmenovaná (inominátní)*
 - *NS* [33 Cdo 416/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F11D504E556E5BAC12588570019831F?openDocument) — *Leasing Přípustnost dovolání*
+  > „Na podkladě těchto zjištění odvolací soud posoudil účastníky uzavřenou smlouvu jako tzv. smlouvu nepojmenovanou podle § 1746 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [33 Cdo 3279/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42A0F5758A140A60C125867C001E2082?openDocument) — *Přípustnost dovolání Zajištění dluhu (o. z.)*
 - *NS* [33 Cdo 2608/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A53F8838AE4A437C12582E800317F3B?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Podle § 1746 odst. 1 o. z. zákonná ustanovení upravující jednotlivé typy smluv se použijí na smlouvy, jejichž obsah zahrnuje podstatné náležitosti smlouvy stanovené v základním ustanovení pro každou z těchto smluv."
 - *NS* [25 Cdo 3383/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16F1AA04D80FCE7AC1258D840052B0AC?openDocument) — *Smlouva Pojištění Pojištění majetku*
 - *NS* [33 Cdo 1261/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD7D6782477841CDC1258A100016179C?openDocument) — *Úplata za plnění (o. z.)*
+  > „Podle § 1746 odst. 1 o. z. zákonná ustanovení upravující jednotlivé typy smluv se použijí na smlouvy, jejichž obsah zahrnuje podstatné náležitosti smlouvy stanovené v základním ustanovení pro každou z těchto smluv."
 - *NS* [33 Cdo 2123/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/814A50DBB833E810C12589A20017F8AC?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva nepojmenovaná (inomin…*
+  > „2022, č. j. 62 Co 27/2022-314, Městský soud v Praze rozhodnutí soudu prvního stupně potvrdil a žalovaným přiznal na náhradě nákladů odvolacího řízení 23.726 Kč. Podle odvolacího soudu jsou ujednání článku IV písm. c/ posledního odstavce věty za středníkem a poslední věty v rozporu s ujednáními článku III písm. e/ a d/ smlouvy o studiu (§ 1746 odst."
 - *NS* [33 Cdo 2380/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/187E2C2C5F9880D0C125886C00192995?openDocument) — *Spotřebitel Smluvní pokuta Smlouva o půjčce Smlouva spotřebitelská*
+  > „2014, nepodléhá režimu zákona č. 145/2010 Sb., o spotřebitelském úvěru a o změně některých zákonů, ve znění zákona č. 43/2013 Sb. (dále jen „zákon č. 145/2010 Sb.“), nejde o zápůjčku (§ 2390 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen „o."
 
 ---
 
@@ -435,7 +473,9 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 - *NS* [33 Cdo 2730/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA268F77DA0738A7C1258CFF004D3E69?openDocument) — *Dokazování Spotřebitel Poučovací povinnost soudu Právo na spravedlivé soudní řízení*
 - *NS* [25 Cdo 2977/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F4D59A261F35C31C1258D5B0052A546?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Pojištění Pojištění odpovědno…*
+  > „V případě smlouvy ve prospěch třetího ve smyslu § 1767 o. z. má význam pouze povaha smluvních stran, charakter třetí osoby je nerozhodný (viz komentář k § 1810 o. z., Hulmák, M. a kol. Občanský zákoník I, Komentář."
 - *NS* [29 ICdo 193/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED726928562A4084C1258D400052D2B8?openDocument) — *Spotřebitel Smlouva o úvěru Smlouva o půjčce Námitky Směnka Dokazování*
+  > „Odvolací soud – odkazuje na § 198 odst. 1 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona), § 1 věty druhé, § 2 písm. c), § 9 odst. 1 a § 18 odst. 1 zákona č. 145/2010 Sb., o spotřebitelském úvěru (ve znění účinném k datu uzavření smlouvy o půjčce a vystavení směnky), a § 588 a § 1810 zákona č."
 - *NS* [25 Cdo 2804/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F64446B4522AA05C1258C230052ACDB?openDocument) — *Náhrada škody Náhrada nemajetkové újmy (o. z.) Výklad právních jednání (o. z.) [ Právní…*
 - *NS* [33 Cdo 1767/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9EE89584A4276ECDC12585FD0018B212?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [20 Cdo 2764/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C726B862C07FCDC7C12584000017E510?openDocument) — *Exekuce Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
@@ -520,14 +560,23 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2380/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C0957175BB57862C1258DD3004D1FA5?openDocument) — *Přípustnost dovolání Smlouva o ubytování*
+  > „1993 a § 1813 odst. 1 o. z."
 - *NS* [33 Cdo 389/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AD847C34C33BAA9C1258C150052AF7C?openDocument) — *Spotřebitel Smlouva o zájezdu (o. z.)*
+  > „Podle § 1813 zákona č. 89/2012 Sb., občanského zákoníku, ve znění k datu sjednání smlouvy uzavřené mezi účastnicemi (dále jen jako „o. z.“), m á se za to, že zakázaná jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele."
 - *NS* [33 ICdo 67/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/819753C356CCC7DAC1258B70004D47E3?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Smlouva o úvěru Spotřebitel*
+  > „Podle § 1813 o. z. jsou zakázaná ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele."
 - *NS* [33 Cdo 2355/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B29DDD74CE26D52BC12587C6001E4826?openDocument) — 26. 10. 2021
+  > „Podle § 1813 o. z. se má za to, že zakázaná jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele."
 - *NS* [33 ICdo 77/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5443C421AD7AB09BC12587AE001E7E61?openDocument) — *Smlouva spotřebitelská*
+  > „Předestřenou argumentací napadá právní závěr odvolacího soudu, který shodně s insolvenčním soudem konstatoval, že „žádná zakázaná smluvní ujednání ve smyslu § 1813 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“) nebyla v případě ani jedné ze smluv o zápůjčce v řízení zjištěna“."
 - *NS* [33 Cdo 3502/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/094550B479895964C1258DAF0052C04D?openDocument) — *Spotřebitel Moderační právo soudu Smluvní pokuta*
+  > „2020 je zneužívající ve smyslu ustanovení § 1813 odst. 1 o. z., neboť zakládá v rozporu s požadavkem poctivosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele, nemohly takovou situaci řešit za použití § 2051 o. z. (tedy nepřiměřeně vysokou smluvní pokutu na návrh dlužníka snížit), nýbrž by musely aplikovat § 1815 o. z."
 - *NS* [33 Cdo 625/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2BCD395FFBBA9A5C1258B84004D3F82?openDocument) — *Smluvní pokuta Spotřebitel*
+  > „Podle § 1813 věty první o. z. se má za to, že zakázaná jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele."
 - *NS* [26 Cdo 533/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C3B9D501715912BC1258AD6001B86F6?openDocument) — *Lichva (o. z.)*
+  > „Za významnou nerovnováhu práv a povinností v její neprospěch ve smyslu § 1813 o. z. považovala nepoměr hodnoty bytu a výši dluhu (k němuž přistoupila a k jehož zajištění uzavřela smlouvu o převodu družstevního podílu)."
 - *NS* [33 Cdo 2380/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/187E2C2C5F9880D0C125886C00192995?openDocument) — *Spotřebitel Smluvní pokuta Smlouva o půjčce Smlouva spotřebitelská*
+  > „Podle § 1813 o. z. se má za to, že zakázaná jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele."
 
 ### § 1819—1822 — Informační povinnost
 
@@ -624,9 +673,13 @@ Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 558/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD0950E128AE5EB1C1258BE80052D971?openDocument) — *Spotřebitel Odstoupení od smlouvy Výpověď smlouvy Ochrana spotřebitele*
+  > „Podle § 1829 odst. 1 o. z. může spotřebitel odstoupit od smlouvy uzavřené distančním způsobem nebo od smlouvy uzavřené mimo obchodní prostory ve lhůtě čtrnácti dnů."
 - *NS* [33 Cdo 1217/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F688019F84229772C12586C80016084A?openDocument) — *Spotřebitel Smlouva spotřebitelská Odstoupení od smlouvy Směrnice EU Výklad právních pře…*
+  > „Jestliže však byl spotřebitel poučen o právu odstoupit od smlouvy v této lhůtě, běží čtrnáctidenní lhůta pro odstoupení ode dne, kdy spotřebitel poučení obdržel (§ 1829 odst. 2 o. z.)."
 - *NS* [33 Cdo 79/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E215B485F8BEDBFC1258C350052B28B?openDocument) — *Odstoupení od smlouvy Poctivost (o. z.) Spotřebitel*
+  > „Podle § 1829 odst. 1 o. z. spotřebitel má právo odstoupit od smlouvy ve lhůtě čtrnácti dnů."
 - *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
+  > „Podle § 1829 o. z. může spotřebitel odstoupit od smlouvy uzavřené distančním způsobem nebo od smlouvy uzavřené mimo obchodní prostory ve lhůtě čtrnácti dnů."
 
 ### § 1837 — Výjimky z práva odstoupit
 
@@ -667,7 +720,9 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 79/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E215B485F8BEDBFC1258C350052B28B?openDocument) — *Odstoupení od smlouvy Poctivost (o. z.) Spotřebitel*
+  > „Podle § 1837 písm. a) o. z. spotřebitel nemůže odstoupit od smlouvy o poskytování služeb, jestliže byly splněny s jeho předchozím výslovným souhlasem před uplynutím lhůty pro odstoupení od smlouvy a podnikatel před uzavřením smlouvy sdělil spotřebiteli, že v takovém případě nemá právo na odstoupení od smlouvy."
 - *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
+  > „Ačkoli tak dosud nedovodil jednoznačně ve své rozhodovací praxi Nejvyšší soud, dospívá k takovému závěru komentářová literatura, podle níž úprava § 1837 o. z. se nikterak nedotýká odpovědnosti, kterou spotřebitel bude moci uplatnit, jestliže bude mít např. plnění vady (k tomu viz Pelikán, R., Pelikánová, I. Komentář k § 1837."
 
 ### Oddíl 3 — Vady spotřebitelského zboží (§ 1852—1867)
 
@@ -756,13 +811,20 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2879/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2879-14_1) — usnesení, 7. 10. 2014
+  > „Dříve platná právní úprava v občanském zákoníku totiž koncipovala dohodu o narovnání (§ 585 a násl.) jako dohodu, která ruší závazek tím způsobem, že jej nahrazuje závazkem jiným a z této koncepce vychází ostatně i nynější právní úprava obsažená v ustanovení § 1872 zákona č. 89/2012 Sb., občanský zákoník."
 - *NS* [27 Cdo 1605/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6527318390CDAFFC1258B44004D4618?openDocument) — *Společnost s ručením omezeným Společník Jednání ve shodě Ovládání Solidarita dlužníků*
+  > „Podle § 1872 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), je-li několik dlužníků zavázáno plnit společně a nerozdílně, jsou povinni plnit jeden za všechny a všichni za jednoho."
 - *NS* [29 Cdo 3005/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/865EB9556A046ACAC1258A79001B857F?openDocument) — *Insolvenční řízení Solidarita věřitelů Majetková podstata*
 - *NS* [33 Cdo 2622/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/685E518142CA96AAC1258906001F891B?openDocument) — *Splnění dluhu*
+  > „Oproti soudu prvního stupně s odkazem na § 1872 odst. 1 a § 1879 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), jakož i na usnesení Nejvyššího soudu ze dne 19."
 - *NS* [33 Cdo 867/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9D89AD83F9347CDC1258A97001B944B?openDocument) — *Solidarita dlužníků Nepřípustnost dovolání subjektivní [ Nepřípustnost dovolání ] Vady p…*
+  > „Věřitel může požadovat celé plnění nebo jeho libovolnou část na všech spoludlužnících, jen na některých, nebo na kterémkoli ze spoludlužníků (§ 1872 odst. 1 o. z.)."
 - *NS* [33 Cdo 3167/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E113008C94647C29C1258A10001617A7?openDocument) — *Rozsudek pro uznání Odpovědnost za vady Solidarita dlužníků*
+  > „Podle § 1872 odst. 1 o. z. je-li několik dlužníků zavázáno plnit společně a nerozdílně, jsou povinni plnit jeden za všechny a všichni za jednoho."
 - *NS* [28 Cdo 1346/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94EB63BBA85E2AF6C125874D0018678C?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení Společné závazky*
+  > „Konstatoval, že žalovaný byl solidárně zavázaným dlužníkem, a tudíž je v souladu s ustanovením § 1872 odst. 1 o. z. nerozhodné, zda shora označený úvěr čerpala K. K.."
 - *NS* [32 Cdo 2011/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D1B683FBB2D98BAC125864E001DD431?openDocument) — *Přípustnost dovolání Solidarita škůdců*
+  > „Solidární odpovědnost je upravena v § 1872 odst. 1 o. z.: Je-li několik dlužníků zavázáno plnit společně a nerozdílně, jsou povinni plnit jeden za všechny a všichni za jednoho."
 - *NS* [20 Cdo 953/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1AB0580E30E04BAC125837400220D68?openDocument) — *Zastavení exekuce Výživné Započtení pohledávky*
 
 ---
@@ -823,14 +885,23 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A209820D4C1A03BC1258B9B004D6D3D?openDocument) — *Zánik závazku Odstoupení od smlouvy Smlouva kupní Smlouva nepojmenovaná (inominátní) Pří…*
+  > „§ 1908 (Splnění dluhu), In: HULMÁK, Milan a kol. Občanský zákoník V. Závazkové právo."
 - *NS* [33 ICdo 154/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0AD879FC39A98938C1258A0B00160D6A?openDocument) — *Spotřebitel Smlouva o úvěru Změna závazku Insolvenční řízení Incidenční spory (odporové…*
+  > „Zánik závazku je pak třeba odlišit od změny závazku tak, že o změnu obsahu závazku se jedná tehdy, pokud se strany dohodnou na snížení dluhu o určitou částku (nová právní skutečnost tu nepřistupuje k původní tak, že by spolu s ní byla důvodem dále existujícího závazku, nýbrž tak, že zbavuje dřívější právní skutečnosti částečně jejich účinků; srov."
 - *NS* [28 Cdo 2829/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4104122DE4F791D7C12587FD001B8AE5?openDocument) — *Splnění dluhu Započtení pohledávky*
+  > „Podle § 1908 odst. 1 o. z., splněním dluhu závazek zaniká."
 - *NS* [29 ICdo 118/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/857C84CC391BEFB0C12587D6001BE157?openDocument) — *Incidenční spory (žaloba odpůrčí) Splnění dluhu Smlouva kupní*
+  > „Osoba, která podle pokynu dlužníka plní svůj dluh vůči němu tak, že dlužnou částku poukáže (na splnění dluhu) věřiteli dlužníka, tím jednak reálně splní svůj dluh (§ 1908 odst. 1 o. z.), jednak (současně) vystupuje jako „jiná osoba“, pomocí které plní dlužník svůj vlastní dluh (§ 1908 odst. 1 a § 1935 o. z.)."
 - *NS* [29 ICdo 15/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3F0BDE9C5C8CB3BC1258DB00052C078?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Incidenční spory (žaloba odpůrčí)*
+  > „§ 1908 (o. z.) (1) Splněním dluhu závazek zaniká."
 - *NS* [29 Cdo 2797/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D6CEC11C7093BA5C12587D9001B86B6?openDocument) — *Advokacie Povinnost mlčenlivosti Konkurs Majetková podstata Splnění dluhu Náhrada za ztr…*
+  > „985) ani v judikatuře (srov. např. rozsudek Nejvyššího soudu ze dne 31. července 2017, sp. zn. 29 Cdo 4564/2015, uveřejněný v časopise Soudní judikatura, číslo 9, ročníku 2018, pod číslem 119) přitom není pochyb o tom, že § 249 odst. 2 o. z."
 - *NS* [29 ICdo 16/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9E596A931BB408EC125883C0017CB89?openDocument) — *Incidenční spory Právní jednání (o. z.) Smlouva o úvěru Majetková podstata Zástavní právo*
+  > „Odvolací soud – cituje ustanovení § 235, § 237 a § 241 insolvenčního zákona a ustanovení § 545, § 1908, § 1935 a § 1936 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.), a odkazuje na skutková zjištění insolvenčního soudu ̶ vyšel z toho, že v poměrech dané věci dlužník prostřednictvím D. N."
 - *NS* [33 Cdo 4288/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE427A8D593B5FE8C12587D5001C02B6?openDocument) — *Smlouva nepojmenovaná (inominátní) Odstoupení od smlouvy Smlouva kupní*
+  > „Závazek zanikl splněním (§ 1908 odst. 1 o. z.), neboť stranami smlouvy bylo vykonáno vše, k čemu se zavázaly, a rezervační smlouva tak pozbyla právních účinků (práva a povinnosti z ní zanikly)."
 - *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — *Incidenční spory (žaloba odpůrčí) Úmysl Osoba blízká Jednání právnických osob Neplatnost…*
+  > „§ 3028 odst. 1 o. z.); srov. tedy co do vzniku smlouvy o zápůjčce coby reálného kontraktu § 2390 o. z. a co do právního jednání, jímž dlužník zápůjčku splatil, § 1908 odst. 1 o. z. 81."
 
 ### 1) Splnění (§ 1908—1949)
 
@@ -1002,14 +1073,23 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2798/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0FEF6C50472C4F93C1258BC0004D192A?openDocument) — *Zajištění závazku převodem práva*
+  > „Vzhledem k tomu, že soud prvého stupně shledal platnou smlouvu o zápůjčce, dospěl k závěru, že platně byl sjednán také zajišťovací převod práva dle § 2040 o. z."
 - *NS* [23 Cdo 2939/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA1F90AC22C86CF7C1258ABA001B7E64?openDocument) — *Příslušnost soudu místní Zajištění závazku převodem práva*
+  > „Podle § 2040 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“) smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo."
 - *NS* [20 Cdo 3824/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6413C9F7D24B6A2EC12580A3003624ED?openDocument) — *Exekuce Zástavní právo*
+  > „Se zřetelem k ustanovení § 548 odst. 2, věta druhá, zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), oprávněná vlastnického práva nabyla (což ostatně stvrzuje i zápis v katastru nemovitostí) a jako vlastník je nadána plným výkonem všech práv, které z tohoto titulu vyplývají (s omezeními podle § 2040 až § 2044 o. z.)."
 - *NS* [25 Cdo 826/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B2F73BE40A156BCC1258DA30052C204?openDocument) — *Zajištění závazku převodem práva Náhrada škody Vlastnictví*
+  > „Podle § 2040 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“, smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo."
 - *NS* [29 ICdo 147/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766A222F5C654C9DC1258AD6001B86BB?openDocument) — *Incidenční spory (vylučovací žaloba) Žaloba vylučovací (excindační) Majetková podstata U…*
+  > „Podle § 2040 odst. 1 o. z. smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo."
 - *NS* [4 Tdo 168/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFA740460DE6177FC125857F001903AB?openDocument) — 25. 2. 2020
+  > „Zajišťovacím převodem práva podle § 2040 a násl. občanského zákoníku se rozumí, že dlužník nebo třetí osoba zajistí dluh tím, že věřiteli dočasně převede své právo."
 - *NS* [24 Cdo 2644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FCE8F391F301B665C125842800182779?openDocument) — *Zajištění závazku převodem práva*
+  > „Soud prvního stupně odkázal na § 2040 zákona č. 89/2012 Sb., občanský zákoník [(dále již „o. z.“) soud prvního stupně v odůvodnění svého rozsudku mylně uvedl „§ 241“, ale je zřejmé, že měl na mysli § 2040 o."
 - *NS* [29 ICdo 77/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36254E4F50C61673C12587620018A81C?openDocument) — *Incidenční spory Zajištění závazku převodem práva Akcie*
+  > „Podle ustanovení § 2040 o. z. smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo (odstavec 1)."
 - *NS* [33 Cdo 1006/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1C18B94C03C556DBC1258900001DEE6A?openDocument) — *Zajištění závazku převodem práva Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
+  > „Podle § 2040 odst. 2 o. z., smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo (odst."
 
 ### § 2045—2048 — Dohoda o srážkách ze mzdy
 
@@ -1072,11 +1152,17 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 140/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6B3E3F9DBBB00700C1258D6F005293D3?openDocument) — *Uznání dluhu Přípustnost dovolání Incidenční spory (odporové spory)*
+  > „Odvolací soud shodně s insolvenčním soudem uzavřel, že dlužník v době před zjištěním úpadku písemně (listinou datovanou 1. června 2021) uznal své závazky (jež jsou předmětem řízení v projednávané věci) vůči žalobci co do důvodu a výše ve smyslu § 2053 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)."
 - *NS* [23 Cdo 624/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1FD60845F8A7B6AC1258CF8004D26B7?openDocument) — *Přípustnost dovolání Uznání dluhu*
 - *NS* [23 Cdo 203/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B85A5B53730369C5C1258C0300529DBC?openDocument) — *Přípustnost dovolání Uznání dluhu Výklad právních jednání (o. z.) [ Právní jednání (o. z…*
+  > „Tak tomu je nepochybně v případě, když dlužník učiní písemné uznání dluhu dle § 2053 o. z. bez dalšího, neboť projevuje vůli, že dluh uznává co do důvodu i výše."
 - *NS* [33 Cdo 3210/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE76E2C02FD3DC9EC1258BAC004D2425?openDocument) — *Uznání dluhu Smlouva nepojmenovaná (inominátní) Přípustnost dovolání*
+  > „Odvolací soud po právní stránce vycházel z § 2430, § 2053 a § 2054 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“)."
 - *NS* [23 Cdo 517/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D05A95427216CAFAC1258B84004D3F40?openDocument) — *Přípustnost dovolání Uznání dluhu*
 - *NS* [23 Cdo 3661/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/766353D995C528B2C1258B39004D42E9?openDocument) — *Přípustnost dovolání Uznání dluhu*
+  > „2017 učinila „uznání dluhu ve smyslu § 2053 o. z.“, jehož obsahem je prohlášení žalované o uznání tam specifikovaných dluhů z rámcové kupní smlouvy a dílčích kupních smluv co do důvodu a výše, jež celkem činily 1 692 512,21 Kč, jímž pak odpovídaly nároky, jichž se žalobkyně v řízení domáhala."
 - *NS* [33 Cdo 2882/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F8E8D5F41EB4A04C1258B17004D4E0C?openDocument) — *Uznání dluhu*
+  > „Podle § 2053 o. z. uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá."
 - *NS* [24 Cdo 3405/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CDC7F27A0921381CC1258AC7001B880F?openDocument) — *Uznání dluhu Nepřípustnost dovolání*
 - *NS* [23 Cdo 1933/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A3CFD391F271B993C1258AD8001B8ACD?openDocument) — *Uznání dluhu Přípustnost dovolání Břemeno důkazní*
+  > „Jak vyplývá z odůvodnění napadeného rozsudku, odvolací soud v projednávané věci aplikoval § 2053 zákona č. 89/2012 Sb., občanský zákoník, na zjištěný skutkový stav s tím, že uznáním dluhu dochází k přesunu důkazního břemena na žalovaného, v jehož zájmu bylo prokázat, že uznaný dluh v době uznání ve vztahu k žalobci neexistoval (srov."

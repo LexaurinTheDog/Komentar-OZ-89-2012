@@ -51,11 +51,17 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2225/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80F0E63778128EA1C1258D420052A363?openDocument) — *Odstoupení od smlouvy Spotřebitel*
+  > „Podle § 489 o. z. věc v právním smyslu (dále jen „věc“) je vše, co je rozdílné od osoby a slouží potřebě lidí."
 - *NS* [24 Cdo 931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D9F7909D0B02ACFC1258A3600160EF8?openDocument) — *Společné jmění manželů Pozůstalost (o. z.)*
+  > „2012) jednoznačně vyplývá z ustanovení § 489 o. z. (podle něhož věcí v právním smyslu je vše, co je rozdílné od osoby a slouží potřebě lidí), resp."
 - *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+  > „V této souvislosti je třeba připomenout, že věcí v právním smyslu je – jak se uvádí v ustanovení § 489 o. z.– „vše, co je rozdílné od osoby a slouží potřebě lidí“."
 - *NS* [29 NSCR 190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04FF9315F0A89C5C1258AE6001B86AA?openDocument) — *Oddlužení (povolení, schválení) Zpeněžování Spoluvlastnictví*
+  > „§ 489 (o. z.) Věc v právním smyslu (dále jen „věc“) je vše, co je rozdílné od osoby a slouží potřebě lidí."
 - *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+  > „Dovolací soud k otázkám vztahujícím se k pohledávce majitele účtu potvrzeného vkladní knížkou vůči tomu, kdo vede účet (výstavci vkladní knížky), a k povaze vkladní knížky na jméno opakuje to, co uvedl v předcházejícím rozhodnutí, což Ústavní soud nezpochybnil: „… soudní praxe dovodila, že relativní majetková práva upravená v části IV."
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+  > „K otázkám vztahujícím se k pohledávce majitele účtu potvrzeného vkladní knížkou vůči tomu, kdo vede účet (výstavci vkladní knížky), a k povaze vkladní knížky na jméno soudní praxe dovodila, že relativní majetková práva upravená v části IV."
 
 ### § 490 — Veřejný statek
 
@@ -78,6 +84,7 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E06D15B48850E05AC12589E100182FE6?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.)*
+  > „Veřejný statek je charakterizován tím, že jde o věc určenou k veřejnému užívání (nyní § 490 zákona č. 89/2012 Sb., občanský zákoník, dále též jen „o. z.“)."
 
 ### § 491 — Plody a užitky
 
@@ -139,8 +146,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 451/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7ADA174D9152FA7C12586E500186B9C?openDocument) — *Neúměrné zkrácení (o. z.) Akcie na jméno Akcie Akcionář Cena Cena věci (o. z.) Znalecký…*
+  > „Úprava neúměrného zkrácení (§ 1793 odst. 1 o. z.) nedopadá na obchody s akciemi bez ohledu na to, zda tyto akcie byly přijaty k obchodování na některém (evropském) regulovaném trhu."
 - *NS* [27 Cdo 3702/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA8E2DBA00FAC5A3C1258BB0004D5298?openDocument) — *Neúměrné zkrácení (o. z.) Cena Dobrá víra*
+  > „Podle dovolatele totiž platí „obecný normativ, že pro obecné úvahy o cenách, a tedy o jejich ekvivalenci, platí ceny obvyklé (viz § 492 odst. 1 o. z.)."
 - *NS* [3 Tdo 826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B011C23F061A5798C12585E20018880A?openDocument) — *Jiná majetková hodnota Majetek Podvod*
+  > „Pohledávka a dluh mají vždy majetkovou povahu, musí mít svoji cenu a být penězi ocenitelné (§ 492 NOZ) [srov."
 
 ### § 493 — Lidské tělo
 
@@ -180,8 +190,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 4314/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A46D384BC55399EBC125847E00181E00?openDocument) — *Náhrada škody*
+  > „Škodou na věcech vzniklou v souvislosti s výkonem činnosti rybářské stráže podle § 18 odst. 4 zákona č. 99/2004 Sb., o rybářství, je i škoda vzniklá usmrcením nebo poraněním psa, který člena rybářské stráže při výkonu činnosti doprovázel."
 - *NS* [6 Tdo 1014/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63963819922CBC14C1257F2B00205760?openDocument) — *Cizí věc Poškození cizí věci Zvíře*
+  > „Přečin poškození cizí věci podle § 228 odst. 1 tr. zákoníku lze spáchat i na živém zvířeti. Při výkladu zákonného znaku „cizí věc“ se použije § 134 tr. zákoníku, podle něhož se ustanovení o věcech vztahují i na živá zvířata. Ustanovení § 494 zákona č. 89/2012 Sb., občanský zákoník, se zde neuplatní, neboť § 134 tr."
 - *NS* [22 Cdo 1722/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D17BDD0BFCD40D08C12584F3001E3B8F?openDocument) — *Přípustnost dovolání Živé zvíře (o. z.)*
+  > „Podle § 494 o. z. má živé zvíře zvláštní význam a hodnotu již jako smysly nadaný živý tvor."
 
 ### § 495 — Majetek a jmění
 
@@ -205,11 +218,17 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2124/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2ACD65543F2C27E6C1258AF4004C92FC?openDocument) — *Akciová společnost Valná hromada Ručení Podnik*
+  > „Ostatně čistě „materiální“ pojetí pojmu „část závodu“ pomíjí, že závod netvoří pouze majetek, ale jde o organizovaný soubor jmění (tedy majetku i dluhů; srov. § 495 o. z.)."
 - *NS* [27 Cdo 1484/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2199D78419BC1ECC1258AC9001B865B?openDocument) — *Péče řádného hospodáře Škoda*
+  > „Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř. [5] Závěr odvolacího soudu, podle něhož dlužnici nevznikla škoda (újma na jmění), neboť hodnota jmění dlužnice, jak je definuje § 495 věta druhá zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o."
 - *NS* [27 Cdo 1453/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44FEBBE60F29C380C1258CC1004D0BF3?openDocument) — *Jednatel Zadržovací právo Škoda*
+  > „[9] Nejvyšší soud je ve své judikatuře ustálen v závěru, podle něhož škodou podle § 2894 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“), je újma na jmění, tj. na souhrnu majetku a dluhů osoby ve smyslu § 495 o. z."
 - *NS* [21 Cdo 1786/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BA1EBFE508D6F84DC12583E6002E97B0?openDocument) — *Převedení na jinou práci*
+  > „Podle právní definice obsažené v ustanovení § 495 o. z. je majetkem souhrn všeho (aktiv), co osobě patří, tedy všechny majetkové hodnoty, které jsou dané osobě přičitatelné."
 - *NS* [25 Cdo 1328/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71ABBB0FD8FE14FEC12588C700194020?openDocument) — *Ochrana osobnosti Náhrada škody Procesní nástupnictví*
+  > „Domáhala-li se žalobkyně proti 2. žalovanému rovněž náhrady nemajetkové újmy v penězích, odvolací soud dovodil, že jde-li o finanční částku (zastupitelné plnění), která může být součástí pozůstalosti ve smyslu § 1475 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, (dále též jen „o. z.“), neboť jde o jmění podle § 495 o."
 - *NS* [3 Tdo 826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B011C23F061A5798C12585E20018880A?openDocument) — *Jiná majetková hodnota Majetek Podvod*
+  > „Jměním osoby se rozumí souhrn jejího majetku a jejích dluhů (§ 495 NOZ), tedy celý komplex majetkových vztahů, a tedy je škodou i vznik dluhu, což dosavadní judikatura popírala [srov."
 
 ---
 
@@ -239,8 +258,11 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04FF9315F0A89C5C1258AE6001B86AA?openDocument) — *Oddlužení (povolení, schválení) Zpeněžování Spoluvlastnictví*
+  > „Z nařízení vlády (z příkladmého výčtu obsaženého v § 1 odst. 1 písm. a/), je (tak) patrno, že jako celou „věc užívanou k zajištění bytových potřeb dlužníka a jeho rodiny“ pojmenovává z věcí v právním smyslu (§ 489 o. z.) nejen věci hmotné (§ 496 odst. 1 o."
 - *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
+  > „Ustanovení o nálezu (§ 1051 a násl. o. z.) se netýkají práv jako nehmotných věcí ve smyslu § 496 odst. 2 o. z. a užití analogie ve smyslu § 10 o. z. je vyloučeno."
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+  > „Jak bylo již zdůrazněno výše, pohledávku z účtu nelze pojmově ztratit a nalézt; ze zákona vyplývá, že je vyloučena aplikace § 1051 a násl. o. z. Vkladní knížka splňuje předpoklady, jež definují (hmotnou) věc v právním smyslu; je rozdílná od osoby a slouží potřebě lidí (§ 489, § 496 odst. 1 o. z.)."
 
 ### § 497 — Ovladatelné přírodní síly
 
@@ -292,12 +314,19 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3392/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE3133EBD40BF95AC1258C580052A253?openDocument) — *Věc Příslušenství věci Součást věci Předkupní právo Stavba, součást pozemku (superficies…*
+  > „Podle § 498 odst. 1 o. z. nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon."
 - *NS* [25 Cdo 627/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/126A7543608D8BC8C12589BC0019A49D?openDocument) — *Věc Škoda na nemovité věci (o. z.)*
+  > „Z ustanovení § 498 odst. 1 věty druhé o. z. bez větších výkladových obtíží plyne, že pokud o věci zákon (jiný právní předpis – před novelou provedenou zákonem č. 460/2016 Sb.) stanoví, že není součástí pozemku, ač je s pozemkem pevně spjata a nelze s ní manipulovat bez porušení její podstaty, je třeba tuto věc považovat za samostatnou nemovitost."
 - *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
+  > „Podle § 498 odst. 1 o. z. nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon."
 - *NS* [22 Cdo 447/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CAC9FAE34F38063C1258CA9004D1D9F?openDocument) — *Předkupní právo Předkupník, koupěchtivý (o. z.) Věc Dovolání (vady) Vady podání*
+  > „V takovém případě však není správné právní posouzení věci provedené odvolacím soudem, který aplikoval na tyto stavby příslušná ustanovení zákona č. 89/2012 Sb., občanský zákoník, (především § 498 odst. 1 o. z. a § 506 odst. 2 o. z.) – a proto dovodil, že žalobkyni předkupní právo k pozemku podle § 3061 o. z. nesvědčí."
 - *NS* [25 Cdo 3086/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4355EF71F2C805DC1258D770052C279?openDocument) — *Poučovací povinnost soudu Věc Škoda z provozní činnosti Škoda na nemovité věci (o. z.) S…*
+  > „Za současného stavu techniky a technologického vývoje lze v podstatě oddělit od zemského povrchu téměř jakoukoli věc, aniž by se poškodila (uváděn je příklad přestěhování kostela Nanebevzetí Panny Marie v Mostě); v opačném případě by byl vyloučen smysl a účel věty druhé § 498 odst. 1 o. z."
 - *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
+  > „Věcí v právním smyslu jsou tedy rovněž pohledávky (včetně pohledávek, které měl zůstavitel za svými dlužníky a které patří pozůstalosti), které jsou - z pohledu ustanovení § 496 o. z. - nehmotnými věcmi a - z pohledu ustanovení § 498 o. z. - movitými věcmi."
 - *NS* [33 Cdo 3805/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B711895E168409A4C1258A3B00160F3A?openDocument) — *Zajištění závazku převodem práva Zajištění dluhu (o. z.) Dovolací důvody*
+  > „Zajišťovací převod práva – v projednávaném případě vlastnického práva k nemovitým věcem a jejich součástem (§ 498 odst. 1, § 506 o. z.) – představuje formu zajištění (peněžitého) dluhu odpovídajícího pohledávce věřitele."
 
 ### § 499 — Zastupitelná věc
 
@@ -321,6 +350,7 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 2094/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DA0CC8535C545F3C1258DBF0052CCF1?openDocument) — *Zmírnění křivd (restituce) Zastupitelná věc (o. z.)*
+  > „Je notorietou, že umělecká díla (rovněž obrazy) jsou ve smyslu občanského práva zpravidla věcmi nezastupitelnými (§ 499 o. z.), tedy věcmi, jež lze charakterizovat konkrétními individuálními a nezaměnitelnými znaky [srov. zejména Hubková, P. In: Petrov, J. a kol. Občanský zákoník: komentář."
 
 ### § 500 — Zuživatelná věc
 
@@ -374,10 +404,15 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2456/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3D8D1006C85227CC1258A56001602F9?openDocument) — *Hromadná věc (o. z.) Přípustnost dovolání*
+  > „Podle § 501 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc."
 - *NS* [32 Cdo 3051/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81E47E6180CF3EBDC1258033003372E2?openDocument) — *Hromadná věc (o. z.)*
+  > „Svazek VI. Praha : Wolters Kluwer, 2014) se dovozuje, že hromadná věc ve smyslu § 501 o. z. není věcí v pravém smyslu slova, nýbrž fikcí, kdy se za jednu věc považují dvě či více věcí, na které se pro zjednodušení právního styku nahlíží, jako by šlo o věc jedinou."
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
+  > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 - *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+  > „Pro další úvahy Nejvyššího soudu jsou rozhodná následující ustanovení zákona č. 89/2012 Sb., občanského zákoníku, a zákona o obchodních korporacích § 501 (o. z.) Hromadná věc Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc."
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+  > „K problematice aplikace ustanovení § 501 o. z. Nejvyšší soud v rozsudku ze dne 28."
 
 ### § 502 — Obchodní závod
 
@@ -411,14 +446,23 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 55/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2677532FA9BA838C1258CF1004D38D7?openDocument) — *Insolvenční řízení Reorganizace Obchodní závod (o. z.) Konkurs Analogie legis*
+  > „Podle § 502 o. z. obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 - *NS* [22 Cdo 3166/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FCE636B06083FD6BC1258A91001B7BFD?openDocument) — *Vypořádání SJM Obchodní závod (o. z.)*
+  > „Za právní otázku, která v rozhodovací praxi dovolacího soudu dosud vyřešena nebyla, považuje dovolatelka otázku, zda v poměrech vypořádání SJM tvoří všechny věci, které náleží do obchodní společnosti v SJM účastníků, případně které z nich, rovněž obchodní závod ve smyslu § 502 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o."
 - *NS* [29 ICdo 150/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C50E780B04D2B025C1258750001899CE?openDocument) — *Obchodní závod (o. z.) Neplatnost právního jednání (o. z.)*
+  > „Současně dovodil, že dotčená nemovitost ani nesplňuje podmínky pro definici závodu či jeho podstatné části [§ 502 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“)]."
 - *NS* [33 Cdo 3033/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9553BF254CAEF28C12586E100184F73?openDocument) — *Příslušnost soudu místní Pobočka (o. z.)*
+  > „Tzv. závod podle § 502 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), představuje organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 - *NS* [29 ICdo 120/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98D20A076DFAAED7C1258C3D0052B372?openDocument) — *Incidenční spory (žaloba odpůrčí) Zástavní právo (o. z.) Obchodní závod (o. z.) Smlouva…*
+  > „Insolvenční soud – vycházeje z § 502 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“), a z § 3 odst. 1 a 2, § 235 odst. 1 a § 241 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona) – dospěl po provedeném dokazování k následujícím závěrům: 7."
 - *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
+  > „Podle § 502 o. z. obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 - *NS* [29 NSCR 96/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07E10EFA56A90387C125849A001866E2?openDocument) — *Insolvenční řízení Reorganizace Podnik Podnikatel*
+  > „Zároveň nelze hodnotit jeho úmysl v budoucnu realizovat změnu územních plánů, týkajících se jeho nemovitostí na stavební pozemky a realizovat tak zisk jako podnik (obchodní závod) ve smyslu § 502 o. z.“."
 - *NS* [29 ICdo 92/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/322EB5AED4866DCDC12588D000160399?openDocument) — 30. 6. 2022
+  > „§ 502 (o. z.) Obchodní závod Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 - *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
+  > „Pro další úvahy Nejvyššího soudu k této otázce jsou rozhodná následující ustanovení zákona č. 89/2012 Sb., občanského zákoníku: § 502 Obchodní závod Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 
 ### § 503 — Pobočka a odštěpný závod
 
@@ -441,7 +485,9 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [5 Tdo 1400/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/959A102427E2937AC12587240018621F?openDocument) — *Porušení povinnosti při správě cizího majetku Subsidiarita trestní represe Zpronevěra*
+  > „Podle bodu 1) a) nezajistil řádnou a včasnou úhradu dluhů odštěpného závodu specifikovaných ve výroku rozhodnutí, o nichž následně bylo rozhodnuto v občanském soudním řízení, jeden byl dokonce exekučně vymáhán, čímž měl zavinit vznik škody rovnající se výši nákladů těchto řízení v celkové výši nejméně 48 530,35 Kč, …"
 - *NS* [33 Cdo 2383/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E5D80BD9FFA9925C1258C4200529DC5?openDocument) — *Smlouva o koupi závodu (o. z.) [ Obchodní závod (o. z.) ]*
+  > „Podle § 503 odst. 1 o. z. je pobočka taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou."
 
 ### § 504 — Obchodní tajemství
 
@@ -475,9 +521,13 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2984/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-14_1) — usnesení, 22. 4. 2015
+  > „2014, v němž uvedla, že začerněné části listin obsahují vybrané informace ekonomického charakteru, které stěžovatelka považuje za své obchodní tajemství ve smyslu ustanovení § 504 zákona č. 89/2012 Sb., občanský zákoník (dále jen "občanský zákoník")."
 - *NS* [23 Cdo 3596/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/650045140B5091DEC125879C001E178E?openDocument) — *Obchodní tajemství*
+  > „§ 504 a § 2985 o. z., opravňují soud k uložení povinnosti, která byla žalobkyni a jejímu zástupci uložena, resp. zda lze takovou povinnost uložit podle jakéhokoli zákonného ustanovení, což je dle žalobkyně otázka, jež dosud nebyla v rozhodování dovolacího soudu vyřešena."
 - *NS* [23 Cdo 2736/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1A59DB1BCDFB628C1258CF8004D26C5?openDocument) — *Přípustnost dovolání Nekalá soutěž Obchodní tajemství*
+  > „Kromě naplnění podmínek generální klauzule nekalé soutěže odvolací soud konstatoval, že skutečnosti obsažené v předmětné dokumentaci splňují znaky obchodního tajemství podle § 504 o. z. a byla tak naplněna i speciální skutková podstata nekalé soutěže porušení obchodního tajemství ve smyslu § 2985 o. z."
 - *NS* [5 Tdo 1130/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/382F6934D973635DC12583D5001805F2?openDocument) — *Nekalá soutěž Obchodní tajemství Porušení předpisů o pravidlech hospodářské soutěže*
+  > „2015 na různých místech Jihočeského kraje neoprávněně pro sebe využil obchodní tajemství související se závodem pojišťovacího agenta, obchodní společnosti Broker Consulting, a. s., ve smyslu ustanovení § 504 (obchodní tajemství) a § 2985 (porušení obchodního tajemství) zákona č."
 
 ---
 
@@ -548,14 +598,21 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3259/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60DEB7921F0511FDC12583810021FE40?openDocument) — *Součást věci*
+  > „Je zjevné, že jak podle judikatury, tak i podle výslovného znění zákona je parkoviště samostatným předmětem právních vztahů, jen je-li stavbou; nejde-li o stavbu a tudíž o samostatný předmět občanskoprávních vztahů (věc), může jít podle okolností věci buď o součást pozemku (§ 506 odst. 1 o."
 - *NS* [22 Cdo 2675/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF834FF4FC676F4AC1258D790052DA49?openDocument) — *Součást věci Stavba Žaloba určovací Vlastnictví*
 - *NS* [22 Cdo 3392/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE3133EBD40BF95AC1258C580052A253?openDocument) — *Věc Příslušenství věci Součást věci Předkupní právo Stavba, součást pozemku (superficies…*
+  > „Podle § 506 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech (odst."
 - *NS* [22 Cdo 1072/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AF6C56D51554B22C1258B40004D42D1?openDocument) — *Žaloba určovací Vlastnictví Součást věci Stavba*
+  > „Součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech (§ 506 odst. 1 o. z.)."
 - *NS* [22 Cdo 217/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2BBD93D2038CD40AC12584D1001EC2F9?openDocument) — *Stavba neoprávněná Součást věci*
+  > „V souladu s § 1084 odst. 1 a § 506 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů („o. z.“) komerční prostory náleží žalobkyni a staly se součástí pozemků, pod kterými se nacházejí; eventuálně navrhovala odstranění podle § 1085 o. z."
 - *NS* [20 Cdo 531/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3897CB951C3B8DFAC12580AE0035FFDD?openDocument) — *Exekuce Zastavení exekuce Stavba Věc Součást věci Přechodná (intertemporální) ustanovení…*
+  > „Podle ustanovení § 506 odst. 1 o. z. je součástí pozemku prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
 - *NS* [22 Cdo 1113/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC86049E48D0537C1258D4F0052A4B7?openDocument) — *Vlastnictví Stavba Součást věci Příslušenství věci*
+  > „Podle § 506 odst. 1 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
 - *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
 - *NS* [22 Cdo 2851/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CAF3371B6CB4BD78C125815D003C5F4B?openDocument) — *Přestavek (o. z.) Vydržení*
+  > „Podle § 506 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
 
 ### § 507 — Rostlinstvo
 
@@ -574,6 +631,7 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2069/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F33CDC586C22DA01C1258B01004D3150?openDocument) — *Znalecký posudek Oceňování majetku Zemědělská půda*
+  > „Podstatné je jeho spojení s povrchem, charakter rostlinstva je naopak nerozhodný (viz komentář k § 507 in MELZER, F., TÉGL P. a kolektiv: Občanský zákoník – velký komentář."
 
 ### § 508 — Stroje s výhradou
 
@@ -613,11 +671,16 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 745/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA356E6C5EB4708BC125879F002680F9?openDocument) — *Předkupní právo*
+  > „Předkupní právo podle § 3056 odst. 1 zákona č. 89/2012 Sb., ke stavbě podle § 509 zákona č. 89/2012 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona, jakož i předkupní právo, které takto vzniklo k pozemku, na němž je tato stavba zřízena, zaniká dnem nabytí účinnosti tohoto zákona.“ (čl."
 - *NS* [22 Cdo 2675/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF834FF4FC676F4AC1258D790052DA49?openDocument) — *Součást věci Stavba Žaloba určovací Vlastnictví*
+  > „1999 je v části týkající se této nádrže neplatná pro nezpůsobilý předmět převodu, neboť se jedná o součást pozemku, nikoli o součást kanalizace jako liniové stavby ve smyslu ustanovení § 509 zákona č. 89/2012 Sb., občanský zákoník, (dále „o. z.“)."
 - *NS* [22 Cdo 1072/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AF6C56D51554B22C1258B40004D42D1?openDocument) — *Žaloba určovací Vlastnictví Součást věci Stavba*
+  > „Podle § 509 o. z. liniové stavby, zejména vodovody, kanalizace nebo energetická či jiná vedení, a jiné předměty, které ze své povahy pravidelně zasahují více pozemků, nejsou součástí pozemku."
 - *NS* [25 Cdo 627/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/126A7543608D8BC8C12589BC0019A49D?openDocument) — *Věc Škoda na nemovité věci (o. z.)*
+  > „Smyslem a účelem § 509 o. z. je pak vymezit podmnožinu tzv. superaedifikátů, kterou tvoří liniové stavby a jiné předměty, jež ze své povahy zasahují více pozemků (dříve šlo pouze o inženýrské sítě)."
 - *NS* [22 Cdo 2853/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DDF911CD06C6384C12585640019BAE1?openDocument) — *Věc Vlastnictví*
 - *NS* [25 Cdo 3086/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4355EF71F2C805DC1258D770052C279?openDocument) — *Poučovací povinnost soudu Věc Škoda z provozní činnosti Škoda na nemovité věci (o. z.) S…*
+  > „Po právní stránce soud posoudil poškozený kabel jako samostatnou nemovitou věc, neboť jde o liniovou stavbu (§ 509 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“)."
 
 ### Příslušenství věci (§ 510—513)
 

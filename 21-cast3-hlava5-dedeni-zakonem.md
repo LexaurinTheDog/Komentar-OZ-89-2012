@@ -49,14 +49,22 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2900/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D63850E58D9F88BC1258D8E0052B027?openDocument) — *Bezdůvodné obohacení Dědictví (o. z.) Nepominutelný dědic (o. z.)*
+  > „In: MELZER, Filip, TÉGL, Petr a kol. Občanský zákoník § 1475-1720."
 - *NS* [25 Cdo 121/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EFAF22603BEF283C1258AAC001B7FA3?openDocument) — *Ochrana osobnosti Přípustnost dovolání*
+  > „Byť jde o právo vázané výlučně na osobu zůstavitele, s ohledem na jeho uplatnění u soudu přešlo podle § 1475 odst. 2 o. z. na dědice, tedy žalobce."
 - *NS* [30 Cdo 89/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EA53C7BBCDF187F3C125816B003C2CC6?openDocument) — *Odpovědnost státu za škodu Nemajetková újma (o. z.) Exekuce*
 - *NS* [24 Cdo 2512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66658A476CEDFE4EC1258BD90052AD07?openDocument) — *Smlouva kupní Pozůstalost (o. z.) Aktiva Převod nemovitostí Závěť*
+  > „Podle ustanovení § 1475 odst. 2 o. z. pozůstalost tvoří celé jmění zůstavitele, kromě práv a povinností vázaných výlučně na jeho osobu, ledaže byly jako dluh uznány nebo uplatněny u orgánu veřejné moci."
 - *NS* [25 Cdo 1630/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/976E863FFA729E8DC1258ADD0026A09E?openDocument) — *Dědic zákonný Nemajetková újma (o. z.) Odpovědnost za škodu způsobenou provozem dopravní…*
+  > „Okolnost, že poškozený, který utrpěl újmu na zdraví, uplatnil žalobou u soudu nárok na náhradu za ztížení společenského uplatnění, popřípadě na pojistné plnění na tuto náhradu, krátce poté zemřel a nárok přešel na jeho dědice, není důvodem ke snížení náhrady."
 - *NS* [27 Cdo 1339/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C541C3765547B19AC1258AC6001B8745?openDocument) — *Obecně prospěšná společnost Právní nástupnictví Dědické právo (právo na pozůstalost) (o.…*
+  > „Práva a povinnosti zakladatele jsou „čistě osobními právy, která v rámci dědictví nepřecházejí na dědice, jelikož se nejedná o součást jmění“ ve smyslu § 1475 zákon č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“)."
 - *NS* [25 Cdo 2983/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8E9E2A0377C5FE54C1258800001B8AFF?openDocument) — *Ochrana osobnosti Náhrada škody Dědění*
+  > „2014, přijetím § 1475 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, účinného od 1."
 - *NS* [25 Cdo 3402/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EB26E65F84A5470C125870B00463D3D?openDocument) — *Procesní nástupnictví*
+  > „Ač jsou předmětná uplatňovaná práva vázána na osobu zůstavitele, s ohledem na jejich uplatnění u orgánu veřejné moci (soudu) za života zůstavitele, patří v souladu s § 1475 odst. 2 ve spojení s § 3069 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), do pozůstalosti zůstavitele (k tomu viz též usnesení Nejvyššího soudu ze dne 27."
 - *NS* [25 Cdo 4873/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8CBA20B83AD7337DC12583F30017E03C?openDocument) — *Promlčení Způsobilost být účastníkem řízení Dědění Bolestné*
+  > „2014 poškozený, jenž utrpěl újmu na zdraví před tímto datem, stávají se součástí pozůstalosti (§ 1475 odst. 2 a § 3069 zákona č. 89/2012 Sb., občanský zákoník, účinný od 1."
 
 ### § 1476 — Dědické tituly
 
@@ -114,9 +122,13 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2655/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E2B253B54B51771BC1258D8C005285E4?openDocument) — *Dědické řízení Dědění*
+  > „In FIALA, DRÁPAL a kol: Občanský zákoník IV., 2015, s. 30 (§ 1479 ObčZ)."
 - *NS* [24 Cdo 2562/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5A15C95E8EF5E14C1258AA6001B8453?openDocument) — *Pozůstalost (o. z.) Vypořádání SJM*
+  > „Vznik dědického práva upravuje ustanovení § 1479 o. z., a to tak, že dědické právo vzniká smrtí zůstavitele."
 - *NS* [21 Cdo 382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DD17CDD69AEE31BC125880E001B7BA2?openDocument) — *Úschova Dědické řízení Dědictví (o. z.) Vlastnictví Vydržení Dobrá víra*
+  > „Dědické právo vzniká smrtí zůstavitele (§ 1479 věta první o. z.)."
 - *NS* [29 Cdo 3782/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA813B0B9712D3EDC125887E0017DA96?openDocument) — 28. 4. 2022
+  > „Dědické právo ve smyslu § 1475 o. z., jež dědici vzniká smrtí zůstavitele (§ 1479 o. z.), není právem na pozůstalost bez dalšího. Dědické právo je jen titulem k nabytí pozůstalosti, neboť zůstavitelovým dědicem se stává a dědictví nabývá jen ten, o němž to stanoví pravomocné rozhodnutí (pozůstalostního) soudu, tj."
 
 ### § 1481—1483 — Dědická nezpůsobilost
 
@@ -145,14 +157,23 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2962/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EED7CF4F3BF62FDC1258DB80052845F?openDocument) — *Dědická nezpůsobilost Břemeno důkazní Dovolací důvody Dokazování*
+  > „S poukazem na ustanovení § 1481 a § 3028 občanského zákoníku (ve znění účinném od 1."
 - *NS* [24 Cdo 2432/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C159AA6B03C0E12DC1258D6E0052C6D7?openDocument) — *Přípustnost dovolání Dědická nezpůsobilost*
+  > „Jednání, kterým byl porušen civilní závazek, případně i jednání hrubě nemravné, není způsobilé založit dědickou nezpůsobilost potencionálního dědice podle § 1481 o. z. Takovým může být pouze jednání povahy úmyslného trestného činu, které směřuje proti zůstaviteli."
 - *NS* [24 Cdo 2579/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B08455FE2C434C74C1258D540052770B?openDocument) — *Dovolací důvody Dědická nezpůsobilost*
+  > „Podle žalobkyně pak k jejímu podpisu přinutil pod nátlakem V. T., nechal podepsat S. B. a na listinu připojil i podpis vypadající jako podpis zůstavitelky, tedy dovodila, že žalovaný je ve smyslu ustanovení § 1481 o. z. osobou dědicky nezpůsobilou a je z dědického práva ze zákona vyloučen."
 - *NS* [24 Cdo 669/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF2E4A0603728325C1258C8B004D446A?openDocument) — *Dědická nezpůsobilost*
+  > „Podle § 1481 o. z."
 - *NS* [24 Cdo 565/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D449477146E6FD4C1258C6C004D396D?openDocument) — *Přípustnost dovolání Pozůstalost (o. z.) Dědická nezpůsobilost*
+  > „2021, č. j. 24 Cdo 106/2021-266 (pozn.: správně 366), podle nějž čin M. D., byť naplňuje znaky úmyslného trestného činu účasti na sebevraždě zůstavitele, není činem spáchaným proti zůstaviteli ve smyslu § 1481 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o."
 - *NS* [24 Cdo 2967/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A71A483446A70D5FC12588910017D6FD?openDocument) — *Dědická nezpůsobilost Výživné Dobré mravy*
+  > „Institut dědické nezpůsobilosti upravují ustanovení § 469 zákona č. 40/1964 Sb., dále jen „obč. zák.“ (předchozí právní úprava), a ustanovení § 1481 zákona č. 89/2012 Sb., dále jen „o. z.“ (aktuální právní úprava)."
 - *NS* [24 Cdo 106/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D278E729B22E6AA3C125873B00160418?openDocument) — *Dědická nezpůsobilost*
+  > „Pro závěr o dědické nezpůsobilosti ve smyslu ustanovení § 1481 o. z. je rozhodující, zda soud v řízení o pozůstalosti dospěje k závěru, že dědicem spáchaný čin (např. účast na sebevraždě zůstavitele podle § 144 tr."
 - *NS* [24 Cdo 4761/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2120D7D546ECEE75C1258462001847B4?openDocument) — *Dědění Vázanost rozhodnutím soudu*
+  > „Podle názoru žalobkyně se žalovaný dopustil vůči zůstavitelce „takového závažného a pro společnost neakceptovatelného chování“, které je podle § 1481 zákona č. 89/2012 Sb., občanského zákoníku, předpokladem pro vyloučení dědice z dědického práva."
 - *NS* [24 Cdo 614/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B29DECB7441C81A3C125845200183A7C?openDocument) — *Přerušení řízení Dědění Dědické právo (právo na pozůstalost) (o. z.)*
+  > „Za tohoto skutkového stavu bylo pro rozhodnutí soudů (mimo jiné) významné vyřešení otázky procesního práva, zda je třeba přerušit řízení podle ustanovení § 109 odst. 2 písm. c) o.s.ř."
 
 ### § 1484 — Zřeknutí se dědického práva (předem)
 
@@ -168,6 +189,7 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1323/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1E272A07D4AA5E2C1258CC9004D4CF1?openDocument) — *Zřeknutí se dědického práva (o. z.) Výklad právních jednání (o. z.) [ Právní jednání (o.…*
+  > „Podle ustanovení § 1484 odst. 1 o.z. dědického práva se lze předem zříci smlouvou se zůstavitelem; není-li jinak ujednáno, působí zřeknutí i proti potomkům."
 
 ### § 1485—1489 — Odmítnutí dědictví
 
@@ -206,9 +228,13 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2262/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A78F850AF1D1670EC12584B5001EA5B7?openDocument) — *Dědění*
+  > „Dědic má právo po smrti zůstavitele dědictví odmítnout (§ 1485 odst. 1 věta první zákona č. 89/2012 Sb., občanský zákoník, dále jen „o.z.“)."
 - *NS* [24 Cdo 2882/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB8608CBA4ADBF4CC1258950001E3DCF?openDocument) — *Dědění Lhůty*
+  > „Odmítá-li dědictví nepominutelný dědic, může dědictví odmítnout s výhradou povinného dílu (§ 1485 odst. 1 zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“)."
 - *NS* [24 Cdo 1375/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B016D0E3272B35EC1258B7E004D27D6?openDocument) — *Dědická nezpůsobilost*
+  > „Výslovné prominutí činu zakládajícího dědickou nezpůsobilost dědice ve smyslu ustanovení § 1481 o. z. nemusí spočívat jen v přímém slovním vyjádření zůstavitele, nýbrž je třeba je spatřovat i v jiném jednání zůstavitele, z nějž lze jednoznačně dovodit, že čin dědici odpustil."
 - *NS* [24 Cdo 2832/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/071DC1D738E8C6D0C12583B0003A6BB2?openDocument) — *Pozůstalost (o. z.) Řízení o dědictví Právní jednání (o. z.)*
+  > „P. B. následně dopisem ze dne 17.3.2017 sdělil soudní komisařce, že dědictví po zůstavitelce odmítá „ve smyslu § 1485 a násl. občanského zákoníku ve spojení s § 164 o zvláštních řízeních soudních“ s tím, že „si nepřeje být v rámci dědického řízení dědicem po zůstavitelce“ a že „toto výslovné prohlášení činí vůči soudu v zákonné lhůtě“."
 
 ### § 1490 — Vzdání se dědictví
 
@@ -263,14 +289,23 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1288/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F0B31CBE66E26FDC1258CBB004D4CD8?openDocument) — *Přípustnost dovolání Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Závěť ho…*
+  > „2016 jako holografní závěti ve smyslu ust. § 1494 odst. 1 a 2 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, je z napadeného rozhodnutí zřejmé, že odvolací soud z ustálené rozhodovací praxe dovolacího soudu (naopak) vycházel, dospěl-li (kromě již shora uvedeného) k závěru, že – v reakci na chování J."
 - *NS* [24 Cdo 750/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11342396085DE5B1C12587650018D21C?openDocument) — *Výklad projevu vůle Závěť*
+  > „V této situaci dovolatel připomíná, že před soudy obou stupňů poukazoval na současnou právní úpravu, zejména ustanovení § 1494 odst. 2 občanského zákoníku, podle kterého je třeba závěť vyložit tak, aby bylo co nejvíce vyhověno vůli zůstavitele, což je základní zásada při výkladu závěti."
 - *NS* [24 Cdo 2328/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FE556E08FEA2C64C1258D560052D3DE?openDocument) — *Závěť holografní [ Závěť ] Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Vý…*
+  > „Závěť je odvolatelný projev vůle, kterým zůstavitel pro případ své smrti osobně zůstavuje jedné nebo více osobám alespoň podíl na pozůstalosti, případně i odkaz (§ 1494 odst. 1 věta první zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“)."
 - *NS* [24 Cdo 3676/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39138BD7BE76186CC1258AF9004D0372?openDocument) — *Přípustnost dovolání Závěť Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+  > „Závěť je odvolatelný projev vůle, kterým zůstavitel pro případ své smrti osobně zůstavuje jedné nebo více osobám alespoň podíl na pozůstalosti, případně i odkaz (§ 1494 odst. 1 věta první zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“)."
 - *NS* [24 Cdo 3641/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/580D2325B3DFBF22C12588130015FE0F?openDocument) — *Závěť holografní [ Závěť ]*
+  > „K námitkám obsaženým v dovolání se sluší ve stručnosti dodat, že je v poměrech právě projednávané věci nepřípadný poukaz dovolatele na zásadu favor testamenti vtělenou do § 1494 odst. 2 zákona č. 89/2012 Sb., občanský zákon (dále jen „o."
 - *NS* [24 Cdo 803/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE8078EECF390C92C1258CAF004D1ED9?openDocument) — 29. 5. 2025
+  > „Ustanovení § 1494 odst. 2 o. z., podle něhož je třeba závěť vyložit tak, aby bylo co nejvíce vyhověno vůli zůstavitele, potřebu zjišťování a přihlížení k okolnostem, za nichž byla závěť pořízena, jen zvýraznilo."
 - *NS* [24 Cdo 2343/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F4D3B61B19F2F69C1258BD300527FEA?openDocument) — *Pozůstalost (o. z.) Závěť Dobré mravy Vydědění Účastníci řízení Dědické řízení Nepominut…*
+  > „Dle § 1494 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), závěť je odvolatelný projev vůle, kterým zůstavitel pro případ smrti osobně zůstavuje jedné či více osobám alespoň podíl na pozůstalosti, příp. i odkaz."
 - *NS* [24 Cdo 1583/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9AC99195CF038C8EC12588C30017D433?openDocument) — *Závěť Závěť holografní [ Závěť ]*
+  > „Podle ustanovení § 1494 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), závěť je odvolatelný projev vůle, kterým zůstavitel pro případ své smrti osobně zůstavuje jedné či více osobám alespoň podíl na pozůstalosti, případně i odkaz."
 - *NS* [24 Cdo 2122/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B50A2EC7847A51E4C1258934001DEC51?openDocument) — *Vedlejší doložky v závěti (o. z.) Příkaz (o. z.) [ Vedlejší doložky v závěti (o. z.) ]*
+  > „Slova použitá v závěti se vykládají podle jejich obvyklého významu, ledaže se prokáže, že si zůstavitel navykl spojovat s určitými výrazy zvláštní, sobě vlastní smysl (§ 1494 odst. 2 o. z.)."
 
 ### § 1495—1497 — Další pravidla
 
@@ -649,9 +684,11 @@
 
 - *NS* [24 Cdo 2860/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/299D285E30D8B6C6C1258D920052B56D?openDocument) — *Společná domácnost Dědické právo (právo na pozůstalost) (o. z.) Přípustnost dovolání*
 - *NS* [24 Cdo 2077/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB55C77705247DC9C1258D5D0052A916?openDocument) — *Přípustnost dovolání Pozůstalost (o. z.)*
+  > „§ 1635 odst. 1 o. z. Kategorie rozhodnutí: E Zveřejněno na webu: 11."
 - *NS* [24 Cdo 2070/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4EAAC021778A62AC1258D490052C075?openDocument) — *Přípustnost dovolání Dědické právo (právo na pozůstalost) (o. z.) Ochrana oprávněného dě…*
 - *NS* [24 Cdo 947/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/320BFAEBA49021CFC1258C9F004D1E06?openDocument) — *Přípustnost dovolání Společná domácnost*
 - *NS* [24 Cdo 116/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EED0F219A393A17C1258B38004D42E6?openDocument) — *Dědické třídy (o. z.) Dědění Zákonná dědická posloupnost k pozůstalosti (o. z.)*
+  > „§ 1635 odst. 2 o. z., podle něhož nedědí-li některé dítě, nabývají jeho dědický podíl stejným dílem jeho děti; totéž platí o vzdálenějších potomcích téhož předka)."
 - *NS* [24 Cdo 1005/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AFC16A1A3061DB89C1258B2A004D2B0B?openDocument) — *Dědění Společná domácnost Dovolací důvody*
 - *NS* [24 Cdo 307/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBBFB1ACCE8C7983C1258B0E004D374A?openDocument) — *Společná domácnost Dědění Dědic zákonný Dobré mravy*
 - *NS* [24 Cdo 3638/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F05EC26739AA0441C1258ACA001B8751?openDocument) — *Společná domácnost Dědění Dědic zákonný*
@@ -698,10 +735,15 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2836/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20D2940D1279994CC125852C001F7A51?openDocument) — *Dovolání Přípustnost dovolání Nepominutelný dědic (o. z.) Povinný díl z pozůstalosti (o.…*
+  > „§ 1642 předpisu č. 89/2012Sb."
 - *NS* [24 Cdo 3079/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C57516FC50DDE4D6C1258BEE0052C910?openDocument) — *Vydědění Nepominutelný dědic (o. z.) Povinný díl z pozůstalosti (o. z.) Nepřípustnost do…*
+  > „Podle § 1642 zákona č. 89/29012 Sb., občanský zákoník (dále jen „o. z.“), platného ke dni smrti zůstavitele, nepominutelnému dědici náleží z pozůstalosti povinný díl."
 - *NS* [24 Cdo 2468/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40E7E90036F0DAC7C1258BA9004D24DD?openDocument) — *Přípustnost dovolání Vydědění Závěť Dokazování Nepominutelný dědic (o. z.) Povinný díl z…*
+  > „Nelze totiž přehlížet, že za současné právní úpravy není „nepominutelný dědic“ vůbec dědicem zůstavitele, nemá nárok na dědický podíl, nýbrž zákon mu přiznává /nestanovil-li zůstavitel jinak nebo nebyla-li uzavřena mezi nepominutelným dědicem a dědici zůstavitele jiná dohoda/ jen obligační pohledávku vůči dědicům na vyplacení tzv."
 - *NS* [24 Cdo 2917/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C1EAE8E392A3E87C12588520017F320?openDocument) — *Žaloba určovací Pozůstalost (o. z.)*
+  > „Ve světle uvedené vady řízení se pak jeví jako zcela předčasný v odůvodnění rozsudku odvolacím soudem vyslovený názor, s odkazem na ustanovení § 1642, § 1643 a § 1654 odst. 1 o. z., že žalobkyně nemůže být úspěšná s žalobou na určení, že je vlastníkem spoluvlastnického podílu id."
 - *NS* [21 Cdo 4392/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B71AEA35883EAB9C12583210026638D?openDocument) — *Pozůstalost (o. z.) Účastníci řízení Nepominutelný dědic (o. z.) Vydědění Závěť*
+  > „Podle ustanovení § 1642 a § 1643 o.z. jsou děti zůstavitele a nedědí-li, pak jejich potomci, nepominutelnými dědici, kterým náleží z pozůstalosti povinný díl."
 
 ### Oddíl 2 — Vydědění (§ 1646—1649)
 
@@ -736,14 +778,22 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 3795/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3795-14_1) — usnesení, 19. 2. 2015
+  > „§ 1646 odst. 1 zákona č. 89/2012 Sb., občanský zákoník) je (posuzováno z hlediska této věci) prakticky stejná, takže nelze ani vyvozovat, že by došlo ve společnosti k posunu v tom smyslu, že vůli zůstavitele je třeba bezvýhradně respektovat."
 - *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — usnesení, 23. 1. 2014
+  > „§ 1646 odst. 1 zákona č. 89/2012 Sb., občanský zákoník) je - z hlediska věci nyní posuzované - velice podobná, a tudíž nelze vyvozovat, že by došlo ve společnosti k posunu v tom smyslu, že vůli zůstavitele je třeba bezvýhradně respektovat (a nikoliv ji nějak omezovat)."
 - *NS* [24 Cdo 2154/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AD6BF70F75A3551C1258BD40052AF85?openDocument) — *Vydědění*
 - *NS* [24 Cdo 1146/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED4D76C6C6250510C1258B4E004D17C8?openDocument) — *Vydědění Žaloba určovací*
+  > „Dále poukázal na skutečnost, že vydědění je podle § 1646 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o."
 - *NS* [24 Cdo 811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/52C155DB1A69A887C1258B12004D4E27?openDocument) — *Vydědění Přípustnost dovolání*
+  > „2013 (též jen „obč. zák.“), splňuje všechny formální náležitosti podle § 469a obč. zák., a že v souladu s rozhodnutím Nejvyššího soudu sp. zn. 24 Cdo 1777/2019 se důvody vydědění zabýval ke dni smrti zůstavitele, a to v souladu s ustanovením § 1646 a násl. zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“)."
 - *NS* [24 Cdo 2823/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB2CDCBCA975F4DEC1258A75001B8506?openDocument) — *Pozůstalost (o. z.) Vydědění Dědické řízení Nepominutelný dědic (o. z.)*
+  > „Touto listinou zůstavitel povolal za své dědice rovným dílem V. M. a T. M. Naopak syna P. M. zůstavitel v téže listině vydědil z důvodů uvedených v ustanovení § 1646 odst. 1 písm. a) a písm. b) zákona č. 89/29012 Sb., občanský zákoník (dále jen „o. z.“)."
 - *NS* [24 Cdo 1503/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26ADB606744096C7C12588C80017C6E0?openDocument) — *Přípustnost dovolání Vydědění*
+  > „2021, č. j. 24 Cdo 2440/2021-457, podle nějž zůstavitel nebyl v životní situaci, kdy by se ocitl bez potřebné pomoci v nouzi ve smyslu ust. § 1646 odst. 1 písm. a) zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), neboť o něj pečoval jeho syn (žalovaný)."
 - *NS* [24 Cdo 2440/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5442CBEE79C34959C12587F7001B8AA7?openDocument) — *Vydědění*
+  > „Podle ustanovení § 1646 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o.z.“), ze zákonných důvodů lze nepominutelného dědice vyděděním z jeho práva na povinný díl vyloučit, anebo jej v jeho právu zkrátit."
 - *NS* [24 Cdo 1482/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EA82DB75CB001C7C1258CE5004D343C?openDocument) — *Dědění Vydědění*
+  > „Soud prvního stupně podle § 1646 odst. 2 o. z. nicméně dovodil, že zůstavitel chtěl vydědit taktéž nenarozené děti vyděděné."
 
 ### Oddíl 3 — Ochrana nepominutelného dědice (§ 1650—1654)
 
@@ -826,6 +876,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DD17CDD69AEE31BC125880E001B7BA2?openDocument) — *Úschova Dědické řízení Dědictví (o. z.) Vlastnictví Vydržení Dobrá víra*
+  > „Soud potvrdí nabytí dědictví osobě, jejíž dědické právo bylo prokázáno (§ 1670 o. z.)."
 
 ### § 1674—1684 — Výhrada soupisu
 
@@ -917,6 +968,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 - *NS* [24 Cdo 3295/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C879340419C037BEC1258B4D004D0070?openDocument) — *Správce pozůstalosti (o. z.)*
 - *NS* [24 Cdo 111/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D1E5593780796B4C12589D10019E611?openDocument) — *Prostá správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Správce pozůstalo…*
 - *NS* [20 Cdo 387/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/472A4EF65810599CC12585FF0018A02D?openDocument) — *Výkon rozhodnutí Výhrada soupisu Právní nástupnictví*
+  > „9/ Způsob určení rozsahu vstupu povinných do řízení vychází ze skutečnosti, že dovolatelky využily práva výhrady soupisu pozůstalosti podle ustanovení § 1674 až § 1676 o. z. Ačkoli zásadně dědici odpovídají za dluhy zůstavitele bez omezení, výhrada soupisu jim umožňuje, aby odpovídali pouze do výše ceny nabytého dědictví."
 - *NS* [24 Cdo 829/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EEC0648EB9F10A24C1258D20001607B9?openDocument) — *Úschova Řízení o úschovách Pozůstalost (o. z.) Správce pozůstalosti (o. z.)*
 - *NS* [24 Cdo 1057/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8718AF25E3AB1ECC1258A86001B8505?openDocument) — *Závěra pozůstalosti (o. z.) [ Pozůstalost (o. z.) ]*
 - *NS* [28 Cdo 2243/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/452B775C2426DE13C1258A83001B8665?openDocument) — *Bezdůvodné obohacení Pozůstalost (o. z.)*
@@ -956,6 +1008,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29C15D0DB041DED5C1258C4500529B79?openDocument) — 20. 2. 2025
+  > „Zde dovolací soud sdílí názor odvolacího soudu, že „nejde o jednání zakládající dědickou nezpůsobilost“, neboť „jde o jednání předvídané § 1714 o.z.“, které – jak dovolací soud doplňuje – zůstavitel v závěti nijak nezakázal."
 
 ### § 1715—1720 — Účinky
 
