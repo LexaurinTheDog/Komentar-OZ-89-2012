@@ -196,7 +196,8 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 ### § 123 — Náležitosti zakladatelského jednání
 
-> (1) Zakladatelské právní jednání určí alespoň název, sídlo právnické osoby, předmět činnosti, jaký má právnická osoba statutární orgán a jak se vytváří... Určí též, kdo jsou první členové statutárního orgánu.
+> (1) Zakladatelské právní jednání určí alespoň název, sídlo právnické osoby, předmět činnosti, jaký má právnická osoba statutární orgán a jak se vytváří, nestanoví-li to zákon přímo. Určí též, kdo jsou první členové statutárního orgánu.
+>
 > (2) Pro zakladatelské právní jednání se vyžaduje písemná forma.
 
 **Výklad:**
@@ -503,7 +504,8 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
   - c) podpora násilí nebo
   - d) řízení orgánu veřejné moci nebo výkonu veřejné správy bez zákonného zmocnění.
 
-> (2) Zakazuje se založit právnickou osobu ozbrojenou nebo s ozbrojenými složkami, ledaže... [zákonné výjimky]
+> (2) Zakazuje se založit právnickou osobu ozbrojenou nebo s ozbrojenými složkami, ledaže se jedná o právnickou osobu zřízenou zákonem, jíž zákon ozbrojení nebo vytvoření ozbrojené složky výslovně dovoluje nebo ukládá, nebo o právnickou osobu, která nakládá se zbraněmi v souvislosti se svým podnikáním podle jiného právního předpisu, anebo o právnickou osobu, jejíž členové drží nebo užívají zbraně pro sportovní nebo kulturní účely či k myslivosti nebo k plnění úkolů podle jiného právního předpisu.
+> Veřejná prospěšnost
 
 **Výklad:**
 

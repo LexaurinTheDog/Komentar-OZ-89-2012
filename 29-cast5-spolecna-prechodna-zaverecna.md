@@ -401,16 +401,482 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 ### § 3080 — Zrušovací ustanovení
 
 > Zrušuje se:
-> 1. Zákon č. 40/1964 Sb., občanský zákoník.
-> 2. Zákon č. 131/1982 Sb., kterým se mění a doplňuje občanský zákoník a upravují některé další majetkové vztahy.
-> 3. Zákon č. 188/1988 Sb., kterým se mění a doplňuje zákoník práce.
-> 4. Zákon č. 87/1990 Sb., kterým se mění a doplňuje občanský zákoník.
-> 5. § 33 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích.
-> 6. Zákon č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník.
-> 7. Čl. I a IV zákona č. 264/1992 Sb., kterým se mění a doplňuje občanský zákoník, zrušuje zákon o státním notářství a o řízení před státním notářstvím (notářský řád) a mění a doplňují některé další zákony.
-> 8. Zákon č. 267/1994 Sb., kterým se mění a doplňuje občanský zákoník.
 >
-> *(...následuje výčet celkem 232 zrušených předpisů — pro úplný seznam viz Sbírka zákonů, částka 33/2012.)*
+>   - 1. Zákon č. 40/1964 Sb., občanský zákoník.
+>
+>   - 2. Zákon č. 131/1982 Sb., kterým se mění a doplňuje občanský zákoník a upravují některé další majetkové vztahy.
+>
+>   - 3. Zákon č. 188/1988 Sb., kterým se mění a doplňuje zákoník práce.
+>
+>   - 4. Zákon č. 87/1990 Sb., kterým se mění a doplňuje občanský zákoník.
+>
+>   - 5. § 33 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích.
+>
+>   - 6. Zákon č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník.
+>
+>   - 7. Čl. I a IV zákona č. 264/1992 Sb., kterým se mění a doplňuje občanský zákoník, zrušuje zákon o státním notářství a o řízení před státním notářstvím (notářský řád) a mění a doplňují některé další zákony.
+>
+>   - 8. Zákon č. 267/1994 Sb., kterým se mění a doplňuje občanský zákoník.
+>
+>   - 9. Čl. II zákona č. 104/1995 Sb., kterým se mění a doplňuje zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění zákona č. 217/1993 Sb. a zákona č. 40/1995 Sb., a mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 10. Čl. XXIV zákona č. 118/1995 Sb., kterým se mění a doplňují některé zákony v souvislosti s přijetím zákona o státní sociální podpoře.
+>
+>   - 11. Čl. II zákona č. 89/1996 Sb., kterým se mění a doplňují zákon České národní rady č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), a občanský zákoník č. 40/1964 Sb., ve znění pozdějších předpisů.
+>
+>   - 12. Čl. IV zákona č. 94/1996 Sb., kterým se mění a doplňuje zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 13. Část druhá zákona č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).
+>
+>   - 14. Čl. II zákona č. 91/1998 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů.
+>
+>   - 15. Čl. III zákona č. 165/1998 Sb., kterým se mění zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 16. § 12 včetně nadpisu zákona č. 159/1999 Sb., o některých podmínkách podnikání a o výkonu některých činností v oblasti cestovního ruchu a o změně zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+>
+>   - 17. Část druhá zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví).
+>
+>   - 18. Část šestá zákona č. 27/2000 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o veřejných dražbách.
+>
+>   - 19. Část pátá zákona č. 103/2000 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů.
+>
+>   - 20. Část druhá zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu).
+>
+>   - 21. Část první zákona č. 367/2000 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 22. Čl. I zákona č. 317/2001 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a o změně dalších zákonů.
+>
+>   - 23. Část třetí zákona č. 125/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o platebním styku.
+>
+>   - 24. Zákon č. 135/2002 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 25. Zákon č. 136/2002 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 65/1965 Sb., zákoník práce, ve znění pozdějších předpisů.
+>
+>   - 26. Část třicátá osmá zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů.
+>
+>   - 27. Část druhá zákona č. 88/2003 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, ve znění zákona č. 501/2001 Sb. a nálezu Ústavního soudu vyhlášeného pod č. 476/2002 Sb., zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+>
+>   - 28. Část druhá zákona č. 37/2004 Sb., o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě).
+>
+>   - 29. Část čtvrtá zákona č. 47/2004 Sb., kterým se mění zákon č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 30. Část druhá zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).
+>
+>   - 31. Část první zákona č. 554/2004 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.
+>
+>   - 32. Část první zákona č. 359/2005 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony.
+>
+>   - 33. Část čtvrtá zákona č. 56/2006 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 34. Část třicátá třetí zákona č. 57/2006 Sb., o změně zákonů v souvislosti se sjednocením dohledu nad finančním trhem.
+>
+>   - 35. Část druhá zákona č. 107/2006 Sb., o jednostranném zvyšování nájemného z bytu a o změně zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 36. Část šestá zákona č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů.
+>
+>   - 37. Část třetí zákona č. 160/2006 Sb., kterým se mění zákon č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 201/2002 Sb., o Úřadu pro zastupování státu ve věcech majetkových, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 38. Část čtyřicátá třetí zákona č. 264/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákoníku práce.
+>
+>   - 39. Část druhá zákona č. 315/2006 Sb., kterým se mění zákon č. 26/2000 Sb., o veřejných dražbách, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 40. Část třetí zákona č. 443/2006 Sb., kterým se mění zákon č. 178/2005 Sb., o zrušení Fondu národního majetku České republiky a o působnosti Ministerstva financí při privatizaci majetku České republiky (zákon o zrušení Fondu národního majetku), a zákon č. 319/2001 Sb., kterým se mění zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.
+>
+>   - 41. Část šestá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 42. Část desátá zákona č. 230/2008 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 43. Část třetí zákona č. 306/2008 Sb., kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 44. Část šestá zákona č. 384/2008 Sb., kterým se mění zákon č. 155/1998 Sb., o znakové řeči a o změně dalších zákonů a další související zákony.
+>
+>   - 45. Část šestá zákona č. 215/2009 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 627/2004 Sb., o evropské společnosti, ve znění pozdějších předpisů, zákon č. 21/1992 Sb., o bankách, ve znění zákona č. 126/2002 Sb., zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 46. Část třetí zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 47. Část pátá zákona č. 285/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o platebním styku.
+>
+>   - 48. Část druhá zákona č. 155/2010 Sb., kterým se mění některé zákony ke zkvalitnění jejich aplikace a ke snížení administrativní zátěže podnikatelů.
+>
+>   - 49. Část první zákona č. 28/2011 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 50. Zákon č. 132/2011 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 102/1992 Sb., kterým se upravují některé otázky související s vydáním zákona č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 51. Část jedenáctá zákona č. 139/2011 Sb., kterým se mění zákon č. 284/2009 Sb., o platebním styku, ve znění zákona č. 156/2010 Sb., a některé další zákony.
+>
+>   - 52. Zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor.
+>
+>   - 53. Část pátá, pokud jde o § 24 bod 3, zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd.
+>
+>   - 54. Zákon č. 529/1990 Sb., kterým se mění a doplňuje zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor, ve znění zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd.
+>
+>   - 55. § 26 odst. 1 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku.
+>
+>   - 56. Zákon č. 540/1991 Sb., kterým se mění a doplňuje zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor, ve znění zákona č. 403/1990 Sb. a zákona č. 529/1990 Sb.
+>
+>   - 57. Zákon č. 302/1999 Sb., kterým se mění zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor, ve znění pozdějších předpisů.
+>
+>   - 58. Zákon č. 522/2002 Sb., kterým se mění zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor, ve znění pozdějších předpisů, a kterým se zrušuje zákon č. 124/1990 Sb., o působnosti národních výborů při provádění některých ustanovení zákona o nájmu a podnájmu nebytových prostor.
+>
+>   - 59. Zákon č. 360/2005 Sb., kterým se mění zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor, ve znění pozdějších předpisů.
+>
+>   - 60. Zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů).
+>
+>   - 61. Zákon č. 97/1999 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů.
+>
+>   - 62. Část první zákona č. 103/2000 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů.
+>
+>   - 63. Část třetí zákona č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony.
+>
+>   - 64. Část první zákona č. 451/2001 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 65. Část sedmdesátá první zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů.
+>
+>   - 66. Část třetí zákona č. 437/2003 Sb., kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 67. Zákon č. 171/2005 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů.
+>
+>   - 68. Část třicátá zákona č. 179/2005 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zrušení Fondu národního majetku České republiky.
+>
+>   - 69. Část třicátá čtvrtá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 70. Část padesátá první zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 71. Část první zákona č. 345/2009 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+>
+>   - 72. Zákon č. 513/1991 Sb., obchodní zákoník.
+>
+>   - 73. Čl. VII zákona č. 264/1992 Sb., kterým se mění a doplňuje občanský zákoník, zrušuje zákon o státním notářství a o řízení před státním notářstvím (notářský řád) a mění a doplňují některé další zákony.
+>
+>   - 74. Čl. III zákona č. 286/1993 Sb., kterým se mění a doplňuje zákon č. 63/1991 Sb., o ochraně hospodářské soutěže, ve znění zákona č. 495/1992 Sb., a zákon č. 513/1991 Sb., obchodní zákoník, ve znění zákona č. 264/1992 Sb., zákona č. 591/1992 Sb. a zákona č. 600/1992 Sb.
+>
+>   - 75. Čl. II zákona č. 156/1994 Sb., kterým se mění a doplňuje zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, doplňuje zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkurzu a vyrovnání, ve znění pozdějších předpisů.
+>
+>   - 76. Čl. II zákona č. 84/1995 Sb., kterým se mění a doplňuje zákon č. 530/1990 Sb., o dluhopisech, ve znění pozdějších předpisů, zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 328/1991 Sb., o konkurzu a vyrovnání, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.
+>
+>   - 77. Čl. III zákona č. 94/1996 Sb., kterým se mění a doplňují zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 78. Čl. I zákona č. 142/1996 Sb., kterým se mění a doplňuje zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů.
+>
+>   - 79. Část šestá zákona č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů.
+>
+>   - 80. Čl. II zákona č. 165/1998 Sb., kterým se mění zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 81. Část pátá zákona č. 356/1999 Sb., kterým se mění zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 82. Část sedmá zákona č. 27/2000 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o veřejných dražbách.
+>
+>   - 83. Část dvanáctá zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách).
+>
+>   - 84. Část třetí zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 85. Část pátá zákona č. 105/2000 Sb., kterým se mění zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 86. Část čtvrtá zákona č. 367/2000 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 87. Část první zákona č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů.
+>
+>   - 88. Část druhá zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů.
+>
+>   - 89. Část pátá zákona č. 353/2001 Sb., kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 90. Část pátá zákona č. 15/2002 Sb., kterým se mění zákon č. 238/1992 Sb., o některých opatřeních souvisejících s ochranou veřejného zájmu a o neslučitelnosti některých funkcí (zákon o střetu zájmů), ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 91. Část druhá zákona č. 125/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o platebním styku.
+>
+>   - 92. Část pátá zákona č. 126/2002 Sb., kterým se mění zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů, zákon č. 219/1995 Sb., devizový zákon, ve znění pozdějších předpisů, zákon č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění pozdějších předpisů, zákon č. 239/2001 Sb., o České konsolidační agentuře a o změně některých zákonů (zákon o České konsolidační agentuře), ve znění zákona č. 15/2002 Sb., zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví), ve znění pozdějších předpisů.
+>
+>   - 93. Část dvacátá druhá zákona č. 151/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím soudního řádu správního.
+>
+>   - 94. Část sedmá zákona č. 308/2002 Sb., kterým se mění zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 95. Část třicátá sedmá zákona č. 309/2002 Sb., o změně zákonů souvisejících s přijetím zákona o službě státních zaměstnanců ve správních úřadech a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech (služební zákon).
+>
+>   - 96. Část třetí zákona č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů.
+>
+>   - 97. Část první zákona č. 88/2003 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, ve znění zákona č. 501/2001 Sb. a nálezu Ústavního soudu vyhlášeného pod č. 476/2002 Sb., zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+>
+>   - 98. Část druhá zákona č. 437/2003 Sb., kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 99. Část třetí zákona č. 85/2004 Sb., kterým se mění zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 100. Část druhá zákona č. 257/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o podnikání na kapitálovém trhu, zákona o kolektivním investování a zákona o dluhopisech.
+>
+>   - 101. Část druhá zákona č. 360/2004 Sb., o Evropském hospodářském zájmovém sdružení (EHZS) a o změně zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, (zákon o evropském hospodářském zájmovém sdružení).
+>
+>   - 102. Část druhá zákona č. 484/2004 Sb., kterým se mění zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění zákona č. 340/2004 Sb., zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů.
+>
+>   - 103. Část pátá zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů.
+>
+>   - 104. Část čtvrtá zákona č. 554/2004 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.
+>
+>   - 105. Část pátá zákona č. 179/2005 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zrušení Fondu národního majetku České republiky.
+>
+>   - 106. Část první zákona č. 216/2005 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 189/1994 Sb., o vyšších soudních úřednících, ve znění pozdějších předpisů, a zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů.
+>
+>   - 107. Část devátá zákona č. 377/2005 Sb., o doplňkovém dohledu nad bankami, spořitelními a úvěrními družstvy, pojišťovnami a obchodníky s cennými papíry ve finančních konglomerátech a o změně některých dalších zákonů (zákon o finančních konglomerátech).
+>
+>   - 108. Část devátá zákona č. 413/2005 Sb., o změně zákonů v souvislosti s přijetím zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti.
+>
+>   - 109. Část dvanáctá zákona č. 56/2006 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 110. Část dvacátá třetí zákona č. 57/2006 Sb., o změně zákonů v souvislosti se sjednocením dohledu nad finančním trhem.
+>
+>   - 111. Část jedenáctá zákona č. 79/2006 Sb., kterým se mění zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 112. Část sedmá zákona č. 81/2006 Sb., kterým se mění zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 113. Část první zákona č. 308/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o evropské družstevní společnosti.
+>
+>   - 114. Část třetí zákona č. 269/2007 Sb., kterým se mění zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 115. Část dvanáctá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 116. Část první zákona č. 344/2007 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů.
+>
+>   - 117. Část třetí zákona č. 36/2008 Sb., kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, zákon č. 40/1995 Sb., o regulaci reklamy a o změně a doplnění zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, ve znění pozdějších předpisů, a zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.
+>
+>   - 118. Část druhá zákona č. 104/2008 Sb., o nabídkách převzetí a o změně některých dalších zákonů (zákon o nabídkách převzetí).
+>
+>   - 119. Část druhá zákona č. 126/2008 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o přeměnách obchodních společností a družstev.
+>
+>   - 120. Část osmá zákona č. 130/2008 Sb., kterým se mění zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 121. Část pátá zákona č. 230/2008 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 122. Část první zákona č. 215/2009 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 627/2004 Sb., o evropské společnosti, ve znění pozdějších předpisů, zákon č. 21/1992 Sb., o bankách, ve znění zákona č. 126/2002 Sb., zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+>
+>   - 123. Část třetí zákona č. 217/2009 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 124. Část dvacátá druhá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 125. Část sedmá zákona č. 230/2009 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 126. Část šestá zákona č. 285/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o platebním styku.
+>
+>   - 127. Část první zákona č. 420/2009 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 128. Zákon č. 152/2010 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.
+>
+>   - 129. Část třetí zákona č. 409/2010 Sb., o změně zákonů v souvislosti s přijetím zákona o finančním zajištění.
+>
+>   - 130. Část třináctá zákona č. 427/2010 Sb., kterým se mění zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o azylu), ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 131. Část pátá zákona č. 188/2011 Sb., kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 132. Zákon č. 94/1963 Sb., o rodině.
+>
+>   - 133. Zákon č. 132/1982 Sb., kterým se mění a doplňuje zákon o rodině.
+>
+>   - 134. Zákon č. 234/1992 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění zákona č. 132/1982 Sb.
+>
+>   - 135. Čl. I zákona č. 91/1998 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů.
+>
+>   - 136. Část druhá zákona č. 360/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o sociálně-právní ochraně dětí.
+>
+>   - 137. Část druhá zákona č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů.
+>
+>   - 138. Část druhá zákona č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů.
+>
+>   - 139. Část čtyřicátá třetí zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů.
+>
+>   - 140. Zákon č. 321/2002 Sb., kterým se mění zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů.
+>
+>   - 141. Část druhá zákona č. 315/2004 Sb., kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů.
+>
+>   - 142. Část třetí zákona č. 383/2005 Sb., kterým se mění zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 143. Část druhá zákona č. 112/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o životním a existenčním minimu a zákona o pomoci v hmotné nouzi.
+>
+>   - 144. Část čtvrtá zákona č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů.
+>
+>   - 145. Část druhá zákona č. 134/2006 Sb., kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů.
+>
+>   - 146. Část sedmá zákona č. 227/2006 Sb., o výzkumu na lidských embryonálních kmenových buňkách a souvisejících činnostech a o změně některých souvisejících zákonů.
+>
+>   - 147. Část čtyřicátá třetí zákona č. 342/2006 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel a některé další zákony.
+>
+>   - 148. Část druhá zákona č. 259/2008 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 149. Zákon č. 42/1980 Sb., o hospodářských stycích se zahraničím.
+>
+>   - 150. Zákon č. 102/1988 Sb., kterým se mění a doplňuje zákon č. 42/1980 Sb., o hospodářských stycích se zahraničím.
+>
+>   - 151. Zákon č. 113/1990 Sb., kterým se mění a doplňuje zákon č. 42/1980 Sb., o hospodářských stycích se zahraničím, ve znění zákona č. 102/1988 Sb.
+>
+>   - 152. Část třetí, pokud jde o § 5, zákona č. 223/1994 Sb., o sloučení Československé obchodní a průmyslové komory s Hospodářskou komorou České republiky, o některých opatřeních s tím souvisejících a o změně a doplnění zákona České národní rady č. 301/1992 Sb., o Hospodářské komoře České republiky a Agrární komoře České republiky, ve znění zákona č. 121/1993 Sb.
+>
+>   - 153. Část šestá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 154. Zákon č. 83/1990 Sb., o sdružování občanů.
+>
+>   - 155. Zákon č. 300/1990 Sb., kterým se mění a doplňuje zákon č. 83/1990 Sb., o sdružování občanů.
+>
+>   - 156. Čl. I zákona č. 68/1993 Sb., kterým se mění a doplňují některé zákony na úseku všeobecné vnitřní správy.
+>
+>   - 157. Část osmá zákona č. 151/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím soudního řádu správního.
+>
+>   - 158. Část druhá zákona č. 230/2006 Sb., kterým se mění zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 159. Část třicátá pátá zákona č. 342/2006 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel a některé další zákony.
+>
+>   - 160. Zákon č. 33/2008 Sb., kterým se mění zákon č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů.
+>
+>   - 161. Část dvanáctá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 162. Část šestá zákona č. 424/2010 Sb., kterým se mění zákon č. 111/2009 Sb., o základních registrech, ve znění zákona č. 100/2010 Sb., a další související zákony.
+>
+>   - 163. Zákon č. 248/1995 Sb., o obecně prospěšných společnostech a o změně a doplnění některých zákonů.
+>
+>   - 164. Zákon č. 208/2002 Sb., kterým se mění zákon č. 248/1995 Sb., o obecně prospěšných společnostech a o změně a doplnění některých zákonů.
+>
+>   - 165. Část šestnáctá zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů.
+>
+>   - 166. Část čtvrtá zákona č. 437/2003 Sb., kterým se mění zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 167. Část čtyřicátá čtvrtá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 168. Část jedenáctá zákona č. 126/2008 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o přeměnách obchodních společností a družstev.
+>
+>   - 169. Část šedesátá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 170. Zákon č. 231/2010 Sb., kterým se mění zákon č. 248/1995 Sb., o obecně prospěšných společnostech a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+>
+>   - 171. Zákon č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku.
+>
+>   - 172. Zákon č. 209/2000 Sb., kterým se mění zákon č. 59/1998 Sb., o odpovědnosti za škodu způsobenou vadou výrobku.
+>
+>   - 173. Část první a v části deváté § 35 a 36 zákona č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).
+>
+>   - 174. Část první zákona č. 210/2002 Sb., kterým se mění zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech), a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů.
+>
+>   - 175. Část šestnáctá zákona č. 257/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o podnikání na kapitálovém trhu, zákona o kolektivním investování a zákona o dluhopisech.
+>
+>   - 176. Část padesátá druhá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 177. Část dvanáctá zákona č. 126/2008 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o přeměnách obchodních společností a družstev.
+>
+>   - 178. Část sedmdesátá první zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 179. Zákon č. 158/2010 Sb., kterým se mění zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech), ve znění pozdějších předpisů.
+>
+>   - 180. Část osmá zákona č. 160/2010 Sb., kterým se mění některé zákony v souvislosti s přijetím nařízení Evropského parlamentu a Rady o ratingových agenturách.
+>
+>   - 181. Část třináctá zákona č. 188/2011 Sb., o kolektivním investování, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 182. Zákon č. 102/1992 Sb., kterým se upravují některé otázky související s vydáním zákona č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník.
+>
+>   - 183. Část osmá zákona č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).
+>
+>   - 184. Zákon č. 126/1998 Sb., kterým se mění zákon České národní rady č. 102/1992 Sb., kterým se upravují některé otázky související s vydáním zákona č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník, ve znění zákona č. 227/1997 Sb.
+>
+>   - 185. Část třicátá devátá zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů.
+>
+>   - 186. Část druhá zákona č. 359/2005 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony.
+>
+>   - 187. Zákon č. 591/1992 Sb., o cenných papírech.
+>
+>   - 188. Zákon č. 89/1993 Sb., kterým se mění zákon České národní rady č. 591/1992 Sb., o cenných papírech.
+>
+>   - 189. Část osmá zákona č. 331/1993 Sb., o státním rozpočtu České republiky na rok 1994 a o změně a doplnění některých zákonů.
+>
+>   - 190. Čl. II a čl. III bod 15 zákona č. 259/1994 Sb., kterým se mění a doplňuje zákon České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon České národní rady č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů.
+>
+>   - 191. Zákon č. 152/1996 Sb., kterým se mění a doplňuje zákon České národní rady č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, a zákon č. 214/1992 Sb., o burze cenných papírů, ve znění pozdějších předpisů.
+>
+>   - 192. Část třetí zákona č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů.
+>
+>   - 193. Čl. II zákona č. 70/2000 Sb., kterým se mění zákon č. 229/1992 Sb., o komoditních burzách, ve znění pozdějších předpisů, zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, a zákon č. 214/1992 Sb., o burze cenných papírů, ve znění pozdějších předpisů.
+>
+>   - 194. Část druhá zákona č. 307/2000 Sb., o zemědělských skladních listech a zemědělských veřejných skladech a o změně některých souvisejících zákonů.
+>
+>   - 195. Část první zákona č. 362/2000 Sb., kterým se mění zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 196. Část druhá zákona č. 259/2001 Sb., o státním dluhopisovém programu na úhradu ztráty Konsolidační banky Praha, státního peněžního ústavu, za rok 1999 a o změně zákona č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů.
+>
+>   - 197. Část druhá zákona č. 308/2002 Sb., kterým se mění zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů, a některé další zákony.
+>
+>   - 198. Část čtvrtá zákona č. 88/2003 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů, ve znění zákona č. 501/2001 Sb. a nálezu Ústavního soudu vyhlášeného pod č. 476/2002 Sb., zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+>
+>   - 199. Část první zákona č. 257/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o podnikání na kapitálovém trhu, zákona o kolektivním investování a zákona o dluhopisech.
+>
+>   - 200. Část osmá zákona č. 56/2006 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 201. Část dvacátá sedmá zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím.
+>
+>   - 202. Část šestá zákona č. 230/2008 Sb., kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony.
+>
+>   - 203. Část čtyřicátá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 204. Část pátá zákona č. 409/2010 Sb., o změně zákonů v souvislosti s přijetím zákona o finančním zajištění.
+>
+>   - 205. Část první zákona č. 37/2004 Sb., o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě).
+>
+>   - 206. Část čtrnáctá zákona č. 377/2005 Sb., o doplňkovém dohledu nad bankami, spořitelními a úvěrními družstvy, pojišťovnami a obchodníky s cennými papíry ve finančních konglomerátech a o změně některých dalších zákonů (zákon o finančních konglomerátech).
+>
+>   - 207. Část jedenáctá zákona č. 57/2006 Sb., o změně zákonů v souvislosti se sjednocením dohledu nad finančním trhem.
+>
+>   - 208. Část pátá zákona č. 198/2009 Sb., o rovném zacházení a o právních prostředcích ochrany před diskriminací a o změně některých zákonů (antidiskriminační zákon).
+>
+>   - 209. Část sto čtyřicátá druhá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.
+>
+>   - 210. Část první zákona č. 278/2009 Sb., o změně zákonů v souvislosti s přijetím zákona o pojišťovnictví.
+>
+>   - 211. Nařízení vlády č. 142/1994 Sb., kterým se stanoví výše úroků z prodlení a poplatku z prodlení podle občanského zákoníku.
+>
+>   - 212. Nařízení vlády č. 163/2005 Sb., kterým se mění nařízení vlády č. 142/1994 Sb., kterým se stanoví výše úroků z prodlení a poplatku z prodlení podle občanského zákoníku.
+>
+>   - 213. Nařízení vlády č. 33/2010 Sb., kterým se mění nařízení vlády č. 142/1994 Sb., kterým se stanoví výše úroků z prodlení a poplatku z prodlení podle občanského zákoníku, ve znění nařízení vlády č. 163/2005 Sb.
+>
+>   - 214. Nařízení vlády č. 258/1995 Sb., kterým se provádí občanský zákoník.
+>
+>   - 215. Nařízení vlády č. 174/2009 Sb., kterým se mění nařízení vlády č. 258/1995 Sb., kterým se provádí občanský zákoník.
+>
+>   - 216. Nařízení vlády č. 371/2004 Sb., kterým se vydávají vzorové stanovy společenství vlastníků jednotek.
+>
+>   - 217. Nařízení vlády č. 151/2006 Sb., kterým se mění nařízení vlády č. 371/2004 Sb., kterým se vydávají vzorové stanovy společenství vlastníků jednotek.
+>
+>   - 218. Vyhláška č. 47/1964 Sb., o peněžních službách občanům.
+>
+>   - 219. Vyhláška č. 136/1969 Sb., o změně vyhlášky č. 47/1964 Sb., o peněžních službách občanům, ve znění vyhlášky č. 45/1965 Sb.
+>
+>   - 220. Vyhláška č. 27/1982 Sb., kterou se mění a doplňuje vyhláška ministerstva financí č. 47/1964 Sb., o peněžních službách občanům, ve znění vyhlášky federálního ministerstva financí č. 136/1969 Sb.
+>
+>   - 221. Vyhláška č. 146/1990 Sb., kterou se mění a doplňuje vyhláška ministerstva financí č. 47/1964 Sb., o peněžních službách občanům, ve znění pozdějších předpisů.
+>
+>   - 222. Vyhláška č. 133/1964 Sb., o silničním přepravním řádu.
+>
+>   - 223. Vyhláška č. 74/1981 Sb., kterou se mění a doplňuje vyhláška ministerstva dopravy č. 133/1964 Sb., o silničním přepravním řádu.
+>
+>   - 224. Vyhláška č. 106/1984 Sb., kterou se mění a doplňuje vyhláška ministerstva dopravy č. 133/1964 Sb., o silničním přepravním řádu.
+>
+>   - 225. Vyhláška č. 18/1965 Sb., o podmínkách údržby a oprav silničních vozidel pro motorovou dopravu v majetku občanů a nesocialistických organizací.
+>
+>   - 226. Vyhláška č. 17/1966 Sb., o leteckém přepravním řádu.
+>
+>   - 227. Vyhláška č. 15/1971 Sb., kterou se doplňuje vyhláška ministerstva dopravy č. 17/1966 Sb., o leteckém přepravním řádu.
+>
+>   - 228. Vyhláška č. 121/1980 Sb., o finanční pomoci při převodu skupinových rodinných domků z družstevního do osobního vlastnictví.
+>
+>   - 229. Vyhláška č. 122/1980 Sb., o jednorázovém příspěvku na opatření náhradního bydlení občanům, kteří uvolní byt v objektu spravovaném státní socialistickou organizací.
+>
+>   - 230. Vyhláška č. 69/1982 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky a ministerstva financí Slovenské socialistické republiky č. 122/1980 Sb., o jednorázovém příspěvku na opatření náhradního bydlení občanům, kteří uvolní byt v objektu spravovaném státní socialistickou organizací.
+>
+>   - 231. Vyhláška č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví.
+>
+>   - 232. Vyhláška č. 74/1989 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky, ministerstva financí Slovenské socialistické republiky a předsedy Státní banky československé č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví.
+>
+>   - 233. Vyhláška č. 73/1991 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky, ministerstva financí Slovenské socialistické republiky a předsedy Státní banky československé č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví, ve znění vyhlášky č. 74/1989 Sb.
+>
+>   - 234. Vyhláška č. 398/1992 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky, ministerstva financí Slovenské socialistické republiky a předsedy Státní banky československé č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví, ve znění vyhlášky č. 74/1989 Sb. a vyhlášky č. 73/1991 Sb.
+>
+>   - 235. Vyhláška č. 89/1998 Sb., kterou se mění vyhláška Federálního ministerstva financí, Ministerstva financí České socialistické republiky, Ministerstva financí Slovenské socialistické republiky a předsedy Státní banky československé č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví, ve znění pozdějších předpisů.
+>
+>   - 236. Vyhláška č. 385/2000 Sb., kterou se mění vyhláška Federálního ministerstva financí, Ministerstva financí České socialistické republiky, Ministerstva financí Slovenské socialistické republiky a předsedy Státní banky československé č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví, ve znění pozdějších předpisů.
+>
+>   - 237. Vyhláška č. 440/2001 Sb., o odškodnění bolesti a ztížení společenského uplatnění.
+>
+>   - 238. Vyhláška č. 50/2003 Sb., kterou se mění vyhláška č. 440/2001 Sb., o odškodnění bolesti a ztížení společenského uplatnění.
 
 **Zrušeno celkem 232 právních předpisů** — nejrozsáhlejší zrušovací ustanovení v dějinách českého práva. Mezi klíčovými:
 - **Zákon č. 40/1964 Sb.** — starý OZ;

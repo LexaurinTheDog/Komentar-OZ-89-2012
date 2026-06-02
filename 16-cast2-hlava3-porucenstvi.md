@@ -28,8 +28,8 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 ### § 928 — Vznik poručenství
 
 > (1) Není-li tu žádný z rodičů, který má a vůči svému dítěti vykonává rodičovskou odpovědnost v plném rozsahu, soud jmenuje dítěti poručníka.
-
-> (2) Poručník má vůči dítěti zásadně všechny povinnosti a práva jako rodič, ale nemá k dítěti vyživovací povinnost. S ohledem na osobu poručníka nebo poměry dítěte... může být výjimečně okruh povinností a práv poručníka vymezen jinak.
+>
+> (2) Poručník má vůči dítěti zásadně všechny povinnosti a práva jako rodič, ale nemá k dítěti vyživovací povinnost. S ohledem na osobu poručníka nebo poměry dítěte, jakož i s ohledem na to, z jakého důvodu rodiče nemají všechny povinnosti a práva, může být výjimečně okruh povinností a práv poručníka vymezen jinak.
 
 **Výklad:**
 
@@ -553,7 +553,7 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 - **Vždy zvažuje přednost rodinné péče**.
 
 **Klíčové: § 971 odst. 3 — ZÁKAZ EKONOMICKÉHO ODEBRÁNÍ DÍTĚTE**:
-> Nedostatečné bytové poměry nebo majetkové poměry... **nemohou být samy o sobě důvodem** pro ústavní výchovu, jestliže jsou jinak rodiče způsobilí.
+> Nedostatečné bytové poměry nebo majetkové poměry rodičů dítěte nebo osob, kterým bylo dítě svěřeno do péče, **nemohou být samy o sobě důvodem** pro rozhodnutí soudu o ústavní výchově, jestliže jsou jinak rodiče způsobilí zabezpečit řádnou výchovu dítěte a plnění dalších povinností vyplývajících z jejich rodičovské odpovědnosti.
 
 Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na historické problémy (zejména romské komunity). Vyžaduje **strukturální podporu** rodin (sociální dávky, bydlení) místo umisťování dětí do ústavů.
 
@@ -575,10 +575,10 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 ### § 972 — Doba a prodloužení
 
 > (1) Ústavní výchovu lze nařídit nejdéle na dobu tří let. Ústavní výchovu lze před uplynutím tří let od jejího nařízení prodloužit, jestliže důvody pro nařízení ústavní výchovy stále trvají. Trvání ústavní výchovy lze prodloužit opakovaně, vždy však nejdéle na dobu tří let. Po dobu, než soud rozhodne o zrušení nebo o prodloužení ústavní výchovy, dítě zůstává v ústavní výchově, i když už uběhla doba dříve rozhodnutím soudu stanovená.
-
+>
 > (2) Pominou-li důvody, pro které byla ústavní výchova nařízena, nebo je-li možné zajistit dítěti jinou než ústavní péči, soud neprodleně ústavní výchovu zruší a zároveň rozhodne podle okolností o tom, komu bude napříště dítě svěřeno do péče.
-
-> (3) Ústavní výchova zaniká rozhodnutím soudu o osvojení. Bylo-li rozhodnuto o svěření dítěte do péče budoucího osvojitele... ústavní výchova se přerušuje.
+>
+> (3) Ústavní výchova zaniká rozhodnutím soudu o osvojení. Bylo-li rozhodnuto o svěření dítěte do péče budoucího osvojitele podle § 823 nebo 829, ústavní výchova se přerušuje.
 
 **Výklad:**
 

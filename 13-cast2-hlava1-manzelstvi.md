@@ -997,17 +997,19 @@ V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnik�
 > (2) Dohody uvedené v odstavci 1 písm. c) vyžadují písemnou formu a podpisy musí být úředně ověřeny.
 
 **§ 758**:
-> Manželé spolu nežijí, netvoří-li manželské či rodinné společenství, bez ohledu na to, zda mají, popřípadě vedou rodinnou domácnost, s tím, že alespoň jeden z manželů manželské společenství zjevně obnovit nechce.
-
 > (1) Manželství může být rozvedeno, je-li soužití manželů hluboce, trvale a nenapravitelně rozvráceno a nelze očekávat jeho obnovení.
-
-> (2) Přesto, že je soužití manželů rozvráceno, nemůže být manželství rozvedeno, byl-li by rozvod v rozporu - a) se zájmem nezletilého dítěte manželů, které nenabylo plné svéprávnosti, který je dán zvláštními důvody, přičemž zájem dítěte na trvání manželství soud zjistí, je-li to potřebné, i dotazem u opatrovníka jmenovaného soudem pro řízení o úpravu poměrů k dítěti pro dobu po rozvodu, nebo - b) se zájmem manžela, který se na rozvratu porušením manželských povinností převážně nepodílel a kterému by byla rozvodem způsobena zvlášť závažná újma s tím, že mimořádné okolnosti svědčí ve prospěch zachování manželství, ledaže manželé spolu již nežijí alespoň po dobu tří let.
-
+>
+> (2) Přesto, že je soužití manželů rozvráceno, nemůže být manželství rozvedeno, byl-li by rozvod v rozporu
+>   - a) se zájmem nezletilého dítěte manželů, které nenabylo plné svéprávnosti, který je dán zvláštními důvody, přičemž zájem dítěte na trvání manželství soud zjistí, je-li to potřebné, i dotazem u opatrovníka jmenovaného soudem pro řízení o úpravu poměrů k dítěti pro dobu po rozvodu, nebo
+>   - b) se zájmem manžela, který se na rozvratu porušením manželských povinností převážně nepodílel a kterému by byla rozvodem způsobena zvlášť závažná újma s tím, že mimořádné okolnosti svědčí ve prospěch zachování manželství, ledaže manželé spolu již nežijí alespoň po dobu tří let.
+>
 > (3) Mají-li manželé nezletilé dítě, které není plně svéprávné, soud manželství nerozvede, dokud nerozhodne o poměrech dítěte v době po rozvodu manželů.
-
-> (1) Připojí-li se manžel k návrhu... nebo podají-li manželé návrh společný... platí, že jsou podmínky podle § 755 odst. 1 splněny, pokud
-
-> (2) Dohody uvedené v odstavci 1 písm. c) vyžadují písemnou formu a podpisy musí být úředně ověřeny.
+>
+> (1) Manželství může být rozvedeno, je-li soužití manželů hluboce, trvale a nenapravitelně rozvráceno a nelze očekávat jeho obnovení.
+>
+> (2) Přesto, že je soužití manželů rozvráceno, nemůže být manželství rozvedeno, byl-li by rozvod v rozporu
+>   - a) se zájmem nezletilého dítěte manželů, které nenabylo plné svéprávnosti, který je dán zvláštními důvody, přičemž zájem dítěte na trvání manželství soud zjistí, je-li to potřebné, i dotazem u opatrovníka jmenovaného soudem pro řízení o úpravu poměrů k dítěti pro dobu po rozvodu, nebo
+>   - b) se zájmem manžela, který se na rozvratu porušením manželských povinností převážně nepodílel a kterému by byla rozvodem způsobena zvlášť závažná újma s tím, že mimořádné okolnosti svědčí ve prospěch zachování manželství, ledaže manželé spolu již nežijí alespoň po dobu tří let.
 
 **Výklad:**
 
