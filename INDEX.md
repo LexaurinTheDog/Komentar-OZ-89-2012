@@ -171,6 +171,10 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
 
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
