@@ -43,6 +43,42 @@ Tato kapitola pokrývá:
 - *KS v Brně* [13 CO 265/2022-97](https://rozhodnuti.justice.cz/rozhodnuti/?id=0040ba69-4901-498c-aa33-4b547de91dbb) — *právo užívání, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrácení daru*
 - *OS v Litoměřicích* [7 C 69/2021-90](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5e5705d-b498-4a20-85bc-b78148669739) — *absolutní majetková práva, ochrana osobnosti, peněžité plnění, smlouva o dílo, smlouva p…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A jako vlastník pozemku uzavře s developerem B nájemní smlouvu na 20 let a v ní si strany sjednají, že nájem „zavazuje i každého budoucího nabyvatele pozemku". A poté pozemek prodá C, který o nájemní smlouvě nevěděl a v katastru po ní není stopa. C se domáhá vyklizení; B namítá, že jeho právo působí vůči C jako nabyvateli. Důkazy: nájemní smlouva, výpis z katastru ke dni převodu, korespondence prokazující (ne)vědomost C.
+
+**2. Právní otázka.** Může smluvní ujednání mezi A a B založit právo působící *erga omnes* (vůči C jako třetí osobě), ač nejde o žádný zákonem uznaný typ absolutního práva a není zapsáno ve veřejném seznamu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 976 — absolutní majetková práva působí vůči každému, jen stanoví-li tak zákon.
+- *Související ustanovení téhož zákona:* § 977 (numerus clausus věcných práv — jen zákon určuje, co je věcné právo), § 978 (odchylka s účinky vůči třetím osobám jen, připouští-li to zákon), § 2221 a násl. (přechod nájmu při změně vlastníka — zákonná, nikoli smluvní výjimka).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis poznámek a věcných práv).
+- *Judikatura:* nosně NS v rozhodnutích k § 976 a násl. dovozuje, že strany nemohou samy vytvořit nový typ absolutního (věcného) práva; relativní právo zásadně nepůsobí proti právnímu nástupci, nestanoví-li tak zákon.
+
+**4. Subsumpce.** Nájem je závazkové (relativní) právo. Ujednání o „závaznosti pro nabyvatele" je projevem autonomie vůle, ale nemůže obejít zásadu, že absolutní účinky propůjčuje jen zákon (§ 976). Přechod nájmu na nabyvatele upravuje až § 2221 jako zákonnou výjimku — ta se uplatní bez ohledu na uvedené ujednání, ale jen v zákonném rozsahu.
+
+**5. Řešení.** Smluvní doložka sama o sobě nezakládá vůči C absolutní právo. Postavení B vůči C se řídí výhradně zákonem (§ 2221 pro nájem); účinnost ujednání nad rámec zákona je vůči C vyloučena. C bude zpravidla úspěšný, neuplatní-li se zákonný přechod nájmu. Procesně: zjistit, zda jde o nájem podléhající § 2221, a v jakém rozsahu.
+
+**6. Varianty.** (a) Kdyby šlo o věcné břemeno (služebnost) zapsané v katastru, působilo by vůči C jako absolutní právo (§ 977, § 980). (b) Kdyby C o nájmu prokazatelně věděl a převzal pozemek s ním, mohla by se zkoumat dobrá víra a případně zneužití práva — výsledek by se však neopíral o „absolutnost" doložky, nýbrž o korektivy.
+
+#### G. Protiargumenty a rizika
+
+- *Autonomie vůle:* protistrana může tvrdit, že § 1 odst. 2 dovoluje široké ujednání. Neutralizace: § 976 a § 977 jsou kogentní co do okruhu absolutních práv; autonomie vůle nedosahuje na třetí osoby bez opory v zákoně.
+- *Zákonné výjimky:* riziko přehlédnutí zákonných přechodů (nájem, výměnek, zákonná věcná břemena), které fakticky propůjčují relativnímu vztahu účinky vůči nabyvateli. Vždy prověřit zvláštní úpravu.
+- *Slabé místo:* hranice mezi „relativním" a „absolutním" právem může být u některých institutů (např. předkupní právo) sporná podle toho, zda bylo zřízeno jako věcné a zapsáno.
+
+#### H. Praktický závěr
+
+Ustanovení § 976 je výchozí kvalifikační normou: absolutní účinky (vůči každému) má jen to, co za absolutní právo prohlašuje zákon. Smluvně nelze vytvořit nové věcné právo ani rozšířit účinky relativního práva na třetí osoby nad zákonný rámec.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o právo, které zákon výslovně uznává jako absolutní (vlastnictví, věcné právo k cizí věci, dědické právo)?
+- [ ] Opírá se tvrzená účinnost vůči třetí osobě o konkrétní zákonné ustanovení, nebo jen o smluvní doložku?
+- [ ] Bylo právo zapsáno do veřejného seznamu tam, kde to zákon pro účinky vůči třetím vyžaduje?
+- [ ] Neuplatní se zvláštní zákonná výjimka (přechod nájmu, výměnek, zákonné věcné břemeno)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva zakládající tvrzené právo, výpis z katastru/veřejného seznamu ke dni převodu, doklady o vědomosti nabyvatele, znění zvláštního předpisu zakládajícího zákonnou výjimku.
+
 ### § 978 — Omezená dispozitivnost vůči třetím osobám
 
 > Od ustanovení této části se lze odchýlit ujednáním s účinky vůči třetím osobám, jen připouští-li to zákon.
@@ -58,6 +94,42 @@ Tato kapitola pokrývá:
 - *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/rozhodnuti/?id=18b11e7d-8353-4293-8049-d9cb222fbefe) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
 - *KS v Ostravě* [71 Co 223/2024-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=574e9e53-2ed6-4f14-ab7f-957596ab000a) — *služebnost, věcné právo k věci cizí, převod nemovitostí, telekomunikace, právo požívání,…*
 - *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9c3201d-d738-4610-b5cb-92932974da99) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník bytové jednotky A a soused B (vlastník sousední jednotky) si v dohodě o užívání společné chodby ujednají, že B nesmí na chodbě nikdy nic skladovat, a sjednají, že tento zákaz „zavazuje i každého dalšího vlastníka jednotky B". B jednotku prodá C; ten na chodbu umístí kočárkárnu. A se domáhá odstranění s odkazem na uvedené ujednání. Důkazy: dohoda A–B, prohlášení vlastníka a stanovy SVJ, výpis z katastru, fotodokumentace.
+
+**2. Právní otázka.** Lze se od dispozitivní úpravy části třetí OZ odchýlit ujednáním tak, aby odchylka působila vůči třetí osobě (C), které se ujednání neúčastnila?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 978 — odchylka od části třetí s účinky vůči třetím osobám jen, připouští-li to zákon.
+- *Související ustanovení téhož zákona:* § 976 (absolutní účinky propůjčuje zákon), § 977 (numerus clausus), § 980 a § 982 (zápis a pořadí věcných práv), § 1175 a násl. (práva a povinnosti vlastníka jednotky).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb.; nař. vlády o podrobnostech SVJ.
+- *Judikatura:* NS opakovaně k § 978 dovozuje, že ujednání odchylné od dispozitivní úpravy má účinky zásadně jen *inter partes*; účinky vůči třetím osobám (zejména nabyvatelům) vznikají jen tam, kde to zákon umožňuje, typicky zápisem do veřejného seznamu.
+
+**4. Subsumpce.** Dohoda A–B je platná mezi nimi (inter partes). Sjednaná „závaznost pro nabyvatele" je odchylkou s účinky vůči třetí osobě; ta vyžaduje zákonné dovolení a zpravidla zápis. Pokud zákaz nebyl konstituován jako věcné právo (služebnost) a zapsán, vůči C nepůsobí.
+
+**5. Řešení.** A se nemůže vůči C opřít o smluvní doložku. Mohl by uspět jen tehdy, plyne-li omezení z prohlášení vlastníka / stanov závazných pro každého vlastníka jednotky, anebo bylo-li zřízeno věcné právo a zapsáno. Procesně: prověřit prohlášení vlastníka a zápis v katastru, nikoli jen dohodu.
+
+**6. Varianty.** (a) Bylo-li omezení obsaženo v prohlášení vlastníka a zapsáno, působí vůči C jako nabyvateli jednotky. (b) Sjednali-li si A a B služebnost zatěžující jednotku B a zapsali ji, vznikne absolutní právo účinné vůči C.
+
+#### G. Protiargumenty a rizika
+
+- *„Smlouva je smlouva":* námitka, že ujednání bylo svobodně přijato a má být respektováno. Neutralizace: respektuje se mezi stranami; § 978 však brání jeho automatickému přenosu na třetí osobu bez zákonné opory.
+- *Záměna s prohlášením vlastníka / stanovami:* riziko, že omezení ve skutečnosti plyne z dokumentu závazného pro každého vlastníka jednotky — pak působí vůči C nezávisle na dohodě. Vždy odlišit zdroj povinnosti.
+- *Slabé místo:* hranice „připouští-li to zákon" je roztroušena ve zvláštních ustanoveních; opomenutí konkrétní normy může vést k chybnému závěru.
+
+#### H. Praktický závěr
+
+Odchylky od dispozitivní úpravy věcných práv jsou účinné mezi stranami, ale vůči třetím osobám pouze tam, kde to zákon dovoluje — což prakticky znamená nutnost konstituovat věcné právo a zapsat je do veřejného seznamu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má mít ujednání působit jen mezi stranami, nebo i vůči třetím osobám (nabyvatelům)?
+- [ ] Existuje konkrétní zákonné ustanovení dovolující takovou odchylku vůči třetím?
+- [ ] Bylo právo zapsáno do veřejného seznamu, vyžaduje-li to zákon pro účinky erga omnes?
+- [ ] Neplyne tatáž povinnost z prohlášení vlastníka, stanov nebo zákona nezávisle na ujednání?
+
+**Typicky rozhodné důkazy / podklady:** text odchylného ujednání, prohlášení vlastníka a stanovy, výpis z katastru/veřejného seznamu, doklad o zápisu věcného práva.
 
 ---
 
@@ -80,6 +152,42 @@ Hlava II se vztahuje na:
   > „Ze systematiky zákona vyplývá, že právo na plnění (pohledávka) není nehmotnou věcí, neboť to jeho povaha nepřipouští (§ 496 odst. 2, § 979 o. z.)."
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
   > „Ze systematiky zákona vyplývá, že právo na plnění (pohledávka) není nehmotnou věcí, neboť to jeho povaha nepřipouští (§ 496 odst. 2, § 979 o. z.)."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel A tvrdí, že „vydržel" pohledávku za dlužníkem B, kterou po léta vymáhal v přesvědčení, že mu náleží, ač ji ve skutečnosti nabyl jiný postupník C. A se domáhá určení, že je věřitelem, s argumentem, že na pohledávku se použijí ustanovení o věcných právech (držba, vydržení) podle hlavy II. Důkazy: postupní smlouvy, výzvy k plnění, korespondence o (ne)existenci postoupení.
+
+**2. Právní otázka.** Použijí se ustanovení hlavy II (zejména o držbě a vydržení) na pohledávku jako „právo", tj. připouští to její povaha ve smyslu § 979?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 979 — hlava II se na práva použije jen, připouští-li to jejich povaha a neplyne-li ze zákona něco jiného.
+- *Související ustanovení téhož zákona:* § 496 odst. 2 (nehmotné věci), § 987 a § 988 (předmět držby — právo umožňující trvalý/opakovaný výkon), § 1089 a násl. (vydržení), § 1879 a násl. (postoupení pohledávky).
+- *Související předpisy:* —.
+- *Judikatura:* NS 33 Cdo 2489/2022 a 33 Cdo 3720/2020: „Ze systematiky zákona vyplývá, že právo na plnění (pohledávka) není nehmotnou věcí, neboť to jeho povaha nepřipouští (§ 496 odst. 2, § 979 o. z.)."
+
+**4. Subsumpce.** Pohledávka je právo na jednorázové (případně opakované) plnění, ale judikatura ji nepovažuje za nehmotnou věc způsobilou držby/vydržení v režimu hlavy II; povaha pohledávky tedy aplikaci ustanovení o věcné držbě a vydržení nepřipouští. Změna v osobě věřitele se děje postoupením (§ 1879), nikoli vydržením.
+
+**5. Řešení.** Žaloba A o „vydržení" pohledávky neobstojí: § 979 ve spojení s § 496 odst. 2 vylučuje takovou aplikaci. A může uspět jen, prokáže-li platný nabývací titul (postoupení), nikoli faktickým výkonem. Procesně: zaměřit dokazování na řetězec postupních smluv.
+
+**6. Varianty.** (a) U práva umožňujícího trvalý/opakovaný výkon (např. služebnost) povaha aplikaci ustanovení o držbě a vydržení připouští (§ 988, § 1089). (b) U vlastnického práva k nehmotné věci (např. licencovatelnému nehmotnému statku) se hlava II použije podle povahy předmětu.
+
+#### G. Protiargumenty a rizika
+
+- *Široká definice vlastnictví (§ 1011):* námitka, že „vše, co někomu patří", zahrnuje i pohledávky, a tedy lze užít ustanovení o věcech. Neutralizace: NS výslovně omezuje plnou aplikaci vlastnického režimu na takto široce vymezené předměty; § 979 testuje povahu práva.
+- *Záměna držby věci a výkonu závazku:* riziko, že faktické vymáhání bude zaměněno za „držbu pohledávky". Neutralizace: výkon závazku není držbou ve smyslu § 987 a násl.
+- *Slabé místo:* hranice mezi právy, jejichž povaha aplikaci připouští (trvalý/opakovaný výkon), a těmi, kde nikoli, vyžaduje pečlivý rozbor konkrétního práva.
+
+#### H. Praktický závěr
+
+§ 979 je „filtrem": ustanovení o věcných právech se na práva použijí jen tam, kde to dovoluje jejich povaha. Na pohledávky (právo na plnění) se ustanovení o věcné držbě a vydržení podle ustálené judikatury nepoužijí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc hmotnou, nehmotnou, nebo o „právo"?
+- [ ] Připouští povaha tvrzeného práva trvalý nebo opakovaný výkon (předpoklad držby)?
+- [ ] Nestanoví zákon pro daný předmět zvláštní režim (postoupení, převod), který vylučuje analogii s věcným právem?
+- [ ] Neopírá se nárok jen o faktický výkon namísto platného titulu?
+
+**Typicky rozhodné důkazy / podklady:** nabývací tituly (postupní/převodní smlouvy), doklady o povaze a obsahu tvrzeného práva, korespondence o jeho výkonu.
 
 ### § 980—986 — Materiální publicita veřejného seznamu
 
@@ -150,6 +258,44 @@ Hlava II se vztahuje na:
   > „5) Nastanou takovou nečinností účinky předvídané v § 980 odst. 2 o. z.? 6) Dopadá § 984 odst. 1 o. z. i na bezúplatné převody nemovitých věcí – nadto pokud stranou převodní smlouvy je společný potomek manželů?"
 - *NS* [22 Cdo 304/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FA37DFA20FA76E3C1258AF9004D03AB?openDocument) — *Nabytí vlastnického práva od neoprávněného*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V katastru je jako vlastník pozemku zapsán X (zápis vznikl na základě později zpochybněné smlouvy). X pozemek za tržní cenu prodá kupujícímu K, který do katastru nahlédl, spoléhal na zápis a o vadách X-ova titulu nevěděl. Vklad vlastnického práva ve prospěch K byl proveden. Poté se původní vlastník Z domáhá určení svého vlastnictví a tvrdí, že X nikdy vlastníkem nebyl. Z navíc nepodal poznámku spornosti. Důkazy: výpisy z katastru s časovými údaji, kupní smlouva K, doklad o úhradě ceny, okolnosti o vědomosti K, návrh na vklad s datem podání.
+
+**2. Právní otázka.** Nabyl K vlastnické právo k pozemku na základě dobré víry v zápis (§ 984), ač jeho převodce X nebyl skutečným vlastníkem, a brání tomu nečinnost Z (nepodání poznámky spornosti dle § 986)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 980 (negativní i pozitivní publicita, domněnka souladu zápisu se skutečností), § 984 (nabytí od neoprávněného podle stavu zápisu — úplatnost + dobrá víra), § 985 a § 986 (odstranění nesouladu, poznámka spornosti a její lhůty).
+- *Související ustanovení téhož zákona:* § 982 (pořadí podle podání návrhu), § 1100 a násl. (nabytí vlastnického práva k nemovitosti vkladem), § 1109—1113 (nabytí od neoprávněného obecně).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, poznámka spornosti).
+- *Judikatura:* NS 22 Cdo 679/2025 a 22 Cdo 817/2024 k § 980 odst. 2 (domněnka souladu zápisu se skutečným stavem; nelze požadovat ověřování nad rámec zápisu); NS 22 Cdo 916/2024 a 22 Cdo 304/2024 (rozsah ochrany podle § 984, otázka bezúplatných převodů); ÚS II. ÚS 2526/14 a I. ÚS 315/15.
+
+**4. Subsumpce.** Zápis svědčí ve prospěch X (§ 980 odst. 2). K nabyl *za úplatu* a *v dobré víře* od osoby zapsané jako oprávněná → znaky § 984 odst. 1 jsou splněny; dobrá víra se posuzuje k době podání návrhu na vklad. Z nevyužil ochranný mechanismus § 986 (poznámka spornosti do 1 měsíce od vědomosti), takže pozdější rozhodnutí o jeho právu nepůsobí vůči K, byl-li K v dobré víře.
+
+**5. Řešení.** K zpravidla vlastnické právo nabyde a je chráněn proti Z; určovací žaloba Z proti K bude neúspěšná, neprokáže-li Z nedostatek dobré víry K či úplatnosti, popř. že jde o výjimku dle § 984 odst. 2. Z se může hojit jen vůči X (náhrada škody, bezdůvodné obohacení). Procesně: pro K je klíčové doložit úplatnost, dobrou víru a datum podání návrhu; pro Z včasná poznámka spornosti a žaloba.
+
+**6. Varianty.** (a) Kdyby byl převod na K *bezúplatný*, ochrana podle § 984 by se neuplatnila a K by vlastnictví od neoprávněného nenabyl. (b) Kdyby Z podal poznámku spornosti do 1 měsíce od vědomosti a včas žalobu, působilo by rozhodnutí i vůči K (§ 986 odst. 2) a K by byl chráněn jen při nedostatku své dobré víry. (c) Šlo-li by o nezbytnou cestu, výměnek nebo zákonné věcné právo, ochrana podle § 984 by byla vyloučena (§ 984 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Materiální pravda nad publicitou":* Z může tvrdit, že nikdo nemůže převést více práv, než sám má (nemo plus iuris). Neutralizace: § 984 je zákonnou výjimkou chránící dobrověrného úplatného nabyvatele právě proti této zásadě; NS 22 Cdo 679/2025 brání požadavku na ověřování nad rámec zápisu.
+- *Zpochybnění dobré víry:* riziko, že okolnosti (podezřele nízká cena, známé spory, příbuzenský vztah stran) dobrou víru vyloučí. Neutralizace: doložit standard obvyklé opatrnosti nabyvatele a nahlédnutí do katastru.
+- *Bezúplatnost a osoby blízké:* u převodů mezi příbuznými/bezúplatných hrozí vyloučení ochrany (§ 984 odst. 1 a contrario); judikatura (22 Cdo 916/2024) otázku bezúplatných převodů řeší restriktivně.
+- *Slabé místo:* běh a počátek lhůt poznámky spornosti (§ 986 odst. 2 a 3) jsou snadno opomenutelné; chybné určení okamžiku „vědomosti" může zhatit ochranu Z.
+
+#### H. Praktický závěr
+
+Materiální publicita veřejného seznamu chrání dobrověrného úplatného nabyvatele, který spoléhal na zápis (§ 984), a zakládá domněnku souladu zápisu se skutečností (§ 980 odst. 2). Skutečný vlastník se brání odstraněním nesouladu (§ 985) a zejména včasnou poznámkou spornosti (§ 986); zmešká-li lhůty, riskuje ztrátu práva vůči dobrověrnému nabyvateli.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nabyl nabyvatel *za úplatu* a *v dobré víře* od osoby zapsané jako oprávněná?
+- [ ] K jakému okamžiku se posuzuje dobrá víra (právní jednání, nebo podání návrhu na vklad)?
+- [ ] Nejde o výjimku dle § 984 odst. 2 (nezbytná cesta, výměnek, zákonné věcné právo)?
+- [ ] Podal dotčený vlastník poznámku spornosti do 1 měsíce od vědomosti a žalobu do 2 měsíců od žádosti?
+- [ ] Byl žadatel o cizím zápisu řádně vyrozuměn (jinak lhůta 3 roky, § 986 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výpisy z katastru s časovými údaji a plombami, kupní/převodní smlouva a doklad o úhradě ceny, návrh na vklad s datem podání, doklady o vědomosti/nevědomosti nabyvatele, žádost o poznámku spornosti a žaloba na odstranění nesouladu.
+
 ---
 
 ## Hlava II Díl 2 — Držba (§ 987—1010)
@@ -202,6 +348,42 @@ Hlava II se vztahuje na:
 - *NS* [22 Cdo 46/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB714CA006AB2E09C1258DA60052AA47?openDocument) — *Přípustnost dovolání Ochrana vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
   > „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A léta vybíral úroky z vkladu na vkladní knížce a tvrdí, že tím „držel" právo k vkladu a posléze je vydržel. Jeho protějšek B namítá, že právo k vkladu na vkladní knížce vůbec není způsobilým předmětem držby. Důkazy: vkladní knížka, výpisy o pohybech, doklad o tom, kdo je majitelem vkladu u banky.
+
+**2. Právní otázka.** Je právo k vkladu na vkladní knížce právem, které lze držet ve smyslu § 988 (tj. připouští trvalý nebo opakovaný výkon a lze je převést), a může tak být předmětem držby dle § 987?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 987 (držitel = kdo vykonává právo pro sebe), § 988 (lze držet jen převoditelné právo umožňující trvalý/opakovaný výkon; osobní právo není předmětem držby), § 989 (vlastnické právo drží, kdo se věci ujal jako vlastník; jiné právo drží, kdo je počal vykonávat jako oprávněný a komu jiní ve shodě plní).
+- *Související ustanovení téhož zákona:* § 979 (aplikace na práva podle povahy), § 1089 a násl. (vydržení), § 2662 a násl. (účet, vklad).
+- *Související předpisy:* —.
+- *Judikatura:* NS 22 Cdo 2957/2020: „Právo ke vkladu na vkladní knížce není způsobilé být předmětem držby a nemůže dojít k jeho vydržení, neboť jeho povaha nepřipouští trvalý nebo opakovaný výkon." NS 22 Cdo 2467/2025, 22 Cdo 1386/2025, 22 Cdo 1310/2025, 22 Cdo 46/2026: „Podle § 987 o. z. držitelem je ten, kdo vykonává právo pro sebe."
+
+**4. Subsumpce.** Aby šlo o držbu, musí jít o právo (a) převoditelné a (b) připouštějící trvalý/opakovaný výkon (§ 988). Právo k vkladu tuto druhou podmínku podle NS nesplňuje (jeho výkon je svou povahou jednorázový). A proto nedrží způsobilý předmět; výkon (výběr úroků) nezakládá držbu ve smyslu § 987.
+
+**5. Řešení.** Tvrzení o držbě a následném vydržení práva k vkladu neobstojí (§ 988, NS 22 Cdo 2957/2020). A může uspět jen průkazem nabývacího titulu k vkladu, nikoli faktickým výkonem. Procesně: zaměřit se na to, kdo je majitelem vkladu podle smlouvy s bankou.
+
+**6. Varianty.** (a) U vlastnického práva k hmotné věci (pozemek, stroj) je předmět držby způsobilý — drží ten, kdo se věci ujal jako vlastník (§ 989 odst. 1). (b) U služebnosti cesty (právo umožňující opakovaný výkon) je držba možná a může vést k vydržení (§ 989 odst. 2, § 1089).
+
+#### G. Protiargumenty a rizika
+
+- *„Vykonával jsem to pro sebe":* námitka, že výkon práva pro sebe stačí ke vzniku držby (§ 987). Neutralizace: § 987 předpokládá způsobilý předmět dle § 988; ne každý faktický výkon je držbou.
+- *Záměna corpus a animus:* riziko, že bude prokázán jen faktický výkon (corpus) bez vůle držet právo jako vlastní (animus) nebo bez plnění od jiných „ve shodě" (§ 989 odst. 2).
+- *Slabé místo:* posouzení „povahy" práva (trvalý/opakovaný výkon) je hodnotící; chybné zařazení vede k mylnému závěru o (ne)způsobilosti k držbě a vydržení.
+
+#### H. Praktický závěr
+
+Držba předpokládá způsobilý předmět: převoditelné právo umožňující trvalý nebo opakovaný výkon (§ 988). Osobní práva a práva svou povahou jednorázová (např. právo k vkladu na vkladní knížce) předmětem držby nejsou a nelze je vydržet.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává osoba právo *pro sebe* (animus), nebo jen za jiného (detence)?
+- [ ] Je tvrzené právo převoditelné a připouští trvalý/opakovaný výkon (§ 988)?
+- [ ] Nejde o osobní právo vyloučené z držby a vydržení?
+- [ ] U „jiného práva" — plní jiné osoby ve shodě s držitelem (§ 989 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o povaze a obsahu tvrzeného práva, smluvní dokumentace k předmětu (např. smlouva o vkladu/účtu), důkazy o výkonu práva a o plnění ze strany jiných osob.
+
 ### § 990 — Nabytí držby
 
 > (1) **Bezprostředně** — držitel se jí **ujme svou mocí** (v rozsahu fakticky ujatém).
@@ -215,6 +397,42 @@ Hlava II se vztahuje na:
 - *KS v Českých Budějovicích* [5 Co 1148/2024-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=b049473a-6e2f-4dcb-bac3-28f5808c248a) — *spoluvlastnictví, notářský zápis, smlouva darovací, smlouva kupní, podílové spoluvlastni…*
 - *OS v Kladně* [16 C 7/2026-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=85d4131f-b2be-49be-9f9e-7037dc60b18c) — *lhůty, držba, náklady řízení*
 - *OS v Teplicích* [11 C 230/2022-141](https://rozhodnuti.justice.cz/rozhodnuti/?id=6e29a5d8-9252-4108-b97a-8c2dade0a0fd) — *základní jmění, odbory, pozemní komunikace, smlouva kupní, věcná břemena, držba, služebn…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zůstavitel Z užíval 8 let pozemek souseda v domnění, že je jeho (na základě chybně zaměřené koupě). Z zemře a dědic D pokračuje v užívání. D se po dvou letech domáhá určení vydržení a tvrdí, že navazuje na držbu Z a může si dobu Z započítat. Soused namítá, že D začal držet teprve sám. Důkazy: dědické usnesení, kupní smlouva Z, geometrický plán, doklady o nepřetržitém užívání pozemku Z i D.
+
+**2. Právní otázka.** Nabyl D držbu *odvozeně* od Z (a může připočítat dobu držby Z dle § 990 odst. 2), nebo jde o *bezprostřední* (původní) nabytí držby teprve D, takže se doba Z nezapočítá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 990 — držba se nabývá buď bezprostředně (vlastní mocí, v rozsahu fakticky ujatém), nebo odvozeně od dosavadního držitele (v rozsahu, jak ji on měl).
+- *Související ustanovení téhož zákona:* § 987—989 (pojem a způsobilost držby), § 1089—1091 (vydržení, započtení doby předchůdce), § 1670 (univerzální sukcese dědice).
+- *Související předpisy:* —.
+- *Judikatura:* k započtení doby držby právního předchůdce při vydržení ustáleně NS (řada rozhodnutí senátu 22 Cdo, např. ve věcech vydržení a držby z místních zdrojů); pro úspěch je nutná nepřetržitost a navázání držby nástupce na předchůdce.
+
+**4. Subsumpce.** Dědic je univerzálním sukcesorem (§ 1670). Drží-li D pozemek navazujíc na držbu Z bez přerušení, jde o odvozené nabytí dle § 990 odst. 2 — D nabývá držbu v rozsahu, jak ji měl Z, a může si dobu Z připočítat. Předpokladem je, že držba Z byla způsobilá (poctivá, pravá) a že navázání je prokázáno.
+
+**5. Řešení.** Při prokázaném plynulém navázání je doba držby Z započitatelná D (§ 990 odst. 2 ve spojení s § 1089 a násl.); vydržení může být dovršeno. Procesně: doložit nepřetržitost a totožnost předmětu i rozsahu držby; klíčová je poctivost na straně Z i D.
+
+**6. Varianty.** (a) Kdyby D zabral pozemek nově a sám (bez návaznosti na Z), šlo by o bezprostřední nabytí (§ 990 odst. 1) a doba Z by se nezapočítala. (b) Kdyby byla držba Z nepoctivá, posuzovala by se poctivost D od jeho vlastního nabytí (§ 1089 odst. 2) a pro řádné vydržení by doba Z nesvědčila.
+
+#### G. Protiargumenty a rizika
+
+- *Přerušení držby:* soused může tvrdit, že mezi smrtí Z a převzetím D nastalo přerušení faktického výkonu. Neutralizace: § 1009 odst. 2 — nevykonávání ani smrt držbu samy o sobě neukončují; doložit kontinuitu.
+- *Rozsah ujaté držby:* u bezprostředního nabytí se drží jen v rozsahu fakticky ujatém; riziko, že část pozemku nebyla nikdy fakticky držena.
+- *Slabé místo:* prokázání „navázání" a poctivosti předchůdce; bez nich se odvozené nabytí a započtení doby neuplatní.
+
+#### H. Praktický závěr
+
+§ 990 rozlišuje původní (bezprostřední) a odvozené nabytí držby; rozhoduje to o rozsahu držby a — ve spojení s úpravou vydržení — o možnosti připočíst dobu držby předchůdce. Pro nástupce (zejména dědice) je klíčové prokázat plynulé navázání na způsobilou držbu předchůdce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nabyl držitel držbu vlastní mocí (bezprostředně), nebo od dosavadního držitele (odvozeně)?
+- [ ] V jakém rozsahu byla držba fakticky ujata / jak ji měl předchůdce?
+- [ ] Je prokázána nepřetržitost a navázání držby nástupce na předchůdce?
+- [ ] Byla držba předchůdce poctivá a pravá (předpoklad připočtení doby pro vydržení)?
+
+**Typicky rozhodné důkazy / podklady:** nabývací titul a geometrický plán, dědické usnesení / doklad o sukcesi, svědectví a listiny o nepřetržitém užívání, podklady k posouzení poctivosti držby předchůdce i nástupce.
 
 ### § 991—994 — Typy držby
 
@@ -262,6 +480,43 @@ Hlava II se vztahuje na:
 - *NS* [8 Tdo 702/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93418B4A83BB1E24C1258D17004D3C08?openDocument) — *Zpronevěra Znalecký posudek Znalec Dokazování Škoda Škoda značná Hodnocení důkazů Cizí v…*
   > „Obviněná nebyla vlastníkem předmětných finančních prostředků, byť byly zaslány na její účet, ale pouze osobou, které byly tyto finanční prostředky svěřeny k tomu, aby s nimi v souladu s účelem jejich svěření nakládala (k tomu srov. § 991 a násl. obč. zákoníku)."
 - *NS* [22 Cdo 2769/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/516FE04BC7F5792AC1258D700052AB14?openDocument) — *Ochrana vlastnictví Poctivá držba (o. z.) [ Držba (o. z.) ] Vydržení*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A užívá 9 let pruh sousedního pozemku jako součást své zahrady na základě kupní smlouvy, v níž byl pozemek chybně zaměřen; A byl přesvědčen, že pruh koupil. Soused S podá žalobu na vyklizení a tvrdí, že A drží nepoctivě a nepravě. A se brání vydržením a domněnkami § 994. Důkazy: kupní smlouva a geometrický plán, oplocení, fotodokumentace, okolnosti, za nichž se A pruhu ujal.
+
+**2. Právní otázka.** Svědčí A domněnky řádné, poctivé a pravé držby (§ 994), a unesl by S důkazní břemeno k jejich vyvrácení, zejména ke zpochybnění poctivosti (§ 992) a pravosti (§ 993)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 991 (řádná držba — platný právní důvod / bezprostřední ujetí bez rušení / z vůle předchůdce / dle rozhodnutí), § 992 (poctivá držba — přesvědčivý důvod; nepoctivost zástupce), § 993 (pravá držba — bez svémoci, lsti, výprosy), § 994 (vyvratitelné domněnky všech tří), § 995 (po doručení žaloby se poctivý držitel považuje za nepoctivého).
+- *Související ustanovení téhož zákona:* § 1089—1090 (řádné vydržení vyžaduje poctivost a pravost, nikoli nutně řádnost), § 1095 (mimořádné vydržení), § 996 a násl. (práva držitele).
+- *Související předpisy:* —.
+- *Judikatura:* NS 22 Cdo 2163/2024 a 22 Cdo 1620/2023: „Držba způsobilá k řádnému vydržení musí být podle výslovného znění zákona poctivá (§ 1089 ve spojení s § 992 odst. 2 o. z.) a pravá (§ 993 o. z.); naopak nemusí být řádná ve smyslu § 991 o. z." NS 22 Cdo 2307/2022, 22 Cdo 3815/2023, 22 Cdo 2826/2025 (poctivá/pravá držba).
+
+**4. Subsumpce.** A svědčí domněnka § 994 (řádná, poctivá, pravá), důkazní břemeno opaku nese S. Pro vydržení postačí poctivost a pravost; řádnost (§ 991) není nutnou podmínkou (NS 22 Cdo 2163/2024). A se pruhu ujal z přesvědčivého důvodu (kupní smlouva) → poctivost; nešlo o svémoc/lest/výprosu → pravost. Doručením žaloby se však A stává nepoctivým do budoucna (§ 995), což může mít vliv na běh a dovršení vydržecí doby.
+
+**5. Řešení.** Neunese-li S důkaz o nepoctivosti či nepravosti, A se opře o domněnky § 994 a o případné dovršení vydržení; žaloba na vyklizení bude neúspěšná. Procesně: A doloží titul a přesvědčivý důvod; S musí prokázat, že A vědět musel o tom, že právo nemá, popř. svémoc/lest. Pozor na § 995 — okamžik doručení žaloby.
+
+**6. Varianty.** (a) Kdyby A pruh oplotil, ač z geometrického plánu plynulo, že není jeho, mohl by S vyvrátit poctivost (§ 992 — „muselo mu být zjevné") a vydržení by selhalo. (b) Kdyby A pruh získal jen na základě výprosy souseda a usiloval ji proměnit v trvalé právo, šlo by o nepravou držbu (§ 993) a vydržení by nebylo možné.
+
+#### G. Protiargumenty a rizika
+
+- *Vyvrácení poctivosti:* S namítne, že A si při běžné opatrnosti měl ověřit hranice (§ 992 — „muselo mu být z okolností zjevné"). Neutralizace: doložit, že přesvědčivý důvod (kupní smlouva) zakládal poctivost a že vady zaměření nebyly zjevné.
+- *Nepravost z výprosy:* riziko překvalifikování trpěného užívání na výprosu, jejíž proměnu v právo § 993 vylučuje. Neutralizace: prokázat samostatný výkon „jako vlastník", nikoli z dovolení souseda.
+- *Účinky žaloby (§ 995):* po doručení žaloby je držba do budoucna nepoctivá; přehlédnutí tohoto okamžiku zkresluje výpočet vydržecí doby a nároků na plody/užitky.
+- *Slabé místo:* domněnky § 994 jsou vyvratitelné; spoléhání jen na ně bez doložení titulu a okolností ujetí držby je rizikové.
+
+#### H. Praktický závěr
+
+Držba se presumuje jako řádná, poctivá a pravá (§ 994); kdo to popírá, nese důkazní břemeno. Pro řádné vydržení jsou rozhodné poctivost (§ 992) a pravost (§ 993) — nikoli nutně řádnost (§ 991). Doručením žaloby napadající držbu se poctivý držitel pro futuro považuje za nepoctivého (§ 995).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Která vlastnost držby je sporná — řádnost, poctivost, nebo pravost?
+- [ ] Měl držitel přesvědčivý důvod domnívat se, že mu právo náleží (§ 992)?
+- [ ] Nešlo o nabytí svémocí, potajmu, lstí nebo o proměnu výprosy v právo (§ 993)?
+- [ ] Kdy byla doručena žaloba napadající držbu (§ 995) a jak to ovlivňuje poctivost a vydržecí dobu?
+
+**Typicky rozhodné důkazy / podklady:** nabývací titul a geometrický plán, doklady o okolnostech ujetí držby a o přesvědčení držitele, listiny o trpění/výprose ze strany souseda, datum doručení žaloby.
 
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
 
@@ -311,6 +566,44 @@ Hlava II se vztahuje na:
 - *NS* [28 Cdo 2738/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EF0DDCE97468CFC1258BE80052D93D?openDocument) — *Přípustnost dovolání Poctivá držba (o. z.) [ Držba (o. z.) ] Užitky (o. z.)*
   > „2014 (dále „o. z.“ nebo „zákon č. 89/2012 Sb.“), a měl tudíž stejná práva jako vlastník (včetně práva požívat plody a užitky z předmětu držby – viz § 130 odst. 2 obč. zák., jakož i § 996 odst. 2 o. z.)."
 - *NS* [22 Cdo 3718/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9BA485208C087ACC1258A58001B8192?openDocument) — *Poctivá držba (o. z.) [ Držba (o. z.) ]*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A několik let v dobré víře (na základě neplatné kupní smlouvy) užíval sad souseda, sklízel ovoce, posekal trávu (běžná údržba) a vybudoval kapkovou závlahu, čímž zvýšil hodnotu pozemku. Po určení vlastnictví ve prospěch souseda S se A domáhá náhrady nákladů na závlahu a tvrdí, že mu náleží i sklizené ovoce; S naopak žádá vydání užitků a náhradu. Důkazy: doklady o vynaložených nákladech, znalecké ocenění zhodnocení, evidence sklizně, doba a poctivost držby.
+
+**2. Právní otázka.** Náleží A jako (do určitého okamžiku) poctivému držiteli sklizené plody a náhrada nákladů na závlahu, a od kdy se případně stává nepoctivým s povinností vydat užitky a nahradit škodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 996 (poctivý držitel smí věc užívat a náležejí mu plody po oddělení a vybrané dospělé užitky), § 997 (náhrada nutných a účelných nákladů zvyšujících hodnotu, do výše přítomné hodnoty; obvyklé udržovací náklady se nehradí), § 998 (náklady ze záliby/okrasy jen do zvýšení obvyklé ceny + právo oddělit), § 999 (nelze žádat cenu, za kterou věc nabyl), § 1000—1001 (povinnosti nepoctivého držitele), § 1002 (přiměřeně pro jiná práva).
+- *Související ustanovení téhož zákona:* § 992 a § 995 (poctivost a její ztráta doručením žaloby), § 2991 a násl. (bezdůvodné obohacení — pro srovnání).
+- *Související předpisy:* —.
+- *Judikatura:* NS 22 Cdo 3071/2024 (volba mezi § 996—999 pro poctivé a § 1000—1001 pro nepoctivé držitele); NS 28 Cdo 2738/2024 (poctivý držitel má právo na plody a užitky — § 996 odst. 2); NS 22 Cdo 3718/2022 (poctivá držba).
+
+**4. Subsumpce.** Do doručení žaloby je A poctivým držitelem (§ 992, § 995): náleží mu plody po oddělení a vybrané dospělé užitky (§ 996 odst. 2); za vynaloženou závlahu (účelný náklad zvyšující hodnotu) mu náleží náhrada do výše přítomné hodnoty, nepřevyšuje-li skutečné náklady (§ 997 odst. 1); běžné sečení je obvyklý udržovací náklad bez náhrady (§ 997 odst. 2). Od doručení žaloby se A považuje za nepoctivého → pro období poté vydá užitek a nahradí škodu (§ 1000).
+
+**5. Řešení.** A má nárok na náhradu nákladů na závlahu (do přítomné hodnoty) a ponechá si plody/užitky z období poctivé držby; za období po doručení žaloby vydá užitky a nahradí škodu (§ 1000). S vzájemně započte své nároky. Procesně: pečlivě rozdělit období poctivé a nepoctivé držby a doložit přítomnou hodnotu zhodnocení znalecky.
+
+**6. Varianty.** (a) Kdyby A byl od počátku nepoctivý, náležela by mu jen náhrada nutných nákladů na zachování podstaty (§ 1001), nikoli plody, a vydal by veškerý užitek (§ 1000). (b) Šlo-li by o okrasnou úpravu (např. okrasné jezírko) z pouhé záliby, hradilo by se jen zvýšení obvyklé ceny a A by mohl oddělit, co lze bez zhoršení podstaty (§ 998).
+
+#### G. Protiargumenty a rizika
+
+- *Spor o povahu nákladu:* S namítne, že závlaha je jen udržovacím nákladem (§ 997 odst. 2 — bez náhrady). Neutralizace: doložit, že šlo o investici zvyšující hodnotu/užitečnost, nikoli o obvyklou údržbu.
+- *Okamžik ztráty poctivosti:* riziko, že soud posune počátek nepoctivosti dříve (vědomost o vadě titulu před žalobou). Neutralizace: § 995 váže nepoctivost na doručení žaloby, ledaže nepoctivost plyne dříve z § 992.
+- *Strop náhrady:* náhrada je limitována přítomnou hodnotou (§ 997 odst. 1); přefakturované skutečné náklady se nehradí nad tento strop.
+- *Slabé místo:* dokazování výše zhodnocení a oddělitelnosti zařízení (§ 998) bývá znalecky náročné a může nárok výrazně snížit.
+
+#### H. Praktický závěr
+
+Rozhodující je, zda a do kdy byl držitel poctivý. Poctivému držiteli náleží plody a užitky a náhrada nutných i účelných (hodnotu zvyšujících) nákladů do výše přítomné hodnoty (§ 996—997); běžná údržba se nehradí. Nepoctivý držitel vydá veškerý užitek a nahradí škodu, s náhradou jen nutných nákladů na zachování podstaty (§ 1000—1001).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl držitel poctivý, a do kterého okamžiku (§ 992, § 995)?
+- [ ] Jde o náklad nutný/účelný (zvyšující hodnotu) — § 997 odst. 1, nebo o obvyklou údržbu — § 997 odst. 2?
+- [ ] Nepřesahuje požadovaná náhrada přítomnou hodnotu věci?
+- [ ] U nákladů ze záliby/okrasy: o kolik se zvýšila obvyklá cena a co lze oddělit (§ 998)?
+- [ ] Za období nepoctivé držby: jaký užitek se vydává a jaká škoda nahrazuje (§ 1000)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o vynaložených nákladech, znalecké ocenění zhodnocení a přítomné hodnoty, evidence plodů a užitků, doba držby a okamžik ztráty poctivosti (datum doručení žaloby).
 
 ### § 1003—1009 — Ochrana držby
 
@@ -375,6 +668,44 @@ Hlava II se vztahuje na:
 
 - *ÚS* [II. ÚS 162/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-162-26_1) — usnesení, 4. 2. 2026
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A léta nerušeně užíval příjezdovou cestu přes pozemek souseda S (faktický stav, ať již z titulu, či bez něj). Dne 1. 3. S cestu přehradil betonovými panely a A znemožnil průjezd; A se o tom téhož dne dozvěděl a věděl, kdo zábranu zřídil. A podal žalobu na ochranu držby (obnovení stavu) až 10. 6. téhož roku. Důkazy: doklady o dosavadním nerušeném užívání cesty, fotodokumentace zábrany, datum, kdy se A o rušení a osobě rušitele dozvěděl, datum podání žaloby.
+
+**2. Právní otázka.** Lze žalobě A na ochranu (uchování) držby vyhovět, byla-li podána více než šest týdnů poté, co se A dozvěděl o rušení i o osobě rušitele (§ 1008 odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1003 (zákaz svémocného rušení; právo na zdržení se a uvedení v předešlý stav), § 1006 (svépomoc v mezích nutné obrany), § 1007 (vypuzení z držby — žaloba na obnovení; námitka nepravé držby/vypuzení), § 1008 (prekluzivní lhůty: 6 týdnů subjektivní, 1 rok objektivní), § 1009 (zánik držby).
+- *Související ustanovení téhož zákona:* § 1004—1005 (ohrožení/odstraňování stavby), § 1040 a § 1042 (vlastnické žaloby — petitorní ochrana), § 629 (promlčecí lhůty — pro srovnání).
+- *Související předpisy:* o. s. ř. (řízení o žalobách z rušené držby — zvláštní úprava rychlého řízení).
+- *Judikatura:* k povaze posesorní ochrany jako rychlé ochrany faktického stavu (ÚS II. ÚS 162/26; ustálené pojetí, že v posesorním řízení se nezkoumá právní titul, nýbrž poslední pokojný stav).
+
+**4. Subsumpce.** Jde o svémocné rušení/vypuzení z držby (§ 1003, § 1007). A by měl nárok na obnovení stavu, ale uplatnil jej po uplynutí subjektivní šestitýdenní lhůty (§ 1008 odst. 1), která počala dnem, kdy se dozvěděl o rušení i o osobě rušitele (1. 3.). Marným uplynutím lhůty právo na posesorní ochranu prekludovalo.
+
+**5. Řešení.** Soud žalobu na ochranu držby zamítne pro opožděnost (§ 1008 odst. 1). A však neztrácí petitorní ochranu: může se domáhat svého práva žalobou vlastnickou/negatorní (§ 1040, § 1042) nebo na základě titulu k cestě (např. služebnost, nezbytná cesta dle § 1029), kde platí promlčecí, nikoli šestitýdenní lhůty. Procesně: zvolit petitorní žalobu, neboť posesorní cesta je uzavřena.
+
+**6. Varianty.** (a) Kdyby A žaloval do šesti týdnů od 1. 3., soud by v rychlém řízení nařídil obnovení posledního pokojného stavu bez zkoumání titulu. (b) Kdyby A reagoval ihned při činu svépomocí (odstranění čerstvě umístěné zábrany) v mezích nutné obrany (§ 1006), mohl stav obnovit bez soudu.
+
+#### G. Protiargumenty a rizika
+
+- *Záměna posesorní a petitorní ochrany:* protistrana může účelově směšovat otázku titulu; v posesorním sporu je však titul nerozhodný (chrání se poslední pokojná držba). Riziko pro žalobce: spoléhat na posesorní žalobu po prekluzi.
+- *Počátek subjektivní lhůty:* spor o to, kdy se žalobce „dozvěděl" o rušení i osobě rušitele. Neutralizace: doložit konkrétní okamžik vědomosti; nejistota jde k tíži toho, kdo lhůtu zmeškal.
+- *Objektivní limit:* i při pozdní vědomosti nelze žalovat po roce od první možnosti uplatnění (§ 1008 odst. 1 in fine).
+- *Slabé místo:* posesorní ochrana je dočasná a neřeší právo s konečnou platností; bez navazující petitorní žaloby může spor pokračovat.
+
+#### H. Praktický závěr
+
+Posesorní ochrana (§ 1003, § 1007) je rychlým prostředkem k obnovení faktického stavu bez zkoumání titulu, je však vázána na velmi krátké prekluzivní lhůty (§ 1008: 6 týdnů subjektivně, 1 rok objektivně). Po jejich marném uplynutí zůstává jen petitorní (vlastnická) ochrana. Při čerstvém rušení lze využít svépomoc (§ 1006). Nevykonávání ani smrt držbu samy o sobě neukončují (§ 1009 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o svémocné rušení nebo vypuzení z držby (§ 1003, § 1007)?
+- [ ] Kdy se žalobce dozvěděl o rušení i o osobě rušitele (počátek 6týdenní lhůty)?
+- [ ] Neuplynul objektivní roční limit od první možnosti uplatnění práva?
+- [ ] Nepřichází v úvahu okamžitá svépomoc v mezích nutné obrany (§ 1006)?
+- [ ] Je při prekluzi posesorní ochrany k dispozici petitorní žaloba (§ 1040, § 1042, titul k cestě)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o dosavadním pokojném stavu držby, fotodokumentace rušení/zábrany, prokázání data vědomosti o rušení a o osobě rušitele, datum podání žaloby, případně podklady k petitornímu titulu.
+
 ---
 
 ## Hlava II Díl 3 — Vlastnictví
@@ -406,6 +737,43 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
   > „S odkazem na § 1011 až § 1013 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), uzavřel, že žalované odvětráváním sklepních prostor, suterénu a bytové jednotky do společných prostor nad míru přiměřenou poměrům ruší výkon vlastnického práva žalobkyně a obtěžují ji."
 - *NS* [22 Cdo 4167/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03A7D8C12669C714C12585E40018A0FB?openDocument) — *Ochrana vlastnictví*
 - *NS* [4 Tdo 887/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1FB3F4C6C1181346C1258ABA001B7FA7?openDocument) — *Bezplatná obhajoba Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru Po…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník A vztyčí na hranici svého pozemku vysokou neprůhlednou stěnu, která nemá žádné využití a jejímž jediným zjevným účelem je zastínit okna a zahradu souseda S, s nímž je A ve sporu. S se domáhá odstranění stěny s tím, že jde o šikanózní výkon vlastnického práva. A namítá, že na svém pozemku může stavět cokoli. Důkazy: situační plán, fotodokumentace zastínění, korespondence dokládající motiv A, případně posudek k oslunění.
+
+**2. Právní otázka.** Je vztyčení stěny výkonem vlastnického práva v mezích § 1012, nebo jde o zákonem zapovězené jednání, jehož hlavním účelem je poškodit/obtěžovat jiného (zákaz šikany), případně o nepřípustné rušení práv souseda nad míru přiměřenou poměrům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1011 (předmět vlastnictví), § 1012 (obsah vlastnictví — libovolné nakládání a vyloučení jiných, ale v mezích právního řádu; zákaz nad míru rušit práva jiných a zákaz šikany).
+- *Související ustanovení téhož zákona:* § 8 (zákaz zneužití práva), § 1013 (imise — zde stín), § 1042 (negatorní ochrana souseda).
+- *Související předpisy:* stavební předpisy (přípustnost a parametry oplocení/stavby).
+- *Judikatura:* NS 22 Cdo 891/2024 (vlastnictví, ochrana vlastnictví, zneužívání výkonu práv); NS 26 Cdo 2359/2018 (s odkazem na § 1011—1013: rušení výkonu vlastnického práva nad míru přiměřenou poměrům); NS 22 Cdo 350/2025 a 22 Cdo 4167/2019 (ochrana vlastnictví).
+
+**4. Subsumpce.** Stavba na vlastním pozemku je principiálně dovolena (§ 1012 věta první), avšak limit tvoří „meze právního řádu", zákaz rušit práva jiných nad míru přiměřenou poměrům a zákaz šikany. Postrádá-li stěna jakýkoli legitimní účel a směřuje-li hlavně k poškození/obtěžování S (stín — srov. § 1013), jde o zneužití práva (§ 8) a výkon mimo meze § 1012.
+
+**5. Řešení.** Prokáže-li S šikanózní motiv a nepřiměřené dotčení (zastínění), může se domáhat odstranění/úpravy stěny (§ 1012 ve spojení s § 8 a § 1042). Klíčové je doložit, že stěna nemá rozumný účel a hlavním účelem je škodit. Procesně: snést důkazy o motivu A a o míře zastínění; samotná nelibost souseda nestačí.
+
+**6. Varianty.** (a) Kdyby stěna plnila reálnou funkci (protihluková clona, opěrná zeď, ochrana soukromí) a zastínění by bylo přiměřené poměrům, šlo by o dovolený výkon vlastnického práva. (b) Kdyby šlo o běžné oplocení v souladu se stavebními předpisy bez prokázaného škodlivého motivu, nárok S by neobstál.
+
+#### G. Protiargumenty a rizika
+
+- *„Na svém mohu vše":* A se opře o § 1012 (libovolné nakládání). Neutralizace: tatáž norma stanoví meze (právní řád, zákaz nepřiměřeného rušení a šikany); absolutní volnost vlastník nemá.
+- *Důkaz motivu:* šikanózní účel se prokazuje obtížně (jde o vnitřní pohnutku). Neutralizace: opřít se o objektivní indicie — absence jakéhokoli rozumného účelu stavby, kontext sporu, časová souvislost.
+- *Hranice s veřejným právem:* riziko, že stavba je z hlediska stavebních předpisů povolená; soukromoprávní zákaz šikany tím však není vyloučen.
+- *Slabé místo:* pouhé subjektivní obtěžování bez nepřiměřenosti a bez škodlivého účelu nestačí; nárok může selhat na míře dotčení.
+
+#### H. Praktický závěr
+
+§ 1012 vymezuje vlastnictví jako právo libovolně nakládat a vyloučit jiné, avšak v mezích právního řádu a se zákazem nepřiměřeně rušit práva jiných a zákazem šikany. Výkon, jehož hlavním účelem je poškodit či obtěžovat souseda a který postrádá rozumný účel, požívá ochrany jen omezeně a může vést k povinnosti zdržet se / odstranit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon vlastnického práva v mezích právního řádu (§ 1012)?
+- [ ] Má jednání rozumný účel, nebo směřuje hlavně k obtěžování/poškození jiného (zákaz šikany, § 8)?
+- [ ] Je dotčení práv souseda nepřiměřené místním poměrům (návaznost na § 1013)?
+- [ ] Je k dispozici negatorní ochrana souseda (§ 1042)?
+
+**Typicky rozhodné důkazy / podklady:** situační a stavební plány, fotodokumentace a měření (zastínění, oslunění), korespondence a okolnosti dokládající účel/motiv jednání, posudky k míře obtěžování.
 
 ### § 1013—1023 — Sousedské vztahy
 
@@ -501,6 +869,43 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 2084/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417A30BC18109522C1258C3B0052B31E?openDocument) — *Imise Sousedská práva*
   > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel P provozuje úředně schválený autodrom/polygon poblíž obytné zástavby. Soused S (vlastník rodinného domu) je obtěžován hlukem z motorových zkoušek a závodů. S se domáhá, aby se P zdržel hlukových imisí nad 64 dB bez ohledu na denní dobu, fakticky po celý rok. P namítá, že provoz byl úředně schválen a S má nanejvýš nárok na peněžitou náhradu. Důkazy: protokol o schválení provozu, hlukové měření (LAeq), znalecký posudek o místních poměrech, evidence akcí.
+
+**2. Právní otázka.** Může se soused vůči úředně schválenému provozu domáhat zdržení se hlukových imisí (zdržovací nárok), nebo je jeho ochrana omezena na náhradu újmy v penězích podle § 1013 odst. 2, a jak se posuzuje „míra nepřiměřená místním poměrům"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1013 (zákaz nepřímých imisí nad míru přiměřenou místním poměrům podstatně omezujících obvyklé užívání; zákaz přímých imisí vždy; § 1013 odst. 2 — u úředně schváleného provozu jen náhrada újmy v penězích, ledaže je překročen schválený rozsah).
+- *Související ustanovení téhož zákona:* § 1012 (obsah a meze vlastnictví), § 1042 (negatorní žaloba), § 1019 (voda/sníh ze stavby), § 2900 a násl. (prevence a náhrada újmy).
+- *Související předpisy:* zákon o ochraně veřejného zdraví (hygienické limity hluku), stavební/provozní povolení.
+- *Judikatura:* NS 22 Cdo 2848/2025, 22 Cdo 1494/2025 (omezení provozu úředně schváleného autodromu/polygonu ve smyslu § 1013); NS 22 Cdo 387/2025, 22 Cdo 1720/2025, 22 Cdo 2084/2024 (posouzení míry přiměřené poměrům, § 1013 odst. 1); NS 22 Cdo 2974/2024 (obsahová shoda § 1013 odst. 1 o. z. s § 127 odst. 1 obč. zák.); NS 22 Cdo 2483/2025 (kvantifikace přípustných imisí).
+
+**4. Subsumpce.** Hluk je typickou nepřímou imisí (§ 1013 odst. 1). Posuzuje se, zda vniká v míře nepřiměřené místním poměrům a podstatně omezuje obvyklé užívání. Je-li provoz úředně schválen (§ 1013 odst. 2) a nepřekračuje schválený rozsah, je zdržovací nárok zásadně vyloučen a sousedovi náleží jen peněžitá náhrada; překračuje-li provoz schválený rozsah, oživá i zdržovací ochrana.
+
+**5. Řešení.** Pokud P nepřekračuje schválený rozsah, S se zpravidla nedomůže zdržovacího výroku, nýbrž náhrady újmy v penězích (§ 1013 odst. 2); soud nemůže bez dalšího uložit paušální zákaz „nad 64 dB po celý rok" bez vztahu k schválenému rozsahu a místním poměrům. Překračuje-li P schválený rozsah, lze uložit zdržení se imisí. Procesně: dokazování hlukovým měřením, vymezením místních poměrů a rozsahem úředního schválení.
+
+**6. Varianty.** (a) Nejde-li o úředně schválený provoz (např. soukromé pravidelné hlučné akce bez povolení), uplatní se plná zdržovací ochrana podle § 1013 odst. 1. (b) Šlo-li by o přímé přivádění imisí na sousední pozemek (např. svedení dešťové vody potrubím přímo na pozemek S), je zakázáno bez ohledu na míru (§ 1013 odst. 1 věta druhá), nemá-li to zvláštní právní důvod.
+
+#### G. Protiargumenty a rizika
+
+- *Úřední schválení jako „štít":* P tvrdí, že schválení vylučuje jakoukoli soukromoprávní ochranu. Neutralizace: § 1013 odst. 2 omezuje pouze zdržovací nárok, nikoli náhradu; navíc neplatí, je-li překročen schválený rozsah.
+- *Mez přiměřenosti místním poměrům:* spor o referenční rámec (lokalita průmyslová vs. rezidenční). Neutralizace: doložit charakter okolí znalecky; NS 22 Cdo 2974/2024 navazuje na judikaturu k § 127 obč. zák.
+- *Kvantifikace zákazu:* riziko nevykonatelného nebo nepřiměřeného výroku (paušální dB limit bez vazby na schválený rozsah). Neutralizace: formulovat nárok ve vztahu k překročení schváleného rozsahu a k podstatnému omezení užívání.
+- *Slabé místo:* dokazování míry obtěžování a příčinné souvislosti je znalecky náročné; bez měření a posouzení místních poměrů nárok kolísá.
+
+#### H. Praktický závěr
+
+§ 1013 zakazuje nepřímé imise nad míru přiměřenou místním poměrům, které podstatně omezují obvyklé užívání, a přímé imise vždy. U úředně schváleného provozu je zdržovací nárok nahrazen nárokem na peněžitou náhradu (§ 1013 odst. 2), neplatí to však při překročení schváleného rozsahu. Klíčové je měření, vymezení místních poměrů a rozsah úředního schválení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o imisi nepřímou (§ 1013 odst. 1), nebo přímou (zakázanou vždy)?
+- [ ] Překračuje obtěžování míru přiměřenou místním poměrům a omezuje podstatně obvyklé užívání?
+- [ ] Jde o úředně schválený provoz a je dodržen schválený rozsah (§ 1013 odst. 2)?
+- [ ] Směřuje petit ke zdržení se, nebo k peněžité náhradě — a je vykonatelně formulován?
+
+**Typicky rozhodné důkazy / podklady:** hluková/imisní měření (LAeq), znalecký posudek o místních poměrech a míře obtěžování, rozhodnutí o schválení provozu a jeho rozsah, evidence provozu a stížností, doklad o příčinné souvislosti.
+
 ### § 1024—1028 — Rozhrady
 
 **§ 1024**:
@@ -543,6 +948,43 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - *NS* [22 Cdo 4043/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08DC2CE192F17D34C125841A00182C23?openDocument) — *Rozhrady (o. z.)*
   > „2018, sp. zn. 22 Cdo 3009/2018 (uveřejněném na www.nsoud.cz ) ozřejmil, že ustanovení zákona č. 89/2012 Sb., občanského zákoníku, o rozhradách (§ 1024 a násl. o. z.) nelze aplikovat v případě, že prostor, ve kterém bylo schodiště umístěno, se zcela nachází na pozemku ve vlastnictví žalovaných."
 - *NS* [22 Cdo 3162/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CFEBE271E208AFBCC12583B000387988?openDocument) — *Vlastnictví*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Mezi pozemky A a S stojí stará zeď, u níž není zřejmé, komu patří; A v ní chce na své straně vybudovat výklenek na nářadí. S tvrdí, že zeď je výlučně jeho, a brání zásahu. Současně se v terénu setřela hranice mezi pozemky a strany se neshodnou na jejím průběhu. Důkazy: katastrální mapa a geometrický plán, stáří a konstrukce zdi, doklady o tom, kdo zeď stavěl a udržoval, svědectví o dosavadním pokojném užívání hranice.
+
+**2. Právní otázka.** Platí pro spornou zeď domněnka společné rozhrady (§ 1024) a může A užívat zeď na své straně do poloviny tloušťky a zřídit v ní výklenek; a podle jakého kritéria soud určí neznatelnou/spornou hranici (§ 1028)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1024 (domněnka společné rozhrady; užívání společné zdi do poloviny tloušťky a zřízení výklenku tam, kde na druhé straně nejsou), § 1025 (dělené rozhrady — každý udržuje své), § 1026 (povinnost udržovat při hrozbě škody / neznatelnosti hranice), § 1027 (uložení oplocení soudem), § 1028 (určení neznatelné/sporné hranice podle poslední pokojné držby, jinak slušným uvážením).
+- *Související ustanovení téhož zákona:* § 994 (domněnka řádné/poctivé/pravé držby — pro „poslední pokojnou držbu"), § 1042 (negatorní ochrana), § 1085 a násl. (stavby na cizím — pro hraniční stavby).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (evidence hranic, geometrický plán).
+- *Judikatura:* NS 22 Cdo 1064/2020: zeď stojící na dvou či více pozemcích je „jednolitý" objekt, na nějž se uplatní zvláštní úprava § 1024 a násl., nikoli bez dalšího pravidlo superficies solo cedit; NS 22 Cdo 4043/2018: úpravu o rozhradách nelze aplikovat, nachází-li se objekt zcela na pozemku jednoho vlastníka; NS 22 Cdo 708/2023 (vydržení v souvislosti s hranicí).
+
+**4. Subsumpce.** U sporné rozhrady na hranici svědčí domněnka společnosti (§ 1024 odst. 1); neprokáže-li S výlučné vlastnictví, je zeď společná a A ji smí užívat na své straně do poloviny tloušťky a zřídit výklenek tam, kde na druhé straně nejsou (§ 1024 odst. 2), aniž zeď ohrozí. Setřená hranice se určí podle poslední pokojné držby (§ 1028); nelze-li ji zjistit, rozhodne soud podle slušného uvážení.
+
+**5. Řešení.** Není-li vyvrácena domněnka § 1024, A může výklenek zřídit při zachování stability zdi a bez překážení S. Hranici soud určí primárně podle poslední pokojné držby (§ 1028) — proto je rozhodné dokazování faktického dosavadního stavu. Procesně: zajistit geometrické zaměření, posudek ke konstrukci/stáří zdi a důkazy o pokojné držbě hranice.
+
+**6. Varianty.** (a) Prokáže-li S, že zeď stojí zcela na jeho pozemku, úprava o rozhradách se neuplatní (NS 22 Cdo 4043/2018) a A do zdi zasahovat nesmí. (b) Hrozí-li, že se hranice stane zcela neznatelnou nebo že rozpadlá zeď způsobí škodu, může se každý soused domáhat opravy/obnovení rozhrady (§ 1026).
+
+#### G. Protiargumenty a rizika
+
+- *Vyvrácení domněnky společnosti:* S tvrdí výlučné vlastnictví zdi (kdo ji postavil, na čím pozemku stojí). Neutralizace: domněnka § 1024 je vyvratitelná; břemeno nese ten, kdo společnost popírá — doložit zaměření a původ zdi.
+- *Zásah do stability:* riziko, že výklenek ohrozí zeď nebo bude bránit S v užívání jeho části (§ 1024 odst. 2 in fine). Neutralizace: statické posouzení a omezení zásahu do poloviny tloušťky.
+- *Kritérium určení hranice:* spor, zda „poslední pokojná držba" odpovídá katastru. Neutralizace: § 1028 upřednostňuje pokojnou držbu; katastr je evidencí, nikoli sám o sobě hmotněprávním titulem hranice.
+- *Slabé místo:* dokazování poslední pokojné držby bývá obtížné; při jejím nezjištění nastupuje volnější „slušné uvážení" soudu s méně předvídatelným výsledkem.
+
+#### H. Praktický závěr
+
+Rozhrady mezi pozemky se presumují jako společné (§ 1024); společnou zeď lze užívat na své straně do poloviny tloušťky. Neznatelnou nebo spornou hranici určí soud podle poslední pokojné držby, podpůrně podle slušného uvážení (§ 1028). Zvláštní úprava o rozhradách se neuplatní u objektu stojícího zcela na pozemku jednoho vlastníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stojí rozhrada na hranici (společná, § 1024), nebo zcela na pozemku jednoho vlastníka?
+- [ ] Je domněnka společnosti vyvrácena důkazem o výlučném vlastnictví?
+- [ ] Ohrozí zamýšlený zásah (výklenek) stabilitu zdi nebo užívání druhé strany?
+- [ ] Je hranice neznatelná/sporná — a lze zjistit poslední pokojnou držbu (§ 1028)?
+
+**Typicky rozhodné důkazy / podklady:** katastrální mapa a geometrický plán/zaměření, statický posudek a doklady o stáří a původu zdi, svědectví a listiny o poslední pokojné držbě hranice, doklady o údržbě rozhrady.
 
 ### § 1029—1036 — Nezbytná cesta
 
@@ -626,6 +1068,44 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
   > „Podle § 1029 odst. 1 o. z. vlastník nemovité věci, na níž nelze řádně hospodařit či jinak ji řádně užívat proto, že není dostatečně spojena s veřejnou cestou, může žádat, aby mu soused za náhradu povolil nezbytnou cestu přes svůj pozemek."
 - *NS* [22 Cdo 3253/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF375F5CB907ED5C1258C510052BBDF?openDocument) — *Vedlejší účastník Nezbytná cesta (o. z.)*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A vlastní stavební parcelu obklopenou pozemky více sousedů; parcela nemá žádné spojení s veřejnou cestou. A na ni nemůže s vozidlem ani dovézt materiál ke stavbě. Žádá soud o povolení nezbytné cesty přes pozemek souseda S, kudy vede nejpřirozenější a nejkratší přístup. S namítá, že A si nedostatek přístupu zavinil sám, když dříve odmítl koupit přístupový pruh, a že A chce cestu jen pro pohodlí. Důkazy: katastrální situace a přístupové poměry, doklady o (ne)možnosti jiného přístupu, korespondence o dřívější nabídce přístupu, ocenění úplaty a újmy.
+
+**2. Právní otázka.** Jsou splněny podmínky pro povolení nezbytné cesty (§ 1029) přes pozemek S, nebo se uplatní některý z důvodů jejího neudělení podle § 1032 (zejména zavinění nedostatku přístupu nebo pouhé pohodlnější spojení)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1029 (právo na povolení nezbytné cesty za náhradu při nedostatečném spojení s veřejnou cestou; rozsah co nejmenší zátěže), § 1030 (úplata, odčinění újmy, jistota), § 1032 (důvody neudělení: škoda převyšuje výhodu; zaviněná ztráta přístupu; pouhé pohodlnější spojení; uzavřený prostor; veřejný zájem), § 1033 (volba přes jeden z více pozemků; bezúplatnost při dělení pozemku), § 1034—1036 (zánik, vypořádání, převzetí pozemku).
+- *Související ustanovení téhož zákona:* § 1012 (meze vlastnictví), § 1257 a násl. (služebnost — nezbytná cesta lze zřídit i jako služebnost), § 984 odst. 2 (nezbytná cesta jako výjimka z ochrany dobré víry v zápis).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis služebnosti).
+- *Judikatura:* NS 22 Cdo 1548/2025, 22 Cdo 1591/2025, 22 Cdo 1249/2025: výklad § 1029 odst. 1; NS 22 Cdo 2902/2025 (vztah § 1029 odst. 2 a § 1032 odst. 1 písm. c); NS 22 Cdo 2583/2025, 22 Cdo 2969/2025, 22 Cdo 2688/2025 (nezbytná cesta).
+
+**4. Subsumpce.** Parcela A není dostatečně spojena s veřejnou cestou → základní podmínka § 1029 odst. 1 je splněna. Cesta se povolí v rozsahu nezbytném pro řádné užívání a s co nejmenší zátěží S (§ 1029 odst. 2), případně jako služebnost. Brání-li tomu některý z důvodů § 1032 (zde tvrzené zavinění či pouhé pohodlí), nelze cestu povolit; tyto výluky je třeba prokázat.
+
+**5. Řešení.** Není-li dán důvod neudělení dle § 1032, soud cestu povolí přes nejpřirozenější pozemek (§ 1033) za úplatu a odčinění újmy (§ 1030) a uloží jistotu. Neobstojí tvrzení o „pohodlnějším spojení", chybí-li jiný reálný přístup. Procesně: A musí prokázat absenci dostatečného spojení a nezbytnost rozsahu; S nese důkaz o výlukách § 1032.
+
+**6. Varianty.** (a) Prokáže-li S, že A si nedostatek přístupu způsobil hrubou nedbalostí či úmyslně (odmítl dostupný přístup), soud cestu nepovolí (§ 1032 odst. 1 písm. b). (b) Ztratila-li parcela přístup proto, že byl pozemek rozdělen, povolí se cesta jen po osobě podílející se na dělení, a to bez úplaty (§ 1033 odst. 2). (c) Převýší-li škoda na pozemku S zřejmě výhodu cesty pro A, cesta se nepovolí (§ 1032 odst. 1 písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Zaviněná ztráta přístupu:* S tvrdí § 1032 odst. 1 písm. b). Neutralizace: doložit, že odmítnutí dřívější nabídky nebylo hrubě nedbalé/úmyslné způsobení bezcestnosti, nebo že přístup stejně nebyl reálně dostupný.
+- *„Jen pro pohodlí":* riziko zamítnutí dle § 1032 odst. 1 písm. c). Neutralizace: prokázat, že bez cesty nelze pozemek řádně užívat/hospodařit na něm, nejde o komfort.
+- *Nepřiměřená zátěž souseda:* námitka, že navržená trasa zatěžuje S více než nutno. Neutralizace: navrhnout variantu s nejmenšími náklady a nejmenším zásahem (§ 1029 odst. 2, § 1033).
+- *Slabé místo:* výše úplaty, odčinění újmy a jistota (§ 1030) jsou znalecky a skutkově náročné; podcenění může vést k zamítnutí nebo k pozdějším sporům o vypořádání (§ 1035).
+
+#### H. Praktický závěr
+
+Nezbytná cesta (§ 1029) slouží pozemku bez dostatečného spojení s veřejnou cestou; povoluje se v co nejmenším rozsahu a s nejmenší zátěží souseda, za úplatu a jistotu (§ 1030), případně jako zapsaná služebnost. Nepovolí se, převýší-li škoda výhodu, způsobil-li si žadatel bezcestnost hrubou nedbalostí/úmyslně, nebo jde-li jen o pohodlnější spojení (§ 1032).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pozemek skutečně bez dostatečného spojení s veřejnou cestou (§ 1029 odst. 1)?
+- [ ] Je navržený rozsah cesty nejmenší možný a zatěžuje souseda co nejméně (§ 1029 odst. 2, § 1033)?
+- [ ] Nedopadá některý z důvodů neudělení dle § 1032 (zavinění, pouhé pohodlí, převaha škody, uzavřený prostor, veřejný zájem)?
+- [ ] Je vyřešena úplata, odčinění újmy a jistota (§ 1030)? Má se cesta zřídit jako služebnost a zapsat?
+- [ ] Nevznikla bezcestnost dělením pozemku (cesta bez úplaty po osobě podílející se na dělení, § 1033 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** katastrální situace a doložení přístupových poměrů, posouzení alternativních přístupů, korespondence o dřívějších nabídkách přístupu, znalecké ocenění úplaty/újmy a hodnoty cesty, návrh trasy s nejmenší zátěží.
+
 ### § 1037—1039 — Vyvlastnění
 
 **§ 1037**:
@@ -654,6 +1134,44 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3068/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4B142AE63E0A136C1258C3B0052B343?openDocument) — *Vlastnictví Ochrana vlastnictví Omezení vlastnictví (náhrada)*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pro výstavbu veřejně prospěšné stavby (silniční obchvat) je třeba pruh pozemku vlastníka A. Stát/obec s A neuspěl ve snaze pozemek vykoupit; účelu nelze dosáhnout jiným trasováním. Zahájí se vyvlastňovací řízení. A namítá, že veřejný zájem nebyl prokázán, že lze stavbu vést jinudy a že nabízená náhrada je podhodnocená. Důkazy: územní/projektová dokumentace prokazující nezbytnost trasy, doklady o neúspěšných pokusech o smluvní nabytí, znalecké ocenění náhrady.
+
+**2. Právní otázka.** Jsou splněny hmotněprávní podmínky pro vyvlastnění (omezení vlastnického práva) podle § 1038 — veřejný zájem, který nelze uspokojit jinak, a zákonný podklad — a má A právo na plnou náhradu dle § 1039?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1037 (použití věci ve stavu nouze / naléhavém veřejném zájmu na nezbytnou dobu a v nezbytné míře), § 1038 (vyvlastnění/omezení jen ve veřejném zájmu, který nelze uspokojit jinak, a jen na základě zákona), § 1039 (plná náhrada odpovídající míře dotčení; v penězích, jinak dle ujednání).
+- *Související ustanovení téhož zákona:* § 1012 (obsah a meze vlastnictví), § 1029 (nezbytná cesta — jiný typ omezení), § 2 (výklad v souladu s ústavním pořádkem).
+- *Související předpisy:* čl. 11 odst. 4 Listiny (vyvlastnění jen ve veřejném zájmu, na základě zákona a za náhradu); zákon č. 184/2006 Sb., o vyvlastnění; stavební zákon (veřejně prospěšné stavby).
+- *Judikatura:* NS 22 Cdo 3068/2024 (vlastnictví, ochrana vlastnictví, omezení vlastnictví a náhrada); ústavní judikatura k čl. 11 odst. 4 Listiny (vyvlastnění jako krajní prostředek, subsidiarita, plná náhrada).
+
+**4. Subsumpce.** Vyvlastnění je přípustné jen kumulativně při (a) veřejném zájmu, (b) nemožnosti jej uspokojit jinak (subsidiarita — typicky neúspěšný pokus o smluvní nabytí, absence alternativy) a (c) zákonném podkladu (§ 1038; čl. 11 odst. 4 Listiny). Splnění těchto znaků se prokazuje v řízení dle z. č. 184/2006 Sb. Za dotčení náleží plná náhrada (§ 1039).
+
+**5. Řešení.** Jsou-li podmínky splněny, lze pozemek (jeho část) vyvlastnit za plnou náhradu odpovídající míře dotčení (§ 1039); spor o výši náhrady se řeší znaleckým oceněním. Není-li prokázána subsidiarita (existuje reálná alternativa) nebo veřejný zájem, vyvlastnění je nepřípustné. Procesně: stát musí doložit nezbytnost trasy a marnost smluvního nabytí; A se brání zpochybněním veřejného zájmu, existencí alternativy a výší náhrady.
+
+**6. Varianty.** (a) Stav nouze (povodeň, požár) — věc A lze použít bez vyvlastnění, jen na nezbytnou dobu a v nezbytné míře (§ 1037), s následným vypořádáním újmy. (b) Postačuje-li k účelu pouhé omezení (služebnost pro vedení sítě), nelze přistoupit k úplnému odnětí vlastnictví — vyvlastnění musí být přiměřené (čl. 11 odst. 4 Listiny, § 1038).
+
+#### G. Protiargumenty a rizika
+
+- *Zpochybnění veřejného zájmu:* A namítne, že zájem není naléhavý či dostatečně konkrétní. Neutralizace: doložit územně plánovací podklady a nezbytnost stavby; veřejný zájem musí být prokázán, nikoli presumován.
+- *Existence alternativy (subsidiarita):* riziko, že lze účelu dosáhnout jinak (jiné trasování, smluvní nabytí). Neutralizace: prokázat marnost smluvních jednání a absenci reálné alternativy.
+- *Přiměřenost zásahu:* hrozí odnětí v širším rozsahu, než je nutné. Neutralizace: volit nejmírnější prostředek (omezení místo odnětí), § 1038 a čl. 11 odst. 4 Listiny.
+- *Slabé místo:* určení „plné náhrady" (§ 1039) je znalecky sporné (tržní hodnota, znehodnocení zbytku); podcenění může založit ústavněprávní vadu řízení.
+
+#### H. Praktický závěr
+
+Vyvlastnění a omezení vlastnického práva jsou krajním a subsidiárním prostředkem: jen ve veřejném zájmu, který nelze uspokojit jinak, a jen na základě zákona (§ 1038; čl. 11 odst. 4 Listiny), vždy za plnou náhradu odpovídající míře dotčení (§ 1039). Ve stavu nouze lze věc dočasně použít i bez vyvlastnění (§ 1037). Procesní rámec poskytuje zákon č. 184/2006 Sb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán konkrétní a doložený veřejný zájem?
+- [ ] Nelze účelu dosáhnout jinak (subsidiarita — alternativa, smluvní nabytí)?
+- [ ] Opírá se zásah o zákon a je proveden v zákonném (vyvlastňovacím) řízení?
+- [ ] Je zvolen nejmírnější prostředek (omezení vs. odnětí) — přiměřenost?
+- [ ] Je stanovena plná náhrada odpovídající míře dotčení (§ 1039), včetně znehodnocení zbytku?
+
+**Typicky rozhodné důkazy / podklady:** územně plánovací a projektová dokumentace prokazující nezbytnost a veřejný zájem, doklady o neúspěšných pokusech o smluvní nabytí, posouzení alternativ, znalecké ocenění náhrady a znehodnocení zbývajícího majetku.
 
 ### § 1040—1044 — Ochrana vlastnictví
 
@@ -704,6 +1222,44 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [22 Cdo 823/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46769CEE602A955FC1258C92004D09CB?openDocument) — *Vydání věci*
   > „Podle § 1040 odst. 1 o. z. kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal."
 - *NS* [26 Cdo 3600/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E26FE6B6D42E3A9C1258C77004D2260?openDocument) — *Vyklizení nemovitosti*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** A je vlastníkem hodnotného obrazu, který svěřil do úschovy galeristovi G. G obraz bez souhlasu zadržuje a odmítá jej vydat s tvrzením, že má k němu „zadržovací právo" pro nezaplacené (sporné) náklady. A se domáhá vydání obrazu. Souběžně B (jiný subjekt) drží zcela jiný, druhově určený obraz, k němuž A tvrdí poctivě, řádně a pravě nabytou držbu, ač nedokáže předložit „silnější" titul než B. Důkazy: doklad o vlastnictví a předání do úschovy, popis a identifikace věci, okolnosti zadržení, u publiciánské situace doklady o nabytí držby.
+
+**2. Právní otázka.** Může se A domoci vydání obrazu vindikační žalobou (§ 1040), musí věc dostatečně identifikovat (§ 1041), a může se domnělý vlastník (poctivá + řádná + pravá držba) prosadit proti tomu, kdo má slabší či stejně silný titul (§ 1043)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1040 (vindikace — kdo věc neprávem zadržuje, může být vlastníkem žalován o vydání), § 1041 (popis věci rozlišujícími znaky; specifika peněz/CP na doručitele), § 1042 (negatorní žaloba proti jinému rušení než zadržováním), § 1043 (publiciánská ochrana domnělého vlastníka; bezúplatné nabytí jako slabší důvod), § 1044 (uplatnění práva vlastníka vlastním jménem).
+- *Související ustanovení téhož zákona:* § 991—994 (řádná, poctivá, pravá držba a domněnky), § 1395 a násl. (zadržovací právo), § 2402 a násl. (úschova).
+- *Související předpisy:* o. s. ř. (vykonatelnost výroku na vydání individualizované věci).
+- *Judikatura:* NS 24 Cdo 2395/2023 a 22 Cdo 823/2025: „Kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal" (§ 1040 odst. 1); NS 22 Cdo 1535/2025, 22 Cdo 1058/2025, 22 Cdo 1132/2025 (vydání věci); NS 22 Cdo 978/2025 (ochrana vlastnictví).
+
+**4. Subsumpce.** A je vlastníkem a G věc neprávem zadržuje (úschova bez platného důvodu k zadržení) → znaky § 1040 jsou splněny; obraz je individualizovatelný (§ 1041). Tvrdí-li G zadržovací právo, musí prokázat jeho zákonné předpoklady (§ 1395 a násl.); jinak je povinen vydat. U druhé situace: má-li A poctivou, řádnou a pravou držbu, hledí se na něj jako na vlastníka proti tomu, kdo nemá silnější titul (§ 1043).
+
+**5. Řešení.** A se domůže vydání obrazu (§ 1040), neprokáže-li G platné zadržovací právo; výrok musí věc přesně popsat (§ 1041) kvůli vykonatelnosti. Proti rušení jiného druhu (např. bránění v užívání) slouží negatorní žaloba (§ 1042). V publiciánské situaci uspěje A proti držiteli se stejně silným či slabším (zejména bezúplatným) titulem (§ 1043). Procesně: pečlivá identifikace věci a doložení titulu/držby.
+
+**6. Varianty.** (a) Jde-li o peníze nebo cenné papíry na doručitele smíšené s jinými, lze vydání žádat jen, lze-li seznat vlastnické právo A a nedostatek dobré víry držitele (§ 1041 odst. 2). (b) Nabyl-li držby jeden bezúplatně a druhý za úplatu, považuje se bezúplatné nabytí za slabší důvod a úplatný nabyvatel má přednost (§ 1043 odst. 2). (c) Nesvědčí-li držiteli domněnka § 1043, může práva vlastníka uplatnit vlastním jménem (§ 1044).
+
+#### G. Protiargumenty a rizika
+
+- *Zadržovací právo/jiný titul držby:* G namítne oprávnění věc držet. Neutralizace: G musí prokázat zákonné předpoklady zadržovacího práva; pouhé tvrzení sporné pohledávky nestačí.
+- *Nedostatečná identifikace věci:* riziko nevykonatelného výroku u druhově určených věcí (§ 1041). Neutralizace: popsat věc individualizujícími znaky; u zaměnitelných věcí zvážit jiný nárok (náhrada).
+- *Síla titulu v publiciánské žalobě:* protistrana tvrdí silnější právní důvod. Neutralizace: doložit poctivost, řádnost a pravost držby a relativní sílu titulu (úplatnost vs. bezúplatnost, § 1043 odst. 2).
+- *Slabé místo:* vindikace selže, pozbyl-li žalobce vlastnictví, nebo nelze-li věc identifikovat; pak je namístě jiný (např. peněžitý) nárok.
+
+#### H. Praktický závěr
+
+Vlastník se brání vindikační žalobou na vydání neprávem zadržené věci (§ 1040), kterou musí dostatečně identifikovat (§ 1041), a negatorní žalobou proti jinému rušení (§ 1042). Domnělý vlastník s poctivou, řádnou a pravou držbou je chráněn proti tomu, kdo nemá silnější titul (publiciánská žaloba, § 1043); bezúplatné nabytí je slabším důvodem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žalobce vlastníkem (nebo domnělým vlastníkem dle § 1043) a zadržuje žalovaný věc neprávem?
+- [ ] Je věc popsána rozlišujícími znaky tak, aby byl výrok vykonatelný (§ 1041)?
+- [ ] Jde o zadržování (vindikace, § 1040), nebo o jiné rušení (negatorní žaloba, § 1042)?
+- [ ] Má protistrana právní důvod stejně silný/slabší — uplatní se publiciánská ochrana (§ 1043)? Je nabytí úplatné, či bezúplatné?
+- [ ] Tvrdí-li žalovaný zadržovací/jiné právo k držbě, prokázal jeho zákonné předpoklady?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vlastnictví/nabytí, identifikace a popis věci (znaky, fotodokumentace), doklady o předání a o okolnostech zadržení, podklady k titulu a poctivosti držby, případně doklady k tvrzenému zadržovacímu právu.
 
 ### Oddíl 2 — Nabytí vlastnického práva
 
@@ -759,6 +1315,44 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [8 Tdo 702/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/93418B4A83BB1E24C1258D17004D3C08?openDocument) — *Zpronevěra Znalecký posudek Znalec Dokazování Škoda Škoda značná Hodnocení důkazů Cizí v…*
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** A najde v lese zaběhlou kočku bez obojku, kterou si po několika dnech ponechá jako svou. Po pěti týdnech se přihlásí původní majitel M a žádá kočku vydat; A tvrdí, že zvíře bylo „bez pána". Souběžně obec eviduje nemovitost, kterou nikdo přes deset let neužívá ani neudržuje. Důkazy: okolnosti nálezu zvířete (místo, čas, označení), doklady o péči M, evidence neužívané nemovitosti, doba nevykonávání práva.
+
+**2. Právní otázka.** Stalo se zvíře „bez pána" a mohl si je A přivlastnit (§ 1047—1048), nebo trvá vlastnictví M; a komu připadne dlouhodobě neužívaná nemovitost (§ 1050 odst. 2 ve spojení s § 1045 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1045 (přivlastnění věci nikoho; movitá opuštěná věc — nikomu nepatří; opuštěná nemovitost připadá státu), § 1046—1049 (zvířata: divoké/zajaté/zkrocené/domácí; zkrocené je bez pána po 6 týdnech, ledaže je označeno), § 1050 (domněnka opuštění: movitá věc po 3 letech, nemovitá po 10 letech; věc nepatrné hodnoty na veřejném místě bez dalšího).
+- *Související ustanovení téhož zákona:* § 1051 a násl. (nález — nalezená věc se nepovažuje za opuštěnou), § 494 (zvíře není věc), § 1058—1059 (nález zvířete).
+- *Související předpisy:* zákon na ochranu zvířat proti týrání; katastrální zákon č. 256/2013 Sb. (zápis opuštěné nemovitosti státu).
+- *Judikatura:* NS 24 Cdo 183/2019, 24 Cdo 3337/2018, 21 Cdo 2257/2018 (opuštěná nemovitá věc a vklad do katastru); NS 22 Cdo 1268/2025 (vlastnictví, držba, vydržení, opuštěná nemovitá věc); NS 33 Cdo 3720/2020 (přivlastnění, hranice pojmu věci).
+
+**4. Subsumpce.** Zaběhlá kočka je zkrocené (domácí) zvíře; bez pána se stává až po uplynutí 6 týdnů bez návratu, a to jen není-li označena (§ 1047). Pětitýdenní zadržení A tudíž nestačí — vlastnictví M trvá a A si zvíře nesměl přivlastnit; navíc nalezené zvíře se nepovažuje za opuštěné (§ 1051). U nemovitosti zakládá desetileté nevykonávání vyvratitelnou domněnku opuštění (§ 1050 odst. 2), v důsledku čehož připadá státu (§ 1045 odst. 2).
+
+**5. Řešení.** A musí kočku M vydat (lhůta 6 týdnů neuplynula; zvíře nebylo opuštěné). Neužívaná nemovitost se po naplnění domněnky opuštění stává vlastnictvím státu, nikoli souseda či nálezce; obec/stát jedná postupem k zápisu do katastru. Procesně: u zvířete prokázat běh lhůty a (ne)označení; u nemovitosti dobu nevykonávání a vyvrácení/nevyvrácení domněnky.
+
+**6. Varianty.** (a) Kdyby kočka měla čip/obojek identifikující M, nestala by se „bez pána" ani po 6 týdnech (§ 1047 odst. 2). (b) Šlo-li by o věc zjevně nepatrné hodnoty zanechanou na veřejně přístupném místě, byla by opuštěná bez dalšího (§ 1050 odst. 1 věta druhá). (c) Movitou věc, k níž vlastník 3 roky nevykonával právo, lze mít za opuštěnou (§ 1050 odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *„Bylo to bez pána":* nálezce tvrdí opuštění. Neutralizace: § 1051 — nalezená věc se nepovažuje za opuštěnou; u zvířat běží ochranné lhůty (§ 1047) a rozhoduje označení.
+- *Domněnka opuštění nemovitosti vs. vydržení:* riziko záměny desetiletého nevykonávání (§ 1050 odst. 2 → stát) s vydržením ve prospěch držitele (§ 1089 a násl.). Neutralizace: odlišit, zda někdo nemovitost poctivě držel (vydržení), nebo zda ji nikdo neužíval (opuštění → stát).
+- *Vyvratitelnost domněnky:* vlastník může domněnku opuštění vyvrátit (prokázat trvající vůli vlastnit). Riziko pro toho, kdo na domněnku spoléhá.
+- *Slabé místo:* běh lhůt a (ne)označení zvířete bývá obtížně prokazatelný; u nemovitosti je sporné, zda „nevykonávání" trvalo nepřetržitě.
+
+#### H. Praktický závěr
+
+Nalezenou věc nelze bez dalšího pokládat za opuštěnou (§ 1051). Zkrocené zvíře se stává „bez pána" až po 6 týdnech a jen není-li označeno (§ 1047). Opuštění movité věci se presumuje po 3 letech nevykonávání (u věci nepatrné hodnoty na veřejném místě ihned), opuštění nemovitosti po 10 letech — a opuštěná nemovitost připadá státu (§ 1045 odst. 2, § 1050).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc nikoho (opuštěnou), nebo o věc nalezenou (§ 1051 — neopuštěná)?
+- [ ] U zvířete: jde o zkrocené/domácí zvíře, uplynulo 6 týdnů a není označeno (§ 1047)?
+- [ ] U movité věci: nevykonával vlastník právo 3 roky, popř. jde o věc nepatrné hodnoty na veřejném místě (§ 1050 odst. 1)?
+- [ ] U nemovitosti: trvalo nevykonávání 10 let (domněnka opuštění → stát, § 1050 odst. 2, § 1045 odst. 2)?
+- [ ] Nebyla domněnka opuštění vyvrácena (trvající vůle vlastníka)?
+
+**Typicky rozhodné důkazy / podklady:** okolnosti nálezu (místo, čas), označení/čipování zvířete a doklady o péči vlastníka, doba nevykonávání práva (svědectví, fotodokumentace, evidence), výpis z katastru u nemovitosti.
+
 #### § 1051—1065 — Nález
 
 > Má se za to, že si každý chce podržet své vlastnictví a že nalezená věc není opuštěná. Kdo věc najde, nesmí ji bez dalšího považovat za opuštěnou a přivlastnit si ji.
@@ -794,6 +1388,44 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [33 Cdo 1571/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB490C089154CEF1C1258C67004D1A3A?openDocument) — *Smluvní pokuta Právní úkony Dobré mravy Moderační právo soudu Výklad právních jednání (o…*
 - *NS* [33 Cdo 2489/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DBB76B383E5130DC12589B800184AE5?openDocument) — *Vlastnictví Věc Pohledávka*
 - *NS* [33 Cdo 3720/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E038417D664F9D04C12587F5001B8A39?openDocument) — *Věc Pohledávka Přivlastnění (o. z.) Analogie legis Smlouva o účtu (o. z.)*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** A najde na ulici peněženku s 6 000 Kč a doklady majitele V. A peníze utratí a doklady zahodí; majiteli nic neoznámí. Po měsíci V peněženku vystopuje. Souběžně B najde obdobnou peněženku bez dokladů, řádně ji do 3 dnů odevzdá obci; po roce se nikdo nepřihlásí a po třech letech B uplatní vlastnictví. Důkazy: doklady o nálezu a jeho oznámení/neoznámení obci, hodnota nálezu, doba od vyhlášení nálezu, jednání nálezce s věcí.
+
+**2. Právní otázka.** Jaké jsou důsledky pro nálezce A, který nález neoznámil a věc si přisvojil (§ 1061), a jaký je osud věci a nárok poctivého nálezce B v závislosti na lhůtách dle § 1057?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1051 (domněnka vlastnictví; nález není opuštěná věc), § 1052 (postup nálezce — vrácení vlastníku nebo oznámení obci, zpravidla do 3 dnů), § 1053—1055 (vyhlášení a úschova nálezu obcí), § 1056 (nálezné 1/10 ceny), § 1057 (lhůty: 1 rok — nakládání jako poctivý držitel; 3 roky — vlastnictví), § 1061 (sankce pro nepoctivého nálezce: bez nálezného, vlastnictví i užívání + náhrada škody), § 1063—1064 (skrytá věc).
+- *Související ustanovení téhož zákona:* § 1045 a § 1050 (přivlastnění, opuštění), § 992 a § 996 (poctivá držba a její účinky), § 2991 a násl. (bezdůvodné obohacení — užití cizích peněz).
+- *Související předpisy:* zákon o obcích (nakládání s nálezy).
+- *Judikatura:* k povaze nálezu a domněnce neopuštěnosti navazuje judikatura k § 1051 a k přivlastnění (NS 33 Cdo 3720/2020; NS 33 Cdo 2489/2022 k hranici pojmu věci); obecně NS k poctivé držbě (§ 992, § 996).
+
+**4. Subsumpce.** A nález neoznámil a věc si přisvojil → naplnil skutkovou podstatu § 1061: nemá právo na nálezné, nenabývá vlastnictví ani právo věc užívat a odpovídá za škodu (utracené peníze, zahozené doklady). Naproti tomu B postupoval podle § 1052; po 1 roce od vyhlášení s věcí nakládá jako poctivý držitel (§ 1057 odst. 1) a po 3 letech nabývá vlastnictví (§ 1057 odst. 3), nepřihlásí-li se vlastník.
+
+**5. Řešení.** A je povinen V nahradit hodnotu peněz i škodu z zahození dokladů (§ 1061), bez nároku na nálezné. B po marném uplynutí lhůt nabývá vlastnictví; přihlásí-li se vlastník mezi 1. a 3. rokem, vydá věc proti úhradě nálezného (1/10 ceny, § 1056). Procesně: prokázat oznámení/neoznámení nálezu, hodnotu věci a běh lhůt.
+
+**6. Varianty.** (a) U skryté (zakopané, zazděné) věci, kde nelze určit vlastníka, se nálezce a vlastník pozemku dohodnou, kdo si věc ponechá (s vyplacením 1/2 ceny), jinak připadne vlastníku pozemku (§ 1064); věděl-li vlastník o úkrytu, nálezné nepřísluší. (b) U zvířete v zájmovém chovu nabývá nálezce vlastnictví po 2 měsících, popř. po svěření útulku po 4 měsících (§ 1058—1059).
+
+#### G. Protiargumenty a rizika
+
+- *„Domníval jsem se, že je věc opuštěná":* námitka dobré víry. Neutralizace: § 1051 zakládá domněnku neopuštěnosti; u věci s doklady majitele je tvrzení opuštění zjevně neudržitelné.
+- *Spor o hodnotu věci (nálezné):* protistrana zpochybní výši 1/10 (§ 1056). Neutralizace: doložit obvyklou cenu nálezu; u věci s hodnotou jen pro vlastníka se postupuje dle slušného uvážení.
+- *Běh lhůt:* riziko chybného určení počátku roční/tříleté lhůty (§ 1057) — běží od vyhlášení nálezu obcí. Neutralizace: opřít se o datum vyhlášení a evidence obce.
+- *Slabé místo:* prokázání oznámení obci a okolností nakládání s věcí; bez evidence obce je postavení nálezce nejisté.
+
+#### H. Praktický závěr
+
+Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052); nálezce nemá věc svévolně přivlastnit. Poctivému nálezci náleží nálezné (1/10 ceny, § 1056), po roce nakládání jako poctivý držitel a po třech letech vlastnictví (§ 1057). Nepoctivý nálezce, který nález neoznámí a věc si přisvojí, ztrácí nárok na nálezné, vlastnictví i užívání a odpovídá za škodu (§ 1061).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Postupoval nálezce dle § 1052 (vrácení vlastníku / oznámení obci, zpravidla do 3 dnů)?
+- [ ] Je vyčíslena cena nálezu pro účely nálezného (1/10, § 1056)?
+- [ ] Jak běží lhůty dle § 1057 (1 rok — poctivý držitel; 3 roky — vlastnictví) od vyhlášení nálezu?
+- [ ] Nejde o nepoctivého nálezce dle § 1061 (ztráta nálezného, vlastnictví, užívání + náhrada škody)?
+- [ ] U skryté věci / zvířete: uplatní se zvláštní režim (§ 1063—1064, § 1058—1059)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o nálezu a jeho oznámení obci (evidence obce, vyhlášení), ocenění věci, doklady o běhu lhůt a o jednání nálezce s věcí, případně doklady o péči o nalezené zvíře.
 
 ### Pododdíl 2 — Přirozený přírůstek (§ 1066—1073)
 
@@ -852,6 +1484,44 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - *NS* [22 Cdo 2961/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0A15C14A814B290C12588A00017DFF5?openDocument) — *Přípustnost dovolání Vydržení*
 - *NS* [28 Cdo 3425/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD30128A7F62DA25C125844000180566?openDocument) — *Územní samosprávné celky Vlastnictví Vydržení*
 - *NS* [22 Cdo 505/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6898290FED6A0B2C1258CB2004F1B7F?openDocument) — *Vydržení Vlastnictví Vázanost rozhodnutím jiného orgánu*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** A koupil v roce 2014 pozemek; podle kupní smlouvy a tehdejšího zaměření měl za to, že k pozemku patří i přilehlý pruh, který od té doby oplotil, obhospodařuje a užívá jako vlastní, ač ve skutečnosti náleží sousedovi S. A nabyl pruh od svého převodce P, který jej rovněž (byť neoprávněně) užíval a předal A. Po více než deseti letech se A domáhá určení, že pruh vydržel. S namítá, že A nemá řádný titul k pruhu a že P byl nepoctivý. Důkazy: kupní smlouva a geometrický plán, doklady o nepřetržité poctivé držbě A (oplocení, obhospodařování), okolnosti nabytí držby od P.
+
+**2. Právní otázka.** Splnil A předpoklady řádného vydržení podle § 1089—1090 — zejména poctivost a pravost držby a existenci právního důvodu způsobilého ke vzniku vlastnického práva — a brání případná nepoctivost předchůdce P jeho vydržení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1089 (poctivý držitel vydrží vlastnické právo po určenou dobu; nepoctivost předchůdce nebrání poctivému nástupci — počítá se od jeho nabytí držby), § 1090 (vyžaduje se pravost držby a právní důvod postačující ke vzniku vlastnického práva, kdyby náležel převodci nebo byl zřízen oprávněnou osobou).
+- *Související ustanovení téhož zákona:* § 991—994 (řádná, poctivá, pravá držba a domněnky), § 1091—1092 (vydržecí doba a její běh — navazující), § 1095 (mimořádné vydržení bez řádného titulu při delší době), § 990 (nabytí a navázání držby).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis vydrženého práva na základě rozhodnutí/souhlasného prohlášení).
+- *Judikatura:* NS 22 Cdo 2163/2024 a 22 Cdo 1620/2023: pro řádné vydržení musí být držba poctivá (§ 1089 ve spojení s § 992) a pravá (§ 993), nemusí však být řádná ve smyslu § 991; NS 22 Cdo 1196/2025, 22 Cdo 440/2025, 22 Cdo 3903/2023, 22 Cdo 505/2025 (vydržení; mimořádné vydržení).
+
+**4. Subsumpce.** A drží pruh poctivě (z přesvědčivého důvodu — kupní smlouva a zaměření) a pravě (bez svémoci/lsti/výprosy), což jsou nosné předpoklady řádného vydržení (§ 1089—1090; NS 22 Cdo 2163/2024). Vyžaduje se též právní důvod způsobilý ke vzniku vlastnického práva (§ 1090) — zde kupní smlouva vztahující se (v omylu) i na pruh. Případná nepoctivost P nebrání A, neboť poctivost se posuzuje od nabytí držby A (§ 1089 odst. 2).
+
+**5. Řešení.** Jsou-li splněny poctivost, pravost a způsobilý právní důvod a uplyne-li vydržecí doba (řešená v navazujících § 1091 a násl.), A vlastnické právo k pruhu vydrží; nepoctivost P je nerozhodná. Procesně: A doloží titul, poctivou a pravou držbu a její nepřetržitost; teprve poté nastupuje otázka délky doby. Nestačil-li by řádný titul, lze zvážit mimořádné vydržení (§ 1095) s delší dobou.
+
+**6. Varianty.** (a) Kdyby A o nesprávnosti hranice věděl nebo mu to muselo být zjevné, chyběla by poctivost (§ 992) a řádné vydržení by selhalo. (b) Kdyby A neměl žádný způsobilý právní důvod, ale držel pruh poctivě a pravě po (zákonem stanovenou delší) dobu, přicházelo by v úvahu mimořádné vydržení (§ 1095). (c) Kdyby A nemohl navázat na držbu P, nezapočítala by se doba P (§ 990, § 1091).
+
+#### G. Protiargumenty a rizika
+
+- *Zpochybnění poctivosti:* S tvrdí, že A si měl hranici ověřit (§ 992). Neutralizace: doložit přesvědčivý důvod (smlouva + zaměření) a nezjevnost vady; poctivost se presumuje (§ 994).
+- *Chybějící způsobilý titul (§ 1090):* riziko, že titul nepokrýval sporný pruh. Neutralizace: vyložit rozsah titulu, případně přejít na mimořádné vydržení (§ 1095), kde řádný titul není podmínkou.
+- *Nepoctivost předchůdce:* S argumentuje vadami na straně P. Neutralizace: § 1089 odst. 2 — rozhodná je poctivost nástupce A od jeho nabytí držby; nepoctivost P sama o sobě vydržení A nebrání (může však ovlivnit připočtení doby P).
+- *Slabé místo:* prokázání nepřetržitosti a poctivosti po celou dobu; ztráta poctivosti (např. doručením žaloby, § 995) může běh vydržení zvrátit.
+
+#### H. Praktický závěr
+
+Řádné vydržení (§ 1089—1090) vyžaduje poctivou a pravou držbu a právní důvod způsobilý ke vzniku vlastnického práva; řádnost ve smyslu § 991 nutná není. Nepoctivost předchůdce nebrání poctivému nástupci (poctivost se posuzuje od jeho nabytí držby). Chybí-li způsobilý titul, lze uvážit mimořádné vydržení (§ 1095) s delší dobou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je držba poctivá (§ 992) a pravá (§ 993) — nosné předpoklady řádného vydržení?
+- [ ] Existuje právní důvod způsobilý ke vzniku vlastnického práva (§ 1090)?
+- [ ] Posuzuje se poctivost správně od nabytí držby nástupce (§ 1089 odst. 2)?
+- [ ] Je držba nepřetržitá a lze připočíst dobu předchůdce (§ 990, § 1091)?
+- [ ] Není-li způsobilý titul, přichází v úvahu mimořádné vydržení (§ 1095)?
+
+**Typicky rozhodné důkazy / podklady:** nabývací titul a geometrický plán/zaměření, doklady o nepřetržité poctivé a pravé držbě (oplocení, obhospodařování, platby), okolnosti nabytí držby od předchůdce, případně podklady k délce vydržecí doby a k poctivosti po celé období.
 
 ---
 

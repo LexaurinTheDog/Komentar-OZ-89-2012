@@ -57,6 +57,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 - *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
 - *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=91a56444-746e-4693-8da4-f702298eb03b) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec vlastní stavební parcelu v okrajové části města. Developerská společnost chce na pozemku postavit a provozovat bytový dům, aniž by pozemek kupovala; obec si chce zachovat vliv na využití pozemku. Strany uzavřou smlouvu o zřízení práva stavby na 90 let, přičemž právo stavby se má vztahovat nejen na zastavěnou plochu, ale i na sousední parcelu sloužící jako příjezdová cesta a parkoviště pro obyvatele domu. Důkazy: geometrický plán vymezující rozsah práva stavby, smlouva o zřízení práva stavby s úředně ověřenými podpisy, návrh na vklad do katastru.
+
+**2. Právní otázka.** Lze zřídit právo stavby tak, aby zahrnovalo i pozemek, na kterém samotná stavba nestojí, a je-li stavba teprve plánovaná (dosud nezřízená)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1240 OZ — pozemek může být zatížen věcným právem stavebníka mít na/pod povrchem stavbu (zřízenou i nezřízenou); odst. 2 dovoluje rozšířit právo stavby na pozemek sloužící lepšímu užívání.
+- *Související ustanovení téhož zákona:* § 506 (zásada *superficies solo cedit*, z níž je právo stavby výjimkou); § 1242 (právo stavby jako nemovitá věc a stavba jako jeho součást); § 1243 (vznik vkladem); § 1250 (postavení stavebníka).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, samostatný list vlastnictví práva stavby); stavební zákon (povolení stavby).
+- *Judikatura:* rozhodnutí evidovaná v komentáři pod § 1240 (KS v Praze 26 Co 28/2024, OS Praha-východ 22 C 85/2023) potvrzují praktickou aplikaci institutu; nosný závěr: právo stavby je samostatným předmětem právních vztahů odlišným od pozemku.
+
+**4. Subsumpce.** Znak „věcné právo jiné osoby mít stavbu na cizím pozemku" je naplněn (developer ≠ vlastník pozemku). Znak „nezáleží na tom, zda je stavba zřízená či nezřízená" pokrývá plánovaný bytový dům. Rozšíření na příjezdovou parcelu je přípustné podle odst. 2, neboť cesta a parkoviště slouží lepšímu užívání stavby. Sporné by bylo zahrnutí pozemku, který s užíváním stavby nijak nesouvisí — to odst. 2 nedovoluje.
+
+**5. Řešení.** Právo stavby lze platně zřídit v navrženém rozsahu. Vzniká však až vkladem do katastru (§ 1243 odst. 2); do té doby jde jen o obligační závazek. Procesní kroky: ověřit, zda na pozemku neváznou práva odporující účelu stavby (§ 1241), uzavřít smlouvu s přesným vymezením doby (poslední den musí být patrný z katastru — § 1244), podat návrh na vklad. Riziko: bude-li příjezdová parcela ve vlastnictví třetí osoby, nelze ji do práva stavby zahrnout bez jejího souhlasu jako vlastníka.
+
+**6. Varianty.** (a) Pokud by stavba již existovala a obec by jen dodatečně zřizovala právo stavby, institut funguje stejně (právo „mít již zřízenou stavbu"). (b) Pokud by rozšiřovaný pozemek nesloužil lepšímu užívání stavby, ale byl pouze investiční rezervou developera, šlo by nad rámec odst. 2 a katastr by zápis v této části odmítl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Právo stavby nelze zřídit k dosud neexistující stavbě." Neutralizace: § 1240 odst. 1 výslovně stanoví, že nezáleží na tom, zda je stavba zřízená či nezřízená — institut je typicky určen právě pro budoucí výstavbu.
+- *Protiargument 2:* „Rozšíření na okolní pozemky obchází zákaz neúčelného zatížení." Neutralizace: odst. 2 podmiňuje rozšíření funkční vazbou (lepší užívání stavby); je třeba doložit, že příjezd a parkování s domem souvisí.
+- Slabé místo: hranice „lepšího užívání" je neostrá; u rozsáhlých přidružených ploch hrozí spor s katastrálním úřadem i s vlastníkem pozemku ohledně rozsahu zatížení.
+
+#### H. Praktický závěr
+
+Právo stavby je výjimkou ze zásady, že stavba je součástí pozemku; umožňuje stavět na cizím pozemku, financovat výstavbu zástavou práva stavby a zachovat vlastníkovi pozemku kontrolu. Klíčové je přesné vymezení rozsahu (vč. přidružených pozemků dle odst. 2) a vědomí, že právo vzniká až vkladem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je stavebník odlišný od vlastníka pozemku?
+- [ ] Je rozsah práva stavby (vč. pozemků dle odst. 2) přesně geometricky vymezen?
+- [ ] Slouží přidružené pozemky prokazatelně lepšímu užívání stavby?
+- [ ] Je podán návrh na vklad (právo vzniká až zápisem)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby, geometrický plán, výpis z katastru (LV pozemku), doklad o vlastnictví přidružených pozemků.
+
 ### § 1241 — Vyloučení a souhlas zástavního věřitele
 
 > Právo stavby nelze zřídit k pozemku, na kterém vázne právo příčící se účelu stavby. Je-li pozemek zatížen zástavním právem, lze jej zatížit právem stavby jen se souhlasem zástavního věřitele.
@@ -70,6 +106,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 **Judikatura (z místních zdrojů):**
 
 - *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník chce zřídit právo stavby ve prospěch investora na pozemku, který je zatížen (a) zástavním právem banky zajišťujícím dřívější úvěr a (b) služebností průhonu (právo souseda hnát dobytek přes pozemek). Plánovaná stavba by průhon znemožnila. Investor přesto podá návrh na vklad práva stavby bez souhlasu banky. Důkazy: výpis z katastru s vyznačenými zatíženími, znění zástavní smlouvy, popis trasy průhonu.
+
+**2. Právní otázka.** Lze pozemek zatížit právem stavby, brání-li tomu existující věcné právo (služebnost průhonu), a je-li pozemek zastaven, je k zápisu nutný souhlas zástavního věřitele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1241 OZ — právo stavby nelze zřídit, vázne-li na pozemku právo příčící se účelu stavby; je-li pozemek zastaven, lze jej zatížit právem stavby jen se souhlasem zástavního věřitele.
+- *Související ustanovení téhož zákona:* § 1240 (definice); § 1309 a násl. (zástavní právo); § 1257 a § 1267 (služebnosti, vč. průhonu § 1274 a násl.); § 1266 (souběh služebností — novější nesmí být na újmu starším).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (§ 17 — zkoumání podmínek zápisu, zamítnutí vkladu).
+- *Judikatura:* rozhodnutí evidované pod § 1241 (KS v Praze 76 C 6/2025) k souběhu práva stavby a dalších věcných práv; obecný nosný závěr: katastrální úřad zápis odmítne, nejsou-li splněny zákonné podmínky zatížení.
+
+**4. Subsumpce.** Služebnost průhonu je „právo příčící se účelu stavby", neboť stavba by výkon služebnosti vyloučila — první podmínka § 1241 brání zřízení práva stavby (bez souhlasu oprávněného ze služebnosti, popř. jejího zániku). Druhá podmínka: pozemek je zastaven, takže i kdyby kolize se služebností nebyla, zápis vyžaduje souhlas banky. Bez něj katastr vklad zamítne.
+
+**5. Řešení.** Návrh na vklad bez souhlasu zástavního věřitele bude zamítnut (§ 17 KatZ). Správný postup: získat (a) souhlas banky jako zástavní věřitelky a (b) vyřešit kolizi se služebností průhonu (souhlas oprávněného, úprava trasy stavby tak, aby průhon nebránila, nebo zánik služebnosti). Riziko: i písemný souhlas banky musí být doložen ve formě umožňující vklad. Alternativně lze sjednat, že právo stavby se zřídí až po zániku kolidující služebnosti.
+
+**6. Varianty.** (a) Pokud by stavba průhon neznemožňovala (vedla by mimo trasu), první překážka odpadá a stačí souhlas banky. (b) Pokud by zástavní právo zaniklo splacením úvěru ještě před podáním návrhu, souhlas banky není třeba a postačí vyřešit jen kolizi se služebností.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Souhlas banky netřeba, neboť právo stavby hodnotu zástavy nesnižuje." Neutralizace: zákon souhlas vyžaduje bez ohledu na ekonomický dopad; právo stavby objektivně omezuje pozemek a banka má právo svou pozici chránit.
+- *Protiargument 2:* „Služebnost průhonu se výkonem zúží, nebrání tedy stavbě." Neutralizace: znemožní-li stavba výkon služebnosti, jde o právo příčící se účelu stavby (§ 1241 věta první) a § 1266 chrání starší právo.
+- Slabé místo: posouzení, zda dané věcné právo „se příčí" účelu stavby, je věcí konkrétního skutkového posouzení (rozsah, trvalost kolize) a může být sporné.
+
+#### H. Praktický závěr
+
+Před zřízením práva stavby je nutné prověřit list vlastnictví pozemku: existující věcná práva odporující účelu stavby brání jejímu zřízení a zástavní právo vyžaduje souhlas zástavního věřitele. Bez splnění obou podmínek katastr vklad zamítne.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl prověřen LV pozemku na všechna zatížení?
+- [ ] Nevázne na pozemku právo příčící se účelu stavby?
+- [ ] Je-li pozemek zastaven, je doložen souhlas zástavního věřitele ve vkladuschopné formě?
+- [ ] Je vyřešena případná kolize s existujícími služebnostmi?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru, zástavní smlouva, písemný souhlas zástavního věřitele, doklad o obsahu a trase kolidující služebnosti.
 
 ### § 1242 — Právní povaha
 
@@ -95,6 +167,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 - *OS Praha-východ* [22 C 85/2023-71](https://rozhodnuti.justice.cz/rozhodnuti/?id=c40ee580-ef5d-49bb-9380-fcb1608dda99) — *právo stavby*
 - *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
 - *KS v Praze* [27 Co 264/2024-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=91a56444-746e-4693-8da4-f702298eb03b) — *služebnost, věcné právo k věci cizí, zástavní právo, spoluvlastnictví, právo stavby, pod…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník má na cizím pozemku právo stavby a na něm postavený výrobní halu. Chce halu samostatně prodat jinému podnikateli, aniž by převedl právo stavby (pozemek a dobu trvání chce ponechat „pro sebe"). Kupující halu nabývá a žádá o její samostatný zápis. Důkazy: kupní smlouva na „halu", LV práva stavby, znalecký posudek hodnoty haly.
+
+**2. Právní otázka.** Lze stavbu vyhovující právu stavby převést samostatně, odděleně od práva stavby, jehož je součástí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1242 OZ — právo stavby je nemovitá věc; stavba vyhovující právu stavby je jeho součástí, ale podléhá též ustanovením o nemovitých věcech.
+- *Související ustanovení téhož zákona:* § 505—506 (součást věci, *superficies solo cedit*); § 498 (nemovité věci); § 1252 (převod a zatížení práva stavby); § 1255 (osud stavby při zániku práva stavby); § 1316 a násl. (zástava nemovité věci).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, vedení LV práva stavby).
+- *Judikatura:* rozhodnutí evidovaná pod § 1242 (KS v Brně 14 CO 6/2023, ObS pro Prahu 4 38 C 47/2020) k povaze práva stavby a stavby na něm; nosný princip: součást věci nemá samostatný právní osud.
+
+**4. Subsumpce.** Hala je „stavba vyhovující právu stavby", tedy podle § 1242 věty druhé součást práva stavby. Součást věci (§ 505) nemůže být samostatným předmětem převodu odděleně od věci hlavní. Převod „pouze haly" bez práva stavby je proto právně nemožný — předmětem dispozice musí být právo stavby (jako věc nemovitá), jehož je hala součástí.
+
+**5. Řešení.** Samostatný převod haly není možný; převést lze jen právo stavby jako celek (vč. haly jako součásti) podle § 1252. Kupní smlouva „na halu" je nutno vyložit (§ 555 a násl.) — pravděpodobně jako smlouvu o převodu práva stavby; není-li to z jejího obsahu možné, hrozí neplatnost pro nemožnost plnění (§ 580). Katastr samostatný zápis haly odmítne. Doporučení: přepracovat smlouvu na převod práva stavby a podat návrh na vklad.
+
+**6. Varianty.** (a) Převede-li se celé právo stavby, hala přejde s ním jako součást — postup je bezvadný. (b) Při zániku práva stavby uplynutím doby hala přechází do vlastnictví pozemku (§ 1255), čímž se opět spojí se zásadou *superficies solo cedit* — tehdy je předmětem náhrady, nikoli samostatného převodu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Hala je samostatná nemovitost, lze ji tedy prodat zvlášť." Neutralizace: § 1242 výslovně činí stavbu součástí práva stavby; podléhá sice režimu nemovitých věcí (forma, vklad), ale nemá samostatný právní osud oddělený od práva stavby.
+- *Protiargument 2:* „Strany si mohou ujednat oddělený převod." Neutralizace: jde o kogentní povahu vztahu součásti a věci hlavní; ujednání o samostatném převodu součásti je neúčinné, plnění by bylo nemožné.
+- Slabé místo: rozlišení, co ještě je „stavba vyhovující právu stavby" (součást) a co je samostatná movitá věc (např. zařízení haly), může být v hraničních případech sporné.
+
+#### H. Praktický závěr
+
+Právo stavby je samostatná nemovitá věc, stavba na něm je jeho součástí. Dispozice (převod, zástava) se proto vždy týká práva stavby jako celku; stavbu nelze převést ani zastavit odděleně. Současně platí pro stavbu i právo stavby formální požadavky kladené na nemovité věci (vklad do katastru).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem dispozice právo stavby jako celek (nikoli jen stavba)?
+- [ ] Je smlouva formulována jako převod/zatížení práva stavby?
+- [ ] Je podán návrh na vklad (režim nemovitých věcí)?
+- [ ] Sleduje zástava práva stavby i stavbu jako jeho součást?
+
+**Typicky rozhodné důkazy / podklady:** LV práva stavby, smlouva o převodu/zatížení práva stavby, geometrický plán, znalecký posudek hodnoty stavby.
 
 ---
 
@@ -122,6 +230,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 - *KS v Ostravě, pobočka Olomouc* [69 CO 219/2022-308](https://rozhodnuti.justice.cz/rozhodnuti/?id=5111f166-615f-4cd0-8d55-7c2d270a02c5) — *bezdůvodné obohacení, dražba, oddlužení, peněžité plnění, smlouva nájemní*
 - *KS v Praze* [76 C 6/2025-32](https://rozhodnuti.justice.cz/rozhodnuti/?id=32c3b126-b1fd-49e9-9458-3a8d097bbaf4) — *věcná břemena, soukromá listina, právo stavby*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor a vlastník pozemku podepíší smlouvu o zřízení práva stavby na 80 let. Investor okamžitě zahájí výstavbu a po roce chce stavbu (resp. právo stavby) zastavit bance kvůli úvěru. Vyjde najevo, že návrh na vklad práva stavby do katastru dosud nikdo nepodal. Investor tvrdí, že právo stavby vzniklo již podpisem smlouvy. Důkazy: smlouva o zřízení práva stavby, doklad o (ne)podání návrhu na vklad, výpis z katastru.
+
+**2. Právní otázka.** Kdy vzniká právo stavby zřizované smlouvou — účinností smlouvy, nebo až vkladem do veřejného seznamu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1243 OZ — právo stavby se nabývá smlouvou, vydržením nebo rozhodnutím orgánu veřejné moci; smlouvou vzniká až zápisem do veřejného seznamu (konstitutivní účinek), zápisu podléhá i právo stavby vzniklé rozhodnutím orgánu veřejné moci.
+- *Související ustanovení téhož zákona:* § 1105 (nabytí nemovitosti zapsané do veřejného seznamu vkladem); § 1242 (právo stavby jako nemovitá věc); § 1244 (vydržení — 40 let); § 1316 (vznik zástavního práva k nemovitosti vkladem).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, samostatný LV práva stavby).
+- *Judikatura:* rozhodnutí evidovaná pod § 1243 (ObS pro Prahu 4 38 C 47/2020, KS v Praze 26 Co 28/2024); obecný princip katastrálního práva: u věcných práv k nemovitostem zapsaným do veřejného seznamu nastává věcněprávní účinek až vkladem.
+
+**4. Subsumpce.** Smlouva o zřízení práva stavby zakládá pouze obligační závazek zřídit právo (titulus). Věcné právo stavby (modus) vzniká podle § 1243 odst. 2 až zápisem do katastru. Protože návrh na vklad nebyl podán, právo stavby dosud nevzniklo; investor tudíž nemá co zastavit (zástava se zřizuje k existujícímu právu stavby jako nemovité věci).
+
+**5. Řešení.** Tvrzení investora je nesprávné — do vkladu má jen pohledávku ze smlouvy, nikoli věcné právo. Postup: neprodleně podat návrh na vklad práva stavby; teprve po jeho zápisu lze zřídit zástavní právo bance (rovněž vkladem). Riziko: zemře-li či zcizí-li vlastník pozemek před vkladem, může vzniknout spor o pořadí; chrání pomocný institut poznámky spornosti / přednostní pořadí dle data podání návrhu.
+
+**6. Varianty.** (a) Nabytí vydržením (§ 1244 odst. 2 — 40 let) vzniká bez vkladu, ale zápis má jen deklaratorní povahu; podmínky vydržení jsou však náročné. (b) Vznik rozhodnutím orgánu veřejné moci (vyvlastnění) rovněž podléhá zápisu do katastru (§ 1243 odst. 2 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Smlouva je platná a účinná, právo tedy existuje." Neutralizace: platnost titulu nestačí; § 1243 odst. 2 váže vznik věcného práva na vklad (modus). Platná smlouva zakládá jen nárok na zápis.
+- *Protiargument 2:* „Banka může brát zástavu už z titulu smlouvy." Neutralizace: zástavu lze zřídit jen k existující nemovité věci (právu stavby); před vkladem žádná není.
+- Slabé místo: u nabytí vydržením je hranice mezi deklaratorním a konstitutivním zápisem matoucí; je nutno doložit splnění hmotněprávních podmínek vydržení, nikoli jen tvrdit držbu.
+
+#### H. Praktický závěr
+
+Právo stavby zřizované smlouvou vzniká až vkladem do katastru, nikoli podpisem smlouvy. Do vkladu existuje pouze závazek právo zřídit. Pro zástavu, převod či jakoukoli věcněprávní dispozici je nezbytné, aby právo stavby bylo nejprve zapsáno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl podán návrh na vklad práva stavby?
+- [ ] Je rozlišeno mezi titulem (smlouva) a modem (vklad)?
+- [ ] U vydržení: jsou doloženy hmotněprávní podmínky (doba, oprávněná držba)?
+- [ ] Je u rozhodnutí orgánu veřejné moci proveden následný zápis?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby, návrh na vklad s vyznačeným datem podání, výpis z katastru (LV práva stavby).
+
 ### § 1244 — Doba trvání
 
 > (1) Právo stavby lze zřídit jen jako dočasné; nesmí být zřízeno na více než 99 let. Poslední den doby, na kterou je právo stavby zřízeno, musí být patrný z veřejného seznamu.
@@ -145,6 +289,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 - *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=51798e49-6adc-45be-a749-87ee2c6505ad) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
 - *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Strany ujednají právo stavby „na 120 let" a do smlouvy uvedou, že „poslední den doby určí stavebník dodatečně oznámením vlastníkovi". Katastrální úřad návrh vrátí. V jiné větvi případu stavebník nabyl právo stavby vydržením a domáhá se jeho prodloužení, protože stavba má životnost přesahující 40 let. Důkazy: smlouva o zřízení práva stavby, výpis z katastru, znalecký posudek životnosti stavby, podklady k vydržení.
+
+**2. Právní otázka.** Je platné ujednání práva stavby na dobu delší než 99 let nebo s neurčitým posledním dnem; a lze soudně změnit dobu práva stavby nabytého vydržením?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1244 OZ — právo stavby jen jako dočasné, nejvýše na 99 let; poslední den musí být patrný z veřejného seznamu; při vydržení vzniká na 40 let, soud může dobu z spravedlivých důvodů zkrátit či prodloužit.
+- *Související ustanovení téhož zákona:* § 1245 (prodloužení se souhlasem osob se zatížením v pořadí za právem stavby); § 1255 (náhrada při zániku uplynutím doby); § 1243 (vznik).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (požadavek určitelnosti zapisovaného údaje — doby).
+- *Judikatura:* rozhodnutí evidovaná pod § 1244 (KS v Praze 26 Co 28/2024 a další); obecný princip: časové omezení věcného práva musí být z veřejného seznamu jednoznačně patrné, aby působilo vůči třetím osobám.
+
+**4. Subsumpce.** Doba 120 let překračuje zákonné maximum 99 let — v této části je ujednání neúčinné (právo stavby buď nevznikne, nebo se posoudí jako zřízené na nejvýše přípustnou dobu, podle výkladu vůle stran). „Dodatečné určení posledního dne" odporuje požadavku, aby poslední den byl patrný z katastru — zápis nelze provést. U vydržené doby 40 let je „spravedlivým důvodem" pro prodloužení např. životnost stavby výrazně přesahující 40 let.
+
+**5. Řešení.** Smlouvu je nutno opravit: stanovit dobu max. 99 let s konkrétně určeným posledním dnem (datum, popř. jednoznačně určitelná lhůta). Bez toho katastr vklad nepovolí. U vydržení může stavebník podat návrh soudu na prodloužení doby; soud zváží spravedlivé důvody (investice, životnost stavby, poměry stran). Riziko: neurčitě sjednaná doba způsobí odmítnutí vkladu, a tím nevznik práva stavby.
+
+**6. Varianty.** (a) Doba 99 let s pevným datem konce je bezvadná. (b) Při bankovním financování se doporučuje, aby doba práva stavby přesahovala splatnost úvěru o 5—10 let — jinak banka zástavu práva stavby nepřijme; to není zákonný požadavek, ale praktická podmínka financovatelnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Strany si mohou autonomně ujednat libovolnou dobu." Neutralizace: § 1244 odst. 1 je kogentní v části maxima 99 let i požadavku patrnosti posledního dne; jde o ochranu před faktickou věčností a o právní jistotu třetích osob.
+- *Protiargument 2:* „Soud nemůže zasahovat do vydržené doby." Neutralizace: odst. 2 výslovně dává soudu pravomoc dobu zkrátit či prodloužit při spravedlivých důvodech k návrhu dotčené strany.
+- Slabé místo: pojem „spravedlivé důvody" je neurčitý; výsledek soudního prodloužení/zkrácení je obtížně předvídatelný a vyžaduje pečlivé odůvodnění (znalecký posudek, ekonomická rozvaha).
+
+#### H. Praktický závěr
+
+Právo stavby je vždy dočasné, nejvýše na 99 let, s posledním dnem jednoznačně patrným z katastru. Vydržením vzniká na 40 let s možností soudní modifikace. Neurčitá nebo nadlimitní doba ohrožuje samotný vznik práva i jeho financovatelnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nepřekračuje doba 99 let?
+- [ ] Je poslední den jednoznačně patrný z veřejného seznamu (datum/určitelná lhůta)?
+- [ ] U vydržení: počítá se s 40 lety, případně se zvažuje soudní úprava?
+- [ ] Přesahuje doba práva stavby splatnost úvěru (pro financovatelnost)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby, výpis z katastru, znalecký posudek životnosti stavby, úvěrová dokumentace.
+
 ### § 1245—1246 — Změna doby, zákaz rozvazovací podmínky
 
 **§ 1245**:
@@ -160,6 +340,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 
 - *OS Praha-západ* [36 C 89/2023-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ae9c03c-1420-4e99-a6b9-63ecb028a2c5) — *vrácení daru, smlouva kupní, společné jmění manželů, pozůstalost, jmění, právo stavby, s…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Právo stavby bylo zřízeno na 50 let; na právu stavby vázne v pořadí za ním zástavní právo banky. Stavebník a vlastník pozemku se dohodnou na prodloužení doby práva stavby o dalších 30 let, aby se vyplatilo refinancování. Banka o prodloužení neví. Současně si strany do dodatku napíší, že „právo stavby zaniká, pokud stavebník v kterémkoli roce zaplatí stavební plat se zpožděním delším než 30 dnů". Důkazy: smlouva a dodatek, výpis z katastru s pořadím zatížení, sdělení bance.
+
+**2. Právní otázka.** Je k prodloužení doby práva stavby nutný souhlas zástavního věřitele zapsaného v pořadí za právem stavby, a je platná rozvazovací podmínka vázající zánik práva stavby na opožděnou platbu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1245 OZ — prodloužení trvání práva stavby vyžaduje souhlas osob, pro které jsou na pozemku zapsána zatížení v pořadí za právem stavby; § 1246 — k rozvazovací podmínce práva stavby se nepřihlíží.
+- *Související ustanovení téhož zákona:* § 1244 (doba a její soudní změna); § 548 (rozvazovací podmínka obecně); § 1252 (zatížení práva stavby); § 1309 a násl. (zástavní právo a jeho pořadí).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (pořadí zápisů, zápis prodloužení).
+- *Judikatura:* rozhodnutí evidované pod § 1245—1246 (OS Praha-západ 36 C 89/2023) k dispozicím s právem stavby; obecný princip: prodloužení trvání věcného práva nesmí zhoršit pořadí dříve zapsaných práv bez jejich souhlasu.
+
+**4. Subsumpce.** Banka má na pozemku (resp. v souvislosti s právem stavby) zatížení v pořadí za právem stavby; prodloužení doby práva stavby zhoršuje její vyhlídky, proto § 1245 vyžaduje její souhlas — bez něj prodloužení vůči ní nepůsobí. Rozvazovací podmínka („zánik při opoždění platby") spadá pod § 1246: k takové podmínce se nepřihlíží; sama smlouva však zůstává platná, jen podmínka je ignorována.
+
+**5. Řešení.** Prodloužení doby je nutno podmínit souhlasem banky (jinak vůči ní nebude účinné a katastr je v této části neprovede, resp. se neprosadí proti jejímu pořadí). Rozvazovací podmínku katastr nezapíše a soud k ní nepřihlédne — právo stavby trvá bez ohledu na opoždění; opožděnou platbu lze řešit úrokem z prodlení, smluvní pokutou nebo (u stavebního platu jako reálného břemene) výkonem práva, nikoli zánikem práva stavby. Riziko: spoléhání na neúčinnou rozvazovací podmínku ponechá vlastníka pozemku bez očekávané sankce.
+
+**6. Varianty.** (a) Získá-li se předem souhlas banky, prodloužení se bez problémů zapíše a prosadí. (b) Místo rozvazovací podmínky lze sjednat smluvní pokutu či úrok z prodlení za opožděný stavební plat — tyto nástroje § 1246 nezakazuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Prodloužení je věcí jen stavebníka a vlastníka pozemku." Neutralizace: § 1245 chrání očekávané pořadí osob se zapsaným zatížením za právem stavby; bez jejich souhlasu prodloužení vůči nim neúčinkuje.
+- *Protiargument 2:* „Rozvazovací podmínka je projevem smluvní volnosti." Neutralizace: § 1246 ji výslovně vylučuje (k podmínce se nepřihlíží) v zájmu právní jistoty a stability věcného práva.
+- Slabé místo: rozlišení mezi (zakázanou) rozvazovací podmínkou a (přípustnou) sankcí za porušení povinnosti může být v konkrétní formulaci sporné; je nutná pečlivá redakce smlouvy.
+
+#### H. Praktický závěr
+
+Prodloužení práva stavby vyžaduje souhlas věřitelů zapsaných v pořadí za ním; rozvazovací podmínka je neúčinná (nepřihlíží se k ní). Pro zajištění řádného placení stavebního platu je třeba volit jiné nástroje (úrok z prodlení, smluvní pokuta), nikoli automatický zánik práva.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je u prodloužení doby doložen souhlas osob se zatížením v pořadí za právem stavby?
+- [ ] Neobsahuje smlouva rozvazovací podmínku (jež je neúčinná)?
+- [ ] Jsou porušení povinností řešena přípustnými sankcemi (pokuta, úrok)?
+- [ ] Je prodloužení podáno k zápisu do katastru?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a dodatky o prodloužení, výpis z katastru s pořadím zatížení, písemné souhlasy dotčených věřitelů.
+
 ### § 1247 — Stavební plat
 
 > Bylo-li právo stavby zřízeno za úplatu a ujednala-li se úplata v opětujících se dávkách jako stavební plat, zatěžuje právo stavby jako reálné břemeno.
@@ -173,6 +389,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 **Judikatura (z místních zdrojů):**
 
 - *(nezadán)* [9 C 4/2023-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=e449e10f-26cd-4c5d-9c3a-41ceed62bac0) — *dražba, akcie, spoluvlastnictví, odbory, právo stavby, služebnost, smlouva darovací*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec zřídí investorovi právo stavby za úplatu sjednanou jako roční „stavební plat" 200 000 Kč, valorizovaný podle indexu spotřebitelských cen ČSÚ. Investor právo stavby i s halou prodá třetí osobě. Nový stavebník odmítá platit s tím, že stavební plat dlužil jen původní stavebník. V dalším roce navíc obec požaduje skokové zvýšení platu „podle vývoje cen energií", jak prý umožňuje smlouva. Důkazy: smlouva o zřízení práva stavby s ujednáním o stavebním platu, výpis z katastru, indexové podklady ČSÚ.
+
+**2. Právní otázka.** Přechází povinnost platit stavební plat na nabyvatele práva stavby a je přípustná valorizace stavebního platu (indexem vs. nejistou budoucí událostí)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1247 OZ — byl-li stavební plat ujednán v opětujících se dávkách, zatěžuje právo stavby jako reálné břemeno.
+- *Související ustanovení téhož zákona:* § 1303 a násl. (reálná břemena — věcněprávní povaha, přechod na nabyvatele, uspokojení z výtěžku); § 1252 (převod práva stavby); § 1255—1256 (zánik a náhrada); § 548 (podmínky a doložky).
+- *Související předpisy:* zákon o cenách / obecná úprava určitosti právního jednání (§ 553—555 OZ).
+- *Judikatura:* rozhodnutí evidované pod § 1247 (9 C 4/2023) k právu stavby a souvisejícím plněním; obecný princip: reálné břemeno váznoucí na věci přechází na jejího nabyvatele a poskytuje uspokojení z věci.
+
+**4. Subsumpce.** Stavební plat sjednaný periodicky je podle § 1247 reálným břemenem — váže se věcněprávně na právo stavby, a proto přechází na nabyvatele (nový stavebník je povinen jej platit). Valorizace indexem ČSÚ je „jednoznačně určitelná" (přípustná). Naproti tomu zvýšení „podle vývoje cen energií" je vázáno na nejistou, neurčitě vymezenou budoucí událost — taková doložka naráží na požadavek určitosti a v rozsahu neurčitelnosti je neúčinná.
+
+**5. Řešení.** Nový stavebník je povinen platit stavební plat (reálné břemeno přešlo s právem stavby) — jeho námitka neobstojí; obec se může uspokojit i z výtěžku zpeněžení práva stavby. Valorizaci podle indexu ČSÚ lze prosadit; skokové zvýšení „podle cen energií" nikoli, není-li mechanismus přesně a jednoznačně určen. Riziko: neurčitě formulovaná valorizační doložka může být celá nevymahatelná — doporučuje se odkaz na konkrétní zveřejňovaný index.
+
+**6. Varianty.** (a) Je-li úplata sjednána jednorázově (nikoli periodicky), nejde o reálné břemeno podle § 1247 a na nabyvatele jako věcné břemeno nepřechází — jde o obligační pohledávku vůči původnímu stavebníkovi. (b) Je-li valorizace navázána na přesně vymezený, veřejně publikovaný index, je plně vymahatelná i vůči nabyvateli.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stavební plat je jen závazek původního stavebníka, nepřechází." Neutralizace: periodicky sjednaný plat je reálné břemeno (§ 1247), váže na právu stavby a přechází na každého dalšího stavebníka.
+- *Protiargument 2:* „Jakákoli valorizace je přípustná." Neutralizace: závislost výše na nejisté budoucí události naráží na požadavek určitosti; jen jednoznačně určitelný index (CPI) obstojí.
+- Slabé místo: kvalifikace plnění jako „periodického" může být sporná u kombinovaných modelů (částečně jednorázová, částečně splátková úplata); rozhoduje obsah ujednání.
+
+#### H. Praktický závěr
+
+Stavební plat sjednaný v opětujících se dávkách je reálné břemeno: zatěžuje právo stavby, přechází na nabyvatele a poskytuje uspokojení z věci. Valorizaci je nutno navázat na jednoznačně určitelný index; vágní doložky jsou nevymahatelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je úplata sjednána periodicky (a tedy jako reálné břemeno)?
+- [ ] Je stavební plat zapsán/patrný ve vztahu k právu stavby?
+- [ ] Je valorizace navázána na konkrétní zveřejňovaný index?
+- [ ] Je nabyvatel práva stavby informován o povinnosti platit?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s ujednáním o stavebním platu, výpis z katastru, doklady o valorizačním indexu, doklady o úhradách.
 
 ### § 1248—1249 — Vzdání se a zánik před uplynutím doby
 
@@ -191,6 +443,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 - *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d85e204-57da-48e9-9fed-494e3b29f2b8) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
 - *OS v Břeclavi* [11 C 256/2020-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=8beae06c-08fb-40fa-b172-59e601e025ab) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník má právo stavby na 70 let, na němž vázne zástavní právo banky (zajišťující úvěr na výstavbu). Po deseti letech se stavebník rozhodne projektu vzdát a podá prohlášení o vzdání se práva stavby. Vlastník pozemku chce právo stavby na zbytek doby převést na nového investora. Banka namítá, že její zástavní právo nesmí předčasným zánikem zaniknout. Důkazy: prohlášení o vzdání se práva stavby, zástavní smlouva, výpis z katastru s vyznačeným zástavním právem.
+
+**2. Právní otázka.** Může vlastník pozemku po vzdání se práva stavby převést právo stavby na třetí osobu a co se stane se zástavním právem váznoucím na právu stavby při jeho předčasném zániku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1248 OZ — po vzdání se práva stavby může vlastník pozemku převést právo stavby (na zbytek doby) na sebe či jinou osobu; § 1249 — předčasný zánik práva stavby nepůsobí vůči osobě se zapsaným věcným právem na něm, dokud toto právo trvá (ledaže udělí souhlas k výmazu).
+- *Související ustanovení téhož zákona:* § 1244 (doba); § 1252 (převoditelnost); § 1255—1256 (náhrada, přechod zástavy na náhradu); § 1376 a násl. (zánik zástavního práva).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (výmaz, zápis převodu).
+- *Judikatura:* rozhodnutí evidovaná pod § 1248—1249 (KS v Brně 14 CO 253/2021, OS v Břeclavi 11 C 256/2020); obecný princip: ochrana zapsaných věcných práv třetích osob před následky předčasného zániku zatíženého práva.
+
+**4. Subsumpce.** Vzdání se práva stavby aktivuje § 1248 — vlastník pozemku může na základě listin převést právo stavby na zbytek doby na nového investora; mechanismus brání tomu, aby právo stavby „odumřelo". Zástavní právo banky je věcné právo zapsané na právu stavby; podle § 1249 nastanou účinky výmazu (zánik zatížení) vůči bance až zánikem jejího zástavního práva, ledaže banka udělí souhlas k výmazu. Předčasný zánik tedy bance neškodí.
+
+**5. Řešení.** Vlastník pozemku může právo stavby převést na nového investora; zástavní právo banky však „přežije" — nový stavebník nabývá právo stavby zatížené zástavou (případně banka souhlasí s výmazem výměnou za jiné zajištění/úhradu). Postup: doložit katastru listiny o vzdání se a o převodu; bez souhlasu banky se zástavní právo nevymaže. Riziko pro investora: nabývá zatížené právo stavby — nutná due diligence a vyjednání s bankou. Alternativa: dohoda banky o přechodu zástavy na náhradu (§ 1256) při „čistém" zániku.
+
+**6. Varianty.** (a) Udělí-li banka souhlas k výmazu (např. po úhradě úvěru), zástavní právo zanikne již výmazem a investor nabude právo stavby bez zatížení. (b) Zanikne-li právo stavby až uplynutím doby (nikoli předčasně), uplatní se § 1255—1256 — banka se uspokojí z pohledávky na náhradu za stavbu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vzdáním se práva stavby vše zaniká, včetně zástavy." Neutralizace: § 1249 výslovně chrání zapsaná věcná práva třetích osob — vůči nim účinky výmazu nastanou až zánikem jejich práva nebo s jejich souhlasem.
+- *Protiargument 2:* „Vlastník pozemku nemůže s opuštěným právem stavby disponovat." Neutralizace: § 1248 mu právě umožňuje převést právo stavby na zbytek doby na sebe či třetí osobu.
+- Slabé místo: koordinace výmazu, převodu a osudu zástavy v katastru je technicky náročná; chybné pořadí listin může vést k zamítnutí zápisu nebo k nejistotě o pořadí práv.
+
+#### H. Praktický závěr
+
+Vzdá-li se stavebník práva stavby, vlastník pozemku je může převést na zbytek doby na jinou osobu. Předčasný zánik práva stavby však nepůsobí vůči zapsaným věcným právům třetích osob (zejména zástavnímu právu) bez jejich souhlasu — ta právo stavby nadále zatěžují.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou doloženy listiny prokazující vzdání se práva stavby?
+- [ ] Jsou na právu stavby zapsána věcná práva třetích osob (zástava)?
+- [ ] Byl získán souhlas zástavního věřitele k výmazu (jinak zástava trvá)?
+- [ ] Nabývá nový stavebník právo stavby s vědomím existujících zatížení?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení o vzdání se práva stavby, zástavní smlouva, výpis z katastru, případný souhlas zástavního věřitele s výmazem.
+
 ---
 
 ### Pododdíl 3 — Právní poměry z práva stavby (§ 1250—1256)
@@ -204,6 +492,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 **Dvojí režim práv stavebníka**:
 - **Vůči stavbě** = **plné vlastnictví** (může ji užívat, prodat, pronajmout, zastavit);
 - **Vůči pozemku mimo stavbu** = **požívací právo** (může čerpat plody a užitky, ale musí šetřit podstatu — § 1285 a násl. obdobně).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavebník má právo stavby k pozemku, na němž stojí jeho penzion. Mimo zastavěnou plochu je k právu stavby přičleněna zahrada (pozemek sloužící lepšímu užívání). Stavebník na zahradě vykácí vzrostlé ovocné stromy a chce zde těžit písek. Vlastník pozemku protestuje. Spor je i o to, zda stavebník smí penzion pronajmout třetí osobě bez souhlasu vlastníka pozemku. Důkazy: smlouva o zřízení práva stavby (rozsah, ujednání), výpis z katastru, fotodokumentace stavu zahrady.
+
+**2. Právní otázka.** V jakém rozsahu má stavebník práva ke stavbě a v jakém k pozemku mimo stavbu — má vůči stavbě postavení vlastníka a vůči ostatnímu pozemku postavení poživatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1250 OZ — co do stavby má stavebník stejná práva jako vlastník; co do jiného užívání pozemku stejná práva jako poživatel, není-li ujednáno jinak.
+- *Související ustanovení téhož zákona:* § 1285 a násl. (požívací právo — právo brát plody a užitky se zachováním podstaty); § 1251 (povinnosti stavebníka); § 1252 (převod, zatížení); § 1012 (obsah vlastnického práva).
+- *Související předpisy:* lesní zákon / zákon o ochraně přírody (kácení dřevin), horní/báňské předpisy (těžba).
+- *Judikatura:* obecný princip požívacího práva — poživatel smí věc užívat a brát z ní plody, ale musí zachovat její podstatu a hospodařit řádně (zákaz znehodnocení podstaty).
+
+**4. Subsumpce.** Vůči penzionu (stavbě) má stavebník postavení vlastníka — může jej užívat i pronajmout; souhlas vlastníka pozemku k nájmu stavby není třeba (není-li smluvně vyhrazen dle § 1251 odst. 3, a i tehdy jen pokud nájem není k újmě vlastníka pozemku). Vůči zahradě má postavení poživatele: smí brát plody (ovoce), ale musí zachovat podstatu. Vykácení vzrostlých stromů a těžba písku zasahují do podstaty pozemku — překračují požívací právo a stavebník k nim není bez dohody oprávněn.
+
+**5. Řešení.** Pronájem penzionu je v pořádku (vlastnické postavení ke stavbě). Sběr ovoce ze zahrady je výkonem požívacího práva. Naopak vykácení stromů a těžba písku jdou nad rámec § 1250 (zásah do podstaty) — vlastník pozemku se může bránit zápůrčí žalobou a požadovat zdržení se a náhradu. Postup: vymezit ve smlouvě rozsah užívání pozemku; jinak platí režim poživatele s povinností šetřit podstatu. Riziko pro stavebníka: odpovědnost za škodu a za znehodnocení pozemku.
+
+**6. Varianty.** (a) Ujednají-li si strany ve smlouvě odchylně (např. právo těžby písku), je rozhodující ujednání („ledaže je ujednáno něco jiného"). (b) Jde-li o běžnou údržbu zahrady a sklizeň plodů bez zásahu do podstaty, je vše v mezích požívacího práva.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stavebník je fakticky pánem celého pozemku, může s ním nakládat libovolně." Neutralizace: vlastnické postavení má jen ke stavbě; k ostatnímu pozemku má jen práva poživatele (zachování podstaty), nikoli vlastníka.
+- *Protiargument 2:* „K nájmu stavby je nutný souhlas vlastníka pozemku." Neutralizace: ke stavbě má stavebník vlastnické postavení; souhlas je třeba jen, je-li smluvně vyhrazen, a i tehdy jej nelze odepřít, není-li jednání k újmě vlastníka pozemku (§ 1251 odst. 3).
+- Slabé místo: hranice mezi „braním plodů a užitků" (dovoleno) a „zásahem do podstaty" (zakázáno) je v praxi neostrá (např. probírková těžba dřeva, využití přírodnin).
+
+#### H. Praktický závěr
+
+Stavebník má dvojí postavení: ke stavbě jako vlastník (plné nakládání), k pozemku mimo stavbu jako poživatel (užitky ano, zásah do podstaty ne). Pro odchylky je rozhodující smlouva. Bez ujednání platí ochrana podstaty pozemku ve prospěch jeho vlastníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se jednání stavby (vlastnický režim), nebo pozemku mimo stavbu (požívací režim)?
+- [ ] Zasahuje plánované jednání do podstaty pozemku (pak je zpravidla nepřípustné)?
+- [ ] Obsahuje smlouva odchylné ujednání o rozsahu užívání pozemku?
+- [ ] Je u nájmu stavby případně splněna výhrada souhlasu dle § 1251 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby (rozsah a ujednání), výpis z katastru, dokumentace stavu pozemku, znalecký posudek znehodnocení.
 
 ### § 1251 — Povinnosti stavebníka
 
@@ -221,6 +545,42 @@ Tato kapitola pokrývá **věcná práva k cizí věci** — *iura in re aliena*
 **Judikatura (z místních zdrojů):**
 
 - *OS v Kolíně* [18 C 81/2022-157](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f5e8ce1-7cb8-4488-8f57-7fcf73d95791) — *výprosa, osobní služebnost, smlouva kupní, pravá držba, vydržení, notářský zápis, odbory…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec zřídila investorovi právo stavby s tím, že stavbu (administrativní budovu) provede do 4 let, bude ji udržovat a pojistí. Ve smlouvě si obec vyhradila právo schvalovat „faktická i právní jednání stavebníka". Investor po 3 letech chce budovu pronajmout nadnárodní firmě; obec souhlas odmítá udělit s odůvodněním, že „nájemce se jí nelíbí", ačkoli nájem jí žádnou újmu nepůsobí. Investor zároveň stavbu nedokončil ve lhůtě a nepojistil ji. Důkazy: smlouva o zřízení práva stavby, doklad o stavu výstavby, pojistná smlouva (resp. její absence), návrh nájemní smlouvy.
+
+**2. Právní otázka.** Může vlastník pozemku odepřít souhlas k právnímu jednání stavebníka, které mu nepůsobí újmu, a jaké jsou důsledky nedodržení lhůty k provedení stavby a povinnosti pojištění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1251 OZ — smlouva může uložit lhůtu k provedení stavby (odst. 1), povinnost udržovat stavbu a (smluvně) ji pojistit (odst. 2); vyhrazené schválení nelze využít k odepření souhlasu k jednání, které není k újmě vlastníka pozemku (odst. 3).
+- *Související ustanovení téhož zákona:* § 1250 (postavení stavebníka); § 1252 (převod, zatížení); § 2048 a násl. (smluvní pokuta); § 2001 a násl. (odstoupení); § 8 (zákaz zneužití práva).
+- *Související předpisy:* pojistné předpisy; stavební zákon (lhůty výstavby).
+- *Judikatura:* rozhodnutí evidované pod § 1251 (OS v Kolíně 18 C 81/2022) k povinnostem z užívacích věcných práv; obecný princip: výhrada souhlasu nesmí sloužit k šikanóznímu blokování bezúhonných jednání oprávněného.
+
+**4. Subsumpce.** Vyhrazené „schválení" je limitováno § 1251 odst. 3: vlastník pozemku nesmí odepřít souhlas k jednání, které mu není k újmě. Nájem budovy obci újmu nepůsobí — odepření souhlasu je v rozporu se zákonem (a hraničí se zneužitím práva, § 8). Nedodržení lhůty k provedení stavby a nesplnění povinnosti pojistit zakládá porušení smluvních povinností — sankce závisí na ujednání (smluvní pokuta, odstoupení), zákon sám automatický zánik práva stavby nestanoví.
+
+**5. Řešení.** Investor se může domáhat, aby odepření souhlasu bylo posouzeno jako neúčinné (jednání mu není k újmě); souhlas obce není pro takový nájem podmínkou platnosti. Za nedodržení lhůty a nepojištění může obec uplatnit sankce sjednané ve smlouvě (pokuta, případně odstoupení, je-li sjednáno); bez ujednání jí zbývá náhrada škody a vynucení povinnosti. Riziko: bez výslovných smluvních sankcí má obec slabou vynucovací pozici.
+
+**6. Varianty.** (a) Působil-li by nájem obci prokazatelnou újmu (např. změna účelu užívání pozemku v rozporu s územním plánem obce), mohla by souhlas legitimně odepřít. (b) Byla-li by ve smlouvě sjednána smluvní pokuta za nedodržení lhůty a za nepojištění, mohla by ji obec přímo vymáhat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vyhradila-li si obec souhlas, může jej odepřít dle svého uvážení." Neutralizace: § 1251 odst. 3 výslovně zakazuje odepřít souhlas k jednání, které není k újmě vlastníka pozemku.
+- *Protiargument 2:* „Porušení povinnosti udržovat/pojistit znamená zánik práva stavby." Neutralizace: zákon žádný automatický zánik nestanoví; následky se řídí smluvními sankcemi a obecnou odpovědností za škodu.
+- Slabé místo: posouzení, zda jednání je „k újmě" vlastníka pozemku, je skutkové a může být sporné; bez precizních smluvních ujednání je vynucení povinností stavebníka obtížné.
+
+#### H. Praktický závěr
+
+Smlouva může stavebníkovi uložit lhůtu k výstavbě, údržbu a pojištění a vyhradit vlastníkovi souhlas k jednáním stavebníka — ten však nelze odepřít, není-li jednání k újmě vlastníka pozemku. Sankce za porušení povinností je nutno do smlouvy výslovně zakotvit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou ve smlouvě stanoveny lhůta k výstavbě, údržba a (případně) pojištění?
+- [ ] Je vyhrazené schválení vykonáváno jen tam, kde jednání působí vlastníkovi pozemku újmu?
+- [ ] Jsou pro porušení povinností sjednány konkrétní sankce (pokuta, odstoupení)?
+- [ ] Nejde u odepření souhlasu o zneužití práva (§ 8)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby, doklady o průběhu výstavby, pojistná smlouva, korespondence o (ne)udělení souhlasu.
 
 ### § 1252—1254 — Dispozice, dědictví, předkupní právo
 
@@ -254,6 +614,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *KS v Ostravě, pobočka Olomouc* [69 Co 190/2025-267](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9c3201d-d738-4610-b5cb-92932974da99) — *smlouva o smlouvě budoucí, služebnost, následek, podnikatel, lhůty, osobní služebnost, v…*
 - *KS v Brně* [14 CO 253/2021-435](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d85e204-57da-48e9-9fed-494e3b29f2b8) — *daňová exekuce, neplatnost právního jednání, notářský zápis, odstoupení od smlouvy, peně…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku si při zřízení práva stavby vyhradil a do katastru zapsal souhlas k zatížení práva stavby. Stavebník přesto sjednal s bankou zástavní právo k právu stavby bez souhlasu vlastníka pozemku a podal návrh na vklad zástavy. Samostatně chce stavebník prodat právo stavby třetí osobě; vlastník pozemku se dovolává svého předkupního práva k právu stavby (§ 1254). Důkazy: smlouva o zřízení práva stavby s výhradou souhlasu, výpis z katastru, zástavní smlouva, kupní smlouva na právo stavby.
+
+**2. Právní otázka.** Lze zatížit právo stavby zástavou bez souhlasu vlastníka pozemku, byla-li výhrada souhlasu zapsána do katastru, a jak působí zákonné předkupní právo vlastníka pozemku při převodu práva stavby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1252 OZ — právo stavby lze převést i zatížit; výhradu souhlasu vlastníka pozemku k zatížení nutno zapsat do katastru, pak lze zatížit jen s jeho souhlasem. § 1253 — přechod na dědice a univerzálního nástupce. § 1254 — vzájemné zákonné předkupní právo (stavebník k pozemku, vlastník pozemku k právu stavby).
+- *Související ustanovení téhož zákona:* § 1242 (právo stavby jako nemovitá věc); § 1124 a § 2140 a násl. (předkupní právo); § 1316 (vznik zástavního práva vkladem).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis výhrad, zkoumání podmínek vkladu).
+- *Judikatura:* rozhodnutí evidovaná pod § 1252—1254 (OS v Kroměříži 5 C 265/2021 — předkupní právo a právo stavby; KS v Ostravě 69 Co 190/2025); obecný princip: zapsaná výhrada souhlasu působí erga omnes a podmiňuje zápis zatížení.
+
+**4. Subsumpce.** Výhrada souhlasu k zatížení byla zapsána do katastru — podle § 1252 odst. 2 lze proto zatížení práva stavby (zástavu) zapsat jen se souhlasem vlastníka pozemku. Bez něj katastr vklad zástavy zamítne. Při převodu práva stavby svědčí vlastníkovi pozemku zákonné předkupní právo (§ 1254); stavebník je povinen mu právo stavby nejprve nabídnout za podmínek, za nichž je chce převést třetí osobě.
+
+**5. Řešení.** Vklad zástavního práva bez souhlasu vlastníka pozemku bude zamítnut (zapsaná výhrada). Banka tedy musí získat souhlas vlastníka pozemku, jinak zástavu nezřídí. Při prodeji práva stavby musí stavebník respektovat předkupní právo vlastníka pozemku — nabídnout mu koupi; teprve nevyužije-li je, může převést na třetí osobu. Riziko: opomenutí předkupního práva zakládá nároky oprávněného (zejména možnost domáhat se převodu/odpovídající ochrany). Postup: vyžádat souhlas vlastníka pozemku k zástavě a učinit řádnou nabídku z předkupního práva.
+
+**6. Varianty.** (a) Není-li výhrada souhlasu zapsána v katastru, lze právo stavby zatížit bez souhlasu vlastníka pozemku (§ 1252 odst. 1) — výhrada nezapsaná nepůsobí vůči třetím osobám. (b) Bylo-li předkupní právo smluvně vyloučeno či modifikováno a tato změna zapsána do katastru (§ 1254 věta druhá), stavebník nabídku činit nemusí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Právo stavby lze vždy volně zatížit." Neutralizace: jen pokud není zapsána výhrada souhlasu; zapsaná výhrada (§ 1252 odst. 2) zatížení podmiňuje souhlasem vlastníka pozemku.
+- *Protiargument 2:* „Předkupní právo je jen smluvní a nezávazné." Neutralizace: § 1254 zakládá zákonné vzájemné předkupní právo; jeho vyloučení/modifikace působí vůči třetím jen po zápisu do katastru.
+- Slabé místo: rozsah a způsob výkonu předkupního práva (lhůty, obsah nabídky) je nutno pečlivě dodržet; chyby v nabídce mohou vést k jeho porušení a navazujícím sporům.
+
+#### H. Praktický závěr
+
+Právo stavby je převoditelné a zatížitelné; zapsaná výhrada souhlasu vlastníka pozemku však zatížení podmiňuje jeho souhlasem. Právo stavby přechází i na dědice a univerzální nástupce. Při převodu platí zákonné vzájemné předkupní právo, není-li zapsána jeho modifikace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v katastru zapsána výhrada souhlasu k zatížení práva stavby?
+- [ ] Je k zatížení (zástavě) doložen souhlas vlastníka pozemku?
+- [ ] Bylo při převodu respektováno předkupní právo (řádná nabídka)?
+- [ ] Je případná modifikace/vyloučení předkupního práva zapsána v katastru?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby (výhrady), výpis z katastru, souhlas vlastníka pozemku, doklad o nabídce z předkupního práva.
+
 ### § 1255—1256 — Náhrada při zániku
 
 **§ 1255**:
@@ -279,6 +675,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *KS v Brně* [59 CO 145/2022-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=7045319b-11cf-428b-bbe2-4dab220789b8) — *dědění, peněžité plnění, postoupení pohledávky, právo stavby, předkupní právo, převod vl…*
 - *OS v Břeclavi* [9 C 179/2020-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=51798e49-6adc-45be-a749-87ee2c6505ad) — *bezdůvodné obohacení, jízdné, odstoupení od smlouvy, peněžité plnění, právo stavby, smlo…*
 - *OS ve Vyškově* [6 C 209/2022-140](https://rozhodnuti.justice.cz/rozhodnuti/?id=ab37a17b-717c-4f4a-9e0c-047215de223d) — *bezdůvodné obohacení, oceňování majetku, peněžité plnění, podílové spoluvlastnictví, prá…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Právo stavby zřízené na 60 let uplyne; na pozemku stojí výrobní hala, kterou stavebník postavil. Na právu stavby vázlo zástavní právo banky (zbytek úvěru činí 8 mil. Kč). Hodnota haly ke dni zániku práva stavby je 30 mil. Kč. Smlouva o náhradě nic neujednala. Vlastník pozemku tvrdí, že hala mu připadla zdarma. Banka požaduje uspokojení. Důkazy: smlouva o zřízení práva stavby (absence ujednání o náhradě), znalecký posudek hodnoty haly ke dni zániku, zástavní smlouva, výpis z katastru.
+
+**2. Právní otázka.** Jakou náhradu náleží stavebníkovi za stavbu při zániku práva stavby uplynutím doby, neujednaly-li strany jinak, a jak se uspokojí zástavní věřitel váznoucí na zaniklém právu stavby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1255 OZ — není-li ujednáno jinak, dá vlastník pozemku stavebníkovi při zániku práva stavby uplynutím doby náhradu ve výši poloviny hodnoty stavby v době zániku; § 1256 — zástavní a jiná práva váznoucí na právu stavby postihují náhradu.
+- *Související ustanovení téhož zákona:* § 1242 (stavba jako součást práva stavby); § 506 (návrat *superficies solo cedit*); § 1332 a § 1338 a násl. (uspokojení zástavního věřitele); § 1249 (předčasný zánik).
+- *Související předpisy:* oceňovací předpisy (zákon č. 151/1997 Sb. o oceňování majetku — stanovení hodnoty stavby); katastrální zákon.
+- *Judikatura:* rozhodnutí evidovaná pod § 1255—1256 (KS v Brně 14 CO 6/2023, 59 CO 145/2022); obecný princip: zástavní právo váznoucí na zanikajícím právu se transformuje do práva na náhradu (surrogace).
+
+**4. Subsumpce.** Právo stavby zaniklo uplynutím doby; hala přechází do vlastnictví pozemku (návrat zásady *superficies solo cedit*). Strany náhradu neujednaly, uplatní se proto dispozitivní pravidlo § 1255: náhrada činí polovinu hodnoty stavby ke dni zániku, tj. 15 mil. Kč. Podle § 1256 zástavní právo banky postihuje tuto pohledávku na náhradu — banka se z ní uspokojí (8 mil. Kč), zbytek (7 mil. Kč) náleží stavebníkovi.
+
+**5. Řešení.** Vlastník pozemku je povinen zaplatit stavebníkovi náhradu 15 mil. Kč (polovina hodnoty 30 mil.); tvrzení, že hala připadla zdarma, je nesprávné. Z náhrady se přednostně uspokojí banka jako zástavní věřitel (§ 1256) do výše 8 mil. Kč; zbytek obdrží stavebník. Postup: opatřit znalecký posudek hodnoty stavby ke dni zániku, vypořádat zástavu na náhradu, uhradit náhradu. Riziko: spory o znaleckou hodnotu; doporučuje se výši/způsob náhrady ujednat předem ve smlouvě.
+
+**6. Varianty.** (a) Ujednají-li si strany výslovně náhradu 0 % (či 100 %), uplatní se ujednání místo poloviny — § 1255 je dispozitivní. (b) Zanikne-li právo stavby předčasně (nikoli uplynutím doby), neuplatní se pravidlo o polovině z § 1255 stejným způsobem a chrání se zapsaná práva dle § 1249.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Po zániku práva stavby připadá stavba vlastníkovi pozemku bez náhrady." Neutralizace: § 1255 stanoví dispozitivně náhradu ve výši poloviny hodnoty stavby; bezúplatný přechod by musel být výslovně ujednán.
+- *Protiargument 2:* „Zástavní právo zánikem práva stavby zaniká bez náhrady věřiteli." Neutralizace: § 1256 přesouvá zástavní právo na pohledávku na náhradu (surrogace) — věřitel se uspokojí z náhrady.
+- Slabé místo: určení „hodnoty stavby v době zániku" je znalecky sporné (tržní vs. nákladová metoda); bez smluvního ujednání hrozí dlouhý spor.
+
+#### H. Praktický závěr
+
+Při zániku práva stavby uplynutím doby přechází stavba na vlastníka pozemku, který platí (dispozitivně) náhradu ve výši poloviny její hodnoty. Zástavní a jiná práva váznoucí na právu stavby se přesouvají na pohledávku na náhradu. Výši a způsob náhrady je vhodné ujednat předem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zaniklo právo stavby uplynutím doby (pak náhrada dle § 1255)?
+- [ ] Je sjednána odchylná výše náhrady, nebo platí polovina hodnoty?
+- [ ] Je opatřen znalecký posudek hodnoty stavby ke dni zániku?
+- [ ] Jsou zástavní práva převedena na pohledávku na náhradu (§ 1256)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení práva stavby (ujednání o náhradě), znalecký posudek hodnoty stavby, zástavní smlouva, výpis z katastru.
 
 ---
 
@@ -311,6 +743,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
   > „Podle § 1257 odst. 1 o. z. věc může být zatížena služebností, která postihuje vlastníka věci jako věcné právo tak, že musí ve prospěch jiného něco trpět nebo něčeho se zdržet."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník rozsáhlého pozemku jej hodlá rozdělit a postupně rozprodat. Než to udělá, chce zajistit, aby zadní (později prodávané) parcely měly trvalý přístup přes přední parcelu k veřejné cestě. Zřídí proto k vlastnímu pozemku ve prospěch jiného svého (zadního) pozemku služebnost cesty a nechá ji zapsat do katastru. Kupec přední parcely později tvrdí, že služebnost zanikla, protože v době zřízení patřily oba pozemky témuž vlastníkovi. Důkazy: smlouva/prohlášení o zřízení služebnosti, výpis z katastru, geometrický plán, kupní smlouvy.
+
+**2. Právní otázka.** Může vlastník zatížit svůj pozemek služebností ve prospěch jiného svého pozemku (*servitus in re sua*) a jaký je rozdíl mezi pozemkovou a osobní služebností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1257 OZ — věc může být zatížena služebností (vlastník musí něco trpět nebo se něčeho zdržet); odst. 2 dovoluje vlastníku zatížit svůj pozemek služebností ve prospěch jiného svého pozemku.
+- *Související ustanovení téhož zákona:* § 1258—1259 (rozsah, ochrana); § 1262 (vznik zápisem); § 1267 a násl. (jednotlivé pozemkové služebnosti); § 1299—1302 (zánik, splynutí); § 1303 (reálná břemena — odlišení).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis služebnosti).
+- *Judikatura:* rozhodnutí evidovaná pod § 1257 (NS 22 Cdo 1234/2020, 22 Cdo 985/2025, 22 Cdo 2260/2023), citující znění § 1257 odst. 1; nosný závěr: služebnost je věcné právo zavazující vlastníka k pasivnímu trpění nebo zdržení se, nikoli k aktivnímu konání.
+
+**4. Subsumpce.** Zřízení služebnosti cesty k vlastnímu pozemku ve prospěch jiného vlastního pozemku je výslovně dovoleno § 1257 odst. 2. Po zápisu do katastru a po rozdělení vlastnictví (prodeji přední parcely) služebnost působí erga omnes — zatěžuje přední (služebný) pozemek ve prospěch zadního (panujícího). Námitka kupce o zániku splynutím (*confusio*) neobstojí, neboť § 1257 odst. 2 právě umožňuje takovou služebnost vytvořit a udržet i v době jednoho vlastníka.
+
+**5. Řešení.** Služebnost cesty je platná a po převodu přední parcely zavazuje jejího nabyvatele — kupec ji musí strpět (pasivní povinnost trpět průchod/průjezd). Postup: zřídit služebnost a zapsat ji do katastru ještě před rozprodejem; kupující nabývá pozemek s vyznačeným zatížením (nemůže se dovolávat dobré víry o jeho neexistenci). Riziko: nebyla-li by služebnost zapsána před převodem, hrozí spor o její vznik/zánik a o dobrou víru nabyvatele.
+
+**6. Varianty.** (a) Šlo-li by o osobní služebnost (ve prospěch konkrétní osoby, nikoli pozemku), nepřecházela by s pozemkem a zanikla by smrtí oprávněného — pro trvalý přístup parcely je proto nutná pozemková služebnost. (b) Vyžadovala-li by služebnost po vlastníkovi aktivní konání (např. „udržovat osvětlení cesty"), nešlo by o služebnost (pasivní povinnost), ale o reálné břemeno (§ 1303).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Služebnost k vlastnímu pozemku nemůže existovat (splyne)." Neutralizace: § 1257 odst. 2 výslovně dovoluje *servitus in re sua* — typicky pro přípravu rozdělení a prodeje pozemků.
+- *Protiargument 2:* „Služebnost může zavázat vlastníka i k aktivnímu konání." Neutralizace: služebnost spočívá jen v povinnosti něco trpět nebo se zdržet (§ 1257 odst. 1); aktivní povinnost je reálné břemeno.
+- Slabé místo: rozlišení pozemkové vs. osobní služebnosti je pro trvanlivost práva zásadní; chybná volba (osobní místo pozemkové) může vést k zániku práva při změně vlastníka/smrti oprávněného.
+
+#### H. Praktický závěr
+
+Služebnost je věcné právo ukládající vlastníku pasivní povinnost (trpět/zdržet se). Lze ji zřídit i k vlastnímu pozemku ve prospěch jiného vlastního pozemku (vhodné před rozprodejem). Pro trvalý přechod na nabyvatele je nutná pozemková (nikoli osobní) služebnost a její zápis do katastru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spočívá služebnost v pasivní povinnosti (trpět/zdržet se), nikoli v aktivním konání?
+- [ ] Jde o pozemkovou služebnost (přechází s pozemkem), je-li cílem trvalost?
+- [ ] Je služebnost zapsána do katastru před převodem služebného pozemku?
+- [ ] Není ve skutečnosti namístě reálné břemeno (aktivní povinnost)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva/prohlášení o zřízení služebnosti, výpis z katastru, geometrický plán, kupní smlouvy k dotčeným pozemkům.
+
 ### § 1258—1259 — Rozsah a ochrana
 
 **§ 1258**:
@@ -334,6 +802,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
   > „Podle § 1258 o. z. služebnost zahrnuje vše, co je nutné k jejímu výkonu."
 - *NS* [22 Cdo 985/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E408765FF72D5E3C1258CAC004D1E60?openDocument) — *Ochrana vlastnictví Služebnost stezky, průhonu a cesty (o. z.) [ Služebnost (o. z.) ]*
   > „Podle § 1258 o. z. služebnost zahrnuje vše, co je nutné k jejímu výkonu."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V katastru je zapsána „služebnost cesty" k pozemku A ve prospěch pozemku B, aniž by smlouva blíže určila šíři, trasu či způsob (pěšky/vozidlem). Oprávněný (vlastník B) začne přes pozemek A jezdit nákladními vozidly a požaduje odstranění oplocení, které mu v průjezdu brání. Vlastník A tvrdí, že služebnost umožňuje jen pěší průchod a že rozsah má být co nejmenší. V obci je přitom zvyklost, že takové cesty slouží i běžné zemědělské technice. Důkazy: zápis služebnosti, geometrický plán, svědectví o místní zvyklosti, fotodokumentace.
+
+**2. Právní otázka.** Jak se určí obsah a rozsah služebnosti, není-li výslovně ujednán, a jaké prostředky ochrany má oprávněný proti rušení výkonu služebnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1258 OZ — služebnost zahrnuje vše, co je nutné k jejímu výkonu; není-li obsah/rozsah určen, posoudí se podle místní zvyklosti, a není-li ani ta, má se za to, že je rozsah spíše menší než větší. § 1259 — oprávněný se může domáhat ochrany; § 1040 až 1043 se použijí obdobně.
+- *Související ustanovení téhož zákona:* § 1257 (pojem); § 1264 (míra dle potřeby panujícího pozemku); § 1274 a násl. (služebnost cesty, stezky, průhonu); § 1040—1043 (ochrana vlastnictví).
+- *Související předpisy:* katastrální zákon (zápis a popis služebnosti).
+- *Judikatura:* rozhodnutí evidovaná pod § 1258—1259 (NS 22 Cdo 4491/2016, 22 Cdo 654/2024) s tezí „služebnost zahrnuje vše, co je nutné k jejímu výkonu"; nosný závěr: rozsah služebnosti se vykládá funkčně podle potřeby jejího výkonu a místní zvyklosti, v pochybnostech restriktivně.
+
+**4. Subsumpce.** Obsah služebnosti nebyl výslovně určen — uplatní se výkladová pravidla § 1258. „Vše nutné k výkonu" znamená i odstranění překážek (oplocení) bránících výkonu cesty. Při neurčitosti se přihlédne k místní zvyklosti (cesty slouží i běžné technice) — ta může odůvodnit i průjezd zemědělskou technikou; teprve není-li zvyklost, platí výklad „spíše menší rozsah". Pro ochranu výkonu slouží obdobně vlastnické a zápůrčí žaloby (§ 1040—1043).
+
+**5. Řešení.** Oprávněný se může domáhat odstranění oplocení bránícího výkonu cesty (žaloba obdobná negatorní/vlastnické dle § 1259). Rozsah (pěšky vs. technika) se určí podle místní zvyklosti; je-li prokázána zvyklost umožňující průjezd běžné techniky, oprávněný uspěje v tomto rozsahu, nikoli však pro nepřiměřeně těžká nákladní vozidla, pokud zvyklost takový provoz nepokrývá. V pochybnostech soud přikloní k užšímu rozsahu. Riziko: bez jasného vymezení trasy/šíře v katastru je výsledek nejistý — doporučuje se rozsah upřesnit dohodou a zapsat.
+
+**6. Varianty.** (a) Je-li ve smlouvě a v katastru rozsah přesně určen (šíře, trasa, druh provozu), výkladová pravidla § 1258 se neuplatní a rozhoduje ujednání. (b) Neexistuje-li žádná místní zvyklost a obsah není určen, prosadí se interpretace „spíše menší než větší" ve prospěch vlastníka služebného pozemku — oprávněný by mohl uhájit jen pěší průchod.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Rozsah služebnosti se vždy vykládá restriktivně." Neutralizace: pravidlo „spíše menší" se uplatní teprve, není-li obsah určen a neexistuje místní zvyklost; přednost má účel výkonu a místní zvyklost (§ 1258).
+- *Protiargument 2:* „Proti rušení služebnosti není zvláštní ochrana." Neutralizace: § 1259 dává oprávněnému obdobné prostředky jako vlastníkovi (§ 1040—1043), tj. žalobu na vydání/zdržení se rušení.
+- Slabé místo: prokázání obsahu místní zvyklosti je důkazně náročné (svědci, znalec, historické užívání); bez přesného zápisu v katastru hrozí dlouhý spor o rozsah.
+
+#### H. Praktický závěr
+
+Není-li obsah služebnosti určen, vykládá se funkčně (vše nutné k výkonu) a podle místní zvyklosti; až v krajním případě restriktivně ve prospěch vlastníka služebné věci. Oprávněný má proti rušení obdobnou ochranu jako vlastník. Klíčem k jistotě je přesné vymezení a zápis rozsahu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je obsah/rozsah služebnosti určen ve smlouvě a v katastru?
+- [ ] Existuje prokazatelná místní zvyklost určující rozsah?
+- [ ] Zahrnuje požadovaný výkon i odstranění překážek (vše nutné k výkonu)?
+- [ ] Je při rušení uplatněna ochrana dle § 1259 (obdobně § 1040—1043)?
+
+**Typicky rozhodné důkazy / podklady:** zápis a popis služebnosti, geometrický plán, důkazy o místní zvyklosti (svědci, znalec), fotodokumentace rušení výkonu.
 
 ---
 
@@ -374,6 +878,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *NS* [22 Cdo 3016/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B1FD4BD68D63446C1258C0E0052C659?openDocument) — *Přípustnost dovolání Věcná břemena Vydržení*
   > „Podle ustanovení § 1260 odst. 1 věta první o. z. služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením po dobu potřebnou k vydržení vlastnického práva k věci, která má být služebností zatížena."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník zadní parcely bez přístupu k veřejné cestě po dobu 15 let nepřetržitě, v dobré víře a viditelně užívá přes přední (cizí) parcelu vyjetou polní cestu k veřejné komunikaci; přesvědčen, že mu to právem náleží. Po smrti původního vlastníka přední parcely nový vlastník přístup zapoví a požaduje, aby soud služebnost zřídil, případně namítá, že žádná služebnost nevznikla. V jiné větvi se obec domáhá vydržení služebnosti k cestě, kterou desítky let užívá veřejnost. Důkazy: doklady o době a způsobu užívání, svědectví, mapové podklady, evidence katastru.
+
+**2. Právní otázka.** Jak může vzniknout služebnost — lze ji nabýt vydržením, a může ji soud zřídit svým rozhodnutím i mimo zákonem stanovené případy? Kdo je vydržitelem u služebnosti odpovídající veřejnému statku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1260 OZ — služebnost se nabývá smlouvou, pořízením pro případ smrti nebo vydržením (po dobu potřebnou k vydržení vlastnického práva k zatěžované věci); ze zákona nebo rozhodnutím orgánu veřejné moci jen v případech stanovených zákonem; odst. 2 — vydržitelem služebnosti odpovídající veřejnému statku je obec.
+- *Související ustanovení téhož zákona:* § 1089—1091 (řádné vydržení, 10 let u nemovitostí), § 1095 (mimořádné vydržení, 20 let); § 1262 (vznik zápisem); § 1257 (pojem); § 1029 a násl. (nezbytná cesta — odlišný institut).
+- *Související předpisy:* katastrální zákon; zákon o pozemních komunikacích č. 13/1997 Sb. (veřejně přístupná účelová komunikace).
+- *Judikatura:* rozhodnutí evidovaná pod § 1260 (NS 22 Cdo 1589/2025 — vydržení služebnosti; NS 22 Cdo 2950/2019, 22 Cdo 2015/2025 — soud může služebnost zřídit jen v zákonem stanovených případech; NS 22 Cdo 1338/2023 — veřejně přístupná účelová komunikace není bez dalšího veřejný statek dle § 1260 odst. 2).
+
+**4. Subsumpce.** Užívání cesty 15 let v dobré víře a oprávněné držbě naplňuje vydržení služebnosti (řádné vydržení vyžaduje 10 let). Vznikla tak služebnost cesty vydržením, již nový vlastník přední parcely musí respektovat. Naopak požadavek, aby soud služebnost „zřídil", neobstojí: podle judikatury k § 1260 soud služebnost konstituuje jen v zákonem stanovených případech (nezbytná cesta dle § 1029 je samostatný institut). U veřejně užívané cesty je třeba zkoumat, zda jde o „veřejný statek" — pokud jde jen o veřejně přístupnou účelovou komunikaci, vydržení dle § 1260 odst. 2 obcí nemusí připadat v úvahu.
+
+**5. Řešení.** Vlastník zadní parcely se může domáhat určení, že vydržením vznikla služebnost cesty (a jejího zápisu do katastru). Soud služebnost sám nezřídí mimo zákonem upravené případy — je nutno opřít se o vydržení (nebo o nezbytnou cestu dle § 1029, jsou-li podmínky). Postup: doložit dobu, oprávněnost a dobrou víru držby; navrhnout zápis vydržené služebnosti. Riziko: zpochybnění dobré víry/oprávněnosti držby vede k neúspěchu; u veřejných cest spor o povahu „veřejného statku".
+
+**6. Varianty.** (a) Užíval-li by oprávněný cestu jen 5 let, vydržení by nenastalo a musel by hledat oporu v nezbytné cestě (§ 1029) nebo ve smlouvě. (b) Šlo-li by skutečně o veřejný statek (a nikoli jen účelovou komunikaci), vydržitelkou by byla obec, na jejímž území se věc nachází (§ 1260 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Soud může zřídit služebnost, jeví-li se to vhodným řešením." Neutralizace: judikatura k § 1260 (NS 22 Cdo 2015/2025) to vylučuje — soud služebnost konstituuje jen v zákonem stanovených případech, nikoli analogií.
+- *Protiargument 2:* „Dlouhodobé užívání cesty automaticky zakládá služebnost." Neutralizace: vydržení vyžaduje oprávněnou držbu v dobré víře po zákonem stanovenou dobu; pouhé fakticky tolerované užívání bez držby práva nestačí.
+- Slabé místo: posouzení dobré víry a oprávněnosti držby je skutkově náročné; u veřejných cest je hranice mezi „veřejným statkem" a „veřejně přístupnou účelovou komunikací" sporná (NS 22 Cdo 1338/2023).
+
+#### H. Praktický závěr
+
+Služebnost vzniká smlouvou, pořízením pro případ smrti nebo vydržením (zpravidla 10 let); ze zákona či rozhodnutím orgánu veřejné moci jen v zákonem určených případech — soud ji jinak sám nezřídí. U služebnosti odpovídající veřejnému statku je vydržitelkou obec. Pro vydržení je rozhodná oprávněná držba v dobré víře.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který titul nabytí přichází v úvahu (smlouva / závěť / vydržení / rozhodnutí dle zákona)?
+- [ ] U vydržení: je doložena oprávněná držba v dobré víře po potřebnou dobu (10/20 let)?
+- [ ] Jde o případ, kdy zákon umožňuje zřízení rozhodnutím orgánu veřejné moci?
+- [ ] U veřejně užívané cesty: jde o „veřejný statek" (vydržitelem obec), nebo jen účelovou komunikaci?
+
+**Typicky rozhodné důkazy / podklady:** doklady o době a způsobu užívání, svědectví o držbě a dobré víře, mapové a katastrální podklady, případně podklady o povaze komunikace.
+
 ### § 1261 — Lesní pozemky
 
 > Pozemek určený k plnění funkcí lesa lze zatížit pozemkovou služebností, služebností pastvy nebo služebností braní lesních plodů jen smlouvou, pořízením pro případ smrti nebo rozhodnutím orgánu veřejné moci. Taková služebnost může být zřízena jen jako vykupitelná a podmínky výkupu musí být již při zřízení služebnosti předem určeny.
@@ -393,6 +933,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *OS v Kutné Hoře* [9 C 35/2016-933](https://rozhodnuti.justice.cz/rozhodnuti/?id=c1425507-518d-4f6f-898d-507515942cd0) — *právní domněnka, pozemní komunikace, pozemková služebnost, služebnost, věcná břemena, sm…*
 - *KS v Ostravě* [71 Co 71/2022-693](https://rozhodnuti.justice.cz/rozhodnuti/?id=5a781b4a-d479-44f1-8c4f-72b0708288eb) — *služebnost, stavba neoprávněná, lhůty, následek, rozsudek doplňující, právo stavby, věcn…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soused dlouhodobě (přes 12 let) využívá lesní pozemek vlastníka k pastvě a sběru lesních plodů. Domnívá se, že tím vydržel služebnost pastvy a braní lesních plodů. Vlastník lesa to popírá. V jiné větvi obec a vlastník lesa jednají o smluvním zřízení služebnosti braní lesních plodů; vlastník trvá na tom, aby byla zřízena jako vykupitelná. Důkazy: doklady o užívání, lesní hospodářský plán, evidence pozemku jako pozemku určeného k plnění funkcí lesa, návrh smlouvy.
+
+**2. Právní otázka.** Lze k lesnímu pozemku nabýt pozemkovou služebnost, služebnost pastvy nebo braní lesních plodů vydržením, a jaké zvláštní podmínky platí pro její zřízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1261 OZ — pozemek určený k plnění funkcí lesa lze zatížit pozemkovou služebností, služebností pastvy nebo braní lesních plodů jen smlouvou, pořízením pro případ smrti nebo rozhodnutím orgánu veřejné moci; taková služebnost musí být zřízena jen jako vykupitelná s předem určenými podmínkami výkupu.
+- *Související ustanovení téhož zákona:* § 1260 (obecné způsoby nabytí, vč. vydržení); § 1278 a násl. (právo pastvy); § 1299 a násl. (zánik služebnosti).
+- *Související předpisy:* lesní zákon č. 289/1995 Sb. (pozemky určené k plnění funkcí lesa, ochrana lesa).
+- *Judikatura:* rozhodnutí evidovaná pod § 1261 (KS v Hradci Králové 25 Co 178/2025, OS v Kutné Hoře 9 C 35/2016) k pozemkovým služebnostem a lesním pozemkům; obecný princip: zvláštní ochrana lesního fondu omezuje způsoby vzniku zatížení.
+
+**4. Subsumpce.** Pozemek je pozemkem určeným k plnění funkcí lesa. Pro tyto pozemky § 1261 taxativně vylučuje vydržení jako titul vzniku uvedených služebností — připouští jen smlouvu, pořízení pro případ smrti nebo rozhodnutí orgánu veřejné moci. Dvanáctileté užívání proto služebnost pastvy ani braní lesních plodů nezaložilo (na rozdíl od „běžných" pozemků dle § 1260). Smluvní zřízení je možné, ale jen jako vykupitelné s předem určenými podmínkami výkupu.
+
+**5. Řešení.** Námitka souseda o vydržení neobstojí — u lesního pozemku vydržení těchto služebností nepřipadá v úvahu (§ 1261). Pro legální stav je nutná smlouva (nebo pořízení pro případ smrti / rozhodnutí orgánu veřejné moci) a služebnost musí být zřízena jako vykupitelná, s konkrétně určenými podmínkami výkupu již při zřízení. Postup: připravit smlouvu obsahující výkupní mechanismus; zapsat do katastru. Riziko: smlouva bez určení podmínek výkupu odporuje § 1261 a nedosáhne zápisu.
+
+**6. Varianty.** (a) Nešlo-li by o pozemek určený k plnění funkcí lesa, uplatnila by se obecná pravidla § 1260 a vydržení by za splnění podmínek možné bylo. (b) Zřizuje-li se služebnost rozhodnutím orgánu veřejné moci, rovněž musí respektovat požadavek vykupitelnosti dle § 1261.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Dlouhodobá pastva na lese zakládá vydržení služebnosti." Neutralizace: § 1261 u lesních pozemků vydržení těchto služebností vylučuje; titulem může být jen smlouva, závěť/dědická smlouva nebo rozhodnutí orgánu veřejné moci.
+- *Protiargument 2:* „Vykupitelnost je jen doporučená." Neutralizace: § 1261 ji stanoví obligatorně — služebnost „může být zřízena jen jako vykupitelná" s předem určenými podmínkami výkupu.
+- Slabé místo: kvalifikace pozemku jako „určeného k plnění funkcí lesa" je nutné ověřit (evidence, lesní zákon); chybné posouzení mění použitelný režim (§ 1260 vs. § 1261).
+
+#### H. Praktický závěr
+
+U lesních pozemků nelze pozemkovou služebnost, služebnost pastvy ani braní lesních plodů vydržet — vznikají jen smlouvou, pořízením pro případ smrti nebo rozhodnutím orgánu veřejné moci, a to vždy jako vykupitelné s předem určenými podmínkami výkupu. Tím je chráněn lesní fond.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pozemek určený k plnění funkcí lesa (ověřit evidenci/lesní zákon)?
+- [ ] Je titul vzniku přípustný (smlouva / závěť / rozhodnutí orgánu veřejné moci — nikoli vydržení)?
+- [ ] Je služebnost zřízena jako vykupitelná?
+- [ ] Jsou podmínky výkupu předem konkrétně určeny?
+
+**Typicky rozhodné důkazy / podklady:** evidence pozemku (PUPFL), lesní hospodářský plán, smlouva o zřízení služebnosti s výkupními podmínkami, výpis z katastru.
+
 ### § 1262 — Zápis do veřejného seznamu
 
 > (1) Zřizuje-li se právním jednáním služebnost k věci zapsané ve veřejném seznamu, vzniká zápisem do takového seznamu. Vzniká-li služebnost k věci zapsané do veřejného seznamu na základě jiné právní skutečnosti, zapíše se do veřejného seznamu i v takovém případě.
@@ -405,6 +981,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 - *NS* [21 Cdo 3460/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA7B5925FD8397C5C12586DF00187B2A?openDocument) — *Katastr nemovitostí Dražební vyhláška Vydržení Vydražitel Věcná břemena*
   > „Podle ustanovení § 1262 odst. 1 o. z. zřizuje-li se právním jednáním služebnost k věci zapsané ve veřejném seznamu, vzniká zápisem do takového seznamu; vzniká-li služebnost k věci zapsané do veřejného seznamu na základě jiné právní skutečnosti, zapíše se do veřejného seznamu i v takovém případě."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku A a vlastník pozemku B uzavřou písemnou smlouvu, jíž se zřizuje služebnost cesty přes pozemek A (zapsaný v katastru) ve prospěch pozemku B. Smlouva nabude účinnosti, strany ji však nepodají k vkladu. Po roce vlastník A pozemek prodá třetí osobě, která o „služebnosti" nic neví a průjezd zapoví. Vlastník B tvrdí, že služebnost vznikla již účinností smlouvy. Důkazy: smlouva o zřízení služebnosti, výpis z katastru bez zápisu služebnosti, kupní smlouva na pozemek A.
+
+**2. Právní otázka.** Kdy vzniká služebnost k věci zapsané ve veřejném seznamu — účinností smlouvy, nebo až zápisem do katastru — a působí nezapsaná služebnost vůči nabyvateli služebné věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1262 OZ — zřizuje-li se služebnost právním jednáním k věci zapsané ve veřejném seznamu, vzniká zápisem; vzniká-li z jiné právní skutečnosti, do seznamu se rovněž zapíše; u věci nezapsané vzniká účinností smlouvy.
+- *Související ustanovení téhož zákona:* § 1105 (nabytí nemovitosti zapsané do veřejného seznamu vkladem); § 980—984 (materiální publicita veřejného seznamu, ochrana dobré víry); § 1260 (způsoby nabytí); § 1257 (pojem).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, ochrana dobré víry nabyvatele).
+- *Judikatura:* rozhodnutí evidované pod § 1262 (NS 21 Cdo 3460/2020), citující znění § 1262 odst. 1; nosný princip: u věcí zapsaných do veřejného seznamu nastává věcněprávní účinek právního jednání až vkladem.
+
+**4. Subsumpce.** Pozemek A je zapsán v katastru — služebnost zřizovaná smlouvou proto podle § 1262 odst. 1 vzniká až zápisem (konstitutivně), nikoli účinností smlouvy. Protože k vkladu nedošlo, věcné právo služebnosti nevzniklo; smlouva založila jen obligační závazek mezi původními stranami. Nabyvatel pozemku A jednal v důvěře v katastr (materiální publicita, § 980 a násl.) a žádná služebnost vůči němu nepůsobí.
+
+**5. Řešení.** Tvrzení vlastníka B neobstojí — bez vkladu služebnost nevznikla a vůči novému vlastníku pozemku A nepůsobí; ten není povinen průjezd strpět. Vlastníku B zůstává jen obligační nárok vůči původnímu vlastníkovi pozemku A (náhrada škody za nesplnění závazku zřídit služebnost). Postup do budoucna: vždy podat návrh na vklad bezprostředně po uzavření smlouvy. Riziko: spoléhání na „účinnost smlouvy" vede ke ztrátě věcného práva při převodu služebné věci.
+
+**6. Varianty.** (a) Zřizuje-li se služebnost k věci nezapsané ve veřejném seznamu (vzácně u movitých věcí), vzniká již účinností smlouvy (§ 1262 odst. 2) — vklad se neuplatní. (b) Vznikla-li by služebnost z jiné právní skutečnosti (vydržení), zapíše se do katastru rovněž, byť zápis má pak deklaratorní povahu (§ 1262 odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Platná a účinná smlouva postačí ke vzniku služebnosti." Neutralizace: u věci zapsané v katastru je vznik vázán na vklad (§ 1262 odst. 1); smlouva sama zakládá jen závazek právo zřídit.
+- *Protiargument 2:* „Nabyvatel měl o užívání cesty vědět." Neutralizace: rozhoduje stav zápisu ve veřejném seznamu a dobrá víra nabyvatele (§ 980 a násl.); faktické užívání bez zápisu jej nezavazuje.
+- Slabé místo: u nezapsaných věcí a u nabytí z jiných právních skutečností se režim liší; je nutné správně určit, zda jde o vznik vkladem (konstitutivní), nebo o pouhý deklaratorní zápis.
+
+#### H. Praktický závěr
+
+Služebnost k nemovitosti zapsané v katastru vzniká až vkladem, nikoli účinností smlouvy; do té doby existuje jen závazek ji zřídit a nezapsaná služebnost nepůsobí vůči nabyvateli služebné věci. Návrh na vklad je proto třeba podat neprodleně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je služebná věc zapsána ve veřejném seznamu (pak vznik vkladem)?
+- [ ] Byl podán návrh na vklad služebnosti?
+- [ ] U nezapsaných věcí: postačí účinnost smlouvy (§ 1262 odst. 2)?
+- [ ] Vzniká-li služebnost z jiné právní skutečnosti, byl proveden (deklaratorní) zápis?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení služebnosti, výpis z katastru (stav zápisu), návrh na vklad, případné podklady o jiné právní skutečnosti.
 
 ---
 
@@ -423,6 +1035,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *ObS pro Prahu 2* [23 C 43/2020-301](https://rozhodnuti.justice.cz/rozhodnuti/?id=afcc9858-9007-4b48-abf0-01f35de4e999) — *bytové družstvo, diskriminace, peněžité plnění, rozsudek doplňující, věcná břemena*
 - *OS v Semilech* [6 C 291/2021-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=45667e71-930c-45fb-9da6-1e70be4b50fd) — *osoba blízká, péče řádného hospodáře, peněžité plnění, služebnost, smlouva darovací, sml…*
 - *Neznámý soud 58* [72 CO 117/2022-202](https://rozhodnuti.justice.cz/rozhodnuti/?id=4444cdcd-9eca-4f59-88da-2634689a848e) — *bezdůvodné obohacení, cizina, dlužné platby spojené s užíváním bytu, dražba, právo užívá…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** K pozemku A vede zpevněná účelová cesta zatížená služebností cesty ve prospěch pozemku B. Cestu užívá především vlastník B (k příjezdu k domu), ale příležitostně po ní jezdí i vlastník A (k obhospodařování svého zadního pole). Cesta se opotřebovává a vyžaduje opravu povrchu za 200 000 Kč. Vlastník A požaduje, aby celé náklady nesl oprávněný (vlastník B). Vlastník B namítá, že cestu užívá i vlastník A, a proto má přispět. Důkazy: doklady o intenzitě užívání oběma stranami, rozpočet opravy, fotodokumentace stavu cesty.
+
+**2. Právní otázka.** Kdo nese náklady na zachování a opravy věci sloužící služebnosti — výlučně oprávněný, nebo i obtížený vlastník, užívá-li věc rovněž?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1263 OZ — oprávněná osoba nese náklad na zachování a opravy věci určené pro služebnost; užívá-li věc i ten, kdo je služebností obtížen, je povinen poměrně přispívat, anebo se užívání zdržet.
+- *Související ustanovení téhož zákona:* § 1258 (rozsah služebnosti); § 1264 (míra dle potřeby panujícího pozemku); § 1274 a násl. (služebnost cesty/stezky/průhonu); § 2991 a násl. (bezdůvodné obohacení — podpůrně).
+- *Související předpisy:* žádné zvláštní; uplatní se obecná úprava.
+- *Judikatura:* rozhodnutí evidovaná pod § 1263 (KS v Brně 15 Co 69/2024 — služebnost a pozemní komunikace; OS v Semilech 6 C 291/2021); obecný princip: náklady údržby věci sloužící služebnosti tíží zásadně oprávněného, s poměrnou spoluúčastí obtíženého při spoluužívání.
+
+**4. Subsumpce.** Základní pravidlo § 1263 věty první: náklady na zachování a opravu cesty nese oprávněný (vlastník B), neboť cesta je „určena pro služebnost". Věta druhá však zakládá poměrnou spoluúčast obtíženého vlastníka (A), protože cestu rovněž užívá (k poli). Vlastník A má tedy buď poměrně přispět na opravu, anebo se užívání cesty zdržet — nemůže současně cestu užívat a odmítat příspěvek.
+
+**5. Řešení.** Náklady opravy primárně tíží vlastníka B (oprávněného); vlastník A je povinen poměrně přispět odpovídajícím podílem podle míry svého užívání (např. dle frekvence/účelu jízd), nebo se užívání cesty napříště zdržet. Postup: vyčíslit poměr užívání, dohodnout podíl, případně řešit soudně (s podpůrným využitím bezdůvodného obohacení, hradil-li by jeden více než svůj podíl). Riziko: prokazování poměru užívání je obtížné; doporučuje se podíly a způsob údržby ujednat předem.
+
+**6. Varianty.** (a) Neužívá-li vlastník A cestu vůbec, nese veškeré náklady údržby oprávněný (vlastník B) — věta druhá § 1263 se neuplatní. (b) Bylo-li ve smlouvě o služebnosti ujednáno rozdělení nákladů odchylně, má přednost ujednání před dispozitivním pravidlem § 1263.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Veškeré náklady údržby vždy nese vlastník služebné věci." Neutralizace: § 1263 věta první zatěžuje náklady zachování a oprav zásadně oprávněného; vlastník přispívá jen poměrně, a jen pokud věc též užívá.
+- *Protiargument 2:* „Obtížený vlastník může věc užívat zdarma, aniž přispěje." Neutralizace: věta druhá § 1263 mu ukládá buď poměrně přispět, anebo se užívání zdržet — bezpříspěvkové spoluužívání není možné.
+- Slabé místo: určení „poměrného" podílu je skutkově sporné (intenzita, účel, váha užívání); bez evidence užívání hrozí dlouhý spor.
+
+#### H. Praktický závěr
+
+Náklady na zachování a opravy věci sloužící služebnosti nese zásadně oprávněný; užívá-li věc i obtížený vlastník, musí poměrně přispět, nebo se užívání zdržet. Rozdělení nákladů je vhodné upřesnit ve smlouvě, aby se předešlo sporům o poměr.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nese náklady údržby primárně oprávněný ze služebnosti?
+- [ ] Užívá věc i obtížený vlastník (pak poměrná spoluúčast, nebo zdržení se)?
+- [ ] Je poměr užívání doložitelný (frekvence, účel)?
+- [ ] Obsahuje smlouva odchylné ujednání o nákladech?
+
+**Typicky rozhodné důkazy / podklady:** doklady o intenzitě a účelu užívání oběma stranami, rozpočet/účty za opravu, smlouva o služebnosti, fotodokumentace stavu věci.
 
 ### § 1264—1266 — Míra, změny, souběh
 
@@ -456,6 +1104,42 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 - *NS* [29 ICdo 91/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/760465D846C185B7C1258A5D001B823B?openDocument) — 31. 7. 2023
 - *NS* [22 Cdo 654/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9F92B5F55E5B5E6C1258BCB0052C627?openDocument) — *Nájem domu (o. z.) Služebnost (o. z.) Služebnost stezky, průhonu a cesty (o. z.) [ Služe…*
   > „2014 vykonává oprávnění ze služebnosti stezky nejen vlastník pozemku, ale za účelem přicházení k oprávněné osobě a odcházení od ní i „jiní“ (§ 1274 odst. 1 o. z.) a míra služebnosti je dána potřebou panujícího pozemku (§ 1264 odst. 1 o. z.), závěry výše uvedené judikatury Nejvyššího soudu jsou proto použitelné i v poměrech zákona č."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** K pozemku B (panující) svědčí služebnost cesty přes pozemek A (služebný); míra nebyla výslovně určena. Vlastník B na svém pozemku změní způsob hospodaření — z rodinného domu udělá penzion s desítkami hostů, čímž prudce vzroste provoz po cestě. Vlastník A namítá, že tím se služebnost „rozšířila" nad původní míru. Vlastník B navíc chce „přenést" tutéž služebnost i ve prospěch nově koupeného sousedního pozemku C. K pozemku A přitom existuje i starší služebnost vodovodu jiného souseda. Důkazy: zápis služebnosti, doklady o změně užívání pozemku B, geometrické plány, pořadí zápisů.
+
+**2. Právní otázka.** Mění se míra (rozsah) služebnosti změnou hospodaření na panujícím pozemku? Lze pozemkovou služebnost spojit s dalším panujícím pozemkem a jak se řeší souběh více služebností na téže věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1264 OZ — není-li míra určena, rozhoduje potřeba panujícího pozemku; služebnost se nemění změnou rozsahu služebné/panující věci ani změnou hospodaření na panujícím pozemku. § 1265 — pozemkovou služebnost nelze spojit s jiným panujícím pozemkem; osobní služebnost nelze převést na jinou osobu; k prostoru pod povrchem lze zřídit zcizitelná a dědičná užívací práva. § 1266 — k věci lze zřídit více služebností, pokud novější právo není na újmu starším.
+- *Související ustanovení téhož zákona:* § 1258 (rozsah, místní zvyklost); § 1257 (pojem); § 1267 a násl. (jednotlivé služebnosti); § 1299 a násl. (změna/zánik).
+- *Související předpisy:* katastrální zákon (pořadí zápisů).
+- *Judikatura:* rozhodnutí evidovaná pod § 1264—1266 (NS 22 Cdo 654/2024 — míra služebnosti je dána potřebou panujícího pozemku dle § 1264 odst. 1; NS 29 ICdo 91/2021); nosný princip: rozsah služebnosti se odvozuje od objektivní potřeby panujícího pozemku, nikoli od libovůle oprávněného.
+
+**4. Subsumpce.** Míra služebnosti se řídí potřebou panujícího pozemku (§ 1264 odst. 1). Změna hospodaření na pozemku B (penzion) se podle § 1264 odst. 2 nedotýká rozsahu služebnosti — ten zůstává určen objektivní potřebou panujícího pozemku, nikoli zvýšenou intenzitou plynoucí z nového podnikání; nadměrné zatížení nad rámec původní potřeby není kryto. „Přenesení" služebnosti i ve prospěch pozemku C je vyloučeno § 1265 odst. 1 (pozemkovou služebnost nelze spojit s jiným panujícím pozemkem). Souběh se starší služebností vodovodu řeší § 1266: novější služebnost nesmí být na újmu starší.
+
+**5. Řešení.** Vlastník A se může bránit proti rozšíření výkonu nad původní míru danou potřebou panujícího pozemku (žaloba na zdržení se nadměrného užívání); samotná změna na penzion rozsah služebnosti automaticky nerozšiřuje. Vlastník B nesmí služebnost rozšířit na pozemek C — pro přístup k C by musel zřídit samostatnou služebnost (se souhlasem vlastníka A). Souběh s vodovodní služebností je přípustný jen, neohrozí-li starší právo. Riziko: spory o to, co ještě je „potřeba panujícího pozemku"; doporučeno upřesnit míru ve smlouvě.
+
+**6. Varianty.** (a) Týká-li se užívací právo prostoru pod povrchem (např. kolektor, vrt), může být výjimečně zcizitelné a dědičné (§ 1265 odst. 3). (b) Byla-li by novější služebnost zřízena tak, že by bránila výkonu starší vodovodní služebnosti, byla by v rozsahu této újmy neúčinná (§ 1266).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Změním-li hospodaření, rozšíří se i služebnost podle nové potřeby." Neutralizace: § 1264 odst. 2 výslovně stanoví, že změna hospodaření na panujícím pozemku rozsah služebnosti nemění; rozhoduje objektivní potřeba, nikoli nově vyvolaná intenzita.
+- *Protiargument 2:* „Pozemkovou služebnost lze využít i pro další můj pozemek." Neutralizace: § 1265 odst. 1 spojení s jiným panujícím pozemkem zakazuje (anti-spekulační pravidlo).
+- Slabé místo: hranice „potřeby panujícího pozemku" je neostrá; posouzení nadměrnosti užívání po změně hospodaření vyžaduje individuální skutkové hodnocení a často znalecké podklady.
+
+#### H. Praktický závěr
+
+Rozsah služebnosti určuje potřeba panujícího pozemku; změna jeho rozsahu ani hospodaření na něm rozsah služebnosti nemění. Pozemkovou služebnost nelze přenést na jiný panující pozemek a osobní na jinou osobu. Na téže věci může váznout více služebností, nesmí-li novější poškodit starší.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je míra služebnosti určena, nebo se řídí potřebou panujícího pozemku?
+- [ ] Nezakládá změna hospodaření nadměrné užívání nad rámec původní potřeby?
+- [ ] Nedochází k nepřípustnému spojení pozemkové služebnosti s dalším pozemkem?
+- [ ] Respektuje novější služebnost pořadí a práva starších (§ 1266)?
+
+**Typicky rozhodné důkazy / podklady:** zápis a popis služebnosti, doklady o (změně) užívání panujícího pozemku, geometrické plány, evidence pořadí zápisů v katastru.
 
 ---
 
@@ -493,6 +1177,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
   > „§ 1257 a násl. o. z.), v dané věci služebnosti inženýrské sítě podle § 1267 o. z. Soud může o zřízení služebnosti rozhodnout jen v případech upravených zákonem (srov."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel distribuční soustavy má na pozemku soukromého vlastníka zřízenou (zapsanou) služebnost inženýrské sítě pro podzemní elektrické vedení. V noci dojde k havárii kabelu hrozící výpadkem dodávek pro celou obec. Technici provozovatele bez předchozího projednání vstoupí na pozemek, rozkopou jej a poruchu odstraní; vlastník pozemku není zastižen. Po opravě provozovatel pozemek neuvede do původního stavu a odmítá nahradit poškozený trávník a okrasné keře. V jiné větvi chce provozovatel na pozemku nově vybudovat obslužné zařízení (rozvaděč), aniž by to bylo ve smlouvě výslovně ujednáno. Důkazy: smlouva o služebnosti a její zápis, dokumentace havárie a oprav, fotodokumentace poškození, vyčíslení škody.
+
+**2. Právní otázka.** Smí oprávněný ze služebnosti inženýrské sítě při havárii vstoupit na služebný pozemek a provést opravu bez předchozího projednání, jaké má povinnosti vůči vlastníku pozemku a může bez výslovného ujednání zřídit obslužné zařízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1267 OZ — služebnost inženýrské sítě (právo zřídit, provozovat a udržovat vedení; povinnost vlastníka zdržet se ohrožení sítě a po předchozím projednání umožnit vstup; obslužné zařízení a modernizace jen, je-li to výslovně ujednáno — odst. 2; zpřístupnění dokumentace — odst. 3); § 1268 — při náhlém poškození nesnese-li věc odkladu, obstará opravu oprávněný i bez předchozího projednání, oznámí to, místo označí a zabezpečí, po skončení uvede pozemek na vlastní náklad do předešlého stavu a nahradí škodu.
+- *Související ustanovení téhož zákona:* § 1257—1259 (pojem, rozsah, ochrana); § 1260, § 1262 (vznik, zápis); § 2910 a násl. (náhrada škody).
+- *Související předpisy:* energetický zákon č. 458/2000 Sb. (§ 24, 25 — věcná břemena distribuce); zákon o elektronických komunikacích č. 127/2005 Sb. (§ 104); zákon o vodovodech a kanalizacích č. 274/2001 Sb.
+- *Judikatura:* rozhodnutí evidovaná pod § 1267—1268 (NS 22 Cdo 2015/2025 — služebnost inženýrské sítě dle § 1267, soud ji zřídí jen v zákonem upravených případech; NS 27 Cdo 660/2022 — smlouva a služebnost inženýrské sítě).
+
+**4. Subsumpce.** Havárie kabelu je „náhlé poškození inženýrské sítě, které nesnese odkladu" — podle § 1268 smí oprávněný provést opravu i bez předchozího projednání s vlastníkem. To ho však zavazuje: neprodleně oznámit provádění opravy, místo označit a zabezpečit a po skončení uvést pozemek na vlastní náklad do předešlého stavu a nahradit škodu. Neuvedení do původního stavu a odmítnutí náhrady za zničený trávník a keře je porušením § 1268. Zřízení obslužného zařízení (rozvaděče) je podle § 1267 odst. 2 možné jen, je-li to výslovně ujednáno — bez ujednání na ně oprávněný nárok nemá.
+
+**5. Řešení.** Vstup a oprava při havárii byly oprávněné (§ 1268), ale provozovatel je povinen pozemek uvést do předešlého stavu a nahradit škodu (trávník, keře) — vlastník se může domáhat splnění této povinnosti a náhrady škody. Nově budovat obslužné zařízení bez výslovného ujednání nelze; provozovatel by musel rozšířit služebnost dohodou (a zápisem) podle § 1267 odst. 2. Vlastník má též právo na zpřístupnění dokumentace sítě v rozsahu nutném k ochraně svých zájmů (§ 1267 odst. 3). Riziko: spor o rozsah a výši škody; doporučuje se podrobná fotodokumentace před i po zásahu.
+
+**6. Varianty.** (a) Nešlo-li by o havárii nesnesoucí odkladu, ale o plánovanou údržbu, vstup vyžaduje předchozí projednání s vlastníkem (§ 1267 odst. 1) — vstup bez projednání by byl neoprávněný. (b) Bylo-li by zřízení obslužného zařízení a právo modernizace ve smlouvě výslovně ujednáno a zapsáno, mohl by je oprávněný realizovat (§ 1267 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Provozovatel sítě nemá při havárii povinnost uvádět pozemek do původního stavu." Neutralizace: § 1268 mu výslovně ukládá uvést pozemek na vlastní náklad do předešlého stavu a nahradit škodu způsobenou provedením prací.
+- *Protiargument 2:* „Služebnost inženýrské sítě automaticky zahrnuje i obslužná zařízení a modernizaci." Neutralizace: § 1267 odst. 2 je podmiňuje výslovným ujednáním; bez něj nejsou součástí služebnosti.
+- Slabé místo: posouzení, zda šlo o případ „nesnesoucí odkladu" (havárie) vs. plánovanou údržbu, je skutkové a může být sporné; rozsah náhrady škody (okrasná zeleň) bývá obtížně vyčíslitelný.
+
+#### H. Praktický závěr
+
+Služebnost inženýrské sítě dává oprávněnému právo vést, provozovat a udržovat vedení; vlastník je strpí a po předchozím projednání umožní vstup. Při havárii lze zasáhnout i bez projednání, ale s povinností oznámení, zabezpečení, uvedení do předešlého stavu a náhrady škody. Obslužná zařízení a modernizaci kryje služebnost jen při výslovném ujednání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je služebnost inženýrské sítě zřízena a zapsána (vč. rozsahu)?
+- [ ] Jde o havárii nesnesoucí odkladu (vstup bez projednání), nebo o plánovanou údržbu (nutné projednání)?
+- [ ] Byl pozemek po zásahu uveden do předešlého stavu a nahrazena škoda (§ 1268)?
+- [ ] Jsou obslužná zařízení/modernizace výslovně ujednány (§ 1267 odst. 2)?
+- [ ] Byla vlastníkovi zpřístupněna dokumentace sítě (§ 1267 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o služebnosti a její zápis, dokumentace havárie a provedených prací, fotodokumentace stavu pozemku před a po zásahu, vyčíslení škody, dokumentace sítě.
+
 ### § 1269 — Opora cizí stavby
 
 > Kdo je povinen nést tíži cizí stavby, přispěje také poměrně na udržování zdí nebo podpěr, není však povinen k podpěře panujícího pozemku.
@@ -502,6 +1223,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 **Judikatura (z místních zdrojů):**
 
 - *OS v Semilech* [6 C 120/2022-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=b941230a-8f83-43d1-94a2-032f06fe246e) — *držba, pozemková služebnost, služebnost, smlouva kupní, věcná břemena, vydržení*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dvě sousední řadové stavby A a B sdílejí jednu nosnou (společnou) zeď. Stavba B (panující) se z konstrukčního hlediska opírá o tuto společnou zeď, jejíž větší část stojí na pozemku vlastníka A (služebná věc). V dokumentaci k oběma domům je vázána služebnost opory cizí stavby (*servitus tigni immittendi*). Společná zeď začne praskat a vyžaduje statické zajištění; náklady opravy činí 600 000 Kč. Vlastník A je nechce nést sám a žádá příspěvek od vlastníka B. Důkazy: zápis služebnosti, statický posudek o příčině poškození, projektová dokumentace dokládající, že stavba B se o zeď opírá, vyúčtování opravy.
+
+**2. Právní otázka.** V jakém rozsahu je vlastník B (jehož stavba se opírá o cizí zeď) povinen přispět na udržování společné zdi a podpěr podle § 1269 a zahrnuje tato povinnost i podpěru panujícího pozemku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1269 — kdo nese tíži cizí stavby, přispívá poměrně na udržování zdí a podpěr, není však povinen podepírat panující pozemek.
+- *Související ustanovení téhož zákona:* § 1263 (rozdělení nákladů na údržbu mezi oprávněného a vlastníka podle míry užívání), § 1264 (rozsah služebnosti dle potřeby panujícího pozemku), § 1257 (pojem služebnosti a pasivní povinnost vlastníka služebné věci).
+- *Související předpisy:* § 1115 a násl. o. z. (spoluvlastnictví, je-li zeď ve spoluvlastnictví), stavební zákon (statika a údržba staveb).
+- *Judikatura:* rozhodnutí citované v komentáři (OS v Semilech 6 C 120/2022) k pozemkovým služebnostem a věcným břemenům; obecně judikatura NS k poměrnému rozdělení udržovacích nákladů u služebností opory a ke korelaci nákladů s mírou užívání.
+
+**4. Subsumpce.** Znak „nést tíži cizí stavby" je naplněn — stavba B reálně zatěžuje zeď A. Znak „poměrně přispět na udržování zdí nebo podpěr" je naplněn co do nutné opravy nosné zdi, o kterou se B opírá. Naopak nárok A na to, aby B přispíval i na podepření samotného panujícího pozemku, § 1269 výslovně vylučuje („není však povinen k podpěře panujícího pozemku"). Sporné je určení podílu — záleží na míře, v jaké stavba B zeď zatěžuje (statický posudek).
+
+**5. Řešení.** Vlastník B je povinen poměrně přispět na opravu společné nosné zdi; podíl se stanoví podle míry zatížení (typicky podle rozsahu opření konstrukce B). Pokud poškození vzniklo výlučně vadou stavby B, lze uvažovat o plné náhradě z titulu odpovědnosti za škodu (§ 2900 a násl.), nikoli jen o poměrném příspěvku. A nemůže po B požadovat náklady na podepření vlastního pozemku. Procesně: výzva k úhradě, znalecký posudek, případně žaloba na peněžité plnění.
+
+**6. Varianty.** (a) Kdyby se B o zeď neopíral (samostatná konstrukce), povinnost přispívat podle § 1269 by nevznikla. (b) Kdyby šlo o podepření sesouvajícího se panujícího pozemku B, vlastník A nemá nárok na příspěvek — to § 1269 výslovně vyjímá.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Povinnost přispívat dopadá na veškeré náklady spojené se zdí." Neutralizace: § 1269 hovoří o „poměrném" příspěvku na „udržování" — nejde o rovný díl ani o náklady, které nesouvisí s nesením tíže (např. estetická úprava fasády na straně A).
+- *Protiargument:* „I podepření pozemku je součástí opory." Neutralizace: zákon explicitně vylučuje povinnost podepírat panující pozemek; rozsah opory se vztahuje na stavbu, nikoli na terén.
+- *Slabé místo:* určení poměru je skutkově náročné a stojí na znaleckém posouzení; bez posudku hrozí neunesení důkazního břemene ohledně výše příspěvku.
+
+#### H. Praktický závěr
+
+Služebnost opory cizí stavby zakládá aktivní povinnost poměrného příspěvku na údržbu nosných zdí a podpěr, vždy však jen v rozsahu odpovídajícím nesení tíže a s vyloučením podpěry panujícího pozemku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existenci a zápis služebnosti opory cizí stavby.
+- [ ] Doložit, že panující stavba se reálně opírá o služebnou zeď/podpěru.
+- [ ] Stanovit poměr příspěvku znaleckým posudkem (míra zatížení).
+- [ ] Vyloučit z nároku náklady na podepření panujícího pozemku.
+- [ ] Zvážit, zda nejde o náhradu škody (vada konkrétní stavby) namísto poměrného příspěvku.
+
+**Typicky rozhodné důkazy / podklady:** zápis služebnosti, statický a stavebně-technický posudek, projektová dokumentace, vyúčtování opravy.
 
 ### § 1270—1273 — Voda
 
@@ -538,6 +1296,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2222/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CEFFA049CB9159D6C1258963001D92F0?openDocument) — *Právo na vodu (o. z.) [ Služebnost (o. z.) ] Žaloba určovací*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník vodního díla (suchý poldr) provozuje protipovodňovou ochranu obce. Ve prospěch vodního díla je zřízena služebnost rozlivu na zemědělských pozemcích pana N. Při vyhlášené povodni je poldr aktivován a voda zaplaví pozemky pana N na dva dny; dojde ke ztrátě úrody. Současně si soused S stěžuje, že na jeho pozemek z cizí střechy stéká dešťová voda žlabem (služebnost okapu) a žlab není udržován, takže voda podmáčí jeho zeď. Důkazy: zápis služebností, manipulační řád vodního díla, fotodokumentace zaplavení a podmáčení, vyčíslení škody na úrodě.
+
+**2. Právní otázka.** Jaký je obsah a meze služebnosti rozlivu (§ 1273) a komu náleží náhrada za ztrátu úrody způsobenou řízeným rozlivem; a kdo nese povinnost údržby žlabu u služebnosti okapu (§ 1270)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1270 (služebnost okapu — povinnost udržovat svodní žlab a odklízet sníh), § 1271 (svod na vlastní pozemek), § 1272 (právo na vodu a přístup k ní), § 1273 (služebnost rozlivu, povinnosti vlastníka pozemku, odkaz na § 1267 odst. 3 a § 1268).
+- *Související ustanovení téhož zákona:* § 1263 (náklady na zařízení a údržbu), § 1267—1268 (služebnost inženýrské sítě, na něž § 1273 odst. 3 odkazuje obdobně).
+- *Související předpisy:* zákon č. 254/2001 Sb. (vodní zákon) — vodní díla, ochrana před povodněmi, náhrady; zákon č. 89/2012 Sb., § 2900 a násl. (náhrada škody, prevenční povinnost).
+- *Judikatura:* rozhodnutí citované v komentáři — NS 22 Cdo 2222/2022 (právo na vodu jako služebnost, určovací žaloba); obecně judikatura k rozsahu pozemkových služebností daného potřebou panujícího pozemku.
+
+**4. Subsumpce.** U služebnosti rozlivu je znak „právo rozlévat vodu na služebném pozemku" naplněn aktivací poldru; vlastník pozemku N je povinen zdržet se ohrožení vodního díla a umožnit vstup (§ 1273 odst. 2). Náhrada za rozliv se řídí zvláštní úpravou (odkaz na § 1268). U služebnosti okapu je znak „udržovat svodní žlab v dobrém stavu" porušen — povinnost údržby tíží oprávněného ze služebnosti okapu, nikoli vlastníka podmáčeného pozemku.
+
+**5. Řešení.** Pan N má právo na náhradu za škodu způsobenou řízeným rozlivem podle § 1273 ve spojení s § 1268 a vodním zákonem (náhrada se poskytuje za omezení vlastnického práva při protipovodňové ochraně). U okapu se soused S domáhá splnění udržovací povinnosti po oprávněném (oprava žlabu, včasné odklízení sněhu) a náhrady škody za podmáčení. Procesně: u rozlivu uplatnění náhrady vůči vlastníku vodního díla; u okapu žaloba na plnění/zápůrčí ochrana.
+
+**6. Varianty.** (a) Kdyby vstup na pozemek N nebyl předem projednán, vlastník díla by jej nemohl vynutit (§ 1273 odst. 2 podmiňuje vstup předchozím projednáním). (b) Kdyby svodní žlab vůbec zřízen nebyl, povinnost jeho údržby podle § 1270 odst. 2 by nevznikla a voda by se sváděla volně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Služebnost rozlivu opravňuje k libovolným úpravám vodního díla." Neutralizace: úpravy za účelem modernizace jsou možné jen, „je-li to výslovně ujednáno" (§ 1273 odst. 1) — bez ujednání nelze.
+- *Protiargument:* „Údržbu žlabu nese vlastník pozemku, na nějž voda stéká." Neutralizace: § 1270 odst. 2 ukládá údržbu tomu, kdo má služebnost okapu (oprávněnému), nikoli zatíženému vlastníkovi.
+- *Slabé místo:* hranice mezi náhradou za řízený rozliv (zvláštní režim) a obecnou náhradou škody může být sporná; je nutné správně určit právní titul a pasivně legitimovaného.
+
+#### H. Praktický závěr
+
+Vodní služebnosti (okap, svod, právo na vodu, rozliv) je třeba vykládat podle jejich konkrétního obsahu a rozdělení nákladů a údržby; u rozlivu se náhrada za omezení vlastníka řídí odkazem na úpravu inženýrských sítí a vodním zákonem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat konkrétní typ vodní služebnosti a její přesný obsah.
+- [ ] U okapu určit, kdo nese údržbu žlabu a odklízení sněhu (oprávněný).
+- [ ] U rozlivu ověřit ujednání o úpravách díla a předchozí projednání vstupu.
+- [ ] U rozlivu uplatnit náhradu podle § 1273 → § 1268 a vodního zákona.
+- [ ] Doložit příčinnou souvislost mezi výkonem služebnosti a škodou.
+
+**Typicky rozhodné důkazy / podklady:** zápis služebnosti, manipulační řád vodního díla, posudek a fotodokumentace, vyčíslení škody, doklad o údržbě/zanedbání žlabu.
 
 ### § 1274—1277 — Cesta, stezka, průhon
 
@@ -582,6 +1377,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
   > „Ze Smlouvy vyplývá, že žalovaná má právo vhodným a bezpečným způsobem chodit a jezdit po předmětných pozemcích ve smyslu § 1274 a § 1276 zákona č. 89/2012 Sb., občanský zákoník, (dále ,,o. z.“)."
 - *NS* [27 Cdo 660/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC714E5C82173BA4C12588F0001E1AA3?openDocument) — *Smlouva Služebnost (o. z.) Služebnost inženýrské sítě (o. z.) [ Služebnost (o. z.) ] Slu…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve prospěch chaty paní K (panující pozemek) byla v 90. letech zřízena „služebnost stezky" přes pozemek pana V. Paní K nyní pozemek pana V přejíždí osobním automobilem, aby se dostala k chatě, a tvrdí, že stezka zahrnuje i příjezd autem. Pan V se brání negatorní žalobou. Alternativně byla zřízena pouze „služebnost cesty"; paní K po ní začne hnát stádo ovcí na vzdálenou louku. Důkazy: zřizovací smlouva a její znění (stezka × cesta × průhon), zápis v katastru, geometrický plán s plochou výkonu služebnosti, fotodokumentace způsobu užívání.
+
+**2. Právní otázka.** Zahrnuje služebnost stezky právo jezdit motorovým vozidlem a zahrnuje služebnost cesty právo průhonu zvířat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1274 (stezka — chůze a doprava lidskou silou, nikoli jízda na zvířatech ani vlečení břemen), § 1275 (průhon — hnát zvířata + nemotorová vozidla), § 1276 (cesta — jízda jakýmikoli vozidly, bez práva průhonu, poměrný příspěvek na údržbu), § 1277 (přiměřená plocha, náhradní plocha při neschůdnosti).
+- *Související ustanovení téhož zákona:* § 1257 (pojem služebnosti, *nemini res sua servit*), § 1264 (rozsah dle potřeby panujícího pozemku, *civiliter*).
+- *Související předpisy:* katastrální zákon (zápis služebnosti, geometrický plán); pravidla provozu na pozemních komunikacích jen okrajově.
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 22 Cdo 654/2024 (oprávnění ze stezky vykonává i „jiní" přicházející k oprávněné osobě, míra dle § 1264), NS 22 Cdo 1969/2024 (cesta umožňuje jízdu i chůzi dle § 1274 a § 1276), NS 22 Cdo 985/2025, NS 22 Cdo 120/2026.
+
+**4. Subsumpce.** U stezky znak „jezdit motorovým vozidlem" naplněn NENÍ — § 1274 odst. 2 jízdu na zvířatech i vlečení břemen vylučuje a stezka pojmově zahrnuje jen pohyb lidskou silou; příjezd autem proto z titulu stezky nelze. U cesty znak „hnát zvířata" naplněn NENÍ — § 1276 odst. 2 výslovně stanoví, že ve služebnosti cesty není obsaženo právo průhonu. Pro hnaní stáda by bylo třeba služebnosti průhonu (§ 1275).
+
+**5. Řešení.** Negatorní žaloba pana V proti přejíždění autem po stezce bude důvodná — paní K překračuje obsah služebnosti. Pro příjezd vozidlem musí dosáhnout rozšíření/nového zřízení služebnosti cesty. Hnaní ovcí po služebnosti cesty je rovněž nad rámec práva; paní K potřebuje služebnost průhonu. Plocha výkonu musí být přiměřená potřebě a místu (§ 1277). Procesně: zápůrčí žaloba, případně žaloba na zřízení/rozšíření služebnosti.
+
+**6. Varianty.** (a) Kdyby byla zřízena služebnost cesty, příjezd osobním autem by byl v pořádku (§ 1276 odst. 1), avšak průhon stále ne. (b) Kdyby se stezka stala působením povodně neschůdnou, paní K by se mohla domáhat vykázání náhradní plochy po dobu obnovy (§ 1277).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stezka v dnešní době přirozeně zahrnuje i příjezd autem k nemovitosti." Neutralizace: zákon striktně typizuje obsah (stezka = lidská síla); rozšiřující výklad podle potřeby (§ 1264) nemůže změnit zákonem vymezený druh služebnosti.
+- *Protiargument:* „Cesta jako širší právo pohlcuje i průhon." Neutralizace: § 1276 odst. 2 výslovně průhon z cesty vylučuje; triáda iter–actus–via není hierarchicky inkluzivní v tomto směru.
+- *Slabé místo:* sporné bývá znění historických smluv; je-li obsah služebnosti neurčitý, soud ji vyloží dle účelu a desetileté pokojné držby, což může výsledek zvrátit.
+
+#### H. Praktický závěr
+
+Obsah pozemkové služebnosti komunikace je dán jejím zákonným typem (stezka / průhon / cesta); překročení tohoto obsahu zakládá zásah do práva vlastníka služebného pozemku a brání se negatorní žalobou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přesně určit zřízený typ služebnosti (stezka × průhon × cesta) ze smlouvy a zápisu.
+- [ ] Porovnat skutečný způsob užívání s obsahem daného typu.
+- [ ] U cesty pamatovat na vyloučení práva průhonu.
+- [ ] Ověřit přiměřenost plochy výkonu služebnosti (§ 1277).
+- [ ] U údržby cesty rozdělit příspěvek dle míry užívání (§ 1276 odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** zřizovací smlouva, výpis z katastru, geometrický plán plochy služebnosti, doklady o způsobu a rozsahu užívání.
+
 ### § 1278—1282 — Právo pastvy
 
 **§ 1278**:
@@ -611,6 +1443,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 - Doba pastvy: dle místní zvyklosti, ale **bez zhoršení hospodaření**;
 - Spolupastva vlastníka pozemku je zachována.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Před více než dvaceti lety byla ve prospěch usedlosti pana H zřízena „služebnost pastvy" na louce pana M. Smlouva neurčuje druh, počet zvířat ani rozsah a čas pastvy. Pan H dnes na louku žene 25 kusů skotu, zatímco v prvních třech letech pásl průměrně 12 kusů. Současně chce na louku vyhnat i prasata a vede zde nemocný kus. Pan M tvrdí, že pastva je nadměrná, ruší jeho hospodaření a poškozuje pozemek. Důkazy: zřizovací listina, evidence stavu zvířat za první tři roky, místní zvyklost o době pastvy, posudek o úživnosti louky a o tom, kolik dobytka lze přezimovat s pící z usedlosti H.
+
+**2. Právní otázka.** Jaký počet a druh dobytka a v jakém čase smí oprávněný na služebném pozemku pást, není-li to ve zřizovacím titulu určeno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1278 (neurčí-li se parametry, chrání se pokojná desetiletá držba, jinak § 1279—1282), § 1279 (druh zvířat — vyloučena prasata, drůbež, nemocná a nadměrně znečištěná; zákaz pastvy na lesních pozemcích), § 1280 (počet — rozhodný průměr za první 3 roky, limit přezimování s pící z panujícího pozemku), § 1281 (doba dle místní zvyklosti, bez omezení řádného hospodaření), § 1282 (jen pastva, spolupastva vlastníka, hlídání při hrozící škodě).
+- *Související ustanovení téhož zákona:* § 1264 (rozsah dle potřeby panujícího pozemku, *civiliter*), § 1257—1259 (pojem a ochrana služebnosti).
+- *Související předpisy:* lesní zákon č. 289/1995 Sb. (ochrana funkcí lesa); předpisy o ochraně zvířat a veterinární péči.
+- *Judikatura:* obecně judikatura NS k mírnému výkonu pozemkových služebností a k vázanosti rozsahu potřebou panujícího pozemku (k § 1264); k pastvě jako tradiční služebnosti.
+
+**4. Subsumpce.** Znak „rozhodný průměr za první tři léta" omezuje počet na cca 12 kusů, nikoli 25 — nadměrná pastva překračuje rozsah služebnosti (§ 1280 odst. 1). Druhový znak vylučuje prasata (§ 1279 odst. 1) a nemocná zvířata. Limit „kolik dobytka lze přezimovat s pící z panujícího pozemku" může počet dále snížit. Znak „bez omezení řádného hospodaření" (§ 1281) chrání pana M před rušivou intenzitou pastvy.
+
+**5. Řešení.** Pan H smí pást jen takový počet a druh zvířat, jaký odpovídá průměru prvních tří let a úživnostnímu limitu; prasata a nemocný kus jsou z pastvy vyloučena. Pan M se může domáhat zdržení se nadměrné pastvy (negatorní ochrana) a hlídání dobytka, hrozí-li škoda (§ 1282 odst. 2). Procesně: zápůrčí žaloba na omezení pastvy do zákonných mezí.
+
+**6. Varianty.** (a) Kdyby orgán veřejné moci určil pozemek k plnění funkcí lesa, služebnost pastvy dobytka by zanikla (§ 1279 odst. 2 ve spojení s logikou § 1275 odst. 2). (b) Kdyby smlouva výslovně stanovila 25 kusů a tento rozsah by byl po deset let pokojně držen, chránila by se tato držba (§ 1278).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozsah pastvy se řídí aktuální potřebou usedlosti, která vzrostla." Neutralizace: § 1280 fixuje rozhodný průměr na první tři roky a stanoví úživnostní strop; potřeba panujícího pozemku (§ 1264) rozsah nerozšiřuje nad tento limit.
+- *Protiargument:* „Spolupastva vlastníka znamená, že na intenzitě nezáleží." Neutralizace: § 1282 zachovává spolupastvu vlastníka, ale neopravňuje oprávněného k nadměrné pastvě omezující hospodaření (§ 1281).
+- *Slabé místo:* doložení počtu zvířat v prvních třech letech bývá po letech obtížné; chybí-li evidence, nastupuje stanovení podle zásad slušnosti, což je nejisté.
+
+#### H. Praktický závěr
+
+Právo pastvy je detailně limitováno co do druhu, počtu, doby a intenzity; při absenci ujednání se uplatní podpůrná pravidla § 1279—1282 s rozhodným průměrem prvních tří let a zákazem omezit řádné hospodaření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda zřizovací titul určuje druh, počet, rozsah a čas pastvy.
+- [ ] Doložit průměrný počet zvířat za první tři léta pastvy.
+- [ ] Vyloučit zakázané druhy (prasata, drůbež, nemocná, znečištěná).
+- [ ] Ověřit úživnostní strop (přezimování s pící z panujícího pozemku).
+- [ ] Posoudit, zda pastva neomezuje řádné hospodaření a zda je dobytek při riziku hlídán.
+
+**Typicky rozhodné důkazy / podklady:** zřizovací listina, evidence stavů zvířat, posudek o úživnosti a kapacitě přezimování, doklad o místní zvyklosti k době pastvy.
+
 ---
 
 ### Pododdíl 5 — Užívací a požívací právo (§ 1283—1296)
@@ -631,6 +1500,43 @@ NOZ taxativně **nevypočítává** všechny myslitelné služebnosti (otevřen�
 - *OS v Sokolově* [7 C 239/2023-106](https://rozhodnuti.justice.cz/rozhodnuti/?id=5d2a380b-b611-43d7-98cb-aebbb6193167) — *věcná břemena, služebnost*
 - *OS Praha-západ* [36 C 158/2020-43](https://rozhodnuti.justice.cz/rozhodnuti/?id=a65c6b2c-16a9-4229-bbe8-9b847fec9014) — *peněžité plnění, služebnost, smlouva nájemní*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Matka darovala dům dceři a vyhradila si „služebnost užívacího práva" k bytu v přízemí pro svou potřebu a potřebu své domácnosti. Po několika letech se k matce nastěhuje její nový partner a dospělý vnuk; matka chce do bytu nově nastěhovat tři osoby a část bytu pronajmout studentovi za nájemné. Dcera (vlastnice) namítá, že užívací právo bylo zřízeno jen pro matku a její domácnost a že pronájem ani rozšíření okruhu uživatelů není přípustné. Důkazy: darovací smlouva se zřízením služebnosti, zápis v katastru, doklady o složení domácnosti v době zřízení a nyní, případná nájemní smlouva.
+
+**2. Právní otázka.** Opravňuje užívací právo (usus) oprávněného k pronájmu části věci třetí osobě a k rozšíření užívání na nově příchozí členy domácnosti nad rámec stavu při zřízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1283 — užívací právo poskytuje právo užívat cizí věc pro vlastní potřebu a potřebu domácnosti oprávněného.
+- *Související ustanovení téhož zákona:* § 1284 (rozdělení užitků a nákladů mezi uživatele a vlastníka), § 1285 (požívací právo jako širší typ — pro srovnání), § 1297 (domněnka, že služebnost bytu = užívací právo), § 1258 (rozsah služebnosti při pochybnostech ve prospěch volnosti vlastníka).
+- *Související předpisy:* § 2201 a násl. o. z. (nájem — jako srovnání s tím, co usus neumožňuje).
+- *Judikatura:* rozhodnutí citovaná v komentáři (OS v Českém Krumlově 5 C 123/2023, ObS pro Prahu 10 35 C 95/2025, OS Praha-západ 36 C 158/2020 a další k služebnosti a věcným břemenům); obecně judikatura k odlišení usus od ususfructus a k zákazu rozšiřování usus na výnosové užívání.
+
+**4. Subsumpce.** Znak „užívat pro vlastní potřebu a potřebu domácnosti" pokrývá bydlení matky a osob tvořících s ní domácnost. Znak „brát plody / výnosy" naplněn NENÍ — usus neopravňuje k pronájmu za účelem zisku; pronájem studentovi je nad rámec práva. Pokud jde o rozšíření domácnosti, judikatura i nauka váží rozsah na potřebu existující při zřízení; pozdější rozmnožení potřeb (nový partner, vnuk) zásadně nezakládá právo na rozšíření užívání.
+
+**5. Řešení.** Matka může byt užívat pro sebe a svou domácnost, nesmí jej však pronajímat za nájemné (to by odpovídalo požívacímu právu, nikoli usus). Rozšíření okruhu uživatelů nad stav při zřízení je sporné a zásadně nepřípustné, ledaže jde o běžnou obměnu domácnosti. Dcera se může domáhat zdržení se pronájmu. Procesně: negatorní/určovací žaloba ohledně rozsahu služebnosti.
+
+**6. Varianty.** (a) Kdyby si matka vyhradila „požívací právo" (ususfructus), pronájem bytu a braní nájemného by byly přípustné (§ 1285). (b) Kdyby šlo o pouhé přijetí pečující osoby do domácnosti bez výdělečného účelu, užívání by zůstalo v mezích usus.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Užívání pro potřebu domácnosti zahrnuje i ekonomické zhodnocení části bytu." Neutralizace: usus je vázán na vlastní (osobní) potřebu; braní plodů a výnosů přísluší teprve požívacímu právu (§ 1285), což je odlišný typ služebnosti.
+- *Protiargument:* „Potřeba se v čase mění, právo proto roste s domácností." Neutralizace: rozsah usus se posuzuje k době zřízení; pozdější rozmnožení potřeb nezakládá nárok na rozšíření (zásada *civiliter* a § 1258 ve prospěch vlastníka).
+- *Slabé místo:* hranice mezi přijetím nového člena domácnosti (přípustné) a faktickým rozšířením užívání (nepřípustné) je neostrá a závisí na okolnostech; argumentace musí být skutkově podložena.
+
+#### H. Praktický závěr
+
+Užívací právo (usus) opravňuje pouze k užívání věci pro vlastní a rodinnou potřebu oprávněného, bez práva věc pronajímat či z ní brát výnosy a bez automatického rozšiřování s rostoucími potřebami.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda byl zřízen usus, nebo ususfructus (zásadní rozdíl v oprávněních).
+- [ ] Vyloučit pronájem a jiné výnosové užívání u pouhého usus.
+- [ ] Posoudit rozsah potřeby k době zřízení služebnosti.
+- [ ] Odlišit přípustnou obměnu domácnosti od nepřípustného rozšíření užívání.
+- [ ] Při pochybnostech vykládat rozsah ve prospěch volnosti vlastníka (§ 1258).
+
+**Typicky rozhodné důkazy / podklady:** zřizovací (darovací) smlouva, výpis z katastru, doklady o složení domácnosti při zřízení a nyní, případná nájemní smlouva.
+
 ### § 1284 — Vztah uživatel × vlastník
 
 > Vlastníku věci náležejí všechny užitky, které může brát bez zkrácení práva uživatele. Vlastník však nese všechny její závady a musí věc udržovat v dobrém stavu. Přesahují-li náklady užitek, který vlastníkovi zbývá, musí uživatel buď tyto zvýšené náklady nést, anebo od užívání upustit.
@@ -646,6 +1552,43 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 - *KS v Praze* [21 CO 117/2022-316](https://rozhodnuti.justice.cz/rozhodnuti/?id=a669fc3d-eadf-4154-ac48-9bb409188cdd) — *odstoupení od smlouvy, peněžité plnění, služebnost, smlouva darovací, věcná břemena, vrá…*
 - *OS v Berouně* [18 C 185/2021-280](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3e11f54-6bdb-4486-8be3-3eb0406447f5) — *notářský zápis, peněžité plnění, příspěvek na bydlení, služebnost, smlouva darovací, sml…*
 - *KS v Českých Budějovicích* [7 Co 766/2025-147](https://rozhodnuti.justice.cz/rozhodnuti/?id=18b11e7d-8353-4293-8049-d9cb222fbefe) — *právo užívání, služebnost, věcná břemena, nájem pozemku, smlouva nájemní*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Otec převedl na syna rekreační chalupu a vyhradil si k ní užívací právo. Chalupa vyžaduje nákladnou opravu střechy (300 000 Kč) a každoroční údržbu (20 000 Kč). Vlastník (syn) bere ze zahrady ovoce, které otec nespotřebuje. Náklady na údržbu a opravu však výrazně převyšují užitek, který synovi z věci po uspokojení otcova užívacího práva zbývá. Syn požaduje, aby zvýšené náklady nesl otec, nebo aby otec od užívání upustil. Důkazy: zřizovací smlouva, vyčíslení nákladů údržby a oprav, vyčíslení užitků zbývajících vlastníkovi, znalecké posouzení poměru nákladů a užitku.
+
+**2. Právní otázka.** Kdo nese náklady údržby věci zatížené užívacím právem a co se stane, převýší-li tyto náklady užitek, který vlastníkovi po uspokojení uživatele zbývá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1284 — vlastníku náležejí užitky, které lze brát bez zkrácení uživatele; vlastník nese závady a udržuje věc v dobrém stavu; přesahují-li náklady užitek vlastníka, uživatel buď zvýšené náklady nese, anebo od užívání upustí.
+- *Související ustanovení téhož zákona:* § 1283 (obsah užívacího práva), § 1288 (u požívacího práva nese udržovací náklady poživatel — odlišný režim), § 1263 (rozdělení nákladů u služebností obecně).
+- *Související předpisy:* obecná úprava nákladů a bezdůvodného obohacení (§ 2991 a násl.), je-li některý subjekt zhodnocen na úkor druhého.
+- *Judikatura:* rozhodnutí citovaná v komentáři (OS v Pardubicích 8 C 78/2021, KS v Praze 21 Co 117/2022, OS v Berouně 18 C 185/2021, KS v Českých Budějovicích 7 Co 766/2025) k užívacímu právu a vypořádání nákladů.
+
+**4. Subsumpce.** Znak „vlastník nese závady a udržuje věc" je splněn jako základní pravidlo — primárně tedy údržbu hradí syn. Znak „náklady přesahují užitek, který vlastníkovi zbývá" je naplněn (300 000 + 20 000 Kč proti minimálnímu zbytkovému užitku). Tím se aktivuje druhá věta § 1284: otec (uživatel) musí buď nést zvýšené náklady, nebo od užívání upustit. Sporné je vyčíslení „užitku, který vlastníkovi zbývá" — to vyžaduje znalecké posouzení.
+
+**5. Řešení.** Syn jako vlastník nese náklady údržby a oprav, ale pouze do výše užitku, který mu z věci zbývá. Převyšují-li náklady tento užitek, má právo postavit otce před volbu: doplatit rozdíl, nebo se užívání vzdát. Pokud otec odmítne obojí, lze se domáhat odpovídajícího vypořádání. Procesně: výzva uživateli k volbě, případně žaloba na plnění (úhradu zvýšených nákladů) nebo na vyklizení při upuštění od užívání.
+
+**6. Varianty.** (a) Kdyby bylo zřízeno požívací právo (§ 1285 a násl.), nesl by obvyklé udržovací náklady poživatel (§ 1288) a režim § 1284 věty třetí by se neuplatnil. (b) Kdyby užitky vlastníka náklady převyšovaly, hradil by údržbu plně vlastník bez možnosti přenést je na uživatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Údržbu vždy hradí vlastník, uživatel nic neplatí." Neutralizace: pravidlo platí jen potud, pokud náklady nepřevýší zbytkový užitek vlastníka; jinak § 1284 přenáší volbu (doplatit / upustit) na uživatele.
+- *Protiargument:* „Uživatel nemůže být nucen se práva vzdát." Neutralizace: § 1284 mu nevnucuje upuštění, dává mu alternativu nést zvýšené náklady; jde o jeho volbu, nikoli o nucený zánik.
+- *Slabé místo:* klíčové je přesné vyčíslení užitku zbývajícího vlastníkovi a nákladů; bez znaleckého posouzení hrozí spor o samotné přesažení a neunesení důkazního břemene.
+
+#### H. Praktický závěr
+
+U užívacího práva nese údržbu primárně vlastník, avšak jen do výše užitku, který mu po uspokojení uživatele zbývá; převýší-li náklady tento užitek, je na uživateli, zda zvýšené náklady ponese, nebo od užívání upustí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o usus (§ 1284), nebo ususfructus (§ 1288) — režim nákladů se liší.
+- [ ] Vyčíslit užitek, který vlastníkovi po uspokojení uživatele zbývá.
+- [ ] Vyčíslit nutné náklady údržby a oprav.
+- [ ] Postavit uživatele před volbu: doplatit zvýšené náklady, nebo upustit od užívání.
+- [ ] Zvážit nárok z bezdůvodného obohacení při zhodnocení věci.
+
+**Typicky rozhodné důkazy / podklady:** zřizovací smlouva, vyúčtování nákladů údržby a oprav, znalecké vyčíslení užitků a poměru nákladů a užitku.
 
 ### § 1285—1296 — Požívací právo (ususfructus)
 
@@ -714,6 +1657,43 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 - *NS* [26 Cdo 1469/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5C677C7E8A698CBC1258D07004D0519?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
   > „K otázce požívacího práva poukázal na (v rozsudku citovanou) judikaturu prvorepublikového Nejvyššího soudu a judikaturu rakouských soudů k výkladu požívacího práva a k otázce výkladu smlouvy o požívacím právu coby ve skutečnosti (další) smlouvy nájemní na tam označená rozhodnutí Ústavního soudu; odkázal též na § 1285 a § 978 zákona č."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zůstavitelka odkázala synovi vlastnictví činžovního domu a zároveň zřídila ve prospěch svého manžela doživotní požívací právo k tomuto domu. Manžel (poživatel) pronajímá byty a inkasuje nájemné, hradí provoz a běžné opravy. Po čase potřebuje dům výměnu kotelny (havarijní stav z důvodu stáří). Současně poživatel z výnosů neprovádí pojištění domu a zanedbává běžnou údržbu, takže hodnota domu nad rámec běžného opotřebení klesá. Po skončení požívání (smrt manžela) jsou na stromech v zahradě dosud neoddělené plody. Důkazy: závěť/listina o zřízení požívacího práva, zápis v katastru, doklady o nájemném a nákladech, posudek o stavu a pojištění domu, soupis neoddělených plodů.
+
+**2. Právní otázka.** Jaký je rozsah práv a povinností poživatele (braní plodů a výnosů versus povinnost udržovat věc *salva substantia*), kdo nese nákladné stavební práce vyvolané stářím a komu náležejí plody neoddělené při skončení požívání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1285 (užívání + plody, užitky, mimořádný výnos), § 1288 (udržovací náklady, obnova, obvyklé pojištění; bezvadnost při zmenšení hodnoty řádným užíváním), § 1289 (stavební práce vyvolané náhodou nebo stářím — vlastník je provede na svůj náklad, poživatel platí úplatu za zlepšení požívání; jinak je provede poživatel), § 1293 (neoddělené plody při skončení náležejí vlastníkovi, jiné užitky poměrně), § 1294—1296 (zastupitelné věci, jistina na úrok, jistota).
+- *Související ustanovení téhož zákona:* § 1283—1284 (užívací právo pro srovnání), § 1257 (pojem služebnosti), § 1763 (vztah požívacího práva a nájmu — viz citovaná judikatura).
+- *Související předpisy:* § 2991 a násl. o. z. (bezdůvodné obohacení při zhodnocení), předpisy o pojištění majetku.
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 26 Cdo 1733/2025 (požívací právo obstojí vedle nájmu, není v kolizi s § 1763) a NS 26 Cdo 1469/2025 (výklad smlouvy o požívacím právu).
+
+**4. Subsumpce.** Znak „brát plody a užitky" opravňuje manžela k nájemnému (§ 1285). Znak „udržovat věc a hradit obvyklé udržovací náklady včetně pojištění" (§ 1288) je porušen — zanedbáním pojištění a údržby poživatel odpovídá za vzniklou újmu nad rámec řádného opotřebení. Výměna kotelny vyvolaná stářím spadá pod § 1289 — primárně ji provede vlastník na svůj náklad a poživatel zaplatí úplatu podle míry zlepšení požívání. Neoddělené plody v zahradě po smrti manžela náležejí vlastníkovi (§ 1293), s náhradou vynaložených nákladů poživateli.
+
+**5. Řešení.** Manžel jako poživatel inkasuje výnosy, ale musí věc udržovat a pojistit; za zanedbání (pokles hodnoty nad rámec řádného užívání) odpovídá. Havarijní výměnu kotelny z důvodu stáří nese vlastník (syn) s tím, že poživatel doplatí úplatu za zlepšení požívání; nechce-li vlastník práce provést, může je provést poživatel a po skončení požívání žádat náhradu jako poctivý držitel (§ 1289 odst. 2). Neoddělené plody připadnou po skončení vlastníkovi. Procesně: vyúčtování, případně žaloba na náhradu/úplatu.
+
+**6. Varianty.** (a) Kdyby bylo zřízeno jen užívací právo (§ 1283), manžel by nesměl byty pronajímat za nájemné. (b) Kdyby k poklesu hodnoty došlo bez viny poživatele pouhým řádným užíváním, poživatel by za to neodpovídal (§ 1288 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Poživatel má právo na výnosy, takže veškeré nákladné opravy nese vlastník bez kompenzace." Neutralizace: u stavebních prací vyvolaných stářím/náhodou platí poživatel úplatu za zlepšení požívání (§ 1289 odst. 1) a běžné udržovací náklady včetně pojištění nese sám (§ 1288).
+- *Protiargument:* „Neoddělené plody patří tomu, kdo o ně pečoval, tj. poživateli." Neutralizace: § 1293 přiznává neoddělené plody při skončení požívání vlastníkovi; poživatel má pouze nárok na náhradu vynaložených nákladů a na poměrné jiné užitky.
+- *Slabé místo:* rozlišení mezi „řádným užíváním" (bez odpovědnosti) a zanedbáním (s odpovědností) je skutkově sporné; vyžaduje znalecké posouzení stavu věci a příčin poklesu hodnoty.
+
+#### H. Praktický závěr
+
+Požívací právo dává poživateli plný užitkový profit z věci, ale zavazuje jej k zachování podstaty (*salva substantia*), běžné údržbě a pojištění; nákladné práce vyvolané stářím nese vlastník proti úplatě a neoddělené plody připadají při skončení vlastníkovi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že jde o požívací právo (ne usus) a vymezit předmět (vč. zastupitelných věcí, jistiny).
+- [ ] Zkontrolovat plnění udržovací povinnosti a obvyklého pojištění poživatelem (§ 1288).
+- [ ] U nákladných oprav vyvolaných stářím/náhodou aplikovat § 1289 (úplata za zlepšení požívání).
+- [ ] Při skončení vypořádat neoddělené plody (vlastníkovi) a poměrné užitky (poživateli) dle § 1293.
+- [ ] Zvážit jistotu pro vlastníka, hrozí-li podstatě nebezpečí (§ 1296).
+
+**Typicky rozhodné důkazy / podklady:** listina o zřízení požívacího práva, výpis z katastru, doklady o výnosech a nákladech, pojistné smlouvy, znalecký posudek o stavu a hodnotě věci, soupis neoddělených plodů.
+
 ---
 
 ### Služebnost bytu (§ 1297—1298)
@@ -730,6 +1710,43 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 - Nelze vypovědět;
 - Doživotní povaha (u FO);
 - Zápis do katastru (publicita).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodiče darovali rodinný dům dceři a vyhradili si „služebnost bytu" v patře domu, aniž ve smlouvě upřesnili, zda jde o užívání, či požívání. Po roce chce otec část svého bytu pronajmout podnájemníkovi a inkasovat nájemné. Dcera (vlastnice) zároveň chce vstupovat do nezatížených částí domu (sklep, půda) a provádět zde úpravy; otec jí v tom brání s tím, že má „právo na celý dům". Důkazy: darovací smlouva se zřízením služebnosti bytu, zápis v katastru, plánek domu s vyznačením zatížených a nezatížených částí, případná podnájemní smlouva.
+
+**2. Právní otázka.** Má se služebnost bytu při absenci bližšího ujednání za zřízenou jako užívací (užší), nebo požívací právo, a v jakém rozsahu může vlastník nakládat s nezatíženými částmi domu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1297 (domněnka: služebnost bytu = služebnost užívání), § 1298 (vlastník může volně nakládat s nezatíženými částmi domu; oprávněný nesmí znemožnit potřebný dohled).
+- *Související ustanovení téhož zákona:* § 1283 (obsah užívacího práva — pro vlastní a rodinnou potřebu, bez výnosů), § 1285 (požívací právo — širší, s plody a výnosy), § 1258 (rozsah služebnosti při pochybnostech ve prospěch volnosti vlastníka).
+- *Související předpisy:* § 2201 a násl. o. z. (nájem — pro srovnání s tím, co služebnost bytu jako usus neumožňuje).
+- *Judikatura:* obecně judikatura NS k odlišení služebnosti bytu coby užívacího práva od požívacího a k mírnému výkonu služebnosti (*civiliter*); k ochraně bydlení rodičů při převodu na děti.
+
+**4. Subsumpce.** Znak „služebnost bytu bez bližšího ujednání" aktivuje domněnku § 1297 — jde o užívací právo. Tím je vyloučeno braní výnosů: pronájem části bytu podnájemníkovi za nájemné je nad rámec práva (usus neopravňuje k výnosům). Znak „nezatížené části domu" (§ 1298) opravňuje dceru volně nakládat se sklepem a půdou; otec jí v dohledu a nakládání nesmí bránit, pokud tím nebude znemožněn potřebný dohled nad domem.
+
+**5. Řešení.** Otcova služebnost bytu se posoudí jako užívací právo (§ 1297); pronájem části bytu za nájemné je nepřípustný, neujednaly-li strany výslovně požívací právo. Vlastnice (dcera) může volně užívat a upravovat nezatížené části domu (§ 1298); otec jí nesmí bránit, nejde-li o znemožnění potřebného dohledu. Procesně: negatorní/určovací žaloba o rozsahu služebnosti, případně zdržení se podnájmu.
+
+**6. Varianty.** (a) Kdyby strany výslovně ujednaly požívací právo, otec by mohl byt či jeho část pronajímat a brát nájemné (§ 1285). (b) Kdyby vlastnice úpravami nezatížených částí fakticky znemožnila otci výkon služebnosti bytu, byl by namístě zápůrčí nárok otce (§ 1298 stanoví mez „potřebného dohledu", nikoli libovůli vlastníka).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Služebnost bytu zahrnuje právo byt pronajímat." Neutralizace: § 1297 zakládá domněnku užívacího práva, které braní výnosů nezahrnuje; požívací režim by musel být výslovně ujednán.
+- *Protiargument:* „Vlastník nesmí do domu zatíženého služebností zasahovat." Neutralizace: § 1298 vlastníku výslovně dovoluje volně nakládat s nezatíženými částmi; omezení platí jen pro znemožnění potřebného dohledu.
+- *Slabé místo:* je-li ze smlouvy patrná vůle stran zřídit širší (požívací) právo, domněnka § 1297 ustoupí výkladu projevu vůle; argumentace tedy stojí na výkladu zřizovací listiny.
+
+#### H. Praktický závěr
+
+Služebnost bytu se bez odchylného ujednání považuje za užívací právo (usus); neopravňuje k pronájmu a braní výnosů a ponechává vlastníkovi volné nakládání s nezatíženými částmi domu při zachování potřebného dohledu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda smlouva určuje užívací, nebo požívací povahu služebnosti bytu.
+- [ ] Při absenci ujednání aplikovat domněnku usus (§ 1297) — bez práva na výnosy.
+- [ ] Vymezit zatížené a nezatížené části domu (§ 1298).
+- [ ] Zajistit vlastníkovi přístup k potřebnému dohledu nad domem.
+- [ ] Zvážit zápis a publicitu služebnosti v katastru.
+
+**Typicky rozhodné důkazy / podklady:** darovací/zřizovací smlouva, výpis z katastru, plánek domu se zatíženými a nezatíženými částmi, případná podnájemní smlouva.
 
 ---
 
@@ -764,6 +1781,43 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 - *NS* [22 Cdo 683/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2045BEA3461D6328C12585EB0018BEAB?openDocument) — *Služebnost (o. z.)*
   > „Uvádí, že dovolání je přípustné, neboť odvolací soud se odchýlil od ustálené judikatury dovolacího soudu v otázce, týkající se konstitutivního rozhodnutí, kdy výrok o zrušení věcného břemene – zrušení služebnosti podle § 1299 o. z. nelze oddělit od současného rozhodnutí o náhradě za jeho zrušení."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V 90. letech byla ve prospěch zemědělské usedlosti zřízena služebnost cesty přes pozemek pana P k polnímu hospodaření. Usedlost byla později přestavěna na bytový dům a obec vybudovala novou veřejnou komunikaci, jíž je dům plně přístupný; přístup po služebné cestě ztratil pro panující pozemek jakýkoliv praktický význam a zároveň blokuje záměr pana P pozemek zastavět. Pan P se domáhá zrušení služebnosti za přiměřenou náhradu. Důkazy: zápis služebnosti, doklady o změně účelu panujícího pozemku a o nové komunikaci, znalecké posouzení nepoměru mezi zatížením služebného pozemku a výhodou panujícího, ocenění náhrady.
+
+**2. Právní otázka.** Zanikla služebnost cesty pro trvalou změnu automaticky podle § 1299 odst. 1, nebo je třeba domáhat se jejího zrušení soudem pro hrubý nepoměr za náhradu podle § 1299 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1299 odst. 1 (zánik trvalou změnou, pro niž služebná věc již nemůže sloužit), § 1299 odst. 2 (při hrubém nepoměru právo vlastníka domáhat se omezení/zrušení za přiměřenou náhradu).
+- *Související ustanovení téhož zákona:* § 1300 (smluvní zánik výmazem), § 1264 (rozsah dle potřeby panujícího pozemku), § 1257 (pojem služebnosti).
+- *Související předpisy:* katastrální zákon (výmaz zaniklé/zrušené služebnosti); transformační zákon č. 42/1992 Sb. (u věcných břemen z transformace — viz citovaná judikatura).
+- *Judikatura:* rozhodnutí citovaná v komentáři — ÚS I. ÚS 2096/15 (řešení nepoměru nabízí § 1299), NS 22 Cdo 1101/2020 a 22 Cdo 2892/2024 (zrušení/omezení i u břemen z transformačního zákona za náhradu), NS 22 Cdo 1078/2021, 22 Cdo 1187/2021, 22 Cdo 683/2020 (konstitutivní povaha rozhodnutí a neoddělitelnost výroku o náhradě).
+
+**4. Subsumpce.** Pokud služebná cesta ještě fyzicky může sloužit (je průjezdná), nejde o zánik podle odst. 1 (ten dopadá na nemožnost sloužit, např. zánik panujícího pozemku). Spíše je naplněn znak „trvalá změna vyvolávající hrubý nepoměr" podle odst. 2 — panující pozemek získal plnohodnotný jiný přístup, takže výhoda ze služebnosti je minimální, zatímco zatížení (blokace zástavby) je značné. Hrubost nepoměru je sporná a podléhá znaleckému a soudnímu posouzení.
+
+**5. Řešení.** Pan P se musí domáhat zrušení (či omezení) služebnosti žalobou podle § 1299 odst. 2; soud rozhoduje konstitutivně a ve výroku zároveň určí přiměřenou náhradu (výrok o náhradě nelze oddělit — NS 22 Cdo 683/2020). Automatický zánik podle odst. 1 by nastal jen při skutečné nemožnosti služebnost vykonávat. Procesně: žaloba na zrušení služebnosti za náhradu, znalecký posudek k nepoměru i k výši náhrady.
+
+**6. Varianty.** (a) Kdyby panující pozemek zcela zanikl (např. byl pohlcen vodní plochou), služebnost by zanikla automaticky podle odst. 1 bez náhrady. (b) Kdyby nepoměr nedosahoval intenzity „hrubého" (cesta stále plní záložní funkci), soud by žalobu zamítl (srov. NS 22 Cdo 1187/2021).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změna účelu panujícího pozemku znamená automatický zánik služebnosti." Neutralizace: automaticky zaniká jen služebnost, která již nemůže sloužit (odst. 1); při pouhém poklesu užitečnosti je nutné konstitutivní zrušení soudem za náhradu (odst. 2).
+- *Protiargument:* „Náhrada se vypořádá samostatně po zrušení služebnosti." Neutralizace: dle judikatury (NS 22 Cdo 683/2020) je výrok o zrušení neoddělitelný od výroku o náhradě; soud rozhoduje o obojím současně.
+- *Slabé místo:* „hrubý nepoměr" je neurčitý pojem; bez kvalitního znaleckého posouzení poměru zatížení a výhody hrozí zamítnutí žaloby (viz NS 22 Cdo 1187/2021).
+
+#### H. Praktický závěr
+
+Služebnost zaniká trvalou změnou automaticky jen tehdy, nemůže-li již sloužit; vznikne-li pouze hrubý nepoměr mezi zatížením a výhodou, je nutné domáhat se jejího omezení či zrušení soudem za přiměřenou náhradu, o níž soud rozhodne týmž rozhodnutím.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit, zda jde o nemožnost služebnost vykonávat (odst. 1), nebo o hrubý nepoměr (odst. 2).
+- [ ] U odst. 2 podat žalobu na zrušení/omezení za přiměřenou náhradu.
+- [ ] Doložit trvalou změnu poměrů oproti době vzniku služebnosti.
+- [ ] Zajistit znalecké posouzení nepoměru a výše náhrady.
+- [ ] Po pravomocném zrušení provést výmaz z katastru.
+
+**Typicky rozhodné důkazy / podklady:** zápis služebnosti, doklady o změně poměrů (nová komunikace, změna účelu), znalecký posudek k nepoměru a k náhradě.
+
 ### § 1300 — Smluvní zánik
 
 > (1) Dohodnou-li se strany o zrušení služebnosti zapsané ve veřejném seznamu, zanikne služebnost výmazem z veřejného seznamu.
@@ -779,6 +1833,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *ObS pro Prahu 2* [28 C 85/2023-231](https://rozhodnuti.justice.cz/rozhodnuti/?id=c44d8d32-f22d-404e-b81d-5cefca819661) — *promlčení, smlouva darovací, služebnost, věcná břemena*
 - *OS v Trutnově* [9 C 89/2021](https://rozhodnuti.justice.cz/rozhodnuti/?id=927146e1-560f-48c4-8937-b09d499f1659) — *smlouva darovací, podjatost, změna pohlaví, smlouva kupní, vrácení daru, absolutní majet…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník služebného a oprávněný z pozemkové služebnosti cesty, zapsané v katastru, se dohodnou, že služebnost zruší, protože ji oprávněný již nepotřebuje. Sepíší písemnou dohodu o zrušení. Vlastník se domnívá, že podpisem dohody služebnost ihned zanikla, a začne pozemek oplocovat. Oprávněný však namítá, že do katastru nebyl podán návrh na výmaz. V jiné variantě byla služebnost bytu zřízena s ujednáním, že trvá, dokud vnuk oprávněné nedosáhne 25 let; vnuk však ve 20 letech zemře. Důkazy: zřizovací smlouva, dohoda o zrušení, stav zápisu v katastru, doklad o věku/úmrtí třetí osoby.
+
+**2. Právní otázka.** Kdy zaniká služebnost zapsaná ve veřejném seznamu při dohodě stran o jejím zrušení a má předčasná smrt osoby, na jejíž věk byl vázán zánik služebnosti, vliv na trvání služebnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1300 odst. 1 (dohoda o zrušení zapsané služebnosti → zánik výmazem z veřejného seznamu), § 1300 odst. 2 (lze ujednat zánik vázaný na dosažení věku jiné osoby; dřívější smrt této osoby nemá na trvání vliv).
+- *Související ustanovení téhož zákona:* § 1299 (zánik trvalou změnou), § 1301 (splynutí), § 1302 (zánik osobních služebností), § 977—986 (zásada materiální publicity veřejného seznamu, konstitutivní účinky zápisu).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (vklad, výmaz, řízení o vkladu).
+- *Judikatura:* rozhodnutí citovaná v komentáři (OS v Uherském Hradišti 6 C 12/2024, MS v Praze 12 Co 56/2025, ObS pro Prahu 2 28 C 85/2023, OS v Trutnově 9 C 89/2021) k zániku služebností a smluvním dispozicím.
+
+**4. Subsumpce.** Znak „dohodnou-li se strany o zrušení zapsané služebnosti" je naplněn dohodou. Znak „zanikne výmazem z veřejného seznamu" však znamená, že k zániku dochází až výmazem, nikoli podpisem dohody — dohoda je jen titulem (modus = výmaz). Vlastník proto nemůže pozemek oplotit dříve, než je služebnost vymazána. Ve druhé variantě je naplněn znak „zánik vázaný na dosažení věku jiné osoby"; pravidlo § 1300 odst. 2 in fine stanoví, že dřívější smrt této osoby na trvání služebnosti vliv nemá — služebnost trvá dál (do okamžiku, kdy by osoba věku dosáhla).
+
+**5. Řešení.** U zapsané služebnosti zaniká právo až výmazem z katastru; do té doby služebnost trvá a oprávněný ji může vykonávat. Vlastník musí podat návrh na výmaz a vyčkat jeho provedení. Ve variantě s vázaností na věk třetí osoby trvá služebnost i po předčasné smrti této osoby; nezaniká dříve. Procesně: návrh na výmaz vkladem, případně určovací žaloba o trvání/zániku služebnosti.
+
+**6. Varianty.** (a) Kdyby služebnost nebyla zapsána ve veřejném seznamu (např. movitá věc), zanikla by již účinností dohody, nikoli výmazem. (b) Kdyby si strany neujednaly pravidlo navázané na věk, ale na život třetí osoby, smrt této osoby by služebnost ukončila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dohodou o zrušení služebnost okamžitě zaniká." Neutralizace: u věcí zapsaných ve veřejném seznamu má zápis (a výmaz) konstitutivní účinky — služebnost zaniká teprve výmazem (§ 1300 odst. 1).
+- *Protiargument:* „Smrtí osoby, na jejíž věk byl zánik vázán, služebnost ihned skončí." Neutralizace: § 1300 odst. 2 výslovně stanoví, že dřívější smrt této osoby na trvání služebnosti vliv nemá.
+- *Slabé místo:* mezi uzavřením dohody a výmazem může vzniknout kolizní období; je vhodné ošetřit ve smlouvě i okamžik faktického ukončení výkonu, jinak hrozí spory o užívání v mezidobí.
+
+#### H. Praktický závěr
+
+Zapsaná služebnost zaniká dohodou stran až výmazem z veřejného seznamu; zánik lze ujednat i k dosažení věku jiné osoby, přičemž její předčasná smrt trvání služebnosti neovlivní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uzavřít dohodu o zrušení a podat návrh na výmaz z katastru.
+- [ ] Pamatovat, že u zapsaných služebností nastává zánik teprve výmazem.
+- [ ] U vázanosti na věk třetí osoby ošetřit dopad její případné dřívější smrti (trvání zůstává).
+- [ ] Ošetřit mezidobí mezi dohodou a výmazem (faktický výkon).
+- [ ] Ověřit, zda je služebnost vůbec zapsána (jinak zaniká účinností dohody).
+
+**Typicky rozhodné důkazy / podklady:** zřizovací smlouva, dohoda o zrušení, výpis z katastru o stavu zápisu, doklady o věku/úmrtí rozhodné osoby.
+
 ### § 1301 — Splynutí (confusio)
 
 > Spojením vlastnictví panující a služebné věci v jedné osobě služebnost nezaniká.
@@ -792,6 +1883,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *KS v Českých Budějovicích* [15 Co 215/2025-256](https://rozhodnuti.justice.cz/rozhodnuti/?id=8c81e1dd-4a9b-4aa0-affa-50074697de4d) — *věcné právo k věci cizí, notářský zápis, služebnost, spoluvlastnictví, mimořádné vydržen…*
 - *OS v Liberci* [25 C 64/2022-164](https://rozhodnuti.justice.cz/rozhodnuti/?id=deb87d9b-0537-4eeb-bcf9-66e55f68c882) — *ochrana osobních údajů, smlouva kupní, služebnost, smlouva darovací, odbory, ochrana oso…*
 - *KS v Praze* [21 Co 144/2024-286](https://rozhodnuti.justice.cz/rozhodnuti/?id=00b675fe-9e86-41dc-aecc-103c127f5993) — *věcná břemena, služebnost, stavba nepovolená, smlouva kupní, přednostní právo, právní do…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan R vlastní panující pozemek A, ve prospěch něhož je zřízena služebnost cesty přes služebný pozemek B (vlastník Z). Pan R následně koupí i pozemek B, takže oba pozemky vlastní jedna osoba. Po dvou letech pan R prodá pozemek B třetí osobě. Nový vlastník B tvrdí, že služebnost cesty během doby, kdy pozemky vlastnil jeden subjekt, zanikla splynutím (konfuzí), a brání panujícímu pozemku A v přístupu. Důkazy: zápis služebnosti v katastru, nabývací tituly k oběma pozemkům, doklad o době, kdy byly oba ve vlastnictví pana R, kupní smlouva na pozemek B.
+
+**2. Právní otázka.** Zaniká pozemková služebnost, sejde-li se vlastnictví panující a služebné věci v jedné osobě (splynutí), nebo trvá i nadále?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1301 — spojením vlastnictví panující a služebné věci v jedné osobě služebnost nezaniká.
+- *Související ustanovení téhož zákona:* § 1257 odst. 2 (možnost vlastníka zřídit služebnost k vlastní věci — *servitus in re sua*), § 1300 (smluvní zánik výmazem), § 1299 (zánik trvalou změnou), § 977 a násl. (publicita veřejného seznamu).
+- *Související předpisy:* katastrální zákon (zápis a trvání služebnosti bez ohledu na osobu vlastníka).
+- *Judikatura:* rozhodnutí citovaná v komentáři (KS v Českých Budějovicích 15 Co 215/2025, OS v Liberci 25 C 64/2022, KS v Praze 21 Co 144/2024) k věcným právům k cizí věci a služebnostem; obecně k odklonu od římské/rakouské zásady *nulli res sua servit* při konfuzi.
+
+**4. Subsumpce.** Znak „spojení vlastnictví panující a služebné věci v jedné osobě" je naplněn koupí pozemku B panem R. Právní následek dle § 1301 je však opačný, než dovozuje nový vlastník: služebnost NEZANIKÁ. Po dobu sjednocení vlastnictví služebnost „spí" (vlastník užívá svou věc z titulu vlastnictví), ale formálně trvá a po rozdělení vlastnictví (prodej B) opět plně ožívá ve prospěch pozemku A.
+
+**5. Řešení.** Námitka nového vlastníka B je nedůvodná — služebnost cesty splynutím nezanikla a po prodeji pozemku B nadále zatěžuje pozemek B ve prospěch pozemku A. Pan R (resp. vlastník A) má právo cestu užívat; nový vlastník B se musí zdržet bránění. Procesně: určovací žaloba o existenci služebnosti, případně negatorní ochrana výkonu služebnosti.
+
+**6. Varianty.** (a) Kdyby pan R během sjednoceného vlastnictví služebnost výslovně zrušil dohodou se sebou samým a nechal ji vymazat z katastru (§ 1300), zanikla by výmazem. (b) Kdyby šlo o osobní služebnost a oprávněná osoba nabyla služebnou věc, výsledek by se posuzoval podle § 1302 (zánik smrtí oprávněného), nikoli podle § 1301.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nikdo nemůže mít služebnost na vlastní věci, proto konfuzí zaniká." Neutralizace: § 1301 výslovně prolamuje římskou zásadu *nulli res sua servit*; služebnost trvá a § 1257 odst. 2 dokonce umožňuje zřídit ji k vlastní věci.
+- *Protiargument:* „Po dobu sjednocení vlastnictví služebnost neexistuje." Neutralizace: služebnost trvá (zůstává zapsána); pouze se nevykonává jako věcné právo, neboť vlastník užívá věc z titulu vlastnictví.
+- *Slabé místo:* praxe katastru a evidence může být po sjednocení nepřehledná; je vhodné trvání služebnosti výslovně podchytit, aby po rozdělení nevznikaly spory o její existenci.
+
+#### H. Praktický závěr
+
+Sejde-li se vlastnictví panující a služebné věci v jedné osobě, služebnost podle § 1301 nezaniká; po opětovném rozdělení vlastnictví se její výkon plně obnoví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o pozemkovou služebnost (§ 1301), nebo osobní (§ 1302).
+- [ ] Vycházet z toho, že splynutím vlastnictví služebnost nezaniká.
+- [ ] Zkontrolovat, zda nebyla v době sjednocení zrušena dohodou a vymazána.
+- [ ] Po rozdělení vlastnictví doložit trvání a obnovený výkon služebnosti.
+- [ ] Při převodu služebné věci upozornit nabyvatele na existující zatížení.
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru se zápisem služebnosti, nabývací tituly k oběma věcem, doklad o době sjednocení vlastnictví, převodní smlouva.
 
 ### § 1302 — Osobní služebnosti
 
@@ -809,6 +1937,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *KS v Plzni* [14 CO 182/2023-224](https://rozhodnuti.justice.cz/rozhodnuti/?id=c27cb101-f700-465a-9a94-ed0b13016446) — *peněžité plnění, služebnost, smlouva o úvěru, věcná břemena, výprosa, znalecký posudek*
 - *ObS pro Prahu 10* [26 C 140/2023-52](https://rozhodnuti.justice.cz/rozhodnuti/?id=e7fa2cfe-25fc-4681-9c92-f89b2350490a) — *neplatnost právního jednání, věcná břemena, smlouva darovací, dodávky energie, služebnos…*
 - *KS v Ústí nad Labem* [11 Co 138/2023-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=341a7035-b3ac-4055-9b86-1f0c22677110) — *pozemková služebnost, smlouva darovací, služebnost, věcná břemena, smlouva kupní*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní S má zřízenu doživotní osobní služebnost bytu v domě svého syna. Paní S zemře. V jiné variantě byla osobní služebnost (právo užívat skladovou halu) zřízena ve prospěch obchodní společnosti X, která provozuje v hale svůj závod; společnost X je následně přeměněna fúzí sloučením do společnosti Y, případně prodá závod včetně provozu haly společnosti Z. Vlastník haly tvrdí, že služebnost převodem závodu zanikla. Důkazy: zřizovací listina služebnosti, úmrtní list / doklad o fúzi či převodu závodu, zápis služebnosti v katastru, doklad o tom, že služebnost slouží provozu závodu.
+
+**2. Právní otázka.** Kdy zaniká osobní služebnost u fyzické a u právnické osoby a zaniká služebnost sloužící provozu závodu jeho převodem nebo přechodem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1302 odst. 1 (osobní služebnost zaniká smrtí oprávněné FO; rozšíření na dědice — domněnka zákonných dědiců první třídy; u PO trvá, dokud trvá PO), § 1302 odst. 2 (slouží-li služebnost provozu závodu, nezaniká převodem ani přechodem závodu nebo jeho samostatně provozované části).
+- *Související ustanovení téhož zákona:* § 1635 (zákonní dědicové první třídy), § 1257 (pojem služebnosti), § 1299—1301 (další způsoby zániku), § 502 (závod jako organizovaný soubor).
+- *Související předpisy:* zákon č. 125/2008 Sb. o přeměnách obchodních společností (univerzální sukcese při fúzi); § 2175 a násl. o. z. (koupě závodu).
+- *Judikatura:* rozhodnutí citovaná v komentáři (OS Praha-západ 36 C 174/2024, KS v Plzni 14 Co 182/2023, ObS pro Prahu 10 26 C 140/2023, KS v Ústí nad Labem 11 Co 138/2023) k osobním služebnostem a věcným břemenům.
+
+**4. Subsumpce.** U paní S je naplněn znak „smrt oprávněné osoby" → osobní služebnost zaniká (§ 1302 odst. 1), ledaže byla rozšířena na dědice (pak svědčí zákonným dědicům první třídy). U společnosti X je naplněn znak „služebnost nabytá právnickou osobou trvá, pokud trvá PO"; při fúzi sloučením do Y přechází na nástupnickou osobu univerzální sukcesí (PO nezaniká bez právního nástupce). U převodu závodu je naplněn znak „služebnost slouží provozu závodu" → podle § 1302 odst. 2 nezaniká převodem závodu na Z.
+
+**5. Řešení.** Služebnost paní S zanikla její smrtí (nebyla-li rozšířena na dědice). Služebnost společnosti X při fúzi nezaniká — přechází na nástupnickou společnost Y. Slouží-li služebnost provozu závodu, přetrvává i jeho převod na Z (ochrana operativní kontinuity). Námitka vlastníka haly o zániku převodem závodu je nedůvodná. Procesně: výmaz služebnosti po smrti FO; u PO promítnutí univerzální sukcese / převodu závodu do evidence, případně určovací žaloba o trvání služebnosti.
+
+**6. Varianty.** (a) Kdyby osobní služebnost nesloužila provozu závodu (např. čistě osobní právo užívat byt pro jednatele), převod závodu by ji nezachoval a u FO by skončila smrtí. (b) Kdyby společnost X zanikla bez právního nástupce (likvidací s výmazem), služebnost by zanikla spolu s ní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Osobní služebnost je nepřevoditelná, proto převodem závodu zaniká." Neutralizace: § 1302 odst. 2 výslovně stanoví výjimku — služebnost sloužící provozu závodu jeho převodem nezaniká; jde o zákonem aprobované přetrvání.
+- *Protiargument:* „Smrtí oprávněného služebnost vždy bez dalšího zaniká." Neutralizace: lze ji rozšířit na dědice (§ 1302 odst. 1) — pak trvá ve prospěch zákonných dědiců první třídy.
+- *Slabé místo:* sporné bývá, zda služebnost skutečně „slouží provozu závodu", nebo má ryze osobní účel; je nutné doložit funkční vazbu služebnosti na podnikatelský provoz.
+
+#### H. Praktický závěr
+
+Osobní služebnost fyzické osoby zaniká její smrtí (nebyla-li rozšířena na dědice), u právnické osoby trvá, dokud trvá tato osoba (s přechodem při univerzální sukcesi); slouží-li provozu závodu, nezaniká jeho převodem ani přechodem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda jde o osobní služebnost FO, nebo PO.
+- [ ] U FO zjistit, zda byla služebnost rozšířena na dědice (a na které).
+- [ ] U PO posoudit dopad fúze/přeměny (univerzální sukcese).
+- [ ] Ověřit, zda služebnost slouží provozu závodu (přetrvání při převodu).
+- [ ] Po zániku (smrt FO) zajistit výmaz z veřejného seznamu.
+
+**Typicky rozhodné důkazy / podklady:** zřizovací listina služebnosti, výpis z katastru, úmrtní list nebo doklad o přeměně/převodu závodu, doklad o funkční vazbě služebnosti na provoz závodu.
 
 ---
 
@@ -832,11 +1997,85 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 
 - *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2c0ce28-20eb-48db-a0c6-bc13dc588c4a) — *znalecký posudek*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodiče převedli zemědělskou usedlost na syna a zřídili reálné břemeno výměnku: dočasný vlastník usedlosti (syn a jeho právní nástupci) je povinen rodičům každoročně dodat určité množství obilí, dříví a poskytovat jim drobné služby (dovoz na úřad, zajištění otopu). Reálné břemeno je zapsáno v katastru. Syn po čase usedlost prodá panu T. Pan T odmítá výměnek plnit s tím, že povinnost vznikla synovi, nikoli jemu. Důkazy: smlouva o zřízení reálného břemene výměnku, zápis v katastru, kupní smlouva na usedlost, doklady o tom, které dávky dospěly za vlastnictví syna a které za vlastnictví pana T.
+
+**2. Právní otázka.** Zavazuje reálné břemeno výměnku i nového (dočasného) vlastníka zatížené věci a v čem se liší od pouze obligačního závazku původního vlastníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1303 odst. 1 — věc zapsaná do veřejného seznamu může být zatížena reálným břemenem tak, že dočasný vlastník je jako dlužník zavázán oprávněnému něco dávat nebo konat.
+- *Související ustanovení téhož zákona:* § 1304 (časově neomezené reálné břemeno jen jako vykupitelné), § 1306 (ručení za opakovaná plnění — předchozí i současný vlastník), § 1307 (ochrana hodnoty věci), § 1308 (zánik obdobně jako služebnosti), § 2707 a násl. (výměnek jako smluvní typ).
+- *Související předpisy:* katastrální zákon (zápis reálného břemene); § 1247 (stavební plat jako reálné břemeno).
+- *Judikatura:* rozhodnutí citované v komentáři (KS v Praze 26 Co 100/2022) k reálným břemenům; obecně judikatura k odlišení reálného břemene (aktivní povinnost vázaná na vlastnictví) od služebnosti (pasivní povinnost).
+
+**4. Subsumpce.** Znak „věc zapsaná do veřejného seznamu" je splněn (usedlost v katastru). Znak „dočasný vlastník je jako dlužník zavázán něco dávat nebo konat" je naplněn — povinnost dodávat obilí a dříví (*dare*) a poskytovat služby (*facere*) přechází na každého dočasného vlastníka, tedy i na pana T. Reálné břemeno má věcněprávní (nikoli pouze obligační) povahu, proto váže nabyvatele zatížené věci.
+
+**5. Řešení.** Pan T jako nový vlastník usedlosti je povinen výměnek plnit po dobu svého vlastnictví; jde o reálné břemeno váznoucí na věci, nikoli o osobní dluh syna. Za dávky dospělé před převodem lze podle § 1306 žádat plnění jak po synovi (za jehož vlastnictví dospěly), tak po panu T (avšak po něm jen z věci samé). Procesně: výzva k plnění výměnku, případně žaloba na plnění; u dlužných dávek aplikace § 1306.
+
+**6. Varianty.** (a) Kdyby povinnost byla sjednána jen jako osobní (obligační) závazek syna bez zápisu reálného břemene, pana T by nezavazovala. (b) Kdyby šlo o věc nezapisovanou do veřejného seznamu, reálné břemeno by vůbec nemohlo vzniknout (§ 1303 vyžaduje zápis).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Povinnost z výměnku vznikla převodci, nového vlastníka netíží." Neutralizace: reálné břemeno zavazuje „dočasného vlastníka" věci (§ 1303 odst. 1) — má věcněprávní povahu a přechází na každého nabyvatele zatížené věci.
+- *Protiargument:* „Reálné břemeno lze zřídit i k movité věci jako služebnost." Neutralizace: § 1303 výslovně omezuje reálné břemeno na věci zapsané do veřejného seznamu.
+- *Slabé místo:* rozsah a obsah dávek (zejména služeb) musí být ze zápisu dostatečně určitý; neurčité vymezení plnění oslabuje vymahatelnost vůči novému vlastníkovi.
+
+#### H. Praktický závěr
+
+Reálné břemeno zakládá aktivní povinnost dočasného vlastníka zapsané věci něco dávat nebo konat a jako věcné právo zavazuje každého nabyvatele zatížené věci; lze je zřídit jen k věcem zapsaným do veřejného seznamu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že zatížená věc je zapsána do veřejného seznamu.
+- [ ] Zkontrolovat zápis reálného břemene a určitost vymezení plnění (dare/facere).
+- [ ] Vůči novému vlastníkovi uplatnit plnění za dobu jeho vlastnictví.
+- [ ] U dlužných dávek aplikovat ručení podle § 1306 (předchozí i současný vlastník).
+- [ ] Odlišit reálné břemeno (věcné, váznoucí na věci) od pouhého obligačního závazku.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení reálného břemene, výpis z katastru, převodní smlouva, doklady o dospělosti jednotlivých dávek.
+
 ### § 1304 — Časový limit
 
 > Časově neomezené reálné břemeno může být zřízeno jen jako vykupitelné a podmínky výkupu musí být předem určeny již při zřízení reálného břemene.
 
 **Časově neomezené** reálné břemeno **musí být vykupitelné** (předem určené podmínky výkupu). Důvod: zabránění perpetuálnímu zatížení (anti-feudální klauzule).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku zřídil ve prospěch sousední obce reálné břemeno spočívající v trvalé povinnosti dočasného vlastníka pozemku každoročně platit obci 12 000 Kč jako příspěvek na údržbu místní komunikace. Reálné břemeno bylo sjednáno jako „časově neomezené" a zapsáno do katastru, avšak ve smlouvě nebyly určeny žádné podmínky výkupu. Nový vlastník pozemku chce břemeno vykoupit a zbavit se trvalé platební povinnosti; obec namítá, že výkup nebyl sjednán, a brání mu. Důkazy: smlouva o zřízení reálného břemene, zápis v katastru, text smlouvy ohledně (ne)sjednání podmínek výkupu.
+
+**2. Právní otázka.** Je platné a účinné časově neomezené reálné břemeno, u něhož nebyly při zřízení předem určeny podmínky výkupu (vykupitelnost)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1304 — časově neomezené reálné břemeno může být zřízeno jen jako vykupitelné a podmínky výkupu musí být určeny již při jeho zřízení.
+- *Související ustanovení téhož zákona:* § 1303 (pojem reálného břemene), § 1305 (vznik zápisem), § 1308 (zánik obdobně jako služebnosti), § 580 a § 588 (neplatnost právního jednání odporujícího zákonu/dobrým mravům).
+- *Související předpisy:* katastrální zákon (zápis a náležitosti vkladu); historicky zákaz feudálních trvalých dávek.
+- *Judikatura:* obecně judikatura k požadavku určitosti a k anti-feudálnímu smyslu vykupitelnosti trvalých břemen; rozhodnutí k reálným břemenům citovaná u § 1303 a § 1305—1308.
+
+**4. Subsumpce.** Znak „časově neomezené reálné břemeno" je naplněn (trvalá platební povinnost bez časového omezení). Znak „musí být zřízeno jen jako vykupitelné s předem určenými podmínkami výkupu" naplněn NENÍ — podmínky výkupu chybí. Reálné břemeno tak bylo zřízeno v rozporu s kogentním pravidlem § 1304, což zakládá vadu (zpravidla neplatnost ujednání o časové neomezenosti, popř. nutnost doplnit vykupitelnost).
+
+**5. Řešení.** Časově neomezené reálné břemeno bez sjednané vykupitelnosti odporuje § 1304. Důsledkem je vada zřízení: buď je třeba vyložit ujednání tak, aby bylo vykupitelné (a doplnit přiměřené podmínky výkupu), anebo je ujednání o časové neomezenosti neplatné. Nový vlastník se může domáhat určení vykupitelnosti, resp. soudního stanovení podmínek výkupu, a poté břemeno vykoupit. Procesně: určovací žaloba / žaloba na stanovení podmínek výkupu, případně návrh na výmaz po výkupu.
+
+**6. Varianty.** (a) Kdyby strany při zřízení sjednaly konkrétní podmínky výkupu (výkupní cena, postup), břemeno by bylo bezvadné a nový vlastník by je vykoupil dle ujednání. (b) Kdyby bylo břemeno zřízeno na dobu určitou, požadavek vykupitelnosti by se neuplatnil (§ 1304 dopadá jen na časově neomezená břemena).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strany si mohou sjednat trvalou dávku bez možnosti výkupu — smluvní volnost." Neutralizace: § 1304 je projevem anti-feudálního omezení; trvalé reálné břemeno musí být vykupitelné, jinak odporuje zákonu.
+- *Protiargument:* „Chybějící podmínky výkupu lze doplnit kdykoli později." Neutralizace: § 1304 vyžaduje určení podmínek „již při zřízení"; dodatečné doplnění je problematické a zakládá nejistotu o platnosti.
+- *Slabé místo:* následek porušení § 1304 (neplatnost celého břemene × jen ujednání o neomezenosti × konverze na vykupitelné) není v textu jednoznačně řešen; výsledek závisí na výkladu soudu.
+
+#### H. Praktický závěr
+
+Časově neomezené reálné břemeno musí být již při zřízení sjednáno jako vykupitelné s předem určenými podmínkami výkupu; absence vykupitelnosti zakládá vadu a riziko neplatnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda je reálné břemeno časově omezené, nebo neomezené.
+- [ ] U časově neomezeného ověřit sjednání vykupitelnosti a podmínek výkupu.
+- [ ] Podmínky výkupu vymezit již při zřízení (cena, postup, lhůty).
+- [ ] Při absenci vykupitelnosti zvážit určovací žalobu / stanovení podmínek výkupu soudem.
+- [ ] Po výkupu zajistit výmaz reálného břemene z katastru.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení reálného břemene, výpis z katastru, text smlouvy k podmínkám výkupu.
 
 ### § 1305—1308 — Vznik, ručení, ochrana, zánik
 
@@ -864,6 +2103,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *OS Praha-východ* [7 C 153/2023-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=ed71fbcd-e9b8-491e-9e9a-57c0ec2cfd3b) — *vyklizení nemovitosti*
 - *KS v Praze* [26 Co 100/2022-349](https://rozhodnuti.justice.cz/rozhodnuti/?id=b2c0ce28-20eb-48db-a0c6-bc13dc588c4a) — *znalecký posudek*
 - *OS v Mladé Boleslavi* [16 C 123/2019-338](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cdb45b5-738a-4be6-b68d-1b84709501d5) — *peněžité plnění, převod vlastnictví, smlouva kupní, smlouva o úschově, smlouva o zápůjčc…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan V zřídil ve prospěch své matky reálné břemeno spočívající v měsíční peněžní rentě 5 000 Kč, zapsané v katastru na jeho domě. Po roce pan V dům prodá paní K. V době převodu jsou nezaplaceny tři měsíční dávky (15 000 Kč). Paní K poté začne dům stavebně upravovat tak, že jeho hodnota klesá a hrozí, že nebude stačit k zajištění renty. Matka se domáhá zaplacení dlužných i budoucích dávek a ochrany před znehodnocením domu. Důkazy: smlouva o zřízení reálného břemene, zápis v katastru, kupní smlouva, doklady o dospělých a nezaplacených dávkách, posudek o poklesu hodnoty domu v důsledku úprav.
+
+**2. Právní otázka.** Po kom lze požadovat dlužné opakované dávky z reálného břemene a jakou ochranu má oprávněný, klesá-li hodnota zatížené věci pod úroveň nutnou k zajištění břemene?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1305 (vznik reálného břemene zápisem do veřejného seznamu), § 1306 (dlužnou dávku lze požadovat po vlastníku, za jehož vlastnictví dospěla, i po současném vlastníku, avšak po něm jen z věci zatížené), § 1307 (vlastník se zdrží zhoršení věci; při nedostatečnosti napraví stav jistotou nebo jinak), § 1308 (zánik obdobně jako u služebností).
+- *Související ustanovení téhož zákona:* § 1303—1304 (pojem a vykupitelnost reálného břemene), § 1299—1302 (zánik služebností — obdobně), § 2900 (prevenční povinnost).
+- *Související předpisy:* katastrální zákon (zápis, konstitutivní účinek); § 2707 a násl. (výměnek, je-li dávka výměnkem).
+- *Judikatura:* rozhodnutí citovaná v komentáři (OS Praha-východ 7 C 153/2023, KS v Praze 26 Co 100/2022, OS v Mladé Boleslavi 16 C 123/2019) k reálným břemenům a peněžitým plněním.
+
+**4. Subsumpce.** Znak „vznik zápisem" je splněn (břemeno zapsáno). U dlužných dávek je naplněn znak § 1306: tři dospělé dávky dospěly za vlastnictví pana V, lze je proto požadovat po něm (osobně), zároveň po paní K, ale po ní pouze „z věci zatížené". Znak § 1307 odst. 1 „vlastník se zdrží zhoršení věci" je porušen úpravami paní K; je-li věc nedostatečná, musí stav napravit (jistota nebo jinak), aby oprávněná neutrpěla újmu.
+
+**5. Řešení.** Matka může dlužných 15 000 Kč požadovat po panu V osobně (dávky dospěly za jeho vlastnictví) a vůči paní K s omezením na uspokojení z věci. Budoucí dávky tíží paní K jako dočasnou vlastnici. Proti znehodnocení domu se matka může bránit nárokem podle § 1307 (požadovat zdržení se zhoršování a složení jistoty). Procesně: žaloba na plnění dlužných dávek (s rozlišením osobní a věcné odpovědnosti), nárok na jistotu dle § 1307 odst. 2.
+
+**6. Varianty.** (a) Kdyby žádné dávky před převodem nedospěly, paní K by odpovídala jen za dávky dospělé za jejího vlastnictví. (b) Kdyby pokles hodnoty nebyl zaviněn vlastníkem, ale projevil se jako dříve skrytý nedostatek, § 1307 odst. 2 přesto ukládá nápravu (jistotou), aby oprávněná neutrpěla újmu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za dlužné dávky odpovídá výhradně nový vlastník." Neutralizace: § 1306 umožňuje požadovat dlužnou dávku i po vlastníku, za jehož vlastnictví dospěla (osobně), nikoli jen po současném vlastníkovi.
+- *Protiargument:* „Nový vlastník ručí za dlužné dávky celým svým majetkem." Neutralizace: po současném vlastníku lze dlužné dávky žádat pouze „z věci reálným břemenem zatížené" (§ 1306) — jeho odpovědnost je věcně omezená.
+- *Slabé místo:* prokázání zaviněného zhoršení věci a hrozící nedostatečnosti k zajištění břemene je skutkově náročné; bez znaleckého posouzení hrozí neúspěch nároku na jistotu.
+
+#### H. Praktický závěr
+
+Reálné břemeno vzniká zápisem; dlužné opakované dávky lze vymáhat po předchozím vlastníku osobně a po současném vlastníku jen z věci, přičemž oprávněný je chráněn proti znehodnocení věci nárokem na jistotu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis reálného břemene (konstitutivní vznik dle § 1305).
+- [ ] U dlužných dávek rozlišit osobní odpovědnost předchozího vlastníka a věcnou odpovědnost současného (§ 1306).
+- [ ] Při znehodnocení věci uplatnit nárok na zdržení se a na jistotu (§ 1307).
+- [ ] Zánik posuzovat obdobně jako u služebností (§ 1308, § 1299—1302).
+- [ ] Doložit dospělost jednotlivých dávek a okamžik převodu vlastnictví.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zřízení reálného břemene, výpis z katastru, převodní smlouva, evidence dospělých a nezaplacených dávek, posudek o hodnotě a stavu zatížené věci.
 
 ---
 
@@ -903,6 +2179,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
   > „Podle ustanovení § 1309 odst. 1 o. z. při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka poskytla panu D úvěr 3 000 000 Kč na koupi bytu; k zajištění byl ve prospěch banky zřízen zástavní právo k tomuto bytu, zapsané v katastru. Pan D úvěr přestane splácet a dluží 2 200 000 Kč s příslušenstvím. Banka chce uspokojit svou pohledávku zpeněžením bytu. Mezitím pan D byt prodá třetí osobě a tvrdí, že zástavní právo prodejem zaniklo; jiný věřitel pana D (s pozdějším zástavním právem) namítá, že má být uspokojen rovným dílem. Důkazy: úvěrová a zástavní smlouva, výpis z katastru se zápisem zástavního práva a jeho pořadím, doklad o výši dluhu ke dni zpeněžení, kupní smlouva na byt.
+
+**2. Právní otázka.** Jaká oprávnění zakládá zástavní právo zástavnímu věřiteli při prodlení dlužníka, do jaké výše se může uspokojit a působí zástavní právo i vůči nabyvateli zastavené věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1309 odst. 1 — nesplní-li dlužník dluh řádně a včas, vznikne věřiteli oprávnění uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, jinak do výše pohledávky s příslušenstvím ke dni zpeněžení.
+- *Související ustanovení téhož zákona:* § 1310—1311 (předmět a zajištěný dluh), § 1316 (vznik zápisem do katastru), § 1359 a násl. (zpeněžení zástavy), § 1376 (akcesorita), § 1107 (přechod závad na nabyvatele).
+- *Související předpisy:* katastrální zákon (pořadí podle okamžiku zápisu — *prior tempore potior iure*); insolvenční zákon č. 182/2006 Sb. (postavení zajištěného věřitele).
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 21 Cdo 2694/2025, 21 Cdo 1014/2021, 21 Cdo 5983/2017, 21 Cdo 1304/2023, 21 Cdo 1761/2024, 21 ICdo 11/2025 (výklad § 1309 odst. 1 a rozsahu uspokojení).
+
+**4. Subsumpce.** Znak „dlužník nesplnil řádně a včas" je naplněn (prodlení 2 200 000 Kč). Znak „uspokojit se z výtěžku zpeněžení do výše pohledávky s příslušenstvím ke dni zpeněžení" určuje rozsah — banka se uspokojí do aktuální výše dluhu k tomuto dni. Znak *ius sequelae* (sledování věci) znamená, že prodej bytu zástavní právo neruší — působí i vůči nabyvateli. Pořadí vůči druhému věřiteli se řídí okamžikem zápisu (přednost dřívějšího zápisu), nikoli rovným dílem.
+
+**5. Řešení.** Banka má realizační právo (*ius distrahendi*) — po prodlení může byt zpeněžit a uspokojit se přednostně do výše pohledávky s příslušenstvím ke dni zpeněžení. Prodej bytu třetí osobě zástavní právo nezrušil (sleduje věc). Druhý věřitel se uspokojí až po bance podle pořadí zápisu. Procesně: výkon zástavního práva (soudní prodej / veřejná dražba / smluvený způsob dle § 1359 a násl.).
+
+**6. Varianty.** (a) Kdyby byla ujednána určitá výše uspokojení (limit), banka by se uspokojila jen do tohoto limitu, byť by dluh byl vyšší. (b) Kdyby zákaz zatížení byl zapsán v katastru před vznikem zástavního práva, mělo by to účinky vůči třetím osobám a mohlo by vznik zástavy zmařit (§ 1309 in fine — zápis zákazu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Prodejem zastavené věci zástavní právo zaniká." Neutralizace: zástavní právo sleduje věc (*ius sequelae*) a působí i vůči nabyvateli; zaniká až uspokojením, zánikem pohledávky či výmazem, nikoli pouhým převodem.
+- *Protiargument:* „Více zástavních věřitelů se uspokojuje poměrně." Neutralizace: rozhoduje pořadí podle okamžiku zápisu (*prior tempore potior iure*), nikoli rovný díl.
+- *Slabé místo:* výše uspokojení je vázána ke „dni zpeněžení"; sporné může být přesné vyčíslení příslušenství k tomuto dni a okamžik zpeněžení.
+
+#### H. Praktický závěr
+
+Zástavní právo dává věřiteli při prodlení dlužníka přednostní právo uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, jinak do výše pohledávky s příslušenstvím ke dni zpeněžení, a to i vůči nabyvateli zastavené věci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit vznik a pořadí zástavního práva v katastru/rejstříku zástav.
+- [ ] Zjistit, zda byla ujednána určitá výše uspokojení, nebo platí výše pohledávky ke dni zpeněžení.
+- [ ] Vyčíslit pohledávku s příslušenstvím ke dni zpeněžení.
+- [ ] Pamatovat na sledování věci (zástava působí i vůči nabyvateli).
+- [ ] Respektovat pořadí více zástavních věřitelů dle okamžiku zápisu.
+
+**Typicky rozhodné důkazy / podklady:** úvěrová a zástavní smlouva, výpis z katastru s pořadím zástav, vyčíslení dluhu ke dni zpeněžení, případná kupní smlouva na zastavenou věc.
+
 ### § 1310 — Zástava (předmět)
 
 > (1) Zástavou může být každá věc, s níž lze obchodovat.
@@ -923,6 +2236,43 @@ Zápis v katastru: zánik **výmazem**. **Lze ujednat zánik vázaný na věk t�
 - *OS v Rokycanech* [6 C 54/2021-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=84ce47e7-d13d-4a7c-89f2-63b064e95815) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru, zástavní právo*
 - *KS v Hradci Králové, pobočka Pardubice* [27 Co 204/2024-326](https://rozhodnuti.justice.cz/rozhodnuti/?id=b28882f9-a797-47f5-879e-900b0894005a) — *odvolání, dokazování, vydání věci, zadržovací právo, odstoupení od smlouvy, podnikatel,…*
 - *OS v Pardubicích* [11 C 35/2022-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f210b1c-03da-492c-b1de-9f4a05fcb157) — *notářský zápis, peněžité plnění, postoupení pohledávky, smlouva o úvěru, smlouva zástavn…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Developer financuje výstavbu bytového domu a sjedná s bankou úvěr; k zajištění chce bance dát do zástavy nejen pozemek, který už vlastní, ale i bytové jednotky, které teprve vzniknou rozdělením budoucí stavby na jednotky (developer k nim dosud nemá vlastnické právo). Banka uzavře zástavní smlouvu zahrnující i tyto budoucí věci. Po dokončení a vkladu jednotek developer tvrdí, že k jednotkám zástavní právo nevzniklo, protože v době smlouvy je nevlastnil. Důkazy: zástavní smlouva s vymezením budoucích jednotek, stavební dokumentace, doklady o vzniku jednotek a o nabytí vlastnictví developerem, zápis v katastru.
+
+**2. Právní otázka.** Lze platně zřídit zástavní právo k věci, k níž zástavnímu dlužníku vznikne vlastnické právo teprve v budoucnu, a kdy takové zástavní právo vznikne?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1310 odst. 1 (zástavou může být každá věc, s níž lze obchodovat), § 1310 odst. 2 (zástavní právo lze zřídit i k věci, k níž zástavnímu dlužníku vznikne vlastnické právo teprve v budoucnu).
+- *Související ustanovení téhož zákona:* § 1316 (vznik zástavního práva k věci v katastru zápisem), § 1311 (zajištěný dluh, i budoucí), § 1312 (zástavní smlouva), § 489—493 (pojem věci), § 1118 (jednotka).
+- *Související předpisy:* katastrální zákon (zápis a okamžik vzniku); zákon o vlastnictví bytů / § 1158 a násl. o. z. (bytové jednotky).
+- *Judikatura:* rozhodnutí citovaná u § 1316 (NS 21 Cdo 2576/2019 — předpoklady vzniku zástavního práva se zkoumají ke dni vzniku, tj. zápisu, nejen ke dni zástavní smlouvy); k zastavení budoucí věci.
+
+**4. Subsumpce.** Znak „věc, s níž lze obchodovat" je u bytových jednotek splněn. Znak „věc, k níž vznikne vlastnické právo teprve v budoucnu" (§ 1310 odst. 2) je rovněž naplněn — budoucí jednotky lze zastavit. Zástavní smlouva je platným titulem; samotné zástavní právo však vznikne až zápisem do katastru poté, co jednotky vzniknou a developer k nim nabude vlastnictví (§ 1316; srov. NS 21 Cdo 2576/2019).
+
+**5. Řešení.** Námitka developera je nedůvodná: zástavu lze platně sjednat i k budoucím věcem. Zástavní právo k jednotkám vznikne okamžikem zápisu do katastru po jejich vzniku a po nabytí vlastnictví developerem. Banka by měla zajistit, aby k zápisu skutečně došlo. Procesně: vklad zástavního práva k nově vzniklým jednotkám; případně určovací žaloba o existenci zástavního práva.
+
+**6. Varianty.** (a) Kdyby šlo o věc vyňatou z obchodu (veřejný statek mimo obchod, lidské tělo), zástavu by zřídit nešlo (§ 1310 odst. 1). (b) Kdyby developer vlastnictví k jednotkám nikdy nenabyl (projekt se nerealizoval), zástavní právo by nevzniklo, byť smlouva byla platná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „K věci, kterou dlužník nevlastní, nelze zřídit zástavní právo." Neutralizace: § 1310 odst. 2 výslovně připouští zastavení budoucí věci; zástavní právo pak „nabíhá" se vznikem vlastnictví a se zápisem.
+- *Protiargument:* „Zástavní smlouvou zástavní právo k budoucí věci ihned vzniká." Neutralizace: u věcí v katastru vzniká zástavní právo až zápisem (§ 1316); smlouva je jen titulem, předpoklady se zkoumají i ke dni vzniku (NS 21 Cdo 2576/2019).
+- *Slabé místo:* riziko, že vlastnictví dlužník nenabude nebo nedojde k zápisu; banka by měla mít smluvní mechanismy zajišťující dotažení zápisu zástavy k budoucím věcem.
+
+#### H. Praktický závěr
+
+Zástavou může být každá obchodovatelná věc, včetně věci budoucí; u věci budoucí je zástavní smlouva platným titulem, avšak zástavní právo vznikne až nabytím vlastnictví dlužníkem a (u věcí v katastru) zápisem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že předmět zástavy je obchodovatelná věc (není vyňat z obchodu).
+- [ ] U budoucí věci přesně vymezit zástavu tak, aby ji bylo možné identifikovat.
+- [ ] Zajistit zápis zástavního práva po vzniku věci a nabytí vlastnictví dlužníkem.
+- [ ] Pamatovat, že předpoklady vzniku se zkoumají i ke dni zápisu (§ 1316).
+- [ ] Smluvně ošetřit součinnost dlužníka při dotažení zápisu.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva s vymezením (i budoucí) zástavy, stavební/projektová dokumentace, doklady o vzniku věci a nabytí vlastnictví, výpis z katastru.
 
 ### § 1311 — Zajištěný dluh
 
@@ -947,6 +2297,43 @@ Lze zajistit **jakýkoliv dluh**:
   > „Podle ustanovení § 1311 odst. 1 o. z. lze zástavním právem zajistit dluh o určité výši nebo dluh, jehož výši lze určit kdykoli v době trvání zástavního práva."
 - *NS* [29 ICdo 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9314023D1BC53F52C12587B5001B8CCB?openDocument) — *Zástavní právo Zástavní právo (o. z.) Výklad právních jednání (o. z.) [ Právní jednání (…*
   > „Na výše uvedeném základě insolvenční soud – vycházeje z ustanovení § 1311 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“) – dospěl k závěru, že v zástavní smlouvě „nebyla sjednána určitá doba, po níž mají zajišťované dluhy vznikat“, přičemž „takovou dobou“ nemůže být určení výše pohledávek."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka poskytuje firmě F kontokorentní (revolvingový) úvěrový rámec, z něhož firma průběžně čerpá a splácí; výše dluhu se v čase mění. K zajištění všech pohledávek z tohoto rámce zřídí firma ve prospěch banky zástavní právo k nemovitosti s tím, že se zajišťuje jistina do nejvyšší výše 5 000 000 Kč. Po čase firma namítá, že zástavní právo je neplatné, protože v době jeho zřízení nebyla výše dluhu pevně určena a část zajištěných dluhů teprve měla vzniknout. Důkazy: zástavní smlouva s vymezením zajištěných dluhů a nejvyšší výše jistiny, smlouva o úvěrovém rámci, výpisy o čerpání a splácení, zápis v katastru.
+
+**2. Právní otázka.** Lze zástavním právem zajistit dluh, jehož výše není při zřízení pevně určena, dluh budoucí či podmíněný a více dluhů z téhož právního důvodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1311 odst. 1 (lze zajistit dluh o určité výši nebo dluh, jehož výši lze určit kdykoli v době trvání zástavního práva; peněžitý i nepeněžitý, podmíněný i budoucí), § 1311 odst. 2 (lze zajistit i dluhy určitého druhu vznikající v určité době nebo různé dluhy z téhož právního důvodu).
+- *Související ustanovení téhož zákona:* § 1312 odst. 1 (u nedospělého/více dluhů postačí ujednat nejvyšší výši jistiny zajištění), § 1309 (rozsah uspokojení), § 1313 (zajištění příslušenství a smluvní pokuty).
+- *Související předpisy:* katastrální zákon (vklad zástavního práva a vymezení zajištěných dluhů); insolvenční zákon (rozsah zajištění).
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 24 Cdo 1382/2021 (u dluhů určených dle druhu je třeba určit i dobu jejich vzniku), NS 21 Cdo 2694/2025, 21 Cdo 1014/2021, NS 29 ICdo 100/2019 (požadavky na určení doby vzniku zajišťovaných dluhů).
+
+**4. Subsumpce.** Znak „dluh, jehož výši lze určit kdykoli v době trvání zástavního práva” je naplněn revolvingovým rámcem s pohyblivým zůstatkem (§ 1311 odst. 1). Znak „různé dluhy z téhož právního důvodu” je naplněn pohledávkami z jediného úvěrového rámce (§ 1311 odst. 2). U dluhů určených „dle druhu” však judikatura (NS 24 Cdo 1382/2021, 29 ICdo 100/2019) vyžaduje i určení doby, ve které mají dluhy vzniknout — to je třeba ve smlouvě ošetřit, jinak hrozí neurčitost.
+
+**5. Řešení.** Zajištění pohyblivého a budoucího dluhu z úvěrového rámce do nejvyšší výše jistiny je přípustné a platné, je-li dostatečně vymezen okruh zajištěných dluhů (a u dluhů dle druhu i doba jejich vzniku). Námitka firmy o neplatnosti pro neurčitou výši je nedůvodná, pokud je sjednán limit jistiny (§ 1312 odst. 1). Procesně: kontrola určitosti vymezení; při sporu o existenci zajištění určovací žaloba.
+
+**6. Varianty.** (a) Kdyby smlouva u dluhů určených dle druhu neurčila dobu jejich vzniku, hrozí závěr o neurčitosti a neplatnosti zajištění (NS 24 Cdo 1382/2021). (b) Kdyby šlo o jediný pevně určený dluh, postačilo by jej jednoduše označit bez nutnosti limitu jistiny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zástavou nelze zajistit dluh, jehož výše není při zřízení pevně známa.” Neutralizace: § 1311 odst. 1 výslovně připouští dluh, jehož výši lze určit kdykoli v době trvání zástavního práva, postačí ujednat nejvyšší výši jistiny (§ 1312 odst. 1).
+- *Protiargument:* „Stačí obecně odkázat na ‚všechny budoucí dluhy‘ dlužníka.” Neutralizace: judikatura vyžaduje určitost okruhu a u dluhů dle druhu i určení doby vzniku (NS 29 ICdo 100/2019); příliš obecné vymezení je neplatné.
+- *Slabé místo:* hranice mezi přípustným rámcovým zajištěním a neurčitým vymezením je tenká; chybné určení doby/okruhu zajišťovaných dluhů může zneplatnit celé zajištění.
+
+#### H. Praktický závěr
+
+Zástavním právem lze zajistit i dluh s proměnlivou výší, dluh budoucí, podmíněný i více dluhů z téhož právního důvodu; podmínkou je dostatečně určité vymezení okruhu zajištěných dluhů a u dluhů dle druhu i doby jejich vzniku, popřípadě nejvyšší výše jistiny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit okruh zajištěných dluhů dostatečně určitě.
+- [ ] U nedospělého nebo více dluhů sjednat nejvyšší výši jistiny (§ 1312 odst. 1).
+- [ ] U dluhů určených dle druhu určit i dobu jejich vzniku (NS 24 Cdo 1382/2021).
+- [ ] Ošetřit zajištění příslušenství, případně smluvní pokuty (§ 1313).
+- [ ] Promítnout vymezení zajištěných dluhů do vkladu v katastru.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva s vymezením zajištěných dluhů a limitem jistiny, úvěrová smlouva (rámec), výpisy o čerpání a splácení, výpis z katastru.
 
 ---
 
@@ -1023,6 +2410,43 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
   > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan P si půjčil od soukromého věřitele V 500 000 Kč. K zajištění uzavřeli zástavní smlouvu k automobilu pana P, který zůstal v jeho držení (nebyl věřiteli odevzdán). Smlouva obsahuje ujednání, že (a) pan P nesmí dluh vyplatit dříve než za pět let a (b) nesplní-li včas, věřitel si automobil bez dalšího ponechá v hodnotě, kterou sám určí. Pan P je spotřebitel. Po prodlení si věřitel chce automobil ponechat za jím stanovenou cenu. Důkazy: zástavní smlouva a její forma, doklad o tom, že věc nebyla odevzdána, postavení pana P jako spotřebitele, ocenění automobilu.
+
+**2. Právní otázka.** Jakou formu vyžaduje zástavní smlouva k neodevzdané movité věci a jsou platná ujednání zakazující výplatu zástavy a umožňující věřiteli ponechat si zástavu za jím určenou cenu (lex commissoria)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1312 (obsah zástavní smlouvy), § 1313 (rozsah zajištění — jistina, příslušenství, smluvní pokuta jen při ujednání), § 1314 (forma — písemná u neodevzdané movité věci; veřejná listina u závodu/hromadné věci, nemovitosti mimo katastr, movité věci do rejstříku zástav), § 1315 (zakázaná ujednání — zákaz výplaty, propadná zástava před splatností, braní plodů; zvláštní ochrana spotřebitele a malého/středního podnikatele).
+- *Související ustanovení téhož zákona:* § 1317—1319 (vznik zástavního práva), § 580 a § 588 (neplatnost pro rozpor se zákonem/dobrými mravy), § 1359 a násl. (zpeněžení).
+- *Související předpisy:* zákon o spotřebitelském úvěru č. 257/2016 Sb.; notářský řád (veřejná listina, rejstřík zástav).
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 24 Cdo 1382/2021 (§ 1312 odst. 2 — určení zástavy), NS 29 NSCR 113/2022 (hromadná věc — sklad zboží, přemístění nezpůsobí zánik), NS 21 Cdo 2694/2025 a 21 Cdo 1014/2021 (zřízení zástavního práva smlouvou); k zákazu lex commissoria.
+
+**4. Subsumpce.** Znak „movitá věc jako zástava neodevzdaná" je naplněn → vyžaduje se písemná forma (§ 1314 odst. 1). Ujednání (a) „zákaz výplaty zástavy" je naplněním skutkové podstaty § 1315 odst. 1 → zakázané. Ujednání (b) „věřitel si zástavu za libovolnou/jím určenou cenu ponechá" před splatností je naplněním § 1315 odst. 2 písm. b) → zakázané; navíc u spotřebitele se k takovému ujednání nepřihlíží kdykoli, tj. i po splatnosti (§ 1315 odst. 3).
+
+**5. Řešení.** Zástavní smlouva k neodevzdanému automobilu vyžaduje písemnou formu. Ujednání o zákazu výplaty i o propadnutí zástavy věřiteli za jím určenou cenu jsou zakázaná a neúčinná; u spotřebitele se k propadné klauzuli nepřihlíží ani po splatnosti. Věřitel se nemůže automobilu zmocnit a ponechat si jej za vlastní cenu — musí postupovat zákonným zpeněžením a vydat případný přebytek. Procesně: výkon zástavního práva zpeněžením (§ 1359 a násl.), nikoli propadnutím.
+
+**6. Varianty.** (a) Kdyby byl automobil věřiteli odevzdán, písemná forma by se nevyžadovala (§ 1314 odst. 1 a contrario). (b) Kdyby propadná dohoda byla uzavřena až po dospělosti dluhu a dlužník nebyl spotřebitelem ani malým/středním podnikatelem, mohla by být přípustná (§ 1315 odst. 2 dopadá na dobu před dospělostí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Strany si mohou svobodně sjednat propadnutí zástavy věřiteli." Neutralizace: § 1315 odst. 2 zakazuje před splatností ujednání o zpeněžení libovolným způsobem či ponechání zástavy za libovolnou cenu; u spotřebitele se nepřihlíží kdykoli (odst. 3).
+- *Protiargument:* „Ústní zástavní smlouva k autu postačí." Neutralizace: u neodevzdané movité věci § 1314 odst. 1 vyžaduje písemnou formu; bez ní zástavní právo platně nevznikne.
+- *Slabé místo:* posouzení, zda je dlužník spotřebitelem či malým/středním podnikatelem, je skutkové; na něm závisí rozsah ochrany podle § 1315 odst. 3.
+
+#### H. Praktický závěr
+
+Zástavní smlouva má zákonem stanovené formální náležitosti (písemná forma u neodevzdané movité věci, veřejná listina v dalších případech) a nesmí obsahovat zakázané klauzule typu lex commissoria; spotřebitel a malý/střední podnikatel jsou před propadnými ujednáními chráněni i po splatnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit v zástavní smlouvě zástavu a zajištěný dluh (§ 1312).
+- [ ] Dodržet předepsanou formu dle § 1314 (písemná / veřejná listina).
+- [ ] Vyloučit zakázaná ujednání podle § 1315 (zákaz výplaty, propadná zástava, braní plodů).
+- [ ] U spotřebitele / malého a středního podnikatele pamatovat na zesílenou ochranu (§ 1315 odst. 3).
+- [ ] Při výkonu postupovat zpeněžením a vydat přebytek, nikoli propadnutím.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva (a její forma), doklad o (ne)odevzdání věci, doklad o postavení dlužníka (spotřebitel/podnikatel), ocenění zástavy.
+
 ### § 1316—1319 — Vznik zástavního práva (4 způsoby)
 
 **§ 1316**:
@@ -1068,6 +2492,43 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 264/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC930659C8144AC4C1258CB6004D35A7?openDocument) — *Zástavní právo (o. z.) Postoupení pohledávky Veřejný seznam (o. z.) Dobrá víra Princip m…*
   > „Podle ustanovení § 1316 o. z. zástavní právo k věci zapsané ve veřejném seznamu vzniká zápisem v tomto seznamu, ledaže jiný právní předpis stanoví jinak."
 - *NS* [21 ICdo 11/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FED0E1B68FEB2D5C1258CCE004D3C48?openDocument) — *Zástavní právo (o. z.) Hromadná věc (o. z.) Zajištění dluhu (o. z.) Výklad právních jedn…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan A zastaví ve prospěch věřitele V svůj cenný obraz. Strany v zástavní smlouvě ujednají, že zástavní právo vznikne „znamením" — obraz zůstane v bytě pana A, ale bude na zadní straně rámu opatřen štítkem „zastaveno ve prospěch V". Pan A poté obraz prodá kupci K, který o štítku nevěděl a jednal v dobré víře. Současně jiný věřitel požaduje, aby pan A zastavil svůj sklad zboží (hromadnou věc) — to však strany řeší ústní smlouvou bez zápisu do rejstříku zástav. Důkazy: zástavní smlouvy, fotodokumentace označení věci, doklad o dobré víře kupce K, doklad o (ne)zápisu hromadné věci do rejstříku zástav.
+
+**2. Právní otázka.** Jakým způsobem vzniká zástavní právo k movité věci označením (znamením) a vůči komu působí; a jak vzniká zástavní právo k hromadné věci (skladu zboží)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1316 (věc v katastru/veřejném seznamu — zápisem), § 1317 (movitá věc — odevzdáním; odevzdání lze nahradit znamením, ale vůči třetí osobě jen, nebyla-li v dobré víře), § 1318 (předání třetí osobě jako uschovateli), § 1319 (zápis do rejstříku zástav; u nemovitosti mimo veřejný seznam, závodu a hromadné věci povinně zápisem do rejstříku zástav, který provede notář).
+- *Související ustanovení téhož zákona:* § 1314 (forma smlouvy — veřejná listina u hromadné věci), § 1309 (sledování věci), § 984 (ochrana dobré víry), § 501 (hromadná věc).
+- *Související předpisy:* notářský řád (rejstřík zástav vedený Notářskou komorou ČR); katastrální zákon.
+- *Judikatura:* rozhodnutí citovaná v komentáři — NS 29 NSCR 113/2022 (hromadná věc — sklad zboží, přemístění skladu nezpůsobí zánik zástavního práva), NS 21 Cdo 1353/2019 a 21 Cdo 264/2025 (zástavní právo a dobrá víra, princip materiální publicity), NS 21 Cdo 2576/2019 (předpoklady vzniku ke dni vzniku zástavního práva).
+
+**4. Subsumpce.** Znak „odevzdání nahrazené znamením" je naplněn štítkem na obraze (§ 1317 odst. 2). Vůči kupci K, který byl v dobré víře (o označení nevěděl), se však zástavního práva dovolat nelze — „má se za to, že věc označená nebyla" (§ 1317 odst. 2 in fine). U skladu zboží je naplněn znak „hromadná věc", k níž zástavní právo vzniká povinně zápisem do rejstříku zástav (§ 1319 odst. 2) a smlouva vyžaduje veřejnou listinu (§ 1314 odst. 2); pouhá ústní smlouva bez zápisu zástavní právo nezaloží.
+
+**5. Řešení.** Vůči panu A vzniklo zástavní právo k obrazu označením, vůči kupci K v dobré víře však neúčinné — K nabývá obraz nezatížený. U hromadné věci je nezbytná veřejná listina a zápis do rejstříku zástav; bez nich zástavní právo nevznikne. Procesně: u obrazu posouzení dobré víry K (důkazní břemeno), u skladu náprava formy a zápisu. (Pozn.: označení věci je vůči nedobrověrným osobám účinné; přemístění skladu zapsaného jako hromadná věc samo o sobě zástavní právo neruší — NS 29 NSCR 113/2022.)
+
+**6. Varianty.** (a) Kdyby kupec K o označení „zastaveno" věděl (nebyl v dobré víře), zástavní právo by vůči němu obstálo (§ 1317 odst. 2). (b) Kdyby byl obraz fyzicky odevzdán věřiteli (*pignus possessorium*), otázka dobré víry nabyvatele by vůbec nevznikla, neboť dlužník by věc nemohl předat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Označení věci zakládá zástavní právo absolutně vůči všem." Neutralizace: § 1317 odst. 2 omezuje účinky označení vůči třetí osobě na případy, kdy nebyla v dobré víře; vůči dobrověrnému nabyvateli se věc považuje za neoznačenou.
+- *Protiargument:* „Hromadnou věc lze zastavit prostou písemnou (či ústní) smlouvou." Neutralizace: § 1314 odst. 2 vyžaduje veřejnou listinu a § 1319 odst. 2 zápis do rejstříku zástav; jinak zástavní právo nevznikne.
+- *Slabé místo:* dobrá víra nabyvatele se obtížně prokazuje; viditelnost a průkaznost označení věci jsou klíčové a často sporné.
+
+#### H. Praktický závěr
+
+Způsob vzniku zástavního práva závisí na druhu věci: u věcí v katastru zápisem, u movitých věcí odevzdáním nebo označením (vůči třetím jen při jejich nedobré víře), u nemovitostí mimo seznam, závodu a hromadných věcí povinně zápisem do rejstříku zástav na základě veřejné listiny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit druh zástavy a tomu odpovídající způsob vzniku (§ 1316—1319).
+- [ ] U označení movité věci zajistit průkaznou viditelnost a dokumentaci (účinky vůči nedobrověrným).
+- [ ] U hromadné věci / závodu / nemovitosti mimo seznam dodržet veřejnou listinu a zápis do rejstříku zástav.
+- [ ] Ověřit, že zápis do rejstříku zástav provede notář bez zbytečného odkladu (§ 1319 odst. 3).
+- [ ] U převodu zastavené věci posoudit dobrou víru nabyvatele.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva (vč. formy), doklad o odevzdání/označení věci, výpis z rejstříku zástav nebo katastru, podklady k dobré víře nabyvatele.
 
 ### § 1320—1327 — Zastavení podílu v korporaci
 
@@ -1122,6 +2583,43 @@ Lze zajistit **jakýkoliv dluh**:
 - *VS v Praze* [7 Cmo 41/2024-169](https://rozhodnuti.justice.cz/rozhodnuti/?id=03efee53-e23c-474a-b3ad-3ae37012c923) — 27. 3. 2025
 - *VS v Praze* [14 Cmo 293/2024-4](https://rozhodnuti.justice.cz/rozhodnuti/?id=82ce2c3c-5a52-4668-9363-b0874a73c7f9) — 23. 1. 2025
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společník S vlastní 40% podíl v s.r.o.; podíl není představován kmenovým listem (cenným papírem). K zajištění svého dluhu vůči věřiteli V zřídí S zástavní právo k tomuto podílu. Společenská smlouva s.r.o. zastavení podílu nezakazuje, převod podílu na třetí osobu však podmiňuje souhlasem valné hromady. Po prodlení S chce věřitel V podíl zpeněžit; jeho pokus o prodej je neúspěšný (nikdo podíl nekoupí). V chce podíl nabýt nebo jej získat od S na úhradu dluhu; současně řeší, zda za trvání zástavy mohl vykonávat hlasovací práva. Důkazy: zástavní smlouva, společenská smlouva (podmínky převodu/zastavení), zápis zástavního práva ve veřejném rejstříku, doklady o neúspěšném pokusu o zpeněžení.
+
+**2. Právní otázka.** Za jakých podmínek lze zastavit podíl v korporaci, kdy zástavní právo vzniká, komu náleží hlasovací práva a jak postupovat při neúspěšném pokusu o zpeněžení podílu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1320 (zastavitelnost podílu — lze-li volně převést; podmíněný převod → tytéž podmínky pro zastavení; společenská smlouva může zakázat/omezit; je-li podíl v cenném papíru, zástavou je jen tento papír), § 1321 (zákaz korporace přijmout do zástavy vlastní podíl), § 1322 (vznik zápisem do veřejného rejstříku; oznámení korporaci), § 1323 (hlasovací právo vykonává zástavní věřitel jen, bylo-li ujednáno), § 1324 (plnění z účasti po dospění dluhu), § 1325 (oznámení společníkům, předkupní právo), § 1326—1327 (neúspěšné zpeněžení — nabytí podílu věřitelem / převod na úhradu dluhu, lhůta 1 měsíc, určení obsahu smlouvy soudem).
+- *Související ustanovení téhož zákona:* § 1314 (forma — veřejná listina, jde-li o zastavení vyžadující zápis), § 1309 (obsah zástavního práva), § 1359 a násl. (zpeněžení).
+- *Související předpisy:* zákon o obchodních korporacích č. 90/2012 Sb. (podíl, kmenový list, převod podílu, valná hromada); zákon o veřejných rejstřících č. 304/2013 Sb.
+- *Judikatura:* rozhodnutí citovaná v komentáři (VS v Praze 7 Cmo 130/2023, 14 Cmo 305/2021, 7 Cmo 41/2024, 14 Cmo 293/2024; OS v Novém Jičíně 12 C 22/2025) k zastavení podílu a zajištění závazků v korporaci.
+
+**4. Subsumpce.** Znak „lze-li podíl převést jen za určitých podmínek" je naplněn — převod podílu vyžaduje souhlas valné hromady, proto se týž souhlas vyžaduje i pro zastavení (§ 1320 odst. 1). Společenská smlouva zastavení nezakazuje, takže zastavení je možné. Zástavní právo vzniká zápisem do veřejného rejstříku (§ 1322). Hlasovací práva vykonává nadále S (zástavce), neboť ujednání ve prospěch věřitele chybí (§ 1323). Při neúspěšném pokusu o zpeněžení je naplněn skutkový rámec § 1326—1327 — věřitel může (bylo-li ujednáno) nabýt podíl, jinak se domáhat jeho převodu na úhradu dluhu ve lhůtě jednoho měsíce.
+
+**5. Řešení.** Podíl byl platně zastaven (se splněním podmínek převodu); zástavní právo vzniklo zápisem do rejstříku. Hlasovat může nadále S, nebylo-li ujednáno jinak. Po neúspěšném zpeněžení může V — bylo-li to ujednáno — nabýt podíl okamžikem neúspěchu (§ 1326), jinak se ve lhůtě jednoho měsíce domáhat, aby S podíl převedl na úhradu dluhu za obvyklých obchodních podmínek (§ 1327 odst. 1); nepřevede-li S, může V žádat, aby obsah smlouvy určil soud (§ 1327 odst. 2). Procesně: oznámení společníkům (§ 1325), výkon zástavního práva, případně žaloba na určení obsahu smlouvy.
+
+**6. Varianty.** (a) Kdyby společenská smlouva zastavení podílu zakázala, zástavní právo by nebylo možné zřídit (§ 1320 odst. 1 in fine). (b) Kdyby byl podíl představován kmenovým listem (cenným papírem), způsobilou zástavou by byl jen tento cenný papír (§ 1320 odst. 2) a uplatnil by se režim zastavení cenných papírů (§ 1328 a násl.).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zastavit podíl lze vždy bez ohledu na společenskou smlouvu." Neutralizace: § 1320 odst. 1 podmiňuje zastavení splněním podmínek převodu a umožňuje společenské smlouvě zastavení zakázat či omezit.
+- *Protiargument:* „Zástavní věřitel automaticky vykonává hlasovací práva spojená s podílem." Neutralizace: § 1323 přiznává výkon hlasovacího práva věřiteli jen, bylo-li to výslovně ujednáno; jinak hlasuje zástavce.
+- *Protiargument / slabé místo:* „Po neúspěšném zpeněžení věřitel podíl bez dalšího nabývá." Neutralizace: nabytí podílu nastává jen, bylo-li ujednáno (§ 1326); jinak je třeba uplatnit právo na převod ve lhůtě jednoho měsíce, jejíž zmeškání právo ruší (§ 1327 odst. 1). Lhůty jsou prekluzivní a krátké — riziko jejich zmeškání.
+
+#### H. Praktický závěr
+
+Podíl v korporaci lze zastavit za týchž podmínek, za jakých jej lze převést (nezakáže-li to společenská smlouva); zástavní právo vzniká zápisem do veřejného rejstříku, hlasovací právo zůstává zástavci (není-li ujednáno jinak) a pro neúspěšné zpeněžení platí zvláštní postup s prekluzivní měsíční lhůtou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda a za jakých podmínek lze podíl převést (a tím zastavit), a zda společenská smlouva zastavení nezakazuje.
+- [ ] Zajistit vznik zástavního práva zápisem do veřejného rejstříku a oznámení korporaci (§ 1322).
+- [ ] Sjednat (či vyloučit) výkon hlasovacího práva zástavním věřitelem (§ 1323).
+- [ ] Při zpeněžení oznámit záměr společníkům a vypořádat jejich předkupní právo (§ 1325).
+- [ ] Hlídat prekluzivní měsíční lhůty pro nabytí/převod podílu po neúspěšném zpeněžení (§ 1326—1327).
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva, společenská smlouva (podmínky převodu a zastavení), výpis z veřejného rejstříku se zápisem zástavního práva, doklady o oznámeních a o neúspěšném pokusu o zpeněžení.
+
 ### § 1328—1334 — Cenné papíry
 
 **§ 1328**:
@@ -1173,6 +2671,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *VS v Praze* [7 Cmo 84/2023-154](https://rozhodnuti.justice.cz/rozhodnuti/?id=c795c02a-50a1-4e45-ab96-7d4ea4a5f0fa) — 18. 10. 2023
 - *VS v Praze* [2 Cmo 63/2021-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d5d8982-ff52-4fec-874d-c6fb35600310) — 18. 3. 2021
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost A (zástavce a osobní dlužník) čerpá od banky B (zástavní věřitel) provozní úvěr 10 mil. Kč. K zajištění zastavuje balík 1 000 ks listinných akcií na řad emitenta C, které má fyzicky v trezoru, a dále 5 000 ks zaknihovaných akcií emitenta D vedených na svém majetkovém účtu u CDCP. Zástavní smlouva má písemnou formu. K listinným akciím A opatří akcie zástavním rubopisem s doložkou „k zastavení" ve prospěch B a fyzicky je předá B. K zaknihovaným akciím A podá příkaz vedoucímu evidence (CDCP/banka vedoucí evidenci) k zápisu zástavního práva k tíži svého účtu. Po roce A přestane splácet; banka B chce vykonat zástavní právo a též inkasovat dividendu vyhlášenou emitentem D. Důkazy: zástavní smlouva, listinné akcie s rubopisem a doložkou, výpis z evidence zaknihovaných CP s vyznačeným zástavním právem, korespondence o příkazu k zápisu, doklad o vyplacené dividendě.
+
+**2. Právní otázka.** Vzniklo platně zástavní právo ke každé z obou skupin cenných papírů a komu náleží výnosy (dividenda) z nich za trvání zástavního práva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1328—1334 o. z. — vznik zástavního práva k listinným CP (odevzdání, u CP na řad navíc zástavní rubopis „k zastavení") a k zaknihovaným CP (zápis na účtu vlastníka v příslušné evidenci); § 1332 — výkon práv spojených s CP a režim výnosů (odkaz na zastavenou pohledávku).
+- *Související ustanovení téhož zákona:* § 1316—1319 (obecné způsoby vzniku zástavního práva), § 1335—1340 (zastavení pohledávky — subsidiárně pro výnosy dle § 1332 odst. 2), § 1334 (zástava účtu zachvacuje i budoucí CP).
+- *Související předpisy:* zákon o podnikání na kapitálovém trhu č. 256/2004 Sb. a zákon č. 90/2012 Sb. (ZOK) — evidence a převody CP; notářský řád č. 358/1992 Sb. (rejstřík zástav, je-li tento způsob ujednán u CP na doručitele dle § 1328 odst. 3).
+- *Judikatura:* k povaze a vzniku zástavního práva k CP srov. rozhodnutí VS v Praze citovaná výše (9 Cmo 273/2023, 7 Cmo 84/2023, 2 Cmo 63/2021); obecně NS k tomu, že u CP na řad bez zástavního rubopisu zástavní právo nevznikne.
+
+**4. Subsumpce.** U listinných akcií na řad jsou splněny oba znaky § 1328 odst. 2: zástavní rubopis s doložkou „k zastavení" + odevzdání věřiteli → zástavní právo vzniklo. U zaknihovaných akcií je splněn znak § 1331 odst. 1: zápis na účtu vlastníka na příkaz zástavního dlužníka → zástavní právo vzniklo. Otázka dividendy: dle § 1332 odst. 2 se na výnosy použijí pravidla o plnění ze zastavené pohledávky, ledaže se věřitel práva vzdal — to zde sporné není.
+
+**5. Řešení.** Zástavní právo vzniklo platně k oběma skupinám CP. K výnosům (dividendě) z emitenta D má za trvání zástavy přístup zástavní věřitel podle režimu zastavené pohledávky (§ 1332 odst. 2 ve spojení s § 1337) — co převyšuje zajištěnou pohledávku, vydá dlužníku. Práva spojená s CP (např. hlasovací) vykonává věřitel jen v rozsahu ujednaném stranami (§ 1332 odst. 1) — bez ujednání zůstávají dlužníku. Procesní krok: při výkonu věřitel postupuje dle § 1359 a násl. (u CP na regulovaném trhu se prodá na trhu nejméně za tržní cenu). Riziko: chybějící doložka „k zastavení" u CP na řad činí zástavu neúčinnou.
+
+**6. Varianty.** (a) Kdyby akcie na řad byly předány bez zástavního rubopisu, zástavní právo by nevzniklo (§ 1328 odst. 2), byť listina byla odevzdána. (b) Kdyby byl CP již v podnikatelské úschově, vzniklo by zástavní právo oznámením schovateli se stejnopisem smlouvy (§ 1329 odst. 1), nikoli fyzickým odevzdáním věřiteli.
+
+#### G. Protiargumenty a rizika
+
+- *„Postačí odevzdání listiny."* U CP na řad nikoli — bez zástavního rubopisu s doložkou „k zastavení" (§ 1328 odst. 2) zástavní právo nevznikne; neutralizace: vždy opatřit rubopis a archivovat fotokopii listiny s rubopisem.
+- *„Dividenda patří akcionáři-dlužníku."* Za trvání zástavy se výnosy řídí § 1332 odst. 2 (režim zastavené pohledávky) — věřitel je oprávněn je inkasovat na úhradu zajištěného dluhu, pokud se práva nevzdal; sporná je jen výše „přebytku", který se vrací dlužníku.
+- Slabé místo: u zaknihovaných CP je vznik závislý na faktickém zápisu vedoucího evidence; do provedení zápisu zástavní právo neexistuje, i kdyby smlouva byla uzavřena. Doložit nutno výpisem z evidence.
+
+#### H. Praktický závěr
+
+Vznik zástavního práva k CP se řídí jejich formou: listinné na doručitele — odevzdáním; na řad — rubopis „k zastavení" + odevzdání; na jméno — účinností smlouvy (event. zápisem u emitenta); zaknihované — zápisem na účtu vlastníka v evidenci. Výnosy za trvání zástavy připadají věřiteli v režimu zastavené pohledávky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit formu CP (listinný na doručitele / na řad / na jméno / zaknihovaný) a tomu odpovídající způsob vzniku zástavy.
+- [ ] U CP na řad zajistit zástavní rubopis s doložkou „k zastavení" a označením věřitele.
+- [ ] U zaknihovaných CP podat příkaz vedoucímu evidence a ověřit faktický zápis na účtu.
+- [ ] Ošetřit v smlouvě rozsah výkonu práv z CP věřitelem (§ 1332 odst. 1) a režim výnosů.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva, listina CP s rubopisem a doložkou, výpis z evidence zaknihovaných CP, doklad o odevzdání věřiteli/schovateli, doklady o výnosech.
+
 ### § 1335—1340 — Zastavení pohledávky
 
 **§ 1335**:
@@ -1218,6 +2752,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 ICdo 44/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/113A24CE7E890673C12588B90018C6AE?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o účtu (o. z.) Zástav…*
   > „Zastavit lze pohledávku, kterou lze postoupit jinému; je-li zástavou pohledávka zástavního dlužníka za zástavním věřitelem, pohledávka a dluh nezanikají splynutím osoby věřitele a dlužníka (§ 1335 odst. 1 o. z.)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Faktoringová společnost F (zástavní věřitel) poskytuje dodavateli A (zástavce a osobní dlužník) financování. A na zajištění zastavuje svou pohledávku 2 mil. Kč za odběratelem O (dlužník zastavené pohledávky) z dodávky zboží. Zástavní smlouva je uzavřena písemně; A oznámí zastavení odběrateli O. Před splatností úvěru O zaplatí — chce vědět komu. Po splatnosti úvěru A nesplácí; F chce inkasovat přímo od O. Důkazy: zástavní smlouva, oznámení O o zastavení (s doručenkou), faktura/smlouva zakládající zastavenou pohledávku, doklad o splatnosti zajištěného dluhu.
+
+**2. Právní otázka.** Komu (a kdy) je dlužník zastavené pohledávky O povinen plnit před splatností a po splatnosti zajištěného dluhu a jaké jsou účinky oznámení vůči O?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1335—1340 o. z. — zastavitelnost pohledávky (jen postupitelné), vznik účinností smlouvy, účinky vůči poddlužníku až oznámením/prokázáním (§ 1335 odst. 2); režim plnění před a po splatnosti (§ 1336), vydání přebytku/přechod zástavy na jinou věc (§ 1337), zástava pohledávky z účtu (§ 1339), dispozitivnost (§ 1340).
+- *Související ustanovení téhož zákona:* § 1879 a násl. (postoupení pohledávky — paralela), § 1311 (zajištěný dluh), § 1359 a násl. (výkon — subsidiárně).
+- *Související předpisy:* insolvenční zákon č. 182/2006 Sb. (postavení zajištěného věřitele); zákon o spotřebitelském úvěru (je-li poddlužníkem spotřebitel — informační povinnosti).
+- *Judikatura:* NS 21 ICdo 44/2021 (jen postupitelná pohledávka je způsobilým předmětem); NS 20 Cdo 2609/2023 (smluvní vyloučení postoupení vylučuje zastavitelnost); NS 29 ICdo 116/2025 a 105/2025 (význam § 1335 ve vztahu k účasti dlužníka v insolvenci).
+
+**4. Subsumpce.** Pohledávka A za O je postupitelná → způsobilý předmět (§ 1335 odst. 1). Zástavní právo vzniklo účinností smlouvy; vůči O nabylo účinků doručením oznámení (§ 1335 odst. 2). Před splatností zajištěného dluhu platí O nedílně oběma (F i A) nebo do úschovy (§ 1336 odst. 1); po splatnosti má F právo, aby O plnil jen jemu (§ 1336 odst. 2).
+
+**5. Řešení.** Před splatností úvěru smí O platit jen nedílně zástavnímu věřiteli F a zástavnímu dlužníku A společně, popř. složit do úschovy; platba jen A by O nezprostila vůči F. Po splatnosti úvěru F uplatní právo na výlučné plnění od O a podá o tom zprávu A (§ 1336 odst. 2). Co F inkasuje nad zajištěnou pohledávku včetně příslušenství a nákladů, vydá A (§ 1337). Pokud byla zastavena pohledávka z účtu, F přikáže bance výplatu zůstatku do výše dluhu (§ 1339). Procesně: prokázat O vznik zástavy, jinak O plní dlužníku s rizikem dvojí platby.
+
+**6. Varianty.** (a) Kdyby smlouva mezi A a O vylučovala postoupení pohledávky, pohledávka by nebyla zastavitelná (§ 1335 odst. 1; NS 20 Cdo 2609/2023) a zástava by nevznikla. (b) Kdyby strany ujednaly zápis do rejstříku zástav, účinky vůči O by nevyžadovaly oznámení (§ 1335 odst. 2 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *„O se zprostí platbou dlužníku A."* Před splatností nikoli, plní-li jen A po doručeném oznámení o zastavení — § 1336 odst. 1 vyžaduje nedílné plnění oběma; neutralizace: oznámení s jednoznačnou platební instrukcí (společný účet / úschova).
+- *„Zástava vznikla i bez oznámení."* Mezi stranami ano (účinností smlouvy), ale vůči poddlužníku O až oznámením/prokázáním; do té doby je O chráněn při plnění původnímu věřiteli.
+- Slabé místo: zastavitelnost je vyloučena u nepostupitelných pohledávek (zákonný či smluvní zákaz cese) — nutno prověřit zakládací smlouvu pohledávky; jinak hrozí, že zástava vůbec nevznikla.
+
+#### H. Praktický závěr
+
+Zastavit lze jen postupitelnou pohledávku; zástava vzniká účinností smlouvy, vůči poddlužníku až oznámením/prokázáním. Klíčový je režim plnění: před splatností nedílně oběma nebo do úschovy, po splatnosti výlučně věřiteli. Přebytek se vrací dlužníku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit postupitelnost zastavované pohledávky (zákonný/smluvní zákaz cese).
+- [ ] Doručit poddlužníku oznámení o zastavení s platební instrukcí; uschovat doklad o doručení.
+- [ ] Rozlišit režim plnění před a po splatnosti zajištěného dluhu (§ 1336).
+- [ ] Po inkasu vyúčtovat a vydat dlužníku přebytek nad zajištěnou pohledávku (§ 1337).
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva, smlouva/faktura zakládající zastavenou pohledávku, oznámení poddlužníku s doručenkou, doklad o splatnosti zajištěného dluhu, vyúčtování inkasa.
+
 ### § 1341—1345 — Specifické situace
 
 **§ 1341**:
@@ -1249,6 +2819,42 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [21 Cdo 2576/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B34DBF98E78B002C125854B0018AAE0?openDocument) — *Vlastnictví Zástavní právo Vady řízení*
 - *NS* [21 Cdo 822/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60EE33FE15DE3782C1258941001E25C8?openDocument) — *Veřejná nedobrovolná dražba [ Veřejná dražba ] Vydání věci Vlastnictví Příklep Poctivost…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan X zastaví v zastavárně Z (provozovatel zastavárenského závodu) notebook, který den předtím odcizil panu Y při vloupání. Z přijme věc a vyplatí X zálohu, aniž ví o krádeži. Y notebook po čase identifikuje ve výloze zastavárny a žádá jeho vydání. Z podmiňuje vydání zaplacením částky vyplacené X plus úroků. V jiné větvi případu pan W zastaví bance B cizí osobní automobil (vlastník V) bez souhlasu V, vůz fyzicky odevzdá B, která jej v dobré víře přijme. Důkazy: trestní oznámení a doklad o krádeži (Y), nabývací titul vlastníka (Y/V), zástavní/zastavárenská smlouva, doklad o odevzdání věci a o dobré víře nabyvatele.
+
+**2. Právní otázka.** Vzniklo zástavní právo k cizí věci zastavené bez souhlasu vlastníka a za jakých podmínek se vlastník domůže vydání věci ze zastavárny, případně zda musí zastavárně něco hradit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1341—1345 o. z. — budoucí zástavní právo (§ 1341), zástavní právo z rozhodnutí orgánu (§ 1342), zastavení cizí věci jen se souhlasem vlastníka, resp. při dobré víře věřitele při odevzdání movité věci (§ 1343), zvláštní ochrana vlastníka u zastavárenského závodu při ztrátě/úmyslném TČ (§ 1344), vespolné zastavení více věcí za týž dluh (§ 1345).
+- *Související ustanovení téhož zákona:* § 1109—1111 (nabytí od neoprávněného, dobrá víra), § 1316—1319 (vznik zástavního práva odevzdáním), § 1040 a násl. (vindikace).
+- *Související předpisy:* trestní zákoník č. 40/2009 Sb. (úmyslné TČ proti majetku); zákon o veřejných dražbách (realizace).
+- *Judikatura:* NS 21 Cdo 822/2022 (poctivost, vydání věci, příklep ve veřejné nedobrovolné dražbě); NS 21 Cdo 2576/2019 (vlastnictví a zástavní právo); obecně k dobré víře nabyvatele movité věci.
+
+**4. Subsumpce.** U vozu W → B: cizí movitá věc zastavena bez souhlasu vlastníka, ale odevzdána věřiteli, který ji přijal v dobré víře, že W je oprávněn — zástavní právo vzniklo (§ 1343 odst. 2). U notebooku v zastavárně: věc pochází z krádeže (čin povahy úmyslného TČ), vlastník Y ji nesvěřil zástavci → Y má právo na vydání věci a zastavárna nemá právo požadovat zaplacení částky vyplacené zástavci ani úroků (§ 1344).
+
+**5. Řešení.** Banka B nabyla zástavní právo k vozu i bez souhlasu vlastníka, neboť jej převzala v dobré víře (§ 1343 odst. 2); vlastník V se může bránit jen průkazem, že B v dobré víře nebyla. Naproti tomu zastavárna Z musí notebook vydat Y, prokáže-li Y, že věc pozbyl krádeží (úmyslný TČ), a to bez nároku Z na úhradu vyplacené zálohy a úroků (§ 1344). Praktický krok: vlastník doloží nabývací titul a okolnosti pozbytí; věřitel/zastavárna doloží okolnosti a dobrou víru při převzetí.
+
+**6. Varianty.** (a) Kdyby vlastník Y notebook zastaviteli sám dobrovolně svěřil (např. půjčil), výjimka § 1344 by se neuplatnila a Y by nebyl chráněn proti zastavárně. (b) Kdyby B věděla nebo musela vědět, že W není oprávněn vůz zastavit, dobrá víra by chyběla a zástavní právo by k cizí věci nevzniklo (§ 1343 odst. 2 a contrario).
+
+#### G. Protiargumenty a rizika
+
+- *„Zástavárna nevydá věc bez zaplacení zálohy."* Proti tomu stojí výslovné pravidlo § 1344, že provozovatel nemá právo požadovat po vlastníku úhradu vyplacené částky ani úroků, jde-li o věc pozbytou ztrátou/úmyslným TČ; neutralizace: vlastník trvá na zákonném textu a doloží způsob pozbytí.
+- *„Bez souhlasu vlastníka nemůže vzniknout zástava."* Jako pravidlo ano (§ 1343 odst. 1), avšak § 1343 odst. 2 zakládá výjimku při dobré víře věřitele a odevzdání movité věci — riziko pro vlastníka.
+- Slabé místo: důkazní břemeno o dobré víře, resp. o pozbytí věci úmyslným TČ; bez trestního oznámení a nabývacího titulu vlastník neuspěje.
+
+#### H. Praktický závěr
+
+Cizí věc lze zastavit jen se souhlasem vlastníka; výjimkou je dobrá víra věřitele při odevzdání movité věci (§ 1343 odst. 2). Vlastník okradený o věc má proti zastavárně silnou ochranu (§ 1344) — vydání bez úhrady. Pro týž dluh lze zastavit více věcí a věřitel volí, ze které se uspokojí (§ 1345).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit souhlas vlastníka se zastavením, příp. dobrou víru věřitele při převzetí movité věci.
+- [ ] U zastavárny zjistit, zda věc nebyla pozbyta ztrátou nebo úmyslným TČ (§ 1344).
+- [ ] Doložit nabývací titul vlastníka a okolnosti pozbytí věci.
+- [ ] U vespolného zastavení (§ 1345) určit, ze které zástavy se věřitel uspokojí.
+
+**Typicky rozhodné důkazy / podklady:** zástavní/zastavárenská smlouva, nabývací titul vlastníka, trestní oznámení a doklad o pozbytí věci, doklad o odevzdání a o dobré víře nabyvatele, evidence zastavárny.
 
 ---
 
@@ -1321,6 +2927,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
   > „Má za to, že dražba, kterou nechal zástavní věřitel provést, nemá statut veřejné dražby ve smyslu zákona č."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B (zástavní věřitel) má zástavní právo k nebytové jednotce dlužníka A, který přestal splácet úvěr; dluh je nyní splatný. V zástavní smlouvě si strany písemně ujednaly, že B se může uspokojit prodejem zástavy z volné ruky. B chce zástavu zpeněžit. Současně na nemovitosti vázne exekuční příkaz jiného věřitele se speciálním inhibitoriem. Důkazy: úvěrová a zástavní smlouva (s ujednáním o způsobu zpeněžení), výpis z katastru s vyznačeným zástavním právem a exekučním příkazem, doklad o splatnosti dluhu, oznámení o započetí výkonu.
+
+**2. Právní otázka.** Jakými způsoby se může zástavní věřitel uspokojit poté, co je zajištěný dluh splatný, a brání smluvenému prodeji z volné ruky exekuční inhibitorium váznoucí na zástavě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1359 o. z. — po splatnosti dluhu uspokojení (a) písemně ujednaným způsobem, jinak (b) z výtěžku veřejné dražby nebo (c) prodejem podle jiného zákona; u CP na regulovaném trhu prodej za tržní cenu; právo na náhradu nutných nákladů výkonu (odst. 2).
+- *Související ustanovení téhož zákona:* § 1360 (smluvený způsob zavazuje právního nástupce), § 1362—1364 (oznámení, lhůta 30 dnů), § 1365 (odborná péče u prodeje mimo dražbu), § 1368—1370 (rozdělení výtěžku).
+- *Související předpisy:* zákon o veřejných dražbách č. 26/2000 Sb.; exekuční řád č. 120/2001 Sb. (§ 47 odst. 6 — speciální inhibitorium); insolvenční zákon č. 182/2006 Sb. (§ 286 — zpeněžení zástavy v insolvenci je realizací zástavního práva).
+- *Judikatura:* NS 24 Cdo 2755/2022 (inhibitorium dle § 47 odst. 6 EŘ dopadá i na jednání věřitele směřující k prodeji dle ujednání); NS 20 Cdo 1522/2021 a 20 Cdo 1596/2021 (výkon zástavního práva je právem, nikoli povinností věřitele); NS 21 Cdo 1212/2024 (zpeněžení dle § 286 IZ je realizací zástavy); NS 21 Cdo 5983/2017 (soukromá dražba bez statutu veřejné dražby nenaplňuje § 1359).
+
+**4. Subsumpce.** Dluh je splatný → otevřena cesta výkonu (§ 1359 odst. 1). Strany písemně ujednaly způsob (prodej z volné ruky) → přednost má tento smluvený způsob. Avšak na zástavě vázne exekuční příkaz se speciálním inhibitoriem → omezení v nakládání dopadá i na věřitelovo jednání k prodeji dle ujednání (NS 24 Cdo 2755/2022).
+
+**5. Řešení.** B se v zásadě může uspokojit smluveným prodejem z volné ruky, neboť tak bylo písemně ujednáno; jinak by připadala veřejná dražba nebo prodej podle jiného zákona. Trvá-li však speciální inhibitorium z exekučního příkazu, B nesmí po dobu jeho účinků realizovat prodej dle ujednání (§ 1359 odst. 1 ve spojení s § 47 odst. 6 EŘ). B má právo na náhradu nutných nákladů výkonu (§ 1359 odst. 2). Pozor: „soukromá dražba" bez statutu veřejné dražby nesplňuje zákonný způsob (NS 21 Cdo 5983/2017). Výkon je právem, nikoli povinností — B může vyčkat.
+
+**6. Varianty.** (a) Bez písemného ujednání o způsobu zpeněžení by B musela jít cestou veřejné dražby nebo prodeje podle jiného zákona; ústní ujednání nestačí. (b) Kdyby šlo o akcie přijaté k obchodování na evropském regulovaném trhu, prodaly by se na tomto trhu nejméně za cenu jím určenou (§ 1359 odst. 1 in fine).
+
+#### G. Protiargumenty a rizika
+
+- *„Smluvený způsob lze realizovat vždy."* Nikoli za trvání exekučního inhibitoria na zástavě (NS 24 Cdo 2755/2022); neutralizace: před prodejem prověřit katastr a běžící exekuce.
+- *„Postačí jakákoli dražba."* Jen veřejná dražba dle zák. č. 26/2000 Sb. naplňuje § 1359; soukromá dražba bez tohoto statutu nikoli (NS 21 Cdo 5983/2017).
+- Slabé místo: ujednání o způsobu zpeněžení musí být písemné; jeho absence omezuje věřitele na dražbu/prodej dle jiného zákona a může vést k neúčinnosti jiného postupu.
+
+#### H. Praktický závěr
+
+Po splatnosti dluhu má věřitel na výběr: písemně ujednaný způsob, jinak veřejná dražba nebo prodej podle jiného zákona (u burzovních CP prodej na trhu). Výkon je právem, ne povinností. Smluvený způsob i tak ustupuje exekučnímu inhibitoriu na zástavě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit splatnost zajištěného dluhu před zahájením výkonu.
+- [ ] Zjistit, zda existuje písemné ujednání o způsobu zpeněžení (§ 1359 odst. 1).
+- [ ] Prověřit katastr/evidence na exekuční příkazy a inhibitoria omezující prodej.
+- [ ] U veřejné dražby dodržet režim zák. č. 26/2000 Sb.; u burzovních CP prodej za tržní cenu.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva s ujednáním o zpeněžení, doklad o splatnosti, výpis z katastru/evidence, doklady o nákladech výkonu, dražební dokumentace.
+
 ### § 1361—1364 — Procesní postup
 
 **§ 1361**:
@@ -1349,6 +2991,42 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [20 Cdo 1522/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC785D9DC8578E63C12587340018A0F1?openDocument) — *Exekuce Zástavní právo*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B (zástavní věřitel a věřitel zajištěné pohledávky) má zástavní právo k nemovitosti zástavního dlužníka Z, který je odlišný od osobního dlužníka A (Z poskytl zástavu za cizí dluh). Úvěr A je vázán na výpověď; B vypoví úvěr A a oznámí Z písemně, že započala výkon zástavního práva, s uvedením způsobu uspokojení; současně nechá zápis o započetí výkonu provést v katastru. Po 20 dnech chce zástavu zpeněžit. Z mezitím nemovitost převede na třetí osobu. Důkazy: výpověď úvěru doručená A i Z, oznámení o započetí výkonu Z, doklad o zápisu započetí výkonu do katastru, časová osa (běh 30denní lhůty), kupní smlouva o převodu zástavy.
+
+**2. Právní otázka.** Musí být úkony ke splatnosti pohledávky namířeny i proti zástavnímu dlužníku, od kdy běží 30denní lhůta k zpeněžení a jaké účinky má zákaz zcizení zástavy po oznámení započetí výkonu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1361—1364 o. z. — úkony ke splatnosti i proti zástavnímu dlužníku (§ 1361), písemné oznámení započetí výkonu + zápis do veřejného seznamu/rejstříku (§ 1362), zákaz zcizení po oznámení s výjimkou běžného obchodního styku (§ 1363), 30denní lhůta od oznámení/zápisu, neúčinnost kratší předem ujednané lhůty (§ 1364).
+- *Související ustanovení téhož zákona:* § 1359 (způsoby zpeněžení), § 1365 (odborná péče), § 1366—1370 (důkaz oznámení, součinnost, výtěžek), § 984 (ochrana dobré víry ve veřejný seznam).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb.; notářský řád č. 358/1992 Sb. (rejstřík zástav).
+- *Judikatura:* NS 20 Cdo 1522/2021 (výkon zástavního práva jako právo věřitele, návaznost na exekuci); obecně k povinnosti oznámení a běhu lhůty.
+
+**4. Subsumpce.** Osobní (A) a zástavní (Z) dlužník jsou odlišní → výpověď úvěru musí směřovat i proti Z (§ 1361), jinak se B nemůže ze zástavy uspokojit. Oznámení o započetí výkonu Z bylo písemné a doplněné zápisem do katastru (§ 1362). Lhůta 30 dnů běží od oznámení, případně až od zápisu, byl-li proveden později (§ 1364 odst. 1, 2). Po 20 dnech ještě nelze zpeněžit. Převod zástavy Z porušil zákaz zcizení (§ 1363), avšak práva nabyvatele v běžném obchodním styku zůstávají chráněna, ledaže věděl o výkonu.
+
+**5. Řešení.** B správně namířila výpověď i proti Z (§ 1361) a oznámila započetí výkonu písemně se zápisem do katastru (§ 1362). Zpeněžit však smí nejdříve po 30 dnech od oznámení, resp. od pozdějšího zápisu (§ 1364) — po 20 dnech je prodej předčasný. Převod zástavy Z na třetí osobu je porušením zákazu (§ 1363); zda se dotkne nabyvatele, závisí na tom, zda šlo o běžný obchodní styk a zda nabyvatel o výkonu věděl/musel vědět. Praktický krok: B doloží nabyvateli oznámení o započetí výkonu (§ 1366) a vyčká uplynutí lhůty.
+
+**6. Varianty.** (a) Kdyby osobní a zástavní dlužník byli táž osoba, samostatný úkon proti zástavnímu dlužníku by nebyl potřeba (§ 1361 by se nepoužil). (b) Kdyby si strany předem ujednaly lhůtu kratší než 30 dnů, k tomu by se nepřihlíželo (§ 1364 odst. 3) a běžela by zákonná lhůta.
+
+#### G. Protiargumenty a rizika
+
+- *„Lhůta běží od výpovědi úvěru."* Nikoli — 30denní lhůta běží od oznámení započetí výkonu, případně až od pozdějšího zápisu do veřejného seznamu/rejstříku (§ 1364); neutralizace: pečlivá časová osa oznámení a zápisu.
+- *„Převod zástavy po oznámení je neúčinný vždy."* Ne absolutně — výjimkou je převod v běžném obchodním styku při podnikání zcizitele, pokud nabyvatel o výkonu nevěděl/nemusel vědět (§ 1363).
+- Slabé místo: při odlišnosti osobního a zástavního dlužníka opomenutí úkonu proti zástavnímu dlužníku (§ 1361) blokuje uspokojení ze zástavy.
+
+#### H. Praktický závěr
+
+Výkon zástavy je procesně podmíněn: úkony ke splatnosti i proti zástavnímu dlužníku (§ 1361), písemné oznámení započetí výkonu se zápisem do evidence (§ 1362), zákaz zcizení (§ 1363) a 30denní lhůta od oznámení/zápisu (§ 1364), kterou nelze předem zkrátit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při odlišnosti osobního a zástavního dlužníka směřovat úkony ke splatnosti i proti zástavnímu dlužníku.
+- [ ] Doručit písemné oznámení o započetí výkonu s uvedením způsobu uspokojení a zajistit zápis do veřejného seznamu/rejstříku.
+- [ ] Vyčkat 30 dnů od oznámení, resp. od pozdějšího zápisu, teprve poté zpeněžovat.
+- [ ] Nepřihlížet k předem ujednané kratší lhůtě; zákaz zcizení komunikovat nabyvatelům.
+
+**Typicky rozhodné důkazy / podklady:** výpověď/úkon ke splatnosti doručený oběma dlužníkům, oznámení o započetí výkonu, doklad o zápisu do katastru/rejstříku, časová osa lhůty, doklady o převodu zástavy.
+
 ### § 1365 — Smluvený způsob — odborná péče
 
 > (1) Ujedná-li se, že zástavní věřitel může zástavu prodat jiným způsobem než ve veřejné dražbě, je povinen postupovat při prodeji s odbornou péčí v zájmu svém i v zájmu zástavního dlužníka tak, aby zástavu prodal za cenu, za kterou lze srovnatelnou věc obvykle prodat za srovnatelných okolností na daném místě a v daném čase.
@@ -1359,6 +3037,42 @@ Lze zajistit **jakýkoliv dluh**:
 
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
   > „Uvedl, že dražba, kterou zástavní věřitel nechal provést, nemá statut veřejné dražby ve smyslu zákona č. 26/2000 Sb., a proto nenaplňuje předpoklad prodeje zástavy veřejnou dražbou ve smyslu ustanovení § 1359 občanského zákoníku, že strany si sice v čl."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zástavní věřitel B má písemně ujednáno, že může zastavený bagr (specializovaný stroj, obvyklá cena cca 1,2 mil. Kč) prodat z volné ruky mimo veřejnou dražbu. B stroj prodá spřízněné osobě za 600 000 Kč bez inzerce, bez znaleckého ocenění a bez oslovení trhu. Zástavní dlužník Z namítá, že stroj šlo prodat výrazně dráž, a požaduje náhradu rozdílu. Důkazy: zástavní smlouva s ujednáním o prodeji z volné ruky, kupní smlouva s cenou, znalecký posudek obvyklé ceny stroje k době prodeje, doklady o (ne)inzerci a způsobu hledání kupce, srovnatelné prodeje.
+
+**2. Právní otázka.** Jaký standard péče musí zástavní věřitel dodržet při prodeji zástavy mimo veřejnou dražbu a odpovídá za podcenění zástavy, prodal-li ji výrazně pod obvyklou cenou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1365 o. z. — při ujednaném prodeji mimo veřejnou dražbu je věřitel povinen postupovat s odbornou péčí v zájmu svém i dlužníka tak, aby prodal za cenu obvyklou pro srovnatelnou věc za srovnatelných okolností na daném místě a v daném čase.
+- *Související ustanovení téhož zákona:* § 1359 (způsoby zpeněžení), § 1368—1370 (rozdělení výtěžku, zpráva, schodek/přebytek), § 5 a § 2912 (odborná péče a její porušení), § 6 (poctivost).
+- *Související předpisy:* zákon o veřejných dražbách č. 26/2000 Sb. (alternativní režim); zákon o oceňování majetku č. 151/1997 Sb. (obvyklá cena).
+- *Judikatura:* NS 21 Cdo 5983/2017 (soukromá „dražba" bez statutu veřejné dražby nenaplňuje § 1359 a věřitel je vázán standardem řádného prodeje); obecně k odpovědnosti za podcenění zpeněžované věci.
+
+**4. Subsumpce.** Prodej proběhl mimo veřejnou dražbu na základě ujednání → aplikuje se § 1365. Standard „odborné péče" a „obvyklé ceny" nebyl naplněn: chybí ocenění, inzerce i oslovení trhu a kupcem je spřízněná osoba; cena 600 000 Kč je polovinou obvyklé ceny 1,2 mil. Kč. Znak „za cenu obvyklou za srovnatelných okolností" tedy splněn není.
+
+**5. Řešení.** B porušila povinnost odborné péče dle § 1365; ač prodej z volné ruky byl ujednán, věřitel odpovídá za podcenění zástavy — Z má právo na náhradu rozdílu mezi dosaženou a obvyklou cenou (rozdíl cca 600 000 Kč), neboť B nepostupovala v zájmu dlužníka. Práva kupujícího nabytá v dobré víře tím nejsou dotčena (převod platí), spor se řeší v rovině náhrady. Praktický krok: Z doloží obvyklou cenu znaleckým posudkem a absenci řádného procesu prodeje; B se brání průkazem řádného oslovení trhu.
+
+**6. Varianty.** (a) Kdyby B prodala stroj po znaleckém ocenění, veřejné inzerci a oslovení více zájemců za nejvyšší nabídku blízkou obvyklé ceně, povinnost odborné péče by byla splněna a odpovědnost za podcenění by nevznikla. (b) Kdyby strany prodej mimo dražbu vůbec neujednaly, věřitel by musel zvolit veřejnou dražbu/prodej dle jiného zákona (§ 1359) a § 1365 by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *„Cenu určuje dohodnutý kupec, věřitel neručí za výši."* Proti tomu § 1365 ukládá prodat za obvyklou cenu s odbornou péčí; podcenění zakládá odpovědnost věřitele za rozdíl; neutralizace: doložit transparentní proces a tržní oslovení.
+- *„Prodej spřízněné osobě je v pořádku, je-li písemně ujednán způsob."* Ujednání o způsobu (z volné ruky) nezbavuje věřitele standardu ceny a péče; prodej za polovinu obvyklé ceny spřízněnému subjektu je silnou indicií porušení.
+- Slabé místo: dlužník nese důkazní břemeno o obvyklé ceně (znalecký posudek) a o vadném procesu; bez posudku je nárok na rozdíl obtížně prokazatelný.
+
+#### H. Praktický závěr
+
+Při ujednaném prodeji zástavy mimo veřejnou dražbu je věřitel vázán odbornou péčí a povinností dosáhnout obvyklé ceny (§ 1365). Podcenění zástavy zakládá jeho odpovědnost za rozdíl, byť převod na dobrověrného kupce zůstává platný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před prodejem mimo dražbu zajistit ocenění obvyklé ceny zástavy.
+- [ ] Transparentně oslovit trh (inzerce, více zájemců) a zdokumentovat proces.
+- [ ] Vyhnout se prodeji spřízněným osobám bez tržního srovnání.
+- [ ] Při podcenění uplatnit/odvrátit nárok na náhradu rozdílu mezi dosaženou a obvyklou cenou.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva s ujednáním o prodeji, kupní smlouva, znalecký posudek obvyklé ceny k době prodeje, doklady o inzerci a oslovení trhu, srovnatelné prodeje.
 
 ### § 1366—1370 — Doklad, součinnost, rozdělení výtěžku
 
@@ -1391,6 +3105,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 658/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0470502609686F3AC1258A1E0016122B?openDocument) — *Přípustnost dovolání Zástavní právo Bezdůvodné obohacení*
 - *NS* [21 Cdo 1212/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1EB9C09C01B4B80DC1258BD90052AD2B?openDocument) — *Dražba Exekuce Insolvenční řízení Zástavní právo*
 - *NS* [21 Cdo 2787/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60B330E827687676C125896A001DBBAF?openDocument) — *Přípustnost dovolání Dobré mravy Zástavní právo Bezdůvodné obohacení*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zástavní věřitel B zpeněžil ve veřejné dražbě zastavený automobil za 350 000 Kč. Zajištěná pohledávka činí jistinu 200 000 Kč, úroky 30 000 Kč a náklady výkonu 20 000 Kč. Osobní dlužník A je odlišný od zástavního dlužníka Z. B po dražbě nezašle Z žádné vyúčtování a přebytek si ponechá. Z žádá vydání přebytku a vyúčtování; A se ptá, zda něco doplácí. Důkazy: dražební protokol s výtěžkem, vyčíslení zajištěné pohledávky (jistina, příslušenství, náklady), doklady o nákladech zpeněžení, zpráva o zpeněžení dle § 1369.
+
+**2. Právní otázka.** Jak se rozdělí výtěžek zpeněžení mezi uspokojení věřitele a vydání přebytku, komu náleží přebytek a kdo doplácí schodek, a jaké informační povinnosti má věřitel po zpeněžení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1366—1370 o. z. — průkaz oznámení započetí výkonu zájemci/dražebníku (§ 1366), povinnost součinnosti a vydání zástavy i listin, zákaz zmenšování hodnoty (§ 1367), pořadí úhrady z výtěžku (jistina + příslušenství + náklady) a fikce hodnoty u nepeněžitého dluhu (§ 1368), písemná zpráva o zpeněžení (§ 1369), doplatek schodku osobním dlužníkem a vydání přebytku zástavnímu dlužníku (§ 1370).
+- *Související ustanovení téhož zákona:* § 1359—1365 (zpeněžení), § 2991 a násl. (bezdůvodné obohacení — nevydá-li věřitel přebytek), § 1311 (zajištěný dluh).
+- *Související předpisy:* zákon o veřejných dražbách č. 26/2000 Sb.; insolvenční zákon č. 182/2006 Sb.
+- *Judikatura:* NS 21 Cdo 658/2023 a 21 Cdo 2787/2022 (zástavní právo a bezdůvodné obohacení při rozdělení výtěžku, dobré mravy); NS 21 Cdo 1212/2024 (zpeněžení zástavy a rozdělení výtěžku v insolvenci).
+
+**4. Subsumpce.** Z výtěžku 350 000 Kč se hradí jistina 200 000 + úroky 30 000 + náklady 20 000 = 250 000 Kč (§ 1368 odst. 1). Zbývá přebytek 100 000 Kč, který náleží zástavnímu dlužníku Z (§ 1370 věta druhá). Schodek nevznikl (výtěžek převýšil pohledávku), takže § 1370 věta první (doplatek osobním dlužníkem) se neuplatní. B byla povinna podat Z písemnou zprávu o zpeněžení (§ 1369) — což neučinila.
+
+**5. Řešení.** B měla z výtěžku uspokojit pohledávku ve výši 250 000 Kč a přebytek 100 000 Kč vydat zástavnímu dlužníku Z (§ 1370); ponechání přebytku zakládá bezdůvodné obohacení (NS 21 Cdo 658/2023, 21 Cdo 2787/2022). B dále porušila povinnost podat Z bez zbytečného odkladu písemnou zprávu o prodeji, nákladech a použití výtěžku (§ 1369). Osobní dlužník A nedoplácí nic, neboť schodek nevznikl. Praktický krok: Z se domáhá vydání přebytku a vyúčtování; soud posoudí náklady, na jejichž náhradu má věřitel právo.
+
+**6. Varianty.** (a) Kdyby výtěžek činil jen 180 000 Kč, vznikl by schodek 70 000 Kč, který by doplatil osobní dlužník A (§ 1370 věta první), a přebytek by nebyl žádný. (b) Kdyby byl zajištěn nepeněžitý dluh, věřiteli by náleželo peněžité plnění do výše obvyklé ceny pohledávky v době vzniku zástavního práva (§ 1368 odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *„Přebytek patří věřiteli na úkor budoucích pohledávek."* Nikoli — přebytek nad zajištěnou pohledávku včetně příslušenství a nákladů náleží zástavnímu dlužníku (§ 1370); zadržení je bezdůvodným obohacením; neutralizace: řádné vyúčtování dle § 1369.
+- *„Schodek hradí zástavní dlužník."* Schodek doplácí osobní dlužník (§ 1370 věta první); zástavní dlužník ručí jen zástavou, není-li současně dlužníkem osobním.
+- Slabé místo: spor bývá o rozsah „nákladů, na jejichž náhradu má věřitel právo" — věřitel musí náklady doložit, jinak snižují přebytek vydávaný dlužníku.
+
+#### H. Praktický závěr
+
+Z výtěžku se uspokojí pohledávka, příslušenství a doložené náklady; přebytek patří zástavnímu dlužníku, schodek doplácí osobní dlužník. Věřitel musí podat písemnou zprávu o zpeněžení (§ 1369); zadržení přebytku je bezdůvodné obohacení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Na žádost prokázat zájemci/dražebníku oznámení o započetí výkonu (§ 1366).
+- [ ] Vyčíslit pořadí úhrady: jistina + příslušenství + doložené náklady (§ 1368).
+- [ ] Bez zbytečného odkladu podat dlužníku písemnou zprávu o prodeji a použití výtěžku (§ 1369).
+- [ ] Vydat přebytek zástavnímu dlužníku; schodek vymáhat po osobním dlužníku (§ 1370).
+
+**Typicky rozhodné důkazy / podklady:** dražební/prodejní protokol s výtěžkem, vyčíslení pohledávky a příslušenství, doklady o nákladech zpeněžení, písemná zpráva dle § 1369, doklad o vydání přebytku.
 
 ---
 
@@ -1428,6 +3178,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
   > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dlužník A splatil bance B celý zajištěný úvěr (jistinu i příslušenství). Na jeho nemovitosti však zůstává v katastru zapsané zástavní právo B. A chce nemovitost prodat a kupující požaduje „čistý" list vlastnictví. B otálí s podáním návrhu na výmaz. Současně jiný věřitel C tvrdí, že jeho pohledávka, zajištěná týmž zástavním právem coby pohledávka budoucí, stále trvá, a proto zástavní právo nezaniklo. Důkazy: úvěrová a zástavní smlouva, doklad o úplném zaplacení zajištěného dluhu (kvitance), výpis z katastru, případné ujednání o zajištění dalších/budoucích pohledávek.
+
+**2. Právní otázka.** Zaniklo zástavní právo automaticky zánikem (splacením) zajištěného dluhu, nebo může přetrvat, je-li jím zajištěna ještě jiná (budoucí) pohledávka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1376 o. z. — zanikne-li zajištěný dluh, zanikne i zástavní právo (akcesorita).
+- *Související ustanovení téhož zákona:* § 1377 (případy zániku zástavy bez zániku pohledávky), § 1378—1379 (výmaz po zániku), § 1380—1384 (uvolnění zástavy — zachování pořadí), § 1311—1313 (zajištěný dluh, i budoucí a podmíněný), § 1311 odst. 2 (rozsah zajištění).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (výmaz); notářský řád č. 358/1992 Sb. (rejstřík zástav).
+- *Judikatura:* NS 30 Cdo 2218/2022 (zánik zástavního práva a daňové/odpovědnostní souvislosti); NS 29 NSCR 113/2022 (trvání zástavního práva u hromadné věci navzdory přemístění — akcesorita ke konkrétní pohledávce).
+
+**4. Subsumpce.** Úplným zaplacením zajištěného úvěru zajištěný dluh zanikl → dle § 1376 zaniká i zástavní právo. Pokud však zástavní právo zajišťovalo i jinou (např. budoucí) pohledávku téhož či jiného věřitele a tato pohledávka trvá, zajištěný dluh jako celek nezanikl a zástavní právo v tomto rozsahu přetrvává. Klíčové je tedy vymezení zajištěné pohledávky v zástavní smlouvě.
+
+**5. Řešení.** Zaplatil-li A jedinou zajištěnou pohledávku B v celém rozsahu, zástavní právo zaniklo ze zákona (§ 1376), byť dosud trvá zápis v katastru (ten je již jen závadou dle § 1378). Tvrzení C obstojí jen tehdy, byla-li jeho budoucí pohledávka skutečně týmž zástavním právem platně zajištěna (jasné ujednání rozsahu zajištění); jinak akcesorita způsobí zánik. Praktický krok: A si vyžádá kvitanci, doloží zánik dluhu a domáhá se výmazu (§ 1379); zápis sám zánik zástavy nekonzervuje.
+
+**6. Varianty.** (a) Kdyby zástavní právo zajišťovalo více pohledávek (např. i revolvingový rámec) a alespoň jedna trvala, zástavní právo by v tomto rozsahu nezaniklo. (b) Kdyby dluh zanikl jen zčásti (částečné splacení), zástavní právo by trvalo pro zbytek pohledávky (akcesorita je vázána na existenci dluhu, nikoli jeho výši).
+
+#### G. Protiargumenty a rizika
+
+- *„Dokud je zápis v katastru, zástava trvá."* Nikoli — zánikem dluhu zaniká zástavní právo hmotněprávně (§ 1376); přetrvávající zápis je jen závadou (§ 1378), kterou nutno vymazat; neutralizace: doložit zánik dluhu kvitancí.
+- *„Zástava zajišťuje i jiné dluhy, proto nezanikla."* Obstojí jen při jasném ujednání rozsahu zajištění (i budoucích pohledávek); bez něj platí akcesorita ke konkrétní zaplacené pohledávce.
+- Slabé místo: spor o identitu a rozsah zajištěné pohledávky; nepřesné vymezení v zástavní smlouvě otevírá pochybnost, zda dluh skutečně zanikl celý.
+
+#### H. Praktický závěr
+
+Zástavní právo je akcesorické: zánikem zajištěného dluhu zaniká i ono (§ 1376). Přetrvat může jen v rozsahu dosud trvajících (i budoucích) pohledávek, byly-li týmž zástavním právem platně zajištěny. Zápis sám zánik neudrží.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat přesný rozsah zajištěné pohledávky v zástavní smlouvě (i budoucí/podmíněné).
+- [ ] Doložit zánik zajištěného dluhu (kvitance, potvrzení o úhradě).
+- [ ] Posoudit, zda nezůstává jiná zajištěná pohledávka, která brání úplnému zániku.
+- [ ] Po zániku iniciovat výmaz zástavního práva (§ 1379), nespoléhat na trvání zápisu.
+
+**Typicky rozhodné důkazy / podklady:** zástavní smlouva s vymezením zajištěné pohledávky, doklad o úhradě/kvitance, výpis z katastru/rejstříku, korespondence o výmazu.
+
 ### § 1377 — Zánik bez zániku pohledávky
 
 > (1) Zástavní právo zanikne, ale pohledávka trvá:
@@ -1450,6 +3236,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
   > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan K kupuje od podnikatele P v jeho prodejně použitý jízdní stroj. Stroj byl dříve zastaven ve prospěch banky B, avšak zástavní právo k němu nebylo zapsáno v rejstříku zástav. K o zástavě neví a nemohl o ní z okolností vědět; jde o nákup v běžném obchodním styku. Souběžně dlužník A nabídne věřiteli B složení ceny zastavené věci, aby se zástavy „vykoupil", ač zajištěný dluh trvá. Důkazy: kupní smlouva (běžný obchodní styk), výpis z rejstříku zástav (absence zápisu), doklad o dobré víře nabyvatele, doklad o složení ceny věci (§ 1377 odst. 1 písm. d).
+
+**2. Právní otázka.** Za jakých podmínek zaniká zástavní právo, ačkoli zajištěná pohledávka trvá, a chrání dobrá víra nabyvatele „nezapsané" věci v běžném obchodním styku před přetrvávajícím zástavním právem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1377 o. z. — zánik zástavy bez zániku pohledávky (zánik zástavy, vzdání se práva, vrácení zástavy, složení ceny zastavené věci, uplynutí doby; odst. 2—3 ochrana dobré víry nabyvatele „čisté" věci a v běžném obchodním styku).
+- *Související ustanovení téhož zákona:* § 1376 (akcesorita), § 984 (ochrana dobré víry ve veřejný seznam), § 1109—1111 (nabytí od neoprávněného), § 1378—1379 (výmaz).
+- *Související předpisy:* notářský řád č. 358/1992 Sb. (rejstřík zástav); katastrální zákon č. 256/2013 Sb.
+- *Judikatura:* NS 21 Cdo 2900/2023 (zkoumání dobré víry dle § 1377 odst. 2 ve spojení s § 984 odst. 1 k okamžiku nabytí, resp. ke dni podání návrhu na zápis); NS 29 NSCR 113/2022 (trvání/zánik zástavy u hromadné věci).
+
+**4. Subsumpce.** Stroj nebyl zapsán v rejstříku zástav; K jej nabyl v běžném obchodním styku od podnikatele v dobré víře → naplněn předpoklad zániku zástavy dle § 1377 odst. 2—3 (ochrana nabyvatele „čisté" věci a běžného obchodního styku). Pohledávka B vůči A přitom trvá. U složení ceny věci (písm. d) zaniká zástava, ale pohledávka B vůči A nadále existuje jako prostý (nezajištěný) dluh.
+
+**5. Řešení.** K nabyl stroj nezatížený zástavním právem, neboť věc nebyla v rejstříku zástav a K byl v dobré víře v běžném obchodním styku (§ 1377 odst. 2—3); B se na K již nemůže hojit, její pohledávka vůči A však trvá. Při složení ceny věci (§ 1377 odst. 1 písm. d) zaniká zástava a věřiteli zůstává prostý dluh; rozhodný je okamžik nabytí/podání návrhu na zápis pro posouzení dobré víry (NS 21 Cdo 2900/2023). Praktický krok: B by měla zástavu k movitým věcem registrovat v rejstříku zástav, jinak riskuje zánik vůči dobrověrným nabyvatelům.
+
+**6. Varianty.** (a) Kdyby zástavní právo bylo zapsáno v rejstříku zástav, dobrá víra nabyvatele by jej nechránila a stroj by přešel se zatížením. (b) Kdyby se věřitel zástavního práva vzdal (písm. b) nebo vrátil zástavu dlužníku (písm. c), zástava by zanikla, ale dluh by trval jako nezajištěný.
+
+#### G. Protiargumenty a rizika
+
+- *„Zástava trvá, dokud trvá dluh."* Ne ve všech případech — § 1377 vyjmenovává situace, kdy zástava zaniká, ač pohledávka trvá (zánik věci, vzdání se, vrácení, složení ceny, uplynutí doby); neutralizace: prověřit, zda nenastal některý z důvodů.
+- *„Kupující nabývá vždy se zatížením."* Při dobré víře a absenci zápisu v rejstříku zástav, zejména v běžném obchodním styku, zástava zaniká (§ 1377 odst. 2—3; § 984); neutralizace: u movitých zástav registrace v rejstříku zástav.
+- Slabé místo: posouzení dobré víry je skutkové a vázané na rozhodný okamžik (NS 21 Cdo 2900/2023); věřitel může dobrou víru zpochybnit důkazem o okolnostech nabytí.
+
+#### H. Praktický závěr
+
+Zástavní právo může zaniknout, i když pohledávka trvá (§ 1377) — typicky zánikem či vrácením zástavy, vzdáním se, složením ceny věci nebo uplynutím doby; v běžném obchodním styku chrání dobrá víra nabyvatele „nezapsané" věci. Pohledávka pak přežívá jako nezajištěná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prověřit, zda nenastal některý z důvodů zániku zástavy dle § 1377 odst. 1.
+- [ ] U movitých zástav ověřit zápis/absenci zápisu v rejstříku zástav.
+- [ ] Posoudit dobrou víru nabyvatele k rozhodnému okamžiku (nabytí/podání návrhu).
+- [ ] Po zániku zástavy ošetřit, že pohledávka trvá jako nezajištěná, a iniciovat výmaz.
+
+**Typicky rozhodné důkazy / podklady:** kupní smlouva (běžný obchodní styk), výpis z rejstříku zástav, doklady o dobré víře nabyvatele, doklad o složení ceny věci / vzdání se / vrácení zástavy.
+
 ### § 1378—1379 — Výmaz
 
 **§ 1378**:
@@ -1467,6 +3289,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [30 Cdo 2218/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79B67D1C6BEDDAD0C1258AEF00529860?openDocument) — *Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Smluvní pokuta Daňové řízení*
 - *NS* [21 Cdo 575/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FECBDAF727554521C1258AAD001B7E6C?openDocument) — *Pohledávka Promlčení Zástavní právo (o. z.) Žaloba určovací Smlouva o půjčce Smlouva zás…*
 - *NS* [21 Cdo 1820/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C59492E04433948CC1258C350052B240?openDocument) — *Nepřípustnost dovolání Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dlužník A splatil bance B celý zajištěný úvěr; zástavní právo k nemovitosti tím zaniklo (§ 1376). B však i po opakované výzvě nepodá návrh na výmaz zástavního práva z katastru a odmítne A vydat potvrzení o zániku zástavy. A nemůže nemovitost prodat, protože kupující požaduje „čistý" list vlastnictví, a vzniká mu škoda z propadlé kupní smlouvy. Důkazy: doklad o úplném zaplacení dluhu (kvitance), výpis z katastru s přetrvávajícím zápisem, výzvy k vydání potvrzení a k výmazu, doklad o zmařeném prodeji a vyčíslení škody.
+
+**2. Právní otázka.** Kdo a v jaké lhůtě je povinen zajistit výmaz zaniklého zástavního práva a jaké následky stíhají věřitele, který nepotvrdí zánik zástavy nebo nepožádá o výmaz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1378—1379 o. z. — přetrvávající zápis zaniklého zástavního práva je závadou váznoucí na zástavě (§ 1378); povinnost zástavního věřitele bez zbytečného odkladu požádat o výmaz (§ 1379 odst. 1) a právo zástavního dlužníka podat žádost o výmaz s odpovědností věřitele za škodu při nepotvrzení zániku (§ 1379 odst. 2).
+- *Související ustanovení téhož zákona:* § 1376—1377 (zánik zástavy), § 984 (ochrana dobré víry ve veřejný seznam), § 2913/§ 2910 (náhrada škody), § 1380—1384 (uvolnění zástavy).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (výmaz vkladem); notářský řád č. 358/1992 Sb. (rejstřík zástav).
+- *Judikatura:* NS 21 Cdo 575/2023 (pohledávka, promlčení a zástavní právo, určovací žaloba); NS 21 Cdo 1820/2024 (výklad právních jednání ve vztahu k zániku/výmazu); NS 30 Cdo 2218/2022 (odpovědnostní souvislosti zániku zástavy).
+
+**4. Subsumpce.** Zaplacením dluhu zástavní právo zaniklo, přesto trvá zápis v katastru → jde o závadu dle § 1378. Věřitel B byl povinen bez zbytečného odkladu požádat o výmaz (§ 1379 odst. 1), což neučinil. A jako zástavní dlužník má právo podat žádost sám a doložit zánik listinou potvrzenou věřitelem nebo veřejnou listinou (§ 1379 odst. 2); odmítl-li B potvrdit zánik, odpovídá A za vzniklou škodu.
+
+**5. Řešení.** Přetrvávající zápis je závadou (§ 1378), kterou je B povinna odstranit — má bez zbytečného odkladu požádat o výmaz (§ 1379 odst. 1). Nepotvrdí-li B na žádost A zánik zástavního práva, nahradí A škodu tím vzniklou (§ 1379 odst. 2 in fine) — zde škodu ze zmařeného prodeje. A se může domáhat výmazu i sám, doloží-li zánik listinou potvrzenou věřitelem, rozhodnutím soudu nebo jinou veřejnou listinou; alternativně určovací žalobou (srov. NS 21 Cdo 575/2023). Praktický krok: A vyzve B k potvrzení a výmazu, jinak uplatní náhradu škody a podá vlastní návrh.
+
+**6. Varianty.** (a) Kdyby si strany ujednaly, že věřitel o výmaz nepožádá (§ 1379 odst. 1 in fine — uvolněné zástavní právo), povinnost výmazu by se neuplatnila a vlastník by mohl pořadí využít. (b) Kdyby zástavní právo zaniklo uplynutím doby, vymazalo by se i bez potvrzení věřitele, neboť jde o objektivně doložitelný důvod.
+
+#### G. Protiargumenty a rizika
+
+- *„Výmaz si musí zařídit dlužník."* Primárně je povinen požádat o výmaz věřitel bez zbytečného odkladu (§ 1379 odst. 1); dlužník má jen subsidiární právo a navíc nárok na náhradu škody při nepotvrzení (§ 1379 odst. 2).
+- *„Dokud trvá zápis, dluh je zajištěn."* Ne — po zániku dluhu jde o pouhou závadu (§ 1378); zápis zástavu hmotněprávně neudrží.
+- Slabé místo: dlužník musí zánik doložit kvalifikovanou listinou (potvrzení věřitele / veřejná listina); bez ní katastr výmaz neprovede a zbývá určovací žaloba.
+
+#### H. Praktický závěr
+
+Po zániku zástavy je přetrvávající zápis závadou (§ 1378). Věřitel musí bez zbytečného odkladu požádat o výmaz (§ 1379 odst. 1); nepotvrdí-li dlužníku zánik, odpovídá za škodu. Dlužník může výmaz iniciovat sám doložením zániku kvalifikovanou listinou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Po zániku dluhu vyzvat věřitele k podání návrhu na výmaz a k potvrzení zániku.
+- [ ] Opatřit listinu potvrzující zánik (potvrzení věřitele / veřejná listina) pro vlastní návrh.
+- [ ] Při nepotvrzení uplatnit náhradu škody dle § 1379 odst. 2.
+- [ ] Zvážit ujednání o uvolněném zástavním právu, má-li být zachováno pořadí.
+
+**Typicky rozhodné důkazy / podklady:** doklad o zániku dluhu/kvitance, výpis z katastru/rejstříku s přetrvávajícím zápisem, výzvy k výmazu a potvrzení, doklad o škodě ze zmařeného nakládání.
 
 ---
 
@@ -1559,6 +3417,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 734/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4CEC08E891A1337C1258C96004D379F?openDocument) — *Zadržovací právo Absolutní majetková práva (o. z.) Věcné právo k věci cizí (o. z.) Zajiš…*
   > „Podle ustanovení § 1395 odst. 1 o. z. ten, kdo má povinnost vydat cizí movitou věc, kterou má u sebe, ji může ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Autoservis S opravil zákazníkovi K osobní automobil; faktura 45 000 Kč je splatná a nezaplacená. S vůz nadále drží ve své dílně a odmítá jej vydat, dokud K nezaplatí. K namítá, že vůz potřebuje a že S nesmí vůz zadržet. V jiné větvi skladovatel zadržuje zboží uskladnitele pro nezaplacené skladné, ačkoli dluh dosud nebyl formálně splatný — uskladnitel však prohlásil, že nezaplatí. Důkazy: smlouva o opravě/skladování, faktura a doklad o splatnosti, doklad o tom, že věc je u věřitele právem (zakázkový list, předávací protokol), vyrozumění dlužníka o zadržení.
+
+**2. Právní otázka.** Jsou splněny podmínky vzniku zadržovacího práva, tj. drží věřitel cizí movitou věc u sebe právem k zajištění splatného (nebo výjimečně nesplatného) dluhu osoby, jíž by věc měl vydat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1395 o. z. — zadržovací právo k cizí movité věci, kterou má věřitel u sebe, k zajištění splatného dluhu; odst. 2 — zajištění i nesplatného dluhu (nezajistil-li dlužník jinak, prohlásil-li, že nesplní, nebo vyšlo-li jinak najevo, že nesplní).
+- *Související ustanovení téhož zákona:* § 1396 (vyloučení — neprávem držená věc), § 1397 (vyrozumění a péče), § 1398 (přednostní uspokojení), § 1399 (zánik), § 1359 a násl. (zpeněžení obdobně), § 6 (poctivost), § 8 (zákaz zneužití práva).
+- *Související předpisy:* exekuční řád č. 120/2001 Sb. (uplatnění při výkonu); insolvenční zákon č. 182/2006 Sb. (postavení v insolvenci).
+- *Judikatura:* NS 21 Cdo 1313/2022 (možnost smluvního vyloučení zadržovacího práva); NS 23 Cdo 3442/2018 (nelze zadržet věc vlastní); NS 26 Cdo 2397/2024 a 20 Cdo 1708/2023 (podmínky § 1395 odst. 1); NS 21 Cdo 2155/2023 (zadržení k zajištění splatného dluhu — ustájení koní); NS 21 Cdo 734/2024 (povaha a podmínky zadržovacího práva).
+
+**4. Subsumpce.** S má u sebe cizí movitou věc (vůz K) na základě smlouvy o opravě → drží ji právem. Dluh K (cena opravy) je splatný. Osobou, jíž by S měl věc jinak vydat, je K, který je zároveň dlužníkem → naplněny všechny znaky § 1395 odst. 1. U skladovatele je dluh nesplatný, avšak uskladnitel prohlásil, že nesplní → naplněn § 1395 odst. 2 písm. b.
+
+**5. Řešení.** S platně uplatnil zadržovací právo k vozu K dle § 1395 odst. 1 a je oprávněn vůz zadržet do zaplacení; musí však dlužníka o zadržení a jeho důvodu vyrozumět (§ 1397) a o věc pečovat jako řádný hospodář. Skladovatel může výjimečně zadržet věc i pro nesplatný dluh, neboť uskladnitel prohlásil, že nesplní (§ 1395 odst. 2 písm. b). Při dalším neplnění se věřitel uspokojí ze zpeněžení (obdobně § 1359) s přednostním pořadím dle § 1398. Praktický krok: prokázat oprávněnou detenci a splatnost (či důvod dle odst. 2) a doložit vyrozumění.
+
+**6. Varianty.** (a) Kdyby věc byla věřiteli předána na základě smlouvy ukládající ji bezpodmínečně vydat (a nešlo by o insolvenci dlužníka), zadržení by bylo vyloučeno (§ 1396 odst. 2). (b) Kdyby šlo o věc, kterou věřitel sám vytvořil a je jeho vlastní (rekonstruované účetnictví v NS 23 Cdo 3442/2018), zadržovací právo by k „věci vlastní" nevzniklo.
+
+#### G. Protiargumenty a rizika
+
+- *„Věřitel nesmí vůz zadržet, zákazník jej potřebuje."* Potřebnost dlužníka není podmínkou; při splnění znaků § 1395 odst. 1 je zadržení po právu; neutralizace: doložit oprávněnou detenci, splatnost a vyrozumění.
+- *„Zadržet lze jen splatný dluh."* Zásadně ano, ale § 1395 odst. 2 připouští i nesplatný dluh (neposkytnutí slíbeného zajištění, prohlášení nesplnit, nepředvídatelné zhoršení poměrů dlužníka).
+- Slabé místo: zadržovací právo nelze uplatnit k věci držené neprávem ani k věci vlastní (§ 1396; NS 23 Cdo 3442/2018) a lze je smluvně vyloučit (NS 21 Cdo 1313/2022); výkon musí být v souladu s dobrými mravy a zákazem zneužití práva.
+
+#### H. Praktický závěr
+
+Zadržovací právo vzniká jednostranně, drží-li věřitel cizí movitou věc u sebe právem k zajištění splatného (výjimečně nesplatného) dluhu osoby, jíž by věc měl vydat (§ 1395). Typicky chrání opraváře, skladovatele či ubytovatele; podmínkou dalšího trvání je vyrozumění a řádná péče.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že věc je movitá, cizí a držená věřitelem právem (smluvní/zákonný titul).
+- [ ] Doložit splatnost dluhu, příp. důvod zadržení nesplatného dluhu (§ 1395 odst. 2).
+- [ ] Vyrozumět dlužníka o zadržení a jeho důvodu (§ 1397), u písemné smlouvy písemně.
+- [ ] Prověřit, zda zadržovací právo nebylo smluvně vyloučeno a zda výkon odpovídá dobrým mravům.
+
+**Typicky rozhodné důkazy / podklady:** smlouva (oprava/skladování/ubytování), faktura a doklad o splatnosti, doklad o oprávněné detenci (zakázkový/předávací protokol), vyrozumění dlužníka.
+
 ### § 1396 — Vyloučení
 
 > (1) Zadržet cizí věc nesmí ten, kdo ji má u sebe neprávem, zejména zmocnil-li se jí násilně nebo lstí.
@@ -1578,6 +3472,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
   > „Podle ustanovení § 1396 odst. 1 o. z. zadržet cizí věc nesmí ten, kdo ji má u sebe neprávem, zejména zmocnil-li se jí násilně nebo lstí."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Komisionář M má na základě komisionářské smlouvy prodat zboží komitenta P a výtěžek (případně neprodané zboží) mu vydat. P dluží M provizi z dřívějšího obchodu. M zadrží neprodané zboží P na zajištění své pohledávky na provizi, ač je smluvně zavázán zboží P vydat. V jiné větvi se osoba D zmocní cizího nářadí lstí (vyláká je pod záminkou) a pak je „zadrží" pro údajný dluh majitele. Posléze nastane úpadek P a M zvažuje uplatnění zadržovacího práva v insolvenci. Důkazy: komisionářská smlouva (povinnost vydat věc), doklad o pohledávce věřitele, okolnosti nabytí detence (lest/násilí), případně rozhodnutí o úpadku.
+
+**2. Právní otázka.** Brání oprávněné držbě (a tedy zadržovacímu právu) smluvní závazek věřitele naložit s věcí způsobem neslučitelným se zadržením, a jak se situace mění při úpadku dlužníka, resp. při lstivém či násilném získání věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1396 o. z. — zadržet nesmí ten, kdo má věc u sebe neprávem (zejména násilím či lstí) (odst. 1); vyloučení i tehdy, je-li věřitel smluvně/zákonně vázán naložit s věcí způsobem neslučitelným se zadržením, s výjimkou úpadku dlužníka (odst. 2).
+- *Související ustanovení téhož zákona:* § 1395 (vznik zadržovacího práva), § 2455 a násl. (komisionářská smlouva — povinnost vydat), § 6—8 (poctivost, zákaz zneužití práva).
+- *Související předpisy:* insolvenční zákon č. 182/2006 Sb. (uplatnění zajištění v insolvenci); trestní zákoník č. 40/2009 Sb. (lstivé/násilné získání věci).
+- *Judikatura:* NS 29 ICdo 9/2019 a 29 ICdo 13/2018 (zadržovací právo v insolvenci); NS 21 Cdo 3926/2020 (kdy má věřitel věc u sebe neprávem dle § 1396 odst. 1); NS 21 Cdo 734/2024 a 21 Cdo 1572/2019 (podmínky a vyloučení zadržovacího práva).
+
+**4. Subsumpce.** M má zboží u sebe na základě komisionářské smlouvy, která jej zavazuje zboží P vydat → smluvní závazek naložit s věcí způsobem neslučitelným se zadržením (§ 1396 odst. 2) zadržení zásadně vylučuje. Výjimkou je úpadek P, při němž lze zadržovací právo uplatnit. U osoby D, jež získala nářadí lstí, jde o věc drženou neprávem (§ 1396 odst. 1) → zadržovací právo nevznikne vůbec.
+
+**5. Řešení.** Dokud netrvá úpadek P, M nemůže zboží zadržet, neboť je smluvně zavázán je vydat (§ 1396 odst. 2). Nastane-li úpadek P, výjimka umožní M zadržovací právo uplatnit i přes závazek vydat věc. Osoba D zadržovací právo nikdy nenabude, protože věc získala lstí a má ji u sebe neprávem (§ 1396 odst. 1; NS 21 Cdo 3926/2020); navíc jí hrozí trestněprávní následky. Praktický krok: posoudit titul detence a (ne)existenci závazku vydat věc, u insolvence aktivovat výjimku odst. 2.
+
+**6. Varianty.** (a) Kdyby M neměl smluvní povinnost zboží P bezpodmínečně vydat, mohl by za splnění znaků § 1395 zboží zadržet i mimo insolvenci. (b) Kdyby D získala nářadí řádně (např. do opravy) a teprve poté vznikl dluh majitele, mohla by zadržovací právo nabýt dle § 1395, neboť by věc nedržela neprávem.
+
+#### G. Protiargumenty a rizika
+
+- *„Věřitel může vždy zadržet věc pro svou pohledávku."* Nikoli, je-li smluvně/zákonně vázán naložit s věcí neslučitelně se zadržením (§ 1396 odst. 2); výjimkou je úpadek dlužníka; neutralizace: prověřit závazky věřitele k věci.
+- *„Na původ detence nezáleží."* Záleží zásadně — věc získaná násilím či lstí je držena neprávem a zadržet ji nelze (§ 1396 odst. 1; NS 21 Cdo 3926/2020).
+- Slabé místo: hranice „neslučitelného naložení" a posouzení okamžiku úpadku jsou výkladově sporné; v insolvenci je třeba zajištění včas a řádně přihlásit.
+
+#### H. Praktický závěr
+
+Zadržovací právo nevznikne k věci držené neprávem (násilím/lstí) ani tam, kde je věřitel vázán naložit s věcí neslučitelně se zadržením (§ 1396); výjimkou je úpadek dlužníka, kdy lze zadržovací právo uplatnit i přes závazek věc vydat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že věc není u věřitele neprávem (vyloučit násilné/lstivé nabytí).
+- [ ] Zjistit, zda věřitele neváže závazek naložit s věcí neslučitelně se zadržením (§ 1396 odst. 2).
+- [ ] Při úpadku dlužníka aktivovat výjimku a včas přihlásit zajištění do insolvence.
+- [ ] Posoudit soulad výkonu s dobrými mravy a zákazem zneužití práva.
+
+**Typicky rozhodné důkazy / podklady:** smlouva zakládající závazek vydat věc (např. komisionářská), doklad o pohledávce, okolnosti nabytí detence, rozhodnutí o úpadku dlužníka.
+
 ### § 1397 — Vyrozumění a péče
 
 > (1) Kdo zadržel cizí věc, vyrozumí dlužníka o jejím zadržení a jeho důvodu. Má-li věřitel věc u sebe na základě smlouvy uzavřené v písemné formě, vyžaduje i vyrozumění písemnou formu.
@@ -1595,6 +3525,42 @@ Lze zajistit **jakýkoliv dluh**:
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
   > „Podle ustanovení § 1397 odst. 1 o. z. kdo zadržel cizí věc, vyrozumí dlužníka o jejím zadržení a jeho důvodu."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Autoservis S (věřitel) zadrží opravený vůz zákazníka K (dlužník) pro nezaplacenou cenu opravy. Smlouva o opravě byla uzavřena písemně. S však K o zadržení nijak nevyrozumí, vůz odstaví na nechráněném parkovišti, kde zkoroduje, a navíc jej po večerech používá k vlastním jízdám. K se domáhá vydání vozu a náhrady poškození; orgány činné v trestním řízení zvažují, zda nejde o trestný čin pro porušení informační povinnosti. Důkazy: písemná smlouva o opravě, doklad o (ne)vyrozumění dlužníka, fotodokumentace stavu věci, doklady o užívání vozu věřitelem, vyčíslení nákladů péče a škody.
+
+**2. Právní otázka.** Jaké povinnosti (vyrozumění, péče, omezení užívání) stíhají věřitele po zadržení věci a jaké následky má jejich porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1397 o. z. — povinnost vyrozumět dlužníka o zadržení a jeho důvodu (u písemné smlouvy písemně); péče řádného hospodáře a právo na náhradu nákladů jako řádný držitel; užívání jen se souhlasem dlužníka a neškodným způsobem; započtení prospěchu na náhradu nákladů.
+- *Související ustanovení téhož zákona:* § 1395—1396 (vznik a vyloučení), § 1399 (zánik), § 2910/§ 2913 (náhrada škody), § 996 a násl. (práva poctivého držitele), § 1357 (paralela u zástavy — opatrování).
+- *Související předpisy:* trestní zákoník č. 40/2009 Sb. (zatajení/krádež při excesu z práva).
+- *Judikatura:* NS 3 Tdo 590/2019 (porušení povinnosti vyrozumět dlužníka dle § 1397 odst. 1 a trestněprávní rovina); NS 21 Cdo 1572/2019 (podmínky zadržovacího práva a vyrozumění).
+
+**4. Subsumpce.** S zadržel cizí movitou věc, ale nevyrozuměl dlužníka, ač měl věc na základě písemné smlouvy → porušení § 1397 odst. 1 (a navíc povinné písemné formy vyrozumění). Odstavením na nechráněném místě a korozí S porušil péči řádného hospodáře (§ 1397 odst. 2). Užíváním vozu bez souhlasu K překročil zákonný rámec (§ 1397 odst. 2 věta třetí). Znak „neškodného užívání se souhlasem dlužníka" splněn není.
+
+**5. Řešení.** S byl povinen K písemně vyrozumět o zadržení a jeho důvodu (§ 1397 odst. 1); opomenutí může mít i trestněprávní konsekvence (NS 3 Tdo 590/2019). Za poškození vozu (koroze) S odpovídá, neboť porušil péči řádného hospodáře (§ 1397 odst. 2); K má nárok na náhradu škody. Užívání vozu bez souhlasu K je nedovolené; prospěch z užívání by se jinak započetl na náhradu nákladů (§ 1397 odst. 2 in fine), zde však jde o exces. S má naopak právo na náhradu nutných nákladů péče jako řádný držitel. Praktický krok: doložit vyrozumění (či jeho absenci), stav věci a vyčíslit náklady i škodu.
+
+**6. Varianty.** (a) Kdyby S řádně písemně vyrozuměl K a o vůz pečoval jako řádný hospodář, zadržovací právo by trvalo bez odpovědnostních následků a S by měl nárok na náhradu nákladů. (b) Kdyby K udělil souhlas s užíváním vozu, mohl by S vůz neškodně užívat a prospěch započítat na náhradu nákladů (§ 1397 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Vyrozumění je jen formalita."* Není — jeho opomenutí porušuje § 1397 odst. 1 a může založit i trestní odpovědnost (NS 3 Tdo 590/2019); u písemné smlouvy je navíc nutná písemná forma; neutralizace: doručit písemné vyrozumění s důvodem.
+- *„Věřitel může věc užívat, když ji opatruje."* Jen se souhlasem dlužníka a neškodně (§ 1397 odst. 2); jinak jde o exces s odpovědností za škodu.
+- Slabé místo: věřitel musí doložit nutnost a výši nákladů péče (řádný držitel) a zároveň nese důkazní břemeno o řádné péči; zanedbání péče obrací situaci v jeho neprospěch.
+
+#### H. Praktický závěr
+
+Po zadržení věci musí věřitel dlužníka vyrozumět (u písemné smlouvy písemně) a o věc pečovat jako řádný hospodář; užívat ji smí jen se souhlasem dlužníka a neškodně (§ 1397). Porušení zakládá odpovědnost za škodu, výjimečně i trestní následky; věřiteli náleží náhrada nutných nákladů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bez odkladu vyrozumět dlužníka o zadržení a jeho důvodu; u písemné smlouvy písemně.
+- [ ] Zajistit péči řádného hospodáře (vhodné uložení, ochrana před poškozením).
+- [ ] Neužívat věc bez souhlasu dlužníka; udělený souhlas a neškodnost zdokumentovat.
+- [ ] Vést evidenci nutných nákladů péče a případného prospěchu k započtení.
+
+**Typicky rozhodné důkazy / podklady:** písemná smlouva, doklad o vyrozumění dlužníka, fotodokumentace stavu věci, doklady o nákladech péče a o (ne)oprávněném užívání.
+
 ### § 1398 — Přednostní uspokojení
 
 > Věřiteli, který zajistil svou pohledávku zadržovacím právem, náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním.
@@ -1611,6 +3577,42 @@ Lze zajistit **jakýkoliv dluh**:
   > „2022 pak srov. obecné ustanovení § 52 odst. 1 exekučního řádu), § 1398 o. z.]."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
   > „Podle ustanovení § 1398 o. z. věřiteli, který zajistil svou pohledávku zadržovacím právem, náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Na stroji dlužníka A vázne zástavní právo banky B, zapsané v rejstříku zástav již v roce 2022. V roce 2024 A nechá stroj generálně opravit u servisu S; cenu opravy 80 000 Kč nezaplatí. S stroj zadrží a uplatní zadržovací právo. Posléze dojde k exekučnímu zpeněžení stroje za 300 000 Kč. O výtěžek se hlásí jak banka B (zástava), tak servis S (zadržovací právo). Důkazy: výpis z rejstříku zástav (priorita B), smlouva o opravě a faktura S, doklad o uplatnění zadržovacího práva a o zadržení věci, rozdělovaný výtěžek z exekuce.
+
+**2. Právní otázka.** Má zadržovací právo servisu, vzniklé později, přednost před dříve zapsaným zástavním právem banky při rozdělení výtěžku ze zpeněžení věci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1398 o. z. — věřiteli se zadržovacím právem náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním.
+- *Související ustanovení téhož zákona:* § 1395—1397 (vznik, vyrozumění, péče), § 1399 (zánik), § 1371 a násl. (pořadí zástavních věřitelů — jinak rozhodné u zástav), § 1359 a násl. (zpeněžení obdobně).
+- *Související předpisy:* exekuční řád č. 120/2001 Sb. (rozvrh výtěžku, § 52); insolvenční zákon č. 182/2006 Sb. (postavení zajištěných věřitelů).
+- *Judikatura:* NS 21 Cdo 2345/2024 (vztah zadržovacího a zástavního práva, § 1398 ve spojení s § 52 odst. 1 EŘ); NS 21 Cdo 1572/2019 (přednostní uspokojení věřitele se zadržovacím právem před věřitelem zástavním).
+
+**4. Subsumpce.** S má zadržovací právo k zadržené věci (stroji) dle § 1395; B má dříve zapsané zástavní právo. § 1398 stanoví, že z výtěžku zpeněžení zadržené věci se přednostně uspokojí věřitel se zadržovacím právem, a to i před zástavním věřitelem. Časová priorita zástavy je tedy pro pořadí vůči zadržovacímu právu nerozhodná.
+
+**5. Řešení.** Z výtěžku 300 000 Kč se přednostně uspokojí servis S (80 000 Kč) na základě § 1398, ačkoli zástavní právo banky B vzniklo dříve; teprve ze zbytku se uspokojí B. Ekonomické zdůvodnění: S svou prací a materiálem zvýšil/udržel hodnotu věci, z níž se všichni věřitelé uspokojují (paralela k Werkmannspfand). Praktický krok: S doloží oprávněné zadržení a výši pohledávky; v exekuci se přednost promítne do rozvrhu (§ 52 EŘ; NS 21 Cdo 2345/2024). Pozor: přednost platí jen z výtěžku zadržené věci, nikoli z jiného majetku dlužníka.
+
+**6. Varianty.** (a) Kdyby S věc nedržel oprávněně nebo zadržovací právo zaniklo ztrátou detence (§ 1399), přednost dle § 1398 by odpadla a uspokojila by se přednostně zástava B. (b) Kdyby se zpeněžovala jiná věc dlužníka než ta zadržená, přednost § 1398 by se neuplatnila, neboť se váže k výtěžku zadržené věci.
+
+#### G. Protiargumenty a rizika
+
+- *„Dříve zapsaná zástava má vždy přednost."* Neplatí vůči zadržovacímu právu — § 1398 dává věřiteli se zadržovacím právem přednost i před zástavním věřitelem bez ohledu na čas vzniku zástavy (NS 21 Cdo 1572/2019).
+- *„Přednost platí na celý majetek dlužníka."* Ne — pouze z výtěžku zpeněžení zadržené věci; na jiný majetek se nevztahuje.
+- Slabé místo: přednost stojí a padá s platností a trváním zadržovacího práva; zanikne-li (§ 1399) nebo je-li věc držena neprávem (§ 1396), priorita se neuplatní.
+
+#### H. Praktický závěr
+
+Věřitel se zadržovacím právem se z výtěžku zpeněžení zadržené věci uspokojí přednostně, a to i před (dříve vzniklým) zástavním věřitelem (§ 1398). Přednost se však váže jen k zadržené věci a trvá jen potud, pokud trvá platné zadržovací právo.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložit platné a trvající zadržovací právo k zpeněžované věci (§ 1395—1396).
+- [ ] V rozvrhu výtěžku uplatnit přednost dle § 1398 i vůči zástavnímu věřiteli.
+- [ ] Omezit nárok přednosti na výtěžek ze zadržené věci, nikoli z jiného majetku.
+- [ ] Vyčíslit zajištěnou pohledávku a náklady spojené se zpeněžením.
+
+**Typicky rozhodné důkazy / podklady:** doklad o uplatnění a trvání zadržovacího práva, smlouva o opravě/skladování a faktura, výpis z rejstříku zástav (priorita zástavy), rozvrhový/rozdělovací podklad z exekuce či dražby.
 
 ### § 1399 — Zánik
 
@@ -1630,6 +3632,42 @@ Lze zajistit **jakýkoliv dluh**:
   > „Z uvedeného zcela jasně vyplývá, že výklad a aplikace ustanovení § 1399 občanského zákoníku musí být v souladu s dobrými mravy, jakož i principem poctivosti a zákazem zneužití práva."
 - *NS* [21 Cdo 1572/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4267C08B6C78A04C12585AB0018FB18?openDocument) — *Zadržovací právo Zpeněžování*
   > „Podle ustanovení § 1399 o. z. zadržovací právo zaniká a) zánikem zajištěného dluhu nebo zadržené věci, b) vzdá-li se věřitel zadržovacího práva jednostranně či ujednáním s vlastníkem zadržené věci, c) dostane-li se věc trvale z moci věřitele, nebo d) dá-li se věřiteli dostatečná jistota."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Servis S zadržuje vůz dlužníka K pro nezaplacenou opravu (§ 1395). K nabídne S bankovní záruku znějící na celou výši dluhu jako náhradní jistotu. S přesto vůz nevydá a trvá na zaplacení v hotovosti. V jiné větvi téhož případu se vůz dostane z moci S tím, že jej K za nepřítomnosti zaměstnanců z dílny svévolně odveze (ztráta detence). Posléze K celý dluh za opravu zaplatí. Důkazy: doklad o poskytnutí dostatečné jistoty (bankovní záruka/úschova), doklad o ztrátě detence (odvezení věci), doklad o zániku/zaplacení dluhu, korespondence o vzdání se práva.
+
+**2. Právní otázka.** Z jakých důvodů a k jakému okamžiku zaniká zadržovací právo a může je dlužník „vykoupit" poskytnutím dostatečné náhradní jistoty proti vůli věřitele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1399 o. z. — zánik zadržovacího práva: a) zánikem zajištěného dluhu nebo zadržené věci, b) vzdáním se práva, c) trvalou ztrátou detence, d) poskytnutím dostatečné jistoty.
+- *Související ustanovení téhož zákona:* § 1395—1398 (vznik, vyloučení, péče, přednost), § 2012 a násl. (jistota), § 6—8 (poctivost, zákaz zneužití práva), § 1376 (paralela akcesority u zástavy).
+- *Související předpisy:* exekuční řád č. 120/2001 Sb.; insolvenční zákon č. 182/2006 Sb.
+- *Judikatura:* NS 21 Cdo 2976/2023 (výklad a aplikace § 1399 v souladu s dobrými mravy, poctivostí a zákazem zneužití práva; jistota a úschova); NS 21 Cdo 1572/2019 (důvody zániku zadržovacího práva dle § 1399).
+
+**4. Subsumpce.** Nabídne-li K dostatečnou jistotu (bankovní záruku na plnou výši dluhu), je naplněn důvod zániku dle § 1399 písm. d) — zadržovací právo zaniká a S je povinen vůz vydat. Pokud se vůz dostane trvale z moci S (odvezení), zaniká právo dle písm. c) ztrátou detence. Zaplatí-li K dluh, zaniká právo dle písm. a) (zánik zajištěného dluhu). Trvání práva proti dostatečné jistotě by bylo v rozporu s § 1399 a se zásadou poctivosti (NS 21 Cdo 2976/2023).
+
+**5. Řešení.** Poskytnutím dostatečné jistoty (bankovní záruka, hotovost do úschovy) zadržovací právo zaniká ze zákona (§ 1399 písm. d) a S nemá právo vůz nadále zadržovat ani trvat na hotovostní platbě; jeho pohledávka je nově zajištěna jistotou. Dostane-li se věc trvale z moci věřitele (písm. c), právo rovněž zaniká — na rozdíl od zástavy zapsané v rejstříku není detence „obnovitelná" pouhým zápisem. Zaplacením dluhu (písm. a) zaniká zajištění i důvod zadržení. Výklad § 1399 musí respektovat dobré mravy a zákaz zneužití práva (NS 21 Cdo 2976/2023). Praktický krok: dlužník nabídne jistotu a doloží ji; věřitel po zániku vydá věc.
+
+**6. Varianty.** (a) Kdyby nabídnutá jistota nebyla „dostatečná" (např. záruka jen na část dluhu nebo od nedůvěryhodného ručitele), důvod zániku dle písm. d) by nebyl naplněn a zadržovací právo by trvalo. (b) Kdyby věc opustila moc věřitele jen přechodně (např. krátkodobé předání k přepravě s návratem), nešlo by o trvalou ztrátu detence dle písm. c) a právo by nezaniklo.
+
+#### G. Protiargumenty a rizika
+
+- *„Věřitel může držet věc, dokud nedostane zaplaceno v penězích."* Nikoli — poskytne-li dlužník dostatečnou jistotu, zadržovací právo zaniká (§ 1399 písm. d); trvání zadržení by bylo zneužitím práva (NS 21 Cdo 2976/2023); neutralizace: dlužník doloží kvalitu a rozsah jistoty.
+- *„Ztratím-li detenci, právo trvá dál."* Trvalá ztráta detence právo ruší (§ 1399 písm. c); zadržovací právo není (na rozdíl od zapsané zástavy) na držbě nezávislé.
+- Slabé místo: „dostatečnost" jistoty je hodnotící pojem a může být sporná; věřitel může namítat nedostatečnost ručitele či nižší rozsah jistoty, čímž zánik zpochybní.
+
+#### H. Praktický závěr
+
+Zadržovací právo zaniká zánikem dluhu či věci, vzdáním se, trvalou ztrátou detence nebo poskytnutím dostatečné jistoty (§ 1399). Dlužník je může „vykoupit" dostatečnou jistotou; výkon i zánik se posuzují v souladu s dobrými mravy a zákazem zneužití práva.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda nenastal některý z důvodů zániku dle § 1399 (zánik dluhu/věci, vzdání se, ztráta detence, jistota).
+- [ ] Při nabídce náhradní jistoty ověřit její dostatečnost (rozsah, bonita ručitele, forma úschovy).
+- [ ] Po zániku práva věc bez odkladu vydat a vyhnout se zneužití zadržení.
+- [ ] Zdokumentovat okamžik a důvod zániku pro případný spor.
+
+**Typicky rozhodné důkazy / podklady:** doklad o poskytnutí jistoty (bankovní záruka/úschova), doklad o zániku či zaplacení dluhu, doklad o (trvalé) ztrátě detence, projev vzdání se práva.
 
 ---
 

@@ -43,6 +43,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *OS v Prostějově* [8 C 136/2025-234](https://rozhodnuti.justice.cz/rozhodnuti/?id=a1ac479c-a64f-4821-bc8b-05d3541e637a) — *jízdné*
 - *OS v Třebíči* [4 C 66/2025-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=66d2884a-a44e-4b68-ac47-0600815ca82f) — 22. 1. 2026
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cestující si na e-shopu dálkového dopravce koupí jízdenku na autobus z Prahy do Brna na konkrétní spoj v 8:00. Dopravce spoj bez náhrady neodjede (porucha vozidla, posádka se nedostavila). Cestující se musí dostat na pracovní jednání a koupí si narychlo jízdenku jiného dopravce za vyšší cenu, případně jízdné taxi. Účastníci: dopravce (provozovatel linkové dopravy) a cestující (spotřebitel). Právně významné: existence smlouvy o přepravě osoby (koupě jízdenky = uzavření smlouvy), neprovedení přepravy, vzniklá škoda. Důkazy: jízdenka/e-mail s potvrzením, doklad o koupi náhradní jízdenky, informace dopravce o zrušení spoje, přepravní řád a tarif dopravce.
+
+**2. Právní otázka.** Vznikla koupí jízdenky smlouva o přepravě osoby podle § 2550 a jaký je obsah závazku dopravce, pokud spoj neodjede?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2550 — smlouvou o přepravě osoby se dopravce zavazuje přepravit cestujícího do místa určení a cestující zaplatit jízdné; jde o smlouvu konsensuální (vzniká dohodou, nikoli až nástupem do vozu).
+- *Související ustanovení téhož zákona:* § 2551 (péče o bezpečnost a pohodlí, odkaz na přepravní řády), § 2553 (práva při neprovedení přepravy včas, šestiměsíční prekluze), § 2554 (náhrada újmy na zdraví a věci).
+- *Související předpisy:* zákon č. 111/1994 Sb. o silniční dopravě a přepravní řády (vyhl. č. 175/2000 Sb.); u linkové dopravy nařízení EU 181/2011 o právech cestujících v autobusové dopravě.
+- *Judikatura:* NS 33 Cdo 3206/2022 (smlouva o přepravě osob, spotřebitel) a 23 Cdo 1387/2022 — k povaze a výkladu přepravní smlouvy podle § 2550 a násl., citované v tomto komentáři.
+
+**4. Subsumpce.** Koupě jízdenky na konkrétní spoj naplňuje znaky § 2550: dohoda o přepravě do místa určení (Brno) proti jízdnému (zaplaceno). Smlouva tedy vznikla. Dopravce ji nesplnil. Konkrétní rozsah práv cestujícího při zpoždění/neprovedení však neurčuje přímo § 2550, ale § 2553 a přepravní řád/tarif — to je rovina, kterou je třeba doplnit.
+
+**5. Řešení.** Smlouva podle § 2550 platí, dopravce je v prodlení s plněním. Nárok na náhradu škody (rozdíl ceny náhradní přepravy) se posoudí podle § 2553 ve spojení s přepravním řádem; cestující musí právo uplatnit u dopravce bez zbytečného odkladu, nejpozději do šesti měsíců (§ 2553 odst. 3), jinak je soud nepřizná. Procesně: písemná reklamace u dopravce, doložení dokladů, teprve poté žaloba.
+
+**6. Varianty.** (a) Cestující jízdenku nekoupil, jen nastoupil do MHD — smlouva vzniká fakticky nástupem dle tarifu, obsah stejný. (b) Spoj byl jen zpožděn o 10 minut bez následné škody — porušení péče dle § 2551, ale bez vyčíslitelné škody zpravidla bez nároku na peněžité plnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Smlouva vzniká až nástupem do vozidla, do té doby jde jen o nezávaznou rezervaci." Neutralizace: u jmenovité jízdenky na konkrétní spoj jde o konsensuální smlouvu uzavřenou koupí; § 2550 vznik nepodmiňuje nástupem. U otevřených jízdenek (MHD) je naopak vznik vázán na faktický nástup dle tarifu.
+- *Protiargument:* „Dopravce odpovídá jen podle přepravního řádu, ne podle OZ." Neutralizace: přepravní řády konkretizují, ale nemohou vyloučit kogentní jádro (zejm. § 2554 a § 2580 — neúčinnost omezení náhrady újmy na zdraví).
+- *Slabé místo:* § 2550 sám neřeší následky neprovedení; nárok stojí a padá s § 2553 a šestiměsíční prekluzí — riziko ztráty práva při opožděné reklamaci.
+
+#### H. Praktický závěr
+
+Smlouva o přepravě osoby je konsensuální typ vzniklý již koupí jízdenky; § 2550 vymezuje pouze základní synallagma (přeprava × jízdné), následky vad plnění řeší navazující § 2551—2554 a přepravní řády.
+
+**Checklist (advokát / soud / dopravce / cestující):**
+- [ ] Ověřit, zda byla uzavřena smlouva (jmenovitá jízdenka × faktický nástup dle tarifu).
+- [ ] Identifikovat místo určení a sjednané jízdné.
+- [ ] Posoudit, zda jde o pravidelnou či nepravidelnou přepravu (rozhoduje o režimu § 2553).
+- [ ] Hlídat šestiměsíční prekluzivní lhůtu pro uplatnění práva u dopravce (§ 2553 odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** jízdenka nebo potvrzení o koupi, tarif a přepravní řád dopravce, doklad o vzniklé škodě (náhradní jízdenka), komunikace o zrušení/zpoždění spoje.
+
 ### § 2551—2554 — Práva a povinnosti
 
 **§ 2551**:
@@ -91,6 +127,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [25 Cdo 3554/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C87625773A22DBAC1258B5D004D2EE3?openDocument) — *Náhrada škody Nájem prostoru sloužícího k podnikání (o. z.)*
 - *NS* [33 Cdo 3206/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D423CF573EB8686CC12589B700181518?openDocument) — *Promlčení Smlouva o přepravě osob Spotřebitel*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cestující utrpí při prudkém brzdění linkového autobusu pád a zlomeninu zápěstí; současně se mu poškodí notebook, který měl v tašce u sebe, a poškrábe se odbavené zavazadlo přepravované v zavazadlovém prostoru. Účastníci: dopravce a zraněný cestující. Důkazy: lékařská zpráva o úrazu, jízdenka, záznam o nehodě/incidentu, fotodokumentace poškozeného notebooku a zavazadla, případně záznam z kamer ve voze.
+
+**2. Právní otázka.** Podle jakého režimu a v jakém rozsahu odpovídá dopravce za újmu na zdraví cestujícího, za škodu na věci, kterou měl u sebe, a za škodu na odděleně přepravovaném zavazadle?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2551 (péče o bezpečnost), § 2552 (přeprava zavazadel společně/odděleně), § 2553 (následky neprovedení přepravy včas + šestiměsíční prekluze), § 2554 (režim náhrady — odst. 1 odkaz na náhradu škody z provozu dopravních prostředků, odst. 2 odkaz na náhradu při přepravě věci).
+- *Související ustanovení téhož zákona:* § 2927 a násl. (škoda z provozu dopravních prostředků — objektivní odpovědnost s liberací), na něž § 2554 odst. 1 odkazuje; § 2566 a násl. (škoda při přepravě věci) pro odděleně přepravované zavazadlo.
+- *Související předpisy:* zákon č. 30/2024 Sb. o pojištění odpovědnosti z provozu vozidla; přepravní řády.
+- *Judikatura:* NS 25 Cdo 3554/2023 (náhrada škody) a NS 33 Cdo 962/2022 — citované v komentáři; obecně nosný závěr, že újma na zdraví cestujícího se odškodňuje v režimu provozu dopravních prostředků bez ohledu na zavinění dopravce.
+
+**4. Subsumpce.** Úraz zápěstí a poškození notebooku „u sebe" → § 2554 odst. 1 → režim § 2927 (objektivní odpovědnost provozovatele). Poškrábané odbavené zavazadlo → § 2554 odst. 2 → režim přepravy věci (§ 2566 a násl.). Klíčové je rozlišení „u sebe / společně" vs. „odděleně", protože určuje použitelnou normu a liberační důvody.
+
+**5. Řešení.** Za úraz a věc u sebe dopravce odpovídá objektivně; zprostí se jen důkazem nezbytné okolnosti nebo úmyslu/hrubé nedbalosti cestujícího. Za odděleně přepravované zavazadlo se uplatní liberační důvody přepravy věci (vada/povaha věci, vadný obal). Práva je nutné uplatnit u dopravce bez zbytečného odkladu (§ 2553 odst. 3 u zpoždění); u újmy na zdraví platí obecná promlčecí úprava. Procesně: lékařská dokumentace, vyčíslení škody, reklamace, žaloba.
+
+**6. Varianty.** (a) Notebook byl v odbaveném zavazadle, ne u cestujícího → posuzuje se jako přeprava věci s mírnějším režimem pro dopravce. (b) Úraz si cestující způsobil sám tím, že za jízdy stál a nedržel se → spoluúčast či liberace dopravce dle § 2927 a § 2918.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dopravce za úraz neodpovídá, protože brzdil kvůli náhlému vběhnutí chodce do vozovky." Neutralizace: jde o možný liberační důvod (nezbytná okolnost / jednání třetí osoby) v režimu § 2927, dopravce jej však musí prokázat; samotná existence vnější příčiny odpovědnost automaticky nevylučuje.
+- *Protiargument:* „Přepravní řád omezuje náhradu škody na zavazadlech limitem." Neutralizace: u újmy na zdraví je omezení neúčinné (§ 2580 odst. 1); u věcí lze limit připustit, ne však pro úmysl či hrubou nedbalost (§ 2580 odst. 3).
+- *Slabé místo:* hranice mezi věcí „u sebe" a „odděleně přepravovanou" bývá skutkově sporná; chybějící doklad o tom, kde byl notebook v okamžiku škody, oslabuje volbu příznivějšího režimu.
+
+#### H. Praktický závěr
+
+Ustanovení § 2551—2554 rozdělují odpovědnost dopravce do dvou režimů: újma na zdraví a věci u sebe se řeší přísnou odpovědností za provoz dopravních prostředků, odděleně přepravované zavazadlo mírnějším režimem přepravy věci. Rozhodující je správné skutkové zařazení věci a hlídání lhůt.
+
+**Checklist (advokát / soud / dopravce / cestující):**
+- [ ] Zjistit, zda škoda vznikla na zdraví, na věci „u sebe", nebo na odděleně přepravovaném zavazadle (§ 2554 odst. 1 vs. 2).
+- [ ] U újmy na zdraví aplikovat režim provozu dopravních prostředků a vyloučit účinnost omezení náhrady (§ 2580).
+- [ ] Posoudit liberační důvody dopravce (nezbytná okolnost, úmysl/HN cestujícího, vada obalu).
+- [ ] Uplatnit práva ze zpoždění včas v šestiměsíční prekluzivní lhůtě (§ 2553 odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** lékařská zpráva, jízdenka, záznam o incidentu/kamerový záznam, fotodokumentace věci a místa uložení, přepravní řád a tarif.
+
 ---
 
 ### Oddíl 2 — Přeprava věcí (§ 2555—2585)
@@ -114,6 +186,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
   > „1974 pod č. 11/1975 Sb., (dále jen „Úmluva CMR“) a na § 2555 zákona č. 89/2012 Sb., občanského zákoníku, (dále také jen „o. z.“) a uzavřel, že účastnice uzavřely smlouvu o přepravě, tudíž se jejich právní vztah řídí Úmluvou CMR."
 - *NS* [31 Cdo 1163/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8112131096F2EEECC1258D20001607C7?openDocument) — 10. 9. 2025
   > „1974 pod č. 11/1975 Sb., dále jen „Úmluva CMR“, a na ustanovení § 2555 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), jež upravuje přepravní smlouvu."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce nábytku (odesílatel) si objedná u dopravce přepravu zásilky paletovaného zboží z Ostravy příjemci do Plzně. Strany se dohodnou na ceně přepravy a termínu. Jde o čistě vnitrostátní silniční přepravu. Účastníci: odesílatel, dopravce a příjemce. Důkazy: objednávka přepravy a její potvrzení (§ 2556), dodací/nákladní list, doklad o převzetí a vydání zásilky, faktura za přepravné.
+
+**2. Právní otázka.** Vznikla mezi stranami smlouva o přepravě věci podle § 2555 (a nikoli např. smlouva zasílatelská), a řídí se vztah OZ, nebo mezinárodní úmluvou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2555 — dopravce se zavazuje přepravit věc jako zásilku z místa odeslání do místa určení, odesílatel zaplatit přepravné; vymezuje přepravní smlouvu a odlišuje ji od zasílatelství (§ 2471) a smlouvy o provozu dopravního prostředku (§ 2582).
+- *Související ustanovení téhož zákona:* § 2556 (potvrzení objednávky a převzetí), § 2558 (provedení s odbornou péčí), § 2566 (odpovědnost za škodu na zásilce), § 2564 (přepravné).
+- *Související předpisy:* Úmluva CMR (vyhl. č. 11/1975 Sb.) pro mezinárodní silniční nákladní přepravu; zákon č. 111/1994 Sb. o silniční dopravě.
+- *Judikatura:* NS 33 Cdo 121/2024, 24 Cdo 2221/2023, 23 Cdo 198/2024 a 31 Cdo 1163/2025 — všechny citované v komentáři; nosné: u mezinárodní silniční přepravy má přednost Úmluva CMR, § 2555 OZ se použije na vnitrostátní přepravu a podpůrně.
+
+**4. Subsumpce.** Závazek dopravce přepravit paletu zboží z Ostravy do Plzně proti přepravnému naplňuje znaky § 2555. Protože jde o vnitrostátní přepravu (Ostrava–Plzeň), neaktivuje se Úmluva CMR a vztah se řídí § 2555 a násl. OZ. Odlišení od zasílatelství: dopravce přepravu sám provádí (neobstarává ji jen jménem odesílatele).
+
+**5. Řešení.** Smlouva je platná podle § 2555, řídí se OZ. Práva a povinnosti (cena, odpovědnost za škodu, vydání zásilky) se posoudí podle § 2556—2585. Doporučení: vyžádat písemné potvrzení objednávky a převzetí (§ 2556) jako důkaz obsahu a okamžiku převzetí, od něhož běží odpovědnost dopravce. Procesně klíčové je určit okamžik převzetí a vydání zásilky.
+
+**6. Varianty.** (a) Místo určení by bylo v Německu → mezinárodní silniční přeprava → přednostně Úmluva CMR, OZ jen podpůrně. (b) Subjekt by přepravu pouze obstaral u třetího dopravce vlastním jménem na účet zákazníka → nešlo by o přepravu (§ 2555), ale o zasílatelství (§ 2471).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Šlo o zasílatelskou smlouvu, dopravce neodpovídá za provedení přepravy, jen za její obstarání." Neutralizace: rozhoduje obsah závazku — zavázal-li se subjekt přepravit věc (nikoli ji jen obstarat), jde o přepravu dle § 2555; označení smlouvy není rozhodné.
+- *Protiargument:* „Na vztah dopadá Úmluva CMR, ne OZ." Neutralizace: CMR se uplatní jen u mezinárodní přepravy s místem převzetí a dodání v různých státech; u ryze vnitrostátní přepravy platí § 2555 a násl.
+- *Slabé místo:* hranice mezi přepravou, zasílatelstvím a smlouvou o provozu dopravního prostředku je v praxi neostrá; chybějící písemné potvrzení (§ 2556) ztěžuje prokázání typu i obsahu smlouvy.
+
+#### H. Praktický závěr
+
+Smlouva o přepravě věci podle § 2555 je samostatný smluvní typ, který je nutné odlišit od zasílatelství i od smlouvy o provozu dopravního prostředku; u mezinárodní silniční přepravy ustupuje Úmluvě CMR.
+
+**Checklist (advokát / soud / dopravce / odesílatel):**
+- [ ] Posoudit, zda se subjekt zavázal přepravu provést (§ 2555) či pouze obstarat (zasílatelství § 2471).
+- [ ] Určit, zda jde o vnitrostátní (OZ) nebo mezinárodní silniční přepravu (CMR).
+- [ ] Zajistit písemné potvrzení objednávky a převzetí zásilky (§ 2556).
+- [ ] Vymezit místo odeslání a místo určení a okamžik převzetí (rozhodný pro odpovědnost).
+
+**Typicky rozhodné důkazy / podklady:** objednávka a potvrzení přepravy, nákladní/dodací list, doklady o převzetí a vydání zásilky, faktura za přepravné.
 
 ### § 2556—2585 — Klíčová pravidla
 
@@ -285,6 +393,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 - *NS* [23 Cdo 708/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D59A1B49352C6A3C1258C140052AFA9?openDocument) — *Smlouva o přepravě nákladu*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dopravce převezme od odesílatele zásilku elektroniky (50 ks monitorů). Při vykládce u příjemce se zjistí, že 10 monitorů je rozbitých. Odesílatel požaduje náhradu celé hodnoty poškozeného zboží. Dopravce namítá, že zboží bylo nedostatečně zabaleno a na vadný obal odesílatele při převzetí ústně upozornil. Účastníci: odesílatel, dopravce, příjemce. Důkazy: nákladní list a poznámka o stavu obalu, fotodokumentace poškození, faktura prokazující hodnotu zboží, svědectví o stavu při převzetí.
+
+**2. Právní otázka.** Zprostil se dopravce odpovědnosti za škodu na zásilce námitkou vadného obalu, jestliže upozornění neuvedl písemně do nákladního listu (§ 2566 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2566 (objektivní odpovědnost dopravce za škodu na zásilce od převzetí do vydání, liberační důvody včetně vadného obalu; odst. 4 — neúčinnost omezujících ujednání), § 2567 (rozsah náhrady — hodnota zásilky), § 2569 (šestiměsíční prekluze nároku).
+- *Související ustanovení téhož zákona:* § 2557 (správné údaje odesílatele), § 2562 (ručení příjemce), § 2571 (zástavní právo dopravce k zajištění přepravného), § 2572 (náložný list).
+- *Související předpisy:* Úmluva CMR u mezinárodní přepravy (limit náhrady 8,33 SDR/kg); zákon č. 111/1994 Sb.
+- *Judikatura:* NS 23 Cdo 708/2024 (smlouva o přepravě nákladu) citovaná v komentáři; nosný závěr judikatury k limitům odpovědnosti dopravce a k důkaznímu břemenu na straně dopravce ohledně liberačních důvodů.
+
+**4. Subsumpce.** Škoda vznikla v době mezi převzetím a vydáním (§ 2566 odst. 1) → dopravce odpovídá objektivně. Liberace pro vadný obal (§ 2566 odst. 3) je podmíněna tím, že na vadu obalu upozornil; byl-li vydán nákladní list, musí v něm být vada poznamenána. Pouhé ústní upozornění bez záznamu v nákladním listě liberaci nezakládá, ledaže dopravce prokáže, že vadu při převzetí nemohl poznat.
+
+**5. Řešení.** Protože dopravce upozornění na vadný obal neuvedl do nákladního listu, ač byl vydán, liberace podle § 2566 odst. 3 zpravidla neobstojí a dopravce odpovídá za hodnotu 10 poškozených monitorů (§ 2567 odst. 1, resp. odst. 2 při znehodnocení). Odesílatel musí nárok uplatnit u dopravce do šesti měsíců ode dne převzetí zásilky (§ 2569), jinak jej soud nepřizná k námitce dopravce. Ujednání omezující náhradu pod tuto úroveň jsou neúčinná (§ 2566 odst. 4).
+
+**6. Varianty.** (a) Dopravce vadu obalu zapsal do nákladního listu → liberace obstojí, náhradu neplatí. (b) Šlo o mezinárodní přepravu dle CMR → náhrada je limitována 8,33 SDR/kg bez ohledu na skutečnou vyšší hodnotu (nejde-li o úmysl).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dopravce na vadný obal upozornil ústně, to stačí." Neutralizace: byl-li vydán nákladní/náložný list, zákon (§ 2566 odst. 3) výslovně vyžaduje písemnou poznámku v něm; ústní upozornění bez záznamu liberaci nezaloží.
+- *Protiargument:* „Smlouva omezuje odpovědnost dopravce na nižší částku." Neutralizace: k ujednáním omezujícím povinnost dopravce podle § 2566 odst. 1—3 se nepřihlíží (odst. 4); výjimkou jsou jen zákonné limity (CMR).
+- *Slabé místo:* prokázání skutečné hodnoty zásilky a okamžiku vzniku škody; chybí-li doklad o hodnotě nebo o stavu při převzetí, je vyčíslení náhrady sporné.
+
+#### H. Praktický závěr
+
+Dopravce odpovídá za škodu na zásilce objektivně a nese důkazní břemeno o liberačních důvodech; námitku vadného obalu musí při vydaném nákladním listě zaznamenat písemně, jinak neobstojí. Omezení odpovědnosti nad rámec zákonných limitů jsou neúčinná, nárok je prekludován po šesti měsících.
+
+**Checklist (advokát / soud / dopravce / odesílatel):**
+- [ ] Určit okamžik převzetí a vydání zásilky (časový rámec odpovědnosti dle § 2566 odst. 1).
+- [ ] Ověřit, zda byl vydán nákladní/náložný list a zda obsahuje poznámku o vadě obalu.
+- [ ] Posoudit liberační důvody (vada/povaha zásilky, vadný obal, jednání odesílatele/příjemce).
+- [ ] Hlídat šestiměsíční prekluzivní lhůtu nároku (§ 2569) a neúčinnost omezujících ujednání (§ 2566 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** nákladní/náložný list s poznámkami, fotodokumentace poškození, doklad o hodnotě zásilky, potvrzení o převzetí a vydání, případně znalecký posudek k příčině škody.
+
 ---
 
 ## Díl 10 — Kontrolní činnost (§ 2652—2661)
@@ -311,6 +455,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=25dea669-f6c2-40fb-97f2-2b30abfa7108) — *peněžité plnění, smlouva o kontrolní činnosti*
 - *OS v Příbrami* [11 C 156/2022-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=efdf1129-c3c3-4900-b024-7bc415695a43) — *peněžité plnění, smlouva o kontrolní činnosti*
 - *OS v Nymburce* [6 C 32/2021-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=6968389e-05a5-4d1a-bb34-f96581d389d5) — *peněžité plnění, smlouva o dílo, smlouva o kontrolní činnosti*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující ojetého vozu si před koupí objedná u nezávislé akreditované stanice (kontrolora) předprodejní technickou inspekci vozidla. Kontrolor vydá osvědčení, že vůz je bez závad. Po měsíci se projeví závažná koroze nosníků, kterou bylo možné při řádné prohlídce zjistit. Kupující požaduje po kontrolorovi náhradu. Účastníci: objednatel (kupující), kontrolor, popř. prodávající jako třetí osoba. Důkazy: smlouva o kontrolní činnosti, kontrolní osvědčení, znalecký posudek o existenci a zjistitelnosti vady při kontrole, doklad o zaplacení odměny kontrolorovi.
+
+**2. Právní otázka.** Vznikla mezi kupujícím a stanicí smlouva o kontrolní činnosti podle § 2652 a jaký je obsah závazku kontrolora (nestranně zjistit stav věci a vydat osvědčení)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2652 — kontrolor se zavazuje nestranně zjistit stav věci nebo ověřit výsledek činnosti a vydat o tom kontrolní osvědčení; objednatel zaplatit odměnu.
+- *Související ustanovení téhož zákona:* § 2654 (rozsah a způsob obvyklý při obdobných kontrolách), § 2658 (kontrola se nedotýká poměrů k třetím osobám), § 2659 (bez řádné kontroly není právo na odměnu), § 2660 (odpovědnost kontrolora za škodu, subsidiarita vůči nároku z vad od dodavatele).
+- *Související předpisy:* zákon č. 56/2001 Sb. o podmínkách provozu vozidel (STK); předpisy o akreditaci (zákon č. 22/1997 Sb.).
+- *Judikatura:* věci citované v komentáři (OS v Bruntále 18 C 9/2024, ObS pro Prahu 4 15 C 70/2021 — smlouva o kontrolní činnosti); obecně nosný požadavek nestrannosti a odbornosti kontroly.
+
+**4. Subsumpce.** Objednávka nezávislé prohlídky vozu proti odměně naplňuje znaky § 2652: kontrolor má nestranně zjistit stav věci (vozu) a vydat osvědčení. Vydáním osvědčení o bezvadnosti, ač vada byla zjistitelná, kontrolor porušil povinnost provést kontrolu řádně (§ 2654, § 2659). Odpovědnost za škodu se posoudí podle § 2660.
+
+**5. Řešení.** Smlouva podle § 2652 vznikla, kontrolor odpovídá za škodu způsobenou neřádnou kontrolou, avšak jen v rozsahu, v jakém objednatel nemůže dosáhnout náhrady z vadného plnění vůči prodávajícímu (§ 2660 odst. 1). Kupující by měl nejprve uplatnit práva z vad u prodávajícího; teprve neúspěch (či jeho nemožnost) otevírá nárok vůči kontrolorovi. Procesně: znalecký posudek o zjistitelnosti vady při kontrole je klíčový.
+
+**6. Varianty.** (a) Kontrolor objednatele ujistil, že osvědčení je úplné a správné → odpadá subsidiarita a omezení dle § 2660 odst. 2, odpovídá přímo. (b) Šlo o skrytou vadu nezjistitelnou ani při odborné prohlídce → kontrola byla řádná, odpovědnost kontrolora nevzniká.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Kontrolor neručí za stav vozu vůči prodávajícímu, jeho osvědčení se poměrů s prodávajícím netýká (§ 2658)." Neutralizace: správně — osvědčení nemění vztah kupující/prodávající, ale to nevylučuje vlastní odpovědnost kontrolora vůči objednateli za neřádnou kontrolu (§ 2660).
+- *Protiargument:* „Objednatel mohl uplatnit vady u prodávajícího, proto kontrolor neplatí nic." Neutralizace: platí jen, pokud objednatel takové právo skutečně mohl účinně vymáhat; promlčel-li je vlastní vinou, kontrolor odpovědnost nemá, ale jinak ano.
+- *Slabé místo:* prokázání, že vada byla zjistitelná „při kontrole v rozsahu a způsobem obvyklým" (§ 2654) — bez znaleckého posouzení obvyklého rozsahu inspekce je nárok těžko prokazatelný.
+
+#### H. Praktický závěr
+
+Smlouva o kontrolní činnosti zavazuje kontrolora k nestrannému a odbornému zjištění stavu věci a k vydání osvědčení; jeho odpovědnost za vady kontroly je zásadně subsidiární k nárokům z vadného plnění proti dodavateli, není-li dáno zvláštní ujištění o úplnosti osvědčení.
+
+**Checklist (advokát / soud / kontrolor / objednatel):**
+- [ ] Ověřit předmět a sjednaný rozsah kontroly a obvyklý způsob obdobných kontrol (§ 2654).
+- [ ] Posoudit nestrannost kontrolora (nezávislost na dodavateli/objednateli).
+- [ ] Zjistit, zda objednatel mohl účinně vymáhat vady u třetí osoby (subsidiarita dle § 2660 odst. 1).
+- [ ] Ověřit, zda kontrolor poskytl ujištění o úplnosti/správnosti osvědčení (§ 2660 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o kontrolní činnosti, kontrolní osvědčení, znalecký posudek o vadě a její zjistitelnosti, doklady o uplatnění vad u dodavatele.
 
 ### § 2654—2661 — Specifika
 
@@ -356,6 +536,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *ObS pro Prahu 4* [15 C 70/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=25dea669-f6c2-40fb-97f2-2b30abfa7108) — *peněžité plnění, smlouva o kontrolní činnosti*
 - *OS v České Lípě* [51 C 417/2024-61](https://rozhodnuti.justice.cz/rozhodnuti/?id=b07c3d36-e85a-4dc1-ab49-4127a42618ae) — *právní domněnka, dokazování, náklady řízení*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor (objednatel) si pro nákup většího objemu obilí najme inspekční společnost (kontrolora), aby ve skladu prodávajícího ověřila množství a jakost komodity a vydala kontrolní osvědčení. Kontrolor se na sjednané místo dostaví, ale objednatel mu neumožní přístup ke všem silům; kontrolor přesto vydá osvědčení o celém deklarovaném množství. Později se ukáže manko. Účastníci: objednatel, kontrolor. Důkazy: smlouva, osvědčení, doklady o poskytnuté/odepřené součinnosti (§ 2655), záznam o rozsahu provedené kontroly, faktura na odměnu.
+
+**2. Právní otázka.** Vzniklo kontrolorovi právo na odměnu a odpovídá za škodu, jestliže kontrolu provedl jen zčásti kvůli nedostatku součinnosti objednatele, ale osvědčení vystavil jako úplné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2654 (rozsah a způsob obvyklé kontroly, místo, oznámení), § 2655 (povinná součinnost objednatele), § 2656—2657 (vznik práva na odměnu provedením kontroly a vydáním osvědčení, náhrada nákladů, obvyklá odměna), § 2659 (bez řádné kontroly není právo na odměnu), § 2660—2661 (odpovědnost za škodu, přechod práv).
+- *Související ustanovení téhož zákona:* § 2652 (definice), § 2913 (náhrada škody z porušení smluvní povinnosti).
+- *Související předpisy:* předpisy o akreditovaných a autorizovaných osobách; pravidla mezinárodního obchodu (např. inspekce SGS, Incoterms).
+- *Judikatura:* věci k odměně a kontrolní činnosti citované v komentáři (ObS pro Prahu 4 15 C 70/2021; OS v Příbrami 11 C 156/2022).
+
+**4. Subsumpce.** Kontrolor splnil povinnost dostavit se (§ 2654), objednatel však porušil součinnost (§ 2655) tím, že neumožnil přístup ke všem silům. Vydal-li kontrolor přesto osvědčení o úplném množství, neprovedl kontrolu řádně v celém rozsahu (§ 2659) a navíc ujistil o úplnosti osvědčení (§ 2660 odst. 2). Právo na odměnu vzniká jen za řádně provedenou kontrolu.
+
+**5. Řešení.** Pokud kontrolu nebylo možné provést pro nedostatek součinnosti, měl kontrolor osvědčení omezit na skutečně zkontrolovaný rozsah. Vystavil-li osvědčení jako úplné, vystavuje se odpovědnosti za škodu podle § 2660 (a to bez subsidiarity, ujistil-li o úplnosti — odst. 2). Za nezaviněné neprovedení v důsledku odepřené součinnosti by mu jinak náležela přiměřená část odměny a náhrada nákladů (§ 2656, § 2657). Procesně: rozhodný je záznam o rozsahu kontroly a o odepření součinnosti.
+
+**6. Varianty.** (a) Kontrolor v osvědčení výslovně uvede, že část sil nebyla zpřístupněna → osvědčení je řádné v omezeném rozsahu, odpovědnost za manko nevzniká, odměna náleží za provedený rozsah. (b) Součinnost odepřel objednatel a kontrolor proto kontrolu vůbec neprovedl → právo na odměnu nevzniká dle § 2659, ale může vzniknout nárok na náhradu nákladů a škody vůči objednateli za porušení § 2655.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za manko může objednatel, který neumožnil přístup, kontrolor nenese nic." Neutralizace: to platí jen, pokud kontrolor osvědčení omezil na zkontrolovaný rozsah; vystavil-li je jako úplné a ujistil o správnosti, odpovídá podle § 2660 odst. 2 bez ohledu na rozsah kontroly.
+- *Protiargument:* „Kontrolor má právo na celou odměnu, protože se dostavil a osvědčení vydal." Neutralizace: § 2659 váže odměnu na řádné provedení kontroly; neúplná či nesprávná kontrola právo na odměnu vylučuje.
+- *Slabé místo:* prokázání, že vada/manko bylo v nezpřístupněné části zjistitelné a že kontrolor mohl a měl osvědčení omezit; dále subsidiarita § 2660 odst. 1 vůči nárokům proti prodávajícímu.
+
+#### H. Praktický závěr
+
+Kontrolor má právo na odměnu jen za řádně a v obvyklém rozsahu provedenou kontrolu; ujistí-li objednatele o úplnosti či správnosti osvědčení, ztrácí ochranu subsidiarity a odpovídá za škodu přímo. Nedostatek součinnosti objednatele je nutné v osvědčení vyznačit.
+
+**Checklist (advokát / soud / kontrolor / objednatel):**
+- [ ] Posoudit, zda objednatel poskytl součinnost a přístup k předmětu kontroly (§ 2655).
+- [ ] Ověřit, zda osvědčení odpovídá skutečně provedenému rozsahu kontroly (§ 2654, § 2659).
+- [ ] Zjistit, zda kontrolor ujistil o úplnosti/správnosti osvědčení (vyloučení limitu dle § 2660 odst. 2).
+- [ ] Vypořádat právo na odměnu a náhradu nákladů podle skutečného rozsahu (§ 2656, § 2657).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o kontrolní činnosti, kontrolní osvědčení s vymezeným rozsahem, doklady o součinnosti/jejím odepření, záznam o provedené kontrole, doklad o vzniklé škodě.
+
 ---
 
 ## Díl 12 — Zaopatřovací smlouvy (§ 2701—2715)
@@ -381,6 +597,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [29 Cdo 407/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DEB19ED24A23411C1258946001E1D5A?openDocument) — *Smlouva o důchodu Pohledávka vyloučená z uspokojení Insolvenční řízení Smlouva darovací*
   > „Smlouvu o důchodu upravuje ustanovení § 2701 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodiče převedou na syna byt a syn se ve smlouvě zaváže platit jim doživotně měsíční důchod 8 000 Kč jako protihodnotu. Po dvou letech syn platby zastaví. Rodiče (příjemci) se domáhají dlužných splátek. Účastníci: plátce (syn) a příjemci (rodiče). Důkazy: smlouva o důchodu, doklad o převodu bytu jako protiplnění, výpisy o (ne)placení splátek, dožití příjemců.
+
+**2. Právní otázka.** Jde o platnou smlouvu o důchodu podle § 2701 (úplatnou, vázanou na protiplnění převodem bytu), a jaká práva mají příjemci při prodlení plátce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2701 — plátce se zavazuje platit příjemci pravidelně peněžitý důchod a příjemce k protiplnění, jinému plnění, nebo k bezplatnému přijetí důchodu; jde o odvážnou (aleatorní) smlouvu, je-li důchod doživotní.
+- *Související ustanovení téhož zákona:* § 2702—2706 (trvání, výše, splatnost, neúplatný důchod), § 2756 (odvážná smlouva), § 1968 a násl. (prodlení dlužníka), § 2048 (zajištění).
+- *Související předpisy:* katastrální předpisy (zákon č. 256/2013 Sb.) při souvisejícím převodu nemovitosti; daňové předpisy k bezúplatnému/úplatnému plnění.
+- *Judikatura:* NS 29 Cdo 407/2021 (smlouva o důchodu, vztah ke smlouvě darovací a insolvenci), citovaná v komentáři, potvrzující samostatnou úpravu důchodu v § 2701.
+
+**4. Subsumpce.** Závazek syna platit doživotně pravidelný peněžitý důchod proti převodu bytu naplňuje znaky § 2701 jako úplatná smlouva o důchodu. Doživotnost činí smlouvu odvážnou (§ 2756) — celkové plnění závisí na nejisté délce života příjemců. Zastavení plateb je prodlením plátce s opětujícím se plněním.
+
+**5. Řešení.** Smlouva je platná podle § 2701. Příjemci mohou vymáhat splatné splátky důchodu i s úroky z prodlení; u opětujícího se plnění lze žalovat i na plnění budoucí splatné. Protože jde o odvážnou smlouvu, neuplatní se námitka neúměrného zkrácení ani změny okolností (§ 2757), pokud by celkově zaplacené splátky převýšily hodnotu bytu. Procesně: doložit smlouvu, prodlení a trvání života příjemců.
+
+**6. Varianty.** (a) Důchod byl sjednán bezúplatně (jako dar) → blíží se režimu darování, lze zvážit i odvolání pro nevděk u darovací složky. (b) Důchod byl sjednán na dobu určitou, ne doživotně → ztrácí aleatorní povahu a § 2757 se neuplatní, použijí se obecná pravidla o závazcích.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Souhrn zaplacených splátek mnohonásobně převýší cenu bytu, smlouva je neúměrně zkracující." Neutralizace: u doživotního důchodu jde o odvážnou smlouvu, na niž se § 1793 (neúměrné zkrácení) ani § 1765 (změna okolností) nepoužijí — riziko délky života strany vědomě přijaly (§ 2757).
+- *Protiargument:* „Šlo ve skutečnosti o zastřené darování bytu." Neutralizace: byl-li sjednán reálný a vymahatelný důchod, jde o úplatný vztah; rozhoduje skutečný obsah a vůle stran, kterou je třeba doložit.
+- *Slabé místo:* absence zajištění (zástava, výhrada) činí nárok příjemců fakticky závislým na solventnosti plátce; po převodu bytu mají rodiče jen obligační právo na splátky.
+
+#### H. Praktický závěr
+
+Smlouva o důchodu podle § 2701 je samostatný zaopatřovací typ; je-li důchod doživotní, jde o odvážnou smlouvu vyloučenou z korekce neúměrného zkrácení a změny okolností. Pro příjemce je zásadní zajištění nároku, neboť po protiplnění jim zůstává jen obligační pohledávka.
+
+**Checklist (advokát / soud / plátce / příjemce):**
+- [ ] Posoudit úplatnost (protiplnění) vs. bezúplatnost důchodu (§ 2701).
+- [ ] Určit, zda je důchod doživotní (odvážná smlouva, § 2756, § 2757) nebo na dobu určitou.
+- [ ] Zajistit nárok příjemce (zástava/věcné břemeno) zejména při souvisejícím převodu nemovitosti.
+- [ ] U prodlení vyčíslit splatné splátky a úroky z prodlení (§ 1970).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o důchodu, doklad o protiplnění (převod bytu), výpisy plateb, doklad o trvání života příjemců, případně zajišťovací instrumenty.
+
 ### Oddíl 2 — Výměnek (§ 2707—2715)
 
 ### § 2707 — Definice
@@ -398,6 +650,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 - *NS* [22 Cdo 2769/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/511529A85C2574E9C1258521001E453B?openDocument) — *Výměněk (o. z.) Darování Vlastnictví Katastr nemovitostí*
   > „Je-li v souvislosti s darovací smlouvou uzavřena smlouva o výměnku, posuzuje se pro účel předpokládaný § 984 odst. 1 o. z. darovací smlouva zpravidla jako smlouva úplatná."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodiče převedou na dceru rodinný dům a pozemek a ve smlouvě si zřídí výměnek: doživotní bydlení ve dvou místnostech, dodávku otopového dříví a péči v nemoci. Výměnek se zapíše do katastru jako reálné břemeno. Po čase dcera dům prodá třetí osobě, která bydlení rodičům upírá. Účastníci: bývalí vlastníci (oprávnění z výměnku), nabyvatel (dcera), nový vlastník. Důkazy: smlouva o výměnku, výpis z katastru s reálným břemenem, kupní smlouva na dům, doklady o odpírání plnění.
+
+**2. Právní otázka.** Zavazuje výměnek zapsaný jako reálné břemeno i nového vlastníka domu, který nemovitost nabyl od původního zavázaného nabyvatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2707 — smlouvou o výměnku zaopatří nabyvatel (dosavadní vlastník dosavadnímu, resp. právní nástupce bývalému vlastníkovi) určité plnění; typicky bydlení, naturálie a péče.
+- *Související ustanovení téhož zákona:* § 2708—2715 (rozsah a obsah výměnku, změny poměrů), § 1303 a násl. (reálné břemeno), § 1283 (služebnost bytu jako alternativa), § 2076—2078 (změna okolností u výměnku).
+- *Související předpisy:* katastrální zákon č. 256/2013 Sb. (zápis reálného břemene jako podmínka působení vůči třetím osobám).
+- *Judikatura:* NS 22 Cdo 2769/2018 (výměnek, darování, vlastnictví, katastr), citovaná v komentáři — výměnek sjednaný s darovací smlouvou činí darování zpravidla úplatným ve smyslu § 984 odst. 1.
+
+**4. Subsumpce.** Plnění (bydlení, dříví, péče) ve prospěch bývalých vlastníků naplňuje znaky výměnku (§ 2707). Zápisem do katastru vznikl výměnek jako reálné břemeno (§ 1303), které zatěžuje nemovitost a působí vůči každému jejímu vlastníku. Nový vlastník nabyl dům zatížený tímto břemenem, je-li v katastru zapsáno.
+
+**5. Řešení.** Je-li výměnek zapsán jako reálné břemeno, přechází zatížení na nového vlastníka a oprávnění z výměnku se mohou domáhat plnění i po něm (§ 2707 ve spojení s § 1303). Procesně: doložit zápis reálného břemene v katastru a obsah výměnku; domáhat se plnění naturálních dávek, případně jejich peněžní náhrady při nemožnosti. Riziko: nebyl-li výměnek zapsán, působí jen mezi původními stranami a nový vlastník jím vázán není (nabyl-li v dobré víře).
+
+**6. Varianty.** (a) Výměnek nebyl vložen do katastru → jako reálné břemeno vůči novému nabyvateli v dobré víře nepůsobí, oprávnění mají jen obligační nárok vůči dceři. (b) Místo výměnku bylo zřízeno doživotní užívací právo (služebnost bytu dle § 1283) → chrání bydlení, ale nezahrnuje naturální plnění a péči typické pro výměnek.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nový vlastník není smluvní stranou výměnku, nic plnit nemusí." Neutralizace: výměnek zapsaný jako reálné břemeno má věcněprávní povahu a zavazuje každého vlastníka nemovitosti, nikoli jen smluvní stranu (§ 1303).
+- *Protiargument:* „Naturální plnění (dříví, péče) je neurčité a nevymahatelné." Neutralizace: obsah výměnku se vykládá podle smlouvy a místních zvyklostí; při nemožnosti naturálního plnění lze požadovat peněžitou náhradu (§ 2708 a násl.).
+- *Slabé místo:* nezapsaný výměnek poskytuje jen obligační ochranu; dále je sporná konkretizace rozsahu péče v nemoci a její přechod na nového vlastníka, který k oprávněným nemá osobní vztah.
+
+#### H. Praktický závěr
+
+Výměnek podle § 2707 je zaopatřovací institut spojený zpravidla s převodem nemovitosti; jeho věcněprávní účinky vůči dalším nabyvatelům jsou podmíněny zápisem reálného břemene do katastru. Bez zápisu zůstává oprávněným jen obligační nárok proti původnímu nabyvateli.
+
+**Checklist (advokát / soud / nabyvatel / oprávněný z výměnku):**
+- [ ] Ověřit, zda byl výměnek zřízen jako reálné břemeno a zapsán do katastru (§ 1303).
+- [ ] Vymezit obsah výměnku (bydlení, naturálie, péče) a jeho rozsah.
+- [ ] Posoudit přechod zatížení na dalšího nabyvatele a jeho dobrou víru.
+- [ ] Zvážit alternativu/peněžní náhradu při nemožnosti naturálního plnění (§ 2708 a násl.).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o výměnku, výpis z katastru s reálným břemenem, kupní/darovací smlouva na nemovitost, doklady o (ne)poskytování plnění.
 
 ---
 
@@ -423,6 +711,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
   > „Podle odvolacího soudu soud prvního stupně pominul, že žalobce a společnost G byli účastníky společnosti ve smyslu § 2716 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), vytvořené na základě společenské smlouvy ze dne 1. července 2016 za účelem získání a provedení v ní specifikované veřejné zakázky."
 - *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
   > „Podle § 2716 o. z. zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci, vzniká společnost."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Tři stavební firmy (A, B, C) uzavřou společenskou smlouvu, aby společně získaly a provedly veřejnou zakázku na výstavbu mostu (konsorcium). Vkládají kapitál, stroje a pracovní kapacity. Zakázku získají; subdodavatel uplatní vůči konsorciu pohledávku za dodané materiály. Subdodavatel žaluje pouze firmu A. Účastníci: společníci A, B, C; třetí osoba (subdodavatel). Důkazy: společenská smlouva, doklady o vkladech, smlouva se subdodavatelem, doklad, kdo a jak za konsorcium jednal.
+
+**2. Právní otázka.** Vznikla mezi A, B, C společnost podle § 2716 (bez právní osobnosti), a jak je upravena odpovědnost společníků za společné dluhy vůči třetí osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2716 — zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci, vzniká společnost; nemá právní osobnost.
+- *Související ustanovení téhož zákona:* § 2736 (společná a nerozdílná odpovědnost společníků za dluhy ze společné činnosti), § 2737 (jednání společníka jako příkazníka ostatních), § 2719—2721 (majetek a spoluvlastnictví), § 2728 (zisk a ztráta).
+- *Související předpisy:* zákon č. 134/2016 Sb. o zadávání veřejných zakázek (společná účast dodavatelů); zákon č. 90/2012 Sb. o obchodních korporacích (negativní vymezení — společnost OZ není korporace).
+- *Judikatura:* NS 29 Cdo 1370/2022 (společnost o. z., konsorcium pro veřejnou zakázku) a 23 Cdo 1051/2025, citované v komentáři — potvrzují vznik společnosti dle § 2716 společenskou smlouvou.
+
+**4. Subsumpce.** Sdružení tří firem za společným účelem (získání a provedení zakázky) na základě společenské smlouvy naplňuje znaky § 2716 → vznikla společnost bez právní osobnosti. Dluh vůči subdodavateli vzešel ze společné činnosti → uplatní se § 2736 (solidární odpovědnost všech společníků), bez ohledu na to, který společník smlouvu uzavřel.
+
+**5. Řešení.** Subdodavatel může žalovat kteréhokoli společníka (i jen A) na celý dluh, protože společníci odpovídají společně a nerozdílně (§ 2736). Firma A, která zaplatí, má regresní nárok vůči B a C podle jejich podílů (§ 2728). Společnost sama nemá procesní subjektivitu — žalují/jsou žalováni jednotliví společníci. Procesně: doložit, že dluh vznikl ze společné činnosti konsorcia.
+
+**6. Varianty.** (a) Firmy by místo společenské smlouvy založily s.r.o. → odpovídala by korporace, společníci by za dluhy zásadně neručili. (b) Dluh by vznikl z jednání jednoho společníka mimo společný účel (na vlastní účet) → ostatní by solidárně zavázáni nebyli, ledaže by šlo o jednání učiněné navenek jménem společnosti (§ 2737).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Smlouvu se subdodavatelem podepsala jen firma A, ostatní za ni neodpovídají." Neutralizace: u dluhů ze společné činnosti odpovídají všichni společníci solidárně (§ 2736); jednající společník se považuje za příkazníka ostatních (§ 2737).
+- *Protiargument:* „Konsorcium je samostatný subjekt, žalovat se má ono." Neutralizace: společnost dle § 2716 nemá právní osobnost; nositeli práv a povinností jsou jednotliví společníci.
+- *Slabé místo:* prokázání, že konkrétní dluh vznikl „ze společné činnosti" a nikoli z individuální aktivity společníka; dále vymezení podílů pro regres může být sporné, neurčuje-li je smlouva.
+
+#### H. Praktický závěr
+
+Společnost podle § 2716 je sdružení bez právní osobnosti; navenek vystupují a odpovídají jednotliví společníci, a to za dluhy ze společné činnosti společně a nerozdílně. To je zásadní rozdíl od obchodních korporací a hlavní riziko pro účastníky konsorcií.
+
+**Checklist (advokát / soud / společník / třetí osoba):**
+- [ ] Ověřit existenci společenské smlouvy a společného účelu (§ 2716).
+- [ ] Posoudit, zda dluh vznikl ze společné činnosti (aktivace solidarity dle § 2736).
+- [ ] Identifikovat, kdo a jakým jménem vůči třetí osobě jednal (§ 2737).
+- [ ] Určit podíly společníků pro vnitřní vypořádání a regres (§ 2728).
+
+**Typicky rozhodné důkazy / podklady:** společenská smlouva, doklady o vkladech a podílech, smlouvy uzavřené pro společný účel, doklady o jednání za společnost, podklady k regresu.
 
 ### § 2718—2746 — Klíčová pravidla
 
@@ -582,6 +906,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
 - *NS* [23 Cdo 2340/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A4097444C4331454C12583B0003A3E4C?openDocument) — *Společnost (o. z.) Smlouva o sdružení*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost A, B, C provozuje konsorcium (§ 2716). Společník C poruší zákaz konkurence — bez souhlasu ostatních získá na vlastní účet obdobnou zakázku, kterou mohlo realizovat konsorcium. Současně se dostane do prodlení s placením vkladu a podá na sebe insolvenční návrh. Ostatní společníci chtějí C vyloučit a vypořádat jeho podíl. Účastníci: společníci A, B (zůstávající) a C (vystupující/vyloučený). Důkazy: společenská smlouva, doklad o konkurenčním jednání C, doklady o vkladech a podílech, vyúčtování majetku společnosti (§ 2734), insolvenční návrh.
+
+**2. Právní otázka.** Lze společníka C vyloučit pro porušení povinností a zahájení insolvenčního řízení, jaké jsou důsledky pro konkurenční jednání a jak se vypořádá jeho podíl?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2718—2746, zejm. § 2727 (zákaz konkurence a následky), § 2728 (zisk/ztráta), § 2734 (vyúčtování), § 2739 (vystoupení), § 2740 (vyloučení — podstatné porušení, insolvence), § 2741 (vypořádání podílu).
+- *Související ustanovení téhož zákona:* § 2716 (vznik), § 2736 (solidární odpovědnost), § 2744—2746 (zánik společnosti a likvidace majetku).
+- *Související předpisy:* insolvenční zákon č. 182/2006 Sb. (§ 2740 odst. 1 odkazuje na rozhodnutí o úpadku); ZOK pro odlišení od korporací.
+- *Judikatura:* NS 23 Cdo 1051/2025 a 23 Cdo 2340/2018 (společnost o. z., smlouva o sdružení), citované v komentáři.
+
+**4. Subsumpce.** Konkurenční jednání C bez souhlasu ostatních naplňuje § 2727 → A, B se mohou domáhat zdržení se jednání, prohlášení jednání za učiněné na společný účet, vydání odměny či náhrady škody (lhůty 3 měsíce / 1 rok). Zahájení insolvenčního řízení na vlastní návrh C je samostatným důvodem vyloučení dle § 2740 odst. 1 písm. a). Podstatné porušení smlouvy je dalším důvodem.
+
+**5. Řešení.** C lze vyloučit ze společnosti (§ 2740). Z konkurenčního jednání mohou A, B uplatnit nároky dle § 2727 odst. 2, 3 (pozor na prekluzivní lhůty 3 měsíce od zjištění, max. 1 rok od jednání). Vyloučenému C se vyúčtuje a vyplatí podíl na majetku v penězích (§ 2741 odst. 1), současně C vyrovná, k čemu byl vůči společnosti zavázán (odst. 2). Procesně: usnesení/dohoda o vyloučení, vyúčtování dle § 2734.
+
+**6. Varianty.** (a) C by jen vystoupil z vážného důvodu (§ 2739) místo vyloučení → také nárok na vypořádání podílu, ale bez sankčního prvku za porušení. (b) Společnost by měla jen dva společníky a jeden by zemřel bez ujednání o dědicích → společnost by zanikla (§ 2745), nešlo by o vyloučení, ale o likvidaci dle § 2746.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Konkurenční zakázku získal C na vlastní účet, ostatních se to netýká." Neutralizace: § 2727 zakazuje konkurenční jednání bez souhlasu a dává ostatním právo domáhat se, aby bylo jednání prohlášeno za učiněné na společný účet, případně náhrady škody.
+- *Protiargument:* „Insolvence společníka není důvodem vyloučení, dokud není rozhodnuto o úpadku." Neutralizace: již podání insolvenčního návrhu samotným společníkem nebo jeho přistoupení je důvodem dle § 2740 odst. 1 písm. a), b); rozhodnutí o úpadku je dalším samostatným důvodem (písm. c).
+- *Slabé místo:* dodržení prekluzivních lhůt u nároků z konkurence (§ 2727 odst. 2) a správné vyčíslení podílu na majetku nabytém za trvání společnosti pro vypořádání (§ 2741).
+
+#### H. Praktický závěr
+
+Vnitřní poměry společnosti (§ 2718—2746) zahrnují zákaz konkurence se sankčními nároky, taxativní důvody vyloučení společníka včetně insolvence a peněžité vypořádání podílu při zániku členství. Pro praxi jsou kritické krátké prekluzivní lhůty a řádné vyúčtování.
+
+**Checklist (advokát / soud / společník):**
+- [ ] Posoudit, zda jednání společníka porušilo zákaz konkurence (§ 2727) a běh lhůt 3 měsíce / 1 rok.
+- [ ] Ověřit naplnění důvodů vyloučení dle § 2740 (podstatné porušení, insolvence).
+- [ ] Provést vyúčtování majetku společnosti (§ 2734) jako podklad vypořádání.
+- [ ] Vyčíslit podíl vystupujícího/vyloučeného a vzájemné závazky (§ 2741).
+
+**Typicky rozhodné důkazy / podklady:** společenská smlouva, doklady o vkladech a podílech, důkazy o konkurenčním jednání, insolvenční návrh/rozhodnutí, vyúčtování majetku společnosti.
+
 ---
 
 ## Díl 14 — Tichá společnost (§ 2747—2755)
@@ -602,6 +962,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/rozhodnuti/?id=1b9dc27a-10f2-49d3-8f9f-47ea0589456d) — *peněžité plnění*
 - *MS v Praze* [39 CO 316/2022-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=668be310-eba6-4bd7-804e-ddaf61b21465) — *peněžité plnění, rozsudek mezitímní, smlouva o běžném účtu, znalecký posudek*
 - *OS Plzeň-město* [38 C 145/2024-333](https://rozhodnuti.justice.cz/rozhodnuti/?id=6282afa3-56bb-4a6c-a21a-dc996761651d) — *příslušnost soudu, smlouva o zápůjčce, právnická osoba, doručování, dokazování, korporac…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor (tichý společník) vloží 2 mil. Kč do podnikání řemeslníka-podnikatele provozujícího truhlářskou dílnu a sjedná si 25% podíl na zisku. Smlouva o tiché společnosti není navenek zveřejněna, podnikatel podniká vlastním jménem. Po roce podnikatel odmítá tichému společníkovi předložit účetní závěrku a podíl na zisku vyplatit. Účastníci: tichý společník a podnikatel. Důkazy: smlouva o tiché společnosti, doklad o předání vkladu, účetnictví podnikatele, výpočet zisku.
+
+**2. Právní otázka.** Vznikla mezi stranami tichá společnost podle § 2747 (vklad do podnikání proti podílu na zisku), aniž by tichý společník vystupoval navenek, a jaká má vůči podnikateli práva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2747 — smlouvou o tiché společnosti se tichý společník zavazuje vložit vklad do podnikání podnikatele a podílet se na zisku, podnikatel se zavazuje platit část zisku; tichý společník navenek nevystupuje.
+- *Související ustanovení téhož zákona:* § 2748 (předání vkladu, přechod vlastnictví), § 2749 (právo nahlížet do dokladů, vydání účetní závěrky), § 2750 (zavázán je jen podnikatel; ručení při uvedení jména), § 2751—2753 (podíl na zisku a ztrátě), § 2754—2755 (zánik, vypořádání vkladu).
+- *Související předpisy:* zákon o účetnictví č. 563/1991 Sb.; živnostenský zákon č. 455/1991 Sb.
+- *Judikatura:* věci k tiché společnosti citované v komentáři (ObS pro Prahu 2 27 C 26/2024; KS v Plzni 64 Co 257/2025 — ručení).
+
+**4. Subsumpce.** Vklad 2 mil. Kč do podnikání podnikatele proti 25% podílu na zisku, aniž tichý společník vystupuje navenek, naplňuje znaky § 2747. Vlastnictví peněžitého vkladu přešlo na podnikatele (§ 2748 odst. 2). Tichý společník má kogentní právo nahlížet do dokladů a na vydání účetní závěrky (§ 2749), které podnikatel porušuje.
+
+**5. Řešení.** Tichá společnost vznikla platně podle § 2747. Tichý společník se může domáhat zpřístupnění obchodních dokladů a vydání účetní závěrky (§ 2749 — k opačným ujednáním se nepřihlíží) a následně výplaty podílu na zisku z čistého zisku (§ 2751—2752, splatnost do 30 dnů po závěrce). Navenek je z podnikání zavázán jen podnikatel (§ 2750 odst. 1), takže věřitelé podnikatele se na tichého společníka neobracejí. Procesně: žaloba na vydání závěrky a zaplacení podílu.
+
+**6. Varianty.** (a) Jméno tichého společníka by bylo uvedeno v obchodní firmě podnikatele → tichý společník by ručil za dluhy podnikatele (§ 2750 odst. 2). (b) Tichý společník by třetí osobě prohlásil, že podnikají společně → ručil by za dluhy z takto uzavřené smlouvy (§ 2750 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Tichý společník je spoluvlastníkem podniku a může do něj zasahovat." Neutralizace: tichá společnost nezakládá spoluvlastnictví ani řídící práva; podnikání vede výlučně podnikatel vlastním jménem, tichý společník má jen kontrolní a majetková práva (§ 2749, § 2751).
+- *Protiargument:* „Smlouva vylučuje právo nahlížet do účetnictví." Neutralizace: § 2749 je v tomto rozsahu kogentní — k ujednání omezujícímu kontrolní právo se nepřihlíží, osvědčí-li tichý společník rozumný důvod pochybností o správnosti vedení.
+- *Slabé místo:* zjištění skutečné výše čistého zisku závisí na účetnictví podnikatele; bez znaleckého přezkumu může být podíl sporný. Riziko ručení vzniká jen při uvedení jména/prohlášení (§ 2750 odst. 2, 3).
+
+#### H. Praktický závěr
+
+Tichá společnost podle § 2747 je nástroj pasivního financování cizího podnikání: tichý společník vkládá kapitál a podílí se na zisku, navenek však nevystupuje a zásadně neručí. Klíčová jsou jeho kogentní kontrolní práva (§ 2749) a hranice, za nimiž vzniká ručení.
+
+**Checklist (advokát / soud / tichý společník / podnikatel):**
+- [ ] Ověřit obsah smlouvy o tiché společnosti (vklad × podíl na zisku) dle § 2747.
+- [ ] Vymezit, zda tichý společník vystupuje navenek nebo je jeho jméno ve firmě (riziko ručení dle § 2750).
+- [ ] Zajistit výkon kontrolního práva a vydání účetní závěrky (§ 2749).
+- [ ] Vypočítat podíl na zisku z čistého zisku a hlídat splatnost (§ 2751—2752).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o tiché společnosti, doklad o předání vkladu, účetnictví a účetní závěrka podnikatele, výpočet čistého zisku, případně znalecký posudek.
 
 ### § 2748—2755 — Pravidla
 
@@ -684,6 +1080,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *KS v Brně* [38 Co 87/2024-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=40045ba7-7052-4b8c-9117-dcf8cc697921) — *postoupení smlouvy, akcie, pasivní legitimace*
 - *VS v Praze* [7 Cmo 141/2022-122](https://rozhodnuti.justice.cz/rozhodnuti/?id=4463f831-4b4f-4f52-9493-4d529c25f6f5) — 30. 11. 2022
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tichý společník vložil do podnikání podnikatele 1 mil. Kč a sjednal podíl na zisku i ztrátě. Podnikání skončí ve ztrátě, podíl tichého společníka na ztrátě dosáhne výše jeho vkladu. Tichá společnost zaniká. Podnikatel po zániku odmítá tichému společníkovi vrátit cokoli, tichý společník naopak požaduje doplacení části vkladu. Účastníci: tichý společník a podnikatel. Důkazy: smlouva, doklad o vkladu, účetní závěrky za dobu trvání, výpočet podílu na ztrátě, oznámení o zániku.
+
+**2. Právní otázka.** Jak se vypořádá vklad tichého společníka při zániku tiché společnosti, dosáhl-li jeho podíl na ztrátě výše vkladu, a je tichý společník povinen vklad o ztrátu doplnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2748—2755, zejm. § 2751 (podíl na zisku/ztrátě, kogentní účast), § 2753 (podíl na ztrátě jen do výše vkladu, tichý společník nedoplácí), § 2754 (zánik — mj. dosažení ztráty ve výši vkladu), § 2755 (vydání vkladu upraveného o výsledek po zániku).
+- *Související ustanovení téhož zákona:* § 2747 (definice), § 2749 (kontrola), § 2756 (odvážná smlouva).
+- *Související předpisy:* zákon o účetnictví č. 563/1991 Sb.; insolvenční zákon č. 182/2006 Sb. (§ 2754 odst. 2 písm. c).
+- *Judikatura:* věci k tiché společnosti a ručení citované v komentáři (KS v Plzni 64 Co 257/2025; VS v Praze 7 Cmo 141/2022).
+
+**4. Subsumpce.** Podíl tichého společníka na ztrátě dosáhl výše vkladu → naplněn důvod zániku dle § 2754 odst. 2 písm. a) (neuhradí-li podíl nebo nedoplní vklad). O podíl na ztrátě se vklad snižuje (§ 2753 odst. 1), avšak tichý společník není povinen vklad o ztrátu doplnit. Po zániku se vydá vklad upravený o výsledek (§ 2755).
+
+**5. Řešení.** Tichý společník není povinen vklad o podíl na ztrátě doplácet (§ 2753 odst. 1 věta poslední). Dosáhla-li ztráta výše vkladu, vklad se vyčerpá a tichému společníkovi se po zániku nevrací nic (§ 2755), ale ani nedoplácí. Pokud mu byl dříve vyplacen podíl na zisku, nemusí jej při pozdější ztrátě vracet (§ 2753 odst. 2). Procesně: rozhodné je vyčíslení výsledku podnikání ke dni zániku z účetnictví.
+
+**6. Varianty.** (a) Ztráta by nedosáhla výše vkladu → po zániku se tichému společníkovi vydá zbytek vkladu snížený o podíl na ztrátě (§ 2755). (b) Strany by sjednaly, že se tichý společník na ztrátě nepodílí → k takovému ujednání se nepřihlíží (§ 2753 odst. 1), účast na ztrátě do výše vkladu zůstává.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Tichý společník musí doplnit vklad o celou ztrátu, podílí se přece na ztrátě stejně jako na zisku." Neutralizace: účast na ztrátě je omezena výší vkladu; § 2753 výslovně vylučuje povinnost vklad doplnit nad jeho výši.
+- *Protiargument:* „Vyplacený podíl na zisku z minulých let musí tichý společník při ztrátě vrátit." Neutralizace: § 2753 odst. 2 to vylučuje — již vyplacený zisk se při pozdější ztrátě nevrací.
+- *Slabé místo:* správné účetní vyčíslení výsledku ke dni zániku (§ 2755) a odečet zákonných přídělů do fondů (§ 2751 odst. 2); spornost účetnictví podnikatele může vést k potřebě znalce.
+
+#### H. Praktický závěr
+
+Při zániku tiché společnosti se vklad vypořádá podle § 2755 jako vklad upravený o výsledek podnikání; účast tichého společníka na ztrátě je stropována výší vkladu (§ 2753), doplácet ji nemusí a vyplacený zisk nevrací. Pravidla jsou v jádru kogentní.
+
+**Checklist (advokát / soud / tichý společník / podnikatel):**
+- [ ] Vyčíslit výsledek podnikání (zisk/ztrátu) ke dni zániku z účetnictví (§ 2755).
+- [ ] Ověřit, zda podíl na ztrátě nedosáhl výše vkladu (důvod zániku dle § 2754 odst. 2 písm. a).
+- [ ] Aplikovat strop ztráty na výši vkladu a vyloučit povinnost doplnění (§ 2753).
+- [ ] Posoudit, zda byl dříve vyplacen zisk (nevrací se, § 2753 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o tiché společnosti, doklad o vkladu, účetní závěrky a výpočet výsledku ke dni zániku, doklady o předchozích výplatách zisku, oznámení/důvod zániku.
+
 ---
 
 ## Díl 15 — Závazky z odvážných smluv (§ 2756—2883)
@@ -709,6 +1141,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *OS v Jičíně* [5 C 73/2022-50](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce26632e-f222-4d37-a41b-4935e56e421c) — *peněžité plnění, pojištění*
 - *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=7ab36a50-09b5-4e02-9d3b-2bbfff42cc3f) — 29. 8. 2023
 - *KS v Brně* [60 Co 215/2025-210](https://rozhodnuti.justice.cz/rozhodnuti/?id=38ecd8e7-09bf-4783-be9b-39bb6f6cbc8c) — *náhrada nákladů, podnikatel, odvolání, náklady řízení, odstoupení od smlouvy, lhůty, hod…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel uzavře s obchodním partnerem doživotní rentní smlouvu výměnou za jednorázový převod nemovitosti. Po několika letech prudce vzroste inflace a hodnota pravidelné renty reálně poklesne; příjemce renty se domáhá zvýšení splátek s odkazem na podstatnou změnu okolností (§ 1765). Druhá strana namítá, že jde o odvážnou smlouvu, na niž se změna okolností nepoužije. Účastníci: plátce a příjemce doživotní renty. Důkazy: rentní smlouva, doklad o protiplnění, údaje o inflaci, ujednání o (ne)valorizaci.
+
+**2. Právní otázka.** Jde o odvážnou smlouvu podle § 2756 s důsledkem vyloučení institutu změny okolností a neúměrného zkrácení (§ 2757)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2756 — závisí-li prospěch nebo neprospěch alespoň jedné strany na nejisté události, jde o smlouvu odvážnou; § 2757 — na odvážné smlouvy se nepoužijí ustanovení o změně okolností (§ 1764—1766) a o neúměrném zkrácení (§ 1793—1795).
+- *Související ustanovení téhož zákona:* § 1765 (změna okolností), § 1793 (neúměrné zkrácení), § 2701 (důchod jako možná odvážná smlouva), § 2758 a násl. (pojištění jako typická odvážná smlouva).
+- *Související předpisy:* — (jde o obecnou kvalifikaci v rámci OZ).
+- *Judikatura:* věci k pojištění coby odvážné smlouvě citované v komentáři (NS 33 Cdo 605/2024 — škodové pojištění jako odvážná smlouva); obecně doktrína k aleatornímu charakteru rentních a pojistných smluv.
+
+**4. Subsumpce.** Doživotní renta činí celkový rozsah plnění závislým na nejisté události (délka života příjemce) → smlouva je odvážná (§ 2756). Na ni dopadá vyloučení dle § 2757: nelze se dovolávat změny okolností (inflace) ani neúměrného zkrácení. Riziko vývoje hodnoty plnění strany převzaly jako pojmový znak aleatorní smlouvy.
+
+**5. Řešení.** Příjemce se nemůže úspěšně domáhat zvýšení splátek podle § 1765, protože § 2757 použití tohoto institutu na odvážné smlouvy vylučuje. Jediná cesta k valorizaci je smluvní (valorizační doložka). Procesně: obrana plátce spočívá v kvalifikaci smlouvy jako odvážné; příjemce by musel tvrdit, že o odvážnou smlouvu nejde (např. renta na krátkou určitou dobu).
+
+**6. Varianty.** (a) Renta by byla sjednána na pevnou dobu určitou s předem daným počtem splátek → ztrácí aleatorní povahu, § 2757 se neuplatní a změna okolností by byla v zásadě možná. (b) Strany by ve smlouvě sjednaly valorizační doložku → zvýšení splátek by se opíralo o smlouvu, nikoli o § 1765.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Inflace je podstatná změna okolností, soud má plnění upravit." Neutralizace: § 2757 výslovně vylučuje aplikaci § 1764—1766 na odvážné smlouvy; aleatorní riziko zahrnuje i nepříznivý ekonomický vývoj.
+- *Protiargument:* „Plnění se stalo hrubě nepoměrným, jde o neúměrné zkrácení." Neutralizace: u odvážných smluv je disproporce plnění pojmovým znakem; § 1793—1795 se proto nepoužijí (§ 2757).
+- *Slabé místo:* hranice mezi odvážnou a běžnou úplatnou smlouvou — je-li nejistota jen okrajová, kvalifikace jako odvážné smlouvy může být zpochybněna a vyloučení dle § 2757 by neobstálo.
+
+#### H. Praktický závěr
+
+Odvážná smlouva podle § 2756 je charakterizována závislostí prospěchu/neprospěchu na nejisté události; její zásadní praktický důsledek je vyloučení korekce změnou okolností a neúměrným zkrácením (§ 2757). Ochranu proti nepříznivému vývoji musí strany řešit smluvně.
+
+**Checklist (advokát / soud / strany):**
+- [ ] Posoudit, zda prospěch/neprospěch strany závisí na nejisté události (kvalifikace dle § 2756).
+- [ ] Při kladné kvalifikaci vyloučit aplikaci § 1765 a § 1793 (§ 2757).
+- [ ] Ověřit, zda smlouva obsahuje valorizační či jinou ochrannou doložku.
+- [ ] Odlišit odvážnou smlouvu od běžné úplatné s pouze okrajovou nejistotou.
+
+**Typicky rozhodné důkazy / podklady:** text smlouvy a její ujednání o riziku a valorizaci, doklad o protiplnění, údaje o tvrzené změně okolností (inflace), případně znalecké vyčíslení nepoměru.
 
 ---
 
@@ -750,6 +1218,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [27 Cdo 935/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/752DD9DFD6E8FC7CC1258956001E0244?openDocument) — 30. 11. 2022
   > „Nedodržení požadavku písemné formy pojistné smlouvy podle § 2758 odst. 2 věty první o. z. nezakládá samo o sobě absolutní neplatnost pojistné smlouvy."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Majitel rodinného domu sjedná telefonicky a poté online pojištění nemovitosti; pojistitel mu zašle pojistku a inkasuje pojistné. Dům následně poškodí požár. Pojistitel odmítá plnit s tvrzením, že pojistná smlouva nebyla uzavřena v písemné formě a je neplatná. Účastníci: pojistitel (pojišťovna) a pojistník (majitel domu). Důkazy: návrh pojištění, pojistka (pojistný certifikát), doklad o zaplacení pojistného, pojistné podmínky, doklad o vzniku a rozsahu škody.
+
+**2. Právní otázka.** Vznikla platná pojistná smlouva podle § 2758, ačkoli nebyla podepsána v listinné písemné formě, byla-li uzavřena distančně a pojistné zaplaceno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2758 — pojistnou smlouvou se pojistitel zavazuje poskytnout pojistné plnění při nahodilé pojistné události a pojistník zaplatit pojistné; odst. 2 vyžaduje písemnou formu, ledaže pojistitel přijetí potvrdí jinak (pojistka, zaplacení).
+- *Související ustanovení téhož zákona:* § 2759 (obsah a pojistné podmínky), § 2760 (potvrzení — pojistka), § 2772 (vznik pojištění), § 582 (následky nedostatku formy — relativní neplatnost).
+- *Související předpisy:* zákon č. 277/2009 Sb. o pojišťovnictví; zákon č. 170/2018 Sb. o distribuci pojištění; u distančních smluv § 1820 a násl. OZ.
+- *Judikatura:* NS 27 Cdo 935/2022 — citovaná v komentáři: nedodržení požadavku písemné formy podle § 2758 odst. 2 věty první samo o sobě nezakládá absolutní neplatnost pojistné smlouvy; dále NS 23 Cdo 2037/2020 k definici pojistné smlouvy.
+
+**4. Subsumpce.** Návrh pojištění, vystavení pojistky a zaplacení pojistného naplňují podstatu § 2758 odst. 1 (závazek krytí nahodilé události × pojistné). Nedostatek listinné formy nezpůsobuje absolutní neplatnost; jde nanejvýš o relativní neplatnost (§ 582), kterou navíc konvaliduje potvrzení přijetí pojistkou a placení pojistného (§ 2758 odst. 2 in fine).
+
+**5. Řešení.** Pojistná smlouva vznikla platně; pojistitel nemůže odmítnout plnění pouze s odkazem na chybějící podpis, neboť přijetí potvrdil pojistkou a inkasem pojistného. Pojistitel je povinen plnit za podmínek pojistných podmínek (s výhradou výluk a šetření dle § 2796 a násl.). Procesně: pojistník doloží pojistku, zaplacení pojistného a pojistnou událost.
+
+**6. Varianty.** (a) Pojistitel by přijetí nijak nepotvrdil a pojistné by nebylo zaplaceno → absence formy i potvrzení by mohla vést k závěru, že smlouva nevznikla. (b) Pojistník by v nabídce zatajil, že požár již hrozí/nastal → § 2772 odst. 2 vylučuje plnění, věděl-li pojistník, že událost již nastala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez písemné formy je pojistná smlouva neplatná, plnit nelze." Neutralizace: dle NS 27 Cdo 935/2022 nezakládá nedostatek formy absolutní neplatnost; potvrzení pojistitele (pojistka) a placení pojistné nahrazují (§ 2758 odst. 2).
+- *Protiargument:* „Strany se na obsahu nedohodly dostatečně určitě." Neutralizace: obsah doplňují pojistné podmínky (§ 2759), na něž pojistka odkazuje; určitost zpravidla není vyloučena.
+- *Slabé místo:* prokázání okamžiku vzniku pojištění (§ 2772) a toho, že pojistná událost nastala až po jeho vzniku; dále možné výluky v pojistných podmínkách, které plnění omezují nezávisle na formě smlouvy.
+
+#### H. Praktický závěr
+
+Pojistná smlouva podle § 2758 je odvážná smlouva o krytí nahodilé události; požadavek písemné formy je oslabený — přijetí potvrzené pojistkou a zaplacením pojistného smlouvu zakládá i bez podpisu a nedostatek formy nevede k absolutní neplatnosti.
+
+**Checklist (advokát / soud / pojistitel / pojistník):**
+- [ ] Ověřit existenci návrhu, pojistky a zaplacení pojistného (§ 2758 odst. 2, § 2760).
+- [ ] Posoudit, zda nedostatek formy způsobuje jen relativní neplatnost a zda byla konvalidována.
+- [ ] Určit okamžik vzniku pojištění a vztah k době pojistné události (§ 2772).
+- [ ] Zkontrolovat pojistné podmínky a výluky relevantní pro plnění.
+
+**Typicky rozhodné důkazy / podklady:** návrh pojištění, pojistka/certifikát, doklad o úhradě pojistného, pojistné podmínky, doklad o pojistné události a její výši.
+
 ### § 2761—2765 — Pojistný zájem
 
 **§ 2761**:
@@ -785,6 +1289,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *ObS pro Prahu 6* [14 C 305/2022-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=83a08468-97fa-44af-ba85-d9c12a5068ba) — *peněžité plnění, pojištění odpovědnosti za škodu*
 - *ObS pro Prahu 8* [10 C 58/2022-175](https://rozhodnuti.justice.cz/rozhodnuti/?id=24ce7e25-e305-47cd-9702-08a55584d999) — *peněžité plnění, znalecký posudek*
 - *MS v Praze* [53 CO 247/2022-104](https://rozhodnuti.justice.cz/rozhodnuti/?id=301d15b1-4d91-4cdd-a8cc-008fe5066bb7) — *náklady léčení, pasivní legitimace, peněžité plnění, pojištění odpovědnosti za škodu, ru…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel uzavře životní pojištění pro případ smrti na život svého obchodního společníka, aniž by k tomu měl jakýkoli vztah zakládající oprávněnou potřebu ochrany, a sám se určí jako oprávněná osoba. Pojištěný (společník) o pojištění neví a souhlas nedal. Po pojistné události pojistitel namítá neexistenci pojistného zájmu. Účastníci: pojistník (podnikatel), pojištěný (společník), pojistitel. Důkazy: pojistná smlouva, doklad o vztahu mezi pojistníkem a pojištěným, (ne)existence souhlasu pojištěného, korespondence.
+
+**2. Právní otázka.** Je pojistná smlouva platná, chyběl-li pojistníkovi pojistný zájem na životě cizí osoby a pojištěný nedal souhlas (§ 2761—2764)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2761 (pojistný zájem = oprávněná potřeba ochrany), § 2762 (zájem na vlastním i cizím životě/majetku za podmínek), § 2763 (budoucí zájem), § 2764 (neexistence zájmu → neplatnost), § 2765 (zánik zájmu → zánik pojištění).
+- *Související ustanovení téhož zákona:* § 2758 (definice), § 2767 (souhlas pojištěného u cizí hodnoty), § 580, § 588 (neplatnost), § 2831 (osoby oprávněné při smrti).
+- *Související předpisy:* zákon č. 277/2009 Sb. o pojišťovnictví.
+- *Judikatura:* věci k pojištění majetku a pojistnému zájmu citované v komentáři; obecně nosný princip, že pojistný zájem je conditio sine qua non platnosti pojištění a brání spekulativnímu „pojišťování cizí věci, aby zanikla".
+
+**4. Subsumpce.** Pojistník neměl k pojištěnému vztah zakládající oprávněnou potřebu ochrany (§ 2761, § 2762) a pojištěný nedal souhlas, kterým by se zájem presumoval (§ 2762 odst. 3). Chyběl tedy pojistný zájem. Důsledek určuje § 2764: věděl-li nebo musel-li o tom pojistitel, je smlouva neplatná; jinak je neplatná též, ale pojistiteli náleží odměna do doby zjištění.
+
+**5. Řešení.** Smlouva je pro neexistenci pojistného zájmu neplatná (§ 2764); pojistitel není povinen plnit. Pokud o absenci zájmu nevěděl ani nemohl vědět, náleží mu odměna odpovídající pojistnému do doby, kdy se o neplatnosti dozvěděl (§ 2764 odst. 2). Procesně: rozhodné je prokázání (ne)existence vztahu zakládajícího zájem a (ne)udělení souhlasu pojištěného. Zanikl-li by zájem až za trvání pojištění, zaniklo by pojištění dle § 2765.
+
+**6. Varianty.** (a) Pojistník by prokázal ekonomický prospěch z pokračování života společníka (např. klíčová osoba firmy — „keyman") → pojistný zájem by byl dán a smlouva platná. (b) Pojištěný by dodatečně udělil souhlas → zájem se má za prokázaný (§ 2762 odst. 3) a smlouva by obstála.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojistník zaplatil pojistné, smlouva proto platí." Neutralizace: placení pojistného nenahrazuje pojistný zájem; bez něj je smlouva neplatná (§ 2764) bez ohledu na úhradu.
+- *Protiargument:* „Pojistný zájem na cizím životě stačí tvrdit." Neutralizace: u cizí hodnoty se zájem buď osvědčuje vztahem/prospěchem (§ 2762), nebo presumuje souhlasem pojištěného (odst. 3); pouhé tvrzení nestačí.
+- *Slabé místo:* hranice „oprávněné potřeby ochrany" je neurčitý pojem; u keyman pojištění je třeba doložit konkrétní ekonomický prospěch. Spornost data zániku zájmu ovlivňuje rozsah pojistného dle § 2765.
+
+#### H. Praktický závěr
+
+Pojistný zájem (§ 2761) je fundamentální podmínkou platnosti pojištění; u cizí hodnoty musí být osvědčen vztahem/prospěchem nebo presumován souhlasem pojištěného. Jeho absence vede k neplatnosti smlouvy (§ 2764), jeho pozdější zánik k zániku pojištění (§ 2765).
+
+**Checklist (advokát / soud / pojistitel / pojistník):**
+- [ ] Identifikovat, čí hodnota je pojištěna (vlastní × cizí) a zda jde o život, zdraví či majetek.
+- [ ] U cizí hodnoty ověřit oprávněnou potřebu ochrany nebo souhlas pojištěného (§ 2762).
+- [ ] Posoudit důsledek absence zájmu a vědomost pojistitele (§ 2764).
+- [ ] Zjistit, zda pojistný zájem trval po celou dobu pojištění (§ 2765).
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva, doklady o vztahu/ekonomickém prospěchu zakládajícím zájem, souhlas pojištěného, doklad o zaplaceném pojistném, podklady k okamžiku zániku zájmu.
 
 ### § 2766—2772 — Strany pojištění
 
@@ -830,6 +1370,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
 - *NS* [23 Cdo 369/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D26ABAD451A0A222C1258B46004D1850?openDocument) — *Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad právních jednání (o. z…*
   > „Za této situace pak již neměl důvod zabývat se otázkou kogentnosti ustanovení § 2766 o. z., od kterého se pojistná smlouva (jak její obsah vyložil) neodchylovala, ani otázkou 4) vycházející z předpokladu, že jako pojištěný byla ve smlouvě určena osoba odlišná od vlastníka předmětné budovy."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Manželka (pojistník) uzavře ve vlastní prospěch pojištění pro případ smrti svého manžela (pojištěného); manžel s pojištěním souhlasí. Po dvou letech manželka pojistnou smlouvu postoupí třetí osobě (věřiteli) bez souhlasu manžela. Manžel namítá neúčinnost postoupení. Účastníci: pojistník (manželka), pojištěný (manžel), postupník (věřitel), pojistitel. Důkazy: pojistná smlouva, souhlas pojištěného s pojištěním, smlouva o postoupení pojistné smlouvy, doklad o (ne)souhlasu pojištěného s postoupením.
+
+**2. Právní otázka.** Je účinné postoupení pojistné smlouvy týkající se cizí hodnoty pojistného zájmu (života pojištěného) bez souhlasu pojištěného (§ 2767 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2766 (pojištěný), § 2767 (pojištění cizí hodnoty ve vlastní prospěch — souhlas pojištěného, zánik bez souhlasu, neúčinnost postoupení bez souhlasu), § 2768 (pojištění ve prospěch třetí osoby), § 2770 (oprávněná osoba), § 2771 (zákaz dispozice s promlčecí lhůtou), § 2772 (vznik pojištění).
+- *Související ustanovení téhož zákona:* § 2761—2765 (pojistný zájem), § 2831 (osoby oprávněné při smrti), § 1895 a násl. (postoupení smlouvy).
+- *Související předpisy:* zákon č. 277/2009 Sb. o pojišťovnictví; antidiskriminační rámec (§ 2769 — zákaz diskriminačních hledisek při výpočtu).
+- *Judikatura:* NS 23 Cdo 369/2023 (k vymezení pojištěného a osoby odlišné od vlastníka) a NS 25 Cdo 1262/2025, citované v komentáři.
+
+**4. Subsumpce.** Pojištěna je cizí hodnota (život manžela) ve vlastní prospěch pojistníka (§ 2767 odst. 1); souhlas pojištěného s pojištěním byl dán. Postoupení smlouvy se však dotýká postavení pojištěného, a proto vyžaduje jeho souhlas; bez něj se k postoupení nepřihlíží (§ 2767 odst. 3). Výjimka (postupník, u něhož se souhlas nevyžaduje) zde dána není.
+
+**5. Řešení.** Postoupení pojistné smlouvy bez souhlasu pojištěného je neúčinné — nepřihlíží se k němu (§ 2767 odst. 3). Pojistná smlouva zůstává mezi původními stranami; postupník (věřitel) práva z ní nenabyl. Procesně: manžel doloží, že souhlas s postoupením nedal a že nejde o privilegovaného postupníka. Pozor i na § 2767 odst. 2 — chybí-li u pojištění cizí hodnoty vyžadovaný souhlas, pojištění do 3 měsíců zaniká.
+
+**6. Varianty.** (a) Pojištěný by s postoupením souhlasil → postoupení by bylo účinné a postupník by vstoupil do práv pojistníka. (b) Postupníkem by byla osoba, u níž se souhlas k pojištění daného nebezpečí nevyžaduje → postoupení by bylo účinné i bez souhlasu (§ 2767 odst. 3 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojistníkem je manželka, smlouvou může volně disponovat včetně postoupení." Neutralizace: jde o pojištění cizí hodnoty; § 2767 odst. 3 podmiňuje postoupení souhlasem pojištěného, jinak je neúčinné.
+- *Protiargument:* „Souhlas pojištěného s pojištěním kryje i pozdější postoupení." Neutralizace: souhlas s pojištěním a souhlas s postoupením jsou odlišné úkony; první nezahrnuje druhý.
+- *Slabé místo:* posouzení, zda postupník nespadá do kategorie osob, u nichž se souhlas nevyžaduje; dále riziko zániku pojištění pro absenci souhlasu dle § 2767 odst. 2, je-li souhlas vůbec vyžadován a nebyl udělen včas.
+
+#### H. Praktický závěr
+
+U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojištěného chráněno: jeho souhlas je podmínkou jak trvání pojištění, tak účinnosti postoupení smlouvy. Bez souhlasu se k postoupení nepřihlíží a pojištění může zaniknout.
+
+**Checklist (advokát / soud / pojistitel / pojistník / pojištěný):**
+- [ ] Určit, zda je pojištěna vlastní nebo cizí hodnota a kdo je pojištěným (§ 2766, § 2767).
+- [ ] Ověřit souhlas pojištěného s pojištěním a samostatně s postoupením smlouvy (§ 2767 odst. 2, 3).
+- [ ] Posoudit, zda postupník nepatří mezi osoby, u nichž se souhlas nevyžaduje.
+- [ ] Zkontrolovat určení oprávněné osoby a vznik pojištění (§ 2770, § 2772).
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva, písemný souhlas pojištěného (s pojištěním i postoupením), smlouva o postoupení, doklad o postavení postupníka, korespondence s pojistitelem.
 
 ### Pododdíl 2 — Pojistné období (§ 2773—2785)
 
@@ -923,6 +1499,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *OS v Berouně* [18 C 87/2020-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=972b5222-6f8b-4073-bfb6-3eb780c43b38) — *peněžité plnění, software*
 - *ObS pro Prahu 6* [27 C 358/2022-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=7ab36a50-09b5-4e02-9d3b-2bbfff42cc3f) — 29. 8. 2023
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dva přátelé uzavřou soukromou sázku o výsledek fotbalového zápasu o 50 000 Kč. Poražený odmítne výhru zaplatit. Vítěz se domáhá zaplacení u soudu jako běžné pohledávky ze smlouvy. Účastníci: vsázející a protistrana. Druhá rovina: tentýž poražený si na sázku předem půjčil 30 000 Kč od třetí osoby, která o účelu věděla. Důkazy: doklad o sázce (chat, svědci), výsledek zápasu, smlouva o zápůjčce a vědomost zapůjčitele o účelu.
+
+**2. Právní otázka.** Jde o sázku podle § 2873 a je pohledávka z ní (a z půjčky vědomě poskytnuté k sázce) soudně vymahatelná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2873 (definice sázky), § 2874 (hra), § 2875 (los); § 2876 (soudní snížení přemrštěné výhry), § 2877 (nevymahatelnost zápůjčky/úvěru k sázce), § 2878 (nemožnost zajištění a uznání dluhu).
+- *Související ustanovení téhož zákona:* § 2756 (odvážná smlouva), § 1791 (kauza), § 2997 (vyloučení vrácení plnění z nevymahatelného dluhu — naturální obligace).
+- *Související předpisy:* zákon č. 186/2016 Sb. o hazardních hrách (povolené hry → § 2883 výjimka z nevymahatelnosti).
+- *Judikatura:* věci k sázce a půjčce na hru citované v komentáři (KS v Plzni 14 Co 50/2025 — smlouva o půjčce, neplatnost; OS Praha-západ 8 C 61/2020); obecně ustálený závěr o povaze sázky jako naturální obligace.
+
+**4. Subsumpce.** Soukromá sázka o výsledek zápasu mezi dvěma osobami, které událost neovlivňují, naplňuje § 2873. Pohledávka z ní je naturální obligací — soudně nevymahatelnou (závěr plynoucí z § 2874—2878 a systematiky odvážných smluv). Půjčka 30 000 Kč poskytnutá vědomě k sázce je rovněž nevymahatelná (§ 2877) a nelze ji platně zajistit ani uznat (§ 2878).
+
+**5. Řešení.** Žaloba na zaplacení výhry 50 000 Kč by byla zamítnuta — pohledávka ze sázky není soudně vymahatelná. Pokud by poražený zaplatil dobrovolně, nemůže plnění žádat zpět (naturální obligace, § 2997). Zapůjčitel se rovněž nedomůže vrácení 30 000 Kč, věděl-li o účelu (§ 2877). Procesně: rozhodné je, zda nešlo o povolenou (úředně licencovanou) hru dle § 2883, kde by výjimka vymahatelnost zakládala.
+
+**6. Varianty.** (a) Sázka by byla uzavřena u licencovaného provozovatele (sázková kancelář) → § 2883 vylučuje nevymahatelnost, výhra je vymahatelná podle zákona o hazardních hrách. (b) Zapůjčitel by o účelu půjčky nevěděl → půjčka by byla běžně vymahatelná, nešlo by o § 2877.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Sázka je platná smlouva, dluh z ní je vymahatelný jako každý jiný." Neutralizace: jde o naturální obligaci; soud výhru ze soukromé sázky nepřizná (§ 2874—2878), na rozdíl od úředně povolených her (§ 2883).
+- *Protiargument:* „Poražený dluh písemně uznal, uznáním vznikla vymahatelná pohledávka." Neutralizace: § 2878 výslovně stanoví, že k uznání dluhu ze sázky se nepřihlíží a pohledávku nelze ani zajistit.
+- *Slabé místo:* odlišení soukromé sázky od povolené hazardní hry (§ 2883) je rozhodující a může být sporné; dále prokázání vědomosti zapůjčitele o účelu půjčky (§ 2877).
+
+#### H. Praktický závěr
+
+Sázka, hra a los podle § 2873—2875 zakládají zásadně naturální obligaci — soudně nevymahatelnou, kterou nelze zajistit ani založit uznáním (§ 2878); zaplacené plnění se nevrací. Výjimkou jsou úředně povolené a státní hry (§ 2883).
+
+**Checklist (advokát / soud / strany):**
+- [ ] Kvalifikovat vztah jako sázku/hru/los (§ 2873—2875) a odlišit od povolené hazardní hry (§ 2883).
+- [ ] Posoudit nevymahatelnost pohledávky a vyloučení zajištění i uznání (§ 2878).
+- [ ] U dobrovolného plnění zohlednit nemožnost vrácení (naturální obligace, § 2997).
+- [ ] U souvisejících půjček zkoumat vědomost zapůjčitele o účelu k sázce (§ 2877).
+
+**Typicky rozhodné důkazy / podklady:** doklad o uzavření sázky a jejím obsahu, výsledek nejisté události, případná licence provozovatele, smlouva o zápůjčce a důkaz o vědomosti účelu.
+
 ### § 2876—2883 — Vymahatelnost
 
 **§ 2876**:
@@ -967,6 +1579,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *KS v Praze* [26 Co 279/2024-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=92d97ff4-3515-4f8a-802d-de965abc81bd) — *smlouva nájemní, výpověď z nájmu*
 - *ObS pro Prahu 3* [11 C 320/2023-107](https://rozhodnuti.justice.cz/rozhodnuti/?id=86066ca2-4860-4016-b907-947640c5edfb) — *software, doménové jméno, podvod, dotace*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dva podnikatelé uzavřou „sázku" o vývoj ceny komodity: dohodnou, že se k určitému dni nedodá zboží, ale zaplatí jen rozdíl mezi sjednanou a tržní cenou (rozdílový obchod). Strana, jíž vývoj nesvědčí, odmítne rozdíl zaplatit s tvrzením, že jde o nevymahatelnou sázku (§ 2877). Protistrana namítá, že šlo o smlouvu uzavřenou v rámci podnikání na regulovaném trhu. Účastníci: dva podnikatelé/obchodníci. Důkazy: rámcová smlouva, potvrzení obchodu, doklad o místě sjednání (burza/regulovaný trh), povaha nástroje.
+
+**2. Právní otázka.** Použijí se na rozdílový obchod ustanovení o nevymahatelnosti sázky, nebo je vyloučí § 2879/§ 2880 (podnikatelské rozdílové a burzovní obchody)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2876 (snížení přemrštěné výhry), § 2877—2878 (nevymahatelnost a zákaz zajištění/uznání), § 2879 (vyloučení pravidel o sázce u podnikatelských rozdílových obchodů), § 2880 (vyloučení u burzovních/kapitálových obchodů a investičních nástrojů), § 2881—2882 (hra, los), § 2883 (úředně povolené a státní hry).
+- *Související ustanovení téhož zákona:* § 2873 (definice sázky), § 2756 (odvážná smlouva).
+- *Související předpisy:* zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu (investiční nástroje, regulovaný trh); zákon č. 186/2016 Sb. o hazardních hrách.
+- *Judikatura:* věci k sázce a rozdílovým/finančním obchodům citované v komentáři (ObS pro Prahu 6 27 C 272/2024; ObS pro Prahu 3 11 C 320/2023).
+
+**4. Subsumpce.** Rozdílový obchod, kde se neplní dodáním věci, ale jen rozdílem ceny, by sám o sobě spadal pod znaky sázky. Avšak § 2879 vylučuje aplikaci pravidel o sázce, byl-li takový obchod ujednán v souvislosti s podnikáním stran; § 2880 jej vylučuje u smluv na komoditní burze, regulovaném trhu či u investičních nástrojů mezi podnikateli. Je-li některá z těchto podmínek splněna, nevymahatelnost dle § 2877 se neuplatní.
+
+**5. Řešení.** Jde-li o rozdílový obchod sjednaný v rámci podnikání (§ 2879) nebo na regulovaném trhu / s investičním nástrojem mezi podnikateli (§ 2880), pravidla o nevymahatelnosti sázky se nepoužijí a pohledávka na zaplacení rozdílu je vymahatelná. Procesně: rozhodné je doložit podnikatelský kontext, resp. uzavření na kvalifikovaném trhu nebo povahu investičního nástroje. Pro běžné soukromé osoby mimo tyto rámce by naopak platila nevymahatelnost (§ 2877).
+
+**6. Varianty.** (a) Stejný rozdílový obchod by uzavřely dvě fyzické osoby-nepodnikatelé mimo regulovaný trh → uplatnila by se pravidla o sázce a pohledávka by byla nevymahatelná (§ 2877). (b) Výhra ze sázky by byla vzhledem k poměrům stran zjevně přemrštěná → soud by ji na návrh prohrávající strany mohl přiměřeně snížit (§ 2876).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rozdílový obchod je svou podstatou sázka, je proto nevymahatelný (§ 2877)." Neutralizace: § 2879 a § 2880 jej z působnosti pravidel o sázce výslovně vyjímají, jsou-li splněny podmínky (podnikatelský kontext, regulovaný trh, investiční nástroj).
+- *Protiargument:* „Soud má každou vysokou výhru automaticky snížit." Neutralizace: § 2876 umožňuje snížení jen u zjevně přemrštěné výhry a pouze na návrh prohrávající strany, nikoli z úřední povinnosti a nikoli u obchodů vyňatých § 2879, 2880.
+- *Slabé místo:* prokázání podnikatelské souvislosti nebo kvalifikované povahy trhu/nástroje; bez něj hrozí překvalifikace na nevymahatelnou sázku.
+
+#### H. Praktický závěr
+
+Nevymahatelnost sázky (§ 2877—2878) má významné výjimky: na podnikatelské rozdílové obchody (§ 2879), burzovní a kapitálové obchody s investičními nástroji (§ 2880) a na úředně povolené či státní hry (§ 2883) se nepoužije. Soud může jen na návrh snížit zjevně přemrštěnou výhru (§ 2876).
+
+**Checklist (advokát / soud / strany):**
+- [ ] Posoudit, zda obchod naplňuje znaky sázky, a zda nespadá pod výjimky § 2879/§ 2880/§ 2883.
+- [ ] Ověřit podnikatelskou souvislost, resp. uzavření na regulovaném trhu či povahu investičního nástroje.
+- [ ] Zvážit návrh na snížení zjevně přemrštěné výhry (§ 2876) — jen na návrh prohrávajícího.
+- [ ] U běžných sázek vyloučit zajištění a uznání dluhu (§ 2878).
+
+**Typicky rozhodné důkazy / podklady:** rámcová a potvrzovací dokumentace obchodu, doklad o místě a způsobu uzavření (burza/regulovaný trh), údaje o povaze nástroje, doklady o podnikatelském postavení stran.
+
 ---
 
 ## Díl 16 — Závazky z právního jednání jedné osoby (§ 2884—2893)
@@ -993,6 +1641,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
   > „Právní úprava fikce splnění podmínky podle § 549 odst. 2 o. z. se (analogicky) uplatní i pro posouzení záměrného zmaření splnění podmínky veřejného příslibu odměny přislibujícím."
 - *NS* [27 Cdo 2309/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6C1AB7C4CE2C2FCC1258678001E0B3B?openDocument) — *Autorské právo Licenční smlouva (o. z.) Veřejný příslib Promlčení*
   > „[4] Na takto ustaveném skutkovém základu soud mimo jiné uzavřel, že prohlášení naplňuje znaky veřejného příslibu ve smyslu § 2884 a násl. zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Majitel ztraceného psa vyvěsí na vývěskách a na sociálních sítích inzerát: „Najdu-li svého psa, vyplatím nálezci odměnu 5 000 Kč." Nálezce psa najde, kontaktuje majitele a psa vrátí. Majitel odmítne odměnu vyplatit s tím, že šlo jen o nezávazné prohlášení. Účastníci: přislibující (majitel) a nálezce. Druhá rovina: majitel se po nálezu, ale před předáním psa, pokusí splnění zmařit (psa si vyzvedne sám). Důkazy: znění a forma vyhlášení (screenshot inzerátu), doklad o nálezu a vrácení psa, časová posloupnost.
+
+**2. Právní otázka.** Vzniká nálezci na základě veřejného příslibu (§ 2884) právo na odměnu, splnil-li vyhlášené podmínky, a je vyhlášení závazné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2884 — veřejným příslibem se přislibující zavazuje poskytnout odměnu tomu, kdo splní vyhlášené podmínky; jde o jednostranný zavazující úkon.
+- *Související ustanovení téhož zákona:* § 2885 (odvolání příslibu), § 2886 (více splnitelů — odměna prvnímu/rovným dílem), § 2890 (slib odškodnění), § 549 odst. 2 (fikce splnění podmínky při záměrném zmaření).
+- *Související předpisy:* — (institut je upraven přímo v OZ).
+- *Judikatura:* NS 23 Cdo 1694/2023 — citovaná v komentáři: úprava fikce splnění podmínky podle § 549 odst. 2 se analogicky uplatní i při záměrném zmaření splnění podmínky veřejného příslibu odměny přislibujícím; dále NS 27 Cdo 2309/2020 (znaky veřejného příslibu dle § 2884).
+
+**4. Subsumpce.** Veřejné vyhlášení odměny za nález psa naplňuje znaky veřejného příslibu (§ 2884): veřejné prohlášení, určitá odměna, splnitelné podmínky. Nálezce podmínky splnil (našel a vrátil psa) → vzniká mu právo na odměnu. Vyhlášení je závazné, nejde o nezávaznou deklaraci. Pokus majitele o zmaření splnění aktivuje analogickou fikci splnění podmínky (§ 549 odst. 2 dle NS 23 Cdo 1694/2023).
+
+**5. Řešení.** Nálezci vzniklo splněním podmínek právo na odměnu 5 000 Kč; přislibující je povinen ji vyplatit. Pokusil-li se majitel splnění záměrně zmařit, považuje se podmínka za splněnou (analogie § 549 odst. 2). Procesně: nálezce doloží znění příslibu, splnění podmínek a případně zmaření. Riziko: včasné a řádné odvolání příslibu před splněním (§ 2885) by nárok vyloučilo.
+
+**6. Varianty.** (a) Majitel by příslib účinně odvolal stejnou formou před nálezem (§ 2885 odst. 1) → nálezci, který v době výkonu o odvolání věděl nebo musel vědět, by nárok nevznikl. (b) Psa by současně našli dva lidé a oba vrátili → odměna náleží tomu, kdo výkon provedl nejdříve, případně se rozdělí (§ 2886).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Inzerát byl jen nezávazná informace, ne závazek." Neutralizace: veřejný příslib je jednostranný zavazující úkon; splnil-li adresát vyhlášené podmínky, vzniká mu právo na odměnu (§ 2884), bez ohledu na to, že přislibující nyní plnit nechce.
+- *Protiargument:* „Majitel si psa nakonec vyzvedl sám, podmínka nebyla splněna." Neutralizace: zmařil-li přislibující splnění záměrně, uplatní se analogicky fikce splnění podmínky (§ 549 odst. 2; NS 23 Cdo 1694/2023).
+- *Slabé místo:* prokázání obsahu a formy vyhlášení a okamžiku splnění vs. případného odvolání (§ 2885); u neformálních inzerátů bývá sporné, zda a kdy byl příslib odvolán.
+
+#### H. Praktický závěr
+
+Veřejný příslib podle § 2884 je závazný jednostranný úkon: splněním vyhlášených podmínek vzniká adresátovi právo na odměnu. Záměrné zmaření splnění přislibujícím se posoudí jako splnění podmínky; obranou je jen řádné a včasné odvolání příslibu.
+
+**Checklist (advokát / soud / přislibující / adresát):**
+- [ ] Ověřit, že vyhlášení splňuje znaky veřejného příslibu (veřejnost, určitá odměna, podmínky) dle § 2884.
+- [ ] Zjistit, zda a kdy adresát splnil vyhlášené podmínky.
+- [ ] Posoudit případné záměrné zmaření splnění přislibujícím (fikce splnění, § 549 odst. 2).
+- [ ] Prověřit, zda nedošlo k účinnému odvolání příslibu před výkonem (§ 2885).
+
+**Typicky rozhodné důkazy / podklady:** znění a forma vyhlášení (inzerát, screenshot, vývěska), doklad o splnění podmínek, časová osa nálezu/odvolání, případně svědectví.
 
 ### § 2885—2890 — Pravidla
 
@@ -1034,6 +1718,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *NS* [27 Cdo 2496/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8D83B5E7707FF49C1258B9B004D6D4B?openDocument) — *Smlouva pojistná Náklady řízení Slib odškodnění*
 - *NS* [29 ICdo 202/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32F2717C85E5875AC1258C500052A28F?openDocument) — *Incidenční spory (žaloba odpůrčí) Slib odškodnění Náhrada škody*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec vypíše veřejný příslib (vypsání ceny) za nejlepší návrh úpravy náměstí: „Cena 100 000 Kč za nejlepší řešení; návrhy přijímáme do 30. 9." Po uplynutí lhůty, ale ještě před vyhodnocením, se obec rozhodne soutěž bez vážného důvodu odvolat. Jeden z účastníků již zpracoval rozsáhlý projekt. Účastníci: vypisovatel (obec) a soutěžící. Druhá rovina: dva návrhy jsou vyhodnoceny jako rovnocenné. Důkazy: znění vypsání ceny (lhůta, kritéria), doložení zpracovaných návrhů, doklady o nákladech soutěžícího, hodnocení.
+
+**2. Právní otázka.** Za jakých podmínek lze vypsání ceny odvolat a jaké nároky má soutěžící, který podmínky zčásti splnil (§ 2887—2889)? Jak se vypořádá více úspěšných splnitelů (§ 2886)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2885 (odvolání běžného příslibu), § 2886 (více splnitelů — pořadí/rovný díl), § 2887 (vypsání ceny — nutnost uvést lhůtu), § 2888 (odvolání vypsání ceny jen ze závažných důvodů + odškodnění), § 2889 (posouzení a ocenění splnění), § 2890 (slib odškodnění).
+- *Související ustanovení téhož zákona:* § 2884 (veřejný příslib), § 2891 a násl. (veřejná soutěž jako navazující institut).
+- *Související předpisy:* zákon č. 134/2016 Sb. o zadávání veřejných zakázek (u zakázek se uplatní zvláštní režim, nikoli jen § 2887).
+- *Judikatura:* věci k veřejnému příslibu a slibu odškodnění citované v komentáři (NS 27 Cdo 2496/2023; NS 29 ICdo 202/2023).
+
+**4. Subsumpce.** Vypsání ceny za nejlepší výkon s uvedením lhůty naplňuje § 2887. Odvolání vypsání ceny je možné jen ze závažných důvodů (§ 2888 odst. 1); odvolal-li vypisovatel bez nich, je povinen přiměřeně odškodnit toho, kdo podmínky alespoň zčásti splnil (§ 2888 odst. 2). Při dvou rovnocenných návrzích se uplatní § 2886 (rovný díl, není-li jiná vůle).
+
+**5. Řešení.** Obec mohla vypsání ceny odvolat jen ze závažných důvodů; odvolala-li bez nich, odpovídá za přiměřené odškodnění soutěžícího, který návrh zpracoval (§ 2888 odst. 2) — typicky náhrada účelně vynaložených nákladů. Při shodně nejlepších návrzích se cena rozdělí rovným dílem (§ 2886 odst. 2), nestanoví-li vypsání jinak; posouzení a ocenění provede ten, koho určilo vypsání, jinak vypisovatel sám (§ 2889). Procesně: doložit znění vypsání, splnění a náklady.
+
+**6. Varianty.** (a) Šlo by o veřejnou zakázku → přednostně se uplatní zákon č. 134/2016 Sb. a nikoli pouhý § 2887. (b) Vypsání ceny by neobsahovalo lhůtu pro ucházení se o cenu → veřejný příslib formou vypsání ceny by nebyl platný (§ 2887 odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vypsání ceny lze odvolat kdykoli jako běžný příslib (§ 2885)." Neutralizace: u vypsání ceny platí přísnější § 2888 — odvolat lze jen ze závažných důvodů a s povinností odškodnit toho, kdo zčásti splnil.
+- *Protiargument:* „Soutěžící nemá nárok na nic, protože nezvítězil." Neutralizace: při odvolání bez závažného důvodu náleží přiměřené odškodnění i tomu, kdo podmínky jen zčásti splnil (§ 2888 odst. 2).
+- *Slabé místo:* vypsání ceny musí obsahovat lhůtu (§ 2887 odst. 1), jinak je neplatné; dále posouzení „závažnosti důvodu" odvolání a výše přiměřeného odškodnění je do značné míry na uvážení soudu.
+
+#### H. Praktický závěr
+
+Vypsání ceny (§ 2887) je kvalifikovaný veřejný příslib vyžadující uvedení lhůty; jeho odvolání je omezeno na závažné důvody a spojeno s povinností odškodnit částečné splnitele (§ 2888). Více úspěšných splnitelů se vypořádá podle § 2886.
+
+**Checklist (advokát / soud / vypisovatel / soutěžící):**
+- [ ] Ověřit, zda vypsání ceny obsahuje lhůtu pro ucházení se o cenu (§ 2887 odst. 1).
+- [ ] Posoudit, zda odvolání vypsání ceny mělo závažný důvod (§ 2888 odst. 1).
+- [ ] Vyčíslit přiměřené odškodnění částečných splnitelů při odvolání (§ 2888 odst. 2).
+- [ ] U více úspěšných určit pořadí/rovný díl a způsob posouzení (§ 2886, § 2889).
+
+**Typicky rozhodné důkazy / podklady:** znění vypsání ceny (lhůta, kritéria, určení hodnotitele), zpracované návrhy, doklady o nákladech soutěžícího, dokument o odvolání a jeho důvodech, hodnocení.
+
 ### Oddíl 2 — Veřejná soutěž (§ 2891—2893)
 
 ### § 2891 — Definice
@@ -1056,6 +1776,42 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - *ObS pro Prahu 1* [64 C 255/2023-109](https://rozhodnuti.justice.cz/rozhodnuti/?id=73110a6f-3cec-4714-aadf-b50813959e06) — 29. 5. 2025
 - *OS Praha-východ* [18 C 168/2024-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=876dfbc5-9205-4b0b-a28b-39a83f13912e) — *dokazování, advokátní tarif, náklady řízení, zavinění, majetková újma, svědek, majetek,…*
 - *ObS pro Prahu 9* [9 C 37/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=07ad5718-741e-4191-8b9c-f1a22d8aadd3) — *peněžité plnění, slib odškodnění, započtení pohledávky*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Město vyhlásí veřejnou architektonickou soutěž o nejlepší návrh nové knihovny: stanoví pravidla, kritéria hodnocení, složení poroty a ceny pro první tři místa. Přihlásí se patnáct ateliérů. Porota vybere vítěze, městu se však výsledek nelíbí a chce cenu udělit jinému účastníkovi mimo pořadí stanovené porotou podle vyhlášených pravidel. Účastníci: vyhlašovatel (město), soutěžící ateliéry, porota. Důkazy: vyhlášení soutěže a její pravidla, soutěžní návrhy, protokol o hodnocení poroty, doklad o vyhlášených cenách.
+
+**2. Právní otázka.** Je vyhlašovatel veřejné soutěže vázán vyhlášenými pravidly a hodnocením určeným v nich, nebo může cenu udělit dle vlastní úvahy odchylně od § 2891?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2891 — vyhlašuje-li někdo veřejně soutěž o nejlepší dílo nebo úkon, zavazuje se zaplatit cenu vítězi a vyrovnat se i s ostatními úspěšnými soutěžícími podle vyhlášených pravidel.
+- *Související ustanovení téhož zákona:* § 2892—2893 (pravidla soutěže, posouzení a rozdělení cen), § 2884 a násl. (veřejný příslib jako příbuzný institut), § 2887—2889 (vypsání ceny).
+- *Související předpisy:* zákon č. 134/2016 Sb. o zadávání veřejných zakázek (soutěž o návrh — § 143 a násl.); autorský zákon č. 121/2000 Sb. (práva k soutěžním návrhům).
+- *Judikatura:* věci k veřejné soutěži a slibu odškodnění citované v komentáři (ObS pro Prahu 1 64 C 255/2023; ObS pro Prahu 9 9 C 37/2020 — slib odškodnění, započtení).
+
+**4. Subsumpce.** Veřejné vyhlášení soutěže o nejlepší dílo s pravidly, porotou a cenami naplňuje znaky § 2891. Tím se vyhlašovatel zavázal zaplatit cenu vítězi a vyrovnat se s ostatními úspěšnými soutěžícími podle vyhlášených pravidel. Vyhlašovatel je svými pravidly vázán a nemůže udělit cenu odchylně od výsledku stanoveného podle nich.
+
+**5. Řešení.** Město je povinno udělit ceny v souladu s vyhlášenými pravidly a hodnocením poroty (§ 2891); odchýlení se od pravidel by zakládalo porušení závazku z veřejné soutěže a nárok dotčeného vítěze. Procesně: soutěžící doloží pravidla soutěže a protokol poroty prokazující jeho pořadí. Jde-li o soutěž o návrh v režimu veřejných zakázek, uplatní se navíc zvláštní úprava a dozor ÚOHS.
+
+**6. Varianty.** (a) Vyhlašovatel si v pravidlech vyhradil právo neudělit cenu, nebude-li žádný návrh dostatečně kvalitní → při řádném využití této výhrady nárok na cenu nevzniká. (b) Soutěž je soutěží o návrh dle ZZVZ → primárně se řídí zákonem č. 134/2016 Sb. a § 2891 OZ se uplatní jen podpůrně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyhlašovatel může jako pořadatel rozhodnout o ceně podle vlastního uvážení." Neutralizace: § 2891 jej zavazuje rozhodnout podle vyhlášených pravidel; jednostranná odchylka od nich je porušením závazku ze soutěže.
+- *Protiargument:* „Soutěžící nemá nárok, dokud vyhlašovatel cenu neudělí." Neutralizace: závazek vyrovnat se s úspěšnými soutěžícími podle pravidel vzniká vyhlášením a vyhodnocením; vítěz má nárok na cenu podle pravidel.
+- *Slabé místo:* výklad a úplnost vyhlášených pravidel (zejm. výhrady neudělení ceny); dále vztah k režimu veřejných zakázek, který může mít přednost a vlastní procesní ochranu.
+
+#### H. Praktický závěr
+
+Veřejná soutěž podle § 2891 zavazuje vyhlašovatele zaplatit cenu vítězi a vyrovnat se s úspěšnými soutěžícími podle předem vyhlášených pravidel; od těchto pravidel se nelze jednostranně odchýlit. U soutěží o návrh ve veřejných zakázkách má přednost zvláštní právní úprava.
+
+**Checklist (advokát / soud / vyhlašovatel / soutěžící):**
+- [ ] Ověřit, že vyhlášení naplňuje znaky veřejné soutěže (pravidla, ceny, hodnocení) dle § 2891.
+- [ ] Posoudit obsah vyhlášených pravidel včetně výhrad (neudělení ceny, hodnotící kritéria).
+- [ ] Zkontrolovat soulad udělení cen s pravidly a výsledkem poroty.
+- [ ] Určit, zda nejde o soutěž o návrh v režimu ZZVZ (přednost zákona č. 134/2016 Sb.).
+
+**Typicky rozhodné důkazy / podklady:** vyhlášení soutěže a její pravidla, soutěžní návrhy, protokol o hodnocení poroty, doklad o vyhlášených a udělených cenách, případně podklady k autorským právům k návrhům.
 
 ---
 

@@ -51,6 +51,43 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 - *KS v Brně* [70 CO 93/2022-255](https://rozhodnuti.justice.cz/rozhodnuti/?id=52228527-55d0-4036-aaba-f3c612758dc1) — *náhrada nemajetkové újmy, nekalá soutěž, nemajetková újma, ochrana osobnosti, pasivní le…*
 - *KS v Plzni* [10 CO 298/2023-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=25a59ce2-a536-44d3-8ebf-7344aa151ae0) — *bezdůvodné obohacení, majetková újma, náhrada nemajetkové újmy, nemajetková újma, peněži…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel A si pro svou e-shopovou činnost zaregistruje doménu druhého řádu složenou z osobního jména a příjmení známé influencerky B („jmenoprijmeni.cz"), aniž by k tomu měl její svolení, a provozuje na ní prodej kosmetiky s naznačením, že produkty B „doporučuje". B se o tom dozví od svých sledujících. Účastníci: B (dotčená osoba, nositelka jména), A (provozovatel domény). Právně významné skutečnosti: shoda doménového jména s celým jménem B, B jméno v právním styku reálně užívá, A jednal bez svolení. Důkazy: výpis z registru domén (CZ.NIC), archivní snímky webu (web.archive.org), notářský zápis o obsahu stránky, doklad o známosti jména B.
+
+**2. Právní otázka.** Je registrace a užívání domény tvořené cizím osobním jménem bez svolení neoprávněným zásahem do práva ke jménu podle § 77 odst. 1, proti němuž se lze bránit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 77 odst. 1 — právo užívat jméno v právním styku a právo na ochranu jména a na úctu k němu.
+- *Související ustanovení téhož zákona:* § 78 (žaloba na ochranu jména — upuštění a odstranění následku); § 79 odst. 2 (ochrana pseudonymu, vejde-li ve známost); § 2956 a § 2951 odst. 2 (peněžitá náhrada nemajetkové újmy).
+- *Související předpisy:* zákon č. 301/2000 Sb., o matrikách, jménu a příjmení (rámec jména); zákon č. 441/2003 Sb., o ochranných známkách (souběžná ochrana, je-li jméno chráněno i jako známka).
+- *Judikatura:* obecně platí nosný závěr, že právo ke jménu je osobnostním právem a jeho neoprávněné komerční využití zakládá nárok na ochranu osobnosti (srov. v komentáři citovaná rozhodnutí k ochraně osobnosti a obchodní firmě, např. ObS pro Prahu 7 sp. zn. 18 C 76/2023).
+
+**4. Subsumpce.** Znak „jméno člověka" (§ 77 odst. 1) je naplněn — jde o osobní jméno a příjmení B. Znak „užívání v právním styku" je naplněn na straně B (reálně jméno užívá). Neoprávněnost zásahu plyne z absence svolení a z komerčního a klamavého kontextu. Sporné může být, zda doménové jméno samo identifikuje B (zda nejde o shodu jmen) — to je třeba prokázat známostí a kontextem stránky.
+
+**5. Řešení.** B se podle § 78 odst. 1 (ve spojení s § 77) může domáhat upuštění od užívání domény a odstranění následku (převod/zrušení domény, stažení obsahu), a podle § 2951 odst. 2 peněžité satisfakce. Pravděpodobný výsledek: úspěch B, prokáže-li identifikovatelnost a komerční využití. Kroky: předžalobní výzva, návrh na předběžné opatření (zákaz provozu), žaloba; paralelně podnět rozhodci ADR pro domény .cz. Riziko: A namítne pouhou shodu jmen — neutralizuje se důkazem o naznačeném doporučení (klamavý kontext).
+
+**6. Varianty.** (a) Pokud by A užil doménu pouze pro vlastní web bez jakéhokoli odkazu na B a jméno by bylo zcela běžné, identifikace s B by selhala a zásah by nebyl prokázán. (b) Pokud by jméno B bylo zapsáno i jako ochranná známka, posílila by se ochrana o nároky podle známkového práva s vlastním režimem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „shoda jmen / běžné jméno":* žalovaný namítne, že jméno není dostatečně individualizující a neidentifikuje právě žalobce. Neutralizace: prokázat veřejnou známost konkrétní osoby a kontext užití (odkazy, vyobrazení, naznačení vztahu), z nichž je adresát schopen dovodit totožnost.
+- *Protiargument „svobodný projev / parodie":* u satirického či kritického užití jména může převážit svoboda projevu. Neutralizace: odlišit komerční zneužití (chybí umělecký či zpravodajský účel) od chráněného projevu.
+- *Slabé místo:* právo na „úctu ke jménu" je málo judikované a samostatně obtížně vyčíslitelné; je vhodné je opřít o § 81 a násl. (důstojnost, čest) a navázat na konkrétní následek.
+
+#### H. Praktický závěr
+
+Jméno je osobnostní statek se třemi rovinami (užívání, ochrana, úcta); jeho neoprávněné — zejména komerční — využití zakládá nárok na obranu i bez vzniku majetkové škody. Kdo užívá cizí jméno, nese podle odst. 2 následky omylů a újem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o jméno ve smyslu § 77 odst. 1 (osobní jméno + příjmení, příp. rodné příjmení)?
+- [ ] Užívá dotčený jméno reálně v právním styku a je z užití identifikovatelný?
+- [ ] Existuje svolení k užití jména, či jiný zákonný důvod?
+- [ ] Jde o komerční/klamavé využití, nebo o chráněný projev (zpravodajství, parodie)?
+- [ ] Zvolen správný nárok (upuštění + odstranění následku dle § 78; satisfakce dle § 2951 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z registru domén / rejstříku, archivní snímky obsahu, doklady o známosti jména, korespondence (předžalobní výzva), znalecké/anketní podklady k identifikovatelnosti.
+
 ### § 78 — Ochrana jména
 
 > (1) Člověk, který byl dotčen zpochybněním svého práva ke jménu nebo který utrpěl újmu pro neoprávněný zásah do tohoto práva, zejména neoprávněným užitím jména, se může domáhat, aby bylo od neoprávněného zásahu upuštěno nebo aby byl odstraněn jeho následek.
@@ -91,6 +128,43 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 - *OS v Blansku* [9 C 4/2017-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=3d92a91c-6925-426e-ac3e-5092783df3ca) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, zadostiučinění / satisfak…*
 - *OS Praha-východ* [3 C 290/2019](https://rozhodnuti.justice.cz/rozhodnuti/?id=59a892a1-d825-4d29-8580-574bb9e4e244) — *smlouva o půjčce, smlouva o zápůjčce*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bulvární deník zveřejní článek, v němž nepravdivě tvrdí, že podnikatel C („otec rodiny C") byl odsouzen za daňový podvod; uvede celé příjmení C i fotografii rodinného domu. C je dlouhodobě nezvěstný (zdržuje se v cizině, nelze ho zastihnout). Jeho manželka D a dospělý syn E se cítí dotčeni, protože článek poškozuje pověst celé rodiny ve městě, kde podnikají pod týmž příjmením. Účastníci: C (přímo dotčený, nepřítomný), D a E (nepřímo dotčení rodinní příslušníci), vydavatel. Důkazy: výtisk článku, doklad o nepravdivosti tvrzení (neexistence odsouzení), doklad o nezvěstnosti C, doklady o dopadu na podnikání rodiny.
+
+**2. Právní otázka.** Mohou manželka a potomek samostatně uplatnit ochranu jména, je-li přímo dotčený nepřítomný, a kdy se mohou bránit i tehdy, je-li zasaženo „jen" příjmení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 — negatorní a restitutivní žaloba na ochranu jména (odst. 1); aktivní legitimace blízkých při nepřítomnosti/nezvěstnosti dotčeného (odst. 2); samostatná ochrana příjmení v zájmu rodiny (odst. 3).
+- *Související ustanovení téhož zákona:* § 77 (obsah práva ke jménu); § 81 a § 82 (ochrana osobnosti, cti, dobré pověsti); § 2951 odst. 2 (satisfakce); § 22 (osoba blízká).
+- *Související předpisy:* trestní zákoník § 184 (pomluva); zákon č. 110/2019 Sb. (ochrana osobních údajů, jsou-li údaje rodiny zpracovány).
+- *Judikatura:* nosný závěr, že nepravdivé tvrzení o spáchání trestného činu v rozporu s presumpcí neviny zasahuje do osobnostních práv (srov. v komentáři u § 82 citované NS sp. zn. 25 Cdo 3025/2022).
+
+**4. Subsumpce.** Zpochybnění/újma na právu ke jménu (§ 78 odst. 1) — naplněno nepravdivým spojením příjmení s trestnou činností. Aktivní legitimace D a E podle odst. 2 — naplněna, neboť C je nezvěstný a nemůže právo uplatnit sám; podmínka, že svéprávný C výslovně nevyloučil zastoupení, je splněna (nedal nic najevo). Alternativně odst. 3 — zásah se týká příjmení a je dán důležitý zájem na ochraně rodiny (dopad na rodinné podnikání). Sporné: zda jde o tvrzení skutkové (dokazatelné) či hodnotící.
+
+**5. Řešení.** D a E mohou podat žalobu na upuštění od šíření a na odstranění následku (oprava, omluva) podle § 78; podle odst. 3 i samostatně, byť do jejich vlastního jména nebylo přímo zasaženo. Pravděpodobný výsledek: úspěch při prokázání nepravdivosti a rodinného dopadu. Kroky: žádost o uveřejnění opravy (tiskový zákon), předžalobní výzva, žaloba, příp. předběžné opatření. Riziko: vydavatel se brání zpravodajskou licencí — neutralizuje se nepravdivostí skutkového tvrzení (na nepravdivá fakta se licence nevztahuje).
+
+**6. Varianty.** (a) Kdyby C výslovně dal najevo, že si zastoupení nepřeje, odpadla by legitimace D a E podle odst. 2 (zůstala by úvaha o odst. 3 stran příjmení). (b) Kdyby šlo o pravdivé tvrzení o pravomocném odsouzení, zásah do jména by byl po právu a žaloba by neuspěla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozšiřování okruhu žalobců":* žalovaný namítne, že odst. 3 nesmí vést k tomu, aby žaloval kdokoli se stejným příjmením. Neutralizace: prokázat konkrétní „důležitý zájem na ochraně rodiny" a reálný dopad právě na žalobce (společné podnikání, soužití, totožné město).
+- *Protiargument „přednost svobody projevu a zpravodajské licence":* neutralizuje se rozlišením skutkového tvrzení a hodnotícího soudu — nepravdivá fakta licence nekryje.
+- *Slabé místo:* u odst. 2 je třeba prokázat objektivní nemožnost dotčeného uplatnit právo (nepřítomnost/nezvěstnost), jinak legitimace blízkých nevznikne; chybějící doklad o nezvěstnosti je rizikem.
+
+#### H. Praktický závěr
+
+§ 78 dává trojstupňovou obranu jména (upuštění, odstranění následku, navazující satisfakce dle obecných ustanovení) a rozšiřuje aktivní legitimaci na blízké ve dvou režimech: zástupně při nemožnosti dotčeného (odst. 2) a samostatně u příjmení v zájmu rodiny (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zpochybnění práva ke jménu nebo újmu z neoprávněného užití?
+- [ ] Žaluje přímo dotčený, nebo blízký podle odst. 2 (a je splněna podmínka nemožnosti dotčeného a absence jeho výslovného nesouhlasu)?
+- [ ] Jde o zásah do příjmení s důležitým zájmem na ochraně rodiny (odst. 3)?
+- [ ] Zvolen správný petit (upuštění / odstranění následku / omluva) a uvážena navazující satisfakce?
+- [ ] Jde o skutkové tvrzení (dokazatelné) či hodnotící soud (test pravdivosti vs. přípustné kritiky)?
+
+**Typicky rozhodné důkazy / podklady:** sporný text/výrok, doklad o (ne)pravdivosti, doklady o nepřítomnosti/nezvěstnosti dotčeného, doklady o rodinném vztahu a dopadu, korespondence o opravě.
+
 ### § 79 — Pseudonym
 
 > (1) Člověk může pro určitý obor své činnosti nebo i pro soukromý styk vůbec přijmout pseudonym. Právní jednání pod pseudonymem není na újmu platnosti, je-li zřejmé, kdo jednal, a nemůže-li druhá strana mít pochybnost o osobě jednajícího.
@@ -123,6 +197,43 @@ Pokud jsou splněny, smlouva je **platná** — i když na ní je pseudonym mís
 - *NS* [27 Cdo 2065/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/828A5FDA6B0A1A53C1258AE70052A558?openDocument) — *Vady podání*
 - *NS* [29 ICdo 84/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96252E7AE61CFBE0C12584AE001EA73E?openDocument) — *Podnikatel Právní úkony Osoba blízká Jednatel*
   > „4) Slovní spojení „osoba blízká“ (dlužníku) a osoba „tvořící s dlužníkem koncern“ je nutno vykládat způsobem vymezeným legální definicí těchto pojmů v příslušných právních předpisech; srov. pro dobu před 1. lednem 2014 ustanovení § 116 obč. zák. a ustanovení § 66a odst. 7 zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spisovatelka F dlouhodobě publikuje pod uměleckým pseudonymem „Jan Hradec", pod nímž je široce známá. Nakladatelství s ní uzavře licenční smlouvu o vydání románu, v níž je jako autor uveden pseudonym „Jan Hradec" a vlastnoruční podpis F; jednání předcházela osobní setkání, korespondence z její soukromé e-mailové adresy a předání rukopisu. Po vydání jiný subjekt začne uvádět na trh e-knihy „Jana Hradce", které F nenapsala. Účastníci: F (autorka, nositelka pseudonymu), nakladatelství (smluvní partner), třetí subjekt (rušitel). Důkazy: licenční smlouva, korespondence prokazující totožnost jednajícího, doklady o známosti pseudonymu (recenze, prodeje), srovnání spotřebitelské asociace pseudonymu s F.
+
+**2. Právní otázka.** Je licenční smlouva podepsaná pseudonymem platná, a požívá zavedený pseudonym stejné ochrany jako vlastní jméno proti jeho zneužití třetí osobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 odst. 1 (platnost jednání pod pseudonymem, je-li zřejmé, kdo jednal a druhá strana nemá pochybnost o osobě) a odst. 2 (ochrana pseudonymu, vejde-li ve známost).
+- *Související ustanovení téhož zákona:* § 77 a § 78 (právo ke jménu a jeho ochrana, použijí se obdobně); § 552 a § 555 (výklad právního jednání podle obsahu, nikoli označení).
+- *Související předpisy:* autorský zákon č. 121/2000 Sb. (§ 7 — autorské označení; § 25 — pseudonymní dílo); zákon č. 441/2003 Sb. (možnost ochrany pseudonymu jako známky).
+- *Judikatura:* nosný závěr, že vady v označení jednajícího nezpůsobují neplatnost, je-li totožnost zřejmá (srov. obecné závěry o výkladu projevu vůle podle obsahu).
+
+**4. Subsumpce.** Pro platnost smlouvy (odst. 1) musí být kumulativně zřejmé, kdo jednal (splněno — osobní jednání, korespondence z účtu F, předání rukopisu), a druhá strana nesmí mít pochybnost o osobě jednajícího (splněno — nakladatelství vědělo, že jedná s F). Pro ochranu proti třetímu subjektu (odst. 2) je rozhodné, zda pseudonym „vešel ve známost" — naplněno publikační historií a tržní asociací. Sporné by bylo jen tehdy, kdyby pseudonym byl nový a veřejnosti neznámý.
+
+**5. Řešení.** Smlouva je platná navzdory podpisu pseudonymem (odst. 1). Proti třetímu subjektu se F brání obdobně jako u § 78 — domáhá se upuštění od užívání pseudonymu a odstranění následku, případně satisfakce; souběžně lze využít ochranu podle autorského zákona (klamání o autorství). Kroky: výzva, žaloba na ochranu jména/pseudonymu, příp. nárok z nekalé soutěže, je-li rušitel podnikatel. Riziko: rušitel namítne, že pseudonym není dostatečně známý — neutralizuje se důkazy o známosti.
+
+**6. Varianty.** (a) Kdyby z okolností nebylo zřejmé, kdo jednal (anonymní objednávka, žádná předchozí komunikace), mohla by být ohrožena identifikace jednajícího a tím i přičitatelnost jednání. (b) Kdyby pseudonym ve známost dosud nevešel, ochrana podle odst. 2 by nenastoupila a F by se musela opřít jen o autorské právo k dílu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pochybnost o osobě jednajícího":* protistrana může tvrdit, že nevěděla, s kým jedná, a dovolávat se neplatnosti či neúčinnosti. Neutralizace: doklady o předchozí komunikaci a osobním kontaktu, z nichž totožnost plyne.
+- *Protiargument „pseudonym není proslulý":* rušitel popře známost pseudonymu. Neutralizace: prodeje, recenze, mediální zmínky, čtenářské asociace.
+- *Slabé místo:* hranice mezi ochranou pseudonymu podle OZ a ochranou autorství podle autorského zákona se prolíná; je vhodné nároky kumulovat a nespoléhat jen na jeden režim.
+
+#### H. Praktický závěr
+
+Pseudonym je legitimní alternativou jména; jednání pod ním je platné, je-li zřejmá totožnost jednajícího a druhá strana nemá pochybnost. Jakmile pseudonym vejde ve známost, chrání se stejně jako vlastní jméno (obdoba § 78).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je z okolností zřejmé, kdo pod pseudonymem jednal?
+- [ ] Neměla druhá strana pochybnost o osobě jednajícího (jinak hrozí spor o platnost)?
+- [ ] Vešel pseudonym ve známost (předpoklad ochrany dle odst. 2)?
+- [ ] Zvážena kumulace s ochranou podle autorského zákona, příp. známkového a soutěžního práva?
+- [ ] Při sporu o platnost smlouvy: lze totožnost doložit listinami a korespondencí?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s pseudonymem, korespondence prokazující totožnost, doklady o známosti pseudonymu (prodeje, recenze, média), srovnání děl při zneužití třetí osobou.
 
 ### § 80 — Bydliště
 
@@ -169,6 +280,43 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
   > „Odvolací soud předně zdůraznil, že: „opatrovanec měl své skutečné bydliště ve smyslu § 80 odst. 1 o. z. naposledy v obvodu obce Statenice, avšak v tomto svém bydlišti se již dlouhodobě vůbec nezdržuje."
 - *NS* [30 Cdo 3379/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F082DB9E42281A0C12580F00025CFD3?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
   > „Z vyloženého vyplývá, že při rozhodování o jmenovámí veřejného opatrovníka ve smyslu ustanovení § 471 odst. 3 o.z., je na soudu, aby při úvahách o bydlišti opatrovance učinil konkrétní skutková zjištění zacílená na ověření existence jednotlivých, již uvedených, hledisek charakterizujících bydliště člověka podle ustanovení § 80 o.z."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel G chce žalovat dlužníka H o zaplacení zápůjčky. Ve smlouvě H uvedl jako adresu byt v Praze, odkud se však již rok odstěhoval a kde mu nelze doručovat; fakticky žije a zdržuje se s úmyslem trvale žít v Brně, kde má pronajatý byt, zaměstnání a rodinu. V evidenci obyvatel má H stále trvalý pobyt ohlášený na úřadě městské části (po výmazu z bytu). Účastníci: G (věřitel, žalobce), H (dlužník). Důkazy: smlouva s uvedenou adresou, doklad o trvalém pobytu z evidence obyvatel, nájemní smlouva v Brně, pracovní smlouva, svědectví o faktickém zdržování se.
+
+**2. Právní otázka.** Které místo je bydlištěm H pro určení místní příslušnosti soudu — adresa uvedená ve smlouvě, evidovaný trvalý pobyt, nebo místo, kde se H skutečně zdržuje s úmyslem trvale žít?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 odst. 1 (materiální pojetí bydliště: zdržování se s úmyslem trvale žít; možnost dovolat se skutečného i uvedeného bydliště) a odst. 2 (kaskáda náhradního bydliště).
+- *Související ustanovení téhož zákona:* § 471 odst. 3 (veřejný opatrovník — obec dle bydliště); § 552, § 555 (výklad projevu vůle).
+- *Související předpisy:* § 84–85 o. s. ř. (obecný soud podle bydliště); zákon č. 133/2000 Sb., o evidenci obyvatel (trvalý pobyt jako veřejnoprávní evidence, nikoli totožná s bydlištěm).
+- *Judikatura:* NS sp. zn. 24 Cdo 1140/2023 a 24 Cdo 2747/2021 (citováno v komentáři) — bydliště se zjišťuje podle skutečného zdržování se s úmyslem trvale žít; opatrovanec měl skutečné bydliště naposledy tam, kde se již dlouhodobě nezdržuje.
+
+**4. Subsumpce.** Znak „zdržování se" (corpus) — naplněn v Brně. Znak „úmysl trvale žít" (animus manendi) — naplněn (zaměstnání, rodina, nájem). Evidovaný trvalý pobyt na úřadě MČ není bydlištěm ve smyslu § 80. Adresa ve smlouvě je „uvedené místo": věřitel se podle odst. 1 věty druhé může dovolat skutečného bydliště (Brno) i uvedeného (Praha). Sporné je jen tehdy, není-li úmysl trvale žít doložitelný (např. čerstvé stěhování).
+
+**5. Řešení.** Skutečným bydlištěm H je Brno; G může podat žalobu k obecnému soudu podle skutečného bydliště, případně se dovolat adresy uvedené ve smlouvě, doručuje-li mu tam v dobré víře. Pravděpodobný výsledek: příslušnost brněnského soudu při doložení faktického a volního prvku. Kroky: zjistit faktické bydliště (lustrace, šetření), v žalobě označit bydliště a doložit je; při sporu o příslušnost navrhnout dokazování. Riziko: nedostatek důkazů o úmyslu — pak nastupuje kaskáda odst. 2 (místo, kde žije; kde má majetek; poslední bydliště).
+
+**6. Varianty.** (a) Kdyby H v Brně pobýval jen přechodně kvůli dočasné zakázce bez úmyslu trvalosti, šlo by o „místo, kde žije" (odst. 2), nikoli o bydliště dle odst. 1. (b) Kdyby G doručoval výlučně na adresu uvedenou ve smlouvě a činil tak v dobré víře, H by nemohl namítat, že má skutečné bydliště jinde (odst. 1 věta třetí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje trvalý pobyt v evidenci":* protistrana zaměňuje veřejnoprávní evidenci s materiálním bydlištěm. Neutralizace: § 80 staví na faktickém stavu; evidovaný pobyt je jen jedním z indicií, nikoli rozhodujícím kritériem.
+- *Protiargument „úmysl trvale žít nelze prokázat":* námitka proti animus manendi. Neutralizace: úmysl plyne i z okolností (zaměstnání, rodina, nájem, koncentrace životních zájmů), nejen z prohlášení.
+- *Slabé místo:* dokazování úmyslu je skutkové a může být sporné; bez listinných opor (nájem, pracovní smlouva) hrozí, že soud sáhne ke kaskádě odst. 2, jejíž výsledek je méně předvídatelný.
+
+#### H. Praktický závěr
+
+Bydliště v soukromém právu je materiální kategorie (zdržování se + úmysl trvale žít), nikoli totožná s evidovaným trvalým pobytem. Pro doručování a místní příslušnost se lze dovolat skutečného i uvedeného bydliště; nelze-li bydliště zjistit, nastupuje kaskáda náhradních míst.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doložen faktický prvek (zdržování se) i volní prvek (úmysl trvale žít)?
+- [ ] Nezaměňuje se bydliště s trvalým pobytem v evidenci obyvatel?
+- [ ] Bylo uvedeno „jiné místo" než skutečné bydliště (možnost dovolat se obojího; ochrana dobré víry)?
+- [ ] Nelze-li bydliště zjistit, byla správně uplatněna kaskáda odst. 2 (kde žije → kde má majetek → poslední bydliště)?
+- [ ] Je bydliště správně promítnuto do určení obecného soudu dle o. s. ř.?
+
+**Typicky rozhodné důkazy / podklady:** nájemní/podnájemní a pracovní smlouvy, doklad o trvalém pobytu, svědectví o faktickém zdržování se, korespondence a adresa ve smlouvě, doklady o koncentraci životních a majetkových zájmů.
 
 ---
 
@@ -224,6 +372,43 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
   > „Odvolací soud ve shodě se soudem prvního stupně posoudil nárok žalobkyně podle § 81 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a dospěl k závěru, že žalovaná do osobnosti žalobkyně zasáhla, nikoli však neoprávněně."
 - *NS* [25 Cdo 3931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/432300EA45409D06C1258B72004D1A37?openDocument) — *Změna návrhu na zahájení řízení Ochrana osobnosti Zadostiučinění (satisfakce) Přípustnos…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investigativní web zveřejní reportáž, v níž o známém podnikateli I uvede, že „bezpochyby řídí organizovanou zločineckou skupinu", ačkoli I nebyl obviněn ani odsouzen; článek je doplněn jeho fotografií, údaji o zdravotním stavu (psychiatrická léčba) a o rodinném životě. I se cítí dotčen na cti, dobré pověsti, soukromí i důstojnosti. Účastníci: I (dotčená osoba), provozovatel webu (rušitel). Důkazy: text reportáže, doklad o neexistenci trestního stíhání, zdroj informací o zdravotním stavu, doklady o dopadu (ztráta zakázek).
+
+**2. Právní otázka.** Které chráněné statky osobnosti (§ 81 odst. 2) byly zasaženy a byl zásah neoprávněný, nebo jde o dovolenou kritiku ve veřejném zájmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 — generální klauzule ochrany osobnosti; demonstrativní výčet statků (důstojnost, čest, dobrá pověst, zdraví, soukromí, projevy osobní povahy) a povinnost ctít svobodné rozhodnutí žít podle svého.
+- *Související ustanovení téhož zákona:* § 82 (žaloba na upuštění a odstranění následku); § 86 (soukromí); § 2951 odst. 2, § 2956–2957, § 2971 (náhrada nemajetkové újmy, úmyslné zásahy); § 19 (přirozená práva).
+- *Související předpisy:* čl. 7–10 LZPS a čl. 8 a 10 EÚLP; zákon č. 110/2019 Sb. (zpracování zvlášť citlivých údajů o zdraví).
+- *Judikatura:* NS sp. zn. 25 Cdo 3025/2022 (citováno v komentáři u § 82) — tvrzení o spáchání trestného činu v rozporu s presumpcí neviny je neoprávněným zásahem; obecně testy proporcionality mezi ochranou osobnosti a svobodou projevu.
+
+**4. Subsumpce.** Statek „čest a dobrá pověst" — zasažen nepravdivým tvrzením o trestné činnosti. Statek „soukromí" a „zdraví" — zasažen zveřejněním psychiatrické léčby. Neoprávněnost: nepravdivé skutkové tvrzení nelze ospravedlnit zpravodajskou licencí; údaje o zdraví jsou citlivé a chybí zákonný důvod. Sporné by bylo posouzení hodnotících soudů (kdyby šlo o kritiku opřenou o pravdivý základ).
+
+**5. Řešení.** I se podle § 82 odst. 1 domáhá upuštění od šíření a odstranění následku (stažení, omluva) a podle § 2951 odst. 2 satisfakce, u úmyslného zásahu i s přihlédnutím k § 2957/2971. Pravděpodobný výsledek: úspěch ohledně nepravdivého obvinění a zdravotních údajů. Kroky: předžalobní výzva, návrh na předběžné opatření, žaloba; vážit i odpovědnost konkrétních autorů. Riziko: obrana veřejným zájmem — neutralizuje se nepravdivostí faktu a absencí veřejného zájmu na intimních zdravotních údajích.
+
+**6. Varianty.** (a) Kdyby web pouze pravdivě informoval o zahájeném trestním stíhání s důsledným respektem k presumpci neviny, šlo by patrně o dovolené zpravodajství. (b) Kdyby I byl ústavním činitelem a šlo o jeho veřejné působení (nikoli o zdraví), prostor pro kritiku by byl širší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „svoboda projevu a veřejný zájem":* žalovaný se dovolá čl. 17 LZPS. Neutralizace: oddělit skutková tvrzení (test pravdivosti) od hodnotících soudů (test dostatečného základu) a vyloučit veřejný zájem u ryze soukromých/zdravotních údajů.
+- *Protiargument „status veřejné osoby":* tvrzení o snížené ochraně veřejně činné osoby. Neutralizace: snížená ochrana se týká veřejného působení, nikoli zdravotního stavu a rodinného života.
+- *Slabé místo:* výše satisfakce je obtížně předvídatelná a vyžaduje doložení intenzity a následků zásahu; bez doložení dopadu hrozí symbolické plnění.
+
+#### H. Praktický závěr
+
+§ 81 je generální klauzulí: chrání osobnost jako celek a demonstrativně vyjmenované statky. V praxi se vždy poměřuje se svobodou projevu testem proporcionality; klíčové je odlišení skutkových tvrzení od hodnotících soudů a identifikace konkrétně zasaženého statku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který konkrétní statek osobnosti byl zasažen (čest, dobrá pověst, soukromí, zdraví, důstojnost, projevy osobní povahy)?
+- [ ] Jde o skutkové tvrzení (pravdivost), nebo o hodnotící soud (dostatečný faktický základ)?
+- [ ] Existuje veřejný zájem a je zásah proporcionální?
+- [ ] Nebyly zpracovány zvlášť citlivé údaje (zdraví) bez zákonného důvodu?
+- [ ] Zvolen správný nárok dle § 82 a zvážena navazující satisfakce (§ 2951 odst. 2, příp. § 2971)?
+
+**Typicky rozhodné důkazy / podklady:** sporný výrok/text, doklady o (ne)pravdivosti, doklady o veřejném zájmu, zdroj citlivých údajů, doklady o intenzitě a následcích zásahu.
+
 ### § 82 — Aktivní legitimace k ochraně
 
 > (1) Člověk, jehož osobnost byla dotčena, má právo domáhat se toho, aby bylo od neoprávněného zásahu upuštěno nebo aby byl odstraněn jeho následek.
@@ -263,6 +448,43 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [30 Cdo 5848/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AEF771EA85E22CC3C125829600476AF9?openDocument) — *Ochrana osobnosti*
   > „Bylo již zmíněno, že odvolací soud daný spor podřadil pod ustanovení o ochraně osobnosti člověka občanského zákoníku č. 89/2012 Sb. (konkrétně upravující postmortální ochranu člověka ve smyslu ustanovení § 82 odst. 2 o.z.)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Veřejně známý politik J zemře; půl roku po jeho smrti odvysílá televize pořad, který o J nepravdivě tvrdí, že za života bral úplatky, a doprovodí to fingovanými „rekonstrukcemi". Dcera K i bratr L se cítí dotčeni na památce zemřelého. Současně vydavatel požaduje peněžitou satisfakci za zásah, k němuž došlo ještě za života J (článek vyšel den před smrtí). Účastníci: zemřelý J, K a L (osoby blízké), televize (rušitel). Důkazy: záznam pořadu, doklad o nepravdivosti, doklad o příbuzenském/blízkém vztahu, datace zásahu vůči okamžiku smrti.
+
+**2. Právní otázka.** Kdo a v jakém rozsahu může po smrti člověka uplatnit ochranu jeho osobnosti, a přechází na pozůstalé i nárok na peněžitou satisfakci za zásah způsobený ještě za života?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82 odst. 1 (žaloba na upuštění a odstranění následku) a odst. 2 (postmortální ochrana — legitimace kterékoli osoby blízké).
+- *Související ustanovení téhož zákona:* § 81 (chráněné statky); § 22 (osoba blízká); § 83 odst. 2 (postmortální legitimace právnické osoby); § 2951 odst. 2 a § 629 (satisfakce a promlčení).
+- *Související předpisy:* tiskový zákon č. 46/2000 Sb. (právo na odpověď/dodatečné sdělení); čl. 10 LZPS.
+- *Judikatura:* ÚS sp. zn. II. ÚS 577/13 a NS sp. zn. 30 Cdo 5848/2016 a 30 Cdo 547/2018 (citováno v komentáři) — postmortální ochrana podle § 82 odst. 2 a okruh oprávněných osob blízkých.
+
+**4. Subsumpce.** Postmortální legitimace (odst. 2) — naplněna u K i L jako osob blízkých; mohou se domáhat upuštění od šíření a odstranění následku (omluva, stažení). Naopak peněžitá satisfakce za zásah do osobnosti zemřelého náleží primárně do režimu ochrany památky (zdržovací a restituční nároky), nikoli automaticky jako majetkový nárok pozůstalých; nárok na satisfakci vzniklý za života J je nárokem J a jeho přechod do pozůstalosti je třeba posoudit zvlášť (osobní povaha práva). Sporné: rozsah, v jakém lze žádat zadostiučinění v penězích po smrti.
+
+**5. Řešení.** K i L podají žalobu na upuštění a odstranění následku (§ 82 odst. 2). Co do peněžité satisfakce: za zásah po smrti se prosazují především nemajetkové (zdržovací/odstraňovací) nároky; nárok na peněžité zadostiučinění vzniklý J za života lze uplatnit jen, pokud již za života přešel do dispozice (např. byl uplatněn) — jinak zaniká pro osobní povahu. Kroky: výzva k omluvě, žaloba, návrh na předběžné opatření. Riziko: televize namítne uměleckou licenci — neutralizuje se nepravdivostí a difamačním účinkem.
+
+**6. Varianty.** (a) Kdyby J za života sám podal žalobu na satisfakci a zemřel až v průběhu řízení, mohlo by řízení o již uplatněném nároku pokračovat (procesní nástupnictví). (b) Kdyby šlo o pravdivé informace o veřejném působení J, postmortální ochrana cti by neuspěla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nárok zanikl smrtí":* žalovaný tvrdí, že osobnostní nárok je nepřevoditelný a smrtí zaniká. Neutralizace: u zdržovacích a odstraňovacích nároků zákon výslovně zakládá legitimaci osob blízkých (odst. 2); rozlišit je třeba od peněžité satisfakce.
+- *Protiargument „příliš široký okruh žalobců":* námitka proti legitimaci „kterékoli osoby blízké". Neutralizace: pojem osoby blízké je vymezen § 22; soud zkoumá reálný vztah.
+- *Slabé místo:* přechod nároku na peněžité zadostiučinění za zásah za života je sporný a judikatorně citlivý; nelze na něj automaticky spoléhat.
+
+#### H. Praktický závěr
+
+§ 82 zakládá klasickou žalobu na ochranu osobnosti (upuštění + odstranění následku) a po smrti člověka rozšiřuje legitimaci na kteroukoli osobu blízkou (ochrana památky zemřelého). Peněžitou satisfakci je třeba odlišovat: má osobní povahu a její přechod je omezený.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Žaluje přímo dotčený (za života), nebo osoba blízká (po smrti, odst. 2)?
+- [ ] Je dán statut osoby blízké podle § 22?
+- [ ] Jde o nárok zdržovací/odstraňovací (přechází), nebo o peněžitou satisfakci (osobní povaha)?
+- [ ] Byl nárok na satisfakci uplatněn ještě za života dotčeného?
+- [ ] Byly dodrženy promlčecí lhůty pro satisfakci (subjektivní 3 roky / objektivní 10 let)?
+
+**Typicky rozhodné důkazy / podklady:** sporný obsah, doklad o nepravdivosti, doklad o vztahu osoby blízké, datace zásahu vůči okamžiku smrti, doklady o tom, zda byl nárok uplatněn za života.
+
 ### § 83 — Aktivní legitimace právnické osoby
 
 > (1) Souvisí-li neoprávněný zásah do osobnosti člověka s jeho činností v právnické osobě, může právo na ochranu jeho osobnosti uplatnit i tato právnická osoba; za jeho života však jen jeho jménem a s jeho souhlasem. Není-li člověk schopen projevit vůli pro nepřítomnost nebo pro neschopnost úsudku, není souhlasu třeba.
@@ -284,6 +506,43 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *OS v Ústí nad Orlicí* [10 C 41/2020-116](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c0499a7-663b-4ab8-a2b7-70879ea45f22) — *náhrada nemajetkové újmy, nemajetková újma, ochrana osobnosti, peněžité plnění, stavba n…*
 - *KS v Hradci Králové, pobočka Pardubice* [22 CO 99/2022-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd67799f-da86-4c07-a69c-aca06457e1d5) — *nemajetková újma, ochrana osobnosti, peněžité plnění, svědečné, zadostiučinění / satisfa…*
 - *MS v Brně* [47 C 217/2023-130](https://rozhodnuti.justice.cz/rozhodnuti/?id=063dba13-d3d4-4635-b58b-50d7bf82e65b) — *ochrana osobních údajů, ochrana osobnosti*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Redaktor M je zaměstnancem zpravodajského vydavatelství N. Konkurenční médium opakovaně publikuje nepravdivá tvrzení, že M fabrikuje zdroje, čímž poškozuje jeho profesní pověst. M je dlouhodobě nedosažitelný na zahraniční reportážní cestě v krizové oblasti a nemůže sám jednat; vydavatelství N chce zasáhnout na jeho ochranu. Posléze M v terénu zahyne a difamační tvrzení pokračují. Účastníci: M (zaměstnanec, dotčený), N (právnická osoba — zaměstnavatel), konkurenční médium (rušitel). Důkazy: pracovní smlouva M u N, sporné výroky, doklad o nedosažitelnosti M, doklad o souvislosti zásahu s činností M u N.
+
+**2. Právní otázka.** Za jakých podmínek může právnická osoba (zaměstnavatel) uplatnit ochranu osobnosti svého člověka za jeho života a samostatně po jeho smrti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 1 (legitimace PO při zásahu souvisejícím s činností člověka v PO — za života jen jeho jménem a s jeho souhlasem; bez souhlasu, nemůže-li projevit vůli) a odst. 2 (po smrti — samostatně upuštění a odstranění následku).
+- *Související ustanovení téhož zákona:* § 81 a § 82 (ochrana osobnosti a postmortální legitimace osob blízkých); § 135 (ochrana názvu a dobré pověsti PO — odlišit nárok PO za sebe).
+- *Související předpisy:* zákoník práce (vztah zaměstnance a zaměstnavatele); tiskový zákon.
+- *Judikatura:* nosný závěr, že ochrana osobnosti fyzické osoby je odlišná od ochrany dobré pověsti PO (srov. v komentáři u § 81 citované NS sp. zn. 25 Cdo 1552/2025 k dobré pověsti PO).
+
+**4. Subsumpce.** Souvislost s činností v PO (odst. 1) — naplněna, difamace se týká výkonu povolání M u N. Za života: N může jednat jen jménem M a s jeho souhlasem; protože M je nedosažitelný (nemůže projevit vůli), souhlasu netřeba — podmínka naplněna. Po smrti (odst. 2): N může jednat samostatně. Sporné by bylo, kdyby zásah s činností v PO nesouvisel (čistě soukromá sféra M) — pak by legitimace N nevznikla.
+
+**5. Řešení.** Za života M (nedosažitelného) podá N jeho jménem žalobu na upuštění a odstranění následku; po jeho smrti N pokračuje/podává žalobu samostatně podle odst. 2. Pravděpodobný výsledek: úspěch při doložení nepravdivosti a souvislosti s profesní činností. Kroky: doložit pracovní vztah a nedosažitelnost, žaloba, příp. souběžně nárok N na ochranu vlastní dobré pověsti (§ 135), je-li poškozena i pověst N. Riziko: namítaná absence souhlasu M — neutralizuje se prokázáním nemožnosti projevit vůli.
+
+**6. Varianty.** (a) Kdyby byl M dosažitelný a souhlas odepřel, N by za jeho života jednat nemohla (autonomie dotčeného). (b) Kdyby difamace mířila na N jako instituci (nikoli na M), uplatnila by N vlastní nárok na ochranu dobré pověsti podle § 135, nikoli odvozenou legitimaci dle § 83.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „chybí souhlas dotčeného":* žalovaný namítne neexistenci souhlasu M. Neutralizace: doložit nemožnost M projevit vůli (nepřítomnost, neschopnost úsudku), kdy souhlasu není třeba.
+- *Protiargument „zásah nesouvisí s činností v PO":* námitka, že jde o soukromou sféru. Neutralizace: prokázat věcnou souvislost difamace s výkonem povolání u N.
+- *Slabé místo:* nárok PO podle § 83 je odvozený (jménem člověka), nikoli vlastní; je třeba jej odlišit od nároku PO na ochranu vlastní dobré pověsti, jinak hrozí zamítnutí pro nedostatek aktivní legitimace.
+
+#### H. Praktický závěr
+
+§ 83 dává právnické osobě odvozenou legitimaci k ochraně osobnosti jejího člověka, souvisí-li zásah s jeho činností v PO: za života jen jeho jménem a s jeho souhlasem (bez souhlasu, nemůže-li projevit vůli), po smrti samostatně co do zdržení a odstranění následku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Souvisí zásah s činností dotčeného člověka v právnické osobě?
+- [ ] Jedná PO za života jménem člověka a s jeho souhlasem (nebo je dán důvod, kdy souhlasu netřeba)?
+- [ ] Jde o postmortální fázi (odst. 2 — PO jedná samostatně)?
+- [ ] Nezaměňuje se odvozená legitimace dle § 83 s vlastním nárokem PO na dobrou pověst (§ 135)?
+- [ ] Je doloženo postavení člověka v PO (pracovní/členský/orgánový vztah)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vztahu člověka a PO (pracovní/členská smlouva, jmenování), sporné výroky, doklad o souvislosti s činností v PO, doklad o (ne)možnosti dotčeného projevit vůli, příp. souhlas.
 
 ---
 
@@ -324,6 +583,43 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [25 Cdo 801/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99AB289551261882C12586B8002F04E7?openDocument) — *Ochrana osobnosti Podoba člověka (o. z.) [ Osobnost člověka (o. z.) ]*
   > „Podle § 84 o. z. zachytit jakýmkoli způsobem podobu člověka tak, aby podle zobrazení bylo možné určit jeho totožnost, je možné jen s jeho svolením."
 - *NS* [25 Cdo 1778/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42EEAF28CE000340C12584EC002063F1?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Podoba člověka (o. z.) [ Osobnost člověka (o.…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fotograf O vyfotografuje na ulici kolemjdoucí ženu P (soukromá osoba) v identifikovatelné situaci a snímek o měsíc později prodá reklamní agentuře, která jej použije na billboardy propagující půjčky. P o pořízení ani o reklamním užití nevěděla a nesouhlasila. Účastníci: P (zobrazená, soukromá osoba), O (autor snímku), agentura (uživatel). Důkazy: billboardy/snímek (s rozpoznatelnou tváří P), doklad o absenci svolení, smlouva mezi O a agenturou, okolnosti pořízení (nešlo o zpravodajství).
+
+**2. Právní otázka.** Bylo k pořízení a zejména k reklamnímu šíření podobizny P potřeba její svolení, a vztahuje se na situaci některá zákonná výjimka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 (svolení k zachycení podoby, lze-li určit totožnost) a § 85 (svolení k rozšiřování; domněnka souhlasu k šíření, je-li z okolností zřejmé, že bude šířeno).
+- *Související ustanovení téhož zákona:* § 81 odst. 2 (projevy osobní povahy); § 86 (soukromí); § 88–90 (zákonné výjimky a jejich korektiv); § 87 (odvolatelnost svolení); § 2951 odst. 2 (satisfakce).
+- *Související předpisy:* zákon č. 110/2019 Sb. (zpracování osobních údajů — podobizna jako osobní údaj); čl. 10 LZPS.
+- *Judikatura:* NS sp. zn. 25 Cdo 801/2020 a 25 Cdo 1778/2019 (citováno v komentáři) — zachytit podobu tak, aby bylo možné určit totožnost, lze jen se svolením; ochrana podoby člověka.
+
+**4. Subsumpce.** Znak „identifikovatelnost" (§ 84) — naplněn (rozpoznatelná tvář). Svolení k zachycení chybí. Pro šíření (§ 85) je třeba samostatné svolení; domněnka souhlasu k šíření zde nenastupuje, neboť okolnosti pořízení (anonymní snímek na ulici) nesvědčily o zamýšleném šíření, tím méně reklamním. Výjimky § 88–89 (úřední, vědecký, zpravodajský účel) se neuplatní — jde o komerční reklamu. Sporné by bylo, kdyby P nebyla identifikovatelná (silueta, dav).
+
+**5. Řešení.** P se domáhá upuštění od užívání a odstranění následku (stažení billboardů) a satisfakce; pasivně legitimováni jsou O i agentura. Pravděpodobný výsledek: úspěch P — reklamní využití podoby bez souhlasu je typicky neoprávněný zásah. Kroky: výzva ke stažení, návrh na předběžné opatření, žaloba; zvážit i nárok podle úpravy ochrany osobních údajů. Riziko: tvrzení o „zpravodajském" kontextu — neutralizuje se reklamní (komerční) povahou užití, na niž zpravodajská licence nedopadá.
+
+**6. Varianty.** (a) Kdyby P byla profesionální modelka, která se nechala fotografovat na akci, kde bylo zřejmé, že snímky budou publikovány, nastoupila by domněnka souhlasu k obvyklému šíření (§ 85 odst. 2) — nikoli však nutně k reklamě jiného typu. (b) Kdyby snímek zachycoval jen anonymní dav bez individualizace P, § 84 by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „fotografování na veřejnosti je dovolené":* žalovaný tvrdí, že na ulici není soukromí. Neutralizace: § 84 chrání podobu bez ohledu na místo, jakmile je osoba identifikovatelná; veřejné místo nelegalizuje reklamní užití.
+- *Protiargument „domněnka souhlasu k šíření":* odvolání na § 85 odst. 2. Neutralizace: domněnka platí jen pro šíření „obvyklým způsobem, jak bylo možné rozumně předpokládat" — reklamní využití běžně předpokládat nelze.
+- *Slabé místo:* hranice identifikovatelnosti je skutková; u částečně zakrytých snímků je třeba doložit rozpoznatelné znaky (tetování, kontext).
+
+#### H. Praktický závěr
+
+Podoba se chrání ve dvou krocích: svolení k zachycení (§ 84) a samostatné svolení k šíření (§ 85). Souhlas k pořízení neznamená souhlas k šíření; domněnka souhlasu k šíření je úzká a reklamní využití zpravidla vyžaduje výslovné svolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba ze zobrazení identifikovatelná (jinak § 84 nedopadá)?
+- [ ] Existuje svolení k zachycení a zvlášť k šíření?
+- [ ] Nastupuje domněnka souhlasu k šíření (§ 85 odst. 2) podle rozumně předvídatelného způsobu?
+- [ ] Jde o reklamní/komerční užití (zpravidla nutné výslovné svolení) nebo o zpravodajství/úřední účel (§ 88–89)?
+- [ ] Zvážen i režim ochrany osobních údajů (podobizna jako osobní údaj)?
+
+**Typicky rozhodné důkazy / podklady:** sporný snímek/jeho užití, doklad o (ne)existenci svolení, okolnosti pořízení a předvídatelnost šíření, smluvní řetězec autor–uživatel, podklady k identifikovatelnosti.
 
 ### § 86 — Soukromí
 
@@ -373,6 +669,43 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
   > „Podle § 86 věty první a druhé o. z. nikdo nesmí zasáhnout do soukromí jiného, nemá-li k tomu zákonný důvod."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soused Q namíří průmyslovou kameru s vysokým rozlišením a zoomem trvale na sousední zahradu, terasu a okna ložnice rodiny R, pořizuje a ukládá záznamy jejich soukromého života a část z nich (rodinnou oslavu) sdílí ve facebookové skupině obce. R se cítí dotčeni. Účastníci: R (sledovaní), Q (provozovatel kamery). Důkazy: fotodokumentace záběrového úhlu kamery, uložené záznamy, příspěvek ve skupině, plánek pozemků (co kamera zabírá), absence zákonného důvodu a souhlasu.
+
+**2. Právní otázka.** Představuje trvalé kamerové sledování sousedního soukromého prostoru, pořizování a sdílení záznamů zásah do soukromí podle § 86, není-li dán zákonný důvod ani svolení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 — zákaz zásahu do soukromí bez zákonného důvodu (narušení soukromých prostor, sledování, pořizování, využívání a šíření záznamů; stejná ochrana písemností osobní povahy).
+- *Související ustanovení téhož zákona:* § 81 odst. 2 (soukromí jako chráněný statek); § 88–90 (zákonné výjimky a korektiv); § 1013 (imise — sledování může být obtěžováním); § 2951 odst. 2 (satisfakce).
+- *Související předpisy:* zákon č. 110/2019 Sb. a GDPR (kamerové zpracování osobních údajů); trestní zákoník § 182 (porušení tajemství listin a jiných záznamů); zákon o policii (zákonné důvody).
+- *Judikatura:* NS sp. zn. 25 Cdo 1786/2021, 25 Cdo 1444/2023 a 25 Cdo 2849/2020 (citováno v komentáři) — nikdo nesmí zasáhnout do soukromí bez zákonného důvodu; meze kamerového sledování.
+
+**4. Subsumpce.** Znak „sledování soukromého života" a „pořizování záznamu" — naplněn (kamera míří na soukromé prostory R). Znak „šíření záznamů" — naplněn sdílením ve skupině. Absence zákonného důvodu a svolení — neoprávněnost zásahu. Sledování cizí zahrady a oken může být i imisí (§ 1013). Sporné by bylo, kdyby kamera zabírala výlučně pozemek Q a jen nezbytně k ochraně jeho majetku (pak by se zvažovala výjimka § 88 odst. 1 a korektiv § 90).
+
+**5. Řešení.** R se domáhají upuštění (odklon/odstranění kamery, zákaz sledování) a odstranění následku (výmaz záznamů, stažení příspěvku) a satisfakce; lze podat i podnět ÚOOÚ. Pravděpodobný výsledek: úspěch R při doložení záběru soukromých prostor a absence důvodu. Kroky: výzva, návrh na předběžné opatření (zákaz sledování), žaloba, paralelně správní podnět. Riziko: Q tvrdí ochranu vlastního majetku — neutralizuje se prokázáním, že kamera zabírá cizí soukromé prostory nad nezbytnou míru a že záznamy byly sdíleny.
+
+**6. Varianty.** (a) Kdyby kamera snímala jen vlastní vstupní dveře Q a krátký nezbytný výsek k ochraně před vloupáním, bez sdílení, mohl by být zásah dovolený (výjimka + proporcionalita dle § 90). (b) Kdyby šlo o atrapu kamery bez záznamu, chyběl by zásah spočívající v pořizování/šíření, ač by mohlo jít o obtěžování dle § 1013.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ochrana vlastního majetku":* Q se dovolá § 88 odst. 1 (výkon/ochrana práv). Neutralizace: test proporcionality dle § 90 — sledování nesmí přesáhnout nezbytnou míru ani zabírat cizí soukromé prostory; sdílení záznamů je excesem.
+- *Protiargument „veřejně přístupné místo":* tvrzení, že zahrada je z ulice vidět. Neutralizace: soukromí se neztrácí dílčí viditelností; rozhodující je systematické sledování a záznam.
+- *Slabé místo:* dokazování záběrového úhlu a obsahu záznamů; bez zajištění záznamů (před jejich smazáním) hrozí důkazní nouze — vhodné je předběžné opatření a zajištění důkazu.
+
+#### H. Praktický závěr
+
+§ 86 chrání soukromí v pěti vrstvách (prostory, sledování, pořizování, využívání, šíření) a stejně chrání i písemnosti osobní povahy. Zásah je dovolen jen ze zákonného důvodu; i tehdy podléhá korektivu přiměřenosti (§ 90). Kamerové sledování cizího soukromého prostoru je typickým neoprávněným zásahem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některou z forem zásahu dle § 86 (prostory / sledování / pořízení / využití / šíření)?
+- [ ] Existuje zákonný důvod nebo svolení?
+- [ ] Je zásah přiměřený a nepřesahuje nezbytnou míru (korektiv § 90)?
+- [ ] Nejde zároveň o imisi dle § 1013 nebo o porušení úpravy ochrany osobních údajů?
+- [ ] Jsou zajištěny záznamy a důkazy (předběžné opatření, zajištění důkazu)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace záběru kamery, samotné záznamy, doklady o šíření, plánky/zaměření prostor, doklad o (ne)existenci zákonného důvodu a svolení.
+
 ### § 87 — Odvolání souhlasu
 
 > (1) Kdo svolil k použití písemnosti osobní povahy, podobizny nebo zvukového či obrazového záznamu týkajícího se člověka nebo jeho projevů osobní povahy, může svolení odvolat, třebaže je udělil na určitou dobu.
@@ -407,6 +740,43 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 - *OS v Mladé Boleslavi* [16 C 54/2021-45](https://rozhodnuti.justice.cz/rozhodnuti/?id=e5f08630-9d58-4590-a9bf-0c2cd1aa5308) — *peněžité plnění, smlouva o úvěru*
 - *OS v Jičíně* [9 C 27/2022-73](https://rozhodnuti.justice.cz/rozhodnuti/?id=7aabbd24-bdd6-4849-8478-4ff9b3495546) — *peněžité plnění, smlouva o úvěru*
 - *OS v Jihlavě* [11 C 147/2022-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=c4b167de-cd04-48e6-a6eb-bae3cc4463a1) — *odstoupení od smlouvy, smlouva o úvěru*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Model S uzavře s reklamní agenturou T písemnou licenční smlouvu na užití své podobizny v celostátní kampani na dobu dvou let za sjednanou odměnu. Po jednom roce S bez podstatného důvodu (pouze proto, že dostal lépe placenou nabídku konkurence) souhlas s užitím podobizny odvolá a požaduje okamžité stažení vizuálů. T již vytiskla materiály a naplánovala druhý rok kampaně. Účastníci: S (nositel práva k podobizně), T (agentura). Důkazy: licenční smlouva (doba, odměna), odvolání souhlasu, doklad o nákladech a plánu kampaně, absence rozumného důvodu odvolání.
+
+**2. Právní otázka.** Může S odvolat souhlas udělený na dobu určitou, a jaké jsou následky odvolání bez rozumného důvodu pro jeho odpovědnost vůči T?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 1 (odvolatelnost souhlasu i při udělení na dobu určitou) a odst. 2 (povinnost nahradit škodu při odvolání bez podstatné změny okolností nebo jiného rozumného důvodu).
+- *Související ustanovení téhož zákona:* § 84–85 (podoba a její šíření); § 1 odst. 2 (meze autonomie — ochrana osobnosti jako kogentní jádro); § 2913 (náhrada škody z porušení smluvní povinnosti — pro vyčíslení); § 2951 odst. 1.
+- *Související předpisy:* autorský zákon (užití podoby v audiovizuálním díle); zákon č. 110/2019 Sb.
+- *Judikatura:* k odvolatelnosti osobnostních svolení a k náhradě škody za bezdůvodné odvolání lze vyjít z nosné zásady, že osobnostní souhlas je vždy odvolatelný, avšak neodůvodněné odvolání zakládá náhradovou povinnost (princip § 87 odst. 2).
+
+**4. Subsumpce.** Odvolatelnost (odst. 1) — naplněna; S smí souhlas odvolat i přes dvouletou dobu. Pro náhradu škody (odst. 2) musí být kumulativně: souhlas na dobu určitou (splněno), odvolání bez podstatné změny okolností či jiného rozumného důvodu (splněno — jediným motivem je lepší nabídka), vznik škody u T (splněno — náklady, ušlý zisk). Sporné by bylo, zda nějaká okolnost přece jen představuje „rozumný důvod".
+
+**5. Řešení.** Užití podobizny po odvolání musí T ukončit do budoucna (S nelze nutit setrvat). Současně S odpovídá T za škodu vzniklou neodůvodněným předčasným odvoláním (marně vynaložené náklady, ušlý zisk z plánovaného druhého roku, náklady náhradní kampaně). Kroky: T vyčíslí škodu, vyzve S, případně žaluje náhradu; do budoucna stáhne vizuály. Riziko: S bude tvrdit rozumný důvod — neutralizuje se prokázáním, že jediným motivem byla výhodnější nabídka.
+
+**6. Varianty.** (a) Kdyby S odvolal souhlas kvůli tomu, že T začala podobiznu užívat v dehonestujícím nebo politickém kontextu, šlo by o rozumný důvod a náhradová povinnost dle odst. 2 by nevznikla. (b) Kdyby byl souhlas udělen na dobu neurčitou, odst. 2 by se neuplatnil (náhrada se váže na odvolání souhlasu uděleného na určitou dobu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva na dobu určitou je závazná, odvolání je porušením":* T může tvrdit, že S nesmí odstoupit. Neutralizace: § 87 odst. 1 je kogentní — souhlas lze vždy odvolat; ochrana T se přesouvá do roviny náhrady škody (odst. 2), nikoli do vynucení dalšího užití.
+- *Protiargument „rozumný důvod existuje":* S účelově konstruuje důvod. Neutralizace: zkoumat reálnost a podstatnost důvodu; pouhá lepší nabídka jím není.
+- *Slabé místo:* vyčíslení škody (zejména ušlého zisku) je obtížné a vyžaduje doložení nákladů a plánu; bez podkladů hrozí krácení nároku.
+
+#### H. Praktický závěr
+
+Souhlas k užití podobizny/projevů osobní povahy je vždy odvolatelný, i byl-li dán na dobu určitou (§ 87 odst. 1). Bezdůvodné odvolání souhlasu uděleného na určitou dobu však zakládá povinnost nahradit škodu druhé straně (odst. 2). Smluvně proto nelze odvolatelnost vyloučit, lze ji jen ekonomicky vyvážit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl souhlas udělen na dobu určitou?
+- [ ] Bylo odvolání podloženo podstatnou změnou okolností nebo jiným rozumným důvodem?
+- [ ] Byla užívání po odvolání ukončena do budoucna (nelze vynutit setrvání)?
+- [ ] Je vyčíslena škoda (marné náklady, ušlý zisk) při bezdůvodném odvolání?
+- [ ] Není ve smlouvě (neúčinné) ujednání vylučující odvolatelnost?
+
+**Typicky rozhodné důkazy / podklady:** licenční smlouva (doba, odměna, rozsah), projev odvolání a jeho datum, doklady o důvodu odvolání, účetní podklady k nákladům a ušlému zisku, plán/rozpočet kampaně.
 
 ### § 88—89 — Zákonné výjimky ze souhlasu
 
@@ -454,6 +824,43 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 - *NS* [25 Cdo 2849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1877D830C264DE9CC12589370020557A?openDocument) — *Ochrana osobnosti*
   > „Podle § 88 odst. 2 o. z. svolení není třeba v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel obchodu U pořizuje kamerový záznam prostoru před vchodem na ochranu majetku; jednou zachytí, jak zákazník V poškozuje výlohu. Záznam U použije jako důkaz v civilním sporu o náhradu škody proti V. Paralelně zpravodajský portál natočí reportáž o demonstraci, kde V veřejně vystoupí s projevem, a odvysílá ji. V v obou případech namítá zásah do své podoby a soukromí bez svolení. Účastníci: V (zobrazený), U (provozovatel — důkazní účel), portál (zpravodajský účel). Důkazy: kamerový záznam a okolnosti jeho pořízení, reportáž a kontext veřejného vystoupení, doklad o účelu užití.
+
+**2. Právní otázka.** Vztahuje se na pořízení a užití podobizny/záznamu některá ze zákonných výjimek (výkon a ochrana práv, úřední účel, veřejné vystoupení ve věci veřejného zájmu, zpravodajství), takže svolení V není třeba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 (svolení netřeba k úřednímu účelu nebo při veřejném vystoupení ve věci veřejného zájmu; dle odst. 1 i k výkonu/ochraně práv) a § 89 (zpravodajská, vědecká a umělecká licence — užití přiměřeným způsobem).
+- *Související ustanovení téhož zákona:* § 84–86 (podoba, šíření, soukromí); § 90 (korektiv přiměřenosti); § 81 odst. 2.
+- *Související předpisy:* o. s. ř. (přípustnost důkazu); tiskový zákon; čl. 10 a 17 LZPS.
+- *Judikatura:* NS sp. zn. 8 Tdo 577/2025 a 23 Cdo 1859/2021 (citováno v komentáři) — svolení není třeba, pořídí-li se záznam k výkonu nebo ochraně práv; ÚS k veřejnému zájmu a proporcionalitě (I. ÚS 3018/14, IV. ÚS 1378/16).
+
+**4. Subsumpce.** Důkazní užití (U): naplněna výjimka výkonu/ochrany práv (§ 88 odst. 1) — záznam slouží k uplatnění nároku na náhradu škody; přípustnost ovšem podléhá přiměřenosti (§ 90). Zpravodajství (portál): naplněna zpravodajská licence (§ 89), neboť V veřejně vystoupil ve věci veřejného zájmu (§ 88 odst. 2) — pořízení a užití „přiměřeným způsobem". Sporné by bylo, kdyby U zveřejnil záznam veřejně (nad rámec důkazu) nebo kdyby portál užil záběry senzacechtivě nad míru nezbytnou pro zpravodajský účel.
+
+**5. Řešení.** V obou případech je svolení V zbytečné: U smí záznam použít jako důkaz, portál smí odvysílat reportáž z veřejného vystoupení. Limity: záznam U nesmí být šířen mimo procesní účel; reportáž nesmí přesáhnout přiměřenost (§ 90). Kroky: U předloží záznam jako důkaz s vysvětlením účelu pořízení; portál dbá na věcnost a veřejný zájem. Riziko: námitka nepřiměřenosti — neutralizuje se omezením užití na nezbytný účel a rozsah.
+
+**6. Varianty.** (a) Kdyby U zachycený záznam zveřejnil na sociálních sítích „pro výstrahu", překročil by účel ochrany práv a šlo by o neoprávněný zásah. (b) Kdyby portál k reportáži připojil intimní záběry V z jeho soukromí bez vazby na veřejné vystoupení, zpravodajská licence by je nekryla (§ 90).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „každé pořízení bez souhlasu je nezákonné":* V přehlíží zákonné výjimky. Neutralizace: § 88–89 výslovně zakládají případy, kdy svolení netřeba (ochrana práv, úřední účel, veřejné vystoupení, zpravodajství).
+- *Protiargument „zpravodajská licence je bez limitů":* nesprávné chápání § 89. Neutralizace: licence platí jen „přiměřeným způsobem" a podléhá korektivu § 90; rozhodující je veřejný zájem, nikoli zvědavost.
+- *Slabé místo:* hranice mezi důkazním užitím (dovoleným) a zveřejněním (zpravidla nedovoleným) je tenká; je nutné držet záznam striktně v procesní rovině.
+
+#### H. Praktický závěr
+
+§ 88 a § 89 vymezují situace, kdy podobiznu/záznam lze pořídit a užít bez svolení: ochrana práv, úřední účel, veřejné vystoupení ve věci veřejného zájmu, zpravodajství, věda a umění. Každá výjimka je však limitována přiměřeností (§ 90) a vázána na konkrétní účel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá pořízení/užití pod konkrétní výjimku (ochrana práv / úřední účel / veřejné vystoupení / zpravodajství / věda, umění)?
+- [ ] Je dán veřejný zájem (u zpravodajství), nebo jen zvědavost?
+- [ ] Je užití „přiměřeným způsobem" a v mezích účelu (test dle § 90)?
+- [ ] Nepřekračuje důkazní užití procesní rámec (zákaz veřejného šíření)?
+- [ ] Nebyly připojeny záběry/údaje ze soukromí nad rámec účelu?
+
+**Typicky rozhodné důkazy / podklady:** sporný záznam/reportáž, doklad o účelu a okolnostech pořízení, doklad o veřejném vystoupení a veřejném zájmu, rozsah a způsob užití, procesní kontext (návrh na důkaz).
+
 ### § 90 — Korekční klauzule
 
 > Zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka.
@@ -492,6 +899,43 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 - *NS* [25 Cdo 1778/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42EEAF28CE000340C12584EC002063F1?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Podoba člověka (o. z.) [ Osobnost člověka (o.…*
   > „Podle § 90 o. z. zákonný důvod k zásahu do soukromí jiného nebo k použití jeho podobizny, písemnosti osobní povahy nebo zvukového či obrazového záznamu nesmí být využit nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud projednává civilní spor o náhradu škody; účastník W navrhne jako důkaz videozáznam z veřejného soudního jednání, na němž je zachycen protistrana X. Týž záznam X dříve šíří na sociálních sítích doplněný o posměšné komentáře. X namítá, že i kdyby pořízení záznamu bylo na základě zákona dovoleno (veřejnost soudního jednání), jeho další zveřejnění s difamačním podtextem překračuje meze. Účastníci: X (zachycený), W (původce záznamu/šiřitel). Důkazy: záznam, doklad o veřejnosti jednání, způsob a kontext zveřejnění, difamační komentáře.
+
+**2. Právní otázka.** Lze zákonný důvod k pořízení záznamu (veřejnost soudního jednání, zpravodajský účel) využít k jeho šíření nepřiměřeným způsobem v rozporu s oprávněnými zájmy dotčeného?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 — zákaz nepřiměřeného využití zákonného důvodu k zásahu do soukromí nebo k použití podobizny/záznamu v rozporu s oprávněnými zájmy člověka (korektiv proporcionality).
+- *Související ustanovení téhož zákona:* § 86 (soukromí); § 88–89 (zákonné výjimky, jejichž meze § 90 stanoví); § 81, § 82 (ochrana osobnosti a žaloba); § 2951 odst. 2.
+- *Související předpisy:* čl. 10 a 17 LZPS; čl. 8 a 10 EÚLP; o. s. ř. (zásada veřejnosti jednání).
+- *Judikatura:* NS sp. zn. 30 Cdo 1467/2018 a 25 Cdo 2728/2024 a 25 Cdo 1444/2023 (citováno v komentáři) — § 90 doplňuje zákonné licence o pravidlo vylučující podání informace nepřiměřeným způsobem v rozporu s oprávněnými zájmy člověka; nutnost testu proporcionality.
+
+**4. Subsumpce.** Zákonný důvod k pořízení (veřejnost jednání / zpravodajství) — dán. Test § 90: i tak nesmí být využit nepřiměřeně. Šíření záznamu s posměšnými komentáři nesleduje veřejný zájem na informování o soudním dění, nýbrž difamaci — to je nepřiměřené využití v rozporu s oprávněnými zájmy X. Sporné by bylo, kdyby šlo o věcnou zpravodajskou reflexi řízení bez dehonestujícího kontextu.
+
+**5. Řešení.** Třebaže pořízení mohlo být dovolené, samotné difamační šíření § 90 nekryje; X se domáhá upuštění (stažení) a odstranění následku, příp. satisfakce. Pravděpodobný výsledek: úspěch X ohledně dehonestujícího zveřejnění. Soud postupuje testem: povaha a intenzita zásahu, legitimní cíl, existence méně omezujících prostředků. Kroky: výzva, žaloba, příp. předběžné opatření. Riziko: W se dovolá veřejnosti jednání — neutralizuje se tím, že § 90 limituje i zákonné licence, jakmile je užití nepřiměřené.
+
+**6. Varianty.** (a) Kdyby W záznam užil jen jako důkaz v řízení (nikoli k veřejnému zesměšnění), § 90 by zásah aproboval. (b) Kdyby šlo o věcnou zpravodajskou reportáž o významném řízení bez urážlivého rámce, převážil by veřejný zájem a test § 90 by byl splněn.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „veřejnost jednání vše legitimuje":* W tvrdí, že záznam z veřejného jednání lze libovolně šířit. Neutralizace: § 90 výslovně podrobuje i zákonné licence požadavku přiměřenosti a souladu s oprávněnými zájmy dotčeného.
+- *Protiargument „svoboda projevu":* odvolání na čl. 17 LZPS. Neutralizace: svoboda projevu nekryje dehonestaci bez veřejného zájmu; rozhodující je proporcionalita.
+- *Slabé místo:* posouzení „nepřiměřenosti" je hodnotící a soud má široký prostor; argumentace musí být opřena o konkrétní intenzitu zásahu a absenci veřejného zájmu.
+
+#### H. Praktický závěr
+
+§ 90 je interpretační pojistkou: ani existující zákonný důvod (úřední účel, zpravodajství, veřejnost jednání) neopravňuje k nepřiměřenému zásahu v rozporu s oprávněnými zájmy člověka. Vždy se provádí test proporcionality (povaha a intenzita zásahu, legitimní cíl, méně omezující prostředky).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje vůbec zákonný důvod k zásahu (§ 88–89)?
+- [ ] Je konkrétní způsob užití přiměřený sledovanému cíli?
+- [ ] Není užití v rozporu s oprávněnými zájmy dotčeného (např. dehonestace bez veřejného zájmu)?
+- [ ] Existují méně omezující prostředky k dosažení cíle?
+- [ ] Byl proveden a doložen test proporcionality (intenzita / cíl / alternativy)?
+
+**Typicky rozhodné důkazy / podklady:** sporný záznam a způsob jeho užití, doklad o zákonném důvodu pořízení, kontext zveřejnění (komentáře, dosah), podklady k veřejnému zájmu a intenzitě zásahu.
+
 ---
 
 ### Pododdíl 3 — Právo na duševní a tělesnou integritu
@@ -513,6 +957,43 @@ Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesn�
 - *OS v Pardubicích* [18 C 175/2022-467](https://rozhodnuti.justice.cz/rozhodnuti/?id=447edbee-3d82-463a-aac7-d434aacfcc4f) — *náhrada za ztrátu na výdělku, pasivní legitimace, peněžité plnění, rehabilitace*
 - *KS v Českých Budějovicích* [15 Co 241/2024-200](https://rozhodnuti.justice.cz/rozhodnuti/?id=b41fec6d-5aad-4700-99d3-6de1cf8d2cdb) — *spoluvlastnictví, porod, osoba blízká, nemajetková újma, náhrada nemajetkové újmy, nákla…*
 - *OS ve Frýdku-Místku* [16 C 232/2022-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=1323eeb6-6295-4bbe-821c-c87dfb690909) — *bolestné, náhrada mzdy, náhrada nemajetkové újmy, náhrada za ztrátu na výdělku, nemajetk…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel extrémní zájezdové atrakce Y nabízí klientovi Z za úplatu „zážitek", jehož součástí má být dle písemné smlouvy způsobení trvalého a vážného poškození zdraví (např. nevratné znetvoření). Z smlouvu podepíše. Posléze se Z domáhá určení, že ujednání je neúčinné a že provedení takového zásahu by bylo protiprávní. Účastníci: Z (člověk, do jehož integrity má být zasaženo), Y (provozovatel). Důkazy: smlouva, popis plánovaného zásahu, vyjádření lékaře o povaze následků, absence medicínské indikace.
+
+**2. Právní otázka.** Lze platně, byť na základě souhlasu a za úplatu, sjednat zásah do tělesné integrity člověka, který nemá oporu v jeho zájmu na životě či zdraví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 — člověk je nedotknutelný (negativní povinnost nezasahovat do tělesné a duševní integrity; kogentní limit autonomie).
+- *Související ustanovení téhož zákona:* § 93 odst. 1 věta druhá (k souhlasu se závažnou újmou se nepřihlíží, není-li zásah nutný v zájmu života/zdraví); § 1 odst. 2 (meze autonomie — ochrana osobnosti); § 19 (přirozená práva); § 588 (zdánlivost/neplatnost při rozporu s dobrými mravy a veřejným pořádkem).
+- *Související předpisy:* čl. 7 odst. 1 LZPS (nedotknutelnost osoby); trestní zákoník (ublížení na zdraví — souhlas poškozeného nevylučuje protiprávnost u závažných újem).
+- *Judikatura:* nosný závěr, že tělesná integrita je nedisponibilní v jádru a souhlas se závažnou újmou je právně neúčinný (princip § 91 ve spojení s § 93).
+
+**4. Subsumpce.** Znak „nedotknutelnost" (§ 91) — chráněna kogentně. Plánovaný zásah způsobuje trvalé a vážné poškození bez medicínské indikace; souhlas Z proto nepůsobí (§ 93 odst. 1 věta druhá per analogiam s limitem § 91). Úplata na věci nic nemění — integritu nelze „prodat". Sporné by bylo jen, kdyby šlo o zásah nutný v zájmu života/zdraví (medicínsky indikovaný), což zde chybí.
+
+**5. Řešení.** Ujednání je v rozsahu plánovaného závažného zásahu neplatné/zdánlivé a jeho provedení by bylo protiprávní; Z se může domáhat určení a v případě provedení i ochrany osobnosti a náhrady újmy. Kroky: žaloba na určení neúčinnosti/neplatnosti, příp. negatorní žaloba a žaloba na náhradu újmy; trestní oznámení, dojde-li k zásahu. Riziko: Y namítne svobodu vůle Z — neutralizuje se kogentní povahou § 91 a § 93 (k souhlasu se nepřihlíží).
+
+**6. Varianty.** (a) Kdyby šlo o zásah s pouze nezávažnými a přechodnými následky (legitimní sportovní či kulturní aktivita), souhlas by mohl být účinný a zásah dovolený. (b) Kdyby zásah byl medicínsky indikovaný v zájmu zdraví Z (např. nezbytný operativní výkon), uplatnila by se výjimka a souhlas by působil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „autonomie a svoboda nakládat s vlastním tělem":* Y tvrdí, že Z může se svým tělem volně disponovat. Neutralizace: § 91 a § 93 stanoví kogentní jádro nedotknutelnosti; k souhlasu se závažnou újmou se nepřihlíží mimo zájem na životě/zdraví.
+- *Protiargument „úplata zakládá platný závazek":* zaměňuje smluvní svobodu s nedisponibilitou statku. Neutralizace: osobnostní integrita není předmětem obchodu; smlouva v této části nepůsobí.
+- *Slabé místo:* hranice mezi „závažnou" a nezávažnou újmou je hodnotící (sport, body modifikace); je třeba doložit povahu a trvalost následků.
+
+#### H. Praktický závěr
+
+§ 91 zakotvuje nedotknutelnost člověka jako kogentní limit: do tělesné a duševní integrity nelze platně zasáhnout způsobem působícím závažnou újmu jen na základě souhlasu, není-li zásah v zájmu života či zdraví dotčeného. Souhlas se závažnou újmou je právně neúčinný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zásah do tělesné/duševní integrity člověka?
+- [ ] Působí zásah závažnou újmu (pak je souhlas neúčinný), nebo jen nezávažné/přechodné následky?
+- [ ] Je zásah nutný v zájmu života nebo zdraví dotčeného (výjimka)?
+- [ ] Neobchází ujednání kogentní jádro nedotknutelnosti (§ 1 odst. 2, § 588)?
+- [ ] Zvolen správný nárok (určení neúčinnosti, negatorní žaloba, náhrada újmy, příp. trestní oznámení)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva/ujednání o zásahu, popis a povaha zamýšleného zásahu, lékařské vyjádření o trvalosti a závažnosti následků, doklad o (ne)existenci medicínské indikace.
 
 ### § 92 — Ochrana lidského těla po smrti
 
@@ -546,6 +1027,43 @@ Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesn�
 
 - *NS* [30 Cdo 1882/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/618AA6CDA93D4232C125839200223104?openDocument) — *Ochrana osobnosti*
   > „Odvolací soud dále připomněl, že právo na vydání lidských ostatků podle ustanovení § 92 odst. 2 o.z. není nárokem vyplývajícím z ochrany vlastnického práva; svou povahou se jedná o osobnostní relativní právo sui generis vznikající ex lege pohřbením těla zemřelého člověka a zanikajícím uložením ostatků na veřejném pohřebišti."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemře pan AA. Ještě za života výslovně (písemně, před svědky) určil, že jeho zpopelněné ostatky má převzít jeho dlouholetá družka BB. Po jeho smrti však ostatky z krematoria odmítá vydat družce a požaduje je pro sebe syn CC z prvního manželství, s nímž byl AA dlouhodobě v konfliktu. Krematorium neví, komu ostatky vydat. Účastníci: zemřelý AA, BB (osoba určená zemřelým), CC (dítě zemřelého), provozovatel krematoria. Důkazy: listina/projev AA o určení BB, doklady o příbuzenství CC, doklad, že ostatky nejsou uloženy na veřejném pohřebišti.
+
+**2. Právní otázka.** Kdo má v kaskádě oprávněných osob přednostní právo na vydání lidských ostatků, určil-li zemřelý za života konkrétní osobu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 odst. 1 (ochrana těla po smrti, zákaz nedůstojného nakládání) a odst. 2 (právo na vydání ostatků — kaskáda: osoba výslovně určená zemřelým → manžel → dítě → rodič → dědic).
+- *Související ustanovení téhož zákona:* § 113–114 (rozhodnutí o naložení s tělem a o pohřbu); § 81 (postmortální ochrana); § 22 (osoba blízká).
+- *Související předpisy:* zákon č. 256/2001 Sb., o pohřebnictví (zacházení s pozůstatky a ostatky); zákon č. 372/2011 Sb. (pitvy).
+- *Judikatura:* NS sp. zn. 30 Cdo 1882/2018 (citováno v komentáři) — právo na vydání ostatků dle § 92 odst. 2 je osobnostní relativní právo sui generis vznikající ex lege pohřbením a zanikající uložením na veřejném pohřebišti, nikoli nárok z vlastnického práva.
+
+**4. Subsumpce.** Podmínka „ostatky nejsou na veřejném pohřebišti" — naplněna (jsou v krematoriu k vydání). První stupeň kaskády — „osoba, kterou člověk před smrtí výslovně určil" — naplněn ve prospěch BB. Teprve nebylo-li by určení, nastoupil by manžel, poté dítě (CC). Protože AA platně určil BB, má BB přednost před CC. Sporné by bylo, kdyby určení BB nebylo dostatečně prokázáno (forma, vážnost projevu).
+
+**5. Řešení.** Krematorium vydá ostatky BB jako osobě výslovně určené zemřelým; CC nemá přednostní právo, dokud existuje platné určení BB. Při sporu se BB může domáhat vydání žalobou (právo sui generis dle § 92 odst. 2). Kroky: doložit projev AA, vyzvat k vydání, případně žaloba na vydání ostatků. Riziko: CC zpochybní určení — neutralizuje se důkazem o výslovnosti a vážnosti projevu AA (svědci, listina).
+
+**6. Varianty.** (a) Kdyby AA žádnou osobu neurčil, nastoupila by kaskáda a ostatky by převzal nejprve manžel, a není-li, dítě (CC). (b) Kdyby ostatky již byly uloženy na veřejném pohřebišti, právo na vydání by zaniklo a spor by se vedl jen o péči o hrob.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přednost příbuzných ze zákona":* CC tvrdí, že jako dítě má přednost. Neutralizace: kaskáda § 92 odst. 2 staví na první místo osobu výslovně určenou zemřelým; teprve při jejím nedostatku nastupují příbuzní.
+- *Protiargument „neplatnost/neprokazatelnost určení":* CC zpochybní formu projevu. Neutralizace: doložit výslovnost a vážnost projevu (listina, svědci); zákon nevyžaduje zvláštní formu, postačí prokazatelné výslovné určení.
+- *Slabé místo:* jde o právo sui generis časově omezené (zaniká uložením na veřejném pohřebišti); promeškání může nárok zhatit — nutné jednat bez prodlení.
+
+#### H. Praktický závěr
+
+Lidské tělo a ostatky jsou pod ochranou i po smrti; zakázáno je nedůstojné nakládání. Právo na vydání ostatků (nejsou-li na veřejném pohřebišti) náleží v jasné kaskádě přednostně osobě, kterou zemřelý výslovně určil, a teprve poté manželu, dítěti, rodiči a dědici.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nejsou ostatky uloženy na veřejném pohřebišti (jinak právo na vydání zaniká)?
+- [ ] Určil zemřelý výslovně osobu oprávněnou k převzetí?
+- [ ] Při absenci určení: kdo je první v kaskádě (manžel → dítě → rodič → dědic)?
+- [ ] Nejde o nedůstojné nakládání s pozůstatky/ostatky (kogentní zákaz)?
+- [ ] Je nárok uplatněn včas (právo sui generis je časově omezené)?
+
+**Typicky rozhodné důkazy / podklady:** projev/listina o určení osoby, doklady o příbuzenském vztahu, potvrzení krematoria/pohřební služby o stavu ostatků, doklad o (ne)uložení na veřejném pohřebišti.
 
 ### § 93 — Zásah do integrity — souhlas
 
@@ -583,6 +1101,43 @@ Souhlas zákonného zástupce **musí být v přímém prospěchu** zastoupenéh
   > „Tady ovšem popis možných komplikací a z nich plynoucích rizik zcela absentoval (závěr soudu o obsahu informace podané poskytovatelem zdravotní péče pacientovi má rovněž povahu skutkového zjištění, jehož správnost nepodléhá dovolacímu přezkumu), tedy je správný závěr odvolacího soudu, že operace byla provedena v rozporu s požadavky plynoucími z čl."
 - *NS* [25 Cdo 3100/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27280C9674CD3652C12589A20017F8FB?openDocument) — *Nemajetková újma (o. z.) Zdravotnictví*
   > „Podle § 93 odst. 1 věty první o. z. mimo případ stanovený zákonem nesmí nikdo zasáhnout do integrity jiného člověka bez jeho souhlasu uděleného s vědomím o povaze zásahu a o jeho možných následcích."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacientka DD podstoupí plánovanou ortopedickou operaci. Lékař jí před zákrokem nevysvětlí riziko konkrétní závažné komplikace (poškození nervu), které se následně realizuje a zanechá trvalé následky. Operace byla technicky provedena lege artis, avšak bez poučení o tomto riziku a bez nabídnutí alternativ. DD se domáhá náhrady nemajetkové újmy. Účastníci: DD (pacientka), poskytovatel zdravotních služeb / lékař. Důkazy: zdravotnická dokumentace (rozsah poučení), formulář souhlasu, znalecký posudek o standardu poučení a o příčinné souvislosti, doklad o trvalých následcích.
+
+**2. Právní otázka.** Zakládá absence řádně informovaného souhlasu protiprávnost zákroku i tehdy, byl-li zákrok proveden technicky správně, a vzniká pacientovi nárok na náhradu nemajetkové újmy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 (zásah do integrity jen se souhlasem uděleným s vědomím o povaze zásahu a jeho možných následcích) a odst. 2 (souhlas zákonného zástupce k přímému prospěchu osoby neschopné souhlasu).
+- *Související ustanovení téhož zákona:* § 94 (vysvětlení povahy, účelu, následků, rizik a alternativ); § 5 (profesionální péče — vyšší standard); § 2956–2958 (náhrada nemajetkové újmy, bolestné, ztížení společenského uplatnění).
+- *Související předpisy:* zákon č. 372/2011 Sb., o zdravotních službách (§ 28–35 — poučení a souhlas).
+- *Judikatura:* NS sp. zn. 25 Cdo 1176/2024 a 25 Cdo 3100/2021 (citováno v komentáři) — absence řádného poučení o komplikacích a rizicích činí zákrok provedeným v rozporu s požadavky na informovaný souhlas; § 93 odst. 1 vyžaduje vědomí o povaze a možných následcích.
+
+**4. Subsumpce.** Znak „souhlas s vědomím o povaze a možných následcích" (§ 93 odst. 1) — nenaplněn, neboť chybělo poučení o konkrétní závažné komplikaci a o alternativách (§ 94). Technická správnost zákroku nezhojuje vadu souhlasu — zákrok je proto protiprávní. Příčinná souvislost mezi absencí poučení a újmou se posuzuje (zda by poučená pacientka zákrok podstoupila). Sporné: zda by DD při řádném poučení zákrok odmítla či zvolila alternativu.
+
+**5. Řešení.** Poskytovatel odpovídá za nemajetkovou újmu z protiprávního (neinformovaného) zákroku; DD má nárok dle § 2956–2958. Pravděpodobný výsledek: úspěch při prokázání nedostatečného poučení a souvislosti. Kroky: vyžádat dokumentaci, znalecký posudek ke standardu poučení a kauzalitě, uplatnit nárok, příp. žaloba. Riziko: obrana, že riziko bylo nepatrné a poučení nebylo nutné — neutralizuje se závažností a předvídatelností komplikace, o níž se poučuje.
+
+**6. Varianty.** (a) Kdyby byla DD řádně poučena (vč. dané komplikace a alternativ) a přesto souhlasila, realizace rizika by sama o sobě nezakládala odpovědnost (zákrok lege artis a s informovaným souhlasem). (b) Kdyby šlo o pacienta neschopného souhlasu, souhlas by udělil zákonný zástupce, jen byl-li by zákrok k jeho přímému prospěchu (§ 93 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „operace byla lege artis":* poskytovatel odděluje technickou správnost od souhlasu. Neutralizace: § 93 činí protiprávním již samotný zásah bez informovaného souhlasu, bez ohledu na technické provedení.
+- *Protiargument „pacient by souhlasil tak jako tak":* námitka chybějící kauzality. Neutralizace: posoudit hypotetické rozhodnutí řádně poučeného pacienta; u závažných rizik je pravděpodobnost odmítnutí reálná.
+- *Slabé místo:* rozsah nutného poučení je hodnotící a odvíjí se od závažnosti a pravděpodobnosti rizika; bez znaleckého posudku o standardu hrozí důkazní nouze.
+
+#### H. Praktický závěr
+
+Zásah do integrity je dovolen jen s informovaným souhlasem — s vědomím o povaze zásahu a jeho možných následcích (§ 93). Absence řádného poučení činí i technicky bezvadný zákrok protiprávním a zakládá odpovědnost za nemajetkovou újmu. U osob neschopných souhlasu rozhoduje zákonný zástupce, jen je-li zákrok k jejich přímému prospěchu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl souhlas udělen s vědomím o povaze zásahu a jeho možných následcích?
+- [ ] Bylo poučení úplné (povaha, účel, následky, rizika, alternativy — § 94)?
+- [ ] Je dán vyšší standard profesionální péče (§ 5)?
+- [ ] U osoby neschopné souhlasu: jednal zákonný zástupce a byl zákrok k jejímu přímému prospěchu?
+- [ ] Je doložena příčinná souvislost mezi absencí poučení a újmou?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace a formulář souhlasu, znalecký posudek (standard poučení, lege artis, kauzalita), doklady o následcích, záznam o nabídnutých alternativách.
 
 ### § 94—95 — Vysvětlení zákroku a nezletilí
 
@@ -623,6 +1178,43 @@ Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařsk�
 - *NS* [25 Cdo 3100/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27280C9674CD3652C12589A20017F8FB?openDocument) — *Nemajetková újma (o. z.) Zdravotnictví*
   > „Podle § 94 odst. 1 o. z. kdo chce provést na jiném člověku zákrok, vysvětlí mu srozumitelně povahu tohoto zákroku."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Patnáctiletý EE (rozumově vyspělý) přijde s matkou na ortodontické vyšetření; lékař poučí matku jako zákonnou zástupkyni, EE však poučení nepodá vůbec. Současně u jiného, rutinního zákroku (drobné ošetření odřeniny ve školní ordinaci) chce EE rozhodnout sám. Účastníci: EE (nezletilý, není plně svéprávný), matka (zákonná zástupkyně), lékař. Důkazy: dokumentace o poučení, věk a vyspělost EE, povaha obou zákroků (rutinní vs. zanechávající trvalé následky).
+
+**2. Právní otázka.** Musí být vysvětlení podáno i nezletilému, uděluje-li souhlas zákonný zástupce, a kdy může nezletilý udělit souhlas k zákroku sám?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 2 (vysvětlení i tomu, kdo má být zákroku podroben, je-li schopen úsudku, způsobem přiměřeným jeho chápání) a § 95 (samostatný souhlas nezletilého v obvyklých záležitostech přiměřeně jeho vyspělosti, jde-li o zákrok bez trvalých/závažných následků).
+- *Související ustanovení téhož zákona:* § 93 (informovaný souhlas); § 31 (svéprávnost nezletilých); § 100 (konflikt nezletilého ≥14 let a zástupce — souhlas soudu); § 5 (profesionální péče).
+- *Související předpisy:* zákon č. 372/2011 Sb. (§ 35 — poskytování služeb nezletilým).
+- *Judikatura:* NS sp. zn. 25 Cdo 1176/2024 a 25 Cdo 3100/2021 (citováno v komentáři) — rozsah a srozumitelnost poučení; přiměřenost vysvětlení adresátovi.
+
+**4. Subsumpce.** U ortodoncie: znak „vysvětlení i nezletilému schopnému úsudku" (§ 94 odst. 2) — nenaplněn, lékař EE nepoučil; vada poučení (EE je rozumově vyspělý). U školního ošetření: znaky § 95 — obvyklá záležitost (splněno), přiměřenost vyspělosti (splněno), žádné trvalé/závažné následky (splněno) → EE smí souhlasit sám. Sporné by bylo, kdyby ortodontický zákrok byl rutinní bez trvalých následků (pak možný i samostatný souhlas EE).
+
+**5. Řešení.** U ortodoncie musí lékař poučit i EE (přiměřeně věku) vedle matky; bez toho je poučení vadné. U školního ošetření postačí souhlas samotného EE. Kroky: doplnit poučení nezletilému, řádně dokumentovat; u rutinních úkonů respektovat autonomii nezletilého. Riziko: lékař spoléhá jen na zástupce — neutralizuje se dokumentovaným poučením nezletilého schopného úsudku.
+
+**6. Varianty.** (a) Kdyby šlo o operaci s trvalými následky, samostatný souhlas EE by nepostačoval (§ 95 vylučuje zákroky s trvalými/závažnými následky) a nastoupil by souhlas zástupce, příp. § 100. (b) Kdyby EE nebyl schopen úsudku, povinnost vysvětlit jemu (§ 94 odst. 2) by odpadla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí souhlas zákonného zástupce":* lékař podceňuje § 94 odst. 2. Neutralizace: nezletilému schopnému úsudku se vysvětlení podává vždy, přiměřeně jeho chápání.
+- *Protiargument „nezletilý nemůže rozhodovat sám":* paušalizace. Neutralizace: § 95 výslovně připouští samostatný souhlas u obvyklých zákroků bez trvalých následků dle vyspělosti.
+- *Slabé místo:* posouzení „rozumové a volní vyspělosti" a „obvyklosti" zákroku je individuální; chybná kvalifikace zákroku (rutinní vs. závažný) je rizikem neplatného souhlasu.
+
+#### H. Praktický závěr
+
+I když souhlas uděluje zákonný zástupce, je třeba poučit i nezletilého schopného úsudku přiměřeně jeho chápání (§ 94 odst. 2). U obvyklých zákroků bez trvalých či závažných následků může nezletilý souhlasit sám, odpovídá-li to jeho vyspělosti (§ 95).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo vysvětlení podáno i nezletilému/dotčenému schopnému úsudku přiměřeně jeho chápání?
+- [ ] Jde o „obvyklou záležitost" bez trvalých/závažných následků (možný samostatný souhlas nezletilého)?
+- [ ] Odpovídá samostatný souhlas rozumové a volní vyspělosti nezletilého?
+- [ ] Není dán konflikt nezletilého ≥14 let a zástupce vyžadující souhlas soudu (§ 100)?
+- [ ] Je poučení a souhlas řádně dokumentován?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace o poučení, doklad o věku a vyspělosti nezletilého, povaha a rizikovost zákroku, formulář souhlasu.
+
 ### § 96 — Písemná forma souhlasu
 
 > (1) Souhlas k zásahu do integrity člověka vyžaduje písemnou formu, má-li být oddělena část těla, která se již neobnoví.
@@ -648,6 +1240,43 @@ Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařsk�
 - *OS v Litoměřicích* [8 C 64/2020-60](https://rozhodnuti.justice.cz/rozhodnuti/?id=eb7eee2e-0108-41de-b319-1638327c1b4c) — *peněžité plnění*
 - *MS v Praze* [35 Co 192/2025-499](https://rozhodnuti.justice.cz/rozhodnuti/?id=b1fa99bf-6244-4801-b81a-e78a221936b1) — *majetková újma, ztížení společenského uplatnění, znalecký posudek, pasivní legitimace, b…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacientka FF se podrobí dobrovolné sterilizaci ze sociálních důvodů (zákrok, který její zdravotní stav nevyžaduje a jehož následek se neobnoví). Souhlas dala pouze ústně, písemný formulář podepsán nebyl. Po zákroku se domáhá náhrady újmy s tím, že souhlas nebyl platně udělen. Účastníci: FF (pacientka), poskytovatel. Důkazy: dokumentace (chybějící písemný souhlas), povaha zákroku (trvalá ztráta funkce, bez medicínské indikace), záznam o poučení.
+
+**2. Právní otázka.** Vyžadoval souhlas k danému zákroku písemnou formu a jaký je následek jejího nedodržení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 odst. 1 (písemná forma, má-li být oddělena část těla, která se již neobnoví) a odst. 2 (písemná forma u lékařského pokusu a u zákroku, který zdravotní stav nevyžaduje; výjimka — kosmetické zákroky bez trvalých/závažných následků).
+- *Související ustanovení téhož zákona:* § 93–94 (informovaný souhlas a poučení); § 582 (následek nedostatku formy — neplatnost); § 2956–2958 (náhrada újmy).
+- *Související předpisy:* zákon č. 373/2011 Sb., o specifických zdravotních službách (sterilizace — zvláštní podmínky a písemný souhlas).
+- *Judikatura:* k požadavku formy a k protiprávnosti zákroku bez platného souhlasu lze vyjít z nosných závěrů o informovaném souhlasu (srov. v komentáři u § 93–95 citovaná rozhodnutí NS).
+
+**4. Subsumpce.** Zákrok „který zdravotní stav nevyžaduje" a současně s trvalým neobnovitelným následkem (§ 96 odst. 1 i odst. 2) — naplněn; výjimka pro kosmetické zákroky bez trvalých následků se neuplatní (jde o trvalou ztrátu funkce). Písemná forma proto byla obligatorní; její absence způsobuje neplatnost souhlasu (§ 582) → zákrok protiprávní. Sporné by bylo jen, kdyby šlo o zákrok medicínsky indikovaný a bez trvalého neobnovitelného následku.
+
+**5. Řešení.** Souhlas je pro nedostatek formy neplatný a zákrok protiprávní; FF má nárok na náhradu nemajetkové újmy. Kroky: doložit chybějící písemný souhlas a povahu zákroku, uplatnit nárok, příp. žaloba. Riziko: poskytovatel namítne ústní/konkludentní souhlas — neutralizuje se tím, že u tohoto typu zákroku zákon výslovně vyžaduje písemnou formu, kterou nelze nahradit.
+
+**6. Varianty.** (a) U kosmetického zákroku bez trvalých/závažných následků (drobná injekční aplikace) by písemná forma nebyla nutná a ústní souhlas by postačil. (b) U akutního, medicínsky nezbytného oddělení části těla v zájmu života by se uplatnila pravidla o stavu nouze (§ 99), nikoli formální požadavek § 96.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „souhlas byl dán ústně/konkludentně":* poskytovatel tvrdí faktický souhlas. Neutralizace: u zákroků dle § 96 je písemná forma obligatorní; její absence vede k neplatnosti (§ 582).
+- *Protiargument „pacient z jednání souhlasil":* zaměňuje vůli s formou. Neutralizace: forma je podmínkou platnosti právě u kvalifikovaných zákroků.
+- *Slabé místo:* je třeba správně kvalifikovat zákrok (trvalý neobnovitelný následek / bez medicínské indikace / pokus); chybná kvalifikace mění závěr o nutnosti formy.
+
+#### H. Praktický závěr
+
+Souhlas k zákroku vyžaduje písemnou formu ve třech případech: trvalé oddělení neobnovitelné části těla, lékařský pokus a zákrok, který zdravotní stav nevyžaduje (s výjimkou kosmetických zákroků bez trvalých/závažných následků). Nedostatek formy činí souhlas neplatným a zákrok protiprávním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o oddělení části těla, která se již neobnoví?
+- [ ] Jde o lékařský pokus nebo o zákrok, který zdravotní stav nevyžaduje?
+- [ ] Neuplatní se výjimka pro kosmetické zákroky bez trvalých/závažných následků?
+- [ ] Byl souhlas udělen písemně (jinak hrozí neplatnost dle § 582)?
+- [ ] Není namístě režim stavu nouze (§ 99) namísto formálních požadavků?
+
+**Typicky rozhodné důkazy / podklady:** písemný formulář souhlasu (či doklad o jeho absenci), zdravotnická dokumentace, povaha a následky zákroku, doklad o (ne)existenci medicínské indikace.
+
 ### § 97 — Odvolání souhlasu
 
 > (1) Udělený souhlas může být odvolán v jakékoli formě, i když se pro udělení souhlasu vyžaduje písemná forma.
@@ -666,6 +1295,43 @@ Tato asymetrie je **proautonomní** — usnadňuje pacientovi okamžitě zastavi
 - Při **nejistotě**, zda byl souhlas odvolán neformálně, **má se za to, že odvolán nebyl** (předpoklad pokračování souhlasu).
 
 Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že souhlas nikdy nedal.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient GG udělí písemný souhlas k operaci. Těsně před úvodem do anestezie ústně prohlásí, že si zákrok rozmyslel a souhlas odvolává. Personál si není jist, zda šlo o vážně míněné odvolání, nebo o projev předoperační úzkosti, a dokumentace o tom mlčí. Účastníci: GG (pacient), poskytovatel. Důkazy: písemný souhlas, svědectví personálu o ústním projevu, zdravotnická dokumentace (záznam/absence záznamu o odvolání).
+
+**2. Právní otázka.** Lze písemně udělený souhlas odvolat ústně a jak se posoudí nejistota, zda k odvolání skutečně došlo?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 odst. 1 (souhlas lze odvolat v jakékoli formě, i vyžaduje-li se pro souhlas forma písemná) a odst. 2 (domněnka udělení souhlasu, nevyžaduje-li se písemná forma; při nejistotě o neformálním odvolání se má za to, že k odvolání nedošlo).
+- *Související ustanovení téhož zákona:* § 93–96 (souhlas a jeho forma); § 99 (stav nouze); § 5 (profesionální péče).
+- *Související předpisy:* zákon č. 372/2011 Sb. (souhlas a jeho odvolání ve zdravotnictví; vedení dokumentace).
+- *Judikatura:* k odvolatelnosti a k dokumentaci souhlasu lze vyjít z nosných závěrů o informovaném souhlasu (srov. v komentáři u § 93 citovaná rozhodnutí NS).
+
+**4. Subsumpce.** Odvolatelnost (odst. 1) — naplněna: GG smí odvolat i písemný souhlas ústně či gestem. Pro nejistotu (odst. 2 věta druhá) platí domněnka, že k odvolání nedošlo — avšak tato domněnka chrání poskytovatele jen tehdy, šlo-li o souhlas, pro nějž se písemná forma nevyžaduje; u kvalifikovaných zákroků (§ 96) je třeba postupovat obezřetně. Sporné: vážnost projevu GG (skutečné odvolání vs. úzkost).
+
+**5. Řešení.** Personál musí brát zřetel na to, že odvolání může být neformální; je-li projev vážně míněn, nelze zákrok provést. Při nejistotě se sice uplatní domněnka pokračování souhlasu (odst. 2), avšak s ohledem na nedotknutelnost (§ 91) a profesní standard (§ 5) je namístě projev ověřit a zdokumentovat. Kroky: ověřit vůli pacienta, zaznamenat výsledek do dokumentace, teprve poté rozhodnout o zákroku. Riziko: provedení zákroku přes vážně míněné odvolání → protiprávní zásah a odpovědnost; neutralizuje se ověřením a dokumentací.
+
+**6. Varianty.** (a) Kdyby šlo o akutní stav ohrožení života, kde nelze vůli zjistit, nastoupila by pravidla § 99 (okamžité zakročení). (b) Kdyby GG odvolání jasně a vážně potvrdil, domněnka odst. 2 by se neuplatnila a zákrok by provést nešlo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „písemný souhlas nelze zrušit ústně":* poskytovatel přehlíží odst. 1. Neutralizace: odvolání je možné v jakékoli formě bez ohledu na formu souhlasu.
+- *Protiargument „domněnka chrání lékaře vždy":* přecenění odst. 2. Neutralizace: domněnka řeší jen nejistotu o neformálním odvolání; vážně míněné odvolání ji vylučuje a profesní standard velí ověřit.
+- *Slabé místo:* posouzení vážnosti projevu je skutkové; absence záznamu o ověření vůle je důkazním rizikem pro poskytovatele.
+
+#### H. Praktický závěr
+
+Souhlas lze odvolat v jakékoli formě, i byl-li dán písemně (§ 97 odst. 1). Při nejistotě o neformálním odvolání se má za to, že k němu nedošlo (odst. 2), avšak vážně míněné odvolání je třeba respektovat; rozhodující je ověření a dokumentace vůle pacienta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo odvolání projeveno (byť neformálně) a je vážně míněno?
+- [ ] Jde o situaci nejistoty o neformálním odvolání (domněnka pokračování souhlasu)?
+- [ ] Byla vůle pacienta ověřena a zaznamenána do dokumentace?
+- [ ] Nejde o stav nouze dle § 99, kde se postupuje samostatně?
+- [ ] Byl respektován profesní standard (§ 5) a nedotknutelnost (§ 91)?
+
+**Typicky rozhodné důkazy / podklady:** písemný souhlas, záznam o ústním odvolání a jeho ověření, zdravotnická dokumentace, svědectví personálu, časová posloupnost úkonů.
 
 ### § 98—99 — Souhlas v stavu nouze
 
@@ -699,6 +1365,43 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 - *MS v Praze* [51 Co 179/2025-96](https://rozhodnuti.justice.cz/rozhodnuti/?id=b5ceb894-d21e-4076-a331-ffef003bd5db) — *akcie, odvolání, smlouva o úvěru, smlouva o nájmu dopravního prostředku, bezdůvodné oboh…*
 - *OS v Ústí nad Orlicí* [18 C 386/2024-73](https://rozhodnuti.justice.cz/rozhodnuti/?id=b81d775f-fb55-4ac0-9323-e3900e103093) — *smlouva o úschově, právní domněnka, pravá držba, dokazování, prevence, podnikatel, lhůty…*
 - *OS v Berouně* [111 C 5/2020-370](https://rozhodnuti.justice.cz/rozhodnuti/?id=fc4fa119-b023-4111-bf41-8691d0851727) — *bezdůvodné obohacení, bytové družstvo, peněžité plnění, smlouva o dílo, ušlý zisk, znale…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient HH je po těžké dopravní nehodě přivezen v bezvědomí do nemocnice; hrozí vykrvácení a je nezbytná okamžitá operace. Souhlas nelze získat. V dokumentaci je založeno dříve vyslovené přání HH (s ověřeným podpisem), že odmítá podání krevní transfuze z náboženských důvodů. Lékaři zvažují, zda smí operovat bez souhlasu a zda respektovat odmítnutí transfuze. Účastníci: HH (pacient v bezvědomí), poskytovatel, příp. přítomná osoba blízká. Důkazy: dokumentace o stavu nouze, listina dříve vysloveného přání, časový průběh, indikace zákroku.
+
+**2. Právní otázka.** Lze ve stavu nouze zakročit bez souhlasu, a do jaké míry je třeba respektovat dříve vyslovené přání pacienta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 (okamžité zakročení, je-li život v náhlém a patrném nebezpečí, nelze-li získat souhlas a je-li zákrok nezbytný ve prospěch zdraví) a § 98 odst. 2 (zřetel na dříve vyslovená známá přání).
+- *Související ustanovení téhož zákona:* § 93–97 (souhlas a jeho odvolání); § 100–103 (souhlas soudu, vysvětlení po zákroku); § 91 (nedotknutelnost).
+- *Související předpisy:* zákon č. 372/2011 Sb. (§ 36 — dříve vyslovené přání a jeho meze; § 38 — péče bez souhlasu).
+- *Judikatura:* k respektování autonomie a k mezím dříve vysloveného přání lze vyjít z ústavních východisek o nedotknutelnosti a sebeurčení (čl. 7 LZPS).
+
+**4. Subsumpce.** Znaky § 99 — náhlé a patrné nebezpečí života (splněno), nemožnost získat souhlas (splněno — bezvědomí), nezbytnost zákroku ve prospěch zdraví (splněno) → lze okamžitě operovat. Dříve vyslovené přání (§ 98 odst. 2) — k odmítnutí transfuze je třeba přihlédnout; jeho závaznost je však omezena podmínkami zvláštního zákona (§ 36 zákona o zdravotních službách). Sporné: zda v akutní situaci jsou splněny podmínky závaznosti dříve vysloveného přání.
+
+**5. Řešení.** Lékaři smí provést nezbytný život zachraňující zákrok bez souhlasu (§ 99); k odmítnutí transfuze (dříve vyslovené přání) musí přihlédnout, je-li platné a aplikovatelné dle § 36 zákona o zdravotních službách — pak je nutno volit alternativní postupy. Kroky: zdokumentovat stav nouze a indikaci, ověřit platnost a dosah dříve vysloveného přání, postupovat co nejméně invazivně; po nabytí způsobilosti pacienta poučit (§ 103). Riziko: nerespektování platného přání → zásah do autonomie; naopak respektování neaplikovatelného přání při bezprostředním ohrožení života → odpovědnost. Neutralizace: pečlivé posouzení podmínek § 36 a dokumentace.
+
+**6. Varianty.** (a) Kdyby nešlo o bezprostřední ohrožení života, nýbrž o plánovaný zákrok, § 99 by se neuplatnil a bylo by nutné získat souhlas (či souhlas soudu dle § 100–101). (b) Kdyby přítomný manžel mohl projevit náhradní souhlas (§ 98 odst. 1), postupovalo by se podle kaskády náhradního souhlasu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez souhlasu nelze zasáhnout nikdy":* přehlíží § 99. Neutralizace: ve stavu nouze zákon výslovně dovoluje okamžité nezbytné zakročení ve prospěch zdraví.
+- *Protiargument „dříve vyslovené přání je absolutní":* přecenění § 98 odst. 2. Neutralizace: jeho závaznost je podmíněna (§ 36 zákona o zdravotních službách) — neaplikuje se např., nabádá-li k aktivnímu ukončení života nebo nejsou-li splněny zákonné podmínky.
+- *Slabé místo:* posouzení platnosti a dosahu dříve vysloveného přání v akutní situaci je obtížné; chybná úvaha vede k odpovědnosti v obou směrech (zásah do autonomie / zanedbání péče).
+
+#### H. Praktický závěr
+
+Ve stavu nouze (náhlé a patrné nebezpečí života, nemožnost získat souhlas, nezbytnost) lze okamžitě zakročit bez souhlasu (§ 99). Současně je třeba brát zřetel na dříve vyslovená známá přání pacienta (§ 98 odst. 2) v mezích zvláštního zákona. Po zákroku navazuje povinnost vysvětlení (§ 103).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dáno náhlé a patrné nebezpečí života a nelze získat souhlas?
+- [ ] Je zákrok nezbytný ve prospěch zdraví dotčeného (§ 99)?
+- [ ] Existuje dříve vyslovené přání a je platné a aplikovatelné (§ 98 odst. 2; § 36 zák. o zdrav. službách)?
+- [ ] Byla zvážena kaskáda náhradního souhlasu (přítomný manžel/rodič/osoba blízká)?
+- [ ] Je vše zdokumentováno a bude pacient po nabytí způsobilosti poučen (§ 103)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace o stavu nouze a indikaci, listina dříve vysloveného přání, časový průběh, záznam o náhradním souhlasu, následné poučení pacienta.
 
 ### § 100—103 — Souhlas soudu, vysvětlení po zákroku
 
@@ -757,6 +1460,43 @@ Toto pravidlo má **terapeutickou** i **etickou** dimenzi: pacient má právo na
 - *ÚS* [IV. ÚS 2929/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2929-13_1) — usnesení, 23. 9. 2014
   > „Konstatoval, že souhlas věřitele s převzetím dluhu není majetkovým právem ve smyslu § 100 odst. 2 o. z. a ani právem ze závazkového vztahu ve smyslu § 387 odst. 2 obch. zák., nýbrž jde o právní úkon, projev vůle věřitele, kterým se závazkový vztah zakládá, resp. mění se závazkový vztah původní."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Šestnáctiletý II (rozumově vyspělý, chronicky nemocný) chce podstoupit léčebný zákrok, který jeho rodiče z přesvědčení odmítají; II i jeho teta podají návrh, aby zákrok byl proveden. Souběžně je u zletilého JJ neschopného úsudku zvažován zákrok s trvalými a vážnými následky. Účastníci: II (nezletilý ≥14 let), rodiče (zákonní zástupci), teta (osoba blízká); JJ (neschopný úsudku), poskytovatel. Důkazy: stanoviska II a rodičů, lékařská indikace, posouzení vyspělosti II, znalecké posouzení neschopnosti úsudku JJ.
+
+**2. Právní otázka.** Lze provést zákrok proti vůli zákonného zástupce, přeje-li si jej dotčený, a kdy je u člověka neschopného úsudku nutné přivolení soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 odst. 2 (nesouhlasí-li zástupce, ač si dotčený zákrok přeje — jen se souhlasem soudu na návrh dotčeného nebo osoby blízké), § 101 (kvalifikované zákroky u neschopného úsudku jen s přivolením soudu; § 99 tím není dotčen), § 102 (kritéria soudu — prospěch, zhlédnutí, plné uznání osobnosti) a § 103 (povinnost vysvětlit zákrok zpětně).
+- *Související ustanovení téhož zákona:* § 93–95 (souhlas a poučení); § 99 (stav nouze); § 31 (svéprávnost nezletilých).
+- *Související předpisy:* § 65–69 z. ř. s. (řízení o souhlasu se zásahem do integrity); zákon č. 372/2011 Sb.
+- *Judikatura:* k procesní úpravě a kritériu prospěchu lze vyjít z nosných východisek o autonomii a důstojnosti dotčeného (čl. 7 a 10 LZPS).
+
+**4. Subsumpce.** U II: zástupce nesouhlasí, dotčený si zákrok přeje (§ 100 odst. 2) → zákrok lze provést jen se souhlasem soudu, na návrh II nebo tety. U JJ: zákrok s trvalými, neodvratitelnými a vážnými následky u neschopného úsudku (§ 101) → nutné přivolení soudu (nejde-li o stav nouze dle § 99). Soud rozhodne podle § 102 (prospěch, zhlédnutí, uznání osobnosti). Sporné: posouzení vyspělosti II a rozsahu následků u JJ.
+
+**5. Řešení.** V obou případech je třeba soudního přivolení (§ 100 odst. 2, resp. § 101); soud zákrok povolí, je-li dotčenému k prospěchu, po jeho zhlédnutí a s plným uznáním jeho osobnosti (§ 102). Po provedení zákroku u JJ, který nemohl posoudit, co se děje, je nutné mu zpětně vysvětlit povahu, následky i riziko neprovedení (§ 103). Kroky: podat návrh k soudu, předložit indikaci a posudky, zajistit zhlédnutí; následně poučit. Riziko: provedení bez přivolení soudu → protiprávnost; neutralizuje se důsledným soudním postupem (mimo stav nouze).
+
+**6. Varianty.** (a) Kdyby u JJ šlo o náhlé ohrožení života, uplatnil by se § 99 a soudního přivolení by nebylo třeba. (b) Kdyby zástupci II souhlasili a II rovněž, zákrok by se provedl bez soudu (souhlas zástupce + poučení dle § 94 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje vůle rodičů":* přehlíží § 100 odst. 2. Neutralizace: přeje-li si dotčený zákrok a zástupce nesouhlasí, rozhoduje soud, nikoli samotní rodiče.
+- *Protiargument „u neschopného úsudku stačí souhlas zástupce":* podceňuje § 101. Neutralizace: u kvalifikovaných zákroků (trvalé/vážné následky, vážné nebezpečí) je vždy nutné přivolení soudu.
+- *Slabé místo:* posouzení vyspělosti dotčeného a kvalifikace následků je hodnotící; bez soudního přivolení tam, kde je vyžadováno, hrozí protiprávnost i přes lékařskou indikaci.
+
+#### H. Praktický závěr
+
+Při konfliktu vůle dotčeného a zákonného zástupce (§ 100 odst. 2) a u kvalifikovaných zákroků na člověku neschopném úsudku (§ 101) je nutné přivolení soudu; ten rozhoduje podle prospěchu dotčeného, po jeho zhlédnutí a s plným uznáním osobnosti (§ 102). Po zákroku bez souhlasu navazuje povinnost zpětného vysvětlení (§ 103). Výjimkou zůstává stav nouze (§ 99).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o konflikt vůle dotčeného a zástupce (§ 100 odst. 2 — nutný soud)?
+- [ ] Jde u neschopného úsudku o zákrok s trvalými/vážnými následky či vážným nebezpečím (§ 101 — nutný soud)?
+- [ ] Nejde o stav nouze (§ 99), kde přivolení netřeba?
+- [ ] Rozhodl soud podle prospěchu, po zhlédnutí a s uznáním osobnosti (§ 102)?
+- [ ] Bylo (či bude) provedeno zpětné vysvětlení dotčenému (§ 103)?
+
+**Typicky rozhodné důkazy / podklady:** návrh k soudu a stanoviska účastníků, lékařská indikace a znalecké posudky (vyspělost, neschopnost úsudku, rozsah následků), protokol o zhlédnutí, záznam o následném poučení.
+
 ---
 
 ### Pododdíl 4 — Práva člověka převzatého do zdravotnického zařízení bez souhlasu (§ 104—110)
@@ -788,6 +1528,43 @@ Dva principy:
 - *NS* [30 Cdo 3005/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25ED4794FFC90198C12582550041966C?openDocument) — *Řízení o přípustnosti převzetí nebo držení v ústavu zdravotnické péče (detence)*
   > „Podle ustanovení § 104 zákona č. 89/2012 Sb., občanský zákoník (dále též „o.z.“) převzít člověka bez jeho souhlasu do zařízení poskytujícího zdravotní péči nebo ho v něm bez jeho souhlasu držet lze jen z důvodu stanoveného zákonem a za podmínky, že nezbytnou péči o jeho osobu nelze zajistit mírnějším a méně omezujícím opatřením."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan KK je v akutní fázi duševní poruchy převezen bez souhlasu na uzavřené psychiatrické oddělení. Ošetřující lékař zvažuje plnou hospitalizaci, ačkoli stav KK by patrně zvládla intenzivní ambulantní péče s denním dohledem. Současně byl podán návrh na omezení svéprávnosti KK a zařízení tím argumentuje jako důvodem k jeho držení. Účastníci: KK (hospitalizovaný bez souhlasu), poskytovatel. Důkazy: lékařská zpráva o stavu a nebezpečnosti, posouzení dostupnosti mírnějšího opatření, doklad o podaném návrhu na omezení svéprávnosti.
+
+**2. Právní otázka.** Byly splněny podmínky převzetí a držení bez souhlasu — zákonný důvod a subsidiarita — a může být důvodem hospitalizace samo podání návrhu na omezení svéprávnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 (převzetí/držení bez souhlasu jen ze zákonného důvodu a jen, nelze-li péči zajistit mírnějším a méně omezujícím opatřením; podání návrhu na omezení svéprávnosti samo o sobě důvodem není).
+- *Související ustanovení téhož zákona:* § 105 (oznámení a soudní přezkum); § 109 (nezávislé přezkoumání); § 110 (právo odmítnout zákrok); § 55–57 (zásady omezení svéprávnosti — subsidiarita).
+- *Související předpisy:* § 38 zákona č. 372/2011 Sb. (důvody hospitalizace bez souhlasu); § 66–84 z. ř. s. (řízení o přípustnosti převzetí); čl. 8 LZPS.
+- *Judikatura:* NS sp. zn. 24 Cdo 3387/2024, 24 Cdo 2368/2024 a 30 Cdo 3005/2017 (citováno v komentáři) — převzetí/držení bez souhlasu jen ze zákonného důvodu a nelze-li péči nahradit mírnějším a méně omezujícím opatřením.
+
+**4. Subsumpce.** Zákonný důvod (§ 104 ve spojení s § 38 zák. o zdrav. službách) — naplněn jen, prokáže-li se nebezpečí pro sebe/okolí či akutní porucha. Subsidiarita — sporná: je-li dostupná intenzivní ambulantní péče, plná hospitalizace je nepřípustná. Zákaz spojení s návrhem na omezení svéprávnosti — naplněn: tento návrh sám důvodem být nemůže. Sporné: zda mírnější opatření reálně postačuje.
+
+**5. Řešení.** Hospitalizace je přípustná jen při zákonném důvodu a vyčerpání mírnějších opatření; nelze ji opřít o samotný návrh na omezení svéprávnosti. Není-li subsidiarita splněna, je držení nezákonné a pacient má být propuštěn (s následným soudním přezkumem dle § 105). Kroky: doložit zákonný důvod, posoudit a zdokumentovat dostupnost mírnějších opatření; soud přezkoumá přípustnost. Riziko: paušální hospitalizace bez úvahy o alternativě → nezákonnost; neutralizuje se zdokumentovaným posouzením subsidiarity.
+
+**6. Varianty.** (a) Kdyby KK akutně ohrožoval život svůj či druhých a ambulantní péče by nestačila, podmínky § 104 by byly naplněny. (b) Kdyby jediným „důvodem" zůstal podaný návrh na omezení svéprávnosti, převzetí by bylo nezákonné ze zákona (§ 104 věta poslední).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pro jistotu raději hospitalizovat":* poskytovatel preferuje nejjistější variantu. Neutralizace: § 104 vyžaduje subsidiaritu — nelze, postačuje-li mírnější opatření.
+- *Protiargument „běží řízení o svéprávnosti":* záměna řízení s důvodem hospitalizace. Neutralizace: zákon výslovně vylučuje, aby podání návrhu samo zakládalo důvod převzetí.
+- *Slabé místo:* posouzení dostupnosti mírnějšího opatření je odborné a skutkové; bez jeho zdokumentování hrozí závěr o nezákonném držení.
+
+#### H. Praktický závěr
+
+Převzít či držet člověka bez souhlasu lze jen ze zákonného důvodu a jen tehdy, nelze-li nezbytnou péči zajistit mírnějším a méně omezujícím opatřením (subsidiarita). Samo podání návrhu na omezení svéprávnosti důvodem hospitalizace není.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje zákonný důvod převzetí (§ 38 zák. o zdrav. službách)?
+- [ ] Byla zvážena a vyloučena mírnější a méně omezující opatření (subsidiarita)?
+- [ ] Není převzetí opřeno jen o podaný návrh na omezení svéprávnosti (zakázáno)?
+- [ ] Bude/byla věc oznámena soudu a přezkoumána (§ 105)?
+- [ ] Je posouzení subsidiarity zdokumentováno?
+
+**Typicky rozhodné důkazy / podklady:** lékařská zpráva o stavu a nebezpečnosti, posouzení dostupnosti ambulantní/mírnější péče, doklad o případném návrhu na omezení svéprávnosti, oznámení soudu.
+
 ### § 105 — Oznamovací povinnost
 
 > (1) Je-li člověk převzat do zařízení poskytujícího zdravotní péči nebo je-li v něm držen, oznámí to jeho zákonnému zástupci, opatrovníku nebo podpůrci a jeho manželu nebo jiné známé osobě blízké neprodleně poskytovatel zdravotních služeb; oznámení manželu nebo jiné osobě blízké však učinit nesmí, pokud mu to bylo zakázáno.
@@ -807,6 +1584,43 @@ Dva principy:
 - Rozhodne usnesením.
 
 **Lhůta 7 dnů** byla zdůrazněna ÚS — porušení této lhůty je porušením práva na svobodu osobní (čl. 8 LZPS) a vede k povinné okamžité propustce.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan LL je převzat bez souhlasu na psychiatrii. Poskytovatel oznámí převzetí soudu až čtvrtý den a rodině (manželce) vůbec, ač mu to nebylo zakázáno. Soud následně rozhodne o přípustnosti opatření až dvanáctý den. LL i jeho manželka namítají porušení lhůt. Účastníci: LL (hospitalizovaný), manželka (osoba blízká), poskytovatel, soud. Důkazy: záznam o čase převzetí, doklad o (ne)odeslání oznámení soudu a rodině, datum rozhodnutí soudu.
+
+**2. Právní otázka.** Jaké oznamovací a rozhodovací lhůty platí při převzetí bez souhlasu a jaké jsou důsledky jejich nedodržení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 odst. 1 (neprodlené oznámení zákonnému zástupci/opatrovníku/podpůrci a manželu či jiné osobě blízké, ledaže to bylo zakázáno) a odst. 2 (oznámení soudu do 24 hodin; soud rozhodne do sedmi dnů).
+- *Související ustanovení téhož zákona:* § 104 (podmínky převzetí); § 106–109 (informování a nezávislé přezkoumání); § 110 (právo odmítnout zákrok).
+- *Související předpisy:* § 66–84 z. ř. s. (řízení o přípustnosti převzetí — opatrovník, výslech, znalec); čl. 8 LZPS (osobní svoboda).
+- *Judikatura:* k procesním lhůtám a důsledkům jejich porušení lze vyjít z ústavních východisek o osobní svobodě (čl. 8 LZPS) a z úpravy z. ř. s.
+
+**4. Subsumpce.** Oznámení soudu „do 24 hodin" (§ 105 odst. 2) — porušeno (oznámeno čtvrtý den). Oznámení rodině „neprodleně" (odst. 1) — porušeno (manželce neoznámeno, ač zákaz nebyl dán). Lhůta soudu „sedm dnů" — porušena (rozhodnuto dvanáctý den). Porušení procesních lhůt zasahuje do osobní svobody. Sporné by bylo jen, kdyby oznámení rodině bylo zakázáno (pak by odst. 1 v té části neplatil).
+
+**5. Řešení.** Nedodržení 24hodinové lhůty a sedmidenní lhůty činí držení procesně nelegitimním a vede k povinnosti pacienta neprodleně propustit; LL (a jeho podpůrné osoby) se mohou domáhat přezkumu a ochrany. Kroky: namítnout porušení lhůt, žádat propuštění, využít opravné prostředky v řízení dle z. ř. s.; zvážit nárok na ochranu osobnosti za nezákonné držení. Riziko: poskytovatel namítne organizační obtíže — neutralizuje se kogentní povahou lhůt, které chrání osobní svobodu.
+
+**6. Varianty.** (a) Kdyby soud rozhodl ve lhůtě sedmi dnů a poskytovatel oznámil převzetí do 24 hodin, byl by procesní rámec zachován a držení (při splnění § 104) legitimní. (b) Kdyby manželka měla zakázán kontakt (zákaz oznámení), neoznámení jí by nebylo porušením odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lhůty jsou pořádkové":* poskytovatel bagatelizuje prodlení. Neutralizace: jde o lhůty chránící osobní svobodu (čl. 8 LZPS); jejich porušení má za následek nelegitimitu držení.
+- *Protiargument „rodinu nebylo nutné informovat":* nesprávný výklad odst. 1. Neutralizace: oznámení osobě blízké se neprovádí jen tehdy, bylo-li výslovně zakázáno; jinak je povinné.
+- *Slabé místo:* prokázání okamžiku převzetí a odeslání oznámení; bez přesné časové dokumentace je obtížné porušení lhůty doložit.
+
+#### H. Praktický závěr
+
+Při převzetí bez souhlasu platí tři lhůty: neprodlené oznámení rodině a podpůrným osobám (nebylo-li zakázáno), oznámení soudu do 24 hodin a rozhodnutí soudu do sedmi dnů. Jde o garance osobní svobody; jejich porušení vede k povinnosti propustit a může založit odpovědnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo převzetí neprodleně oznámeno zástupci/opatrovníku/podpůrci a osobě blízké (nebyl-li zákaz)?
+- [ ] Bylo převzetí oznámeno soudu do 24 hodin?
+- [ ] Rozhodl soud o přípustnosti opatření do sedmi dnů?
+- [ ] Je přesně zdokumentován okamžik převzetí a odeslání oznámení?
+- [ ] Byly při porušení lhůt uplatněny opravné prostředky a zvážena propustka?
+
+**Typicky rozhodné důkazy / podklady:** záznam o čase a důvodu převzetí, doklady o odeslání oznámení soudu a osobám blízkým, rozhodnutí soudu a jeho datum, dokumentace průběhu řízení dle z. ř. s.
 
 ### § 106—108 — Informování pacienta
 
@@ -836,6 +1650,43 @@ Dva principy:
 - *NS* [5 Tdo 124/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77237A2924BE6039C1258796001E50F6?openDocument) — *Podvod Poškozování věřitele Promlčení trestní odpovědnosti Příčetnost Úvěrový podvod Zkr…*
   > „Pak je podle státního zástupce namístě použít ustanovení § 106 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále ve zkratce jen „obč. zák.“), jak učinily ve věci soudy."
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan MM je držen na uzavřeném oddělení. Před hospitalizací si zvolil důvěrníka (kamaráda) a uzavřel smlouvu o nápomoci s podpůrcem. Personál odmítá důvěrníka informovat o opatření a brání MM v soukromém rozhovoru s ním (chce být u rozhovoru přítomen) a tvrdí, že důvěrník nemůže za MM uplatňovat žádná práva. Účastníci: MM (držený), důvěrník, podpůrce, poskytovatel. Důkazy: doklad o ustanovení důvěrníka, smlouva o nápomoci, záznam o žádosti o soukromý rozhovor a o jejím odepření.
+
+**2. Právní otázka.** Jaká práva má důvěrník a podpůrce při nedobrovolné hospitalizaci a má pacient právo na soukromý rozhovor bez přítomnosti třetích osob?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 odst. 2 (srozumitelné vysvětlení pacientovi a bez zbytečného odkladu i zástupci/opatrovníku/podpůrci), § 107 (oznámení zmocněnci/důvěrníkovi; důvěrník i podpůrce mohou uplatnit svým jménem ve prospěch pacienta všechna jeho práva spojená s převzetím/držením) a § 108 (právo na osobní rozhovor bez přítomnosti třetích osob).
+- *Související ustanovení téhož zákona:* § 45–48 (nápomoc při rozhodování — podpůrce); § 441 (zmocnění); § 104–105, § 109–110.
+- *Související předpisy:* z. ř. s. (řízení o přípustnosti převzetí); čl. 6 a 8 EÚLP.
+- *Judikatura:* k procesním zárukám nedobrovolně hospitalizovaných lze vyjít z ústavních východisek (čl. 8 LZPS, čl. 5 a 8 EÚLP).
+
+**4. Subsumpce.** Oznamovací povinnost vůči důvěrníkovi (§ 107 odst. 1) — porušena. Aktivní legitimace důvěrníka i podpůrce uplatnit práva MM svým jménem (§ 107 odst. 2) — popřena neprávem. Právo na soukromý rozhovor bez třetích osob (§ 108) — porušeno (personál chce být přítomen). Sporné by bylo jen, kdyby šlo o bezpečnostně odůvodněné nezbytné opatření v krajní situaci, i to však s respektem k jádru práva.
+
+**5. Řešení.** Poskytovatel musí důvěrníka informovat a umožnit důvěrníkovi i podpůrci uplatňovat práva MM; MM má právo na soukromý rozhovor bez přítomnosti personálu. Kroky: uplatnit práva prostřednictvím důvěrníka/podpůrce v řízení o přípustnosti, žádat zjednání soukromého rozhovoru, namítat porušení v opravných prostředcích. Riziko: poskytovatel se dovolá bezpečnosti — neutralizuje se tím, že právo na soukromý rozhovor je garantované a omezitelné jen výjimečně a přiměřeně.
+
+**6. Varianty.** (a) Kdyby MM žádného důvěrníka ani podpůrce neměl, práva by uplatňoval sám, zmocněnec či opatrovník. (b) Kdyby existovalo akutní bezpečnostní riziko, mohl by být rozhovor organizován za zvláštních podmínek, avšak bez možnosti personálu odposlouchávat jeho obsah.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „důvěrník nemá žádná práva":* popírá § 107 odst. 2. Neutralizace: důvěrník i podpůrce mohou svým jménem uplatnit ve prospěch pacienta všechna jeho práva spojená s převzetím/držením.
+- *Protiargument „personál musí být u rozhovoru":* popírá § 108. Neutralizace: právo na rozhovor bez přítomnosti třetích osob je garantované; omezení je výjimečné a musí být přiměřené.
+- *Slabé místo:* rozsah práv důvěrníka se týká jen záležitostí spojených s převzetím/držením, nikoli všech životních záležitostí pacienta; je třeba vymezit jejich dosah.
+
+#### H. Praktický závěr
+
+Nedobrovolně hospitalizovaný má být srozumitelně informován (a s ním i jeho podpůrné osoby); důvěrník i podpůrce mohou svým jménem uplatňovat jeho práva spojená s převzetím/držením (§ 107) a pacient má právo na soukromý rozhovor s nimi bez přítomnosti třetích osob (§ 108).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo opatření oznámeno zmocněnci/důvěrníkovi/podpůrci bez zbytečného odkladu?
+- [ ] Bylo vysvětlení podáno srozumitelně pacientovi (a jeho podpůrným osobám)?
+- [ ] Mohou důvěrník/podpůrce uplatnit práva pacienta spojená s převzetím/držením?
+- [ ] Bylo umožněno soukromé projednání záležitostí bez přítomnosti třetích osob?
+- [ ] Bylo případné omezení těchto práv výjimečné a přiměřené?
+
+**Typicky rozhodné důkazy / podklady:** doklad o ustanovení důvěrníka/zmocněnce/podpůrce, smlouva o nápomoci, záznamy o oznámení a poučení, záznam o žádosti a (ne)umožnění soukromého rozhovoru.
 
 ### § 109—110 — Nezávislý lékař, právo odmítnout zákrok
 
@@ -870,6 +1721,43 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1587/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D968AD9D6284C16C125822C00419FFC?openDocument) — *Exekuce Promlčení Přípustnost dovolání*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan NN je soudem přípustně držen na psychiatrii. Personál mu chce proti jeho vůli podávat konkrétní psychofarmakum s významnými vedlejšími účinky; nejde o akutní krizovou situaci. NN žádá o přezkoumání svého zdravotního stavu a vyjádření o neschopnosti úsudku nezávislým lékařem a současně odmítá konkrétní medikaci. Účastníci: NN (přípustně držený), poskytovatel. Důkazy: rozhodnutí soudu o přípustnosti pobytu, žádost o nezávislé přezkoumání, záznam o odmítnutí konkrétního zákroku, doklad o absenci krizové situace.
+
+**2. Právní otázka.** Má pacient právo na nezávislé lékařské přezkoumání a opravňuje soudní rozhodnutí o přípustnosti pobytu poskytovatele provádět konkrétní zákroky proti vůli pacienta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109 (právo na přezkoumání zdravotního stavu, dokumentace a vyjádření o neschopnosti úsudku nezávislým lékařem; uplatní-li se před rozhodnutím soudu, musí být umožněn jeho výkon) a § 110 (rozhodnutí soudu schvaluje nucený pobyt, neodnímá však právo odmítnout určitý zákrok nebo léčebný výkon).
+- *Související ustanovení téhož zákona:* § 104–105 (převzetí a přezkum); § 93–99 (souhlas se zákrokem a stav nouze); § 91 (nedotknutelnost).
+- *Související předpisy:* zákon č. 372/2011 Sb. (souhlas se zdravotními výkony; meze péče bez souhlasu); z. ř. s.
+- *Judikatura:* k oddělení „souhlasu s pobytem" a „souhlasu se zákrokem" lze vyjít z ústavních východisek o autonomii a nedotknutelnosti (čl. 7 LZPS).
+
+**4. Subsumpce.** Právo na nezávislé přezkoumání (§ 109) — naplněno; NN i jeho podpůrné osoby je mohou uplatnit a poskytovatel je musí umožnit (před rozhodnutím soudu tak, aby soud mohl výsledky zhodnotit). Odmítnutí konkrétního zákroku (§ 110) — přípustné: soudní souhlas s pobytem nezbavuje NN práva odmítnout konkrétní léčebný výkon; výjimkou by byla jen krizová situace (§ 99), která zde není. Sporné by bylo jen v akutní krizi, kdy lze zakročit i bez souhlasu.
+
+**5. Řešení.** Poskytovatel musí umožnit nezávislé přezkoumání a respektovat odmítnutí konkrétní medikace mimo krizovou situaci; nucený pobyt sám o sobě k provedení zákroku neopravňuje. Kroky: vyhovět žádosti o nezávislého lékaře, zaznamenat odmítnutí zákroku, mimo § 99 medikaci nevynucovat. Riziko: poskytovatel zamění souhlas s pobytem za souhlas se zákrokem — neutralizuje se výslovným pravidlem § 110.
+
+**6. Varianty.** (a) Kdyby nastala akutní krize s bezprostředním ohrožením (§ 99), bylo by možné zakročit i přes odmítnutí. (b) Kdyby NN o nezávislé přezkoumání požádal až po rozhodnutí soudu, právo na ně trvá, byť bez vlivu na již proběhlé řízení o přípustnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „soud schválil pobyt, tedy i léčbu":* zaměňuje pobyt a zákrok. Neutralizace: § 110 výslovně zachovává právo odmítnout konkrétní zákrok i při schváleném nuceném pobytu.
+- *Protiargument „nezávislé přezkoumání zdržuje":* poskytovatel je odmítá. Neutralizace: § 109 zakládá právo pacienta i důvěrníka/podpůrce a poskytovatel je povinen výkon umožnit.
+- *Slabé místo:* hranice mezi „krizovou situací" (kde lze zakročit dle § 99) a běžnou léčbou je skutková; nesprávné podřazení pod krizi vede k protiprávnímu vynucení zákroku.
+
+#### H. Praktický závěr
+
+Nedobrovolně hospitalizovaný má právo na nezávislé lékařské přezkoumání (§ 109). Soudní rozhodnutí o přípustnosti pobytu schvaluje nucený pobyt, ale neodnímá právo odmítnout konkrétní zákrok či léčebný výkon (§ 110); vynutit jej lze jen ve stavu nouze (§ 99).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo umožněno nezávislé přezkoumání zdravotního stavu a vyjádření o neschopnosti úsudku (§ 109)?
+- [ ] Bylo přezkoumání uplatněné před rozhodnutím soudu provedeno tak, aby je soud mohl zhodnotit?
+- [ ] Odlišuje se souhlas s pobytem od souhlasu se zákrokem (§ 110)?
+- [ ] Je respektováno odmítnutí konkrétního zákroku mimo stav nouze (§ 99)?
+- [ ] Je odmítnutí a jeho okolnosti zdokumentováno?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí soudu o přípustnosti pobytu, žádost o nezávislé přezkoumání a jeho výsledek, záznam o odmítnutí zákroku, dokumentace o (ne)existenci krizové situace.
 
 ---
 
@@ -918,6 +1806,43 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 - *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — usnesení, 3. 7. 2014
 - *NS* [20 Cdo 807/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/21AC326AC551E62BC1257FE5001A09B8?openDocument) — *Exekuce*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní OO uzavře s parukářskou dílnou PP písemnou smlouvu o prodeji svých dlouhých vlasů za odměnu; vlasy budou odstřiženy bezbolestně a přirozeně dorostou. Současně byl OO při operaci odňat tkáňový vzorek, který nemocnice bez jejího souhlasu poskytla k neobvyklému uměleckému projektu. Účastníci: OO (osoba, jíž části těla pocházejí), PP (kupující vlasů), nemocnice (nakládání se vzorkem). Důkazy: smlouva o prodeji vlasů, doklad o povaze vlasů (bezbolestné odnětí, obnova), dokumentace o odnětí vzorku a o jeho použití, absence souhlasu k neobvyklému použití.
+
+**2. Právní otázka.** Lze vlasy přenechat jinému za odměnu jako věc, a za jakých podmínek lze použít odňatou část těla (tkáňový vzorek) k neobvyklému účelu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 odst. 2 (použití odňaté části těla k účelům zdravotnickým/výzkumným/vědeckým jen se souhlasem; k neobvyklému účelu vždy výslovný souhlas) a odst. 3 (obdobně pro to, co má původ v těle); § 112 (přenechání části těla jen dle zvláštního předpisu; výjimka — bezbolestně odnímatelné a obnovující se části lze přenechat i za odměnu a hledí se na ně jako na věc movitou).
+- *Související ustanovení téhož zákona:* § 489 a násl. (věc v právním smyslu); § 93–96 (souhlas se zákrokem); § 91 (nedotknutelnost).
+- *Související předpisy:* zákon č. 285/2002 Sb. (transplantace); zákon č. 296/2008 Sb. (jakost tkání a buněk); zákon č. 373/2011 Sb. (asistovaná reprodukce); zákaz komercializace orgánů/tkání.
+- *Judikatura:* k povaze nakládání s částmi těla lze vyjít z ústavních východisek o důstojnosti a nedotknutelnosti (čl. 7 LZPS); konkrétní spory bývají řešeny v rovině ochrany osobnosti.
+
+**4. Subsumpce.** Vlasy: znaky výjimky § 112 (bezbolestné odnětí, přirozená obnova) — naplněny → vlasy lze přenechat za odměnu a hledí se na ně jako na věc movitou; smlouva s PP je platná a vymahatelná. Tkáňový vzorek: použití k neobvyklému (uměleckému) účelu vyžaduje výslovný souhlas (§ 111 odst. 2) — chybí → nakládání nemocnice je neoprávněné. Sporné by bylo, kdyby šlo o standardní zdravotnické/výzkumné použití krytné samostatným souhlasem.
+
+**5. Řešení.** Smlouva o prodeji vlasů je platná (lze žalovat splnění/odměnu). Ohledně vzorku se OO může bránit ochranou osobnosti (neoprávněné neobvyklé použití bez výslovného souhlasu) — domáhat se upuštění, odstranění následku a satisfakce. Kroky: u vlasů standardní smluvní plnění; u vzorku výzva, žaloba na ochranu osobnosti, zajištění důkazů o použití. Riziko: nemocnice namítne obecný souhlas s nakládáním se vzorky — neutralizuje se tím, že neobvyklý účel vyžaduje souhlas výslovný.
+
+**6. Varianty.** (a) Kdyby šlo o orgán či tkáň podléhající transplantačnímu zákonu, přenechání za odměnu by bylo zakázáno (komercializace vyloučena), na rozdíl od vlasů. (b) Kdyby OO k uměleckému použití vzorku dala výslovný souhlas, nakládání by bylo po právu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „s tělem nelze obchodovat vůbec":* paušalizace. Neutralizace: § 112 výslovně připouští úplatné přenechání bezbolestně odnímatelných a obnovujících se částí (vlasy), na něž se hledí jako na věc.
+- *Protiargument „obecný souhlas postačí i pro neobvyklé použití":* popírá § 111 odst. 2. Neutralizace: k neobvyklému účelu je vždy nutný výslovný souhlas.
+- *Slabé místo:* hranice mezi „obvyklým" a „neobvyklým" účelem a mezi obnovujícími se a neobnovujícími částmi je hodnotící; chybná kvalifikace mění režim (věc movitá vs. zvláštní zákon).
+
+#### H. Praktický závěr
+
+Odňatou část těla lze použít k vědě/výzkumu jen se souhlasem a k neobvyklému účelu vždy s výslovným souhlasem (§ 111). Přenechat část těla jinému lze jen dle zvláštního zákona; výjimkou jsou bezbolestně odnímatelné a obnovující se části (vlasy), jež lze přenechat i za odměnu a hledí se na ně jako na věc movitou (§ 112).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o bezbolestně odnímatelnou a obnovující se část (lze úplatně přenechat jako věc) nebo o orgán/tkáň dle zvláštního zákona?
+- [ ] Je k použití odňaté části dán souhlas, a u neobvyklého účelu výslovný souhlas (§ 111 odst. 2)?
+- [ ] Použijí se obdobná pravidla i na to, co má původ v těle (odst. 3)?
+- [ ] Není porušen zákaz komercializace orgánů/tkání (zvláštní předpisy)?
+- [ ] Při neoprávněném nakládání zvolen správný nárok (ochrana osobnosti)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o přenechání části těla, doklad o povaze části (odnímatelnost, obnova), dokumentace o odnětí a použití vzorku, doklad o (ne)existenci souhlasu (zejm. výslovného k neobvyklému účelu).
+
 ---
 
 ### Pododdíl 6 — Ochrana lidského těla po smrti
@@ -945,4 +1870,41 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 - *ObS pro Prahu 1* [26 C 191/2019-253](https://rozhodnuti.justice.cz/rozhodnuti/?id=34400811-f547-42c6-94e1-c04ba06a93f7) — *znalecký posudek, pasivní legitimace*
 - *VS v Praze* [2 Cmo 89/2024-385](https://rozhodnuti.justice.cz/rozhodnuti/?id=b86b9484-32c2-4810-b7c4-4fe6bb05da5f) — 30. 12. 2024
 - *VS v Praze* [14 Cmo 134/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=8f675c5a-a3d3-477f-9c9d-95a8c6758857) — 21. 8. 2024
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan QQ za života nezanechal žádné výslovné rozhodnutí o způsobu pohřbu ani o naložení s tělem. Po jeho smrti se jeho manželka RR rozhodne pro kremaci a skromný pohřeb; dospělý syn z dřívějšího vztahu SS naopak požaduje nákladný církevní pohřeb a brání kremaci. Pozůstalost QQ je nízká a nestačí na nákladný pohřeb. Současně nemocnice zvažuje provedení pitvy. Účastníci: zemřelý QQ, manželka RR, syn SS, poskytovatel (pitva), příp. obec. Důkazy: doklad o absenci rozhodnutí zemřelého, doklad o příbuzenských vztazích, soupis pozůstalosti, zákonný důvod pitvy.
+
+**2. Právní otázka.** Kdo rozhoduje o pohřbu, nezanechal-li zemřelý rozhodnutí, z čeho se hradí náklady a kdy lze provést pitvu bez souhlasu zemřelého?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 (právo rozhodnout o naložení s tělem; pitva nebo použití těla bez souhlasu zemřelého jen, stanoví-li tak jiný zákon) a § 114 (právo rozhodnout o pohřbu; kaskáda rozhodujících osob při absenci rozhodnutí; úhrada nákladů z pozůstalosti; alespoň slušný pohřeb dle místních zvyklostí; zvláštní předpis pro nemajetné).
+- *Související ustanovení téhož zákona:* § 92 (ochrana těla po smrti, vydání ostatků); § 81–82 (postmortální ochrana); § 1475 a násl. (pozůstalost a její pasiva).
+- *Související předpisy:* zákon č. 256/2001 Sb., o pohřebnictví (vč. zajištění pohřbu obcí u nemajetných); zákon č. 372/2011 Sb. (§ 88–89 — pitvy a jejich zákonné důvody).
+- *Judikatura:* k povaze práv pozůstalých lze vyjít z NS sp. zn. 30 Cdo 1882/2018 (citováno v komentáři u § 92) — práva spojená s tělem zemřelého jsou osobnostní povahy sui generis.
+
+**4. Subsumpce.** Absence rozhodnutí zemřelého (§ 114 odst. 1) — naplněna → rozhoduje první v kaskádě, tj. manžel (RR); syn (SS) nastupuje až při absenci manžela. Náklady (odst. 2) — z pozůstalosti; nestačí-li na přání zemřelého, postačí slušný pohřeb dle místních zvyklostí; u nemajetných se uplatní zvláštní předpis (odst. 3). Pitva (§ 113 odst. 2) — přípustná jen, stanoví-li tak jiný zákon (zdravotní/trestní důvody). Sporné by bylo, kdyby existovalo výslovné rozhodnutí zemřelého (pak má přednost před vůlí pozůstalých).
+
+**5. Řešení.** O pohřbu rozhoduje RR jako manželka (SS přednost nemá); pohřeb se hradí z pozůstalosti, a nestačí-li, postačí slušný pohřeb dle místních zvyklostí. Pitvu lze provést jen ze zákonného důvodu. Kroky: RR rozhodne o pohřbu, uplatní náklady vůči pozůstalosti; poskytovatel ověří zákonný důvod pitvy; při sporu se SS určující je kaskáda § 114. Riziko: SS bude prosazovat nákladný pohřeb nad rámec pozůstalosti — neutralizuje se pravidlem o slušném pohřbu a o úhradě z pozůstalosti.
+
+**6. Varianty.** (a) Kdyby QQ zanechal výslovné rozhodnutí (např. kremaci), mělo by přednost před vůlí pozůstalých (§ 113 odst. 1, § 114 odst. 1). (b) Kdyby nebyl nikdo z osob v kaskádě a nikdo by náklady dobrovolně neuhradil, rozhodla by o pohřbu obec, na jejímž území QQ zemřel, dle zvláštního předpisu (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „o pohřbu rozhodují všichni příbuzní společně":* popírá pořadí kaskády. Neutralizace: § 114 stanoví jednoznačné pořadí (manžel → děti → rodiče → sourozenci → jejich děti → jiná osoba blízká → obec).
+- *Protiargument „pozůstalost musí pokrýt jakýkoli pohřeb":* přecenění odst. 2. Neutralizace: nestačí-li pozůstalost na přání zemřelého, postačí slušný pohřeb dle místních zvyklostí.
+- *Slabé místo:* zákonné důvody pitvy (§ 113 odst. 2) jsou ve zvláštních předpisech; bez jejich ověření hrozí neoprávněný zásah do těla zemřelého.
+
+#### H. Praktický závěr
+
+O naložení s tělem a o pohřbu rozhoduje primárně zemřelý; nezanechal-li rozhodnutí, nastupuje pevná kaskáda osob (§ 114 odst. 1). Náklady se hradí z pozůstalosti, a nestačí-li na přání zemřelého, postačí slušný pohřeb dle místních zvyklostí; u nemajetných se uplatní zvláštní předpis. Pitvu lze provést bez souhlasu zemřelého jen ze zákonného důvodu (§ 113 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zanechal zemřelý výslovné rozhodnutí o naložení s tělem či o pohřbu (má přednost)?
+- [ ] Při absenci rozhodnutí: kdo je první v kaskádě dle § 114 odst. 1?
+- [ ] Postačuje pozůstalost na přání zemřelého, nebo se uplatní slušný pohřeb dle místních zvyklostí?
+- [ ] Je u nemajetného zajištěn pohřeb dle zvláštního předpisu (odst. 3, obec)?
+- [ ] Existuje zákonný důvod pro pitvu/použití těla (§ 113 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o (ne)existenci rozhodnutí zemřelého, doklady o příbuzenských vztazích, soupis a hodnota pozůstalosti, doklad o zákonném důvodu pitvy, podklady o místních zvyklostech a nákladech pohřbu.
 

@@ -58,6 +58,42 @@
 - *NS* [27 Cdo 1484/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C2199D78419BC1ECC1258AC9001B865B?openDocument) — *Péče řádného hospodáře Škoda*
   > „[6] Nejvyšší soud je ve své judikatuře ustálen v závěru, podle něhož škodou podle § 2894 odst. 1 o. z. je újma na jmění, tj. na souhrnu majetku a dluhů osoby ve smyslu § 495 o. z. Za škodu se považuje újma, která nastala v majetkové sféře poškozeného a je objektivně vyjádřitelná všeobecným ekvivalentem, tj. penězi."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec rozešle obchodním partnerům akciové společnosti A nepravdivý e‑mail, že firma je „před insolvencí a podvádí". A přijde o dvě zakázky (prokazatelný ušlý zisk 800 000 Kč) a vedení tvrdí, že utrpělo i „poškození dobrého jména" v hodnotě 1 mil. Kč. A žaluje jak majetkovou škodu, tak nemajetkovou újmu právnické osoby. Důkazy: e‑mail, výpovědi odběratelů o důvodu zrušení, účetnictví ke ztrátě marže.
+
+**2. Právní otázka.** Může se právnická osoba podle § 2894 domáhat vedle náhrady majetkové škody i odčinění nemajetkové újmy (zásahu do pověsti), aniž to bylo ujednáno a aniž to zvlášť stanoví zákon?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2894 — povinnost nahradit újmu vždy zahrnuje škodu na jmění (odst. 1); nemajetková újma se odčiní jen při ujednání nebo zvláštním zákonném zmocnění (odst. 2).
+- *Související ustanovení téhož zákona:* § 2910 (porušení zákona se zásahem do absolutního práva — základ majetkového nároku), § 135 (ochrana názvu a pověsti právnické osoby), § 2988 (nekalá soutěž).
+- *Související předpisy:* zák. č. 89/2012 Sb. ve spojení se směrnicí o nekalých obchodních praktikách; čl. 10 Listiny.
+- *Judikatura:* Pl. ÚS 26/24 a Pl. ÚS 20/24 (ústavnost § 2894 odst. 2 — zásah do pověsti právnické osoby není zvláštním zákonným případem nemajetkové újmy); NS 23 Cdo 1366/2025 a 23 Cdo 1379/2023 (po účinnosti o. z. nemá právnická osoba nárok na zadostiučinění za pověst dle § 2894 odst. 2); NS 27 Cdo 1484/2023 (škoda dle § 2894 odst. 1 = újma na souhrnu majetku a dluhů ve smyslu § 495, objektivně vyjádřitelná penězi).
+
+**4. Subsumpce.** Majetková škoda (ušlý zisk 800 000 Kč) spadá pod § 2894 odst. 1 — hradí se vždy, je‑li prokázána příčinná souvislost a porušení povinnosti. Nárok na 1 mil. Kč za pověst naopak naráží na § 2894 odst. 2: ujednání chybí a žádný zvláštní zákon nepřiznává obecné peněžité zadostiučinění právnické osobě za zásah do pověsti mimo nekalou soutěž (§ 2988). Sporné je, zda lze nárok podřadit pod nekalou soutěž — to vyžaduje soutěžní vztah a naplnění generální klauzule § 2976.
+
+**5. Řešení.** Soud přizná majetkovou škodu dle § 2910 + § 2952; nárok na peněžité zadostiučinění za pověst zamítne (§ 2894 odst. 2). A se může bránit zdržovacím a odstraňovacím nárokem (§ 135), případně satisfakcí dle práva nekalé soutěže, prokáže‑li soutěžní postavení škůdce. Procesně je nutné rozdělit petit na majetkovou a nemajetkovou složku a u každé prokázat samostatně předpoklady.
+
+**6. Varianty.** (a) Strany si ve smlouvě o mlčenlivosti ujednaly smluvní pokutu/náhradu nemajetkové újmy — pak je nárok dán z titulu ujednání (§ 2894 odst. 2). (b) Škůdce je konkurentem A a jednání naplní nekalou soutěž — § 2988 otevírá i přiměřené zadostiučinění, i v penězích.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zásah do pověsti je zásahem do osobnostní sféry právnické osoby, takže § 2956 zakládá nárok." Neutralizace: judikatura ÚS i NS (Pl. ÚS 20/24, 23 Cdo 1366/2025) výslovně dovodila, že § 2956 dopadá na člověka, nikoli na právnickou osobu, a § 2894 odst. 2 brání peněžitému zadostiučinění bez zvláštního zákona.
+- *Protiargument:* „Ušlý zisk není ‚škodou na jmění‘, ale hypotetickým ziskem." Neutralizace: § 2952 výslovně řadí ušlý zisk pod náhradu; NS 27 Cdo 1484/2023 vymezuje škodu jako majetkovou újmu objektivně vyjádřitelnou penězi včetně ušlého přírůstku.
+- *Slabé místo:* hranice mezi „pověstí" chráněnou jen zdržovacím nárokem a soutěžní satisfakcí; nedostatkem bývá neprokázaný soutěžní vztah.
+
+#### H. Praktický závěr
+
+Majetková škoda právnické i fyzické osoby se hradí vždy; nemajetková újma jen při ujednání nebo zvláštním zákonném zmocnění. Právnická osoba zpravidla nemá za zásah do pověsti peněžité zadostiučinění mimo nekalou soutěž.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit v petitu majetkovou škodu (vždy) a nemajetkovou újmu (jen § 2894 odst. 2).
+- [ ] U nemajetkové újmy doložit ujednání nebo identifikovat zvláštní zákonný titul (§ 2956 n. — člověk; § 2988 — soutěž).
+- [ ] U právnické osoby zvážit zdržovací/odstraňovací nárok dle § 135 namísto peněžitého zadostiučinění.
+- [ ] Prokázat příčinnou souvislost a výši škody (§ 2952, § 2955).
+
+**Typicky rozhodné důkazy / podklady:** závadné sdělení/listina, doklady o zrušených obchodech a marži, účetnictví, znalecké ocenění škody, případně doklady o soutěžním postavení škůdce.
+
 ### § 2895 — Objektivní odpovědnost
 
 > Škůdce je povinen nahradit škodu bez ohledu na své zavinění v případech stanovených zvlášť zákonem.
@@ -78,6 +114,42 @@
   > „§ 2895 (o. z.) Škůdce je povinen nahradit škodu bez ohledu na své zavinění v případech stanovených zvlášť zákonem."
 - *NS* [25 Cdo 3742/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E14CC0D72B5EA0A2C1258B26004D2AB8?openDocument) — *Odpovědnost za škodu způsobenou provozem dopravních prostředků*
   > „Podle § 2895 o. z. škůdce je povinen nahradit škodu bez ohledu na své zavinění v případech stanovených zvlášť zákonem."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Chodec je sražen tramvají dopravního podniku; zranění utrpí i bez jakéhokoli pochybení řidiče (chodec vběhl do kolejiště). Poškozený žaluje provozovatele dráhy. Ten namítá, že nepochybil — nebyl nedbalý. Poškozený oponuje, že jde o objektivní odpovědnost z provozu (§ 2927). Důkazy: záznam z kamery, posudek o rychlosti, doklad, kdo je provozovatelem dráhy.
+
+**2. Právní otázka.** Odpovídá provozovatel za škodu i bez zavinění, opírá‑li poškozený nárok o objektivní odpovědnost, a jaký je vztah § 2895 k jednotlivým zvláštním skutkovým podstatám?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2895 — povinnost nahradit škodu bez ohledu na zavinění existuje jen v případech stanovených zvlášť zákonem (kolizní/odkazovací norma).
+- *Související ustanovení téhož zákona:* zvláštní objektivní skutkové podstaty, na něž § 2895 odkazuje — § 2924 (provoz), § 2925 (zvlášť nebezpečný provoz), § 2927 (dopravní prostředky), § 2933 (zvíře), § 2939 (vada výrobku), § 2944 (převzatá věc); proti tomu subjektivní základ § 2910—2913.
+- *Související předpisy:* zák. č. 30/2024 Sb. o pojištění odpovědnosti z provozu vozidla; zák. č. 266/1994 Sb. o dráhách.
+- *Judikatura:* NS 25 Cdo 3742/2023 (objektivní odpovědnost dle § 2895 jen v zákonem stanovených případech, zde provoz dopravního prostředku); NS 31 Cdo 1178/2023 (citace § 2895 jako odkazovacího pravidla); NS 25 Cdo 2008/2024 (advokát — § 2895 nelze použít k rozšíření objektivní odpovědnosti nad rámec zákona).
+
+**4. Subsumpce.** § 2895 sám o sobě nezakládá žádnou odpovědnost — jen potvrzuje, že bez zavinění se odpovídá výlučně tam, kde to zákon výslovně stanoví. Skutek (sražení tramvají) je nutné podřadit pod konkrétní podstatu § 2927 (zvláštní povaha provozu), nikoli pod obecný § 2910. Tím odpadá důkaz zavinění; provozovatel se zprostí jen liberačním důvodem (vyšší moc, jednání poškozeného).
+
+**5. Řešení.** Soud aplikuje § 2927 ve spojení s § 2895; provozovatel odpovídá objektivně. Liberaci může opřít o výlučné jednání poškozeného (vběhnutí do kolejiště) — pak buď úplné zproštění, nebo poměrné snížení dle § 2918. Procesně poškozený nese důkaz provozu a škody, škůdce důkaz liberace.
+
+**6. Varianty.** (a) Škoda vznikne při výkonu povolání advokáta chybnou radou — § 2895 se neuplatní, jde o subjektivní odpovědnost dle § 2913/§ 2950. (b) Jde o vozidlo poháněné lidskou silou (kolo) — objektivní podstata § 2927 nedopadá, řeší se § 2910 (zavinění).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Provozovatel nepochybil, proto neodpovídá." Neutralizace: u objektivní odpovědnosti je zavinění bez významu; § 2895 + § 2927 odpovědnost zakládají i při bezvadném počínání, vyvázat se lze jen liberací.
+- *Protiargument:* „§ 2895 zakládá obecnou objektivní odpovědnost." Neutralizace: jde o pouhou odkazovací normu; bez konkrétního zvláštního ustanovení objektivní odpovědnost nevzniká (NS 25 Cdo 2008/2024).
+- *Slabé místo:* správné přiřazení skutku ke konkrétní zvláštní podstatě; chybná kvalifikace (§ 2910 místo § 2927) přenáší na poškozeného důkaz zavinění a může vést k neúspěchu.
+
+#### H. Praktický závěr
+
+§ 2895 je klíč k systému: subjektivní odpovědnost je pravidlem, objektivní výjimkou jen v taxativně stanovených případech. Vždy je nutné najít konkrétní zvláštní ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda na skutek dopadá některá zvláštní objektivní podstata (§ 2924, 2925, 2927, 2933, 2939, 2944).
+- [ ] Pokud ano, neuplatňovat zavinění, ale řešit liberaci.
+- [ ] Pokud ne, postupovat podle subjektivního základu (§ 2910—2913) a prokazovat zavinění (vč. domněnek § 2911—2912).
+- [ ] Zvážit poměrné snížení dle § 2918 při spoluúčasti poškozeného.
+
+**Typicky rozhodné důkazy / podklady:** doklad o tom, kdo je provozovatelem/výrobcem/dohlížitelem, popis škodné události, posudek o příčině, podklady k liberačnímu důvodu (vyšší moc, jednání poškozeného).
 
 ### § 2896—2899 — Vyloučení a omezení odpovědnosti
 
@@ -104,6 +176,42 @@
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 1551/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0987D4BF8A9D6B9C1258D7F0052C236?openDocument) — *Smluvní pokuta Náhrada škody Moderační právo soudu*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel lanového parku nechá návštěvníky podepsat formulář „beru na vědomí, že provozovatel neodpovídá za jakoukoli újmu na zdraví". Spotřebitel si poté kvůli vadně instalovanému jištění zláme nohu. Provozovatel se brání podpisem. Důkazy: podepsaný formulář, revizní zpráva o jištění, lékařská dokumentace.
+
+**2. Právní otázka.** Je předem učiněné vzdání se práva na náhradu újmy na zdraví spotřebitele platné, brání‑li mu § 2898, a jaký je rozdíl mezi neúčinným oznámením (§ 2896) a zakázaným ujednáním (§ 2898)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2896 (k jednostrannému oznámení o vyloučení odpovědnosti se nepřihlíží, nanejvýš jako k varování), § 2898 (neplatnost předchozího vyloučení u přirozených práv, úmyslu/hrubé nedbalosti, slabší strany — práva se nelze ani vzdát), § 2897 (vzdání se náhrady škody na pozemku zapsané do veřejného seznamu), § 2899 (přijetí nebezpečí obětí nezbavuje práva na náhradu).
+- *Související ustanovení téhož zákona:* § 2956—2958 (újma na zdraví), § 433 (slabší strana podnikatele), § 1812 (výklad ve prospěch spotřebitele), § 2950 (profesionál).
+- *Související předpisy:* spotřebitelská ochrana dle o. z.; čl. 31 Listiny (zdraví).
+- *Judikatura:* NS 28 Cdo 1551/2025 (k mezím omezení odpovědnosti a moderaci); obecně nosný závěr, že ujednání odporující § 2898 je neplatné a nepřihlíží se k němu.
+
+**4. Subsumpce.** Formulář je předem učiněným vyloučením odpovědnosti vůči spotřebiteli (slabší strana) a současně se týká újmy na zdraví (přirozené právo). Naplňuje hned dvě zapovězené kategorie § 2898 — proto je k němu nepřihlíženo a práva se nelze platně vzdát. Lze jej vyložit nanejvýš jako varování před nebezpečím (§ 2896), což ovšem nevylučuje odpovědnost za vadné jištění (zavinění/porušení prevenční povinnosti).
+
+**5. Řešení.** Soud k vyloučení odpovědnosti nepřihlédne; provozovatel odpovídá za škodu a nemajetkovou újmu na zdraví (§ 2910 + § 2958). Provozovatel se může bránit jen v rovině spoluzavinění (§ 2918), prokáže‑li nedbalost poškozeného, nikoli odkazem na podpis. Procesně je formulář bez účinku na vznik nároku.
+
+**6. Varianty.** (a) Místo spotřebitele jde o profesionálního horolezce a vyloučení se týká jen lehké nedbalosti a čistě majetkové škody — § 2898 nebrání, ujednání může být platné. (b) Vlastník pozemku se vzdá náhrady škody na pozemku a vklad se zapíše do katastru — pak působí i proti pozdějším nabyvatelům (§ 2897).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Návštěvník dobrovolně přijal riziko, je vázán podpisem." Neutralizace: § 2899 výslovně stanoví, že přijetí nebezpečí oběti nezbavuje práva na náhradu; § 2898 navíc zakazuje vzdát se práva u zdraví a u slabší strany.
+- *Protiargument:* „Cedule/formulář alespoň snižuje odpovědnost." Neutralizace: § 2896 přiznává takovému projevu nanejvýš povahu varování, nikoli omezení; nesnižuje rozsah náhrady.
+- *Slabé místo:* hranice „slabší strany" u poloprofesionálních účastníků; chybějící revizní podklady o stavu jištění mohou oslabit důkaz porušení povinnosti.
+
+#### H. Praktický závěr
+
+Předem vyloučit či omezit odpovědnost za zdraví, úmysl, hrubou nedbalost a vůči slabší straně nelze; takové projevy mají nanejvýš účinek varování. Ochranu nelze obejít ani „vzdáním se" práva.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda se vyloučení týká přirozeného práva, úmyslu/hrubé nedbalosti nebo slabší strany (§ 2898 — neplatnost).
+- [ ] Odlišit jednostranné oznámení (§ 2896 — varování) od dvoustranného ujednání (§ 2898).
+- [ ] U pozemku ověřit zápis vzdání se ve veřejném seznamu (§ 2897).
+- [ ] Bránit se případně jen spoluzaviněním (§ 2918), nikoli vyloučením.
+
+**Typicky rozhodné důkazy / podklady:** text doložky/oznámení a okolnosti jejího sdělení, postavení poškozeného (spotřebitel/podnikatel), revizní a technická dokumentace, lékařská zpráva, výpis z veřejného seznamu u § 2897.
 
 ### § 2900—2903 — Prevence
 
@@ -146,6 +254,42 @@
 - *NS* [4 Tdo 501/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DBA94E3EAEAB020C1258B72004D19D9?openDocument) — *Nedbalost Subjektivní stránka Ublížení na zdraví z nedbalosti*
   > „Navíc podle státního zástupce lze porušení důležité povinnosti dovodit i s odkazem na ustanovení § 2900 občanského zákoníku."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Lyžař jede vysokou rychlostí, nepřizpůsobí jízdu situaci na sjezdovce a zezadu narazí do pomalejší lyžařky, která utrpí zranění. Žádný „obecně závazný předpis" pohyb na sjezdovce neupravuje, škůdce namítá, že žádnou zákonnou povinnost neporušil. Důkazy: svědci, posudek o rychlosti a místě nárazu, pravidla FIS, lékařská zpráva.
+
+**2. Právní otázka.** Lze založit odpovědnost za škodu na porušení obecné prevenční povinnosti (§ 2900), není‑li porušena žádná konkrétní zákonná povinnost, a jaký je vztah § 2900—2903?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2900 (generální prevence — počínat si tak, aby nedošlo k nedůvodné újmě na zdraví, životě, svobodě, vlastnictví), § 2901 (zakročovací povinnost toho, kdo vytvořil nebezpečí nebo má nad ním kontrolu), § 2902 (oznamovací povinnost), § 2903 (vlastní zakročení ohroženého; soudní opatření při vážném ohrožení).
+- *Související ustanovení téhož zákona:* § 2910 (porušení zákonné/prevenční povinnosti se zásahem do absolutního práva), § 2918 (spoluzavinění při zanedbání § 2903), § 2912 (standard průměrného člověka).
+- *Související předpisy:* pravidla FIS (nezávazná, ale měřítko péče); zák. č. 40/2009 Sb. (§ 143 — porušení důležité povinnosti).
+- *Judikatura:* NS 25 Cdo 2985/2024 a 3 Tdo 419/2024 (nedodržení pravidel chování na sjezdovce porušuje obecnou prevenční povinnost § 2900); NS 25 Cdo 2838/2023 (i mimo závadu ve sjízdnosti lze odpovědnost opřít o § 2900); NS 7 Tdo 245/2025 (konání × opomenutí ve vztahu k prevenci); NS 3 Tdo 615/2024 (porušení důležité povinnosti lze identifikovat v porušení § 2900, 2901).
+
+**4. Subsumpce.** Bezohledná rychlá jízda zakládá porušení prevenční povinnosti dle § 2900 — škůdce si nepočínal tak, aby nezpůsobil újmu na zdraví. Pravidla FIS slouží jako měřítko náležité péče. Porušení této povinnosti je porušením „zákonné povinnosti" ve smyslu § 2910 (prevence je zákonnou povinností), proto se odpovědnost dovodí i bez zvláštního silničního či sportovního předpisu. Příčinná souvislost mezi nárazem a zraněním je dána.
+
+**5. Řešení.** Soud přizná náhradu škody a nemajetkové újmy (§ 2910 + § 2958) pro porušení prevenční povinnosti § 2900. Zkoumá se případné spoluzavinění poškozené (§ 2903, § 2918), např. nesledovala‑li provoz. Procesně poškozená prokazuje porušení péče (rozpor s pravidly FIS), škůdce může navrhnout snížení pro spoluúčast.
+
+**6. Varianty.** (a) Poškozená sama zastavila uprostřed sjezdu v nepřehledném místě — uplatní se § 2903/§ 2918 a náhrada se poměrně sníží. (b) Provozovatel vleku věděl o nebezpečném ledovém úseku a neoznačil jej — odpovídá z titulu § 2901 (kontrola nad nebezpečím) vedle škůdce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Žádný zákon jízdu na sjezdovce neupravuje, nelze tedy porušit zákonnou povinnost." Neutralizace: § 2900 je samostatná zákonná prevenční povinnost; její porušení je porušením zákona ve smyslu § 2910 (NS 3 Tdo 419/2024).
+- *Protiargument:* „Pravidla FIS nejsou závazná." Neutralizace: slouží jako objektivizované měřítko náležité péče průměrně rozumného lyžaře (§ 2912), nikoli jako zdroj sankce.
+- *Slabé místo:* obecná prevence nesmí být vykládána bezbřeze; je nutné prokázat konkrétní porušení rozumně očekávané péče a příčinnou souvislost, jinak hrozí přepjatá objektivizace odpovědnosti.
+
+#### H. Praktický závěr
+
+§ 2900 zakládá vymahatelnou povinnost předcházet újmě; její porušení zakládá odpovědnost dle § 2910 i tam, kde chybí zvláštní předpis. Ohrožený však musí sám přiměřeně zakročit (§ 2903), jinak nese poměrnou část škody.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit konkrétní pravidlo náležité péče (vč. nezávazných standardů jako FIS) a jeho porušení.
+- [ ] Posoudit, zda škůdce vytvořil/kontroloval nebezpečí (§ 2901) nebo měl oznamovací povinnost (§ 2902).
+- [ ] Zkoumat, zda ohrožený sám zakročil (§ 2903) — jinak snížení dle § 2918.
+- [ ] Při vážném ohrožení zvážit návrh na soudní preventivní opatření (§ 2903 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** svědecké výpovědi, znalecký posudek (rychlost, mechanismus), uznávané standardy chování, fotodokumentace místa, lékařská dokumentace, doklad o oznámení/varování.
+
 ### § 2904 — Náhoda
 
 > Újmu způsobenou náhodou nahradí ten, kdo dal ze své viny k náhodě podnět, zejména tím, že poruší příkaz nebo poškodí zařízení, které má nahodilé újmě zabránit.
@@ -156,6 +300,42 @@
 
 - *NS* [25 Cdo 535/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B681A295ED4410C3C12583970021F339?openDocument) — *Dobré mravy Majetková újma (o. z.) Odpovědnost za škodu způsobenou provozem dopravních p…*
   > „Podle § 2904 o. z. nahradí újmu způsobenou náhodou ten, kdo dal ze své viny k náhodě podnět, zejména tím, že poruší příkaz nebo poškodí zařízení, které má nahodilé újmě zabránit."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec skladu úmyslně vyřadí z provozu protipožární čidlo (porušil zákaz), aby mohl uvnitř kouřit. Později v noci vznikne požár z blíže neobjasněné příčiny (zkrat — náhoda); protože čidlo nefungovalo, sklad shoří. Vlastník žaluje zaměstnance. Ten namítá, že požár byl náhoda, kterou nezpůsobil. Důkazy: protokol o vyřazení čidla, zpráva hasičů o příčině, revize elektroinstalace.
+
+**2. Právní otázka.** Odpovídá za škodu způsobenou náhodou (zkratem) ten, kdo svou vinou vyřadil zařízení, jež mělo nahodilé újmě zabránit, ačkoli samotnou náhodu nezavinil (§ 2904)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2904 — újmu způsobenou náhodou nahradí ten, kdo dal ze své viny k náhodě podnět, zejména porušením příkazu nebo poškozením zařízení, které má nahodilé újmě zabránit.
+- *Související ustanovení téhož zákona:* § 2910 (porušení zákonné/prevenční povinnosti), § 2900 (prevence), § 2918 (spoluzavinění), § 2925 (zvlášť nebezpečný provoz, kde se náhoda hradí v rámci přísné odpovědnosti).
+- *Související předpisy:* zák. č. 133/1985 Sb. o požární ochraně (povinnost udržovat požární zařízení provozuschopné).
+- *Judikatura:* NS 25 Cdo 535/2018 (citace § 2904 — náhradu újmy způsobené náhodou nese ten, kdo dal ze své viny k náhodě podnět porušením příkazu či poškozením ochranného zařízení).
+
+**4. Subsumpce.** Zaměstnanec vyřadil zařízení určené k zabránění nahodilé újmě (požární čidlo) a porušil příkaz (zákaz manipulace, povinnost provozuschopnosti). Tím dal „ze své viny podnět" k tomu, aby se náhoda (zkrat) projevila škodou v plném rozsahu. § 2904 přičítá zaměstnanci i tu část škody, kterou by jinak fungující čidlo odvrátilo. Sporné může být, jakou škodu by funkční čidlo skutečně odvrátilo (rozsah příčinné souvislosti).
+
+**5. Řešení.** Zaměstnanec odpovídá za škodu způsobenou náhodou v rozsahu, v němž jí mohlo funkční zařízení zabránit (§ 2904 ve spojení s § 2910). Důkazní břemeno o tom, že vyřazení čidla bylo příčinou rozsahu škody, nese poškozený; obrana spočívá v prokázání, že by sklad shořel i s funkčním čidlem (chybějící příčinná souvislost). Procesně lze přibrat znalce požární ochrany.
+
+**6. Varianty.** (a) Čidlo bylo nefunkční nezávisle na zaměstnanci (výrobní vada) — § 2904 nedopadá, zaměstnanec nedal vlastní vinou podnět. (b) Sklad by shořel i s funkčním čidlem (mimořádně rychlé šíření) — chybí příčinná souvislost a odpovědnost dle § 2904 odpadá.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Požár byl náhoda, za náhodu se neodpovídá." Neutralizace: § 2904 je výslovnou výjimkou — kdo vlastní vinou dal náhodě podnět vyřazením ochranného zařízení, za náhodnou škodu odpovídá.
+- *Protiargument:* „Mezi vyřazením čidla a zkratem není souvislost." Neutralizace: souvislost se neváže ke vzniku zkratu, nýbrž k rozsahu škody, jíž čidlo mělo zabránit; rozhoduje hypotetická účinnost ochranného opatření.
+- *Slabé místo:* obtížné vyčíslení, jakou škodu by funkční zařízení odvrátilo; bez znaleckého posouzení hrozí neunesení důkazního břemene o příčinné souvislosti.
+
+#### H. Praktický závěr
+
+Kdo svou vinou poruší příkaz nebo vyřadí ochranné zařízení, odpovídá i za škodu, kterou pak způsobí náhoda, již toto zařízení mělo odvrátit. Klíčem je prokázat hypotetickou účinnost ochrany.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat zaviněné porušení příkazu nebo poškození/vyřazení ochranného zařízení.
+- [ ] Vymezit, jaké nahodilé újmě mělo zařízení/příkaz zabránit.
+- [ ] Prokázat, v jakém rozsahu by funkční ochrana škodu odvrátila (příčinná souvislost).
+- [ ] Zvážit spoluzavinění a souběh s § 2910/§ 2925.
+
+**Typicky rozhodné důkazy / podklady:** doklad o příkazu/zákazu a jeho porušení, protokol o stavu ochranného zařízení, zpráva o příčině a průběhu škodné události, znalecký posudek k účinnosti ochrany.
 
 ### § 2905—2908 — Okolnosti vylučující protiprávnost
 
@@ -199,6 +379,42 @@
 - *NS* [25 Cdo 3470/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D56D8604C7505A5C125874900188058?openDocument) — *Náhrada škody Nutná obrana Ztížení společenského uplatnění*
   > „V nutné obraně ve smyslu § 2905 o. z. jednal ten, kdo odvracel protiprávní útok, který bezprostředně hrozil nebo trval a směřoval proti němu či jiné osobě, jestliže byla obrana potřebná (nezbytná) k účinnému odvrácení útoku a nebyla zcela zjevně nepřiměřená."
 - *NS* [33 Cdo 2319/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1CFCFD72EC3C7F2CC1258BA9004D2482?openDocument) — *Přípustnost dovolání Smlouva o dílo Vady*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V noci napadne lupič chodce nožem a požaduje peníze. Chodec se brání, lupiče srazí a zlomí mu ruku, čímž útok ukončí. Lupič se po odsouzení domáhá na chodci náhrady nemajetkové újmy za zranění ruky. Souběžně: řidič strhne volant, aby se vyhnul dítěti vběhnuvšímu do silnice, a poškodí zaparkované cizí auto (krajní nouze). Důkazy: trestní spis, znalecký posudek o přiměřenosti obrany, svědci.
+
+**2. Právní otázka.** Je obránce povinen nahradit újmu způsobenou útočníkovi v nutné obraně (§ 2905), resp. újmu na cizím majetku v krajní nouzi (§ 2906), a kdy tato privilegia odpadají?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2905 (nutná obrana — bez povinnosti náhrady, leda hrozila újma nepatrná nebo obrana byla zcela zjevně nepřiměřená), § 2906 (krajní nouze — bez náhrady, nebylo‑li možné odvrátit jinak a nezpůsobil‑li se zjevně stejně/více závažný následek), § 2907 (omluvitelné vzrušení mysli), § 2908 (náhrada nákladů a újmy zachránci).
+- *Související ustanovení téhož zákona:* § 2910 (obecná odpovědnost, vylučovaná těmito okolnostmi), § 14 (svépomoc), § 2918 (spoluúčast).
+- *Související předpisy:* § 29 tr. zák. (nutná obrana) a § 28 tr. zák. (krajní nouze) — paralelní hmotněprávní instituty.
+- *Judikatura:* NS 25 Cdo 611/2025 a 25 Cdo 3470/2019 (v nutné obraně dle § 2905 jedná ten, kdo odvrací bezprostředně hrozící/trvající protiprávní útok obranou potřebnou a nikoli zcela zjevně nepřiměřenou; pak není povinen k náhradě); NS 25 Cdo 1091/2023 (náhrada škody — meze obrany).
+
+**4. Subsumpce.** Chodec odvracel bezprostředně hrozící a trvající protiprávní útok (ozbrojené přepadení); zlomení ruky bylo potřebné a vzhledem k závažnosti útoku (ohrožení života) nebylo „zcela zjevně nepřiměřené". Naplněn je § 2905 — obránce neodpovídá. U řidiče: hrozila vyšší hodnota (život dítěte) než poškozené auto, jinak nešlo nebezpečí odvrátit — § 2906 vylučuje povinnost náhrady, ledaže by nebezpečí vyvolal sám.
+
+**5. Řešení.** Nárok lupiče bude zamítnut (§ 2905). U řidiče: vlastník poškozeného auta se po něm náhrady nedomůže (§ 2906); může se však obrátit na rodiče dítěte/toho, v jehož zájmu bylo jednáno, nebo nese škodu sám. Soud zohlední omluvitelné vzrušení mysli (§ 2907). Procesně nese škůdce důkaz o podmínkách vylučujících protiprávnost.
+
+**6. Varianty.** (a) Chodec pokračoval v bití i po složení útočníka — excese z obrany; § 2905 výjimka odpadá a obránce za nadbytečnou újmu odpovídá. (b) Řidič vyvolal nebezpečí sám (jel opilý, riskantně) — § 2906 privilegium se neuplatní a za poškozené auto odpovídá.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Obrana byla nepřiměřená, způsobená újma je vyšší než hrozící škoda na majetku." Neutralizace: u nutné obrany se neporovnává újma útočníka se škodou na majetku, nýbrž s intenzitou útoku; nepřiměřenost musí být „zcela zjevná" (§ 2905, NS 25 Cdo 3470/2019).
+- *Protiargument:* „V krajní nouzi šlo odvrátit nebezpečí jinak." Neutralizace: postačí, že jiné řešení nebylo za daných okolností reálně dostupné; hodnotí se ex ante a s přihlédnutím k vzrušení mysli (§ 2907).
+- *Slabé místo:* hranice excesu a otázka, kdo nebezpečí vyvolal; chybějící rekonstrukce události a znalecký posudek o přiměřenosti oslabují obranu.
+
+#### H. Praktický závěr
+
+Kdo jedná v nutné obraně nebo krajní nouzi, zpravidla neodpovídá za způsobenou újmu; privilegium však padá při zjevné nepřiměřenosti, excesu nebo vlastním vyvolání nebezpečí. Zachránce má naopak nárok na náhradu nákladů a utrpěné újmy (§ 2908).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit znaky obrany (bezprostřední/trvající protiprávní útok, potřebnost, ne zcela zjevná nepřiměřenost) — § 2905.
+- [ ] U krajní nouze posoudit subsidiaritu a proporcionalitu následku (§ 2906) a kdo nebezpečí vyvolal.
+- [ ] Zohlednit omluvitelné vzrušení mysli (§ 2907).
+- [ ] U zachránce uplatnit nárok na účelné náklady a újmu proti tomu, v jehož zájmu jednal (§ 2908).
+
+**Typicky rozhodné důkazy / podklady:** trestní/policejní spis, svědecké výpovědi, znalecký posudek o mechanismu a přiměřenosti, doklady o hodnotě ohrožených statků, podklady o nákladech zachránce.
 
 ---
 
@@ -282,6 +498,42 @@ Pokud se škůdce **obohatil** a právo poškozeného se promlčelo → poškoze
 - *ObS pro Prahu 5* [5 C 85/2017-306](https://rozhodnuti.justice.cz/rozhodnuti/?id=ae3d0192-8c3f-4280-a7a5-134b79b9ceb1) — *bolestné, majetková újma, náhrada nemajetkové újmy, nemajetková újma, odpovědnost za vad…*
 - *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/rozhodnuti/?id=7167abbc-f8dc-48c8-9af7-6a68ddfac5fd) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
 - *OS v Blansku* [12 C 33/2019-320](https://rozhodnuti.justice.cz/rozhodnuti/?id=52531b60-0132-4e25-be75-d3e45b3e5a67) — *zajištění dluhu, smlouva o zápůjčce, podvod, majetková újma, smlouva o půjčce, narovnání…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel společnosti X před lety neoprávněně odčerpal z účtu firmy 2 mil. Kč a použil je k nákupu pozemku, který dosud drží. Společnost se o škodě i o pachateli dozvěděla teprve nedávno z forenzního auditu; objektivní i subjektivní promlčecí lhůta nároku na náhradu škody však již uplynula. Pozemek mezitím zhodnotil. Důkazy: bankovní výpisy, kupní smlouva k pozemku, audit, znalecké ocenění obohacení.
+
+**2. Právní otázka.** Může se poškozený po promlčení práva na náhradu škody domáhat alespoň vydání toho, oč se škůdce protiprávním činem obohatil, podle pravidel o bezdůvodném obohacení (§ 2919)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2919 — obohacení škůdce protiprávním činem je i po promlčení práva na náhradu škody bezdůvodné; poškozený může žádat jeho vydání dle § 2991 a násl.
+- *Související ustanovení téhož zákona:* § 2910 (porušení zákona), § 2991—2993 (bezdůvodné obohacení), § 3001 (vydání obohacení a jeho rozsah), § 636 (objektivní promlčecí lhůta náhrady škody), § 621 (subjektivní lhůta).
+- *Související předpisy:* zák. č. 90/2012 Sb. o obchodních korporacích (péče řádného hospodáře — paralelní nárok korporace vůči jednateli).
+- *Judikatura:* obecně nosný závěr, že promlčení deliktního nároku nevylučuje samostatný, později se promlčující nárok z bezdůvodného obohacení, pokud se škůdce protiprávním činem obohatil; návazně judikatura k péči řádného hospodáře (srov. NS 27 Cdo 1484/2023 k pojmu škody).
+
+**4. Subsumpce.** Jednatel se protiprávním činem (zpronevěra/porušení péče) obohatil na úkor společnosti o 2 mil. Kč (a o zhodnocení pozemku). I když je nárok na náhradu škody promlčen, § 2919 kvalifikuje toto obohacení nadále jako bezdůvodné. Poškozená proto může uplatnit vydání obohacení dle § 2991 a násl. s vlastní (samostatnou) promlčecí lhůtou. Sporný je rozsah — zda zahrnuje i zhodnocení pozemku (užitky a přírůstky dle § 3000).
+
+**5. Řešení.** Společnost uplatní nárok na vydání bezdůvodného obohacení (§ 2919 + § 2991). Soud zkoumá samostatné promlčení tohoto nároku, nikoli již promlčené náhrady škody. Vydat lze získaný prospěch včetně užitků, je‑li obohacený v dobré víře jen v rozsahu, oč je dosud obohacen (§ 3000—3001). Procesně je třeba pečlivě formulovat petit na vydání obohacení, nikoli na náhradu škody.
+
+**6. Varianty.** (a) Škůdce se obohatil, ale prospěch zcela spotřeboval bez náhrady a nebyl v nedobré víře — rozsah vydání se může snížit (§ 3001). (b) Škůdce se vůbec neobohatil (peníze prohrál) — § 2919 nedopadá, neboť chybí obohacení; zůstává jen promlčená náhrada škody.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nárok je promlčen, věc je uzavřena." Neutralizace: § 2919 výslovně otevírá samostatný nárok z bezdůvodného obohacení s vlastní promlčecí lhůtou, nezávisle na promlčení náhrady škody.
+- *Protiargument:* „Obohacení a škoda jsou totéž, nelze obcházet promlčení." Neutralizace: jde o dva odlišné nároky s odlišnými předpoklady; § 2919 je záměrnou výjimkou bránící tomu, aby škůdce profitoval z protiprávního činu.
+- *Slabé místo:* nutnost prokázat trvající obohacení a jeho rozsah; obrana spotřebováním prospěchu (§ 3001) a otázka dobré víry mohou nárok zúžit.
+
+#### H. Praktický závěr
+
+Promlčení náhrady škody nebrání domáhat se vydání toho, oč se škůdce protiprávním činem obohatil — tento nárok se promlčuje samostatně. Petit je třeba směřovat na bezdůvodné obohacení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda došlo k obohacení škůdce protiprávním činem (nejen ke vzniku škody).
+- [ ] Uplatnit nárok dle § 2919 + § 2991 jako vydání bezdůvodného obohacení, ne náhradu škody.
+- [ ] Posoudit samostatnou promlčecí lhůtu nároku z obohacení.
+- [ ] Vyčíslit rozsah obohacení vč. užitků (§ 3000) a zohlednit § 3001 (dobrá víra, spotřebování).
+
+**Typicky rozhodné důkazy / podklady:** doklady o protiprávním činu a o tom, co škůdce získal, znalecké ocenění obohacení a jeho zhodnocení, listiny prokazující trvání obohacení, podklady k běhu promlčecích lhůt.
 
 ---
 
@@ -450,6 +702,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [25 Cdo 970/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DA22118B0B63605C1258BD40052AFE0?openDocument) — *Náhrada škody Znalecký posudek Přípustnost dovolání*
 - *NS* [29 Cdo 3736/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6200B05CABD7869C1258B6D004D1993?openDocument) — *Konkurs Správce konkursní podstaty Náhrada škody*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při dopravní nehodě je poškozeno starší vozidlo poškozeného (obvyklá cena před nehodou 120 000 Kč). Oprava do předešlého stavu by stála 190 000 Kč. Poškozený trvá na uvedení do předešlého stavu (chce auto opravit u značkového servisu); pojišťovna škůdce nabízí jen tzv. totální škodu (obvyklá cena minus hodnota vraku). Důkazy: znalecký posudek na obvyklou cenu a cenu opravy, fotodokumentace, doklad o hodnotě vraku.
+
+**2. Právní otázka.** Má poškozený podle § 2951 právo volby naturální restituce i tehdy, přesahují‑li náklady opravy podstatně obvyklou cenu věci, nebo je takový způsob hospodářsky nemožný a hradí se jen v penězích?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2951 (škoda se nahrazuje uvedením do předešlého stavu; není‑li to dobře možné nebo žádá‑li to poškozený, hradí se v penězích; nemajetková újma zadostiučiněním), § 2952 (skutečná škoda + ušlý zisk; zproštění dluhu).
+- *Související ustanovení téhož zákona:* § 2953 (moderace náhrady), § 2969 (obvyklá cena věci, cena zvláštní obliby při svévoli), § 2918 (spoluúčast).
+- *Související předpisy:* zák. č. 30/2024 Sb. (povinné ručení — plnění pojistitele); metodika oceňování vozidel.
+- *Judikatura:* NS 25 Cdo 3027/2023 (cena opravy převyšující obvyklou cenu věci o více než třetinu zakládá zpravidla hospodářskou nemožnost naturální restituce dle § 2951 odst. 1); NS 25 Cdo 3251/2025 (primát uvedení do předešlého stavu); NS 25 Cdo 1751/2024 (peněžité zadostiučinění za nemajetkovou újmu dle § 2951 odst. 2); NS 25 Cdo 548/2025 a 30 Cdo 2060/2024 (ušlý zisk dle § 2952).
+
+**4. Subsumpce.** Náklady opravy (190 000 Kč) převyšují obvyklou cenu věci (120 000 Kč) o cca 58 %, tedy více než o třetinu. Podle § 2951 odst. 1 jde o hospodářskou nemožnost uvedení do předešlého stavu — naturální restituce „není dobře možná". Právo volby poškozeného je tím omezeno; škoda se hradí v penězích ve výši obvyklé ceny snížené o hodnotu vraku. Sporné je přesné určení obvyklé ceny a hranice „dobré možnosti".
+
+**5. Řešení.** Poškozenému náleží peněžitá náhrada (tzv. totální škoda), nikoli plná cena opravy (§ 2951 odst. 1, NS 25 Cdo 3027/2023). Vedle toho lze žádat účelně vynaložené náklady (odtah, parkovné) a ušlý zisk (§ 2952), prokáže‑li jej (např. nemožnost podnikatelského využití vozidla). Procesně je rozhodný znalecký posudek; poškozený nese důkaz výše škody.
+
+**6. Varianty.** (a) Náklady opravy převýší obvyklou cenu jen mírně (do třetiny) — naturální restituce zůstává „dobře možná" a poškozený si může opravu zvolit. (b) Škůdce poškodil věc ze svévole/škodolibosti — § 2969 odst. 2 přiznává i cenu zvláštní obliby nad rámec obvyklé ceny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Poškozený má právo volby, může vždy žádat opravu." Neutralizace: volba je omezena hospodářskou možností; převyšuje‑li oprava obvyklou cenu o více než třetinu, jde o nemožnost naturální restituce (NS 25 Cdo 3027/2023).
+- *Protiargument:* „Totální škoda poškozeného poškozuje, nedostane funkční vůz." Neutralizace: účelem náhrady je reparace majetkové sféry v rozsahu obvyklé hodnoty, nikoli zhodnocení nad původní stav (zákaz obohacení poškozeného).
+- *Slabé místo:* určení „obvyklé ceny" a hranice třetinového převýšení je skutkově sporné; bez kvalitního znaleckého posudku hrozí neúspěch ohledně výše.
+
+#### H. Praktický závěr
+
+Primárně se škoda hradí uvedením do předešlého stavu, ale je‑li to hospodářsky nemožné (náklady opravy podstatně převyšují obvyklou cenu), hradí se v penězích. Vedle skutečné škody lze žádat ušlý zisk.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porovnat náklady opravy s obvyklou cenou věci (hranice cca třetinového převýšení).
+- [ ] Zvolit správný způsob náhrady (naturální × peněžitá) dle § 2951.
+- [ ] U nemajetkové újmy zvážit nepeněžité zadostiučinění, jinak peněžité (§ 2951 odst. 2).
+- [ ] Vyčíslit ušlý zisk a účelné náklady (§ 2952); zvážit moderaci (§ 2953).
+
+**Typicky rozhodné důkazy / podklady:** znalecký posudek na obvyklou cenu a cenu opravy, doklad o hodnotě vraku, faktury za účelné náklady, podklady k ušlému zisku, fotodokumentace poškození.
+
 ### § 2954—2955 — Příčinná souvislost
 
 **§ 2954**:
@@ -467,6 +755,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [29 Cdo 3840/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F09811EB6C2F6FFC1258D760052C30E?openDocument) — *Náhrada škody Ušlý zisk Insolvenční správce Odpovědnost státu za škodu [ Odpovědnost stá…*
 - *NS* [25 Cdo 3056/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AB48ED363887A2E9C1258CB7004D354E?openDocument) — *Náhrada škody Přípustnost dovolání*
 - *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pachatel úmyslným podvodem (trestný čin) vyláká od poškozeného 3 mil. Kč a obratem za ně koupí drahé hodinky a auto. Trestní řízení běží; poškozený se obává, že pachatel majetek rozprodá nebo ukryje, takže náhrada škody bude nedobytná. Současně přesnou výši škody (vč. následných ztrát) nelze přesně vyčíslit. Důkazy: trestní spis, kupní doklady k hodinkám/autu, znalecké ocenění, přehled majetku pachatele.
+
+**2. Právní otázka.** Může soud na návrh poškozeného zajistit uspokojení z věcí nabytých z majetkového prospěchu úmyslného trestného činu (§ 2954) a určit výši náhrady volnou úvahou, nelze‑li ji přesně stanovit (§ 2955)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2954 (uspokojení z věcí nabytých z majetkového prospěchu úmyslného trestného činu, i nepodléhají‑li jinak výkonu rozhodnutí; zákaz nakládat s nimi), § 2955 (určení výše náhrady soudem podle spravedlivého uvážení, nelze‑li ji přesně určit).
+- *Související ustanovení téhož zákona:* § 2910 (porušení zákona), § 2952 (rozsah náhrady), § 2919 (obohacení po promlčení).
+- *Související předpisy:* zák. č. 141/1961 Sb., tr. řád (zajištění nároku poškozeného, adhezní řízení); zák. č. 40/2009 Sb., tr. zák. (majetkové trestné činy).
+- *Judikatura:* NS 25 Cdo 3179/2024 (k vyčíslení nemajetkové újmy úvahou soudu); obecně nosný závěr, že § 2955 dopadá tam, kde existence škody je prokázána, ale její přesná výše se vymyká přesnému určení (tehdy soud rozhodne podle spravedlivého uvážení).
+
+**4. Subsumpce.** Pachatel měl z úmyslného trestného činu (podvod) majetkový prospěch a za něj nabyl konkrétní věci (hodinky, auto). § 2954 umožňuje soudu rozhodnout o uspokojení poškozeného z těchto věcí a zakázat pachateli s nimi nakládat — i kdyby jinak nepodléhaly výkonu rozhodnutí. Nelze‑li přesnou výši škody určit (následné ztráty), užije se § 2955 a soud ji stanoví spravedlivým uvážením. Existence škody však musí být prokázána.
+
+**5. Řešení.** Poškozený podá návrh dle § 2954 (typicky v součinnosti s trestním/adhezním řízením) na zajištění věcí a jejich vázanost do uspokojení nároku. Výši náhrady, kterou nelze přesně určit, stanoví soud dle § 2955. Procesně musí poškozený prokázat základ nároku a souvislost věcí s prospěchem z činu; samotnou výši pak nemusí prokazovat „na korunu".
+
+**6. Varianty.** (a) Trestný čin byl nedbalostní, nikoli úmyslný — § 2954 se neuplatní (vyžaduje úmysl); poškozený má jen běžnou náhradu škody. (b) Výši škody lze přesně vyčíslit znalcem — § 2955 nelze použít, neboť ten je pro situace, kdy přesné určení není možné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Věci pachatele nelze postihnout, nepodléhají výkonu rozhodnutí." Neutralizace: § 2954 výslovně umožňuje uspokojení i z věcí, které jinak výkonu rozhodnutí nepodléhají, byly‑li nabyty z prospěchu úmyslného trestného činu.
+- *Protiargument:* „Výši škody poškozený neprokázal přesně, nárok nelze přiznat." Neutralizace: § 2955 dovoluje soudu určit výši spravedlivým uvážením, je‑li prokázán základ nároku; nejde o důvod k zamítnutí.
+- *Slabé místo:* nutnost prokázat úmyslnost činu a souvislost konkrétních věcí s majetkovým prospěchem; § 2955 nelze zneužít k obejití důkazu existence (nikoli jen výše) škody.
+
+#### H. Praktický závěr
+
+§ 2954 dává poškozenému z úmyslného majetkového trestného činu silný nástroj k zajištění uspokojení i z jinak nepostižitelných věcí; § 2955 umožňuje soudu určit obtížně vyčíslitelnou výši úvahou. Základ nároku je však třeba prokázat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prokázat úmyslný trestný čin a majetkový prospěch z něj (§ 2954).
+- [ ] Identifikovat konkrétní věci nabyté z prospěchu a navrhnout jejich vázanost.
+- [ ] Koordinovat s adhezním/trestním řízením a zajištěním majetku.
+- [ ] Tam, kde nelze výši přesně určit, navrhnout postup dle § 2955 (spravedlivé uvážení).
+
+**Typicky rozhodné důkazy / podklady:** trestní spis a odsuzující rozsudek, doklady o nabytí věcí z prospěchu činu, znalecká ocenění, přehled a zajištění majetku pachatele, podklady k výši škody.
 
 ### Pododdíl 2 — Náhrada újmy na přirozených právech člověka (§ 2956—2971)
 
@@ -506,6 +830,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [25 Cdo 3397/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71967919B96A266AC1258CC3004D3592?openDocument) — *Nemajetková újma (o. z.) Znalecký posudek*
 - *NS* [25 Cdo 3512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E6C4D3015E0E100C1258CB6004D35BF?openDocument) — *Přípustnost dovolání Dokazování Ztížení společenského uplatnění*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mladá houslistka utrpí při dopravní nehodě otevřenou zlomeninu levé ruky s trvalým omezením hybnosti prstů. Prodělá dvě operace a roční rehabilitaci (bolest), navíc už nemůže profesionálně hrát (trvalý následek). Žaluje řidiče o bolestné a ztížení společenského uplatnění. Důkazy: lékařská dokumentace, znalecký posudek dle Metodiky NS, doklady o dosavadní umělecké kariéře.
+
+**2. Právní otázka.** V jakém rozsahu odčiní škůdce dle § 2956—2958 vytrpěné bolesti a ztížení společenského uplatnění a jak se určí výše, nelze‑li ji stanovit přesně (zásady slušnosti)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2956 (náhrada majetkové i nemajetkové újmy vč. duševních útrap při zásahu do přirozeného práva), § 2957 (okolnosti zvláštního zřetele hodné — úmysl, lest, zneužití závislosti, diskriminace, obava ze ztráty života), § 2958 (bolestné a ztížení společenského uplatnění; není‑li možné určit, dle zásad slušnosti).
+- *Související ustanovení téhož zákona:* § 2951 odst. 2 (zadostiučinění), § 2960 (náklady léčení), § 2962—2963 (ztráta výdělku), § 2918 (spoluúčast).
+- *Související předpisy:* Metodika NS k náhradě nemajetkové újmy na zdraví (Cpjn 14/2014) — výpočet bodů a hodnoty bodu.
+- *Judikatura:* NS 25 Cdo 3179/2024, 30 Cdo 2794/2025, 25 Cdo 3035/2024 (bolestné a ZSU jako samostatné nároky, určení dle Metodiky a zásad slušnosti); NS 25 Cdo 3512/2024 (dokazování rozsahu ZSU); NS 21 Cdo 2130/2025 (ZSU u pracovního úrazu).
+
+**4. Subsumpce.** Zlomenina a operace zakládají nárok na bolestné (§ 2958) — vytrpěné bolesti se ohodnotí dle Metodiky NS bodovým systémem. Trvalé omezení hybnosti prstů, které zmařilo profesionální hudební dráhu, je „překážkou lepší budoucnosti" — ztížení společenského uplatnění; vzhledem k výjimečnému uplatnění (koncertní hraní) lze základní hodnocení dle Metodiky modifikovat. Okolnosti zvláštního zřetele (§ 2957) zde nejsou (nehoda z nedbalosti), takže se náhrada nezvyšuje z tohoto titulu.
+
+**5. Řešení.** Soud přizná bolestné dle bodového ohodnocení a ZSU zohledňující ztrátu profesní perspektivy; výši, kterou nelze přesně určit, stanoví dle zásad slušnosti (§ 2958 in fine). Metodika NS je vodítkem, nikoli závazným stropem — soud může u mimořádných následků náhradu individualizovat. Procesně je klíčový znalecký posudek a doložení dosavadní kariéry.
+
+**6. Varianty.** (a) Škůdce způsobil zranění úmyslně, se zneužitím závislosti poškozené — § 2957 přikazuje náhradu přiměřeně zvýšit. (b) Poškozená se na vzniku úrazu spolupodílela (nepřipoutala se) — náhrada se poměrně sníží dle § 2918.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náhrada je dána jen do výše bodů dle Metodiky NS." Neutralizace: Metodika je nezávazné doporučení; § 2958 ukládá plné vyvážení újmy a u mimořádných následků dovoluje individualizaci nad rámec bodů (zásady slušnosti).
+- *Protiargument:* „ZSU nelze přiznat, poškozená si najde jiné uplatnění." Neutralizace: ZSU odčiňuje ztrátu konkrétní lepší budoucnosti (profesionální hra), nikoli úplnou nemožnost jakéhokoli uplatnění; rozhoduje zmaření reálné perspektivy.
+- *Slabé místo:* subjektivita ocenění a riziko nejednotnosti; bez kvalitního znaleckého posudku a doložení kariéry hrozí podhodnocení ZSU.
+
+#### H. Praktický závěr
+
+Při ublížení na zdraví se hradí bolestné (vytrpěné bolesti) i ztížení společenského uplatnění (trvalé následky), s plným vyvážením újmy; Metodika NS slouží jako vodítko, nikoli pevný strop, a mimořádné okolnosti (§ 2957) náhradu zvyšují.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oddělit bolestné (přechodné bolesti) od ZSU (trvalé následky) — § 2958.
+- [ ] Opatřit znalecký posudek dle Metodiky NS a zvážit individualizaci u mimořádných následků.
+- [ ] Zkoumat okolnosti zvláštního zřetele (§ 2957) jako důvod zvýšení.
+- [ ] Posoudit spoluzavinění (§ 2918) a souběh s náklady léčení a ztrátou výdělku.
+
+**Typicky rozhodné důkazy / podklady:** kompletní lékařská dokumentace, znalecký posudek (bodové ohodnocení), doklady o dosavadním a zmařeném uplatnění, podklady k okolnostem vzniku úrazu.
+
 ### § 2959 — Smrt blízké osoby
 
 > Při usmrcení nebo zvlášť závažném ublížení na zdraví odčiní škůdce duševní útrapy manželu, rodiči, dítěti nebo jiné osobě blízké peněžitou náhradou vyvažující plně jejich utrpení. Nelze-li výši náhrady takto určit, stanoví se podle zásad slušnosti.
@@ -536,6 +896,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
   > „Závěr odvolacího soudu, že takový stav nelze považovat za zvlášť závažné ublížení na zdraví ve smyslu § 2959 o. z., je v souladu s výkladem tohoto ustanovení ustálenou judikaturou."
 - *NS* [7 Tdo 557/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0426C40A69702600C1258B8E004D3FC6?openDocument) — *Nemajetková újma*
   > „Napadl výrok o náhradě nemajetkové újmy týkající se poškozených J. S., D. S. a E. S. Odkázal na důvod dovolání uvedený v § 265b odst. 1 písm. h) tr. ř. Namítl nesprávné hmotně právní posouzení otázky výše náhrady nemajetkové újmy podle § 2959 občanského zákoníku (dále jen „o. z.“)."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při dopravní nehodě zaviněné cizím řidičem zahyne otec dvou nezletilých dětí a manžel. Pozůstalí (manželka, dvě děti, navíc rodiče zemřelého, s nimiž žil v úzkém vztahu) se domáhají náhrady duševních útrap. Žalovaná pojišťovna namítá, že nárok rodičů dospělého syna je nadhodnocený a že chybí „pevná tabulka". Důkazy: úmrtní list, doklady o rodinných vazbách, znalecký posudek (psycholog), trestní spis k zavinění.
+
+**2. Právní otázka.** Komu a v jaké výši náleží náhrada duševních útrap při usmrcení blízké osoby dle § 2959, je‑li výše určována „peněžitou náhradou vyvažující plně utrpení", resp. dle zásad slušnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2959 — při usmrcení nebo zvlášť závažném ublížení na zdraví odčiní škůdce duševní útrapy manželu, rodiči, dítěti nebo jiné osobě blízké peněžitou náhradou vyvažující plně jejich utrpení; nelze‑li určit, dle zásad slušnosti.
+- *Související ustanovení téhož zákona:* § 22 (osoba blízká), § 2956—2958 (nemajetková újma na zdraví), § 2961 (náklady pohřbu), § 2966 (renta pozůstalým), § 2910 (základ odpovědnosti).
+- *Související předpisy:* zák. č. 30/2024 Sb. (povinné ručení — plnění pojistitele za škůdce).
+- *Judikatura:* NS 25 Cdo 3525/2024 a 25 Cdo 630/2024 (§ 2959 je norma s relativně neurčitou hypotézou; soud vymezí výši v každém případě individuálně dle okolností); NS 25 Cdo 1119/2024 (vymezení „zvlášť závažného ublížení na zdraví"); NS 25 Cdo 2334/2024 (sekundární oběť — duševní útrapy dle § 2959, nikoli škoda na zdraví dle § 2958); Pl. ÚS 14/24 (újma druhotné oběti se posuzuje dle § 2959).
+
+**4. Subsumpce.** Manželka, děti i rodiče zemřelého spadají do okruhu oprávněných (§ 2959 + § 22 — osoby blízké). Usmrcení je „škodnou událostí" zakládající nárok na peněžitou náhradu vyvažující plně jejich utrpení. Výše není stanovena pevnou částkou — § 2959 má relativně neurčitou hypotézu, takže soud individuálně zohlední intenzitu vztahu, věk dětí, náhlost ztráty a okolnosti. Sporná je relace mezi nároky jednotlivých pozůstalých.
+
+**5. Řešení.** Soud přizná každému z pozůstalých samostatnou náhradu odstupňovanou dle blízkosti a intenzity vztahu (orientačně manžel a rodiče nezletilých dětí typicky vyšší částky, s úpravami dle okolností), přičemž nejde o mechanické sazby, ale o individuální úvahu (NS 25 Cdo 630/2024). U rodičů dospělého syna se zohlední skutečná blízkost soužití. Procesně je vhodný znalecký (psychologický) posudek a doložení vztahů.
+
+**6. Varianty.** (a) Místo usmrcení jde o „zvlášť závažné ublížení na zdraví" (trvalý vegetativní stav) — § 2959 dopadá i sem, oprávněni jsou blízcí žijícího poškozeného. (b) Pozůstalý žil se zemřelým ve značném odcizení — intenzita vztahu je nižší, náhrada se odpovídajícím způsobem sníží.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez pevné tabulky nelze výši určit, nárok je nevyčíslitelný." Neutralizace: § 2959 záměrně svěřuje výši úvaze soudu (zásady slušnosti); judikatura NS poskytuje orientační rámec a kritéria (NS 25 Cdo 3525/2024).
+- *Protiargument:* „Rodičům dospělého dítěte náhrada nepřísluší." Neutralizace: § 2959 jmenuje rodiče výslovně; rozhoduje skutečná blízkost vztahu, nikoli zletilost potomka.
+- *Slabé místo:* značná míra soudního uvážení vede k nejednotnosti; bez doložené intenzity vztahu a okolností ztráty hrozí podhodnocení nebo naopak neúměrné nároky.
+
+#### H. Praktický závěr
+
+Při usmrcení nebo zvlášť závažném ublížení na zdraví náleží blízkým osobám peněžitá náhrada duševních útrap, jejíž výši určuje soud individuálně dle zásad slušnosti; rozhoduje intenzita vztahu a okolnosti, nikoli pevná sazba.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit okruh oprávněných osob blízkých (§ 2959 + § 22) a doložit intenzitu vztahu.
+- [ ] Odlišit § 2959 (duševní útrapy blízkých) od § 2958 (újma přímo poškozeného).
+- [ ] Argumentovat orientačním rámcem judikatury NS a okolnostmi zvláštního zřetele.
+- [ ] Souběžně uplatnit náklady pohřbu (§ 2961) a rentu pozůstalým (§ 2966).
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list a doklad o zavinění, listiny a výpovědi k rodinným vazbám a soužití, znalecký psychologický posudek, doklady o dopadu ztráty na pozůstalé.
 
 ### § 2960—2966 — Náhrada nákladů a ztráty výdělku
 
@@ -603,6 +999,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [25 Cdo 3838/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E9F555075963613C12585EB0018BEBB?openDocument) — *Náhrada škody Náklady léčení*
   > „Náklady spojené s péčí o zdraví (§ 2960 o. z.) zahrnují vedle výdajů na léčebnou péči poškozeného, která není hrazena z prostředků veřejného zdravotního pojištění, též výdaje na účelně vynaloženou osobní péči, která nemá jen lékařský charakter (např."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po dopravní nehodě zůstává poškozený rok v pracovní neschopnosti, poté se vrací do méně placené práce (trvale snížená výdělečná schopnost). O nemocného celou dobu pečuje doma manželka (osobní péče nad rámec lékařské). Poškozený žaluje rozdíl výdělku a náklady péče; manželka chce uhradit svou péči. Důkazy: výplatní pásky před/po, doklad o nemocenské, lékařské zprávy o rozsahu péče, evidence hodin osobní péče.
+
+**2. Právní otázka.** Jaké majetkové nároky vznikají při ublížení na zdraví dle § 2960—2966 (náklady péče, ztráta výdělku po dobu a po skončení PN, renta) a kdo je jejich nositelem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2960 (účelně vynaložené náklady péče o zdraví/osobu/domácnost tomu, kdo je vynaložil; záloha), § 2962 (ztráta na výdělku po dobu PN), § 2963 (ztráta po skončení PN, renta, zvýšená námaha), § 2964 (ztráta na důchodu), § 2965 (náhrada za zmařené bezplatné práce), § 2966 (renta pozůstalým při usmrcení).
+- *Související ustanovení téhož zákona:* § 2952 (skutečná škoda + ušlý zisk), § 2956—2958 (nemajetková újma), § 2967 (limity náhrady pozůstalým).
+- *Související předpisy:* zák. č. 187/2006 Sb. o nemocenském pojištění; vyhl. č. 505/2006 Sb. (analogie pro ocenění osobní péče); zák. č. 155/1995 Sb. o důchodovém pojištění.
+- *Judikatura:* NS 25 Cdo 3838/2018 a 25 Cdo 3053/2021 (náklady péče dle § 2960 zahrnují i účelnou osobní péči nelékařské povahy, oceňovanou analogicky dle vyhlášky o sociálních službách); NS 25 Cdo 3578/2020 a 25 Cdo 3542/2023 (rozsah § 2960); NS 25 Cdo 2061/2024 a 25 Cdo 1906/2024 (náhrada za ztrátu na výdělku).
+
+**4. Subsumpce.** Rozdíl mezi výdělkem před úrazem a nemocenskou po dobu PN je náhradou dle § 2962. Po návratu do méně placené práce vzniká renta dle § 2963 (rozdíl výdělků, případně i zvýšená námaha). Osobní péče manželky je „náklad spojený s péčí o osobu poškozeného" dle § 2960 — náleží tomu, kdo ji vynaložil (manželce), a oceňuje se analogicky dle vyhlášky o sociálních službách (NS 25 Cdo 3053/2021). Sporný bývá rozsah „účelnosti" a počet hodin péče.
+
+**5. Řešení.** Soud přizná poškozenému ztrátu výdělku za PN (§ 2962) a rentu po jejím skončení (§ 2963); manželce náhradu za osobní péči (§ 2960), vyčíslenou analogicky dle vyhlášky. Na náklady péče lze žádat zálohu. Procesně je rozhodná evidence příjmů, lékařské vymezení potřeby péče a doložení hodin; každý nárok má svého nositele.
+
+**6. Varianty.** (a) Úraz vede k invaliditě a později ke snížení starobního důchodu — vzniká i nárok na náhradu za ztrátu na důchodu (§ 2964). (b) Poškozený dříve bezplatně vypomáhal v domácnosti rodičů a po úrazu nemůže — § 2965 přiznává náhradu této jiné osobě, oč přišla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Péči poskytuje manželka v rámci rodinné solidarity, nejde o nahraditelný náklad." Neutralizace: § 2960 zahrnuje i osobní péči nelékařské povahy a náleží tomu, kdo ji fakticky vynaložil; oceňuje se analogicky (NS 25 Cdo 3838/2018).
+- *Protiargument:* „Po návratu do práce už žádná škoda nevzniká." Neutralizace: § 2963 přiznává rentu i při sníženém výdělku a při zvýšené námaze; rozhodný je rozdíl oproti stavu bez úrazu.
+- *Slabé místo:* prokázání rozsahu a účelnosti osobní péče (počet hodin) a hypotetického budoucího výdělku; bez pečlivé evidence a lékařského vymezení hrozí krácení nároku.
+
+#### H. Praktický závěr
+
+Při ublížení na zdraví vzniká soubor majetkových nároků: náklady péče (i osobní, § 2960), ztráta výdělku po dobu i po skončení PN (§ 2962—2963), ztráta na důchodu (§ 2964) a při usmrcení renta pozůstalým (§ 2966). Každý nárok má svého nositele a vyžaduje samostatné prokázání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyčíslit ztrátu na výdělku po dobu PN (§ 2962) a rentu po jejím skončení (§ 2963).
+- [ ] U nákladů péče (§ 2960) určit nositele (kdo péči vynaložil) a ocenit ji (analogie vyhlášky).
+- [ ] Zvážit nárok na zálohu a budoucí rentu/zajištění pohledávky (§ 2963 odst. 3).
+- [ ] Posoudit ztrátu na důchodu (§ 2964) a náhradu dle § 2965/§ 2966.
+
+**Typicky rozhodné důkazy / podklady:** výplatní/příjmové doklady před a po úrazu, doklad o nemocenské a invaliditě, lékařské vymezení potřeby a rozsahu péče, evidence hodin osobní péče, podklady k důchodovým nárokům.
+
 ### § 2967—2971 — Další specifika
 
 **§ 2967**:
@@ -645,6 +1077,42 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [25 Cdo 992/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02840C58D600FBF5C12583A000221ECC?openDocument) — *Náhrada škody Věc/cena zvláštní obliby (o. z.) [ Náhrady při ublížení na zdraví a při us…*
 - *NS* [25 Cdo 1545/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D665DD60658F4A28C1258BDD0052C49E?openDocument) — *Advokacie Advokát Náhrada škody Náhrada nemajetkové újmy (o. z.) Dobré mravy*
 - *NS* [30 Cdo 1479/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8FDA7CC6127AFCDC1258BC500529810?openDocument) — *Skutečná škoda [ Škoda ]*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soused ze zjevné zášti ke stěhujícím se obyvatelům úmyslně rozbije kladivem zahradní keramickou plastiku, kterou poškozený zdědil po babičce (běžná tržní cena je nízká, ale jde o nenahraditelnou rodinnou památku). Při téže události zraní psa poškozeného; veterinární léčba (45 000 Kč) výrazně převýší „cenu" psa. Poškozený žádá cenu zvláštní obliby a plnou náhradu veterinárních nákladů. Důkazy: fotodokumentace, znalecké ocenění, veterinární účty, svědectví o pohnutce škůdce.
+
+**2. Právní otázka.** Lze při svévolném/škodolibém poškození věci přiznat cenu zvláštní obliby (§ 2969 odst. 2) a hradí se účelné náklady na léčení zvířete i tehdy, převyšují‑li jeho cenu (§ 2970)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2969 (škoda na věci dle obvyklé ceny; při svévoli/škodolibosti cena zvláštní obliby), § 2970 (účelné náklady léčení zraněného zvířete, i když převyšují jeho cenu, jednal‑li by tak rozumný chovatel), § 2967 (limity náhrady pozůstalým), § 2968 (odbytné místo důchodu), § 2971 (nemajetková újma každému, kdo újmu důvodně pociťuje jako osobní neštěstí, při hrubé nedbalosti/zavrženíhodné pohnutce).
+- *Související ustanovení téhož zákona:* § 2951 (způsob náhrady), § 2952 (rozsah), § 494—495 (věc, zvíře jako živý tvor — § 494).
+- *Související předpisy:* zák. č. 246/1992 Sb. na ochranu zvířat proti týrání.
+- *Judikatura:* NS 25 Cdo 992/2018 (cena zvláštní obliby dle § 2969 odst. 2 — předpoklady a její vztah k obvyklé ceně); obecně nosný závěr, že náklady léčení zvířete dle § 2970 nejsou neúčelné, i když převyšují jeho cenu, vynaložil‑li by je rozumný chovatel.
+
+**4. Subsumpce.** Plastiku škůdce zničil ze zjevné škodolibosti (zášť) — naplněn je § 2969 odst. 2, takže náhrada zahrnuje i cenu zvláštní (citové) obliby nad rámec nízké obvyklé ceny. U zranění psa § 2970 výslovně připouští účelné náklady léčení převyšující cenu zvířete, hradil‑li by je rozumný chovatel v postavení poškozeného. Sporné je vyčíslení ceny zvláštní obliby a posouzení „rozumnosti" nákladné veterinární péče.
+
+**5. Řešení.** Soud přizná u plastiky cenu zvláštní obliby (§ 2969 odst. 2) díky prokázané škodolibé pohnutce; u psa plnou účelnou veterinární náhradu (§ 2970), shledá‑li péči rozumnou. Při zvlášť zavrženíhodné pohnutce lze zvážit i náhradu nemajetkové újmy dle § 2971. Procesně poškozený prokazuje pohnutku škůdce, citový vztah k věci a účelnost nákladů.
+
+**6. Varianty.** (a) Plastiku škůdce poškodil z pouhé nedbalosti (neúmyslně) — § 2969 odst. 2 se neuplatní, hradí se jen obvyklá (nízká) cena. (b) Veterinární zákrok byl zjevně nepřiměřený (zachraňování bezvýchodného stavu za statisíce) — část nákladů může soud označit za neúčelnou ve smyslu § 2970.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náhrada se řídí jen obvyklou cenou věci." Neutralizace: při svévoli či škodolibosti § 2969 odst. 2 výslovně přiznává cenu zvláštní obliby nad rámec obvyklé ceny.
+- *Protiargument:* „Léčba psa převyšuje jeho hodnotu, náklady jsou neúčelné." Neutralizace: § 2970 stanoví, že náklady nejsou neúčelné, i když převyšují cenu zvířete, vynaložil‑li by je rozumný chovatel; zvíře není pouhá věc (§ 494).
+- *Slabé místo:* dokazování škodolibé pohnutky a citového vztahu k věci; u § 2971 přísné předpoklady (hrubá nedbalost/zavrženíhodná pohnutka) mohou nárok na nemajetkovou újmu vyloučit.
+
+#### H. Praktický závěr
+
+Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštní obliby (§ 2969 odst. 2); účelné náklady léčení zraněného zvířete se hradí, i když převyšují jeho cenu (§ 2970). Za zvlášť zavrženíhodných okolností lze přiznat i nemajetkovou újmu dle § 2971.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prokázat svévoli/škodolibost škůdce jako podmínku ceny zvláštní obliby (§ 2969 odst. 2).
+- [ ] U zvířete doložit účelnost léčebných nákladů z pohledu rozumného chovatele (§ 2970).
+- [ ] Zvážit nárok na nemajetkovou újmu dle § 2971 (hrubá nedbalost/zavrženíhodná pohnutka).
+- [ ] U pozůstalých respektovat limity náhrady (§ 2967) a možnost odbytného (§ 2968).
+
+**Typicky rozhodné důkazy / podklady:** znalecké ocenění obvyklé ceny i ceny zvláštní obliby, fotodokumentace, veterinární účty a vyjádření o účelnosti péče, svědectví a podklady k pohnutce škůdce.
 
 ---
 

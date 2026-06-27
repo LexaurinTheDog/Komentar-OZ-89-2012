@@ -83,6 +83,42 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - *NS* [21 Cdo 2340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBCED09BB8C0A660C1258652001DDDD7?openDocument) — *Pravomoc soudu Vojenská služba Náhrady při ublížení na zdraví [ Náhrady při ublížení na…*
   > „Je přitom mimo pochybnost, že všechny nároky, které žalobce žalobou uplatňuje, mají soukromoprávní povahu (ustanovení právního řádu upravující vzájemná práva a povinnosti osob vytvářejí ve svém souhrnu soukromé právo - § 1 odst. 1 věta první zákona č. 89/2012 Sb., občanský zákoník)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost A (zhotovitel) provedla pro objednatele B přestavbu provozovny, aniž k danému typu stavebních prací měla potřebné stavební povolení; objednatel B nyní odmítá doplatit cenu díla s tím, že smlouva o dílo je neplatná, protože práce byly provedeny v rozporu s veřejnoprávní úpravou (stavební zákon). Účastníci: A = podnikatel-zhotovitel, B = objednatel. Právně významné je, že dílo bylo fakticky předáno a užíváno; spornou skutečností je dopad chybějícího veřejnoprávního povolení na soukromoprávní platnost smlouvy. Důkazy: smlouva o dílo, předávací protokol, stavební dokumentace, případné rozhodnutí stavebního úřadu.
+
+**2. Právní otázka.** Způsobuje porušení normy veřejného práva (chybějící stavební povolení) bez dalšího neplatnost soukromoprávní smlouvy o dílo a zaniká tím nárok zhotovitele na zaplacení ceny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 1 — uplatňování soukromého práva je nezávislé na uplatňování práva veřejného; § 1 odst. 2 — princip dispozitivnosti a meze (dobré mravy, veřejný pořádek).
+- *Související ustanovení téhož zákona:* § 580 (neplatnost pro rozpor se zákonem jen tehdy, vyžaduje-li to smysl a účel zákona), § 588 (absolutní neplatnost pro zjevný rozpor s veřejným pořádkem nebo dobrými mravy), § 5 odst. 2 (chybějící oprávnění samo o sobě platnost nezpochybňuje).
+- *Související předpisy:* stavební zákon (veřejnoprávní povinnost povolení); živnostenský zákon.
+- *Judikatura:* NS 26 Cdo 2288/2025 (citováno výše) — závěr o „nekonkurující povaze" rozhodnutí stavebního úřadu je v souladu s § 1 odst. 1 větou druhou o. z.; NS 25 Cdo 1241/2024 — soukromoprávní povaha nároku se posuzuje podle § 1 odst. 1 nezávisle na veřejnoprávní regulaci.
+
+**4. Subsumpce.** Znak „nezávislost soukromého a veřejného práva" je naplněn: smlouva o dílo je soukromoprávní jednání. Porušení stavebního zákona je porušením veřejnoprávní povinnosti, které samo o sobě nezakládá soukromoprávní neplatnost — k té by muselo dojít cestou § 580/§ 588 (rozpor s dobrými mravy nebo veřejným pořádkem). Sporné je, zda účel veřejnoprávní normy vyžaduje neplatnost; zpravidla nikoliv, protože stavební zákon sleduje veřejnoprávní (nikoliv kontraktační) cíle.
+
+**5. Řešení.** Smlouva o dílo zůstává platná; nárok A na zaplacení ceny trvá. B se nemůže zprostit povinnosti pouhým poukazem na chybějící povolení. Zhotoviteli ovšem hrozí veřejnoprávní sankce a případná odpovědnost za škodu. Procesně A žaluje na zaplacení ceny díla; B by musel tvrdit a prokázat konkrétní rozpor s dobrými mravy/veřejným pořádkem, nikoliv jen porušení veřejnoprávní normy.
+
+**6. Varianty.** (a) Pokud by předmětem smlouvy bylo plnění, jehož samotný obsah zákon výslovně zakazuje (např. dílo směřující k obejití kogentní ochrany), šlo by o neplatnost podle § 580/§ 588. (b) Pokud by chybějící povolení vedlo k ohrožení života/zdraví třetích osob (rozpor s veřejným pořádkem), mohl by soud dovodit absolutní neplatnost i bez návrhu (§ 588).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Co je v rozporu se zákonem, je neplatné." Neutralizace: § 580 podmiňuje neplatnost smyslem a účelem zákona; OZ opustil automatickou neplatnost pro každý rozpor s veřejnoprávní normou (§ 1 odst. 1).
+- *Protiargument 2:* „Ujednání odporuje veřejnému pořádku." Neutralizace: veřejný pořádek je užší než pouhá nezákonnost; je třeba prokázat zásah do fundamentů právního řádu, ne jen porušení správního předpisu.
+- *Slabé místo:* hranice mezi „pouhým" porušením veřejného práva a rozporem s veřejným pořádkem je hodnotová a judikatura ji vykládá kazuisticky; argumentaci je nutné vždy navázat na konkrétní účel porušené normy.
+
+#### H. Praktický závěr
+
+V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě neplatnost soukromoprávního jednání; neplatnost je nutné samostatně dovodit přes § 580/§ 588. Dispozitivnost je pravidlem — kogentnost se dovozuje z výslovného zákazu nebo ze smyslu a účelu normy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o soukromoprávní jednání (§ 1 odst. 1)?
+- [ ] Existuje výslovný zákonný zákaz, nebo plyne kogentnost ze smyslu a účelu?
+- [ ] Je dán rozpor s dobrými mravy, veřejným pořádkem nebo právem o postavení osob (§ 1 odst. 2)?
+- [ ] Vyžaduje účel porušené veřejnoprávní normy soukromoprávní neplatnost (§ 580)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a její obsah, znění a účel údajně porušené normy, doklady o veřejnoprávních povoleních, předávací/plnící dokumentace.
+
 ---
 
 ### § 2 — Hodnotově orientovaný výklad zákona
@@ -131,6 +167,42 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
   > „Rozhodovací praxe Nejvyššího soudu se ohledně otázky rozporu výkonu práva s dobrými mravy (§ 2 odst. 3 o. z., shodně jako ve smyslu § 3 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění účinném do 31."
 - *NS* [25 Cdo 753/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C2A8F3584D542A5C1258AF5004D3118?openDocument) — *Ochrana osobnosti Dobré mravy Dovolací důvody Přípustnost dovolání Dokazování Promlčení*
   > „K použití korektivu dobrých mravů ve smyslu § 2 odst. 3 o. z. (obdobně podle dřívějšího § 3 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pronajímatel se domáhá vyklizení bytu a doplatku nájemného; doslovné znění ujednání v nájemní smlouvě by vedlo k tomu, že nájemce (samoživitelka s nezletilým dítětem) ztrácí bydlení i přesto, že dluh vznikl v důsledku přechodné a již odstraněné životní krize. Soud zvažuje, zda doslovný výklad ujednání odpovídá smyslu úpravy a zda jeho aplikace nevede k výsledku urážejícímu obyčejné lidské cítění. Účastníci: pronajímatel a nájemce. Důkazy: nájemní smlouva, doklady o úhradách, doklady o sociální situaci.
+
+**2. Právní otázka.** Lze ustanovení vyložit a aplikovat striktně podle jeho slov, vede-li takový výklad k výsledku rozpornému se smyslem normy, ústavním pořádkem nebo zásadou humanity podle § 2 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 (ústavně konformní výklad), § 2 odst. 2 (teleologický výklad, zákaz dovolávat se slov proti smyslu), § 2 odst. 3 (zákaz krutého/bezohledného výkladu).
+- *Související ustanovení téhož zákona:* § 3 (vůdčí zásady), § 6 (poctivost), § 8 (zákaz zneužití práva), § 547—554 (výklad právního jednání toutéž metodologií).
+- *Související předpisy:* Listina základních práv a svobod, ústavní pořádek (čl. 1, čl. 4, čl. 10 LZPS).
+- *Judikatura:* NS 30 Cdo 2893/2025 a NS 22 Cdo 2350/2025 (citováno výše) — § 2 odst. 3 zakotvuje zásadu souladného výkonu práv s dobrými mravy jako odraz ústavního požadavku spravedlivého řešení, k němuž se přihlíží i při konstitutivním rozhodnutí; ÚS III. ÚS 1782/15 — vyhovění žalobě by bylo v rozporu s § 2 odst. 3 o. z.
+
+**4. Subsumpce.** Jazykový výklad ujednání (odst. 2 první teze) vede k vyklizení. Tento výsledek je třeba poměřit s úmyslem zákonodárce a smyslem ochrany nájemce; je-li doslovný výklad v rozporu se smyslem, „musí mu ustoupit" (odst. 1 věta druhá). Současně se posuzuje, zda výsledek není krutý ve smyslu odst. 3. Sporné je, zda intenzita dopadu dosahuje úrovně, která ospravedlňuje odklon od doslovného výkladu.
+
+**5. Řešení.** Soud upřednostní výklad souladný se smyslem normy a s ústavním pořádkem; pokud doslovné znění vede k nepřiměřené tvrdosti, koriguje výsledek prostřednictvím § 2 (ve spojení s § 8/§ 6, jde-li o výkon práva). To neznamená libovůli — odklon musí být odůvodněn ratiem legis, nikoliv subjektivním cítěním soudce. Procesně je vhodné námitku rozporu se smyslem a s § 2 odst. 3 výslovně uplatnit.
+
+**6. Varianty.** (a) Je-li znění normy jednoznačné a její účel se s doslovným výkladem shoduje, nelze se „dovolávat slov proti smyslu" obráceně ve prospěch nájemce — § 2 nedovoluje výklad contra legem bez opory ve smyslu. (b) Pokud by dluh vznikl úmyslným neplněním, oslabuje se prostor pro korekci (chybí hodnotový důvod k ochraně).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Výklad podle § 2 otevírá soudcovskou libovůli." Neutralizace: odst. 2 stanoví primát jazykového a teleologického výkladu; odklon je možný jen při prokázaném rozporu se smyslem a vyžaduje odůvodnění.
+- *Protiargument 2:* „Zásada humanity (odst. 3) je jen proklamace." Neutralizace: judikatura (NS 30 Cdo 2893/2025) označuje § 2 odst. 3 za kogentní ustanovení s reálným aplikačním dopadem.
+- *Slabé místo:* hranice mezi přípustným teleologickým výkladem a nepřípustným dotvářením práva je neostrá; je nutné rozlišovat výklad (§ 2) od analogie a soudcovského dotváření (§ 10).
+
+#### H. Praktický závěr
+
+§ 2 je interpretační test: nejprve jazykový a teleologický výklad, poté kontrola ústavní konformity a souladu s dobrými mravy a humanitou. Doslovný výklad není absolutní a musí ustoupit smyslu normy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existují dvě výkladové varianty? Vyber ústavně konformní (odst. 1).
+- [ ] Je doslovný výklad v souladu s úmyslem zákonodárce a smyslem normy (odst. 2)?
+- [ ] Nevede výsledek ke krutosti či bezohlednosti urážející obyčejné lidské cítění (odst. 3)?
+- [ ] Je případný odklon od doslovného znění řádně odůvodněn ratiem legis?
+
+**Typicky rozhodné důkazy / podklady:** znění a důvodová zpráva normy, ustálená judikatura k účelu ustanovení, skutkové okolnosti dopadu rozhodnutí na účastníky.
 
 ---
 
@@ -183,6 +255,42 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
   > „Odkázal na § 3 odst. 2 písm. a) a § 81 odst. 1 o. z. a na § 28 odst. 1, 2 a 3 písm. a), § 31 a § 34 odst. 1 a 3 zákona č."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel uplatní vůči dlužníkovi (vážně nemocný senior) námitku promlčení proti jeho nároku, ačkoliv to byl sám věřitel, kdo dlužníka ujišťoval, že lhůtu „není třeba hlídat". Dlužník namítá, že uplatnění promlčení odporuje vůdčím zásadám, zejména zákazu těžit z vlastní nepoctivosti a zásadě, že nikdo nesmí pro nedostatek rozumu či pro závislost svého postavení utrpět nedůvodnou újmu [§ 3 odst. 2 písm. c)]. Účastníci: věřitel a slabší dlužník. Důkazy: korespondence o ujištění, doklady o zdravotním a sociálním postavení.
+
+**2. Právní otázka.** Lze prostřednictvím vůdčích zásad § 3 (zejména písm. c) korigovat výkon formálně existujícího práva (námitky promlčení), jsou-li dány znaky využití slabšího postavení protistrany?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 (ochrana důstojnosti a svobody, zákaz bezdůvodné újmy druhým), § 3 odst. 2 písm. c) (zákaz těžit z nedostatku věku/rozumu/závislosti a ze slabosti druhého), písm. d) (pacta sunt servanda), písm. f) (nikomu nelze odepřít, co mu po právu náleží), § 3 odst. 3 (další zásady spravedlnosti).
+- *Související ustanovení téhož zákona:* § 2 odst. 3 (dobré mravy), § 6 (poctivost), § 8 (zákaz zneužití), § 1810 a násl. (ochrana slabší strany), § 81 a násl. (ochrana osobnosti).
+- *Související předpisy:* Listina (čl. 1, 10).
+- *Judikatura:* ÚS IV. ÚS 716/14, II. ÚS 804/14 (citováno výše) — možnost posoudit námitku promlčení prizmatem dobrých mravů a zásad § 3 odst. 1; ÚS II. ÚS 2678/14 — odkaz na § 3 odst. 2 písm. f) (nikomu nelze odepřít, co mu po právu náleží) ve spojení s § 8.
+
+**4. Subsumpce.** Vůdčí zásady samy o sobě nezakládají nárok, ale fungují jako interpretační a korektivní vodítko. Znak „těžení ze slabšího postavení" [písm. c)] je naplněn, prokáže-li se, že věřitel slabší stav protistrany využil. Zásada písm. d) (smlouvy se mají plnit) stojí proti dlužníkovi, zásada písm. c) a § 3 odst. 1 ve prospěch dlužníka — soud poměřuje. Sporné je, zda jednání věřitele dosahuje intenzity rozporu se zásadami.
+
+**5. Řešení.** Soud zásady § 3 použije jako výkladový rámec konkrétnějších institutů (dobré mravy § 2 odst. 3, zneužití § 8); samostatně z § 3 zpravidla výrok neopírá. Pravděpodobný výsledek: je-li prokázáno zneužití slabšího postavení, soud námitce promlčení nepřizná ochranu. Procesně je nutné tvrdit konkrétní skutečnosti, ne jen obecně odkázat na „zásady".
+
+**6. Varianty.** (a) Pokud dlužník nebyl ve slabším postavení a nebyl ujišťován, převáží pacta sunt servanda [písm. d)] a námitka promlčení obstojí. (b) Šlo-li o vztah dvou rovnocenných podnikatelů, klesá váha ochranných zásad písm. c).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 3 je jen deklarace bez normativního obsahu." Neutralizace: zásady mají interpretační a korektivní funkci a soudy je užívají jako oporu výkladu konkrétních norem (ÚS k § 3 odst. 1 výše).
+- *Protiargument 2:* „Pacta sunt servanda [písm. d)] brání korekci závazku." Neutralizace: zásada plnění smluv platí, dokud její prosazení nevede ke zneužití slabšího postavení nebo rozporu s dobrými mravy; jde o poměřování zásad.
+- *Slabé místo:* opřít výrok výlučně o § 3 je rizikové (chybí konkrétní skutková podstata); je nutné navázat na § 2 odst. 3, § 6, § 8 nebo zvláštní ochrannou normu.
+
+#### H. Praktický závěr
+
+§ 3 je katalog vůdčích zásad sloužící k výkladu a korekci aplikace konkrétních ustanovení. V praxi se zásady kombinují s konkrétní normou (dobré mravy, poctivost, zneužití, ochrana slabší strany), nikoli užívají izolovaně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Která konkrétní zásada § 3 odst. 2 je dotčena (písm. a–f)?
+- [ ] Existuje konkrétní norma, jejíž výklad zásada usměrňuje?
+- [ ] Jde o střet zásad (typicky písm. d versus písm. c / odst. 1)? Proveď poměření.
+- [ ] Jsou tvrzeny konkrétní skutečnosti, nejen obecný odkaz na „zásady"?
+
+**Typicky rozhodné důkazy / podklady:** doklady o postavení a zranitelnosti strany, komunikace mezi stranami, podklady k povaze a účelu uplatňovaného práva.
+
 ---
 
 ### § 4 — Domněnka rozumného člověka
@@ -220,6 +328,42 @@ OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že us
 - *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
   > „Podle § 4 odst. 1 o. z. lze od běžného (průměrného) člověka očekávat, že při zachování běžné opatrnosti nebude vstupovat do prostoru, kam setrvale stéká voda, a zvolí bezpečnější cestu, čemuž v tomto případě nic nebránilo."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující koupil ojeté vozidlo od osoby, která nebyla jeho vlastníkem (vozidlo bylo dříve zcizeno); kupní cena byla mírně podprůměrná, prodávající předložil pouze kopii technického průkazu a odmítl uvést, od koho vůz nabyl. Skutečný vlastník se nyní domáhá vydání vozidla. Kupující tvrdí dobrou víru. Účastníci: skutečný vlastník, neoprávněný prodávající, kupující. Důkazy: kupní smlouva, technický průkaz, inzerát, okolnosti prohlídky a uzavření obchodu.
+
+**2. Právní otázka.** Posuzuje se vědomost kupujícího o tom, že prodávající není vlastníkem, podle subjektivního stavu kupujícího, nebo podle standardu osoby případu znalé, která uváží okolnosti, jež jí musely být v jejím postavení zřejmé (§ 4 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 (domněnka rozumu průměrného člověka a běžné péče a opatrnosti), § 4 odst. 2 (konstruktivní vědomost — vědomost osoby případu znalé).
+- *Související ustanovení téhož zákona:* § 1109—1113 (nabytí od neoprávněného, dobrá víra), § 7 (domněnka dobré víry), § 556 odst. 1 (výklad projevu vůle podle rozumného adresáta), § 980 odst. 2 (dobrá víra v zápis).
+- *Související předpisy:* —
+- *Judikatura:* NS 23 Cdo 1837/2022 (citováno výše) — „modelovou" osobou je podle § 4 odst. 1 osoba průměrného rozumu počínající si s běžnou péčí a opatrností; NS 27 Cdo 1510/2021 — § 4 odst. 2 upravuje výklad pojmu „vědomost"; NS 25 Cdo 2136/2022 — od průměrného člověka lze očekávat běžnou opatrnost.
+
+**4. Subsumpce.** Standard § 4 je objektivní: kupující měl postupovat s běžnou péčí a opatrností. Okolnosti (jen kopie TP, odmítnutí sdělit nabývací titul, podprůměrná cena) jsou skutečnosti, které musely být kupujícímu v jeho postavení zřejmé; osoba případu znalá by pojala pochybnost o vlastnictví prodávajícího. Tím se aktivuje konstruktivní vědomost dle § 4 odst. 2. Sporné je, zda jednotlivé indicie ve svém souhrnu dosahují intenzity, při níž „měl vědět".
+
+**5. Řešení.** Dobrá víra kupujícího je vyvratitelná (§ 7); s ohledem na § 4 odst. 2 se kupujícímu přičítá vědomost, kterou by si osoba případu znalá osvojila. Pravděpodobný výsledek: nabytí od neoprávněného neobstojí, kupující není v dobré víře, vlastník se vydání domůže. Procesně musí ten, kdo dobrou víru popírá (vlastník), tvrdit a prokázat skutečnosti ji vylučující.
+
+**6. Varianty.** (a) Pokud by prodávající předložil originál TP, byl zapsán jako provozovatel a cena byla obvyklá, indicie pochybnosti by chyběly a dobrá víra by obstála. (b) Šlo-li by o nabytí v rámci běžného obchodního provozu od etablovaného autobazaru, standard opatrnosti by byl naplněn snáze.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Kupující subjektivně nic netušil." Neutralizace: § 4 odst. 2 přičítá vědomost, kterou by si osvojila osoba případu znalá; subjektivní nevědomost nestačí, jsou-li indicie zřejmé.
+- *Protiargument 2:* „Standard průměrného člověka nelze klást na laika." Neutralizace: § 4 odst. 1 stanoví běžnou (nikoli profesní) péči a opatrnost; jde o reálně dosažitelný standard, nikoli o odbornou znalost.
+- *Slabé místo:* posouzení, které okolnosti „musely být zřejmé", je skutkové a kazuistické; bez konkrétních důkazů o indiciích je závěr o konstruktivní vědomosti zranitelný.
+
+#### H. Praktický závěr
+
+§ 4 nastavuje objektivní měřítko: rozum a opatrnost průměrného člověka a konstruktivní vědomost. V praxi rozhoduje, co osoba v daném postavení měla a mohla z okolností poznat, nikoli co subjektivně tvrdí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaké okolnosti musely být osobě v jejím postavení zřejmé (§ 4 odst. 2)?
+- [ ] Jednala osoba s běžnou péčí a opatrností (§ 4 odst. 1)?
+- [ ] Spojuje zákon s vědomostí (či pochybností) konkrétní následek? (např. § 1109, § 980)
+- [ ] Kdo nese důkazní břemeno k vyvrácení dobré víry (§ 7)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace transakce, inzeráty a komunikace, znalecký posudek k obvyklé ceně, okolnosti prohlídky a předání věci.
+
 ---
 
 ### § 5 — Profesionální standard péče
@@ -255,6 +399,42 @@ To má dopady na:
   > „Podle odvolacího soudu žalobkyni jakožto realitní kanceláři podléhající režimu § 5 odst. 1 o. z. muselo být bez pochybností zřejmé, že B. podpisem smlouvy o spolupráci překračuje své zástupčí oprávnění, resp. že zástupčí oprávnění k uzavření smlouvy o spolupráci nemá, neboť nedisponoval plnou mocí od žalované."
 - *NS* [28 Cdo 568/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A639C0C01682AB29C1258B32004D43AC?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
   > „Podle § 5 o. z. kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Realitní kancelář (zprostředkovatel) zprostředkovala klientovi koupi nemovitosti, avšak neupozornila na zjevné riziko (v katastru zapsané věcné břemeno), které profesionál v oboru měl při běžné odborné péči odhalit. Klient utrpěl škodu a domáhá se její náhrady; kancelář se brání tím, že klient měl rizika zkontrolovat sám. Účastníci: realitní kancelář = profesionál podle § 5 odst. 1, klient = laik. Důkazy: zprostředkovatelská smlouva, výpis z katastru, komunikace, znalecké posouzení odborného standardu.
+
+**2. Právní otázka.** Posuzuje se péče zprostředkovatele podle obecného (průměrného) standardu, nebo podle vyššího profesního standardu příslušníka daného povolání či stavu, a koho tíží důkaz o vynaložení odborné péče?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 (kdo se přihlásí k odbornému výkonu, zavazuje se ke znalosti a pečlivosti spojené s povoláním; jinak „jde to k jeho tíži"), § 5 odst. 2 (chybějící oprávnění nezpochybňuje povahu/platnost jednání proti vůli dotčené strany).
+- *Související ustanovení téhož zákona:* § 4 (obecný standard průměrné osoby — § 5 jej zostřuje), § 2912 odst. 2 (porušení povinnosti odborníka), § 2913 (porušení smluvní povinnosti), § 6 (poctivost).
+- *Související předpisy:* zvláštní profesní předpisy (advokátní, realitní zprostředkování apod.).
+- *Judikatura:* NS 33 Cdo 2146/2025 a NS 28 Cdo 568/2024 (citováno výše) — kdo se přihlásí k odbornému výkonu, dává najevo schopnost jednat se znalostí a pečlivostí spojenou s povoláním; NS 25 Cdo 2949/2021 — profesionál se nemůže zprostit odpovědnosti poukazem na přání zákazníka či vlastní neodbornost; NS 33 Cdo 131/2020 — realitní kancelář podléhá režimu § 5 odst. 1.
+
+**4. Subsumpce.** Realitní kancelář se přihlásila k odbornému výkonu, tím vznikl zostřený standard péče (§ 5 odst. 1). Existence zapsaného břemene byla zjistitelná při běžné odborné péči; jeho přehlédnutí je porušením odborné péče, které „jde k tíži" zprostředkovatele. Důkazní břemeno o vynaložení odborné péče tíží profesionála (obrácení oproti § 2911). Sporné může být, zda klient sám částečně přispěl ke vzniku škody.
+
+**5. Řešení.** Kancelář odpovídá za škodu z porušení odborné péče (§ 5 odst. 1 ve spojení s § 2912 odst. 2, resp. § 2913); poukaz na přání či pasivitu klienta ji nezbavuje povinnosti vyvinout profesní péči. Procesně klient žaluje na náhradu škody; kancelář musí prokázat, že odbornou péči vynaložila. Riziko: případné spoluzavinění klienta (§ 2918) může náhradu snížit.
+
+**6. Varianty.** (a) Pokud by kancelář na riziko prokazatelně písemně upozornila a klient přesto jednal, odpovědnost se přesouvá na klienta. (b) Šlo-li by o čistě soukromý prodej mezi laiky bez přihlášení k odbornému výkonu, platil by jen obecný standard § 4.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Klient si měl rizika ověřit sám." Neutralizace: § 5 odst. 1 klade na profesionála vyšší péči; jeho povinnost není přenosná na laika a poukaz na přání zákazníka ji neruší (NS 25 Cdo 2949/2021).
+- *Protiargument 2:* „Zprostředkovatel neměl potřebné oprávnění, smlouva je proto neplatná." Neutralizace: § 5 odst. 2 — chybějící oprávnění samo o sobě platnost jednání nezpochybňuje proti vůli dotčené strany; naopak může založit odpovědnost profesionála.
+- *Slabé místo:* obsah „odborné péče" v konkrétním oboru je nutné prokázat (standardy profese, znalec); bez toho je tvrzení o porušení péče oslabené.
+
+#### H. Praktický závěr
+
+§ 5 zostřuje obecný standard péče pro profesionály a obrací důkazní břemeno: kdo se přihlásí k odbornému výkonu, nese důsledky nedostatku odborné péče. Chybějící veřejnoprávní oprávnění platnost jednání samo o sobě neničí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přihlásil se subjekt k odbornému výkonu jako příslušník povolání/stavu (§ 5 odst. 1)?
+- [ ] Jaký je odborný standard v daném oboru a byl dodržen?
+- [ ] Prokázal profesionál, že odbornou péči vynaložil (důkazní břemeno na něm)?
+- [ ] Nečiní strana neplatnost jednání jen z chybějícího oprávnění proti vůli druhé strany (§ 5 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o odborném plnění, profesní standardy a interní postupy, znalecký posudek k odborné péči, komunikace o rizicích, doklady o oprávnění.
 
 ---
 
@@ -306,6 +486,42 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - *NS* [27 Cdo 1943/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02D0A755B62C4DC1258BA2004D3C65?openDocument) — *Žaloba Zneužívání výkonu práv a povinností Společník*
   > „[26] Podle § 6 odst. 1 o. z. každý má povinnost jednat v právním styku poctivě."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Prodávající převedl na kupujícího nemovitost, přičemž úmyslně zatajil vážnou právní vadu (neplatnost předchozího nabývacího titulu), o které věděl. Kupující vadu zjistil až po uplynutí doby, v níž by jinak mohl uplatnit práva z vadného plnění, a prodávající nyní namítá, že nárok je opožděný. Kupující namítá, že prodávající nesmí těžit ze svého nepoctivého činu. Účastníci: nepoctivý prodávající a poškozený kupující. Důkazy: kupní smlouva, doklady o vadě, komunikace prokazující vědomost a zatajení.
+
+**2. Právní otázka.** Může se prodávající, který nepoctivě (úmyslným zatajením) vyvolal situaci poškozující kupujícího, dovolávat formálních výhod plynoucích z této situace (např. uplynutí lhůty), nebo tomu brání zásada poctivosti a zákaz těžit z vlastní nepoctivosti (§ 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (povinnost jednat poctivě), § 6 odst. 2 (nikdo nesmí těžit ze svého nepoctivého/protiprávního činu ani z protiprávního stavu, který vyvolal nebo nad nímž má kontrolu).
+- *Související ustanovení téhož zákona:* § 7 (domněnka dobré víry), § 8 (zákaz zneužití), § 1728—1729 (předsmluvní poctivost), § 2236 odst. 2 (důsledky nepoctivosti v nájmu).
+- *Související předpisy:* —
+- *Judikatura:* NS 29 NSČR 41/2017 (citováno výše) — § 6 odst. 1 je generální, přímo aplikovatelná norma, nikoli pouhá proklamace; NS 28 Cdo 1119/2015 — § 6 zakazuje těžit z vlastního protiprávního činu či jím vyvolaného stavu; NS 21 Cdo 1092/2025 — jednání „na oko" nepožívá ochrany pro rozpor s poctivostí (§ 6 odst. 1, 2 a § 8).
+
+**4. Subsumpce.** Prodávající porušil povinnost jednat poctivě (§ 6 odst. 1) tím, že vadu úmyslně zatajil. Situaci znevýhodňující kupujícího (zmeškání lhůty) prodávající sám vyvolal a měl nad ní kontrolu; dovolání se jejích výhod je „těžením z vlastní nepoctivosti" (§ 6 odst. 2). Sporné je prokázání úmyslu a vědomosti prodávajícího o vadě.
+
+**5. Řešení.** Soud prostřednictvím § 6 odst. 2 odepře prodávajícímu prospěch z jím vyvolaného stavu; námitka opožděnosti nemůže obstát, dokud kupující nemohl vadu rozumně zjistit. § 6 přitom funguje jako korektiv konkrétních institutů (lhůty, neplatnost), nikoli zcela samostatně. Procesně musí kupující tvrdit a prokázat nepoctivost (úmysl, vědomost, zatajení).
+
+**6. Varianty.** (a) Pokud by prodávající o vadě nevěděl a nezatajil ji, § 6 odst. 2 se neuplatní a běh lhůty by se posuzoval standardně. (b) Pokud by i kupující jednal nepoctivě (sám vadu znal a spekuloval), oslabuje se jeho ochrana zásadou „unclean hands".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 6 je jen proklamace bez vlastní normativní síly." Neutralizace: judikatura (NS 29 NSČR 41/2017) výslovně uznává § 6 odst. 1 jako přímo aplikovatelnou generální normu.
+- *Protiargument 2:* „Poctivost nemůže přebít konkrétní pravidlo o lhůtách." Neutralizace: § 6 nepřepisuje pravidlo, ale brání zneužití jeho výsledku tím, kdo stav nepoctivě vyvolal (§ 6 odst. 2).
+- *Slabé místo:* prokázání nepoctivosti (zejména úmyslu a vědomosti) je důkazně náročné; bez něj zůstává v platnosti domněnka dobré víry (§ 7).
+
+#### H. Praktický závěr
+
+§ 6 je generální klauzule poctivosti a zákazu těžit z vlastní nepoctivosti; aplikuje se přímo, zpravidla však jako korektiv konkrétních institutů. Kdo protiprávní stav vyvolal nebo jej kontroluje, nesmí z něj profitovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porušila strana povinnost jednat v právním styku poctivě (§ 6 odst. 1)?
+- [ ] Těží strana z vlastního nepoctivého/protiprávního činu nebo z jí vyvolaného stavu (§ 6 odst. 2)?
+- [ ] Je § 6 navázán na konkrétní institut (lhůta, neplatnost, výpověď)?
+- [ ] Jsou tvrzeny a prokázány skutečnosti zakládající nepoctivost (úmysl, vědomost)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a předsmluvní komunikace, doklady o vědomosti a zatajení rozhodných skutečností, časová osa zjištění vady.
+
 ---
 
 ### § 7 — Domněnka dobré víry
@@ -343,6 +559,42 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
   > „[40] Z ustálené rozhodovací praxe Nejvyššího soudu se dále podává, že § 7 o. z. vyjadřuje vyvratitelnou domněnku jednání v dobré víře; ten, kdo ji popírá, musí tvrdit skutečnosti ji vylučující a ohledně nich nese důkazní břemeno."
 - *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
   > „Hovoří-li dovolatelka o dobré víře chodce v to, že souvislý chodník má stejné nebo srovnatelné vlastnosti po celé své délce, opomíjí, že kategorie dobré víry je zákonem obecně stanovenou vyvratitelnou domněnkou pro jednání v právních vztazích (viz § 7 o."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující nabyl nemovitost od osoby zapsané jako vlastník v katastru nemovitostí; teprve později se objevil dřívější vlastník tvrdící, že zápis převodce byl neplatný, a domáhá se vydání. Spor se vede o to, zda kupující byl v dobré víře v zápis. Žádný z účastníků netvrdí konkrétní okolnost, z níž by plynula vědomost kupujícího o vadě. Účastníci: dřívější vlastník (popírá dobrou víru), kupující (dovolává se domněnky). Důkazy: výpis z katastru ke dni nabytí, kupní smlouva, okolnosti uzavření obchodu.
+
+**2. Právní otázka.** Koho tíží důkazní břemeno ohledně dobré víry nabyvatele — musí ji nabyvatel prokazovat, nebo se dobrá víra předpokládá a její vyvrácení tíží toho, kdo zlou víru tvrdí (§ 7)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 — má se za to, že kdo jednal určitým způsobem, jednal poctivě a v dobré víře (vyvratitelná domněnka).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (konstruktivní vědomost — měřítko, kdy „měl vědět"), § 6 (poctivost), § 980—984 (ochrana dobré víry v zápis), § 1109—1113 (nabytí od neoprávněného), § 1089—1098 (vydržení), § 589—599 (odpůrčí žaloby).
+- *Související předpisy:* zákon o katastru nemovitostí (256/2013 Sb.).
+- *Judikatura:* NS 27 Cdo 485/2023 (citováno výše) — § 7 vyjadřuje vyvratitelnou domněnku jednání v dobré víře; kdo ji popírá, nese důkazní břemeno; NS 22 Cdo 1946/2025 a NS 24 Cdo 793/2021 — dobrá víra dobrověrného nabyvatele se presumuje; NS 21 Cdo 1811/2021 — výjimečně (zvláštní úprava) může důkaz dobré víry tížit nabyvatele (odchylka od § 7).
+
+**4. Subsumpce.** Kupující „jednal určitým způsobem" (nabyl podle zápisu v katastru), proto se ve prospěch jeho dobré víry uplatní domněnka § 7. Břemeno tvrzení i důkazu skutečností vylučujících dobrou víru nese dřívější vlastník. Protože netvrdí žádnou konkrétní indicii vědomosti (§ 4 odst. 2), domněnku nevyvrací. Sporné by bylo, kdyby zvláštní úprava důkazní břemeno obracela (srov. NS 21 Cdo 1811/2021).
+
+**5. Řešení.** Dokud dřívější vlastník neprokáže skutečnosti vylučující dobrou víru, platí domněnka § 7 ve prospěch kupujícího; ochrana dobré víry v zápis (§ 984) se uplatní. Procesně: dřívější vlastník musí tvrdit konkrétní okolnosti zlé víry a unést jejich důkaz; obecné tvrzení nestačí. Riziko spočívá v tom, že u některých institutů zákon presumpci obrací.
+
+**6. Varianty.** (a) Pokud dřívější vlastník doloží, že kupující znal probíhající spor o vlastnictví (poznámka spornosti v katastru), domněnka je vyvrácena a § 4 odst. 2 založí konstruktivní vědomost. (b) U institutu, kde zvláštní úprava ukládá důkaz dobré víry nabyvateli, by se důkazní rozložení obrátilo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Nabyvatel musí svou dobrou víru aktivně prokázat." Neutralizace: § 7 zakládá domněnku; břemeno nese ten, kdo zlou víru tvrdí (NS 27 Cdo 485/2023), nejde-li o zvláštní výjimku.
+- *Protiargument 2:* „Dobrá víra a poctivost jsou totéž." Neutralizace: poctivost (§ 6) je objektivní standard chování, dobrá víra je subjektivní stav vědomí; § 7 presumuje obojí, ale institut a důsledky se liší.
+- *Slabé místo:* judikatura zná výjimky, kdy je presumpce obrácena (např. NS 21 Cdo 1811/2021); je nutné ověřit, zda zvláštní norma nestanoví jinak.
+
+#### H. Praktický závěr
+
+§ 7 zakládá vyvratitelnou domněnku poctivosti a dobré víry; důkazní břemeno k jejímu vyvrácení nese ten, kdo tvrdí zlou víru. Výjimky stanoví zvláštní úprava, kterou je třeba vždy zkontrolovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jednal subjekt „určitým způsobem", k němuž se váže domněnka dobré víry (§ 7)?
+- [ ] Tvrdí protistrana konkrétní skutečnosti vylučující dobrou víru a unáší jejich důkaz?
+- [ ] Neexistuje zvláštní úprava obracející důkazní břemeno (např. u vydržení/některých nabytí)?
+- [ ] Aktivuje se konstruktivní vědomost podle § 4 odst. 2 (co subjekt „měl vědět")?
+
+**Typicky rozhodné důkazy / podklady:** stav veřejného seznamu ke dni jednání, okolnosti a indicie známé nabyvateli, komunikace stran, případné poznámky spornosti.
 
 ---
 
@@ -395,6 +647,42 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 - *NS* [27 Cdo 1236/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A59FD4BC785804AEC1258C400052B32D?openDocument) — *Konkurenční doložka Smlouva o výkonu funkce Odstoupení od smlouvy*
   > „Podle § 8 o. z. zjevné zneužití práva nepožívá právní ochrany. b) K odstoupení od konkurenční doložky v kontextu zneužití práva 19."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník sousedního pozemku se domáhá odstranění stavby zřízené na hranici pozemků, ačkoliv mu odstranění nepřinese žádný vlastní prospěch a jeho jediným zjevným cílem je poškodit souseda, s nímž je v dlouhodobém sporu; stavba mu fakticky nijak nepřekáží. Účastníci: žalobce (soused-vlastník) a žalovaný (stavebník). Důkazy: situační plán, doklady o (ne)dotčení žalobcových práv, komunikace dokládající šikanózní motiv, znalecké posouzení vlivu stavby.
+
+**2. Právní otázka.** Požívá právní ochrany výkon formálně existujícího práva (nárok na odstranění stavby), jehož jediným zjevným účelem je poškodit druhého, aniž přináší vykonavateli práva legitimní prospěch (šikana) — § 8?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 — zjevné zneužití práva nepožívá právní ochrany.
+- *Související ustanovení téhož zákona:* § 6 (poctivost — § 8 je její korigující funkce), § 2 odst. 3 (dobré mravy), § 1013 (imise), § 2900—2901 (prevence), § 2972 / § 2051 (snížení nepřiměřené pokuty).
+- *Související předpisy:* OSŘ (zneužití procesního práva).
+- *Judikatura:* NS 22 Cdo 3235/2025 (citováno výše) — zákaz zneužití práva (§ 8) ztělesňuje korigující funkci principu poctivosti; NS 22 Cdo 2225/2025 — žaloba na odstranění stavby může být zjevným zneužitím, směřuje-li jen k poškození druhého bez vlastního prospěchu žalobce; NS 23 Cdo 1178/2025 — § 8 je norma s relativně neurčitou (abstraktní) hypotézou; NS 22 Cdo 2824/2025 — posouzení § 8 podléhá přezkumu jen při zjevné nepřiměřenosti úvah nalézacích soudů.
+
+**4. Subsumpce.** Nárok na odstranění stavby žalobci formálně svědčí. Klíčové znaky zjevného zneužití: (i) výkon práva nepřináší žalobci legitimní prospěch a (ii) jeho zjevným účelem je poškodit žalovaného (šikana). Jsou-li oba znaky naplněny a je-li zneužití „zjevné", § 8 ochranu odpírá. Sporné je prokázání šikanózního motivu a „zjevnosti" — § 8 se aplikuje restriktivně.
+
+**5. Řešení.** Je-li prokázáno zjevné zneužití, soud žalobě na odstranění stavby nevyhoví (§ 8); zpravidla v kombinaci s konkrétní normou (§ 1013, § 6). Procesně musí žalovaný tvrdit a prokázat šikanózní povahu výkonu práva. Riziko: § 8 je výjimečný korektiv; soud jej použije jen při zřejmém rozporu se smyslem chráněného institutu, nikoli k běžnému přezkumu vhodnosti výkonu práva.
+
+**6. Varianty.** (a) Pokud stavba reálně zasahuje do žalobcových práv (stíní, narušuje statiku), prospěch z odstranění existuje a o šikanu nejde — žaloba obstojí. (b) Uplatňuje-li věřitel zjevně nepřiměřenou smluvní pokutu, kombinuje se § 8 s moderačním právem soudu (§ 2051).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vlastník má absolutní právo a může žádat odstranění čehokoli na hranici." Neutralizace: i výkon vlastnického práva podléhá zákazu zneužití (§ 8); šikanózní výkon ochrany nepožívá.
+- *Protiargument 2:* „§ 8 nelze použít, protože nejde o porušení konkrétní normy." Neutralizace: § 8 je samostatná generální klauzule s abstraktní hypotézou (NS 23 Cdo 1178/2025), byť se zpravidla kombinuje s konkrétním ustanovením.
+- *Slabé místo:* „zjevnost" zneužití a šikanózní motiv je nutné prokázat; dovolací přezkum je omezen na zjevnou nepřiměřenost úvah (NS 22 Cdo 2824/2025), což klade důraz na skutková zjištění nalézacího soudu.
+
+#### H. Praktický závěr
+
+§ 8 je druhá generální klauzule — zákaz zjevného zneužití práva. Aplikuje se restriktivně, typicky proti šikaně a formalismu, a zpravidla v kombinaci s konkrétní normou. Rozhodující je absence legitimního prospěchu a převaha cíle poškodit druhého.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon formálně existujícího práva?
+- [ ] Přináší výkon práva vykonavateli legitimní prospěch, nebo jen poškozuje druhého (šikana)?
+- [ ] Je zneužití „zjevné" (restriktivní aplikace § 8)?
+- [ ] Lze § 8 podepřít konkrétní normou (§ 6, § 1013, § 2051 apod.)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o (ne)dotčení práv vykonavatele, komunikace prokazující motiv, znalecké posouzení dopadů, časová a vztahová souvislost mezi stranami.
+
 ---
 
 ## Díl 2 — Užití předpisů občanského práva
@@ -428,6 +716,42 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
   > „Podle ustanovení § 9 odst. 2 věta první o. z. soukromá práva a povinnosti osobní a majetkové povahy se řídí občanským zákoníkem v tom rozsahu, v jakém je neupravují jiné právní předpisy."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec se domáhá vůči zaměstnavateli nároku, jehož vznik zákoník práce výslovně neupravuje (typově pracovněprávní vztah s mezerou); zaměstnavatel namítá, že se má použít obecná úprava OZ o poctivosti a o promlčení, zatímco zaměstnanec tvrdí přednost (mlčící) speciální úpravy. Současně vzniká otázka, zda lze přihlédnout k ustálené zvyklosti v daném oboru. Účastníci: zaměstnanec a zaměstnavatel. Důkazy: pracovní smlouva, vnitřní předpisy, doklady o oborové praxi.
+
+**2. Právní otázka.** V jakém rozsahu se na vztah upravený zvláštním zákonem (zde zákoníkem práce) subsidiárně použije OZ a kdy lze přihlédnout ke zvyklostem (§ 9 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (OZ upravuje osobní stav osob), § 9 odst. 2 (subsidiarita OZ v rozsahu, v němž věc neupravují jiné předpisy; ke zvyklostem lze hledět, jen dovolává-li se jich zákon).
+- *Související ustanovení téhož zákona:* § 6 (poctivost — obecný princip aplikovatelný i ve zvláštních úpravách), § 10 (analogie), § 11 (přiměřené užití úpravy závazků), § 1733/§ 1748 (odkaz na zvyklosti).
+- *Související předpisy:* zákoník práce (262/2006 Sb.), ZOK (90/2012 Sb.), ZMPS (91/2012 Sb.), zákon o spotřebitelském úvěru (257/2016 Sb.) — jako příklady speciálních úprav.
+- *Judikatura:* NS 21 Cdo 11/2019 (citováno výše) — podle § 9 odst. 2 věty první se soukromá práva a povinnosti řídí OZ v rozsahu, v jakém je neupravují jiné předpisy.
+
+**4. Subsumpce.** Vztah je primárně upraven zákoníkem práce (speciální zákon). V rozsahu, v němž ZP otázku neupravuje, nastupuje subsidiárně OZ (§ 9 odst. 2). Obecné principy OZ (poctivost § 6) se aplikují i v pracovněprávním vztahu. Ke zvyklosti lze přihlédnout jen tehdy, dovolává-li se jí zákon — pouhá oborová praxe bez zákonného odkazu normativní účinky nemá. Sporné je vymezení rozsahu mezery v ZP.
+
+**5. Řešení.** Otázku, kterou ZP neupravuje, soud posoudí podle OZ (subsidiarita); obecné zásady OZ se prosadí i zde. Zvyklost se nepoužije, chybí-li zákonný odkaz. Procesně je nutné přesně identifikovat, zda zvláštní zákon danou otázku upravuje (pak má přednost), či nikoli (pak OZ). Riziko: nesprávné určení rozsahu speciální úpravy vede k chybné volbě rozhodného pravidla.
+
+**6. Varianty.** (a) Pokud zvláštní zákon otázku komplexně upravuje, subsidiarita OZ se neuplatní. (b) Pokud se zvláštní zákon výslovně dovolává obchodních zvyklostí (např. § 1748), nabývají zvyklosti normativního významu pro výklad ujednání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „OZ se nepoužije, jde-li o pracovní/obchodní vztah." Neutralizace: subsidiarita je dvousměrná — v rozsahu mezery zvláštního zákona OZ nastupuje a obecné zásady (§ 6) platí i tam.
+- *Protiargument 2:* „Ustálená oborová zvyklost zavazuje sama o sobě." Neutralizace: § 9 odst. 2 dovoluje hledět ke zvyklostem jen tam, kde se jich zákon dovolává; obyčejové právo OZ jako pramen neuznává.
+- *Slabé místo:* hranice mezi „upraveno" a „neupraveno" zvláštním zákonem je výkladová; je třeba prokázat existenci a rozsah mezery.
+
+#### H. Praktický závěr
+
+§ 9 určuje subsidiární použití OZ vůči zvláštním zákonům a omezený prostor pro zvyklosti. V praxi platí: nejprve zvláštní zákon, v rozsahu mezery OZ; obecné zásady OZ se prosadí i ve zvláštních úpravách; zvyklost jen na základě zákonného odkazu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Upravuje danou otázku zvláštní zákon, nebo jde o mezeru (§ 9 odst. 2)?
+- [ ] Aplikují se obecné zásady OZ (poctivost, dobrá víra) i ve zvláštní úpravě?
+- [ ] Dovolává se zákon zvyklostí, jichž se strana dovolává?
+- [ ] Nejde o osobní stav, který OZ upravuje kogentně (§ 9 odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** text a systematika zvláštního zákona, doklady o existenci a obsahu zvyklosti, ujednání odkazující na zvyklosti.
 
 ---
 
@@ -478,6 +802,42 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 - *NS* [27 Cdo 3150/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/55B66445D61A5DB1C1258923001E1510?openDocument) — *Zájmové sdružení právnických osob Spolek (o. z.)*
   > „11) Vedle tzv. otevřené mezery v zákoně je dalším předpokladem pro užití analogie ve smyslu § 10 odst. 1 o. z. podobnost s jiným – právem výslovně upraveným – případem."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Strany uzavřely inominátní (zákonem nepojmenovanou) smlouvu o dlouhodobém provozování cloudové služby; OZ pro tento typ nemá výslovnou úpravu řešení sporné otázky (např. následků prodlení s aktualizací). Soud musí mezeru vyplnit. Současně se posuzuje obdobná otázka u nového institutu (právo stavby), k němuž je málo judikatury. Účastníci: poskytovatel a objednatel služby. Důkazy: smlouva, technická dokumentace, doklady o oborové praxi a doktrinálních závěrech.
+
+**2. Právní otázka.** Jak vyplnit mezeru v zákoně — kdy nastupuje analogie legis (ustanovení o věci nejbližší obsahu a účelu) a kdy až analogie iuris (principy spravedlnosti a zásady zákona) podle § 10?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (analogie legis — aplikace ustanovení o případu nejbližšího obsahu a účelu), § 10 odst. 2 (analogie iuris — principy spravedlnosti a zásady zákona s ohledem na zvyklosti, doktrínu a ustálenou praxi k dobrému uspořádání práv a povinností).
+- *Související ustanovení téhož zákona:* § 2 (teleologický výklad — předchází analogii), § 13 (legitimní očekávání — analogie s ohledem na ustálenou praxi), § 1746 (inominátní smlouvy), § 11 (přiměřené užití úpravy závazků).
+- *Související předpisy:* —
+- *Judikatura:* NS 28 Cdo 1623/2024 (citováno výše) — § 10 reguluje posloupnost aplikace pravidel na skutkovou podstatu; NS 23 Cdo 2178/2022 — u otevřené (teleologické) mezery přichází v úvahu soudcovské dotváření práva analogií (§ 10 odst. 1); NS 27 Cdo 3150/2021 — předpokladem analogie podle § 10 odst. 1 je mezera a podobnost s výslovně upraveným případem; NS 30 Cdo 4888/2017 — k aplikaci § 10 odst. 2 pro „dobré uspořádání práv a povinností".
+
+**4. Subsumpce.** Nejprve je třeba ověřit, že věc nelze rozhodnout výslovným ustanovením (po teleologickém výkladu dle § 2). Existuje-li ustanovení o případu nejbližším obsahu a účelu (např. úprava licenční či schovací smlouvy pro cloud), použije se analogie legis (§ 10 odst. 1). Teprve není-li takové ustanovení, nastupuje analogie iuris (§ 10 odst. 2). Sporné je, které ustanovení je „nejbližší" a zda je dána pravá/nepravá mezera.
+
+**5. Řešení.** Soud postupuje v pořadí: výslovné ustanovení → analogie legis → analogie iuris. U cloudové smlouvy zpravidla vyplní mezeru analogií k nejbližšímu nominátnímu typu (§ 10 odst. 1 ve spojení s § 1746). Procesně je vhodné navrhnout konkrétní „nejbližší" ustanovení a odůvodnit podobnost obsahu a účelu. Riziko: přeskočení analogie legis a předčasný skok k analogii iuris je vadou postupu.
+
+**6. Varianty.** (a) Lze-li věc rozhodnout výslovným ustanovením po teleologickém výkladu, k analogii se vůbec nepřistoupí. (b) Pokud k danému institutu existuje ustálená judikatura, § 13 vyžaduje, aby analogie respektovala dosavadní praxi (jinak hrozí překvapivost rozhodnutí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Není-li výslovná úprava, nelze rozhodnout (non liquet)." Neutralizace: § 10 výslovně ukládá mezeru vyplnit analogií, případně principy spravedlnosti; odepření rozhodnutí je nepřípustné.
+- *Protiargument 2:* „Soud analogií dotváří právo, což přísluší zákonodárci." Neutralizace: analogie a soudcovské dotváření práva u otevřené mezery je § 10 výslovně předvídáno (NS 23 Cdo 2178/2022), pohybuje se však v mezích zásad zákona.
+- *Slabé místo:* určení „nejbližšího" ustanovení a typu mezery je hodnotové; nesprávná volba referenčního ustanovení vede k vadnému výsledku.
+
+#### H. Praktický závěr
+
+§ 10 zakotvuje třístupňový postup vyplňování mezer: výslovné ustanovení, analogie legis, analogie iuris. V praxi je nutné respektovat pořadí a u nových institutů či inominátních smluv pečlivě zvolit nejbližší úpravu s ohledem na ustálenou praxi (§ 13).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Lze věc rozhodnout výslovným ustanovením po teleologickém výkladu (§ 2)?
+- [ ] Existuje ustanovení o případu nejbližším obsahu a účelu — analogie legis (§ 10 odst. 1)?
+- [ ] Teprve poté: principy spravedlnosti a zásady zákona — analogie iuris (§ 10 odst. 2)?
+- [ ] Respektuje analogie ustálenou judikaturu a doktrínu (§ 13)?
+
+**Typicky rozhodné důkazy / podklady:** obsah a účel posuzovaného vztahu, srovnatelná zákonná úprava, doktrinální závěry a ustálená rozhodovací praxe, oborové zvyklosti.
+
 ---
 
 ### § 11 — Subsidiarita obecných ustanovení o závazcích
@@ -508,6 +868,42 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 - *NS* [26 Cdo 3654/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/610E048C0666B046C1258535001DEDA0?openDocument) — *Přípustnost dovolání Dobré mravy*
 - *NS* [30 Cdo 4207/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FC47AD84E40F4FF2C1257F4C00364BA8?openDocument) — *Ochrana osobnosti Správce konkursní podstaty*
   > „Podle ustanovení § 11 občanského zákoníku, má fyzická osoba právo na ochranu své osobnosti, zejména života a zdraví, občanské cti a lidské důstojnosti, jakož i soukromí, svého jména a projevů osobní povahy."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Mezi vlastníky sousedních pozemků existuje služebnost (věcné právo); v důsledku stavebních úprav je třeba přemístit vedení, na něž se služebnost vztahuje, čímž vlastníku panující věci vzniknou zvýšené náklady. OZ ve věcných právech tuto konkrétní otázku (rozvržení nákladů, podmínky změny) výslovně neřeší v plné šíři. Účastníci: vlastník služebné věci a vlastník panující věci. Důkazy: doklad o zřízení služebnosti, technická a nákladová dokumentace přemístění.
+
+**2. Právní otázka.** Lze na nezávazkový (věcněprávní) vztah přiměřeně použít obecná ustanovení části čtvrté OZ o vzniku, změně a zániku závazků (§ 11), a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 — obecná ustanovení o vzniku, změně a zániku práv a povinností ze závazků (část čtvrtá) se použijí přiměřeně i na vznik, změnu a zánik jiných soukromých práv a povinností.
+- *Související ustanovení téhož zákona:* § 10 (analogie — § 11 je zvláštním projevem přiměřeného užití), úprava služebností (§ 1257 a násl.), § 1956 (náklady při změně způsobu plnění — aplikováno analogicky), § 1999 (výpověď závazku — meze přiměřeného užití u věcných práv).
+- *Související předpisy:* —
+- *Judikatura:* NS 22 Cdo 1925/2021 (citováno výše) — vzniknou-li přemístěním cizí věci zvýšené náklady a nebezpečí, může je nést vlastník pozemku podle § 11 o. z. ve spojení s analogickou aplikací § 1956 o. z.; NS 22 Cdo 3596/2022 — meze přiměřeného užití: služebnost nelze vypovědět podle § 1999 odst. 1 o. z.
+
+**4. Subsumpce.** Věcněprávní vztah (služebnost) není závazkem, ale § 11 umožňuje na jeho změnu přiměřeně užít závazková ustanovení. Otázka rozvržení zvýšených nákladů se řeší přiměřenou aplikací úpravy o změně plnění (§ 1956). Klíčové slovo je „přiměřeně" — aplikace se přizpůsobuje povaze věcného práva, nikoli mechanicky. Sporné je, která závazková ustanovení jsou s povahou služebnosti slučitelná (např. výpověď dle § 1999 nikoli).
+
+**5. Řešení.** Soud na změnu věcného práva přiměřeně užije obecná závazková ustanovení (§ 11 ve spojení s § 1956) a rozvrhne náklady; současně odmítne ta závazková pravidla, která odporují povaze věcného práva (výpověď služebnosti dle § 1999). Procesně je nutné označit konkrétní závazkové ustanovení a odůvodnit jeho přiměřenost. Riziko: nepřiměřené, mechanické přenesení závazkového pravidla na věcné právo.
+
+**6. Varianty.** (a) Pokud zvláštní úprava věcného práva otázku řeší přímo, § 11 se neuplatní. (b) Týká-li se otázka zániku věcného práva způsobem neslučitelným se závazkovou úpravou (např. jednostranná výpověď), přiměřené užití se vyloučí (NS 22 Cdo 3596/2022).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Závazková úprava na věcná práva nedopadá." Neutralizace: § 11 výslovně rozšiřuje přiměřené užití obecných závazkových ustanovení i na nezávazková soukromá práva.
+- *Protiargument 2:* „Lze tedy věcné právo i vypovědět jako závazek." Neutralizace: užití je jen „přiměřené"; pravidla neslučitelná s povahou věcného práva (např. výpověď dle § 1999) se nepoužijí (NS 22 Cdo 3596/2022).
+- *Slabé místo:* posouzení „přiměřenosti" je hodnotové a kazuistické; je nutné odlišit slučitelná a neslučitelná závazková pravidla.
+
+#### H. Praktický závěr
+
+§ 11 umožňuje přiměřené užití obecných závazkových ustanovení i na věcná, rodinná a dědická práva, čímž brání mezerám. Rozhodující je slovo „přiměřeně" — pravidla se přizpůsobují povaze daného vztahu a neslučitelná se nepoužijí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o nezávazkové soukromé právo (věcné, rodinné, dědické)?
+- [ ] Které obecné závazkové ustanovení (vznik/změna/zánik) na věc dopadá?
+- [ ] Je jeho užití přiměřené povaze daného vztahu (§ 11)?
+- [ ] Neodporuje konkrétní závazkové pravidlo povaze institutu (např. výpověď u služebnosti)?
+
+**Typicky rozhodné důkazy / podklady:** titul vzniku věcného (či jiného) práva, dokumentace ke změně/zániku, srovnatelné závazkové ustanovení a důvod jeho přiměřenosti.
 
 ---
 
@@ -547,6 +943,42 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
   > „Podle § 12 o. z. každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávajícího veřejnou moc."
 - *NS* [30 Cdo 107/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7643093CAE143AB7C125895E001E0354?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
   > „Uplatnění nároku na zadostiučinění za nemajetkovou újmu zůstavitelem u úřadu uvedeného v § 6 zákona č. 82/1998 Sb. postupem podle § 14 odst. 1 zákona č. 82/1998 Sb. není uplatněním práva u orgánu veřejné moci ve smyslu § 1475 odst. 2 o. z."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel je v právním sporu s poskytovatelem služby elektronických komunikací o vyúčtování; zvažuje, kde se domáhat ochrany — zda u soudu, nebo u sektorového regulátora (ČTÚ), který v dané oblasti rozhoduje spory na základě zvláštního zákona. Druhá strana zpochybňuje pravomoc soudu s tím, že věc patří před regulátora. Účastníci: spotřebitel (žalobce) a poskytovatel. Důkazy: smlouva, vyúčtování, korespondence, podání u příslušného orgánu.
+
+**2. Právní otázka.** Kdo je orgánem veřejné moci příslušným k ochraně tvrzeného soukromého práva — soud jako defaultní orgán, nebo zvláštním zákonem určený mimosoudní orgán (§ 12)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 — každý, kdo se cítí ve svém právu zkrácen, se může domáhat ochrany u orgánu veřejné moci; není-li stanoveno jinak, je jím soud.
+- *Související ustanovení téhož zákona:* § 1 odst. 1 (autonomie soukromého práva), § 13 (legitimní očekávání ohledně rozhodnutí), § 14 (svépomoc jako výjimečná alternativa).
+- *Související předpisy:* zákon o elektronických komunikacích (127/2005 Sb. — ČTÚ), energetický zákon (458/2000 Sb. — ERÚ), zákon o finančním arbitrovi (229/2002 Sb.), zákon o rozhodčím řízení (216/1994 Sb.), OSŘ (část pátá, § 244 a násl. — přezkum rozhodnutí ve věcech soukromoprávních).
+- *Judikatura:* NS 21 Cdo 1180/2022 (citováno výše) — k § 12 musí existovat i konkrétní prostředek (žalobní nárok), jímž se lze ochrany domáhat; NS 22 Cdo 787/2020 — každý, kdo se cítí zkrácen, se může domáhat ochrany u orgánu vykonávajícího veřejnou moc; NS 23 Nd 190/2023 — k § 12 odst. 2.
+
+**4. Subsumpce.** Spotřebitel se cítí zkrácen v soukromém právu (aktivní legitimace dle § 12 je dána i při tvrzeném zkrácení). Defaultně je orgánem soud; zvláštní zákon však může určit jiný orgán (zde ČTÚ pro telekomunikační spory). Existence zvláštní úpravy aktivuje výjimku „není-li stanoveno jinak". Sporné je vymezení, zda konkrétní nárok spadá pod zvláštní pravomoc regulátora, či zůstává u soudu.
+
+**5. Řešení.** Patří-li spor podle zvláštního zákona před regulátora, je třeba zahájit řízení tam; rozhodnutí lze následně přezkoumat v civilním soudnictví (část pátá OSŘ). Nepatří-li věc pod zvláštní pravomoc, je příslušný soud. Procesně je nutné předem ověřit věcnou působnost regulátora, jinak hrozí zastavení řízení pro nedostatek pravomoci. K ochraně musí existovat i konkrétní žalobní nárok (NS 21 Cdo 1180/2022).
+
+**6. Varianty.** (a) Pokud zvláštní zákon žádný mimosoudní orgán nezřizuje, uplatní se defaultní pravomoc soudu. (b) Existuje-li platná rozhodčí smlouva, je k rozhodnutí příslušný rozhodce a pravomoc soudu je omezena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „K ochraně práva je vždy příslušný soud." Neutralizace: § 12 stanoví soud jen jako default; zvláštní zákon může určit jiný orgán veřejné moci (ČTÚ, ERÚ, finanční arbitr).
+- *Protiargument 2:* „Cítí-li se někdo zkrácen, postačí to k vyhovění." Neutralizace: § 12 zakládá přístup k ochraně, nikoli důvodnost nároku; navíc musí existovat konkrétní procesní prostředek (NS 21 Cdo 1180/2022).
+- *Slabé místo:* rozhraničení pravomoci soudu a sektorového regulátora je často sporné; chybné určení vede k procesnímu neúspěchu.
+
+#### H. Praktický závěr
+
+§ 12 garantuje přístup k ochraně soukromých práv u orgánu veřejné moci, jímž je standardně soud, nestanoví-li zvláštní zákon jiný orgán. V praxi je klíčové předem vyjasnit věcnou pravomoc (soud vs. regulátor vs. rozhodce) a existenci konkrétního žalobního nároku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Cítí se osoba zkrácena ve svém (tvrzeném) soukromém právu (§ 12)?
+- [ ] Stanoví zvláštní zákon jiný orgán než soud (ČTÚ, ERÚ, finanční arbitr, rozhodce)?
+- [ ] Existuje konkrétní procesní prostředek (žalobní nárok) k ochraně?
+- [ ] Je dána možnost soudního přezkumu rozhodnutí mimosoudního orgánu (část pátá OSŘ)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a vyúčtování/podklady sporu, právní úprava věcné pravomoci, případná rozhodčí smlouva, dosavadní podání u orgánů.
 
 ---
 
@@ -596,6 +1028,42 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - *NS* [26 Cdo 178/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7D453FDD3E87CAD3C1258C83004D1D89?openDocument) — *Přípustnost dovolání Předběžná otázka Závaznost rozsudku*
   > „§ 13 o. z.; též nález Ústavního soudu ze dne 27."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žalobce se domáhá nároku, který byl v řadě skutkově shodných případů ustáleně rozhodován určitým způsobem ve prospěch žalobců; odvolací soud se však v jeho věci od ustálené praxe odchýlí a žalobu zamítne, aniž v odůvodnění odchylku vysvětlí. Žalobce namítá porušení legitimního očekávání a překvapivost rozhodnutí. Účastníci: žalobce a žalovaný; rozhoduje soud. Důkazy: dřívější rozhodnutí ve shodných věcech, srovnání podstatných znaků, odůvodnění napadeného rozhodnutí.
+
+**2. Právní otázka.** Může se účastník dovolávat toho, že jeho případ shodný v podstatných znacích bude rozhodnut obdobně jako dříve rozhodnuté věci, a jaké jsou důsledky neodůvodněné odchylky soudu (§ 13)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 — důvodné očekávání obdobného rozhodnutí ve věci shodné v podstatných znacích; při odchylce právo na přesvědčivé vysvětlení důvodu.
+- *Související ustanovení téhož zákona:* § 2 (ústavně konformní výklad), § 10 (analogie s ohledem na ustálenou praxi), § 12 (přístup k ochraně).
+- *Související předpisy:* OSŘ § 237 (přípustnost dovolání pro odchýlení od ustálené praxe NS), čl. 95 Ústavy, čl. 1 a čl. 36 LZPS, § 8 odst. 2 SŘS (obdobné pravidlo ve správním soudnictví).
+- *Judikatura:* ÚS I. ÚS 491/15 a II. ÚS 1512/15 (citováno výše) — § 13 zakotvuje předvídatelnost soudních rozhodnutí a právní jistotu, samotný odkaz však nestačí bez doložení shodných titulů; NS 28 Cdo 174/2025 — překvapivost rozhodnutí příčící se § 13 (aplikovatelnému i přes § 3030); NS 25 Cdo 2171/2024 — porušení § 13 neodůvodněnou odchylkou.
+
+**4. Subsumpce.** Předpokladem ochrany podle § 13 je shoda případu v „podstatných znacích" s dříve rozhodnutými věcmi. Je-li shoda dána a soud se odchýlí, vzniká právo na přesvědčivé vysvětlení odchylky; jeho absence zakládá překvapivost a vadu odůvodnění. Sporné je, zda jsou si případy shodné právě v podstatných (nikoli nahodilých) znacích — to musí žalobce doložit.
+
+**5. Řešení.** Neodůvodněná odchylka od ustálené praxe ve věci shodné v podstatných znacích je porušením § 13 a může založit přípustnost dovolání (§ 237 OSŘ) i důvod kasace pro nepřezkoumatelnost/překvapivost. Soud se odchýlit může, musí to však přesvědčivě odůvodnit. Procesně žalobce identifikuje konkrétní dřívější rozhodnutí a prokáže shodu podstatných znaků; pouhý obecný odkaz nestačí (ÚS I. ÚS 491/15).
+
+**6. Varianty.** (a) Pokud se případy liší v podstatných znacích, legitimní očekávání nevzniká a odchylka není porušením § 13. (b) Odchýlí-li se soud a odchylku přesvědčivě odůvodní (např. změna náhledu vyšší instance), § 13 je naplněn a rozhodnutí obstojí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Soud je vázán jen zákonem, ne dřívějšími rozhodnutími." Neutralizace: § 13 nezakládá precedenční vázanost, ale ukládá povinnost přesvědčivě vysvětlit odchylku; její absence je vadou (čl. 95 Ústavy, ÚS).
+- *Protiargument 2:* „Stačí odkázat na to, že jinde rozhodli jinak." Neutralizace: je nutné doložit shodu v podstatných znacích a konkrétní tituly; obecný odkaz § 13 nenaplňuje (ÚS I. ÚS 491/15).
+- *Slabé místo:* posouzení shody „podstatných znaků" je hodnotové; bez pečlivého srovnání skutkových a právních okolností je námitka § 13 zranitelná.
+
+#### H. Praktický závěr
+
+§ 13 zakotvuje předvídatelnost rozhodování: shodné věci mají být rozhodovány obdobně a každá odchylka vyžaduje přesvědčivé odůvodnění. V praxi je oporou pro přípustnost dovolání a kasaci překvapivých rozhodnutí; nejde však o absolutní precedenční vázanost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje dříve rozhodnutý případ shodný v podstatných znacích?
+- [ ] Jsou konkrétně označeny dřívější rozhodnutí a doložena shoda znaků?
+- [ ] Odchýlil-li se soud, vysvětlil odchylku přesvědčivě (§ 13 věta druhá)?
+- [ ] Zakládá odchylka přípustnost dovolání (§ 237 OSŘ) či důvod kasace pro překvapivost?
+
+**Typicky rozhodné důkazy / podklady:** dřívější rozhodnutí ve shodných věcech, srovnávací analýza podstatných znaků, odůvodnění napadeného rozhodnutí, ustálená judikatura NS/ÚS.
+
 ---
 
 ### § 14 — Svépomoc
@@ -640,6 +1108,42 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
   > „Přípustnost dovolání je dána tím, že otázku dovolené svépomoci (§ 14 občanského zákoníku č. 89/2012 Sb. – o. z.), dovolací soud dosud neřešil."
 - *NS* [22 Cdo 1925/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A9318C770A8F1F2C1258799001B8397?openDocument) — *Vlastnictví*
   > „Vlastníku pozemku, na kterém je bez právního důvodu umístěna cizí věc, nelze odepřít ochranu podle § 1042 o. z. jen proto, že věc přemístil, třeba i na jiný svůj pozemek, aniž byly splněny podmínky svépomoci dle § 14 odst. 1 o. z., měl-li k tomu rozumné důvody."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník přistihne na svém pozemku osobu, která se zmocnila jeho movité věci (např. odnáší zahradní vybavení) a chystá se odejít; přivolání policie by zjevně přišlo pozdě, protože pachatel by mezitím s věcí zmizel. Vlastník pachatele zadrží a věc mu odebere. Pachatel namítá neoprávněný zásah do své osoby. Účastníci: ohrožený vlastník a pachatel. Důkazy: doklady o vlastnictví věci, svědectví, okolnosti a přiměřenost zásahu.
+
+**2. Právní otázka.** Byly splněny podmínky dovolené svépomoci podle § 14 (ohrožení práva, zřejmost, že zásah veřejné moci přijde pozdě, přiměřenost prostředků), a vznikla povinnost obrátit se následně na orgán veřejné moci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 1 (obecná svépomoc — ohrožení práva, zřejmé, že zásah VM přijde pozdě, přiměřenost), § 14 odst. 2 (bezprostřední obrana/zajištění; u zajištění povinnost obrátit se bez zbytečného odkladu na VM).
+- *Související ustanovení téhož zákona:* § 2906—2908 (nutná obrana, krajní nouze — okolnosti vylučující protiprávnost), § 1006 (svépomocné držení), § 1395 (svépomocné zástavní právo), § 12 (soudní ochrana jako pravidlo).
+- *Související předpisy:* trestní zákoník (40/2009 Sb.) — § 28 krajní nouze, § 29 nutná obrana.
+- *Judikatura:* NS 22 Cdo 4580/2017 (citováno výše) — otázka dovolené svépomoci podle § 14 o. z.; NS 22 Cdo 1925/2021 — vlastníku nelze odepřít ochranu jen proto, že věc přemístil, aniž byly splněny podmínky svépomoci dle § 14 odst. 1, měl-li k tomu rozumné důvody; NS 4 Tdo 246/2020 — meze svépomoci ve vztahu k domovní svobodě.
+
+**4. Subsumpce.** Právo vlastníka bylo ohroženo (hrozící ztráta věci); bylo zřejmé, že zásah VM přijde pozdě (pachatel by odešel). Zadržení a odebrání věci je svépomocí dle § 14 odst. 2 (odvrácení bezprostředního zásahu, případně zajištění). Klíčové je posouzení přiměřenosti prostředků z pohledu osoby v postavení vlastníka. Sporné je, zda zásah nepřekročil nezbytnou míru (exces) a zda u zajištění vznikla povinnost obrátit se na VM.
+
+**5. Řešení.** Jsou-li podmínky § 14 splněny a zásah je přiměřený, jde o dovolenou svépomoc vylučující protiprávnost; vlastník neodpovídá za zásah do osoby pachatele. Překročí-li míru (zranění nad rámec nutného), jde o exces mimo § 14 s možnou odpovědností i trestněprávní kvalifikací. U zajištění práva (odst. 2 věta poslední) je nutné bez zbytečného odkladu se obrátit na příslušný orgán. Procesně nese důkaz o splnění podmínek a přiměřenosti ten, kdo se svépomoci dovolává.
+
+**6. Varianty.** (a) Pokud by zásah VM zjevně pozdě nepřišel (pachatel zadržen kýmkoli jiným, policie na místě), svépomoc by nebyla přípustná a primární by byla soudní/úřední cesta (§ 12). (b) Pokud by vlastník pachatele zranil nad nezbytnou míru, šlo by o exces překračující § 14 (a případně § 29 TZ).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Svépomoc je nepřípustná, právo se vymáhá jen u soudu." Neutralizace: § 14 výslovně připouští přiměřenou svépomoc, je-li zřejmé, že zásah VM přijde pozdě; jde o úzkou, ale reálnou výjimku z § 12.
+- *Protiargument 2:* „Jakýkoli fyzický zásah vlastníka je nutná obrana." Neutralizace: svépomoc i nutná obrana mají meze přiměřenosti; exces vede k protiprávnosti, případně k trestní odpovědnosti (§ 29 TZ).
+- *Slabé místo:* prokázání „zřejmosti", že zásah VM přijde pozdě, a přiměřenosti prostředků je skutkové a kazuistické; u zajištění hrozí opomenutí povinnosti obrátit se na VM bez zbytečného odkladu.
+
+#### H. Praktický závěr
+
+§ 14 je úzká výjimka z monopolu soudní/úřední ochrany: dovoluje přiměřenou svépomoc při ohrožení práva, kdy je zřejmé, že zásah veřejné moci přijde pozdě. Rozhodující jsou přiměřenost, subsidiarita a u zajištění práva povinnost obrátit se bez zbytečného odkladu na orgán veřejné moci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo právo ohroženo a bylo zřejmé, že zásah veřejné moci přijde pozdě (§ 14 odst. 1)?
+- [ ] Byly použité prostředky přiměřené z pohledu osoby v daném postavení (zákaz excesu)?
+- [ ] Šlo o odvrácení zásahu, nebo o zajištění práva? U zajištění: obrátil se subjekt bez zbytečného odkladu na VM (§ 14 odst. 2)?
+- [ ] Nepřekročil zásah meze nutné obrany / krajní nouze (§ 2906—2908, § 29 TZ)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o ohroženém právu, časová osa a okolnosti zásahu, svědectví o přiměřenosti, doklad o následném obrácení se na orgán veřejné moci.
 
 ---
 

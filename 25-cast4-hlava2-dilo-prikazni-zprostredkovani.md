@@ -48,6 +48,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [23 Cdo 392/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/31ACC30082B1C3B9C125882E0017D664?openDocument) — *Zánik závazku Bezdůvodné obohacení Licenční smlouva (o. z.)*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Softwarová firma A (poskytovatel) přenechá nakladatelství B (nabyvatel) oprávnění užívat redakční systém k provozu zpravodajského portálu. Smlouva mlčí o odměně, strany ji při jednání nedohodly; B systém začne komerčně provozovat. Po roce A požaduje doplacení „obvyklé" licenční odměny, B namítá, že licence byla poskytnuta bezúplatně. Důkazy: text smlouvy, předsmluvní e‑mailová korespondence o ceně, znalecký posudek na obvyklou výši royalty, faktury B za provoz portálu.
+
+**2. Právní otázka.** Vznikla platná licenční smlouva i bez ujednání odměny a vznikl poskytovateli nárok na obvyklou odměnu, nebo jde o licenci bezúplatnou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2358 — licenční smlouva jako úplatný (typicky) závazek poskytnout oprávnění k výkonu práva duševního vlastnictví; odměna je pojmovým znakem, „není-li ujednáno jinak".
+- *Související ustanovení téhož zákona:* § 2366 (přesto platná smlouva bez určení odměny — buď obvyklá odměna podle písm. a/, nebo výslovně bezúplatnost podle písm. b/); § 2361 (presumpce nevýhradnosti); § 1746 odst. 2 (nepojmenovaná smlouva, podpůrně).
+- *Související předpisy:* autorský zákon č. 121/2000 Sb. (jde-li o autorské dílo/software); zákon č. 441/2003 Sb., zákon č. 527/1990 Sb. u průmyslových práv.
+- *Judikatura:* NS 23 Cdo 392/2020 (zánik závazku, bezdůvodné obohacení a licenční smlouva v o. z.) — potvrzuje aplikaci § 2358 a násl. a řešení nárokových následků při absenci či zániku titulu.
+
+**4. Subsumpce.** Znaky § 2358 (poskytnutí oprávnění k výkonu práva DV v určitém rozsahu) jsou naplněny — A umožnil B užívat systém. Sporným znakem je odměna: § 2358 stanoví domněnku úplatnosti, kterou prolomí jen ujednání bezúplatnosti (§ 2366 odst. 1 písm. b/). Pokud takové ujednání chybí a z jednání stran plyne vůle k úplatnosti, nastupuje obvyklá odměna (§ 2366 odst. 1 písm. a/).
+
+**5. Řešení.** Při absenci ujednání o bezúplatnosti se uplatní domněnka úplatnosti: B doplatí odměnu obvyklou v době uzavření smlouvy za srovnatelných podmínek. Procesně A unese důkazní břemeno o vůli uzavřít úplatnou smlouvu (§ 2366 odst. 1 písm. a/) a o obvyklé výši (znalecký posudek). Riziko: prokáže-li B, že strany mlčky sjednaly bezúplatnost (např. v rámci širšího barteru), nárok A zaniká.
+
+**6. Varianty.** (a) Strany ve smlouvě výslovně uvedly „licence se poskytuje bezúplatně" → nárok A na odměnu nevzniká (§ 2366 odst. 1 písm. b/). (b) Odměna byla sjednána procentem z výnosů → B musí umožnit kontrolu účetnictví a předkládat vyúčtování (§ 2366 odst. 2 a 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bezúplatnost":* B tvrdí konkludentní dohodu o bezúplatnosti. Neutralizace — § 2358 i § 2366 staví na domněnce úplatnosti; bezúplatnost musí být ujednána (prokázána), nestačí mlčení smlouvy.
+- *Protiargument „neurčitost předmětu":* B namítá neplatnost pro neurčitý rozsah licence. Neutralizace — rozsah lze dovodit výkladem podle účelu (§ 2376 odst. 2 analogicky pro autorské licence, jinak § 555 a násl.).
+- *Slabé místo:* obvyklá výše odměny u specifického software bývá obtížně prokazatelná; bez kvalitního znaleckého posudku hrozí zamítnutí pro neunesení důkazního břemene.
+
+#### H. Praktický závěr
+
+Licenční smlouva je platná i bez ujednání odměny; OZ presumuje úplatnost a bezúplatnost je nutné výslovně sjednat. Vždy je vhodné odměnu (či bezúplatnost), rozsah a výhradnost upravit písemně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem skutečně právo duševního vlastnictví (autorské dílo, patent, známka, know‑how)?
+- [ ] Je odměna ujednána, nebo je nutné aplikovat § 2366 (obvyklá vs. výslovná bezúplatnost)?
+- [ ] Je vymezen rozsah (výhradní/nevýhradní, územní, časový, množstevní)?
+- [ ] U royalty: je sjednáno právo kontroly účetnictví a vyúčtování?
+
+**Typicky rozhodné důkazy / podklady:** licenční smlouva, předsmluvní korespondence o ceně, znalecký posudek na obvyklou výši odměny, doklady o skutečném využívání licence nabyvatelem.
+
 ### Druhy licencí
 
 **§ 2359 — Výhradní × nevýhradní licence**:
@@ -83,6 +119,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *OS v Hradci Králové* [13 C 127/2022-44](https://rozhodnuti.justice.cz/rozhodnuti/?id=d564d0f3-9cd1-447b-a011-051a81787010) — *peněžité plnění, reklama*
 - *KS v Plzni* [61 Co 183/2025-156](https://rozhodnuti.justice.cz/rozhodnuti/?id=7673b2bd-34f3-47b7-bdb0-77be49ca932c) — *příslušnost soudu, výklad projevu vůle, dokazování, odvolání, smlouva o dílo, smlouva o…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nabyvatel licence k užití grafického díla (vývojář her V) postoupí licenci třetí osobě (studiu S) bez písemného souhlasu poskytovatele (autora grafiky P). P se o postoupení dozví až z marketingových materiálů S. P požaduje určení, že postoupení je neúčinné, a náhradu škody. Důkazy: licenční smlouva V–P, smlouva o postoupení V–S, absence písemného souhlasu P, oznámení (či jeho absence) podle § 2364 odst. 2.
+
+**2. Právní otázka.** Je postoupení licence bez písemného souhlasu poskytovatele účinné vůči poskytovateli?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2364 — postoupení licence třetí osobě jen se souhlasem poskytovatele ve **písemné formě**; oznamovací povinnost nabyvatele (odst. 2); § 2366 — odměna a její vyúčtování.
+- *Související ustanovení téhož zákona:* § 2365 (výjimka při převodu závodu — souhlas jen byl-li zvlášť ujednán); § 582 (následky nedostatku formy); § 2358 (úplatnost licence).
+- *Související předpisy:* autorský zákon č. 121/2000 Sb. (autorskoprávní licence); zákon č. 89/2012 Sb. obecná úprava postoupení (§ 1879 a násl. podpůrně k povaze převodu).
+- *Judikatura:* obecně přijímaný závěr, že souhlas poskytovatele s postoupením je hmotněprávní podmínkou účinnosti převodu; bez něj nabývá postupník právo jen relativně neúčinně vůči poskytovateli.
+
+**4. Subsumpce.** Znak „postoupení licence třetí osobě" je naplněn (V → S). Znak „souhlas poskytovatele v písemné formě" naplněn není — P souhlas neudělil. Výjimka § 2365 (převod závodu) se neuplatní, nešlo o převod závodu. Postoupení je proto vůči P neúčinné.
+
+**5. Řešení.** Bez písemného souhlasu P je postoupení vůči poskytovateli neúčinné; P se může domáhat určení neúčinnosti a případně náhrady škody, porušil-li V i oznamovací povinnost (§ 2364 odst. 2). Procesně: P prokazuje absenci souhlasu, V/S nesou důkazní břemeno o jeho existenci (písemná forma). Alternativa: následné udělení souhlasu P konvaliduje stav do budoucna.
+
+**6. Varianty.** (a) V postoupil licenci v rámci převodu svého závodu a strany nesjednaly nutnost souhlasu → souhlas P se nevyžaduje (§ 2365). (b) P udělil souhlas ústně → nedostatek písemné formy činí souhlas vadným; sporné, zda jde o zdánlivost či neplatnost (§ 582), v každém případě riziko neúčinnosti převodu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „konkludentní souhlas":* S tvrdí, že P o postoupení věděl a nebránil mu. Neutralizace — § 2364 výslovně žádá **písemnou** formu souhlasu; pasivita poskytovatele ji nenahrazuje.
+- *Protiargument „převod závodu":* V tvrdí, že šlo o převod složky závodu (§ 2365). Neutralizace — výjimka platí jen pro skutečný převod závodu/jeho části tvořící samostatnou složku; je nutné prokázat tuto kvalitu.
+- *Slabé místo:* rozlišení mezi neplatností a relativní neúčinností postoupení; volba žalobního petitu (určení vs. plnění) je rozhodná pro úspěch.
+
+#### H. Praktický závěr
+
+Postoupení licence i udělení podlicence vyžaduje písemný souhlas poskytovatele; bez něj je převod vůči poskytovateli neúčinný. Nabyvatel má navíc povinnost postoupení bez odkladu oznámit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje písemný souhlas poskytovatele s postoupením/podlicencí?
+- [ ] Byla splněna oznamovací povinnost podle § 2364 odst. 2?
+- [ ] Nejde o převod závodu, kde se souhlas nevyžaduje (§ 2365)?
+- [ ] U odměny dle výnosů: bylo umožněno nahlédnutí do účetnictví a předkládáno vyúčtování (§ 2366 odst. 2 a 3)?
+
+**Typicky rozhodné důkazy / podklady:** licenční smlouva, smlouva o postoupení, listina souhlasu poskytovatele, oznámení o postoupení, účetní podklady k royalty.
+
 ### § 2367—2370 — Odměna
 
 **§ 2367**:
@@ -101,6 +173,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **§ 2367 — Výše odměny**:
 - Smluvní (typicky paušál nebo % z příjmů — *royalty*);
 - **Bez ujednání**: licence je **úplatná** (domněnka), odměna se určí dle obvyklé (tržní) ceny.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel P (vlastník technologie) uzavře s nabyvatelem N licenci k výrobnímu postupu. P po uzavření smlouvy nepředá N technickou dokumentaci nutnou k výkonu licence. N proto nemůže licenci využít a vznikne mu prodlení vůči vlastním odběratelům. Současně N v rámci výroby zjistí, že třetí osoba T porušuje licencovaná práva, P o tom neinformuje. Důkazy: licenční smlouva, doklad o (ne)předání podkladů, korespondence o výzvách N, doklady o škodě N.
+
+**2. Právní otázka.** Porušil poskytovatel povinnost poskytnout podklady (§ 2367) a jaké následky má jeho prodlení; jaké jsou povinnosti stran při ohrožení licence třetí osobou (§ 2369)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2367 (povinnost poskytovatele předat bez zbytečného odkladu podklady a informace k výkonu licence); § 2368 (mlčenlivost nabyvatele); § 2369 (oznámení ohrožení licence a součinnost při právní ochraně); § 2370 (výpověď licence na dobu neurčitou — účinnost po roce).
+- *Související ustanovení téhož zákona:* § 1968 a násl. (prodlení dlužníka); § 2913 (náhrada škody z porušení smlouvy); § 2358 (úplatnost).
+- *Související předpisy:* zákon č. 221/2006 Sb. o vymáhání práv z průmyslového vlastnictví; autorský zákon č. 121/2000 Sb. (u autorských licencí).
+- *Judikatura:* obecné zásady odpovědnosti za škodu z porušení smluvní povinnosti (§ 2913) aplikované na licenční vztahy; NS 23 Cdo 392/2020 k nárokovým následkům v rámci licenční smlouvy.
+
+**4. Subsumpce.** Povinnost § 2367 (předání podkladů) je naplněna co do existence, porušena co do splnění — P podklady nepředal. Tím se P dostal do prodlení a odpovídá za škodu N (§ 2913). Povinnost § 2369 (oznámení ohrožení) dopadá na vztah k T: N měl P o porušení informovat, P měl poskytnout součinnost; nesplnění zakládá odpovědnost příslušné strany.
+
+**5. Řešení.** N má vůči P právo na předání podkladů (žaloba na plnění) a na náhradu škody za prodlení (§ 2913). Ohledně T: N (jako nabyvatel, případně výhradní) oznámí P ohrožení a může se podílet na ochraně práva; P je povinen poskytnout součinnost. Procesně N prokazuje nepředání podkladů a vznik škody. Riziko: rozsah „nutných" podkladů může být sporný.
+
+**6. Varianty.** (a) Smlouva je na dobu neurčitou a P ji vypoví → výpověď je účinná až uplynutím jednoho roku od konce měsíce doručení (§ 2370), N má mezitím prostor licenci využít. (b) N prozradí důvěrné podklady třetí osobě → poruší mlčenlivost (§ 2368) a odpovídá P za škodu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „podklady nebyly potřebné":* P tvrdí, že N měl vše k dispozici. Neutralizace — § 2367 ukládá poskytnout vše „potřebné k výkonu licence"; rozsah se posoudí podle účelu a povahy práva, důkazně podpořeno odborným vyjádřením.
+- *Protiargument „součinnost při ochraně není vynutitelná":* P odmítá pomoc proti T. Neutralizace — § 2369 zakládá výslovnou povinnost součinnosti; její porušení je porušením smluvní povinnosti se sankcí náhrady škody.
+- *Slabé místo:* prokázání výše škody z prodlení (ušlý zisk N) bývá náročné; vhodné doložit konkrétní zmařené zakázky.
+
+#### H. Praktický závěr
+
+Poskytovatel musí nabyvateli bez zbytečného odkladu předat podklady k výkonu licence a poskytnout součinnost při její ochraně; nabyvatel je vázán mlčenlivostí. U licencí na dobu neurčitou platí roční výpovědní mechanismus § 2370.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Předal poskytovatel veškeré podklady a informace nutné k výkonu licence (§ 2367)?
+- [ ] Dodržuje nabyvatel mlčenlivost o podkladech a sděleních (§ 2368)?
+- [ ] Bylo ohrožení/porušení licence oznámeno a byla poskytnuta součinnost (§ 2369)?
+- [ ] U výpovědi licence na dobu neurčitou: počítá se roční odklad účinnosti (§ 2370)?
+
+**Typicky rozhodné důkazy / podklady:** licenční smlouva, předávací protokol podkladů, výzvy k předání, doklady o škodě (zmařené zakázky), korespondence k ohrožení práva třetí osobou.
 
 ### § 2371—2389 — Specifická pravidla pro autorské licence
 
@@ -222,6 +330,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *OS v Přerově* [7 C 309/2021-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=3e2a229a-a9a8-46e4-ae51-c5671fcdf397) — *bezdůvodné obohacení, smlouva o úvěru, smlouva o zápůjčce*
 - *ObS pro Prahu 4* [43 C 270/2021-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=e2918042-cd2d-477e-a11d-35f32b093d55) — *peněžité plnění, postoupení pohledávky, smlouva o úvěru*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Autor A poskytne nakladatelství N nakladatelskou licenci k vydání románu; ve smlouvě není výslovně uvedeno, zda je nevýhradní. Sjednaná odměna je pevná částka 30 000 Kč. Kniha se stane bestsellerem a N na ní vydělá miliony. A požaduje dodatečnou přiměřenou odměnu; N odmítá s odkazem na pevně sjednanou částku a na klauzuli, kterou se A práva na dodatečnou odměnu vzdal. Důkazy: nakladatelská smlouva, výkazy prodejnosti a výnosů N, znalecký posudek na obvyklou odměnu.
+
+**2. Právní otázka.** Má autor právo na dodatečnou odměnu (bestsellerová klauzule) navzdory pevně sjednané částce a navzdory ujednání, jímž se tohoto práva vzdal?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2374 odst. 2 — je-li původní odměna ve zřejmém nepoměru k výnosům, autor může požadovat přiměřenou dodatečnou odměnu; k ujednáním vylučujícím toto právo i ke vzdání se nepřihlíží; § 2384 odst. 2 — domněnka výhradní nakladatelské licence, nebyla-li písemně sjednána nevýhradní; § 2376 (rozsah licence); § 2371 (předmět autorské licence).
+- *Související ustanovení téhož zákona:* § 2374 odst. 3 (určení výše dodatečné odměny soudem); § 2375 (zásahy do díla a označení autora); § 2378–2382 (odstoupení autora).
+- *Související předpisy:* autorský zákon č. 121/2000 Sb.; směrnice (EU) 2019/790 (DSM) — princip přiměřené a spravedlivé odměny.
+- *Judikatura:* VS v Praze 3 CO 82/2023 a KS v Praze 73 C 3/2021 (autorské dílo, licenční smlouva) — aplikace ochranných pravidel autorských licencí.
+
+**4. Subsumpce.** Znak „zřejmý nepoměr" mezi pevnou odměnou (30 000 Kč) a výnosy (miliony) je naplněn. Znak „vzdání se práva" je právně irelevantní — § 2374 odst. 2 výslovně stanoví, že se k němu nepřihlíží (kogentní ochrana autora). Licence je navíc presumována jako výhradní (§ 2384 odst. 2), nebyla-li písemně sjednána nevýhradní.
+
+**5. Řešení.** A má právo na přiměřenou a spravedlivou dodatečnou odměnu; klauzule o vzdání se je neúčinná. Nedohodnou-li se strany, určí výši soud podle § 2374 odst. 3 (zohlední původní odměnu, výnosy, význam díla, obvyklou odměnu). Procesně A prokazuje nepoměr a výnosy N (typicky edičním výkazem a znaleckým posudkem). Riziko: „přiměřenost" je úvahou soudu, výsledek je hůře předvídatelný.
+
+**6. Varianty.** (a) Strany písemně sjednaly nevýhradní nakladatelskou licenci → nepoužije se domněnka výhradnosti, ale právo na dodatečnou odměnu zůstává. (b) N nevyužil výhradní licenci vůbec → A může odstoupit nebo licenci omezit po výzvě a marném uplynutí lhůty (§ 2378, § 2379).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pacta sunt servanda":* N tvrdí závaznost pevné odměny. Neutralizace — § 2374 odst. 2 je kogentní výjimkou chránící autora; smluvní vyloučení i vzdání se jsou bez účinku.
+- *Protiargument „pevná částka byla odůvodněná":* N tvrdí, že odvětví připouští paušál. Neutralizace — § 2374 odst. 1 paušál připouští jen v odůvodněných případech; i tak nevylučuje korekci podle odst. 2 při zřejmém nepoměru.
+- *Slabé místo:* určení „přiměřené" dodatečné odměny je závislé na úvaze soudu a kvalitě znaleckého posouzení výnosů.
+
+#### H. Praktický závěr
+
+Autorské licence požívají zvýšené ochrany: bestsellerová klauzule (§ 2374 odst. 2) je kogentní a nelze ji vyloučit ani se jí vzdát; nakladatelská licence se presumuje jako výhradní. Pevnou odměnu lze sjednat jen v odůvodněných případech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je odměna ve zřejmém nepoměru k výnosům (aktivace § 2374 odst. 2)?
+- [ ] Obsahuje smlouva (neúčinné) vyloučení dodatečné odměny nebo vzdání se práva?
+- [ ] U nakladatelské licence: byla písemně sjednána nevýhradnost, jinak platí výhradnost (§ 2384 odst. 2)?
+- [ ] Nevyužívá-li nabyvatel výhradní licenci: byla dána výzva a uplynuly lhůty (§ 2378, § 2379)?
+
+**Typicky rozhodné důkazy / podklady:** nakladatelská/licenční smlouva, ediční a prodejní výkazy, vyúčtování výnosů, znalecký posudek na obvyklou výši autorské odměny.
+
 ---
 
 ## Zápůjčka (§ 2390—2394)
@@ -256,6 +400,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „I když při zápůjčce se zapůjčitel zavazuje převést (a převádí) vlastnické právo k zastupitelné věci na vydlužitele, pojmovým znakem této smlouvy je závazek vydlužitele po čase vrátit zapůjčiteli věc stejného druhu (§ 2390 o. z.)."
 - *NS* [33 Cdo 2141/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC63D9820B0553AC125861E0041D8AD?openDocument) — *Přípustnost dovolání Smlouva o zápůjčce (mutuum) (o. z.)*
   > „Výtkou, že soudy porušily zásadu předvídatelnosti rozhodnutí, neboť nebyl poučen o případné možné právní kvalifikaci spočívající v aplikaci ustanovení § 2390 zákona č. 89/2012 Sb., občanský zákoník, ve znění účinném od 1."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba Z (zapůjčitel) předá příteli V (vydlužitel) v hotovosti 200 000 Kč „na rozjezd podnikání"; písemná smlouva neexistuje, peníze předány osobně bez svědků, ale Z má bankovní výpis o předchozím výběru a SMS, v níž V píše „díky za půjčku, vrátím do roka". V po roce odmítá s tím, že šlo o dar, případně že peníze nikdy nedostal. Z se domáhá vrácení 200 000 Kč. Důkazy: SMS V, bankovní výpis o výběru, případně svědci o účelu, výslechy účastníků.
+
+**2. Právní otázka.** Vznikla mezi Z a V smlouva o zápůjčce a unese Z důkazní břemeno o přenechání peněz a o závazku k vrácení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2390 — zápůjčka jako reálný kontrakt: vzniká přenecháním zastupitelné věci s povinností vrátit věc stejného druhu; vlastnictví přechází na vydlužitele.
+- *Související ustanovení téhož zákona:* § 2393 (splatnost a výpověď, není-li doba určena); § 2392 (úroky); § 2055 a násl. (darování — pro odlišení); § 1721 (závazky obecně).
+- *Související předpisy:* zákon č. 257/2016 Sb. o spotřebitelském úvěru (je-li zapůjčitel podnikatelem a vydlužitel spotřebitelem); zákon č. 89/2012 Sb. — promlčení (§ 619 a násl.).
+- *Judikatura:* NS 23 Cdo 2939/2020 a 27 Cdo 226/2019 (pojmovým znakem zápůjčky je závazek vrátit věc stejného druhu po čase); NS 33 Cdo 565/2021 (rozložení břemene tvrzení a důkazního břemene o přenechání peněz); NS 33 Cdo 3597/2024 (postavení spotřebitele u zápůjčky).
+
+**4. Subsumpce.** Znak „přenechání zastupitelné věci" (200 000 Kč) je sporný — Z jej musí prokázat; SMS V („vrátím do roka") svědčí o přijetí peněz i o závazku k vrácení. Znak „povinnost vrátit věc stejného druhu" plyne z téže SMS. Tvrzení V o daru naráží na § 2390 (vrácení) a na obsah SMS.
+
+**5. Řešení.** Prokáže-li Z přenechání peněz a závazek k vrácení (zejména SMS ve spojení s výpisem), soud kvalifikuje vztah jako zápůjčku a uloží V vrátit 200 000 Kč. Důkazní břemeno o uzavření zápůjčky a předání nese Z (NS 33 Cdo 565/2021); V tíží břemeno tvrzení o daru. Riziko: bez listiny stojí věc na věrohodnosti nepřímých důkazů.
+
+**6. Varianty.** (a) Existuje písemné uznání dluhu V → důkazní pozice Z se zásadně zlepší, nastupuje vyvratitelná domněnka trvání dluhu (§ 2053). (b) Z je podnikatel poskytující půjčky a V spotřebitel → aplikuje se zákon č. 257/2016 Sb. s důsledky pro platnost a informační povinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo o dar":* V tvrdí bezúplatné darování. Neutralizace — text SMS („vrátím") vylučuje animus donandi; darování by muselo být prokázáno V.
+- *Protiargument „peníze nebyly předány":* V popírá traditio. Neutralizace — zápůjčka je reálný kontrakt, ale předání lze prokázat i nepřímo (výběr hotovosti + potvrzení v komunikaci).
+- *Slabé místo:* absence písemné smlouvy zvyšuje riziko neúspěchu; klíčová je konzistence a věrohodnost nepřímých důkazů.
+
+#### H. Praktický závěr
+
+Zápůjčka vzniká reálně (přenecháním věci), nikoli pouhou dohodou; spor se proto typicky vede o předání a o povahu plnění (zápůjčka vs. dar). Důkazní břemeno o přenechání a závazku k vrácení tíží zapůjčitele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doloženo přenechání zastupitelné věci (předání peněz)?
+- [ ] Plyne ze skutkového stavu závazek vrátit věc stejného druhu (odlišení od daru)?
+- [ ] Je vydlužitel spotřebitelem a zapůjčitel podnikatelem (aplikace zák. č. 257/2016 Sb.)?
+- [ ] Je řešena splatnost (ujednání vs. výpověď podle § 2393)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva nebo uznání dluhu, bankovní výpisy o pohybu peněz, písemná/elektronická komunikace stran, svědecké výpovědi k předání a účelu.
 
 ### § 2391—2394 — Podrobnosti
 
@@ -294,6 +474,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 3037/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D089B9C17B35AE24C125851D001B7AA0?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Promlčení*
 - *NS* [31 Cdo 3263/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0F1A776D81C25769C1258C98004D4F70?openDocument) — 23. 4. 2025
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zapůjčitel Z poskytl V peněžitou zápůjčku 500 000 Kč se splácením v 10 měsíčních splátkách po 50 000 Kč a s úrokem. V zaplatil tři splátky, pak přestal platit a po dobu čtyř měsíců neuhradil nic. Z chce požadovat celý zbytek dluhu najednou i s úroky. Důkazy: smlouva se splátkovým kalendářem, doklady o úhradě tří splátek, výzva k úhradě, evidence prodlení.
+
+**2. Právní otázka.** Jsou splněny podmínky pro odstoupení zapůjčitele a zesplatnění celé zápůjčky pro prodlení vydlužitele se splátkami (§ 2394)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2394 — při prodlení s vrácením více než dvou splátek nebo jedné splátky po dobu delší než tři měsíce může zapůjčitel odstoupit a žádat celý dluh i s úroky; § 2392 (úroky); § 2393 (splatnost a výpověď); § 2391 (měna a nepeněžitá zápůjčka).
+- *Související ustanovení téhož zákona:* § 1968–1970 (prodlení a úrok z prodlení); § 2001 a násl. (odstoupení od smlouvy); § 1796 (lichva — limit úroků).
+- *Související předpisy:* zákon č. 257/2016 Sb. (spotřebitelský kontext); nařízení vlády č. 351/2013 Sb. (zákonný úrok z prodlení).
+- *Judikatura:* NS 33 Cdo 3037/2019 a 23 Cdo 805/2025 (promlčení nároků ze zápůjčky); obecné závěry k zesplatnění při splátkovém režimu.
+
+**4. Subsumpce.** Znak „prodlení s více než dvěma splátkami" je naplněn (V dluží 7 splátek). Současně je naplněn i alternativní znak „jedna splátka po dobu delší než tři měsíce" (čtyři měsíce neplacení). Tím vzniká právo Z odstoupit a požadovat celý dluh s úroky.
+
+**5. Řešení.** Z může od smlouvy odstoupit a žádat zaplacení celého zbytku jistiny (350 000 Kč) i s úroky a úrokem z prodlení. Procesně: Z prokáže smlouvu, splátkový režim a prodlení; vhodné předchozí kvalifikované zesplatnění/výzva. Riziko: u spotřebitele je nutné respektovat ochranná pravidla (§ 1811 a násl., zák. č. 257/2016 Sb.) a přiměřenost úroků (§ 1796).
+
+**6. Varianty.** (a) V se opozdil jen s jednou splátkou o dva měsíce → podmínky § 2394 nejsou splněny, Z nemůže zesplatnit celý dluh. (b) Sjednaný úrok je lichvářský → ujednání o úroku je neplatné (§ 1796), jistina však zůstává splatná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „prodlení nedosáhlo zákonné intenzity":* V tvrdí nesplnění podmínek § 2394. Neutralizace — postačí naplnění jedné z alternativ (dvě splátky, nebo jedna déle než tři měsíce); zde jsou splněny obě.
+- *Protiargument „úrok je nepřiměřený":* V namítá lichvu. Neutralizace — i při neplatnosti úroku (§ 1796) zůstává nárok na vrácení jistiny a zákonný úrok z prodlení.
+- *Slabé místo:* u spotřebitelských zápůjček může absence předepsaného zesplatnění/upomínky oslabit nárok na okamžité zesplatnění.
+
+#### H. Praktický závěr
+
+U splátkové zápůjčky umožňuje § 2394 zesplatnit celý dluh při kvalifikovaném prodlení (dvě splátky, nebo jedna déle než tři měsíce). U nepeněžité zápůjčky se vrací věc stejného druhu bez ohledu na pohyb ceny (§ 2391 odst. 2), úroky lze sjednat (§ 2392).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je splátkový režim sjednán a je doloženo prodlení v intenzitě § 2394?
+- [ ] Byl úrok sjednán platně (test lichvy podle § 1796)?
+- [ ] Jde o spotřebitelský vztah s povinným zesplatněním/upomínkou?
+- [ ] U cizoměnové/nepeněžité zápůjčky: je řešen způsob vrácení podle § 2391?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zápůjčce se splátkovým kalendářem, doklady o úhradách, upomínky a zesplatnění, výpočet jistiny, úroku a úroku z prodlení.
+
 ---
 
 ## Úvěr (§ 2395—2400)
@@ -319,6 +535,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „2015 je úvěrovou smlouvou (§ 2395 a násl. zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen „o. z.“), na jejímž základě banka poukázala na účet splátkové kreditní karty žalovaného peněžní prostředky za účelem umoření své pohledávky z produktu smlouvy o úvěru „Karta.“ Tzv."
 - *NS* [33 Cdo 1459/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B4CB07A049A07F5C1258AC1001B7E9E?openDocument) — *Neplatnost právního jednání (o. z.) Smlouva o úvěru*
   > „Účel úvěru – poskytnutí peněžních prostředků a jejich vrácení spolu s úroky (§ 2395 o. z.) – svědčí pro závěr, že zbylé části právního jednání, tedy i utvrzení dluhu smluvní pokutou (článek V.4) obstojí."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B uzavřela s podnikatelem U úvěrovou smlouvu s rámcem 2 mil. Kč; U čerpal 1,2 mil. Kč. Smlouva obsahuje utvrzení dluhu smluvní pokutou. U později namítá, že celá smlouva je neplatná pro neurčitost ujednání o smluvní pokutě, a dovozuje neplatnost celého závazku včetně povinnosti vrátit čerpané prostředky. Důkazy: úvěrová smlouva, doklady o čerpání, výpisy účtu.
+
+**2. Právní otázka.** Vede případná neplatnost dílčího ujednání (smluvní pokuty) k neplatnosti celé úvěrové smlouvy, nebo obstojí jádro závazku — poskytnutí a vrácení peněz s úroky (§ 2395)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2395 — úvěr jako konsenzuální závazek: úvěrující se zavazuje poskytnout peníze na požádání, úvěrovaný je vrátit a zaplatit úroky; vždy úplatný.
+- *Související ustanovení téhož zákona:* § 576 (částečná neplatnost — oddělitelnost); § 2048 (smluvní pokuta); § 2396 (vrácení v téže měně); § 2400 (účelový úvěr a odstoupení).
+- *Související předpisy:* zákon č. 257/2016 Sb. o spotřebitelském úvěru; zákon č. 21/1992 Sb. o bankách; § 211 tr. zákoníku (úvěrový podvod).
+- *Judikatura:* NS 33 Cdo 1459/2023 (účel úvěru — poskytnutí a vrácení s úroky — svědčí pro obstání zbylých částí jednání i při neplatnosti utvrzení); NS 33 Cdo 4155/2018 a 4 Tdo 168/2020 (kvalifikace jako úvěrová smlouva podle § 2395).
+
+**4. Subsumpce.** Jádro § 2395 (poskytnutí peněz a závazek je vrátit s úroky) je naplněno a je oddělitelné od ujednání o smluvní pokutě. Podle § 576 vede neplatnost části k neplatnosti celku jen tehdy, nelze-li ji oddělit. Účel úvěru (NS 33 Cdo 1459/2023) svědčí pro obstání jádra závazku.
+
+**5. Řešení.** I kdyby bylo ujednání o smluvní pokutě neplatné, povinnost U vrátit 1,2 mil. Kč s úroky obstojí (oddělitelnost, § 576; NS 33 Cdo 1459/2023). B se proto úspěšně domůže vrácení čerpané částky a úroků. Procesně B prokazuje uzavření smlouvy a čerpání. Riziko: u spotřebitelského úvěru přísnější režim platnosti a sankcí.
+
+**6. Varianty.** (a) Úvěr byl účelový a U prostředky použil na jiný účel → B může odstoupit a žádat okamžité vrácení i s úroky (§ 2400). (b) Neplatnost zasahuje podstatnou náležitost (např. samotnou úplatnost/úrok jako esenciální prvek) → mohla by být dotčena platnost smlouvy jako celku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neplatnost celku":* U dovozuje pád celé smlouvy. Neutralizace — § 576 a účel úvěru (NS 33 Cdo 1459/2023) zachovávají oddělitelné jádro (vrácení + úroky).
+- *Protiargument „nejde o úvěr, ale o zápůjčku":* U zpochybňuje kvalifikaci. Neutralizace — úvěr je konsenzuální a vždy úplatný (§ 2395), na rozdíl od reálné zápůjčky; rozhoduje obsah ujednání.
+- *Slabé místo:* hranice oddělitelnosti je úvahová; u esenciálních vad (chybějící úrok jako pojmový znak) může jádro padnout.
+
+#### H. Praktický závěr
+
+Úvěr je konsenzuální a vždy úplatná smlouva; neplatnost vedlejších ujednání (např. smluvní pokuty) zpravidla nezničí jádro závazku — vrácení peněz s úroky (§ 576, § 2395). U účelového úvěru hrozí odstoupení při zneužití účelu (§ 2400).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje vztah pojmové znaky úvěru (závazek poskytnout, vrátit, úroky)?
+- [ ] Je vadné ujednání oddělitelné od jádra smlouvy (§ 576)?
+- [ ] Jde o účelový úvěr a byl účel dodržen (§ 2398 odst. 2, § 2400)?
+- [ ] Jde o spotřebitelský úvěr (aplikace zák. č. 257/2016 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva, doklady o čerpání a vrácení, výpisy účtu, výpočet úroků, dokumentace k účelu úvěru.
 
 ### § 2396—2400 — Specifika
 
@@ -360,6 +612,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [33 Cdo 4155/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBD6AE5DF4A9786AC1258474002EA260?openDocument) — *Smlouva o úvěru*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B poskytla U účelový úvěr 3 mil. Kč výslovně na pořízení výrobní linky. U však prostředky použil na úhradu jiných dluhů. B se to dozví z účetnictví U. B chce od smlouvy odstoupit a požadovat okamžité vrácení s úroky. Důkazy: úvěrová smlouva s vymezením účelu, doklady o použití prostředků, účetnictví U, výzva B.
+
+**2. Právní otázka.** Může úvěrující odstoupit a žádat okamžité vrácení úvěru, použil-li úvěrovaný prostředky na jiný než smluvený účel (§ 2400)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2400 — při použití účelově vázaných prostředků na jiný účel (nebo při nemožnosti dosáhnout účelu) může úvěrující odstoupit a žádat bezodkladné vrácení i s úroky; § 2398 odst. 2 (omezení čerpání na účel); § 2399 (vrácení, předčasné splacení); § 2396 (měna).
+- *Související ustanovení téhož zákona:* § 2001 a násl. (odstoupení); § 1968 (prodlení).
+- *Související předpisy:* zákon č. 257/2016 Sb.; § 211 odst. 2 tr. zákoníku (použití úvěru na jiný účel jako úvěrový podvod).
+- *Judikatura:* NS 33 Cdo 4155/2018 (kvalifikace úvěru podle § 2395 a násl.); NS 33 ICdo 154/2022 (účel úvěru není podstatnou náležitostí, ale je-li sjednán, zavazuje).
+
+**4. Subsumpce.** Znak „účelově vázané prostředky" je naplněn (linka). Znak „použití na jiný účel" je naplněn (úhrada jiných dluhů). Tím vzniká právo úvěrujícího podle § 2400 odstoupit a žádat okamžité vrácení s úroky.
+
+**5. Řešení.** B může odstoupit a požadovat bezodkladné vrácení 3 mil. Kč s úroky (§ 2400). Procesně B prokazuje sjednaný účel a jeho porušení; vhodná je předchozí výzva. Pozor na možný trestněprávní přesah (§ 211 odst. 2 tr. zákoníku). Riziko: musí být doložena skutečná účelová vázanost, nikoli jen deklarace v žádosti.
+
+**6. Varianty.** (a) Účel byl ve smlouvě jen informativně zmíněn bez vázanosti čerpání → § 2400 se neuplatní, B nemůže z tohoto důvodu odstoupit. (b) U chce splatit úvěr předčasně → smí, úroky platí jen za dobu od poskytnutí do vrácení (§ 2399 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „účel nebyl závazný":* U tvrdí, že účel byl jen popisný. Neutralizace — rozhoduje, zda byla sjednána účelová vázanost čerpání (§ 2398 odst. 2); je-li sjednána, porušení aktivuje § 2400.
+- *Protiargument „nebylo odstoupeno řádně":* U namítá vady odstoupení. Neutralizace — odstoupení musí být adresné a odůvodněné; doložit doručení a důvod.
+- *Slabé místo:* prokázání skutečného použití prostředků vyžaduje přístup k účetnictví U, jinak hrozí důkazní nouze.
+
+#### H. Praktický závěr
+
+U účelového úvěru je porušení účelu silným titulem k odstoupení a okamžitému zesplatnění s úroky (§ 2400); úvěrující může čerpání rovnou omezit na účelové platby (§ 2398 odst. 2). Úvěrovaný smí předčasně splatit a platí úroky jen za dobu užití (§ 2399).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je účel úvěru sjednán jako závazný (vázanost čerpání)?
+- [ ] Je doloženo použití prostředků na jiný účel?
+- [ ] Bylo odstoupení řádně doručeno a odůvodněno (§ 2400, § 2001)?
+- [ ] Nehrozí trestněprávní rovina (§ 211 tr. zákoníku)?
+
+**Typicky rozhodné důkazy / podklady:** úvěrová smlouva s vymezením účelu, doklady o čerpání a o skutečném použití prostředků, účetní podklady úvěrovaného, odstoupení a výzva k vrácení.
+
 ---
 
 ## Úschova (§ 2402—2414)
@@ -377,6 +665,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *NS* [33 Cdo 2114/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A4DD72C47178C1FC1258947001DFCB4?openDocument) — *Smlouva spotřebitelská Smlouva o smlouvě budoucí Smlouva o úschově Dovolací důvody Přípu…*
   > „Podle odvolacího soudu žalobci jakožto budoucí kupující uzavřeli s žalovanou (mimo prostor obvyklý pro její podnikání, § 1828 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů /dále jen „o."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Budoucí kupující K složili u realitní kanceláře R (schovatel) jako uschovatelé částku 300 000 Kč na kupní cenu bytu do doby uzavření kupní smlouvy. Kupní smlouva nakonec nevznikla. K žádají vrácení peněz; R tvrdí, že částku započetla na svou provizi a náklady. Smlouva o úschově byla uzavřena mimo obchodní prostory R. Důkazy: smlouva o úschově, doklad o složení peněz, ujednání o provizi, okolnosti uzavření smlouvy.
+
+**2. Právní otázka.** Jde o platnou smlouvu o úschově, je R povinna vrátit uschovanou věc na žádost uschovatelů a může jednostranně započíst své pohledávky proti povinnosti vrátit úschovu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2402 — úschova jako závazek schovatele opatrovat a chránit převzatou věc pro uschovatele; pojmově movitá věc (zde peníze).
+- *Související ustanovení téhož zákona:* § 2403 (vrácení i před uplynutím doby na žádost uschovatele); § 2404 (úschova bez určení doby); § 2406 (úplata a náklady); § 1828 (smlouvy mimo obchodní prostory — spotřebitel).
+- *Související předpisy:* zákon č. 89/2012 Sb. — započtení (§ 1982 a násl.); zákon č. 39/2020 Sb. o realitním zprostředkování (úschovy realitních zprostředkovatelů).
+- *Judikatura:* NS 33 Cdo 2114/2022 (smlouva o úschově v souvislosti se smlouvou o smlouvě budoucí uzavřená mimo obchodní prostory, ochrana spotřebitele).
+
+**4. Subsumpce.** Znaky § 2402 (převzetí věci k opatrování pro uschovatele) jsou naplněny — R převzala peníze K. Povinnost vrátit věc na žádost (§ 2403 odst. 2) je dána. Sporný je zápočet: jednostranné započtení proti povinnosti vrátit úschovu vyžaduje existující splatnou a způsobilou pohledávku R; účelová vázanost úschovy započtení zpravidla brání.
+
+**5. Řešení.** R je povinna vrátit uschovaných 300 000 Kč na žádost K (§ 2403). Jednostranný zápočet provize/nákladů zpravidla neobstojí, byla-li úschova vázána výlučně na kupní cenu a strany zápočet nepřipustily; navíc v spotřebitelském režimu (§ 1828, NS 33 Cdo 2114/2022) je ochrana K posílena. Procesně K prokáží složení a žádost o vrácení. Riziko: bylo-li započtení smluvně dovoleno, mohla by se část pohledávky vypořádat.
+
+**6. Varianty.** (a) Smlouva výslovně umožnila R uspokojit provizi z úschovy → zápočet by mohl obstát do dohodnuté výše. (b) Úschova byla sjednána na dobu neurčitou bez vázanosti → uschovatel může kdykoli žádat vrácení a schovatel kdykoli vrátit (§ 2404).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nárok na provizi a náklady":* R tvrdí právo na úplatu a náhradu nákladů (§ 2406). Neutralizace — tyto nároky se uplatní samostatně, nikoli jednostranným zásahem do účelově vázané úschovy bez dohody.
+- *Protiargument „šlo o zálohu, ne úschovu":* R překvalifikovává plnění. Neutralizace — rozhoduje obsah ujednání; byla-li věc předána k opatrování a vrácení, jde o úschovu (§ 2402).
+- *Slabé místo:* hranice mezi úschovou a zálohou/jistotou je výkladová; nutné pečlivě posoudit text smlouvy.
+
+#### H. Praktický závěr
+
+Úschova zavazuje schovatele opatrovat věc a vrátit ji na žádost uschovatele (§ 2402, § 2403); účelově vázanou úschovu nelze zpravidla jednostranně použít na vlastní pohledávky schovatele. U spotřebitelských úschov mimo obchodní prostory platí zvýšená ochrana.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla věc převzata k opatrování a vrácení (kvalifikace jako úschova podle § 2402)?
+- [ ] Žádá uschovatel o vrácení (§ 2403 odst. 2) a brání tomu něco?
+- [ ] Je úschova účelově vázána, a je tím vyloučen jednostranný zápočet?
+- [ ] Jde o spotřebitelský vztah / realitní úschovu se zvláštním režimem?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o úschově, doklad o složení/převzetí věci, ujednání o provizi a nákladech, doklady o okolnostech uzavření (mimo obchodní prostory).
 
 ### § 2403—2408 — Práva a povinnosti
 
@@ -424,6 +748,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *OS v Havlíčkově Brodě* [14 C 109/2022-38](https://rozhodnuti.justice.cz/rozhodnuti/?id=a8d840bf-3bef-46e2-8b83-b5fe2ff279ca) — *peněžité plnění, pozůstalost, smlouva o úschově*
 - *ObS pro Prahu 1* [14 C 141/2018-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=5bb48c40-c7ea-4b2f-820c-3b16b4145891) — *bezdůvodné obohacení, peněžité plnění, podvod, smlouva kupní, smlouva zprostředkovatelská*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Uschovatel U svěřil schovateli S (známému, bezúplatně) do úschovy starožitné hodiny. S je bez svolení U zapůjčil k výstavě třetí osobě, kde byly poškozeny při nehodě (převrácení vitríny). U požaduje náhradu škody. S namítá, že nehoda byla nahodilá a nezavinil ji. Důkazy: smlouva o úschově, doklad o zapůjčení na výstavu bez souhlasu U, protokol o poškození, znalecké ocenění.
+
+**2. Právní otázka.** Odpovídá schovatel za nahodilou škodu na věci, dal-li ji bez svolení uschovatele do užívání/úschovy jinému (§ 2405)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2405 — užije-li schovatel věc pro sebe, umožní-li její užití jinému nebo ji bez svolení dá do úschovy jinému, nahradí veškerou škodu **i nahodilou**; výjimka, prokáže-li, že by škoda postihla věc i jinak.
+- *Související ustanovení téhož zákona:* § 2403 (péče o věc); § 2406 (náklady a úplata); § 2407 (tříměsíční prekluze nároků od vrácení); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 89/2012 Sb. — obecná úprava náhrady škody (§ 2894 a násl.).
+- *Judikatura:* obecné závěry k zostřené odpovědnosti schovatele při neoprávněné dispozici s věcí; rozhodnutí k úschově (KS Ústí n. L.–Liberec 29 Co 152/2024, OS Havlíčkův Brod 18 C 6/2023) k povaze úschovních vztahů.
+
+**4. Subsumpce.** Znak „umožnění užití věci jinému bez svolení" je naplněn (zápůjčka na výstavu bez souhlasu U). Tím nastupuje zostřená odpovědnost § 2405 i za nahodilou škodu. Liberační důvod (škoda by věc postihla i jinak) S neprokázal — hodiny by jinak byly v bezpečné úschově.
+
+**5. Řešení.** S odpovídá U za škodu na hodinách v plném rozsahu, byť šlo o nehodu (§ 2405). Procesně U prokáže neoprávněnou dispozici a vznik a výši škody (znalecké ocenění); S by musel prokázat liberaci. Pozor na tříměsíční prekluzi vzájemných nároků od vrácení věci (§ 2407). Riziko: spor o výši škody u jedinečné starožitnosti.
+
+**6. Varianty.** (a) U dal k zapůjčení souhlas → zostřená odpovědnost § 2405 odpadá, S odpovídá podle obecných pravidel a péče (§ 2403). (b) S prokáže, že by hodiny zničil i požár, který zničil i jeho vlastní prostory → liberace podle závěru věty druhé § 2405.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nahodilost":* S tvrdí, že za nehodu neodpovídá. Neutralizace — § 2405 ukládá náhradu i nahodilé škody, právě protože S nakládal s věcí neoprávněně.
+- *Protiargument „bezúplatnost úschovy":* S dovozuje mírnější standard. Neutralizace — bezúplatnost nesnižuje odpovědnost za neoprávněnou dispozici podle § 2405.
+- *Slabé místo:* prokázání výše škody u jedinečné věci; vhodný znalecký posudek a doklady o pořizovací/tržní hodnotě.
+
+#### H. Praktický závěr
+
+Schovatel nesmí věc bez svolení užívat ani přenechat jinému; poruší-li to, odpovídá i za nahodilou škodu (§ 2405). Vzájemné nároky (škoda, úplata, náklady) je nutné uplatnit do tří měsíců od vrácení věci (§ 2407).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nakládal schovatel s věcí nad rámec svolení (užití, přenechání jinému)?
+- [ ] Prokázal schovatel liberaci (škoda by věc postihla i jinak)?
+- [ ] Je výše škody doložena (znalecké ocenění)?
+- [ ] Jsou nároky uplatněny ve tříměsíční lhůtě od vrácení (§ 2407)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o úschově, doklady o (ne)svolení k dispozici, protokol o poškození/ztrátě, znalecký posudek na hodnotu věci, doklady o nákladech a úplatě.
+
 ### § 2409—2414 — Skladování
 
 **§ 2409**:
@@ -464,6 +824,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 - *ObS pro Prahu 4* [7 C 192/2023-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=1cfd71bb-1db5-4c1b-963c-c3410db156ee) — *neplatnost právního jednání, podnájem, dlužné nájemné, notářský zápis, narovnání, znalec…*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor U svěřil obchodníkovi s cennými papíry S (schovatel) do úschovy 1 000 ks listinných akcií. S je vedl v rámci hromadné úschovy společně s cennými papíry jiných uschovatelů, ale neoddělil je od vlastních cenných papírů a nevedl řádnou evidenci. Při insolvenci S vznikne spor, zda akcie U spadají do majetkové podstaty S. Důkazy: smlouva o úschově CP, evidence schovatele, doklady o nabytí akcií U.
+
+**2. Právní otázka.** Náleží cenné papíry v (hromadné) úschově uschovateli i při insolvenci schovatele a může se uschovatel domáhat vydání stejných cenných papírů (§ 2409–2411)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2409 (oddělená úschova CP a evidence); § 2410 (hromadná úschova — CP náleží uschovatelům společně, právo na vrácení stejného CP); § 2411 (podíl uschovatelů); § 2412–2414 (druhotná úschova, imobilizace).
+- *Související ustanovení téhož zákona:* § 2402 (úschova obecně); § 1395 a násl. (zástavní/zadržovací aspekty); spoluvlastnictví (§ 1115 a násl. přiměřeně dle § 2411 odst. 2).
+- *Související předpisy:* zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu (samostatná evidence investičních nástrojů); insolvenční zákon č. 182/2006 Sb. (vylučovací žaloba).
+- *Judikatura:* NS 21 Cdo 1736/2019 (řízení o úschovách a cenné papíry); obecné závěry k vyloučení cizích CP z majetkové podstaty.
+
+**4. Subsumpce.** Znak „hromadná úschova CP" je naplněn. Podle § 2410 náleží CP uschovatelům společně a oddělují se od CP schovatele — proto nespadají do podstaty S. Porušení povinnosti oddělení a evidence (§ 2409) zakládá odpovědnost S, nemění však vlastnické určení ve prospěch uschovatelů.
+
+**5. Řešení.** U se domůže vydání stejného počtu (druhu) akcií, resp. vyloučení svého podílu z majetkové podstaty S (vylučovací žaloba). Podíl se určí podle § 2411. Procesně U prokazuje uložení CP do úschovy a jejich druh/množství; nedostatky evidence jdou k tíži S. Riziko: smísení s vlastními CP schovatele ztěžuje identifikaci a může vést k řešení přes podíl.
+
+**6. Varianty.** (a) Šlo o imobilizované CP v hromadné úschově → režim podle § 2413 a zákona o podnikání na kapitálovém trhu, schovatelem jen oprávněná osoba. (b) S předal CP do druhotné úschovy jinému schovateli (§ 2412) → jeho práva a povinnosti vůči U tím nejsou dotčeny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „CP jsou v podstatě schovatele":* insolvenční správce řadí CP do podstaty. Neutralizace — § 2410 zakládá společné právo uschovatelů a oddělení od CP schovatele; CP do podstaty nepatří.
+- *Protiargument „nelze identifikovat konkrétní kusy":* Neutralizace — u zastupitelných CP postačí právo na vydání stejného druhu a množství (§ 2410), podíl podle § 2411.
+- *Slabé místo:* selhání evidence schovatele (§ 2409) komplikuje dokazování; nutné rekonstruovat stav z dostupných záznamů.
+
+#### H. Praktický závěr
+
+Cenné papíry v úschově (zejména hromadné) náleží uschovatelům, oddělují se od majetku schovatele a uschovatel má právo na vrácení stejného cenného papíru (§ 2409–2411); v insolvenci schovatele se vylučují z podstaty. U imobilizovaných CP platí zvláštní režim kapitálového trhu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou CP vedeny odděleně od CP schovatele a řádně evidovány (§ 2409)?
+- [ ] Jde o hromadnou úschovu se společným právem uschovatelů (§ 2410)?
+- [ ] Lze určit podíl uschovatele (§ 2411)?
+- [ ] Nejde o imobilizované CP se zvláštním režimem (§ 2413, zák. č. 256/2004 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o úschově CP, evidence schovatele, doklady o nabytí a druhu CP, podklady k podílu a k případné druhotné/imobilizované úschově.
+
 ---
 
 ## Smlouva o účtu (§ 2662—2675)
@@ -489,6 +885,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zákona č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [21 ICdo 44/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/113A24CE7E890673C12588B90018C6AE?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o účtu (o. z.) Zástav…*
   > „2014 i ustanovení § 2662 o. z., podle něhož smlouvou o účtu se ten, kdo vede účet, zavazuje zřídit od určité doby v určité měně účet pro jeho majitele, umožnit vložení hotovosti na účet nebo výběr hotovosti z účtu nebo provádět převody peněžních prostředků z účtu či na účet."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dva manželé M1 a M2 mají u banky B společný účet (oba majitelé). Po rozvodu M1 z účtu jednostranně vybere celý zůstatek 400 000 Kč a smlouvu vypoví. M2 se domáhá vůči M1 poloviny zůstatku a namítá, že nakládání s účtem nad rámec správy vyžadovalo souhlas obou. Důkazy: smlouva o účtu, výpisy o pohybech, doklad o výpovědi, ujednání o dispozičních oprávněních.
+
+**2. Právní otázka.** Jak se posuzuje dispozice jednoho ze spolumajitelů se zůstatkem na společném účtu a jaký je vztah mezi majiteli při výplatě prostředků (§ 2662 a násl.)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2662 — smlouva o účtu: ten, kdo vede účet, zřídí účet majiteli a umožní vklady, výplaty a převody; vztah je svou povahou blízký příkazu.
+- *Související ustanovení téhož zákona:* § 2430 a násl. (příkaz — podpůrná povaha vztahu); § 2666 (příkazy majitele); § 2675 (promlčení/reklamace); správa společné věci (§ 1126 a násl., přiměřeně); § 2667 a násl. (provozní pravidla).
+- *Související předpisy:* zákon č. 370/2017 Sb. o platebním styku; zákon č. 21/1992 Sb. o bankách; zákon č. 253/2008 Sb. (AML).
+- *Judikatura:* NS 22 Cdo 1036/2020, 22 Cdo 1170/2020 a 22 Cdo 994/2020 (návaznost na obch. zák. a zastoupení/správa u běžného účtu, podobnost § 708 obch. zák. a § 2662 o. z.); NS 24 Cdo 132/2022 (příkaz majitele účtu podle § 2666).
+
+**4. Subsumpce.** Znaky § 2662 (vedení účtu, výplaty) jsou naplněny. Ve vztahu mezi spolumajiteli se uplatní pravidla o správě společné věci a o vzájemném vypořádání: vůči bance může být každý majitel oprávněn disponovat, avšak ve vnitřním vztahu odpovídá druhému za bezdůvodné obohacení, vybral-li nad svůj podíl.
+
+**5. Řešení.** Vůči bance mohla být dispozice M1 účinná (podle smluvních dispozičních oprávnění), ve vztahu k M2 však M1 odpovídá za vydání bezdůvodného obohacení ve výši podílu M2 (zpravidla poloviny). M2 se domůže 200 000 Kč po M1, nikoli po bance, jednala-li banka podle smlouvy. Procesně M2 prokáže společné majitelství a výši zůstatku. Riziko: rozsah podílů může být sporný, není-li dohodnut.
+
+**6. Varianty.** (a) Smlouva vyžadovala k výplatě podpisy obou → banka by výplatou jen M1 porušila smlouvu a mohla by odpovídat M2. (b) Šlo o disponenta (nikoli spolumajitele) → ten nemá vlastní právo k zůstatku, jen zmocnění k dispozici od majitele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „banka pochybila":* M2 žaluje banku. Neutralizace — jednala-li banka podle smluvních dispozičních oprávnění, neporušila povinnost; spor je mezi spolumajiteli.
+- *Protiargument „M1 měl právo na celý zůstatek":* Neutralizace — vůči bance snad ano, ale vnitřní vypořádání se řídí podíly; přesah se vrací z titulu bezdůvodného obohacení.
+- *Slabé místo:* určení velikosti podílů na zůstatku bez výslovné dohody; nutné dovodit z původu prostředků a okolností.
+
+#### H. Praktický závěr
+
+U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle smlouvy) od vnitřního vztahu mezi spolumajiteli (vypořádání podle podílů). Výběr nad podíl zakládá bezdůvodné obohacení, nikoli odpovědnost banky, jednala-li podle smlouvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo je majitelem účtu a kdo jen disponentem (§ 2662)?
+- [ ] Jaká dispoziční oprávnění smlouva zakládá (souhlas obou vs. samostatně)?
+- [ ] Jednala banka v souladu se smlouvou (vyloučení její odpovědnosti)?
+- [ ] Jak se určí podíly spolumajitelů pro vnitřní vypořádání?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o účtu a podpisové vzory, výpisy o pohybech, doklady o původu prostředků, výpověď smlouvy, doklady o majitelství/disponentství.
 
 ### Specifika
 
@@ -525,6 +957,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 **UCP 600** (Uniform Customs and Practice for Documentary Credits) — mezinárodní pravidla ICC, na něž OZ odkazuje obvykle smluvně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Český dovozce P (příkazce) si u banky V (výstavce) nechá otevřít dokumentární akreditiv ve prospěch čínského vývozce O (oprávněný) na platbu za dodávku strojů proti předložení přepravního listu, faktury a pojistky. O předloží dokumenty, v nichž je drobná nesrovnalost v označení zboží oproti akreditivním podmínkám. V odmítne plnit pro nesoulad dokumentů; P mezitím tvrdí, že zboží je vadné, a žádá V, aby neplatila. Důkazy: text akreditivu, předložené dokumenty, akreditivní podmínky, případně odkaz na UCP 600.
+
+**2. Právní otázka.** Je banka povinna (ne)plnit z akreditivu při nesouladu předložených dokumentů s akreditivními podmínkami a může příkazce zabránit plnění námitkou vad zboží (princip nezávislosti akreditivu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2682 — akreditiv: výstavce se na žádost příkazce zavazuje poskytnout plnění oprávněnému, předloží-li v akreditivní době stanovené dokumenty a splní akreditivní podmínky (abstraktní, dokumentární závazek).
+- *Související ustanovení téhož zákona:* § 2683 a násl. (akreditivní podmínky, neodvolatelnost); § 2430 (příkazní vztah příkazce a banky); § 1759 (závaznost smlouvy).
+- *Související předpisy:* UCP 600 (pravidla ICC, zpravidla inkorporovaná smluvně); zákon č. 370/2017 Sb.; zákon č. 21/1992 Sb.
+- *Judikatura:* obecně přijímaný princip nezávislosti (abstraktnosti) akreditivu na podkladovém (kupním) vztahu a princip přísného souladu dokumentů (doctrine of strict compliance).
+
+**4. Subsumpce.** Znak „předložení stanovených dokumentů v souladu s podmínkami" není naplněn — dokumenty vykazují nesoulad. Banka tedy plnit nemusí (dokumentární princip). Námitka vad zboží (vztah P–O) je pro povinnost banky irelevantní (princip nezávislosti); výjimkou je zjevný podvod.
+
+**5. Řešení.** V smí odmítnout plnění pro nesoulad dokumentů (strict compliance); naopak P nemůže běžně zabránit plnění námitkou vad zboží, jsou-li dokumenty v pořádku, protože akreditiv je nezávislý na kupní smlouvě. Procesně se zkoumá pouze soulad dokumentů s podmínkami. Riziko: hranice „drobné" nesrovnalosti je sporná; banky vykládají soulad přísně.
+
+**6. Varianty.** (a) Dokumenty by byly bezvadné a P by tvrdil pouze vady zboží → V musí plnit (nezávislost), spor o vady se řeší samostatně mezi P a O. (b) Šlo by o prokázaný podvod oprávněného (zfalšované dokumenty) → uplatní se podvodová výjimka a banka plnit nemusí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vady zboží brání platbě":* P žádá zastavení plnění. Neutralizace — princip nezávislosti akreditivu (§ 2682) odděluje akreditiv od kupní smlouvy; rozhodují dokumenty, nikoli stav zboží.
+- *Protiargument „nesrovnalost je nepodstatná":* O tvrdí soulad. Neutralizace — pravidlo přísného souladu dokumentů; i drobná odchylka může legitimovat odmítnutí.
+- *Slabé místo:* posouzení „souladu" je technické a může záviset na inkorporaci UCP 600 a zvyklostech; nutné přesné porovnání dokumentů s podmínkami.
+
+#### H. Praktický závěr
+
+Akreditiv je abstraktní, dokumentární a (zpravidla) neodvolatelný platební nástroj nezávislý na kupní smlouvě (§ 2682). Banka plní jen proti dokumentům přísně odpovídajícím podmínkám; námitky z podkladového vztahu jsou irelevantní s výjimkou podvodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídají předložené dokumenty přesně akreditivním podmínkám?
+- [ ] Byly dokumenty předloženy v akreditivní době?
+- [ ] Je akreditiv neodvolatelný a jsou inkorporována pravidla UCP 600?
+- [ ] Nejde o zjevný podvod oprávněného (podvodová výjimka)?
+
+**Typicky rozhodné důkazy / podklady:** text akreditivu a jeho podmínky, předložené dokumenty (přepravní list, faktura, pojistka), inkorporace UCP 600, komunikace banky o (ne)souladu.
+
 ---
 
 ## Příkaz a příbuzné smlouvy (§ 2430—2520)
@@ -556,6 +1024,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Okresní soud – vycházeje z ustanovení § 609, § 611, § 619 odst. 2, § 629, § 2430 a § 2438 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku, (dále též jen „o. z.“) – dospěl po provedeném dokazování k následujícím závěrům: 3."
 - *NS* [23 Cdo 2070/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3EDC74906496F0FC125858A0018BED3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního jednání V…*
   > „2015 tři smlouvy o poskytování poradenských služeb dle § 2430 a násl. zák. č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), které se vztahovaly k projektům žalované souvisejícím s objektem v Šumperku, ve Znojmě a v Krnově."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Klient K uzavřel s poradenskou firmou F příkazní smlouvu na „obstarání získání dotace" na svůj projekt. F zpracovala a podala žádost, dotace však nebyla přidělena (rozhodl dotační orgán). F požaduje sjednanou odměnu; K odmítá s tím, že výsledek (dotace) se nedostavil, a tedy „dílo nebylo splněno". Důkazy: příkazní smlouva, doklady o podání žádosti, rozhodnutí dotačního orgánu, ujednání o odměně.
+
+**2. Právní otázka.** Je příkazní smlouva smlouvou o činnosti (úsilí), nebo o výsledku, a vzniká příkazníkovi nárok na odměnu, i když očekávaný výsledek nenastal (§ 2430, § 2438)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2430 — příkazní smlouva: příkazník se zavazuje obstarat záležitost příkazce; jde o závazek fiduciární povahy a o vynaložení úsilí, nikoli o výsledek.
+- *Související ustanovení téhož zákona:* § 2438 (odměna náleží i bez výsledku, ledaže nezdar způsobil příkazník porušením povinnosti); § 2432 (poctivý a pečlivý výkon); § 2586 (dílo — pro odlišení závazku výsledku).
+- *Související předpisy:* zákon č. 89/2012 Sb. (obecná část závazků).
+- *Judikatura:* NS 33 Cdo 1679/2023 (příkazní smlouva = smlouva o vynaložení úsilí, nikoli o výsledku); NS 33 Cdo 953/2022 (definice komise je ekvivalentní příkazu, fiduciární povaha § 2430); NS 4 Tdo 1137/2020 (obsah závazku obstarat záležitost).
+
+**4. Subsumpce.** Znak „obstarání záležitosti" (podání žádosti) je naplněn. Příkaz je závazkem úsilí (NS 33 Cdo 1679/2023), nikoli výsledku — nepřidělení dotace samo o sobě nezbavuje F odměny. Rozhodné je, zda F postupovala poctivě a pečlivě (§ 2432) a zda nezdar nezpůsobila porušením povinnosti (§ 2438 odst. 2).
+
+**5. Řešení.** F má nárok na odměnu i bez přidělení dotace, postupovala-li řádně (§ 2438 odst. 1, NS 33 Cdo 1679/2023). Nárok by odpadl jen tehdy, byl-li nezdar způsoben porušením povinností F (např. zmeškání lhůty, vadná žádost). Procesně F prokazuje řádné obstarání; K tíží tvrzení a důkaz o pochybení F. Riziko: byla-li odměna sjednána jako success fee, je nutné vyložit, zda strany podmínily odměnu výsledkem.
+
+**6. Varianty.** (a) Strany výslovně sjednaly odměnu jen při přidělení dotace (success fee) → nárok vzniká až výsledkem; nedostaví-li se, odměna nenáleží. (b) F zmeškala lhůtu k podání žádosti → nezdar způsobila porušením povinnosti, nárok na odměnu odpadá (§ 2438 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez výsledku není odměna":* K popírá nárok. Neutralizace — § 2438 odst. 1 a povaha příkazu (úsilí, nikoli výsledek) zakládají nárok i bez výsledku, nedošlo-li k porušení povinnosti.
+- *Protiargument „šlo o dílo":* K překvalifikovává na dílo. Neutralizace — předmětem byla činnost (obstarání), nikoli hmotný/garantovaný výsledek; jde o příkaz (§ 2430 vs. § 2586).
+- *Slabé místo:* výklad ujednání o odměně (paušál vs. success fee) je rozhodný a často sporný; nutné vyložit vůli stran.
+
+#### H. Praktický závěr
+
+Příkaz je smlouvou o úsilí (péči), nikoli o výsledku; příkazníkovi náleží odměna i při nedosažení cíle, ledaže nezdar způsobil porušením svých povinností (§ 2430, § 2438). Klíčová je formulace odměny (paušál vs. odměna vázaná na výsledek).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem činnost (obstarání), nikoli garantovaný výsledek (odlišení od díla)?
+- [ ] Postupoval příkazník poctivě a pečlivě (§ 2432)?
+- [ ] Nezpůsobil příkazník nezdar porušením povinnosti (§ 2438 odst. 2)?
+- [ ] Je odměna sjednána jako paušál, nebo jako success fee vázaný na výsledek?
+
+**Typicky rozhodné důkazy / podklady:** příkazní smlouva, doklady o provedených úkonech (podání, jednání), výstup orgánu/protistrany, ujednání o odměně, komunikace o pokynech.
 
 ### § 2432—2440 — Práva a povinnosti
 
@@ -613,6 +1117,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [22 Cdo 994/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/894F6CED0E7D5130C125863E001DB037?openDocument) — *Správa (správce) společné věci (o. z.) Zastoupení Běžný účet*
 - *NS* [31 Cdo 3125/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/056B104128B86B03C12589EA003AC7E3?openDocument) — *Promlčení Smlouva příkazní Splatnost pohledávky*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Advokát A (příkazník) dostal od klienta K (příkazce) pokyn podat opravný prostředek až po uplynutí lhůty, neboť K špatně počítal termín. A pokyn rozpozná jako zřejmě nesprávný, ale K na něm trvá. A buď pokyn splní (a podání je opožděné), nebo se od něj odchýlí. Současně A vynaložil hotové výdaje (soudní poplatek, cestovné). Vznikne spor o odpovědnost za zmeškání a o náhradu nákladů. Důkazy: příkazní smlouva/plná moc, písemné pokyny K, doklad o upozornění A, doklady o výdajích.
+
+**2. Právní otázka.** Jak má příkazník naložit se zřejmě nesprávným pokynem příkazce (§ 2433) a jaký to má vliv na jeho odpovědnost a na nárok na náhradu nákladů (§ 2436)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2432 (poctivý a pečlivý výkon, přenechání užitku; odchýlení od pokynů jen v nezbytném zájmu příkazce); § 2433 (upozornění na zřejmě nesprávný pokyn a jeho splnění jen, trvá-li na něm příkazce); § 2434 (osobní výkon, odpovědnost za náhradníka); § 2435 (zprávy, vyúčtování); § 2436 (záloha a náhrada účelných nákladů i bez výsledku); § 2438 (odměna).
+- *Související ustanovení téhož zákona:* § 2913 (náhrada škody); § 5 (odborník); § 2950 (odpovědnost poskytovatele odborné rady).
+- *Související předpisy:* zákon č. 85/1996 Sb. o advokacii (povinnosti advokáta).
+- *Judikatura:* NS 33 Cdo 3447/2023 (poctivý a pečlivý výkon příkazu podle § 2432); NS 31 Cdo 3125/2022 (příkaz a splatnost, § 2438); NS 25 Cdo 2629/2025 (odpovědnost při výkonu advokacie).
+
+**4. Subsumpce.** Znak „zřejmě nesprávný pokyn" je naplněn (opožděné podání). Podle § 2433 A musí na nesprávnost upozornit a smí pokyn splnit jen, trvá-li na něm K. Splní-li A pokyn po upozornění, odpovědnost za následek nese K; neupozornil-li by A, porušil by § 2432/2433 a odpovídal by sám (§ 2913, § 2950).
+
+**5. Řešení.** A měl K písemně upozornit na nesprávnost; trval-li K na pokynu, A jej splní a za zmeškání odpovídá K, nikoli A. Náklady účelně vynaložené A mu K nahradí i bez výsledku (§ 2436). Procesně A prokazuje upozornění (proto písemně) a účelnost výdajů. Riziko: bez doloženého upozornění hrozí odpovědnost advokáta za škodu (§ 2950).
+
+**6. Varianty.** (a) A pokyn nerozpoznal jako nesprávný, ač měl a mohl (odborník, § 5) → odpovídá za škodu z porušení odborné péče. (b) A svěřil úkon koncipientovi bez souhlasu K a koncipient pochybil → A odpovídá, jako by jednal sám (§ 2434).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „příkazník měl pokyn odmítnout":* K viní A. Neutralizace — § 2433 ukládá upozornit a poté pokyn splnit, trvá-li na něm příkazce; odpovědnost za následek nese ten, kdo na pokynu trval.
+- *Protiargument „náklady nejsou účelné":* K odmítá hradit výdaje. Neutralizace — § 2436 zakládá nárok na náhradu účelně vynaložených nákladů i bez výsledku.
+- *Slabé místo:* prokázání upozornění a jeho zřetelnosti; proto je nezbytná písemná forma a archivace komunikace.
+
+#### H. Praktický závěr
+
+Příkazník plní s odbornou péčí, na zřejmě nesprávný pokyn musí upozornit a splnit jej jen, trvá-li na něm příkazce (§ 2432, § 2433); pak nese následek příkazce. Účelné náklady se hradí i bez výsledku (§ 2436). Vše dokumentovat písemně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl příkaz plněn poctivě, pečlivě a s odbornou péčí (§ 2432, § 5)?
+- [ ] Byl příkazce upozorněn na zřejmě nesprávný pokyn (písemně, § 2433)?
+- [ ] Byl úkon proveden osobně, případně se souhlasem k náhradníkovi (§ 2434)?
+- [ ] Jsou vyúčtovány a doloženy účelně vynaložené náklady (§ 2435, § 2436)?
+
+**Typicky rozhodné důkazy / podklady:** příkazní smlouva a plná moc, písemné pokyny příkazce, doklad o upozornění na nesprávnost, zprávy a vyúčtování, doklady o nákladech.
+
 ### § 2440—2444 — Zánik
 
 **§ 2440**:
@@ -639,6 +1179,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2070/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3EDC74906496F0FC125858A0018BED3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního jednání V…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Příkazce P pověřil příkazníka A správou pronájmu nemovitosti. P příkaz kdykoli může odvolat; po půl roce jej odvolá ze dne na den, ačkoli A právě rozjednal opravu střechy a vynaložil náklady na zhotovitele. A požaduje náhradu nákladů, škody a poměrnou část odměny. Současně mezitím P zemřel a dědicové namítají, že závazek zanikl smrtí. Důkazy: příkazní smlouva, doklad o odvolání, doklady o nákladech a rozjednaných úkonech, úmrtní list, doklady o neodkladných úkonech A.
+
+**2. Právní otázka.** Jaké jsou následky odvolání příkazu příkazcem (§ 2443) a zániku příkazu smrtí (§ 2441), zejména pokud jde o náhradu nákladů, škody a o povinnost dokončit neodkladné úkony (§ 2442)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2440 (výpověď příkazníkem ke konci následujícího měsíce; odpovědnost za škodu při výpovědi v nevhodnou dobu); § 2441 (zánik smrtí příkazce i příkazníka, zánikem PO); § 2442 (povinnost zařídit neodkladné úkony po zániku); § 2443 (odvolání příkazu příkazcem s povinností nahradit náklady, škodu a poměrnou odměnu); § 2444 (přiměřené užití na obstarání na účet jiného).
+- *Související ustanovení téhož zákona:* § 1475 a násl. (přechod práv a povinností na dědice); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 89/2012 Sb. (dědické právo).
+- *Judikatura:* NS 23 Cdo 2070/2018 (výklad příkazního jednání a neplatnost); obecné závěry k vypořádání po zániku příkazu.
+
+**4. Subsumpce.** Znak „odvolání příkazu příkazcem" je naplněn; podle § 2443 vzniká A nárok na náhradu dosavadních nákladů, škody a poměrné části odměny. Smrtí P (§ 2441) závazek zaniká, avšak A je povinen zařídit neodkladné úkony (§ 2442), dokud dědicové neprojeví jinou vůli; nároky A přecházejí na pozůstalost.
+
+**5. Řešení.** A má vůči P (resp. pozůstalosti) nárok na náhradu nákladů, škody a poměrné odměny (§ 2443). Po smrti P A dokončí jen neodkladné úkony (zajištění opravy bránící vzniku škody) a vyúčtuje je dědicům (§ 2442). Procesně A prokazuje vynaložené náklady a rozsah rozjednaných úkonů. Riziko: spor o „poměrnost" odměny a o neodkladnost úkonů.
+
+**6. Varianty.** (a) Výpověď by dal příkazník v nevhodnou dobu před dokončením úkolu → odpovídá za škodu z toho vzešlou (§ 2440 odst. 2). (b) Příkaz nebyl vázán na osobu P a P měl právního nástupce s pokračující potřebou → fakticky se řeší dohodou s dědici, neodkladné úkony se však provedou vždy (§ 2442).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smrtí vše zaniklo bez nároků":* dědicové odmítají platit. Neutralizace — § 2442 ukládá zařídit neodkladné úkony a nároky příkazníka (náklady, škoda, odměna) se uspokojují z pozůstalosti.
+- *Protiargument „odvolání je bez sankce":* P tvrdí volné odvolání bez plnění. Neutralizace — § 2443 sice připouští odvolání „podle libosti", ale s povinností nahradit náklady, škodu a poměrnou odměnu.
+- *Slabé místo:* vymezení rozsahu „neodkladných" úkonů a „poměrné" odměny je úvahové; nutné doložit konkrétními doklady.
+
+#### H. Praktický závěr
+
+Příkaz lze odvolat kdykoli, avšak s povinností nahradit příkazníkovi náklady, škodu a poměrnou odměnu (§ 2443); smrtí kterékoli strany závazek zaniká (§ 2441), příkazník však musí zařídit neodkladné úkony (§ 2442). Výpověď příkazníka v nevhodnou dobu je sankcionována náhradou škody.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Z jakého důvodu příkaz zanikl (odvolání, výpověď, smrt) a jaké to má následky?
+- [ ] Byly při zániku zařízeny neodkladné úkony (§ 2442)?
+- [ ] Jsou vyčísleny náklady, škoda a poměrná odměna příkazníka (§ 2443)?
+- [ ] Přešly nároky/povinnosti na dědice či právního nástupce (§ 2441)?
+
+**Typicky rozhodné důkazy / podklady:** příkazní smlouva, doklad o odvolání/výpovědi, doklady o nákladech a rozpracovaných úkonech, úmrtní list/výpis z OR, vyúčtování neodkladných úkonů.
 
 ---
 
@@ -676,6 +1252,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „V dovolání formuluje následující otázky: 1) zda zakládá uzavření písemné smlouvy mezi zprostředkovatelem, zájemcem o zprostředkování a stranou kupující, v níž je výslovně uvedeno, …"
 - *NS* [33 Cdo 844/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45F28B323F24399AC12583C90028ADE4?openDocument) — *Smlouva zprostředkovatelská*
   > „Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jehož přípustnost spatřuje v tom, že rozhodnutí odvolacího soudu spočívá na vyřešení otázky hmotného práva, která nebyla dosud v rozhodování dovolacího soudu vyřešena, konkrétně na výkladu ustanovení § 2445 a násl. o.z., resp."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník bytu Z (zájemce) uzavřel ústně s realitní makléřkou M (zprostředkovatel) smlouvu o zprostředkování prodeje. M vyhledala kupce K, Z s K následně uzavřel kupní smlouvu za 4,6 mil. Kč. Z poté odmítá zaplatit provizi s tím, že písemná smlouva o zprostředkování neexistuje a že kupce „by si našel sám". Důkazy: komunikace M a Z, inzerce M, doklad o tom, že M zprostředkovala kontakt na K, kupní smlouva Z–K.
+
+**2. Právní otázka.** Vznikla platná (i ústní) smlouva o zprostředkování a má zprostředkovatel právo na provizi, byla-li v důsledku jeho činnosti uzavřena zprostředkovaná smlouva (§ 2445)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2445 — smlouvou o zprostředkování se zprostředkovatel zavazuje zprostředkovat uzavření určité smlouvy s třetí osobou a zájemce se zavazuje zaplatit provizi; zprostředkovatel smlouvu neuzavírá, jen vyhledává příležitost.
+- *Související ustanovení téhož zákona:* § 2447 (splatnost provize); § 2452 (zákaz navrhovat nedůvěryhodnou osobu, povinnost odborníka); § 2450 (ztráta provize při činnosti pro obě strany); § 559 (bezformálnost, neplyne-li forma ze zákona).
+- *Související předpisy:* zákon č. 39/2020 Sb. o realitním zprostředkování (písemná forma a náležitosti u realitního zprostředkování); zákon č. 89/2012 Sb. (spotřebitel).
+- *Judikatura:* NS 32 Cdo 2842/2018 a 33 Cdo 2907/2021 (platná zprostředkovatelská smlouva podle § 2445, i ústní); NS 33 Cdo 2113/2021 (ústní smlouva o zprostředkování a vznik práva na provizi); NS 33 Cdo 2146/2025 (konflikt zájmů a odborná péče).
+
+**4. Subsumpce.** Znaky § 2445 (závazek zprostředkovat určitou smlouvu, závazek platit provizi) jsou naplněny i bez písemné formy podle OZ. Znak „v důsledku činnosti zprostředkovatele došlo k uzavření smlouvy" je naplněn (M vyhledala K, Z s K uzavřel kupní smlouvu). Pozor: u realitního zprostředkování zák. č. 39/2020 Sb. vyžaduje písemnou formu.
+
+**5. Řešení.** Podle obecné úpravy OZ vznikla platná (ústní) zprostředkovatelská smlouva a M má právo na provizi (NS 32 Cdo 2842/2018, 33 Cdo 2113/2021). U realitního zprostředkování však zák. č. 39/2020 Sb. žádá písemnou formu; její absence může mít důsledky (zejména vůči spotřebiteli). Procesně M prokazuje obsah ujednání a příčinnou souvislost mezi svou činností a uzavřením smlouvy. Riziko: bez listiny je dokazování obsahu a provize obtížné.
+
+**6. Varianty.** (a) M byla činná i pro kupujícího v rozporu se smlouvou → ztrácí právo na provizi i náhradu nákladů (§ 2450). (b) Smlouva spadá pod zák. č. 39/2020 Sb. a chybí písemná forma vůči spotřebiteli → spotřebitel se může dovolat neplatnosti/zákonných důsledků.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „chybí písemná forma":* Z popírá vznik smlouvy. Neutralizace — OZ pro zprostředkování formu nevyžaduje; výjimkou je realitní zprostředkování (zák. č. 39/2020 Sb.).
+- *Protiargument „kupce bych našel sám":* Z popírá příčinnou souvislost. Neutralizace — rozhodné je, zda k uzavření došlo v důsledku činnosti M (vyhledání K); doložit kontakt zprostředkovaný M.
+- *Slabé místo:* bez písemné smlouvy je sporné, zda a v jaké výši byla provize sjednána; nutné rekonstruovat z komunikace a obvyklé výše.
+
+#### H. Praktický závěr
+
+Zprostředkovatel jen vyhledává příležitost (smlouvu neuzavírá); právo na provizi má, došlo-li k uzavření zprostředkované smlouvy v důsledku jeho činnosti (§ 2445). Podle OZ postačí i ústní smlouva, u realitního zprostředkování je však nutná písemná forma (zák. č. 39/2020 Sb.).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla sjednána smlouva o zprostředkování (obsah, provize) — a vyžaduje se písemná forma (realitní zprostředkování)?
+- [ ] Došlo k uzavření zprostředkované smlouvy v důsledku činnosti zprostředkovatele?
+- [ ] Nebyl zprostředkovatel v rozporu se smlouvou činný i pro druhou stranu (§ 2450)?
+- [ ] Dodržel zprostředkovatel povinnosti odborníka (§ 2452)?
+
+**Typicky rozhodné důkazy / podklady:** zprostředkovatelská smlouva nebo komunikace o jejím obsahu, inzerce a doklady o vyhledání protistrany, kupní/zprostředkovaná smlouva, doklady o provizi a o příčinné souvislosti.
 
 ### § 2447—2454 — Specifika
 
@@ -733,6 +1345,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 2887/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44A410737C1815F2C125837D0058B941?openDocument) — 26. 9. 2018
   > „Dovodil, že účastnice uzavřely ústní smlouvu o zprostředkování bez ujednání doby jejího trvání (§ 2445 odst. 1 o. z.); splatnost provize ujednaly k okamžiku uzavření zprostředkovávané smlouvy (§ 2447 odst. 1 o. z.)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zprostředkovatel M a zájemce Z si sjednali, že provize je splatná až uzavřením zprostředkované kupní smlouvy. M vyhledal vážného kupce K, který byl připraven uzavřít smlouvu za nabízených podmínek, avšak Z na poslední chvíli z vlastní libovůle prodej odmítl a byt prodal později jinému zájemci, kterého si našel sám. M požaduje provizi. Důkazy: zprostředkovatelská smlouva, doklad o obstarání příležitosti (nabídka K), komunikace o odmítnutí Z, pozdější kupní smlouva.
+
+**2. Právní otázka.** Vzniká zprostředkovateli právo na provizi, obstaral-li příležitost k uzavření smlouvy, ale k uzavření nedošlo (resp. došlo později) z důvodů na straně zájemce (§ 2447, § 2448, § 2454)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2447 (splatnost provize dnem uzavření; při ujednání obstarání příležitosti je provize splatná již obstaráním příležitosti); § 2448 (provize i při zmaření plnění z důvodů na straně zájemce); § 2454 (právo na provizi není dotčeno, byla-li smlouva uzavřena/splněna až po zániku zprostředkování).
+- *Související ustanovení téhož zákona:* § 2449 (náhrada nákladů); § 2450 (ztráta provize při činnosti pro obě strany); § 2453 (zánik závazku).
+- *Související předpisy:* zákon č. 39/2020 Sb. (realitní zprostředkování); zákon č. 89/2012 Sb.
+- *Judikatura:* NS 33 Cdo 997/2019, 33 Cdo 844/2017 a 33 Cdo 1879/2024 (splatnost provize a obstarání příležitosti podle § 2447); NS 23 Cdo 2379/2021 (smluvní vyloučení § 2447 a okamžik vzniku práva na provizi); NS 33 Cdo 2887/2017 (ujednání splatnosti k okamžiku uzavření).
+
+**4. Subsumpce.** Bylo-li sjednáno obstarání příležitosti, je provize splatná již obstaráním příležitosti (§ 2447 odst. 2) — M příležitost (kupce K za nabízených podmínek) obstaral. Bylo-li naopak sjednáno právo na provizi až uzavřením a uzavření zmařil Z, uplatní se § 2448 (provize i přes zmaření z důvodů na straně zájemce) a § 2454 (pozdější uzavření jiné smlouvy nevylučuje provizi).
+
+**5. Řešení.** M má právo na provizi: buď již obstaráním příležitosti (§ 2447 odst. 2), nebo proto, že uzavření zmařil Z (§ 2448), případně proto, že k uzavření došlo později (§ 2454). Procesně M prokazuje obstarání konkrétní příležitosti a příčinu zmaření na straně Z. Riziko: závisí na přesném znění ujednání o splatnosti (uzavření vs. obstarání příležitosti).
+
+**6. Varianty.** (a) Provize byla vázána výhradně na skutečné uzavření smlouvy s K (nikoli na obstarání příležitosti) a Z legitimně odmítl z objektivních důvodů → nárok by nemusel vzniknout. (b) M byl tajně činný i pro K → ztrácí provizi i náklady (§ 2450).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva nebyla uzavřena":* Z popírá splatnost. Neutralizace — § 2447 odst. 2 (obstarání příležitosti), § 2448 (zmaření zájemcem) a § 2454 (pozdější uzavření) zakládají nárok i bez bezprostředního uzavření.
+- *Protiargument „kupce našel sám":* Z dovozuje, že činnost M byla bezvýznamná. Neutralizace — rozhodné je obstarání příležitosti M; pozdější vlastní jednání zájemce nárok nevylučuje (§ 2454).
+- *Slabé místo:* výklad ujednání o splatnosti (uzavření × obstarání příležitosti) je rozhodný; nejednoznačné znění oslabuje nárok.
+
+#### H. Praktický závěr
+
+Provize je zpravidla splatná uzavřením zprostředkované smlouvy, avšak při ujednání o obstarání příležitosti vzniká již obstaráním příležitosti (§ 2447); zmaří-li uzavření zájemce, provize náleží (§ 2448) a nevylučuje ji ani pozdější uzavření (§ 2454). Souběžná činnost pro obě strany vede ke ztrátě provize (§ 2450).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Na co je vázána splatnost provize (uzavření smlouvy vs. obstarání příležitosti, § 2447)?
+- [ ] Bylo uzavření zmařeno z důvodů na straně zájemce (§ 2448)?
+- [ ] Nebyl zprostředkovatel činný i pro druhou stranu (§ 2450)?
+- [ ] Nebrání nároku zánik závazku, byla-li smlouva uzavřena později (§ 2454)?
+
+**Typicky rozhodné důkazy / podklady:** zprostředkovatelská smlouva (zejména ujednání o splatnosti), doklady o obstarané příležitosti, komunikace o (ne)uzavření, pozdější uzavřená smlouva, doklady o nákladech.
+
 ---
 
 ### Komise (§ 2455—2470)
@@ -759,6 +1407,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Dovolání je přípustné, neboť výkladem § 2455 o. z. se Nejvyšší soud ve své rozhodovací praxi dosud nezabýval; na něm je přitom právní posouzení věci založeno."
 - *NS* [28 Cdo 2015/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E341972C1E38A10C1258BE10052C40B?openDocument) — *Smlouva komisionářská*
   > „2024 Spisová značka : 28 Cdo 2015/2024 ECLI: ECLI:CZ:NS:2024:28.CDO.2015.2024.1 Typ rozhodnutí: USNESENÍ Heslo: Smlouva komisionářská Dotčené předpisy: § 2455 o. z. § 2466 o. z. § 2913 odst. 1 o. z. Kategorie rozhodnutí: C Zveřejněno na webu: 26."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Komitent KT (majitel ojetého vozu) předal komisionáři KO (autobazar) vůz k prodeji vlastním jménem na účet KT. KO vůz prodal kupujícímu K, kupní cenu však KT nevyplatil a dostal se do insolvence. KT se domáhá vydání kupní ceny (resp. jejího vyloučení z majetkové podstaty KO) a tvrdí, že pohledávka za K mu jako komitentovi „patří". Důkazy: komisionářská smlouva, doklad o předání vozu, kupní smlouva KO–K, doklady o platbě K.
+
+**2. Právní otázka.** Komu vznikají práva a povinnosti z jednání komisionáře vůči třetí osobě a jaké je postavení komitenta k pohledávce z prodeje (§ 2455, § 2456, § 2464)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2455 — komisionář se zavazuje obstarat pro komitenta na jeho účet **vlastním jménem** určitou záležitost (nepřímé zastoupení, fiduciární povaha).
+- *Související ustanovení téhož zákona:* § 2456 (z jednání komisionáře vznikají práva a povinnosti komisionáři, nikoli komitentovi); § 2464 (věc svěřená k prodeji zůstává komitentova do nabytí třetí osobou; na pohledávku ze smlouvy se ve vztahu komitent–komisionář/jeho věřitel hledí jako na komitentovu); § 2460 (vyúčtování a postoupení práv).
+- *Související předpisy:* insolvenční zákon č. 182/2006 Sb. (vyloučení z podstaty); zákon č. 89/2012 Sb.
+- *Judikatura:* NS 33 Cdo 953/2022 (definice komise je ekvivalentní příkazu, fiduciární povaha § 2430/§ 2455); NS 23 Cdo 505/2024 (rozsah obstarávané záležitosti u komise); NS 28 Cdo 2015/2024 (§ 2455, § 2466, odpovědnost).
+
+**4. Subsumpce.** Znaky § 2455 (vlastním jménem, na účet komitenta) jsou naplněny. Podle § 2456 vznikla práva z kupní smlouvy komisionáři KO; podle § 2464 odst. 2 se však na pohledávku za K ve vztahu KT ke KO a jeho věřitelům hledí jako na pohledávku komitenta — proto nespadá do majetkové podstaty KO ve prospěch jeho věřitelů.
+
+**5. Řešení.** KT se domůže ochrany svého nároku: pohledávka za K (resp. získané plnění) náleží ekonomicky komitentovi (§ 2464 odst. 2) a vylučuje se z podstaty KO; komisionář je povinen postoupit komitentovi práva a vydat vše, co získal (§ 2460 odst. 2). Procesně KT prokazuje komisionářský vztah a předání vozu. Riziko: smísení peněz na účtu komisionáře ztěžuje identifikaci konkrétního plnění.
+
+**6. Varianty.** (a) KO ve zprávě neuvedl osobu kupujícího → KT může uplatnit práva přímo proti KO jako zavázanému ze smlouvy (§ 2461). (b) KO dosud nevyplacenou cenu nevymáhá → KT může za podmínek § 2466/§ 2467 požadovat plnění na svůj účet.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pohledávka patří komisionáři":* věřitelé KO ji řadí do podstaty. Neutralizace — § 2464 odst. 2 stanoví, že vůči komitentovi a věřitelům komisionáře se hledí na pohledávku jako na komitentovu.
+- *Protiargument „vůči třetí osobě je zavázán jen komisionář":* Neutralizace — to platí navenek (§ 2456), nemění však vnitřní ekonomické přiřazení komitentovi a jeho ochranu (§ 2464).
+- *Slabé místo:* identifikace a oddělení plnění na účtech komisionáře; nutné doložit tok konkrétní platby.
+
+#### H. Praktický závěr
+
+Komisionář jedná vlastním jménem na účet komitenta (§ 2455): navenek je zavázán komisionář (§ 2456), avšak svěřená věc i pohledávka z prodeje jsou ve vztahu ke komitentovi a věřitelům komisionáře přiřazeny komitentovi (§ 2464) a komisionář je povinen vše vydat (§ 2460).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jedná obstaravatel vlastním jménem na účet jiného (kvalifikace jako komise, § 2455)?
+- [ ] Komu vznikly závazky navenek (§ 2456) a komu náleží věc/pohledávka uvnitř (§ 2464)?
+- [ ] Provedl komisionář vyúčtování a postoupil práva komitentovi (§ 2460)?
+- [ ] Uvedl komisionář ve zprávě osobu třetího (jinak § 2461)?
+
+**Typicky rozhodné důkazy / podklady:** komisionářská smlouva, doklad o předání věci, smlouva s třetí osobou, doklady o platbě a o toku peněz, vyúčtování komisionáře.
 
 ### § 2456—2470 — Pravidla
 
@@ -828,6 +1512,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [21 Cdo 1736/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6B7C6DA95477F26C125849400184815?openDocument) — *Řízení o úschovách Cenné papíry Smlouva komisionářská*
 - *NS* [28 Cdo 2015/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E341972C1E38A10C1258BE10052C40B?openDocument) — *Smlouva komisionářská*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Komitent KT pověřil komisionáře KO (obchodník s uměním) prodejem obrazu s pokynem „neprodávat pod 500 000 Kč". KO obraz prodal za 420 000 Kč, neboť trh poklesl a hrozila ztráta hodnoty; alternativně v jiné variantě KO koupil pro KT obraz za 600 000 Kč, ač měl pokyn nepřekročit 500 000 Kč. KT odmítá obchod uznat a požaduje náhradu rozdílu. Důkazy: komisionářská smlouva s limitní cenou, doklady o tržním vývoji, kupní smlouva, zpráva KO o obchodu.
+
+**2. Právní otázka.** Jaké jsou následky překročení limitní (minimální/maximální) ceny komisionářem a kdy komitent může obchod odmítnout, resp. žádat náhradu rozdílu (§ 2458, § 2459)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2457 (odchýlení od pokynů jen v zájmu komitenta a nelze-li vyžádat souhlas; jinak právo odmítnout účinky); § 2458 (výhodnější obstarání náleží komitentovi); § 2459 (prodej pod cenu — náhrada rozdílu, ledaže odvrácení škody; koupě nad cenu — možnost odmítnout, nezaváže-li se komisionář zaplatit rozdíl); § 2460 (vyúčtování); § 2468 (přiměřená odměna).
+- *Související ustanovení téhož zákona:* § 2455 (povaha komise); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 89/2012 Sb.
+- *Judikatura:* NS 28 Cdo 2015/2024 (§ 2455, § 2466, odpovědnost komisionáře, § 2913); NS 21 Cdo 1736/2019 (komise a cenné papíry).
+
+**4. Subsumpce.** Při prodeji pod limit (420 000 < 500 000) je naplněn znak § 2459 odst. 1 — KO nahradí rozdíl, ledaže prokáže, že za určenou cenu prodat nešlo a prodejem odvrátil hrozící škodu. Při koupi nad limit (600 000 > 500 000) je naplněn znak § 2459 odst. 2 — KT může koupi odmítnout, nezaváže-li se KO zaplatit rozdíl; mlčí-li KT bez zbytečného odkladu, platí, že koupi schválil.
+
+**5. Řešení.** Prodej pod cenu: KO odpovídá za rozdíl 80 000 Kč, neunese-li důkaz o odvrácení škody (§ 2459 odst. 1). Koupě nad cenu: KT může bez zbytečného odkladu odmítnout, ledaže KO doplatí rozdíl 100 000 Kč; jinak se má za schválení. Procesně KO nese důkazní břemeno o liberaci (odvrácení škody). Riziko: prokazování tržního poklesu a nemožnosti prodeje za limit.
+
+**6. Varianty.** (a) KO prodal nad limit (za 550 000 Kč) → prospěch náleží komitentovi (§ 2458), KT nemůže žádat nic navíc pro sebe ve prospěch KO. (b) KO se od pokynu odchýlil v zájmu KT a nemohl si vyžádat souhlas → odchýlení je přípustné (§ 2457), KT nese důsledky, neodmítne-li včas.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odchýlení bylo nutné":* KO se brání § 2457. Neutralizace — odchýlení je přípustné jen v zájmu komitenta a nelze-li získat souhlas; u prodeje pod cenu navíc tíží KO důkaz o odvrácení škody (§ 2459 odst. 1).
+- *Protiargument „komitent koupi schválil mlčením":* KT popírá schválení. Neutralizace — § 2459 odst. 2 zakládá fikci schválení jen při absenci včasného odmítnutí; doložit okamžik, kdy se KT o obsahu dozvěděl.
+- *Slabé místo:* dokazování tržního vývoje a „nemožnosti" prodeje za limitní cenu; vhodný znalecký/tržní podklad.
+
+#### H. Praktický závěr
+
+Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinnost nahradit rozdíl (ledaže odvrátil škodu), koupě nad limit umožňuje komitentovi obchod odmítnout, nedoplatí-li komisionář rozdíl (§ 2459); výhodnější obchod náleží komitentovi (§ 2458). Mlčení komitenta může znamenat schválení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla sjednána limitní (min./max.) cena a byla dodržena (§ 2459)?
+- [ ] Bylo odchýlení od pokynů v zájmu komitenta a nešlo získat souhlas (§ 2457)?
+- [ ] Prokázal komisionář u prodeje pod cenu odvrácení škody (§ 2459 odst. 1)?
+- [ ] Odmítl komitent koupi nad cenu bez zbytečného odkladu (jinak schválení, § 2459 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** komisionářská smlouva s limitní cenou, zpráva komisionáře o obchodu, kupní smlouva, doklady o tržním vývoji/znalecký posudek, doklad o okamžiku informování komitenta.
+
 ---
 
 ### Zasílatelská smlouva (§ 2471—2482)
@@ -886,6 +1606,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Pro právní posouzení věci je významná i řada dalších ustanovení právních předpisů (zejména § 81 odst. 1 a 2, § 82 odst. 1, § 858, § 875 odst. 1, § 2910, § 2951 odst. 2, § 2956, § 2636 odst. 1 a 2, zákona č. 89/2012 Sb., občanského zákoníku, § 28 odst. 3 písm. e), § 45 odst. 1 zákona o zdravotních službách, a vyhlášek č. 92/2012 Sb. a č."
 - *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
   > „Při právním posouzení soudy postupovaly podle § 81, § 2910, § 2911, § 2914, § 2636, § 2643, § 2645, § 2951, § 2955, § 2956, § 2958 a § 2960 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a § 4 odst. 5, § 28 odst. 2, § 31 odst. 1 písm. a) a § 34 zákona č."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodič R (příkazce) uzavřel s nemocnicí (poskytovatel) smlouvu o péči o zdraví ve prospěch nezletilého dítěte (ošetřovaný). Při zákroku dojde k poškození zdraví dítěte. R i dítě se domáhají náhrady újmy. Poskytovatel namítá, že šlo o nesmluvní (zákonný) zdravotní vztah a že odpovídá jen za zavinění. Důkazy: zdravotnická dokumentace, informovaný souhlas, znalecký posudek k postupu lege artis, doklad o tom, kdo je poskytovatelem a kdo provozovatelem zařízení.
+
+**2. Právní otázka.** Vzniká poskytováním zdravotní péče smluvní vztah podle § 2636 a kdo je v něm příkazcem, poskytovatelem a ošetřovaným, je-li ošetřovaným třetí osoba (dítě)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2636 — smlouvou o péči o zdraví se poskytovatel zavazuje pečovat v rámci svého povolání o zdraví ošetřovaného, jímž může být i třetí osoba (nejen příkazce).
+- *Související ustanovení téhož zákona:* § 2643 (péče řádného odborníka, lege artis); § 2645 (nelze vyloučit/omezit odpovědnost za odbornou péči); § 2646 (určení poskytovatele vs. provozovatele zařízení); § 2910, § 2913, § 2956–2960 (náhrada újmy na zdraví).
+- *Související předpisy:* zákon č. 372/2011 Sb. o zdravotních službách; zákon č. 48/1997 Sb.; vyhláška č. 98/2012 Sb. o zdravotnické dokumentaci.
+- *Judikatura:* NS 25 Cdo 3675/2019 (posouzení podle § 2636 a násl. ve spojení se zákonem o zdravotních službách); NS 25 Cdo 2850/2023 a 25 Cdo 2087/2024 (souběh § 2636 s § 2910/§ 2913 a s ochranou osobnosti, rodičovská odpovědnost).
+
+**4. Subsumpce.** Znaky § 2636 (poskytovatel pečuje v rámci povolání o zdraví ošetřovaného) jsou naplněny; ošetřovaným je dítě, příkazcem rodič. Tím vzniká smluvní vztah, v němž poskytovatel odpovídá za péči řádného odborníka (§ 2643, § 2645). Vedle smluvní odpovědnosti přichází v úvahu i deliktní rovina (§ 2910) a náhrada nemajetkové újmy (§ 2956 a násl.).
+
+**5. Řešení.** Vztah je smluvní (§ 2636); poskytovatel odpovídá za dodržení odborné péče, kterou nelze vyloučit (§ 2645). Při jejím porušení vzniká nárok na náhradu majetkové i nemajetkové újmy dítěte (a souvisejících nároků R). Procesně je rozhodný znalecký posudek k postupu lege artis a zdravotnická dokumentace. Riziko: prokázání příčinné souvislosti mezi pochybením a poškozením zdraví.
+
+**6. Varianty.** (a) Péče byla poskytnuta v zařízení, které poskytovatel neprovozuje, a ošetřovanému nebylo sděleno, kdo je poskytovatelem → za poskytovatele se považuje i provozovatel zařízení (§ 2646). (b) Ošetřovaný (svéprávný) péči odmítne → závazek se ruší (§ 2651), jde-li o ošetřovaného, který není příkazcem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nejde o smlouvu":* poskytovatel popírá smluvní povahu. Neutralizace — § 2636 výslovně zakládá smluvní typ; péče o zdraví je smluvním vztahem, byť navázaným na veřejnoprávní úpravu.
+- *Protiargument „odpovědnost lze omezit":* poskytovatel se dovolává limitační doložky. Neutralizace — § 2645 stanoví, že k ujednáním vylučujícím/omezujícím odpovědnost za odbornou péči se nepřihlíží.
+- *Slabé místo:* příčinná souvislost a otázka, zda šlo o porušení lege artis, jsou závislé na znaleckém posouzení; bez něj hrozí neúspěch.
+
+#### H. Praktický závěr
+
+Péče o zdraví je smluvním typem (§ 2636), v němž ošetřovaným může být i třetí osoba; poskytovatel odpovídá za péči řádného odborníka, kterou nelze smluvně vyloučit (§ 2643, § 2645). Vedle smluvní roviny se uplatní i náhrada nemajetkové újmy na zdraví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo je příkazcem, poskytovatelem a ošetřovaným (§ 2636)?
+- [ ] Bylo sděleno, kdo je poskytovatelem vs. provozovatelem zařízení (§ 2646)?
+- [ ] Byla dodržena péče řádného odborníka (lege artis, § 2643)?
+- [ ] Není uplatněna (neúčinná) limitace odpovědnosti (§ 2645)?
+
+**Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, informovaný souhlas, znalecký posudek k postupu lege artis a k příčinné souvislosti, doklady o poskytovateli/provozovateli.
 
 ### § 2637—2651 — Specifika
 
@@ -991,6 +1747,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [25 Cdo 486/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE9FCD1CAE55C230C125884900195A41?openDocument) — *Náhrada škody Smlouva o péči o zdraví (o. z.) Nemajetková újma (o. z.)*
 - *NS* [25 Cdo 2968/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1546F50D0D7B3C9C125840C001811DF?openDocument) — *Náhrada nemajetkové újmy (o. z.)*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacientovi P byl navržen rizikový operační zákrok. Lékař jej informoval jen stručně, nezmínil reálnou alternativu konzervativní léčby ani konkrétní rizika. P podepsal formulářový souhlas. Po zákroku se realizovala neuvedená komplikace. P tvrdí, že kdyby byl řádně poučen, zákrok by nepodstoupil, a domáhá se náhrady újmy. Důkazy: formulář informovaného souhlasu, zdravotnická dokumentace, znalecký posudek k rozsahu poučení a k existenci alternativ.
+
+**2. Právní otázka.** Byl naplněn standard řádného poučení a informovaného souhlasu (§ 2638, § 2639, § 2642) a jaké jsou následky jeho porušení pro odpovědnost poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2638 (srozumitelné vysvětlení zamýšlené péče); § 2639 (řádné podání vysvětlení — pacient pochopil stav, účel, nezbytnost, následky, nebezpečí a alternativy); § 2642 (souhlas s každým úkonem); § 2643 (péče řádného odborníka); § 2645 (nelze vyloučit odpovědnost); § 2647 (zdravotnická dokumentace).
+- *Související ustanovení téhož zákona:* § 2956–2960 (náhrada nemajetkové újmy na zdraví); § 2913 (smluvní odpovědnost); § 81 a násl. (ochrana osobnosti).
+- *Související předpisy:* zákon č. 372/2011 Sb. (§ 28, § 31 a násl. — informovaný souhlas a poučení); vyhláška č. 98/2012 Sb.
+- *Judikatura:* NS 25 Cdo 2850/2023, 25 Cdo 577/2021 a 25 Cdo 486/2021 (smlouva o péči o zdraví, náhrada újmy a poučovací povinnost); NS 25 Cdo 3179/2024 (nemajetková újma, bolestné, ZSU).
+
+**4. Subsumpce.** Znak „řádné poučení" (§ 2639) není naplněn — chybělo poučení o alternativě a o konkrétních rizicích. Souhlas tak nebyl informovaný (§ 2642). Porušení poučovací povinnosti je porušením povinnosti poskytovatele (§ 2643, § 2645) a může zakládat odpovědnost za újmu z neinformovaného zákroku.
+
+**5. Řešení.** Vada informovaného souhlasu (absence poučení o rizicích a alternativách) zakládá odpovědnost poskytovatele za újmu z realizovaného rizika, prokáže-li P, že by při řádném poučení zákrok nepodstoupil (hypotetický souhlas). Procesně: zdravotnická dokumentace a znalecký posudek k rozsahu poučení; důkazní břemeno o řádném poučení tíží poskytovatele. Riziko: poskytovatel může namítat, že komplikace byla vlastním rizikem i při řádném poučení.
+
+**6. Varianty.** (a) Poučení v plném rozsahu nebylo možné bez vážného ohrožení stavu pacienta → lze je podat dodatečně za podmínek § 2640. (b) Pacient zřetelně projevil, že si vysvětlení nepřeje → neposkytne se, ledaže hrozící nebezpečí zjevně převyšuje jeho zájem (§ 2641).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pacient podepsal souhlas":* poskytovatel se brání formulářem. Neutralizace — § 2639 žádá skutečné pochopení rizik a alternativ; formulářový podpis bez řádného poučení nestačí.
+- *Protiargument „komplikace byla vlastním rizikem":* Neutralizace — i tak je rozhodné, zda byl pacient o tomto riziku poučen; nebyl-li, jde o porušení poučovací povinnosti.
+- *Slabé místo:* prokázání hypotetického nesouhlasu pacienta a příčinné souvislosti; klíčový je znalecký posudek a konzistentní tvrzení pacienta.
+
+#### H. Praktický závěr
+
+Informovaný souhlas vyžaduje řádné, srozumitelné poučení o stavu, účelu, rizicích a alternativách (§ 2638, § 2639); formulářový podpis bez poučení nestačí. Porušení poučovací povinnosti zakládá odpovědnost poskytovatele, kterou nelze smluvně vyloučit (§ 2645).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo poučení srozumitelné a úplné (stav, účel, nezbytnost, rizika, alternativy — § 2639)?
+- [ ] Byl udělen souhlas ke konkrétnímu úkonu (§ 2642)?
+- [ ] Je poučení a souhlas zachyceno ve zdravotnické dokumentaci (§ 2647)?
+- [ ] Neuplatnila se výjimka z poučení (§ 2640, § 2641)?
+
+**Typicky rozhodné důkazy / podklady:** formulář informovaného souhlasu, zdravotnická dokumentace, záznam o poučení, znalecký posudek k rozsahu poučení, k alternativám a k příčinné souvislosti.
+
 ### § 2648—2651 — Odpovědnost
 
 **§ 2648**:
@@ -1033,6 +1825,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *MS v Praze* [25 Co 50/2025-155](https://rozhodnuti.justice.cz/rozhodnuti/?id=42a4d676-6dae-4c9b-bf5b-4bdd0c2383be) — *svědek, náhrada nákladů, vady řízení, následek, odvolání, náklady řízení, odměna opatrov…*
 - *OS ve Frýdku-Místku* [119 C 5/2024-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=be9e7b76-a9ea-41fc-9d42-7929d1ca6eea) — *peněžité plnění*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pacient P požádal nemocnici o nahlédnutí do své zdravotnické dokumentace a o pořízení kopií. Nemocnice mu přístup odepřela s tím, že dokumentace obsahuje i poznámky o jiném pacientovi a interní vyjádření lékařů. Současně nemocnice bez souhlasu P poskytla kopii dokumentace třetí osobě (zaměstnavateli P). Důkazy: žádost P o nahlédnutí, zdravotnická dokumentace, doklad o předání třetí osobě, záznam o nahlížejících.
+
+**2. Právní otázka.** Má pacient právo nahlížet do své dokumentace a pořizovat kopie (§ 2648) a za jakých podmínek lze dokumentaci zpřístupnit třetí osobě (§ 2649, § 2650)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2648 (právo ošetřovaného nahlížet a pořizovat výpisy/opisy/kopie; ochrana údajů o třetí osobě); § 2649 (zpřístupnění jiné osobě jen s výslovným souhlasem ošetřovaného); § 2650 (anonymizované údaje pro vědecké/statistické účely); § 2651 (odmítnutí péče ošetřovaným, který není příkazcem).
+- *Související ustanovení téhož zákona:* § 2647 (vedení dokumentace, záznam o nahlížení); § 2645 (odpovědnost za odbornou péči); § 81 a násl. (ochrana osobnosti).
+- *Související předpisy:* zákon č. 372/2011 Sb. (§ 65 a násl. — nahlížení do dokumentace); GDPR / zákon č. 110/2019 Sb. (ochrana osobních údajů).
+- *Judikatura:* NS 25 Cdo 577/2021 a 25 Cdo 486/2021 (smlouva o péči o zdraví a navazující povinnosti); obecné závěry k ochraně citlivých údajů.
+
+**4. Subsumpce.** Znak „právo nahlížet a kopírovat" (§ 2648 odst. 1) je naplněn ve prospěch P; odepření je v rozsahu vlastních údajů P neoprávněné. Údaje o třetí osobě nelze zpřístupnit bez jejího souhlasu (§ 2648 odst. 2) — ty se anonymizují/oddělí. Zpřístupnění zaměstnavateli bez souhlasu P je porušením § 2649.
+
+**5. Řešení.** Nemocnice je povinna umožnit P nahlédnout a pořídit kopie jeho dokumentace; údaje o jiném pacientovi začerní (§ 2648 odst. 2). Poskytnutí dokumentace zaměstnavateli bez souhlasu P je protiprávní (§ 2649) a může zakládat nárok na ochranu osobnosti a náhradu nemajetkové újmy. Procesně P prokazuje žádost a neoprávněné zpřístupnění. Riziko: rozsah „interních vyjádření" lékařů a jejich vztah k právu pacienta.
+
+**6. Varianty.** (a) Dokumentace byla zpřístupněna v anonymizované podobě pro vědecký výzkum za podmínek § 2650 → zpřístupnění je přípustné. (b) Ošetřovaný, který není příkazcem, odmítl péči → závazek se ruší (§ 2651), což může mít vliv i na rozsah vedené dokumentace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ochrana třetích osob brání nahlížení":* nemocnice odpírá přístup celé dokumentace. Neutralizace — § 2648 odst. 2 řeší jen údaje o třetí osobě (anonymizace), nebrání přístupu k vlastním údajům pacienta.
+- *Protiargument „zaměstnavatel měl oprávněný zájem":* Neutralizace — § 2649 vyžaduje výslovný souhlas ošetřovaného; oprávněný zájem třetího jej nenahrazuje.
+- *Slabé místo:* posouzení, které části dokumentace jsou „údaji o třetí osobě" a které interními vyjádřeními; nutné pečlivé oddělení.
+
+#### H. Praktický závěr
+
+Pacient má právo nahlížet do své zdravotnické dokumentace a pořizovat kopie (§ 2648); údaje o třetích osobách se chrání a dokumentaci nelze zpřístupnit jiné osobě bez výslovného souhlasu pacienta (§ 2649). Neoprávněné zpřístupnění zakládá odpovědnost (ochrana osobnosti, nemajetková újma).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost o nahlédnutí/kopie vyřízena bez zbytečného odkladu (§ 2648)?
+- [ ] Byly chráněny údaje o třetích osobách (anonymizace, § 2648 odst. 2)?
+- [ ] Existuje výslovný souhlas pacienta se zpřístupněním třetí osobě (§ 2649)?
+- [ ] U výzkumu: jde o anonymizované údaje za podmínek § 2650?
+
+**Typicky rozhodné důkazy / podklady:** žádost pacienta, zdravotnická dokumentace a záznam o nahlížení, doklady o zpřístupnění třetí osobě, listina souhlasu pacienta.
+
 ---
 
 ## Smlouva o dílo (§ 2586—2635)
@@ -1071,6 +1899,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [23 Cdo 2696/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FDBCC48BB18109FC12588360017E224?openDocument) — *Smlouva o dílo Bezdůvodné obohacení*
   > „Podle § 2586 odst. 1 o. z. se smlouvou o dílo zhotovitel zavazuje provést na svůj náklad a nebezpečí pro objednatele dílo a objednatel se zavazuje dílo převzít a zaplatit cenu."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Objednatel O si u zhotovitele Z objednal „zhotovení atypické kuchyňské linky na míru" včetně montáže v bytě O. Smlouva byla označena jako „kupní". Po dodání O reklamuje vady a odstupuje; Z namítá, že šlo o koupi a že práva z vad jsou jiná. Spor je o povahu smlouvy. Důkazy: smlouva (byť nazvaná kupní), specifikace zakázky na míru, doklady o montáži, předsmluvní komunikace.
+
+**2. Právní otázka.** Jde o smlouvu o dílo, nebo o kupní smlouvu, je-li předmětem zhotovení věci na míru s montáží, a podle jakého režimu se posuzují práva z vad (§ 2586, § 2587)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2586 — dílem se zhotovitel zavazuje provést na svůj náklad a nebezpečí pro objednatele dílo, objednatel je převzít a zaplatit; předmětem je výsledek činnosti.
+- *Související ustanovení téhož zákona:* § 2587 (vymezení díla a jeho odlišení od koupě; stavba je vždy dílem); § 2085 a násl. (kupní smlouva — pro odlišení); § 2615 (vady díla — odkaz na úpravu koupě); § 555 (posouzení podle obsahu, nikoli názvu).
+- *Související předpisy:* zákon č. 89/2012 Sb.
+- *Judikatura:* NS 33 Cdo 1710/2021 (smlouva nazvaná kupní posouzena jako dílo podle § 2586 a násl.); NS 23 Cdo 1541/2025 a 33 Cdo 3238/2022 (podřazení činnosti pod § 2586); NS 8 Tdo 85/2026 (vymezení díla jako zhotovení/údržby/opravy/úpravy věci).
+
+**4. Subsumpce.** Znaky § 2586 (provedení výsledku činnosti pro objednatele za úplatu) jsou naplněny — Z zhotovuje linku na míru a montuje ji. Označení „kupní" je nerozhodné (§ 555); podle obsahu jde o dílo (zhotovení individuální věci s činností). Práva z vad se proto řídí § 2615 (s odkazem na úpravu koupě, ale s modifikacemi pro dílo).
+
+**5. Řešení.** Smlouva se posoudí jako smlouva o dílo (NS 33 Cdo 1710/2021), bez ohledu na název; uplatní se režim vad díla (§ 2615 a násl.). O může uplatnit práva z vadného plnění podle úpravy díla. Procesně se posuzuje obsah ujednání a povaha plnění (zhotovení na míru + montáž). Riziko: hraniční případy (dodání věci s nevýznamnou montáží) mohou spadat pod koupi.
+
+**6. Varianty.** (a) Předmětem by byla sériová věc bez individualizace a bez montáže → mohlo by jít o kupní smlouvu (§ 2085). (b) Předmětem je zhotovení/úprava stavby → vždy jde o dílo (§ 2587 věta poslední) s navazujícím režimem (§ 2623 a násl.).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva je kupní":* Z se dovolává názvu smlouvy. Neutralizace — § 555 velí posuzovat podle obsahu; zhotovení individuální věci s činností je dílo (NS 33 Cdo 1710/2021).
+- *Protiargument „dílo není výsledek, ale činnost":* Neutralizace — předmětem díla je výsledek činnosti (§ 2586, § 2587), tím se liší od příkazu; zde jde o hmotný výsledek (linka).
+- *Slabé místo:* rozhraní koupě/dílo u dodávek s montáží je výkladové; rozhodují individualizace a podíl činnosti.
+
+#### H. Praktický závěr
+
+Smlouva o dílo je závazkem k výsledku činnosti (§ 2586); kvalifikace se řídí obsahem, nikoli názvem (§ 555). Zhotovení individuální věci na míru či úprava stavby jsou dílem, s navazujícím režimem vad (§ 2615 a násl.), nikoli koupí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem výsledek činnosti pro objednatele za úplatu (§ 2586)?
+- [ ] Jde o zhotovení/úpravu věci či stavby (dílo), nebo o dodání sériové věci (koupě)?
+- [ ] Posuzuje se smlouva podle obsahu, nikoli názvu (§ 555)?
+- [ ] Který režim vad se použije (§ 2615 a násl. vs. úprava koupě)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a její specifikace, doklady o individualizaci zakázky a o montáži, předsmluvní komunikace, předávací dokumentace.
+
 ### § 2587—2589 — Předmět díla
 
 **§ 2587**:
@@ -1099,6 +1963,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Řádné splnění předpokládá dodržení veškerých požadavků sjednaného předmětu plnění, jako je např. jeho předmět, provedení apod. Povinnost zhotovitele provést dílo (stavbu podle § 2587 a § 2623 o. z.) řádně a včas vyplývá z ustanovení § 2604 o. z. a § 2590 odst. 1 o. z."
 - *NS* [33 Cdo 1329/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D7F687675457D77C1258D320052AE5F?openDocument) — *Smlouva o dílo Odstoupení od smlouvy Smlouva kupní Vady*
   > „V této souvislosti ozřejmil, že dílem ve smyslu § 2587 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), se rozumí vždy určitá činnost a předmětem díla je její výsledek, který je dílem."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Objednatel O si u znalce Z (fyzická osoba) objednal vypracování individuálního znaleckého posudku. Před dokončením Z náhle ztratí znaleckou způsobilost (vyškrtnutí ze seznamu). O tvrdí, že posudek musí dokončit „někdo jiný v rámci Z", Z namítá zánik závazku pro ztrátu osobní způsobilosti. Důkazy: smlouva o dílo, povaha plnění (osobní výkon znalce), doklad o ztrátě způsobilosti, rozpracovanost díla.
+
+**2. Právní otázka.** Zaniká závazek ze smlouvy o dílo, je-li provedení díla vázáno na zvláštní osobní schopnosti zhotovitele a ten ztratí způsobilost (§ 2588), a v jakém rozsahu musí zhotovitel dílo provést osobně (§ 2589)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2587 (vymezení díla, i „činnost s jiným výsledkem"); § 2588 (zánik závazku ztrátou způsobilosti či smrtí zhotovitele, jde-li o osobní schopnosti; smrt objednatele sama závazek neruší); § 2589 (osobní provedení díla, případně pod osobním vedením).
+- *Související ustanovení téhož zákona:* § 2631 a § 2632 (dílo s nehmotným výsledkem); § 2913 (náhrada škody); § 1908 a násl. (splnění a zánik závazku).
+- *Související předpisy:* zákon č. 254/2019 Sb. o znalcích (osobní výkon znalecké činnosti).
+- *Judikatura:* NS 23 Cdo 1541/2025 a 33 Cdo 3238/2022 (znalecký posudek jako dílo podle § 2586 a násl.); NS 23 Cdo 2680/2023 (vymezení díla podle § 2587); NS 33 Cdo 1329/2024 (dílo jako určitá činnost a její výsledek).
+
+**4. Subsumpce.** Znak „dílo vázané na zvláštní osobní schopnosti zhotovitele" je naplněn (osobní výkon znalce). Ztratí-li Z způsobilost (§ 2588 odst. 1), závazek zaniká, ledaže dílo může úspěšně provést právní nástupce, který převzal činnost. Povinnost osobního provedení (§ 2589) brání prostému nahrazení jinou osobou bez splnění podmínek.
+
+**5. Řešení.** Závazek zaniká ztrátou způsobilosti znalce (§ 2588 odst. 1), nejde-li o právního nástupce schopného dílo provést; O nemá nárok na vynucení dokončení jinou osobou. Strany se vypořádají podle rozpracovanosti (přiměřeně § 2611, bezdůvodné obohacení). Procesně se posuzuje povaha plnění (osobní výkon) a okamžik ztráty způsobilosti. Riziko: spor o to, zda šlo skutečně o plnění vázané na osobní schopnosti.
+
+**6. Varianty.** (a) Provedení díla by nebylo vázáno na osobní vlastnosti zhotovitele → Z by mohl dílo nechat provést jiným pod svým vedením (§ 2589) a závazek by ztrátou způsobilosti nezanikl. (b) Zemřel by objednatel → závazek se sám neruší, ledaže se splnění stane nemožným nebo zbytečným (§ 2588 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dílo dokončí kdokoli z firmy":* O tlačí na dokončení. Neutralizace — u plnění vázaného na osobní schopnosti (§ 2588) závazek zaniká; nahrazení je možné jen za podmínek § 2589 nebo právním nástupcem.
+- *Protiargument „závazek nezaniká, jen se prodlužuje":* Neutralizace — § 2588 odst. 1 spojuje se ztrátou způsobilosti zánik závazku, nikoli pouhý odklad.
+- *Slabé místo:* posouzení „osobní povahy" plnění je skutkové; u některých posudků lze argumentovat zastupitelností.
+
+#### H. Praktický závěr
+
+Je-li dílo vázáno na zvláštní osobní schopnosti zhotovitele, jeho ztráta způsobilosti či smrt závazek ruší (§ 2588); jinak může zhotovitel dílo nechat provést pod svým vedením (§ 2589). Smrt objednatele závazek sama o sobě neruší.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je provedení díla vázáno na osobní schopnosti zhotovitele (§ 2588)?
+- [ ] Existuje právní nástupce schopný dílo provést (§ 2588 odst. 1)?
+- [ ] Bylo dílo provedeno osobně či pod osobním vedením zhotovitele (§ 2589)?
+- [ ] Jak se strany vypořádají při zániku závazku (rozpracovanost, bezdůvodné obohacení)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, doklad o povaze plnění (osobní výkon), doklad o ztrátě způsobilosti/úmrtí, podklady o rozpracovanosti a vynaložených nákladech.
 
 ### § 2590—2596 — Cena díla
 
@@ -1152,6 +2052,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 3444/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/83618E5842A222FFC1258C3D0052B3B0?openDocument) — *Smlouva o dílo Sleva z ceny*
 - *NS* [33 Cdo 2384/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D05557F7538E4E16C1258CD2004D3CFB?openDocument) — *Smlouva o dílo Přípustnost dovolání*
 - *NS* [28 Cdo 2952/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBC48FCC8841DB65C1258CBC004D3D52?openDocument) — *Smlouva o dílo Vady Forma právních jednání (o. z.) [ Právní jednání (o. z.) ]*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Objednatel O (stavebník) předal zhotoviteli Z projekt s nevhodným řešením základů. Z, který vystupuje jako odborná stavební firma, nevhodnost nerozpoznal (resp. na ni O neupozornil) a stavbu podle projektu provedl; následně se objeví trhliny. O reklamuje vady a Z se brání tím, že postupoval podle projektu dodaného O. Důkazy: smlouva, projektová dokumentace, doklad o (ne)upozornění podle § 2594, znalecký posudek k příčině vad.
+
+**2. Právní otázka.** Odpovídá zhotovitel za vady díla vzniklé z nevhodného příkazu/věci objednatele, neupozornil-li jej na nevhodnost (§ 2594), a kdy se odpovědnosti zprostí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2590 (provedení díla s potřebnou péčí); § 2592 (samostatnost zhotovitele, vázanost příkazy jen ze zvyklostí/ujednání); § 2594 (povinnost upozornit na nevhodnou věc/příkaz; přerušení díla; zproštění z vad při řádném upozornění); § 2595 (odstoupení při trvání na nevhodném příkazu); § 2596 (postavení prodávajícího u zpracované věci).
+- *Související ustanovení téhož zákona:* § 5 (odborník); § 2615 (vady díla); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 89/2012 Sb.; stavební předpisy (technické normy).
+- *Judikatura:* NS 23 Cdo 3360/2023 (zhotovitel jako odborník neupozornil na nevhodnost příkazu podle § 2594 a nese odpovědnost za vady); NS 28 Cdo 1766/2025 (§ 2590 a výklad); NS 33 Cdo 3444/2024 (vady díla).
+
+**4. Subsumpce.** Znak „nevhodná věc/příkaz objednatele" je naplněn (vadný projekt). Znak „upozornění zhotovitele" naplněn není — Z neupozornil, ač jako odborník (§ 5) nevhodnost rozpoznat měl a mohl. Proto se Z nezprostí odpovědnosti (§ 2594 odst. 4 a contrario) a odpovídá za vady díla (NS 23 Cdo 3360/2023).
+
+**5. Řešení.** Z odpovídá za vady, neboť porušil upozorňovací povinnost odborníka (§ 2594, § 5; NS 23 Cdo 3360/2023). Zprostil by se jen, kdyby na nevhodnost řádně upozornil a O na příkazu trval (nejlépe písemně). Procesně O prokazuje vadu a příčinu v projektu; Z nese důkaz o upozornění. Riziko: prokázání, zda nevhodnost byla pro odborníka rozpoznatelná.
+
+**6. Varianty.** (a) Z O na nevhodnost projektu písemně upozornil a O trval na provedení → Z se zprostí odpovědnosti za tyto vady (§ 2594 odst. 4) a může i odstoupit (§ 2595). (b) Nevhodnost nemohl zjistit ani při potřebné péči → povinnost upozornit nevznikla (§ 2594 odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „postupoval jsem podle projektu O":* Z se brání pokynem objednatele. Neutralizace — § 2594 ukládá zhotoviteli-odborníkovi upozornit na nevhodnost; bez upozornění odpovídá za vady (NS 23 Cdo 3360/2023).
+- *Protiargument „zhotovitel je vázán příkazy O":* Neutralizace — § 2592 váže zhotovitele příkazy jen ze zvyklostí/ujednání; jinak postupuje samostatně a odborně (§ 2590).
+- *Slabé místo:* rozpoznatelnost nevhodnosti projektu odborníkem je znalecká otázka; bez upozornění je však pozice zhotovitele slabá.
+
+#### H. Praktický závěr
+
+Zhotovitel postupuje samostatně a s odbornou péčí (§ 2590, § 2592) a musí objednatele upozornit na nevhodnou věc či příkaz (§ 2594); jinak odpovídá za vzniklé vady. Zprostí se jen řádným upozorněním (ideálně písemným), trvá-li objednatel na svém.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla věc/příkaz objednatele nevhodná a byla nevhodnost rozpoznatelná odborníkem (§ 2594, § 5)?
+- [ ] Upozornil zhotovitel objednatele a vyžádal si písemné trvání na příkazu (§ 2594 odst. 2)?
+- [ ] Přerušil zhotovitel dílo, bránila-li nevhodnost řádnému provedení?
+- [ ] Je cena díla a její režim (rozpočet) ošetřen (§ 2590, § 2620)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, projektová/technická dokumentace, písemné upozornění na nevhodnost, znalecký posudek k příčině vad, doklady o průběhu provádění.
 
 ### § 2597—2606 — Provedení díla
 
@@ -1216,6 +2152,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 1677/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3D79FE72A6958EFC1258C92004D08CF?openDocument) — *Smlouva o dílo Spotřebitel Vady*
 - *NS* [23 Cdo 197/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/171DB09923C95CC2C1258BA1004D3B5F?openDocument) — *Smlouva o dílo Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
 - *NS* [33 Cdo 1260/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D8A25974AE0DBA7C125884900195A51?openDocument) — *Smlouva o dílo*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zhotovitel Z zhotovil pro objednatele O nábytek z materiálu, který sám obstaral, ve své dílně (nikoli u O). Před dokončením dílo shořelo při požáru dílny, který Z nezavinil. O požaduje vrácení zálohy a tvrdí, že riziko nesl Z; Z tvrdí, že vlastnictví k rozpracovanému dílu náleželo jemu a nebezpečí škody nese O. Důkazy: smlouva, doklad o tom, kde a z čího materiálu se dílo provádělo, doklad o příčině požáru, doklady o záloze.
+
+**2. Právní otázka.** Kdo nabývá vlastnické právo k předmětu díla a kdo nese nebezpečí škody, zmaří-li se dílo bez zavinění zhotovitele před předáním (§ 2599–2603)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2599 (nabytí vlastnictví k předmětu díla — podle místa zpracování a poměru hodnot); § 2600 (zmaření díla bez odpovědnosti zhotovitele, nabyl-li zhotovitel vlastnictví — objednatel nemá nárok na náhradu za předanou věc); § 2601–2603 (vypořádání podle toho, kdo nabyl vlastnictví a kdo odpovídá za zmaření); § 2604–2605 (provedení a převzetí díla).
+- *Související ustanovení téhož zákona:* § 2598 (nebezpečí škody na věci opatřené k provedení díla); § 2611 (záloha); bezdůvodné obohacení (§ 2991 a násl.).
+- *Související předpisy:* zákon č. 89/2012 Sb.
+- *Judikatura:* NS 23 Cdo 1343/2022 (škoda na převzaté věci u díla); obecné závěry k přechodu nebezpečí u díla; NS 33 Cdo 1187/2024 (prodlení věřitele u díla).
+
+**4. Subsumpce.** Předmět díla byl zhotoven z materiálu Z a v dílně Z (nikoli u O) — podle § 2599 odst. 1 nabývá vlastnické právo k předmětu díla zhotovitel. Zmařilo-li se dílo požárem bez odpovědnosti Z (§ 2600), nese ztrátu zhotovitel jako vlastník a O nemá nárok na náhradu za to, co zhotoviteli předal; zaplacenou zálohu však nelze zadržet bez právního důvodu (bezdůvodné obohacení).
+
+**5. Řešení.** Riziko nahodilé zkázy nese vlastník rozpracovaného díla — zde Z (§ 2599 odst. 1, § 2600). O proto nedluží cenu díla, které zaniklo, a má nárok na vrácení zaplacené zálohy (chybí plnění); Z nese vlastní náklady. Procesně se zkoumá místo zpracování a poměr hodnot. Riziko: byla-li hodnota díla nižší než hodnota věci O, mohlo vlastnictví náležet O s jiným vypořádáním.
+
+**6. Varianty.** (a) Dílo se provádělo u O / na jeho pozemku → vlastnictví k předmětu díla nabývá objednatel (§ 2599 odst. 2), s odlišným rozložením rizika a vypořádání (§ 2603). (b) Zmaření by Z zavinil → poskytne O náhradu za jeho zpracovanou věc, resp. vrátí věc téhož druhu (§ 2601, § 2602).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „riziko nese objednatel":* Z tvrdí, že O nese nebezpečí. Neutralizace — u věci zhotovené z materiálu zhotovitele v jeho dílně nabývá vlastnictví a nese riziko zhotovitel (§ 2599 odst. 1, § 2600).
+- *Protiargument „záloha propadá":* Z si chce ponechat zálohu. Neutralizace — zaniklo-li dílo a O za ně nic neobdržel, jde o bezdůvodné obohacení; zálohu je nutné vrátit.
+- *Slabé místo:* určení místa zpracování a poměru hodnot díla a věci je skutkové; rozhoduje o tom, kdo nabyl vlastnictví.
+
+#### H. Praktický závěr
+
+Vlastnictví a nebezpečí škody u rozpracovaného díla se řídí § 2599 (místo zpracování, poměr hodnot): zhotoví-li zhotovitel věc ze svého materiálu ve své dílně, nese riziko nahodilé zkázy on (§ 2600). Zaplacenou zálohu za zaniklé dílo je nutné vypořádat (bezdůvodné obohacení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kde a z čího materiálu se dílo provádělo (určení vlastnictví podle § 2599)?
+- [ ] Kdo nese nebezpečí škody na rozpracovaném díle (§ 2599, § 2600)?
+- [ ] Bylo zmaření zaviněno zhotovitelem (vypořádání podle § 2601–2603)?
+- [ ] Jak se vypořádá zaplacená záloha (§ 2611, bezdůvodné obohacení)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, doklady o místě zpracování a původu materiálu, doklad o příčině zmaření (požár), znalecké ocenění hodnot, doklady o záloze.
 
 ### § 2607—2620 — Předání a převzetí
 
@@ -1293,6 +2265,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 2664/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B13DE045AB69551C12588AD0017E67C?openDocument) — *Přípustnost dovolání Smlouva o dílo*
 - *NS* [33 Cdo 3291/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B69F7FC1097D813C12588310017D68A?openDocument) — *Přípustnost dovolání Smlouva o dílo Cena*
 - *NS* [25 Cdo 3132/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F4813171589A2FC1258BE50052C41D?openDocument) — *Smlouva o dílo Přípustnost dovolání*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zhotovitel Z dokončil dílo (rekonstrukci provozovny) a vyzval objednatele O k převzetí. O dílo bez výhrad převzal a začal jej užívat; až po dvou měsících vytýká zjevnou vadu (špatně osazené dveře), kterou bylo možné při převzetí rozpoznat. Z namítá pozdní vytknutí. Zároveň Z požaduje doplatek ceny, který O odpírá. Důkazy: smlouva, předávací protokol „bez výhrad", doklady o dokončení a o užívání, reklamace O.
+
+**2. Právní otázka.** Jaké jsou následky převzetí díla bez výhrad u zjevné vady (§ 2605 odst. 2) a kdy vzniká právo na zaplacení ceny díla (§ 2610)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2604–2605 (dílo provedeno dokončením a předáním; převzetí s výhradami/bez výhrad; soud nepřizná právo ze zjevné vady při převzetí bez výhrad, namítne-li zhotovitel opožděnost); § 2607 (dokončení prokázané zkouškami); § 2610 (právo na cenu vzniká provedením díla); § 2611–2612 (zálohy, překročení ceny určené odhadem).
+- *Související ustanovení téhož zákona:* § 2615–2618 (vady díla a lhůty k vytknutí); § 2620–2622 (cena podle rozpočtu).
+- *Související předpisy:* zákon č. 89/2012 Sb.
+- *Judikatura:* NS 33 Cdo 1043/2019 (povinnost provést dílo řádně a včas, § 2604, § 2590); NS 25 Cdo 1603/2024 (cena díla); obecné závěry k převzetí bez výhrad a prekluzi práva ze zjevné vady.
+
+**4. Subsumpce.** Znak „převzetí bez výhrad" je naplněn; vada (osazení dveří) byla zjevná a rozpoznatelná při převzetí. Podle § 2605 odst. 2 soud nepřizná právo ze zjevné vady, namítne-li Z opožděné uplatnění. Právo na cenu díla vzniklo provedením (dokončením a předáním) díla (§ 2610).
+
+**5. Řešení.** O ztrácí (procesně) právo ze zjevné vady, převzal-li dílo bez výhrad a Z namítne opožděnost (§ 2605 odst. 2); skryté vady by O mohl uplatnit ve lhůtách § 2618 (resp. § 2629 u staveb). Z má právo na doplatek ceny, neboť dílo bylo provedeno (§ 2610). Procesně Z prokazuje dokončení a předání; O nese důsledky převzetí bez výhrad. Riziko: rozlišení zjevné a skryté vady.
+
+**6. Varianty.** (a) Vada byla skrytá a O ji vytkl bez zbytečného odkladu po zjištění → právo z vady zůstává (§ 2618, u staveb § 2629). (b) Dokončení mělo být prokázáno zkouškami a ty neproběhly úspěšně → dílo není dokončeno a právo na cenu nevzniká (§ 2607, § 2610).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vada existovala při převzetí":* O tvrdí odpovědnost Z. Neutralizace — u zjevné vady a převzetí bez výhrad soud právo nepřizná, namítne-li Z opožděnost (§ 2605 odst. 2).
+- *Protiargument „cena není splatná":* O odpírá doplatek. Neutralizace — právo na cenu vzniká provedením díla (§ 2610); bylo-li dílo dokončeno a předáno, doplatek je splatný.
+- *Slabé místo:* hranice mezi zjevnou a skrytou vadou je rozhodná a často sporná; nutné posoudit rozpoznatelnost při převzetí.
+
+#### H. Praktický závěr
+
+Dílo je provedeno dokončením a předáním (§ 2604); převzetí bez výhrad u zjevné vady vede k procesní ztrátě práva z této vady (§ 2605 odst. 2). Právo na cenu vzniká provedením díla (§ 2610). Objednatel by měl při přejímce uplatnit výhrady ke zjevným vadám.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo dílo dokončeno a předáno (§ 2604), případně prokázáno zkouškami (§ 2607)?
+- [ ] Převzal objednatel s výhradami, nebo bez výhrad (§ 2605)?
+- [ ] Jde o zjevnou, nebo skrytou vadu (vliv na uplatnění a lhůty, § 2618/§ 2629)?
+- [ ] Vzniklo právo na cenu díla / její doplatek (§ 2610–2612)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, předávací protokol (výhrady/bez výhrad), doklady o dokončení a zkouškách, reklamace a její načasování, doklady o ceně a platbách.
 
 ### § 2615—2635 — Vady díla
 
@@ -1410,6 +2418,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Současně pak podle § 2615 ve spojení s § 2106 o. z. platí, že neodstraní-li zhotovitel vady v přiměřené lhůtě či oznámí-li objednateli, že vady neodstraní, může objednatel požadovat místo odstranění vady přiměřenou slevu, nebo může od smlouvy odstoupit."
 - *NS* [23 Cdo 3360/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/749ABAF949E32CA5C1258AF4004C9A97?openDocument) — *Smlouva o dílo*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor O nechal zhotovitelem Z postavit rodinný dům na základě smlouvy a projektu od projektanta P; stavební dozor vykonával D. Tři roky po převzetí se projeví skrytá vada (vlhnoucí zdivo). Znalecky se zjistí, že příčinou je chyba v projektu a selhání dozoru. O vytkne vadu Z a žádá odstranění; Z se brání tím, že vadu způsobil projekt a dozor zvolený O. Důkazy: smlouva, projekt, doklady o dozoru, znalecký posudek k příčině, doklad o vytknutí vady a o lhůtách.
+
+**2. Právní otázka.** Lze u skryté vady stavby uplatnit práva z vad ve lhůtě pěti let (§ 2629), kdo odpovídá vedle zhotovitele (§ 2630) a kdy se zhotovitel odpovědnosti zprostí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2615–2618 (vady díla a oznámení); § 2629 (skrytá vada stavby — pětiletá lhůta, u spotřebitele domněnka vadnosti při projevu do dvou let); § 2630 (solidární odpovědnost poddodavatele, projektanta a osoby vykonávající dozor; zproštění zhotovitele, způsobila-li vadu jen chyba projektu/dozoru osoby zvolené objednatelem); § 2623–2624 (stavba, nebezpečí škody).
+- *Související ustanovení téhož zákona:* § 2106–2107 (práva z vad, přiměřeně dle § 2615); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 89/2012 Sb.; stavební zákon a technické normy.
+- *Judikatura:* NS 33 Cdo 3444/2024 (vady díla); NS 25 Cdo 3132/2023 (neodstraní-li zhotovitel vady, právo na slevu/odstoupení dle § 2615 ve spojení s § 2106); NS 33 Cdo 1043/2019 (řádné a včasné provedení stavby, § 2587, § 2604).
+
+**4. Subsumpce.** Znak „skrytá vada stavby" je naplněn a byl vytčen ve lhůtě pěti let (§ 2629). Znak „solidární odpovědnost" (§ 2630) dopadá na P (projektant) a D (dozor) vedle Z. Zhotovitel se zprostí, prokáže-li, že vadu způsobila jen chyba projektu/dozoru osoby, kterou si zvolil objednatel (§ 2630 odst. 2).
+
+**5. Řešení.** O může uplatnit práva z vady vůči Z (§ 2615, § 2629); za vadu odpovídají solidárně též P a D (§ 2630 odst. 1). Prokáže-li Z, že příčinou byla výlučně chyba projektu/dozoru osob zvolených O, zprostí se (§ 2630 odst. 2) a O se hojí na P a D. Procesně je rozhodný znalecký posudek k příčině vady. Riziko: vícepříčinnost (podíl provádění Z) vylučuje úplné zproštění.
+
+**6. Varianty.** (a) Objednatelem je spotřebitel a vada se projeví do dvou let → má se za to, že stavba byla vadná již při převzetí (§ 2629 odst. 3). (b) Strany sjednaly zkrácení lhůty vůči slabší straně → k tomu se nepřihlíží (§ 2629 odst. 2 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vadu způsobil projekt/dozor":* Z se zprošťuje. Neutralizace — § 2630 odst. 2 vyžaduje, aby šlo o **jedinou** příčinu (chyba projektu/dozoru osob zvolených objednatelem); podíl provádění Z zproštění brání.
+- *Protiargument „lhůta uplynula":* Z namítá prekluzi. Neutralizace — u skryté vady stavby běží pětiletá lhůta (§ 2629), nikoli dvouletá obecná (§ 2618).
+- *Slabé místo:* určení příčiny a podílů jednotlivých subjektů je znalecky náročné; bez jednoznačného posudku hrozí spory o zproštění.
+
+#### H. Praktický závěr
+
+Skryté vady stavby lze vytknout v pětileté lhůtě (§ 2629; u spotřebitele s domněnkou vadnosti při projevu do dvou let). Za vady stavby odpovídají vedle zhotovitele solidárně i poddodavatel, projektant a dozor (§ 2630); zhotovitel se zprostí jen při výlučné příčině na straně osob zvolených objednatelem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o skrytou vadu stavby a byla vytčena v pětileté lhůtě (§ 2629)?
+- [ ] Je objednatel spotřebitelem (domněnka vadnosti, § 2629 odst. 3)?
+- [ ] Kdo odpovídá solidárně (poddodavatel, projektant, dozor — § 2630)?
+- [ ] Prokázal zhotovitel výlučnou příčinu na straně osob zvolených objednatelem (§ 2630 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo a projekt, doklady o dozoru a poddodavatelích, znalecký posudek k příčině a podílům, doklad o vytknutí vady a o lhůtách.
+
 ---
 
 ## Zájezd (§ 2521—2549)
@@ -1433,6 +2477,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
   > „Podle § 2521 odst. 1 o. z. se smlouvou o zájezdu pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou cenu."
 - *NS* [33 Cdo 1553/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A962B75C3F936D20C125899600182356?openDocument) — *Odstoupení od smlouvy Smlouva o zájezdu (o. z.)*
   > „Podle § 2521 o. z. se pořadatel smlouvou o zájezdu zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou sumu (odstavec 1/)."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zákazník Z uzavřel s cestovní kanceláří CK (pořadatel) smlouvu o pobytu zahrnujícím leteckou dopravu a ubytování na 7 nocí; cenu uhradil. CK po čase zkrachuje (úpadek) ještě před odjezdem. Z se domáhá vrácení ceny a tvrdí, že CK měla povinné pojištění proti úpadku. CK alternativně namítá, že nešlo o „zájezd", ale o pouhé zprostředkování jednotlivých služeb. Důkazy: smlouva/potvrzení o zájezdu, doklad o pojištění proti úpadku, doklady o platbě, obsah objednaných služeb.
+
+**2. Právní otázka.** Jde o smlouvu o zájezdu podle § 2521 (kombinace nejméně dvou cestovních služeb) a jaká je ochrana zákazníka pro případ úpadku pořadatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2521 — smlouvou o zájezdu se pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník zaplatit celkovou cenu; zájezdem je kombinace nejméně dvou různých typů cestovních služeb.
+- *Související ustanovení téhož zákona:* § 2526 (doklad o pojištění/bankovní záruce pro případ úpadku); § 2525, § 2527–2528 (potvrzení o zájezdu a jeho náležitosti); § 2549 (kogentní ochrana zákazníka).
+- *Související předpisy:* zákon č. 159/1999 Sb. o podmínkách podnikání v cestovním ruchu (povinné pojištění proti úpadku); směrnice (EU) 2015/2302 (PTD).
+- *Judikatura:* NS 25 Cdo 2277/2024 (smlouva o zájezdu a pojištění záruky pro případ úpadku); NS 33 Cdo 1553/2022 a 33 Cdo 2348/2023 (smlouva o zájezdu, náhrada škody, § 2521, § 2525).
+
+**4. Subsumpce.** Znaky § 2521 (obstarání kombinace nejméně dvou cestovních služeb — doprava + ubytování — za celkovou cenu) jsou naplněny; jde o zájezd, nikoli o pouhé zprostředkování jednotlivých služeb. Tím vzniká povinnost pořadatele mít pojištění proti úpadku (§ 2526, zák. č. 159/1999 Sb.), z něhož se Z hojí.
+
+**5. Řešení.** Z se domůže vrácení uhrazené ceny z pojištění proti úpadku (resp. bankovní záruky), neboť šlo o zájezd (§ 2521, § 2526; NS 25 Cdo 2277/2024). Procesně Z prokazuje uzavření smlouvy o zájezdu, platbu a úpadek CK; uplatní nárok u pojistitele/banky. Riziko: spor o povahu plnění (zájezd vs. jednotlivé služby) a o rozsah krytí pojištění.
+
+**6. Varianty.** (a) Smlouva by zahrnovala jen jednu cestovní službu (např. jen ubytování) → nešlo by o zájezd a režim ochrany proti úpadku podle § 2526 by se neuplatnil. (b) CK vystupovala jen jako zprostředkovatel prodeje zájezdu jiného pořadatele → odpovědnost a ochrana se váží k pořadateli, nikoli ke zprostředkovateli.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nešlo o zájezd":* CK překvalifikovává plnění na jednotlivé služby. Neutralizace — § 2521 staví na kombinaci nejméně dvou služeb za celkovou cenu; doprava + ubytování zájezd zakládají.
+- *Protiargument „pojištění nekryje celou platbu":* Neutralizace — povinné pojištění proti úpadku (zák. č. 159/1999 Sb.) musí krýt vrácení plateb a repatriaci; nedostatečné krytí jde k tíži pořadatele/pojistitele.
+- *Slabé místo:* rozlišení zájezdu od „spojených cestovních služeb" a od zprostředkování; nutné posoudit obsah smlouvy a způsob nabídky.
+
+#### H. Praktický závěr
+
+Smlouva o zájezdu předpokládá kombinaci nejméně dvou cestovních služeb za celkovou cenu (§ 2521); pořadatel musí mít povinné pojištění proti úpadku, z něhož se zákazník hojí (§ 2526, zák. č. 159/1999 Sb.). Úprava je kogentní ve prospěch zákazníka (§ 2549).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zahrnuje plnění kombinaci nejméně dvou cestovních služeb za celkovou cenu (§ 2521)?
+- [ ] Vystupuje subjekt jako pořadatel, nebo jen jako zprostředkovatel prodeje zájezdu?
+- [ ] Má pořadatel pojištění/bankovní záruku pro případ úpadku (§ 2526)?
+- [ ] Bylo vydáno potvrzení o zájezdu se zákonnými náležitostmi (§ 2527, § 2528)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a potvrzení o zájezdu, doklad o pojištění proti úpadku, doklady o platbě, popis objednaných služeb, doklad o úpadku pořadatele.
 
 ### § 2525—2549 — Klíčové prvky
 
@@ -1705,6 +2785,42 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - *NS* [33 Cdo 3884/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9EDC31ACEABAC56C1258A2700161247?openDocument) — *Přípustnost dovolání Smlouva o zájezdu (o. z.) Odstupné*
 - *NS* [33 Cdo 115/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE6AF584E97C146DC12588660017B03B?openDocument) — *Smlouva o zájezdu (o. z.)*
 - *NS* [33 Cdo 1809/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CF7C88C2EA352B8C125876D0018A049?openDocument) — *Smlouva o zájezdu (o. z.)*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zákazník Z absolvoval u pořadatele CK týdenní zájezd, na místě však ubytování neodpovídalo sjednané kategorii (hotel nižší třídy, hlučný a nedokončený). Z vadu na místě vytkl delegátovi a žádal nápravu; CK nic neřešila. Po návratu Z požaduje slevu z ceny a náhradu újmy za narušení dovolené. CK namítá, že vadu nevytkl řádně a že jde o subjektivní nespokojenost. Důkazy: smlouva/potvrzení o zájezdu, doklad o vytknutí vady delegátovi, fotodokumentace, svědci, popis sjednané vs. poskytnuté kategorie.
+
+**2. Právní otázka.** Má zákazník právo na slevu a na náhradu újmy za narušení dovolené, vytkl-li vadu zájezdu, a jaké jsou podmínky a lhůty jejího uplatnění (§ 2537, § 2540, § 2542, § 2543)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2537 (vada zájezdu a její vytknutí, povinnost pořadatele odstranit); § 2540 (sleva z ceny přiměřená rozsahu a trvání vady; nejméně dvouletá promlčecí lhůta); § 2542 (odpovědnost pořadatele za splnění bez ohledu na poskytovatele dílčích služeb, náhrada škody); § 2543 (újma za narušení dovolené); § 2549 (kogentní ochrana zákazníka).
+- *Související ustanovení téhož zákona:* § 2533–2536 (odstoupení a odstupné); § 2530–2531 (změna ceny a závazku); § 2913 (náhrada škody).
+- *Související předpisy:* zákon č. 159/1999 Sb.; směrnice (EU) 2015/2302 (PTD).
+- *Judikatura:* NS 33 Cdo 86/2022 (narušení dovolené); NS 33 Cdo 1553/2022, 33 Cdo 3587/2023 a 33 Cdo 3884/2022 (smlouva o zájezdu, odstoupení, odstupné); NS 33 Cdo 2348/2023 (náhrada škody, § 2525).
+
+**4. Subsumpce.** Znak „vada zájezdu" (§ 2537 odst. 1) je naplněn — služba (ubytování) neodpovídá smlouvě. Znak „vytknutí" je naplněn (vytčení delegátovi). CK vadu neodstranila (§ 2537 odst. 3, 4), čímž vzniká právo na slevu (§ 2540) a na náhradu škody i újmy za narušení dovolené (§ 2542, § 2543).
+
+**5. Řešení.** Z má právo na přiměřenou slevu z ceny (§ 2540) odpovídající rozsahu a trvání vady a na náhradu škody i nemajetkové újmy za narušení dovolené (§ 2542, § 2543); ujednání o kratší než dvouleté promlčecí lhůtě je neúčinné. Procesně Z prokazuje vadu (rozdíl kategorie), vytknutí a rozsah; pořadatel odpovídá bez ohledu na hotel. Riziko: „přiměřenost" slevy je úvahová, vhodná je dokumentace rozsahu vady.
+
+**6. Varianty.** (a) Pořadatel zvýšil cenu o více než 8 % nebo podstatně změnil zájezd → zákazník může odstoupit bez odstupného (§ 2531 odst. 2). (b) V místě nastaly nevyhnutelné a mimořádné okolnosti → zákazník může před zahájením odstoupit bez odstupného s vrácením plateb, avšak bez náhrady škody (§ 2535).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vada nebyla řádně vytčena":* CK popírá vytknutí. Neutralizace — § 2537 odst. 2 umožňuje vytknout vadu i prostřednictvím zprostředkovatele/delegáta; doložit obsah a čas vytknutí.
+- *Protiargument „jde o subjektivní nespokojenost":* Neutralizace — rozhodný je objektivní rozpor poskytnuté služby se smlouvou (kategorie ubytování), nikoli pocity zákazníka.
+- *Slabé místo:* prokázání rozsahu a trvání vady a výše újmy za narušení dovolené; klíčová je fotodokumentace a svědecké výpovědi.
+
+#### H. Praktický závěr
+
+Vadu zájezdu je třeba vytknout bez zbytečného odkladu (lze i přes delegáta/zprostředkovatele); neodstraní-li ji pořadatel, vzniká právo na přiměřenou slevu (§ 2540) a na náhradu škody i újmy za narušení dovolené (§ 2542, § 2543). Pořadatel odpovídá za celý zájezd bez ohledu na poskytovatele dílčích služeb; úprava je kogentní ve prospěch zákazníka (§ 2549).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídaly poskytnuté služby smlouvě, nebo jde o vadu zájezdu (§ 2537)?
+- [ ] Byla vada vytčena bez zbytečného odkladu (i přes delegáta/zprostředkovatele)?
+- [ ] Je uplatněna sleva přiměřená rozsahu a trvání vady (§ 2540) a náhrada újmy za narušení dovolené (§ 2543)?
+- [ ] Nejde o odstoupení bez odstupného (zvýšení ceny > 8 %, § 2531; mimořádné okolnosti, § 2535)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a potvrzení o zájezdu, doklad o vytknutí vady, fotodokumentace a svědecké výpovědi, srovnání sjednané a poskytnuté služby, doklady o platbě a o vyčíslení slevy/újmy.
 
 ---
 

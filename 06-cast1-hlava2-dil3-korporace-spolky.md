@@ -42,6 +42,42 @@ Strukturálně se Oddíl dělí na:
 - *VS v Praze* [6 Cmo 87/2021-48](https://rozhodnuti.justice.cz/rozhodnuti/?id=d1afce2f-bdff-4139-96ae-d8aa0b797965) — 24. 3. 2021
 - *ObS pro Prahu 4* [19 C 299/2020-58](https://rozhodnuti.justice.cz/rozhodnuti/?id=ceb886f6-40a5-4f4e-beee-6dc8860e0db7) — *náklady léčení, peněžité plnění, znalecký posudek*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina osob provozuje neformální zájmovou aktivitu (např. komunitní zahradu) a zvažuje, zda mají vytvořit spolek (korporaci), nadační fond, nebo ústav. Jeden z iniciátorů — fyzická osoba A — chce celý projekt „vlastnit" sám a uvažuje o jednočlenné struktuře. Pro posouzení je třeba obstarat: zamýšlený účel činnosti (osobní vs. majetkový substrát), počet osob ochotných stát se členy, a zda má jít o členské společenství nebo o vyčleněný majetek.
+
+**2. Právní otázka.** Je zamýšlený útvar korporací ve smyslu § 210 (a podléhá tedy úpravě § 210—213, resp. § 214 a násl. pro spolek), nebo jde o fundaci/ústav s odlišným režimem? A může mít korporace jediného člena?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 210 — korporaci vytváří jako PO společenství osob (osobní substrát); na PO s jediným členem se hledí jako na korporaci (odst. 2 — fikce).
+- *Související ustanovení téhož zákona:* § 211 (jediný/nedostatečný počet členů — kdy je jediný člen vůbec přípustný), § 214 odst. 1 (spolek vyžaduje min. 3 osoby), § 303 a násl. (fundace), § 402 a násl. (ústav).
+- *Související předpisy:* ZOK (zákon č. 90/2012 Sb.) — § 11 (jednočlenná s.r.o./a.s.), na obchodní korporace se § 210—213 OZ použije podpůrně; zvláštní zákony pro profesní komory (např. zákon č. 85/1996 Sb.).
+- *Judikatura:* rozhodnutí citovaná u tohoto paragrafu (VS v Praze 9 Cmo 151/2023; 6 Cmo 92/2021) potvrzují, že povaha PO se odvozuje od jejího substrátu; nosný závěr — typ PO (korporace/fundace/ústav) určuje aplikovatelný režim.
+
+**4. Subsumpce.** Klíčovým znakem korporace je **osobní substrát** (členové). Pokud útvar stojí na společenství osob sledujících společný účel, jde o korporaci. Chce-li A být jediným „vlastníkem", spolek to neumožní (vyžaduje 3 osoby — § 214), ale jednočlenná s.r.o. ano (fikce korporace dle § 210 odst. 2 ve spojení s § 11 ZOK). Pro neziskovou komunitní zahradu s více aktivními lidmi je naopak naplněn znak společenství osob → spolek.
+
+**5. Řešení.** Pokud projekt stojí na členské základně a nepodnikatelském účelu, správnou formou je **spolek** (korporace dle § 210, blíže § 214 a násl.); jednočlenná struktura zde není možná. Praktický krok: posoudit, zda je primární osobní substrát (→ korporace) nebo vyčleněný majetek (→ fundace). Riziko: zvolení nevhodné formy vede k pozdější nákladné přeměně.
+
+**6. Varianty.** (a) Pokud by A chtěl realizovat účel sám a majetkem (např. stipendijní fond), nešlo by o korporaci, ale o nadační fond. (b) Pokud by účelem bylo poskytování služeb veřejnosti pomocí osob i majetku, jde o ústav (§ 402).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „I jednočlenný útvar je vždy korporací." — Neutralizace: odst. 2 zavádí pouze **fikci** („hledí se jako na korporaci") pro PO, kterým zákon jediného člena povoluje (s.r.o., a.s.); spolek mezi ně nepatří. Fikce neznamená, že lze založit jednočlenný spolek.
+- *Protiargument:* „Společný účel není pro korporaci nutný." — Účel je definičním znakem každé PO (§ 145 a násl.); u korporace ho sleduje společenství osob.
+- *Slabé místo:* hranice korporace/ústav je u hybridních útvarů neostrá; rozhodující je převažující substrát a způsob naplňování účelu.
+
+#### H. Praktický závěr
+
+Korporace je PO s **osobním substrátem**; tato kvalifikace určuje celý aplikovatelný režim. Fikce u jediného člena (odst. 2) se uplatní jen tam, kde zákon jediného člena připouští.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stojí útvar na společenství osob (členech)? → korporace.
+- [ ] Připouští zákon u zvolené formy jediného člena (s.r.o./a.s. ano, spolek ne)?
+- [ ] Neměl by být útvar spíše fundací (majetkový substrát) či ústavem (hybridní)?
+- [ ] U obchodních korporací zohlednit přednost ZOK před § 210—213 OZ.
+
+**Typicky rozhodné důkazy / podklady:** zakladatelské právní jednání (stanovy / zakladatelská listina), doklad o počtu zakladatelů/členů, vymezení účelu, výpis z veřejného rejstříku.
+
 ### § 211 — Jediný a nedostatečný počet členů
 
 > (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
@@ -64,6 +100,42 @@ Příklad: spolek klesne ze 3 členů na 2. Soud vyzve k doplnění do 3 měsíc
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [7 Cmo 44/2024-110](https://rozhodnuti.justice.cz/rozhodnuti/?id=4c4f6236-0329-4166-b395-bded370c9c60) — 4. 7. 2024
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Sportovní spolek byl řádně založen třemi zakladateli. Postupem času dva členové vystoupili a třetí zemřel bez nástupce, takže spolek fakticky nemá žádného aktivního člena, resp. klesl pod zákonné minimum tří osob (§ 214 odst. 1). Rejstříkový soud se o stavu dozví z výroční zprávy / podnětu obce. Je třeba doložit aktuální seznam členů, zápisy z členských schůzí a doklady o ukončení členství.
+
+**2. Právní otázka.** Jaký je postup soudu, klesne-li počet členů korporace pod zákonné minimum — zruší ji soud okamžitě, nebo musí nejprve poskytnout lhůtu k nápravě? A může jediný zbývající člen jednočlenné korporace svévolně ukončit členství?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 211 odst. 1 (jediný člen jen, připouští-li to zákon; zákaz svévolného ukončení členství bez nástupce), odst. 2 (pokles pod minimum → zrušení soudem s likvidací po poskytnutí přiměřené lhůty k nápravě).
+- *Související ustanovení téhož zákona:* § 214 odst. 1 (minimum 3 osoby u spolku), § 172 (obecné důvody zrušení PO soudem), § 268 (zvláštní spolkové důvody zrušení), § 187 a násl. (likvidace).
+- *Související předpisy:* zákon č. 304/2013 Sb. o veřejných rejstřících (řízení, podněty); ZOK pro minimální počty u obchodních korporací.
+- *Judikatura:* VS v Praze 7 Cmo 44/2024-110 (citováno u § 211) — postup rejstříkového soudu při nedostatečném počtu členů; nosně: zrušení s likvidací je krajním řešením po marném uplynutí nápravné lhůty.
+
+**4. Subsumpce.** Spolek klesl pod minimum 3 osob → naplněna hypotéza § 211 odst. 2. Soud však **nesmí** zrušit spolek ihned: musí nejprve poskytnout **přiměřenou lhůtu** ke zjednání nápravy (doplnění členů). Teprve marné uplynutí lhůty zakládá zrušení s likvidací. U případného jediného člena (jiná korporace, kde to zákon připouští) platí zákaz svévolného ukončení členství, ledaže nastoupí nový člen.
+
+**5. Řešení.** Soud vydá výzvu k nápravě s přiměřenou lhůtou (typicky řádově měsíce). Doplní-li spolek členy na 3+, řízení o zrušení se zastaví. Nedoplní-li, soud i bez návrhu rozhodne o zrušení a nařídí likvidaci. Praktický krok pro spolek: aktivně oslovit nové zájemce a doložit přijetí za členy ještě ve lhůtě.
+
+**6. Varianty.** (a) Pokud by spolek doplnil členy o jediného nového člena na 3, náprava je dostatečná a zrušení odpadá. (b) Pokud by šlo o jednočlennou s.r.o. (kde zákon jediného člena připouští), pokles na nula členů řeší § 211 odst. 1 zákazem svévolného odchodu bez nástupce, nikoli automatickým zrušením.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Klesne-li počet členů pod minimum, soud musí zrušit spolek bez dalšího." — Neutralizace: odst. 2 věta druhá výslovně ukládá soudu **nejprve** poskytnout přiměřenou lhůtu k nápravě; okamžité zrušení by bylo vadou řízení.
+- *Protiargument:* „Jediný člen může kdykoli vystoupit." — U korporace, kde zákon jediného člena připouští, to odst. 1 zapovídá, ledaže na jeho místo vstoupí nový člen (jinak by korporace zůstala bez substrátu).
+- *Slabé místo:* „přiměřenost" lhůty je neurčitý pojem — riziko sporu o její délku; vhodné navrhnout konkrétní lhůtu a doložit kroky k nápravě.
+
+#### H. Praktický závěr
+
+Pokles pod zákonné minimum členů není automatickým zánikem — soud nejprve dává **nápravnou lhůtu**. Jediný člen tam, kde je přípustný, nemůže odejít „do prázdna".
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Klesl počet členů pod zákonné minimum (u spolku pod 3)?
+- [ ] Poskytl soud před zrušením přiměřenou lhůtu k nápravě?
+- [ ] Byla náprava (doplnění členů) doložena ve lhůtě?
+- [ ] U jediného člena: nastupuje při jeho odchodu nový člen?
+
+**Typicky rozhodné důkazy / podklady:** seznam členů a jeho změny, zápisy o přijetí/zániku členství, výzva soudu a doklad o doručení, výpis z veřejného rejstříku.
 
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
@@ -116,6 +188,43 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *NS* [27 Cdo 3439/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E8EE0DEDE1D37D1C1258340002CD572?openDocument) — *Akciová společnost Valná hromada Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
   > „Jednalo se tak o pouhé „vyjádření nepřijetí“ návrhu usnesení. Konečně případné vyslovení neplatnosti usnesení valné hromady o neodvolání člena představenstva by na výkon jeho funkce nemělo žádný vliv, doplnil soud prvního stupně a konstatoval, že navrhovatel má k dispozici jiné možnosti obrany, např."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromá korporace (s.r.o. nebo zájmové sdružení) má většinového a několik menšinových společníků/členů. Většinový společník M na valné hromadě/členské schůzi prosadí usnesení, kterým se zisk po několik let nerozděluje a kumuluje, aniž to má hospodářské opodstatnění, s cílem „vyhladovět" menšinového společníka N a donutit ho prodat podíl pod cenou. Pro posouzení je třeba obstarat: zápisy z jednání nejvyššího orgánu, hlasovací záznamy, účetní závěrky, korespondenci dokládající motiv M.
+
+**2. Právní otázka.** Lze hlas většinového člena, jímž zneužil hlasovací právo k újmě celku, prohlásit za nepřihlížitelný podle § 212 odst. 2 — a v jaké lhůtě je nutné návrh podat? Současně: zakládá princip korporační loajality (§ 212 odst. 1) povinnost člena upřednostnit zájem korporace před svým vlastním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 212 odst. 1 (korporační loajalita — člen se chová čestně a zachovává vnitřní řád; korporace nesmí bezdůvodně zvýhodňovat/znevýhodňovat člena a šetří jeho práva), odst. 2 (zneužití hlasovacího práva k újmě celku → soud rozhodne, že k hlasu nelze pro určitý případ přihlížet; právo zaniká, není-li návrh podán do 3 měsíců od zneužití).
+- *Související ustanovení téhož zákona:* § 6 a § 7 (poctivost, dobrá víra), § 213 (derivativní žaloba), § 258—260 (neplatnost rozhodnutí orgánu spolku), § 245 (zdánlivost usnesení).
+- *Související předpisy:* ZOK — § 56 (zákaz zneužití hlasu v obchodní korporaci), § 212 a násl. ZOK (žaloba na neplatnost usnesení valné hromady), § 244 ZOK (rovné zacházení).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 1306/2023 (reprodukuje znění § 212 odst. 2 jako základ posouzení); NS 26 Cdo 751/2020 (totéž u SVJ); NS 27 Cdo 1602/2023 — z principu loajality nelze bez dalšího dovodit povinnost upřednostnit zájem společnosti před vlastním zájmem věřitele; NS 27 Cdo 1753/2024 — podání akcionářské žaloby jako neadekvátní a nehospodárný prostředek může být zneužitím práv v rozporu s loajalitou (§ 212); NS 27 Cdo 698/2024 — omezení počtu hlasů člena není bez dalšího „bezdůvodným" znevýhodněním.
+
+**4. Subsumpce.** Hlasování M proti rozdělení zisku bez hospodářského důvodu, motivované poškozením N, naplňuje znaky **zneužití hlasovacího práva k újmě celku** (újma korporace i menšiny). Aktivní legitimaci má ten, kdo prokáže právní zájem (typicky N). Klíčové je dodržení **tříměsíční prekluzivní lhůty** od okamžiku zneužití hlasu. Naopak samotná loajalita (odst. 1) sama o sobě nezakládá povinnost M hlasovat proti svému zájmu — musí jít o kvalifikované zneužití.
+
+**5. Řešení.** N podá v 3měsíční lhůtě návrh, aby soud rozhodl, že k hlasu M nelze pro daný případ přihlížet; po vyloučení „toxického" hlasu se hlasování přepočítá. Paralelně lze napadnout neplatnost usnesení (§ 258 OZ / § 212 ZOK). Procesní krok: zajistit důkazy o motivu (e-maily, dřívější nabídky odkupu) a o absenci hospodářského důvodu kumulace zisku. Riziko: marné uplynutí lhůty 3 měsíců právo definitivně zhasíná.
+
+**6. Varianty.** (a) Pokud by kumulace zisku měla reálný hospodářský důvod (plánovaná investice), o zneužití nejde a hlas zůstává platný. (b) Pokud by N podal návrh po více než 3 měsících, právo dle § 212 odst. 2 zaniká a soud návrh zamítne bez věcného přezkumu zneužití.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument M:* „Hlasoval jsem ve svém legitimním zájmu, loajalita mě nenutí jednat proti sobě." — Neutralizace: § 212 odst. 2 nepostihuje běžný výkon hlasu, ale jeho **zneužití k újmě celku**; rozhodující je škodlivý účel a absence racionálního důvodu, ne pouhý nesoulad se zájmem většiny (srov. 27 Cdo 1602/2023).
+- *Protiargument:* „Znevýhodnění menšiny (např. limit hlasů) je samo o sobě zakázané." — Dle 27 Cdo 698/2024 není každé znevýhodnění bezdůvodné; rozhodný je spravedlivý/objektivní důvod.
+- *Slabé místo:* prokázání škodlivého motivu je důkazně náročné; krátká prekluzivní lhůta 3 měsíce klade vysoké nároky na rychlost; hrozí, že vlastní procesní obrana (nevhodně zvolená žaloba) bude sama posouzena jako zneužití práva (27 Cdo 1753/2024).
+
+#### H. Praktický závěr
+
+§ 212 odst. 1 zakotvuje **korporační loajalitu** (vzájemné povinnosti člena a korporace), odst. 2 dává nástroj proti **zneužití hlasu** — soud k němu pro daný případ nepřihlédne. Loajalita ale sama nenutí člena obětovat vlastní legitimní zájem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o **soukromou** korporaci (odst. 2 se nevztahuje na veřejnoprávní)?
+- [ ] Byl hlas vykonán k újmě celku a bez racionálního důvodu (zneužití), ne jen v rozporu se zájmem většiny?
+- [ ] Je dodržena **tříměsíční** prekluzivní lhůta od zneužití hlasu?
+- [ ] Prokazuje navrhovatel právní zájem?
+- [ ] Není namístě (souběžně) žaloba na neplatnost usnesení / zdánlivost (§ 245, 258)?
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání nejvyššího orgánu a hlasovací záznamy, účetní závěrky, korespondence dokládající motiv, dřívější nabídky odkupu podílu, stanovy a jejich pravidla o hlasování.
+
 ### § 213 — Derivativní žaloba
 
 > Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
@@ -143,6 +252,42 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *ObS pro Prahu 4* [30 C 27/2024-39](https://rozhodnuti.justice.cz/rozhodnuti/?id=bc60d02e-a90c-4f0e-abde-3ab4238baeab) — *korporace, společenství vlastníků jednotek*
 - *ObS pro Prahu 8* [22 C 251/2020-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=da86acf1-4bcd-465c-9200-a4d49a43e76a) — *korporace, péče řádného hospodáře, peněžité plnění, společenství vlastníků jednotek*
 - *VS v Praze* [19 Cmo 59/2022-79](https://rozhodnuti.justice.cz/rozhodnuti/?id=f6a3fce7-3a3b-4d96-a1fd-307203b53b7b) — 27. 10. 2023
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel s.r.o. (člen statutárního orgánu) způsobí porušením péče řádného hospodáře korporaci škodu 1 mil. Kč; tím současně klesne hodnota podílu menšinového společníka N. N podá žalobu, kterou se domáhá náhrady **své** škody (poklesu hodnoty podílu). Pro posouzení je třeba obstarat: doklad o porušení povinnosti jednatele, znalecké ocenění poklesu hodnoty podílu, účetní podklady o škodě korporace.
+
+**2. Právní otázka.** Může soud i bez zvláštního návrhu žalobce uložit škůdci povinnost nahradit škodu **přímo korporaci** (nikoli žalujícímu členovi), je-li zřejmé, že tím se vyrovná i znehodnocení účasti člena?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 213 — poškodí-li korporaci její člen nebo člen orgánu způsobem zakládajícím povinnost k náhradě a tím je poškozen i jiný člen na hodnotě účasti, může soud i bez zvláštního návrhu uložit náhradu jen korporaci, je-li zřejmé, že se tím vyrovná i škoda na znehodnocené účasti.
+- *Související ustanovení téhož zákona:* § 159 (péče řádného hospodáře), § 2910 a násl. (náhrada škody), § 212 (loajalita), § 213 navazuje na § 211/212.
+- *Související předpisy:* ZOK — § 157—159 (derivativní žaloba kvalifikovaného společníka, *actio pro socio*); o. s. ř. (vázanost soudu žalobním návrhem a její prolomení tímto ustanovením).
+- *Judikatura:* rozhodnutí citovaná u § 213 (VS v Praze 14 Cmo 25/2023-851; ObS pro Prahu 8 22 C 251/2020-55 — péče řádného hospodáře, korporace) potvrzují směřování náhrady ve prospěch korporace; nosně — náhrada do majetku korporace se promítne do hodnoty účasti všech členů.
+
+**4. Subsumpce.** Jednatel porušil péči řádného hospodáře → vznikla povinnost k náhradě škody korporaci. Pokles hodnoty podílu N je **odvozeným** následkem. Naplněna hypotéza § 213: škoda korporaci + odvozená škoda člena na hodnotě účasti + domáhá se jen tento člen. Soud proto může uložit plnění **korporaci**, neboť tím se vyrovná i znehodnocení podílu N a zabrání se dvojí náhradě.
+
+**5. Řešení.** Soud — ač N žaluje svou škodu — uloží škůdci nahradit škodu přímo s.r.o.; tím se obnoví hodnota podílu N i ostatních a ochrání věřitelé korporace. Procesní specifikum: soud **není vázán** žalobním návrhem v rozsahu adresáta plnění. Riziko: pokud by nebylo „dostatečně zřejmé", že náhrada korporaci vyrovná i účast, soud tento postup nezvolí.
+
+**6. Varianty.** (a) Škoda postihla jen N individuálně (např. přímý zásah do jeho podílu), nikoli korporaci → § 213 se neuplatní, plní se přímo N. (b) Domáhá-li se náhrady sama korporace, otázka odklonu plnění nevzniká.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Soud nemůže přiznat plnění jinému subjektu, než kdo žaluje (vázanost návrhem)." — Neutralizace: § 213 je výslovnou zákonnou výjimkou umožňující soudu rozhodnout o náhradě korporaci i bez zvláštního návrhu.
+- *Protiargument:* „Žalobci vzniká vlastní, samostatně nahraditelná škoda." — Pravidlo brání **dvojí náhradě**; je-li škoda člena pouze odvozená od škody korporace, vyrovná se nápravou v majetku korporace.
+- *Slabé místo:* podmínka „dostatečné zřejmosti", že se vyrovná i znehodnocená účast, je hodnotící; u složitých kapitálových struktur může být sporné, zda náhrada korporaci skutečně promítne do hodnoty konkrétního podílu.
+
+#### H. Praktický závěr
+
+§ 213 umožňuje soudu nasměrovat náhradu škody **do majetku korporace** i tehdy, žaluje-li jen jednotlivý člen svou odvozenou škodu — tím se vyrovná znehodnocení účasti a zabrání dvojímu plnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o škodu způsobenou **korporaci** členem nebo členem orgánu (s povinností k náhradě)?
+- [ ] Je škoda žalujícího člena pouze **odvozená** (pokles hodnoty účasti)?
+- [ ] Je dostatečně zřejmé, že náhrada korporaci vyrovná i znehodnocení účasti?
+- [ ] U obchodní korporace zvážit speciální úpravu § 157—159 ZOK.
+
+**Typicky rozhodné důkazy / podklady:** doklad o porušení povinnosti (péče řádného hospodáře), vyčíslení škody korporace, znalecké ocenění poklesu hodnoty podílu, účetní podklady, výpis z rejstříku o postavení škůdce.
 
 ---
 
@@ -180,6 +325,43 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *NS* [26 Cdo 674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0870C972AEBA33BC1258BC1004D18E0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
 - *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Dvě fyzické osoby chtějí založit spolek na ochranu místního lesoparku a sepíší stanovy. Rejstříkový soud zápis odmítne pro nedostatek zakladatelů. Následně se přidá třetí osoba. Jiný případ: tři existující ochranářské spolky chtějí vytvořit střechovou organizaci a v jejím názvu uvedou jen „Ochrana přírody" bez vyjádření svazové povahy.
+
+**2. Právní otázka.** Kolik osob je minimálně třeba k založení spolku a co je jeho pojmovým znakem (společný zájem, samosprávnost, dobrovolnost)? Musí svaz spolků vyjádřit svou svazovou povahu v názvu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 214 odst. 1 (alespoň tři osoby vedené společným zájmem mohou založit spolek jako samosprávný a dobrovolný svazek členů), odst. 2 (svaz spolků vyjádří v názvu svazovou povahu).
+- *Související ustanovení téhož zákona:* § 215 (dobrovolnost, vyloučení ručení), § 216 (název — „spolek"/„z. s."), § 217 (hlavní a vedlejší činnost), § 210 (korporace), § 145 (zakázaný účel).
+- *Související předpisy:* čl. 20 LZPS (svoboda sdružování); zákon č. 304/2013 Sb. (zápis do spolkového rejstříku); zákon č. 424/1991 Sb. (politické strany — zvláštní úprava mimo spolky).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3150/2021 (zájmové sdružení PO / spolek); NS 27 Cdo 3526/2022 (pobočný spolek jako korporace) — vymezení spolku a jeho organizačních forem.
+
+**4. Subsumpce.** Dvě osoby nenaplňují znak **„alespoň tři osoby"** → spolek nelze platně založit, zápis se odmítne (po přistoupení třetí osoby je podmínka splněna). U svazu spolků je naplněn znak vytvoření nového spolku více spolky → odst. 2 ukládá vyjádřit svazovou povahu v názvu (např. „svaz", „unie", „asociace"); pouhé „Ochrana přírody" požadavku nevyhovuje.
+
+**5. Řešení.** Pro založení spolku doplnit počet zakladatelů na 3, doložit společný zájem (účel) a samosprávnou/dobrovolnou povahu ve stanovách. Svaz spolků uvede v názvu prvek vyjadřující svazovost. Praktický krok: ověřit, že zájem není zakázaný (§ 145) a že nejde o útvar se zvláštní úpravou (politická strana, církev, profesní komora).
+
+**6. Varianty.** (a) Pokud by účelem bylo podnikání jako hlavní činnost, nešlo by o spolek (§ 217) a zápis by byl odmítnut. (b) Pokud nový útvar vytvoří fyzické osoby (nikoli spolky), nejde o svaz a požadavek odst. 2 na vyjádření svazové povahy odpadá.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí dvě osoby, vždyť jde o dobrovolné sdružení." — Neutralizace: odst. 1 stanoví **kogentní** minimum tří osob; nižší počet brání vzniku i existenci (srov. § 211 odst. 2).
+- *Protiargument:* „Označení svazové povahy je jen doporučení." — Odst. 2 je formulován jako povinnost („vyjádří"); chybějící vyjádření může vést k výzvě rejstříkového soudu k nápravě.
+- *Slabé místo:* „společný zájem" je neostrý pojem; příliš vágně vymezený účel může být napaden jako neurčitý nebo jako zástěrka pro podnikání/zakázanou činnost.
+
+##### H. Praktický závěr
+
+Spolek vyžaduje **minimálně tři osoby**, společný (nepodnikatelský) zájem a samosprávnou a dobrovolnou povahu; svaz spolků navíc vyjádří svazovost v názvu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou alespoň tři zakladatelé?
+- [ ] Je vymezen identifikovatelný společný zájem (nepodnikatelský)?
+- [ ] Je zachována samosprávnost a dobrovolnost?
+- [ ] Jde-li o svaz spolků, je svazová povaha vyjádřena v názvu?
+- [ ] Nejde o útvar se zvláštní úpravou (strana, církev, komora)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, listina zakladatelů / seznam členů, doklad o účelu, návrh na zápis do spolkového rejstříku.
+
 #### § 215 — Dobrovolnost a vyloučení ručení
 
 > (1) Nikdo nesmí být nucen k účasti ve spolku a nikomu nesmí být bráněno vystoupit z něho.
@@ -201,6 +383,42 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *NS* [27 Cdo 1644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/578EE67D7800BC9DC125857B0018FEFB?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
 - *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Člen spolku M chce vystoupit, ale stanovy/orgán mu to fakticky znemožňují (např. podmiňují vystoupení souhlasem výboru a ten jej neuděluje). Současně věřitel V, jemuž spolek dluží za pronájem, žádá zaplacení dluhu přímo po jednotlivých členech s tím, že „za dluhy spolku ručí jeho členové". Pro posouzení je třeba doložit znění stanov, žádost M o vystoupení a smlouvu zakládající dluh spolku.
+
+**2. Právní otázka.** Lze členovi bránit ve vystoupení ze spolku? A ručí členové spolku za jeho dluhy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 215 odst. 1 (nikdo nesmí být nucen k účasti a nikomu nesmí být bráněno vystoupit), odst. 2 (členové spolku neručí za jeho dluhy).
+- *Související ustanovení téhož zákona:* § 237 (zánik členství vystoupením), § 268 odst. 1 písm. c) a d) (zrušení spolku, který nutí k členství / brání vystoupení), § 214 (dobrovolná povaha), § 2018 a násl. (ručení obecně — k vyloučení).
+- *Související předpisy:* čl. 20 odst. 1 LZPS (negativní svoboda sdružování).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3155/2022, 27 Cdo 3842/2020, 27 Cdo 2801/2020, 27 Cdo 1644/2018 (spolek, pobočný spolek) — povaha členství a jeho zániku; nosně — členství je dobrovolné a jednostranně ukončitelné vystoupením.
+
+**4. Subsumpce.** Podmínění vystoupení souhlasem výboru je **bránění vystoupit** → porušení kogentního § 215 odst. 1; takové ustanovení stanov je neúčinné a zakládá i důvod zrušení spolku (§ 268 odst. 1 písm. d). Požadavek V vůči členům naráží na § 215 odst. 2: členové **neručí** za dluhy spolku, věřitel se může hojit jen z majetku spolku.
+
+**5. Řešení.** M může platně vystoupit jednostranně (způsobem dle stanov, jinak oznámením); blokující ustanovení se nepoužije. V nemá nárok vůči členům — musí vymáhat dluh po spolku (a v případě nemajetnosti řešit insolvenci/likvidaci spolku). Praktický krok pro M: doručit písemné oznámení o vystoupení a uchovat doklad o doručení.
+
+**6. Varianty.** (a) Pokud by člen současně převzal za dluh spolku ručení individuální smlouvou (např. jako ručitel za nájem), pak by za tento konkrétní dluh odpovídal — nikoli však z titulu členství. (b) U jiných korporací (v.o.s., k.s.) společníci ručí — § 215 odst. 2 je specifikum spolku.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stanovy mohou vystoupení podmínit, je to vnitřní autonomie spolku." — Neutralizace: autonomie nesmí prolomit kogentní zákaz bránit vystoupení (§ 215 odst. 1); takové ujednání je neplatné/zdánlivé a důvodem zrušení (§ 268).
+- *Protiargument:* „Členové by měli ručit, jinak je věřitel bez ochrany." — § 215 odst. 2 výslovně ručení vylučuje; ochranou věřitele je majetek spolku, případně odpovědnost členů orgánů.
+- *Slabé místo:* spolek může legitimně vázat vystoupení na splnění formálních podmínek (forma, doručení) — nutno odlišit přípustnou formu od nepřípustného bránění.
+
+##### H. Praktický závěr
+
+Členství ve spolku je **dobrovolné a volně ukončitelné**; bránit vystoupení nelze. Členové **neručí** za dluhy spolku — věřitel se hojí z majetku spolku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neobsahují stanovy nepřípustné bránění vystoupení (souhlas orgánu apod.)?
+- [ ] Bylo vystoupení řádně oznámeno a doručeno?
+- [ ] Směřuje nárok věřitele proti spolku, nikoli proti členům?
+- [ ] Nepřevzal člen ručení individuální smlouvou (mimo členství)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, oznámení o vystoupení a doklad o doručení, smlouva zakládající dluh spolku, výpis z rejstříku, účetní doklady spolku.
+
 #### § 216 — Název spolku
 
 > Název spolku musí obsahovat slova „spolek" nebo „zapsaný spolek", postačí však zkratka „z. s.".
@@ -212,6 +430,41 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3814/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/12890EBEC43E4EBAC12585650018BCBA?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zakladatelé podají návrh na zápis spolku s názvem „Sokol Praha 1" — bez označení „spolek", „zapsaný spolek" ani zkratky „z. s.". Rejstříkový soud návrh přezkoumá. Jiný subjekt si zvolí název „Sokol Praha 1, z. s.", který koliduje s již zapsaným spolkem stejného jména v téže obci.
+
+**2. Právní otázka.** Musí název spolku obsahovat zákonné označení formy a v jaké podobě? Jak se řeší zaměnitelnost názvu s jiným spolkem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 216 — název spolku musí obsahovat slova „spolek" nebo „zapsaný spolek", postačí zkratka „z. s.".
+- *Související ustanovení téhož zákona:* § 132—135 (název PO, ochrana názvu, zákaz zaměnitelnosti a klamavosti), § 214 odst. 2 (vyjádření svazové povahy), § 243 (názvy orgánů bez klamavosti).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis a přezkum návrhu rejstříkovým soudem).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3814/2018 (spolek, pobočný spolek) — k označení a identifikaci spolku ve veřejném rejstříku.
+
+**4. Subsumpce.** Název „Sokol Praha 1" **neobsahuje** povinné označení formy → nevyhovuje § 216; rejstříkový soud vyzve k doplnění (např. doplnit „, z. s."). U kolidujícího názvu se uplatní § 132 a násl. — název nesmí být zaměnitelný s názvem jiné existující PO; pozdější spolek si musí zvolit odlišující prvek.
+
+**5. Řešení.** Doplnit do názvu zákonné označení (nejúsporněji zkratku „z. s."). Při kolizi zvolit dostatečně rozlišující dodatek. Praktický krok: před podáním návrhu prověřit spolkový rejstřík na zaměnitelnost.
+
+**6. Varianty.** (a) Použití plného „zapsaný spolek" místo zkratky je rovněž v pořádku. (b) Pokud by šlo o pobočný spolek, název musí navíc obsahovat příznačný prvek hlavního spolku a vyjádřit podřízenost (§ 228).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Označení formy je formalita, kterou lze pominout." — Neutralizace: § 216 je kogentní podmínkou zápisu; bez označení soud zápis neprovede.
+- *Protiargument:* „Shodný název nevadí, jde o jiný subjekt." — § 132 a násl. chrání před zaměnitelností; kolize může vést k odmítnutí zápisu či žalobě na ochranu názvu.
+- *Slabé místo:* posouzení zaměnitelnosti je hodnotící (vizuální/významová podobnost, místní působnost) a může být sporné.
+
+##### H. Praktický závěr
+
+Název spolku musí povinně obsahovat „spolek" / „zapsaný spolek" / „z. s." a nesmí být zaměnitelný s jiným spolkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje název zákonné označení formy (postačí „z. s.")?
+- [ ] Není název zaměnitelný či klamavý (§ 132 a násl.)?
+- [ ] U pobočného spolku: obsahuje příznačný prvek hlavního spolku a podřízenost?
+
+**Typicky rozhodné důkazy / podklady:** návrh na zápis, stanovy s názvem, rešerše spolkového rejstříku na zaměnitelnost.
 
 #### § 217 — Hlavní a vedlejší činnost
 
@@ -241,6 +494,42 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0870C972AEBA33BC1258BC1004D18E0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Spolek Sokol pronajímá svou tělocvičnu komerčním nájemcům a z výnosu financuje sportovní činnost dětí. Finanční úřad / rejstříkový soud zkoumá, zda nejde o nedovolené podnikání jako hlavní činnost. Jiný subjekt zapsaný jako spolek ve skutečnosti primárně prodává zboží se ziskem rozdělovaným členům.
+
+**2. Právní otázka.** Smí spolek vyvíjet výdělečnou činnost a za jakých podmínek? Lze zisk spolku rozdělit mezi členy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 217 odst. 1 (hlavní činností je jen uspokojování zájmů, k nimž je spolek založen; podnikání nemůže být hlavní činností), odst. 2 (vedlejší hospodářská činnost je přípustná, je-li účelem podpora hlavní činnosti nebo hospodárné využití majetku), odst. 3 (zisk lze použít jen pro spolkovou činnost vč. správy).
+- *Související ustanovení téhož zákona:* § 214 (nepodnikatelská povaha), § 268 odst. 1 písm. b) (zrušení spolku vyvíjejícího činnost v rozporu s § 217), § 145 (zakázaný účel).
+- *Související předpisy:* zákon č. 586/1992 Sb. o daních z příjmů (veřejně prospěšný poplatník, zdanění vedlejší činnosti); živnostenský zákon (je-li vedlejší činnost živností).
+- *Judikatura (citovaná u tohoto §):* NS 26 Cdo 674/2024 (nájem prostoru sloužícího k podnikání) — k posouzení hospodářské činnosti spolku v nájemních vztazích.
+
+**4. Subsumpce.** Pronájem tělocvičny Sokolem je **vedlejší hospodářská činnost** sloužící podpoře hlavní (sportovní) činnosti a hospodárnému využití majetku → souladná s § 217 odst. 2; výnos je použit na spolkovou činnost (odst. 3). Naopak subjekt primárně prodávající zboží s rozdělováním zisku členům porušuje odst. 1 i 3 → obchází zákon, zakládá důvod zrušení (§ 268 odst. 1 písm. b).
+
+**5. Řešení.** U Sokola je činnost v pořádku; doporučení — vést odděleně účetnictví hlavní a vedlejší činnosti a doložit reinvestici zisku. U „pseudospolku" hrozí zrušení s likvidací; nápravou je transformace na obchodní korporaci. Praktický krok: posoudit poměr hlavní/vedlejší činnosti a nakládání se ziskem.
+
+**6. Varianty.** (a) Pokud by vedlejší činnost převážila a stala se fakticky hlavní (těžiště v podnikání), jde o porušení § 217. (b) Pokud by zisk byl vyplacen členům jako „podíl", jde o porušení odst. 3 i tehdy, byla-li vedlejší činnost sama o sobě přípustná.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spolek nesmí vůbec podnikat." — Neutralizace: odst. 2 výslovně připouští **vedlejší** hospodářskou činnost na podporu hlavní činnosti nebo pro hospodárné využití majetku.
+- *Protiargument:* „Zisk z vedlejší činnosti patří spolku, může s ním naložit libovolně, i rozdělit." — Odst. 3 použití zisku **omezuje** výhradně na spolkovou činnost vč. správy; rozdělení členům je zakázáno.
+- *Slabé místo:* hranice mezi přípustnou vedlejší a nedovolenou hlavní výdělečnou činností je kvantitativně i kvalitativně neostrá; rozhodné je těžiště a účel.
+
+##### H. Praktický závěr
+
+Spolek je **nezisková** korporace: podnikání smí být jen **vedlejší** (na podporu hlavní činnosti), a zisk lze použít **jen pro spolkovou činnost** — nikdy rozdělit členům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je hlavní činností naplňování účelu spolku (nikoli podnikání)?
+- [ ] Slouží vedlejší hospodářská činnost podpoře hlavní činnosti / hospodárnému využití majetku?
+- [ ] Je zisk použit výhradně pro spolkovou činnost (zákaz rozdělení členům)?
+- [ ] Je vedeno oddělené účetnictví hlavní a vedlejší činnosti?
+
+**Typicky rozhodné důkazy / podklady:** stanovy (vymezení účelu a činnosti), účetní závěrky a evidence příjmů z vedlejší činnosti, smlouvy o vedlejší činnosti (nájemní apod.), doklady o použití zisku.
 
 ### Založení spolku
 
@@ -281,6 +570,42 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 - *NS* [27 Cdo 1644/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/578EE67D7800BC9DC125857B0018FEFB?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
 - *NS* [27 Cdo 3526/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7B1DB69B844C1464C1258972001DA169?openDocument) — *Pobočný spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Tři zakladatelé sepíší stanovy spolku, které obsahují název, sídlo a účel, ale **neurčí statutární orgán** ani způsob jeho ustavení. Rejstříkový soud zápis přezkoumá. Později spolek chce omezit práva určitého druhu „přidružených" členů, aniž to stanovy předem připouštěly a aniž má spravedlivý důvod.
+
+**2. Právní otázka.** Jaký je minimální (povinný) obsah stanov a jaké jsou důsledky jeho absence? Za jakých podmínek lze omezit práva nebo rozšířit povinnosti spojené s určitým druhem členství?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 218 (minimální obsah stanov: a/ název a sídlo, b/ účel, c/ práva a povinnosti členů, d/ určení statutárního orgánu), § 219 (možnost založit pobočný spolek ve stanovách), § 220 (druhy členství; omezení práv/rozšíření povinností jen za předem určených podmínek, jinak se souhlasem většiny dotčených, ledaže je spravedlivý důvod), § 221 (uložení stanov v úplném znění v sídle).
+- *Související ustanovení téhož zákona:* § 123 (obsah a forma zakladatelského právního jednání PO, písemná forma), § 222—225 (založení ustavující schůzí), § 226 (vznik zápisem), § 245 (zdánlivost usnesení měnícího stanovy proti kogentním normám).
+- *Související předpisy:* zákon č. 304/2013 Sb. (sbírka listin — uložení stanov).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 2801/2020, 27 Cdo 1644/2018, 27 Cdo 3526/2022 (spolek, pobočný spolek) — k obsahu stanov a postavení pobočného spolku.
+
+**4. Subsumpce.** Chybějící **určení statutárního orgánu** znamená, že stanovy nesplňují povinnou náležitost dle § 218 písm. d) → vada bránící zápisu; soud vyzve k doplnění. Zamýšlené omezení práv „přidružených" členů bez předchozí opory ve stanovách a bez spravedlivého důvodu naráží na § 220 odst. 2 — bez souhlasu většiny dotčených členů (nebo spravedlivého důvodu) je nepřípustné.
+
+**5. Řešení.** Doplnit stanovy o určení statutárního orgánu (individuální/kolektivní) a uložit je v úplném znění v sídle (§ 221). Omezení práv druhu členství provést jen postupem § 220 — buď na základě předem určených podmínek, nebo se souhlasem většiny dotčených, ledaže existuje spravedlivý důvod. Praktický krok: revidovat stanovy proti checklistu § 218.
+
+**6. Varianty.** (a) Pokud stanovy neurčí typ statutárního orgánu, podpůrně se uplatní § 244 (volí nejvyšší orgán), ale samotné určení SO chybět nesmí. (b) Má-li spolek pro omezení práv spravedlivý důvod, souhlas dotčených členů se nevyžaduje (§ 220 odst. 2 in fine).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí název, sídlo a účel, zbytek doplní zákon." — Neutralizace: § 218 vyžaduje i určení práv a povinností členů a **určení statutárního orgánu**; jejich absence je vadou stanov.
+- *Protiargument:* „Většina může kdykoli omezit práva menšinového druhu členství." — § 220 odst. 2 to podmiňuje předchozí úpravou ve stanovách nebo souhlasem většiny dotčených, případně spravedlivým důvodem.
+- *Slabé místo:* „spravedlivý důvod" je neurčitý pojem — nese důkazní břemeno spolek; bez jeho doložení hrozí neúčinnost změny.
+
+##### H. Praktický závěr
+
+Stanovy musí mít **povinný minimální obsah** (§ 218) a být uloženy v sídle (§ 221); zásah do práv druhu členství je možný jen za podmínek § 220.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahují stanovy všechny náležitosti § 218 (název+sídlo, účel, práva/povinnosti členů, určení SO)?
+- [ ] Jsou stanovy v písemné formě a uloženy v úplném znění v sídle?
+- [ ] Při zásahu do práv druhu členství: je opora ve stanovách / souhlas dotčených / spravedlivý důvod?
+- [ ] Je řešen (případně) pobočný spolek dle § 219?
+
+**Typicky rozhodné důkazy / podklady:** úplné znění stanov, doklad o jejich uložení v sídle, zápis o přijetí/změně stanov, návrh na zápis do rejstříku.
+
 #### § 222—225 — Ustavující schůze
 
 > (1) Spolek lze založit i usnesením ustavující schůze tvořícího se spolku. Na ustavující schůzi se obdobně použijí ustanovení o členské schůzi.
@@ -315,6 +640,42 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 - *KS v Ostravě* [69 Co 268/2024-172](https://rozhodnuti.justice.cz/rozhodnuti/?id=3b8f439d-9e7c-4b71-96ed-153e939568f7) — *neúčinnost právního jednání*
 - *VS v Praze* [9 Cmo 69/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=b459275d-c59c-4986-abd3-4bb7fc77cc67) — 7. 8. 2024
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Svolavatel připraví návrh stanov a svolá na ustavující schůzi 12 zájemců o členství v novém spolku. Sepíše se listina přítomných. Při hlasování o stanovách 9 osob hlasuje pro, 3 proti. Jeden z přehlasovaných chce od přihlášky odstoupit. Pro posouzení je třeba doložit pozvánku, listinu přítomných s podpisy a zápis o hlasování.
+
+**2. Právní otázka.** Jakou většinou se na ustavující schůzi přijímají usnesení (vč. stanov) a jak může přehlasovaný zájemce odstoupit od přihlášky do spolku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 222 (založení usnesením ustavující schůze; přiměřeně se použijí ustanovení o členské schůzi; svolavatel vypracuje návrh stanov a ověří listinu přítomných), § 223 (zápis do listiny přítomných = podaná řádná přihláška), § 224 (průběh schůze; volba orgánů; usnesení většinou přítomných; kdo hlasoval proti stanovám, může odstoupit od přihlášky se záznamem v listině), § 225 (účastní-li se tři osoby, mohou schválit stanovy dle § 218).
+- *Související ustanovení téhož zákona:* § 218 (obsah stanov), § 226 (vznik zápisem), § 247—257 (členská schůze — přiměřené použití), § 214 odst. 1 (minimum 3 osob).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis spolku).
+- *Judikatura (citovaná u tohoto §):* VS v Praze 9 Cmo 133/2022, 9 Cmo 69/2024, 9 Cmo 128/2025 — k procesní stránce zakládání a zápisu spolku.
+
+**4. Subsumpce.** Schůze se účastní 12 osob (více než minimum 3 — § 225), usnesení se přijímá **většinou hlasů přítomných** (§ 224 odst. 3) — 9 z 12 stanovy schvaluje → stanovy přijaty. Přehlasovaný, který hlasoval proti stanovám, může **odstoupit od přihlášky** (§ 224 odst. 4); o tom se učiní záznam v listině přítomných s podpisy odstupujícího a zapisovatele.
+
+**5. Řešení.** Zaprotokolovat přijetí stanov většinou přítomných, umožnit přehlasovanému odstoupení se záznamem v listině. Poté podat návrh na zápis spolku (§ 226). Praktický krok: svolavatel ověří správnost a úplnost listiny přítomných (nebo pověřená osoba).
+
+**6. Varianty.** (a) Pokud by po odstoupení přehlasovaných klesl počet pod 3, spolek nelze založit (§ 225, § 214 odst. 1). (b) Pokud spolek zakládají přímo zakladatelé shodou na stanovách (§ 218), ustavující schůze není nutná — jde o alternativní cestu.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stanovy musí být přijaty jednomyslně." — Neutralizace: § 224 odst. 3 stanoví přijetí **většinou hlasů přítomných**; jednomyslnost se nevyžaduje.
+- *Protiargument:* „Kdo hlasoval proti, je stejně členem." — § 224 odst. 4 dává přehlasovanému právo odstoupit od přihlášky (se záznamem v listině), takže členem být nemusí.
+- *Slabé místo:* vady listiny přítomných nebo absence záznamu o odstoupení mohou zpochybnit platnost založení a zápisu; nese se důkazní břemeno o řádném průběhu schůze.
+
+##### H. Praktický závěr
+
+Spolek lze založit i **ustavující schůzí**, která rozhoduje většinou přítomných; přehlasovaný odpůrce stanov může **odstoupit od přihlášky** se záznamem v listině přítomných.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Připravil svolavatel návrh stanov a řádně svolal zájemce?
+- [ ] Je listina přítomných úplná, podepsaná a ověřená?
+- [ ] Byly stanovy přijaty většinou hlasů přítomných (min. 3 účastníci)?
+- [ ] Bylo umožněno odstoupení přehlasovaným a učiněn záznam v listině?
+
+**Typicky rozhodné důkazy / podklady:** pozvánka na ustavující schůzi, listina přítomných s podpisy, zápis ze schůze a hlasování, návrh stanov, záznam o odstoupení od přihlášky.
+
 #### § 226—227 — Vznik a nezdařený vznik
 
 > (1) Spolek vzniká dnem zápisu do veřejného rejstříku.
@@ -337,6 +698,42 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 - *ObS pro Prahu 9* [18 C 259/2019-132](https://rozhodnuti.justice.cz/rozhodnuti/?id=2f2659e4-7cdc-49be-90db-541c8bad5818) — *korporace, nájem bytu, peněžité plnění, podnájem, sleva z ceny, smlouva kupní, smlouva n…*
 - *VS v Praze* [9 Cmo 133/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=8dec0af6-690e-4b82-b6c7-bfb71392694b) — 27. 10. 2022
 - *VS v Praze* [9 Cmo 128/2025-40](https://rozhodnuti.justice.cz/rozhodnuti/?id=22963653-043a-4d20-93e3-60c6b295c2ab) — 2. 9. 2025
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zakladatelé podají návrh na zápis spolku do spolkového rejstříku. Uplyne 30 dnů od podání návrhu, aniž rejstříkový soud zapsal spolek nebo vydal rozhodnutí o odmítnutí zápisu. Spolek mezitím začne jednat. V jiné variantě je zápis pravomocně odmítnut, ale „spolek" v činnosti pokračuje a uzavírá smlouvy.
+
+**2. Právní otázka.** Kdy spolek vzniká a jaké jsou důsledky nečinnosti rejstříkového soudu po 30 dnech? Jaký režim platí, pokračuje-li útvar v činnosti po odmítnutí zápisu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 226 odst. 1 (spolek vzniká dnem zápisu do veřejného rejstříku), odst. 3 (fikce zápisu — není-li do 30 dnů zapsán ani vydáno rozhodnutí o odmítnutí, považuje se za zapsaný 30. dnem od podání návrhu), § 227 (pokračuje-li spolek v činnosti po odmítnutí zápisu, použijí se ustanovení o společnosti).
+- *Související ustanovení téhož zákona:* § 118 (vznik PO), § 2716—2746 (společnost — smluvní/„tichá"), § 245 (zdánlivá usnesení), § 226 navazuje na § 218—225.
+- *Související předpisy:* zákon č. 304/2013 Sb. (lhůty rejstříkového řízení, odmítnutí zápisu).
+- *Judikatura (citovaná u tohoto §):* VS v Praze 9 Cmo 159/2024, 9 Cmo 182/2024, 9 Cmo 133/2022, 9 Cmo 128/2025 — k procesu vzniku a zápisu spolku.
+
+**4. Subsumpce.** Uplynutím 30 dnů bez zápisu i bez rozhodnutí o odmítnutí nastává **fikce zápisu** (§ 226 odst. 3) — spolek se považuje za zapsaný (a vzniklý) 30. dnem; jednání spolku jsou platná. Naopak při **pravomocném odmítnutí** zápisu spolek nevznikl; pokračuje-li útvar v činnosti, na jeho poměry se použijí ustanovení o **společnosti** (§ 2716 a násl.) — účastníci odpovídají podle režimu společnosti, nikoli jako členové spolku s vyloučeným ručením.
+
+**5. Řešení.** Při fikci zápisu doložit datum podání návrhu a uplynutí 30denní lhůty; spolek je vzniklý. Při odmítnutí zápisu buď ukončit činnost, nebo vědomě přejít do režimu společnosti (s odlišnou odpovědností). Praktický krok: hlídat běh 30denní lhůty a stav rejstříkového řízení.
+
+**6. Varianty.** (a) Pokud soud ve lhůtě vydá rozhodnutí o odmítnutí, fikce zápisu nenastane (§ 226 odst. 3 a contrario). (b) Pokud po odmítnutí účastníci činnost ukončí, režim společnosti se neuplatní a jde o zánik neúspěšného pokusu o založení.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez výslovného zápisu spolek nevznikl, i když soud mlčel." — Neutralizace: § 226 odst. 3 zavádí **fikci zápisu** po 30 dnech nečinnosti; spolek se považuje za zapsaný.
+- *Protiargument:* „Po odmítnutí zápisu nenese nikdo odpovědnost za závazky." — § 227 podřazuje pokračující činnost režimu společnosti, kde účastníci odpovídají; vyloučení ručení dle § 215 odst. 2 se neuplatní (spolek nevznikl).
+- *Slabé místo:* určení přesného okamžiku počátku 30denní lhůty a doložení absence rozhodnutí ve spise může být sporné; fikci je vhodné doložit obsahem rejstříkového spisu.
+
+##### H. Praktický závěr
+
+Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zápisu**. Pokračuje-li útvar v činnosti po **odmítnutí** zápisu, řídí se režimem **společnosti** (s odpovědností účastníků).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doloženo datum podání návrhu na zápis a běh 30denní lhůty?
+- [ ] Vydal soud ve lhůtě rozhodnutí (zápis/odmítnutí), nebo nastala fikce zápisu?
+- [ ] Při odmítnutí: pokračuje útvar v činnosti → uplatní se režim společnosti (§ 2716 a násl.)?
+- [ ] Jsou si účastníci vědomi odlišné odpovědnosti v režimu společnosti?
+
+**Typicky rozhodné důkazy / podklady:** návrh na zápis a doklad o jeho podání, obsah rejstříkového spisu (rozhodnutí/jeho absence), výpis z rejstříku, smlouvy uzavřené v rozhodném období.
 
 ### Pobočný spolek (§ 228—230)
 
@@ -400,6 +797,42 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 ### Zánik členství
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Člen spolku zemře a jeho dědic se domáhá „zdědění" členství a souvisejících práv. Spolek to odmítá s tím, že stanovy o přechodu členství mlčí. Jiný případ: bývalý člen po letech žádá od spolku potvrzení s výpisem ze seznamu členů o své osobě; spolek odmítá s odkazem na to, že už členem není. Pro posouzení je třeba doložit stanovy, doklad o vzniku/zániku členství a (existuje-li) seznam členů.
+
+**2. Právní otázka.** Přechází členství ve spolku na právního nástupce (dědice)? Má bývalý člen právo na výpis ze seznamu členů o své osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 232 (členství je vázáno na osobu a nepřechází na nástupce, neurčí-li stanovy jinak; za PO jedná statutární orgán/zástupce), § 233 (vznik členství přijetím; uchazeč projevuje vůli být vázán stanovami; o přijetí rozhoduje orgán dle stanov, jinak nejvyšší orgán), § 234 (členství v pobočném = členství v hlavním — vyvratitelná domněnka), § 235 (členský příspěvek — výši a splatnost určí stanovy/orgán), § 236 (seznam členů; právo každého i bývalého člena na výpis o své osobě; uveřejnění jen se souhlasem všech zapsaných).
+- *Související ustanovení téhož zákona:* § 237 (zánik členství), § 214—215 (dobrovolnost), § 3028 a násl. (přechodná ustanovení k transformovaným sdružením).
+- *Související předpisy:* zákon č. 110/2019 Sb. o zpracování osobních údajů / GDPR (seznam členů jako evidence osobních údajů); zákon č. 304/2013 Sb.
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3617/2023 (členská schůze, zdánlivost usnesení), 27 Cdo 484/2017 (spolek, příslušnost soudu) — k členství a jeho výkonu.
+
+**4. Subsumpce.** Stanovy o přechodu členství mlčí → uplatní se default § 232 odst. 1: členství je **vázáno na osobu a nepřechází** na dědice; dědic se členem nestává. Bývalý člen má dle § 236 odst. 2 **právo na potvrzení s výpisem** ze seznamu členů o své osobě (na náklady spolku) — bez ohledu na trvání členství; spolek je povinen výpis vydat.
+
+**5. Řešení.** Dědici sdělit, že členství nepřechází (nestanoví-li stanovy jinak), a vypořádat pouze případné majetkové nároky existující ke dni smrti. Bývalému členovi vydat výpis ze seznamu o jeho osobě. Praktický krok: ověřit, zda stanovy nemodifikovaly přechod členství (např. u spolků vázaných na nemovitost).
+
+**6. Varianty.** (a) Pokud stanovy výslovně připustí přechod členství (např. spolek vlastníků památek), dědic členství nabývá. (b) Pokud spolek seznam členů nevede, právo na výpis dle § 236 odst. 2 se týká pouze údajů, které spolek o členovi má; uveřejnění seznamu vyžaduje souhlas všech zapsaných (odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Členství je majetková hodnota, dědí se." — Neutralizace: § 232 odst. 1 stanoví vázanost na osobu a **nepřechodnost** na nástupce, ledaže stanovy určí jinak; nejde o běžnou součást pozůstalosti.
+- *Protiargument:* „Bývalý člen nemá na údaje ze seznamu nárok." — § 236 odst. 2 přiznává právo na výpis výslovně i **bývalému** členovi (a za zemřelého i osobám blízkým).
+- *Slabé místo:* nakládání se seznamem členů koliduje s ochranou osobních údajů; uveřejnění bez souhlasu všech zapsaných je protiprávní (odst. 3).
+
+##### H. Praktický závěr
+
+Členství je **osobní a nepřechází** na dědice (nestanoví-li stanovy jinak); vzniká přijetím. Každý člen, **i bývalý**, má právo na výpis ze seznamu členů o své osobě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určují stanovy odchylně přechod členství, nebo platí default nepřechodnosti?
+- [ ] Rozhodl o přijetí člena orgán příslušný dle stanov (jinak nejvyšší orgán)?
+- [ ] Bylo vyhověno žádosti (i bývalého) člena o výpis ze seznamu o jeho osobě?
+- [ ] Je uveřejnění seznamu kryto souhlasem všech zapsaných (a v souladu s GDPR)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, doklad o přijetí za člena a o zániku členství, seznam členů, žádost o výpis, doklad o zaplacení/výši členského příspěvku.
+
 #### § 237 — Způsoby zániku
 
 > Členství ve spolku zaniká vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně.
@@ -416,6 +849,41 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 - *NS* [25 Cdo 1868/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D12E073743555D07C1258AEC0052991E?openDocument) — *Pozemní komunikace Náhrada nemajetkové újmy (o. z.) Přípustnost dovolání*
 - *NS* [25 Cdo 321/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3CD66489A3D2FF8C12589C3001A841F?openDocument) — *Náhrada nemajetkové újmy (o. z.) Ztížení společenského uplatnění Přípustnost dovolání*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stanovy spolku upravují jen vystoupení a vyloučení člena. Spolek chce ukončit členství osobě, která se dlouhodobě neúčastní činnosti, a hledá oporu pro „automatický" zánik členství. Jiný spolek si do stanov vepíše zánik členství „rozhodnutím předsedy bez udání důvodu". Pro posouzení je třeba doložit stanovy a jednání, jímž má členství zaniknout.
+
+**2. Právní otázka.** Jakými způsoby může členství ve spolku zaniknout a lze ve stanovách zavést další (zákonem neuvedené) způsoby zániku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 237 — členství zaniká vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně.
+- *Související ustanovení téhož zákona:* § 238 (zánik pro nezaplacení příspěvku), § 239—242 (vyloučení a jeho přezkum), § 215 odst. 1 (právo vystoupit), § 232 (zánik smrtí — nepřechodnost), § 1 odst. 2 (dispozitivnost a meze).
+- *Související předpisy:* — (vnitřní spolková úprava).
+- *Judikatura (citovaná u tohoto §):* rozhodnutí NS k přípustnosti dovolání (23 Cdo 69/2023; 23 Cdo 1584/2021 aj.) — rámcově k posuzování zániku právních vztahů; nosně — způsoby zániku členství vymezují zákon a stanovy.
+
+**4. Subsumpce.** § 237 dává **demonstrativní** výčet a výslovně odkazuje na „další způsoby uvedené ve stanovách nebo v zákoně" → spolek může ve stanovách upravit i jiné způsoby zániku (např. zánik při ztrátě kvalifikace, marným uplynutím doby). Zánik členství „rozhodnutím předsedy bez udání důvodu" však obchází záruky vyloučení (§ 239—242) a může být neplatný/zdánlivý pro rozpor s kogentní úpravou a dobrými mravy.
+
+**5. Řešení.** Spolek může do stanov doplnit konkrétní, určité a nešikanózní způsoby zániku členství. Pro ukončení členství neaktivního člena bez opory ve stanovách nelze členství „automaticky" ukončit — je nutné využít vystoupení, vyloučení (při splnění podmínek § 239) nebo dohodnout změnu stanov. Praktický krok: revidovat stanovy a doplnit jasná pravidla zániku.
+
+**6. Varianty.** (a) Pokud stanovy zavedou zánik členství při neplacení příspěvku, použije se režim § 238 (výzva s dodatečnou lhůtou). (b) Pokud má jít fakticky o sankci za porušení povinnosti, je nutné dodržet proceduru vyloučení (§ 239—242), nikoli ji obcházet „jiným způsobem zániku".
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Členství zaniká jen vystoupením nebo vyloučením." — Neutralizace: § 237 výslovně připouští **další způsoby** uvedené ve stanovách nebo zákoně.
+- *Protiargument:* „Stanovy mohou zavést jakýkoli způsob zániku, i bezdůvodné rozhodnutí orgánu." — Takový způsob nesmí obcházet kogentní záruky vyloučení a dobré mravy (§ 245, § 1 odst. 2); jinak je neúčinný.
+- *Slabé místo:* hranice mezi přípustným „jiným způsobem zániku" a zastřeným vyloučením bez záruk je sporná; riziko soudního přezkumu.
+
+##### H. Praktický závěr
+
+Členství zaniká **vystoupením, vyloučením** a **dalšími způsoby** dle stanov či zákona; stanovami zavedené způsoby ale nesmějí obcházet záruky vyloučení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má zánik členství oporu v zákoně nebo ve stanovách?
+- [ ] Nejde fakticky o vyloučení obcházející záruky § 239—242?
+- [ ] Je způsob zániku ve stanovách určitý a nešikanózní?
+
+**Typicky rozhodné důkazy / podklady:** stanovy (úprava zániku členství), jednání/rozhodnutí, jímž členství zaniklo, doklad o jeho doručení členovi.
+
 #### § 238 — Zánik pro nezaplacení příspěvku
 
 > Neurčí-li stanovy jinak, zanikne členství, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené spolkem dodatečně ve výzvě k zaplacení, ačkoli byl na tento následek ve výzvě upozorněn.
@@ -425,6 +893,42 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 2402/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E776217632CB1ECC1258A58001B821D?openDocument) — *Exekuce*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Člen spolku neuhradí roční členský příspěvek. Spolek (jehož stanovy věc neupravují odchylně) mu zašle výzvu k zaplacení s dodatečnou přiměřenou lhůtou a upozorněním, že při marném uplynutí členství zanikne. Člen ve lhůtě nezaplatí. Jiný spolek nechá členství zaniknout bez jakékoli výzvy. Pro posouzení je třeba doložit stanovy, výzvu a doklad o jejím doručení.
+
+**2. Právní otázka.** Za jakých podmínek zaniká členství pro nezaplacení členského příspěvku — je nutná předchozí výzva s dodatečnou lhůtou a upozorněním na následek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 238 — neurčí-li stanovy jinak, zanikne členství, nezaplatí-li člen příspěvek ani v přiměřené dodatečné lhůtě určené ve výzvě, ač byl na tento následek ve výzvě upozorněn.
+- *Související ustanovení téhož zákona:* § 235 (členský příspěvek — výše a splatnost), § 237 (způsoby zániku), § 239 (vyloučení — jiný režim sankce), § 236 (seznam členů — výmaz).
+- *Související předpisy:* — (vnitřní úprava spolku).
+- *Judikatura (citovaná u tohoto §):* NS 20 Cdo 2402/2023 (exekuce) — rámcově k vymáhání peněžitých povinností; nosně — zánik členství dle § 238 je vázán na řádnou výzvu s upozorněním.
+
+**4. Subsumpce.** Stanovy neupravují věc odchylně → uplatní se default § 238. Spolek splnil **všechny tři podmínky**: (i) přiměřená dodatečná lhůta, (ii) výzva k zaplacení, (iii) upozornění na následek zániku. Marným uplynutím lhůty členství **zaniká** ze zákona. Naopak u spolku, který nechal členství zaniknout **bez výzvy a upozornění**, podmínky § 238 splněny nejsou → členství nezaniklo.
+
+**5. Řešení.** Při řádné výzvě a marném uplynutí lhůty členství zaniká; spolek provede výmaz ze seznamu členů (§ 236). Bez výzvy a upozornění je „zánik" neúčinný — spolek musí postup zopakovat řádně. Praktický krok: zaslat výzvu prokazatelně (doporučeně / s doručenkou) a explicitně uvést následek.
+
+**6. Varianty.** (a) Pokud stanovy upraví zánik odchylně (např. zánik bez výzvy k určitému dni), použije se tato úprava místo § 238 (v mezích dobrých mravů). (b) Pokud člen v dodatečné lhůtě zaplatí, členství trvá dál.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nezaplacením příspěvku členství zaniká automaticky bez dalšího." — Neutralizace: § 238 (default) vyžaduje **výzvu s dodatečnou lhůtou a upozornění** na následek; bez nich členství nezaniká.
+- *Protiargument:* „Stačí ústní upozornění." — Pro průkaznost je nutné doložit obsah výzvy a její doručení; sporné doručení jde k tíži spolku.
+- *Slabé místo:* „přiměřenost" dodatečné lhůty je neurčitý pojem; příliš krátká lhůta může zánik zpochybnit.
+
+##### H. Praktický závěr
+
+Pro zánik členství nezaplacením příspěvku je (nestanoví-li stanovy jinak) nutná **výzva s přiměřenou dodatečnou lhůtou a upozorněním** na následek; teprve marné uplynutí lhůty členství ukončí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Neupravují stanovy zánik pro neplacení odchylně?
+- [ ] Byla zaslána výzva k zaplacení s přiměřenou dodatečnou lhůtou?
+- [ ] Obsahovala výzva upozornění na následek (zánik členství)?
+- [ ] Je doloženo doručení výzvy a marné uplynutí lhůty?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, doklad o výši a splatnosti příspěvku, výzva k zaplacení s upozorněním, doklad o doručení výzvy, evidence plateb.
 
 #### § 239—242 — Vyloučení a jeho přezkum
 
@@ -467,6 +971,43 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 - *NS* [27 Cdo 1757/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91181FA2B946521C1258BB6004D3B3C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Myslivost Stanovy*
 - *NS* [27 Cdo 1703/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F97D1E8665D42F25C125869A001DE087?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Členská schůze [ Spolek (o. z.) ]*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Myslivecký spolek vyloučí člena M pro „závažné porušení povinností" (opakované neuposlechnutí pokynů a poškození dobrého jména spolku). Rozhodnutí vydá statutární orgán a doručí je M. M tvrdí, že nedostal příležitost se k návrhu vyjádřit a že porušení nebylo závažné. M podá nejprve návrh na vnitřní přezkum a poté žalobu k soudu. Pro posouzení je třeba doložit stanovy, návrh na vyloučení, doklad o příležitosti se vyjádřit, rozhodnutí o vyloučení a doklady o jeho doručení.
+
+**2. Právní otázka.** Byly splněny hmotněprávní (závažné porušení + výzva k nápravě) a procesní (slyšení člena) podmínky vyloučení, a v jakých lhůtách lze vyloučení napadnout u orgánů spolku a u soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 239 (vyloučení pro závažné porušení povinnosti a nezjednání nápravy po výzvě; výzva se nevyžaduje u neodčinitelného porušení nebo zvlášť závažné újmy; rozhodnutí se doručí), § 240 (o vyloučení rozhoduje statutární orgán, neurčí-li stanovy jinak; návrh může podat kterýkoli člen; člen má právo se s návrhem seznámit, žádat vysvětlení a doložit vše ku prospěchu), § 241 (vnitřní přezkum rozhodčí komisí do 15 dnů; orgán zruší vyloučení odporující zákonu/stanovám i v jiných odůvodněných případech), § 242 (soudní návrh na neplatnost vyloučení do 3 měsíců od konečného rozhodnutí; subsidiárně do 1 roku od zápisu zániku členství).
+- *Související ustanovení téhož zákona:* § 258—261 (neplatnost rozhodnutí orgánu spolku — přiměřeně), § 260 (důvody nevyslovení neplatnosti), § 265—267 (rozhodčí komise), § 212 odst. 1 (loajalita).
+- *Související předpisy:* zákon č. 216/1994 Sb. o rozhodčím řízení (přiměřeně pro rozhodčí komisi — § 267).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 2595/2021, 27 Cdo 3013/2017, 27 Cdo 1757/2023, 27 Cdo 4173/2018, 27 Cdo 1703/2019 (spolek, vyloučení, myslivost, stanovy); NS 28 Cdo 4916/2015 — pravidla § 260 (kdy soud neplatnost nevysloví) se uplatní i při přezkumu vyloučení dle § 242.
+
+**4. Subsumpce.** Vyloučení vyžaduje **závažné** porušení povinnosti a (zpravidla) předchozí **výzvu** k nápravě s přiměřenou lhůtou; o vyloučení rozhoduje statutární orgán (default). M měl mít **příležitost se s návrhem seznámit, žádat vysvětlení a předložit důkazy** (§ 240 odst. 2) — pokud mu to bylo odepřeno, jde o procesní vadu. Lhůty: vnitřní přezkum **15 dnů**, soudní **3 měsíce** od konečného rozhodnutí spolku.
+
+**5. Řešení.** M nejprve využije vnitřní přezkum (15 dnů); neuspěje-li, podá do 3 měsíců soudní návrh na neplatnost vyloučení. Soud zkoumá hmotněprávní i procesní podmínky, ale dle § 260 (per 28 Cdo 4916/2015) nemusí neplatnost vyslovit, šlo-li o porušení bez závažných právních následků a je-li to v zájmu spolku. Praktický krok pro spolek: doložit výzvu, slyšení člena a závažnost porušení.
+
+**6. Varianty.** (a) Šlo-li o **neodčinitelné** porušení nebo způsobil-li člen spolku **zvlášť závažnou újmu**, výzva k nápravě se nevyžaduje (§ 239 odst. 1 in fine). (b) Pokud M zmešká 3měsíční lhůtu, právo napadnout vyloučení u soudu zaniká (s výhradou subsidiární roční lhůty při nedoručení rozhodnutí).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument spolku:* „Pro vyloučení stačí jakékoli porušení povinnosti." — Neutralizace: § 239 vyžaduje **závažné** porušení a (zpravidla) předchozí výzvu k nápravě; běžné porušení nestačí.
+- *Protiargument člena:* „Každá procesní vada vede k neplatnosti vyloučení." — Dle § 260 (a 28 Cdo 4916/2015) soud neplatnost nevysloví, nemělo-li porušení závažné právní následky a je-li nevyslovení v zájmu spolku.
+- *Slabé místo:* „závažnost" porušení i přiměřenost lhůty jsou hodnotící; krátké prekluzivní lhůty (15 dnů / 3 měsíce) kladou nároky na rychlost; opomenutí vnitřního přezkumu může oslabit pozici člena.
+
+##### H. Praktický závěr
+
+Vyloučení člena je možné jen pro **závažné** porušení povinnosti (zpravidla po výzvě k nápravě) a při zachování **práva člena být slyšen**; přezkum probíhá nejprve uvnitř spolku (15 dnů), pak u soudu (3 měsíce).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o **závažné** porušení členské povinnosti?
+- [ ] Byla dána výzva k nápravě (nevyžaduje se u neodčinitelného porušení / zvlášť závažné újmy)?
+- [ ] Měl člen příležitost seznámit se s návrhem, žádat vysvětlení a předložit důkazy?
+- [ ] Byly dodrženy lhůty: vnitřní přezkum 15 dnů, soudní návrh 3 měsíce (subsidiárně 1 rok)?
+- [ ] Nezakládá se důvod pro nevyslovení neplatnosti dle § 260?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, návrh na vyloučení a doklad o jeho zpřístupnění členovi, doklad o výzvě k nápravě, rozhodnutí o vyloučení a doručenky, zápisy dokládající závažnost porušení, rozhodnutí o vnitřním přezkumu.
+
 ### Organizace spolku (§ 243—267)
 
 #### § 243 — Orgány
@@ -479,6 +1020,42 @@ Povinné: **statutární orgán** + **nejvyšší orgán**. Volitelné (podle st
 
 - *NS* [21 Cdo 1239/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D480002BB39C9F1C1258D560052D46A?openDocument) — *Spolek (o. z.) Člen Pracovněprávní vztahy Pracovní poměr Výpověď z pracovního poměru Sta…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stanovy spolku zřizují vedle statutárního a nejvyššího orgánu také „prezidium" a „dozorčí radu", přičemž název „dozorčí rada" navozuje dojem orgánu s pravomocemi, které jí stanovy ve skutečnosti nesvěřují. Jiný spolek nemá ve stanovách výslovně určen nejvyšší orgán. Pro posouzení je třeba doložit stanovy a jejich úpravu orgánů.
+
+**2. Právní otázka.** Které orgány musí spolek povinně mít a které jsou volitelné? Mohou stanovy pojmenovat orgány libovolně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 243 — orgány spolku jsou statutární orgán a nejvyšší orgán, případně kontrolní komise, rozhodčí komise a další orgány určené stanovami; stanovy mohou orgány pojmenovat libovolně, nevzbudí-li tím klamný dojem o jejich povaze.
+- *Související ustanovení téhož zákona:* § 244 (typ statutárního orgánu), § 247 (nejvyšší orgán — default členská schůze), § 262—264 (kontrolní komise), § 265—267 (rozhodčí komise), § 151 a násl. (orgány PO obecně), § 216 (zákaz klamavosti názvu — obdobně).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis statutárního orgánu).
+- *Judikatura (citovaná u tohoto §):* NS 21 Cdo 1239/2024 (spolek, statutární orgán, stanovy, pracovněprávní vztahy) — k vymezení a působení orgánů spolku.
+
+**4. Subsumpce.** Spolek **musí** mít statutární a nejvyšší orgán; ostatní (kontrolní/rozhodčí komise) jsou **volitelné**. Stanovy mohou orgány pojmenovat libovolně, ale **bez klamavosti** — pokud „dozorčí rada" nemá kontrolní pravomoci, vzbuzuje název klamný dojem o povaze orgánu → rozpor s § 243 větou druhou. Chybí-li určení nejvyššího orgánu, podpůrně jím je členská schůze (§ 247 odst. 3).
+
+**5. Řešení.** Sladit název orgánu s jeho skutečnou povahou (buď přejmenovat, nebo svěřit odpovídající pravomoci). Doplnit (či ponechat na default) určení nejvyššího orgánu. Praktický krok: prověřit, že stanovy zřizují oba povinné orgány a názvy nejsou klamavé.
+
+**6. Varianty.** (a) Pokud stanovy neurčí nejvyšší orgán, není to vada bránící existenci — uplatní se default členské schůze (§ 247 odst. 3). (b) Pokud spolek nezřídí kontrolní/rozhodčí komisi, je to v pořádku — jde o fakultativní orgány.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spolek si může zřídit orgány zcela podle libosti." — Neutralizace: musí mít vždy statutární a nejvyšší orgán; volnost v pojmenování je omezena zákazem klamavosti (§ 243 věta druhá).
+- *Protiargument:* „Bez výslovného nejvyššího orgánu spolek nemůže fungovat." — Default dle § 247 odst. 3 (členská schůze) mezeru vyplní.
+- *Slabé místo:* posouzení „klamavosti" názvu orgánu je hodnotící; nejasné rozdělení působnosti mezi více orgány může vést ke sporům o pravomoc.
+
+##### H. Praktický závěr
+
+Spolek musí mít **statutární a nejvyšší orgán**; kontrolní a rozhodčí komise jsou **volitelné**. Názvy orgánů smí být libovolné, ale **nesmějí klamat** o jejich povaze.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zřizují stanovy oba povinné orgány (statutární + nejvyšší)?
+- [ ] Odpovídají názvy orgánů jejich skutečné povaze (bez klamavosti)?
+- [ ] Je jasně vymezena působnost jednotlivých orgánů?
+- [ ] Není-li nejvyšší orgán určen, počítá se s defaultem členské schůze (§ 247)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy (úprava orgánů a jejich působnosti), zápis orgánů ve veřejném rejstříku, zápisy z jednání orgánů.
+
 #### § 244 — Typ statutárního orgánu
 
 > Stanovy určí, je-li statutární orgán kolektivní (výbor) nebo individuální (předseda). Neurčí-li stanovy jinak, volí a odvolává členy statutárního orgánu nejvyšší orgán spolku.
@@ -489,6 +1066,41 @@ Stanovy určí: **kolektivní (výbor)** nebo **individuální (předseda)**. De
 
 - *NS* [27 Cdo 1270/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA50F447F816A77C125893F001E321B?openDocument) — *Spolek (o. z.) Statutární orgán*
 - *NS* [27 Cdo 5544/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5883D6D74EDC0406C12584B5001EA60D?openDocument) — *Opatrovník Jednání právnických osob Spolek (o. z.) [ Korporace (o. z.) ]*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stanovy spolku označí statutární orgán jako „výbor", ale neurčí jednoznačně, zda jde o orgán kolektivní (výbor) nebo individuální (předseda), ani kdo členy volí. Spolek později řeší, kdo je oprávněn za něj jednat a kdo členy statutárního orgánu volí a odvolává. Pro posouzení je třeba doložit stanovy a zápis statutárního orgánu v rejstříku.
+
+**2. Právní otázka.** Určují-li stanovy nejednoznačně povahu statutárního orgánu, jak se posoudí, zda je kolektivní či individuální, a kdo jeho členy volí a odvolává?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 244 — stanovy určí, je-li statutární orgán kolektivní (výbor) nebo individuální (předseda); neurčí-li stanovy jinak, volí a odvolává členy statutárního orgánu nejvyšší orgán spolku.
+- *Související ustanovení téhož zákona:* § 243 (orgány spolku), § 247 (nejvyšší orgán), § 246 (funkční období, kooptace), § 163—167 (působnost a jednání statutárního orgánu PO), § 218 písm. d) (určení SO ve stanovách).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis a způsob jednání statutárního orgánu do rejstříku).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 1270/2022 (spolek, statutární orgán), 27 Cdo 5544/2017 (jednání PO, opatrovník) — k povaze a jednání statutárního orgánu spolku.
+
+**4. Subsumpce.** Stanovy mají určit povahu statutárního orgánu; označení „výbor" naznačuje **kolektivní** orgán, avšak rozhodný je výklad celé úpravy (počet členů, způsob jednání). Není-li určen volební orgán, uplatní se **default § 244**: členy statutárního orgánu volí a odvolává **nejvyšší orgán** (členská schůze). Způsob jednání navenek se řídí zápisem v rejstříku a § 164.
+
+**5. Řešení.** Provést výklad stanov; při kolektivním orgánu (výbor) jednají členové dle pravidel jednání zapsaných v rejstříku, při individuálním (předseda) jedná předseda. Volbu/odvolání svěřit nejvyššímu orgánu (není-li určeno jinak). Praktický krok: upřesnit stanovy a zápis v rejstříku tak, aby povaha SO a způsob jednání byly jednoznačné.
+
+**6. Varianty.** (a) Pokud stanovy svěří volbu statutárního orgánu jinému orgánu (např. správní radě), default nejvyššího orgánu se neuplatní. (b) Je-li statutární orgán individuální (předseda), kolektivní pravidla (usnášení) se nepoužijí.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volbu statutárního orgánu provádí vždy nejvyšší orgán." — Neutralizace: jde o **dispozitivní default**; stanovy mohou určit jiný volební orgán (§ 244 věta druhá „neurčí-li stanovy jinak").
+- *Protiargument:* „Označení ‚výbor' samo o sobě činí orgán kolektivním." — Rozhodný je celkový výklad stanov a způsob jednání zapsaný v rejstříku, nikoli jen název.
+- *Slabé místo:* nejednoznačné stanovy vedou ke sporům o oprávnění jednat a o platnost volby/odvolání; nesoulad stanov a rejstříku oslabuje jistotu třetích osob.
+
+##### H. Praktický závěr
+
+Stanovy určí, zda je statutární orgán **kolektivní (výbor)** či **individuální (předseda)**; neurčí-li volební orgán, volí a odvolává jeho členy **nejvyšší orgán** spolku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určují stanovy jednoznačně povahu statutárního orgánu (kolektivní/individuální)?
+- [ ] Je určen orgán volící a odvolávající členy SO (jinak nejvyšší orgán)?
+- [ ] Odpovídá způsob jednání SO zápisu ve veřejném rejstříku?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, výpis z rejstříku (statutární orgán a způsob jednání), zápis o volbě/odvolání členů SO.
 
 #### § 245 — Zdánlivá usnesení
 
@@ -509,6 +1121,42 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - *NS* [26 Cdo 3352/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99333E012B13AA3DC12588CA0017DED2?openDocument) — *Společenství vlastníků jednotek*
   > „Zjistí-li soud v průběhu řízení o neplatnost rozhodnutí shromáždění vlastníků, že rozhodnutí je zdánlivé, rozhodne z úřední povinnosti, že o rozhodnutí shromáždění nejde (§ 90 odst. 1 z. ř. s.)."
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Členská schůze spolku přijme usnesení, kterým mění stanovy tak, že nově umožňuje doživotní neodvolatelnost předsedy a vyloučení člena bez jakéhokoli důvodu a přezkumu — tedy obsah odporující donucujícím ustanovením zákona. V jiné variantě „výbor" rozhodne o věci, která podle stanov i zákona patří výlučně do působnosti členské schůze (např. zrušení spolku). Pro posouzení je třeba doložit zápis z jednání a text usnesení.
+
+**2. Právní otázka.** Jaký je osud usnesení, které se příčí dobrým mravům, mění stanovy proti kogentním normám, nebo bylo přijato orgánem mimo jeho působnost — jde o neplatnost, nebo o zdánlivost (nicotnost)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 245 — na usnesení, které se příčí dobrým mravům nebo mění stanovy tak, že odporují donucujícím ustanovením zákona, se hledí, jako by nebylo přijato; totéž platí pro usnesení v záležitosti mimo působnost orgánu (*ultra vires*).
+- *Související ustanovení téhož zákona:* § 554 (zdánlivé právní jednání — nepřihlíží se k němu), § 258—261 (neplatnost rozhodnutí orgánu — odlišný režim), § 1 odst. 2 (meze dispozitivnosti), § 247 (působnost nejvyššího orgánu).
+- *Související předpisy:* zákon č. 292/2013 Sb. o zvláštních řízeních soudních — § 90 (soud k zdánlivosti přihlíží z úřední povinnosti).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 955/2022, 27 Cdo 1141/2020 (zdánlivost usnesení valné hromady, veřejný pořádek), 27 Cdo 1129/2025 (zdánlivé právní jednání, působnost orgánu); NS 26 Cdo 3352/2021 — zjistí-li soud v řízení o neplatnost, že rozhodnutí je **zdánlivé**, rozhodne z úřední povinnosti, že o rozhodnutí nejde (§ 90 z. ř. s.).
+
+**4. Subsumpce.** Usnesení měnící stanovy proti **donucujícím** ustanovením (neodvolatelnost, vyloučení bez důvodu a přezkumu) a usnesení **mimo působnost** orgánu spadají pod § 245 → hledí se na ně, jako by **nebyla přijata** (zdánlivost), nikoli „pouze" neplatnost. Soud k tomu přihlíží **z úřední povinnosti** (26 Cdo 3352/2021), a to i v řízení vedeném jako o neplatnost. Nepoužijí se proto prekluzivní lhůty § 259 pro neplatnost.
+
+**5. Řešení.** Na zdánlivé usnesení se nehledí jako na existující; není třeba (a nelze) je „rušit" — soud deklaruje, že o rozhodnutí nejde. Pokud bylo podáno na neplatnost, soud sám posoudí, zda nejde o zdánlivost. Praktický krok: odlišit důvody zdánlivosti (§ 245) od důvodů neplatnosti (§ 258) — určuje to procesní cestu i lhůty.
+
+**6. Varianty.** (a) Pokud usnesení „jen" odporuje stanovám či zákonu, aniž jde o dobré mravy/kogentní změnu stanov/ultra vires, jde o **neplatnost** dle § 258 (lhůty § 259), nikoli zdánlivost. (b) Pokud orgán rozhodl ve své působnosti a obsah neodporuje kogentním normám, usnesení je platné.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vadné usnesení je třeba napadnout žalobou na neplatnost ve lhůtě, jinak platí." — Neutralizace: u důvodů dle § 245 jde o **zdánlivost**; soud k ní přihlíží z úřední povinnosti bez vázanosti prekluzivními lhůtami pro neplatnost.
+- *Protiargument:* „Každé porušení zákona činí usnesení zdánlivým." — § 245 dopadá jen na **kvalifikované** vady (dobré mravy, kogentní změna stanov, ultra vires); jinak jde o neplatnost.
+- *Slabé místo:* hranice mezi zdánlivostí a neplatností je v praxi sporná; chybná kvalifikace vede k volbě nesprávné procesní cesty a k riziku zmeškání lhůt.
+
+##### H. Praktický závěr
+
+Usnesení příčící se **dobrým mravům**, měnící stanovy proti **kogentním** normám, nebo přijaté **mimo působnost** orgánu jsou **zdánlivá** (nepřihlíží se k nim); soud k tomu přihlíží z úřední povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Příčí se usnesení dobrým mravům, nebo mění stanovy proti donucujícím ustanovením?
+- [ ] Bylo přijato v záležitosti **mimo působnost** daného orgánu (ultra vires)?
+- [ ] Jde tedy o **zdánlivost** (§ 245), nebo „jen" o neplatnost (§ 258)?
+- [ ] Zohledněno, že ke zdánlivosti soud přihlíží z úřední povinnosti (§ 90 z. ř. s.)?
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání orgánu a text usnesení, platné stanovy (vymezení působnosti orgánů), srovnání obsahu usnesení s kogentními ustanoveními zákona.
+
 #### § 246 — Funkční období, kooptace, postup
 
 > (1) Neurčí-li stanovy funkční období členů volených orgánů spolku, je toto období pětileté.
@@ -528,6 +1176,42 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - *OS v Karviné* [25 C 94/2022-28](https://rozhodnuti.justice.cz/rozhodnuti/?id=7aa5cdea-67ba-484f-98d0-85a9d5c41f60) — *bezdůvodné obohacení, nájem bytu, peněžité plnění*
 - *OS v Karviné* [25 C 28/2022-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=a8d9dc91-e4fa-49b4-aedb-b784b5caaaeb) — *bezdůvodné obohacení, nájem bytu, odměna opatrovníka*
 - *VS v Praze* [9 Cmo 90/2024-425](https://rozhodnuti.justice.cz/rozhodnuti/?id=d908af4e-474d-4007-b03e-382ed3d475d4) — 18. 12. 2024
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Pětičlennému výboru spolku (kolektivní statutární orgán) odstoupí v průběhu funkčního období dva členové. Stanovy neupravují délku funkčního období ani kooptaci. Výbor (zbývající tři členové) chce dál fungovat a doplnit chybějící členy. Současně vyvstává otázka, kdy uplyne funkční období zbývajících členů. Pro posouzení je třeba doložit stanovy, zápisy o volbě a odstoupení členů výboru.
+
+**2. Právní otázka.** Jaké je funkční období členů volených orgánů spolku, neurčí-li je stanovy, a mohou zbývající členové kooptovat náhradníky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 246 odst. 1 (default funkční období 5 let), odst. 2 (kooptace náhradních členů, neklesl-li počet pod polovinu, do nejbližšího zasedání volícího orgánu), odst. 3 (pro svolání, zasedání a rozhodování kolektivních orgánů se použijí § 156 a § 159 odst. 2 a přiměřeně ustanovení o členské schůzi).
+- *Související ustanovení téhož zákona:* § 156 (rozhodování kolektivních orgánů), § 159 odst. 2 (osobní výkon funkce, péče řádného hospodáře), § 244 (volba SO), § 247—257 (členská schůze — přiměřeně), § 160 (důsledky poklesu počtu členů orgánu).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis změn ve složení orgánu).
+- *Judikatura (citovaná u tohoto §):* VS v Praze 9 Cmo 281/2024, 9 Cmo 90/2024 — k funkčnímu období a obsazení orgánů spolku.
+
+**4. Subsumpce.** Stanovy mlčí → funkční období je **5 let** (§ 246 odst. 1). Po odstoupení dvou z pěti členů neklesl počet pod **polovinu** (zbyli tři z pěti) → zbývající členové **mohou kooptovat** náhradníky do nejbližšího zasedání orgánu příslušného k volbě (§ 246 odst. 2). Pro usnášení výboru se přiměřeně použijí § 156 a § 159 odst. 2.
+
+**5. Řešení.** Výbor kooptuje náhradní členy a předloží jejich volbu ke schválení na nejbližším zasedání nejvyššího orgánu. Funkční období běží 5 let od zvolení (default). Praktický krok: zapsat změnu složení do rejstříku a doložit dodržení pravidel usnášení dle § 156.
+
+**6. Varianty.** (a) Pokud by počet členů výboru klesl **pod polovinu**, kooptace není přípustná — je nutné svolat volbu nejvyšším orgánem (a zvážit § 160/§ 165 — jmenování chybějících členů soudem). (b) Pokud stanovy určí jiné funkční období (např. 3 roky) či vyloučí kooptaci, použije se úprava stanov.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez úpravy ve stanovách je funkce časově neomezená." — Neutralizace: § 246 odst. 1 stanoví default **5 let**; po jeho uplynutí funkce zaniká (s případným doběhem dle § 160).
+- *Protiargument:* „Zbývající členové mohou kooptovat vždy." — Jen **neklesl-li** počet pod polovinu (§ 246 odst. 2); jinak je nutná volba nejvyšším orgánem.
+- *Slabé místo:* kooptovaní členové mají postavení jen do nejbližšího zasedání volícího orgánu; opomenutí následné volby zpochybní jejich oprávnění; nesoulad se zápisem v rejstříku oslabuje jistotu třetích osob.
+
+##### H. Praktický závěr
+
+Není-li ve stanovách určeno, je funkční období volených orgánů **pětileté**; zbývající členové mohou **kooptovat** náhradníky jen tehdy, neklesl-li jejich počet pod polovinu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určují stanovy funkční období, nebo platí default 5 let?
+- [ ] Neklesl počet členů orgánu pod polovinu (podmínka kooptace)?
+- [ ] Byli kooptovaní členové potvrzeni na nejbližším zasedání volícího orgánu?
+- [ ] Byla změna složení zapsána do veřejného rejstříku?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, zápisy o volbě a odstoupení členů orgánu, zápis o kooptaci, výpis z rejstříku, zápisy o usnášení kolektivního orgánu.
 
 ### Nejvyšší orgán (členská schůze)
 
@@ -552,6 +1236,42 @@ Default: **členská schůze**. Působnost:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 587/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D7A115E8F2852BBC1258AF4004C9550?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Členská schůze [ Spolek (o. z.) ]…*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Malý spolek má dle stanov statutární orgán (předsedu), který je zároveň nejvyšším orgánem. Předseda po dobu několika měsíců nečinní (je nemocný), spolek je ochromen. Pětina členů chce svolat shromáždění všech členů, aby rozhodli o klíčových věcech. Jiná otázka: stanovy mlčí o tom, který orgán je nejvyšší. Pro posouzení je třeba doložit stanovy a doklad o nečinnosti předsedy.
+
+**2. Právní otázka.** Který orgán je nejvyšším orgánem spolku, neurčí-li stanovy, a co spadá do jeho působnosti? Jak řešit situaci, kdy statutární orgán, který je zároveň nejvyšším, nemůže déle než měsíc vykonávat působnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 247 odst. 1 (působnost nejvyššího orgánu — zaměření činnosti, změna stanov, schválení hospodaření, hodnocení orgánů, zrušení s likvidací/přeměna), odst. 2 (nemůže-li statutární orgán, jenž je zároveň nejvyšším, vykonávat působnost déle než 1 měsíc, může pětina členů svolat shromáždění všech členů, na něž přechází působnost nejvyššího orgánu), odst. 3 (default nejvyšším orgánem je členská schůze; § 248—257 se použijí, neurčí-li stanovy jinak).
+- *Související ustanovení téhož zákona:* § 248—257 (členská schůze), § 243—244 (orgány, statutární orgán), § 156 (kolektivní orgány), § 268 (zrušení spolku).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápis orgánů).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 587/2023 (usnesení valné hromady/členská schůze) — k působnosti a rozhodování nejvyššího orgánu spolku.
+
+**4. Subsumpce.** Stanovy mlčí o nejvyšším orgánu → jím je **členská schůze** (§ 247 odst. 3). Je-li statutární orgán zároveň nejvyšším a nevykonává působnost déle než **1 měsíc**, může **pětina členů** svolat shromáždění všech členů, na něž přechází působnost nejvyššího orgánu (§ 247 odst. 2) — ledaže stanovy určí jinak. Klíčové věci (změna stanov, zrušení) náleží nejvyššímu orgánu (odst. 1).
+
+**5. Řešení.** Pětina členů svolá shromáždění všech členů; to převezme působnost nejvyššího orgánu a rozhodne nezbytné věci (vč. případné volby nového statutárního orgánu). Praktický krok: doložit trvání nečinnosti přes 1 měsíc a kvórum pětiny členů; postupovat přiměřeně dle pravidel o členské schůzi.
+
+**6. Varianty.** (a) Pokud stanovy pojistku dle odst. 2 vyloučí nebo upraví jinak, použije se úprava stanov. (b) Pokud má spolek samostatný nejvyšší orgán odlišný od statutárního, problém nečinnosti SO se řeší standardně tímto nejvyšším orgánem, nikoli shromážděním dle odst. 2.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez určení ve stanovách spolek nemá nejvyšší orgán." — Neutralizace: default dle § 247 odst. 3 — nejvyšším orgánem je **členská schůze**.
+- *Protiargument:* „Členové nemohou svolat shromáždění proti vůli předsedy." — Při nečinnosti SO (zároveň nejvyššího) déle než měsíc dává odst. 2 pětině členů výslovné oprávnění svolat shromáždění všech členů.
+- *Slabé místo:* doložení „nemožnosti vykonávat působnost déle než měsíc" může být sporné; pojistka platí jen pro konstrukci, kde je SO zároveň nejvyšším orgánem.
+
+##### H. Praktický závěr
+
+Neurčí-li stanovy jinak, je nejvyšším orgánem **členská schůze**; do její působnosti patří zásadní rozhodnutí. Při dlouhodobé nečinnosti SO, jenž je zároveň nejvyšším orgánem, může **pětina členů** svolat shromáždění všech členů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určují stanovy nejvyšší orgán, nebo platí default členské schůze?
+- [ ] Spadá rozhodovaná věc do působnosti nejvyššího orgánu (změna stanov, zrušení atd.)?
+- [ ] Je SO zároveň nejvyšším orgánem a nevykonává působnost déle než 1 měsíc?
+- [ ] Je doloženo kvórum pětiny členů pro svolání shromáždění?
+
+**Typicky rozhodné důkazy / podklady:** stanovy, doklad o nečinnosti statutárního orgánu a její době, podnět/pozvánka pětiny členů, zápis ze shromáždění všech členů.
 
 #### § 248—251 — Svolávání a účast
 
@@ -584,6 +1304,43 @@ Default: **členská schůze**. Působnost:
 - *NS* [26 Cdo 810/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8B30F572E875FDFC125846900187382?openDocument) — *Společenství vlastníků jednotek Přípustnost dovolání*
 - *NS* [26 Cdo 778/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02B63BABBFE2B4B4C1258B41004D14E8?openDocument) — *Společenství vlastníků jednotek Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.)…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Třetina členů spolku doručí statutárnímu orgánu podnět ke svolání členské schůze s konkrétním pořadem. Statutární orgán do 30 dnů schůzi nesvolá. Členové, kteří podnět podali, svolají schůzi sami na náklady spolku. Současně chce statutární orgán doplnit pořad o body, které v podnětu nebyly. Pro posouzení je třeba doložit podnět, pozvánku, doklady o doručení a stanovami určenou lhůtu pro svolání.
+
+**2. Právní otázka.** Za jakých podmínek a v jaké lhůtě musí být svolána členská schůze na podnět menšiny, kdo ji může svolat při nečinnosti statutárního orgánu a lze měnit pořad oproti podnětu? Jaký je rozsah práva člena na informace na zasedání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 248 (svolání min. 1× ročně; na podnět třetiny členů nebo kontrolního orgánu; nesvolá-li SO do 30 dnů, může svolat podnětující na náklady spolku), § 249 (lhůta — jinak min. 30 dnů předem; pozvánka s místem, časem a pořadem; změna pořadu oproti podnětu jen se souhlasem podnětujícího), § 250 (odvolání/odložení; náhrada nákladů při odvolání méně než týden předem), § 251 (právo člena na vysvětlení záležitostí k předmětu zasedání; výjimka u zákonem chráněných informací / vážné újmy).
+- *Související ustanovení téhož zákona:* § 252—254 (usnášení, předsedání, zápis), § 257 (náhradní zasedání), § 247 (působnost), § 258—261 (neplatnost rozhodnutí).
+- *Související předpisy:* zákon č. 110/2019 Sb. / GDPR (mez práva na informace u osobních údajů).
+- *Judikatura (citovaná u tohoto §):* NS 26 Cdo 810/2019, 26 Cdo 778/2023 (SVJ, svolání a zdánlivost) — k vadám svolání a jejich následkům.
+
+**4. Subsumpce.** Podnět **třetiny** členů zakládá povinnost SO svolat schůzi; marným uplynutím **30 dnů** vzniká podnětujícím právo svolat ji **sami na náklady spolku** (§ 248 odst. 2). Pořad oproti podnětu lze měnit **jen se souhlasem** podnětujícího (§ 249 odst. 2) — jednostranné doplnění SO je nepřípustné. Na zasedání má člen právo na vysvětlení záležitostí **k předmětu zasedání** (§ 251), s výjimkou chráněných informací.
+
+**5. Řešení.** Členové po marném uplynutí 30 dnů svolají schůzi sami (pozvánka s místem, časem, pořadem, lhůta min. 30 dnů). Doplnění pořadu řešit jen se souhlasem podnětujícího. Praktický krok: doložit doručení podnětu a běh 30denní lhůty; náklady svolání jdou k tíži spolku.
+
+**6. Varianty.** (a) Pokud SO schůzi ve 30denní lhůtě svolá, právo menšiny svolat ji samostatně nevznikne. (b) Pokud je zasedání odvoláno méně než týden předem, spolek hradí účelně vynaložené náklady členům, kteří se dostavili (§ 250 odst. 1).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument SO:* „Svolání schůze je výlučně na statutárním orgánu." — Neutralizace: § 248 odst. 2 dává při nečinnosti SO právo svolat schůzi přímo podnětující menšině (na náklady spolku).
+- *Protiargument:* „SO může pořad libovolně doplnit." — § 249 odst. 2 změnu pořadu oproti podnětu podmiňuje **souhlasem** podnětujícího.
+- *Slabé místo:* vady svolání (krátká lhůta, neúplná pozvánka) mohou založit neplatnost přijatých usnesení (§ 258); právo na informace je omezeno u chráněných údajů — odmítnutí je nutné odůvodnit.
+
+##### H. Praktický závěr
+
+Členskou schůzi svolává SO (min. 1× ročně, na podnět třetiny členů do 30 dnů); při nečinnosti ji svolá **menšina sama na náklady spolku**. Pozvánka musí obsahovat místo, čas a pořad; pořad oproti podnětu lze měnit jen se souhlasem podnětujícího.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl podnět podán dostatečným počtem členů (třetina) / kontrolním orgánem?
+- [ ] Svolal SO schůzi do 30 dnů; pokud ne, svolala ji oprávněně menšina?
+- [ ] Obsahuje pozvánka místo, čas, pořad a je dodržena lhůta (min. 30 dnů)?
+- [ ] Nebyl pořad změněn oproti podnětu bez souhlasu podnětujícího?
+- [ ] Bylo členům umožněno vysvětlení záležitostí k předmětu zasedání (s výjimkami)?
+
+**Typicky rozhodné důkazy / podklady:** podnět ke svolání a doklad o jeho doručení, pozvánka, doklady o jejím rozeslání a lhůtě, zápis ze zasedání, evidence dotazů členů a odpovědí.
+
 #### § 252—254 — Usnášení, zápis
 
 > (1) Členská schůze je schopna usnášet se za účasti většiny členů spolku. Usnesení přijímá většinou hlasů členů přítomných v době usnášení; každý člen má jeden hlas.
@@ -613,6 +1370,42 @@ Default: **členská schůze**. Působnost:
 - *NS* [26 Cdo 2175/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EEEE9CA50B2A043C12587E3001B87B9?openDocument) — 23. 11. 2021
 - *NS* [26 Cdo 1767/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F1276307C4701CE6C1258BC1004D18BB?openDocument) — *Společenství vlastníků jednotek*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Spolek má 100 členů. Na členskou schůzi se dostaví 55 členů. Schůze přijme usnesení o změně stanov, pro které hlasuje 30 přítomných, 25 je proti. Na pořad nezařazený bod (prodej nemovitosti spolku) chce předsedající nechat hlasovat, ač nejsou přítomni všichni členové. Po schůzi statutární orgán nevyhotoví zápis. Pro posouzení je třeba doložit prezenční listinu, hlasovací záznamy a pozvánku s pořadem.
+
+**2. Právní otázka.** Kdy je členská schůze usnášeníschopná a jakou většinou přijímá usnesení? Lze rozhodnout o věci nezařazené na pořad? Kdo a kdy vyhotoví zápis a kdo má právo do něj nahlížet?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 252 (usnášeníschopnost za účasti většiny členů; usnesení většinou hlasů přítomných; jeden hlas na člena; poradní hlas se nepočítá), § 253 (ověření usnášeníschopnosti, volba předsedy; vedení dle ohlášeného pořadu; věc mimo pořad jen za účasti a se souhlasem všech členů oprávněných hlasovat), § 254 (SO vyhotoví zápis do 30 dnů; obsah zápisu; právo členů nahlížet).
+- *Související ustanovení téhož zákona:* § 247—251 (svolání), § 257 (náhradní zasedání při neusnášeníschopnosti), § 245 (zdánlivost), § 258—261 (neplatnost rozhodnutí).
+- *Související předpisy:* zákon č. 304/2013 Sb. (sbírka listin — zápisy a rozhodnutí).
+- *Judikatura (citovaná u tohoto §):* NS 26 Cdo 2175/2021, 26 Cdo 1767/2024 (SVJ) — k usnášení, většinám a vadám usnesení.
+
+**4. Subsumpce.** Účast 55 ze 100 členů → schůze je **usnášeníschopná** (většina členů — § 252 odst. 1). Usnesení o změně stanov přijaté 30 z 55 přítomných je přijato **většinou přítomných**. Bod **mimo pořad** (prodej nemovitosti) však lze projednat jen za **účasti a se souhlasem všech** členů oprávněných hlasovat (§ 253 odst. 3) — chybí-li, rozhodnutí o něm by bylo vadné. Zápis musí SO vyhotovit **do 30 dnů** (§ 254).
+
+**5. Řešení.** Změnu stanov lze platně přijmout; o bodu mimo pořad nehlasovat (nejsou-li přítomni a nesouhlasí-li všichni). Vyhotovit zápis do 30 dnů se zákonným obsahem a umožnit členům nahlížení. Praktický krok: hlídat usnášeníschopnost v době hlasování a evidovat hlasy; jinak zvážit náhradní zasedání (§ 257).
+
+**6. Varianty.** (a) Pokud by se nedostavila většina členů, schůze není usnášeníschopná → cesta přes náhradní zasedání (§ 257). (b) Pokud stanovy zavedou kvalifikovanou většinu pro změnu stanov, prostá většina přítomných nestačí.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí jakýkoli počet přítomných." — Neutralizace: § 252 odst. 1 vyžaduje k usnášeníschopnosti **většinu členů** (není-li přítomna, řeší se § 257).
+- *Protiargument:* „O důležité věci lze rozhodnout, i když nebyla na pořadu." — § 253 odst. 3 to připouští jen za **účasti a souhlasu všech** oprávněných hlasovat.
+- *Slabé místo:* nevyhotovení zápisu nebo jeho vady ztěžují prokazování přijatých usnesení; rozhodnutí o bodu mimo pořad bez souhlasu všech je napadnutelné (§ 258), případně zdánlivé (§ 245).
+
+##### H. Praktický závěr
+
+Členská schůze je usnášeníschopná za účasti **většiny členů** a rozhoduje **většinou přítomných** (jeden hlas na člena); o věci **mimo pořad** lze rozhodnout jen se souhlasem všech. Zápis vyhotoví SO **do 30 dnů**.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla v době usnášení přítomna většina členů?
+- [ ] Bylo usnesení přijato většinou hlasů přítomných (jeden hlas na člena; poradní hlasy se nepočítají)?
+- [ ] Nebylo rozhodnuto o věci mimo pořad bez účasti a souhlasu všech?
+- [ ] Byl vyhotoven zápis do 30 dnů se zákonným obsahem a umožněno nahlížení?
+
+**Typicky rozhodné důkazy / podklady:** prezenční listina, pozvánka s pořadem, hlasovací záznamy, zápis ze zasedání a doklad o jeho vyhotovení, stanovy (případné kvalifikované většiny).
+
 #### § 255—256 — Dílčí členské schůze a shromáždění delegátů
 
 > Stanovy mohou určit, že se zasedání členské schůze bude konat formou dílčích členských schůzí, případně též, o kterých záležitostech tímto způsobem rozhodnout nelze. Připustí-li stanovy zasedání dílčích členských schůzí, určí rovněž období, v němž se všechna zasedání musí konat. Pro schopnost usnášet se a pro přijímání usnesení se zúčastnění členové a odevzdané hlasy sčítají.
@@ -628,6 +1421,42 @@ Default: **členská schůze**. Působnost:
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 587/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D7A115E8F2852BBC1258AF4004C9550?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Členská schůze [ Spolek (o. z.) ]…*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Celostátní tělovýchovný svaz má 8 000 členů rozmístěných po celé republice; svolat je všechny na jedno místo je nereálné. Stanovy proto zavedou shromáždění delegátů, kde každý delegát zastupuje určitý počet členů. V jiném spolku stanovy zavedou dílčí členské schůze konané postupně v různých krajích, přičemž výsledky se sčítají. Vyvstane otázka, zda byl při volbě delegátů dodržen požadavek stejného počtu hlasů na delegáta. Pro posouzení je třeba doložit stanovy a podklady o volbě delegátů a o konání dílčích schůzí.
+
+**2. Právní otázka.** Mohou stanovy nahradit jednotnou členskou schůzi dílčími schůzemi nebo shromážděním delegátů, a jaké podmínky (zejména rovnost při volbě delegátů a sčítání hlasů) přitom platí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 255 (dílčí členské schůze; stanovy určí, o čem takto rozhodnout nelze, a období konání; zúčastnění členové a odevzdané hlasy se sčítají), § 256 (shromáždění delegátů může plnit působnost členské schůze; každý delegát volen stejným počtem hlasů, jinak rozumná odchylka).
+- *Související ustanovení téhož zákona:* § 252—254 (usnášení, zápis — přiměřeně), § 257 (náhradní zasedání), § 247 (působnost nejvyššího orgánu), § 212 odst. 1 (rovné zacházení).
+- *Související předpisy:* — (vnitřní spolková úprava).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 587/2023 (usnesení/členská schůze) — k rozhodování nejvyššího orgánu i v alternativních formách.
+
+**4. Subsumpce.** Stanovy mohou pro velký spolek zavést **shromáždění delegátů** (§ 256) nebo **dílčí členské schůze** (§ 255). U delegátů platí požadavek, aby každý byl volen **stejným počtem hlasů** (s rozumnou odchylkou, není-li to dobře možné) — porušení rovnosti zakládá vadu volby. U dílčích schůzí se hlasy a účast **sčítají** napříč všemi zasedáními a stanovy určí období jejich konání i okruh věcí, jež takto rozhodnout nelze.
+
+**5. Řešení.** Zvolit formu odpovídající velikosti spolku; u delegátů zajistit rovný klíč zastoupení, u dílčích schůzí stanovit období konání a vyhradit citlivé věci jednotné schůzi. Praktický krok: doložit klíč volby delegátů a způsob sčítání hlasů; sladit s pravidly usnášení (§ 252—254).
+
+**6. Varianty.** (a) Pokud stanovy formu delegátů/dílčích schůzí nezavedou, rozhoduje jednotná členská schůze (§ 247 odst. 3). (b) Pokud klíč zastoupení delegátů hrubě porušuje rovnost nad rámec rozumné odchylky, usnesení shromáždění delegátů je napadnutelné (§ 258).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Členská schůze musí proběhnout vždy jednotně na jednom místě." — Neutralizace: § 255 a § 256 výslovně připouštějí dílčí schůze a shromáždění delegátů jako náhradní formy.
+- *Protiargument:* „Klíč zastoupení delegátů může být libovolný." — § 256 odst. 2 vyžaduje **stejný počet hlasů** na delegáta (jen s rozumnou odchylkou).
+- *Slabé místo:* nepřesné určení období konání dílčích schůzí nebo nerovný klíč delegátů zakládají vady usnesení; sčítání hlasů napříč zasedáními vyžaduje pečlivou evidenci.
+
+##### H. Praktický závěr
+
+Pro velké spolky lze stanovami zavést **dílčí členské schůze** (hlasy se sčítají) nebo **shromáždění delegátů** (každý delegát volen stejným počtem hlasů, s rozumnou odchylkou).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zavádějí stanovy dílčí schůze nebo shromáždění delegátů a vymezují jejich meze?
+- [ ] U dílčích schůzí: je určeno období konání a způsob sčítání hlasů a účasti?
+- [ ] U delegátů: je dodržen stejný počet hlasů na delegáta (rozumná odchylka)?
+- [ ] Jsou pro tyto formy přiměřeně dodržena pravidla usnášení a zápisu (§ 252—254)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy (úprava dílčích schůzí/delegátů), podklady o volbě delegátů a klíči zastoupení, zápisy z dílčích schůzí a souhrnné sečtení hlasů.
 
 #### § 257 — Náhradní zasedání
 
@@ -645,6 +1474,42 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 - *VS v Praze* [12 Cmo 137/2023-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=2dc05982-f446-485a-80d4-0016c71cd408) — 25. 3. 2024
 - *VS v Praze* [7 Cmo 549/2016-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=0adac5bb-c298-44e1-a3b5-f0f4fdf6163f) — 28. 5. 2021
 - *VS v Praze* [9 Cmo 7/2025-214](https://rozhodnuti.justice.cz/rozhodnuti/?id=e6745afa-9758-44b4-bb71-53fbcdca3c25) — 18. 9. 2025
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Členská schůze spolku není na svém řádně svolaném zasedání usnášeníschopná (dostaví se jen třetina členů). Statutární orgán proto svolá novou pozvánkou náhradní zasedání. Vyvstává otázka, v jaké lhůtě je třeba je svolat, do kdy se musí konat, jaký může mít pořad a jakou většinou rozhoduje. Pro posouzení je třeba doložit původní pozvánku, prezenční listinu a pozvánku na náhradní zasedání.
+
+**2. Právní otázka.** Za jakých podmínek a v jakých lhůtách lze svolat náhradní zasedání členské schůze, o čem může jednat a kdy je usnášeníschopné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 257 odst. 1 (při neusnášeníschopnosti lze novou pozvánkou do 15 dnů svolat náhradní zasedání; pozvánka musí označit, že jde o náhradní zasedání; konání nejpozději do 6 týdnů ode dne, na který bylo zasedání předtím svoláno), odst. 2 (náhradní zasedání jedná jen o věcech z pořadu předchozího zasedání; usnáší se za účasti libovolného počtu členů, neurčí-li stanovy jinak), odst. 3 (obdobně pro dílčí schůze a shromáždění delegátů).
+- *Související ustanovení téhož zákona:* § 252 (usnášeníschopnost řádné schůze), § 248—251 (svolávání), § 253—254 (předsedání, zápis), § 258—261 (neplatnost rozhodnutí).
+- *Související předpisy:* zákon č. 304/2013 Sb. (zápisy a rozhodnutí).
+- *Judikatura (citovaná u tohoto §):* VS v Praze 12 Cmo 137/2023, 7 Cmo 549/2016, 9 Cmo 7/2025 — k náhradnímu zasedání a jeho podmínkám.
+
+**4. Subsumpce.** Řádná schůze nebyla usnášeníschopná (třetina < většina) → otevřena cesta k **náhradnímu zasedání**. Podmínky: svolat **novou pozvánkou do 15 dnů**, s **výslovným označením** „náhradní zasedání", konat **nejpozději do 6 týdnů** od data původně svolaného zasedání. Náhradní zasedání jedná **jen o věcech z pořadu** předchozího zasedání a usnáší se **za účasti libovolného počtu** členů (default).
+
+**5. Řešení.** SO svolá náhradní zasedání při dodržení všech tří lhůtových/formálních podmínek; pořad nesmí překročit původní. Praktický krok: v pozvánce výslovně uvést, že jde o náhradní zasedání, a doložit, že se koná v šestitýdenním limitu; jinak hrozí neplatnost přijatých usnesení.
+
+**6. Varianty.** (a) Pokud stanovy určí pro náhradní zasedání kvórum (odchylně od „libovolného počtu"), použije se úprava stanov. (b) Pokud by náhradní zasedání jednalo o věci mimo původní pořad, taková usnesení jsou napadnutelná (§ 258), případně zdánlivá (§ 245).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náhradní zasedání lze svolat kdykoli a o čemkoli." — Neutralizace: § 257 stanoví **lhůty** (15 dnů na svolání, 6 týdnů na konání) a omezení pořadu na věci předchozího zasedání.
+- *Protiargument:* „I náhradní zasedání musí být usnášeníschopné většinou členů." — Default dle § 257 odst. 2 je usnášení **libovolným počtem** přítomných (neurčí-li stanovy jinak).
+- *Slabé místo:* opomenutí výslovného označení „náhradní zasedání" nebo překročení lhůt zakládá vady svolání a neplatnost usnesení; rozšíření pořadu je nepřípustné.
+
+##### H. Praktický závěr
+
+Není-li řádná schůze usnášeníschopná, lze do **15 dnů** svolat **náhradní zasedání** (konané do 6 týdnů), které jedná **jen o původním pořadu** a usnáší se **libovolným počtem** členů (default).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla řádná schůze neusnášeníschopná (chyběla většina členů)?
+- [ ] Byla nová pozvánka vydána do 15 dnů a s výslovným označením „náhradní zasedání"?
+- [ ] Koná se náhradní zasedání nejpozději do 6 týdnů od původního data?
+- [ ] Jedná náhradní zasedání jen o věcech z pořadu předchozího zasedání?
+
+**Typicky rozhodné důkazy / podklady:** původní pozvánka a prezenční listina (doklad o neusnášeníschopnosti), pozvánka na náhradní zasedání s označením a datem, zápis z náhradního zasedání.
 
 ### Neplatnost rozhodnutí orgánu spolku (§ 258—261)
 
@@ -666,6 +1531,42 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 - *NS* [27 Cdo 458/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0A1464019A035D1C125867B001E0FB8?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Usnesení valné hromady (neplatnost) [ Valná hromada ]*
 - *NS* [27 Cdo 1435/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D94E956EC996A411C125846200184789?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ] Spolek (o. z.) [ Korporac…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Členská schůze spolku přijme usnesení, kterým schválí výsledek hospodaření, ačkoli pozvánka tento bod neobsahovala a část členů nebyla řádně pozvána (rozpor se stanovami a § 249). Člen M chce usnesení napadnout. Stanovy zřizují rozhodčí komisi s pravomocí přezkoumávat rozhodnutí orgánů. Pro posouzení je třeba doložit pozvánku, zápis ze schůze, stanovy a doklad, zda se M domáhal nápravy uvnitř spolku.
+
+**2. Právní otázka.** Kdo a za jakých podmínek se může u soudu domáhat vyslovení neplatnosti rozhodnutí orgánu spolku — a brání žalobě požadavek, aby se navrhovatel nejprve domáhal nápravy uvnitř spolku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 258 — neplatnosti rozhodnutí orgánu spolku pro rozpor se zákonem nebo stanovami se může u soudu domáhat každý člen nebo ten, kdo na tom má zájem hodný právní ochrany, **pokud se neplatnosti nelze dovolat u orgánů spolku** (subsidiarita).
+- *Související ustanovení téhož zákona:* § 259 (lhůty), § 260 (důvody nevyslovení neplatnosti), § 261 (zadostiučinění), § 241—242 (vnitřní/soudní přezkum vyloučení), § 245 (zdánlivost — odlišný režim), § 265—267 (rozhodčí komise).
+- *Související předpisy:* zákon č. 292/2013 Sb. o zvláštních řízeních soudních (řízení ve věcech právnických osob); ZOK — § 191 a násl., § 258 a násl. (obdoba u obchodních korporací).
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3381/2023, 27 Cdo 3109/2021, 27 Cdo 1176/2021, 27 Cdo 830/2019, 27 Cdo 458/2019, 27 Cdo 1435/2019 (spolek, neplatnost usnesení) — k aktivní legitimaci, subsidiaritě a důvodům neplatnosti.
+
+**4. Subsumpce.** Usnesení trpí rozporem se stanovami a zákonem (vady svolání, bod mimo pořad) → je dán **důvod neplatnosti** dle § 258. M je členem → má **aktivní legitimaci**. Klíčová je **subsidiarita**: lze-li se neplatnosti dovolat u orgánů spolku (zde rozhodčí komise), musí M tuto cestu nejprve vyčerpat; teprve poté (nebo není-li vnitřní náprava možná) je otevřena žaloba k soudu.
+
+**5. Řešení.** M nejprve využije vnitřní přezkum (rozhodčí komise), je-li podle stanov k dispozici; neuspěje-li, podá soudní návrh na neplatnost (ve lhůtách § 259). Soud zkoumá rozpor se zákonem/stanovami, ale neplatnost nevysloví za podmínek § 260. Praktický krok: doložit vyčerpání vnitřních prostředků a včasnost návrhu.
+
+**6. Varianty.** (a) Pokud vady dosahují intenzity dle § 245 (dobré mravy, kogentní změna stanov, ultra vires), nejde o neplatnost, ale o **zdánlivost** — soud k ní přihlíží z úřední povinnosti bez ohledu na subsidiaritu a lhůty. (b) Pokud stanovy vnitřní přezkum neumožňují, odpadá subsidiarita a žaloba je přípustná přímo.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Žalovat neplatnost může jen člen, nikdo jiný." — Neutralizace: § 258 přiznává legitimaci i tomu, kdo má **zájem hodný právní ochrany** (nejen členovi).
+- *Protiargument:* „K soudu lze jít rovnou, vnitřní přezkum je dobrovolný." — § 258 zakotvuje **subsidiaritu**: lze-li se neplatnosti dovolat u orgánů spolku, je nutné tuto cestu vyčerpat.
+- *Slabé místo:* posouzení, zda „se neplatnosti lze dovolat u orgánů spolku", závisí na stanovách; nesprávné vyhodnocení vede k zamítnutí pro předčasnost nebo k zmeškání lhůt § 259.
+
+##### H. Praktický závěr
+
+Neplatnosti rozhodnutí orgánu spolku se u soudu domáhá člen nebo osoba se **zájmem hodným právní ochrany**, a to **subsidiárně** — až po vyčerpání vnitřních prostředků, umožňují-li je stanovy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán rozpor rozhodnutí se zákonem nebo stanovami (nebo jde o zdánlivost dle § 245)?
+- [ ] Má navrhovatel aktivní legitimaci (člen / zájem hodný právní ochrany)?
+- [ ] Lze se neplatnosti dovolat u orgánů spolku — byla tato cesta vyčerpána (subsidiarita)?
+- [ ] Jsou dodrženy lhůty dle § 259?
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí a zápis z jednání orgánu, pozvánka a doklady o svolání, stanovy (úprava vnitřního přezkumu), doklad o uplatnění vnitřních prostředků nápravy.
+
 #### § 259 — Lhůta
 
 > Právo dovolat se neplatnosti rozhodnutí zaniká do tří měsíců ode dne, kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět, nejpozději však do jednoho roku od přijetí rozhodnutí.
@@ -683,6 +1584,42 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 - *NS* [27 Cdo 3187/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DBB75D53BB8D703C1258DA400367A32?openDocument) — *Spolek (o. z.) Vady podání*
 - *NS* [29 Cdo 5859/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C90B10E81F1E5F85C12583600042D59C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Příslušnost soudu věcná*
 - *NS* [21 Cdo 1239/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D480002BB39C9F1C1258D560052D46A?openDocument) — *Spolek (o. z.) Člen Pracovněprávní vztahy Pracovní poměr Výpověď z pracovního poměru Sta…*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Členská schůze přijala vadné usnesení dne 1. 3. Člen M, který se schůze nezúčastnil, se o usnesení dozvěděl z zápisu zpřístupněného 1. 6. Návrh na vyslovení neplatnosti podá až 15. 9. (tj. po více než 3 měsících od 1. 6.). Jiný člen N se o usnesení dozvěděl až 14 měsíců po jeho přijetí. Pro posouzení je třeba doložit datum přijetí usnesení, datum, kdy se navrhovatel o něm dozvěděl (nebo mohl dozvědět), a datum podání návrhu.
+
+**2. Právní otázka.** V jakých lhůtách zaniká právo dovolat se neplatnosti rozhodnutí orgánu spolku a jak se počítají (subjektivní vs. objektivní lhůta)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 259 — právo dovolat se neplatnosti zaniká do **3 měsíců** ode dne, kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět (subjektivní lhůta), nejpozději však do **1 roku** od přijetí rozhodnutí (objektivní lhůta).
+- *Související ustanovení téhož zákona:* § 258 (žaloba na neplatnost), § 260 (důvody nevyslovení), § 261 (zadostiučinění), § 654 (prekluze — zánik práva), § 242 (obdobné lhůty u vyloučení).
+- *Související předpisy:* zákon č. 292/2013 Sb. o zvláštních řízeních soudních.
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3205/2024, 27 Cdo 1126/2025, 27 Cdo 3028/2021, 27 Cdo 2027/2019 (lhůta prekluzivní, neplatnost usnesení) — k povaze a běhu lhůt; nosně — jde o **prekluzivní** lhůty, po jejichž uplynutí právo zaniká.
+
+**4. Subsumpce.** M se o usnesení dozvěděl 1. 6.; **subjektivní** tříměsíční lhůta uplynula 1. 9. Návrh podaný 15. 9. je **opožděný** → právo zaniklo (prekluze). U N uplynula sice subjektivní lhůta až po 14 měsících, avšak dříve zasáhla **objektivní** roční lhůta od přijetí (1. 3. + 1 rok) → i N je opožděn. Obě lhůty jsou prekluzivní a soud k zániku práva přihlíží.
+
+**5. Řešení.** Návrh na neplatnost je nutné podat v **kratší** z reálně použitelných lhůt — vždy do 3 měsíců od (možné) vědomosti a nikdy ne po 1 roce od přijetí. Praktický krok: zafixovat datum, kdy se navrhovatel o rozhodnutí dozvěděl/mohl dozvědět (typicky zpřístupnění zápisu), a podat návrh s rezervou.
+
+**6. Varianty.** (a) Pokud jde o **zdánlivé** usnesení (§ 245), prekluzivní lhůty § 259 se neuplatní — soud přihlíží ke zdánlivosti z úřední povinnosti. (b) Pokud se navrhovatel o rozhodnutí prokazatelně nemohl dozvědět dříve, běh subjektivní lhůty se posouvá, avšak nejpozději do objektivní roční hranice.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Lhůta běží až od okamžiku, kdy se člen skutečně dozvěděl." — Neutralizace: subjektivní lhůta běží již ode dne, kdy se navrhovatel dozvědět **mohl** (typicky zpřístupnění zápisu), nejen kdy se skutečně dozvěděl.
+- *Protiargument:* „Roční lhůta je jen pořádková." — Jde o **objektivní prekluzivní** hranici; po roce od přijetí právo zaniká bez ohledu na vědomost.
+- *Slabé místo:* určení okamžiku „možnosti dozvědět se" je sporné a důkazně náročné; chybný odhad vede k zmeškání prekluzivní lhůty a zániku práva.
+
+##### H. Praktický závěr
+
+Právo dovolat se neplatnosti zaniká do **3 měsíců** od (možné) vědomosti o rozhodnutí, nejpozději do **1 roku** od jeho přijetí; obě lhůty jsou **prekluzivní**.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět (počátek subjektivní lhůty)?
+- [ ] Neuplynula již tříměsíční subjektivní lhůta?
+- [ ] Neuplynula objektivní roční lhůta od přijetí rozhodnutí?
+- [ ] Nejde o zdánlivé usnesení (§ 245), u nějž lhůty neplatí?
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání orgánu s datem přijetí rozhodnutí, doklad o zpřístupnění zápisu / o vědomosti navrhovatele, doklad o datu podání návrhu k soudu.
 
 #### § 260 — Důvody nevyslovení neplatnosti
 
@@ -708,6 +1645,42 @@ Tato pravidla **vyvažují legalitu a stabilitu** vnitřní organizace spolku.
 - *NS* [27 Cdo 3026/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26324CCBE6F2D111C12588ED001DD391?openDocument) — *Nepřípustnost dovolání Usnesení členské schůze (neplatnost) [ Družstvo ] Usnesení člensk…*
 - *NS* [27 Cdo 3091/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C28E3EF830FF08A8C12588740017BF96?openDocument) — *Valná hromada Pozvánka na valnou hromadu [ Valná hromada ] Usnesení valné hromady (nepla…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Členská schůze přijala usnesení o schválení účetní závěrky, přičemž pozvánka byla rozeslána o dva dny později, než vyžadovaly stanovy (drobné porušení), avšak na účast ani výsledek hlasování to nemělo vliv — všichni členové se dostavili a hlasovali. Na základě závěrky spolek mezitím uzavřel smlouvu s třetí osobou v dobré víře. Člen M přesto žádá vyslovení neplatnosti usnesení. Pro posouzení je třeba doložit pozvánku, prezenční listinu, výsledek hlasování a navazující jednání s třetí osobou.
+
+**2. Právní otázka.** Musí soud vyslovit neplatnost rozhodnutí orgánu spolku při každém porušení zákona či stanov, nebo existují důvody, pro které neplatnost nevysloví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 260 odst. 1 (soud neplatnost nevysloví, došlo-li k porušení zákona/stanov bez závažných právních následků a je-li v zájmu spolku hodném právní ochrany neplatnost nevyslovit), odst. 2 (neplatnost nevysloví ani tehdy, bylo-li by tím podstatně zasaženo do práva třetí osoby nabytého v dobré víře).
+- *Související ustanovení téhož zákona:* § 258—259 (žaloba a lhůty), § 261 (zadostiučinění), § 242 (přezkum vyloučení — přiměřeně), § 245 (zdánlivost — kde § 260 neplatí), § 7 (dobrá víra).
+- *Související předpisy:* ZOK — § 260 (obdobné pravidlo u obchodních korporací); zákon č. 292/2013 Sb.
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 700/2024, 27 Cdo 2412/2024, 27 Cdo 1395/2023, 27 Cdo 3451/2024 (spolek, neplatnost usnesení, ochrana třetích osob) — k aplikaci důvodů nevyslovení neplatnosti; srov. též 28 Cdo 4916/2015 (pravidla § 260 se užijí i při přezkumu vyloučení dle § 242).
+
+**4. Subsumpce.** Opožděné rozeslání pozvánky je porušením stanov, avšak **bez závažných právních následků** (účast i výsledek hlasování nedotčeny) → naplněn § 260 odst. 1: je-li v zájmu spolku neplatnost nevyslovit, soud ji **nevysloví**. Navíc na základě usnesení nabyla **třetí osoba v dobré víře** práva ze smlouvy → § 260 odst. 2 brání vyslovení neplatnosti, byl-li by tím do těchto práv podstatně zasaženo.
+
+**5. Řešení.** Soud návrh M na neplatnost zamítne s odkazem na § 260 (bagatelní porušení bez následků + ochrana dobrověrné třetí osoby), případně M odkáže na zadostiučinění dle § 261, jsou-li splněny jeho podmínky. Praktický krok pro spolek: doložit, že vada neměla vliv na výsledek a že třetí osoba jednala v dobré víře.
+
+**6. Varianty.** (a) Pokud by vada měla **závažné** právní následky (např. podstatně ovlivnila výsledek hlasování), § 260 odst. 1 se neuplatní a soud neplatnost vysloví. (b) Pokud by třetí osoba nebyla v dobré víře, ochrana dle odst. 2 odpadá.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument M:* „Jakékoli porušení stanov musí vést k neplatnosti." — Neutralizace: § 260 odst. 1 výslovně umožňuje neplatnost **nevyslovit** u porušení bez závažných následků, je-li to v zájmu spolku.
+- *Protiargument:* „Práva třetích osob nejsou pro vnitřní spor relevantní." — § 260 odst. 2 chrání **dobrověrné třetí osoby**; jejich podstatné dotčení brání vyslovení neplatnosti.
+- *Slabé místo:* „závažnost následků", „zájem spolku" a „dobrá víra" jsou hodnotící pojmy; jejich posouzení je nejisté a důkazně náročné; nevyslovení neplatnosti neznamená, že vada nemůže zakládat nárok na zadostiučinění (§ 261).
+
+##### H. Praktický závěr
+
+Soud neplatnost rozhodnutí **nevysloví** při porušení **bez závažných právních následků** (je-li to v zájmu spolku) ani tehdy, bylo-li by podstatně zasaženo do práva **třetí osoby v dobré víře** — i tak může členovi náležet zadostiučinění (§ 261).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Mělo porušení zákona/stanov závažné právní následky (vliv na výsledek)?
+- [ ] Je v zájmu spolku hodném právní ochrany neplatnost nevyslovit?
+- [ ] Byla by vyslovením neplatnosti podstatně dotčena práva třetí osoby v dobré víře?
+- [ ] Není namístě alespoň přiměřené zadostiučinění dle § 261?
+
+**Typicky rozhodné důkazy / podklady:** pozvánka a doklad o jejím rozeslání, prezenční listina a výsledek hlasování, zápis ze zasedání, smlouvy/jednání s třetími osobami a doklad o jejich dobré víře.
+
 #### § 261 — Přiměřené zadostiučinění
 
 Při **závažném porušení základního členského práva** má člen právo na **přiměřené zadostiučinění** (peněžitá náhrada nemajetkové újmy). Lhůta: stejná jako pro neplatnost rozhodnutí (3 měsíce / 1 rok), případně 3 měsíce od právní moci zamítavého rozhodnutí podle § 260.
@@ -715,6 +1688,42 @@ Při **závažném porušení základního členského práva** má člen právo
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1757/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F91181FA2B946521C1258BB6004D3B3C?openDocument) — *Spolek (o. z.) [ Korporace (o. z.) ] Myslivost Stanovy*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Statutární orgán spolku svévolně a opakovaně bránil členovi M ve výkonu jeho základního členského práva (např. dlouhodobě mu upíral účast na zasedáních a přístup k informacím), čímž mu způsobil nemajetkovou újmu. M se domáhal nápravy, řízení o neplatnosti dotčených rozhodnutí však bylo zamítnuto podle § 260 (vady neměly závažné následky). M nyní žádá peněžité zadostiučinění. Pro posouzení je třeba doložit zásahy do členského práva, jejich intenzitu a časový průběh.
+
+**2. Právní otázka.** Má člen spolku při závažném zásahu do svého základního členského práva nárok na přiměřené (peněžité) zadostiučinění, a v jaké lhůtě je třeba je uplatnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 261 — při závažném porušení (zásahu do) základního členského práva má člen právo na **přiměřené zadostiučinění** (náhradu nemajetkové újmy); lhůta je obdobná jako u neplatnosti rozhodnutí (3 měsíce / 1 rok), případně 3 měsíce od právní moci rozhodnutí, jímž nebyla vyslovena neplatnost dle § 260.
+- *Související ustanovení téhož zákona:* § 258—260 (neplatnost rozhodnutí a její nevyslovení), § 212 odst. 1 (povinnost korporace šetřit členská práva), § 2956 a násl. (náhrada nemajetkové újmy), § 2894 odst. 2 (odčinění nemajetkové újmy).
+- *Související předpisy:* zákon č. 292/2013 Sb. o zvláštních řízeních soudních.
+- *Judikatura (citovaná u tohoto §):* NS 27 Cdo 1757/2023 (spolek, myslivost, stanovy) — k ochraně členských práv; nosně — zadostiučinění slouží nápravě závažného zásahu do základního členského práva tam, kde neplatnost rozhodnutí neposkytuje dostatečnou ochranu.
+
+**4. Subsumpce.** Opakované svévolné upírání účasti a informací je **závažným zásahem do základního členského práva** M. Protože řízení o neplatnost bylo zamítnuto dle § 260 (vady bez závažných následků pro platnost rozhodnutí), otevírá se M cesta k **přiměřenému zadostiučinění** dle § 261 — typicky ve lhůtě 3 měsíců od právní moci rozhodnutí podle § 260 (resp. v obdobných lhůtách jako u neplatnosti). Předpokladem je závažnost zásahu, nikoli bagatelní porušení.
+
+**5. Řešení.** M uplatní nárok na přiměřené zadostiučinění v zákonné lhůtě; soud posoudí závažnost zásahu a přiměřenost (peněžité) náhrady s ohledem na intenzitu a trvání porušení. Praktický krok: doložit závažnost a opakovanost zásahu a vyčíslit/odůvodnit požadovanou výši; pohlídat lhůtu navázanou na § 259, resp. na právní moc rozhodnutí dle § 260.
+
+**6. Varianty.** (a) Pokud šlo jen o **bagatelní** či ojedinělé porušení bez závažného dopadu na členské právo, nárok na zadostiučinění nevznikne. (b) Pokud byla současně vyslovena neplatnost dotčeného rozhodnutí a tím újma odčiněna, prostor pro samostatné peněžité zadostiučinění se zúží.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nevysloví-li soud neplatnost, člen nemá žádný nárok." — Neutralizace: § 261 dává při závažném zásahu do základního členského práva samostatný nárok na **přiměřené zadostiučinění**, a to i tehdy, nebyla-li vyslovena neplatnost (§ 260).
+- *Protiargument:* „Zadostiučinění lze žádat kdykoli." — Lhůta je obdobná jako u neplatnosti (3 měsíce / 1 rok), případně 3 měsíce od právní moci rozhodnutí dle § 260; po jejím uplynutí právo zaniká.
+- *Slabé místo:* „závažnost" zásahu a „přiměřenost" zadostiučinění jsou hodnotící; nese se důkazní břemeno o intenzitě újmy; u bagatelních porušení nárok nevznikne.
+
+##### H. Praktický závěr
+
+Při **závažném zásahu do základního členského práva** má člen nárok na **přiměřené zadostiučinění** (i když nebyla vyslovena neplatnost rozhodnutí); nárok je vázán na **obdobné lhůty** jako neplatnost, resp. na právní moc rozhodnutí dle § 260.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o **závažný** zásah do **základního** členského práva (ne bagatelní porušení)?
+- [ ] Je zadostiučinění uplatněno v zákonné lhůtě (3 měsíce / 1 rok, resp. od právní moci rozhodnutí dle § 260)?
+- [ ] Je doložena intenzita a trvání zásahu a odůvodněna výše zadostiučinění?
+- [ ] Nebyla újma již odčiněna vyslovením neplatnosti rozhodnutí?
+
+**Typicky rozhodné důkazy / podklady:** doklady o zásazích do členského práva (odepření účasti, informací), zápisy a korespondence, rozhodnutí soudu dle § 260 a doklad o jeho právní moci, podklady k vyčíslení nemajetkové újmy.
 
 ### Kontrolní komise (§ 262—264)
 

@@ -55,6 +55,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 1067/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4FF160CF7C01E1BEC1258BA9004D23E9?openDocument) — *Nájem Leasing Dobré mravy*
   > „S ohledem na účel vyjádřený ve Smlouvě, lze její označení považovat za správné, neboť přenechání věci k dočasnému užívání za úplatu je podstatným znakem smlouvy nájemní, která je upravena v § 2201 a násl. o. z. Pronajímatelka je podnikatelka (§ 420 a násl. o."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník rodinného domu (pronajímatel) ústně přenechá známému (nájemci) garáž k parkování za 1 500 Kč měsíčně; nic se nepodepíše, nájemce platí převodem na účet s poznámkou „garáž". Po roce vlastník garáž potřebuje, tvrdí, že šlo jen o „výpůjčku z ochoty", a odmítá respektovat výpovědní dobu. Důkazy k obstarání: výpisy z účtu prokazující pravidelné platby a jejich účel, SMS/e-mailová komunikace o „pronájmu", svědectví o předání klíčů.
+
+**2. Právní otázka.** Vznikl mezi stranami nájem podle § 2201, ač nebyla uzavřena písemná smlouva a nebyla výslovně sjednána výše nájemného ani doba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2201 — nájem vzniká konsenzem o přenechání věci k dočasnému užívání za úplatu; jde o smlouvu konsenzuální, nikoli reálnou.
+- *Související ustanovení téhož zákona:* § 2217 (nájemné ve výši obvyklé, není-li ujednáno), § 2204 (doba neurčitá, není-li ujednána), § 2231 (výpověď nájmu na dobu neurčitou), § 1746 odst. 2 (innominátní smlouvy) pro odlišení od výpůjčky (§ 2193 — bezúplatná).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 5212/2017 a 29 Cdo 3264/2023 (rekapitulace definičních znaků § 2201); NS 26 Cdo 1067/2024 (úplatné přenechání věci k dočasnému užívání je podstatným znakem nájemní smlouvy, byť strany použijí jiné označení).
+
+**4. Subsumpce.** Znaky § 2201: (a) přenechání věci (garáž — část nemovité věci, § 2202) — splněno předáním klíčů; (b) dočasnost — splněno, šlo o trvání bez konce, tj. dobu neurčitou; (c) úplatnost — splněna pravidelnou platbou 1 500 Kč. Absence písemné formy u obecného nájmu movité/nemovité věci neplatnost nezpůsobuje (forma se u § 2201 nevyžaduje). Sporné je jen tvrzení o bezúplatnosti, které platby vyvracejí.
+
+**5. Řešení.** Mezi stranami vznikl platný nájem na dobu neurčitou; jeho zánik vyžaduje výpověď s tříměsíční výpovědní dobou (§ 2231 odst. 1 — nemovitá věc). Tvrzení o výpůjčce neobstojí, protože výpůjčka je pojmově bezúplatná. Nájemce se ubrání žalobě na vyklizení podané bez řádné výpovědi námitkou trvajícího nájmu. Procesně: doložit platby a komunikaci, navrhnout výslech svědků k předání.
+
+**6. Varianty.** (a) Kdyby nájemce nikdy nic neplatil a užíval garáž jen „z ochoty", šlo by o výpůjčku či výprosu (§ 2189 a násl.) bez nájemní ochrany. (b) Kdyby předmětem bylo přenechání spotřebního materiálu (např. zásob k vyčerpání), nešlo by o nájem, neboť ten se týká jen věci nezuživatelné (§ 2202 odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo o výpůjčku".* Neutralizuje se prokázáním úplatnosti; jakákoli pravidelná protihodnota za užívání vylučuje bezúplatnou výpůjčku.
+- *Protiargument „bez písemné smlouvy nájem nevznikl".* U obecného nájmu (§ 2201) zákon písemnou formu nevyžaduje; smlouva je konsenzuální (NS 26 Cdo 5212/2017).
+- *Slabé místo:* není-li prokázána výše nájemného ani jeho placení, hrozí překvalifikace na bezúplatný vztah; klíčovým důkazem je proto tok plateb a jejich účel.
+
+#### H. Praktický závěr
+
+Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užívání věci; písemná forma je u obecného nájmu pouze doporučená (důkazně), nikoli podmínkou platnosti. Spory se vedou hlavně o úplatnost a o odlišení od výpůjčky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc nezuživatelná a dostatečně určená (§ 2202)?
+- [ ] Byla sjednána, nebo lze dovodit, úplatnost (jinak hrozí výpůjčka/výprosa)?
+- [ ] Je doba určitá, či neurčitá (§ 2204) — od toho se odvíjí způsob zániku?
+- [ ] Existují důkazy o předání věci a o placení nájemného?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (je-li), výpisy z účtu s účelem platby, komunikace stran, doklad o předání věci/klíčů, svědecké výpovědi.
+
+---
+
 ### § 2202 — Předmět nájmu
 
 > (1) Pronajmout lze věc nemovitou i nezuživatelnou věc movitou. Pronajmout lze i část nemovité věci.
@@ -69,6 +107,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 - *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
   > „2014, by se posuzovaly podle současné právní úpravy, tedy podle o. z. Podle úpravy v o. z. (§ 2202 a násl. a § 2332 a násl.) jsou nájem i pacht závazky, které zpravidla vznikají smlouvou, v obou případech jde o smlouvu konsenzuální."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Developer (pronajímatel) uzavře v lednu nájemní smlouvu na obchodní jednotku v právě budovaném objektu, který má být zkolaudován v září; smlouva jednotku popisuje číslem podle projektové dokumentace, výměrou a polohou v podlaží. Budoucí nájemce (řetězec drogerií) zaplatí rezervační zálohu. Stavba se zpozdí, nájemce tvrdí, že smlouva je neplatná, protože „předmět v době uzavření neexistoval".
+
+**2. Právní otázka.** Lze platně pronajmout věc, která teprve vznikne (jednotka v dosud nedokončené budově), a jaké jsou meze její určitosti podle § 2202 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2202 — pronajmout lze věc nemovitou i nezuživatelnou movitou, i část nemovité věci, a též věc budoucí, je-li ji možné při uzavření smlouvy dostatečně přesně určit.
+- *Související ustanovení téhož zákona:* § 2201 (definice nájmu), § 2242 (zpřístupnění bytu — analogicky k odevzdání budoucí věci), § 2205 (odevzdání věci způsobilé k užívání), § 1159 (jednotka).
+- *Související předpisy:* zákon č. 256/2013 Sb., katastrální zákon (vznik a zápis jednotky).
+- *Judikatura:* NS 26 Cdo 3721/2019 (nájem i pacht jsou konsenzuální závazky podle § 2202 a násl. a § 2332 a násl.).
+
+**4. Subsumpce.** Znak „věc, která teprve vznikne" je naplněn (jednotka dosud nezkolaudovaná). Podmínka „dostatečně přesného určení při uzavření smlouvy" je splněna označením projektovým číslem, výměrou a polohou v podlaží — předmět je individualizovatelný. Část nemovité věci lze pronajmout (odst. 1 věta třetí).
+
+**5. Řešení.** Smlouva je platná; povinnost odevzdat předmět se aktivuje až jeho vznikem (kolaudací). Zpoždění stavby není důvodem neplatnosti, nýbrž otázkou prodlení pronajímatele s odevzdáním (§ 2205) a případných sankcí dle smlouvy. Nájemce se nemůže dovolat neplatnosti pro „neexistenci" předmětu, je-li určen dostatečně.
+
+**6. Varianty.** (a) Kdyby smlouva jednotku popsala jen vágně („nějaký obchod v přízemí"), chyběla by dostatečná určitost a šlo by o neplatnost pro neurčitost. (b) Kdyby předmětem byla zuživatelná věc (palivo ke spotřebě), nešlo by o nájem vůbec (§ 2202 odst. 1 — jen nezuživatelná movitá věc).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nelze pronajmout neexistující věc".* Neutralizuje se výslovným zněním § 2202 odst. 2, který nájem budoucí věci připouští.
+- *Protiargument „předmět je neurčitý".* Řeší se mírou individualizace; projektové číslo + výměra + poloha zpravidla postačují.
+- *Slabé místo:* riziko, že budoucí věc nikdy nevznikne (stavba se nedokončí) — vhodné smluvně ošetřit rozvazovací podmínkou a sankcemi za prodlení.
+
+#### H. Praktický závěr
+
+§ 2202 umožňuje pronájem movité i nemovité věci, její části i věci budoucí; klíčovou hranicí je dostatečná určitost předmětu při uzavření smlouvy a jeho nezuživatelnost. U budoucích věcí je vhodné smluvně řešit termín odevzdání a následky jeho nedodržení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc nezuživatelná (jinak nejde o nájem)?
+- [ ] Je-li předmětem část nemovitosti, je vymezena dostatečně určitě?
+- [ ] Jde-li o budoucí věc, lze ji při uzavření smlouvy dostatečně přesně určit?
+- [ ] Je smluvně ošetřen termín a způsob odevzdání věci po jejím vzniku?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva s popisem předmětu, projektová dokumentace / geometrický plán, kolaudační souhlas, výpis z katastru, doklad o předání.
+
+---
 
 ### § 2203—2204 — Povinnosti pronajímatele
 
@@ -96,6 +172,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 - *NS* [26 Cdo 740/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC708269E05A1CC1C12587E9001B8C3C?openDocument) — *Nájem Závazkové vztahy občanskoprávní*
   > „Ustanovení § 2000 odst. 1 o. z. o možnosti předčasného zrušení závazku soudem se uplatní i v nájemních vztazích."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Strany uzavřou nájem skladové haly na dobu určitou 80 let s ujednáním, že nájem nelze v této době vůbec vypovědět. Po 12 letech pronajímatel halu prodá a nový vlastník chce nájem ukončit; nájemce trvá na nevypověditelnosti po celých 80 let. Současně pronajímatel požaduje zápis nájemního práva do katastru, nájemce s tím nesouhlasí.
+
+**2. Právní otázka.** Jaké účinky má ujednání nájmu na dobu určitou delší než 50 let (§ 2204 odst. 2) a kdo může iniciovat zápis nájemního práva do veřejného seznamu (§ 2203)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2203 (zápis nájemního práva do veřejného seznamu na návrh vlastníka, nebo se souhlasem vlastníka na návrh nájemce); § 2204 (bez ujednání doby/dne skončení platí doba neurčitá; doba určitá delší 50 let se má za dobu neurčitou s tím, že v prvních 50 letech lze vypovědět jen z ujednaných důvodů a v ujednané době).
+- *Související ustanovení téhož zákona:* § 2205 (povinnosti pronajímatele), § 2221 (přechod práv na nového vlastníka), § 2229 (výpověď nájmu na dobu určitou jen při sjednaných důvodech a době).
+- *Související předpisy:* zákon č. 256/2013 Sb., katastrální zákon (zápis nájemního práva).
+- *Judikatura:* NS 26 Cdo 740/2021 (i v nájemních vztazích lze využít § 2000 odst. 1 o předčasném zrušení dlouhodobého závazku soudem).
+
+**4. Subsumpce.** Sjednaná doba 80 let převyšuje 50 let; podle § 2204 odst. 2 se má za to, že jde o nájem na dobu neurčitou. V prvních 50 letech lze vypovědět jen z ujednaných důvodů a v ujednané době — pokud strany žádné nesjednaly, je nájem v tomto období fakticky nevypověditelný. Po uplynutí 50 let se režim řídí pravidly nájmu na dobu neurčitou (§ 2231). Zápis do katastru (§ 2203) může navrhnout vlastník sám, nájemce jen s jeho souhlasem.
+
+**5. Řešení.** Ujednání o 80 letech se „zkrátí" do režimu doby neurčité; absolutní nevypověditelnost po 80 let neplatí. Po 50. roce lze nájem vypovědět standardně. Pro extrémně dlouhý a fakticky nezrušitelný závazek lze v krajním případě využít § 2000 (zrušení soudem). Zápis nájmu nelze nájemci vnutit bez souhlasu vlastníka.
+
+**6. Varianty.** (a) Kdyby strany sjednaly dobu 40 let, šlo by o standardní dobu určitou (§ 2229) bez fikce neurčitosti. (b) Kdyby nájemní právo bylo zapsáno do katastru a věc následně prodána, působí zápis vůči nabyvateli silněji (publicita) než nezapsaný nájem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smluvní volnost umožňuje 80 let nevypověditelně".* Naráží na kogentní fikci § 2204 odst. 2, kterou nelze vyloučit.
+- *Protiargument „nájemce si zápis vynutí sám".* § 2203 vyžaduje návrh vlastníka nebo jeho souhlas; jednostranně nájemce zápis neprosadí.
+- *Slabé místo:* hranice „padesáti let" a obsah ujednaných výpovědních důvodů bývá sporný; chybí-li ujednané důvody, je nájem v prvním půlstoletí prakticky neukončitelný (riziko pro pronajímatele).
+
+#### H. Praktický závěr
+
+§ 2203 řeší publicitu nájmu zápisem do veřejného seznamu (jen s vůlí vlastníka), § 2204 stanoví fikci doby neurčité, není-li doba sjednána, a koriguje nadměrně dlouhé nájmy (nad 50 let). U dlouhodobých nájmů je nutné výslovně sjednat výpovědní důvody a dobu, jinak hrozí faktická nevypověditelnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je sjednána doba trvání; pokud ne, platí doba neurčitá (§ 2204 odst. 1)?
+- [ ] Nepřesahuje doba určitá 50 let (jinak fikce neurčitosti dle odst. 2)?
+- [ ] Jsou pro dobu určitou sjednány výpovědní důvody a doba (§ 2229)?
+- [ ] Má být nájemní právo zapsáno do katastru — souhlasí vlastník (§ 2203)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (doba, výpovědní ujednání), návrh na zápis nájemního práva, výpis z katastru, korespondence o souhlasu vlastníka.
+
+---
 
 ### § 2213—2216 — Povinnosti nájemce
 
@@ -133,6 +247,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 1579/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25EAB7DE302537DEC1258BD00052AE5C?openDocument) — *Podnájem Nájem prostoru sloužícího k podnikání (o. z.) Odstoupení od smlouvy Dokazování*
 - *NS* [26 Cdo 1524/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9C64F9EB81D4FDBFC125858F0018E7FF?openDocument) — *Podnájem Výpověď z nájmu nebytových prostor*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost si pronajme na základě písemné smlouvy nebytový sklad. Bez jakéhokoli souhlasu pronajímatele přenechá polovinu plochy třetí firmě, která tam začne provozovat lakovnu; ta poškodí podlahu a zaplaví sousední prostor. Pronajímatel se o podnájmu dozví až při havárii a chce okamžitě ukončit nájem a vymáhat škodu.
+
+**2. Právní otázka.** Je přenechání věci třetí osobě bez souhlasu pronajímatele porušením povinností nájemce takové intenzity, že opravňuje k výpovědi bez výpovědní doby, a odpovídá nájemce za jednání podnájemce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2213 (užívat věc jako řádný hospodář k ujednanému/obvyklému účelu a platit nájemné); § 2214 (oznámit vadu, kterou má odstranit pronajímatel); § 2215 (užívací právo třetí osobě jen se souhlasem pronajímatele; u písemné smlouvy i souhlas písemně; bez souhlasu = hrubé porušení působící vážnější újmu; jen na dobu nájmu); § 2216 (nájemce odpovídá za jednání třetí osoby jako za své).
+- *Související ustanovení téhož zákona:* § 2228 (výpověď při zhoršeném užívání), § 2232 (výpověď bez výpovědní doby při zvlášť závažném porušení), § 2255/§ 2274 a násl. (podnájem bytu).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 1579/2024, 26 Cdo 1524/2019 (podnájem a jeho meze u nebytových prostor); NS 26 Cdo 4023/2019 (podnájem).
+
+**4. Subsumpce.** Přenechání plochy třetí firmě je „zřízení užívacího práva třetí osobě" (§ 2215 odst. 1). Souhlas pronajímatele dán nebyl, ač byla smlouva písemná (vyžadoval by se písemný souhlas). Tím je naplněn odst. 2: jednání se považuje za hrubé porušení povinností způsobující vážnější újmu. Za škodu způsobenou lakovnou odpovídá nájemce dle § 2216 jako za své jednání. Užívání k lakovně navíc neodpovídá obvyklému účelu skladu (§ 2213).
+
+**5. Řešení.** Pronajímatel má právo nájem vypovědět bez výpovědní doby (§ 2228 odst. 2, resp. § 2232 — zvlášť závažné porušení) a požadovat náhradu škody přímo po nájemci (§ 2216), aniž by musel žalovat podnájemce. Nájemce se nezbaví odpovědnosti poukazem na to, že škodu fyzicky způsobil podnájemce.
+
+**6. Varianty.** (a) Kdyby pronajímatel dal písemný souhlas s podnájmem, šlo by o dovolený podnájem; odpovědnost nájemce za jednání podnájemce dle § 2216 by však trvala. (b) Kdyby byla smlouva jen ústní, postačil by k podnájmu i souhlas neformální, avšak jeho udělení by musel prokázat nájemce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „za škodu odpovídá podnájemce, ne nájemce".* Neutralizuje § 2216 — nájemce odpovídá za jednání třetí osoby stejně, jako by věc užíval sám.
+- *Protiargument „souhlas byl dán konkludentně".* U písemné nájemní smlouvy se pro souhlas s podnájmem vyžaduje rovněž písemná forma (§ 2215 odst. 1).
+- *Slabé místo:* pronajímatel musí prokázat „vážnější újmu" pro kvalifikaci jako hrubé porušení; samotné přenechání bez následku nemusí vždy stačit k výpovědi bez výpovědní doby — vhodné kombinovat s § 2228 (výzva) tam, kde újma není zjevná.
+
+#### H. Praktický závěr
+
+Nájemce musí věc užívat jako řádný hospodář ke sjednanému účelu, oznamovat vady a přenechat ji třetí osobě jen se souhlasem pronajímatele (u písemné smlouvy písemně). Neoprávněný podnájem je hrubým porušením; za jednání podnájemce nájemce odpovídá jako za své.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Užívá nájemce věc k ujednanému/obvyklému účelu jako řádný hospodář (§ 2213)?
+- [ ] Byl k přenechání třetí osobě dán souhlas pronajímatele ve správné formě (§ 2215)?
+- [ ] Vznikla neoprávněným podnájmem vážnější újma (kvalifikace hrubého porušení)?
+- [ ] Uplatňuje pronajímatel nároky ze škody přímo vůči nájemci (§ 2216)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (forma, účel), (ne)existence písemného souhlasu s podnájmem, podnájemní smlouva, dokumentace škody a její příčiny, oznámení vad.
+
+---
+
 ### § 2217—2218 — Nájemné
 
 **§ 2217**:
@@ -154,6 +306,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *MS v Praze* [14 Co 365/2024-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=6086ac88-b4b7-4125-8749-951c8e4a2ea9) — *dlužné nájemné, nebytový prostor, smlouva nájemní*
 - *ObS pro Prahu 10* [5 C 149/2023-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=4b0a42a7-5e12-49eb-8cbb-8ffd80a620fa) — *nebytový prostor, dlužné nájemné, výpověď z nájmu, smlouva nájemní*
 - *OS Plzeň-město* [16 C 65/2023-31](https://rozhodnuti.justice.cz/rozhodnuti/?id=dafd8b72-9fcc-4a48-8f0e-40e9088d1c06) — *pojištění úvěru, smluvní pokuta*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pronajímatel přenechá živnostníkovi nebytový prostor (kavárnu) bez toho, aby ve smlouvě výslovně určili výši nájemného — uvedli jen, že „nájemné bude obvyklé". Nájemce platí prvních pět měsíců 20 000 Kč; pak pronajímatel tvrdí, že obvyklé nájemné v lokalitě je 35 000 Kč, a doměřuje rozdíl zpětně. Část plnění měla být navíc poskytována formou cateringu na akcích pronajímatele.
+
+**2. Právní otázka.** Jak se určí výše nájemného, není-li sjednána, a od kterého okamžiku se posuzuje „obvyklost"; jak se ocení nepeněžité plnění místo nájemného?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2217 (nájemné v ujednané výši; není-li ujednáno, ve výši obvyklé v době uzavření smlouvy s přihlédnutím k nájemnému za obdobné věci za obdobných podmínek; nepeněžité plnění se oceňuje majetkovou hodnotou v penězích); § 2218 (nájemné se platí měsíčně pozadu).
+- *Související ustanovení téhož zákona:* § 2201 (úplatnost jako pojmový znak), § 2246/§ 2249 (nájemné a jeho zvyšování u bytu), § 1792 (přiměřenost úplaty obecně).
+- *Související předpisy:* —
+- *Judikatura:* rozhodnutí soudů k dlužnému nájemnému z nebytových prostor (MS v Praze 14 Co 365/2024, ObS pro Prahu 10 5 C 149/2023) — určování dlužného nájemného ze smlouvy nájemní.
+
+**4. Subsumpce.** Chybí ujednaná výše, proto se uplatní § 2217 odst. 1 věta druhá: rozhodné je nájemné obvyklé **v době uzavření** smlouvy, nikoli aktuální tržní nájemné při doměrku. Pronajímatel proto nemůže zpětně účtovat dnešní vyšší obvyklou cenu, nýbrž jen tu, jež byla obvyklá při uzavření. Nepeněžitá část (catering) se započte v penězích vyjádřenou hodnotou (odst. 2). Splatnost je dle § 2218 měsíčně pozadu, neujednají-li strany jinak.
+
+**5. Řešení.** Soud (či strany) určí nájemné jako obvyklé k datu uzavření smlouvy podle srovnatelných prostor; doměrek na dnešní úroveň je nedůvodný. Hodnotu cateringu je třeba vyčíslit a započíst proti peněžnímu nájemnému. Důkazně: znalecký posudek/srovnatelné nabídky k datu uzavření, podklady o hodnotě nepeněžitého plnění.
+
+**6. Varianty.** (a) Kdyby strany výši sjednaly pevně, obvyklost by se nezkoumala a platila by smluvní částka. (b) Kdyby šlo o nájem bytu, určení nájemného by se řídilo speciálně § 2246 a zvyšování § 2249, nikoli obecným § 2217.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obvyklé = dnešní tržní nájemné".* Vyvrací výslovné znění § 2217 odst. 1 — rozhodný je stav v době uzavření smlouvy.
+- *Protiargument „nepeněžité plnění nelze započíst".* § 2217 odst. 2 ho připouští a ukládá jeho ocenění v penězích.
+- *Slabé místo:* dokazování „obvyklé výše" k historickému datu je náročné; bez znaleckého posudku či srovnatelných nabídek je nárok obtížně vyčíslitelný.
+
+#### H. Praktický závěr
+
+Není-li nájemné sjednáno, platí se ve výši obvyklé k době uzavření smlouvy; nepeněžité plnění se oceňuje v penězích. Splatnost je u obecného nájmu měsíčně pozadu (§ 2218), neujednají-li strany jinak. Pevné sjednání výše předchází sporům.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výše nájemného ujednána; pokud ne, jaká byla obvyklá při uzavření smlouvy (§ 2217 odst. 1)?
+- [ ] Není část plnění nepeněžitá — je oceněna v penězích (§ 2217 odst. 2)?
+- [ ] Je sjednána splatnost, nebo platí měsíčně pozadu (§ 2218)?
+- [ ] Existují podklady pro „obvyklost" k rozhodnému datu (znalec, srovnatelné nabídky)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva, znalecký posudek/srovnatelné nabídky k datu uzavření, doklady o nepeněžitém plnění a jeho hodnotě, evidence plateb.
+
+---
 
 ### § 2219—2220 — Drobné opravy
 
@@ -186,6 +376,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 - *NS* [26 Cdo 2799/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA14CC570EEE00B6C1258B72004D1A0C?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.) Započtení pohledávky*
 - *NS* [26 Cdo 33/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C63F03FE87FD545C1258A1B0016118D?openDocument) — *Nájem bytu Byty družstevní*
 - *NS* [29 ICdo 86/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5602E5203EA4EA9FC12588EA0019DA3B?openDocument) — *Pohledávka přednostní Smlouva nájemní*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájemce dílny si bez souhlasu pronajímatele nechá vybourat příčku a vyměnit elektroinstalaci, aby zde mohl provozovat CNC stroje. Po roce pronajímatel zjistí změny a požaduje uvedení do původního stavu; nájemce naopak žádá při skončení nájmu vyrovnání za „zhodnocení" prostoru. Pronajímatel současně potřebuje vstoupit dovnitř kvůli opravě stoupačky, nájemce ho odmítá vpustit.
+
+**2. Právní otázka.** Za jakých podmínek smí nájemce provést změnu věci, jaké jsou následky změny bez souhlasu a v jakém rozsahu musí nájemce umožnit pronajímateli přístup k věci za účelem oprav?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2219 (nájemce po předchozím oznámení v přiměřené době umožní prohlídku a přístup k provedení opravy/údržby; bez oznámení jen při hrozící škodě/nebezpečí z prodlení; vzniknou-li nájemci nikoli nepodstatné obtíže, má právo na slevu); § 2220 (změna věci jen s předchozím souhlasem pronajímatele, u písemné smlouvy písemně; zhodnocení se vypořádá při skončení; bez souhlasu uvede nájemce do původního stavu, jinak výpověď bez výpovědní doby; nájemce hradí běžnou údržbu, nikoli drobné opravy, neurčí-li smlouva jinak).
+- *Související ustanovení téhož zákona:* § 2207 (běžná údržba), § 2257 (rozdělení oprav u bytu), § 2233 (prohlídky před skončením nájmu).
+- *Související předpisy:* NV č. 308/2015 Sb. (drobné opravy a běžná údržba bytu — analogie pojmů).
+- *Judikatura:* NS 26 Cdo 1826/2019 (aplikace § 2219 odst. 1 na přístup k věci); NS 26 Cdo 2799/2023 (změny a započtení u nájmu prostoru sloužícího podnikání).
+
+**4. Subsumpce.** Vybourání příčky a výměna elektroinstalace jsou „změnou věci" dle § 2220 odst. 1, vyžadující předchozí souhlas, který dán nebyl (a u písemné smlouvy navíc písemně). Následek: nájemce musí na žádost uvést do původního stavu, nejpozději při skončení nájmu; jinak hrozí výpověď bez výpovědní doby. Nárok na vyrovnání za zhodnocení vzniká jen u změny **se souhlasem** — bez souhlasu nájemci nesvědčí. Odmítnutí přístupu k opravě stoupačky porušuje § 2219 odst. 1.
+
+**5. Řešení.** Pronajímatel může požadovat uvedení do původního stavu a v případě neuposlechnutí vypovědět nájem bez výpovědní doby (§ 2220 odst. 2). Nárok nájemce na zhodnocení neobstojí, chyběl-li souhlas. Přístup za účelem opravy musí nájemce umožnit; při nikoli nepodstatných obtížích má právo na slevu z nájemného (§ 2219 odst. 2), nikoli právo přístup odepřít.
+
+**6. Varianty.** (a) Kdyby pronajímatel se změnou předem (písemně) souhlasil, při skončení nájmu by se strany vyrovnaly podle míry zhodnocení (§ 2220 odst. 1). (b) Kdyby hrozila bezprostřední škoda (prasklá stoupačka), pronajímatel by mohl vstoupit i bez předchozího oznámení (§ 2219 odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zhodnotil jsem prostor, náleží mi vyrovnání".* Bez předchozího souhlasu nárok na vyrovnání nevzniká; naopak hrozí povinnost uvést do původního stavu.
+- *Protiargument „do svého nájmu nikoho nepustím".* § 2219 ukládá nájemci strpět přístup k nutné opravě/údržbě; kompenzací je sleva, ne právo odepřít vstup.
+- *Slabé místo:* hranice „běžné údržby" a „drobných oprav" je neostrá; u nebytových prostor se navíc rozdělení nákladů zpravidla řeší smluvně — bez smlouvy je výklad sporný.
+
+#### H. Praktický závěr
+
+Změnu věci smí nájemce provést jen s předchozím souhlasem pronajímatele (u písemné smlouvy písemně); bez souhlasu nese povinnost obnovy a riziko výpovědi bez výpovědní doby, a nemá nárok na vyrovnání za zhodnocení. Přístup pronajímatele k nutné opravě musí nájemce po oznámení umožnit, s případnou slevou za obtíže.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl k zamýšlené změně věci dán předchozí souhlas ve správné formě (§ 2220)?
+- [ ] Je u změny bez souhlasu uplatněn požadavek na uvedení do původního stavu?
+- [ ] Bylo oznámení přístupu učiněno v přiměřené době (nejde-li o nebezpečí z prodlení)?
+- [ ] Vznikly nájemci nikoli nepodstatné obtíže odůvodňující slevu (§ 2219 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva, (ne)existence souhlasu se změnou, fotodokumentace stavu před/po, oznámení o prohlídce/opravě, vyčíslení míry zhodnocení.
+
+---
 
 ### § 2221—2224 — Změna vlastnictví
 
@@ -234,6 +462,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
   > „Podle § 2221 o. z. změní-li se vlastník věci, přejdou práva a povinnosti z nájmu na nového vlastníka (odstavec 1)."
 - *NS* [26 Cdo 1733/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD48E88324F47A55C1258D310052ADD4?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
   > „Praha: C. H. Beck, 2013; k § 2221 In: Hulmák, M. a kol.: Občanský zákoník VI. Závazkové právo."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor koupí činžovní dům za účelem rekonstrukce a vyklizení. Při prohlídce mu prodávající tvrdil, že přízemní prostor je „volný"; ve skutečnosti je v něm na dobu určitou pronajata prodejna a nadto je obývaný byt v patře. Po zápisu vlastnictví chce nový vlastník oba nájmy ukončit jen proto, že se změnil vlastník.
+
+**2. Právní otázka.** Přecházejí na nového vlastníka práva a povinnosti z nájmu a může nájem vypovědět pouze z důvodu změny vlastníka — zvlášť u bytu, v němž nájemce bydlí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2221 (změnou vlastníka přecházejí práva a povinnosti z nájmu; ujednání o povinnostech nad rámec zákona nového vlastníka nezavazují, ledaže o nich věděl); § 2222 (žádná strana nemá právo vypovědět nájem jen pro změnu vlastníka; výjimky a lhůty, vč. ochrany nového vlastníka, který neměl rozumný důvod o nájmu vědět); § 2223 (odstupné); § 2224 (byt, v němž nájemce bydlí — pronajímatel nemá právo vypovědět z důvodu změny vlastnictví; k opačnému ujednání se nepřihlíží).
+- *Související ustanovení téhož zákona:* § 2201 (definice nájmu), § 2231 (výpověď nájmu na dobu neurčitou), § 2288 (taxativní výpovědní důvody u bytu).
+- *Související předpisy:* zákon č. 219/2000 Sb. (přechod nájmu u majetku státu — viz judikatura).
+- *Judikatura:* NS 28 Cdo 270/2019 a 26 Cdo 1377/2025 (přechod práv a povinností dle § 2221, návaznost na § 680 odst. 2 obč. zák. 1964); NS 26 Cdo 2176/2020 (nový vlastník není vázán ujednáními nad rámec zákona); NS 26 Cdo 2814/2022 (§ 2221 odst. 2 — ujednání o povinnostech pronajímatele).
+
+**4. Subsumpce.** U prodejny (nebytový prostor) přecházejí práva a povinnosti z nájmu na nového vlastníka (§ 2221 odst. 1); samotná změna vlastníka není výpovědním důvodem (§ 2222 odst. 1). Pokud byl nový vlastník ujištěn, že prostor je volný, a neměl rozumný důvod pochybovat, může nájem vypovědět ve tříměsíční lhůtě (§ 2222 odst. 2 a 3). U **bytu, v němž nájemce bydlí**, je výpověď z důvodu změny vlastnictví vyloučena absolutně (§ 2224) — sebevětší smluvní ujednání ji neumožní.
+
+**5. Řešení.** Nájem prodejny lze ukončit jen tehdy, naplní-li se podmínky § 2222 odst. 2 (ospravedlnitelná nevědomost nového vlastníka) a při zachování lhůt a odstupného (§ 2223); jinak nájem trvá. Nájem bytu vypovědět z titulu změny vlastníka nelze vůbec; nový vlastník je vázán a může jej ukončit jen z obecných důvodů § 2288. Nárok proti prodávajícímu za nepravdivé ujištění zůstává zachován.
+
+**6. Varianty.** (a) Kdyby kupní smlouva i katastr nájem prodejny zjevně zachycovaly, nemohl by se nový vlastník dovolat nevědomosti dle § 2222 odst. 2 a výpověď z titulu změny vlastníka by neměl. (b) Kdyby v bytě nájemce fakticky nebydlel (užíval ho např. k rekreaci), ochrana § 2224 by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „koupí jsem nabyl věc bez závazků".* Vyvrací § 2221 odst. 1 — nájem přechází; koupě nájem neruší.
+- *Protiargument „jako nový vlastník mohu vypovědět".* Jen za úzkých podmínek § 2222; u obývaného bytu vůbec ne (§ 2224, kogentní).
+- *Slabé místo:* nový vlastník je vázán jen zákonnými povinnostmi, nikoli nadstandardními ujednáními, o nichž nevěděl (§ 2221 odst. 2) — důkazní spor o jeho vědomosti je častý.
+
+#### H. Praktický závěr
+
+Změna vlastníka nájem neukončuje (§ 2221) a sama o sobě není výpovědním důvodem (§ 2222); u bytu, v němž nájemce bydlí, je výpověď z důvodu změny vlastnictví kogentně vyloučena (§ 2224). Nadstandardní ujednání nového vlastníka nezavazují, pokud o nich nevěděl.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přešla na nového vlastníka práva a povinnosti z nájmu (§ 2221 odst. 1)?
+- [ ] Jde o byt, v němž nájemce bydlí — výpověď z důvodu změny vlastnictví vyloučena (§ 2224)?
+- [ ] Měl nový vlastník rozumný důvod vědět o nájmu (§ 2222 odst. 2)?
+- [ ] Byly dodrženy výpovědní lhůty a poskytnuto odstupné (§ 2222 odst. 3, § 2223)?
+
+**Typicky rozhodné důkazy / podklady:** kupní smlouva a její ujednání o nájmech, výpis z katastru (zápis nájmu), nájemní smlouvy, korespondence o stavu užívání, doklad o bydlení nájemce v bytě.
+
+---
 
 ### § 2225—2234 — Skončení nájmu
 
@@ -313,6 +579,44 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájemce nebytového skladu na dobu neurčitou dlouhodobě skladuje agresivní chemikálie, jež korodují nosné prvky haly; pronajímatel ho písemně vyzve k řádnému užívání a stanoví lhůtu, nájemce nereaguje. Současně přestane platit nájemné a nezaplatí je ani do splatnosti dalšího nájemného. Při skončení nájmu pronajímatel zadrží nájemcovy stroje k zajištění dlužné částky.
+
+**2. Právní otázka.** Za jakých podmínek lze nájem na dobu neurčitou vypovědět bez výpovědní doby pro způsob užívání věci a pro neplacení nájemného a jaké má pronajímatel zajištění své pohledávky při skončení nájmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2228 (výzva k řádnému užívání, lhůta a upozornění; při neuposlechnutí výpověď bez výpovědní doby; totéž při nezaplacení nájemného ani do splatnosti příštího nájemného — odst. 4); § 2231 (výpověď nájmu na dobu neurčitou — movitá věc 1 měsíc, nemovitá 3 měsíce); § 2232 (výpověď bez výpovědní doby při zvlášť závažném porušení působícím značnou újmu); § 2225 (odevzdání věci při skončení s přihlédnutím k obvyklému opotřebení); § 2234 (zadržení movitých věcí nájemce k úhradě pohledávky).
+- *Související ustanovení téhož zákona:* § 2226 (zánik věci), § 2227 (nezpůsobilost věci), § 2229 (výpověď doby určité), § 2233 (prohlídky před skončením).
+- *Související předpisy:* § 1395 a násl. (zadržovací právo).
+- *Judikatura:* NS 22 Cdo 4574/2017 (aplikace § 2225 odst. 1 na odevzdání věci; intertemporalita dle § 3028); NS 26 Cdo 2057/2025 a 26 Cdo 2397/2024 (zadržovací právo a nájem).
+
+**4. Subsumpce.** Užívání haly ke skladování korozivních látek poškozuje věc nad míru přiměřenou okolnostem (§ 2228 odst. 1); pronajímatel splnil podmínky (písemná výzva, lhůta, upozornění), nájemce neuposlechl → výpověď bez výpovědní doby (odst. 2). Nezaplacení nájemného ani do splatnosti příštího nájemného samostatně zakládá tutéž výpověď (odst. 4). Zadržení strojů je výkonem práva dle § 2234 k zajištění dlužného nájemného.
+
+**5. Řešení.** Pronajímatel může nájem ukončit bez výpovědní doby (§ 2228 odst. 2 a 4, popř. § 2232), požadovat odevzdání haly ve stavu dle § 2225 (s nárokem na náhradu škody za korozi nad rámec obvyklého opotřebení) a k zajištění dlužného nájemného zadržet movité věci nájemce na věci/v ní (§ 2234). Důkazně: písemná výzva a její doručení, znalecké posouzení poškození, evidence plateb.
+
+**6. Varianty.** (a) Kdyby šlo o nájem na dobu určitou bez sjednaných výpovědních důvodů, řádná výpověď by nebyla možná (§ 2229), avšak výpověď bez výpovědní doby dle § 2228/§ 2232 by zůstala zachována. (b) Kdyby věc během nájmu zčásti zanikla bez zavinění nájemce, mohl by naopak nájemce žádat slevu nebo vypovědět bez výpovědní doby (§ 2226 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výpověď bez výpovědní doby je nepřiměřená".* U § 2228 je podmíněna marnou výzvou a lhůtou; jsou-li splněny (nebo hrozí-li nebezpečí z prodlení dle odst. 3), je namístě.
+- *Protiargument „zadržení strojů je svépomoc bez opory".* § 2234 zakládá pronajímateli výslovné právo zadržet movité věci nájemce k úhradě pohledávky.
+- *Slabé místo:* hranice „opotřebení nad míru přiměřenou okolnostem" a výše škody bývají sporné; bez znaleckého posouzení a řádně doručené výzvy je výpověď napadnutelná.
+
+#### H. Praktický závěr
+
+Nájem na dobu neurčitou se ukončuje výpovědí (movitá věc 1 měsíc, nemovitá 3 měsíce); při poškozujícím užívání nebo prodlení s nájemným až do splatnosti příštího nájemného lze vypovědět bez výpovědní doby po marné výzvě. Při skončení se věc odevzdává s přihlédnutím k obvyklému opotřebení a pronajímatel může zadržet movité věci nájemce k úhradě pohledávky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla před výpovědí bez výpovědní doby učiněna písemná výzva s lhůtou a upozorněním (§ 2228 odst. 1)?
+- [ ] Nezaplatil nájemce ani do splatnosti příštího nájemného (§ 2228 odst. 4)?
+- [ ] Odpovídá stav odevzdané věci § 2225 (obvyklé opotřebení vs. škoda)?
+- [ ] Jsou splněny podmínky pro zadržení movitých věcí nájemce (§ 2234)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva, písemná výzva a doklad o doručení, evidence plateb nájemného, předávací protokol a fotodokumentace stavu věci, znalecké posouzení poškození.
+
+---
+
 ### Pododdíl 2 — Nájem bytu a domu (§ 2235—2301)
 
 **KLÍČOVÁ SEKCE OCHRANY** — silně kogentní úprava ve prospěch nájemce.
@@ -347,6 +651,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
   > „Nájem družstevního bytu je upraven v § 741 až 747 z. o. k., použijí se také ustanovení občanského zákoníku upravující nájem bytu (§ 2235 a násl. o. z.) a ujednání stanov družstva (jsou-li v souladu s kogentní úpravou nájmu bytu)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pronajímatel označí smlouvu jako „smlouvu o krátkodobém ubytování" a sjedná „nájem na rekreaci" na dobu určitou 6 měsíců, ačkoli nájemkyně v bytě fakticky bydlí, má tam trvalý pobyt dětí a žádnou jinou bytovou potřebu neuspokojuje. Po skončení „rekreace" chce pronajímatel byt vyklidit bez ohledu na ochranu nájemce; nájemkyně namítá, že jde o nájem bytu.
+
+**2. Právní otázka.** Rozhoduje pro aplikaci ochranných ustanovení o nájmu bytu (§ 2235 a násl.) skutečný účel — zajištění bytové potřeby — nebo formální označení smlouvy stranami?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2235 (zavazuje-li smlouva přenechat byt/dům k zajištění bytových potřeb nájemce a jeho domácnosti, nepřihlíží se k ujednáním zkracujícím nájemcova práva podle tohoto pododdílu; ustanovení se nepoužijí u přenechání k rekreaci nebo jinému zjevně krátkodobému účelu — odst. 2).
+- *Související ustanovení téhož zákona:* § 2236 (rozhoduje skutečný účel, ne nesprávné označení), § 2201 (obecná definice nájmu), § 2239 (zjevně nepřiměřená ujednání), § 2288 (taxativní výpovědní důvody u bytu).
+- *Související předpisy:* zákon č. 89/2012 Sb. — § 1159 (jednotka/byt).
+- *Judikatura:* NS 26 Cdo 3010/2025 (nájem bytu dle § 2201 ve spojení s § 2235); NS 26 Cdo 761/2021 a 26 Cdo 2059/2018 (relativně kogentní úprava nájmu bytu, § 2235 odst. 1, § 2239); NS 26 Cdo 3301/2018 (nájem k jinému než bytovému účelu vylučuje § 2235 a násl.).
+
+**4. Subsumpce.** Klíčový je účel: byt slouží k zajištění bytových potřeb nájemkyně a její domácnosti (trvalé bydlení, děti). Označení „rekreace/ubytování" je nesprávné; podle § 2236 a judikatury rozhoduje skutečný účel, nikoli formální nálepka. Výjimka § 2235 odst. 2 (rekreace, zjevně krátkodobý účel) se neuplatní, neboť užívání je trvalé a bytové. Proto se aplikuje celý ochranný pododdíl, vč. taxativních výpovědních důvodů.
+
+**5. Řešení.** Jde o nájem bytu; ujednání zkracující práva nájemkyně (krátká doba maskující rekreaci, vyloučení ochrany) se nepřihlíží (§ 2235 odst. 1). Pronajímatel nemůže byt vyklidit prostým uplynutím „rekreace"; ukončení se řídí § 2288/§ 2291. Nájemkyně se ubrání žalobě na vyklizení námitkou, že jde o chráněný nájem bytu.
+
+**6. Varianty.** (a) Kdyby byt byl skutečně přenechán na dovolenou na 2 týdny, šlo by o zjevně krátkodobý/rekreační účel a ochrana § 2235 a násl. by se nepoužila (odst. 2). (b) Kdyby byl prostor pronajat výslovně a fakticky k podnikání (kancelář), nešlo by o nájem bytu a aplikoval by se režim § 2302 a násl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „strany to označily jako rekreaci".* Vyvrací § 2236 — rozhodný je skutečný účel; nesprávné označení nájemce nepoškozuje.
+- *Protiargument „doba určitá vylučuje ochranu".* Ochrana nájmu bytu se vztahuje i na dobu určitou; krátkodobost musí být „zjevná" a skutečná (§ 2235 odst. 2).
+- *Slabé místo:* hranice „zjevně krátkodobého účelu" je výkladová; nájemce musí prokázat, že byt uspokojuje jeho bytovou potřebu (trvalý pobyt, fakticita bydlení).
+
+#### H. Praktický závěr
+
+Ochranná úprava nájmu bytu se uplatní vždy, slouží-li přenechání bytu/domu k zajištění bytových potřeb nájemce; rozhoduje skutečný účel, nikoli označení smlouvy. Výjimkou je jen zjevně krátkodobé či rekreační užívání. Pokusy obejít ochranu formální nálepkou jsou neúčinné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Slouží přenechání bytu/domu k zajištění bytových potřeb nájemce (§ 2235 odst. 1)?
+- [ ] Nejde o zjevně krátkodobý nebo rekreační účel (§ 2235 odst. 2)?
+- [ ] Neodporuje formální označení skutečnému účelu (§ 2236)?
+- [ ] Nezkracuje některé ujednání nájemcova práva (nepřihlíží se k němu)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (účel, doba), doklad o trvalém pobytu a faktickém bydlení, korespondence o účelu, srovnání s rekreačním užíváním.
+
+---
+
 ### § 2237—2239 — Zakázaná ujednání
 
 **§ 2237**:
@@ -379,6 +721,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 3529/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5CF5CB6F8BF9E5FC12580DB002B747D?openDocument) — *Přípustnost dovolání Dobrá víra*
 - *NS* [26 Cdo 1624/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/59DF8EAE67A1C98AC12588DD00187A1C?openDocument) — *Vyklizení bytu Dobrá víra Nájem bytu*
 - *NS* [26 Cdo 1562/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/403E3CFD87B4E291C1258D310052ADC2?openDocument) — *Nájem bytu Přechodná (intertemporální) ustanovení*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájem bytu byl sjednán pouze ústně; nájemce v bytě bydlí a platí nájemné už čtyři roky. Pronajímatel nyní tvrdí, že smlouva je neplatná pro nedostatek písemné formy, a žádá vyklizení. Nadto byla v jiné (písemné) smlouvě s dalším nájemcem sjednána „smluvní pokuta 5 000 Kč za každý den prodlení s úhradou nájemného" a povinnost nájemce „uhradit veškeré náklady pronajímatele na právní zastoupení".
+
+**2. Právní otázka.** Může se pronajímatel dovolat neplatnosti nájemní smlouvy bytu pro nedostatek formy a jsou ujednání ukládající nájemci zjevně nepřiměřené povinnosti účinná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2237 (smlouva vyžaduje písemnou formu, pronajímatel však nemá právo namítnout nájemci neplatnost pro nedostatek formy); § 2238 (užívá-li nájemce byt tři roky v dobré víře, že nájem je po právu, považuje se smlouva za řádně uzavřenou); § 2239 (nepřihlíží se k ujednání ukládajícímu nájemci zjevně nepřiměřenou povinnost; ujednání o doručování datovou schránkou se nepovažuje za zjevně nepřiměřené).
+- *Související ustanovení téhož zákona:* § 2235 (relativně kogentní ochrana), § 2254 (jistota a smluvní pokuta nejvýše trojnásobek měsíčního nájemného), § 580/§ 588 (neplatnost).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 2154/2020, 26 Cdo 1624/2022, 26 Cdo 2957/2018 (dobrá víra a nájem bytu, § 2238); NS 26 Cdo 2059/2018 (omezení ujednání o úrocích z prodlení relativně kogentní úpravou § 2235/§ 2239).
+
+**4. Subsumpce.** Ústní smlouva sice nesplňuje formu dle § 2237, avšak pronajímatel nemůže namítnout její neplatnost (§ 2237 in fine); navíc po čtyřech letech užívání v dobré víře se smlouva považuje za řádně uzavřenou (§ 2238). Smluvní pokuta a paušální přenesení nákladů zastoupení zatěžují nájemce zjevně nepřiměřeně (§ 2239) a navíc smluvní pokuta naráží na limit § 2254 odst. 1 (souhrn s jistotou max. trojnásobek nájemného) — k těmto ujednáním se nepřihlíží.
+
+**5. Řešení.** Žaloba na vyklizení pro „neplatnost smlouvy" neuspěje: nájem trvá (§ 2237, § 2238). Ujednání o denní smluvní pokutě a o úhradě nákladů zastoupení jsou neúčinná (§ 2239, § 2254); pronajímateli zůstává jen zákonný úrok z prodlení. Důkazně: doložit délku a dobrověrnost užívání (platby, korespondence, předání klíčů).
+
+**6. Varianty.** (a) Kdyby neplatnost formy namítl **nájemce** (nikoli pronajímatel), § 2237 mu to nezakazuje — ochrana svědčí slabší straně. (b) Kdyby nájemce v bytě bydlel teprve rok, fikce § 2238 by ještě nenastoupila, byť ochrana § 2237 by trvala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez písemné formy je smlouva neplatná".* Pronajímatel tuto neplatnost namítnout nesmí (§ 2237); po třech letech navíc nastupuje fikce řádného uzavření (§ 2238).
+- *Protiargument „smluvní pokuta byla dohodnuta".* K zjevně nepřiměřenému ujednání se nepřihlíží (§ 2239) a smluvní pokuta podléhá limitu § 2254.
+- *Slabé místo:* posouzení „zjevné nepřiměřenosti" je hodnotové a kontextové; nájemce musí tvrdit a osvědčit nepřiměřenost konkrétního ujednání.
+
+#### H. Praktický závěr
+
+U nájmu bytu nesmí pronajímatel namítat neplatnost pro nedostatek písemné formy a po třech letech dobrověrného užívání se smlouva považuje za řádně uzavřenou. K ujednáním ukládajícím nájemci zjevně nepřiměřené povinnosti se nepřihlíží; zajištění (jistota + smluvní pokuta) je limitováno § 2254.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Namítá neplatnost formy pronajímatel (nepřípustné), nebo nájemce (§ 2237)?
+- [ ] Užívá nájemce byt tři roky v dobré víře — fikce řádného uzavření (§ 2238)?
+- [ ] Neukládá některé ujednání nájemci zjevně nepřiměřenou povinnost (§ 2239)?
+- [ ] Nepřekračuje jistota se smluvní pokutou trojnásobek nájemného (§ 2254)?
+
+**Typicky rozhodné důkazy / podklady:** (i ústní) nájemní smlouva a okolnosti jejího vzniku, doklady o délce a dobrověrnosti užívání, znění napadených ujednání, evidence plateb.
+
+---
 
 ### § 2242—2256 — Odevzdání bytu, povinnosti, podnájem
 
@@ -481,6 +861,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 1130/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36BE00192AF72F5BC1258932001E2054?openDocument) — *Jistota Nájem pozemku*
 - *NS* [26 Cdo 1197/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1B5F51C8674A302C12588D50018E27C?openDocument) — 26. 7. 2022
 - *NS* [26 Cdo 3927/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F8E3A442698C0551C12586F5001892F5?openDocument) — *Nájem bytu Nájemné*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při uzavření nájmu bytu (nájemné 18 000 Kč/měsíc) pronajímatel požaduje „kauci" 60 000 Kč a navíc „rezervační poplatek" 18 000 Kč splatný předem mimo nájemné. Smlouva určuje splatnost nájemného „do 5. dne v měsíci". Po skončení nájmu pronajímatel odmítá kauci vrátit a nezohledňuje úroky; zároveň byt předal nájemci znečištěný a bez funkčního topení, ale tvrdí, že „nájemce si stav prohlédl".
+
+**2. Právní otázka.** Jaká je nejvyšší přípustná výše peněžité jistoty, smí pronajímatel požadovat plnění nad rámec nájemného a záloh a jaké jsou důsledky předání bytu nezpůsobilého k obývání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2242—2245 (zpřístupnění a způsobilost bytu; právo odmítnout nastěhování, sleva, neplacení nájemného po dobu vady); § 2246—2251 (nájemné pevnou částkou, služby, splatnost předem do 5. dne); § 2253 (notářská úschova sporného nájemného); § 2254 (jistota a smluvní pokuta v souhrnu max. trojnásobek měsíčního nájemného; vrácení s úroky alespoň v zákonné výši).
+- *Související ustanovení téhož zákona:* § 2239 (zjevně nepřiměřená ujednání), § 2255 (řádné užívání, práce/podnikání v bytě), § 2252 (vyúčtování služeb).
+- *Související předpisy:* zákon č. 67/2013 Sb. (služby spojené s nájmem bytu).
+- *Judikatura:* NS 26 Cdo 562/2025 a 26 Cdo 3527/2024 (nájem bytu, právní jednání); rozhodnutí k nájemnému a službám (26 Cdo 109/2023).
+
+**4. Subsumpce.** Kauce 60 000 Kč nepřekračuje trojnásobek nájemného (3 × 18 000 = 54 000 Kč)? Překračuje — je nad limit § 2254 odst. 1, k přesahu se nepřihlíží (přípustných je max. 54 000 Kč). „Rezervační poplatek" nad rámec nájemného a záloh § 2251 odst. 2 zapovídá (pronajímatel nesmí požadovat jiná plnění). Předání znečištěného bytu bez topení odporuje § 2243 (způsobilost); pokud nájemce stav neznal a nebyl řádně vyzván k prohlídce, má práva dle § 2244—2245 (sleva, neplacení po dobu vady).
+
+**5. Řešení.** Pronajímatel musí kauci vrátit do zákonné výše a uhradit z ní úroky alespoň v zákonné sazbě (§ 2254 odst. 2); „rezervační poplatek" je nepřípustný (§ 2251 odst. 2) a vrací se. Za nezpůsobilý byt náleží nájemci sleva, případně neplacení nájemného po dobu trvání vady (§ 2245). Důkazně: smlouva, doklady o platbách, předávací protokol/fotodokumentace stavu, výzva k prohlídce (či její absence).
+
+**6. Varianty.** (a) Kdyby nájemce stav bytu při uzavření znal nebo se nedostavil na řádnou výzvu k prohlídce, právo na slevu dle § 2244 odst. 2 by mu nevzniklo. (b) Kdyby spor byl jen o výši dlužného nájemného, mohl by nájemce odvrátit výpověď uložením sporné částky do notářské úschovy (§ 2253).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kauce i poplatek byly dohodnuty".* Přesah nad trojnásobek nájemného a plnění nad rámec § 2251 odst. 2 jsou neúčinné bez ohledu na dohodu (§ 2254, § 2239).
+- *Protiargument „nájemce si stav prohlédl".* Platí jen, pokud stav skutečně znal nebo byl řádně vyzván a prohlídku zanedbal (§ 2244 odst. 2); jinak práva z vad trvají.
+- *Slabé místo:* nárok na úroky z jistoty a jejich výši je nutné vyčíslit; absence předávacího protokolu ztěžuje prokázání stavu bytu při předání.
+
+#### H. Praktický závěr
+
+Peněžitá jistota spolu se smluvní pokutou nesmí přesáhnout trojnásobek měsíčního nájemného a vrací se s úroky; jiná plnění nad nájemné a zálohy pronajímatel požadovat nesmí. Byt musí být předán způsobilý k obývání, jinak má nájemce právo na slevu či neplacení po dobu vady. Sporné nájemné lze složit do notářské úschovy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nepřekračuje jistota (+ smluvní pokuta) trojnásobek nájemného (§ 2254 odst. 1)?
+- [ ] Nepožaduje pronajímatel plnění nad rámec nájemného a záloh (§ 2251 odst. 2)?
+- [ ] Byl byt předán způsobilý k obývání; znal nájemce vady (§ 2243—2244)?
+- [ ] Byly při vrácení jistoty vyúčtovány zákonné úroky (§ 2254 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva, doklady o platbě jistoty/poplatků, předávací protokol a fotodokumentace stavu bytu, výzva k prohlídce, vyúčtování služeb a úroků z jistoty.
+
+---
 
 ### § 2257—2273 — Nájemné a služby
 
@@ -589,6 +1007,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [25 Cdo 1817/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D2812813B7FC563BC12586C5001607C1?openDocument) — *Náhrada škody Nájem bytu*
   > „Občanský zákoník sice v § 2257 zakládá povinnost nájemce provádět řádnou údržbu pronajatého bytu, a to v souladu s nařízením č."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájemní smlouva bytu obsahuje doložku „chov jakýchkoli zvířat je zakázán". Nájemkyně si pořídí malého psa, který nepůsobí obtíže nepřiměřené poměrům v domě. Pronajímatel jí pohrozí výpovědí. Souběžně se v bytě objeví zatékající okno; nájemkyně to oznámí, pronajímatel však opravu neprovede ani v dodatečné lhůtě a vlhkost ničí vybavení. Do domácnosti se navíc nastěhuje nájemčin partner.
+
+**2. Právní otázka.** Je smluvní zákaz chovu zvířat účinný; jaká práva má nájemce, neodstraní-li pronajímatel oznámenou vadu; a za jakých podmínek smí nájemce přijmout nového člena domácnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2257 (pronajímatel udržuje byt způsobilý k užívání; nájemce hradí jen běžnou údržbu a drobné opravy); § 2258 (právo chovat v bytě zvíře, nepůsobí-li chov obtíže nepřiměřené poměrům v domě; náhrada zvýšených nákladů na společné části); § 2264—2266 (oznámení vady, odstranění pronajímatelem, jinak sleva/odstranění nájemcem na náklady pronajímatele, popř. výpověď bez výpovědní doby dle § 2266); § 2272 (právo přijmout člena domácnosti; oznamovací povinnost; výhrada souhlasu pronajímatele neplatí u osob blízkých).
+- *Související ustanovení téhož zákona:* § 2239 (zjevně nepřiměřená ujednání), § 2235 (relativně kogentní ochrana), § 2255 (řádné užívání).
+- *Související předpisy:* NV č. 308/2015 Sb. (drobné opravy a běžná údržba bytu); zákon č. 67/2013 Sb. (služby).
+- *Judikatura:* NS 25 Cdo 3230/2020 a 25 Cdo 1817/2020 (povinnost pronajímatele udržovat byt a povinnost nájemce k údržbě dle § 2257); NS 8 Tdo 1159/2017 (povinnost běžné údržby dle § 2257 odst. 2).
+
+**4. Subsumpce.** Paušální zákaz chovu zvířat odporuje § 2258 (a § 2239) — nepřihlíží se k němu; pes nepůsobící nepřiměřené obtíže je dovolen. Zatékající okno je vadou, kterou má odstranit pronajímatel (§ 2257 odst. 1); byla řádně oznámena (§ 2264), pronajímatel ji neodstranil ani v dodatečné lhůtě → nájemkyně může vadu odstranit a žádat náhradu, popř. slevu (§ 2265 odst. 2), a při hrubém porušení vypovědět bez výpovědní doby (§ 2266). Přijetí partnera je výkonem práva dle § 2272 odst. 1; jde-li o osobu blízkou, výhrada souhlasu pronajímatele se neuplatní, jen vzniká oznamovací povinnost.
+
+**5. Řešení.** Výpověď za chov psa by byla neoprávněná. Za neodstraněnou vadu náleží nájemkyni náhrada nákladů/sleva (§ 2265) a případně právo vypovědět bez výpovědní doby (§ 2266); škodu na vybavení lze uplatnit dle obecných ustanovení o náhradě škody. Nastěhování partnera je třeba jen oznámit (§ 2272 odst. 1), nikoli žádat o souhlas. Důkazně: oznámení vady a jeho doručení, doklady o nákladech opravy, doklad o vztahu partnera.
+
+**6. Varianty.** (a) Kdyby chov zvířete vyvolával zvýšené náklady na úklid společných částí, nájemkyně by je musela pronajímateli nahradit (§ 2258 věta druhá). (b) Kdyby přijatou osobou nebyla osoba blízká a smlouva si vyhradila souhlas, vyžadoval by se k jejímu přijetí písemný souhlas pronajímatele (§ 2272 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zákaz zvířat byl smluvně sjednán".* K paušálnímu zákazu se nepřihlíží; § 2258 právo chovu výslovně přiznává, limitem jsou jen nepřiměřené obtíže.
+- *Protiargument „nájemce si měl opravu zařídit sám".* Údržbu způsobilosti bytu nese pronajímatel (§ 2257 odst. 1); nájemce hradí jen běžnou údržbu a drobné opravy.
+- *Slabé místo:* posouzení „obtíží nepřiměřených poměrům v domě" a „hrubého porušení" pro výpověď dle § 2266 je hodnotové; nájemce musí prokázat oznámení vady a marné uplynutí lhůty.
+
+#### H. Praktický závěr
+
+Pronajímatel udržuje byt způsobilý k užívání; nájemce smí chovat zvíře, nepůsobí-li nepřiměřené obtíže, a má právo přijmout člena domácnosti (u osob blízkých bez souhlasu, jen s oznámením). Neodstraní-li pronajímatel oznámenou vadu, vzniká nájemci právo na slevu, náhradu nákladů opravy, popř. výpověď bez výpovědní doby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o vadu k tíži pronajímatele (§ 2257), nebo o běžnou údržbu/drobnou opravu nájemce?
+- [ ] Byla vada řádně a včas oznámena (§ 2264) a uplynula dodatečná lhůta (§ 2265)?
+- [ ] Působí chované zvíře obtíže nepřiměřené poměrům v domě (§ 2258)?
+- [ ] Jde u nového člena domácnosti o osobu blízkou (bez souhlasu) — splněna oznamovací povinnost (§ 2272)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (sporná ujednání), oznámení vady a doklad o doručení, doklady o nákladech opravy a o škodě, doklad o vztahu nově přijaté osoby, evidence osob v domácnosti.
+
+---
+
 ### § 2278—2284 — Skončení nájmu bytu
 
 **§ 2278**:
@@ -660,6 +1116,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 1984/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/046279394232F531C125841A00182BBF?openDocument) — *Výpověď z nájmu bytu Poctivost (o. z.)*
 - *NS* [26 Cdo 2018/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AA74C217BFE4098BC1258B9B004D6D43?openDocument) — *Podnájem bytu Smluvní pokuta*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájemce bytu (nájem na dobu neurčitou) tři po sobě jdoucí měsíce neuhradí nájemné a zálohy na služby, přestože byl pronajímatelem písemně upomenut. Pronajímatel mu doručí výpověď bez výpovědní doby pro zvlášť závažné porušení; nájemce dluh neuhradí ani následně a tvrdí, že výpověď je neplatná, neboť ho pronajímatel „nepoučil o námitkách". Pronajímatel byt potřebuje i pro vlastní bydlení své dcery.
+
+**2. Právní otázka.** Jaké jsou náležitosti a důvody výpovědi nájmu bytu ze strany pronajímatele (s výpovědní dobou i bez ní) a jaké jsou důsledky absence zákonného poučení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení (interpretovaná část § 2287—2291):* § 2288 (taxativní důvody výpovědi s tříměsíční výpovědní dobou — hrubé porušení, odsouzení, vlastní bytová potřeba pronajímatele/blízké osoby aj.); § 2291 (výpověď bez výpovědní doby při zvlášť hrubém porušení, zejména nezaplacení nájmu a služeb za tři měsíce); § 2287 (výpověď nájemce na dobu neurčitou).
+- *Související ustanovení téhož zákona:* § 2286 (písemná forma výpovědi, poučení o námitkách a soudním přezkumu, jinak neplatnost), § 2235/§ 2239 (kogentní ochrana), § 2253 (notářská úschova sporného nájemného).
+- *Související předpisy:* nařízení vlády č. 351/2013 Sb. (úrok z prodlení).
+- *Judikatura:* NS 26 Cdo 2941/2022, 26 Cdo 1984/2018 (výpověď z nájmu bytu, poctivost); NS 26 Cdo 1448/2025, 26 Cdo 2444/2025 (výpověď a přechod nájmu bytu).
+
+**4. Subsumpce.** Nezaplacení nájemného a služeb za tři měsíce naplňuje skutkovou podstatu zvlášť hrubého porušení dle § 2291 odst. 2 → výpověď bez výpovědní doby je důvodná. Pro vlastní bytovou potřebu dcery by byl dán i důvod dle § 2288 odst. 1/2 (výpověď s tříměsíční dobou). Náležitost poučení: výpověď pronajímatele musí obsahovat poučení o právu vznést námitky a navrhnout soudní přezkum (§ 2286 odst. 2), jinak je **neplatná** — bez ohledu na existenci důvodu.
+
+**5. Řešení.** Je-li výpověď bez výpovědní doby pro tříměsíční dluh řádně doručena a obsahuje poučení dle § 2286 odst. 2, je platná a nájem končí; absence poučení by ji však činila neplatnou, i kdyby důvod existoval. Pronajímatel by pak musel výpověď zopakovat řádně, případně využít důvod vlastní potřeby (§ 2288) s výpovědní dobou. Důkazně: doklad o dluhu a upomínce, znění a doručení výpovědi vč. poučení.
+
+**6. Varianty.** (a) Kdyby nájemce sporné nájemné složil do notářské úschovy (§ 2253), nebylo by možné nájem pro „nezaplacení" vypovědět. (b) Kdyby šlo o výpověď pro vlastní potřebu (§ 2288), nešlo by ji uplatnit bez výpovědní doby — vyžadovala by tříměsíční výpovědní dobu a věcné naplnění potřeby.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výpověď je neplatná pro chybějící poučení".* Tento argument je relevantní jen u výpovědi pronajímatele (§ 2286 odst. 2); je třeba poučení do výpovědi vždy zahrnout.
+- *Protiargument „tříměsíční dluh nestačí".* § 2291 odst. 2 nezaplacení nájmu a služeb za tři měsíce výslovně řadí mezi zvlášť hrubá porušení.
+- *Slabé místo:* riziko, že nájemce dluh dodatečně uhradí nebo složí do úschovy; soudy posuzují výpovědní důvody u nájmu bytu restriktivně (ochrana slabší strany), proto je nutná pečlivá formulace a doručení.
+
+#### H. Praktický závěr
+
+Nájem bytu může pronajímatel vypovědět jen z taxativních důvodů (§ 2288) s tříměsíční výpovědní dobou, nebo bez výpovědní doby při zvlášť hrubém porušení (§ 2291, typicky tříměsíční dluh). Výpověď pronajímatele musí být písemná a obsahovat poučení o námitkách a soudním přezkumu, jinak je neplatná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se výpověď o některý taxativní důvod (§ 2288), nebo o zvlášť hrubé porušení (§ 2291)?
+- [ ] Je výpověď písemná a obsahuje poučení o námitkách a soudním přezkumu (§ 2286 odst. 2)?
+- [ ] Trvá dluh i přes upomínku a nebyl složen do notářské úschovy (§ 2253)?
+- [ ] Byla výpověď řádně doručena a běží/odpadá výpovědní doba?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva, evidence plateb a upomínky, znění výpovědi vč. poučení a doklad o doručení, podklady o vlastní bytové potřebě (u § 2288).
+
+---
+
 ### § 2278—2286 — Přechod nájmu
 
 **§ 2278**:
@@ -721,6 +1215,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 2384/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F43775EB9F702F7C1258D5E0052BC16?openDocument) — *Nájem bytu Zneužívání výkonu práv a povinností*
 - *NS* [26 Cdo 928/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F04FEDB1AC530765C1258B1F004D37AC?openDocument) — *Byt Výpověď z nájmu bytu*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemře nájemce bytu (nejde o společný nájem manželů). V bytě s ním ke dni smrti žila jeho dospělá vnučka, která nemá vlastní byt; v jiném pokoji bydlel i jeho přítel, který není osobou v § 2279 odst. 1 vyjmenovanou. Pronajímatel tvrdí, že nájem smrtí zanikl a všichni mají byt vyklidit. Vnučka chce v nájmu pokračovat.
+
+**2. Právní otázka.** Přechází nájem bytu smrtí nájemce na člena jeho domácnosti, na koho a za jakých podmínek, a jaké je časové omezení takto přešlého nájmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2279 (přechod nájmu na člena domácnosti, který v bytě žil ke dni smrti a nemá vlastní byt; u osob mimo vyjmenovaný okruh jen se souhlasem pronajímatele; časové omezení na 2 roky, s výjimkami podle věku); § 2280 (přednostní právo potomka); § 2281 (jistota při přechodu); § 2282 (přechod na dědice, není-li člena domácnosti); § 2283—2284 (výpověď a postup, není-li dědic znám); § 2285 (obnovení nájmu); § 2286 (forma a poučení u výpovědi).
+- *Související ustanovení téhož zákona:* § 2235 (kogentní ochrana), § 2301 (byt zvláštního určení — odchylky).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 2080/2020 (společný nájem a přechod nájmu bytu); NS 26 Cdo 1082/2017 a 26 Cdo 303/2018 (přechod nájmu bytu); NS 26 Cdo 2444/2025, 26 Cdo 484/2025 (přechod nájmu a podnájem bytu).
+
+**4. Subsumpce.** Vnučka je osobou vyjmenovanou v § 2279 odst. 1 (vnuk/vnučka), žila v bytě ke dni smrti a nemá vlastní byt → nájem na ni přechází **ze zákona**, bez souhlasu pronajímatele; jako potomek má i přednostní právo (§ 2280). Přítel mezi vyjmenované osoby nepatří, proto na něj nájem přejde jen se souhlasem pronajímatele (§ 2279 odst. 1 věta druhá), jinak právo bydlet nemá. Nájem přešlý na vnučku skončí nejpozději za 2 roky (§ 2279 odst. 2), neuplatní-li se věková výjimka.
+
+**5. Řešení.** Nájem nezanikl: přešel na vnučku (§ 2279—2280); tvrzení pronajímatele o zániku je nesprávné. Přítel nemá nárok na pokračování bez souhlasu pronajímatele. Pronajímatel může požadovat jistotu, nesložil-li ji zemřelý nájemce (§ 2281). Časové omezení 2 roky se použije podle věku osoby. Důkazně: doklad o soužití v bytě ke dni smrti, doklad o tom, že vnučka nemá vlastní byt, příbuzenský vztah.
+
+**6. Varianty.** (a) Kdyby vnučka vlastnila jiný byt, podmínka „nemá vlastní byt" by nebyla splněna a nájem by na ni nepřešel. (b) Kdyby v bytě nežil žádný člen domácnosti splňující podmínky, přešel by nájem na dědice (§ 2282) a pronajímatel by mohl vypovědět dle § 2283.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smrtí nájem zaniká".* U nájmu bytu zákon naopak konstruuje přechod na člena domácnosti (§ 2279—2280); zánik nastává jen za podmínek § 2282—2284.
+- *Protiargument „v bytě bydlí více osob, nárok má každá".* Nárok svědčí jen osobě splňující podmínky (soužití ke dni smrti, absence vlastního bytu, příp. souhlas u nevyjmenovaných osob).
+- *Slabé místo:* prokázání faktického soužití „ke dni smrti" a podmínky „nemá vlastní byt" bývá sporné; lhůty pro oznámení a výpověď (§ 2283) jsou krátké a propadné.
+
+#### H. Praktický závěr
+
+Nájem bytu smrtí nájemce nezaniká, nýbrž přechází na člena domácnosti, který v bytě žil ke dni smrti a nemá vlastní byt; u osob mimo vyjmenovaný okruh jen se souhlasem pronajímatele. Potomek má přednost; přechod je časově omezen (zpravidla 2 roky). Není-li takové osoby, přechází nájem na dědice.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Žila osoba s nájemcem v bytě ke dni jeho smrti a nemá vlastní byt (§ 2279 odst. 1)?
+- [ ] Patří do vyjmenovaného okruhu, nebo je třeba souhlas pronajímatele?
+- [ ] Uplatní se přednostní právo potomka (§ 2280) a věkové výjimky z dvouleté lhůty (§ 2279 odst. 2)?
+- [ ] Není-li nástupce, přešel nájem na dědice a běží lhůty k výpovědi (§ 2282—2283)?
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list, doklad o společné domácnosti (evidence pobytu, svědci), doklad o tom, že nástupce nemá vlastní byt, doklad o příbuzenství, případný souhlas pronajímatele.
+
+---
+
 ### § 2295—2301 — Skončení nájmu
 
 **§ 2295**:
@@ -779,6 +1311,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájem bytu skončil výpovědí k 31. březnu, nájemce však byt fakticky vyklidil a předal klíče až 30. června. Pronajímatel požaduje za duben až červen „náhradu" ve výši dosavadního nájemného (20 000 Kč/měsíc). Souběžně řeší jiný byt: zaměstnanec firmy bydlel v služebním bytě a ukončil pracovní poměr; firma chce, aby byt ihned opustil.
+
+**2. Právní otázka.** Jaký nárok má pronajímatel za užívání bytu nájemcem po skončení nájmu do jeho odevzdání a kdy končí nájem služebního bytu po ukončení práce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2295 (pronajímatel má právo na náhradu ve výši ujednaného nájemného, neodevzdá-li nájemce byt v den skončení nájmu, až do dne skutečného odevzdání); § 2296 (péče o věci ponechané v bytě); § 2297—2299 (služební byt — omezení práv nájemce, skončení nájmu po ukončení práce, smrt nájemce); § 2300—2301 (byt zvláštního určení).
+- *Související ustanovení téhož zákona:* § 2225 (odevzdání věci při skončení nájmu), § 2991 a násl. (bezdůvodné obohacení — vztah k náhradě dle § 2295), § 2249 (výše nájemného).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 42/2024, 26 Cdo 105/2025 a 26 Cdo 3735/2022 (§ 2295 — právo pronajímatele na náhradu ve výši nájemného až do skutečného odevzdání bytu); NS 26 Cdo 3491/2023 a 26 Cdo 2059/2018 (vztah náhrady k bezdůvodnému obohacení a úrokům z prodlení).
+
+**4. Subsumpce.** Nájem skončil k 31. březnu, byt byl odevzdán až 30. června; po tuto dobu nájemce byt užíval bez právního důvodu. § 2295 zakládá pronajímateli právo na náhradu ve výši **ujednaného** (naposledy sjednaného/soudem určeného) nájemného za duben—červen. U služebního bytu skončí nájem podle § 2298 (zpravidla posledním dnem kalendářního měsíce následujícího po měsíci, v němž nájemce přestal vykonávat práci bez vážného důvodu), nikoli okamžitě.
+
+**5. Řešení.** Pronajímatel má nárok na 3 × 20 000 Kč jako náhradu dle § 2295 (judikatura ji pojímá jako náhradu ve výši nájemného, blízkou bezdůvodnému obohacení). U služebního bytu nelze žádat okamžité vyklizení; nájem doběhne dle § 2298. Důkazně: doklad o skončení nájmu, datum skutečného odevzdání (předávací protokol), poslední výše nájemného; u služebního bytu doklad o skončení práce a jejím důvodu.
+
+**6. Varianty.** (a) Kdyby nájemce ponechal v bytě své věci, pronajímatel by o ně pečoval ve prospěch nájemce a po marné výzvě je mohl prodat (§ 2296). (b) Kdyby šlo o byt zvláštního určení a zemřel nájemce, řídilo by se skončení/přechod speciálně § 2301 (souhlas zřizovatele, přechod na osobu zdravotně postiženou či starší 70 let).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „po skončení nájmu už nic nedlužím".* § 2295 výslovně zakládá náhradu ve výši nájemného až do skutečného odevzdání bytu.
+- *Protiargument „služební byt musí zaměstnanec opustit ihned".* Nájem služebního bytu doběhne dle § 2298; okamžité vyklizení zákon nepředpokládá.
+- *Slabé místo:* výše náhrady dle § 2295 je vázána na „ujednané" nájemné; je-li sporné nebo nízké, může pronajímatel zvažovat i nárok z bezdůvodného obohacení ve výši obvyklého nájemného (vztah obou nároků je judikatorně řešen).
+
+#### H. Praktický závěr
+
+Užívá-li nájemce byt po skončení nájmu, náleží pronajímateli náhrada ve výši ujednaného nájemného až do skutečného odevzdání bytu (§ 2295). Nájem služebního bytu po ukončení práce nekončí okamžitě, ale podle § 2298; u bytu zvláštního určení platí zvláštní pravidla přechodu a výpovědi (§ 2300—2301).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdy nájem skončil a kdy byl byt skutečně odevzdán (§ 2295)?
+- [ ] Jaká byla naposledy ujednaná/soudem určená výše nájemného pro výpočet náhrady?
+- [ ] Jde o služební byt — uplynula lhůta dle § 2298 (vážný důvod ukončení práce)?
+- [ ] Jde o byt zvláštního určení — je dán souhlas zřizovatele k výpovědi (§ 2301 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výpověď/dohoda o skončení nájmu, předávací protokol s datem odevzdání, doklad o výši nájemného, u služebního bytu doklad o skončení práce, u bytu zvláštního určení doporučení/souhlas zřizovatele.
+
+---
+
 ### Pododdíl 3 — Nájem prostor k podnikání (§ 2302—2315)
 
 **Pravidla pro B2B nájem**:
@@ -825,6 +1395,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
   > „Po právní stránce přisvědčil závěrům soudu prvního stupně, že na právní vztah účastníků je třeba aplikovat § 2302 a násl. zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále též jen „o. z.“), upravující nájem prostor sloužících podnikání."
 - *NS* [26 Cdo 836/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C06648EDC2BEC26C1258B80004D3F61?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
   > „2020 je smlouvou o nájmu prostor sloužících podnikání ve smyslu § 2302 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „o. z.“), a bylo možno ji vypovědět pouze v případě nedodržení placení domluvených splátek, ostatní zákonné výpovědní důvody účastníci v rámci své smluvní volnosti vyloučili."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Smlouva je nadepsána „nájem nebytových prostor" a prostor je výslovně určen „k provozování kavárny". Nájemce v něm skutečně provozuje kavárnu. Po čase tam začne provozovat noční bar s hlučnou hudbou, čímž zhoršuje poměry v domě a obtěžuje ostatní uživatele. Pronajímatel namítá porušení účelu nájmu; nájemce tvrdí, že smlouva účel „podnikání" neomezila.
+
+**2. Právní otázka.** Řídí se vztah ustanoveními o nájmu prostoru sloužícího podnikání (§ 2302 a násl.) podle skutečného účelu, i když to smlouva výslovně neuvádí, a v jakém rozsahu smí nájemce změnit druh provozované činnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2302 (úprava se vztahuje na nájem prostoru/místnosti k podnikání, slouží-li mu prostor alespoň převážně, bez ohledu na vyjádření účelu ve smlouvě; jinak obecná ustanovení o nájmu); § 2303 (poskytování služeb — obdobně jako u bytu); § 2304 (zákaz provozovat jinou činnost nebo měnit způsob výkonu, působilo-li by to zhoršení poměrů v nemovité věci nebo nepřiměřené poškození pronajímatele/uživatelů); § 2305 (štíty a označení se souhlasem; fikce souhlasu při nečinnosti pronajímatele).
+- *Související ustanovení téhož zákona:* § 2201 a násl. (subsidiárně obecný nájem), § 2308—2309 (výpovědní důvody), § 2235 (vyloučení bytového režimu u podnikatelského účelu).
+- *Související předpisy:* zákon č. 67/2013 Sb. (služby — odkaz v § 2303).
+- *Judikatura:* NS 26 Cdo 1378/2022 (rozhodující je účel nájmu dle § 2302 odst. 1); NS 26 Cdo 1001/2025, 26 Cdo 836/2024 (aplikace § 2302 a násl., dispozitivnost úpravy); NS 26 Cdo 3609/2019 (dispozitivní povaha úpravy).
+
+**4. Subsumpce.** Prostor slouží převážně podnikání (kavárna), proto se uplatní § 2302 a násl. bez ohledu na přesné vyjádření účelu. Změna na noční bar je „jinou činností", resp. změnou způsobu výkonu, jež zhoršuje poměry v nemovité věci a nad přiměřenou míru poškozuje ostatní uživatele → porušení § 2304 odst. 1. Výjimka odst. 2 (nepodstatná změna) se neuplatní, neboť jde o podstatnou změnu charakteru provozu.
+
+**5. Řešení.** Vztah se řídí úpravou nájmu prostoru sloužícího podnikání; nájemce nesměl jednostranně změnit provoz na rušivý noční bar (§ 2304). Pronajímatel ho může vyzvat k nápravě a při hrubém porušení vypovědět (§ 2309). Důkazně: doklad o sjednaném/skutečném účelu, stížnosti uživatelů, měření hluku, výzva k nápravě.
+
+**6. Varianty.** (a) Kdyby prostor nesloužil podnikání ani bydlení (např. spolková klubovna), použila by se jen obecná ustanovení o nájmu (§ 2302 odst. 2). (b) Kdyby šlo jen o nepodstatnou změnu provozu (rozšíření sortimentu kavárny), § 2304 odst. 1 by se neuplatnil (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva účel podnikání neomezila".* Rozhodující je skutečný (převažující) účel; změna činnosti je omezena § 2304 bez ohledu na obecné označení „podnikání".
+- *Protiargument „úprava je kogentní v můj prospěch".* Úprava nájmu prostoru sloužícího podnikání je převážně dispozitivní (NS 26 Cdo 3609/2019); smluvní odchylky jsou možné.
+- *Slabé místo:* hranice „zhoršení poměrů v nemovité věci" a „nepřiměřeného poškození" je skutková; pronajímatel musí prokázat reálný negativní dopad změny provozu.
+
+#### H. Praktický závěr
+
+Na nájem prostoru sloužícího (převážně) podnikání se vztahují § 2302 a násl. bez ohledu na výslovné vyjádření účelu ve smlouvě; jinak platí obecná úprava nájmu. Nájemce nesmí jednostranně provozovat jinou činnost nebo měnit způsob jejího výkonu, působilo-li by to zhoršení poměrů či nepřiměřené poškození ostatních.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Slouží prostor alespoň převážně podnikání (§ 2302 odst. 1)?
+- [ ] Je zamýšlená činnost v souladu s účelem nájmu, nebo jde o zakázanou změnu (§ 2304)?
+- [ ] Působí změna zhoršení poměrů v nemovité věci nebo nepřiměřené poškození uživatelů?
+- [ ] Byl k umístění označení udělen souhlas, nebo nastala fikce souhlasu (§ 2305)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva (účel), doklady o skutečném využití prostoru, stížnosti a důkazy o zhoršení poměrů (hluk, imise), výzva k nápravě, žádost o souhlas s označením.
+
+---
 
 ### § 2306—2315 — Specifika
 
@@ -899,6 +1507,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nájemce provozuje v pronajaté jednotce léta zavedenou cukrárnu s vybudovanou klientelou. Pronajímatel mu dá výpověď z nájmu na dobu neurčitou (nikoli pro porušení povinností), protože chce do prostoru dosadit vlastní podnik těžící z dosavadní klientely. Nájemce vyklidí prostor v souladu s výpovědí, poté však uplatní nárok na náhradu za převzetí zákaznické základny.
+
+**2. Právní otázka.** Má nájemce prostoru sloužícího podnikání při výpovědi ze strany pronajímatele právo na náhradu za výhodu z převzaté zákaznické základny a kdo je k jejímu zaplacení povinen?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2306 (odstranění označení a uvedení do původního stavu); § 2307 (převod nájmu se souhlasem pronajímatele); § 2308—2309 (výpovědní důvody u doby určité — na straně nájemce i pronajímatele); § 2310 (povinnost uvést důvod výpovědi, tříměsíční doba); § 2312 (doba neurčitá — zpravidla šestiměsíční výpovědní doba, při vážném důvodu tříměsíční); § 2313—2314 (vyklizení, námitky a soudní přezkum); § 2315 (náhrada za výhodu z převzaté zákaznické základny; nepřísluší při výpovědi pro hrubé porušení povinností nájemce).
+- *Související ustanovení téhož zákona:* § 2302 (aplikace), § 2304 (změna činnosti), § 2201 a násl. (subsidiárně).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 3644/2022 (ve sporu o náhradu za převzetí zákaznické základny dle § 2315 je pasivně legitimován jen dřívější pronajímatel); NS 26 Cdo 596/2022, 26 Cdo 895/2025 (výpověď z nájmu prostor sloužících podnikání).
+
+**4. Subsumpce.** Nájemce vybudoval zákaznickou základnu; výpověď dal pronajímatel a **nikoli** pro hrubé porušení povinností nájemce. Pronajímatel (či nový nájemce) převzetím klientely získává výhodu. Tím jsou naplněny znaky § 2315 → nájemci vzniká právo na náhradu. Pasivně legitimován je dřívější pronajímatel (NS 26 Cdo 3644/2022). Vyklizení v souladu s výpovědí (§ 2313) nemá na nárok dle § 2315 vliv.
+
+**5. Řešení.** Nájemci náleží náhrada za výhodu z převzaté zákaznické základny (§ 2315); žalovat je třeba dřívějšího pronajímatele. Výše se odvíjí od hodnoty převzaté výhody (klientely). Důkazně: doklady o vybudované klientele (tržby, stálí zákazníci), návaznost provozu pronajímatele/nového nájemce na tutéž základnu, charakter a důvod výpovědi.
+
+**6. Varianty.** (a) Kdyby byl nájemce vypovězen pro hrubé porušení svých povinností, právo na náhradu dle § 2315 by mu nevzniklo (výslovná výjimka). (b) Kdyby nájem skončil výpovědí nájemce, nikoli pronajímatele, § 2315 by se neuplatnil — náhrada je vázána na výpověď ze strany pronajímatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nájemce vyklidil, tím nárok zanikl".* Vyklizení v souladu s výpovědí (§ 2313) se nárok dle § 2315 nedotýká; jde o samostatné majetkové právo.
+- *Protiargument „platit má nový nájemce".* Pasivně legitimován je dřívější pronajímatel (NS 26 Cdo 3644/2022), nikoli nový nájemce.
+- *Slabé místo:* prokázání existence a hodnoty „převzaté zákaznické základny" je obtížné; chybí-li doklad o tržbách a o návaznosti provozu na tutéž klientelu, je nárok stěží vyčíslitelný.
+
+#### H. Praktický závěr
+
+Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajímatele (nikoli pro hrubé porušení povinností nájemce) má nájemce právo na náhradu za výhodu z převzaté zákaznické základny (§ 2315); povinným je dřívější pronajímatel. Výpověď musí být odůvodněná (§ 2310) a lze ji přezkoumat soudem (§ 2314).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dal výpověď pronajímatel a nikoli pro hrubé porušení povinností nájemce (§ 2315)?
+- [ ] Existuje a je vyčíslitelná hodnota převzaté zákaznické základny?
+- [ ] Je žalován dřívější pronajímatel (pasivní legitimace dle NS 26 Cdo 3644/2022)?
+- [ ] Obsahuje výpověď důvod (§ 2310) a byly dodrženy lhůty a námitkový postup (§ 2314)?
+
+**Typicky rozhodné důkazy / podklady:** nájemní smlouva a výpověď (důvod, datum), doklady o vybudované klientele a tržbách, důkazy o návaznosti provozu pronajímatele/nového nájemce na tutéž základnu, znalecké ocenění výhody.
+
+---
+
 ### Pododdíl 4 — Nájem dopravního prostředku (§ 2321—2325)
 
 **Speciální úprava** pro pronájem aut, lodí, letadel (car rental):
@@ -923,6 +1569,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 - *NS* [33 Cdo 30/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D076E55401C9758C1258C0300529EA3?openDocument) — *Spotřebitel Smlouva o ubytování Odstupné*
   > „Podle § 2326 o. z."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel si online rezervuje v penzionu pobyt na 5 nocí a zaplatí předem; v ubytovacím řádu je sjednáno storno se 100% odstupným při zrušení méně než 14 dní předem. Host zruší pobyt 3 dny předem a požaduje vrácení celé částky. Provozovatel odmítá s odkazem na ubytovací řád. Spor je o povahu smlouvy a o přiměřenost storno podmínek vůči spotřebiteli.
+
+**2. Právní otázka.** Jde o smlouvu o ubytování podle § 2326 (nikoli o nájem bytu) a v jakém rozsahu se na ni uplatní ochrana spotřebitele a pravidla o odstupném?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2326 (ubytovací smlouvou se ubytovatel zavazuje poskytnout přechodně ubytování na ujednanou dobu nebo dobu z účelu vyplývající v zařízení k tomu určeném a ubytovaný se zavazuje zaplatit za ubytování a služby ve lhůtě dle ubytovacího řádu nebo obvyklé).
+- *Související ustanovení téhož zákona:* § 2235 odst. 2 (vyloučení ochrany nájmu bytu u zjevně krátkodobého/rekreačního účelu), § 2330 (výpověď ubytovaného před uplynutím doby), § 1810 a násl. (ochrana spotřebitele), § 1837 (odstoupení u smluv o volném čase — výjimka u distančních smluv), § 1814/§ 1815 (zneužívající ujednání).
+- *Související předpisy:* zákon č. 565/1990 Sb. (místní poplatek z pobytu); zákon č. 326/1999 Sb. (hlášení ubytování cizinců).
+- *Judikatura:* NS 33 Cdo 30/2024 (smlouva o ubytování, spotřebitel, odstupné dle § 2326); NS 26 Cdo 2666/2017 (smlouva o ubytování jako smlouva spotřebitelská, ochrana spotřebitele).
+
+**4. Subsumpce.** Penzion je „zařízení k tomu určené", pobyt je přechodný a krátkodobý → jde o smlouvu o ubytování (§ 2326), nikoli o nájem bytu (vyloučeno § 2235 odst. 2). Host je spotřebitel (§ 1810). Storno podmínky v ubytovacím řádu jsou ujednáním o odstupném; podléhají kontrole přiměřenosti vůči spotřebiteli — 100% odstupné bez ohledu na to, zda ubytovatel místo obsadil jinak, může být zneužívajícím ujednáním (§ 1814 a násl.).
+
+**5. Řešení.** Smlouva se posoudí jako spotřebitelská smlouva o ubytování; ubytovatel může zadržet odstupné jen v rozsahu odpovídajícím skutečně vzniklé újmě/přiměřenému paušálu, nikoli automaticky 100 % bez ohledu na náhradní obsazení (analogicky k § 2330 odst. 2 a kontrole zneužívajících ujednání). Důkazně: rezervace a ubytovací řád, doklad o platbě, údaje o (ne)obsazení kapacity v daném termínu.
+
+**6. Varianty.** (a) Kdyby ubytování objednal podnikatel pro účely své činnosti (firemní pobyt), spotřebitelská ochrana by se neuplatnila a storno dle ubytovacího řádu by obstálo snáze. (b) Kdyby šlo o dlouhodobé přenechání bytu k bydlení, nešlo by o ubytování, nýbrž o nájem bytu (§ 2235) s odlišnou ochranou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ubytovací řád je závazný, 100% storno platí".* U spotřebitele podléhá ujednání kontrole přiměřenosti; nepřiměřeně vysoké paušální odstupné nemusí obstát (§ 1814 a násl.).
+- *Protiargument „jde o nájem bytu s ochranou nájemce".* Krátkodobý rekreační pobyt je z režimu nájmu bytu vyloučen (§ 2235 odst. 2) a podřazen § 2326.
+- *Slabé místo:* hranice mezi „ubytováním" a „nájmem" (zejména u delších pobytů, AirBnB) je výkladová; rozhoduje přechodnost a účel, nikoli pouhá délka.
+
+#### H. Praktický závěr
+
+Smlouva o ubytování (§ 2326) zakládá přechodné ubytování v zařízení k tomu určeném; u spotřebitele se uplatní ochrana spotřebitele a kontrola přiměřenosti storno podmínek. Od nájmu bytu se liší přechodností a krátkodobým účelem (§ 2235 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přechodné ubytování v zařízení k tomu určeném (§ 2326), nikoli o nájem bytu?
+- [ ] Je ubytovaný spotřebitelem (uplatní se § 1810 a násl.)?
+- [ ] Jsou storno/odstupné podmínky vůči spotřebiteli přiměřené (§ 1814 a násl.)?
+- [ ] Jsou splněny veřejnoprávní povinnosti (poplatek z pobytu, hlášení cizinců)?
+
+**Typicky rozhodné důkazy / podklady:** rezervace a potvrzení, ubytovací řád se storno podmínkami, doklad o platbě, údaje o obsazenosti v termínu, doklad o postavení hosta jako spotřebitele.
+
+---
 
 ### § 2327—2331 — Práva a povinnosti
 
@@ -970,6 +1654,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Host hotelu předá na recepci do úschovy v zapečetěné obálce hotovost a hodinky; recepce je převezme. V noci se z trezoru recepce cennosti ztratí. Souběžně jiný host opakovaně i přes výstrahu ruší noční klid, ničí vybavení pokoje a chová se agresivně k personálu. Hotel chce tohoto hosta okamžitě „vystěhovat".
+
+**2. Právní otázka.** Jaký je rozsah práv ubytovaného a povinností ubytovatele (vč. úschovy cenností) a za jakých podmínek může ubytovatel ukončit ubytování bez výpovědní doby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2327 (právo užívat ubytovací prostor a společné prostory, využívat služby; ubytovatel převezme na žádost do úschovy peníze, klenoty a cennosti, ledaže jde o věci nebezpečné nebo nepřiměřené; může požadovat předání v uzavřené/zapečetěné schránce); § 2328 (odevzdání prostoru způsobilého k užívání a nerušený výkon práv); § 2329 (řádné užívání, zákaz podstatných změn bez souhlasu); § 2330 (výpověď ubytovaného před uplynutím doby, náhrada škody ubytovateli); § 2331 (výpověď ubytovatele bez výpovědní doby při hrubém porušení povinností nebo dobrých mravů i přes výstrahu).
+- *Související ustanovení téhož zákona:* § 2326 (definice ubytování), § 2945 (náhrada škody na vnesených/odložených věcech — vztah k úschově), § 2900 (prevenční povinnost).
+- *Související předpisy:* —
+- *Judikatura:* NS 33 Cdo 30/2024 a 26 Cdo 2666/2017 (smlouva o ubytování, ochrana spotřebitele, odstupné).
+
+**4. Subsumpce.** Host využil práva na úschovu cenností; cennosti byly převzaty do zapečetěné schránky (§ 2327 odst. 2). Za jejich ztrátu z trezoru odpovídá ubytovatel (přijetí do úschovy zakládá odpovědnost; souběžně se uplatní i ochrana vnesených věcí dle § 2945). U druhého hosta jde o hrubé porušení povinností a dobrých mravů (rušení nočního klidu, ničení vybavení, agrese) i přes výstrahu → § 2331 zakládá výpověď bez výpovědní doby.
+
+**5. Řešení.** Ubytovatel odpovídá za ztrátu cenností převzatých do úschovy a musí poškozenému hostu nahradit škodu. Vůči rušícímu hostu může po výstraze ukončit ubytování bez výpovědní doby (§ 2331) a požadovat náhradu škody na vybavení; faktické vyklizení musí proběhnout právní cestou, ne svévolí. Důkazně: potvrzení o úschově, záznam o ztrátě, výstraha a doklady o porušování (kamerový záznam, protokoly, svědci).
+
+**6. Varianty.** (a) Kdyby host cennosti do úschovy nepředal a ponechal je na pokoji, odpovídal by ubytovatel jen v režimu vnesených věcí (§ 2945), s limity tam stanovenými. (b) Kdyby porušení nedosahovalo intenzity „hrubého", nebylo by možné ukončit ubytování bez výpovědní doby dle § 2331; postačila by výpověď řádná či náhrada škody.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „za cennosti hotel neručí".* Převzetím do úschovy (§ 2327 odst. 2) ubytovatel odpovědnost přijímá; vyloučení odpovědnosti za převzaté cennosti neobstojí.
+- *Protiargument „rušícího hosta lze vyhodit ihned svépomocí".* Ukončení dle § 2331 je právním titulem, nikoli oprávněním ke svévolnému vystěhování; výstraha je podmínkou.
+- *Slabé místo:* intenzita „hrubého porušení" a prokázání výstrahy bývají sporné; bez doložené výstrahy a důkazů o porušování je výpověď bez výpovědní doby napadnutelná.
+
+#### H. Praktický závěr
+
+Ubytovaný má právo užívat prostor a služby a žádat úschovu cenností; za cennosti převzaté do úschovy ubytovatel odpovídá. Ubytovatel může ubytování ukončit bez výpovědní doby jen při hrubém porušení povinností nebo dobrých mravů i přes výstrahu (§ 2331); ubytovaný může vypovědět kdykoli s povinností nahradit prokázanou škodu (§ 2330).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly cennosti předány a převzaty do úschovy dle § 2327 odst. 2?
+- [ ] Odevzdal ubytovatel prostor způsobilý k užívání a zajistil nerušený výkon práv (§ 2328)?
+- [ ] Předcházela výpovědi bez výpovědní doby výstraha a jde o hrubé porušení (§ 2331)?
+- [ ] Je nárok na náhradu škody (ubytovatele i ubytovaného) doložen (§ 2330)?
+
+**Typicky rozhodné důkazy / podklady:** ubytovací smlouva a řád, potvrzení o úschově cenností, záznamy o ztrátě/škodě, doklad o výstraze, kamerové záznamy a svědecké výpovědi o porušování.
+
+---
+
 ## Oddíl 4 — Pacht (§ 2332—2357)
 
 ### Pododdíl 1 — Obecná ustanovení (§ 2332—2344)
@@ -1003,6 +1725,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *NS* [26 Cdo 3498/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BABA6F9C2C982F52C1258BA4004D3BB2?openDocument) — *Pacht /pachtýř, propachtovatel) (o. z.) Výklad projevu vůle*
 - *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
   > „Poukázala na komentáře o. z. k § 2332 o. z. a dřívější judikaturu, zejména k občanskému zákonu č. 946/1811 Sb. z. s., který od 28. října 1918 platil jako československý obecný zákoník občanský (dále též jen “o.z.o.”) a z jejich závěrů dovozovala, že v daném případě se jedná o nájem prostoru sloužícího k podnikání."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník ovocného sadu přenechá smlouvou označenou jako „nájemní" sad zemědělci na 6 let za úplatu 50 000 Kč ročně s tím, že zemědělec smí sklízet a prodávat veškerou úrodu. Po sporu o výpovědní podmínky se řeší, zda jde o nájem, nebo o pacht — od toho se odvíjí délka výpovědní doby a pachtovní rok.
+
+**2. Právní otázka.** Jde o nájem (užívání), nebo o pacht (užívání + požívání), umožňuje-li smlouva nejen užívat věc, ale i brát z ní plody a užitky, a jak se odlišení projeví na právním režimu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2332 (pachtovní smlouvou se propachtovatel zavazuje přenechat pachtýři věc k dočasnému užívání **a požívání** a pachtýř se zavazuje platit pachtovné nebo poskytnout poměrnou část výnosu).
+- *Související ustanovení téhož zákona:* § 2201 (nájem = jen užívání), § 2341 (přiměřené použití ustanovení o nájmu na pacht), § 2339 (výpověď pachtu, pachtovní rok), § 2345 a násl. (zemědělský pacht), § 1285 (požívací právo — pojem požívání).
+- *Související předpisy:* —
+- *Judikatura:* NS 26 Cdo 3395/2022 a 26 Cdo 2457/2024 (nájem i pacht jsou konsenzuální závazky dle § 2202 a násl. a § 2332 a násl.); NS 26 Cdo 3721/2019 (odlišení nájmu a pachtu, návaznost na obecný zákoník občanský).
+
+**4. Subsumpce.** Smlouva přenechává sad nejen k užívání, ale i k braní plodů (sklizeň a prodej úrody) za úplatu → naplňuje znaky pachtu dle § 2332 (užívání + požívání), nikoli pouhého nájmu. Nesprávné označení „nájemní smlouva" je nerozhodné; rozhoduje obsah (požívání plodů). Důsledek: aplikují se ustanovení o pachtu (vč. pachtovního roku a šestiměsíční výpovědní doby dle § 2339), subsidiárně ustanovení o nájmu (§ 2341).
+
+**5. Řešení.** Vztah je pacht; výpověď pachtu na dobu neurčitou by se řídila § 2339 (šestiměsíční výpovědní doba ke konci pachtovního roku; u zemědělského pachtu od 1. 10. do 30. 9.). Strany nemohou povahu vztahu změnit pouhým označením. Důkazně: obsah smlouvy (oprávnění brát plody), faktické hospodaření a sklizeň.
+
+**6. Varianty.** (a) Kdyby smlouva přenechávala sad jen k procházkám/rekreaci bez práva na úrodu, šlo by o nájem (§ 2201), nikoli pacht. (b) Kdyby předmětem byl obchodní závod přenechaný k provozu a braní výnosů, šlo by o pacht závodu (§ 2349 a násl.).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva je označena jako nájemní".* Rozhoduje obsah (požívání plodů), nikoli název; přiznává-li smlouva právo brát plody, jde o pacht (§ 2332).
+- *Protiargument „na pacht a nájem platí totéž".* Pacht má vlastní pravidla (pachtovní rok, výpovědní doba dle § 2339); ustanovení o nájmu se užijí jen přiměřeně a subsidiárně (§ 2341).
+- *Slabé místo:* hranice mezi „užíváním" a „požíváním" může být v konkrétní smlouvě nezřetelná; klíčové je, zda pachtýř nabývá plody a užitky.
+
+#### H. Praktický závěr
+
+Pacht se od nájmu liší tím, že pachtýř věc nejen užívá, ale i požívá (bere z ní plody a užitky) za pachtovné nebo část výnosu. O kvalifikaci rozhoduje obsah smlouvy, nikoli její označení; na pacht se subsidiárně užijí pravidla o nájmu (§ 2341), avšak se zvláštnostmi (pachtovní rok, výpovědní doba dle § 2339).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přenechává smlouva věc i k požívání (braní plodů a užitků), nebo jen k užívání (§ 2332 vs. § 2201)?
+- [ ] Je úplatou pachtovné, nebo poměrná část výnosu (§ 2332)?
+- [ ] Jde o plodonosnou věc (pozemek, sad, závod) odpovídající povaze pachtu?
+- [ ] Uplatní se zvláštní pravidla pachtu (pachtovní rok, § 2339), či jen přiměřeně nájem (§ 2341)?
+
+**Typicky rozhodné důkazy / podklady:** pachtovní/nájemní smlouva (oprávnění brát plody), doklady o hospodaření a sklizni, evidence plateb pachtovného, povaha předmětu (druh pozemku/věci).
+
+---
 
 ### § 2333—2344 — Obecná pravidla
 
@@ -1073,6 +1833,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pachtýř hospodaří na propachtovaném rybníku s inventářem (výpustní zařízení, sádky). Bez souhlasu propachtovatele rybník dále propachtuje třetí osobě a změní způsob hospodaření z chovu ryb na rekreační koupaliště. Současně se kvůli neopravené hrázi (vada na straně propachtovatele) sníží výnos pod polovinu obvyklého. Pachtýř žádá slevu z pachtovného; propachtovatel naopak chce pacht ukončit.
+
+**2. Právní otázka.** Může propachtovatel vypovědět pacht bez výpovědní doby pro neoprávněné další propachtování a změnu hospodaření a má pachtýř právo na slevu z pachtovného při poklesu výnosu pod polovinu z důvodu neodstraněné vady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2334 (další propachtování/přenechání jinému nebo změna hospodářského určení či způsobu užívání bez souhlasu → výpověď bez výpovědní doby); § 2336 (péče řádného hospodáře); § 2337 (neodstraní-li propachtovatel vadu a klesne výnos pod polovinu, právo na slevu; při zásadní vadě prominutí pachtovného nebo výpověď bez výpovědní doby); § 2339 (výpověď pachtu na dobu neurčitou v šestiměsíční době ke konci pachtovního roku); § 2341 (přiměřené použití úpravy nájmu); § 2342—2344 (inventář, jeho obnova a zástavní právo).
+- *Související ustanovení téhož zákona:* § 2332 (definice pachtu), § 2215—2216 (analogicky k podnájmu a odpovědnosti), § 2345 a násl. (zemědělský pacht).
+- *Související předpisy:* —
+- *Judikatura:* NS 25 Cdo 3967/2019 (pacht pozemku/rybníku, náhrada škody, myslivost); NS 26 Cdo 3498/2023 (pacht, výklad projevu vůle).
+
+**4. Subsumpce.** Další propachtování rybníku třetí osobě a změna hospodářského určení (chov ryb → koupaliště) bez souhlasu propachtovatele naplňují § 2334 → propachtovatel může vypovědět pacht bez výpovědní doby. Současně pokles výnosu pod polovinu obvyklého z důvodu neodstraněné vady (hráze) zakládá pachtýři právo na slevu z pachtovného dle § 2337 odst. 1; je-li požívání zásadně znemožněno, i prominutí nebo výpověď bez výpovědní doby (odst. 2). Inventář (výpust, sádky) musí pachtýř zachovat a obnovovat (§ 2342).
+
+**5. Řešení.** Práva obou stran běží paralelně: propachtovatel má důvod k výpovědi bez výpovědní doby (§ 2334), pachtýř má nárok na slevu z pachtovného za období poklesu výnosu (§ 2337). Při skončení pachtu se vypořádá inventář (§ 2343); pro pohledávky pachtýře vázne na inventáři zástavní právo (§ 2344). Důkazně: doklad o (ne)souhlasu se změnou, podklady o výnosech a vadě, soupis a stav inventáře.
+
+**6. Varianty.** (a) Kdyby propachtovatel s dalším propachtováním i změnou hospodaření souhlasil, výpovědní důvod dle § 2334 by odpadl. (b) Kdyby pokles výnosu způsobil sám pachtýř špatným hospodařením, právo na slevu dle § 2337 by mu nevzniklo (vada není na straně propachtovatele).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „mohu hospodařit, jak uznám za vhodné".* Změna hospodářského určení či způsobu užívání bez souhlasu propachtovatele zakládá výpověď bez výpovědní doby (§ 2334).
+- *Protiargument „sleva nenáleží, dokud výnos zcela neodpadne".* Postačí pokles pod polovinu obvyklého výnosu z neodstraněné vady (§ 2337 odst. 1).
+- *Slabé místo:* prokázání „obvyklého výnosu" a jeho poklesu pod polovinu vyžaduje hospodářské/znalecké podklady; spor o příčinu poklesu (vada vs. hospodaření pachtýře) bývá zásadní.
+
+#### H. Praktický závěr
+
+Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále propachtovat ani měnit hospodářské určení (jinak výpověď bez výpovědní doby, § 2334). Při poklesu výnosu pod polovinu z neodstraněné vady má právo na slevu, popř. prominutí pachtovného či výpověď (§ 2337). Inventář se zachovává a při skončení vypořádává (§ 2342—2344).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nedošlo k dalšímu propachtování/změně hospodaření bez souhlasu (§ 2334)?
+- [ ] Klesl výnos pod polovinu obvyklého z důvodu neodstraněné vady (§ 2337)?
+- [ ] Pečuje pachtýř o věc i inventář jako řádný hospodář (§ 2336, § 2342)?
+- [ ] Je při skončení vypořádán inventář a zohledněno zástavní právo (§ 2343—2344)?
+
+**Typicky rozhodné důkazy / podklady:** pachtovní smlouva a (ne)souhlas se změnou, podklady o výnosech a o vadě, soupis a stav inventáře, znalecké posouzení obvyklého výnosu a jeho poklesu.
+
+---
+
 ### Pododdíl 2 — Zemědělský pacht (§ 2345—2348)
 
 **Zemědělský pacht** (*pachtus rusticus*) — speciální úprava pro:
@@ -1108,6 +1906,44 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 - *NS* [23 Cdo 2495/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/261027562D8E55A8C1258948001DFF37?openDocument) — *Licence Pacht závodu (o. z.)*
   > „Předmětem pachtu závodu nemůže být podle § 2349 a násl. o. z. ani právo nezapsaného označení podle § 10 odst. 2 zákona o ochranných známkách, neboť to vylučuje povaha tohoto práva."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník zavedené restaurace (obchodní závod) ji propachtuje provozovateli na 5 let; ten ji bude provozovat vlastním jménem a inkasovat zisk. Strany řeší, komu zůstanou dosavadní dluhy a pohledávky závodu, zda lze propachtovat i licenci k provozování (franšíza) a zda je nutná zvláštní forma smlouvy.
+
+**2. Právní otázka.** Co je předmětem pachtu závodu podle § 2349, jaké jsou jeho meze (zejména u práv duševního vlastnictví) a jaké je postavení pachtýře vůči provozu závodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2349 (pachtovní smlouvou o pachtu závodu se propachtovatel zavazuje přenechat pachtýři závod nebo jeho část k užívání a požívání a pachtýř se zavazuje platit pachtovné).
+- *Související ustanovení téhož zákona:* § 502 (obchodní závod jako hromadná věc), § 2351 (zákaz převodu některých práv duševního vlastnictví), § 2352 (přechod pohledávek a dluhů na pachtýře), § 2350 (nabytí práva k závodu), § 2357 (pacht části závodu); § 2332 (obecná definice pachtu).
+- *Související předpisy:* zákon č. 90/2012 Sb. (ZOK — obchodní rejstřík); zákon č. 262/2006 Sb., zákoník práce, § 338 (přechod práv a povinností z pracovněprávních vztahů).
+- *Judikatura:* NS 23 Cdo 2495/2022 (předmětem pachtu závodu nemůže být právo nezapsaného označení dle § 10 odst. 2 zákona o ochranných známkách, vylučuje-li to povaha práva).
+
+**4. Subsumpce.** Restaurace je obchodní závod (§ 502) — organizovaný soubor jmění; lze ji propachtovat dle § 2349. Pachtýř ji bude provozovat vlastním jménem a brát výnosy (užívání + požívání). Pohledávky a dluhy související s provozem přejdou na pachtýře v rozsahu § 2352 (dluhy jen ty, o nichž věděl či musel předpokládat). Některá práva duševního vlastnictví (např. právo nezapsaného označení) nelze pachtem převést, vylučuje-li to jejich povaha nebo licenční smlouva (§ 2351; NS 23 Cdo 2495/2022).
+
+**5. Řešení.** Pacht závodu je přípustný; pachtýř provozuje restauraci vlastním jménem, na svůj zisk. Dluhy/pohledávky se řeší dle § 2352 (nikoli automaticky všechny). Franšízovou licenci lze propachtovat jen v mezích § 2351 a podle podmínek poskytovatele licence. Zaměstnanci přecházejí dle § 338 ZP. Důkazně: smlouva, soupis závodu (zápis dle § 2353), licenční podmínky, účetní evidence dluhů a pohledávek.
+
+**6. Varianty.** (a) Kdyby šlo o **koupi** závodu, přešly by na nabyvatele i závazky v širším rozsahu a trvale (na rozdíl od pachtu, kde se po skončení vracejí — § 2355). (b) Kdyby byla propachtována jen samostatná organizační složka, použila by se úprava obdobně (§ 2357).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pachtem získám i všechna práva duševního vlastnictví".* § 2351 přechod některých práv zapovídá (povaha práva, licenční smlouva); viz nezapsané označení (NS 23 Cdo 2495/2022).
+- *Protiargument „pacht závodu je totéž co jeho koupě".* U pachtu závazky i závod po skončení přecházejí zpět na propachtovatele (§ 2355); nejde o trvalý převod.
+- *Slabé místo:* vymezení rozsahu závodu a okruhu přecházejících dluhů/pohledávek je sporné; bez pečlivého soupisu (§ 2353) hrozí nejistota o tom, co bylo propachtováno.
+
+#### H. Praktický závěr
+
+Pacht závodu (§ 2349) přenechává obchodní závod (§ 502) pachtýři k provozu vlastním jménem a braní výnosů za pachtovné; po skončení se závod i závazky vracejí propachtovateli. Některá práva duševního vlastnictví pachtem převést nelze (§ 2351). Doporučuje se pečlivý soupis předmětu pachtu a ošetření licencí a zaměstnanců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předmětem obchodní závod nebo jeho samostatná část (§ 2349, § 502, § 2357)?
+- [ ] Která práva duševního vlastnictví nelze pachtem převést (§ 2351)?
+- [ ] Je vymezen rozsah přecházejících pohledávek a dluhů (§ 2352)?
+- [ ] Je ošetřen přechod zaměstnanců (§ 338 ZP) a nabytí práva k závodu (§ 2350)?
+
+**Typicky rozhodné důkazy / podklady:** pachtovní smlouva o pachtu závodu, soupis závodu (§ 2353), licenční smlouvy a podmínky poskytovatelů, účetní evidence pohledávek a dluhů, doklady o zaměstnancích.
+
+---
 
 ### § 2350—2357 — Procesní rámec
 
@@ -1165,6 +2001,42 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - *OS v Karviné, pobočka Havířov* [106 C 329/2020-49](https://rozhodnuti.justice.cz/rozhodnuti/?id=cc3863df-20d2-4477-8117-0e254304d06f) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, poučovací povinnost soudu,…*
 - *KS v Ostravě, pobočka Olomouc* [69 CO 251/2022-153](https://rozhodnuti.justice.cz/rozhodnuti/?id=828812d0-445a-466d-8f22-3551dcbdf96f) — *odstoupení od smlouvy, odstupné, peněžité plnění, smlouva o zájezdu*
 - *OS v Karviné* [115 C 195/2024-223](https://rozhodnuti.justice.cz/rozhodnuti/?id=20c58ec5-75a1-467e-a52c-e52e5e7471e8) — *příspěvek na bydlení, jízdné*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Po propachtování zavedeného hotelu (závodu) propachtovatel neoznámí věřitelům ani dlužníkům, že závod propachtoval. Jeden z dodavatelů, jehož pohledávka pachtem přešla na pachtýře, namítá, že o pachtu nevěděl a že se mu pachtem zhoršila dobytnost pohledávky. Po pěti letech pacht skončí a řeší se zpětný přechod závazků a pohledávek na propachtovatele.
+
+**2. Právní otázka.** Kdy nabývá pachtýř právo k závodu a kdy jsou vznik/zánik pachtu účinné vůči třetím osobám; jakou ochranu má věřitel, jemuž se pachtem zhoršila dobytnost pohledávky, a jak proběhne zpětný přechod závazků po skončení pachtu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2350 (nabytí práva k závodu — u osob zapsaných v rejstříku zveřejněním údaje o uložení dokladu do sbírky listin, jinak účinností smlouvy); § 2352 (přechod pohledávek a dluhů na pachtýře, ručení propachtovatele bez souhlasu věřitele); § 2353 (zápis o předání závodu); § 2354 (relativní neúčinnost pachtu vůči nesouhlasícímu věřiteli při zhoršení dobytnosti, lhůty); § 2355 (zpětný přechod pohledávek a dluhů na propachtovatele při zániku pachtu); § 2356 (účinnost vzniku/zániku vůči třetím osobám zveřejněním); § 2357 (pacht části závodu obdobně).
+- *Související ustanovení téhož zákona:* § 2349 (definice pachtu závodu), § 2351 (omezení práv duševního vlastnictví), § 1880 a násl. (převzetí dluhu), § 1879 a násl. (postoupení pohledávky).
+- *Související předpisy:* zákon č. 90/2012 Sb. (rejstřík, sbírka listin); zákoník práce, § 338 (přechod zaměstnanců).
+- *Judikatura:* NS 23 Cdo 2495/2022 (meze pachtu závodu u práv duševního vlastnictví) — k systematice § 2349 a násl.
+
+**4. Subsumpce.** Je-li pachtýř zapsán v rejstříku, nabývá právo k závodu až zveřejněním údaje o uložení dokladu do sbírky listin (§ 2350 odst. 1). Pohledávky a dluhy přešly na pachtýře (§ 2352); chybějící oznámení věřitelům (odst. 2) nezpůsobuje, že by přechod nenastal, avšak vůči třetím osobám jsou skutečnosti účinné až zveřejněním (§ 2356). Věřitel, jemuž se pachtem zhoršila dobytnost a který s pachtem nesouhlasil, se může dovolat relativní neúčinnosti pachtu (§ 2354) v zákonných lhůtách (1 měsíc od zjištění, max. 3 měsíce od účinnosti). Při zániku pachtu přejdou závazky a pohledávky zpět na propachtovatele (§ 2355).
+
+**5. Řešení.** Dodavatel může buď akceptovat pachtýře jako nového dlužníka (s ručením propachtovatele, nedal-li souhlas — § 2352), nebo se při zhoršení dobytnosti dovolat neúčinnosti pachtu vůči sobě (§ 2354), avšak jen ve striktních lhůtách. Po skončení pachtu se vztahy vrátí na propachtovatele (§ 2355) s oznamovací povinností pachtýře. Důkazně: doklad o zveřejnění/uložení do sbírky listin, oznámení věřitelům, podklady o zhoršení dobytnosti, zápis o předání závodu.
+
+**6. Varianty.** (a) Kdyby pachtýř nebyl zapsán v rejstříku, nabyl by právo k závodu již účinností smlouvy (§ 2350 odst. 2). (b) Kdyby věřitel lhůty dle § 2354 zmeškal, právo dovolat se neúčinnosti by zaniklo a byl by vázán přechodem dluhu na pachtýře.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „o pachtu jsem nevěděl, přechod se mě netýká".* Přechod nastal dle § 2352; vůči třetím je účinný zveřejněním (§ 2356), a věřitel má jen cestu relativní neúčinnosti dle § 2354 v krátkých lhůtách.
+- *Protiargument „po skončení pachtu zůstávají dluhy na pachtýři".* § 2355 stanoví zpětný přechod pohledávek a dluhů na propachtovatele (s ručením pachtýře bez souhlasu věřitele).
+- *Slabé místo:* lhůty dle § 2354 jsou krátké a propadné; prokázání „zhoršení dobytnosti" a okamžiku, kdy se věřitel o pachtu dozvěděl, bývá sporné.
+
+#### H. Praktický závěr
+
+Pachtýř nabývá právo k závodu zveřejněním (je-li zapsán v rejstříku), jinak účinností smlouvy; pohledávky a dluhy přecházejí dle § 2352 a po skončení pachtu zpět na propachtovatele (§ 2355). Vůči třetím osobám jsou vznik a zánik pachtu účinné zveřejněním (§ 2356); nesouhlasící věřitel se může při zhoršení dobytnosti dovolat neúčinnosti pachtu jen v krátkých lhůtách (§ 2354).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdy nabyl pachtýř právo k závodu — zveřejněním, či účinností smlouvy (§ 2350)?
+- [ ] Byli věřitelé a dlužníci o pachtu/zániku oznámeni (§ 2352 odst. 2, § 2355 odst. 2)?
+- [ ] Hrozí dovolání se neúčinnosti pachtu věřitelem (§ 2354) — běží lhůty?
+- [ ] Je pořízen zápis o předání/vrácení závodu a vymezen rozsah přecházejících závazků (§ 2353, § 2355)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o uložení do sbírky listin a zveřejnění, oznámení věřitelům a dlužníkům, zápis o předání závodu, účetní evidence pohledávek a dluhů, podklady o (zhoršení) dobytnosti pohledávky.
 
 ---
 

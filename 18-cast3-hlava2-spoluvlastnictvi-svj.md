@@ -48,6 +48,45 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [22 Cdo 1495/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1679A283872E6A6C1258D480052C123?openDocument) — *Vydržení Řádné vydržení (o. z.) Mimořádné vydržení (o. z.)*
   > „Podle § 1091 odst. 2 o. z. k vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** A užívá od roku 2012 jako vlastník zahradu (pozemek), kterou fakticky drží, kosí, oplotil a platí z ní daň; v katastru je však stále veden původní vlastník B (resp. jeho dědicové). V roce 2023 se objeví dědic B a žádá vydání pozemku. Důkazy: výpovědi sousedů o nepřetržité držbě, fotografie oplocení, doklady o platbě daně z nemovitosti, znalecký nákres hranic.
+
+**2. Právní otázka.** Vydržel A vlastnické právo k pozemku podle § 1091 odst. 2 o. z., tj. uplynula nepřerušená desetiletá držba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1091 odst. 2 — k vydržení nemovité věci je třeba nepřerušená držba trvající **deset let**.
+- *Související ustanovení téhož zákona:* § 1090 (řádný titul a poctivá držba jako podmínka řádného vydržení), § 992 (poctivá držba), § 1092 (započtení doby předchůdce), § 1093 (přerušení), § 1095 (mimořádné vydržení jako záchrana, není-li titul).
+- *Související předpisy:* zák. č. 256/2013 Sb., o katastru nemovitostí (zápis vlastnictví na základě vydržení); § 985 o. z. (žaloba na zápis).
+- *Judikatura:* NS 22 Cdo 205/2024 a 22 Cdo 3680/2023 — opakovaně potvrzují desetiletou lhůtu u nemovitostí; NS 22 Cdo 2721/2024 — k započtení doby poctivého předchůdce v rámci desetileté lhůty.
+
+**4. Subsumpce.** Splněno: nemovitá věc, faktická a poctivá držba (A se důvodně domníval, že je vlastníkem), nepřetržitost přes 10 let. Sporné: zda byla držba poctivá od počátku (znal A vadu titulu?) a zda nedošlo k přerušení (např. roční přerušení výkonu — § 1093). Pokud A neměl žádný titul, řádné vydržení dle § 1091 selže a nastupuje § 1095 (20 let).
+
+**5. Řešení.** Je-li držba poctivá a s domnělým řádným titulem, vlastnictví A vydržením vzniklo k roku 2022 ex lege; A se brání určovací žalobou nebo žalobou na zápis. Procesně: A musí prokázat počátek a kontinuitu držby; břemeno poctivosti svědčí A (domněnka § 992), nepoctivost prokazuje B. Riziko: nedoložení počátku běhu lhůty.
+
+**6. Varianty.** (a) Pokud A nemovitost fakticky neužíval déle než jeden rok (§ 1093), držba se přerušila a lhůta běží znovu — nevydržel. (b) Pokud A o vadě titulu od počátku věděl (nepoctivá držba), řádné vydržení je vyloučeno a přichází v úvahu jen mimořádné vydržení (20 let, § 1095).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka přerušení držby** (B tvrdí, že A pozemek rok neobhospodařoval): neutralizace průběžnými důkazy užívání (faktury za sečení, svědci) pokrývajícími celé období.
+- **Námitka nepoctivosti od počátku** (A znal hraniční spor): poctivost se presumuje (§ 992), B nese důkazní břemeno; oslabit lze doložením, že A jednal v dobré víře v rozsah své držby.
+- **Slabé místo:** přesné určení dne počátku běhu lhůty — bez něj nelze postavit najisto uplynutí 10 let; chybí-li listinný titul, hrozí překlopení do dvojnásobné lhůty dle § 1095.
+
+#### H. Praktický závěr
+
+U nemovitostí je vydržecí lhůta deset let, u movitých věcí tři roky; rozhodující je nepřetržitá poctivá držba. Před investicí do sporu vždy ověř, zda neuplyne raději pohodlnější mimořádná lhůta (§ 1095) a zda nedošlo k přerušení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc movitou (3 roky) nebo nemovitou (10 let)?
+- [ ] Je doložen počátek běhu lhůty a její nepřetržitost?
+- [ ] Nedošlo k přerušení držby (nevýkon déle než 1 rok — § 1093)?
+- [ ] Je držba poctivá; existuje řádný titul (jinak § 1095)?
+- [ ] Lze započíst dobu předchůdce (§ 1092)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o nepřetržitém užívání (faktury, fotografie, svědci), nabývací titul (i vadný), výpis z katastru, znalecký nákres hranic, doklady o úhradě daně.
+
+---
+
 ### § 1092—1094 — Započtení, přerušení, ochrana
 
 **§ 1092**:
@@ -74,6 +113,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [22 Cdo 4440/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042E7ACD5F089816C1258440002E7E8C?openDocument) — *Držba Držba (o. z.)*
 - *NS* [24 Cdo 2532/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9DE019819B2328FEC1258C0300529D57?openDocument) — *Dědic zákonný Vydržení Promlčení Věc Pohledávka Dědické právo (právo na pozůstalost) (o.…*
   > „Trvá-li tedy například vydržecí doba u nemovité věci deset let a zcizil-li by neoprávněný dědic za úplatu nemovitou věc (za podmínek uvedených v ustanovení § 984 odst. 1 o."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Otec C držel poctivě a s řádným titulem pozemek od roku 2010 do své smrti v roce 2018 (8 let). Dědic D převzal držbu a pokračuje v ní do roku 2020. Soused E mezitím v roce 2019 namítá, že pozemek dva roky nikdo neobhospodařoval. Důkazy: dědické rozhodnutí, doklady o užívání před i po smrti C, svědectví o stavu pozemku v období 2018—2019.
+
+**2. Právní otázka.** Může si D započíst osmiletou držbu zůstavitele C podle § 1092 a došlo mezitím k přerušení podle § 1093?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1092 (započtení doby řádné a poctivé držby předchůdce), § 1093 (přerušení nevýkonem déle než 1 rok), § 1094 (ochrana zastoupeného — běh lhůty až po jmenování zástupce/opatrovníka).
+- *Související ustanovení téhož zákona:* § 1091 (délka lhůty), § 1095—1096 (započtení u mimořádného vydržení), § 1098 (stavění mezi vymezenými osobami).
+- *Související předpisy:* § 646 o. z. (analogie stavění promlčení), předpisy o dědickém řízení (přechod držby na dědice).
+- *Judikatura:* NS 22 Cdo 2721/2024 — výslovně k započtení doby řádné a poctivé držby právní předchůdkyně do desetileté lhůty; NS 24 Cdo 2532/2024 — souvislost vydržení a dědického nástupnictví.
+
+**4. Subsumpce.** Splněno: D je univerzálním nástupcem C, držba C byla řádná a poctivá → započtení podle § 1092 (8 + 2 = 10 let). Sporné: zda v období 2018—2019 nedošlo k nevýkonu držby déle než rok (§ 1093); pokud ano, lhůta se přerušila a běží od počátku.
+
+**5. Řešení.** Při kontinuitě výkonu D vydržel k roku 2020 (započtením). Procesně musí D doložit jak vlastní držbu, tak řádnou a poctivou držbu C a nepřerušený výkon i v přechodném období po úmrtí. Riziko: mezera ve výkonu po smrti zůstavitele, než se dědic ujme držby.
+
+**6. Varianty.** (a) Byl-li D v rozhodné době nezletilý bez zákonného zástupce, uplatní se § 1094 — lhůta proti němu běží až po získání zástupce a neskončí dříve než rok po odpadnutí překážky. (b) Byla-li držba C nepoctivá, započtení podle § 1092 (které vyžaduje řádnou a poctivou držbu předchůdce) selže.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka přerušení (§ 1093)** v období mezi úmrtím a převzetím držby dědicem: neutralizovat doložením faktického užívání pozůstalostním správcem či dědicem bez přerušení delšího než rok.
+- **Námitka, že držba předchůdce nebyla řádná a poctivá** (a proto se nezapočítává): § 1092 vyžaduje obojí; obrana spočívá v doložení titulu i dobré víry zůstavitele.
+- **Slabé místo:** přechodné období po smrti zůstavitele je důkazně nejrizikovější — chybějící doklady o výkonu držby mohou zlomit kontinuitu.
+
+#### H. Praktický závěr
+
+Dobu poctivé a řádné držby předchůdce lze započíst (§ 1092), ale jen pokud nedošlo k přerušení nevýkonem delším než jeden rok (§ 1093); u osob vyžadujících zástupce lhůta neběží, dokud ho nezískají (§ 1094).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla držba předchůdce řádná i poctivá (podmínka započtení)?
+- [ ] Je doložena nepřetržitost přes přechod držby na nástupce?
+- [ ] Nenastal nevýkon delší než 1 rok (přerušení dle § 1093)?
+- [ ] Šlo o osobu vyžadující zástupce/opatrovníka (§ 1094)?
+
+**Typicky rozhodné důkazy / podklady:** dědické/nabývací listiny, doklady o nepřetržitém výkonu držby předchůdce i nástupce, důkazy o stavu věci v přechodném období, doklady o jmenování zástupce/opatrovníka.
+
+---
 
 ### § 1095 — Mimořádné vydržení
 
@@ -108,6 +185,45 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [22 Cdo 226/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F20737744278DE86C1258C4C0052AF72?openDocument) — *Přípustnost dovolání Vady podání Služebnost (o. z.) Mimořádné vydržení (o. z.)*
   > „Nad rámec uvedeného se Nejvyšší soud zabýval otázkou mimořádného vydržení práva odpovídajícího služebnosti ve smyslu § 1095 zákona č. 89/2012 Sb., občanský zákoník, (dále jen „o. z.“)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodina F užívá jako vlastník pozemek od roku 2000, hospodaří na něm, stavěla na něm a oplotila ho. Nikdy však neexistovala žádná nabývací smlouva (pozemek byl v 50. letech zkonfiskován, restituční vztahy nevyřešeny). V roce 2023 stát (resp. pozemkový úřad) zpochybní vlastnictví. Důkazy: svědectví o nepřetržité držbě od roku 2000, historické letecké snímky, doklady o platbě daně, absence jakéhokoli titulu.
+
+**2. Právní otázka.** Vydržela rodina F vlastnictví mimořádným vydržením podle § 1095, ačkoli nemůže prokázat právní důvod držby, a nebrání tomu nepoctivý úmysl?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1095 — uplyne-li dvojnásobná lhůta (movitá 6 let, nemovitá **20 let**), vydrží držitel i bez prokázání titulu, neprokáže-li se nepoctivý úmysl.
+- *Související ustanovení téhož zákona:* § 1091 (základní lhůty, jejichž dvojnásobek se vyžaduje), § 1096 odst. 2 (započtení doby předchůdce bez dalšího), § 992 (poctivost) vs. „nepoctivý úmysl" jako odlišná kategorie, § 6 (poctivost v právním styku).
+- *Související předpisy:* restituční předpisy; zák. č. 256/2013 Sb. (zápis); zák. č. 503/2012 Sb. (Státní pozemkový úřad).
+- *Judikatura:* NS 22 Cdo 3387/2021 — podmínkou mimořádného vydržení není poctivá držba ani oprávněná držba, nýbrž **nedostatek nepoctivého úmyslu**; NS 22 Cdo 3258/2025 a 22 ICdo 15/2026 — odlišení poctivé držby (§ 992) od nepoctivého úmyslu (§ 1095); NS 22 Cdo 191/2025 a 22 Cdo 2572/2025 — citace a aplikace § 1095.
+
+**4. Subsumpce.** Splněno: nemovitá věc, držba přes 20 let (2000—2020+), absence titulu nevadí. Sporné: existence nepoctivého úmyslu — pokud F věděla, že pozemek patří jinému a přesto se ho zmocnila se záměrem připravit vlastníka, je vydržení vyloučeno; břemeno prokázání nepoctivosti nese ten, kdo brání vydržení (stát).
+
+**5. Řešení.** Při uplynutí 20 let a neprokázání nepoctivého úmyslu F vydržela. Procesně: F se domáhá určení vlastnictví / zápisu; stát musí prokázat nepoctivý úmysl (vyšší práh než pouhá vědomost o cizím právu). Riziko: aktuální judikatura (NS 22 Cdo 3258/2025) zkoumá, zda pozdější zjištění o cizím vlastníku v průběhu lhůty může nepoctivý úmysl založit.
+
+**6. Varianty.** (a) Prokáže-li stát, že se F pozemku chopila vědomě protiprávně se záměrem poškodit vlastníka, mimořádné vydržení je vyloučeno. (b) Trvala-li držba jen 15 let, řádné (10 let) by selhalo pro absenci titulu a mimořádné (20 let) by ještě nedoběhlo — F nevydržela.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka nepoctivého úmyslu** (stát tvrdí, že F se zmocnila pozemku vědomě cizího): neutralizovat tím, že nepoctivý úmysl je užší než pouhá vědomost; rozhodující je morální kvalita jednání při nabytí a výkonu držby (NS 22 Cdo 3387/2021).
+- **Námitka záměny poctivé držby a nepoctivého úmyslu:** zdůraznit, že § 1095 nevyžaduje poctivou držbu (§ 992) — žalobce nemusí prokazovat poctivost, postačí absence prokázaného nepoctivého úmyslu.
+- **Slabé místo:** doložení nepřetržité dvacetileté držby zpětně a otevřená otázka vlivu pozdějšího zjištění o vlastníkovi na úmysl (řešená judikatura 2025).
+
+#### H. Praktický závěr
+
+Mimořádné vydržení (§ 1095) je hlavní cestou k legalizaci držby pozemků s nejistým titulem: u nemovitostí 20 let, u movitých 6 let, bez nutnosti prokazovat právní důvod. Brání mu jen prokázaný nepoctivý úmysl, který dokazuje protistrana.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplynula dvojnásobná lhůta (6 / 20 let)?
+- [ ] Je držba nepřetržitá po celou dobu?
+- [ ] Netvrdí a neprokazuje protistrana nepoctivý úmysl?
+- [ ] Nezaměňuje se nepoctivý úmysl (§ 1095) s poctivou držbou (§ 992)?
+- [ ] Lze započíst dobu předchůdce (§ 1096 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** důkazy o nepřetržité dvacetileté držbě (letecké snímky, svědci, daňové doklady), okolnosti nabytí držby (k vyvrácení nepoctivého úmyslu), historie titulu/konfiskace.
+
+---
+
 ### § 1096—1098 — Specifika
 
 **§ 1096**:
@@ -131,6 +247,42 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
   > „Podle § 1096 odst. 2 o. z. při mimořádném vydržení se nástupci započte vydržecí doba poctivého předchůdce bez dalšího."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Manželé G a H žijí ve společné domácnosti a G drží poctivě s řádným titulem chatu od roku 2018. V roce 2020 se vezmou. Současně syn G (nezletilý, jehož je G zákonným zástupcem) by jinak držel sousední pozemek vůči G. Důkazy: oddací list, doklady o trvání společné domácnosti, držební doklady.
+
+**2. Právní otázka.** Běží vůči G vydržecí lhůta po dobu manželství a soužití ve společné domácnosti (§ 1098) a může zákonný zástupce vydržet proti zastoupenému (§ 1097)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1096 (započtení doby poctivého předchůdce s řádným titulem; u mimořádného bez dalšího), § 1097 (zákaz vydržení mezi zástupcem a zastoupeným, opatrovníkem/opatrovancem, poručníkem/poručencem), § 1098 (stavění lhůty mezi manžely, ve společné domácnosti a uvedenými dvojicemi).
+- *Související ustanovení téhož zákona:* § 1091 (lhůty), § 1092—1093 (započtení, přerušení), § 646 (stavění promlčení — paralela).
+- *Související předpisy:* ustanovení o manželství a SJM (§ 655 a násl. o. z.), o zastoupení a opatrovnictví (§ 457 a násl. o. z.).
+- *Judikatura:* NS 22 Cdo 205/2024 — výslovně k § 1096 odst. 2 (u mimořádného vydržení se nástupci započte doba poctivého předchůdce bez dalšího).
+
+**4. Subsumpce.** § 1098: po uzavření manželství v roce 2020 vydržecí doba mezi G a H neběží (staví se), dokud manželství trvá; totéž platí ve společné domácnosti. § 1097: G jako zákonný zástupce nemůže vydržet proti svému nezletilému zastoupenému, ani naopak. Sporné: zda byla v rozhodné době naplněna „společná domácnost" před manželstvím.
+
+**5. Řešení.** Vydržení vůči manželu/zastoupenému je blokováno (§ 1097, 1098); čas strávený v těchto vztazích se do lhůty nezapočítává. U mimořádného vydržení vůči třetím osobám však platí § 1096 odst. 2 (započtení doby poctivého předchůdce bez dalšího). Procesně je nutné vymezit, vůči komu vydržení směřuje.
+
+**6. Varianty.** (a) Po rozvodu manželství stavění odpadá a lhůta vůči bývalému manželu opět běží (s pravidlem, že již započatá běží dál). (b) Pokud by G držel vůči zcela cizí osobě (ne manželu, ne zastoupenému), § 1097 ani 1098 se neuplatní a vydržení běží normálně.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že soužití nebylo „společnou domácností"** (a lhůta tedy běžela): neutralizovat doklady o trvalém spolužití a sdílení nákladů; jinak hrozí, že stavění nenastalo.
+- **Námitka obcházení § 1097** převodem na třetí osobu a zpětným nabytím: § 1097 je anti-fraud klauzule; soud zkoumá účelovost.
+- **Slabé místo:** přesné určení počátku a konce stavění (vznik/zánik manželství, společné domácnosti) — bez něj nelze spolehlivě spočítat zbývající běh lhůty.
+
+#### H. Praktický závěr
+
+Mezi manžely, ve společné domácnosti a mezi zástupcem a zastoupeným (opatrovníkem/opatrovancem, poručníkem/poručencem) vydržecí lhůta neběží (§ 1098) a vydržení je zde vyloučeno (§ 1097); poctivému nástupci s řádným titulem se započte doba předchůdce (§ 1096).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vůči komu vydržení směřuje — není to manžel/zastoupený/opatrovanec/poručenec?
+- [ ] Trvá vztah zakládající stavění lhůty (§ 1098)?
+- [ ] Lze započíst dobu předchůdce dle § 1096 (řádné × mimořádné)?
+- [ ] Je vymezen počátek a konec stavění?
+
+**Typicky rozhodné důkazy / podklady:** oddací list, doklady o společné domácnosti, listiny o zastoupení/opatrovnictví/poručenství, držební a titulní listiny předchůdce.
+
 ---
 
 ## Převod vlastnického práva (§ 1099—1108)
@@ -153,6 +305,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 - *ÚS* [III. ÚS 51/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-51-23_1) — usnesení, 28. 2. 2023
   > „Co se týče osobního automobilu, samotná skutečnost, že nedošlo k jeho přepsání v registru, nemůže mít žádný následek na posouzení vlastnictví, neboť podle § 1099 zákona č. 89/2012 Sb., občanský zákoník, dochází k nabytí vlastnictví v okamžiku účinnosti kupní smlouvy."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** I prodá J ojetý automobil kupní smlouvou s účinností 1. 3.; vůz fyzicky předá až 10. 3. a do registru vozidel se přepis provede teprve 20. 3. Mezitím (15. 3.) je proti I nařízena exekuce a exekutor chce vůz zahrnout do majetku I. Důkazy: datovaná kupní smlouva, předávací protokol, doklad o platbě.
+
+**2. Právní otázka.** Kdy J nabyl vlastnické právo k automobilu — okamžikem účinnosti smlouvy (1. 3.), předáním (10. 3.), nebo přepisem v registru (20. 3.)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1099 — vlastnické právo k věci určené jednotlivě se převádí **už samotnou smlouvou** k okamžiku její účinnosti, není-li ujednáno/stanoveno jinak (konsenzuální princip).
+- *Související ustanovení téhož zákona:* § 1100 (postupný převod), § 1101 (druhové věci), § 1102 (movité věci zapsané ve veřejném seznamu), § 1105 (nemovitosti), § 2079 a násl. (kupní smlouva).
+- *Související předpisy:* zák. č. 56/2001 Sb. — registr vozidel je evidenční, nikoli konstitutivní pro vlastnictví; OSŘ/exekuční řád (vylučovací žaloba § 267 OSŘ).
+- *Judikatura:* ÚS III. ÚS 51/23 — samotná absence přepisu v registru vozidel nemá vliv na vlastnictví, neboť dle § 1099 se vlastnictví nabývá okamžikem účinnosti kupní smlouvy.
+
+**4. Subsumpce.** Automobil je věc určená jednotlivě a není věcí zapsanou ve veřejném seznamu ve smyslu § 1102 (registr vozidel je pouze evidenční). Vlastnictví tedy přešlo na J již 1. 3. (účinnost smlouvy). Exekuce nařízená 15. 3. postihuje věc, která už nebyla v majetku I.
+
+**5. Řešení.** J je vlastníkem od 1. 3.; proti exekuci se brání vylučovací (excindační) žalobou podle § 267 OSŘ s doložením datované smlouvy. Riziko: účelové antedatování smlouvy — soud zkoumá věrohodnost data; pomáhá předávací protokol a doklad o platbě s prokazatelným datem.
+
+**6. Varianty.** (a) Pokud si strany ujednaly výhradu vlastnictví do zaplacení (§ 2132), vlastnictví na J přejde až úhradou a do té doby vůz spadá do majetku I. (b) Šlo-li by o nemovitost (§ 1105), rozhodoval by konstitutivní vklad do katastru, nikoli účinnost smlouvy.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že rozhoduje přepis v registru vozidel:** vyvrátit odkazem na ÚS III. ÚS 51/23 a § 1102 — registr vozidel není veřejným seznamem s konstitutivními účinky.
+- **Námitka antedatování smlouvy** ze strany věřitele: neutralizovat objektivně datovatelnými důkazy (bankovní platba, předávací protokol, e-mailová komunikace).
+- **Slabé místo:** je-li ujednána odkládací podmínka či výhrada vlastnictví, konsenzuální princip se prolomí; je třeba pečlivě číst smlouvu.
+
+#### H. Praktický závěr
+
+U věcí určených jednotlivě (mimo nemovitosti a věci v pravém veřejném seznamu) přechází vlastnictví už účinností smlouvy, nikoli předáním či evidenčním přepisem. Pro ochranu kupujícího je klíčové prokazatelné datum smlouvy a absence výhrady vlastnictví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc určenou jednotlivě (§ 1099) nebo druhově (§ 1101)?
+- [ ] Není věc v pravém veřejném seznamu (nemovitost § 1105, věc § 1102)?
+- [ ] Není ujednána výhrada vlastnictví / odkládací podmínka?
+- [ ] Je prokazatelné datum účinnosti smlouvy?
+
+**Typicky rozhodné důkazy / podklady:** datovaná kupní/darovací smlouva, předávací protokol, doklad o platbě, výpis z evidence (vozidla, je-li relevantní jako důkaz o stavu).
+
+---
 
 ### § 1100 — Postupný převod různým osobám
 
@@ -178,6 +368,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *KS v Brně* [59 Co 151/2024-68](https://rozhodnuti.justice.cz/rozhodnuti/?id=c3569444-066f-4662-97af-af55f0eed4b1) — *převod vlastnictví, smlouva kupní, smlouva darovací, převod nemovitostí*
 - *OS v Uherském Hradišti* [14 C 243/2023-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=4f3e95f0-2aa0-428f-918d-faed185758fd) — *smlouva kupní, smlouva darovací, veřejný rejstřík*
 - *OS v Benešově* [12 C 136/2022-88](https://rozhodnuti.justice.cz/rozhodnuti/?id=58d837d0-c9d1-4882-8253-672090db21e7) — *peněžité plnění, služebnost, smlouva darovací, spoluvlastnictví, věcná břemena, vzájemné…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Prodávající K prodá tentýž pozemek nejprve L (smlouva 1. 2., L nepodá návrh na vklad), poté M (smlouva 10. 2., M podá návrh na vklad 12. 2. a je zapsán). M o dřívější smlouvě s L nevěděl. Důkazy: obě datované smlouvy, doklad o podání návrhu na vklad, výpis z katastru, okolnosti svědčící o (ne)vědomosti M.
+
+**2. Právní otázka.** Kdo se stal vlastníkem pozemku při dvojím prodeji nemovitosti zapsané ve veřejném seznamu — L (dřívější smlouva), nebo M (dřívější a dobrověrný zápis)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1100 odst. 2 — u věci zapsané ve veřejném seznamu se vlastníkem stane ten, kdo je **v dobré víře a jehož právo bylo zapsáno jako první**, i kdyby jeho právo vzniklo později. (Odst. 1 řeší věci nezapsané: rozhoduje dřívější vydání, jinak dřívější účinnost smlouvy.)
+- *Související ustanovení téhož zákona:* § 1105 (konstitutivní vklad u nemovitostí), § 980—984 (materiální publicita a ochrana dobré víry), § 1099 (konsenzuální princip u movitých jednotlivin).
+- *Související předpisy:* zák. č. 256/2013 Sb., o katastru nemovitostí (řízení o vkladu, prioritní princip).
+- *Judikatura:* rozhodnutí krajských a okresních soudů citovaná u tohoto ustanovení (KS Brno 59 Co 151/2024, KS Ostrava 69 Co 201/2025) k převodu nemovitostí a dvojímu prodeji; obecně NS k materiální publicitě katastru.
+
+**4. Subsumpce.** Pozemek je nemovitost zapsaná v katastru → uplatní se § 1100 odst. 2. M byl v dobré víře a jeho právo bylo zapsáno jako první → M se stal vlastníkem, ačkoli smlouva L byla dřívější. Sporné: dobrá víra M (věděl/musel vědět o smlouvě L?).
+
+**5. Řešení.** M je vlastníkem; L má proti K jen právo na náhradu škody z porušení smlouvy, nikoli vlastnické nároky vůči M. Procesně: prokáže-li L zlou víru M (vědomost o dřívější smlouvě), priorita zápisu M neobstojí a vlastníkem by mohl být L. Riziko spočívá v dokazování dobré/zlé víry.
+
+**6. Varianty.** (a) Šlo-li by o věc movitou nezapsanou (odst. 1), rozhodlo by, komu K věc vydal nejdříve; nebyla-li vydána nikomu, komu byla smlouva uzavřena dříve. (b) Pokud M o dřívější smlouvě prokazatelně věděl, je ve zlé víře a ochrana prvního zápisu mu nesvědčí.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka zlé víry pozdějšího nabyvatele** (M věděl o smlouvě s L): neutralizovat doložením, že M vycházel ze stavu katastru a neměl informace o dřívější smlouvě; břemeno zlé víry nese ten, kdo ji tvrdí.
+- **Námitka záměny režimu** (aplikace pravidla pro movité věci na nemovitost): striktně odlišit odst. 1 (nezapsané) od odst. 2 (zapsané ve veřejném seznamu).
+- **Slabé místo:** dobrá víra je skutkovou otázkou; chybějící důkazy o vědomosti nabyvatele činí výsledek nejistým.
+
+#### H. Praktický závěr
+
+Při dvojím prodeji nemovitosti rozhoduje dobrá víra spojená s prvenstvím zápisu (§ 1100 odst. 2), nikoli pořadí smluv; u movitých věcí nezapsaných rozhoduje dřívější vydání, podpůrně dřívější smlouva. Kupující nemovitosti má neprodleně podat návrh na vklad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc zapsanou ve veřejném seznamu (odst. 2) nebo nezapsanou (odst. 1)?
+- [ ] U nezapsané: komu byla věc vydána nejdříve / s kým uzavřena první smlouva?
+- [ ] U zapsané: kdo byl zapsán jako první a byl v dobré víře?
+- [ ] Existují důkazy o (ne)vědomosti pozdějšího nabyvatele?
+
+**Typicky rozhodné důkazy / podklady:** všechny konkurující smlouvy s daty, doklady o vydání věci, návrhy na vklad a jejich pořadí, výpis z katastru, důkazy o dobré/zlé víře nabyvatele.
+
+---
 
 ### § 1101—1105 — Specifika podle typu věci
 
@@ -230,6 +458,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [24 Cdo 2512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66658A476CEDFE4EC1258BD90052AD07?openDocument) — *Smlouva kupní Pozůstalost (o. z.) Aktiva Převod nemovitostí Závěť*
 - *NS* [24 Cdo 2841/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2868BE19D482C567C12586A900187746?openDocument) — *Smír Odporovatelnost Vklad do katastru nemovitostí Vlastnictví Převod nemovitostí*
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Velkoobchod N prodá maloobchodníkovi O 200 q pšenice „ze skladu" (druhově určené zboží), zaplaceno, ale zboží zůstane prozatím nevyskladněno ve společném silu N s pšenicí jiných odběratelů. Než dojde k oddělení O-podílu, je na sklad N uvalena exekuce. Souběžně podnikatel P koupí investiční certifikát na doručitele. Důkazy: kupní smlouva, dodací list, skladová evidence, doklad o oddělení.
+
+**2. Právní otázka.** Nabyl O vlastnictví k druhově určené pšenici, dokud nebyla oddělena od ostatního zboží (§ 1101), a kdy nabývá vlastník cenného papíru na doručitele (§ 1103)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1101 — druhové movité věci se nabývají nejdříve okamžikem **dostatečného odlišení** od jiných věcí téhož druhu; § 1102 (movité věci v pravém veřejném seznamu — zápisem); § 1103 (cenné papíry: na doručitele předáním, na řad rubopisem a předáním, na jméno smlouvou); § 1104 (zaknihované CP zápisem na účet); § 1105 (nemovitosti vkladem).
+- *Související ustanovení téhož zákona:* § 1099 (konsenzuální princip — od nějž § 1101—1105 stanoví výjimky), § 2085 a násl. (koupě).
+- *Související předpisy:* zák. č. 56/2001 Sb. (vozidla — § 1102); zák. č. 256/2013 Sb. (katastr — § 1105); zák. č. 90/2012 Sb. a zákon o podnikání na kapitálovém trhu (cenné papíry, zaknihování).
+- *Judikatura:* NS 29 Cdo 3082/2022 a 29 Cdo 1678/2020 — k cenným papírům na jméno a na řad; NS 24 Cdo 2841/2020 — vklad do katastru a převod nemovitostí.
+
+**4. Subsumpce.** Pšenice je druhově určená věc → dle § 1101 O nenabyl vlastnictví, dokud nedošlo k dostatečnému odlišení jeho podílu (vyskladnění/separaci). Do oddělení zůstává zboží v majetku N a exekuce je postihuje. Certifikát na doručitele (§ 1103 odst. 1) nabude P až předáním listiny.
+
+**5. Řešení.** Před oddělením O není vlastníkem; proti exekuci se brání jen tehdy, došlo-li již k odlišení (pak vylučovací žaloba). Procesně klíčové je datum a způsob separace. U CP na doručitele je rozhodující předání listiny (u zaknihovaných § 1104 zápis na účet).
+
+**6. Varianty.** (a) Bylo-li zboží před exekucí prokazatelně odděleno (samostatný silo-box označený pro O), O je vlastníkem a exekuce ho nepostihne. (b) Šlo-li by o cenný papír na jméno (§ 1103 odst. 3), vlastnictví by přešlo už účinností smlouvy bez předání.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že vlastnictví přešlo už smlouvou** (§ 1099): vyvrátit tím, že u druhových věcí § 1101 výslovně odkládá nabytí na okamžik odlišení.
+- **Námitka fiktivního/dodatečného oddělení** po nařízení exekuce: neutralizovat objektivně datovanými skladovými doklady.
+- **Slabé místo:** „dostatečné odlišení" je skutková otázka — bez jednoznačné separace (označení, samostatné uložení) je nabytí sporné.
+
+#### H. Praktický závěr
+
+Výjimky z konsenzuálního principu: druhové věci se nabývají odlišením (§ 1101), věci v pravém veřejném seznamu zápisem (§ 1102, vozidla), nemovitosti vkladem do katastru (§ 1105), cenné papíry podle typu (§ 1103—1104). Kupující druhového zboží by měl trvat na neprodlené individualizaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jaký typ věci jde (druhová, v seznamu, nemovitost, cenný papír)?
+- [ ] Druhová věc: došlo k dostatečnému odlišení (§ 1101)?
+- [ ] Cenný papír: na doručitele (předání) / na řad (rubopis + předání) / na jméno (smlouva)?
+- [ ] Nemovitost / věc v seznamu: proběhl konstitutivní zápis?
+
+**Typicky rozhodné důkazy / podklady:** kupní smlouva, dodací/skladové doklady prokazující individualizaci, listina cenného papíru a rubopis, výpis z účtu CP, výpis z katastru/registru.
+
+---
+
 ### § 1106—1108 — Práva a závady spojené s věcí
 
 **§ 1106**:
@@ -261,6 +527,42 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [26 Cdo 557/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6181D817E6E1798FC125860E001E2E58?openDocument) — *Převod vlastnictví Vlastnictví bytů*
   > „Podle § 1108 platí ustanovení § 1106 a 1107 obdobně také při nabytí vlastnického práva jinak než převodem."
 - *NS* [22 Cdo 2824/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/37F5E19713116298C1258C91004D08E2?openDocument) — *Spoluvlastnictví Předkupní právo Předkupník, koupěchtivý (o. z.) Vlastnictví Dobré mravy…*
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Q koupí dům, na němž je v katastru zapsáno věcné břemeno (služebnost cesty) ve prospěch souseda R a dále nezapsaná dohoda předchozího vlastníka o povinnosti udržovat plot. Q po koupi odmítá služebnost i údržbu plotu respektovat. Důkazy: výpis z katastru se zapsanou služebností, kupní smlouva, korespondence o nezapsané dohodě, okolnosti zjistitelnosti.
+
+**2. Právní otázka.** Přešly na Q (nového vlastníka) zapsaná služebnost a nezapsaná povinnost údržby plotu podle § 1106 a § 1107?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1106 — kdo nabude vlastnictví, nabývá i práva a povinnosti s věcí spojená; § 1107 — závady **zapsané ve veřejném seznamu** přejímá vždy, jiné jen měl-li a mohl-li je z okolností zjistit / bylo-li ujednáno / stanoví-li zákon; nepřejaté závady **zanikají**; § 1108 — totéž platí i při nabytí jinak než převodem.
+- *Související ustanovení téhož zákona:* § 980—984 (materiální publicita), § 1257 a násl. (služebnosti), § 1303 a násl. (zástavní právo).
+- *Související předpisy:* zák. č. 256/2013 Sb. (katastr — zápis závad).
+- *Judikatura:* NS 22 Cdo 95/2021 — vymezuje, které povinnosti jsou „s věcí spojené" a přecházejí dle § 1106; NS 26 Cdo 557/2019 — § 1108 (obdobné použití při nabytí jinak než převodem).
+
+**4. Subsumpce.** Služebnost cesty je zapsána v katastru → Q ji přejímá vždy (§ 1107 odst. 1, první alternativa), bez ohledu na (ne)vědomost. Nezapsaná povinnost údržby plotu přechází jen tehdy, mohl-li ji Q z okolností zjistit nebo byla-li ujednána; jinak zanikla (§ 1107 odst. 2). Sporné: zjistitelnost nezapsané povinnosti.
+
+**5. Řízení.** Q je vázán zapsanou služebností; sousedovi R svědčí žaloba na strpění. U nezapsané povinnosti údržby: nebyla-li zjistitelná ani ujednána, zanikla a Q jí vázán není. Procesně se zkoumá, zda závada byla z okolností (stav věci, sdělení) seznatelná.
+
+**6. Varianty.** (a) Byla-li by povinnost údržby plotu výslovně převzata v kupní smlouvě, Q ji nese bez ohledu na zápis. (b) Kdyby služebnost nebyla zapsána a Q o ní nemohl vědět, zanikla by (§ 1107 odst. 2 a contrario).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že povinnost „není s věcí spojena"** a nepřechází: posuzovat dle povahy závazku (NS 22 Cdo 95/2021) — obligační povinnosti vázané na osobu nepřecházejí, věcná břemena ano.
+- **Námitka nezjistitelnosti nezapsané závady:** břemeno zjistitelnosti zkoumá soud; nabyvatel se brání tím, že závada nebyla z okolností patrná.
+- **Slabé místo:** hranice mezi „s věcí spojenými" právy/povinnostmi a čistě osobními závazky je výkladově sporná; chybí-li zápis, je výsledek nejistý.
+
+#### H. Praktický závěr
+
+S vlastnictvím přecházejí práva a povinnosti s věcí spojené (§ 1106); zapsané závady nabyvatel přejímá vždy, nezapsané jen při zjistitelnosti/ujednání/zákonu, jinak zanikají (§ 1107). Před koupí je nezbytná pečlivá prověrka katastru i faktického stavu věci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o právo/povinnost „s věcí spojenou", nebo o osobní závazek?
+- [ ] Je závada zapsána ve veřejném seznamu (pak přechází vždy)?
+- [ ] U nezapsané: mohl ji nabyvatel z okolností zjistit / byla ujednána / stanoví zákon?
+- [ ] Nejde o nabytí jinak než převodem (§ 1108)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru se zápisem závad, kupní/nabývací smlouva, korespondence a okolnosti zjistitelnosti nezapsaných závad, doklady o faktickém stavu věci.
 
 ---
 
@@ -315,6 +617,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
   > „Nejvyšší soud přitom nepochybuje o tom, že podmínky nabývání vlastnického práva od neoprávněného (§ 1109 a násl. o. z.) se vztahují i na zajišťovací převody vlastnického práva; i v takovém případě se totiž nabyvatel stává vlastníkem převáděné věci (byť podmíněně s ohledem na účel uvedeného zajišťovacího institutu)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** S koupí v kamenné prodejně autorizovaného prodejce (podnikatele) nový traktor; zaplatí a převezme jej. Později vyjde najevo, že prodejce neměl k traktoru vlastnické právo (měl jej v komisním prodeji a komitent od smlouvy odstoupil). Původní vlastník T žádá vydání. Důkazy: doklad o koupi u podnikatele, okolnosti svědčící o dobré víře S, povaha provozovny.
+
+**2. Právní otázka.** Nabyl S vlastnictví traktoru od neoprávněného podle § 1109 písm. b) — od podnikatele při jeho podnikatelské činnosti v rámci běžného obchodního styku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1109 — vlastníkem se stane ten, kdo nabyl věc nezapsanou ve veřejném seznamu, byl v dobré víře v oprávnění převodce a nabyl na základě řádného titulu, došlo-li k nabytí v některé ze šesti situací (písm. a—f), zde písm. b).
+- *Související ustanovení téhož zákona:* § 1110 (použité věci — výjimka při ztrátě/odnětí do 3 let), § 1111 (zbytková klauzule), § 1112 (vyloučení při vědomosti), § 1113 (vyloučení § 1110—1112 u dražeb/CP na doručitele), § 984 (dobrá víra u věcí v seznamu).
+- *Související předpisy:* zák. č. 26/2000 Sb. (veřejné dražby — písm. a); zák. č. 56/2001 Sb. (vozidla — traktor jako věc neevidovaná konstitutivně).
+- *Judikatura:* NS 23 Cdo 1837/2022 — naplnění podmínek nabytí traktoru od neoprávněného dle § 1109 písm. b); NS 24 Cdo 3166/2021 a 22 ICdo 61/2023 — § 1109 lze užít jen u věcí nezapsaných ve veřejném seznamu; NS 29 ICdo 99/2022 — vztah § 1109 i na zajišťovací převody.
+
+**4. Subsumpce.** Splněno: traktor je movitá věc nezapsaná v pravém veřejném seznamu; nabytí od podnikatele v kamenné provozovně v rámci běžného obchodního styku (písm. b); řádný titul (kupní smlouva); dobrá víra S vzhledem ke všem okolnostem. → S nabyl vlastnictví, ač prodejce byl neoprávněný.
+
+**5. Řešení.** S je vlastníkem; T se může hojit jen na neoprávněném prodejci (náhrada škody, vydání bezdůvodného obohacení), nikoli vindikací vůči S. Procesně: S prokazuje nákup u podnikatele v běžném styku a dobrou víru; T by musel prokázat zlou víru S. Riziko: pochybnosti o „běžném obchodním styku" (např. neobvykle nízká cena).
+
+**6. Varianty.** (a) Šlo-li by o použitou věc a T prokázal, že ji pozbyl ztrátou/svémocným odnětím do 3 let, uplatní se § 1110 a S věc vydá. (b) Kdyby S věděl, že prodejce není vlastníkem (zlá víra), § 1109 se neuplatní a T vindikuje.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka chybějící dobré víry** (podezřele nízká cena, pochybný prodejce): neutralizovat doložením standardních okolností nákupu (autorizovaná provozovna, obvyklá cena, faktura).
+- **Námitka, že nešlo o „běžný obchodní styk":** zdůraznit povahu a obvyklost transakce; soud hodnotí vzhledem ke všem okolnostem.
+- **Slabé místo:** § 1109 nelze použít u věcí v pravém veřejném seznamu (NS 22 ICdo 61/2023) — u nemovitostí je třeba § 984; pro traktor je rozhodné, že není evidován konstitutivně.
+
+#### H. Praktický závěr
+
+Nabytí od neoprávněného (§ 1109) chrání dobrověrného nabyvatele jen v šesti taxativních situacích (dražba, podnikatel v běžném styku, věc svěřená, neoprávněný dědic, CP na doručitele, komoditní burza), vždy u věci nezapsané ve veřejném seznamu, s řádným titulem a v dobré víře.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc nezapsaná ve veřejném seznamu (jinak § 984)?
+- [ ] Spadá nabytí do některé ze šesti situací § 1109 (a—f)?
+- [ ] Existuje řádný titul a dobrá víra vzhledem ke všem okolnostem?
+- [ ] Nejde o použitou věc s riziky dle § 1110, resp. o vyloučení dle § 1112?
+
+**Typicky rozhodné důkazy / podklady:** doklad o nabytí (faktura, smlouva), důkazy o povaze provozovny a běžnosti styku, cena ve vztahu k obvyklé, okolnosti zakládající/vylučující dobrou víru.
+
+---
+
 ### § 1110 — Použité věci od podnikatele
 
 > Získal-li někdo v dobré víře za úplatu použitou movitou věc od podnikatele, který při své podnikatelské činnosti v rámci běžného obchodního styku obchoduje takovými věcmi, vydá ji vlastníku, který prokáže, že věc pozbyl ztrátou nebo že mu věc byla odňata svémocně a že od ztráty nebo odnětí věci uplynuly nejvýše tři roky.
@@ -332,6 +672,44 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 - *NS* [24 Cdo 83/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A3026E425424792C12589D800309D02?openDocument) — *Úschova Nabytí vlastnického práva od neoprávněného Dovolací důvody*
   > „2017 odvezla žalobkyně vozidlo na technickou prohlídku před registrací po dovozu z Německa“ a „následně byla zapsána jako vlastník vozidla do nově vydaného osvědčení o registraci vozidla“, soud prvního stupně uvedl, že občanský zákoník umožňuje nabytí od nevlastníka v explicitně uvedených a definovaných případech, …"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U byl odcizen horské kolo (krádež nahlášena policii). Po roce je kolo prodáno v bazaru (podnikatel obchodující s použitým zbožím) kupujícímu V, který jedná v dobré víře a za úplatu. U se o kole dozví dva roky po krádeži a žádá vydání. Důkazy: trestní oznámení a protokol o krádeži, doklad o nákupu V v bazaru, datum prodeje.
+
+**2. Právní otázka.** Musí V vydat odcizené použité kolo původnímu vlastníku U podle § 1110, ačkoli ho koupil v dobré víře od podnikatele obchodujícího s použitými věcmi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1110 — kdo v dobré víře za úplatu nabyl použitou movitou věc od podnikatele obchodujícího takovými věcmi, **vydá ji vlastníku**, který prokáže, že věc pozbyl ztrátou nebo svémocným odnětím a že od ztráty/odnětí uplynuly **nejvýše tři roky**.
+- *Související ustanovení téhož zákona:* § 1109 (privilegované nabytí), § 1111 (zbytková klauzule mimo § 1109/1110), § 1112 (vyloučení při vědomosti), § 1113 (výjimky — dražba, CP na doručitele), § 1040 (vindikace).
+- *Související předpisy:* zák. č. 455/1991 Sb. (živnostenský — bazary); trestní předpisy (krádež jako svémocné odnětí).
+- *Judikatura:* NS 24 Cdo 83/2023 — k nabytí od neoprávněného a úschově v kontextu použitých věcí/vozidel; obecně k povaze „svémocného odnětí".
+
+**4. Subsumpce.** Kolo je použitá movitá věc nabytá od podnikatele obchodujícího použitým zbožím; V je v dobré víře a nabyl za úplatu. U prokáže odnětí (krádež) a že od něj uplynuly méně než 3 roky → podmínky § 1110 splněny → V kolo vydá U. Po marném uplynutí 3 let by se vlastníkem stal V.
+
+**5. Řešení.** V vydá kolo U; V se hojí na bazaru, resp. na zloději (náhrada škody, bezdůvodné obohacení). Procesně: U nese důkazní břemeno odnětí i tříleté lhůty. Riziko pro U: prokázání data krádeže a totožnosti věci.
+
+**6. Varianty.** (a) Pokud by od krádeže uplynuly více než 3 roky, V se stává vlastníkem a U nárok na vydání nemá. (b) Kdyby U věc neztratil ani mu nebyla svémocně odňata (např. ji sám dobrovolně svěřil — § 1109 písm. c), § 1110 se neuplatní a V je vlastníkem.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka uplynutí tříleté lhůty:** klíčové je přesné datum odnětí; U musí doložit, že tři roky ještě neuběhly (trestní spis, protokol).
+- **Námitka, že nešlo o ztrátu/svémocné odnětí** (věc byla svěřena): pak nastupuje § 1109 písm. c) a V je chráněn; U se brání doložením nedobrovolného pozbytí.
+- **Slabé místo:** identifikace konkrétní věci (kolo bez unikátního čísla) a prokázání data odnětí jsou důkazně náročné.
+
+#### H. Praktický závěr
+
+§ 1110 chrání oběti krádeže/ztráty: u použitých věcí koupených v bazaru se dobrověrný nabyvatel nestává vlastníkem, prokáže-li vlastník ztrátu/odnětí a tříletou lhůtu; po jejím uplynutí nabývá kupující. Vlastník musí jednat rychle a věc bezpečně identifikovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o použitou movitou věc nabytou od podnikatele obchodujícího takovými věcmi?
+- [ ] Nabyl kupující v dobré víře a za úplatu?
+- [ ] Prokáže vlastník ztrátu nebo svémocné odnětí?
+- [ ] Uplynuly od ztráty/odnětí nejvýše tři roky?
+
+**Typicky rozhodné důkazy / podklady:** trestní oznámení a protokol o krádeži, doklad o nabytí v bazaru s datem, individualizace věci (výrobní číslo, fotografie), evidence bazaru o původu zboží.
+
+---
 
 ### § 1111 — Mimo § 1109 a 1110
 
@@ -358,6 +736,44 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
   > „Insolvenční soud – vycházeje z ustanovení § 225 odst. 1 a 2 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona), z ustanovení § 7, § 1099, § 1109, § 1111 a § 2900 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** W koupí od soukromé osoby (nikoli podnikatele, ne v dražbě) starší vozidlo přímo z ruky; jedná v dobré víře, má kupní smlouvu a technický průkaz. Později se ukáže, že prodávající nebyl vlastníkem (vozidlo měl v nájmu). Původní vlastník X tvrdí vlastnictví; netvrdí však ztrátu ani trestný čin. Důkazy: kupní smlouva, technický průkaz, okolnosti svědčící o dobré víře W.
+
+**2. Právní otázka.** Nabyl W vlastnictví vozidla podle § 1111 (mimo situace § 1109 a 1110), prokáže-li dobrou víru v oprávnění převodce a vlastník neprokáže ztrátu ani úmyslný trestný čin?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1111 — kdo nabyl movitou věc za jiných okolností než dle § 1109/1110, stane se vlastníkem, prokáže-li **dobrou víru v oprávnění převodce**; to neplatí, prokáže-li vlastník, že věc pozbyl ztrátou nebo činem povahy úmyslného trestného činu.
+- *Související ustanovení téhož zákona:* § 1109 (privilegované situace), § 1110 (použité věci), § 1112 (vyloučení při vědomosti o nabytí od neoprávněného), § 1040 (vindikace).
+- *Související předpisy:* zák. č. 56/2001 Sb. (technický průkaz pouze osvědčuje, nezakládá vlastnictví).
+- *Judikatura:* NS 22 Cdo 240/2019 a 21 Cdo 1811/2021 — § 1111 je obecnou skutkovou podstatou nabytí movité věci od neoprávněného; předpokladem je platný titul a dobrá víra v oprávnění převodce; NS 29 ICdo 144/2018 — technický průkaz jen osvědčuje skutečnosti, nezakládá vlastnictví.
+
+**4. Subsumpce.** Nabytí od soukromé osoby z ruky nespadá pod § 1109 ani 1110 → uplatní se § 1111. W prokazuje platný titul (kupní smlouva) a dobrou víru v oprávnění převodce. X netvrdí ztrátu ani úmyslný trestný čin → výluka § 1111 se neuplatní → W nabyl vlastnictví. Sporné: dobrá víra W vzhledem k okolnostem (cena, identita prodávajícího).
+
+**5. Řešení.** W je vlastníkem; X se hojí na neoprávněném převodci. Procesně: W nese důkazní břemeno dobré víry a titulu; X by musel prokázat ztrátu/úmyslný trestný čin (pak by vindikoval). Riziko: pochybnosti o dobré víře (W si neověřil vlastnictví, ač měl).
+
+**6. Varianty.** (a) Prokáže-li X, že vozidlo bylo odcizeno (úmyslný trestný čin), W nevlastní a X vindikuje. (b) Věděl-li W, že prodávající není vlastníkem (zlá víra), § 1111 se neuplatní (a § 1112 vyloučí i odvolání na dobrou víru předchůdce).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka chybějící dobré víry** (W si neověřil titul převodce): neutralizovat doložením, že W vycházel z technického průkazu a smlouvy a neměl důvod pochybovat; pozor — TP sám vlastnictví neosvědčuje (NS 29 ICdo 144/2018).
+- **Námitka ztráty/úmyslného trestného činu:** břemeno nese vlastník; W se brání tím, že takový původ nebyl prokázán.
+- **Slabé místo:** § 1111 vyžaduje aktivní prokázání dobré víry nabyvatelem (na rozdíl od presumpcí jinde) — chybějící prověrka oslabuje pozici W.
+
+#### H. Praktický závěr
+
+§ 1111 je obecnou (zbytkovou) skutkovou podstatou nabytí movité věci od neoprávněného mimo situace § 1109/1110: nabyvatel musí prokázat dobrou víru v oprávnění převodce a platný titul; nabytí je vyloučeno, prokáže-li vlastník ztrátu nebo úmyslný trestný čin. Doporučuje se ověřit vlastnictví, ne spoléhat na technický průkaz.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nespadá nabytí pod § 1109 ani § 1110 (pak teprve § 1111)?
+- [ ] Prokáže nabyvatel platný titul a dobrou víru v oprávnění převodce?
+- [ ] Netvrdí a neprokazuje vlastník ztrátu nebo úmyslný trestný čin?
+- [ ] Nespoléhá se chybně na technický průkaz jako důkaz vlastnictví?
+
+**Typicky rozhodné důkazy / podklady:** kupní smlouva, technický průkaz (jako podpůrný, nikoli rozhodující), okolnosti nabytí a dobré víry, případné trestní spisy prokazující odcizení.
+
+---
+
 ### § 1112—1113 — Vyloučení a CP
 
 **§ 1112**:
@@ -379,6 +795,44 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
   > „Důvodová zpráva k vládnímu návrhu občanského zákoníku (sněmovní tisk číslo 362, Poslanecká sněmovna Parlamentu České republiky, 6. volební období 2010-2013) k ustanovení § 1112 o. z. uvádí: „Ochrana stavu založeného při nabytí od neoprávněného dobrou vírou nabyvatele nemůže být bezbřehá."
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zloděj odcizí obraz vlastníku Y a prodá jej Z1, který ví, že obraz pochází z krádeže. Z1 jej dále prodá Z2, který se brání tím, že se dovolává dobré víry svého předchůdce Z1. Souběžně je jiný předmět (cenný papír na doručitele) nabyt ve veřejné dražbě. Důkazy: korespondence prokazující vědomost Z1, řetězec převodů, doklady o dražbě.
+
+**2. Právní otázka.** Může se Z2 (resp. Z1) dovolat dobré víry předchůdce podle § 1112, věděl-li o nabytí od neoprávněného, a vylučuje § 1113 použití § 1110—1112 u věcí z veřejné dražby a CP na doručitele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1112 — kdo získal movitou věc **s vědomím**, že vlastnictví bylo nabyto od neoprávněného, nemůže se k svému prospěchu dovolat vlastnického práva ani dobré víry předchůdce; § 1113 — § 1110—1112 **se nepoužijí** u investičních nástrojů, CP/listin na doručitele, věcí z veřejné dražby, dražby při výkonu rozhodnutí/exekuci a obchodu na komoditní burze.
+- *Související ustanovení téhož zákona:* § 1109—1111 (nabytí od neoprávněného), § 1040 (vindikace).
+- *Související předpisy:* zák. č. 26/2000 Sb. (veřejné dražby); exekuční řád, OSŘ (dražba při výkonu rozhodnutí).
+- *Judikatura:* NS 29 ICdo 99/2022 — cituje důvodovou zprávu k § 1112 (ochrana nabytí od neoprávněného dobrou vírou nemůže být bezbřehá); NS 21 Cdo 822/2022 — k nabytí příklepem v nedobrovolné veřejné dražbě a omezené možnosti třetí osoby prosadit vlastnické právo mimo § 1109/1110.
+
+**4. Subsumpce.** Z1 věděl o nabytí od neoprávněného → nemůže se dovolat dobré víry (§ 1112). Z2, který se dovolává „dobré víry předchůdce Z1", je rovněž vyloučen, protože Z1 sám dobrou víru postrádal a řetězec je „nakažen". U CP na doručitele/dražby (§ 1113) se výluky § 1110—1112 neuplatní → silnější ochrana nabyvatele.
+
+**5. Řešení.** Y vindikuje obraz vůči Z1 i Z2 (§ 1040), neboť ochrana dobré víry je vyloučena. U předmětu nabytého ve veřejné dražbě nebo CP na doručitele naopak nabyvatel požívá silnější ochrany (§ 1113). Procesně: Y prokazuje vědomost v řetězci; nabyvatel z dražby se brání odkazem na § 1113.
+
+**6. Varianty.** (a) Pokud by Z2 byl skutečně v dobré víře a nabyl za podmínek § 1109/1111 (a nevěděl o vadě), mohl by být chráněn; rozhoduje jeho vlastní vědomost. (b) Byl-li by obraz nabyt ve veřejné dražbě dle z. č. 26/2000 Sb., § 1113 vylučuje výhrady § 1110—1112 a nabyvatel je chráněn i proti původnímu vlastníku.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že Z2 byl sám v dobré víře:** rozhodující je vlastní vědomost nabyvatele; § 1112 brání tomu, kdo věděl, dovolat se cizí dobré víry — Y musí prokázat vědomost konkrétního článku řetězce.
+- **Námitka silnější ochrany dle § 1113:** platí jen pro vyjmenované způsoby (dražba, CP na doručitele, burza); mimo ně se výluky § 1110—1112 uplatní.
+- **Slabé místo:** prokázání „vědomí" o nabytí od neoprávněného je důkazně náročné (subjektivní stránka); bez něj § 1112 neobstojí.
+
+#### H. Praktický závěr
+
+§ 1112 brání tomu, kdo věděl o nabytí od neoprávněného, dovolávat se dobré víry (anti-fraud řetězce); § 1113 naopak posiluje ochranu nabyvatele u veřejných dražeb, dražeb při výkonu rozhodnutí/exekuci, CP na doručitele a komoditní burzy, kde se výhrady § 1110—1112 neuplatní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Věděl nabyvatel (kterýkoli článek řetězce) o nabytí od neoprávněného (§ 1112)?
+- [ ] Jde o věc nabytou ve veřejné dražbě / exekuční dražbě / CP na doručitele / komoditní burze (§ 1113)?
+- [ ] Lze prokázat subjektivní vědomost o vadě?
+- [ ] Uplatní se výluka ochrany, nebo naopak silnější ochrana nabyvatele?
+
+**Typicky rozhodné důkazy / podklady:** korespondence a okolnosti prokazující vědomost o nabytí od neoprávněného, doklady o řetězci převodů, dražební dokumentace (protokol o příklepu), povaha cenného papíru.
+
+---
 
 ### § 1114 — Nabytí rozhodnutím orgánu VM
 
@@ -413,6 +867,42 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [21 Cdo 2576/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B34DBF98E78B002C125854B0018AAE0?openDocument) — *Vlastnictví Zástavní právo Vady řízení*
   > „2011, sp. zn. 28 Cdo 1132/2010, vztahující se sice k úpravě ustanovení § 132 odst. 1 zákona č.40/1964 Sb., občanského zákoníku, avšak s ohledem na ustanovení § 1114 o. z. jsou závěry aplikovatelné i nyní, ostatně pochybnosti nejsou ani v komentářové literatuře)."
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V restituci je oprávněné osobě A1 rozhodnutím pozemkového úřadu vydán náhradní pozemek; rozhodnutí nabylo právní moci 15. 4. a neurčuje jiný den nabytí. A1 chce být zapsán jako vlastník do katastru a současně řešit, od kdy nese rizika a plody pozemku. Důkazy: rozhodnutí pozemkového úřadu s doložkou právní moci, geometrický plán, výpis z katastru.
+
+**2. Právní otázka.** K jakému dni nabyl A1 vlastnické právo k náhradnímu pozemku podle § 1114 — ke dni určenému v rozhodnutí, nebo (není-li určen) dnem právní moci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1114 — rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnictví nabývá **dnem v něm určeným**; není-li určen, **dnem právní moci** rozhodnutí.
+- *Související ustanovení téhož zákona:* § 1147 (soudní přikázání při zrušení spoluvlastnictví), § 1105 (jinak konstitutivní vklad u převodů — zde se však nabývá rozhodnutím, zápis je deklaratorní), § 1107 (závady).
+- *Související předpisy:* restituční předpisy (zák. č. 229/1991 Sb., zák. č. 503/2012 Sb.); zák. č. 256/2013 Sb. (zápis na základě rozhodnutí — záznamem); trestní předpisy a § 101 tr. zák. (zabrání věci).
+- *Judikatura:* NS 24 Cdo 1825/2025, 28 Cdo 1566/2023, 28 Cdo 3627/2021 — § 1114 v restitučních věcech (nabytí dnem určeným, jinak právní mocí); NS 22 Cdo 295/2026 — nabytí přechodem na základě usnesení o zabrání věci dle § 1114; NS 28 Cdo 979/2021 — rozdíl mezi vkladem podle soukromé a veřejné listiny.
+
+**4. Subsumpce.** Rozhodnutí pozemkového úřadu je rozhodnutím orgánu veřejné moci; neurčuje den nabytí → vlastnictví A1 vzniklo **dnem právní moci (15. 4.)**. Zápis do katastru je proveden záznamem a má deklaratorní (nikoli konstitutivní) povahu. Od 15. 4. nese A1 nebezpečí škody i právo na plody.
+
+**5. Řešení.** A1 je vlastníkem od 15. 4.; do katastru se zapíše záznamem na podkladě rozhodnutí. Procesně: A1 předloží rozhodnutí s doložkou právní moci katastrálnímu úřadu. Riziko: nesprávné určení okamžiku nabytí (záměna za den zápisu), což má dopad na plody, rizika i běh lhůt.
+
+**6. Varianty.** (a) Určuje-li rozhodnutí výslovně den nabytí (např. zpětně či k budoucímu datu), platí tento den, nikoli právní moc. (b) Jde-li o nabytí převodem (smlouvou) u nemovitosti, neuplatní se § 1114, ale konstitutivní vklad dle § 1105.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že vlastnictví vzniká až zápisem do katastru:** vyvrátit tím, že u nabytí rozhodnutím orgánu veřejné moci je zápis deklaratorní (záznam) a vlastnictví vzniká dle § 1114 (NS 28 Cdo 979/2021).
+- **Námitka nejasného dne nabytí:** chybí-li určení v rozhodnutí, nastupuje subsidiárně den právní moci — nutno doložit doložku právní moci.
+- **Slabé místo:** přesná identifikace okamžiku právní moci a obsahu výroku; nejednoznačný výrok může vést ke sporu o den nabytí a navazující nároky.
+
+#### H. Praktický závěr
+
+Rozhodnutím soudu či jiného orgánu veřejné moci (restituce, vyvlastnění, soudní zrušení spoluvlastnictví, příklep, zabrání věci) se vlastnictví nabývá dnem v rozhodnutí určeným, jinak dnem právní moci; zápis do katastru je v těchto případech deklaratorní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o nabytí rozhodnutím orgánu veřejné moci (ne převodem)?
+- [ ] Určuje rozhodnutí výslovně den nabytí vlastnictví?
+- [ ] Není-li určen, je doložen den právní moci?
+- [ ] Je zápis do katastru proveden záznamem (deklaratorně)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí orgánu veřejné moci s doložkou právní moci, výrok určující den nabytí, geometrický plán, výpis z katastru, podklady pro záznam.
+
 ---
 
 ## Spoluvlastnictví — Díl 4 (§ 1115—1157)
@@ -425,6 +915,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 **§ 1120**: plody a užitky **dle poměru podílů**; nelze-li rozdělit → dohoda spoluvlastníků nebo prodej s rozdělením výnosu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tři sourozenci B1, B2 a B3 zdědili po rodičích nájemní dům jako podíloví spoluvlastníci (každý 1/3). Dům pronajímají; nájemce platí nájem na účet B1, který odmítá ostatním předložit vyúčtování a vyplatit jejich podíl na nájmu. Důkazy: dědické rozhodnutí, nájemní smlouvy, výpisy z účtu, evidence příjmů a nákladů domu.
+
+**2. Právní otázka.** Mají B2 a B3 právo na vyúčtování správy a na podíl z plodů a užitků (nájemného) podle § 1118 a § 1120, a v jakém poměru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1115—1117 (spoluvlastníci mají vlastnické právo k věci společně; navenek vystupují jako jediná osoba; každý má právo k celé věci omezené stejným právem ostatních), § 1118 (právo na vyúčtování a podíl z plodů a užitků), § 1120 (plody a užitky podle poměru podílů).
+- *Související ustanovení téhož zákona:* § 1121—1122 (podíl, domněnka stejných podílů), § 1126 a násl. (správa společné věci), § 2991 (bezdůvodné obohacení — pokud jeden spoluvlastník inkasuje vše).
+- *Související předpisy:* předpisy o nájmu (§ 2201 a násl. o. z.).
+- *Judikatura:* ustálená judikatura NS k vypořádání mezi spoluvlastníky a k právu na plody dle podílů; obecné principy správy společné věci.
+
+**4. Subsumpce.** Dům je v podílovém spoluvlastnictví (1/3 každý). Nájemné je plodem/užitkem věci → podle § 1120 náleží spoluvlastníkům v poměru podílů (po 1/3). B1 jako inkasující má povinnost vyúčtování (§ 1118) a vydání podílů; jinak se na úkor B2 a B3 bezdůvodně obohacuje. Sporné: výše odečitatelných nákladů na dům.
+
+**5. Řešení.** B2 a B3 mají nárok na vyúčtování a na 1/3 čistého výnosu každý; domáhají se jej žalobou (na vyúčtování a zaplacení). Procesně: prokáží podíl a inkaso B1; B1 prokazuje oprávněné náklady. Riziko: spor o náklady a o to, zda šlo o běžnou správu (§ 1128).
+
+**6. Varianty.** (a) Byl-li by mezi spoluvlastníky ujednán jiný poměr na výnosech, má přednost dohoda. (b) Nelze-li plody fyzicky rozdělit (§ 1120 in fine), spoluvlastníci se buď dohodnou, nebo se věc/výnos prodá a rozdělí.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka odečtu nákladů** (B1 tvrdí vysoké náklady na dům): neutralizovat požadavkem na řádné vyúčtování a doklady; do podílu se rozdělí čistý výnos.
+- **Námitka, že B1 jednal jako jediná osoba navenek** (§ 1116): to se týká vztahu k třetím osobám, nikoli vnitřního vypořádání mezi spoluvlastníky.
+- **Slabé místo:** absence evidence příjmů/nákladů domu komplikuje stanovení čistého výnosu; chybějící doklady jdou k tíži toho, kdo věc spravoval.
+
+#### H. Praktický závěr
+
+Podíloví spoluvlastníci vystupují navenek jako jediná osoba (§ 1116), ale vnitřně má každý právo na vyúčtování a na podíl z plodů a užitků podle poměru podílů (§ 1118, § 1120). Spoluvlastník inkasující výnosy musí ostatním vyúčtovat a vyplatit jejich podíl.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaké jsou velikosti podílů (poměr pro plody a užitky)?
+- [ ] Byly plody/užitky (nájem) inkasovány jedním spoluvlastníkem?
+- [ ] Bylo provedeno řádné vyúčtování (§ 1118)?
+- [ ] Jde o náklady oprávněné odečtu (běžná správa § 1128)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o velikosti podílů (dědické/nabývací listiny), nájemní smlouvy, výpisy z účtu a evidence příjmů/nákladů, vyúčtování správy.
+
+---
+
 ### Oddíl 2 — Spoluvlastnický podíl (§ 1121—1125)
 
 **§ 1121**: **každý spoluvlastník je úplným vlastníkem svého podílu** — může s ním libovolně nakládat.
@@ -435,6 +963,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - **Vyvratitelná domněnka**: podíly **stejné**.
 
 **§ 1123**: nakládání podílem **nesmí být na újmu právům ostatních**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** C1 a C2 jsou podíloví spoluvlastníci pozemku (každý 1/2); spoluvlastnictví vzniklo koupí, na níž se oba podíleli. C1 chce svůj podíl prodat třetí osobě D1 za 800 000 Kč. C2 namítá, že nakládáním podílem je dotčen ve svých právech, a chce sám rozhodovat o užívání celé věci. Důkazy: nabývací smlouva, návrh kupní smlouvy C1—D1, doklady o dosavadním užívání.
+
+**2. Právní otázka.** Může C1 volně převést svůj spoluvlastnický podíl na D1 (§ 1121), nebo je omezen právy C2 (§ 1123), a vznikne C2 zákonné předkupní právo?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1121 (každý spoluvlastník je úplným vlastníkem svého podílu a může s ním libovolně nakládat), § 1122 (velikost podílu, vyvratitelná domněnka stejných podílů), § 1123 (nakládání podílem nesmí být na újmu právům ostatních spoluvlastníků).
+- *Související ustanovení téhož zákona:* § 1124—1125 (zákonné předkupní právo v omezených případech), § 1126 a násl. (správa), § 2079 (kupní smlouva).
+- *Související předpisy:* zák. č. 256/2013 Sb. (zápis převodu podílu u nemovitostí).
+- *Judikatura:* NS k vyvratitelné domněnce stejných podílů (§ 1122) a k mezím nakládání podílem; rozhodnutí citovaná u § 1124—1125 k předkupnímu právu.
+
+**4. Subsumpce.** C1 je úplným vlastníkem svého podílu (§ 1121) a může jej převést; převod podílu jako takový není „na újmu práv ostatních" ve smyslu § 1123 (to míří na faktické zásahy do věci, ne na samotný převod). Spoluvlastnictví zde vzniklo koupí, na níž se strany podílely → nejde o vznik „bez vlivu stran", a proto zákonné předkupní právo dle § 1124 nevzniká. Sporné: tvrzená újma C2.
+
+**5. Řešení.** C1 může podíl D1 prodat; C2 nemá (v tomto případě vzniku spoluvlastnictví) zákonné předkupní právo. C2 se může chránit jen dohodou o správě či smluvním předkupním právem. Procesně: C2 nemá nárok na zdržení převodu. Riziko: záměna s režimem § 1124 (spoluvlastnictví vzniklé např. děděním).
+
+**6. Varianty.** (a) Vzniklo-li by spoluvlastnictví pořízením pro případ smrti či jinou skutečností bez vlivu stran, vzniklo by C2 předkupní právo dle § 1124 (6 měsíců). (b) Bránil-li by převod podílu fakticky výkonu práv C2 (např. zřízením zatížení znemožňujícího užívání), uplatnil by se § 1123.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka újmy dle § 1123:** odlišit samotný převod podílu (dovolený dle § 1121) od faktického zásahu do práv ostatních; pouhá změna osoby spoluvlastníka újmou není.
+- **Námitka existence předkupního práva:** prověřit způsob vzniku spoluvlastnictví — § 1124 se uplatní jen u vzniku bez vlivu stran, jinak předkupní právo nevzniká.
+- **Slabé místo:** vyvratitelná domněnka stejných podílů (§ 1122) — je-li skutečný poměr jiný, je třeba ho prokázat; jinak se má za to, že jsou stejné.
+
+#### H. Praktický závěr
+
+Každý spoluvlastník je úplným vlastníkem svého podílu a může s ním volně nakládat (§ 1121), je-li dodržena domněnka stejných podílů (§ 1122) a meze § 1123 (nezasahovat na újmu práv ostatních). Zákonné předkupní právo se neuplatní vždy — řídí se § 1124—1125.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaká je velikost podílu (domněnka stejných podílů, § 1122)?
+- [ ] Jde o převod podílu (dovolený dle § 1121), nebo o zásah do práv ostatních (§ 1123)?
+- [ ] Jak vzniklo spoluvlastnictví (rozhoduje pro § 1124)?
+- [ ] Existuje smluvní úprava (dohoda o správě, smluvní předkupní právo)?
+
+**Typicky rozhodné důkazy / podklady:** nabývací tituly (k určení podílů a způsobu vzniku spoluvlastnictví), návrh smlouvy o převodu podílu, dohody spoluvlastníků, výpis z katastru.
+
+---
 
 #### § 1124—1125 — Předkupní právo spoluvlastníků
 
@@ -468,6 +1034,45 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [22 Cdo 579/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/40046D8509284E22C1258C93004D6813?openDocument) — *Spoluvlastnictví Předkupní právo Osoba blízká*
 - *NS* [22 Cdo 3248/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E55DD79768B4833C1258BA2004D3AED?openDocument) — *Předkupní právo Vlastnictví Předkupník, koupěchtivý (o. z.)*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Po zůstaviteli E1 zdědili pozemek tři spoludědicové E2, E3 a E4 (každý 1/3) — spoluvlastnictví tedy vzniklo děděním, aniž mohli svá práva ovlivnit. Tři měsíce po nabytí dědictví E2 prodá svůj podíl cizí osobě F1 za 600 000 Kč, aniž podíl nabídl E3 a E4. Důkazy: dědické rozhodnutí s datem právní moci, kupní smlouva E2—F1, doklad o (ne)učinění nabídky.
+
+**2. Právní otázka.** Vzniklo E3 a E4 k převáděnému podílu E2 zákonné předkupní právo podle § 1124, převedl-li E2 podíl do šesti měsíců od vzniku spoluvlastnictví na osobu, která není spoluvlastníkem ani osobou blízkou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1124 — bylo-li spoluvlastnictví založeno pořízením pro případ smrti nebo jinou skutečností bez vlivu stran, mají ostatní spoluvlastníci po dobu **šesti měsíců** od vzniku spoluvlastnictví předkupní právo (neplatí při převodu jinému spoluvlastníku, manželu, sourozenci, příbuznému v přímé řadě); u bezúplatného převodu se vykupuje za **obvyklou cenu**; § 1125 — u zemědělského závodu je předkupní právo trvalé (i na dědický podíl).
+- *Související ustanovení téhož zákona:* § 1121 (úplné vlastnictví podílu), § 2140 a násl. (předkupní právo), § 22 (osoba blízká), § 1122 (velikost podílu).
+- *Související předpisy:* zák. č. 256/2013 Sb. (zápis převodu); zák. č. 163/2020 Sb. (obnova předkupního práva pro tyto případy).
+- *Judikatura:* NS 22 Cdo 1738/2019 — předkupní právo dle § 1124 je omezeno na případy nově založeného spoluvlastnictví bez vlivu stran; NS 22 Cdo 579/2025 — předkupní právo a osoba blízká; NS 22 Cdo 3248/2023 — předkupní právo a postavení koupěchtivého.
+
+**4. Subsumpce.** Spoluvlastnictví vzniklo děděním (bez vlivu stran), převod proběhl do 6 měsíců a F1 není spoluvlastník ani osoba blízká → E3 a E4 mají předkupní právo (§ 1124 odst. 1) v poměru svých podílů. E2 je porušil tím, že podíl nenabídl. Sporné: zda F1 není přece jen osobou blízkou (pak by výjimka platila).
+
+**5. Řešení.** E3 a E4 se mohou domáhat, aby jim F1 podíl za stejných podmínek nabídl/převedl (vůči koupěchtivému dle § 2144), případně uplatnit nároky z porušení předkupního práva. Procesně: prokáží způsob a datum vzniku spoluvlastnictví a chybějící nabídku. Riziko: marné uplynutí šestiměsíční lhůty.
+
+**6. Varianty.** (a) Převedl-li by E2 podíl svému sourozenci nebo příbuznému v přímé řadě, předkupní právo se neuplatní (výjimka § 1124 odst. 1). (b) Šlo-li by o zemědělský závod (§ 1125), předkupní právo by bylo trvalé a vztahovalo by se i na dědický podíl.
+
+##### G. Protiargumenty a rizika
+
+- **Námitka, že nabyvatel je osobou blízkou** (a platí výjimka): prověřit vztah F1 k E2 (§ 22); důkazní břemeno blízkosti nese ten, kdo se výjimky dovolává.
+- **Námitka uplynutí šestiměsíční lhůty:** předkupní právo dle § 1124 trvá jen 6 měsíců od vzniku spoluvlastnictví — po jejich uplynutí převod nabídky nevyžaduje.
+- **Slabé místo:** přesné určení dne vzniku spoluvlastnictví (právní moc dědického rozhodnutí) je rozhodující pro běh lhůty; nejasnost oslabuje nárok.
+
+##### H. Praktický závěr
+
+Zákonné předkupní právo spoluvlastníků existuje jen u spoluvlastnictví vzniklého bez vlivu stran (dědění, jiná skutečnost), a to po dobu 6 měsíců od jeho vzniku (§ 1124); výjimkou jsou převody spoluvlastníkům a blízkým osobám; u zemědělského závodu je trvalé (§ 1125). U bezúplatného převodu se vykupuje za obvyklou cenu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vzniklo spoluvlastnictví bez vlivu stran (dědění/jiná skutečnost)?
+- [ ] Běží dosud šestiměsíční lhůta od vzniku spoluvlastnictví?
+- [ ] Není nabyvatel spoluvlastníkem nebo osobou blízkou (výjimka)?
+- [ ] Jde o úplatný, či bezúplatný převod (výkup za obvyklou cenu)?
+- [ ] Nejde o zemědělský závod s trvalým předkupním právem (§ 1125)?
+
+**Typicky rozhodné důkazy / podklady:** dědické/nabývací rozhodnutí s datem právní moci, kupní/darovací smlouva o převodu podílu, doklad o (ne)učinění nabídky, doklady o vztahu nabyvatele k převodci (osoba blízká).
+
+---
+
 ### Oddíl 3 — Správa společné věci (§ 1126—1139)
 
 **§ 1126**: každý má **právo na účast ve správě**; hlasy podle **velikosti podílů**.
@@ -491,6 +1096,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 **§ 1134—1138 — Správce**: volba / odvolání jako u běžné správy; postavení **příkazníka**; vyúčtování. Dohoda o správě nemovitosti — **veřejná listina** + uložení do sbírky listin VR.
 
 **§ 1139 — Soudní úprava**: soud uspořádá poměry podle **slušného uvážení**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bytový dům je v podílovém spoluvlastnictví G1 (60 %), G2 (25 %) a G3 (15 %). G1 a G2 odsouhlasí výměnu výtahu za 1,2 mil. Kč (běžná údržba/oprava) bez informování G3; G3 se o tom dozví až z vyúčtování a nesouhlasí. Samostatně G1 prosadí změnu účelu části domu na krátkodobé ubytování. Důkazy: zápis z jednání spoluvlastníků, doklady o informování, rozpočet opravy, podíly.
+
+**2. Právní otázka.** Jaká většina je třeba pro rozhodnutí o opravě výtahu (§ 1128) a pro změnu účelu užívání (§ 1129), a může přehlasovaný G3 rozhodnutí napadnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1126 (právo na účast ve správě; hlasy dle podílů), § 1128 (běžná správa — většina hlasů; účinky jen při informování všech, jinak opominutý do **30 dnů** k soudu), § 1129 (významná záležitost — podstatné zlepšení/zhoršení, změna účelu — **2/3 většina**), § 1130 (ochrana přehlasovaného před těžkou újmou), § 1132 (jednomyslnost pro zatížení a omezení > 10 let).
+- *Související ustanovení téhož zákona:* § 1131 (zproštění příspěvkové povinnosti přehlasovaného), § 1133 (zástava 2/3 většinou), § 1134—1139 (správce, soudní úprava).
+- *Související předpisy:* OSŘ (řízení o návrhu přehlasovaného spoluvlastníka).
+- *Judikatura:* ustálená judikatura NS k běžné správě vs. významné záležitosti a k lhůtám pro soudní přezkum rozhodnutí spoluvlastníků.
+
+**4. Subsumpce.** Výměna výtahu je zpravidlem běžnou správou (§ 1128) → postačí většina hlasů (G1+G2 = 85 %); jelikož však nebyl informován G3, účinky vůči němu nenastaly a G3 může do 30 dnů napadnout u soudu (§ 1128 odst. 3). Změna účelu užívání je významnou záležitostí (§ 1129) → vyžaduje 2/3 většinu; pouhých 60 % G1 nestačí.
+
+**5. Řešení.** Oprava výtahu byla věcně schválena většinou, ale pro neinformování G3 je vůči němu napadnutelná (30 dnů); změna účelu vyžaduje 2/3 a bez nich je neplatná/nezávazná. Procesně: G3 podá návrh k soudu. Riziko: zmeškání 30denní (resp. u významných záležitostí přiměřené) lhůty.
+
+**6. Varianty.** (a) Hrozí-li přehlasovanému G3 z rozhodnutí těžká újma, může dle § 1130 navrhnout zrušení rozhodnutí soudem. (b) Mělo-li by jít o zatížení společné věci (zástava, věcné břemeno) nebo omezení práv > 10 let, je nutná jednomyslnost (§ 1132) a většina by nestačila vůbec.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že šlo o běžnou správu** (a tedy stačila většina): u změny účelu užívání jde o významnou záležitost (§ 1129) vyžadující 2/3; hranici posuzuje soud podle povahy zásahu.
+- **Námitka, že informování bylo dostatečné:** § 1128 váže účinky na informování všech; opominutý spoluvlastník má 30 dnů k soudu — břemeno doložení informování nese většina.
+- **Slabé místo:** kvalifikace „běžná správa × významná záležitost" je výkladově sporná; chybné zařazení vede k vadné většině a napadnutelnosti rozhodnutí.
+
+#### H. Praktický závěr
+
+Hlasy se počítají podle velikosti podílů (§ 1126); běžná správa vyžaduje většinu a informování všech (§ 1128, jinak soud do 30 dnů), významné záležitosti 2/3 většinu (§ 1129), zatížení a dlouhodobá omezení jednomyslnost (§ 1132). Přehlasovaný má soudní ochranu (§ 1130).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o běžnou správu (§ 1128), významnou záležitost (§ 1129), nebo zatížení/omezení > 10 let (§ 1132)?
+- [ ] Byla dosažena potřebná většina (prostá / 2/3 / jednomyslnost) podle podílů?
+- [ ] Byli o rozhodnutí informováni všichni spoluvlastníci (§ 1128)?
+- [ ] Nehrozí přehlasovanému těžká újma (§ 1130) a běží lhůta k soudu?
+
+**Typicky rozhodné důkazy / podklady:** doklady o velikosti podílů, zápisy a pozvánky z jednání spoluvlastníků, doklady o informování opominutých, rozpočty a povaha zásahu (běžný × významný).
+
+---
 
 ### Oddíl 4 — Zrušení spoluvlastnictví (§ 1140—1157)
 
@@ -517,6 +1160,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [22 Cdo 851/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/92E4185963377CF4C12583D70023093B?openDocument) — *Spoluvlastnictví*
 - *NS* [22 Cdo 2604/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CFD68C0462F23C8C125833C0036E397?openDocument) — *Podílové spoluvlastnictví*
 - *NS* [22 Cdo 300/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CB6FBDE4AC3A607C12580280047ED02?openDocument) — *Spoluvlastnictví*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** H1 a H2 jsou podíloví spoluvlastníci rodinného domu (každý 1/2) po rozvodu a vypořádání SJM. H1 v domě bydlí, H2 chce ze spoluvlastnictví ven a žádá jeho zrušení. H1 namítá, že žádost přichází „v nevhodnou dobu" (probíhající rekonstrukce) a jen k jeho újmě. Důkazy: nabývací titul, doklady o rekonstrukci, korespondence o pokusech o dohodu.
+
+**2. Právní otázka.** Může se H2 domáhat zrušení spoluvlastnictví podle § 1140, nebo tomu brání zákaz žádat zrušení „v nevhodnou dobu" nebo „jen k újmě" druhého spoluvlastníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1140 odst. 1 (nikdo nemůže být nucen setrvat ve spoluvlastnictví), odst. 2 (každý může kdykoli žádat o oddělení nebo zrušení, nesmí však v nevhodnou dobu nebo jen k újmě některého spoluvlastníka).
+- *Související ustanovení téhož zákona:* § 1141 a násl. (způsoby vypořádání), § 1143 (soudní zrušení při neshodě), § 1147 (přikázání za náhradu), § 1154—1155 (odklad zrušení).
+- *Související předpisy:* OSŘ (řízení o zrušení a vypořádání spoluvlastnictví).
+- *Judikatura:* NS 22 Cdo 1385/2025, 22 Cdo 1080/2024, 22 Cdo 2347/2023 — ke zrušení a vypořádání spoluvlastnictví a k mezím práva žádat zrušení; ustálená judikatura k pojmu „nevhodná doba" a „újma".
+
+**4. Subsumpce.** H2 má bezvýjimečné právo nesetrvat ve spoluvlastnictví (§ 1140 odst. 1). Omezení odst. 2 (nevhodná doba / jen k újmě) jsou výjimkou, kterou je třeba prokázat; pouhá nevýhodnost pro H1 nestačí — musí jít o žádost činěnou výlučně k újmě druhého (šikanózně) nebo objektivně v nevhodnou dobu. Sporné: zda probíhající rekonstrukce zakládá „nevhodnou dobu".
+
+**5. Řešení.** H2 se může domáhat zrušení; nebude-li dohoda, rozhodne soud (§ 1143) a zvolí způsob vypořádání (§ 1141, 1147). Námitka „nevhodné doby/újmy" je zpravidla neúspěšná, nejde-li o zjevnou šikanu. Procesně: H1 nese břemeno prokázání výjimky. Riziko: dočasný odklad dle § 1155 (max. 2 roky), prokáže-li H1 hrozbu majetkové ztráty.
+
+**6. Varianty.** (a) Prokáže-li H1 šikanózní motiv H2 nebo objektivně nevhodnou dobu (např. dočasný propad cen), soud žádost odmítne nebo zrušení odloží (§ 1155). (b) Ujednali-li si spoluvlastníci odklad zrušení (§ 1154, až 10 let), je H2 po tuto dobu vázán.
+
+##### G. Protiargumenty a rizika
+
+- **Námitka „nevhodné doby":** musí jít o objektivní okolnost (např. dočasně znehodnocený trh), nikoli o subjektivní nepohodlí; břemeno nese ten, kdo námitku vznáší.
+- **Námitka, že žádost je „jen k újmě" druhého:** vyžaduje prokázání šikanózního účelu (zneužití práva); pouhé znevýhodnění protistrany nestačí.
+- **Slabé místo:** soud může zrušení dočasně odložit (§ 1155) — i důvodná žádost tak nemusí vést k okamžitému vypořádání.
+
+##### H. Praktický závěr
+
+Právo nesetrvat ve spoluvlastnictví je zásadní a bezvýjimečné (§ 1140 odst. 1); jediným korektivem je zákaz žádat zrušení v nevhodnou dobu nebo jen k újmě jiného (odst. 2), což je výjimka, kterou musí prokázat odpůrce zrušení. Nedojde-li k dohodě, rozhodne soud.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Domáhá se spoluvlastník oddělení (lze dělit) nebo zrušení spoluvlastnictví?
+- [ ] Není žádost činěna v objektivně nevhodnou dobu?
+- [ ] Nejde o žádost jen k újmě jiného (šikana, zneužití práva)?
+- [ ] Není sjednán nebo soudně možný odklad (§ 1154, § 1155)?
+
+**Typicky rozhodné důkazy / podklady:** nabývací tituly a podíly, doklady o tržní situaci a stavu věci (k „nevhodné době"), korespondence o pokusech o dohodu, doklady o motivaci žádosti.
+
+---
 
 #### § 1141—1149 — Způsoby a postup vypořádání
 
@@ -582,6 +1263,45 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [22 Cdo 1054/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ACF81D6DC6977225C1258CAE004D3538?openDocument) — *Podílové spoluvlastnictví*
 - *NS* [22 Cdo 892/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D0D40E1A488ADB1C1258CB2004F1BE8?openDocument) — *Podílové spoluvlastnictví*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** I1 a I2 jsou podíloví spoluvlastníci pozemku se stavbou (každý 1/2); nedohodnou se na vypořádání. I1 chce pozemek pro sebe a je schopen vyplatit I2; I2 trvá na prodeji ve veřejné dražbě. Pozemek nelze rozumně reálně rozdělit, aniž by se podstatně snížila jeho hodnota. Důkazy: znalecký posudek o (ne)možnosti dělení a o ceně, doklady o solventnosti I1, evidence pohledávek a dluhů ke společné věci.
+
+**2. Právní otázka.** Jaký způsob vypořádání soud zvolí podle § 1141 a § 1144—1147 — reálné rozdělení, přikázání jednomu spoluvlastníku za náhradu, nebo prodej ve veřejné dražbě — není-li dohoda?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1141 (dohoda + tři způsoby vypořádání: rozdělení / prodej / přikázání s vyplacením), § 1142 (vyloučení dělení u věci sloužící jako celek a u zemědělského pozemku), § 1143 (soudní zrušení), § 1144 (rozdělení soudem, není-li podstatné snížení hodnoty; vyrovnání rozdílu v penězích), § 1147 (přikázání za přiměřenou náhradu; jinak veřejná dražba), § 1148 (vypořádání pohledávek a dluhů), § 1149 (účinky zápisu u nemovitostí).
+- *Související ustanovení téhož zákona:* § 1140 (právo nesetrvat), § 1145 (zřízení služebnosti při dělení), § 1155 (odklad).
+- *Související předpisy:* OSŘ (řízení), zák. č. 256/2013 Sb. (zápis nových práv), zák. č. 26/2000 Sb. (veřejná dražba).
+- *Judikatura:* NS 22 Cdo 2693/2025, 22 Cdo 3271/2025, 22 Cdo 1739/2025 — ke zrušení a vypořádání spoluvlastnictví, znaleckému posudku a volbě způsobu vypořádání.
+
+**4. Subsumpce.** Reálné rozdělení (§ 1144) je vyloučeno, snížila-li by se podstatně hodnota (znalec). Pak nastupuje přednostně přikázání věci za přiměřenou náhradu jednomu/více spoluvlastníkům (§ 1147); jelikož I1 věc chce a je solventní, soud zpravidla přikáže věc I1 s vyplacením I2. Veřejná dražba je až subsidiární (nechce-li věc nikdo). Sporné: výše přiměřené náhrady.
+
+**5. Řešení.** Soud nejprve zváží reálné dělení (§ 1144), pak přikázání I1 za náhradu (§ 1147) s vyrovnáním v penězích; veřejnou dražbu nařídí jen, nechce-li věc žádný spoluvlastník. Současně vypořádá pohledávky a dluhy ke společné věci (§ 1148). U nemovitosti vznikají nová práva zápisem (§ 1149). Procesně klíčový je znalecký posudek o ceně a dělitelnosti.
+
+**6. Varianty.** (a) Pokud by I1 nebyl solventní a věc by nechtěl ani I2, soud nařídí prodej ve veřejné dražbě s rozdělením výtěžku (§ 1147). (b) Jde-li o věc sloužící jako celek nebo o zemědělský pozemek (§ 1142), reálné dělení je vyloučeno a volí se přikázání/prodej.
+
+##### G. Protiargumenty a rizika
+
+- **Námitka možnosti reálného rozdělení** (I2 chce dělit): vyvrátit znaleckým posudkem o podstatném snížení hodnoty (§ 1144 odst. 1); rozdíly v podílech lze vyrovnat penězi (odst. 2).
+- **Námitka nepřiměřenosti náhrady** při přikázání: náhrada musí odpovídat obvyklé ceně podílu (znalecký posudek); spor o cenu je nejčastější.
+- **Slabé místo:** insolvence přebírajícího spoluvlastníka vede k veřejné dražbě, která může přinést nižší výtěžek; volba způsobu závisí na skutkových zjištěních a úvaze soudu.
+
+##### H. Praktický závěr
+
+Soud při vypořádání postupuje v pořadí: reálné rozdělení (§ 1144), přikázání věci za přiměřenou náhradu (§ 1147), a teprve subsidiárně prodej ve veřejné dražbě; současně vypořádá související pohledávky a dluhy (§ 1148). U nemovitostí vznikají nová práva zápisem (§ 1149). Rozhodující je znalecký posudek o dělitelnosti a ceně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje dohoda o zrušení a způsobu vypořádání (písemně u nemovitostí/závodu)?
+- [ ] Je reálné rozdělení možné bez podstatného snížení hodnoty (§ 1144)?
+- [ ] Chce věc některý spoluvlastník a je solventní (přikázání, § 1147)?
+- [ ] Byly vypořádány pohledávky a dluhy ke společné věci (§ 1148)?
+- [ ] Jde o nemovitost (nová práva zápisem, § 1149)?
+
+**Typicky rozhodné důkazy / podklady:** znalecký posudek (cena, dělitelnost), doklady o solventnosti přebírajícího, evidence pohledávek a dluhů ke společné věci, geometrický plán při dělení.
+
+---
+
 #### § 1150—1157 — Ochrana třetích osob, odklad
 
 > Rozdělení společné věci není na újmu osobě, která má věcné právo ke společné věci.
@@ -635,6 +1355,43 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [22 Cdo 4755/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CCF904CA05FB5FBC12580280047ED03?openDocument) — *Spoluvlastnictví*
 - *NS* [22 Cdo 661/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/501998AAB7CCD342C1258241002B7F5E?openDocument) — *Podílové spoluvlastnictví Náklady řízení*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** J1 a J2 jsou podíloví spoluvlastníci pozemku zatíženého služebností cesty ve prospěch sousedního panujícího pozemku J3. Spoluvlastnictví J1 a J2 se ruší a pozemek se reálně dělí na dva díly. Současně chtějí spoluvlastníci odložit zrušení o pět let kvůli plánované výstavbě. Důkazy: výpis z katastru se služebností, geometrický plán dělení, návrh ujednání o odkladu.
+
+**2. Právní otázka.** Zůstává služebnost zachována při rozdělení společné věci (§ 1150—1153) a lze platně ujednat odklad zrušení spoluvlastnictví podle § 1154, případně jej odložit soudem podle § 1155?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1150 (rozdělení není na újmu osobě s věcným právem ke společné věci), § 1151—1153 (úprava věcných břemen při rozdělení panující/obtížené věci), § 1154 (smluvní odklad zrušení **až 10 let**, opakovaně; pro nástupce výslovně; forma veřejné listiny + zápis do veřejného seznamu), § 1155 (soudní odklad **max. 2 roky** k zabránění majetkové ztrátě; též pořízením pro případ smrti), § 1156 (změna odkladu), § 1157 (obdobné použití na oddělení).
+- *Související ustanovení téhož zákona:* § 1257 a násl. (služebnosti), § 1140—1147 (zrušení a vypořádání).
+- *Související předpisy:* zák. č. 256/2013 Sb. (zápis odkladu a věcných práv); předpisy o formě veřejné listiny (notářský řád).
+- *Judikatura:* NS 22 Cdo 48/2022, 22 Cdo 2816/2019 — k odkladu oddělení/zrušení spoluvlastnictví; ustálená judikatura k trvání věcných břemen při dělení věci.
+
+**4. Subsumpce.** Rozdělení společné věci nesmí být na újmu J3 (§ 1150) → služebnost cesty trvá; postihuje-li jen některý díl, na ostatních dílech zaniká (§ 1152—1153). Odklad zrušení lze ujednat až na 10 let (§ 1154), zde 5 let je v limitu; vyžaduje formu veřejné listiny a (u nemovitosti) zápis do katastru. Soudní odklad (§ 1155) je omezen na 2 roky. Sporné: ke kterému dílu se služebnost nadále váže.
+
+**5. Řešení.** Po rozdělení trvá služebnost ve prospěch J3; její výkon se případně upraví (§ 1151) tak, aby se nezvětšila. Odklad zrušení na 5 let je platný, je-li uzavřen ve formě veřejné listiny a zapsán do katastru; pro nástupce mimo dědění/přeměnu musí být výslovně ujednán. Procesně: notářský zápis + návrh na zápis odkladu.
+
+**6. Varianty.** (a) Ujednají-li odklad na dobu delší než 10 let, považuje se za sjednaný na 10 let (§ 1154 odst. 1). (b) Hrozí-li některému spoluvlastníku majetková ztráta, může soud na návrh odložit zrušení i bez dohody, nejdéle o 2 roky (§ 1155).
+
+##### G. Protiargumenty a rizika
+
+- **Námitka zániku služebnosti dělením:** vyvrátit § 1150 — rozdělení není na újmu osobě s věcným právem; služebnost trvá (s úpravou výkonu dle § 1151, aby se nezvětšila).
+- **Námitka neplatnosti odkladu pro formu:** § 1154 vyžaduje formu veřejné listiny a u nemovitostí zápis; bez nich odklad nezavazuje (zejména nástupce).
+- **Slabé místo:** vázanost právních nástupců odkladem vyžaduje výslovné ujednání (mimo dědění/přeměnu PO) a zápis; jinak je vůči nim neúčinný.
+
+##### H. Praktický závěr
+
+Rozdělení společné věci nezasahuje do věcných práv třetích osob (§ 1150); věcná břemena se při dělení zachovávají, nesmějí se však rozšířit (§ 1151—1153). Odklad zrušení lze sjednat až na 10 let (§ 1154, forma veřejné listiny + zápis), soud jej může nařídit max. na 2 roky (§ 1155).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou při dělení dotčena věcná práva třetích osob (§ 1150)?
+- [ ] Ke kterému dílu se věcné břemeno nadále váže (§ 1152—1153)?
+- [ ] Je odklad zrušení v limitu 10 let a ve formě veřejné listiny (§ 1154)?
+- [ ] Má odklad zavazovat nástupce (výslovné ujednání + zápis)?
+- [ ] Jsou splněny podmínky soudního odkladu max. 2 roky (§ 1155)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z katastru s věcnými právy, geometrický plán dělení, notářský zápis o odkladu, doklady o hrozící majetkové ztrátě (k § 1155).
+
 ---
 
 ## Oddíl 5 — Bytové spoluvlastnictví (§ 1158—1222)
@@ -661,6 +1418,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [26 Cdo 915/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/510D333EFB36B182C1258C190052AC92?openDocument) — *Bezdůvodné obohacení*
 - *NS* [26 Cdo 3735/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A705BE96EB07460C1258A2E0015F70B?openDocument) — *Byt Nájem družstevního bytu [ Nájem bytu ] Bezdůvodné obohacení Bytové družstvo [ Družst…*
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Developer K1 postaví bytový dům se třemi byty a chce je samostatně prodat třem kupujícím. Uvažuje, zda lze jednotky vymezit a převádět samostatně, či zda jde stále o jediný předmět vlastnictví. Jeden z kupujících K2 chce vědět, co přesně nabývá. Důkazy: stavební dokumentace, prohlášení vlastníka, půdorysy, výpis z katastru.
+
+**2. Právní otázka.** Vzniklo k domu bytové spoluvlastnictví podle § 1158, je-li v nemovité věci dům alespoň se dvěma byty, a co zahrnuje „jednotka" podle § 1159?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1158 (bytové spoluvlastnictví je spoluvlastnictví nemovité věci založené vlastnictvím jednotek; vzniká, je-li součástí nemovité věci dům alespoň se 2 byty; pravidla o bytu platí i pro nebytový prostor), § 1159 (jednotka zahrnuje **byt** jako prostorově oddělenou část domu **a podíl na společných částech**, vzájemně spojené a neoddělitelné; jednotka je **věc nemovitá**).
+- *Související ustanovení téhož zákona:* § 1160—1161 (společné části, velikost podílů), § 1163 a násl. (vznik jednotky), § 1166 (prohlášení vlastníka), § 1175 a násl. (práva vlastníka jednotky).
+- *Související předpisy:* zák. č. 256/2013 Sb. (zápis jednotek do katastru); zák. č. 72/1994 Sb. (zrušený předchůdce — jednotky vymezené dle něj přetrvávají).
+- *Judikatura:* NS 26 Cdo 2019/2023, 26 Cdo 1583/2021 — k vlastnictví bytů, jednotce a společenství vlastníků; NS 26 Cdo 3735/2022 — k bytu a souvisejícím vztahům.
+
+**4. Subsumpce.** Dům má tři byty → podmínka „alespoň 2 byty" splněna; bytové spoluvlastnictví může vzniknout. Každá jednotka (§ 1159) = byt + neoddělitelný podíl na společných částech a je nemovitou věcí, kterou lze samostatně převádět. K2 nabývá byt i podíl na společných částech jako jeden celek. Sporné: správné vymezení hranic bytu a společných částí v prohlášení.
+
+**5. Řešení.** Developer vymezí jednotky prohlášením vlastníka (§ 1166) a zapíše je do katastru; poté je převádí samostatně. K2 nabývá jednotku (byt + podíl na společných částech) jako jedinou nemovitou věc. Procesně: klíčové je přesné a úplné prohlášení vlastníka s půdorysy. Riziko: vadné vymezení společných částí vede ke sporům.
+
+**6. Varianty.** (a) Má-li dům jen jeden byt, bytové spoluvlastnictví vzniknout nemůže (§ 1158 odst. 1 a contrario). (b) Jde-li o nebytový prostor nebo soubor bytů/prostorů, použijí se pravidla o bytu obdobně (§ 1158 odst. 2).
+
+##### G. Protiargumenty a rizika
+
+- **Námitka, že byt nelze převést samostatně:** vyvrátit § 1159 — jednotka je nemovitou věcí a samostatným předmětem vlastnictví (byt + podíl na společných částech).
+- **Námitka oddělitelnosti bytu od podílu na společných částech:** § 1159 stanoví jejich neoddělitelné spojení; nelze převést byt bez podílu ani naopak.
+- **Slabé místo:** přesné vymezení hranic bytu a společných částí závisí na prohlášení vlastníka; nejasnosti zakládají spory o rozsah jednotky.
+
+##### H. Praktický závěr
+
+Bytové spoluvlastnictví vzniká u nemovité věci, jejíž součástí je dům alespoň se dvěma byty (§ 1158); jednotka zahrnuje byt a neoddělitelný podíl na společných částech a je nemovitou věcí (§ 1159), kterou lze samostatně převádět a zatěžovat. Pravidla platí obdobně i pro nebytové prostory.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je součástí nemovité věci dům alespoň se dvěma byty (§ 1158)?
+- [ ] Je jednotka vymezena jako byt + podíl na společných částech (§ 1159)?
+- [ ] Je jednotka zapsána do katastru jako nemovitá věc?
+- [ ] Nejde o nebytový prostor / soubor (obdobné použití, § 1158 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení vlastníka, půdorysy podlaží, výpis z katastru (jednotky a podíly), stavební dokumentace dokládající počet bytů.
+
+---
+
 #### § 1160—1161 — Společné části
 
 **Společné jsou alespoň**:
@@ -678,6 +1473,44 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *MS v Praze* [29 Co 14/2025-191](https://rozhodnuti.justice.cz/rozhodnuti/?id=f7e26d1c-ef29-404f-bc74-b92b3121713f) — *započtení pohledávky, bezdůvodné obohacení, spoluvlastnictví, vlastnictví bytů, dlužné p…*
 - *VS v Praze* [9 Cmo 1/2025-86](https://rozhodnuti.justice.cz/rozhodnuti/?id=1aee6e53-ddb0-415d-ab89-a65f37ff31c4) — 6. 3. 2025
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Ve společenství vlastníků chce vlastník přízemní jednotky L1 zasklít lodžii a do nosné obvodové stěny prorazit nový otvor pro dveře na zahradu. Tvrdí, že lodžie i přilehlá stěna jsou „jeho". Ostatní vlastníci namítají, že jde o společné části. Důkazy: prohlášení vlastníka, projektová dokumentace (nosné konstrukce), stanovisko statika, výpis z katastru s velikostí podílů.
+
+**2. Právní otázka.** Jsou obvodová nosná stěna a lodžie společnými částmi nemovité věci podle § 1160, takže do nich nelze zasahovat bez souhlasu společenství, a jak se určí velikost podílu na společných částech (§ 1161)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1160 (společné jsou alespoň pozemek nebo věcné právo k němu, stavební části podstatné pro zachování domu a jeho tvaru i vzhledu, a zařízení sloužící i jinému vlastníku — výtah, schodiště, společné rozvody), § 1161 (default velikost podílů = **poměr podlahové plochy bytu k celku**).
+- *Související ustanovení téhož zákona:* § 1159 (jednotka), § 1175 (práva vlastníka — zákaz ohrozit/poškodit společné části, stavební úpravy uvnitř), § 1166 (prohlášení), § 1208—1209 (rozhodování shromáždění o úpravách společných částí).
+- *Související předpisy:* zák. č. 283/2021 Sb., stavební zákon (povolení zásahu do nosné konstrukce); zák. č. 256/2013 Sb. (katastr).
+- *Judikatura:* rozhodnutí citovaná u tohoto ustanovení (ObS pro Prahu 4 a 10, MS v Praze) ke společným částem, nebytovým prostorům a spoluvlastnictví; ustálená praxe k pojmu společné části.
+
+**4. Subsumpce.** Obvodová nosná stěna je stavební částí podstatnou pro zachování domu a jeho vzhledu → společná část (§ 1160), bez ohledu na to, že přiléhá k jednotce L1. Lodžie přístupná jen z jednotky bývá ve výlučném užívání, avšak její nosné a vnější prvky jsou společné. Zásah do nosné stěny tedy vyžaduje rozhodnutí společenství (a stavební povolení). Sporné: rozsah výlučného užívání lodžie dle prohlášení.
+
+**5. Řešení.** L1 nesmí svévolně zasáhnout do nosné stěny (společná část); potřebuje souhlas společenství (shromáždění) a stavebně-právní povolení. Velikost podílu na společných částech se určí dle poměru podlahové plochy (§ 1161), neurčuje-li prohlášení jinak. Procesně: žádost na shromáždění; bez souhlasu hrozí žaloba na odstranění zásahu. Riziko: statické a vzhledové dopady.
+
+**6. Varianty.** (a) Týká-li se úprava jen vnitřku bytu bez zásahu do společných částí (§ 1175), souhlas společenství netřeba. (b) Určuje-li prohlášení vlastníka jiný klíč pro podíly (než podlahová plocha), má přednost prohlášení (§ 1161 je dispozitivní default).
+
+##### G. Protiargumenty a rizika
+
+- **Námitka, že stěna/lodžie patří jen vlastníkovi jednotky:** vyvrátit § 1160 — stavební části podstatné pro zachování domu a jeho vzhledu jsou společné bez ohledu na polohu u jednotky.
+- **Námitka, že jde o úpravu uvnitř bytu (§ 1175):** zásah do nosné konstrukce a vnějšího vzhledu přesahuje vnitřní úpravy a dotýká se společných částí.
+- **Slabé místo:** rozsah výlučného užívání (lodžie) a klíč pro podíly závisí na konkrétním prohlášení vlastníka; bez jeho prostudování je posouzení nejisté.
+
+##### H. Praktický závěr
+
+Společnými částmi jsou vždy alespoň pozemek, stavební části podstatné pro zachování domu a jeho vzhledu a zařízení sloužící i jiným vlastníkům (§ 1160); zásahy do nich vyžadují rozhodnutí společenství. Velikost podílu na společných částech se řídí poměrem podlahové plochy, neurčuje-li prohlášení jinak (§ 1161).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o společnou část dle § 1160 (pozemek, nosné/vzhledové prvky, společná zařízení)?
+- [ ] Dotýká se zásah společných částí (pak souhlas společenství + stavební povolení)?
+- [ ] Jak je v prohlášení vymezeno výlučné užívání a klíč pro podíly?
+- [ ] Odpovídá velikost podílu poměru podlahové plochy (§ 1161), nebo prohlášení?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení vlastníka, projektová dokumentace (nosné konstrukce), stanovisko statika, výpis z katastru s podíly, usnesení shromáždění.
+
+---
+
 ### Pododdíl 2 — Vznik jednotky (§ 1163—1169)
 
 **§ 1163 — Výstavbou** — když dům je v dostatečném stupni rozestavěnosti (obvodové stěny + střecha + byt obvodovými stěnami).
@@ -694,9 +1527,85 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - **Většinou hlasů všech vlastníků jednotek**;
 - **Souhlas dotčeného vlastníka jednotky** (jehož práv se změna dotkne) + **zástavního věřitele**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník bytového domu M1 chce rozdělit dům na jednotky a část z nich prodat. Vyhotoví prohlášení vlastníka, k němuž připojí půdorysy podlaží a údaje o podlahových plochách, a podá návrh na zápis do katastru. Po zápisu a prodeji jedné jednotky M2 zjistí chybu ve vymezení a chce prohlášení napadnout. Důkazy: prohlášení vlastníka, půdorysy, výpis z katastru, kupní smlouva s M2.
+
+**2. Právní otázka.** Vzniknou jednotky zápisem prohlášení vlastníka do katastru podle § 1164 a § 1166, a lze po zápisu (poté, co jednotku nabyla další osoba) prohlášení prohlásit za neplatné podle § 1167?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1163 (vznik výstavbou při dostatečném stupni rozestavěnosti), § 1164 (vznik zápisem do veřejného seznamu z prohlášení vlastníka), § 1165 (vznik rozhodnutím soudu), § 1166 (náležitosti prohlášení: pozemek, dům, jednotky, společné části, velikost podílů, věcná práva; příloha — půdorysy a podlahové plochy), § 1167 (po zápisu nelze prohlašovat za neplatné, nabyla-li jednotku další osoba), § 1169 (změna prohlášení — většinou hlasů všech vlastníků + souhlas dotčeného vlastníka a zástavního věřitele).
+- *Související ustanovení téhož zákona:* § 1158—1159 (definice), § 1160—1161 (společné části, podíly).
+- *Související předpisy:* zák. č. 256/2013 Sb. (vkladové řízení); stavební zákon (rozestavěnost).
+- *Judikatura:* obecná judikatura k prohlášení vlastníka a ochraně nabyvatelů jednotek; rozhodnutí citovaná v kapitole k vlastnictví bytů.
+
+**4. Subsumpce.** Jednotky vznikly zápisem prohlášení vlastníka do katastru (§ 1164) s náležitostmi dle § 1166. Po zápisu a poté, co jednotku nabyl M2, nelze prohlášení prohlásit za neplatné (§ 1167) — chrání se právní jistota nabyvatelů. Vada se napravuje změnou prohlášení (§ 1169), nikoli neplatností. Sporné: zda jde o vadu odstranitelnou změnou, nebo o důvod jiné nápravy.
+
+**5. Řešení.** M1 nemůže prohlášení po nabytí jednotky M2 zneplatnit (§ 1167); chybu řeší změnou prohlášení dle § 1169 — většinou hlasů všech vlastníků a se souhlasem dotčeného vlastníka jednotky a jeho zástavního věřitele. Procesně: návrh na změnu prohlášení + zápis do katastru. Riziko: nesouhlas dotčeného vlastníka blokuje změnu.
+
+**6. Varianty.** (a) Vznikají-li jednotky výstavbou (§ 1163), je rozhodný dostatečný stupeň rozestavěnosti (obvodové stěny + střecha, byt ohraničený obvodovými stěnami). (b) Vznikají-li rozhodnutím soudu (§ 1165) při zrušení spoluvlastnictví či vypořádání SJM, určuje vznik soudní rozhodnutí.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka neplatnosti prohlášení pro vadu:** po zápisu a nabytí jednotky další osobou je vyloučena (§ 1167); náprava jen změnou prohlášení (§ 1169).
+- **Námitka, že ke změně stačí většina:** § 1169 vyžaduje navíc souhlas dotčeného vlastníka jednotky a jeho zástavního věřitele — bez nich změna neprojde.
+- **Slabé místo:** úplnost a správnost příloh prohlášení (půdorysy, podlahové plochy) je klíčová; jejich vady komplikují zápis i pozdější změny.
+
+#### H. Praktický závěr
+
+Jednotky vznikají nejčastěji zápisem prohlášení vlastníka do katastru (§ 1164), které musí mít zákonné náležitosti a přílohy (§ 1166); po nabytí jednotky další osobou už prohlášení nelze zneplatnit (§ 1167) a vady se řeší jeho změnou (§ 1169) se souhlasem dotčených osob.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jakým způsobem jednotky vznikají (výstavba § 1163 / zápis § 1164 / rozhodnutí § 1165)?
+- [ ] Obsahuje prohlášení všechny náležitosti a přílohy (§ 1166)?
+- [ ] Nabyla již jednotku další osoba (pak vyloučena neplatnost, § 1167)?
+- [ ] Je u změny prohlášení souhlas dotčeného vlastníka a zástavního věřitele (§ 1169)?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení vlastníka s přílohami (půdorysy, podlahové plochy), výpis z katastru, doklady o nabytí jednotek, souhlasy dotčených osob u změny prohlášení.
+
+---
+
 ### Pododdíl 3 — Smlouva o výstavbě (§ 1170—1174)
 
 Pro **družstevní výstavbu** + **přístavbu/nástavbu**. Vyžaduje **písemnou formu** + obsahuje náležitosti prohlášení + způsob úhrady nákladů + velikost spoluvlastnických podílů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina zájemců N1, N2 a N3 chce formou nástavby na stávajícím bytovém domě vybudovat tři nové půdní byty a stát se jejich vlastníky. S vlastníky stávajícího domu uzavřou ujednání o nástavbě, v němž rozdělí náklady a stanoví budoucí spoluvlastnické podíly. Důkazy: smlouva o výstavbě, stavební dokumentace, doklady o úhradě nákladů, prohlášení/změna prohlášení.
+
+**2. Právní otázka.** Vzniknou nové jednotky nástavbou na základě smlouvy o výstavbě podle § 1170 a násl., a jaké náležitosti (forma, obsah) musí smlouva mít?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1170—1174 — smlouva o výstavbě pro družstevní výstavbu i přístavbu/nástavbu; vyžaduje **písemnou formu** a obsahuje náležitosti prohlášení vlastníka + způsob úhrady nákladů + velikost spoluvlastnických podílů.
+- *Související ustanovení téhož zákona:* § 1163 (vznik výstavbou), § 1166 (náležitosti prohlášení), § 1169 (změna prohlášení), § 1158—1161 (definice, společné části, podíly).
+- *Související předpisy:* stavební zákon (zák. č. 283/2021 Sb.) — povolení nástavby; zák. č. 256/2013 Sb. (zápis nových jednotek).
+- *Judikatura:* obecná judikatura k výstavbě jednotek a smlouvě o výstavbě; rozhodnutí k bytovému spoluvlastnictví citovaná v kapitole.
+
+**4. Subsumpce.** Nástavba půdních bytů na existující dům spadá pod smlouvu o výstavbě (§ 1170 a násl.); ta musí být písemná a obsahovat náležitosti prohlášení, způsob úhrady nákladů a velikost podílů. Nové jednotky vzniknou výstavbou (§ 1163) ve spojení se zápisem do katastru. Sporné: úplnost náležitostí smlouvy a soulad podílů se skutečným přínosem stran.
+
+**5. Řešení.** N1—N3 a stávající vlastníci uzavřou písemnou smlouvu o výstavbě se všemi náležitostmi; po realizaci a zápisu vzniknou nové jednotky a upraví se podíly na společných částech. Procesně: stavební povolení, smlouva o výstavbě, návrh na zápis. Riziko: neúplná smlouva (chybějící náležitosti prohlášení nebo způsob úhrady nákladů) ohrožuje platnost a zápis.
+
+**6. Varianty.** (a) Jde-li o družstevní výstavbu, použije se týž režim smlouvy o výstavbě s družstevními specifiky. (b) Změní-li se nástavbou rozsah společných částí a podílů stávajících vlastníků, je nutná i odpovídající změna prohlášení (§ 1169) se souhlasy dotčených.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka neplatnosti pro nedostatek formy/náležitostí:** smlouva o výstavbě musí být písemná a obsahovat náležitosti prohlášení + úhradu nákladů + podíly; jejich absence vede k vadě.
+- **Námitka zásahu do práv stávajících vlastníků** (zmenšení podílů): neutralizovat jejich účastí na smlouvě a souhlasem se změnou prohlášení (§ 1169).
+- **Slabé místo:** soulad sjednaných podílů se skutečnými náklady a přínosem stran; nepřesnosti zakládají pozdější spory o velikost podílů.
+
+#### H. Praktický závěr
+
+Nové jednotky lze vytvořit nástavbou, přístavbou či družstevní výstavbou na základě písemné smlouvy o výstavbě (§ 1170 a násl.), která musí obsahovat náležitosti prohlášení vlastníka, způsob úhrady nákladů a velikost spoluvlastnických podílů; navazuje stavební povolení a zápis do katastru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má smlouva o výstavbě písemnou formu (§ 1170 a násl.)?
+- [ ] Obsahuje náležitosti prohlášení vlastníka + způsob úhrady nákladů + velikost podílů?
+- [ ] Je zajištěno stavební povolení nástavby/přístavby?
+- [ ] Je promítnuta změna podílů stávajících vlastníků (souhlasy, § 1169)?
+
+**Typicky rozhodné důkazy / podklady:** písemná smlouva o výstavbě, stavební dokumentace a povolení, doklady o úhradě nákladů, prohlášení/změna prohlášení, výpis z katastru.
+
+---
 
 ### Pododdíl 4 — Práva a povinnosti vlastníka jednotky (§ 1175—1183)
 
@@ -718,6 +1627,44 @@ Pro **družstevní výstavbu** + **přístavbu/nástavbu**. Vyžaduje **písemno
 
 **§ 1181**: **zálohy na služby** (energie, voda, výtah).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník jednotky O1 dlouhodobě neplatí příspěvky na správu domu a zálohy na služby; navíc provozuje v bytě hlučnou krátkodobou ubytovací činnost a ruší ostatní vlastníky. SVJ eviduje dluh 60 000 Kč a stížnosti sousedů. O1 navíc nenahlásil počet osob bydlících v bytě. Důkazy: evidence příspěvků a záloh, upomínky, stížnosti sousedů, prohlášení a pravidla správy domu.
+
+**2. Právní otázka.** Porušuje O1 povinnosti vlastníka jednotky podle § 1175—1181 (řídit se pravidly správy, neztížit ostatním výkon práv, hradit příspěvek na správu a zálohy na služby, oznámit počet osob), a jaké jsou důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1175 (právo svobodně spravovat a výlučně užívat byt, užívat společné části; zákaz ztížit jinému výkon stejných práv a poškodit/ohrozit společné části; údržba bytu a drobné opravy společných částí uvnitř bytu), § 1176 (řídit se pravidly správy domu), § 1177 (oznámit správci jméno, bydliště a počet osob v bytě), § 1180 (příspěvek na správu — default poměr podílu; náklady administrativy stejně na každou jednotku), § 1181 (zálohy na služby).
+- *Související ustanovení téhož zákona:* § 1182 (zpřístupnění bytu), § 1184 (prodej jednotky při porušování povinností — exekuce na jednotku), § 1206—1209 (rozhodování shromáždění).
+- *Související předpisy:* zák. č. 67/2013 Sb. (služby spojené s užíváním bytu); předpisy o ochraně před hlukem; OSŘ (vymáhání dluhu).
+- *Judikatura:* NS 26 Cdo 915/2024 — bezdůvodné obohacení v poměrech bytového spoluvlastnictví; judikatura k vymáhání příspěvků a k povinnostem vlastníka jednotky.
+
+**4. Subsumpce.** O1 porušuje § 1180 a § 1181 (neplacení příspěvků a záloh), § 1176 (pravidla správy) a § 1175 (ztěžuje ostatním výkon práv hlukem); nesplnil i § 1177 (oznámení počtu osob). SVJ má nárok na zaplacení dlužných příspěvků a záloh a na zdržení se rušivého jednání. Sporné: výše vyúčtování služeb a přiměřenost omezení činnosti.
+
+**5. Řešení.** SVJ vymáhá dluh žalobou na zaplacení (s evidencí a upomínkami) a domáhá se zdržení rušivého chování; při soustavném a závažném porušování povinností lze v krajním případě iniciovat prodej jednotky (§ 1184). Procesně: doložení dluhu, vyúčtování a stížností. Riziko: spory o správnost vyúčtování služeb a o intenzitu rušení.
+
+**6. Varianty.** (a) Týká-li se dluh jen záloh na služby, řeší se primárně vyúčtováním dle z. č. 67/2013 Sb.; nedoplatek je vymahatelný samostatně. (b) Jde-li o stavební úpravy uvnitř bytu nezasahující společné části, jsou v právu O1 (§ 1175), ledaže ohrožují společné části.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka nesprávného vyúčtování:** SVJ musí doložit řádné vyúčtování příspěvků a záloh; chybné vyúčtování oslabuje vymáhání nedoplatku.
+- **Námitka, že činnost je výkonem vlastnického práva (§ 1175):** právo užívat byt je omezeno zákazem ztížit ostatním výkon jejich práv; rušení nad míru přiměřenou poměrům je porušením.
+- **Slabé místo:** prodej jednotky (§ 1184) je krajním prostředkem s přísnými podmínkami; běžně se vystačí s vymáháním dluhu a zdržovacími nároky.
+
+#### H. Praktický závěr
+
+Vlastník jednotky smí byt svobodně užívat (§ 1175), musí se však řídit pravidly správy (§ 1176), oznámit počet osob (§ 1177), hradit příspěvek na správu (§ 1180, default dle podílu, administrativa stejně na jednotku) a zálohy na služby (§ 1181), a nesmí ztěžovat ostatním výkon jejich práv. Porušení vede k vymáhání plnění, zdržovacím nárokům, krajně k prodeji jednotky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Hradí vlastník příspěvek na správu (§ 1180) a zálohy na služby (§ 1181)?
+- [ ] Řídí se pravidly správy domu (§ 1176) a oznámil počet osob (§ 1177)?
+- [ ] Neztěžuje ostatním výkon jejich práv a nepoškozuje společné části (§ 1175)?
+- [ ] Bylo provedeno řádné vyúčtování jako podklad pro vymáhání?
+
+**Typicky rozhodné důkazy / podklady:** evidence příspěvků a záloh, vyúčtování a upomínky, prohlášení a pravidla správy domu, stížnosti a důkazy o rušení, oznámení počtu osob v bytě.
+
+---
+
 ### Pododdíl 5 — Správa domu a pozemku (§ 1189—1222)
 
 Klíčové instituty (zde jen přehledem):
@@ -731,6 +1678,43 @@ Klíčové instituty (zde jen přehledem):
 **§ 1207—1209**: hlasování (default většina přítomných); kvalifikované většiny pro některé záležitosti (změna prohlášení, převod společné části — 100 %); **přehlasovaný vlastník** může do **3 měsíců** napadnout u soudu.
 
 **§ 1208 — Působnost shromáždění**: změna stanov, schválení účetní závěrky, výše příspěvků, volba/odvolání výboru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V bytovém domě je 8 jednotek a 6 různých vlastníků; SVJ dosud nevzniklo. Výbor svolá shromáždění pozvánkou doručenou 20 dnů předem a nechá odhlasovat zásadní opravu střechy a změnu stanov prostou většinou přítomných. Vlastník P1, který nebyl řádně pozván a byl přehlasován, chce rozhodnutí napadnout. Důkazy: stanovy, pozvánka s datem doručení, zápis ze shromáždění a prezenční listina, výpočet podílů.
+
+**2. Právní otázka.** Bylo shromáždění SVJ svoláno a usnášelo se v souladu s § 1206—1209 (lhůta pozvánky, potřebné většiny, působnost), a může přehlasovaný vlastník P1 rozhodnutí napadnout u soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1189—1193 (pravidla správy, příspěvky/fond, hlasování o opravách), § 1194 a násl. (SVJ jako právnická osoba — povinné při **alespoň 5 jednotkách a 4 různých vlastnících**), § 1206 (shromáždění alespoň 1× ročně; pozvánka **30 dnů předem**), § 1207—1209 (hlasování — default většina přítomných; kvalifikované většiny, u převodu společné části 100 %; **přehlasovaný vlastník** může do **3 měsíců** napadnout u soudu), § 1208 (působnost shromáždění — stanovy, účetní závěrka, výše příspěvků, volba/odvolání výboru).
+- *Související ustanovení téhož zákona:* § 1180—1181 (příspěvky a zálohy), § 258 a násl. (neplatnost usnesení člena korporace — analogicky), § 1209 (návrh k soudu).
+- *Související předpisy:* zák. č. 304/2013 Sb. (veřejné rejstříky — zápis SVJ); zák. č. 67/2013 Sb. (služby).
+- *Judikatura:* NS 26 Cdo 1583/2021 — ke společenství vlastníků jednotek a vlastnictví bytů; judikatura k přezkumu usnesení shromáždění a k tříměsíční lhůtě.
+
+**4. Subsumpce.** Dům s 8 jednotkami a 6 vlastníky → SVJ je povinné (§ 1194 a násl.). Pozvánka doručená jen 20 dnů předem nedodržela 30denní lhůtu (§ 1206) → vada svolání. Změna stanov a zásadní oprava mohou vyžadovat kvalifikovanou většinu dle stanov/§ 1208—1209. P1 jako přehlasovaný a nesprávně pozvaný vlastník může do 3 měsíců napadnout usnesení u soudu (§ 1209). Sporné: vliv vady pozvánky na platnost konkrétních usnesení.
+
+**5. Řešení.** P1 podá ve tříměsíční lhůtě návrh k soudu na vyslovení neplatnosti usnesení pro vadu svolání (krátká pozvánka) a pro nedodržení potřebné většiny. Procesně: doloží pozvánku s datem doručení, prezenční listinu, zápis a stanovy. Riziko: marné uplynutí tříměsíční lhůty a posouzení, zda vada mohla mít vliv na výsledek.
+
+**6. Varianty.** (a) Má-li dům méně než 5 jednotek nebo méně než 4 různé vlastníky, SVJ vzniknout nemusí a správa se řídí § 1189 a násl. bez povinného společenství. (b) Šlo-li by o převod společné části, vyžaduje se souhlas 100 % vlastníků (§ 1208—1209) a prostá většina by nestačila.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že vada pozvánky neměla vliv na výsledek:** soud zkoumá, zda porušení mohlo ovlivnit přijetí usnesení; P1 musí tvrdit relevanci vady.
+- **Námitka zmeškání tříměsíční lhůty:** § 1209 váže přezkum na lhůtu 3 měsíců od dozvědění se o usnesení — po jejím uplynutí je napadení vyloučeno.
+- **Slabé místo:** potřebné většiny pro jednotlivé záležitosti se řídí i stanovami; bez jejich prostudování nelze platnost usnesení spolehlivě posoudit.
+
+#### H. Praktický závěr
+
+Správu domu zajišťuje SVJ, povinné při alespoň 5 jednotkách a 4 různých vlastnících (§ 1194 a násl.); shromáždění se schází alespoň jednou ročně, svolává se pozvánkou 30 dnů předem (§ 1206) a rozhoduje potřebnými většinami (§ 1207—1209), přičemž přehlasovaný vlastník má 3 měsíce na soudní napadení usnesení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je SVJ povinné (≥ 5 jednotek a ≥ 4 různí vlastníci)?
+- [ ] Byla pozvánka doručena alespoň 30 dnů předem (§ 1206)?
+- [ ] Byla dosažena potřebná většina pro danou záležitost (§ 1207—1209, stanovy)?
+- [ ] Spadá rozhodnutí do působnosti shromáždění (§ 1208)?
+- [ ] Běží tříměsíční lhůta přehlasovaného vlastníka k soudu (§ 1209)?
+
+**Typicky rozhodné důkazy / podklady:** stanovy SVJ, pozvánka s dokladem o doručení, prezenční listina a zápis ze shromáždění, výpočet hlasů podle podílů, výpis z rejstříku společenství.
 
 ---
 
