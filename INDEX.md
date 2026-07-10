@@ -179,6 +179,10 @@ Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku P
 
 Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. zn., datum, odkaz na plný text a právní věta). Přehled všech citovaných rozhodnutí: [judikatura/README.md](judikatura/README.md).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
