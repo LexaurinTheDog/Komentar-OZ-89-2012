@@ -188,6 +188,11 @@ Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. 
 
 - [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
 
+<!-- LOCAL-HLOUBKOVY-VYKLAD-LINK -->
+## Hloubkový výklad a aplikační mapa
+
+- [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) — třináctivrstvá předpisová syntéza, místní důkazní opora, kapitolová matice a autorský protokol úplného právního komentáře.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
