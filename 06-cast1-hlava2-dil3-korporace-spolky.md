@@ -81,6 +81,7 @@ Korporace je PO s **osobním substrátem**; tato kvalifikace určuje celý aplik
 ### § 211 — Jediný a nedostatečný počet členů
 
 > (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
+> (2) Klesne-li počet členů korporace pod počet stanovený zákonem, soud ji i bez návrhu zruší a rozhodne o její likvidaci. Nejprve jí však poskytne přiměřenou lhůtu ke zjednání nápravy.
 
 > (2) Klesne-li počet členů korporace pod počet stanovený zákonem, soud ji i bez návrhu zruší a rozhodne o její likvidaci. Nejprve jí však poskytne přiměřenou lhůtu ke zjednání nápravy.
 
@@ -140,6 +141,7 @@ Pokles pod zákonné minimum členů není automatickým zánikem — soud nejpr
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
 > (1) Přijetím členství v korporaci se člen vůči ní zavazuje chovat se čestně a zachovávat její vnitřní řád. Korporace nesmí svého člena bezdůvodně zvýhodňovat ani znevýhodňovat a musí šetřit jeho členská práva i oprávněné zájmy.
+> (2) Zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet. Toto právo zaniká, pokud návrh není podán do tří měsíců ode dne, kdy k zneužití hlasu došlo.
 
 > (2) Zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet. Toto právo zaniká, pokud návrh není podán do tří měsíců ode dne, kdy k zneužití hlasu došlo.
 
@@ -469,6 +471,8 @@ Název spolku musí povinně obsahovat „spolek" / „zapsaný spolek" / „z. 
 #### § 217 — Hlavní a vedlejší činnost
 
 > (1) Hlavní činností spolku může být jen uspokojování a ochrana těch zájmů, k jejichž naplňování je spolek založen. Podnikání nebo jiná výdělečná činnost hlavní činností spolku být nemůže.
+> (2) Vedle hlavní činnosti může spolek vyvíjet též vedlejší hospodářskou činnost spočívající v podnikání nebo jiné výdělečné činnosti, je-li její účel v podpoře hlavní činnosti nebo v hospodárném využití spolkového majetku.
+> (3) Zisk z činnosti spolku lze použít pouze pro spolkovou činnost včetně správy spolku.
 
 > (2) Vedle hlavní činnosti může spolek vyvíjet též vedlejší hospodářskou činnost spočívající v podnikání nebo jiné výdělečné činnosti, je-li její účel v podpoře hlavní činnosti nebo v hospodárném využití spolkového majetku.
 

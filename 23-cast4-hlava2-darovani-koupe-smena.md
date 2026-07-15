@@ -995,6 +995,10 @@ Při odeslání zboží přechází nebezpečí škody zpravidla předáním dop
 
 > (1) Při koupi nemovité věci vyžaduje smlouva písemnou formu.
 
+**§ 2128**:
+> (1) Při prodeji a koupi nemovité věci vyžaduje kupní smlouva formu podle § 560. Pro ujednání o výhradě vlastnického práva, o právu zpětné koupě, o zákazu zcizení nebo zatížení, o výhradě předkupního práva nebo lepšího kupce, jakož i pro ujednání o koupi na zkoušku však postačí i jiná forma, nemá-li být takovým ujednáním k nemovité věci zřízeno věcné právo.
+> (2) Zřizuje-li se ujednáním o výhradě vlastnického práva, právu zpětné koupě, zákazu zcizení nebo zatížení, o výhradě předkupního práva nebo lepšího kupce nebo ujednáním o koupi na zkoušku věcné právo k věci zapsané do veřejného seznamu, vzniká takové právo až zápisem do veřejného seznamu.
+
 **Klíčová pravidla**:
 - **Písemná forma** je obligatorní (§ 2128);
 - **Vklad do katastru** je konstitutivní pro vznik vlastnictví (§ 1105);
@@ -1358,6 +1362,10 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 ### § 2175 — Definice
 
 > (1) Smlouvou o koupi závodu se prodávající zavazuje převést na kupujícího vlastnické právo k závodu a kupující se zavazuje převzít závazky prodávajícího související se závodem a zaplatit kupní cenu.
+
+**§ 2175**:
+> (1) Koupí závodu nabývá kupující vše, co k závodu jako celku náleží. O koupi závodu se jedná i v případě, že strany z koupě jednotlivou položku vyloučí, aniž tím celek ztratí vlastnost závodu.
+> (2) Koupě závodu se považuje za převod činnosti zaměstnavatele.
 
 **Tři klíčové znaky**:
 1. Převedení **celého závodu** jako hromadné věci;

@@ -395,6 +395,10 @@ Držba předpokládá způsobilý předmět: převoditelné právo umožňujíc�
 
 > (2) **Odvozeně** — od dosavadního držitele (převod / sukcese; v rozsahu, jak ji on měl).
 
+**§ 990**:
+> (1) Držbu lze nabýt bezprostředně tím, že se jí držitel ujme svou mocí. Bezprostředně se držba nabývá v rozsahu, v jakém se jí držitel skutečně ujal.
+> (2) Držbu lze nabýt odvozeně tím, že dosavadní držitel převede svou držbu na nového držitele, nebo tím, že se nový držitel ujme držby jako právní nástupce dosavadního držitele. Odvozeně se nabývá držba v rozsahu, v jakém ji měl dosavadní držitel a v jakém ji na nového držitele převedl.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Praze* [25 Co 92/2024-235](https://rozhodnuti.justice.cz/rozhodnuti/?id=2a1fea1b-0bef-4675-88ec-0f6d7adb0cf3) — *držba, rozvod manželství, spoluvlastnictví, společné jmění manželů, notářský zápis, vydr…*
@@ -728,7 +732,7 @@ Posesorní ochrana (§ 1003, § 1007) je rychlým prostředkem k obnovení fakti
 > Vše, co někomu patří, všechny jeho věci hmotné i nehmotné, je jeho vlastnictvím.
 
 **§ 1012**:
-> Vlastník má právo se svým vlastnictvím v mezích právního řádu **libovolně nakládat a jiné osoby z toho vyloučit**.
+> Vlastník má právo se svým vlastnictvím v mezích právního řádu libovolně nakládat a jiné osoby z toho vyloučit. Vlastníku se zakazuje nad míru přiměřenou poměrům závažně rušit práva jiných osob, jakož i vykonávat takové činy, jejichž hlavním účelem je jiné osoby obtěžovat nebo poškodit.
 
 Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, abutendi* (užívat, vážit plody, nakládat) + **exkluzivita** (vyloučení jiných).
 
@@ -1186,7 +1190,8 @@ Vyvlastnění a omezení vlastnického práva jsou krajním a subsidiárním pro
 ### § 1040—1044 — Ochrana vlastnictví
 
 **§ 1040**:
-> Kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal.
+> (1) Kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal.
+> (2) Žalovat o vydání věci nemůže ten, kdo věc svým jménem nabyvateli zcizil, aniž byl jejím vlastníkem, a teprve poté k ní vlastnické právo nabyl; nabytím vlastnického práva zcizitelem se nabyvatel stává vlastníkem věci.
 
 **§ 1041**:
 > (1) Kdo se domáhá, aby mu věc byla vydána, musí ji popsat takovými znaky, kterými se rozeznává od jiných věcí téhož druhu.
@@ -1609,6 +1614,10 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 **§ 1090**:
 > (1) K vydržení se vyžaduje pravost držby a aby se držba zakládala na právním důvodu, který by postačil ke vzniku vlastnického práva, pokud by náleželo převodci nebo kdyby bylo zřízeno oprávněnou osobou.
 > (2) Nabyl-li zůstavitel nepravou držbu, nemůže vlastnické právo vydržet ani jeho dědic, i kdyby držel poctivě. To platí obdobně i pro všeobecného právního nástupce právnické osoby.
+
+**§ 1089**:
+> (1) Drží-li poctivý držitel vlastnické právo po určenou dobu, vydrží je a nabude věc do vlastnictví.
+> (2) Nepoctivost předchůdce nebrání poctivému nástupci, aby počal vydržení dnem, kdy nabyl držby.
 
 - (1) **Poctivý držitel** po určenou dobu **vydrží** vlastnické právo;
 - (2) Nepoctivost předchůdce **nebrání** poctivému nástupci (kalkuluje se až od jeho nabytí držby).

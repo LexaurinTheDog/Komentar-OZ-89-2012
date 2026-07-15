@@ -23,7 +23,7 @@
 
 ### § 3015 — Transpozice EU práva
 
-> Tento zákon zapracovává příslušné předpisy Evropské unie.
+> Tento zákon zapracovává příslušné předpisy Evropské unie1).
 
 **Klíčový odkaz**: OZ transponuje řadu EU směrnic — v poznámce pod čarou výslovně uvedeno (zhruba 15 směrnic).
 
@@ -230,7 +230,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 ### § 3019 — Identifikační údaje
 
-> Údaji, podle nichž lze člověka zjistit, jsou zejména jméno, bydliště a datum narození, popřípadě identifikující údaj podle jiného právního předpisu.
+> Údaji, podle nichž lze člověka zjistit, jsou zejména jméno, bydliště a datum narození, popřípadě identifikující údaj podle jiného právního předpisu. Identifikujícím údajem právnické osoby nebo podnikatele je identifikační číslo osoby, bylo-li jim přiděleno.
 
 **Identifikační údaje**:
 - **FO**: jméno + bydliště + datum narození (nebo **rodné číslo** dle § 16 zákona č. 133/2000 Sb. o evidenci obyvatel);

@@ -2041,6 +2041,10 @@ Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále
 
 > (1) Pachtovní smlouvou o pachtu závodu se propachtovatel zavazuje přenechat pachtýři závod (jeho část) k užívání a požívání a pachtýř se zavazuje platit propachtovateli pachtovné.
 
+**§ 2349**:
+> (1) Je-li propachtován závod, pachtýř jej užívá i požívá způsobem a v rozsahu, v jakém je toho třeba k řádnému provozování závodu. Předmět činnosti provozované v závodu může pachtýř změnit, jen bylo-li to výslovně ujednáno.
+> (2) Pacht závodu se považuje za převod činnosti zaměstnavatele.
+
 **Charakteristika**:
 - Pachtýř **provozuje závod vlastním jménem**;
 - Pachtýř má právo na **zisk z provozu**;

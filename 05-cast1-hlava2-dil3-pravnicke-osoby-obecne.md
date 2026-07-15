@@ -484,11 +484,13 @@ Mlčí-li zakladatelské jednání o době, je PO ustavena na dobu neurčitou. K
 ### § 125—127 — Jeden vs. více zakladatelů; vznik; předvznikové jednání
 
 **§ 125**:
+> (1) Více zakladatelů zakládá právnickou osobu přijetím stanov nebo uzavřením jiné smlouvy.
 > (2) Zákon stanoví, ve kterých případech lze právnickou osobu založit i právním jednáním jedné osoby obsaženým v zakladatelské listině.
 
 **§ 126**:
+> (1) Právnická osoba vzniká dnem zápisu do veřejného rejstříku.
 > (2) Je-li právnická osoba zřízena zákonem, vzniká dnem nabytí jeho účinnosti, nestanoví-li zákon den pozdější.
-> (3) Zákon stanoví, ve kterých dalších případech není zápis do veřejného rejstříku potřebný ke vzniku právnické osoby. Zákon stanoví, ve kterých případech je třeba k vzniku právnické osoby jejího zápisu do jiné evidence, jakož i to, jaké náležitosti zápis má a jaké jsou jeho účinky.
+> (3) Zákon stanoví, ve kterých dalších případech není zápis do veřejného rejstříku potřebný ke vzniku právnické osoby. Zákon stanoví, ve kterých případech je k založení nebo ke vzniku právnické osoby potřebné rozhodnutí orgánu veřejné moci.
 
 **§ 127**:
 > Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít. V takovém případě platí, že je z těchto jednání oprávněna a zavázána od počátku. Převezme-li je, dá dalším zúčastněným najevo, že tak učinila.§ 127: Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít...
@@ -565,6 +567,11 @@ Za jednání učiněná jménem PO před jejím vznikem odpovídá osobně (a v�
 > Po vzniku právnické osoby se nelze domáhat určení, že nevznikla, a nelze z toho důvodu zrušit její zápis do veřejného rejstříku.
 
 **§ 129**:
+> (1) Soud prohlásí právnickou osobu po jejím vzniku za neplatnou i bez návrhu, pokud
+>   - a) zakladatelské právní jednání chybí,
+>   - b) zakladatelské právní jednání nemá náležitost nezbytnou pro právní existenci právnické osoby,
+>   - c) právní jednání zakladatelů odporuje § 145 nebo
+>   - d) právnickou osobu založilo méně osob, než je k tomu podle zákona třeba.
 > (2) Dnem, kdy je právnická osoba prohlášena za neplatnou, vstupuje do likvidace.
 
 **§ 130**:
@@ -641,11 +648,13 @@ Vznik zapsané PO je nezvratný (§ 128); vadně ustavenou PO lze napadnout jen 
 ### § 132—135 — Název PO
 
 **§ 132**:
+> (1) Jménem právnické osoby je její název.
 > (2) Název musí odlišit právnickou osobu od jiné osoby a obsahovat označení její právní formy. Název nesmí být klamavý.
 
 **§ 133**:
+> (1) Název může obsahovat jméno člověka, k němuž má právnická osoba zvláštní vztah. Je-li člověk živ, lze užít jeho jméno v názvu právnické osoby jen s jeho souhlasem; zemřel-li, aniž dal souhlas, vyžaduje se souhlas jeho manžela, a pokud není, souhlas zletilého potomka, a pokud není on, souhlas předka.
 > (2) Bylo-li v názvu právnické osoby užito příjmení a je-li pro to důvod spočívající v důležitém zájmu na ochraně rodiny, použije se § 78 odst. 3 obdobně.
-> (3) Kdo má právo udělit souhlas k užití jména člověka v názvu právnické osoby, má právo jej kdykoli odvolat, i když byl udělen na určitou dobu; bylo-li ujednáno něco jiného, nepřihlíží se k tomu, pokud jsou pro odvolání důvody zvlášť závažné. Byl-li souhlas odvolán bezdůvodně, nahradí ten, kdo souhlas odvolal, právnické osobě škodu z toho vzniklou.
+> (3) Kdo má právo udělit souhlas k užití jména člověka v názvu právnické osoby, má právo jej kdykoli odvolat, a to i když jej udělil na určitou dobu; bylo-li ujednáno něco jiného, nepřihlíží se k tomu, odůvodňuje-li odvolání souhlasu podstatná změna okolností nebo jiný rozumný důvod. Byl-li souhlas udělený na určitou dobu odvolán, aniž to odůvodňuje podstatná změna okolností nebo jiný rozumný důvod, nahradí odvolávající právnické osobě škodu z toho vzniklou.
 
 **§ 134**:
 > (1) Název právnické osoby může obsahovat některý příznačný prvek názvu jiné právnické osoby, je-li pro to důvod v jejich vzájemném vztahu. I v tom případě musí být veřejnost s to oba názvy dostatečně rozlišit.
@@ -740,6 +749,7 @@ Název PO musí být odlišitelný, obsahovat označení právní formy a nesmí
 > (2) Zapisuje-li se právnická osoba do veřejného rejstříku, postačí, pokud zakladatelské právní jednání uvede název obce, kde je sídlo právnické osoby; do veřejného rejstříku však právnická osoba navrhne zapsat plnou adresu sídla.
 
 **§ 137**:
+> (1) Každý se může dovolat skutečného sídla právnické osoby.
 > (2) Proti tomu, kdo se dovolá sídla zapsaného ve veřejném rejstříku, nemůže právnická osoba namítat, že má skutečné sídlo v jiném místě.
 
 **Výklad:**
@@ -961,6 +971,11 @@ Povahu PO (veřejný vs. soukromý zájem) určuje její hlavní, fakticky vykon
 ### § 145 — Zakázané PO
 
 > (1) Zakazuje se založit právnickou osobu, jejímž účelem je porušení práva nebo dosažení nějakého cíle nezákonným způsobem, zejména je-li jejím účelem
+>   - a) popření nebo omezení osobních, politických nebo jiných práv osob pro jejich národnost, pohlaví, rasu, původ, politické nebo jiné smýšlení, náboženské vyznání a sociální postavení,
+>   - b) rozněcování nenávisti a nesnášenlivosti,
+>   - c) podpora násilí nebo
+>   - d) řízení orgánu veřejné moci nebo výkonu veřejné správy bez zákonného zmocnění.
+> (2) Zakazuje se založit právnickou osobu ozbrojenou nebo s ozbrojenými složkami, ledaže se jedná o právnickou osobu zřízenou zákonem, jíž zákon ozbrojení nebo vytvoření ozbrojené složky výslovně dovoluje nebo ukládá, nebo o právnickou osobu, která nakládá se zbraněmi v souvislosti se svým podnikáním podle jiného právního předpisu, anebo o právnickou osobu, jejíž členové drží nebo užívají zbraně pro sportovní nebo kulturní účely či k myslivosti nebo k plnění úkolů podle jiného právního předpisu.
   - a) popření nebo omezení osobních, politických nebo jiných práv osob pro jejich národnost, pohlaví, rasu, původ, politické nebo jiné smýšlení, náboženské vyznání a sociální postavení,
   - b) rozněcování nenávisti a nesnášenlivosti,
   - c) podpora násilí nebo
@@ -1103,6 +1118,7 @@ Veřejná prospěšnost podle § 146 je dnes pouze materiální charakteristikou
 ### § 151—152 — Orgány obecně
 
 **§ 151**:
+> (1) Zákon stanoví, popřípadě zakladatelské právní jednání určí, jakým způsobem a v jakém rozsahu členové orgánů právnické osoby za ni rozhodují a nahrazují její vůli.
 > (2) Dobrá víra členů orgánu právnické osoby se přičítá právnické osobě.
 
 **§ 152**:
@@ -1170,6 +1186,8 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 ### § 153 — Úpadce ve funkci
 
 > (1) Osoba, jejíž úpadek byl osvědčen, se může stát členem voleného orgánu, oznámila-li to předem tomu, kdo ji do funkce povolává; to neplatí, pokud od skončení insolvenčního řízení uplynuly alespoň tři roky.
+> (2) Byl-li osvědčen úpadek osoby, která je členem voleného orgánu, oznámí to tato osoba bez zbytečného odkladu tomu, kdo ji do funkce povolal.
+> (3) Nedošlo-li k oznámení, může se domáhat každý, kdo na tom má právní zájem, aby člena voleného orgánu z funkce odvolal soud. To neplatí, rozhodl-li ten, kdo člena voleného orgánu povolal, poté, co se o osvědčení úpadku této osoby dozvěděl, že má ve funkci setrvat.
 
 > (2) Byl-li osvědčen úpadek osoby, která je členem voleného orgánu, oznámí to tato osoba bez zbytečného odkladu tomu, kdo ji do funkce povolal.
 
@@ -1292,14 +1310,17 @@ Je-li členem orgánu PO jiná PO, musí zmocnit konkrétní fyzickou osobu; jin
 ### § 156—158a — Kolektivní orgán, usnášení
 
 **§ 156**:
+> (1) Je-li orgán kolektivní, rozhoduje o záležitostech právnické osoby ve sboru. Je schopen usnášet se za přítomnosti nebo jiné účasti většiny členů a rozhoduje většinou hlasů zúčastněných členů.
 > (2) Je-li působnost jednotlivých členů orgánu rozdělena podle určitých oborů, ustanovení odstavce 1 se nepoužije. Rozdělení působnosti nezbavuje další členy povinnosti dohlížet, jak jsou záležitosti právnické osoby spravovány.
 
 **§ 157**:
+> (1) Je-li rozhodnutí přijato, zaznamená se na žádost člena voleného orgánu, který návrhu odporoval, jeho odchylný názor.
 > (2) Byl-li návrh přijat za neúčasti některého z členů, je tento člen oprávněn dozvědět se obsah rozhodnutí.
 
 **§ 158**:
+> (1) Zakladatelské právní jednání může stanovit pro schopnost orgánu usnášet se vyšší počet zúčastněných, vyžádat pro přijetí rozhodnutí vyšší počet hlasů nebo stanovit postup, kterým lze způsob rozhodování orgánu měnit.
 > (2) Zakladatelské právní jednání může připustit rozhodování orgánu i mimo zasedání v písemné formě nebo s využitím technických prostředků.
-> (3) Zakladatelské právní jednání může určit, že v případě dosažení rovnosti hlasů při rozhodování voleného orgánu právnické osoby rozhoduje hlas předsedajícího.§ 158a: (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami...
+> (3) Zakladatelské právní jednání může určit, že v případě dosažení rovnosti hlasů při rozhodování voleného orgánu právnické osoby rozhoduje hlas předsedajícího.
 
 **§ 158a**:
 > (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami.
@@ -1366,6 +1387,8 @@ Kolektivní orgán je usnášeníschopný za účasti většiny členů a rozhod
 ### § 159 — Péče řádného hospodáře, ručení
 
 > (1) Kdo přijme funkci člena voleného orgánu, zavazuje se, že ji bude vykonávat s nezbytnou loajalitou i s potřebnými znalostmi a pečlivostí. Má se za to, že jedná nedbale, kdo není této péče řádného hospodáře schopen, ač to musel zjistit při přijetí funkce nebo při jejím výkonu, a nevyvodí z toho pro sebe důsledky.
+> (2) Člen voleného orgánu vykonává funkci osobně; to však nebrání tomu, aby člen zmocnil pro jednotlivý případ jiného člena téhož orgánu, aby za něho při jeho neúčasti hlasoval.
+> (3) Nenahradil-li člen voleného orgánu právnické osobě škodu, kterou jí způsobil porušením povinnosti při výkonu funkce, ačkoli byl povinen škodu nahradit, ručí věřiteli právnické osoby za její dluh v rozsahu, v jakém škodu nenahradil, pokud se věřitel plnění na právnické osobě nemůže domoci.
 
 > (2) Člen voleného orgánu vykonává funkci osobně; to však nebrání tomu, aby člen zmocnil pro jednotlivý případ jiného člena téhož orgánu, aby za něho při jeho neúčasti hlasoval.
 
@@ -1576,6 +1599,7 @@ Jedná-li za PO člen orgánu způsobem zapsaným ve veřejném rejstříku, je 
 > (2) Soud jmenuje právnické osobě opatrovníka, a to i bez návrhu, jsou-li zájmy člena statutárního orgánu v rozporu se zájmy právnické osoby a nemá-li právnická osoba jiného člena orgánu schopného ji zastupovat.
 
 **§ 166**:
+> (1) Právnickou osobu zastupují její zaměstnanci v rozsahu obvyklém vzhledem k jejich zařazení nebo funkci; přitom rozhoduje stav, jak se jeví veřejnosti. Co je stanoveno o zastoupení právnické osoby zaměstnancem, platí obdobně pro zastoupení právnické osoby jejím členem nebo členem jiného orgánu nezapsaného do veřejného rejstříku.
 > (2) Omezení zástupčího oprávnění vnitřním předpisem právnické osoby má účinky vůči třetí osobě, jen muselo-li jí být známo.
 
 **§ 167**:
@@ -1664,9 +1688,11 @@ PO zavazuje jednání zaměstnance v rozsahu obvyklém vzhledem k jeho zařazen�
 ### § 168—173 — Zrušení s likvidací / bez likvidace
 
 **§ 168**:
+> (1) Právnická osoba se zrušuje právním jednáním, uplynutím doby, rozhodnutím orgánu veřejné moci nebo dosažením účelu, pro který byla ustavena, a z dalších důvodů stanovených zákonem.
 > (2) O dobrovolném zrušení právnické osoby rozhoduje její příslušný orgán.
 
 **§ 169**:
+> (1) Po zrušení právnické osoby se vyžaduje její likvidace, ledaže celé její jmění nabývá právní nástupce, nebo stanoví-li zákon jinak.
 > (2) Neplyne-li z právního jednání o zrušení právnické osoby, zda je rušena s likvidací nebo bez likvidace, platí, že je zrušena s likvidací.
 
 **§ 170**:
@@ -1684,6 +1710,11 @@ PO zavazuje jednání zaměstnance v rozsahu obvyklém vzhledem k jeho zařazen�
 > - d) dnem právní moci rozhodnutí orgánu veřejné moci, nestanoví-li se v rozhodnutí den pozdější.
 
 **§ 172**:
+> (1) Soud na návrh toho, kdo na tom osvědčí právní zájem, na návrh státního zastupitelství, které na tom shledá závažný právní zájem, nebo i bez návrhu, zruší právnickou osobu a nařídí její likvidaci, jestliže
+>   - a) vyvíjí nezákonnou činnost v takové míře, že to závažným způsobem narušuje veřejný pořádek,
+>   - b) již nadále nesplňuje předpoklady vyžadované pro vznik právnické osoby zákonem,
+>   - c) nemá déle než dva roky statutární orgán schopný usnášet se, nebo
+>   - d) tak stanoví zákon.
 > (2) Umožňuje-li zákon soudu zrušit právnickou osobu z důvodu, který lze odstranit, soud jí před vydáním rozhodnutí stanoví přiměřenou lhůtu k odstranění nedostatků.
 
 **§ 173**:

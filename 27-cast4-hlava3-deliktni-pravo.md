@@ -28,7 +28,7 @@
 ### § 2894 — Definice újmy
 
 > (1) Povinnost nahradit jinému újmu zahrnuje vždy povinnost k náhradě újmy na jmění (škody).
-> (2) Nebyla-li povinnost odčinit jinému nemajetkovou újmu výslovně ujednána, postihuje škůdce, jen stanoví-li to zvlášť zákon.
+> (2) Nebyla-li povinnost odčinit jinému nemajetkovou újmu výslovně ujednána, postihuje škůdce, jen stanoví-li to zvlášť zákon. V takových případech se povinnost nahradit nemajetkovou újmu poskytnutím zadostiučinění posoudí obdobně podle ustanovení o povinnosti nahradit škodu.
 
 **Dva typy újmy**:
 - **Majetková újma (škoda)** — zmenšení jmění; **vždy** se hradí;
@@ -505,7 +505,7 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 ### Spoluzavinění poškozeného (§ 2918)
 
-> Vznikla-li škoda nebo zvětšila-li se také následkem okolností, které se přičítají poškozenému, povinnost škůdce nahradit škodu se poměrně sníží.
+> Vznikla-li škoda nebo zvětšila-li se také následkem okolností, které se přičítají poškozenému, povinnost škůdce nahradit škodu se poměrně sníží. Podílejí-li se však okolnosti, které jdou k tíži jedné či druhé strany, na škodě jen zanedbatelným způsobem, škoda se nedělí.
 
 **Spoluzavinění** (*kontributorní zavinění*) → **poměrné snížení** náhrady. **Zanedbatelné** spoluzavinění se ignoruje.
 

@@ -1089,14 +1089,10 @@ Tichá společnost podle § 2747 je nástroj pasivního financování cizího po
 
 **§ 2754**:
 > (1) Nebyla-li tichá společnost ujednána na určitou dobu, lze ji vypovědět nejpozději šest měsíců před koncem účetního období.
->
 > (2) Tichá společnost se zrušuje také,
->
-> - a) dosáhne-li podíl tichého společníka na ztrátě výše jeho vkladu, ledaže uhradí podíl na ztrátě nebo doplní vklad,
->
-> - b) ukončí-li se podnikání, kterého se tichá společnost týká, nebo
->
-> - c) bylo-li rozhodnuto o úpadku podnikatele nebo tichého společníka, zrušením konkursu po splnění rozvrhového usnesení, zrušením konkursu proto, že majetek je zcela nepostačující, anebo zamítnutím insolvenčního návrhu pro nedostatek majetku.
+> a) dosáhne-li podíl tichého společníka na ztrátě výše jeho vkladu, ledaže uhradí podíl na ztrátě nebo doplní vklad,
+> b) ukončí-li se podnikání, kterého se tichá společnost týká, nebo
+> c) bylo-li rozhodnuto o úpadku podnikatele nebo tichého společníka, zrušením konkursu po splnění rozvrhového usnesení, zrušením konkursu proto, že majetek je zcela nepostačující, anebo zamítnutím insolvenčního návrhu pro nedostatek majetku.
 
 **§ 2755**:
 > Podnikatel vydá tichému společníkovi bez zbytečného odkladu po zániku tiché společnosti vklad upravený o podíl na výsledku svého podnikání podle stavu ke dni zániku tiché společnosti.
@@ -1244,6 +1240,7 @@ Odvážná smlouva podle § 2756 je charakterizována závislostí prospěchu/ne
 ### § 2758 — Definice pojistné smlouvy
 
 > (1) Pojistnou smlouvou se pojistitel zavazuje vůči pojistníkovi poskytnout jemu nebo třetí osobě pojistné plnění, nastane-li nahodilá událost krytá pojištěním (pojistná událost), a pojistník se zavazuje zaplatit pojistiteli pojistné.
+> (2) Není-li pojištění ujednáno na pojistnou dobu kratší než jeden rok, vyžaduje smlouva písemnou formu. Přijal-li pojistník nabídku včasným zaplacením pojistného, považuje se písemná forma smlouvy za zachovanou.
 
 **Pojistná smlouva** (*Versicherungsvertrag*):
 - **Pojistitel** = pojišťovna (zákon č. 277/2009 Sb. o pojišťovnictví);
@@ -2056,6 +2053,9 @@ Nevymahatelnost sázky (§ 2877—2878) má významné výjimky: na podnikatelsk
 
 > Veřejným příslibem se přislibující zavazuje, že odměnu nebo jinou plnění tomu, kdo splní podmínky vyhlášené pro plnění závazku.
 
+**§ 2884**:
+> Příslib odměny za nějaký výkon učiněný vůči osobě blíže neurčené zavazuje přislibujícího tehdy, byl-li příslib veřejně vyhlášen.
+
 **Veřejný příslib** (*Auslobung*) — **jednostranný úkon** zavazující přislibujícího:
 - **Vyhlášení** veřejně (inzerát, web, tabule);
 - **Splnění** podmínek **kterýmkoli adresátem**;
@@ -2196,6 +2196,10 @@ Vypsání ceny (§ 2887) je kvalifikovaný veřejný příslib vyžadující uve
 ### § 2891 — Definice
 
 > Vyhlašuje-li někdo veřejně soutěž o nejlepší dílo nebo úkon, zavazuje se zaplatit cenu vítězi a vyrovnat se i s ostatními úspěšnými soutěžícími podle vyhlášených pravidel.
+
+**§ 2891**:
+> (1) Závazek slibujícího vzniká doručením prohlášení slibujícího příjemci slibu.
+> (2) Příjemce slibu uskuteční jednání, o nějž ho slibující žádá, jen zavázal-li se k němu.
 
 **Veřejná soutěž** (*Preisausschreiben*) — kompetitivní příslib:
 - **Vyhlášení** podmínek soutěže;

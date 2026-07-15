@@ -165,6 +165,7 @@ Veřejný statek je věc určená k obecnému užívání; její vlastník (typi
 ### § 491 — Plody a užitky
 
 > (1) Plod je to, co věc pravidelně poskytuje ze své přirozené povahy, jak je dáno jejím obvyklým účelovým určením a přiměřeně k němu, ať s přičiněním člověka nebo bez něho.
+> (2) Užitky jsou to, co věc pravidelně poskytuje ze své právní povahy.
 
 > (2) Užitky jsou to, co věc pravidelně poskytuje ze své právní povahy.
 
@@ -232,6 +233,7 @@ Plody jsou přirozené výnosy (ovoce, mléko, úroda), užitky jsou právní v�
 ### § 492 — Hodnota a cena
 
 > (1) Hodnota věci, lze-li ji vyjádřit v penězích, je její cena. Cena věci se určí jako cena obvyklá, ledaže je něco jiného ujednáno nebo stanoveno zákonem.
+> (2) Mimořádná cena věci se stanoví, má-li se její hodnota nahradit, s přihlédnutím ke zvláštním poměrům nebo ke zvláštní oblibě vyvolané náhodnými vlastnostmi věci.
 
 > (2) Mimořádná cena věci se stanoví, má-li se její hodnota nahradit, s přihlédnutím ke zvláštním poměrům nebo ke zvláštní oblibě vyvolané náhodnými vlastnostmi věci.
 
@@ -1212,7 +1214,8 @@ Součást věci je vše, co k ní podle povahy náleží a nelze oddělit bez zn
 
 ### § 506 — *Superficies solo cedit* (návrat zásady)
 
-> (1) Součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba") s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech.
+> (1) Součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech.
+> (2) Není-li podzemní stavba nemovitou věcí, je součástí pozemku, i když zasahuje pod jiný pozemek.
 
 > (2) Není-li podzemní stavba nemovitou věcí, je součástí pozemku, i když zasahuje pod jiný pozemek.
 
@@ -1355,6 +1358,7 @@ Rostlinstvo vzešlé na pozemku je jeho součástí a patří vlastníku pozemku
 ### § 508 — Stroje s výhradou
 
 > (1) Stroj nebo jiné upevněné zařízení (dále jen „stroj“) není součástí nemovité věci zapsané do veřejného seznamu, byla-li se souhlasem jejího vlastníka zapsána do téhož seznamu výhrada, že stroj jeho vlastnictvím není. Výhrada bude vymazána, prokáže-li vlastník nemovité věci nebo jiná osoba oprávněná k tomu podle zápisu ve veřejném seznamu, že se vlastník nemovité věci stal vlastníkem stroje.
+> (2) Má-li být takovým strojem nahrazen stroj, který je součástí nemovité věci, lze výhradu do veřejného seznamu zapsat, pokud proti tomu osoba zapsaná ve výhodnějším pořadí nevznese odpor. Právo odporu však nemá osoba, jejíž právo nemůže být zápisem výhrady zkráceno, ani osoba, jejíž pohledávka byla již splněna; za tím účelem může být splněna i pohledávka dosud nedospělá.
 
 **Výklad:**
 
@@ -1483,6 +1487,7 @@ Liniové stavby (vedení, vodovody, kanalizace) zasahující více pozemků nejs
 #### § 510 — Definice příslušenství
 
 > (1) Příslušenství věci je vedlejší věc vlastníka u věci hlavní, je-li účelem vedlejší věci, aby se jí trvale užívalo společně s hlavní věcí v rámci jejich hospodářského určení. Byla-li vedlejší věc od hlavní věci přechodně odloučena, nepřestává být příslušenstvím.
+> (2) Má se za to, že se právní jednání a práva i povinnosti týkající se hlavní věci týkají i jejího příslušenství.
 
 > (2) Má se za to, že se právní jednání a práva i povinnosti týkající se hlavní věci týkají i jejího příslušenství.
 

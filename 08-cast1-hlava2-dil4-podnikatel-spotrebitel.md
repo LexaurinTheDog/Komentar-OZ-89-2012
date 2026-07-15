@@ -118,6 +118,7 @@ Spotřebitelská povaha je relativní (per transakci) a posuzuje se objektivně 
 ### § 420 — Definice podnikatele
 
 > (1) Kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele.
+> (2) Pro účely ochrany spotřebitele a pro účely § 1963 se za podnikatele považuje také každá osoba, která uzavírá smlouvy související s vlastní obchodní, výrobní nebo obdobnou činností či při samostatném výkonu svého povolání, popřípadě osoba, která jedná jménem nebo na účet podnikatele.
 
 > (2) Pro účely ochrany spotřebitele a pro účely § 1963 se za podnikatele považuje také každá osoba, která uzavírá smlouvy související s vlastní obchodní, výrobní nebo obdobnou činností či při samostatném výkonu svého povolání, popřípadě osoba, která jedná jménem nebo na účet podnikatele.
 
@@ -339,6 +340,7 @@ Podnikatel-FO bez obchodní firmy jedná pod vlastním jménem; dodatky jsou př
 #### § 423 — Definice obchodní firmy
 
 > (1) Obchodní firma je jméno, pod kterým je podnikatel zapsán do obchodního rejstříku. Podnikatel nesmí mít víc obchodních firem.
+> (2) Ochrana práv k obchodní firmě náleží tomu, kdo ji po právu použil poprvé. Kdo byl dotčen ve svém právu k obchodní firmě, má stejná práva jako při ochraně před nekalou soutěží.
 
 > (2) Ochrana práv k obchodní firmě náleží tomu, kdo ji po právu použil poprvé. Kdo byl dotčen ve svém právu k obchodní firmě, má stejná práva jako při ochraně před nekalou soutěží.
 
@@ -471,6 +473,7 @@ Obchodní firma podléhá dvěma kogentním limitům: nesmí být zaměnitelná 
 #### § 425 — Firma fyzické osoby
 
 > (1) Člověk se zapíše do obchodního rejstříku pod obchodní firmou tvořenou zpravidla jeho jménem. Změní-li se jeho jméno, může používat v obchodní firmě i nadále své dřívější jméno; změnu jména však uveřejní.
+> (2) Zapíše-li se člověk do obchodního rejstříku pod jinou obchodní firmou než pod svým jménem, musí být zřejmé, že nejde o obchodní firmu právnické osoby.
 
 > (2) Zapíše-li se člověk do obchodního rejstříku pod jinou obchodní firmou než pod svým jménem, musí být zřejmé, že nejde o obchodní firmu právnické osoby.
 
@@ -575,6 +578,7 @@ V podnikatelském seskupení (koncernu) mohou firmy sdílet shodné prvky, je-li
 #### § 427 — Nabytí obchodní firmy
 
 > (1) Kdo nabude obchodní firmu, má právo ji používat, pokud k tomu má souhlas svého předchůdce nebo jeho právního nástupce; vyžaduje se však, aby k obchodní firmě připojil údaj vyjadřující právní nástupnictví.
+> (2) Při přeměně právnické osoby přejde obchodní firma na právního nástupce, pokud s tím souhlasí; souhlas jiné osoby se nevyžaduje. Má-li právnická osoba více právních nástupců a neurčí-li se, na kterého z nich obchodní firma přechází, nepřejde obchodní firma na žádného z nich.
 
 > (2) Při přeměně právnické osoby přejde obchodní firma na právního nástupce, pokud s tím souhlasí; souhlas jiné osoby se nevyžaduje. Má-li právnická osoba více právních nástupců a neurčí-li se, na kterého z nich obchodní firma přechází, nepřejde obchodní firma na žádného z nich.
 
@@ -769,6 +773,7 @@ Sídlo podnikatele se určuje zápisem ve veřejném rejstříku (u nezapsané F
 #### § 430 — Zastoupení osobou pověřenou činností
 
 > (1) Pověří-li podnikatel někoho při provozu obchodního závodu určitou činností, zastupuje tato osoba podnikatele ve všech jednáních, k nimž při této činnosti obvykle dochází.
+> (2) Podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna.
 
 > (2) Podnikatele zavazuje i jednání jiné osoby v jeho provozovně, pokud byla třetí osoba v dobré víře, že jednající osoba je k jednání oprávněna.
 
@@ -965,6 +970,7 @@ Zástupce nesmí bez souhlasu podnikatele konkurovat v oboru obchodního závodu
 ### § 433 — Ochrana slabší strany v hospodářském styku
 
 > (1) Kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran.
+> (2) Má se za to, že slabší stranou je vždy osoba, která vůči podnikateli v hospodářském styku vystupuje mimo souvislost s vlastním podnikáním.
 
 > (2) Má se za to, že slabší stranou je vždy osoba, která vůči podnikateli v hospodářském styku vystupuje mimo souvislost s vlastním podnikáním.
 

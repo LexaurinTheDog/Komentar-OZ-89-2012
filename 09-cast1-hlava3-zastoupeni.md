@@ -27,6 +27,7 @@ Hlava III pokrývá:
 ### § 436 — Definice a účinky zastoupení
 
 > (1) Kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem; ze zastoupení vznikají práva a povinnosti přímo zastoupenému. Není-li zřejmé, že někdo jedná za jiného, platí, že jedná vlastním jménem.
+> (2) Je-li zástupce v dobré víře nebo musel-li vědět o určité okolnosti, přihlíží se k tomu i u zastoupeného; to neplatí, jedná-li se o okolnost, o které se zástupce dozvěděl před vznikem zastoupení. Není-li zastoupený v dobré víře, nemůže se dovolat dobré víry zástupce.
 
 > (2) Je-li zástupce v dobré víře nebo musel-li vědět o určité okolnosti, přihlíží se k tomu i u zastoupeného; to neplatí, jedná-li se o okolnost, o které se zástupce dozvěděl před vznikem zastoupení. Není-li zastoupený v dobré víře, nemůže se dovolat dobré víry zástupce.
 
@@ -110,6 +111,7 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 ### § 437 — Konflikt zájmů
 
 > (1) Zastoupit jiného nemůže ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže při smluvním zastoupení zastoupený o takovém rozporu věděl nebo musel vědět.
+> (2) Jednal-li zástupce, jehož zájem je v rozporu se zájmem zastoupeného, s třetí osobou a věděla-li tato osoba o této okolnosti nebo musela-li o ní vědět, může se toho zastoupený dovolat. Má se za to, že tu je rozpor v zájmech zástupce a zastoupeného, pokud zástupce jedná i za tuto třetí osobu nebo pokud jedná ve vlastní záležitosti.
 
 > (2) Jednal-li zástupce, jehož zájem je v rozporu se zájmem zastoupeného, s třetí osobou a věděla-li tato osoba o této okolnosti nebo musela-li o ní vědět, může se toho zastoupený dovolat. Má se za to, že tu je rozpor v zájmech zástupce a zastoupeného, pokud zástupce jedná i za tuto třetí osobu nebo pokud jedná ve vlastní záležitosti.
 
@@ -318,6 +320,7 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 ### § 440 — Překročení zástupčího oprávnění
 
 > (1) Překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu. To platí i v případě, kdy za jiného právně jedná osoba, která k tomu není oprávněna.
+> (2) Není-li právní jednání bez zbytečného odkladu schváleno, je osoba, která právně jednala za jiného, zavázána sama. Osoba, se kterou bylo jednáno a která byla v dobré víře, může na jednajícím požadovat, aby splnil, co bylo ujednáno, anebo aby nahradil škodu.
 
 > (2) Není-li právní jednání bez zbytečného odkladu schváleno, je osoba, která právně jednala za jiného, zavázána sama. Osoba, se kterou bylo jednáno a která byla v dobré víře, může na jednajícím požadovat, aby splnil, co bylo ujednáno, anebo aby nahradil škodu.
 
@@ -409,6 +412,7 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 #### § 441 — Plná moc
 
 > (1) Ujednají-li si to strany, zastupuje jedna z nich druhou v ujednaném rozsahu jako zmocněnec.
+> (2) Zmocnitel uvede rozsah zástupčího oprávnění v plné moci. Netýká-li se zastoupení jen určitého právního jednání, udělí se plná moc v písemné formě. Vyžaduje-li se pro právní jednání zvláštní forma, udělí se v téže formě i plná moc. Vyžaduje-li se pro právní jednání forma veřejné listiny, postačí, bude-li plná moc k tomuto právnímu jednání udělena v písemné formě s úředně ověřeným podpisem.
 
 > (2) Zmocnitel uvede rozsah zástupčího oprávnění v plné moci. Netýká-li se zastoupení jen určitého právního jednání, udělí se plná moc v písemné formě. Vyžaduje-li se pro právní jednání zvláštní forma, udělí se v téže formě i plná moc. Vyžaduje-li se pro právní jednání forma veřejné listiny, postačí, bude-li plná moc k tomuto právnímu jednání udělena v písemné formě s úředně ověřeným podpisem.
 
@@ -592,6 +596,7 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 #### § 444 — Aparent zmocnění
 
 > (1) Kdo vlastní vinou vyvolá u třetí osoby domněnku, že zmocnil někoho jiného k právnímu jednání, nemůže se dovolat nedostatku zmocnění, byla-li třetí osoba v dobré víře a mohla-li rozumně předpokládat, že zmocnění bylo uděleno.
+> (2) Dal-li zmocnitel jiné osobě najevo, že zmocněnce zmocnil k určitým právním jednáním, může se vůči ní dovolat, že zmocnění později zaniklo, jen pokud jí to před zmocněncovým jednáním oznámil, nebo pokud tato osoba při zmocněncově jednání o zániku věděla.
 
 > (2) Dal-li zmocnitel jiné osobě najevo, že zmocněnce zmocnil k určitým právním jednáním, může se vůči ní dovolat, že zmocnění později zaniklo, jen pokud jí to před zmocněncovým jednáním oznámil, nebo pokud tato osoba při zmocněncově jednání o zániku věděla.
 
@@ -829,6 +834,7 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 #### § 448 — Zánik zmocnění
 
 > (1) Zmocnění zanikne vykonáním právního jednání, na které bylo zastoupení omezeno; zmocnění zanikne i v případě, že je zmocnitel odvolá nebo zmocněnec vypoví. Zemře-li zmocněnec nebo zmocnitel, nebo je-li některým z nich právnická osoba a zanikne-li, zanikne i zmocnění, ledaže bylo ujednáno něco jiného.
+> (2) Dokud není odvolání zmocněnci známo, má jeho právní jednání tytéž účinky, jako by zmocnění ještě trvalo. Toho se však nemůže dovolat strana, která o odvolání zmocnění věděla, nebo měla a mohla vědět.
 
 > (2) Dokud není odvolání zmocněnci známo, má jeho právní jednání tytéž účinky, jako by zmocnění ještě trvalo. Toho se však nemůže dovolat strana, která o odvolání zmocnění věděla, nebo měla a mohla vědět.
 
@@ -886,6 +892,7 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 #### § 449 — Povinnosti po zániku
 
 > (1) Zemře-li zmocnitel nebo vypoví-li zmocněnec zmocnění, učiní zmocněnec ještě vše, co nesnese odkladu, aby zmocnitel nebo jeho právní nástupce neutrpěl újmu. Jeho právní jednání má tytéž účinky, jako by zmocnění ještě trvalo, neodporuje-li tomu, co nařídil ještě zmocnitel nebo jeho právní nástupce.
+> (2) Zmocněnec vydá bez zbytečného odkladu po zániku zmocnění vše, co mu zmocnitel propůjčil, popřípadě co pro zmocnitele získal. Zemřel-li zmocněnec, má vůči zmocniteli tuto povinnost každý, kdo má tyto věci u sebe.
 
 > (2) Zmocněnec vydá bez zbytečného odkladu po zániku zmocnění vše, co mu zmocnitel propůjčil, popřípadě co pro zmocnitele získal. Zemřel-li zmocněnec, má vůči zmocniteli tuto povinnost každý, kdo má tyto věci u sebe. ##### Oddíl 2 ###### Prokura
 
@@ -944,6 +951,7 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 #### § 450 — Definice prokury
 
 > (1) Udělením prokury zmocňuje podnikatel zapsaný v obchodním rejstříku prokuristu k právním jednáním, ke kterým dochází při provozu obchodního závodu, popřípadě pobočky, a to i k těm, pro která se jinak vyžaduje zvláštní plná moc. Zcizit nebo zatížit nemovitou věc je však prokurista oprávněn, je-li to výslovně uvedeno.
+> (2) Při udělení prokury musí být výslovně uvedeno, že jde o prokuru. Uděluje-li podnikatel prokuru pro některou pobočku svého obchodního závodu nebo pro některý z několika svých obchodních závodů, označí výslovně pobočku nebo obchodní závod.
 
 > (2) Při udělení prokury musí být výslovně uvedeno, že jde o prokuru. Uděluje-li podnikatel prokuru pro některou pobočku svého obchodního závodu nebo pro některý z několika svých obchodních závodů, označí výslovně pobočku nebo obchodní závod.
 
@@ -1598,6 +1606,7 @@ Opatrovník vykonává sám jen běžnou správu jmění; vše ostatní potřebu
 #### § 465 — Jmenování opatrovníka
 
 > (1) Soud jmenuje opatrovníka člověku, je-li to potřeba k ochraně jeho zájmů, nebo vyžaduje-li to veřejný zájem. Soud jmenuje opatrovníka zejména tomu, koho ve svéprávnosti omezil, tomu, o kom není známo, kde pobývá, neznámému člověku zúčastněnému při určitém právním jednání nebo tomu, jehož zdravotní stav mu působí obtíže při správě jmění nebo hájení práv.
+> (2) Odůvodňují-li to okolnosti, může soud opatrovníku uložit, aby se v přiměřeném rozsahu pojistil pro případ, že při výkonu své funkce způsobí opatrovanci nebo jiné osobě škodu.
 
 > (2) Odůvodňují-li to okolnosti, může soud opatrovníku uložit, aby se v přiměřeném rozsahu pojistil pro případ, že při výkonu své funkce způsobí opatrovanci nebo jiné osobě škodu.
 
@@ -1733,7 +1742,7 @@ Opatrovník musí udržovat skutečný a pravidelný kontakt, vysvětlovat opatr
 
 #### § 468 — Kontinuita po smrti / odvolání opatrovníka
 
-> Smrtí opatrovníka nebo jeho odvoláním opatrovnictví nezaniká → přechází na **veřejného opatrovníka** (obec) do jmenování nového.
+> Smrtí opatrovníka nebo jeho odvoláním opatrovnictví nezaniká a dokud soud nejmenuje opatrovanci nového opatrovníka, přechází na veřejného opatrovníka podle jiného zákona.
 
 **Judikatura (z místních zdrojů):**
 

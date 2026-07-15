@@ -2403,11 +2403,8 @@ Informovaný souhlas vyžaduje řádné, srozumitelné poučení o stavu, účel
 
 **§ 2650**:
 > (1) Bez souhlasu ošetřovaného může poskytovatel sdělit údaje o něm v anonymizované podobě k účelům vědeckého nebo statistického šetření týkajícího se zdravotního stavu obyvatelstva a jeho skupin, lze-li rozumně předpokládat, že souhlas nelze opatřit vůbec nebo včas a
->
-> - a) provádí-li se šetření s takovým zabezpečením, že nehrozí neúměrný zásah do soukromí ošetřovaného, nebo
->
-> - b) oznámí-li poskytovatel údaje tak, aby vyloučil následné zjištění, kterého určitého člověka se týkají.
->
+> a) provádí-li se šetření s takovým zabezpečením, že nehrozí neúměrný zásah do soukromí ošetřovaného, nebo
+> b) oznámí-li poskytovatel údaje tak, aby vyloučil následné zjištění, kterého určitého člověka se týkají.
 > (2) Právo podle odstavce 1 poskytovatel nemá, není-li šetření prováděno ve veřejném zájmu, lze-li šetření provést i bez údajů o určitém ošetřovaném nebo vyjádřil-li ošetřovaný výslovně nesouhlas se zpřístupněním údajů o sobě.
 
 **§ 2651**:
@@ -3066,7 +3063,8 @@ Skryté vady stavby lze vytknout v pětileté lhůtě (§ 2629; u spotřebitele 
 
 ### § 2521 — Definice
 
-> Smlouvou o zájezdu se pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou cenu.
+> (1) Smlouvou o zájezdu se pořadatel zavazuje obstarat pro zákazníka zájezd a zákazník se zavazuje zaplatit celkovou cenu.
+> (2) Zájezdem je soubor služeb cestovního ruchu podle zákona upravujícího některé podmínky podnikání a výkon některých činností v oblasti cestovního ruchu.
 
 **Zájezd** (*pauschalreise*, *package tour*) — **kombinace nejméně 2 cestovních služeb**:
 - Doprava;

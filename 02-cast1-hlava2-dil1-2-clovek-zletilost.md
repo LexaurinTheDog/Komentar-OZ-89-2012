@@ -473,7 +473,8 @@ Stát je v soukromém právu jeden subjekt (PO) jednající organizačními slo�
 
 ### § 22 — Osoba blízká
 
-> (1) Osoba blízká je příbuzný v řadě přímé, sourozenec a manžel nebo partner podle jiného zákona upravujícího registrované partnerství (dále jen „partner"); jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, pokud by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní. Má se za to, že osobami blízkými jsou i osoby sešvagřené nebo osoby, které spolu trvale žijí.
+> (1) Osoba blízká je příbuzný v řadě přímé, sourozenec a manžel nebo partner podle jiného zákona upravujícího registrované partnerství (dále jen „partner“); jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, pokud by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní. Má se za to, že osobami blízkými jsou i osoby sešvagřené nebo osoby, které spolu trvale žijí.
+> (2) Stanoví-li zákon k ochraně třetích osob zvláštní podmínky nebo omezení pro převody majetku, pro jeho zatížení nebo přenechání k užití jinému mezi osobami blízkými, platí tyto podmínky a omezení i pro obdobná právní jednání mezi právnickou osobou a členem jejího statutárního orgánu nebo tím, kdo právnickou osobu podstatně ovlivňuje jako její člen nebo na základě dohody či jiné skutečnosti.
 
 > (2) Stanoví-li zákon k ochraně třetích osob zvláštní podmínky nebo omezení pro převody majetku, pro jeho zatížení nebo přenechání k užití jinému mezi osobami blízkými, platí tyto podmínky a omezení i pro obdobná právní jednání mezi právnickou osobou a členem jejího statutárního orgánu nebo tím, kdo právnickou osobu podstatně ovlivňuje jako její člen nebo na základě dohody či jiné skutečnosti.
 
@@ -1137,6 +1138,7 @@ Nezletilý je způsobilý jen k jednáním přiměřeným rozumové a volní vys
 ### § 32 — Souhlas zákonného zástupce s určitým jednáním
 
 > (1) Udělil-li zákonný zástupce nezletilému, který nenabyl plné svéprávnosti, ve shodě se zvyklostmi soukromého života souhlas k určitému právnímu jednání nebo k dosažení určitého účelu, je nezletilý schopen v mezích souhlasu sám právně jednat, pokud to není zákonem zvlášť zakázáno; souhlas může být následně omezen i vzat zpět.
+> (2) Je-li zákonných zástupců více, postačí, projeví-li vůči třetí osobě vůli alespoň jeden z nich; to neplatí, pokud třetí osoba věděla, že si zástupci odporují.
 
 > (2) Je-li zákonných zástupců více, postačí, projeví-li vůči třetí osobě vůli alespoň jeden z nich; to neplatí, pokud třetí osoba věděla, že si zástupci odporují.
 
@@ -1206,6 +1208,8 @@ Souhlas zákonného zástupce zakládá nezletilému dílčí svéprávnost v me
 ### § 33 — Souhlas k samostatnému provozování závodu
 
 > (1) Udělí-li zákonný zástupce nezletilého, který nenabyl plné svéprávnosti, souhlas k samostatnému provozování obchodního závodu nebo k jiné obdobné výdělečné činnosti, stává se nezletilý způsobilý k jednáním, jež jsou s touto činností spojena. K platnosti souhlasu se vyžaduje přivolení soudu.
+> (2) Přivolení soudu nahrazuje podmínku určitého věku, je-li stanovena pro výkon určité výdělečné činnosti jiným právním předpisem.
+> (3) Souhlas může zákonný zástupce odvolat jen s přivolením soudu.
 
 > (2) Přivolení soudu nahrazuje podmínku určitého věku, je-li stanovena pro výkon určité výdělečné činnosti jiným právním předpisem.
 
@@ -1342,6 +1346,7 @@ Závislá práce nezletilých je přísně regulována: do 15 let zásadně zak�
 ### § 36 — Negativní omezení samostatného jednání
 
 > (1) Nezletilý, který nenabyl plné svéprávnosti, není nikdy, bez ohledu na obsah ostatních ustanovení, způsobilý jednat samostatně v těch záležitostech, k nimž by i jeho zákonný zástupce potřeboval přivolení soudu.
+> (2) I když je nezletilý, který nenabyl plné svéprávnosti, způsobilý jednat v určité záležitosti samostatně, lze podmínit, že následky právního jednání nastanou až souhlasem zákonného zástupce nezletilého uděleným v určené lhůtě, jinak ve lhůtě dvou týdnů od vyžádání; to neplatí pro právní jednání osobní povahy a právní jednání podle § 33.
 
 > (2) I když je nezletilý, který nenabyl plné svéprávnosti, způsobilý jednat v určité záležitosti samostatně, lze podmínit, že následky právního jednání nastanou až souhlasem zákonného zástupce nezletilého uděleným v určené lhůtě, jinak ve lhůtě dvou týdnů od vyžádání; to neplatí pro právní jednání osobní povahy a právní jednání podle § 33.
 

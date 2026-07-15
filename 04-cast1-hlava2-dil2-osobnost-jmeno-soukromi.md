@@ -554,6 +554,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 > Zachytit jakýmkoli způsobem podobu člověka tak, aby podle zobrazení bylo možné určit jeho totožnost, je možné jen s jeho svolením.
 
 **§ 85**:
+> (1) Rozšiřovat podobu člověka je možné jen s jeho svolením.
 > (2) Svolí-li někdo k zobrazení své podoby za okolností, z nichž je zřejmé, že bude šířeno, platí, že svoluje i k jeho rozmnožování a rozšiřování obvyklým způsobem, jak je mohl vzhledem k okolnostem rozumně předpokládat.
 
 **Výklad:**
@@ -709,6 +710,7 @@ Podoba se chrání ve dvou krocích: svolení k zachycení (§ 84) a samostatné
 ### § 87 — Odvolání souhlasu
 
 > (1) Kdo svolil k použití písemnosti osobní povahy, podobizny nebo zvukového či obrazového záznamu týkajícího se člověka nebo jeho projevů osobní povahy, může svolení odvolat, třebaže je udělil na určitou dobu.
+> (2) Bylo-li svolení udělené na určitou dobu odvoláno, aniž to odůvodňuje podstatná změna okolností nebo jiný rozumný důvod, nahradí odvolávající škodu z toho vzniklou osobě, které svolení udělil.
 
 > (2) Bylo-li svolení udělené na určitou dobu odvoláno, aniž to odůvodňuje podstatná změna okolností nebo jiný rozumný důvod, nahradí odvolávající škodu z toho vzniklou osobě, které svolení udělil.
 
@@ -781,6 +783,7 @@ Souhlas k užití podobizny/projevů osobní povahy je vždy odvolatelný, i byl
 ### § 88—89 — Zákonné výjimky ze souhlasu
 
 **§ 88**:
+> (1) Svolení není třeba, pokud se podobizna nebo zvukový či obrazový záznam pořídí nebo použijí k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů jiných osob.
 > (2) Svolení není třeba ani v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu.
 
 **§ 89**:
@@ -1068,6 +1071,7 @@ Lidské tělo a ostatky jsou pod ochranou i po smrti; zakázáno je nedůstojné
 ### § 93 — Zásah do integrity — souhlas
 
 > (1) Mimo případ stanovený zákonem nesmí nikdo zasáhnout do integrity jiného člověka bez jeho souhlasu uděleného s vědomím o povaze zásahu a o jeho možných následcích. Souhlasí-li někdo, aby mu byla způsobena závažná újma, nepřihlíží se k tomu; to neplatí, je-li zásah podle všech okolností nutný v zájmu života nebo zdraví dotčeného.
+> (2) Zákonný zástupce může udělit souhlas k zásahu do integrity zastoupeného, je-li to k přímému prospěchu osoby, která není schopna dát souhlas sama.
 
 > (2) Zákonný zástupce může udělit souhlas k zásahu do integrity zastoupeného, je-li to k přímému prospěchu osoby, která není schopna dát souhlas sama.
 
@@ -1142,6 +1146,7 @@ Zásah do integrity je dovolen jen s informovaným souhlasem — s vědomím o p
 ### § 94—95 — Vysvětlení zákroku a nezletilí
 
 **§ 94**:
+> (1) Kdo chce provést na jiném člověku zákrok, vysvětlí mu srozumitelně povahu tohoto zákroku. Vysvětlení je řádně podáno, lze-li rozumně předpokládat, že druhá strana pochopila způsob a účel zákroku včetně očekávaných následků i možných nebezpečí pro své zdraví, jakož i to, zda přichází v úvahu případně i jiný postup.
 > (2) Uděluje-li souhlas za jiného jeho zákonný zástupce, podá se vysvětlení i tomu, kdo má být zákroku podroben, je-li schopen úsudku, způsobem přiměřeným schopnosti dotčeného vysvětlení pochopit.
 
 **§ 95**:
@@ -1219,6 +1224,8 @@ I když souhlas uděluje zákonný zástupce, je třeba poučit i nezletilého s
 
 > (1) Souhlas k zásahu do integrity člověka vyžaduje písemnou formu, má-li být oddělena část těla, která se již neobnoví.
 > (2) Písemnou formu vyžaduje i souhlas k
+>     - a) lékařskému pokusu na člověku, nebo
+>     - b) zákroku, který zdravotní stav člověka nevyžaduje; to neplatí, jedná-li se o kosmetické zákroky nezanechávající trvalé nebo závažné následky.
    - a) lékařskému pokusu na člověku, nebo
    - b) zákroku, který zdravotní stav člověka nevyžaduje; to neplatí, jedná-li se o kosmetické zákroky nezanechávající trvalé nebo závažné následky.
 
@@ -1336,6 +1343,7 @@ Souhlas lze odvolat v jakékoli formě, i byl-li dán písemně (§ 97 odst. 1).
 ### § 98—99 — Souhlas v stavu nouze
 
 **§ 98**:
+> (1) Nemůže-li člověk udělit souhlas pro neschopnost projevit vůli, byť jen přechodnou, a nemá-li zákonného zástupce, vyžaduje se souhlas přítomného manžela, rodiče, nebo jiné osoby blízké. Není-li přítomna žádná z těchto osob, vyžaduje se souhlas manžela, a není-li, souhlas rodiče, popřípadě jiné osoby blízké, pokud je lze bez obtíží zjistit a zastihnout a pokud je zřejmé, že nehrozí nebezpečí z prodlení. Není-li možné získat souhlas žádným z výše uvedených způsobů, může souhlas udělit jiná přítomná osoba, která o dotčenou osobu osvědčí mimořádný zájem.
 > (2) Při zákroku i při udělení souhlasu se vezme zřetel na dříve vyslovená známá přání člověka, do jehož integrity má být zasaženo.
 
 **§ 99**:
@@ -1406,6 +1414,7 @@ Ve stavu nouze (náhlé a patrné nebezpečí života, nemožnost získat souhla
 ### § 100—103 — Souhlas soudu, vysvětlení po zákroku
 
 **§ 100**:
+> (1) Má-li být zasaženo do integrity nezletilého, který dovršil čtrnáct let, nenabyl plné svéprávnosti a který zákroku vážně odporuje, třebaže zákonný zástupce se zákrokem souhlasí, nelze zákrok provést bez souhlasu soudu. To platí i v případě provedení zákroku na zletilé osobě, která není plně svéprávná.
 > (2) Nesouhlasí-li zákonný zástupce se zásahem do integrity osoby uvedené v odstavci 1, ač si jej tato osoba přeje, lze zákrok provést na její návrh nebo na návrh osoby jí blízké jen se souhlasem soudu.
 
 **§ 101**:
@@ -1625,6 +1634,7 @@ Při převzetí bez souhlasu platí tři lhůty: neprodlené oznámení rodině 
 ### § 106—108 — Informování pacienta
 
 **§ 106**:
+> (1) Poskytovatel zdravotních služeb zajistí, aby se člověku převzatému do zařízení poskytujícího zdravotní péči nebo zadrženému v takovém zařízení dostalo bez zbytečného odkladu náležitého vysvětlení jeho právního postavení, zákonného důvodu učiněného opatření a možností právní ochrany včetně práva zvolit si zmocněnce nebo důvěrníka.
 > (2) Vysvětlení se podá tak, aby mu člověk mohl dostatečně porozumět a uvědomit si povahu učiněného opatření a jeho následky; má-li takový člověk zákonného zástupce, opatrovníka nebo podpůrce, podá se vysvětlení bez zbytečného odkladu také jemu.
 
 **§ 107**:
@@ -1766,6 +1776,7 @@ Nedobrovolně hospitalizovaný má právo na nezávislé lékařské přezkoumá
 ### § 111—112 — Odňaté části těla
 
 **§ 111**:
+> (1) Člověk, jemuž byla odňata část těla, má právo dozvědět se, jak s ní bylo naloženo. Naložit s odňatou částí lidského těla způsobem pro člověka nedůstojným nebo způsobem ohrožujícím veřejné zdraví se zakazuje.
 > (2) Odňatou část těla člověka lze za jeho života použít k účelům zdravotnickým, výzkumným nebo vědeckým, pokud k tomu dal souhlas. K použití odňaté části těla člověka k účelu svou povahou neobvyklému se vyžaduje jeho výslovný souhlas vždy.
 > (3) O tom, co má původ v lidském těle, platí obdobně to, co o částech lidského těla.
 

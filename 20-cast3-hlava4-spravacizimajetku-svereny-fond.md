@@ -463,7 +463,8 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 ### § 1408 — Zcizení, zástava
 
-> (1) Správce může ze spravovaného majetku něco zcizit, je-li to v zájmu zachování hodnoty, podstaty a účelu spravovaného majetku nebo je-li to nutné k zaplacení dluhů s tímto majetkem spojených; jinak jen za protiplnění.
+> (1) Správce může ze spravovaného majetku něco zcizit, je-li to v zájmu zachování hodnoty, podstaty a účelu spravovaného majetku nebo je-li to nutné k zaplacení dluhů s tímto majetkem spojených; jinak jen za protiplnění. Za stejným účelem může správce spravovaný majetek zastavit nebo jinak použít jako jistotu. K těmto právním jednáním musí správci udělit souhlas beneficient.
+> (2) Souhlas k zcizení majetku správce nepotřebuje, hrozí-li mu rychlá zkáza nebo je-li pravděpodobné, že rychle ztratí na hodnotě.
 
 **Kvalifikované zcizení**: jen za **třech podmínek**:
 - (i) **Zachování hodnoty/podstaty/účelu** (např. prodej rychle se kazícího zboží);
@@ -836,6 +837,7 @@ Informování: **beneficient + osoba dohlížející**.
 ### § 1415 — Self-dealing
 
 > (1) Správce se může stát stranou smlouvy týkající se spravovaného majetku, smluvně nabýt právo na tento majetek nebo nabýt právo vůči beneficientovi jen se souhlasem beneficienta.
+> (2) Správce může užívat spravovaný majetek nebo informace získané při správě k vlastnímu prospěchu jen se souhlasem beneficienta, ledaže možnost takového užití určují stanovy či jiná smlouva nebo stanoví-li tak zákon.
 
 **Zákaz vlastního obchodu** (*no self-dealing*) — paralela k anglosaským fiduciary duties. Vyžaduje **souhlas beneficienta**.
 
@@ -989,7 +991,8 @@ Informování: **beneficient + osoba dohlížející**.
 
 ### § 1419 — Osobní nezavázanost
 
-> (1) Správci nevzniká osobní povinnost ze závazku, který ujednal s jinou osobou na účet beneficienta.
+> (1) Správci nevzniká osobní povinnost ze závazku, který ujednal s jinou osobou na účet beneficienta. To platí i v případě, je-li zjevné, že správce jedná na účet svěřenského fondu.
+> (2) Jedná-li správce při výkonu své působnosti na účet beneficienta vlastním jménem, je zavázán společně s beneficientem; po beneficientovi lze však žádat plnění jen ze spravovaného majetku. To platí i v případě, že správce jednal na účet svěřenského fondu, třebaže to nebylo zjevné.
 
 **Princip**: pokud správce jedná **jménem beneficienta**, závazek vzniká **beneficientovi**, nikoliv správci.
 
@@ -1941,6 +1944,7 @@ Obmyšleného jmenuje primárně zakladatel, jinak správce (u soukromého fondu
 
 ### § 1458 — Diskrece a omezení
 
+> (1) Kdo je oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu, postupuje podle statutu a vlastního uvážení. Může své rozhodnutí změnit nebo zrušit za podmínek určených statutem.
 > (2) Nikdo není oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu pro vlastní zisk.
 
 **Zákaz „self-benefit" při jmenování** — obrana proti zneužití pravomoci jmenovat sebe sama nebo blízkou osobu.
@@ -2215,7 +2219,8 @@ Zanikne-li právo na plody/užitky a statut neurčuje dalšího obmyšleného, p
 
 ### § 1466 — Soudní ochrana
 
-> (1) Zakladatel, obmyšlený nebo i jiná osoba, která na tom má právní zájem, může soudu navrhnout, aby svěřenskému správci určité jednání uložil nebo zakázal, anebo aby svěřenského správce odvolal nebo jmenoval nového.
+> (1) Zakladatel, obmyšlený nebo i jiná osoba, která na tom má právní zájem, může soudu navrhnout, aby svěřenskému správci určité jednání uložil nebo zakázal, anebo aby svěřenského správce odvolal nebo jmenoval nového. Tyto osoby se také mohou dovolat neplatnosti právního jednání, kterým správce poškozuje svěřenský fond nebo právo obmyšleného; nabyla-li však třetí osoba právo v dobré víře, nesmí to vést k její újmě.
+> (2) Soud pověří osobu uvedenou v odstavci 1 na její návrh zahájením nebo vedením řízení v zájmu svěřenského fondu místo svěřenského správce a jeho jménem, je-li svěřenský správce bez dostatečného důvodu nečinný.
 
 **Klíčový mechanismus enforcement**:
 - Soud může **uložit/zakázat** jednání správci;

@@ -249,10 +249,12 @@ Smlouva nikdy neobsahuje pouze svůj text — § 545 k vyjádřeným účinkům 
 ### § 548—550 — Podmínky a doložení času
 
 **§ 548**:
+> (1) Vznik, změnu nebo zánik práv lze vázat na splnění podmínky. Je-li zánik práva nebo povinnosti vázán na nemožnou podmínku, nepřihlíží se k ní.
 > (2) Podmínka je odkládací, závisí-li na jejím splnění, zda právní následky jednání nastanou. Podmínka je rozvazovací, závisí-li na jejím splnění, zda právní následky již nastalé pominou.
 > (3) Neplyne-li z právního jednání nebo jeho povahy něco jiného, má se za to, že podmínka je odkládací.
 
 **§ 549**:
+> (1) K splnění podmínky se nepřihlíží, způsobí-li její splnění záměrně osoba, která není oprávněna tak učinit a které je splnění podmínky na prospěch.
 > (2) Zmaří-li záměrně, aniž je k tomu oprávněna, splnění podmínky strana, které je nesplnění podmínky na prospěch, považuje se podmínka za splněnou.
 
 **§ 550**:
@@ -350,6 +352,7 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 > O právní jednání nejde, nebyla-li zjevně projevena vážná vůle.
 
 **§ 553**:
+> (1) O právní jednání nejde, nelze-li pro neurčitost nebo nesrozumitelnost zjistit jeho obsah ani výkladem.
 > (2) Byl-li projev vůle mezi stranami dodatečně vyjasněn, nepřihlíží se k jeho vadě a hledí se, jako by tu bylo právní jednání od počátku.
 
 **§ 554**:
@@ -505,6 +508,7 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 ### § 556 — Subjektivní a objektivní výklad
 
 > (1) Co je vyjádřeno slovy nebo jinak, vyloží se podle úmyslu jednajícího, byl-li takový úmysl druhé straně znám, anebo musela-li o něm vědět. Nelze-li zjistit úmysl jednajícího, přisuzuje se projevu vůle význam, jaký by mu zpravidla přikládala osoba v postavení toho, jemuž je projev vůle určen.
+> (2) Při výkladu projevu vůle se přihlédne k praxi zavedené mezi stranami v právním styku, k tomu, co právnímu jednání předcházelo, i k tomu, jak strany následně daly najevo, jaký obsah a význam právnímu jednání přikládají.
 
 > (2) Při výkladu projevu vůle se přihlédne k praxi zavedené mezi stranami v právním styku, k tomu, co právnímu jednání předcházelo, i k tomu, jak strany následně daly najevo, jaký obsah a význam právnímu jednání přikládají.
 
@@ -658,6 +662,7 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 ### § 558 — Výklad v podnikatelském styku
 
 > (1) V právním styku s podnikatelem se výrazu připouštějícímu různý výklad přisoudí význam, jaký má v takovém styku pravidelně. Není-li však druhá strana podnikatelem, musí ten, kdo se toho dovolává, prokázat, že druhé straně musel být takový význam znám.
+> (2) V právním styku podnikatelů se přihlíží k obchodním zvyklostem zachovávaným obecně, anebo v daném odvětví, ledaže to vyloučí ujednání stran nebo zákon. Není-li jiné ujednání, platí, že obchodní zvyklost má přednost před ustanovením zákona, jež nemá donucující účinky, jinak se může podnikatel zvyklosti dovolat, prokáže-li, že druhá strana určitou zvyklost musela znát a s postupem podle ní byla srozuměna.
 
 > (2) V právním styku podnikatelů se přihlíží k obchodním zvyklostem zachovávaným obecně, anebo v daném odvětví, ledaže to vyloučí ujednání stran nebo zákon. Není-li jiné ujednání, platí, že obchodní zvyklost má přednost před ustanovením zákona, jež nemá donucující účinky, jinak se může podnikatel zvyklosti dovolat, prokáže-li, že druhá strana určitou zvyklost musela znát a s postupem podle ní byla srozuměna.
 
@@ -868,6 +873,7 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 ### § 561 — Podpis a více osob
 
 > (1) K platnosti právního jednání učiněného v písemné formě se vyžaduje podpis jednajícího. Podpis může být nahrazen mechanickými prostředky tam, kde je to obvyklé. Jiný právní předpis stanoví, jak lze při právním jednání učiněném elektronickými prostředky písemnost elektronicky podepsat.
+> (2) Jedná-li více osob, vyžadují se jejich projevy na téže listině při právním jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, anebo kterým se takové právo mění nebo ruší.
 
 > (2) Jedná-li více osob, vyžadují se jejich projevy na téže listině při právním jednání, kterým se zřizuje nebo převádí věcné právo k nemovité věci, anebo kterým se takové právo mění nebo ruší.
 
@@ -940,6 +946,7 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 ### § 562 — Elektronická forma
 
 > (1) Písemná forma je zachována i při právním jednání učiněném elektronickými nebo jinými technickými prostředky umožňujícími zachycení jeho obsahu a určení jednající osoby.
+> (2) Má se za to, že záznamy údajů o právních jednáních v elektronickém systému jsou spolehlivé, provádějí-li se systematicky a posloupně a jsou-li chráněny proti změnám. Byl-li záznam pořízen při provozu závodu a dovolá-li se jej druhá strana k svému prospěchu, má se za to, že záznam je spolehlivý.
 
 > (2) Má se za to, že záznamy údajů o právních jednáních v elektronickém systému jsou spolehlivé, provádějí-li se systematicky a posloupně a jsou-li chráněny proti změnám. Byl-li záznam pořízen při provozu závodu a dovolá-li se jej druhá strana k svému prospěchu, má se za to, že záznam je spolehlivý.
 
@@ -1008,6 +1015,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 ### § 563 — Osoby neumějící číst/psát
 
 > (1) Pokud v písemné formě právně jedná ten, kdo nemůže číst a psát, ale je schopen seznámit se s obsahem právního jednání pomocí přístrojů či speciálních pomůcek nebo prostřednictvím jiné osoby, kterou si zvolí, opatří listinu podpisem; není-li s to se podepsat, učiní namísto podpisu před alespoň dvěma svědky na listině rukou nebo jinak vlastní znamení, ke kterému jeden ze svědků připíše jméno jednajícího.
+> (2) O svědcích platí § 39 obdobně.
+> (3) Nelze-li postupovat podle odstavce 1, vyžaduje se k jednání osoby, která nemůže číst a psát, forma veřejné listiny. Taková forma se vyžaduje i tehdy, stanoví-li zákon, že projev vůle jednajícího musí být na listině napsán vlastní rukou. Je-li toho jednající schopen, připojí na zápis o svém právním jednání vlastní znamení.
 
 > (2) O svědcích platí § 39 obdobně.
 
@@ -1139,6 +1148,7 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 > Je na každém, kdo se dovolává soukromé listiny, aby dokázal její pravost a správnost. Je-li soukromá listina použita proti osobě, která listinu zjevně podepsala, nebo proti jejímu dědici nebo proti tomu, kdo nabyl jmění při přeměně právnické osoby jako její právní nástupce, má se za to, že pravost a správnost listiny byla uznána.
 
 **§ 566**:
+> (1) Není-li soukromá listina podepsána, je na tom, kdo ji použil, aby dokázal, že pochází od osoby, o níž to tvrdí.
 > (2) Má se za to, že písemnosti týkající se právních skutečností, k nimž dochází při běžném provozu závodu, dokazují, dovolává-li se jich druhá strana k svému prospěchu, co je v listině obsaženo a že listina byla vystavena v době na ní uvedené; to platí i v případě, že listina nebyla podepsána.
 
 **Výklad:**
@@ -1294,6 +1304,7 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 ### § 570—572 — Účinky vůči nepřítomné osobě
 
 **§ 570**:
+> (1) Právní jednání působí vůči nepřítomné osobě od okamžiku, kdy jí projev vůle dojde; zmaří-li vědomě druhá strana dojití, platí, že řádně došlo.
 > (2) Právní jednání nepůsobí vůči osobě, která není plně svéprávná, dříve, než projev vůle dojde jejímu zákonnému zástupci nebo opatrovníkovi. Sleduje-li se však právním jednáním poskytnout takové osobě jen právní výhodu, působí právní jednání již od okamžiku, kdy je učiněno vůči této osobě.
 
 **§ 571**:
@@ -1782,6 +1793,7 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 ### § 589 — Definice
 
 > (1) Zkracuje-li právní jednání dlužníka uspokojení vykonatelné pohledávky věřitele, má věřitel právo domáhat se, aby soud určil, že právní jednání dlužníka není vůči věřiteli právně účinné. Toto právo má věřitel i tehdy, je-li právo třetí osoby již vykonatelné, anebo bylo-li již uspokojeno.
+> (2) Neúčinnost právního jednání dlužníka se zakládá rozhodnutím soudu o žalobě věřitele, kterou bylo odporováno právnímu jednání dlužníka (odpůrčí žaloba).
 
 > (2) Neúčinnost právního jednání dlužníka se zakládá rozhodnutím soudu o žalobě věřitele, kterou bylo odporováno právnímu jednání dlužníka (odpůrčí žaloba).
 

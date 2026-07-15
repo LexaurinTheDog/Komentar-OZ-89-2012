@@ -648,8 +648,8 @@ Vzdání se dědictví (na rozdíl od odmítnutí) předpokládá, že dědic d�
 
 ### § 1494 — Definice závěti
 
-> (1) Závěť je odvolatelný projev vůle, kterým zůstavitel pro případ své smrti osobně zůstavuje jedné či více osobám alespoň podíl na pozůstalosti, případně i odkaz.
-> (2) Závěť je třeba vyložit tak, aby bylo co nejvíce vyhověno vůli zůstavitele.
+> (1) Závěť je odvolatelný projev vůle, kterým zůstavitel pro případ své smrti osobně zůstavuje jedné či více osobám alespoň podíl na pozůstalosti, případně i odkaz. Není-li zřejmé, který den, měsíc a rok byla závěť pořízena a pořídil-li zůstavitel více závětí, které si odporují nebo závisí-li jinak právní účinky závěti na určení doby jejího pořízení, je závěť neplatná.
+> (2) Závěť je třeba vyložit tak, aby bylo co nejvíce vyhověno vůli zůstavitele. Slova použitá v závěti se vykládají podle jejich obvyklého významu, ledaže se prokáže, že si zůstavitel navykl spojovat s určitými výrazy zvláštní, sobě vlastní smysl.
 
 **Pojmové znaky závěti**:
 - **Jednostranný** projev vůle;
@@ -1224,6 +1224,10 @@ Dědickou smlouvou lze pořídit nejvýše o ¾ pozůstalosti (čtvrtina zůstá
 
 > § 1477 (1): Odkazem se odkazovníku zřizuje pohledávka na vydání určité věci, popřípadě jedné či několika věcí určitého druhu, nebo na zřízení určitého práva.
 
+**§ 1594**:
+> (1) Odkaz zůstavitel zřídí tak, že v pořízení pro případ smrti nařídí určité osobě, aby odkazovníku vydala předmět odkazu. Odkazovníkem může být jen osoba způsobilá dědit. Povolá-li zůstavitel dědice s určením, že ten určitou věc dědit nemá, považuje se to za zřízení odkazu zákonným dědicům.
+> (2) Darování závislé na podmínce, že obdarovaný dárce přežije, se považuje za odkaz, pokud se dárce nevzdal práva dar odvolat.
+
 **Odkaz** (*legatum*) — **obligační** (nikoli věcný) nárok:
 - **Odkazovník (*legatarius*)** ≠ dědic;
 - Má **pohledávku vůči dědici** (obtíženému odkazem);
@@ -1546,6 +1550,10 @@ Odkaz jednotlivé věci z pozůstalosti (a vyjmenované odkazy) lze požadovat i
 ### § 1633 — Odúmrť
 
 > Pokud nedědí žádný z dědiců, připadne pozůstalost státu jako odúmrť. Stát má postavení, jako by byl zákonným dědicem.
+
+**§ 1633**:
+> (1) Kde nedojde k posloupnosti podle dědické smlouvy nebo podle závěti, nastane zákonná dědická posloupnost k pozůstalosti nebo k její části. Není-li zákonný dědic, nebo nenabude-li dědictví, stávají se dědici odkazovníci podle poměru hodnoty svých odkazů.
+> (2) Kdo nabyl dědictví proto, že dědic ani náhradník povolaný dědickou smlouvou nebo závětí dědit nechtěl nebo nemohl, splní ostatní nařízení zůstavitele.
 
 **Odúmrť** (*Heimfall*, *bona vacantia*) — **závěrečná dědická třída**: stát dědí, pokud nikdo jiný. Stát **nemůže odmítnout**.
 
@@ -2116,6 +2124,9 @@ Pozůstalý rodič, jemuž byl podíl odepřen/zkrácen, má právo na nutné za
 
 > Pozůstalost přechází na dědice okamžikem zůstavitelovy smrti, ale tento účinek dědic přijímá nabytím dědictví.
 
+**§ 1670**:
+> Nabytí dědictví potvrzuje soud. Soud potvrdí nabytí dědictví osobě, jejíž dědické právo bylo prokázáno.
+
 **Princip *ipso iure*** (samovolného přechodu): dědic **automaticky nabývá** k okamžiku smrti (*delatio*). Nepotřebuje žádný úkon.
 
 **Akceptace**: dědic se může:
@@ -2462,6 +2473,11 @@ Výhrada soupisu (beneficium inventarii) omezuje ručení dědice za zůstavitel
 ### § 1714 — Definice
 
 > Dědictví lze zcizit, jakmile bylo dědici potvrzeno.
+
+**§ 1714**:
+> (1) Dědictví lze zcizit po smrti zůstavitele; je-li smlouva uzavřena dříve, nepřihlíží se k ní. Zcizením dědictví vstupuje nabyvatel do práv a povinností náležejících k pozůstalosti.
+> (2) Dědictví se zcizuje odvážnou smlouvou, pokud při zcizení dědictví nebyl za základ smlouvy vzat seznam práv a povinností. Byl-li takový seznam za základ vzat, záleží na obsahu smlouvy, záleží na ujednání stran, nakolik se použijí také § 1716 a 1717.
+> (3) Smlouva vyžaduje formu veřejné listiny.
 
 **Zcizení dědictví** (*venditio hereditatis*) — prodej **celého dědického podílu** (ne jednotlivých věcí) **jiné osobě**.
 

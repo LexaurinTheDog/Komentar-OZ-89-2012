@@ -197,6 +197,7 @@ Výběr poručníka probíhá neprodleně a podle závazné kaskády § 931, vž
 ### § 932 — Způsobilost poručníka
 
 > (1) Poručníkem lze jmenovat jen plně svéprávnou osobu, která způsobem života zaručuje, že je schopna funkci poručníka řádně vykonávat. Před jejím jmenováním do funkce poručníka soud zjistí, zda její jmenování není v rozporu se zájmem dítěte.
+> (2) Do funkce poručníka může soud jmenovat i dvě osoby; budou jimi zpravidla manželé.
 
 > (2) Do funkce poručníka může soud jmenovat i dvě osoby; budou jimi zpravidla manželé.
 
@@ -703,7 +704,8 @@ Opatrovník pro správu jmění postupuje s péčí řádného hospodáře bez n
 
 ### § 953 — Pečující osoba
 
-> (1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče jiného člověka (dále jen „pečující osoba"). Rozhodnutí o svěření dítěte do péče musí být v souladu se zájmy dítěte.
+> (1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče jiného člověka (dále jen „pečující osoba“). Rozhodnutí o svěření dítěte do péče musí být v souladu se zájmy dítěte.
+> (2) Svěření dítěte do osobní péče pečující osoby nenahrazuje pěstounskou péči, předpěstounskou péči ani péči, která musí předcházet osvojení. Má přednost před péčí o dítě v ústavní výchově.
 
 > (2) Svěření dítěte do osobní péče pečující osoby nenahrazuje pěstounskou péči, předpěstounskou péči ani péči, která musí předcházet osvojení. Má přednost před péčí o dítě v ústavní výchově.
 
@@ -837,6 +839,8 @@ Pečující osoba musí skýtat záruky řádné péče, mít bydliště v ČR a
 ### § 958 — Vznik pěstounské péče
 
 > (1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče pěstounovi.
+> (2) Pěstounská péče má přednost před péčí o dítě v ústavní výchově.
+> (3) Soud může svěřit dítě do pěstounské péče i na přechodnou dobu. Podrobnosti stanoví jiný zákon.
 
 > (2) Pěstounská péče má přednost před péčí o dítě v ústavní výchově.
 
@@ -952,6 +956,7 @@ Pěstounská péče trvá po dobu překážky bránící rodičům; rodič můž
 ### § 961 — Výživné v pěstounské péči
 
 > (1) Svěření dítěte do pěstounské péče nemá vliv na trvání vyživovací povinnosti rodičů k dítěti. Soud stanoví rodičům rozsah výživného s ohledem na jejich možnosti, schopnosti a majetkové poměry a odůvodněné potřeby dítěte.
+> (2) Náleží-li dítěti příspěvek na úhradu jeho potřeb podle jiného zákona, přechází právo dítěte na stát. Je-li výživné vyšší než tento příspěvek, náleží rozdíl dítěti. Soud rozhodne o způsobu platby a o hospodaření s výživným.
 
 > (2) Náleží-li dítěti příspěvek na úhradu jeho potřeb podle jiného zákona, přechází právo dítěte na stát. Je-li výživné vyšší než tento příspěvek, náleží rozdíl dítěti. Soud rozhodne o způsobu platby a o hospodaření s výživným.
 
@@ -1361,9 +1366,9 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 ### § 973 — Pravidelný přezkum
 
 > Bylo-li soudem rozhodnuto podle § 971, je soud povinen nejméně jednou za šest měsíců přezkoumat, zda trvají důvody pro nařízení tohoto opatření nebo zda není možné zajistit dítěti náhradní rodinnou péči. Za tím účelem zejména
-> - a) si vyžádá zprávy příslušného orgánu sociálně-právní ochrany dětí,
-> - b) si opatří vyjádření názoru dítěte, je-li dítě schopno si jej vytvořit a sdělit poté, co jej soud, s ohledem na jeho věk a rozumovou vyspělost, řádně poučí, a
-> - c) vyzve rodiče dítěte k vyjádření jejich stanoviska.
+> a) si vyžádá zprávy příslušného orgánu sociálně-právní ochrany dětí,
+> b) si opatří vyjádření názoru dítěte, je-li dítě schopno si jej vytvořit a sdělit poté, co jej soud, s ohledem na jeho věk a rozumovou vyspělost, řádně poučí, a
+> c) vyzve rodiče dítěte k vyjádření jejich stanoviska.
 
 **Výklad:**
 

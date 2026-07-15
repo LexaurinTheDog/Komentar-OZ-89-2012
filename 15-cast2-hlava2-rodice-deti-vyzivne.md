@@ -20,6 +20,7 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 ### § 855 — Účel a nezcizitelnost povinností a práv
 
 > (1) Rodiče a dítě mají vůči sobě navzájem povinnosti a práva. Těchto vzájemných povinností a práv se nemohou vzdát; učiní-li tak, nepřihlíží se k tomu.
+> (2) Účelem povinností a práv k dítěti je zajištění morálního a hmotného prospěchu dítěte.
 
 > (2) Účelem povinností a práv k dítěti je zajištění morálního a hmotného prospěchu dítěte.
 
@@ -135,6 +136,7 @@ Zletilostí končí osobnostní rozměr rodičovství (péče, určení bydlišt
 ### § 857 — Povinnost dbát rodičů a výchovná opatření
 
 > (1) Dítě je povinno dbát svých rodičů.
+> (2) Dokud se dítě nestane svéprávným, mají rodiče právo usměrňovat své dítě výchovnými opatřeními, jak to odpovídá jeho rozvíjejícím se schopnostem, včetně omezení sledujících ochranu morálky, zdraví a práv dítěte, jakož i práv jiných osob a veřejného pořádku. Dítě je povinno se těmto opatřením podřídit.
 
 > (2) Dokud se dítě nestane svéprávným, mají rodiče právo usměrňovat své dítě výchovnými opatřeními, jak to odpovídá jeho rozvíjejícím se schopnostem, včetně omezení sledujících ochranu morálky, zdraví a práv dítěte, jakož i práv jiných osob a veřejného pořádku. Dítě je povinno se těmto opatřením podřídit.
 
@@ -193,6 +195,15 @@ Rodič smí dítě usměrňovat přiměřeně jeho věku a jen k legitimním cí
 ### § 858 — Definice rodičovské odpovědnosti
 
 > (1) Rodičovská odpovědnost zahrnuje povinnosti a práva rodičů, která spočívají v
+>     - a) péči o dítě, zahrnující zejména péči o jeho zdraví a péči o jeho tělesný, citový, rozumový a mravní vývoj bez tělesného trestání, duševního strádání a jiných ponižujících opatření,
+>     - b) ochraně dítěte,
+>     - c) udržování styku s dítětem, zahrnujícího osobní styk, nepřímý styk uskutečňovaný prostředky komunikace na dálku, vzájemné poskytování všech podstatných informací o dítěti mezi rodiči a poskytování všech podstatných informací o rodičích dítěti,
+>     - d) zajišťování výchovy a vzdělání dítěte,
+>     - e) určení místa bydliště dítěte,
+>     - f) zastupování dítěte a
+>     - g) spravování jmění dítěte.
+> (2) Rodičovská odpovědnost vzniká narozením dítěte a zaniká, jakmile dítě nabude plné svéprávnosti.
+> (3) Trvání a rozsah rodičovské odpovědnosti může změnit jen soud.
   - a) péči o dítě, zahrnující zejména péči o jeho zdraví a péči o jeho tělesný, citový, rozumový a mravní vývoj bez tělesného trestání, duševního strádání a jiných ponižujících opatření,
   - b) ochraně dítěte,
   - c) udržování styku s dítětem...
@@ -345,6 +356,8 @@ Výživné je samostatný, kogentně chráněný nárok dítěte; nezaniká zbav
 ### § 860 — Příjmení dítěte v manželství
 
 > (1) Dítě má společné příjmení rodičů nebo příjmení jednoho z nich určené pro společné děti manželů.
+> (2) Nemá-li dítě příjmení podle odstavce 1, zvolí rodiče pro dítě příjmení jednoho z nich; jinak jeho příjmení určí soud. Totéž platí o osobním jménu dítěte.
+> (3) Došlo-li ke změně společného příjmení manželů nebo příjmení jednoho z nich určeného pro jejich společné děti, vztahuje se tato změna i na příjmení jejich dříve narozeného dítěte. Dovršilo-li však toto dítě 12 let, je tato změna jeho příjmení možná prohlášením rodičů před matričním úřadem se souhlasem dítěte.
 
 > (2) Nemá-li dítě příjmení podle odstavce 1, zvolí rodiče pro dítě příjmení jednoho z nich; jinak jeho příjmení určí soud. Totéž platí o osobním jménu dítěte.
 
@@ -482,6 +495,7 @@ Skupina § 861–864 doplňuje základní pravidlo § 860 pro situace mimo „st
 #### § 865 — Default rovnost
 
 > (1) Rodičovská odpovědnost náleží stejně oběma rodičům. Má ji každý rodič, ledaže jí byl zbaven.
+> (2) Rozhodne-li soud o omezení svéprávnosti rodiče, rozhodne zároveň o jeho rodičovské odpovědnosti.
 
 > (2) Rozhodne-li soud o omezení svéprávnosti rodiče, rozhodne zároveň o jeho rodičovské odpovědnosti.
 
@@ -816,6 +830,7 @@ Rodiče vykonávají rodičovskou odpovědnost ve shodě a v zájmu dítěte; na
 #### § 877 — Soudní rozhodnutí při neshodě
 
 > (1) Nedohodnou-li se rodiče v záležitosti, která je pro dítě významná zejména se zřetelem k jeho zájmu, rozhodne soud na návrh rodiče; to platí i tehdy, vyloučil-li jeden rodič z rozhodování o významné záležitosti dítěte druhého rodiče.
+> (2) Za významnou záležitost se považují zejména nikoli běžné léčebné a obdobné zákroky, určení místa bydliště a volba vzdělání nebo pracovního uplatnění dítěte.
 
 > (2) Za významnou záležitost se považují zejména nikoli běžné léčebné a obdobné zákroky, určení místa bydliště a volba vzdělání nebo pracovního uplatnění dítěte.
 
@@ -875,6 +890,8 @@ Ve významných záležitostech (lékařské zákroky s následky, bydliště, v
 #### § 878 — Výkon jedním rodičem
 
 > (1) Nežije-li některý z rodičů nebo není-li znám, nemá-li některý z rodičů rodičovskou odpovědnost, nebo je-li výkon jeho rodičovské odpovědnosti pozastaven, vykonává rodičovskou odpovědnost druhý rodič; to platí i tehdy, je-li rodičovská odpovědnost jednoho z rodičů omezena nebo je-li omezen její výkon.
+> (2) Nemá-li žádný z rodičů rodičovskou odpovědnost v plném rozsahu nebo je-li výkon rodičovské odpovědnosti obou rodičů pozastaven, anebo je-li rodičovská odpovědnost rodičů dotčena některým z uvedených způsobů, ale každého jinak, jmenuje soud dítěti poručníka, kterému náleží povinnosti a práva rodičů nebo jejich výkon na místě rodičů.
+> (3) Je-li rodičovská odpovědnost rodičů omezena nebo je-li omezen její výkon, jmenuje soud dítěti opatrovníka.
 
 > (2) Nemá-li žádný z rodičů rodičovskou odpovědnost v plném rozsahu nebo je-li výkon rodičovské odpovědnosti obou rodičů pozastaven, anebo je-li rodičovská odpovědnost rodičů dotčena některým z uvedených způsobů, ale každého jinak, jmenuje soud dítěti poručníka, kterému náleží povinnosti a práva rodičů nebo jejich výkon na místě rodičů.
 
@@ -1195,6 +1212,8 @@ Rodiče dítě zastupují, avšak nikoli tam, kde hrozí střet jejich zájmů (
 #### § 896 — Správa s péčí řádného hospodáře
 
 > (1) Rodiče mají povinnost a právo pečovat o jmění dítěte, především je jako řádní hospodáři spravovat. S peněžními prostředky, o kterých lze předpokládat, že nebudou zapotřebí k úhradě výdajů souvisících s majetkem dítěte, musí bezpečně nakládat.
+> (2) Při právním jednání, které se týká jednotlivé součásti jmění dítěte, vystupují rodiče jako jeho zástupci; ustanovení § 892 odst. 3 platí obdobně.
+> (3) Poruší-li rodiče povinnost pečovat o jmění dítěte jako řádní hospodáři, nahradí dítěti škodu z toho vzniklou společně a nerozdílně.
 
 > (2) Při právním jednání, které se týká jednotlivé součásti jmění dítěte, vystupují rodiče jako jeho zástupci; ustanovení § 892 odst. 3 platí obdobně.
 
@@ -1261,6 +1280,16 @@ Rodiče spravují jmění dítěte jako řádní hospodáři a s prostředky, je
 #### § 898 — KLÍČOVÉ — Souhlas soudu k některým úkonům
 
 > (1) K právnímu jednání, které se týká existujícího i budoucího jmění dítěte nebo jednotlivé součásti tohoto jmění, potřebují rodiče souhlas soudu, ledaže se jedná o běžné záležitosti, nebo o záležitosti sice výjimečné, ale týkající se zanedbatelné majetkové hodnoty.
+> (2) Souhlasu soudu je vždy třeba k právnímu jednání, kterým dítě
+>     - a) nabývá, zcizuje nebo zatěžuje nemovitou věc nebo podíl na ní,
+>     - b) zcizuje nebo zatěžuje majetek jako celek, ledaže jeho hodnota nepřevyšuje částku odpovídající dvacetinásobku životního minima jednotlivce podle jiného právního předpisu, nebo nabývá, zcizuje nebo zatěžuje majetek v hodnotě převyšující částku odpovídající stonásobku životního minima jednotlivce podle jiného právního předpisu,
+>     - c) uzavírá dohodu dědiců o výši dědických podílů nebo rozdělení pozůstalosti, odmítá dědictví nebo prohlašuje, že nechce odkaz,
+>     - d) uzavírá smlouvu
+>       - 1. zavazující k trvajícímu nebo opětovnému plnění nebo smlouvu týkající se jeho bydlení na dobu delší než tři roky nebo na dobu trvající i po nabytí zletilosti dítětem, nebo
+>       - 2. úvěrovou nebo obdobnou, nebo
+>     - e) postupuje pohledávku na výživné, ledaže jde o postoupení za úplatu alespoň ve výši jistiny pohledávky v době postoupení.
+> (3) Je-li to v zájmu dítěte, může soud zúžit okruh právních jednání, která podléhají souhlasu soudu.
+> (4) Jednal-li rodič za dítě bez souhlasu soudu, lze právní jednání prohlásit za neplatné, jen působí-li dítěti újmu.
 
 > (2) Souhlasu soudu je vždy třeba k právnímu jednání, kterým dítě
 - a) nabývá, zcizuje nebo zatěžuje nemovitou věc nebo podíl na ní,
@@ -1514,6 +1543,9 @@ Při rozvodu soud vždy uspořádá péči o dítě podle jeho zájmu; souhlasno
 ### § 910 — Okruh vyživovacích povinností
 
 > (1) Předci a potomci mají vzájemnou vyživovací povinnost.
+> (2) Vyživovací povinnost rodičů vůči dítěti předchází vyživovací povinnosti prarodičů a dalších předků vůči dítěti.
+> (3) Vzdálenější příbuzní mají vyživovací povinnost, jen nemohou-li ji plnit bližší příbuzní.
+> (4) Nejedná-li se o poměr rodičů a dítěte, předchází vyživovací povinnost potomků vyživovací povinnosti předků.
 
 > (2) Vyživovací povinnost rodičů vůči dítěti předchází vyživovací povinnosti prarodičů a dalších předků vůči dítěti.
 
@@ -1982,6 +2014,10 @@ Výživné se plní v pravidelných měsíčních dávkách splatných dopředu;
 ### § 925 — Preventivní, výchovná a sankční opatření
 
 > (1) Vyžaduje-li to zájem na řádné výchově dítěte, a neučiní-li tak orgán sociálně-právní ochrany dětí, může soud
+>   - a) napomenout vhodným způsobem dítě, rodiče, osobu, do jejíž péče bylo dítě svěřeno, popřípadě toho, kdo narušuje řádnou péči o dítě,
+>   - b) stanovit nad dítětem dohled a provádět jej za součinnosti školy, orgánu sociálně-právní ochrany dětí, popřípadě dalších institucí a osob, které působí zejména v místě bydliště nebo pracoviště dítěte, nebo
+>   - c) uložit dítěti nebo rodičům omezení bránící škodlivým vlivům na jeho výchovu, zejména zákazem určitých činností.
+> (2) Soud sleduje, zda je dodržováno výchovné opatření, o kterém rozhodl, a hodnotí jeho účinnost zpravidla v součinnosti s orgánem sociálně-právní ochrany dětí, popřípadě dalšími osobami.
   - a) napomenout vhodným způsobem dítě, rodiče, osobu, do jejíž péče bylo dítě svěřeno, popřípadě toho, kdo narušuje řádnou péči o dítě,
   - b) stanovit nad dítětem dohled...
   - c) uložit dítěti nebo rodičům omezení bránící škodlivým vlivům na jeho výchovu, zejména zákazem určitých činností.

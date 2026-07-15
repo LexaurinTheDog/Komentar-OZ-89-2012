@@ -148,7 +148,8 @@ Obsah závazku tvoří plnění majetkové povahy, které musí odpovídat zájm
 
 ### § 1723 — Vznik závazku
 
-> Závazek vzniká ze smlouvy, z protiprávního činu, nebo z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá.
+> (1) Závazek vzniká ze smlouvy, z protiprávního činu, nebo z jiné právní skutečnosti, která je k tomu podle právního řádu způsobilá.
+> (2) Ustanovení o závazcích, které vznikají ze smluv, se použijí přiměřeně i na závazky vznikající na základě jiných právních skutečností.
 
 **Trojí dělení vzniku závazků** (klasické):
 1. **Ze smlouvy** (*ex contractu*) — § 1724 a násl.;
@@ -207,6 +208,7 @@ Závazek nevzniká jen ze smlouvy. § 1723 zakotvuje tři prameny: smlouvu, prot
 ### § 1724 — Definice smlouvy
 
 > (1) Smlouvou projevují strany vůli zřídit mezi sebou závazek a řídit se obsahem smlouvy.
+> (2) Ustanovení o smlouvách se použijí přiměřeně i na projev vůle, kterým se jedna osoba obrací na osoby jiné, ledaže to vylučuje povaha projevu vůle nebo zákon.
 
 **Smlouva** (*contractus*) — **dvou- nebo vícestranný** projev shodné vůle. **Princip konsenzu** (*pacta sunt servanda*) — § 3, § 1759.
 
@@ -1455,6 +1457,15 @@ Předsmluvní údaje sdělené spotřebiteli se stávají obsahem smlouvy (§ 18
 
 > Spotřebitel má právo odstoupit od smlouvy bez udání důvodu ve lhůtě 14 dnů.
 
+**§ 1829**:
+> (1) Spotřebitel může odstoupit od smlouvy uzavřené distančním způsobem nebo od smlouvy uzavřené mimo obchodní prostory ve lhůtě čtrnácti dnů. Není-li dále stanoveno jinak, končí lhůta uplynutím čtrnácti dnů ode dne uzavření smlouvy.
+> (2) Je-li předmětem závazku koupě zboží, končí lhůta uplynutím čtrnácti dnů ode dne, kdy spotřebitel nebo jím určená třetí osoba odlišná od dopravce převezeme zboží, nebo
+>     - a) poslední kus zboží, objedná-li spotřebitel v rámci jedné objednávky více kusů zboží, které jsou dodávány samostatně,
+>     - b) poslední položku nebo část dodávky zboží sestávajícího z několika položek nebo částí, nebo
+>     - c) první dodávku zboží, je-li ve smlouvě ujednána pravidelná dodávka zboží po ujednanou dobu.
+> (3) Je-li předmětem závazku dodávka vody, plynu nebo elektřiny, které nejsou prodávány v omezeném objemu nebo v určitém množství, tepla z dálkového vytápění nebo poskytnutí digitálního obsahu, který není dodán na hmotném nosiči, končí lhůta uplynutím čtrnácti dnů ode dne uzavření smlouvy.
+> (4) Nebyl-li spotřebitel poučen o právu odstoupit od smlouvy podle § 1820 odst. 1 písm. i), může od smlouvy odstoupit do jednoho roku ode dne uplynutí lhůty podle odstavce 1, 2 nebo 3. V případě, že podnikatel poučil spotřebitele o právu odstoupit od smlouvy do jednoho roku ode dne uvedeného v odstavci 1, 2 nebo 3, skončí lhůta pro odstoupení uplynutím čtrnácti dnů ode dne, kdy spotřebitel obdržel poučení.
+
 **14denní lhůta** — start:
 - **Zboží**: od **převzetí** posledního kusu;
 - **Služby**: od **uzavření smlouvy**;
@@ -2022,6 +2033,10 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 
 > Zánik závazku nastane splněním, dohodou, započtením, prominutím dluhu, splynutím, výpovědí, odstoupením, dodatečnou nemožností plnění a v některých případech smrtí dlužníka nebo věřitele.
 
+**§ 1908**:
+> (1) Splněním dluhu závazek zaniká.
+> (2) Dlužník musí dluh splnit na svůj náklad a nebezpečí řádně a včas.
+
 **11 hlavních způsobů zániku**:
 
 **Judikatura (z místních zdrojů):**
@@ -2313,6 +2328,10 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 ### 4) Prominutí dluhu (§ 1995)
 
 > § 1995 (1): Promine-li věřitel dlužníku dluh, dluh zanikne; má-li věřitel udělit zajištění dluhu nepravdivými údaji nepřispělý, vrátí, co vzal.
+
+**§ 1995**:
+> (1) Promine-li věřitel dlužníku dluh, má se za to, že dlužník s prominutím dluhu souhlasí, pokud neprojevil bez zbytečného odkladu nesouhlas výslovně nebo plněním dluhu.
+> (2) K prominutí dluhu dojde i v případě, že věřitel vydá dlužníku kvitanci nebo mu vrátí dlužní úpis, aniž dluh splnil; vydá-li věřitel kvitanci nebo vrátí-li dlužní úpis na celý dluh jednomu ze spoludlužníků, má se za to, že věřitel prominul dluh všem spoludlužníkům.
 
 **Prominutí dluhu** (*remissio*) = jednostranný úkon věřitele.
 

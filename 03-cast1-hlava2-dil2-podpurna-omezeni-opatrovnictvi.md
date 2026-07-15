@@ -368,6 +368,7 @@ Smlouva o nápomoci je nejmírnějším podpůrným opatřením pro osoby, jimž
 ### § 46 — Obsah smlouvy
 
 > (1) Smlouvou o nápomoci se podpůrce zavazuje podporovanému, že bude s jeho souhlasem přítomen při jeho právních jednáních, že mu zajistí potřebné údaje a sdělení a že mu bude nápomocen radami.
+> (2) Smlouva nabývá účinnosti dnem, kdy ji schválí soud. Není-li smlouva uzavřena v písemné formě, vyžaduje se, aby strany projevily vůli uzavřít smlouvu před soudem. Soud smlouvu neschválí, odporují-li zájmy podpůrce zájmům podporovaného.
 
 > (2) Smlouva nabývá účinnosti dnem, kdy ji schválí soud. Není-li smlouva uzavřena v písemné formě, vyžaduje se, aby strany projevily vůli uzavřít smlouvu před soudem. Soud smlouvu neschválí, odporují-li zájmy podpůrce zájmům podporovaného.
 
@@ -429,6 +430,7 @@ Smlouva o nápomoci musí mít zákonný obsah (přítomnost, informace, rady) a
 ### § 47 — Povinnosti podpůrce
 
 > (1) Podpůrce nesmí ohrozit zájmy podporovaného nevhodným ovlivňováním, ani se na úkor podporovaného bezdůvodně obohatit.
+> (2) Podpůrce postupuje při plnění svých povinností v souladu s rozhodnutími podporovaného. Pokud podporovaný právně jedná v písemné formě, může podpůrce připojit svůj podpis s uvedením své funkce, popřípadě i s údajem o podpoře, kterou podporovanému poskytl; podpůrce má i právo namítat neplatnost právního jednání podporovaného.
 
 > (2) Podpůrce postupuje při plnění svých povinností v souladu s rozhodnutími podporovaného. Pokud podporovaný právně jedná v písemné formě, může podpůrce připojit svůj podpis s uvedením své funkce, popřípadě i s údajem o podpoře, kterou podporovanému poskytl; podpůrce má i právo namítat neplatnost právního jednání podporovaného.
 
@@ -538,6 +540,7 @@ Podpůrce lze odvolat na návrh podporovaného či podpůrce kdykoli, a při zá
 ### § 49 — Zákonné zastoupení rodinným příslušníkem
 
 > (1) Brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky.
+> (2) Zástupce dá zastoupenému na vědomí, že ho bude zastupovat, a srozumitelně mu vysvětlí povahu a následky zastoupení. Odmítne-li to člověk, který má být zastoupen, zastoupení nevznikne; k odmítnutí postačí schopnost projevit přání.
 
 > (2) Zástupce dá zastoupenému na vědomí, že ho bude zastupovat, a srozumitelně mu vysvětlí povahu a následky zastoupení. Odmítne-li to člověk, který má být zastoupen, zastoupení nevznikne; k odmítnutí postačí schopnost projevit přání.
 
@@ -739,6 +742,7 @@ Zástupce nese standard péče blízký opatrovníkovi: chrání zájmy a práva
 ### § 52 — Rozsah zastoupení
 
 > (1) Zastoupení se vztahuje na obvyklé záležitosti, jak to odpovídá životním poměrům zastoupeného. Zástupce však není oprávněn udělit souhlas k zásahu do duševní nebo tělesné integrity člověka s trvalými následky.
+> (2) Zástupce může nakládat s příjmy zastoupeného v rozsahu potřebném pro obstarání obvyklých záležitostí, jak to odpovídá životním poměrům zastoupeného; s peněžními prostředky na účtu zastoupeného však může nakládat jen v rozsahu nepřesahujícím měsíčně výši životního minima jednotlivce podle jiného právního předpisu.
 
 > (2) Zástupce může nakládat s příjmy zastoupeného v rozsahu potřebném pro obstarání obvyklých záležitostí, jak to odpovídá životním poměrům zastoupeného; s peněžními prostředky na účtu zastoupeného však může nakládat jen v rozsahu nepřesahujícím měsíčně výši životního minima jednotlivce podle jiného právního předpisu.
 
@@ -808,6 +812,7 @@ Zastoupení členem domácnosti pokrývá jen obvyklé záležitosti; u prostře
 > Má-li zastoupený více zástupců, postačí, pokud jedná jeden z nich. Jedná-li však vůči další osobě více zástupců společně a odporují-li si, nepřihlíží se k projevu žádného z nich.
 
 **§ 54**:
+> (1) Zastoupení zaniká, pokud se jej zástupce vzdá nebo pokud zastoupený odmítne, aby ho zástupce dále zastupoval; k odmítnutí postačí schopnost projevit přání. Zastoupení rovněž zaniká, pokud soud jmenuje zastoupenému opatrovníka.
 > (2) Je-li uzavřena smlouva o nápomoci při rozhodování, zanikne zastoupení účinností smlouvy v rozsahu, v jakém je zastoupený způsobilý právně jednat.
 
 **Výklad:**
@@ -868,6 +873,7 @@ Při více zástupcích postačí jednání jednoho; rozporné společné projev
 ### § 55 — Princip subsidiarity a poslední možnosti
 
 > (1) K omezení svéprávnosti lze přistoupit jen v zájmu člověka, jehož se to týká, po jeho zhlédnutí a s plným uznáváním jeho práv a jeho osobní jedinečnosti. Přitom musí být důkladně vzaty v úvahu rozsah i stupeň neschopnosti člověka postarat se o vlastní záležitosti.
+> (2) Omezit svéprávnost člověka lze jen tehdy, hrozila-li by mu jinak závažná újma a nepostačí-li vzhledem k jeho zájmům mírnější a méně omezující opatření.
 
 > (2) Omezit svéprávnost člověka lze jen tehdy, hrozila-li by mu jinak závažná újma a nepostačí-li vzhledem k jeho zájmům mírnější a méně omezující opatření.
 
@@ -1018,6 +1024,7 @@ Svéprávnost může omezit pouze soud; žádný správní orgán, lékař ani p
 ### § 57 — Rozsah omezení
 
 > (1) Soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil.
+> (2) Má-li člověk obtíže dorozumívat se, není to samo o sobě důvodem k omezení svéprávnosti.
 
 > (2) Má-li člověk obtíže dorozumívat se, není to samo o sobě důvodem k omezení svéprávnosti.
 
@@ -1144,6 +1151,7 @@ Ustanovení dává soudu nástroj dočasné ochrany během řízení o svépráv
 ### § 59 — Časové omezení
 
 > (1) Soud může svéprávnost omezit v souvislosti s určitou záležitostí na dobu nutnou pro její vyřízení, nebo na jinak určenou určitou dobu, nejdéle však na tři roky. Je-li zjevné, že se stav člověka v této době nezlepší, může soud svéprávnost omezit na dobu delší, nejdéle však na pět let.
+> (2) Uplynutím doby omezení svéprávnosti právní účinky omezení zanikají. Zahájí-li se však v této době řízení o prodloužení doby omezení, trvají právní účinky původního rozhodnutí až do nového rozhodnutí, nejdéle však jeden rok.
 
 > (2) Uplynutím doby omezení svéprávnosti právní účinky omezení zanikají. Zahájí-li se však v této době řízení o prodloužení doby omezení, trvají právní účinky původního rozhodnutí až do nového rozhodnutí, nejdéle však jeden rok.
 
@@ -1417,6 +1425,7 @@ Omezení svéprávnosti nikdy nezbavuje člověka práva jednat v běžných zá
 ### § 65 — Důsledky jednání mimo rozsah
 
 > (1) Jednal-li opatrovanec samostatně, ač nemohl jednat bez opatrovníka, lze jeho právní jednání prohlásit za neplatné, jen působí-li mu újmu. Postačí-li však k nápravě jen změna rozsahu opatrovancových povinností, soud tak učiní, aniž je vázán návrhy stran.
+> (2) Jednal-li opatrovanec samostatně, ač nemohl jednat bez opatrovníka, považuje se opatrovancovo jednání za platné, pokud je opatrovník schválil. To platí i v případě, že takové právní jednání schválil jednající sám poté, co nabyl svéprávnosti.
 
 > (2) Jednal-li opatrovanec samostatně, ač nemohl jednat bez opatrovníka, považuje se opatrovancovo jednání za platné, pokud je opatrovník schválil. To platí i v případě, že takové právní jednání schválil jednající sám poté, co nabyl svéprávnosti.
 
@@ -1491,6 +1500,7 @@ Jednání opatrovance mimo rozsah svéprávnosti je neplatné jen, působí-li m
 ### § 66 — Prohlášení za nezvěstného
 
 > (1) Za nezvěstného může soud prohlásit svéprávného člověka, který opustil své bydliště, nepodal o sobě zprávu a není o něm známo, kde se zdržuje. Soud uvede v rozhodnutí den, kdy nastaly účinky prohlášení nezvěstnosti.
+> (2) Prohlášení za nezvěstného se může stát na návrh osoby, která na tom má právní zájem, zejména manžela nebo jiné blízké osoby, spoluvlastníka, zaměstnavatele nebo korporace, na níž má tento člověk účast.
 
 > (2) Prohlášení za nezvěstného se může stát na návrh osoby, která na tom má právní zájem, zejména manžela nebo jiné blízké osoby, spoluvlastníka, zaměstnavatele nebo korporace, na níž má tento člověk účast.
 
@@ -1554,6 +1564,7 @@ Za nezvěstného lze prohlásit svéprávného člověka, který opustil bydliš
 ### § 67 — Účinky prohlášení
 
 > (1) Při posuzování jednání, k nimž je jinak potřebné udělení souhlasu, přivolení, odevzdání hlasu nebo jiného konání osoby prohlášené za nezvěstnou, se k této potřebnosti nepřihlíží; to však neplatí, jedná-li se o záležitost jeho osobního stavu. Kdo jedná, dotýkaje se záležitosti nezvěstného, musí tak činit i s přihlédnutím k jeho zájmům.
+> (2) Na právní jednání, k němuž došlo bez souhlasu nebo jiného nezbytného projevu vůle nezvěstného poté, co opustil své bydliště, avšak dříve, než byl za nezvěstného prohlášen, přestože toto prohlášení bylo bez zbytečného odkladu navrženo, se hledí jako na jednání učiněné s odkládací podmínkou vydání rozhodnutí, jímž byl prohlášen za nezvěstného.
 
 > (2) Na právní jednání, k němuž došlo bez souhlasu nebo jiného nezbytného projevu vůle nezvěstného poté, co opustil své bydliště, avšak dříve, než byl za nezvěstného prohlášen, přestože toto prohlášení bylo bez zbytečného odkladu navrženo, se hledí jako na jednání učiněné s odkládací podmínkou vydání rozhodnutí, jímž byl prohlášen za nezvěstného.
 
@@ -1766,6 +1777,7 @@ Dříve ustavený správce majetku jedná i po prohlášení nezvěstného dál 
 ### § 71 — Obecná domněnka smrti
 
 > (1) Na návrh osoby, která na tom má právní zájem, prohlásí soud za mrtvého člověka, o němž lze mít důvodně za to, že zemřel, a určí den, který se pokládá za den jeho smrti.
+> (2) Na člověka, který byl prohlášen za mrtvého, se hledí, jako by zemřel. Prohlášením manžela za mrtvého zaniká manželství dnem, který se pokládá za den jeho smrti; totéž platí o registrovaném partnerství.
 
 > (2) Na člověka, který byl prohlášen za mrtvého, se hledí, jako by zemřel. Prohlášením manžela za mrtvého zaniká manželství dnem, který se pokládá za den jeho smrti; totéž platí o registrovaném partnerství.
 
@@ -1926,6 +1938,7 @@ Nezvěstného lze prohlásit za mrtvého i před uplynutím pětileté lhůty, p
 ### § 74 — Lhůty bez předchozího prohlášení za nezvěstného
 
 > (1) Člověka, který se stal nezvěstný tím, že opustil své bydliště, nepodal o sobě zprávu a není o něm známo, kde se zdržuje, avšak nebyl za nezvěstného prohlášen, lze prohlásit za mrtvého nejdříve po uplynutí sedmi let od konce roku, v němž se objevila poslední zpráva, z níž lze usuzovat, že byl ještě naživu.
+> (2) Člověka, který se stal nezvěstným před dovršením osmnáctého roku věku, nelze prohlásit za mrtvého před uplynutím roku, v němž uplyne dvacet pět let od jeho narození.
 
 > (2) Člověka, který se stal nezvěstným před dovršením osmnáctého roku věku, nelze prohlásit za mrtvého před uplynutím roku, v němž uplyne dvacet pět let od jeho narození.
 

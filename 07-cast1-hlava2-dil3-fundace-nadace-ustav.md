@@ -102,6 +102,7 @@ Fundace je PO bez členů, definovaná vyčleněným majetkem a vázaná na úč
 ### § 306 — Účel nadace
 
 > (1) Zakladatel zakládá nadaci k trvalé službě společensky nebo hospodářsky užitečnému účelu. Účel nadace může být veřejně prospěšný, spočívá-li v podpoře obecného blaha, i dobročinný, spočívá-li v podpoře určitého okruhu osob určených jednotlivě či jinak.
+> (2) Zakazuje se založit nadaci za účelem podpory politických stran a hnutí nebo jiné účasti na jejich činnosti. Zakazuje se založit nadaci sloužící výlučně výdělečným cílům. Plní-li nadace zakázaný účel, soud ji i bez návrhu zruší a nařídí její likvidaci.
 
 > (2) Zakazuje se založit nadaci za účelem podpory politických stran a hnutí nebo jiné účasti na jejich činnosti. Zakazuje se založit nadaci sloužící výlučně výdělečným cílům. Plní-li nadace zakázaný účel, soud ji i bez návrhu zruší a nařídí její likvidaci.
 
@@ -167,6 +168,7 @@ Nadace musí sloužit trvale užitečnému (veřejně prospěšnému nebo dobro�
 ### § 307 — Vedlejší podnikání
 
 > (1) Nadace může podnikat, pokud podnikání představuje pouhou vedlejší činnost a výtěžky podnikání slouží jen k podpoře jejího účelu; nadace však podnikat nesmí, pokud to zakladatel v nadační listině vyloučil. Za stejných podmínek může nadace převzít vedení obchodní společnosti.
+> (2) Nadace nesmí být neomezeně ručícím společníkem obchodní společnosti.
 
 > (2) Nadace nesmí být neomezeně ručícím společníkem obchodní společnosti.
 
@@ -2130,7 +2132,8 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 ### § 394—396 — Definice, založení
 
 **§ 394**:
-> (2) Název nadačního fondu musí obsahovat slova „nadační fond".
+> (1) Zakladatel zakládá nadační fond k účelu užitečnému společensky nebo hospodářsky.
+> (2) Název nadačního fondu musí obsahovat slova „nadační fond“.
 
 **§ 395**:
 > Nadační fond se zakládá zakládací listinou nebo pořízením pro případ smrti.
@@ -2277,6 +2280,8 @@ Nadační fond vzniká dnem zápisu do veřejného rejstříku; z jednání uči
 ### § 398 — Majetek
 
 > (1) Majetek nadačního fondu tvoří soubor vzniklý z vkladů a darů, jejichž předmět nemusí splňovat předpoklad trvalého výnosu. Co je v majetku nadačního fondu, nelze zastavit, ani jinak použít k zajištění dluhu; k právnímu jednání, které tomu odporuje, se nepřihlíží.
+> (2) Majetek nadačního fondu lze zcizit, je-li to v souladu s účelem nadačního fondu. Lze jej též použít k investici považované za obezřetnou.
+> (3) Nadační fond nevytváří nadační jistinu ani nadační kapitál.
 
 > (2) Majetek nadačního fondu lze zcizit, je-li to v souladu s účelem nadačního fondu. Lze jej též použít k investici považované za obezřetnou.
 

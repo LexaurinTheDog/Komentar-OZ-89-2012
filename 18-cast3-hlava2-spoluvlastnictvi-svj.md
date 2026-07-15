@@ -1,4 +1,4 @@
-# Kapitola 18 — Část třetí, Hlava II, Díl 3—4: Vydržení, převod vlastnictví, nabytí od neoprávněného, spoluvlastnictví, bytové spoluvlastnictví (§ 1091—1222)
+# Kapitola 18 — Část třetí, Hlava II, Díl 3—4: Vydržení, převod vlastnictví, nabytí od neoprávněného, spoluvlastnictví, bytové spoluvlastnictví, přídatné spoluvlastnictví a společenství jmění (§ 1091—1239)
 
 ## Přehled
 
@@ -347,6 +347,7 @@ U věcí určených jednotlivě (mimo nemovitosti a věci v pravém veřejném s
 ### § 1100 — Postupný převod různým osobám
 
 > (1) Převede-li strana postupně uzavřenými smlouvami různým osobám vlastnické právo k věci nezapsané ve veřejném seznamu, nabývá vlastnické právo osoba, které převodce vydal věc nejdříve. Není-li nikdo takový, nabývá vlastnické právo osoba, s níž byla uzavřena smlouva, která nabyla účinnosti jako první.
+> (2) Převede-li strana vlastnické právo k věci zapsané ve veřejném seznamu postupně několika osobám, stane se vlastníkem osoba, která je v dobré víře a jejíž vlastnické právo bylo do veřejného seznamu zapsáno jako první, a to i v případě, že její právo vzniklo později.
 
 > (2) Převede-li strana vlastnické právo k věci zapsané ve veřejném seznamu postupně několika osobám, stane se vlastníkem osoba, která je v dobré víře a jejíž vlastnické právo bylo do veřejného seznamu zapsáno jako první, a to i v případě, že její právo vzniklo později.
 
@@ -1218,6 +1219,7 @@ Hlasy se počítají podle velikosti podílů (§ 1126); běžná správa vyžad
 #### § 1140 — Zákaz nuceného setrvání
 
 > (1) Nikdo nemůže být nucen ve spoluvlastnictví setrvat.
+> (2) Každý ze spoluvlastníků může kdykoli žádat o své oddělení ze spoluvlastnictví, lze-li předmět spoluvlastnictví rozdělit, nebo o zrušení spoluvlastnictví. Nesmí tak ale žádat v nevhodnou dobu nebo jen k újmě některého ze spoluvlastníků.
 
 > (2) Každý ze spoluvlastníků může kdykoli žádat o své oddělení ze spoluvlastnictví, lze-li předmět spoluvlastnictví rozdělit, nebo o zrušení spoluvlastnictví. Nesmí tak ale žádat v nevhodnou dobu nebo jen k újmě některého ze spoluvlastníků.
 

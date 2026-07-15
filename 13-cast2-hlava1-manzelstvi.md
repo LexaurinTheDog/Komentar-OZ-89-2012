@@ -23,6 +23,7 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 ### § 655 — Definice manželství a partnerství
 
 > (1) Manželství je trvalý svazek muže a ženy vzniklý způsobem, který stanoví tento zákon. Hlavním účelem manželství je založení rodiny, řádná výchova dětí a vzájemná podpora a pomoc.
+> (2) Partnerství je trvalý svazek dvou lidí stejného pohlaví, který se uzavírá stejným způsobem jako manželství. Nestanoví-li zákon nebo jiný právní předpis jinak, vztahují se na partnerství a práva a povinnosti partnerů ustanovení o manželství, právech a povinnostech manželů, vdovách a vdovcích obdobně.
 
 > (2) Partnerství je trvalý svazek dvou lidí stejného pohlaví, který se uzavírá stejným způsobem jako manželství. Nestanoví-li zákon nebo jiný právní předpis jinak, vztahují se na partnerství a práva a povinnosti partnerů ustanovení o manželství, právech a povinnostech manželů, vdovách a vdovcích obdobně.
 
@@ -100,7 +101,8 @@ Manželství je heterosexuální trvalý svazek (odst. 1); partnerství je stejn
 
 ### § 656 — Sňatečný obřad
 
-> (1) Manželství vzniká svobodným a úplným souhlasným projevem vůle muže a ženy, kteří hodlají vstoupit do manželství (dále jen „snoubenci"), že spolu vstupují do manželství.
+> (1) Manželství vzniká svobodným a úplným souhlasným projevem vůle muže a ženy, kteří hodlají vstoupit do manželství (dále jen „snoubenci“), že spolu vstupují do manželství.
+> (2) Sňatečný obřad je veřejný a slavnostní; činí se v přítomnosti dvou svědků.
 
 > (2) Sňatečný obřad je veřejný a slavnostní; činí se v přítomnosti dvou svědků.
 
@@ -161,7 +163,8 @@ Pro vznik manželství musí být současně dán (i) svobodný a úplný souhla
 ### § 657—658 — Občanský a církevní sňatek
 
 **§ 657**:
-> (2) Projeví-li snoubenci vůli, že spolu vstupují do manželství, osobně před orgánem církve nebo náboženské společnosti oprávněné k tomu podle jiného právního předpisu (dále jen „oprávněná církev"), jedná se o církevní sňatek.
+> (1) Projeví-li snoubenci vůli, že spolu vstupují do manželství, osobně před orgánem veřejné moci provádějícím sňatečný obřad v přítomnosti matrikáře, jedná se o občanský sňatek.
+> (2) Projeví-li snoubenci vůli, že spolu vstupují do manželství, osobně před orgánem církve nebo náboženské společnosti oprávněné k tomu podle jiného právního předpisu (dále jen „oprávněná církev“), jedná se o církevní sňatek.
 
 **§ 658**:
 > (1) Jedná-li se o občanský sňatek, jiný právní předpis stanoví, kdo je orgánem veřejné moci provádějícím sňatečný obřad.
@@ -228,12 +231,9 @@ Sňatek lze uzavřít jako občanský (před orgánem veřejné moci) nebo círk
 
 **§ 660**:
 > Snoubenci při sňatečném obřadu prohlásí, že
->
-> - a) příjmení jednoho z nich bude jejich příjmením společným,
->
-> - b) si oba svá příjmení ponechají, nebo
->
-> - c) příjmení jednoho z nich bude jejich příjmením společným, a ten, jehož příjmení nemá být příjmením společným, bude ke společnému příjmení na druhém místě připojovat své dosavadní příjmení.
+> a) příjmení jednoho z nich bude jejich příjmením společným,
+> b) si oba svá příjmení ponechají, nebo
+> c) příjmení jednoho z nich bude jejich příjmením společným, a ten, jehož příjmení nemá být příjmením společným, bude ke společnému příjmení na druhém místě připojovat své dosavadní příjmení.
 
 **§ 661**:
 > (1) Ponechají-li si snoubenci svá dosavadní příjmení, prohlásí při sňatečném obřadu také, které z jejich příjmení bude příjmením jejich společných dětí.
@@ -1806,7 +1806,10 @@ Po zúžení/zrušení/zániku SJM se provádí vypořádání (§ 736) bez dot�
 
 ##### § 741 — Fikce vypořádání po 3 letech
 
-> (1) Nedojde-li do tří let od zúžení, zrušení nebo zániku společného jmění k vypořádání toho, co bylo dříve součástí společného jmění, ani dohodou, ani nebyl podán návrh na vypořádání rozhodnutím soudu, platí, že se manželé nebo bývalí manželé vypořádali tak, že
+> Nedojde-li do tří let od zúžení, zrušení nebo zániku společného jmění k vypořádání toho, co bylo dříve součástí společného jmění, ani dohodou, ani nebyl podán návrh na vypořádání rozhodnutím soudu, platí, že se manželé nebo bývalí manželé vypořádali tak, že
+>   - a) hmotné věci movité jsou ve vlastnictví toho z nich, který je pro potřebu svou, své rodiny nebo rodinné domácnosti výlučně jako vlastník užívá,
+>   - b) ostatní hmotné věci movité a věci nemovité jsou v podílovém spoluvlastnictví obou; jejich podíly jsou stejné,
+>   - c) ostatní majetková práva, pohledávky a dluhy náleží společně oběma; jejich podíly jsou stejné.
 - a) hmotné věci movité jsou ve vlastnictví toho z nich, který je pro potřebu svou, své rodiny nebo rodinné domácnosti výlučně jako vlastník užívá,
 - b) ostatní hmotné věci movité a věci nemovité jsou v podílovém spoluvlastnictví obou; jejich podíly jsou stejné,
 - c) ostatní majetková práva, pohledávky a dluhy náleží společně oběma; jejich podíly jsou stejné.
@@ -1871,6 +1874,14 @@ Nedojde-li do 3 let od zániku SJM k vypořádání dohodou ani žalobou, nastá
 ##### § 742 — Pravidla soudního vypořádání
 
 > (1) Nedohodnou-li se manželé nebo bývalí manželé jinak nebo neuplatní-li se ustanovení § 741, použijí se pro vypořádání tato pravidla:
+>   - a) podíly obou manželů na vypořádávaném jmění jsou stejné,
+>   - b) každý z manželů nahradí to, co ze společného majetku bylo vynaloženo na jeho výhradní majetek,
+>   - c) každý z manželů má právo žádat, aby mu bylo nahrazeno, co ze svého výhradního majetku vynaložil na společný majetek,
+>   - d) přihlédne se k potřebám nezaopatřených dětí,
+>   - e) přihlédne se k tomu, jak se každý z manželů staral o rodinu, zejména jak pečoval o děti a o rodinnou domácnost,
+>   - f) přihlédne se k tomu, jak se každý z manželů zasloužil o nabytí a udržení majetkových hodnot náležejících do společného jmění,
+>   - g) přihlédne se k tomu, že se jeden z manželů dopustil vůči druhému domácího násilí nebo činu povahy úmyslného trestného činu, zejména k jeho povaze, závažnosti, době trvání a okolnostem spáchání.
+> (2) Hodnota toho, co ze společného majetku bylo vynaloženo na výhradní majetek manžela, stejně jako hodnota toho, co z výhradního majetku manžela bylo vynaloženo na společný majetek, se při vypořádání společného jmění započítává zvýšená nebo snížená podle toho, jak se ode dne vynaložení majetku do dne, kdy společné jmění bylo zúženo, zrušeno nebo zaniklo, zvýšila nebo snížila hodnota té součásti majetku, na niž byl náklad vynaložen.
 - a) podíly obou manželů na vypořádávaném jmění jsou stejné,
 - b) každý z manželů nahradí to, co ze společného majetku bylo vynaloženo na jeho výhradní majetek,
 - c) každý z manželů má právo žádat, aby mu bylo nahrazeno, co ze svého výhradního majetku vynaložil na společný majetek,
@@ -2239,6 +2250,9 @@ Manželství zaniká jen ze zákonných důvodů: smrtí manžela, prohlášení
 > (2) Přesto, že je soužití manželů rozvráceno, nemůže být manželství rozvedeno, byl-li by rozvod v rozporu
 >   - a) se zájmem nezletilého dítěte manželů, které nenabylo plné svéprávnosti, který je dán zvláštními důvody, přičemž zájem dítěte na trvání manželství soud zjistí, je-li to potřebné, i dotazem u opatrovníka jmenovaného soudem pro řízení o úpravu poměrů k dítěti pro dobu po rozvodu, nebo
 >   - b) se zájmem manžela, který se na rozvratu porušením manželských povinností převážně nepodílel a kterému by byla rozvodem způsobena zvlášť závažná újma s tím, že mimořádné okolnosti svědčí ve prospěch zachování manželství, ledaže manželé spolu již nežijí alespoň po dobu tří let.
+
+**§ 758**:
+> Manželé spolu nežijí, netvoří-li manželské či rodinné společenství, bez ohledu na to, zda mají, popřípadě vedou rodinnou domácnost, s tím, že alespoň jeden z manželů manželské společenství zjevně obnovit nechce.
 
 **Výklad:**
 

@@ -79,6 +79,7 @@ Příbuzenství podle § 771 vzniká buď pokrevně, nebo osvojením, a obě for
 ### § 772—773 — Linie a stupně příbuzenství
 
 **§ 772**:
+> (1) Osoby jsou příbuzné v linii přímé, pochází-li jedna od druhé.
 > (2) Osoby jsou příbuzné ve vedlejší linii, mají-li společného předka, ale přitom nepocházejí jedna od druhé.
 
 **§ 773**:
@@ -285,6 +286,7 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 #### § 776 — První domněnka: manžel matky
 
 > (1) Narodí-li se dítě v době od uzavření manželství do uplynutí třístého dne poté, co manželství zaniklo nebo bylo prohlášeno za neplatné, anebo poté, co byl manžel matky prohlášen za nezvěstného, má se za to, že otcem je manžel matky.
+> (2) Narodí-li se dítě ženě znovu provdané, má se za to, že otcem je manžel pozdější, i když se dítě narodilo před uplynutím třístého dne poté, co předchozí manželství zaniklo nebo bylo prohlášeno za neplatné.
 
 > (2) Narodí-li se dítě ženě znovu provdané, má se za to, že otcem je manžel pozdější, i když se dítě narodilo před uplynutím třístého dne poté, co předchozí manželství zaniklo nebo bylo prohlášeno za neplatné.
 

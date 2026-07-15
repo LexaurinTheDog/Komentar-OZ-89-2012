@@ -98,6 +98,7 @@ Závěrečná kapitola Části první OZ pokrývá tři vzájemně související
 ### § 601 — Den vzniku a zániku práv
 
 > (1) Nabývá-li se právo nebo vzniká-li povinnost v určitý den, nabude se nebo vznikne počátkem toho dne; zaniká-li právo nebo povinnost v určitý den, zanikne koncem toho dne. To neplatí, vylučuje-li to povaha právního případu.
+> (2) Podmiňuje-li zánik určitého práva vznik jiného práva ve vzájemné návaznosti, nastává oboje v týž okamžik. Není-li ujednáno nebo stanoveno něco jiného, nastane takový právní účinek koncem dne.
 
 > (2) Podmiňuje-li zánik určitého práva vznik jiného práva ve vzájemné návaznosti, nastává oboje v týž okamžik. Není-li ujednáno nebo stanoveno něco jiného, nastane takový právní účinek koncem dne.
 
@@ -228,6 +229,7 @@ Pamatuj: vznik = počátek dne, zánik = konec dne; návazná práva nastávají
 ### § 605 — Počítání podle dnů, týdnů, měsíců, let
 
 > (1) Lhůta nebo doba určená podle dnů počíná dnem, který následuje po skutečnosti rozhodné pro její počátek.
+> (2) Konec lhůty nebo doby určené podle týdnů, měsíců nebo let připadá na den, který se pojmenováním nebo číslem shoduje se dnem, na který připadá skutečnost, od níž se lhůta nebo doba počítá. Není-li takový den v posledním měsíci, připadne konec lhůty nebo doby na poslední den měsíce.
 
 > (2) Konec lhůty nebo doby určené podle týdnů, měsíců nebo let připadá na den, který se pojmenováním nebo číslem shoduje se dnem, na který připadá skutečnost, od níž se lhůta nebo doba počítá. Není-li takový den v posledním měsíci, připadne konec lhůty nebo doby na poslední den měsíce.
 
@@ -456,6 +458,7 @@ Promlčené právo nezaniká — dlužník je chráněn jen námitkou. Kdo dobro
 #### § 610 — Aplikace soudem, nemožnost vzdání
 
 > (1) K promlčení soud přihlédne, jen namítne-li dlužník, že je právo promlčeno. Vzdá-li se někdo předem práva uplatnit námitku promlčení, nepřihlíží se k tomu.
+> (2) Jsou-li si strany povinny vrátit, co nabyly podle neplatné smlouvy nebo ze zrušeného závazku, přihlédne soud k námitce promlčení, jen pokud by promlčení mohla namítnout i druhá strana. To platí i v případě, že bylo plněno na základě zdánlivého právního jednání.
 
 > (2) Jsou-li si strany povinny vrátit, co nabyly podle neplatné smlouvy nebo ze zrušeného závazku, přihlédne soud k námitce promlčení, jen pokud by promlčení mohla namítnout i druhá strana. To platí i v případě, že bylo plněno na základě zdánlivého právního jednání.
 
@@ -660,6 +663,7 @@ Zajištění přežívá promlčení osobní pohledávky: věřitel se může us
 #### § 619 — Obecný počátek
 
 > (1) Jedná-li se o právo vymahatelné u orgánu veřejné moci, počne promlčecí lhůta běžet ode dne, kdy právo mohlo být uplatněno poprvé.
+> (2) Právo může být uplatněno poprvé, pokud se oprávněná osoba dozvěděla o okolnostech rozhodných pro počátek běhu promlčecí lhůty, anebo kdy se o nich dozvědět měla a mohla.
 
 > (2) Právo může být uplatněno poprvé, pokud se oprávněná osoba dozvěděla o okolnostech rozhodných pro počátek běhu promlčecí lhůty, anebo kdy se o nich dozvědět měla a mohla.
 
@@ -931,6 +935,7 @@ Platí princip dvojí lhůty: subjektivní 3 roky od vědomosti (§ 629 odst. 1)
 #### § 630 — Modifikace lhůty smluvně
 
 > (1) Strany si mohou ujednat kratší nebo delší promlčecí lhůtu počítanou ode dne, kdy právo mohlo být uplatněno poprvé, než jakou stanoví zákon, nejméně však v trvání jednoho roku a nejdéle v trvání patnácti let.
+> (2) Je-li kratší nebo delší lhůta ujednána v neprospěch slabší strany, nepřihlíží se k ujednání. Nepřihlíží se ani k ujednání kratší promlčecí lhůty, jde-li o právo na plnění vyplývající z újmy na svobodě, životě nebo zdraví nebo o právo vzniklé z úmyslného porušení povinnosti.
 
 > (2) Je-li kratší nebo delší lhůta ujednána v neprospěch slabší strany, nepřihlíží se k ujednání. Nepřihlíží se ani k ujednání kratší promlčecí lhůty, jde-li o právo na plnění vyplývající z újmy na svobodě, životě nebo zdraví nebo o právo vzniklé z úmyslného porušení povinnosti.
 
@@ -1374,6 +1379,7 @@ Hrozba a lest (§ 650) i vyšší moc v posledních šesti měsících lhůty (�
 #### § 653 — Uznání dluhu po promlčení
 
 > (1) Bylo-li právo již promlčeno a uznal-li dlužník svůj dluh, nárok se obnoví a počne běžet nová promlčecí lhůta ode dne, kdy k uznání dluhu došlo. Určí-li však dlužník v uznání i dobu, do které splní, promlčí se právo za deset let od posledního dne určené doby.
+> (2) Bylo-li právo, ačkoli bylo již promlčeno, přiznáno rozhodnutím orgánu veřejné moci, použije se odstavec 1 obdobně.
 
 > (2) Bylo-li právo, ačkoli bylo již promlčeno, přiznáno rozhodnutím orgánu veřejné moci, použije se odstavec 1 obdobně.
 

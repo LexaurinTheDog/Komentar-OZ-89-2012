@@ -378,7 +378,7 @@ Prodloužení práva stavby vyžaduje souhlas věřitelů zapsaných v pořadí 
 
 ### § 1247 — Stavební plat
 
-> Bylo-li právo stavby zřízeno za úplatu a ujednala-li se úplata v opětujících se dávkách jako stavební plat, zatěžuje právo stavby jako reálné břemeno.
+> Bylo-li právo stavby zřízeno za úplatu a ujednala-li se úplata v opětujících se dávkách jako stavební plat, zatěžuje právo stavby jako reálné břemeno. Nepřihlíží se k ujednání, podle kterého změny výše stavebního platu závisí na nejisté budoucí události; to neplatí, ujedná-li se závislost výše stavebního platu na míře zhodnocování a znehodnocování peněz.
 
 **Výklad:**
 
@@ -1488,7 +1488,7 @@ Právo pastvy je detailně limitováno co do druhu, počtu, doby a intenzity; p�
 
 ### § 1283 — Užívací právo (usus)
 
-> Služebností užívacího práva se uživateli poskytuje právo užívat cizí věc pro jeho vlastní potřebu a potřebu jeho domácnosti.
+> Služebností užívacího práva se uživateli poskytuje právo užívat cizí věc pro jeho vlastní potřebu a potřebu jeho domácnosti. Změní-li se tyto potřeby po zřízení služebnosti, nezakládá to uživateli právo na její rozšíření.
 
 **Užívací právo** je **užší** než požívací — zahrnuje pouze **užívání pro vlastní/rodinné potřeby**, **bez práva brát plody nad rámec vlastní spotřeby**. Změna potřeb po zřízení (např. rozšíření rodiny) **nezakládá právo na rozšíření**.
 
@@ -1990,6 +1990,7 @@ Osobní služebnost fyzické osoby zaniká její smrtí (nebyla-li rozšířena 
 ### § 1303 — Definice
 
 > (1) Je-li věc zapsána do veřejného seznamu, může být zatížena reálným břemenem tak, že dočasný vlastník věci je jako dlužník zavázán vůči oprávněné osobě něco jí dávat nebo něco konat.
+> (2) Pro totéž reálné břemeno lze zatížit i několik věcí.
 
 **Reálné břemeno** (*Reallast*, *charge réelle*) je věcné právo s **aktivní povinností vlastníka služebné věci** (*dare*, *facere*) — typicky **periodické peněžní/naturální plnění** nebo služby. Klíčový rozdíl od služebnosti: **aktivní vs. pasivní** povinnost.
 
@@ -2164,6 +2165,7 @@ Reálné břemeno vzniká zápisem; dlužné opakované dávky lze vymáhat po p
 ### § 1309 — Funkce a obsah
 
 > (1) Při zajištění dluhu zástavním právem vznikne věřiteli oprávnění, nesplní-li dlužník dluh řádně a včas, uspokojit se z výtěžku zpeněžení zástavy do ujednané výše, a není-li tato ujednána, do výše pohledávky s příslušenstvím ke dni zpeněžení zástavy.
+> (2) Ujednání zakazující zřídit zástavní právo má účinky vůči třetí osobě, jen je-li tento zákaz zapsán do rejstříku zástav podle jiného právního předpisu nebo do veřejného seznamu, anebo byl-li jí znám.
 
 **Klíčová oprávnění zástavního věřitele**:
 - **Realizační právo** (*ius distrahendi*) — po splatnosti pohledávky zpeněžit zástavu;
@@ -2227,7 +2229,7 @@ Zástavní právo dává věřiteli při prodlení dlužníka přednostní práv
 ### § 1310 — Zástava (předmět)
 
 > (1) Zástavou může být každá věc, s níž lze obchodovat.
-> (2) Zástavní právo lze zřídit i k věci, k níž zástavnímu dlužníku vznikne vlastnické právo teprve v budoucnu.
+> (2) Zástavní právo lze zřídit i k věci, k níž zástavnímu dlužníku vznikne vlastnické právo teprve v budoucnu. Je-li taková věc zapsána ve veřejném seznamu nebo v rejstříku zástav, zapíše se k ní zástavní právo, pokud s tím vlastník věci souhlasí.
 
 **Co lze zastavit**:
 - Movité věci (vč. CP, podílů, pohledávek);
@@ -3085,7 +3087,8 @@ Výkon zástavy je procesně podmíněn: úkony ke splatnosti i proti zástavní
 
 ### § 1365 — Smluvený způsob — odborná péče
 
-> (1) Ujedná-li se, že zástavní věřitel může zástavu prodat jiným způsobem než ve veřejné dražbě, je povinen postupovat při prodeji s odbornou péčí v zájmu svém i v zájmu zástavního dlužníka tak, aby zástavu prodal za cenu, za kterou lze srovnatelnou věc obvykle prodat za srovnatelných okolností na daném místě a v daném čase.
+> (1) Ujedná-li se, že zástavní věřitel může zástavu prodat jiným způsobem než ve veřejné dražbě, je povinen postupovat při prodeji s odbornou péčí v zájmu svém i v zájmu zástavního dlužníka tak, aby zástavu prodal za cenu, za kterou lze srovnatelnou věc obvykle prodat za srovnatelných okolností na daném místě a v daném čase. Poruší-li zástavní věřitel tuto povinnost, nedotýká se to práv třetích osob nabytých v dobré víře.
+> (2) Ujedná-li se, jak zástavní věřitel zástavu zpeněží, může věřitel kdykoli během výkonu zástavního práva jeho způsob změnit tak, že zástavu prodá ve veřejné dražbě nebo že ji zpeněží podle jiného zákona. Změnu způsobu výkonu zástavního práva věřitel zástavnímu dlužníkovi včas v písemné formě oznámí.
 
 **Klíčový standard**: **odborná péče** (*pflichtgemäße Sorgfalt*) — věřitel **odpovídá za podcenění zástavy** (rozdíl pro náhradu). Pravda nabytá v dobré víře 3. osobou není dotčena.
 
@@ -3295,12 +3298,16 @@ Zástavní právo je akcesorické: zánikem zajištěného dluhu zaniká i ono (
 
 ### § 1377 — Zánik bez zániku pohledávky
 
-> (1) Zástavní právo zanikne, ale pohledávka trvá:
-> a) zanikne-li zástava,
-> b) vzdá-li se zástavní věřitel zástavního práva,
-> c) vrátí-li zástavní věřitel zástavu zástavci nebo zástavnímu dlužníkovi,
-> d) složí-li zástavce nebo zástavní dlužník zástavnímu věřiteli cenu zastavené věci, nebo
-> e) uplyne-li doba, na niž bylo zástavní právo zřízeno.
+> (1) Zástavní právo zanikne, ale pohledávka trvá,
+>     - a) zanikne-li zástava,
+>     - b) vzdá-li se zástavní věřitel zástavního práva,
+>     - c) vrátí-li zástavní věřitel zástavu zástavci nebo zástavnímu dlužníkovi,
+>     - d) složí-li zástavce nebo zástavní dlužník zástavnímu věřiteli cenu zastavené věci, nebo
+>     - e) uplyne-li doba, na niž bylo zástavní právo zřízeno.
+> (2) Účinky podle odstavce 1 nastanou i v případě, že další osoba nabyla k zastavené věci vlastnické právo v dobré víře, že věc není zatížená zástavním právem. To neplatí, je-li zástavní právo zapsáno v rejstříku zástav nebo ve veřejném seznamu.
+> (3) Nejsou-li věc a zástavní právo zapsány ve veřejném seznamu, nastanou účinky podle odstavce 1 i v případě, že zástava, popřípadě její část, byla převedena
+>     - a) a zástavní smlouva určuje, že zástavu nebo její část lze převést bez zatížení zástavním právem, nebo
+>     - b) v rámci běžného obchodního styku při podnikání zcizitele.
 
 **Kvalifikované případy** — pohledávka **přežívá** jako prostý dluh (bez zajištění).
 
@@ -3502,9 +3509,9 @@ Po zániku zástavy je přetrvávající zápis závadou (§ 1378). Věřitel mu
 
 > (1) Kdo má povinnost vydat cizí movitou věc, kterou má u sebe, může ji ze své vůle zadržet k zajištění splatného dluhu osoby, jíž by jinak měl věc vydat.
 > (2) Zajistit zadržovacím právem lze i nesplatný dluh,
-> a) nezajistí-li dlužník dluh jinak, ač jej podle smlouvy nebo podle zákona zajistit měl,
-> b) prohlásí-li dlužník, že dluh nesplní, nebo
-> c) stane-li se jinak zřejmým, že dlužník dluh nesplní následkem okolnosti, která u něho nastala a která věřiteli nebyla ani nemohla být známa při vzniku dluhu.
+>   - a) nezajistí-li dlužník dluh jinak, ač jej podle smlouvy nebo podle zákona zajistit měl,
+>   - b) prohlásí-li dlužník, že dluh nesplní, nebo
+>   - c) stane-li se jinak zřejmým, že dlužník dluh nesplní následkem okolnosti, která u něho nastala a která věřiteli nebyla ani nemohla být známa při vzniku dluhu.
 
 **Zadržovací právo** (*ius retentionis*, *Zurückbehaltungsrecht*) je **zákonné zajišťovací věcné právo** — vzniká **jednostranným úkonem** věřitele, který má cizí movitou věc u sebe. Klíčové znaky:
 - **Pouze movité věci** (na rozdíl od zástavy);
@@ -3583,6 +3590,7 @@ Zadržovací právo vzniká jednostranně, drží-li věřitel cizí movitou vě
 ### § 1396 — Vyloučení
 
 > (1) Zadržet cizí věc nesmí ten, kdo ji má u sebe neprávem, zejména zmocnil-li se jí násilně nebo lstí.
+> (2) Zadržet cizí věc nesmí ani ten, komu bylo uloženo, aby s ní naložil způsobem neslučitelným s výkonem zadržovacího práva; to neplatí, měl-li věc u sebe v době zahájení insolvenčního řízení, ve kterém se řeší úpadek nebo hrozící úpadek dlužníka.
 
 **Klíčový požadavek**: věc musí být u věřitele **právem** (na základě smlouvy, zákonné povinnosti). Lupiči se ne mohou dovolávat zadržovacího práva.
 
@@ -3690,7 +3698,7 @@ Po zadržení věci musí věřitel dlužníka vyrozumět (u písemné smlouvy p
 
 ### § 1398 — Přednostní uspokojení
 
-> Věřiteli, který zajistil svou pohledávku zadržovacím právem, náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním.
+> Věřiteli, který zajistil svou pohledávku zadržovacím právem, náleží z výtěžku zpeněžení zadržené věci přednostní uspokojení před jiným věřitelem, a to i věřitelem zástavním. Pro zpeněžení zadržené věci věřitelem platí obdobně § 1359.
 
 **KLÍČOVÉ PRAVIDLO**: zadržovací právo má **přednost i před zástavním právem**! Ačkoliv zástavní právo vzniklo dříve, věřitel se zadržovacím právem se uspokojí přednostně.
 
@@ -3744,10 +3752,10 @@ Věřitel se zadržovacím právem se z výtěžku zpeněžení zadržené věci
 ### § 1399 — Zánik
 
 > Zadržovací právo zaniká
-> a) zánikem zajištěného dluhu nebo zadržené věci,
-> b) vzdá-li se věřitel zadržovacího práva jednostranně či ujednáním s vlastníkem zadržené věci,
-> c) dostane-li se věc trvale z moci věřitele, nebo
-> d) dá-li se věřiteli dostatečná jistota.
+>   - a) zánikem zajištěného dluhu nebo zadržené věci,
+>   - b) vzdá-li se věřitel zadržovacího práva jednostranně či ujednáním s vlastníkem zadržené věci,
+>   - c) dostane-li se věc trvale z moci věřitele, nebo
+>   - d) dá-li se věřiteli dostatečná jistota.
 
 **Klíčový rys**: **trvalá ztráta detence** → zánik zadržovacího práva (rozdíl od zástavy zapsané v rejstříku, která trvá nezávisle na držbě).
 
