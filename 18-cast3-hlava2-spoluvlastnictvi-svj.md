@@ -776,6 +776,10 @@ Při dvojím prodeji nemovitosti rozhoduje dobrá víra spojená s prvenstvím z
 - *NS* [20 Cdo 451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/240B174F7AFB6F46C12582C5005279E0?openDocument) — *Žaloba vylučovací (excindační)*
 - *NS* [24 Cdo 2512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/66658A476CEDFE4EC1258BD90052AD07?openDocument) — *Smlouva kupní Pozůstalost (o. z.) Aktiva Převod nemovitostí Závěť*
 - *NS* [24 Cdo 2841/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2868BE19D482C567C12586A900187746?openDocument) — *Smír Odporovatelnost Vklad do katastru nemovitostí Vlastnictví Převod nemovitostí*
+- *NS* [29 Cdo 2344/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_2344_2015.txt) — 27.10.2015, kat. A
+  > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
+- *NS* [29 Cdo 2344/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED6C08521F61DC2FC1257F390035A48A?openDocument) — 27. 10. 2015, kat. A
+  > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
 
 #### F. Kazuistika
 
@@ -1916,6 +1920,16 @@ Zákonné předkupní právo spoluvlastníků existuje jen u spoluvlastnictví v
 > Dohoda, kterou se spoluvlastníci odchýlí od zákonných ustanovení,
 > vyžaduje s ohledem na ochranu třetích osob kvalifikovanou formu, je-li
 > ve spoluvlastnictví nemovitá věc.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3689/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5DC304CA946D4C3DC1258A6A001B86C8?openDocument) — 22. 8. 2023, kat. A
+  > „Nepřijali-li spoluvlastníci rozhodnutí o významné záležitosti týkající se společné věci, rozhodne na návrh spoluvlastníka soud podání návrhu není vázáno na lhůtu uvedenou v § 1128 odst. 3 o. z.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3689/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5DC304CA946D4C3DC1258A6A001B86C8?openDocument) — 22. 8. 2023, kat. A
+  > „Nepřijali-li spoluvlastníci rozhodnutí o významné záležitosti týkající se společné věci, rozhodne na návrh spoluvlastníka soud podání návrhu není vázáno na lhůtu uvedenou v § 1128 odst. 3 o. z.“
 
 ---
 

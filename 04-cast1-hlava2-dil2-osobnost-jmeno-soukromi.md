@@ -492,6 +492,8 @@ Bydliště v soukromém právu je materiální kategorie (zdržování se + úmy
 - *NS* [25 Cdo 1508/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7C71EA0B40B0238C1258CAC004D1EA2?openDocument) — *Přípustnost dovolání Ochrana osobnosti*
   > „Odvolací soud ve shodě se soudem prvního stupně posoudil nárok žalobkyně podle § 81 a násl. zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a dospěl k závěru, že žalovaná do osobnosti žalobkyně zasáhla, nikoli však neoprávněně."
 - *NS* [25 Cdo 3931/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/432300EA45409D06C1258B72004D1A37?openDocument) — *Změna návrhu na zahájení řízení Ochrana osobnosti Zadostiučinění (satisfakce) Přípustnos…*
+- *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
+  > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 
 #### F. Kazuistika
 

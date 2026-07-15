@@ -2394,6 +2394,10 @@ Služebnost bytu se bez odchylného ujednání považuje za užívací právo (u
   > „Soud neshledal trvalou změnu poměrů, k níž by došlo oproti době vzniku služebnosti, vyvolávající hrubý nepoměr mezi zatížením služebné věci a výhodou panující oprávněné osoby dle § 1299 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, dále jen „o. z.“."
 - *NS* [22 Cdo 683/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2045BEA3461D6328C12585EB0018BEAB?openDocument) — *Služebnost (o. z.)*
   > „Uvádí, že dovolání je přípustné, neboť odvolací soud se odchýlil od ustálené judikatury dovolacího soudu v otázce, týkající se konstitutivního rozhodnutí, kdy výrok o zrušení věcného břemene – zrušení služebnosti podle § 1299 o. z. nelze oddělit od současného rozhodnutí o náhradě za jeho zrušení."
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1491_2019.txt) — 27.10.2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — 27. 10. 2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
 
 #### F. Kazuistika
 

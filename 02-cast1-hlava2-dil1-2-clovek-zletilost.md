@@ -449,6 +449,7 @@ Každý subjekt soukromého práva je buď fyzická, nebo právnická osoba. Út
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — *Zadostiučinění (satisfakce) Ochrana osobnosti*
+  > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 - *NS* [25 Cdo 2258/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06264873FDB498FFC1258D460052E0F7?openDocument) — *Zastoupení Dědění Náhrada nemajetkové újmy (o. z.)*
   > „Podle § 19 odst. 1 o. z. každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu."
 

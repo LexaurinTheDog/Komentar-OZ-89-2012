@@ -409,6 +409,8 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 - *NS* [20 Ncu 37/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2129248E4A3C8C4FC12589B900186056?openDocument) — *Určení otcovství Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 89/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2AD1BC542A63C85C12588C30017D47A?openDocument) — *Uznání cizích rozhodnutí*
 - *NS* [20 Ncu 28/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01A6E90A9E1E7CBDC12588AD0017E6EF?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
+- *NS* [21 Cdo 19/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2EF3484057A5015C12586C5001607CC?openDocument) — 28. 1. 2021, kat. A
+  > „Biologický otec dítěte narozeného za trvání manželství matky s jiným mužem, může výjimečně popřít otcovství manžela matky, sleduje-li popření otcovství soulad biologického, sociálního a právního otcovství.“
 
 ##### F. Kazuistika
 
@@ -549,6 +551,11 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 >
 > Pravidla, která platí pro rozvod manželství, platí obdobně i pro řízení
 > o neplatnosti manželství, protože cíle obou řízení jsou shodné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela.“
 
 ##### F. Kazuistika
 
@@ -850,6 +857,8 @@ Třetí (soudní) domněnka se uplatní subsidiárně, nelze-li otcovství urči
 - *NS* [28 Ncu 80/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D79C954B4A574DFC12582E300263DC4?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
 - *NS* [24 Cdo 1679/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD1C936B80DB92D6C12586B300185BC5?openDocument) — *Popření otcovství*
 - *NS* [20 Ncu 69/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24187F45D23E4060C125861E0041D1A3?openDocument) — *Popření otcovství*
+- *NS* [21 Cdo 4020/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25F08E48582C2227C125828D003B7F75?openDocument) — 21. 2. 2018, kat. A
+  > „Poskytovatel, kterému bylo uděleno oprávnění k poskytování zdravotních služeb v oboru reprodukční medicína, není povinen dokončit umělé oplodnění spojením zárodečné buňky žalobkyně a kryokonzervovaných spermií jejího zemřelého manžela.“
 
 ##### F. Kazuistika
 
@@ -996,6 +1005,8 @@ Muž (i matka), jehož otcovství vzniklo souhlasným prohlášením, je popře 
 - *NS* [24 Cdo 551/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED1B9A2D34E9EDCCC12588A10017DB7E?openDocument) — *Popření otcovství Přípustnost dovolání*
 - *NS* [24 Cdo 487/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D760A32F9DE4249C12588770017B580?openDocument) — *Popření otcovství Lhůta prekluzivní [ Lhůty ] Přípustnost dovolání*
 - *NS* [24 Cdo 3314/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89ACABCA38C1EE63C12587A7001E9BEE?openDocument) — *Přípustnost dovolání Popření otcovství*
+- *NS* [21 Cdo 1012/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EB7FEA64AFC4D64C125836A00221410?openDocument) — 16. 8. 2018, kat. A
+  > „Prominutí zmeškání lhůty k popření otcovství podle ustanovení § 792 o. z. představuje výjimečný postup, kterým je zasahováno do stabilních poměrů dítěte, které jsou chráněny prekluzivní lhůtou k popření otcovství a jejichž ochrana je výrazem zákonodárcem provedeného vážení právně relevantních zájmů dítěte, právního otce a případně i biologického otce. Tento postup slouží výhradně k umožnění nápravy poměrů v případech, kdy stávající stav působí takové následky, které se příčí základním hodnotám společnosti do té míry, že jeho zachování je společensky zcela nepřijatelné, a které proto odůvodňují zásah do stabilních poměrů dítěte.“
 
 ##### F. Kazuistika
 

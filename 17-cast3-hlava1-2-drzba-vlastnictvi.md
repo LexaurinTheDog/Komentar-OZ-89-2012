@@ -428,6 +428,10 @@ Hlava II se vztahuje na:
 - *NS* [22 Cdo 916/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67D0507A1926AB14C1258B48004D174A?openDocument) — *Žaloba určovací Nabytí vlastnického práva od neoprávněného*
   > „5) Nastanou takovou nečinností účinky předvídané v § 980 odst. 2 o. z.? 6) Dopadá § 984 odst. 1 o. z. i na bezúplatné převody nemovitých věcí – nadto pokud stranou převodní smlouvy je společný potomek manželů?"
 - *NS* [22 Cdo 304/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2FA37DFA20FA76E3C1258AF9004D03AB?openDocument) — *Nabytí vlastnického práva od neoprávněného*
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1491_2019.txt) — 27.10.2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — 27. 10. 2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
 
 #### F. Kazuistika
 
@@ -1760,6 +1764,8 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
   > „Ustanovení § 127 odst. 1 obč. zák. ohledně imisí (obtěžování sousedů hlukem, prachem, popílkem, kouřem, plyny, parami, pachy, pevnými a tekutými odpady, světlem, stíněním a vibracemi, jakož i vnikáním chovaných zvířat na sousedící pozemek) se totiž – přes odlišné slovní vyjádření – obsahově neliší od § 1013 odst. 1 o. z."
 - *NS* [22 Cdo 2084/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/417A30BC18109522C1258C3B0052B31E?openDocument) — *Imise Sousedská práva*
   > „Podle § 1013 odst. 1 o. z. se vlastník zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat."
+- *NS* [22 Cdo 3940/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D8EBD66AB3DAF89C1257E9A00462C99?openDocument) — 29. 4. 2015, kat. A
+  > „Odvolací soud posoudí po 1. 1. 2014 žalobu týkající se obtěžování stíněním podle § 1013 odst. 1 o. z., i když soud prvního stupně o žalobě rozhodoval podle § 127 odst. 1 obč. zák.“
 
 #### F. Kazuistika
 
@@ -2898,6 +2904,16 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 > přiznává se takové osobě právo retence, dokud jí odměna za zpracování
 > věci nebo jiná náhrada není zaplacena.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
+  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se takto rovněž stává (bez nutnosti měnit žalobu) nová věc. Vyplývá- li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) pouze právo požadovat za zpracovanou věc peněžité plnění, jehož hodnota je „ukryta“ ve věci vzniklé zpracováním, je ve smyslu ustanovení § 225 odst. 5 insolvenčního zákona „výtěžkem“ tohoto „jiného nakládání“ s věcí (jejího zpracování do nové věci) „podíl“ žalobce (vylučovatele) na věci vzniklé zpracováním v míře odpovídající „hodnotě zpracované věci“. V souladu s ustanovením § 225 odst. 5 a 6 insolvenčního zákona se v takovém případě stává předmětem řízení bez dalšího (bez nutnosti měnit žalobu) tento podíl na nové věci.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
+  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se takto rovněž stává (bez nutnosti měnit žalobu) nová věc. Vyplývá- li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) pouze právo požadovat za zpracovanou věc peněžité plnění, jehož hodnota je „ukryta“ ve věci vzniklé zpracováním, je ve smyslu ustanovení § 225 odst. 5 insolvenčního zákona „výtěžkem“ tohoto „jiného nakládání“ s věcí (jejího zpracování do nové věci) „podíl“ žalobce (vylučovatele) na věci vzniklé zpracováním v míře odpovídající „hodnotě zpracované věci“. V souladu s ustanovením § 225 odst. 5 a 6 insolvenčního zákona se v takovém případě stává předmětem řízení bez dalšího (bez nutnosti měnit žalobu) tento podíl na nové věci.“
+
 ### Pododdíl 3 — Umělý přírůstek (§ 1074—1087)
 
 **§ 1074—1077 — Zpracování**:
@@ -2975,6 +2991,11 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 > Z toho důvodu navržená ustanovení rozlišují příslušné skutkové podstaty.
 > Osoba, která v dobré víře nebyla, se navrhuje postihnout výrazněji než
 > toho, kdo jednal dobromyslně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 2593/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDD734F1793FD70DC125891C001E1FD1?openDocument) — 27. 9. 2022, kat. A
+  > „Institut přestavku lze u staveb zřízených před 1. 1. 2014 aplikovat jen tehdy, byla-li dobrá víra stavebníka, že stavbu zřídil na vlastním pozemku, dána k 1. 1. 2014.“
 
 ### Pododdíl 4 — Smíšený přírůstek (§ 1088)
 

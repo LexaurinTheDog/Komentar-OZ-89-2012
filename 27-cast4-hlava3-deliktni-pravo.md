@@ -889,6 +889,11 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 > škůdců, anebo kdy se na vzniku škody podílí poškozený, vychází z
 > dosavadní úpravy a z evropských standardů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [4 To 42/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/305D77C4F8373B4BC1257FDC00300780?openDocument) — 5. 9. 2013, kat. A
+  > „I. Pro účely rozhodování o vydání bezdůvodného obohacení podle § 228 odst. 1 tr. ř. se při určení výše bezdůvodného obohacení, jež má pachatel trestného činu podílnictví vydat poškozenému, neodečítají prostředky jím vynaložené na opatření věci, tedy např. finanční částky zaplacené podílníkem hlavnímu pachateli za věc získanou trestným činem, a to na rozdíl od stanovení výše majetkového prospěchu podílníka u kvalifikovaných skutkových podstat tohoto trestného činu podle § 214 odst. 2 písm. b), odst. 3 písm. d) a odst. 4 písm. b) tr. zákoníku (srov. [[Czech Law/e-Sbirka/2011/41-2011 Zákon, kterým se mění některé zákony v souvislosti se stanovením kapitálových požadavků a postupů dohledu nad bankami, spořitelními a úvěrními družstvy a obchodníky s cennými papíry|č. 41/2011 Sb.]] rozh. tr.). Bezdůvodné obohacení ve smyslu občanskoprávním se vztahuje k poškozenému, jemuž má být vydáno. Jde o to postihnout vše, co pachatel (podílník) získal neoprávněně, tedy bezdůvodně (§ 2991 o. z.). II. Pokud soud rozhodne podle § 228 odst. 1 tr. ř. o povinnosti jednoho z obžalovaných plnit poškozenému z titulu bezdůvodného obohacení a o povinnosti druhého z nich plnit tomuto poškozenému stejný dluh z titulu náhrady škody, jde o samostatné nároky, a proto nelze v adhezním řízení rozhodnout o jejich povinnosti zaplatit dluh společně a nerozdílně (§ 2915 o. z.). Pro případ, že jednomu věřiteli (poškozenému) plní dva dlužníci stejný dluh z odlišného právního důvodu, platí, že v rozsahu, v jakém splnil věřiteli jeden z nich, zaniká dluh, a tím i povinnost druhého. Jedná se o tzv. falešnou solidaritu dlužníků, tedy případ, kdy dva subjekty jsou povinny ke stejnému plnění, přičemž nejde o solidaritu.“
+
 ### Spoluzavinění poškozeného (§ 2918)
 
 > Vznikla-li škoda nebo zvětšila-li se také následkem okolností, které se přičítají poškozenému, povinnost škůdce nahradit škodu se poměrně sníží. Podílejí-li se však okolnosti, které jdou k tíži jedné či druhé strany, na škodě jen zanedbatelným způsobem, škoda se nedělí.
@@ -1075,6 +1080,11 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 > zákoníku z r. 1937 - i zvláštní ustanovení o povinnosti k náhradě škody
 > způsobené na nemovité věci.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1152/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42955DB992F708AAC12589DB00160BB2?openDocument) — 23. 3. 2023, kat. A
+  > „Ve sporech o náhradu škody způsobené na lesních porostech exhalacemi pocházejícími z průmyslových závodů lze důvodně považovat za zdroj zvýšeného nebezpečí plynné sloučeniny dusíku a síry, jejichž vypouštění a působení nelze zcela eliminovat, takže ani při vynaložení řádné péče nelze vyloučit, že v souhrnném a dlouhodobém působení mohou vést k závažným újmám, za něž odpovídá provozovatel těchto činností podle § 2925 o. z.“
+
 #### Zvlášť nebezpečný provoz (§ 2925)
 
 **§ 2925**:
@@ -1091,6 +1101,11 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 **Praktické příklady**: jaderné elektrárny, chemické závody, výroba munice, sklady benzinu/plynu.
 
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 2894 až 2896“ (dnešní § 2924—2926) — viz § 2924.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1152/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/42955DB992F708AAC12589DB00160BB2?openDocument) — 23. 3. 2023, kat. A
+  > „Ve sporech o náhradu škody způsobené na lesních porostech exhalacemi pocházejícími z průmyslových závodů lze důvodně považovat za zdroj zvýšeného nebezpečí plynné sloučeniny dusíku a síry, jejichž vypouštění a působení nelze zcela eliminovat, takže ani při vynaložení řádné péče nelze vyloučit, že v souhrnném a dlouhodobém působení mohou vést k závažným újmám, za něž odpovídá provozovatel těchto činností podle § 2925 o. z.“
 
 #### Škoda na nemovité věci (§ 2926)
 
@@ -1181,6 +1196,11 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 >
 > V ostatních směrech se platná právní úprava věcně nemění, dochází jen k
 > jazykovým a formulačním úpravám.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3073/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC26E6A7DA9CF6ADC125873F00184445?openDocument) — 27. 5. 2021, kat. A
+  > „Podílel-li se na průběhu nehodového děje a rozsahu vzniklé škody při střetu vlaku s nákladní automobilovou soupravou významným způsobem též návěs, pak škodu vyvolala nejen zvláštní povaha provozu tahače, nýbrž i zvláštní povaha provozu návěsu v takovém případě není důvod omezit výši pojistného plnění z odpovědnosti za újmu vyvolanou provozem motorového vozidla jen maximální výší pojistného plnění stanoveného v pojistné smlouvě týkající se tahače.“
 
 #### Zvíře (§ 2933—2935)
 
@@ -1426,6 +1446,13 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 > (2) Odstavec 1 se nepoužije, způsobil-li škodu ten, kdo se hlásil k odbornému výkonu jako příslušník určitého stavu nebo povolání, porušením odborné péče.
 
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [8 Tdo 190/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDB311293A684CACC1258264003132E3?openDocument) — 20. 9. 2017, kat. A
+  > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
+- *NS* [8 Tdo 190/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-8_Tdo_190_2017.txt) — 20.09.2017, kat. A
+  > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
 
 ### § 2951—2952 — Způsob náhrady
 
@@ -1719,6 +1746,12 @@ Primárně se škoda hradí uvedením do předešlého stavu, ale je‑li to hos
 - *NS* [25 Cdo 3035/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63F5CB573ED266FBC1258D26004D11C9?openDocument) — *Další nemajetkové újmy Ztížení společenského uplatnění Nemajetková újma (o. z.) Vznik po…*
 - *NS* [25 Cdo 3397/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71967919B96A266AC1258CC3004D3592?openDocument) — *Nemajetková újma (o. z.) Znalecký posudek*
 - *NS* [25 Cdo 3512/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E6C4D3015E0E100C1258CB6004D35BF?openDocument) — *Přípustnost dovolání Dokazování Ztížení společenského uplatnění*
+- *NS* [8 Tdo 190/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDB311293A684CACC1258264003132E3?openDocument) — 20. 9. 2017, kat. A
+  > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
+- *NS* [8 Tdo 190/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-8_Tdo_190_2017.txt) — 20.09.2017, kat. A
+  > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
+- *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
+  > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 
 #### F. Kazuistika
 
@@ -1991,8 +2024,11 @@ Při ublížení na zdraví vzniká soubor majetkových nároků: náklady péč
 - *NS* [23 Cdo 2826/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC689AD6C7C97F0C12589E100183072?openDocument) — *Nekalá soutěž Přípustnost dovolání*
   > „Rozsudek odvolacího soudu napadl dovoláním žalovaný s tím, že je považuje za přípustné podle § 237 zákona č. 99/1963 Sb., občanský soudní řád (dále jen „o. s. ř.“), neboť má za to, že odvolací soud se odchýlil od ustálené rozhodovací praxe dovolacího soudu při řešení otázky naplnění skutkové podstaty § 2967 a násl. zákona č."
 - *NS* [25 Cdo 992/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02840C58D600FBF5C12583A000221ECC?openDocument) — *Náhrada škody Věc/cena zvláštní obliby (o. z.) [ Náhrady při ublížení na zdraví a při us…*
+  > „Poškození věci ze svévole nebo škodolibosti podle § 2969 odst. 2 o. z. je založeno na úmyslném počínání škůdce. Jeho úmysl musí mít zvýšenou intenzitu, která se projevuje buď zcela neopodstatněným zásahem do práv poškozeného, spojeným zpravidla s potěšením či radostí ze škodního počínání samotného nebo se zjevnou neúctou k cizím právům (svévole), či zaměřením škodního počínání právě proti poškozenému s cílem ublížit mu prostřednictvím útoku na specifický majetek, což je typicky spojeno s potěšením škůdce, že se tím nepříjemně dotkl konkrétního poškozeného (škodolibost).“
 - *NS* [25 Cdo 1545/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D665DD60658F4A28C1258BDD0052C49E?openDocument) — *Advokacie Advokát Náhrada škody Náhrada nemajetkové újmy (o. z.) Dobré mravy*
 - *NS* [30 Cdo 1479/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8FDA7CC6127AFCDC1258BC500529810?openDocument) — *Skutečná škoda [ Škoda ]*
+- *NS* [25 Cdo 2679/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C66DA72ECACCE28C1258684001E0EB3?openDocument) — 25. 11. 2020, kat. A
+  > „Ve sporu o náhradu škody při určení obvyklé ceny vozidla pořízeného v zahraničí, které je v místě a čase dopravní nehody svým typem či konstrukcí neobvyklé a v České republice se neobchoduje, je třeba zohlednit též možnosti přilehlého zahraničního trhu, funguje-li reálně přeshraniční obchod tohoto typu a je-li pro poškozeného dostupný či obvyklý, není-li nákup tímto způsobem spojen se zjevně neúčelnými či účelově nadhodnocenými náklady.“
 
 #### F. Kazuistika
 

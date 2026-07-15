@@ -978,6 +978,7 @@ Zajištění přežívá promlčení osobní pohledávky: věřitel se může us
 - *NS* [25 Cdo 1592/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F56AA26826AF8286C1258D8E0052B08E?openDocument) — *Promlčení Pojištění*
 - *NS* [33 Cdo 2125/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88D11CC71B66C4EFC1258CCE004D3CC5?openDocument) — *Rozhodčí doložka Exekuce Zastavení řízení Bezdůvodné obohacení Exekuční titul Promlčení…*
 - *NS* [5 Tdo 306/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C994B1F5AB4B8B40C1258CAF004D1E16?openDocument) — *Adhezní řízení Náhrada škody Poškozený*
+  > „Promlčecí lhůta u práva na náhradu škody počíná v souladu s § 619 odst. 1 o. z. běžet od doby, kdy má poškozený možnost vymáhat své právo u orgánu veřejné moci. Pro účely trestního řízení se tím rozumí možnost poškozeného podat návrh v souladu s § 43 odst. 3 tr. ř. se všemi zákonnými náležitostmi. Je-li poškozenou Česká republika, pro počátek běhu promlčecí lhůty u práva na náhradu škody podle § 619 o. z. je podstatné, kdy se o rozhodných okolnostech dozvěděl orgán státu, který je oprávněn Českou republiku zastupovat v daném trestním řízení. Tento závěr vyplývá z ustanovení § 6 odst. 6 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, podle kterého postupují organizační složky státu v řízení samostatně, v souladu se svou procesní rolí a vzájemně nezávisle v rozsahu, který odpovídá jejich příslušnosti.“
 - *NS* [27 Cdo 566/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5431E68C3FF79C49C1258C440052B30C?openDocument) — *Bytové družstvo [ Družstvo ] Vypořádací podíl Promlčení*
 - *NS* [33 Cdo 1704/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AFB9BCCA4297B3AC1258C1F0052955D?openDocument) — *Rozhodčí doložka Exekuční titul Rozhodce Bezdůvodné obohacení Promlčení Lhůta promlčecí…*
 - *NS* [27 Cdo 2357/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB5378F547087DABC1258C0800529D71?openDocument) — *Usnesení členské schůze (neplatnost) [ Družstvo ] Promlčení*
@@ -1681,6 +1682,10 @@ Smluvní modifikace promlčení je možná jen v mezích 1—15 let a nikdy v ne
 - *NS* [28 Cdo 114/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCAC495696AC9D1DC1258B62004D1962?openDocument) — *Bezdůvodné obohacení Promlčení Dobré mravy*
 - *NS* [22 Cdo 3645/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/621F17E98AC3D57EC1258AE70052A5FC?openDocument) — *Přípustnost dovolání Věcná břemena*
 - *NS* [25 Cdo 3530/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D9C0ACE36DB10CC8C1258AD6001B87A4?openDocument) — *Promlčení*
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1491_2019.txt) — 27.10.2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
+- *NS* [22 Cdo 1491/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD85F10460F19FE3C1258662001DEC90?openDocument) — 27. 10. 2020, kat. A
+  > „Ruší-li soud služebnost, která je ke dni jeho rozhodnutí již promlčena, není zásadně namístě přiznávat oprávněnému ze služebnosti náhradu za její zrušení.“
 
 ##### F. Kazuistika
 

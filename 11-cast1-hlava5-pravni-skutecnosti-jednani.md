@@ -1922,6 +1922,8 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 - *NS* [21 Cdo 1209/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDE8B7F903D05540C1258BE70052C174?openDocument) — *Okamžité zrušení pracovního poměru Dovolená na zotavenou*
   > „Není-li doba oznámení zaměstnance o čerpání dovolené zaměstnavateli stanovená v § 218 odst. 3 zák. práce dodržena (aniž by se zaměstnanec a zaměstnavatel dohodli na jiné době oznámení), je toto oznámení neplatné (§ 580 odst. 1 občanského zákoníku) a čerpání dovolené tak není určeno."
 - *NS* [28 Cdo 2370/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DE317944A29EE659C1258BCB0052C644?openDocument) — *Neplatnost právního jednání (o. z.) Znalecký posudek*
+- *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — 27. 11. 2014, kat. A
+  > „Plná moc udělená k právnímu jednání, pro které zákon vyžaduje formu notářského zápisu o právním jednání (§ 441 odst. 2 in fine o. z.), není neplatná pro nedostatek formy vyžadované zákonem, není- li pochyb o tom, kdo (která osoba) plnou moc udělil. Plná moc k založení obchodní korporace je právním jednáním týkajícím se založení obchodní korporace ve smyslu § 6 odst. 1 zákona č. 90/2012 Sb.“
 
 #### F. Kazuistika
 

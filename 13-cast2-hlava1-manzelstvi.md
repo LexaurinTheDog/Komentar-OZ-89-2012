@@ -2957,6 +2957,21 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 > kterého právního důvodu vypořádání. Pokud ale jde o ceny jednotlivých
 > součástí společného jmění, rozhodným bude stav v době rozhodování soudu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1205/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0370643F0DF9CB9EC12585A4002EE0F2?openDocument) — 28. 4. 2020, kat. A
+  > „Při vypořádání společného jmění manželů zaniklého podle [[Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník|zákona č. 89/2012 Sb.]], občanského zákoníku, se zásadně vychází z obvyklé ceny věci a jejího stavu v době rozhodování soudu.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 753/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6CC94B15A59E950C125875C0018B2A0?openDocument) — 29. 6. 2021, kat. A
+  > „V řízení o vypořádání společného jmění manželů má soud společné dluhy přikázat zásadně oběma manželům rovným dílem, nejsou-li tu výjimečné okolnosti odůvodňující přikázání dluhu jen jednomu z nich nebo každému z manželů v jiném než rovnodílném poměru. Je-li v řízení o vypořádání společného jmění manželů přikázán společný dluh jen jednomu z manželů, nelze zásadně druhému z nich uložit povinnost uhradit peněžitou částku v rozsahu poměrné části přikázaného dluhu.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 753/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6CC94B15A59E950C125875C0018B2A0?openDocument) — 29. 6. 2021, kat. A
+  > „V řízení o vypořádání společného jmění manželů má soud společné dluhy přikázat zásadně oběma manželům rovným dílem, nejsou-li tu výjimečné okolnosti odůvodňující přikázání dluhu jen jednomu z nich nebo každému z manželů v jiném než rovnodílném poměru. Je-li v řízení o vypořádání společného jmění manželů přikázán společný dluh jen jednomu z manželů, nelze zásadně druhému z nich uložit povinnost uhradit peněžitou částku v rozsahu poměrné části přikázaného dluhu.“
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Manželé se za trvání manželství dohodli na vypořádání budoucího zúžení SJM ohledně nemovitosti zapsané v katastru; dohodu uzavřeli jen ústně. Zúžení SJM nastalo notářským zápisem k 1. 3.; dohodu o vypořádání podepsali až 1. 6., avšak v textu uvedli účinky „ke dni zúžení". Třetí osoba (věřitel jednoho z manželů) namítá, že dohoda se jí nedotýká. Důkazy: notářský zápis o zúžení, dohoda o vypořádání a její forma, výpis z katastru, doklad o pohledávce třetí osoby.
@@ -3127,6 +3142,8 @@ Nedojde-li do 3 let od zániku SJM k vypořádání dohodou ani žalobou, nastá
 - *NS* [22 Cdo 1943/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/90F13C533D0683E8C1258D26004D11E7?openDocument) — *Vypořádání SJM*
 - *NS* [22 Cdo 1805/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AF74F5253B2FAA88C1258D10004D4312?openDocument) — *Společné jmění manželů*
 - *NS* [22 Cdo 1914/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/996B8FD34596698AC1258D10004D42F1?openDocument) — *Společné jmění manželů*
+- *NS* [22 Cdo 753/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6CC94B15A59E950C125875C0018B2A0?openDocument) — 29. 6. 2021, kat. A
+  > „V řízení o vypořádání společného jmění manželů má soud společné dluhy přikázat zásadně oběma manželům rovným dílem, nejsou-li tu výjimečné okolnosti odůvodňující přikázání dluhu jen jednomu z nich nebo každému z manželů v jiném než rovnodílném poměru. Je-li v řízení o vypořádání společného jmění manželů přikázán společný dluh jen jednomu z manželů, nelze zásadně druhému z nich uložit povinnost uhradit peněžitou částku v rozsahu poměrné části přikázaného dluhu.“
 
 ###### F. Kazuistika
 

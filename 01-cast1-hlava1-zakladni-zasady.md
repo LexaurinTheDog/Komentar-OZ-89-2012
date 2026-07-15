@@ -748,6 +748,8 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
   > „2018, sp. zn. 26 Cdo 5278/2017), že právo na náhradu se promlčuje v obecné tříleté době podle § 101 obč. zák., která počíná dnem omezení vlastnického práva; případná aplikace ustanovení § 3 odst. 1 obč. zák. tím není vyloučena."
 - *NS* [25 Cdo 3394/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1D84023A1292A94FC1258D0A004D1CCC?openDocument) — *Ochrana osobnosti Nemajetková újma (o. z.) Zdravotnictví Zadostiučinění (satisfakce)*
   > „Odkázal na § 3 odst. 2 písm. a) a § 81 odst. 1 o. z. a na § 28 odst. 1, 2 a 3 písm. a), § 31 a § 34 odst. 1 a 3 zákona č."
+- *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
+  > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 
 #### F. Kazuistika
 
@@ -1042,6 +1044,8 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
   > „V daném případě nelze „na oko“ proběhlé dražbě přiznat právní ochranu a považovat ji za souladnou s principy poctivosti a zákazu zneužití práva (§ 6 odst. 1 a 2 a § 8 o. z.)."
 - *NS* [27 Cdo 1943/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D02D0A755B62C4DC1258BA2004D3C65?openDocument) — *Žaloba Zneužívání výkonu práv a povinností Společník*
   > „[26] Podle § 6 odst. 1 o. z. každý má povinnost jednat v právním styku poctivě."
+- *NS* [21 Cdo 3612/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26177F3F6F4190E8C1257E9F0025D45B?openDocument) — 16. 6. 2015, kat. A
+  > „Přechodné ustanovení § 3030 zákona č. 89/2012 Sb. nelze vykládat tak, že by způsobovalo (umožňovalo) pravou zpětnou účinnost ustanovení § 1 až 14 zákona č. 89/2012 Sb. na dříve (do 31. 12. 2013) vzniklé právní vztahy (poměry).“
 
 #### F. Kazuistika
 
@@ -1124,6 +1128,8 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
   > „[40] Z ustálené rozhodovací praxe Nejvyššího soudu se dále podává, že § 7 o. z. vyjadřuje vyvratitelnou domněnku jednání v dobré víře; ten, kdo ji popírá, musí tvrdit skutečnosti ji vylučující a ohledně nich nese důkazní břemeno."
 - *NS* [25 Cdo 2136/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EC88CC1B6F79C7CC1258973001DAEC5?openDocument) — *Náhrada škody Pozemní komunikace*
   > „Hovoří-li dovolatelka o dobré víře chodce v to, že souvislý chodník má stejné nebo srovnatelné vlastnosti po celé své délce, opomíjí, že kategorie dobré víry je zákonem obecně stanovenou vyvratitelnou domněnkou pro jednání v právních vztazích (viz § 7 o."
+- *NS* [21 Cdo 3612/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26177F3F6F4190E8C1257E9F0025D45B?openDocument) — 16. 6. 2015, kat. A
+  > „Přechodné ustanovení § 3030 zákona č. 89/2012 Sb. nelze vykládat tak, že by způsobovalo (umožňovalo) pravou zpětnou účinnost ustanovení § 1 až 14 zákona č. 89/2012 Sb. na dříve (do 31. 12. 2013) vzniklé právní vztahy (poměry).“
 
 #### F. Kazuistika
 

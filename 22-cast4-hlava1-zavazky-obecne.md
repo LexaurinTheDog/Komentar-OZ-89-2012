@@ -513,6 +513,8 @@ Smlouva vzniká shodou o obsahu; stranám je v mezích právního řádu ponech�
 - *NS* [23 Cdo 3306/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DA0ACEC482A4B938C125896A001DBC9E?openDocument) — *Předsmluvní odpovědnost (o. z.) Obec*
 - *NS* [23 Cdo 3119/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B527026C026AD57C1258949001DF952?openDocument) — *Přípustnost dovolání*
 - *NS* [23 Cdo 260/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/590EBC12540F7578C12588680017C3CC?openDocument) — *Přípustnost dovolání Předsmluvní odpovědnost (o. z.)*
+- *NS* [25 Cdo 15/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/70585093C02A7946C125873C00188864?openDocument) — 27. 5. 2021, kat. A
+  > „Ukončila-li obec jednání o uzavření smlouvy vedené na základě řádně zveřejněného záměru pronajmout nemovitý obecní majetek z důvodu upřednostnění jiné nabídky nově zvoleným starostou a částí členů rady obce, má smluvní strana, která již důvodně předpokládala uzavření smlouvy, právo na náhradu škody.“
 
 #### F. Kazuistika
 
@@ -4209,6 +4211,11 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 > vstřícnější praktické potřebě po vzoru některých úprav zahraničních.
 > Osnova se inspiruje zejména zákoníkem Québecu (čl. 1687 an.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 59/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EDA6B1B4D696208C1258B8E004D414F?openDocument) — 30. 7. 2024, kat. A
+  > „Rozvazovací podmínku lze sjednat i v dohodě o prominutí dluhu.“
+
 ### 5) Splynutí (§ 1993)
 
 **§ 1993**:
@@ -5077,6 +5084,7 @@ Zajišťovací převod práva je dočasný převod s rozvazovací podmínkou spl
 - *NS* [33 Cdo 3208/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A002A0A1088B2D7EC125882D0015FE33?openDocument) — *Přípustnost dovolání Smlouva o dílo Smluvní pokuta*
 - *NS* [33 Cdo 3849/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3DA962E29023224CC12586E100184F4B?openDocument) — *Smluvní pokuta Přípustnost dovolání Poučovací povinnost soudu*
 - *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — *Smluvní pokuta Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Pracovněprávní…*
+  > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného nebo zdánlivého právního jednání požadovat plnění (které mu dosud nebylo poskytnuto), i když jeho neplatnost (zdánlivost) nezpůsobil výlučně sám.“
 - *NS* [33 Cdo 671/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/313C12A977BD902CC12582EB00265CBD?openDocument) — *Smluvní pokuta*
 - *NS* [23 Cdo 1171/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2CA37B5FE68A566AC1258DCC004D1F8E?openDocument) — *Smluvní pokuta Moderační právo soudu*
 - *NS* [28 Cdo 2607/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/81985AA935F06B1EC1258D29004D4749?openDocument) — *Smluvní pokuta*

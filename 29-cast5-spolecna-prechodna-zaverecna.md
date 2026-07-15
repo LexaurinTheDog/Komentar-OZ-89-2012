@@ -614,6 +614,10 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
   > „Pro určení právního režimu, jemuž podléhá určitá pohledávka, není v koncepci § 3028 odst. 3 věty první o. z. rozhodné, kdy tato pohledávka vznikla (ve smyslu kdy věřiteli vzniklo bezprostřední, nepodmíněné právo na plnění), nýbrž kdy vznikl právní poměr (právní vztah), z něhož tato pohledávka vznikla."
 - *NS* [23 Cdo 82/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/790C13CBE3135D94C1258CC3004D35E2?openDocument) — *Přípustnost dovolání Postoupení pohledávky Neplatnost smlouvy Přechodná (intertemporální…*
   > „Nejvyšší soud, maje na zřeteli hledisko časové působnosti v úvahu přicházejících právních předpisů, k tomu předesílá, že ustanovení § 3028 odst. 3 o. z. týkající se smluvních obligací aplikuje pravidlo, že na právní vztah založený před 1."
+- *NS* [29 Cdo 2344/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_2344_2015.txt) — 27.10.2015, kat. A
+  > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
+- *NS* [29 Cdo 2344/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED6C08521F61DC2FC1257F390035A48A?openDocument) — 27. 10. 2015, kat. A
+  > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
 
 #### F. Kazuistika
 
@@ -686,6 +690,8 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
 - *NS* [32 Cdo 1082/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F2BED84F016EF410C125825D0026197D?openDocument) — *Smlouva pojistná*
 - *NS* [26 Cdo 2479/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/692585654B332C5DC125820C004C966A?openDocument) — 19. 10. 2017
 - *NS* [30 Cdo 1311/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E352169EBE6B274C12580C300419221?openDocument) — *Přípustnost dovolání*
+- *NS* [21 Cdo 3612/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26177F3F6F4190E8C1257E9F0025D45B?openDocument) — 16. 6. 2015, kat. A
+  > „Přechodné ustanovení § 3030 zákona č. 89/2012 Sb. nelze vykládat tak, že by způsobovalo (umožňovalo) pravou zpětnou účinnost ustanovení § 1 až 14 zákona č. 89/2012 Sb. na dříve (do 31. 12. 2013) vzniklé právní vztahy (poměry).“
 
 #### F. Kazuistika
 
@@ -1206,6 +1212,36 @@ Oddíl 4 (§ 3041—3053) ukládá právnickým osobám existujícím před 1. 1
 > náhradu škody. Rovněž se v této souvislosti pamatuje na případ, že
 > stavba mohla být dříve zatížena zástavním právem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6353BDAB7162CE9DC125867E001DF6E4?openDocument) — 24. 11. 2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+- *NS* [22 Cdo 2593/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDD734F1793FD70DC125891C001E1FD1?openDocument) — 27. 9. 2022, kat. A
+  > „Institut přestavku lze u staveb zřízených před 1. 1. 2014 aplikovat jen tehdy, byla-li dobrá víra stavebníka, že stavbu zřídil na vlastním pozemku, dána k 1. 1. 2014.“
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1952_2019.txt) — 24.11.2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6353BDAB7162CE9DC125867E001DF6E4?openDocument) — 24. 11. 2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1952_2019.txt) — 24.11.2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6353BDAB7162CE9DC125867E001DF6E4?openDocument) — 24. 11. 2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1952_2019.txt) — 24.11.2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6353BDAB7162CE9DC125867E001DF6E4?openDocument) — 24. 11. 2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+- *NS* [22 Cdo 1952/2019](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-22_Cdo_1952_2019.txt) — 24.11.2020, kat. A
+  > „Mezi vlastníkem stavby a vlastníkem pozemku, na kterém je převážná část stavby, je založeno zákonné předkupní právo podle § 3059 o. z. ve spojení s § 3056 odst. 1 o. z., a to bez ohledu na to, zda vzhledem k přesahům stavby na další pozemky budou splněny podmínky pro použití ustanovení o přestavku. Zákonné předkupní právo náleží i spoluvlastníkům pozemku, na němž se nachází převážná část stavby jiného vlastníka, a opačně spoluvlastníkům stavby ve vztahu k pozemku, na kterém se stavba svou převážnou částí nachází.“
+
 ### Oddíl 5 — Věcná práva (§ 3054—3068)
 
 **KLÍČOVÝ ÚSEK** — řešení **návratu *superficies solo cedit*** (§ 506 OZ).
@@ -1449,6 +1485,11 @@ Oddíl 6 (§ 3069—3072) podřizuje dědění právu platnému ke dni smrti zů
 > cestovní kanceláře došlo před účinností tohoto zákona, použije se § 2515
 > a cestujícímu se přizná právo na odčinění újmy za ztrátu radosti z
 > dovolené.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 828/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E4F793F41FE0C1DC1257D00003505BC?openDocument) — 29. 5. 2014, kat. A
+  > „Dohoda uzavřená mezi oprávněným jako zástavním věřitelem a osobní dlužnicí, v níž se věřitel zavázal v případě, že osobní dlužnice částečně uhradí pohledávku vymáhanou v jiném exekučním řízení, upustit od vymáhání zbývající části pohledávky vůči ní, a zároveň, že v budoucnu proti ní nezahájí další exekuční řízení pro tutéž pohledávku, a v níž účastníci této dohody konstatovali, že se netýká nároku oprávněného (zástavního věřitele) vůči zástavnímu dlužníku z titulu zástavního práva k zastaveným nemovitostem, není ve vztahu k povinnému jako zástavnímu dlužníkovi jen proto v rozporu s dobrými mravy.“
 
 #### F. Kazuistika
 
