@@ -702,6 +702,17 @@ Po skončení funkce (i smrtí) je nutné do 6 měsíců předat soudu vše z ti
 - *ÚS* [II. ÚS 234/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-234-26_1) — usnesení, 13. 2. 2026
   > „Podle § 63 zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, ve spojení s § 469 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, ve znění pozdějších předpisů, jakož i § 892 odst. 3 a § 943 zákona č."
 
+> 📎 **Doslovné znění — § 63 zákona č. 182/1993 Sb., o Ústavním soudu:**
+> **Použití soudních řádů**
+> Pokud tento zákon nestanoví jinak, použijí se pro řízení před Ústavním soudem přiměřeně ustanovení občanského soudního řádu a předpisy vydané k jeho provedení.
+
+> 📎 **Doslovné znění — § 469 zákona č. 292/2013 Sb., o zvláštních řízeních soudních:**
+> **Zastoupení**
+> (1) Dítě je v řízení zastoupeno opatrovníkem, kterého soud pro řízení jmenuje. Opatrovníkem soud jmenuje zpravidla orgán sociálně-právní ochrany dětí.
+> (2) Opatrovníkem nelze jmenovat orgán sociálně-právní ochrany dětí, který podal návrh na zahájení řízení.
+> (3) Ustanovení odstavce 1 neplatí pro řízení podle § 468 odst. 2. V těchto řízeních má nezletilý plnou procesní způsobilost.
+> (4) Ustanovení odstavce 1 se nepoužije pro řízení, která byla rodiči zahájena podle obsahu návrhu a k němu přiloženého stanoviska druhého rodiče ve vzájemné shodě o obsahu dohody o úpravě poměrů nezletilého. V těchto řízeních je dítě zastoupeno zákonným zástupcem, a jsou-li jimi rodiče, pak oběma rodiči nebo podle jejich volby jedním z nich. Soud však jmenuje dítěti opatrovníka podle odstavce 1, jestliže by mohlo dojít ke střetu zájmů mezi rodičem a dítětem nebo mezi dětmi týchž rodičů, anebo pokud o to dítě požádá; o právu jmenovat dítěti opatrovníka musí být dítě rodiči poučeno.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Po zůstaviteli (otci) dědí současně jeho manželka (matka) i jejich nezletilá dcera. V dědickém řízení mají matka a dcera protichůdné majetkové zájmy (např. ohledně započtení daru a velikosti dědických podílů); matka jako zákonná zástupkyně by jednala sama za sebe i za dceru. Účastníci: nezletilá dcera (dědička), matka (dědička a zákonná zástupkyně), notář jako soudní komisař, soud. Důkazy: usnesení o zahájení dědického řízení, seznam dědiců, doklady o aktivech a darech.
@@ -2058,6 +2069,14 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 - *Související ustanovení téhož zákona:* § 953, § 958 (rodinné formy náhradní péče s předností), § 972 (doba), § 973 (přezkum), § 967 (sounáležitost s rodinou).
 - *Související předpisy:* zákon č. 359/1999 Sb. (sociálně-právní ochrana, ZDVOP); zákon č. 292/2013 Sb.; čl. 32 Listiny, čl. 8 EÚLP (právo na rodinný život).
 - *Judikatura:* nosný závěr Ústavního soudu a ESLP, že odebrání dětí výhradně z důvodu chudoby (bytové/majetkové poměry) je nepřípustné a stát má povinnost rodině poskytnout podporu namísto institucionalizace.
+
+> 📎 **Doslovné znění — čl. 32 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Rodičovství a rodina jsou pod ochranou zákona. Zvláštní ochrana dětí a mladistvých je zaručena.
+> (2) Ženě v těhotenství je zaručena zvláštní péče, ochrana v pracovních vztazích a odpovídající pracovní podmínky.
+> (3) Děti narozené v manželství i mimo ně mají stejná práva.
+> (4) Péče o děti a jejich výchova je právem rodičů; děti mají právo na rodičovskou výchovu a péči. Práva rodičů mohou být omezena a nezletilé děti mohou být od rodičů odloučeny proti jejich vůli jen rozhodnutím soudu na základě zákona.
+> (5) Rodiče, kteří pečují o děti, mají právo na pomoc státu.
+> (6) Podrobnosti stanoví zákon.
 
 **4. Subsumpce.** „Nedostatečné bytové nebo majetkové poměry rodičů nemohou být samy o sobě důvodem pro ústavní výchovu, jsou-li rodiče jinak způsobilí" (§ 971 odst. 3) — v dané věci jsou rodiče jinak způsobilí (děti prospívají, mají vazbu k rodičům), takže chudoba sama nařízení neodůvodňuje. „Soud vždy zvažuje přednost svěření do péče fyzické osoby" (§ 971 odst. 1) — i kdyby byl dán jiný důvod, ústav je až ultima ratio.
 

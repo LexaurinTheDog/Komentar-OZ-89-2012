@@ -3216,6 +3216,12 @@ Zástavním právem lze zajistit i dluh s proměnlivou výší, dluh budoucí, p
 - *NS* [29 NSCR 113/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CBD08FA4A0FC3DAAC1258ABA001B7E86?openDocument) — *Zpeněžování Zástavní právo (o. z.) Hromadná věc (o. z.)*
   > „Je-li zástavou věc hromadná (sklad zboží), která je v zástavní smlouvě označena mimo jiné adresou prostor (skladu, prodejny), v nichž je umístěna v době uzavření zástavní smlouvy, pak pouhým přemístěním skladu zboží do skladu na jiné adrese nedochází k zániku zástavního práva."
 
+> 📎 **Doslovné znění — § 299 zákona č. 513/1991 Sb., Obchodní zákoník:**
+> (1) Zástavní právo lze zřídit na určitou dobu, do určité výše a pro určitý druh pohledávek, které vzniknou zástavnímu věřiteli vůči dlužníku v budoucnu.
+> (2) Zástavní věřitel může při výkonu svého zástavního práva prodat ve veřejné dražbě zastavenou nemovitost nebo jinou zástavu, kterou má u sebe nebo s kterou je oprávněn s ní nakládat, jestliže na tento zamýšlený výkon zástavního práva včas upozorní zástavce a dlužníka; stanoví-li to smlouva, může zástavní věřitel prodat zástavu i jiným vhodným způsobem.
+> (3) Zástavní věřitel vydá bez zbytečného odkladu dlužníku výtěžek prodeje převyšující jeho zajištěnou pohledávku po odečtení účelně vynaložených nákladů.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan P si půjčil od soukromého věřitele V 500 000 Kč. K zajištění uzavřeli zástavní smlouvu k automobilu pana P, který zůstal v jeho držení (nebyl věřiteli odevzdán). Smlouva obsahuje ujednání, že (a) pan P nesmí dluh vyplatit dříve než za pět let a (b) nesplní-li včas, věřitel si automobil bez dalšího ponechá v hodnotě, kterou sám určí. Pan P je spotřebitel. Po prodlení si věřitel chce automobil ponechat za jím stanovenou cenu. Důkazy: zástavní smlouva a její forma, doklad o tom, že věc nebyla odevzdána, postavení pana P jako spotřebitele, ocenění automobilu.
@@ -4098,6 +4104,12 @@ Cizí věc lze zastavit jen se souhlasem vlastníka; výjimkou je dobrá víra v
 - *NS* [21 Cdo 5983/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A7EFC55A7F90353C12582B4003C43FA?openDocument) — *Zástavní právo (o. z.)*
   > „Má za to, že dražba, kterou nechal zástavní věřitel provést, nemá statut veřejné dražby ve smyslu zákona č."
 
+> 📎 **Doslovné znění — § 198 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Popření nevykonatelné pohledávky insolvenčním správcem**
+> (1) Věřitelé nevykonatelné pohledávky, která byla popřena insolvenčním správcem, mohou uplatnit své právo žalobou na určení u insolvenčního soudu do 30 dnů od přezkumného jednání nebo od právní moci rozhodnutí o schválení zprávy o přezkumu podle § 410 odst. 3 písm. a); tato lhůta však neskončí dříve než uplynutím 15 dnů od doručení vyrozumění podle § 197 odst. 2 nebo § 410 odst. 2. Žalobu podávají vždy proti insolvenčnímu správci. Nedojde-li žaloba ve stanovené lhůtě insolvenčnímu soudu, k pohledávce popřené co do pravosti se nepřihlíží; pohledávka popřená co do výše nebo pořadí je v takovém případě zjištěna ve výši nebo pořadí uvedeném při jejím popření.
+> (2) V žalobě podle odstavce 1 může žalobce uplatnit jako důvod vzniku popřené pohledávky pouze skutečnosti, které jako důvod vzniku této pohledávky uplatnil nejpozději do skončení přezkumného jednání, a dále skutečnosti, o kterých se žalobce dozvěděl později proto, že mu kupující ze smlouvy o prodeji podniku nebo jeho části neoznámil včas převzetí dlužníkova závazku.
+> (3) Vyjde-li v průběhu řízení o žalobě podle odstavce 1 najevo, že popřená pohledávka je pohledávkou vykonatelnou, není to důvodem k zamítnutí žaloby, žalovaný je však v takovém případě povinen prokázat důvod popření podle § 199.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Banka B (zástavní věřitel) má zástavní právo k nebytové jednotce dlužníka A, který přestal splácet úvěr; dluh je nyní splatný. V zástavní smlouvě si strany písemně ujednaly, že B se může uspokojit prodejem zástavy z volné ruky. B chce zástavu zpeněžit. Současně na nemovitosti vázne exekuční příkaz jiného věřitele se speciálním inhibitoriem. Důkazy: úvěrová a zástavní smlouva (s ujednáním o způsobu zpeněžení), výpis z katastru s vyznačeným zástavním právem a exekučním příkazem, doklad o splatnosti dluhu, oznámení o započetí výkonu.
@@ -4109,6 +4121,14 @@ Cizí věc lze zastavit jen se souhlasem vlastníka; výjimkou je dobrá víra v
 - *Související ustanovení téhož zákona:* § 1360 (smluvený způsob zavazuje právního nástupce), § 1362—1364 (oznámení, lhůta 30 dnů), § 1365 (odborná péče u prodeje mimo dražbu), § 1368—1370 (rozdělení výtěžku).
 - *Související předpisy:* zákon o veřejných dražbách č. 26/2000 Sb.; exekuční řád č. 120/2001 Sb. (§ 47 odst. 6 — speciální inhibitorium); insolvenční zákon č. 182/2006 Sb. (§ 286 — zpeněžení zástavy v insolvenci je realizací zástavního práva).
 - *Judikatura:* NS 24 Cdo 2755/2022 (inhibitorium dle § 47 odst. 6 EŘ dopadá i na jednání věřitele směřující k prodeji dle ujednání); NS 20 Cdo 1522/2021 a 20 Cdo 1596/2021 (výkon zástavního práva je právem, nikoli povinností věřitele); NS 21 Cdo 1212/2024 (zpeněžení dle § 286 IZ je realizací zástavy); NS 21 Cdo 5983/2017 (soukromá dražba bez statutu veřejné dražby nenaplňuje § 1359).
+
+> 📎 **Doslovné znění — § 286 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> (1) Majetkovou podstatu lze zpeněžit
+> a) veřejnou dražbou podle zvláštního právního předpisu45),
+> b) prodejem movitých věci a nemovitostí podle ustanovení občanského soudního řádu o výkonu rozhodnutí,
+> c) prodejem majetku mimo dražbu,
+> d) v dražbě provedené soudním exekutorem podle zvláštního právního předpisu.
+> (2) O způsobu zpeněžení majetkové podstaty podle odstavce 1 rozhodne se souhlasem věřitelského výboru insolvenční správce.
 
 **4. Subsumpce.** Dluh je splatný → otevřena cesta výkonu (§ 1359 odst. 1). Strany písemně ujednaly způsob (prodej z volné ruky) → přednost má tento smluvený způsob. Avšak na zástavě vázne exekuční příkaz se speciálním inhibitoriem → omezení v nakládání dopadá i na věřitelovo jednání k prodeji dle ujednání (NS 24 Cdo 2755/2022).
 

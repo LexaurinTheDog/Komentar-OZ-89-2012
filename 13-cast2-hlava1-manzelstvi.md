@@ -4048,6 +4048,12 @@ Rozvedený manžel má při neschopnosti živit se s původem v manželství ná
 - *NS* [22 Cdo 2944/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC4B0BA3552AC642C1258D7A0052C2A4?openDocument) — *Společné jmění manželů Vypořádání SJM*
 - *NS* [24 Cdo 1763/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99110E2111DCBACEC125855200160F1C?openDocument) — *Společné jmění manželů Řízení o dědictví*
 
+> 📎 **Doslovné znění — § 312 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Výkon rozhodnutí přikázáním jiné peněžité pohledávky povinného než pohledávky z účtu u peněžního ústavu nebo nároku uvedeného v § 299 lze nařídit i v případě, že pohledávka povinného se stane splatnou teprve v budoucnu, jakož i v případě, že povinnému budou dílčí pohledávky z téhož právního důvodu v budoucnu postupně vznikat.
+> (2) Soud postupuje podle odstavce 1 i v případě, že plnění vyplývající ze závazku, jehož je povinný účastníkem, je podmíněno nebo vázáno na dosažení věku nebo jiný běh času. Je-li to účelné, soud po právní moci usnesení o nařízení výkonu rozhodnutí nahradí svým rozhodnutím prohlášení vůle povinného k výpovědi tohoto závazku nebo k žádosti o plnění. Souhlas třetí osoby, je-li jím právní jednání podmíněno, je nahrazen usnesením o nařízení výkonu rozhodnutí. Jednání potřebná k uplatnění práva, která přísluší podle zvláštních právních předpisů povinnému, provádí místo povinného oprávněný.
+> (3) Výkon rozhodnutí ohledně dávek státní sociální podpory a pěstounské péče, které nejsou vyplaceny jednorázově, nelze provést přikázáním pohledávky.
+> (4) Výkon rozhodnutí postihuje pohledávku povinného do výše pohledávky oprávněného a jejího příslušenství, pro něž byl nařízen.
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Manžel M zemřel; zůstala manželka Ž a z předchozího manželství M dvě zletilé děti (dědicové). Mezi M a Ž existoval zákonný režim SJM, do něhož patřil rodinný dům a úspory. Děti M tvrdí, že SJM se má vypořádat rovným dílem bez ohledu na to, kdo se o majetek zasloužil, a požadují polovinu pro pozůstalost. Důkazy: úmrtní list, doklad o majetkovém režimu, soupis SJM, podklady o zásluhách a investicích, pokyny zůstavitele pro případ smrti (pořízení pro případ smrti), pokud existují.

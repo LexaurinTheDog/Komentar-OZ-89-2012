@@ -775,6 +775,9 @@ Změnu věci smí nájemce provést jen s předchozím souhlasem pronajímatele 
 - *NS* [26 Cdo 1733/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD48E88324F47A55C1258D310052ADD4?openDocument) — *Služebnost požívacího práva (o. z.) [ Služebnost (o. z.) ] Nájem*
   > „Praha: C. H. Beck, 2013; k § 2221 In: Hulmák, M. a kol.: Občanský zákoník VI. Závazkové právo."
 
+> 📎 **Doslovné znění — § 41 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích:**
+> Pokud stát nabyl majetek způsoby uvedenými v ustanovení § 13, dluhy předchozího vlastníka na stát nepřecházejí; to neplatí v případě dědění nebo odúmrti a v případech, stanoví-li tak zvláštní právní předpis, rozhodnutí příslušného orgánu nebo mezinárodní smlouva, kterou je stát vázán.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Investor koupí činžovní dům za účelem rekonstrukce a vyklizení. Při prohlídce mu prodávající tvrdil, že přízemní prostor je „volný"; ve skutečnosti je v něm na dobu určitou pronajata prodejna a nadto je obývaný byt v patře. Po zápisu vlastnictví chce nový vlastník oba nájmy ukončit jen proto, že se změnil vlastník.

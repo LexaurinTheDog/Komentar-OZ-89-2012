@@ -68,6 +68,9 @@ OZ obsahuje v § 1—14 sadu výkladových pravidel, která ovlivňují interpre
 8. **Subsidiarita a analogie** (§ 9, § 10): OZ se použije, pokud zvláštní zákon nestanoví jinak. Mezera v zákoně se vyplní (a) ustanovením o věci nejbližší obsahu (analogie *legis*), (b) zásadami zákona a principy spravedlnosti (analogie *iuris*).
 9. **Legitimní očekávání** (§ 13): Každý má důvodně očekávat, že jeho věc bude rozhodnuta obdobně jako podobné věci. Pokud se soud odchýlí od ustálené judikatury, musí to přesvědčivě odůvodnit. Tento paragraf má **klíčovou ústavní hodnotu** a vychází z čl. 1 LZPS (rovnost před zákonem) a čl. 95 odst. 1 Ústavy (vázanost soudce zákonem a judikatorními výklady, k nimž se jiné senáty přihlásily).
 
+> 📎 **Doslovné znění — čl. 1 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> Lidé jsou svobodní a rovní v důstojnosti i v právech. Základní práva a svobody jsou nezadatelné, nezcizitelné, nepromlčitelné a nezrušitelné.
+
 ## 5. Klíčové zdroje doktríny
 
 Pro praktickou aplikaci OZ doporučovaná literatura (chronologicky):

@@ -395,6 +395,10 @@ Rodič smí dítě usměrňovat přiměřeně jeho věku a jen k legitimním cí
 - *Související předpisy:* § 201, § 196 tr. zákoníku (ohrožování výchovy, zanedbání povinné výživy — souvislost); zákon č. 359/1999 Sb.
 - *Judikatura:* NS 7 Tdo 596/2025 a 4 Tdo 1160/2020 (citováno zde) — ochrana dítěte dle § 858 je ochrannou normou; rodičovská odpovědnost se vztahuje na oba rodiče; 4 Tdo 1293/2018 — zásah do zdravého vývoje je porušením povinnosti péče dle § 858 a § 884.
 
+> 📎 **Doslovné znění — § 196 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Zanedbání povinné výživy**
+> Kdo neplní, byť i z nedbalosti, svou zákonnou povinnost vyživovat nebo zaopatřovat jiného po dobu delší než čtyři měsíce a vydá tak oprávněnou osobu nebezpečí nouze, bude potrestán odnětím svobody až na dvě léta.
+
 **4. Subsumpce.** Ponechání malého dítěte bez dohledu v nebezpečné situaci porušuje povinnost péče o zdraví [písm. a)] a ochrany [písm. b)]. Změnu rozsahu rodičovské odpovědnosti O (omezení) může vyslovit pouze soud (odst. 3) — OSPOD činí jen podpůrná/preventivní opatření.
 
 **5. Řešení.** V opatrovnickém řízení soud zváží omezení rodičovské odpovědnosti či jejího výkonu (§ 870), případně dohled (§ 925); v trestní rovině přichází v úvahu odpovědnost za ohrožení/ublížení. Procesní krok: návrh OSPOD/matky k opatrovnickému soudu; znalecké posouzení vývoje dítěte. Riziko: jednorázové selhání nemusí dosáhnout intenzity pro omezení — nutné posoudit soustavnost a zájem dítěte.
@@ -802,9 +806,18 @@ Rodičovská odpovědnost svědčí oběma rodičům rovným dílem ze zákona; 
 
 **3. Použitelné právo.**
 - *Komentované ustanovení:* § 866 (pro rozhodnutí o rozsahu/výkonu rodičovské odpovědnosti jsou určující zájmy dítěte) a § 867 (poskytnutí informací a zjištění názoru; u dítěte staršího 12 let domněnka schopnosti názor přijmout, vytvořit a sdělit; soud mu věnuje patřičnou pozornost).
-- *Související ustanovení téhož zákona:* § 875 odst. 2 (informování dítěte rodiči), § 906–907 (úprava péče), § 100 odst. 3 o. s. ř. (zjišťování názoru dítěte).
+- *Související ustanovení téhož zákona:* § 875 odst. 2 (informování dítěte rodiči), § 906–907 (úprava péče), § 100 odst. 4 o. s. ř. (zjišťování názoru dítěte).
 - *Související předpisy:* Úmluva o právech dítěte (čl. 12 — právo být slyšeno); ZŘS § 20, § 100 o. s. ř.
 - *Judikatura:* ÚS IV. ÚS 3078/14, I. ÚS 2974/13, III. ÚS 2135/15 (citováno zde) — opomenutí zjistit a zohlednit názor dítěte je porušením práva na spravedlivý proces a zájmu dítěte.
+
+> 📎 **Doslovné znění — § 100 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Jakmile bylo řízení zahájeno, postupuje v něm soud i bez dalších návrhů tak, aby věc byla co nejrychleji projednána a rozhodnuta. Přitom usiluje především o to, aby spor byl vyřešen smírně.
+> (2) Je-li to účelné a vhodné, může předseda senátu účastníkům řízení nařídit první setkání se zapsaným mediátorem (dále jen „mediátor“) v rozsahu 3 hodin a přerušit řízení, nejdéle však na dobu 3 měsíců. Při posuzování účelnosti a vhodnosti soud zejména zohlední, pokud byl účastník řízení pravomocně odsouzen pro trestný čin uvedený v odstavci 3 písm. a) nebo byl shledán vinným ze spáchání přestupku uvedeného v odstavci 3 písm. b), byl-li poškozeným nebo osobou přímo postiženou druhý účastník nebo osoba jemu blízká. Pokud se účastníci bez zbytečného odkladu nedohodnou na osobě mediátora, vybere jej ze seznamu vedeného ministerstvem předseda senátu. Po uplynutí 3 měsíců soud v řízení pokračuje.
+> (3) První setkání s mediátorem podle odstavce 2 nelze nařídit
+> a) po dobu vedení trestního řízení o trestném činu vraždy podle § 140 trestního zákoníku, těžkého ublížení na zdraví podle § 145 trestního zákoníku, ublížení na zdraví podle § 146 trestního zákoníku, vydírání podle § 175 trestního zákoníku, znásilnění podle § 185 trestního zákoníku, sexuálního útoku podle § 185a trestního zákoníku, sexuálního nátlaku podle § 186 trestního zákoníku, týrání osoby žijící ve společném obydlí podle § 199 trestního zákoníku, nebezpečného vyhrožování podle § 353 trestního zákoníku nebo nebezpečného pronásledování podle § 354 trestního zákoníku, z jehož spáchání je podezřelý jeden z účastníků řízení nebo je pro takový trestný čin stíhán, je-li poškozeným druhý účastník řízení nebo osoba jemu blízká,
+> b) po dobu vedení řízení o přestupku pro jednání některého z účastníků řízení, které naplňuje znaky domácího násilí109), je-li osobou přímo postiženou spácháním tohoto přestupku druhý účastník řízení nebo osoba jemu blízká, nebo
+> c) po dobu platnosti předběžného opatření ve věcech ochrany proti domácímu násilí.
+> (4) V řízení, jehož účastníkem je nezletilé dítě, které je schopno formulovat své názory, soud postupuje tak, aby byl zjištěn jeho názor ve věci. Názor nezletilého dítěte soud zjistí výslechem dítěte. Názor dítěte může soud ve výjimečných případech zjistit též prostřednictvím jeho zástupce, znaleckého posudku nebo příslušného orgánu sociálně-právní ochrany dětí. Výslech dítěte může soud provést i bez přítomnosti dalších osob, lze-li očekávat, že by jejich přítomnost mohla ovlivnit dítě tak, že by nevyjádřilo svůj skutečný názor; přítomnost důvěrníka dítěte, který není jeho zákonným zástupcem a o jehož účast u výslechu dítě požádá, může soud vyloučit jen tehdy, je-li jeho přítomností mařen účel výslechu. K názoru dítěte soud přihlíží s přihlédnutím k jeho věku a rozumové vyspělosti.
 
 **4. Subsumpce.** Rozhodnutí o péči se „dotýká zájmu dítěte" (§ 866–867). D je starší 12 let → uplatní se domněnka schopnosti vyjádřit názor (§ 867 odst. 2). Soud názor nezjistil → porušil povinnost; výrok je zatížen vadou, neboť nebyla zohledněna určující kritéria zájmu dítěte.
 
@@ -949,6 +962,19 @@ Zájem dítěte je určujícím kritériem; u dítěte staršího 12 let platí 
 - *Související ustanovení téhož zákona:* § 858 odst. 3 (jen soud), § 872 (styk), § 874 (výživné trvá), § 924–925 (zvláštní opatření).
 - *Související předpisy:* § 201, § 198 tr. zákoníku; zákon č. 359/1999 Sb.
 - *Judikatura:* NS 24 Cdo 2881/2022, 24 Cdo 1825/2023 (citováno zde) — kritéria pro zásah do rodičovské odpovědnosti; zbavení jako ultima ratio.
+
+> 📎 **Doslovné znění — § 198 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Týrání svěřené osoby**
+> (1) Kdo týrá osobu, která je v jeho péči nebo výchově, bude potrestán odnětím svobody na jeden rok až pět let.
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 zvlášť surovým nebo trýznivým způsobem,
+> b) způsobí-li takovým činem těžkou újmu na zdraví,
+> c) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+> d) spáchá-li takový čin nejméně na dvou osobách, nebo
+> e) páchá-li takový čin po delší dobu.
+> (3) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1
+> a) těžkou újmu na zdraví nejméně dvou osob, nebo
+> b) smrt.
 
 **4. Subsumpce.** Spáchání úmyslného TČ proti dítěti aktivuje zvláštní posouzení dle § 871 odst. 2. Soustavná agrese a ohrožování naplňují „zneužívání" či „závažné zanedbávání" (§ 871 odst. 1). Mírnější varianty (pozastavení dle § 869, omezení dle § 870) jsou v úvahu, jen pokud by postačovaly k ochraně dětí — zde patrně nikoli vzhledem k intenzitě.
 
@@ -1511,6 +1537,21 @@ Vůči nezpůsobilému dítěti postačí jednat s jedním rodičem, avšak je-l
 - *Související ustanovení téhož zákona:* § 857 odst. 2 (výchovná opatření), § 858 písm. a) a d), § 885 (spolupodíl ostatních členů domácnosti), § 867 (názor dítěte), čl. 7 odst. 2 LZPS (zákaz ponižujícího zacházení).
 - *Související předpisy:* Úmluva o právech dítěte (čl. 19 — ochrana před násilím; čl. 28–29 — vzdělání); § 198, § 201 tr. zákoníku.
 - *Judikatura:* NS 4 Tdo 1293/2018 (citováno u § 858) — týrání a ponižování dítěte je porušením § 858 a § 884.
+
+> 📎 **Doslovné znění — § 201 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Ohrožování výchovy dítěte**
+> (1) Kdo, byť i z nedbalosti, ohrozí rozumový, citový nebo mravní vývoj dítěte tím, že
+> a) svádí ho k zahálčivému nebo nemravnému životu,
+> b) umožní mu vést zahálčivý nebo nemravný život,
+> c) umožní mu opatřovat pro sebe nebo pro jiného prostředky trestnou činností nebo jiným zavrženíhodným způsobem, nebo
+> d) závažným způsobem poruší svou povinnost o ně pečovat nebo jinou svou důležitou povinnost vyplývající z rodičovské zodpovědnosti,
+> bude potrestán odnětím svobody až na dvě léta.
+> (2) Kdo umožní, byť i z nedbalosti, dítěti hru na výherním hracím přístroji, který je vybaven technickým zařízením, které ovlivňuje výsledek hry a které poskytuje možnost peněžité výhry, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 ze zavrženíhodné pohnutky,
+> b) pokračuje-li v páchání takového činu po delší dobu,
+> c) spáchá-li takový čin opětovně, nebo
+> d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
 
 **4. Subsumpce.** Fyzické tresty a soustavné ponižování překračují meze § 884 odst. 2 (zákaz tělesných trestů, duševního strádání, ponížení) a dotýkají se důstojnosti S. Při volbě školy je třeba zohlednit nadání a názor S (§ 880 odst. 2). Podíl S na chodu domácnosti je možný (§ 886), neboť má příjem, avšak jen v rozsahu odpovídajícím jeho poměrům a potřebám rodiny.
 
@@ -3002,6 +3043,10 @@ Výživné se plní v pravidelných měsíčních dávkách splatných dopředu;
 - *Související ustanovení téhož zákona:* § 925 (další opatření), § 971 (ústavní výchova — krajní řešení), § 858 (ochrana dítěte).
 - *Související předpisy:* § 452 a násl. ZŘS (předběžné opatření o péči o nezletilé); § 16 zákona č. 359/1999 Sb. (OSPOD a předběžné opatření).
 - *Judikatura:* zde KS v Ústí n. L. – Liberec 36 Co 153/2022 a 36 Co 145/2022 (předběžná opatření k ochraně dítěte).
+
+> 📎 **Doslovné znění — § 16 zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí:**
+> (1) Ocitne-li se dítě ve stavu nedostatku řádné péče anebo je-li život dítěte, jeho normální vývoj nebo jeho jiný důležitý zájem vážně ohrožen nebo narušen, je obecní úřad obce s rozšířenou působností povinen podat neprodleně návrh soudu na vydání předběžného opatření13).
+> (2) Jestliže je dítě přítomno nebo vystaveno domácímu násilí81), může obecní úřad obce s rozšířenou působností podat jménem dítěte soudu návrh na vydání předběžného opatření na uložení opatření k ochraně dítěte před domácím násilím70).
 
 **4. Subsumpce.** Stav D naplňuje znaky § 924 — nedostatek řádné péče a vážné ohrožení života i vývoje. Absence řádného zastoupení D nebrání rozhodnutí (§ 924 in fine). Předběžná úprava se nařizuje na nezbytně nutnou dobu, po niž se zajistí trvalejší řešení.
 

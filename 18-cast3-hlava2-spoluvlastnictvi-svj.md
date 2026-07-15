@@ -1369,6 +1369,13 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - *NS* [21 Cdo 2576/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9B34DBF98E78B002C125854B0018AAE0?openDocument) — *Vlastnictví Zástavní právo Vady řízení*
   > „2011, sp. zn. 28 Cdo 1132/2010, vztahující se sice k úpravě ustanovení § 132 odst. 1 zákona č.40/1964 Sb., občanského zákoníku, avšak s ohledem na ustanovení § 1114 o. z. jsou závěry aplikovatelné i nyní, ostatně pochybnosti nejsou ani v komentářové literatuře)."
 
+> 📎 **Doslovné znění — § 1 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon):**
+> **Katastr nemovitostí**
+> (1) Katastr nemovitostí (dále jen „katastr“) je veřejný seznam, který obsahuje soubor údajů o nemovitých věcech (dále jen „nemovitost“) vymezených tímto zákonem zahrnující jejich soupis, popis, jejich geometrické a polohové určení a zápis práv k těmto nemovitostem.
+> (2) Katastr je zdrojem informací, které slouží
+> a) k ochraně práv k nemovitostem, pro účely daní, poplatků a jiných obdobných peněžitých plnění, k ochraně životního prostředí, k ochraně nerostného bohatství, k ochraně zájmů státní památkové péče, pro rozvoj území, k oceňování nemovitostí, pro účely vědecké, hospodářské a statistické,
+> b) pro tvorbu dalších informačních systémů sloužících k účelům uvedeným v písmenu a).
+
 #### F. Kazuistika
 
 **1. Modelová situace.** V restituci je oprávněné osobě A1 rozhodnutím pozemkového úřadu vydán náhradní pozemek; rozhodnutí nabylo právní moci 15. 4. a neurčuje jiný den nabytí. A1 chce být zapsán jako vlastník do katastru a současně řešit, od kdy nese rizika a plody pozemku. Důkazy: rozhodnutí pozemkového úřadu s doložkou právní moci, geometrický plán, výpis z katastru.

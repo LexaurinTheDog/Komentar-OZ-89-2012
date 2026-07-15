@@ -1997,6 +1997,12 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 - *NS* [33 Cdo 5598/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A1E7B82743B26C80C12583700037821D?openDocument) — *Smlouva o obstarání prodeje věci Výklad projevu vůle*
 - *NS* [33 Cdo 1677/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B3D79FE72A6958EFC1258C92004D08CF?openDocument) — *Smlouva o dílo Spotřebitel Vady*
 
+> 📎 **Doslovné znění — § 198 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Popření nevykonatelné pohledávky insolvenčním správcem**
+> (1) Věřitelé nevykonatelné pohledávky, která byla popřena insolvenčním správcem, mohou uplatnit své právo žalobou na určení u insolvenčního soudu do 30 dnů od přezkumného jednání nebo od právní moci rozhodnutí o schválení zprávy o přezkumu podle § 410 odst. 3 písm. a); tato lhůta však neskončí dříve než uplynutím 15 dnů od doručení vyrozumění podle § 197 odst. 2 nebo § 410 odst. 2. Žalobu podávají vždy proti insolvenčnímu správci. Nedojde-li žaloba ve stanovené lhůtě insolvenčnímu soudu, k pohledávce popřené co do pravosti se nepřihlíží; pohledávka popřená co do výše nebo pořadí je v takovém případě zjištěna ve výši nebo pořadí uvedeném při jejím popření.
+> (2) V žalobě podle odstavce 1 může žalobce uplatnit jako důvod vzniku popřené pohledávky pouze skutečnosti, které jako důvod vzniku této pohledávky uplatnil nejpozději do skončení přezkumného jednání, a dále skutečnosti, o kterých se žalobce dozvěděl později proto, že mu kupující ze smlouvy o prodeji podniku nebo jeho části neoznámil včas převzetí dlužníkova závazku.
+> (3) Vyjde-li v průběhu řízení o žalobě podle odstavce 1 najevo, že popřená pohledávka je pohledávkou vykonatelnou, není to důvodem k zamítnutí žaloby, žalovaný je však v takovém případě povinen prokázat důvod popření podle § 199.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Fyzická osoba F si pořídí elektrokolo přes e-shop podnikatele P pro běžné dojíždění do práce. P před uzavřením smlouvy nesdělil F celkovou cenu včetně poplatku za dopravu ani podmínky odstoupení a smluvní text obsahuje nejednoznačné ujednání o ceně dopravy. Vznikne spor, zda F je spotřebitelem, zda se uplatní výklad v jeho prospěch a zda jsou poplatky vymahatelné. Důkazy: objednávka, předsmluvní sdělení P, znění smlouvy, doklad o účelu pořízení (mimo podnikání).
@@ -3653,6 +3659,21 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
   > „Závazek zanikl splněním (§ 1908 odst. 1 o. z.), neboť stranami smlouvy bylo vykonáno vše, k čemu se zavázaly, a rezervační smlouva tak pozbyla právních účinků (práva a povinnosti z ní zanikly)."
 - *NS* [29 ICdo 142/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6660122E9109D8BC1258B07004D371F?openDocument) — *Incidenční spory (žaloba odpůrčí) Úmysl Osoba blízká Jednání právnických osob Neplatnost…*
   > „§ 3028 odst. 1 o. z.); srov. tedy co do vzniku smlouvy o zápůjčce coby reálného kontraktu § 2390 o. z. a co do právního jednání, jímž dlužník zápůjčku splatil, § 1908 odst. 1 o. z. 81."
+
+> 📎 **Doslovné znění — § 241 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Neúčinnost zvýhodňujících právních úkonů**
+> (1) Zvýhodňujícím právním úkonem se rozumí právní úkon, v jehož důsledku se některému věřiteli dostane na úkor ostatních věřitelů vyššího uspokojení, než jaké by mu jinak náleželo v konkursu.
+> (2) Zvýhodňujícím právním úkonem se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že zvýhodňující právní úkon učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+> (3) Zvýhodňujícími právními úkony jsou zejména úkony, kterými dlužník
+> a) splnil dluh dříve, než se stal splatným,
+> b) dohodl změnu nebo nahrazení závazku ve svůj neprospěch,
+> c) prominul svému dlužníku splnění dluhu nebo jinak dohodl anebo umožnil zánik či nesplnění svého práva,
+> d) poskytl svůj majetek k zajištění již existujícího závazku, ledaže jde o vznik zajištění v důsledku změn vnitřního obsahu zastavené věci hromadné.
+> (4) Zvýhodňujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+> (5) Zvýhodňujícím právním úkonem není
+> a) zřízení zajištění závazku dlužníka, obdržel-li za ně dlužník současně přiměřenou protihodnotu,
+> b) právní úkon učiněný za podmínek obvyklých v obchodním styku, na základě kterého dlužník obdržel přiměřené protiplnění nebo jiný přiměřený majetkový prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka,
+> c) právní úkon, který dlužník učinil za trvání moratoria nebo po zahájení insolvenčního řízení za podmínek stanovených tímto zákonem.
 
 #### F. Kazuistika
 

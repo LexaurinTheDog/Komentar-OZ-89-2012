@@ -108,6 +108,17 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
   > „Dnem výmazu z obchodního rejstříku žalovaná 2) podle ustanovení § 185 zákona č. 89/2012 Sb., občanský zákoník (dále jen „o. z.“), zanikla, v důsledku čehož podle ustanovení § 118 o. z. pozbyla právní osobnost a vzhledem k ustanovení § 19 o. s. ř. ztratila způsobilost být účastníkem řízení."
 - *NS* [29 Cdo 2092/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19B98F27F4D2C6FCC1258900001DEEAF?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
 
+> 📎 **Doslovné znění — § 243f zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Pro rozhodnutí dovolacího soudu je rozhodující stav v době vydání napadeného rozhodnutí odvolacího soudu.
+> (2) O zastavení dovolacího řízení nebo o odmítnutí dovolání, které bylo podáno opožděně, které bylo podáno někým, kdo k dovolání není oprávněn, nebo které nebylo řádně doplněno nebo opraveno a v dovolacím řízení nelze pro tento nedostatek pokračovat, může rozhodnout předseda senátu dovolacího soudu nebo pověřený člen senátu.
+> (3) V odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno. Bylo-li dovolání odmítnuto nebo bylo-li dovolací řízení zastaveno, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno.
+> (4) Dovolací soud rozhoduje rozsudkem, jestliže zamítá dovolání proti rozsudku odvolacího soudu nebo jestliže mění či zrušuje rozsudek odvolacího soudu; jinak rozhoduje usnesením.
+> (5) Rozsudek se vyhlašuje ústně, proběhlo-li ve věci jednání a při vyhlášení je přítomen alespoň jeden účastník nebo osoba zúčastněná na řízení anebo veřejnost. Jsou-li při vyhlašování rozsudku přítomny pouze soudní osoby, rozsudek se vyhlásí vyvěšením zkráceného písemného vyhotovení bez odůvodnění na úřední desce v budově soudu a na elektronické úřední desce (dále jen „úřední deska soudu“) po dobu patnácti dnů. Předseda senátu může rozhodnout, že tímto způsobem se uveřejní i nosné důvody rozsudku.
+> (6) Předseda senátu může rozhodnout též o uveřejnění jiného rozhodnutí Nejvyššího soudu na úřední desce soudu způsobem uvedeným v odstavci 5.
+
+> 📎 **Doslovné znění — § 19 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Způsobilost být účastníkem řízení má ten, kdo má právní osobnost; jinak jen ten, komu ji zákon přiznává.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Spolek X, z. s., byl zapsán do spolkového rejstříku dne 1. 3. 2015 a vymazán bez právního nástupce dne 10. 1. 2024 poté, co skončila jeho likvidace. Dne 5. 2. 2024 podá bývalá zaměstnankyně proti spolku žalobu o nezaplacenou mzdu; v průběhu řízení vyjde najevo, že žalovaný subjekt už v rejstříku není. Účastníci: žalobkyně (věřitelka), žalovaný (zaniklý spolek). Důkazy: aktuální i historický výpis z rejstříku s datem výmazu, doklad o skončení likvidace.
@@ -119,6 +130,13 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 - *Související ustanovení téhož zákona:* § 185 (zánik zapsané PO dnem výmazu), § 186 (zánik nezapsané PO skončením likvidace), § 208—209 (obnovení PO při zjištění neznámého majetku), § 126 (vznik PO).
 - *Související předpisy:* § 19 a § 107 o. s. ř. (způsobilost být účastníkem, zastavení řízení); zákon č. 304/2013 Sb. (z. v. r.).
 - *Judikatura:* NS 32 Cdo 5717/2017 — dnem výmazu PO pozbývá právní osobnost a tím i způsobilost být účastníkem řízení; NS 23 Cdo 873/2020 a řada usnesení (29 ICdo 52/2022, 29 ICdo 138/2019) — řízení proti zaniklé PO bez nástupce se zastaví podle § 107 o. s. ř.
+
+> 📎 **Doslovné znění — § 107 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením.
+> (2) Ztratí-li způsobilost být účastníkem řízení fyzická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, ti, kteří vstoupili do práva nebo povinnosti, o něž v řízení jde.
+> (3) Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde.
+> (4) Ten, kdo nastupuje do řízení na místo dosavadního účastníka řízení, musí přijmout stav řízení, jaký tu je v době jeho nástupu do řízení.
+> (5) Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví.
 
 **4. Subsumpce.** Znak „od vzniku do zániku" — spolek vznikl 1. 3. 2015 a zanikl výmazem 10. 1. 2024. Žaloba podaná 5. 2. 2024 směřuje proti subjektu, který už právní osobnost nemá. Podmínka existence účastníka tedy splněna není; není zde ani právní nástupce (likvidace, nikoli sukcese).
 
@@ -180,6 +198,19 @@ Právní osobnost PO trvá přesně od vzniku (§ 126) do zániku (§ 185/§ 186
 - *Související ustanovení téhož zákona:* § 159 (péče řádného hospodáře — i ve vztahu k evidenci majetku), § 146 (veřejná prospěšnost — průhlednost hospodaření).
 - *Související předpisy:* zákon č. 563/1991 Sb., o účetnictví (kdy vzniká povinnost účetnictví); § 17a zákona č. 586/1992 Sb., o daních z příjmů (veřejně prospěšný poplatník).
 - *Judikatura:* k rozsahu evidenční povinnosti malých spolků se ustálená judikatura NS přímo nevyjadřuje; rozhodující je výklad pojmu „spolehlivé záznamy" jako záznamů umožňujících kdykoli zjistit majetkový stav a hospodaření.
+
+> 📎 **Doslovné znění — § 17a zákona č. 586/1992 Sb., České národní rady o daních z příjmů:**
+> **Veřejně prospěšný poplatník**
+> (1) Veřejně prospěšným poplatníkem je poplatník, který v souladu se svým zakladatelským právním jednáním, statutem, stanovami, zákonem nebo rozhodnutím orgánu veřejné moci jako svou hlavní činnost vykonává činnost, která není podnikáním.
+> (2) Veřejně prospěšným poplatníkem není
+> a) obchodní korporace,
+> b) Česká televize, Český rozhlas a Česká tisková kancelář,
+> c) profesní komora nebo poplatník založený za účelem ochrany a hájení podnikatelských zájmů svých členů, u nichž nejsou členské příspěvky osvobozeny od daně, s výjimkou organizace zaměstnavatelů,
+> d) zdravotní pojišťovna,
+> e) společenství vlastníků jednotek a
+> f) rodinná fundace, kterou se pro účely tohoto zákona rozumí nadace nebo nadační fond,
+> 1. které podle svého zakladatelského jednání slouží k podpoře zakladatele nebo osob blízkých zakladateli, nebo
+> 2. jejichž činnost směřuje k podpoře zakladatele nebo osob blízkých zakladateli.
 
 **4. Subsumpce.** Znak „spolehlivé záznamy" — postačí prostá, ale úplná evidence (pokladní deník + výpisy + zápisy schůzí), z níž lze kdykoli rekonstruovat stav majetku a závazků. Znak „i když nejsou povinny vést účetnictví" — spolek bez ekonomické činnosti účetnictví podle zákona o účetnictví vést nemusel; § 119 mu však ukládá subsidiární minimální evidenci.
 
@@ -335,6 +366,11 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
   > „Ke stěžovatelově argumentaci ustanovením § 121 odst. 3 o. z. obvodní soud zdůraznil, že odkaz na uvedené ustanovení občanského zákoníku (soud omylem uvádí § 121 odst. 2 o. z.) nemá oporu v příslušných exekučních předpisech, jež v ustanovení § 87 exekučního řádu a v § 5 odst. 1 vyhlášky č."
 - *NS* [27 Cdo 1739/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BCF577A1F7F2CB68C125877F001E4386?openDocument) — *Veřejný rejstřík (zápis & výmaz) (o. z.) Neplatnost právního jednání (o. z.) Spolek (o.…*
   > „K tomu srovnej § 121 zákona č. 89/2012 Sb., občanského zákoníku (dále jen „o. z.“), a zejména úpravu § 8 až § 10 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů (dále jen „z. v. r.“)."
+
+> 📎 **Doslovné znění — § 10 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů:**
+> **Účinky zveřejnění zápisu nebo usnesení o zamítnutí zápisu člena orgánu právnické osoby**
+> (1) Od okamžiku zveřejnění zápisu osoby, která je členem orgánu právnické osoby, se nikdo nemůže vůči třetím osobám dovolávat porušení právních předpisů nebo zakladatelského právního jednání při její volbě nebo jmenování, ledaže zapsaná osoba prokáže, že třetí osoba o tomto porušení věděla. Tím není dotčeno právo dovolávat se neplatnosti volby nebo jmenování postupem podle jiného zákona.
+> (2) Jestliže rejstříkový soud zamítne návrh na zápis osoby, která je členem orgánu právnické osoby, hledí se na její povolání do funkce, jako by se nestalo; tím nejsou dotčena práva třetích osob nabytá v dobré víře. Zamítavé rozhodnutí rejstříkový soud po nabytí právní moci zveřejní.
 
 #### F. Kazuistika
 
@@ -925,6 +961,9 @@ Vznik zapsané PO je nezvratný (§ 128); vadně ustavenou PO lze napadnout jen 
 - *NS* [23 Cdo 1808/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CEC28839FD65C91C1258B02004D3119?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
 - *NS* [23 Cdo 2494/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F826D7073EC26848C1258A5100160246?openDocument) — *Přípustnost dovolání Ochrana dobré pověsti právnické osoby*
 
+> 📎 **Doslovné znění — § 132 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Důkazy hodnotí soud podle své úvahy, a to každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom pečlivě přihlíží ke všemu, co vyšlo za řízení najevo, včetně toho, co uvedli účastníci.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zavedená nezisková organizace „Pomoc dětem, z. ú." zjistí, že nově vznikl spolek s názvem „Pomoc dětem ČR, z. s.", který v médiích vystupuje podobně a sbírá dary; veřejnost si oba subjekty plete. Mladší spolek nikdy nepožádal o souhlas s užitím příznačného prvku názvu. Účastníci: starší ústav (dotčená PO), mladší spolek (rušitel). Důkazy: výpisy z rejstříků, propagační materiály, doklady o záměně (dotazy dárců, vrácené platby).
@@ -1317,6 +1356,12 @@ Povahu PO (veřejný vs. soukromý zájem) určuje její hlavní, fakticky vykon
 
 § 145 zakotvuje **klasické zákazy** plynoucí z ústavního pořádku (čl. 20 LZPS — sdružovací právo, ale s omezeními).
 
+> 📎 **Doslovné znění — čl. 20 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Právo svobodně se sdružovat je zaručeno. Každý má právo spolu s jinými se sdružovat ve spolcích, společnostech a jiných sdruženích.
+> (2) Občané mají právo zakládat též politické strany a politická hnutí a sdružovat se v nich.
+> (3) Výkon těchto práv lze omezit jen v případech stanovených zákonem, jestliže to je v demokratické společnosti nezbytné pro bezpečnost státu, ochranu veřejné bezpečnosti a veřejného pořádku, předcházení trestným činům nebo pro ochranu práv a svobod druhých.
+> (4) Politické strany a politická hnutí, jakož i jiná sdružení jsou odděleny od státu.
+
 **Odst. 1 — zákazy podle účelu:**
 - (a) **Diskriminační PO** — proti pravidlům antidiskriminačního zákona (198/2009 Sb.);
 - (b) **Hate speech organizace** — proti čl. 17 odst. 4 LZPS (svoboda projevu má své meze);
@@ -1549,7 +1594,12 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **3letá karenční doba**: pokud uplynuly 3 roky od skončení insolvenčního řízení, povinnost oznámení odpadá.
 
-**Praktický význam**: chrání PO před skrytým úpadcem ve vedení (riziko zneužití funkce, anti-fraud klauzule). Vazba na § 73 ZOK (zákaz výkonu funkce u úpadce po dobu 3 let — disqualifikace).
+**Praktický význam**: chrání PO před skrytým úpadcem ve vedení (riziko zneužití funkce, anti-fraud klauzule). Vazba na § 63 a násl. ZOK (vyloučení člena statutárního orgánu z výkonu funkce — diskvalifikace až na 3 roky).
+
+> 📎 **Doslovné znění — § 63 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Soud může i bez návrhu rozhodnout, že člen statutárního orgánu obchodní korporace, který v posledních 3 letech před zahájením řízení opakovaně nebo závažně porušil své povinnosti při výkonu funkce, nesmí až po dobu 3 let od právní moci rozhodnutí o vyloučení vykonávat funkci člena statutárního orgánu jakékoli obchodní korporace (dále jen „vyloučení člena statutárního orgánu“).
+> (2) Soud rozhodne i bez návrhu o vyloučení člena statutárního orgánu, jestliže byla tomuto členovi statutárního orgánu uložena povinnost podle § 66 odst. 1.
+> (3) Návrh na vydání rozhodnutí o vyloučení člena statutárního orgánu může podat každý, kdo na něm má důležitý zájem.
 
 **Důvodová zpráva (sněmovní tisk 362, k § 153 až 162 návrhu — dnešní § 153—162):**
 
@@ -1648,7 +1698,7 @@ Osoba, jejíž úpadek byl osvědčen, se může stát (a setrvat) členem volen
 - [ ] Před volbou zjistit, zda u kandidáta nebyl osvědčen úpadek (a kdy skončila insolvence).
 - [ ] Vyžádat si předchozí oznámení dle § 153 odst. 1; doložit je do dokumentace.
 - [ ] Při úpadku vzniklém za funkce zajistit oznámení bez zbytečného odkladu (odst. 2).
-- [ ] Ověřit překážky a diskvalifikaci dle § 63 a § 73 ZOK.
+- [ ] Ověřit překážky a diskvalifikaci dle § 63 a násl. ZOK.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a o skončení insolvenčního řízení, zápis z volby, písemné oznámení úpadce, evidence rozhodnutí povolávajícího orgánu.
 
@@ -1826,7 +1876,7 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 **Praktický dopad:**
 - Vede k osobní odpovědnosti za vedení korporace;
 - Motivuje členy orgánů k zajištění **D&O pojištění** (Directors and Officers liability insurance);
-- Paralela s § 68 ZOK — speciální úprava ručení statutárního orgánu obchodní korporace po prohlášení úpadku.
+- Paralela s § 66 odst. 1 písm. b) ZOK (do 31. 12. 2020 § 68 ZOK) — speciální úprava povinnosti člena statutárního orgánu doplnit majetkovou podstatu obchodní korporace při úpadku.
 
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
 
@@ -1876,7 +1926,7 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 - [ ] Posoudit, zda člen orgánu jednal informovaně a v zájmu PO (pravidlo podnikatelského úsudku).
 - [ ] Doložit porušení povinnosti, vznik a výši škody a její nenahrazení.
 - [ ] Před žalobou na ručitele prokázat nemožnost domoci se plnění na PO (subsidiarita).
-- [ ] Zvážit souběh s § 68 ZOK (ručení po úpadku) a pojištění odpovědnosti.
+- [ ] Zvážit souběh s § 66 odst. 1 písm. b) ZOK (do 31. 12. 2020 § 68 ZOK) a pojištění odpovědnosti.
 
 **Typicky rozhodné důkazy / podklady:** podklady k rozhodnutí člena orgánu, znalecké vyčíslení škody, doklady o (ne)úspěšném vymáhání na PO, smlouva o pojištění odpovědnosti.
 
@@ -1985,6 +2035,9 @@ Funkce člena voleného orgánu, který odstoupil prohlášením došlým PO, za
 **4. Subsumpce.** Znak „člen orgánu zastupuje způsobem zapsaným ve VR" — jednatel byl zapsán jako oprávněný jednat samostatně. Znak „nelze namítat absenci/vadu usnesení ani jeho porušení" — chybějící souhlas valné hromady je vnitřní záležitost; navenek jednatel jednal v zapsaném rozsahu. Vnitřní omezení (§ 166 odst. 2) je vůči dodavateli neúčinné, neboť o něm nevěděl a vědět nemusel.
 
 **5. Řešení.** S. r. o. je smlouvou vázána (§ 162; § 47 ZOK). Námitka, že valná hromada smlouvu neschválila, vůči dodavateli neobstojí. Vnitřní důsledek nese společnost interně — může uplatnit náhradu škody vůči jednateli za porušení vnitřního omezení (§ 159). Praktický krok dodavatele: doložit zapsaný způsob jednání a podpis dle § 161. Riziko: kdyby dodavatel o nutnosti souhlasu prokazatelně věděl, mohlo by být vnitřní omezení vůči němu účinné (§ 166 odst. 2).
+
+> 📎 **Doslovné znění — § 47 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> Omezení jednatelského oprávnění orgánu obchodní korporace společenskou smlouvou nebo jiným ujednáním nebo rozhodnutím orgánu obchodní korporace nejsou vůči třetím osobám účinná, i když byla zveřejněna.
 
 **6. Varianty.** (a) Kdyby jednatel byl zapsán s tím, že jedná pouze společně s druhým jednatelem, a podepsal sám, nešlo by o jednání v zapsaném rozsahu a ochrana dle § 162 by se neuplatnila. (b) Kdyby dodavatel o vnitřním omezení věděl (např. byl na ně upozorněn), bylo by vůči němu účinné a smlouva by PO bez souhlasu nevázala.
 
@@ -2099,6 +2152,22 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 - *NS* [28 Cdo 2485/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFE73F60AFB33231C1258C0D0052AEC1?openDocument) — *Omyl Zastoupení Právnická osoba Neplatnost právních jednání (o. z.) [ Právní jednání (o.…*
 - *NS* [33 Cdo 3817/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ACB1C8C86C61224C1258B61004D1921?openDocument) — *Zastoupení Jednání za právnickou osobu (o. z.) Statutární orgán*
 - *NS* [27 Cdo 3790/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/690F5A8180278830C1258AE70052A49A?openDocument) — *Opatrovník (opatrovnictví) právnické osoby (o. z.) Opatrovník hmotně právní [ Opatrovník…*
+
+> 📎 **Doslovné znění — § 25 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů:**
+> (1) Do veřejného rejstříku se zapíše
+> a) jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zapsané osoby,
+> b) předmět činnosti nebo podnikání nebo vymezení účelu osoby, vyžaduje-li to jiný zákon,
+> c) právní forma právnické osoby,
+> d) den vzniku a zániku právnické osoby,
+> e) u fyzické osoby, bez ohledu na důvod zápisu, datum narození, rodné číslo, bylo-li jí přiděleno, a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu,
+> f) identifikační číslo osoby, které zapsané osobě přidělí rejstříkový soud; identifikační číslo osoby poskytne rejstříkovému soudu správce základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci2),
+> g) název statutárního orgánu, neplyne-li ze zákona, počet členů statutárního orgánu, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která je členem statutárního orgánu, s uvedením způsobu, jak za právnickou osobu jedná, a den vzniku a zániku její funkce; je-li členem statutárního orgánu právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje,
+> h) má-li být zřízen kontrolní orgán, jeho název, neplyne-li ze zákona, počet členů kontrolního orgánu, jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, nebo sídlo osoby, která je členem kontrolního orgánu, a den vzniku a zániku její funkce; je-li členem kontrolního orgánu právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje,
+> i) jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, prokuristy, jakož i způsob, jakým jedná, včetně uvedení údaje o tom, že se prokura vztahuje jen na určitou pobočku nebo na určitý závod, jejich identifikace a údaj o tom, zda je prokurista oprávněn zcizit nebo zatížit nemovitou věc,
+> j) další skutečnost, o které to stanoví tento nebo jiný zákon, nebo jiná důležitá skutečnost, o jejíž zápis požádá zapsaná osoba, má-li na takovém zápisu právní zájem,
+> k) den, k němuž byl zápis proveden, a
+> l) okamžik, k němuž byl zápis zpřístupněn.
+> (2) Navrhne-li to zapsaná osoba společně s návrhem na zápis a je-li to ve veřejném zájmu, může rejstříkový soud rozhodnout, že se údaje zapsané do veřejného rejstříku o členech orgánů a o sídle zapsané osoby znepřístupní veřejnosti; to neplatí pro obchodní společnosti a družstva podle zákona upravujícího právní poměry obchodních společností a družstev (dále jen „obchodní korporace“). Rozhodne-li rejstříkový soud podle věty první, může opis zápisu podle § 3 až 5 obdržet pouze zapsaná osoba nebo ten, kdo na tom má právní zájem, a § 2 odst. 2 se nepoužije. Údaje o členech orgánu odborové organizace se zpřístupní veřejnosti jen na základě písemné žádosti odborové organizace.
 
 #### F. Kazuistika
 
@@ -2420,6 +2489,14 @@ Klíčové instituty:
   > „Po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva zaniklé právnické osoby na odpověď podle § 10 odst. 1 zákona č. 46/2000 Sb., tiskového zákona, které vzniklo jeho právnímu předchůdci."
 - *NS* [27 Cdo 4129/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/57FA226957D7402CC1258631001DE894?openDocument) — *Státní podnik Přeměna právnické osoby (o. z.) Ručení Analogie legis Ochrana věřitelů prá…*
   > „2016 (dále též jen „zákon o státním podniku“), ve spojení s § 174 až 184 zákona č. 89/2012 Sb., občanského zákoníku (dále též jen „o. z.“)."
+
+> 📎 **Doslovné znění — § 10 zákona č. 46/2000 Sb., o právech a povinnostech při vydávání periodického tisku a o změně některých dalších zákonů (tiskový zákon):**
+> **Odpověď**
+> (1) Jestliže bylo v periodickém tisku uveřejněno sdělení obsahující skutkové tvrzení, které se dotýká cti, důstojnosti nebo soukromí určité fyzické osoby, anebo jména nebo dobré pověsti určité právnické osoby, má tato osoba právo požadovat na vydavateli uveřejnění odpovědi. Vydavatel je povinen na žádost této osoby odpověď uveřejnit.
+> (2) Odpověď se musí omezit pouze na skutkové tvrzení, kterým se tvrzení podle odstavce 1 uvádí na pravou míru nebo neúplné či jinak pravdu zkreslující tvrzení se doplňuje nebo zpřesňuje. Odpověď musí být přiměřená rozsahu napadeného sdělení, a je-li napadána jen jeho část, pak této části; z odpovědi musí být patrno, kdo ji činí.
+> (3) Osoba, na jejíž žádost byla vydavatelem uveřejněna odpověď podle tohoto zákona, nemůže požadovat uveřejnění další odpovědi na tuto odpověď.
+> (4) Po smrti fyzické osoby přísluší právo podle odstavce 1 jejímu manželu a dětem, a není-li jich, jejím rodičům.
+> (5) Ustanovení zvláštního právního předpisu4) o ochraně osobnosti a o ochraně jména a dobré pověsti právnické osoby zůstávají úpravou podle odstavců 1 až 4 nedotčena.
 
 #### F. Kazuistika
 

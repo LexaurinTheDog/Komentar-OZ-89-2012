@@ -132,6 +132,11 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - *NS* [28 Cdo 3281/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/561A2B10701D4D6AC1258DB10052C21E?openDocument) — *Bezdůvodné obohacení*
   > „§ 2991 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, dále jen – „o. z.“) je i stav, kdy je cizí pozemek užíván subjektem odlišným od jeho vlastníka bez nájemní smlouvy či jiného obdobného titulu."
 
+> 📎 **Doslovné znění — § 107a zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Má-li žalobce za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, může dříve, než soud o věci rozhodne, navrhnout, aby nabyvatel práva nebo povinnosti, popřípadě ten, kdo převzal výkon vlastnického práva k majetku, o nějž v řízení jde, vstoupil do řízení na místo dosavadního účastníka; to neplatí v případech uvedených v § 107.
+> (2) Soud návrhu usnesením vyhoví, jestliže se prokáže, že po zahájení řízení nastala právní skutečnost uvedená v odstavci 1, a jestliže s tím souhlasí ten, kdo má vstoupit na místo žalobce; souhlas žalovaného nebo toho, kdo má vstoupit na jeho místo, se nevyžaduje. Právní účinky spojené s podáním žaloby zůstávají zachovány.
+> (3) Ustanovení § 107 odst. 4 platí obdobně.
+
 ### Čtyři klasické typy obohacení (§ 2991 odst. 2)
 
 #### 1) Plnění bez právního důvodu (*condictio indebiti*)

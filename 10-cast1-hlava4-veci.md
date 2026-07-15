@@ -427,6 +427,11 @@ Plody jsou přirozené výnosy (ovoce, mléko, úroda), užitky jsou právní v�
 
 **Lidské tělo NENÍ věc** — ani po oddělení částí. Tato kogentní zásada chrání **lidskou důstojnost** (čl. 10 LZPS) a brání komercializaci lidského těla.
 
+> 📎 **Doslovné znění — čl. 10 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý má právo, aby byla zachována jeho lidská důstojnost, osobní čest, dobrá pověst a chráněno jeho jméno.
+> (2) Každý má právo na ochranu před neoprávněným zasahováním do soukromého a rodinného života.
+> (3) Každý má právo na ochranu před neoprávněným shromažďováním, zveřejňováním nebo jiným zneužíváním údajů o své osobě.
+
 **Důsledky:**
 - Krev, sperma, vajíčka, orgány **nejsou věc** ve smyslu OZ — řídí se speciálními zákony (zákon č. 285/2002 Sb. o transplantacích, zákon č. 296/2008 Sb. o tkáních, zákon č. 373/2011 Sb. o specifických zdravotních službách);
 - **Nelze prodat** orgány (komercializace zakázána);
@@ -628,6 +633,29 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
 - *NS* [22 Cdo 1722/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D17BDD0BFCD40D08C12584F3001E3B8F?openDocument) — *Přípustnost dovolání Živé zvíře (o. z.)*
   > „Podle § 494 o. z. má živé zvíře zvláštní význam a hodnotu již jako smysly nadaný živý tvor."
 
+> 📎 **Doslovné znění — § 134 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Věc**
+> Věcí se rozumí i ovladatelná přírodní síla. Ustanovení o věcech se vztahují i na živá zvířata a zpracované oddělené části lidského těla, nevyplývá-li z jednotlivých ustanovení trestního zákona něco jiného.
+
+> 📎 **Doslovné znění — § 228 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Poškození cizí věci**
+> (1) Kdo zničí, poškodí nebo učiní neupotřebitelnou cizí věc, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+> (2) Stejně bude potrestán, kdo poškodí cizí věc tím, že ji postříká, pomaluje či popíše barvou nebo jinou látkou.
+> (3) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 na věci svědka, znalce nebo tlumočníka pro výkon jejich povinnosti,
+> b) spáchá-li takový čin na věci jiného pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+> c) spáchá-li takový čin na věci, která požívá ochrany podle jiného právního předpisu, nebo
+> d) způsobí-li takovým činem značnou škodu.
+> (4) Odnětím svobody na dvě léta až šest let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo 2 škodu velkého rozsahu.
+
+> 📎 **Doslovné znění — § 18 zákona č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství):**
+> (1) Odpovědnost za škodu způsobenou rybářskou stráží v souvislosti s výkonem její činnosti podle tohoto zákona a náhradu škody upravuje zvláštní zákon.17)
+> (2) Náhrada škody se neposkytne, jde-li o škodu způsobenou osobě, která svým protiprávním jednáním oprávněný a přiměřený zákrok rybářské stráže vyvolala, pokud rybářská stráž při takovém zákroku nepřekročila svá oprávnění.
+> (3) Utrpí-li rybářská stráž v souvislosti s výkonem činnosti podle tohoto zákona škodu na zdraví, náleží jí náhrada škody podle předpisů o odškodňování pracovních úrazů.18)
+> (4) Utrpí-li rybářská stráž v souvislosti s výkonem činnosti podle tohoto zákona škodu na věcech, náleží jí náhrada škody. Náhrada škody se poskytne podle zvláštního právního předpisu.19)
+> (5) Náhradu škody, kterou způsobila nebo utrpěla rybářská stráž v souvislosti s výkonem činnosti podle tohoto zákona, poskytne příslušný obecní úřad obce s rozšířenou působností, který ustanovil rybářskou stráž, s jejímž výkonem činnosti podle tohoto zákona vznik škody souvisí.
+> (6) Ustanovení o odpovědnosti za škodu se vztahují také na osobu, která škodu způsobila, nebo utrpěla v souvislosti s pomocí poskytnutou rybářské stráži při výkonu činnosti podle tohoto zákona nebo na její žádost anebo s jejím vědomím. Náhrada škody se poskytuje podle zvláštních právních předpisů.18),19) Náhradu škody poskytuje příslušný obecní úřad obce s rozšířenou působností, který rybářskou stráž ustanovil.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Soused úmyslně nakrmil cizího psa otráveným masem. Pes přežil díky nákladné veterinární operaci, jejíž cena (60 000 Kč) výrazně převýšila „obvyklou cenu" psa téhož plemene (8 000 Kč). Majitel požaduje náhradu plných nákladů léčby. Účastníci: majitel psa (poškozený), soused (škůdce), veterinář. Důkazy: veterinární zpráva a vyúčtování léčby, doklad o vlastnictví psa, znalecké vyjádření k obvyklé ceně, důkaz o jednání souseda.
@@ -741,6 +769,12 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
   > „Domáhala-li se žalobkyně proti 2. žalovanému rovněž náhrady nemajetkové újmy v penězích, odvolací soud dovodil, že jde-li o finanční částku (zastupitelné plnění), která může být součástí pozůstalosti ve smyslu § 1475 odst. 2 zákona č. 89/2012 Sb., občanského zákoníku, (dále též jen „o. z.“), neboť jde o jmění podle § 495 o."
 - *NS* [3 Tdo 826/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B011C23F061A5798C12585E20018880A?openDocument) — *Jiná majetková hodnota Majetek Podvod*
   > „Jměním osoby se rozumí souhrn jejího majetku a jejích dluhů (§ 495 NOZ), tedy celý komplex majetkových vztahů, a tedy je škodou i vznik dluhu, což dosavadní judikatura popírala [srov."
+
+> 📎 **Doslovné znění — § 237 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+
+> 📎 **Doslovné znění — § 238a zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Dovolání je dále přípustné proti usnesení odvolacího soudu, kterým bylo v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o vstupu do řízení na místo dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
 
 #### F. Kazuistika
 
@@ -1384,6 +1418,18 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - **Práva duševního vlastnictví** (značky, patenty);
 - **Smlouvy** s dodavateli/odběrateli.
 
+> 📎 **Doslovné znění — § 338 zákona č. 262/2006 Sb., zákoník práce:**
+> (1) K přechodu práv a povinností z pracovněprávních vztahů může dojít jen v případech stanovených tímto nebo jiným zákonem.
+> (2) Dochází-li k převodu činnosti zaměstnavatele nebo její části (dále jen „činnost zaměstnavatele“), přecházejí práva a povinnosti z pracovněprávních vztahů v plném rozsahu na přejímajícího zaměstnavatele; práva a povinnosti z kolektivní smlouvy přecházejí na přejímajícího zaměstnavatele na dobu účinnosti kolektivní smlouvy, nejdéle však do konce následujícího kalendářního roku.
+> (3) Nejde-li o převod činnosti zaměstnavatele podle jiného zákona117), přecházejí práva a povinnosti z pracovněprávních vztahů na přejímajícího zaměstnavatele při převodu činnosti zaměstnavatele pouze v případě, že
+> a) činnost je po převodu vykonávána stejným nebo obdobným způsobem a rozsahem,
+> b) činnost nespočívá zcela nebo převážně v dodávání zboží,
+> c) bezprostředně před převodem existuje skupina zaměstnanců, která byla záměrně vytvořena zaměstnavatelem za účelem výhradního nebo převážného vykonávání činnosti,
+> d) činnost není zamýšlená jako krátkodobá nebo nemá spočívat v jednorázovém úkolu a
+> e) je převáděn majetek, popřípadě právo jeho užívání nebo požívání, je-li tento majetek s ohledem na charakter činnosti pro její výkon zásadní, nebo je převzata podstatná část zaměstnanců, které dosavadní zaměstnavatel používal při výkonu činnosti, závisí-li tato činnost v podstatné míře pouze na zaměstnancích, nikoliv na majetku.
+> (4) Za přejímajícího zaměstnavatele se bez ohledu na právní důvod převodu a na to, zda dochází k převodu vlastnických práv, považuje právnická nebo fyzická osoba, která je způsobilá jako zaměstnavatel pokračovat v plnění činností dosavadního zaměstnavatele nebo v činnosti obdobného druhu.
+> (5) Práva a povinnosti dosavadního zaměstnavatele vůči zaměstnancům, jejichž pracovněprávní vztahy přede dnem nabytí účinnosti přechodu práv a povinností z pracovněprávních vztahů zanikly, zůstávají nedotčeny, pokud jiný zákon nestanoví jinak21a).
+
 **Praktický význam — koupě závodu** (§ 2175 a násl.):
 - Lze prodat **celý závod jednou smlouvou** — efektivnější než převody jednotlivých složek;
 - **Univerzální sukcese** ohledně pohledávek, dluhů a smluv (s ochranou věřitelů — § 2177);
@@ -1412,6 +1458,21 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
   > „§ 502 (o. z.) Obchodní závod Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
 - *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
   > „Pro další úvahy Nejvyššího soudu k této otázce jsou rozhodná následující ustanovení zákona č. 89/2012 Sb., občanského zákoníku: § 502 Obchodní závod Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti."
+
+> 📎 **Doslovné znění — § 241 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Neúčinnost zvýhodňujících právních úkonů**
+> (1) Zvýhodňujícím právním úkonem se rozumí právní úkon, v jehož důsledku se některému věřiteli dostane na úkor ostatních věřitelů vyššího uspokojení, než jaké by mu jinak náleželo v konkursu.
+> (2) Zvýhodňujícím právním úkonem se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že zvýhodňující právní úkon učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+> (3) Zvýhodňujícími právními úkony jsou zejména úkony, kterými dlužník
+> a) splnil dluh dříve, než se stal splatným,
+> b) dohodl změnu nebo nahrazení závazku ve svůj neprospěch,
+> c) prominul svému dlužníku splnění dluhu nebo jinak dohodl anebo umožnil zánik či nesplnění svého práva,
+> d) poskytl svůj majetek k zajištění již existujícího závazku, ledaže jde o vznik zajištění v důsledku změn vnitřního obsahu zastavené věci hromadné.
+> (4) Zvýhodňujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+> (5) Zvýhodňujícím právním úkonem není
+> a) zřízení zajištění závazku dlužníka, obdržel-li za ně dlužník současně přiměřenou protihodnotu,
+> b) právní úkon učiněný za podmínek obvyklých v obchodním styku, na základě kterého dlužník obdržel přiměřené protiplnění nebo jiný přiměřený majetkový prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka,
+> c) právní úkon, který dlužník učinil za trvání moratoria nebo po zahájení insolvenčního řízení za podmínek stanovených tímto zákonem.
 
 #### F. Kazuistika
 
@@ -1608,6 +1669,34 @@ Pobočka je hospodářsky a funkčně samostatná část závodu; její zápis d
 - *Související ustanovení téhož zákona:* § 2976 (generální klauzule nekalé soutěže), § 2985 (porušení obchodního tajemství jako zvláštní skutková podstata), § 2988 (zdržovací a odstraňovací nárok, náhrada škody, bezdůvodné obohacení, přiměřené zadostiučinění).
 - *Související předpisy:* zákon č. 221/2006 Sb. (vymáhání práv z průmyslového vlastnictví); § 248 tr. zákoníku (porušení předpisů o pravidlech hospodářské soutěže).
 - *Judikatura:* NS 23 Cdo 2736/2024 (skutečnosti splňující znaky § 504 zakládají speciální skutkovou podstatu porušení obchodního tajemství dle § 2985); NS 23 Cdo 3596/2020 (vztah § 504 a § 2985 a rozsah uložitelných povinností); NS 5 Tdo 1130/2018 (neoprávněné využití obchodního tajemství souvisejícího se závodem — trestní rovina); ÚS II. ÚS 2984/14 (ekonomické informace jako obchodní tajemství dle § 504).
+
+> 📎 **Doslovné znění — § 248 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Porušení předpisů o pravidlech hospodářské soutěže**
+> (1) Kdo poruší jiný právní předpis o nekalé soutěži tím, že se při účasti v hospodářské soutěži dopustí
+> a) klamavé reklamy,
+> b) klamavého označování zboží a služeb,
+> c) vyvolávání nebezpečí záměny,
+> d) parazitování na pověsti podniku, výrobků či služeb jiného soutěžitele,
+> e) podplácení,
+> f) zlehčování,
+> g) srovnávací reklamy,
+> h) porušování obchodního tajemství, nebo
+> i) ohrožování zdraví spotřebitelů a životního prostředí,
+> a způsobí tím ve větším rozsahu újmu jiným soutěžitelům nebo spotřebitelům nebo opatří tím sobě nebo jinému ve větším rozsahu neoprávněné výhody, bude potrestán odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci.
+> (2) Stejně bude potrestán,
+> kdo v rozporu s jiným právním předpisem na ochranu hospodářské soutěže se svým konkurentem uzavře dohodu o určení ceny, dohodu o rozdělení trhu nebo jinou dohodu narušující hospodářskou soutěž,
+> kdo v rozporu s jiným právním předpisem o veřejných zakázkách poruší závažným způsobem závazná pravidla zadávacího řízení, nebo
+> kdo v rozporu s jiným právním předpisem upravujícím činnost osob oprávněných k podnikání na finančním trhu, činnost bank a jiných právnických osob oprávněných k provozování finanční činnosti, obchodování s investičními nástroji, penzijního připojištění a pojišťovnictví, obhospodařování a administraci investičních fondů nebo zahraničních investičních fondů, poruší závažným způsobem závazná pravidla obezřetného podnikání, obhospodařování majetku, odborné péče nebo zákaz vykonávat zákonem nebo úředním rozhodnutím určené úkony, služby nebo jiné činnosti,
+> a způsobí tím ve větším rozsahu újmu jiným soutěžitelům nebo spotřebitelům, zadavateli nebo jinému dodavateli nebo opatří tím sobě nebo jinému ve větším rozsahu neoprávněné výhody.
+> (3) Odnětím svobody na šest měsíců až pět let nebo propadnutím věci bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny,
+> b) spáchá-li takový čin opětovně,
+> c) způsobí-li takovým činem značnou škodu, nebo
+> d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+> a) způsobí-li činem uvedeným v odstavci 1 nebo 2 škodu velkého rozsahu,
+> b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+> c) způsobí-li takovým činem jinému úpadek.
 
 **4. Subsumpce.** Databáze a kalkulace jsou (1) konkurenčně významné, (2) určitelné, (3) ocenitelné, (4) v oboru běžně nedostupné a (5) aktivně utajované (NDA, zabezpečení) → naplňují všech pět znaků § 504. Jejich neoprávněné využití bývalým zástupcem ve prospěch konkurence naplňuje skutkovou podstatu porušení obchodního tajemství (§ 2985) i generální klauzuli (§ 2976).
 
@@ -1807,6 +1896,11 @@ Součást věci je vše, co k ní podle povahy náleží a nelze oddělit bez zn
   > „Stavba, která není věcí podle § 119 obč. zák., resp. nyní podle výjimek ze superficiální zásady (zejména § 506 odst. 1, § 509, § 3054 a násl. o. z.), je zpravidla součástí pozemku (k tomu srovnej např. rozsudek Nejvyššího soudu ze dne 28."
 - *NS* [22 Cdo 2851/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CAF3371B6CB4BD78C125815D003C5F4B?openDocument) — *Přestavek (o. z.) Vydržení*
   > „Podle § 506 o. z. součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba“) s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech."
+
+> 📎 **Doslovné znění — § 119 zákona č. 40/1964 Sb., Občanský zákoník:**
+> (1) Věci jsou movité nebo nemovité.
+> (2) Nemovitostmi jsou pozemky a stavby spojené se zemí pevným základem.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
 
 #### F. Kazuistika
 

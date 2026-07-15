@@ -201,6 +201,16 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 - *NS* [29 Cdo 2092/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19B98F27F4D2C6FCC1258900001DEEAF?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
 - *NS* [29 NSCR 5/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9076D3909633D574C125874E00187B9C?openDocument) — *Insolvenční řízení Zastavení řízení Způsobilost být účastníkem řízení*
 
+> 📎 **Doslovné znění — § 15 zákona č. 91/2012 Sb., o mezinárodním právu soukromém:**
+> (1) Pokud v dalších ustanoveních tohoto zákona není stanoveno něco jiného, nelze pravomocná cizí rozhodnutí uznat, jestliže
+> a) věc náleží do výlučné pravomoci českých soudů, nebo jestliže by řízení nemohlo být provedeno u žádného orgánu cizího státu, kdyby se ustanovení o příslušnosti českých soudů použilo na posouzení pravomoci cizího orgánu, ledaže se účastník řízení, proti němuž cizí rozhodnutí směřuje, pravomoci cizího orgánu dobrovolně podrobil,
+> b) o témže právním poměru se vede řízení u českého soudu a toto řízení bylo zahájeno dříve, než bylo zahájeno řízení v cizině, v němž bylo vydáno rozhodnutí, jehož uznání se navrhuje,
+> c) o témže právním poměru bylo českým soudem vydáno pravomocné rozhodnutí nebo bylo-li v České republice již uznáno pravomocné rozhodnutí orgánu třetího státu,
+> d) účastníku řízení, vůči němuž má být rozhodnutí uznáno, byla odňata postupem cizího orgánu možnost řádně se účastnit řízení, zejména nebylo-li mu doručeno předvolání nebo návrh na zahájení řízení,
+> e) uznání by se zjevně příčilo veřejnému pořádku, nebo
+> f) není zaručena vzájemnost; vzájemnost se nevyžaduje, nesměřuje-li cizí rozhodnutí proti státnímu občanu České republiky nebo české právnické osobě.
+> (2) K překážce uvedené v odstavci 1 písm. d) se přihlédne, jen jestliže se jí dovolá účastník řízení, vůči němuž má být cizí rozhodnutí uznáno. To platí i o překážkách uvedených v odstavci 1 písm. b) a c), ledaže je jejich existence orgánu rozhodujícímu o uznání jinak známa.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Cizinec (občan třetího státu) bez českého rodného čísla a bez dokladů uznaných v ČR podá u českého soudu žalobu o určení otcovství k dítěti narozenému v ČR. Protistrana (matka) namítá, že žalobce „není v ČR osobou", neboť není veden v žádné evidenci. Důkazy: cestovní doklad, rodný list ze země původu, případně svědectví o totožnosti.
@@ -271,6 +281,9 @@ K takovému ujednání **se nepřihlíží** (§ 554 — zdánlivé právní jed
 - *Související ustanovení téhož zákona:* § 554 (zdánlivé jednání — nepřihlíží se), § 19 odst. 2 (nezcizitelnost přirozených práv), § 55—65 (omezení svéprávnosti jen soudem), § 38—54 (podpůrná opatření jako mírnější alternativa).
 - *Související předpisy:* čl. 1 LZPS (rovnost v důstojnosti a právech); ZŘS (řízení o svéprávnosti).
 - *Judikatura:* nosný závěr — svéprávnost lze omezit výhradně rozhodnutím soudu, v nezbytném rozsahu a na omezenou dobu; soukromá ujednání o vzdání se svéprávnosti jsou bez právních účinků.
+
+> 📎 **Doslovné znění — čl. 1 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> Lidé jsou svobodní a rovní v důstojnosti i v právech. Základní práva a svobody jsou nezadatelné, nezcizitelné, nepromlčitelné a nezrušitelné.
 
 **4. Subsumpce.** „Dohoda" směřuje ke vzdání se způsobilosti rozhodovat (svéprávnosti) — naplňuje hypotézu § 16. Následek: nepřihlíží se k ní (zdánlivost dle § 554), a to i bez návrhu. Klient zůstává plně svéprávný; pozdější kupní smlouva je platná bez ohledu na „dohodu".
 
@@ -439,10 +452,25 @@ Každý subjekt soukromého práva je buď fyzická, nebo právnická osoba. Út
 - Přirozená práva jsou paralelní k **základním právům podle LZPS** (čl. 1 LZPS — „Lidé jsou svobodní a rovní v důstojnosti i v právech").
 
 § 19 odst. 2 zakotvuje **nezcizitelnost přirozených práv**. To je úzce spjato s § 16 (nezcizitelnost svéprávnosti). Praktické důsledky:
-- Nelze platně prodat své jméno (lze ovšem propůjčit k užívání — § 2 zákona č. 441/2003 Sb. o ochranných známkách);
+- Nelze platně prodat své jméno (lze ovšem propůjčit k užívání — licence k ochranné známce podle § 18 zákona č. 441/2003 Sb.);
 - Nelze platně se vzdát práva na ochranu osobnosti (§ 81—117);
 - Nelze platně sjednat smlouvu o doživotním otroctví;
 - Lze ovšem **dispozit s detailem výkonu** (např. souhlas s lékařským zákrokem, souhlas s pořízením podobizny v určité situaci — § 84, § 87).
+
+> 📎 **Doslovné znění — § 18 zákona č. 441/2003 Sb., o ochranných známkách a o změně zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, (zákon o ochranných známkách):**
+> **Licence**
+> (1) Právo užívat ochrannou známku může být poskytnuto na základě licenční smlouvy uzavřené podle jiného právního předpisu18) pro všechny výrobky nebo služby, pro které byla ochranná známka zapsána, nebo pro některé z nich. Licence může být poskytnuta jako výhradní nebo nevýhradní.
+> (2) Vlastník ochranné známky se může dovolávat svých práv z ochranné známky vůči nabyvateli licence, který porušil ustanovení licenční smlouvy, pokud jde o dobu trvání licence, podobu, ve které může být ochranná známka užívána, rozsah výrobků nebo služeb, pro které byla licence poskytnuta, území, na kterém může být ochranná známka užívána, nebo jakost výrobků nebo služeb vyráběných či poskytovaných nabyvatelem licence.
+> (3) Nabyvatel licence je oprávněn vstoupit do řízení o porušení práv z ochranné známky zahájeného vlastníkem ochranné známky podle jiného právního předpisu, aby uplatnil náhradu škody, která mu vznikla.
+> (4) Licence je účinná vůči třetím osobám zápisem do rejstříku; o zápis do rejstříku je oprávněna požádat kterákoli ze smluvních stran.
+> (5) Žádost o zápis licence do rejstříku obsahuje
+> a) údaje o totožnosti poskytovatele licence,
+> b) údaje o totožnosti nabyvatele licence,
+> c) označení výrobků nebo služeb, jichž se licence týká, nebo údaj, že se licence týká všech výrobků nebo služeb, a
+> d) údaj o tom, zda je licence výhradní nebo nevýhradní.
+> (6) K žádosti o zápis licence do rejstříku se přiloží licenční smlouva, popřípadě její výňatek nebo jiný doklad prokazující poskytnutí licence.
+> (7) Žádost o změnu zápisu licence, popřípadě o zápis ukončení licence, může podat kterákoli ze smluvních stran.
+> (8) Ustanovení odstavců 1 až 7 se přiměřeně použijí pro licenci k přihlášce.
 
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
 
@@ -452,6 +480,14 @@ Každý subjekt soukromého práva je buď fyzická, nebo právnická osoba. Út
   > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 - *NS* [25 Cdo 2258/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06264873FDB498FFC1258D460052E0F7?openDocument) — *Zastoupení Dědění Náhrada nemajetkové újmy (o. z.)*
   > „Podle § 19 odst. 1 o. z. každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu."
+
+> 📎 **Doslovné znění — § 208 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru**
+> (1) Kdo protiprávně obsadí nebo užívá dům, byt nebo nebytový prostor jiného, bude potrestán odnětím svobody až na dvě léta.
+> (2) Stejně bude potrestán, kdo oprávněné osobě v užívání domu, bytu nebo nebytového prostoru neoprávněně brání.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny, nebo
+> b) způsobí-li takovým činem škodu velkého rozsahu.
 
 #### F. Kazuistika
 
@@ -683,6 +719,16 @@ Stát je v soukromém právu jeden subjekt (PO) jednající organizačními slo�
 - *NS* [29 ICdo 29/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2AF3912FD0ECBA79C1258914001F17DA?openDocument) — *Incidenční spory (žaloba odpůrčí) Započtení pohledávky*
   > „§ 22 odst. 2 o. z.), nelze jednostranné právní jednání, jímž žalovaný (coby dlužníkův věřitel) započetl svou pohledávku proti pohledávce dlužníka, pokládat za právní jednání dlužníka (nebo též za právní jednání dlužníka)."
 
+> 📎 **Doslovné znění — § 242 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Neúčinnost úmyslně zkracujících právních úkonů**
+> (1) Odporovat lze rovněž právnímu úkonu, kterým dlužník úmyslně zkrátil uspokojení věřitele, byl-li tento úmysl druhé straně znám nebo jí se zřetelem ke všem okolnostem musel být znám.
+> (2) Má se za to, že u úmyslně zkracujícího právního úkonu učiněného ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), byl dlužníkův úmysl této osobě znám.
+> (3) Úmyslně zkracujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 5 letech před zahájením insolvenčního řízení.
+
+> 📎 **Doslovné znění — § 125 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Osoba blízká**
+> Osobou blízkou se rozumí příbuzný v pokolení přímém, osvojitel, osvojenec, sourozenec, manžel a partner; jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké jen tehdy, kdyby újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Dlužník v hrozícím úpadku převede několik měsíců před zahájením insolvenčního řízení nemovitost na společnost s ručením omezeným, jejímž jediným společníkem a jednatelem je jeho manželka. Insolvenční správce podá odpůrčí žalobu jako vůči zvýhodňujícímu/neúčinnému jednání mezi osobami blízkými. Žalovaná s.r.o. namítá, že není „osobou blízkou", neboť je obchodní korporací. Důkazy: výpis z rejstříku (společník/jednatel), oddací list, kupní smlouva, znalecký posudek o ceně.
@@ -781,6 +827,13 @@ Právní osobnost je **automatická a nedělitelná** — vzniká samým narozen
   > „Způsobilost být účastníkem řízení tedy mají fyzické osoby (§ 23 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o. z.“), právnické osoby (§ 118 o. z.) a stát (§ 21 o. z.)."
 - *NS* [25 Cdo 2258/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/06264873FDB498FFC1258D460052E0F7?openDocument) — *Zastoupení Dědění Náhrada nemajetkové újmy (o. z.)*
   > „Podle § 23 o. z. člověk má právní osobnost od narození až do smrti."
+
+> 📎 **Doslovné znění — § 7 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Použití občanského soudního řádu a zákona o zvláštních řízeních soudních**
+> Nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení, použijí se pro insolvenční řízení a pro incidenční spory přiměřeně ustanovení občanského soudního řádu4) týkající se sporného řízení, a není-li to možné, ustanovení zákona o zvláštních řízeních soudních; ustanovení týkající se výkonu rozhodnutí nebo exekuce se však použijí přiměřeně jen tehdy, jestliže na ně tento zákon odkazuje.
+
+> 📎 **Doslovné znění — § 19 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Způsobilost být účastníkem řízení má ten, kdo má právní osobnost; jinak jen ten, komu ji zákon přiznává.
 
 #### F. Kazuistika
 
@@ -1796,7 +1849,12 @@ Nezletilý může samostatně provozovat závod, udělí-li zástupce souhlas a 
 
 **Výklad:**
 
-§ 34—35 jsou **soukromoprávní pendant** zákoníku práce (262/2006 Sb. — zejména § 6, § 246—249) a navazují na ústavní zákaz dětské práce (čl. 9 LZPS).
+§ 34—35 jsou **soukromoprávní pendant** zákoníku práce (262/2006 Sb. — zejména § 6, § 246—249) a navazují na ústavní ochranu mladistvých při práci (čl. 29 Listiny).
+
+> 📎 **Doslovné znění — čl. 29 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Ženy, mladiství a osoby zdravotně postižené mají právo na zvýšenou ochranu zdraví při práci a na zvláštní pracovní podmínky.
+> (2) Mladiství a osoby zdravotně postižené mají právo na zvláštní ochranu v pracovních vztazích a na pomoc při přípravě k povolání.
+> (3) Podrobnosti stanoví zákon.
 
 **Věkové hranice:**
 
@@ -1832,6 +1890,23 @@ Nezletilý může samostatně provozovat závod, udělí-li zástupce souhlas a 
 - *Související ustanovení téhož zákona:* § 31 (přiměřenost), § 36 (negativní omezení), § 581 (neplatnost).
 - *Související předpisy:* zákoník práce (č. 262/2006 Sb.), § 6, § 246—249; čl. 9 LZPS (zákaz dětské práce); § 121 zák. č. 435/2004 Sb. (povolení úřadu práce pro činnost dětí).
 - *Judikatura:* NS 26 Cdo 1892/2015 (výklad projevu vůle v pracovněprávním kontextu); obecně závěr o ochranné, kogentní povaze úpravy práce nezletilých.
+
+> 📎 **Doslovné znění — § 121 zákona č. 435/2004 Sb., o zaměstnanosti:**
+> **Základní podmínky**
+> (1) Dítětem se pro účely tohoto zákona rozumí fyzická osoba
+> a) mladší 15 let, nebo
+> b) starší 15 let, pokud nemá ukončenou povinnou školní docházku, a to až do doby jejího ukončení.
+> (2) Dítě může vykonávat pouze uměleckou, kulturní, sportovní a reklamní činnost (dále jen „činnost dítěte“) pro právnickou nebo fyzickou osobu, která má tuto činnost v předmětu své činnosti (dále jen „provozovatel činnosti“), jen jestliže je tato činnost přiměřená jeho věku, není pro něj nebezpečná, nebrání jeho vzdělávání nebo docházce do školy a účasti na výukových programech, nepoškozuje jeho zdravotní, tělesný, duševní, morální nebo společenský rozvoj.57)
+> (3) Za činnost dítěte se nepovažuje
+> a) zájmová kulturní činnost v amatérských souborech a základních uměleckých školách,
+> b) vystupování na uměleckých a kulturních akcích pořádaných školou, školským zařízením nebo ústavem sociální péče nebo na akcích, na kterých se škola, školské zařízení nebo ústav sociální péče organizačně podílí,
+> c) činnost konaná v rámci výchovy a vzdělávání ve školách a školských zařízeních v souladu se vzdělávacími programy,
+> d) účast na uměleckých a sportovních soutěžích, pokud nejde o činnosti za odměnu, nebo
+> e) činnost konaná v rámci mimoškolní výchovy a při ostatních nekomerčních zájmových aktivitách, která není vykonávána za odměnu.
+> (4) Provozovatel činnosti je povinen zajistit
+> a) soustavný dohled způsobilou osobou v době dohodnuté pro činnost dítěte, případně i při dopravě na ni, pokud ho nevykonává zákonný zástupce nebo opatrovník,
+> b) vhodné podmínky odpovídající charakteru činnosti, kterou bude dítě vykonávat.
+> (5) Na činnost dítěte se vztahuje § 101, 245 a 246 zákoníku práce; ustanovení § 103 až 106 zákoníku práce a § 2 až 8 zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci42a) se použijí přiměřeně.
 
 **4. Subsumpce.** Sjednaný nástup v polovině června předchází ukončení povinné školní docházky → porušení § 35 odst. 1 věty druhé (zákaz nástupu před ukončením docházky). Práce o prázdninách od 14 let by navíc vyžadovala písemný souhlas zástupce (§ 35 odst. 2), který chybí. Ujednání proto odporuje zákonu (ochranná norma) a je v rozporu se zákazem dle § 34.
 

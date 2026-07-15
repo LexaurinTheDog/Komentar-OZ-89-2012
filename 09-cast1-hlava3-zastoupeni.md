@@ -164,6 +164,12 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 - § 199 ZOK — zákaz konkurence statutárních orgánů;
 - § 21 odst. 4 OSŘ — vyloučení zástupce pro konflikt zájmů.
 
+> 📎 **Doslovné znění — § 199 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> Neurčí-li společenská smlouva jinak, jednatel nesmí
+> a) podnikat v předmětu činnosti nebo podnikání společnosti, a to ani ve prospěch jiných osob, ani zprostředkovávat obchody společnosti pro jiného,
+> b) být členem statutárního orgánu jiné právnické osoby s obdobným předmětem činnosti nebo podnikání nebo osobou v obdobném postavení, ledaže se jedná o koncern, nebo
+> c) účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti nebo podnikání.
+
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 429 až 432“ (dnešní § 436—439) — viz § 436.
 
 **Judikatura (z místních zdrojů):**
@@ -519,6 +525,23 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - *Související ustanovení téhož zákona:* § 6 (poctivost), § 561 (podpis), § 582 (následky vad formy), § 444 (zdánlivé zmocnění), § 2128 (převod nemovitosti).
 - *Související předpisy:* § 7 a § 17 katastrálního zákona č. 256/2013 Sb. a § 6 a násl. vyhlášky o katastru (požadavky na listiny pro vklad); § 28 OSŘ (procesní plná moc); zákon o ověřování č. 21/2006 Sb. (úřední ověření podpisu).
 - *Judikatura:* NS 33 Cdo 3158/2016 a 33 Cdo 131/2020 — výklad rozsahu a formy plné moci; obecně přijímaný závěr: k převodu nemovitosti postačí plná moc v písemné formě s úředně ověřeným podpisem, není třeba notářský zápis.
+
+> 📎 **Doslovné znění — § 17 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon):**
+> (1) Ve vkladovém řízení katastrální úřad zkoumá u vkladové listiny, která je soukromou listinou, zda
+> a) splňuje náležitosti listiny pro zápis do katastru,
+> b) její obsah odůvodňuje navrhovaný vklad,
+> c) právní jednání je učiněno v předepsané formě,
+> d) účastník vkladového řízení není omezen právními předpisy v oprávnění nakládat s nemovitostí,
+> e) k právnímu jednání účastníka vkladového řízení byl udělen souhlas podle jiného právního předpisu,
+> f) z obsahu listiny a z jeho porovnání s dosavadními zápisy v katastru není patrný důvod, pro který by bylo právní jednání neplatné, zejména zda z dosavadních zápisů v katastru nevyplývá, že účastníci vkladového řízení nejsou oprávněni nakládat s předmětem právního jednání, nejsou omezeni rozhodnutím soudu nebo jiného orgánu veřejné moci ve smluvní volnosti týkající se věci, která je předmětem právního jednání,
+> g) navrhovaný vklad navazuje na dosavadní zápisy v katastru; z tohoto hlediska není na překážku povolení vkladu, pokud logickou mezeru mezi zápisem v katastru a navrhovaným vkladem podle vkladové listiny navrhovatel doloží současně s návrhem na vklad listinami, které návaznost vkladové listiny na dosavadní zápisy v katastru doplní; tyto listiny však musí mít náležitosti vkladových listin.
+> (2) Pokud je vkladová listina veřejnou listinou, katastrální úřad zkoumá, zda
+> a) splňuje náležitosti listiny pro zápis do katastru,
+> b) její obsah odůvodňuje navrhovaný vklad,
+> c) navrhovaný vklad navazuje na dosavadní zápisy v katastru; odstavec 1 písm. g) se použije obdobně.
+> (3) Jde-li o veřejnou listinu o právním jednání, katastrální úřad dále zkoumá, zda k době podání návrhu na vklad nebyl v katastru zápis, ze kterého vyplývá, že k době podání návrhu na vklad je účastník vkladového řízení omezen v nakládání s věcí, která je předmětem právního jednání.
+> (4) Jde-li o rozhodnutí soudu, zkoumá katastrální úřad splnění podmínek jen podle odstavce 2 písm. a) a dále, zda je toto rozhodnutí závazné i pro osoby, v jejichž prospěch je právo v katastru dosud zapsáno.
+> (5) Skutečnosti uvedené v odstavcích 1 až 4 přezkoumává katastrální úřad na základě listin předložených účastníky, popřípadě soudem nebo soudním exekutorem ke vkladovému řízení, dosavadních zápisů v katastru a na základě údajů ze základních registrů, z agendového informačního systému evidence obyvatel a z agendového informačního systému cizinců a dále na základě dalších informací poskytnutých vlastníkem nemovitosti a dalšími účastníky vkladového řízení poté, co obdrží od katastrálního úřadu informaci podle § 16 odst. 1. Tyto skutečnosti katastrální úřad zkoumá podle stavu, jaký tu byl v okamžiku podání návrhu na vklad.
 
 **4. Subsumpce.** Převod nemovitosti vyžaduje písemnou smlouvu; nejde o jednání ve formě veřejné listiny, proto se uplatní pravidlo „shodné formy" — plná moc musí být písemná. Pro zápis do katastru a praktickou ověřitelnost se však podpis na plné moci úředně ověřuje. Prostá písemná forma bez ověření je tudíž z hlediska vkladového řízení nedostatečná, byť hmotněprávně může být plná moc písemná.
 
@@ -1145,6 +1168,9 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 - *Související ustanovení téhož zákona:* § 451 (nepřenositelnost), § 452 (zákaz prokury PO, pluralita), § 453 (vnitřní omezení bez vnějších účinků), § 454 (péče řádného hospodáře), § 455 (podpis), § 456 (zánik).
 - *Související předpisy:* § 25 odst. 1 písm. e) a § 11 zákona o veřejných rejstřících č. 304/2013 Sb. (zápis prokury a její konstitutivnost), § 13 ZOK; katastrální zákon č. 256/2013 Sb. (převod nemovitosti).
 - *Judikatura:* NS 27 Cdo 1092/2022 a 4 Tdo 398/2022 — k rozsahu a povaze prokury; nosný závěr: prokura zakládá široké zákonné oprávnění při provozu závodu, avšak dispozice s nemovitostmi je vyhrazena výslovnému ujednání v prokuře.
+
+> 📎 **Doslovné znění — § 13 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> Smlouva uzavřená mezi jednočlennou společností zastoupenou jediným společníkem a tímto společníkem vyžaduje písemnou formu s úředně ověřenými podpisy. To neplatí, je-li taková smlouva uzavřena v rámci běžného obchodního styku a za podmínek v něm obvyklých.
 
 **4. Subsumpce.** Úvěrová smlouva je jednáním při provozu závodu → spadá do rozsahu prokury bez zvláštního zmocnění (§ 450 odst. 1 věta první). Prodej nemovitosti naproti tomu vyžaduje výslovné oprávnění v prokuře; to zde chybí → tento znak naplněn není a P. k prodeji pozemku oprávněn nebyl. Označení „prokura" v listině je splněno (odst. 2), takže prokura jako taková platně vznikla a byla zapsána.
 
@@ -1889,6 +1915,12 @@ Opatrovník vykonává sám jen běžnou správu jmění; vše ostatní potřebu
 - *Související ustanovení téhož zákona:* § 55–65 (omezení svéprávnosti), § 66–70 (nezvěstný), § 469 (opatrovník na vlastní návrh při zdravotních obtížích), § 471 (výběr opatrovníka), § 457 (zájem opatrovance).
 - *Související předpisy:* z. č. 292/2013 Sb. (řízení o opatrovnictví, hmotněprávní opatrovník), § 29 o. s. ř. (procesní opatrovník neznámého účastníka — odlišit od hmotněprávního opatrovníka dle § 465).
 - *Judikatura:* NS 24 Cdo 607/2022, 24 Cdo 2532/2021 a 30 Cdo 2211/2018 — opatrovnictví a jeho vztah k omezení svéprávnosti; jmenování opatrovníka je subsidiární a musí být přiměřené.
+
+> 📎 **Doslovné znění — § 29 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Není-li zastoupena fyzická osoba, která jako účastník řízení nemůže před soudem samostatně jednat, ustanoví jí předseda senátu opatrovníka, je-li tu nebezpečí z prodlení. Stejně se postupuje, stanoví-li tak zvláštní předpis.
+> (2) Opatrovníka ustanoví předseda senátu též právnické osobě, která jako účastník řízení nemůže před soudem vystupovat proto, že tu není osoba oprávněná za ni jednat nebo že je sporné, kdo je osobou oprávněnou za ni jednat (§ 21), je-li tu nebezpečí z prodlení.
+> (3) Pokud neučiní jiná opatření, může předseda senátu ustanovit opatrovníka také neznámým dědicům zůstavitele, nebyl-li dosud v řízení o dědictví stanoven okruh jeho dědiců, účastníku, jehož pobyt není znám, jemuž se nepodařilo doručit na známou adresu v cizině, který byl stižen duševní poruchou nebo z jiných zdravotních důvodů se nemůže nikoliv jen po přechodnou dobu účastnit řízení nebo který není schopen srozumitelně se vyjadřovat.
+> (4) Opatrovníkem podle odstavců 1 až 3 soud jmenuje zpravidla osobu blízkou, případně jinou vhodnou osobu, nebrání-li tomu zvláštní důvody. Advokáta lze jmenovat opatrovníkem, jen jestliže jím nemůže být jmenován někdo jiný. Jinou osobu než advokáta lze jmenovat opatrovníkem, jen jestliže s tím souhlasí. Nerozhodl-li soud jinak, opatrovník ustanovený podle odstavců 1 až 3 vystupuje v řízení před soudem prvního stupně, v odvolacím a v dovolacím řízení.
 
 **4. Subsumpce.** U paní Markové je naplněn znak „zdravotní stav působí obtíže při správě jmění a hájení práv" — opatrovníka lze jmenovat i bez omezení svéprávnosti (samostatný důvod dle § 465). Vzhledem k rozsahu majetku a riziku škody může soud uložit pojištění (odst. 2). U neznámého spoluvlastníka je naplněn znak „neznámý člověk zúčastněný při určitém právním jednání", resp. „o kom není známo, kde pobývá" — opatrovník (zde procesní povahy dle o. s. ř.) je namístě k zajištění zastoupení v řízení.
 
@@ -2905,6 +2937,22 @@ Soud jmenuje opatrovníka PO, která to potřebuje pro **správu záležitostí*
 - *Související ustanovení téhož zákona:* § 165 (jmenování opatrovníka PO, nemá-li dostatečný statutární orgán / je-li konflikt zájmů), § 487 (práva a povinnosti opatrovníka PO), § 488 (předjmenování), § 457 (účelová klauzule — opatrovnictví jen v zájmu zastoupeného), § 152 a násl. (orgány PO a způsobilost členů).
 - *Související předpisy:* zákon o obchodních korporacích (§ 46 ZOK — překážky výkonu funkce, diskvalifikace), zákon o veřejných rejstřících (zápis opatrovníka), zákon o zvláštních řízeních soudních (procesní rámec jmenování).
 - *Judikatura:* NS 27 Cdo 1190/2022 a 27 Cdo 3438/2022 (z místních zdrojů — opatrovník hmotněprávní a kolizní u PO); obecně judikatura k subsidiaritě jmenování opatrovníka PO (opatrovník jen tam, kde záležitost nelze řešit jinak, např. doplněním orgánu).
+
+> 📎 **Doslovné znění — § 46 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Osoba, která je členem orgánu a je do funkce volena, jmenována či jinak povolávána (dále jen „člen voleného orgánu“), není způsobilá k výkonu funkce také tehdy, je-li u ní dána překážka výkonu funkce člena voleného orgánu obchodní korporace, kterou je
+> a) zákaz vykonávat funkci člena řídicího, kontrolního nebo správního orgánu právnické osoby uložený rozhodnutím orgánu veřejné moci České republiky, jiného členského státu Evropské unie nebo státu Evropského hospodářského prostoru, anebo rozhodnutím mezinárodní organizace, jakož i takto uložený zákaz vykonávat činnost související s podnikáním v oblasti podnikání nebo oboru činnosti, který odpovídá předmětu podnikání nebo činnosti obchodní korporace,
+> b) zákaz vykonávat funkci člena řídicího, kontrolního nebo správního orgánu právnické osoby uložený rozhodnutím orgánu veřejné moci jiného státu z důvodů obdobných důvodům pro jeho uložení v České republice, jakož i takový zákaz vykonávat činnost související s podnikáním v oblasti podnikání nebo oboru činnosti, který odpovídá předmětu podnikání nebo činnosti obchodní korporace,
+> c) pravomocné odsouzení, ledaže se na osobu hledí, jako by nebyla odsouzena, za trestný čin
+>   - 1. zpronevěry, podvodu, pojistného podvodu, úvěrového podvodu, dotačního podvodu, legalizace výnosů z trestné činnosti, legalizace výnosů z trestné činnosti z nedbalosti, lichvy, porušení povinnosti při správě cizího majetku, porušení povinnosti při správě cizího majetku z nedbalosti, poškození věřitele, zvýhodnění věřitele, způsobení úpadku, porušení povinnosti v insolvenčním řízení, pletichy v insolvenčním řízení, porušení povinnosti učinit pravdivé prohlášení o majetku,
+>   - 2. daňový, poplatkový nebo devizový,
+>   - 3. proti závazným pravidlům tržní ekonomiky a oběhu zboží ve styku s cizinou, nebo
+>   - 4. obdobný trestným činům podle bodů 1 až 3 v zahraničí, nebo
+> d) rozhodnutí o prohlášení konkursu na majetek osoby vydané v České republice nebo obdobné rozhodnutí orgánu veřejné moci jiného státu, a to do okamžiku zrušení konkursu.
+> (2) Ten, kdo se má stát členem voleného orgánu obchodní korporace, předem zakladatele nebo obchodní korporaci informuje, zda
+> a) není nezpůsobilý k výkonu funkce,
+> b) existují skutečnosti, které by důvodně mohly vést ke vzniku překážky výkonu funkce,
+> c) ohledně jeho majetku nebo majetku právnické osoby, v níž působí nebo působil v posledních 3 letech jako člen voleného orgánu, bylo vedeno insolvenční řízení podle jiného právního předpisu nebo obdobné řízení v zahraničí.
+> (3) Člen voleného orgánu obchodní korporace informuje obchodní korporaci o skutečnosti podle odstavce 2, která nastala během výkonu jeho funkce, bezodkladně poté, co se o této skutečnosti dozví.
 
 **4. Subsumpce.** Znak „PO to potřebuje" (§ 486 odst. 1): statutární orgán je neobsazen a hrozí újma z běhu lhůt — splněno pro správu záležitostí i hájení práv. Znak způsobilosti (§ 486 odst. 2): advokát X nesmí být osobou vyloučenou; doloženo čestným prohlášením a evidencí. Sporné může být, zda nelze situaci vyřešit méně invazivně (svolání valné hromady, doplnění jednatele) — soud zkoumá subsidiaritu.
 

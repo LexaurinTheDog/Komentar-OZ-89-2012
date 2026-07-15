@@ -631,6 +631,11 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 - *NS* [33 Cdo 2889/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5F6795E645FA7FC4C1258B54004D17A7?openDocument) — *Smlouva o smlouvě budoucí Změna okolností (o. z.) Zánik závazku Smlouva kupní Poctivost…*
   > „Jí strany sjednaly nikoliv „obecným způsobem“ , ale zcela konkrétně obsah realizační smlouvy co do vymezení předmětu převodu a výše kupní ceny (§ 2079, § 2131 o. z.)."
 
+> 📎 **Doslovné znění — § 15b zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) K rozhodnutí o námitce podjatosti soud věc předloží s vyjádřením dotčených soudců svému nadřízenému soudu. V řízení lze zatím učinit jen takové úkony, které nesnesou odkladu.
+> (2) Ustanovení odstavce 1 neplatí, byla-li námitka uplatněna před nebo v průběhu jednání, při němž byla věc rozhodnuta, a má-li soud za to, že námitka není důvodná.
+> (3) Ustanovení odstavce 1 neplatí také tehdy, uplatnil-li účastník v námitce stejné okolnosti, o nichž bylo nadřízeným soudem (jiným senátem Nejvyššího soudu) již rozhodnuto, nebo je-li námitka zjevně opožděná.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Kupující K. a prodávající P. uzavřou ústně dohodu o koupi použitého stroje za 150 000 Kč; K. zaplatí, P. však stroj neodevzdá s tvrzením, že „smlouva ještě nebyla finální", protože nebyl podepsán písemný dokument. Jindy: strany podepíší dokument nazvaný „rezervační smlouva", kde se P. zavazuje stroj odevzdat a K. zaplatit cenu. Důkazy: obsah ujednání o předmětu a ceně, doklad o zaplacení, komunikace stran o vůli uzavřít kupní smlouvu.
@@ -1972,6 +1977,11 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - *NS* [29 NSCR 13/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B7EB27D4C5D57CA0C1258D6F005293F5?openDocument) — 27. 11. 2025
   > „§ 2175 (1) Koupí závodu nabývá kupující vše, co k závodu jako celku náleží."
 
+> 📎 **Doslovné znění — § 21 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Je-li nepeněžitým vkladem závod nebo jeho část, je předmět vkladu vnesen účinností smlouvy o vkladu. Na smlouvu o vkladu závodu nebo jeho části se použijí přiměřeně ustanovení občanského zákoníku o koupi.
+> (2) Je-li nepeněžitým vkladem pohledávka, je předmět vkladu vnesen účinností smlouvy o vkladu pohledávky. Na smlouvu o vkladu pohledávky se použijí přiměřeně ustanovení občanského zákoníku o postoupení pohledávky. Vkladatel ručí za její dobytnost do výše jejího ocenění.
+> (3) Pohledávka společníka za kapitálovou společností nemůže být předmětem jeho vkladu do této společnosti; započtena proti pohledávce společnosti na splacení emisního kursu může být pouze smluvně. Smlouva o započtení vyžaduje písemnou formu a její návrh schvaluje valná hromada.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Společnost P. s. r. o. prodá kupujícímu K. s. r. o. svůj výrobní závod (provozovnu se stroji, zásobami, smlouvami, zaměstnanci a pohledávkami) jednou smlouvou o koupi závodu. Po převodu se zaměstnanec Z. domáhá na K., aby uznal trvání jeho pracovního poměru; věřitel V. prodávajícího se obává o dobytnost své pohledávky. K. tvrdí, že kupoval jen „majetek", nikoli závazky. Důkazy: smlouva o koupi závodu, účetní záznamy o převáděném jmění, zápis o předání závodu, seznam zaměstnanců a smluv, doklad o zveřejnění v rejstříku.
@@ -2051,6 +2061,18 @@ Koupě závodu je komplexní převod obchodního závodu jako hromadné věci: k
 - Věřitelé mají právo na **včasné oznámení**;
 
 **§ 2178 — Postavení zaměstnanců**: práva a povinnosti přechází v rámci **přechodu zaměstnaneckého poměru** (§ 338 zákoníku práce);
+
+> 📎 **Doslovné znění — § 338 zákona č. 262/2006 Sb., zákoník práce:**
+> (1) K přechodu práv a povinností z pracovněprávních vztahů může dojít jen v případech stanovených tímto nebo jiným zákonem.
+> (2) Dochází-li k převodu činnosti zaměstnavatele nebo její části (dále jen „činnost zaměstnavatele“), přecházejí práva a povinnosti z pracovněprávních vztahů v plném rozsahu na přejímajícího zaměstnavatele; práva a povinnosti z kolektivní smlouvy přecházejí na přejímajícího zaměstnavatele na dobu účinnosti kolektivní smlouvy, nejdéle však do konce následujícího kalendářního roku.
+> (3) Nejde-li o převod činnosti zaměstnavatele podle jiného zákona117), přecházejí práva a povinnosti z pracovněprávních vztahů na přejímajícího zaměstnavatele při převodu činnosti zaměstnavatele pouze v případě, že
+> a) činnost je po převodu vykonávána stejným nebo obdobným způsobem a rozsahem,
+> b) činnost nespočívá zcela nebo převážně v dodávání zboží,
+> c) bezprostředně před převodem existuje skupina zaměstnanců, která byla záměrně vytvořena zaměstnavatelem za účelem výhradního nebo převážného vykonávání činnosti,
+> d) činnost není zamýšlená jako krátkodobá nebo nemá spočívat v jednorázovém úkolu a
+> e) je převáděn majetek, popřípadě právo jeho užívání nebo požívání, je-li tento majetek s ohledem na charakter činnosti pro její výkon zásadní, nebo je převzata podstatná část zaměstnanců, které dosavadní zaměstnavatel používal při výkonu činnosti, závisí-li tato činnost v podstatné míře pouze na zaměstnancích, nikoliv na majetku.
+> (4) Za přejímajícího zaměstnavatele se bez ohledu na právní důvod převodu a na to, zda dochází k převodu vlastnických práv, považuje právnická nebo fyzická osoba, která je způsobilá jako zaměstnavatel pokračovat v plnění činností dosavadního zaměstnavatele nebo v činnosti obdobného druhu.
+> (5) Práva a povinnosti dosavadního zaměstnavatele vůči zaměstnancům, jejichž pracovněprávní vztahy přede dnem nabytí účinnosti přechodu práv a povinností z pracovněprávních vztahů zanikly, zůstávají nedotčeny, pokud jiný zákon nestanoví jinak21a).
 
 **§ 2179 — Zveřejnění**: údaje o převodu se publikují v **obchodním věstníku**;
 

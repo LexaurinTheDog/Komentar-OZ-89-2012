@@ -244,6 +244,15 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - **FO**: jméno + bydliště + datum narození (nebo **rodné číslo** dle § 16 zákona č. 133/2000 Sb. o evidenci obyvatel);
 - **PO/podnikatel**: **IČO** (identifikační číslo osoby — zákon č. 304/2013 Sb.).
 
+> 📎 **Doslovné znění — § 16 zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel):**
+> **Přidělení rodného čísla**
+> Rodné číslo přidělí výdejové místo
+> a) fyzické osobě při narození nebo osvojení nezletilé fyzické osoby,
+> b) občanu, který dosud rodné číslo neměl,
+> c) cizinci s povolením k pobytu na území České republiky,14b)
+> d) cizinci, kterému byla na území České republiky udělena mezinárodní ochrana formou azylu nebo doplňkové ochrany14f),
+> e) cizinci, který o přidělení rodného čísla požádal pro splnění podmínek podle zvláštních právních předpisů14d), popřípadě fyzické osobě, pro kterou o přidělení rodného čísla požádala Česká správa sociálního zabezpečení nebo územní správa sociálního zabezpečení podle zvláštního právního předpisu14e).
+
 **Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 **Judikatura (z místních zdrojů):**
@@ -263,7 +272,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **3. Použitelné právo.**
 - *Komentované ustanovení:* § 3019 — údaji, jimiž lze člověka zjistit, jsou zejména jméno, bydliště a datum narození, popř. identifikující údaj dle jiného předpisu.
 - *Související ustanovení téhož zákona:* § 77—79 (jméno člověka), § 80 (bydliště), § 561 (náležitosti právního jednání / podpisu).
-- *Související předpisy:* zák. č. 133/2000 Sb. o evidenci obyvatel (rodné číslo — § 16); zák. č. 304/2013 Sb. (IČO u podnikatele); § 79 a § 137 o. s. ř. (náležitosti označení účastníka v žalobě).
+- *Související předpisy:* zák. č. 133/2000 Sb. o evidenci obyvatel (rodné číslo — § 16); zák. č. 304/2013 Sb. (IČO u podnikatele); § 79 odst. 1 a § 42 odst. 4 o. s. ř. (náležitosti označení účastníka v žalobě).
 - *Judikatura:* praxe okresních soudů (řada „smlouva o úvěru / postoupení pohledávky") důsledně vyžaduje individualizaci dlužníka tak, aby byl nezaměnitelný.
 
 **4. Subsumpce.** Výčet § 3019 je demonstrativní („zejména"). Pro nezaměnitelnost obvykle nepostačí jméno + obec; přidává se datum narození nebo rodné číslo (§ 16 zák. o evidenci obyvatel). Jméno + bydliště + datum narození je standardní triáda; u podnikatele postačí IČO.
@@ -287,6 +296,11 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - [ ] U podnikatele/PO použít IČO a název.
 - [ ] Uvádět rodné číslo jen v nezbytném rozsahu a s právním základem (GDPR).
 - [ ] Při označení účastníka řízení respektovat § 79 o. s. ř.
+
+> 📎 **Doslovné znění — § 79 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Řízení se zahajuje na návrh. Návrh musí kromě obecných náležitostí (§ 42 odst. 4) obsahovat jméno, příjmení, bydliště účastníků, popřípadě rodná čísla nebo identifikační čísla účastníků (obchodní firmu nebo název a sídlo právnické osoby, identifikační číslo, označení státu a příslušné organizační složky státu, která za stát před soudem vystupuje), popřípadě též jejich zástupců, vylíčení rozhodujících skutečností, označení důkazů, jichž se navrhovatel dovolává, a musí být z něj patrno, čeho se navrhovatel domáhá. Ve věcech, v nichž je účastníkem řízení svěřenský správce, musí návrh dále obsahovat i označení, že se jedná o svěřenského správce, a označení svěřenského fondu. Tento návrh, týká-li se dvoustranných právních poměrů mezi žalobcem a žalovaným (§ 90), se nazývá žalobou.
+> (2) Žalobce je povinen k návrhu připojit písemné důkazy, jichž se dovolává, a to v listinné nebo v elektronické podobě.
+> (3) Žalobu (návrh na zahájení řízení) soud doručí ostatním účastníkům do vlastních rukou. Žalobce (navrhovatel) může obeznámit žalovaného (ostatní účastníky řízení) s obsahem návrhu tím, že vedle stejnopisu žaloby (návrhu) doručovaného soudem mu sám zašle další stejnopis.
 
 **Typicky rozhodné důkazy / podklady:** smlouva s identifikací stran, výpis z evidence obyvatel / veřejného rejstříku, doklad o datu narození nebo IČO.
 
@@ -618,6 +632,14 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
   > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
 - *NS* [29 Cdo 2344/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED6C08521F61DC2FC1257F390035A48A?openDocument) — 27. 10. 2015, kat. A
   > „Převod vlastnického práva ke směnce na řad se od 1. 1. 2014 řídí (mimo jiné) zákonem č. 89/2012 Sb., občanský zákoník skutečnost, že směnka byla vystavena před tímto datem, není významná.“
+
+> 📎 **Doslovné znění — § 241a zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Dovolání nelze podat z důvodu vad podle § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3.
+> (2) V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+> (3) Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+> (4) V dovolání nelze poukazovat na podání, která dovolatel učinil za řízení před soudem prvního stupně nebo v odvolacím řízení.
+> (5) K obsahu podání, v němž dovolatel uvedl, v jakém rozsahu napadá rozhodnutí odvolacího soudu, nebo v němž vymezil důvody dovolání, aniž by byla splněna podmínka stanovená v § 241, se nepřihlíží.
+> (6) V dovolání nelze uplatnit nové skutečnosti nebo důkazy.
 
 #### F. Kazuistika
 

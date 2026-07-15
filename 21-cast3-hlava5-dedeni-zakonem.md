@@ -78,6 +78,13 @@
 - *Související předpisy:* § 3069 OZ (intertemporální pravidlo k přechodu nároků na náhradu újmy na zdraví); § 107 o. s. ř. / § 30 ZŘS (procesní nástupnictví); § 2956 a násl. OZ (náhrada nemajetkové újmy).
 - *Judikatura:* NS 25 Cdo 121/2023 a 25 Cdo 3402/2019 — právo vázané na osobu zůstavitele přechází na dědice, bylo-li uplatněno u soudu za života zůstavitele (§ 1475 odst. 2); NS 25 Cdo 1630/2023 — smrt poškozeného krátce po uplatnění nároku není důvodem ke snížení náhrady; NS 27 Cdo 1339/2023 — čistě osobní práva (postavení zakladatele) nepřecházejí, neboť nejsou součástí jmění.
 
+> 📎 **Doslovné znění — § 107 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením.
+> (2) Ztratí-li způsobilost být účastníkem řízení fyzická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, ti, kteří vstoupili do práva nebo povinnosti, o něž v řízení jde.
+> (3) Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde.
+> (4) Ten, kdo nastupuje do řízení na místo dosavadního účastníka řízení, musí přijmout stav řízení, jaký tu je v době jeho nástupu do řízení.
+> (5) Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví.
+
 **4. Subsumpce.** Uplatněný nárok na ztížení společenského uplatnění je sice právem povahy vázané na osobu, ale výjimka v závěru § 1475 odst. 2 je naplněna — byl *uplatněn u orgánu veřejné moci* (soudu) za života zůstavitele → spadá do pozůstalosti. Neuplatněný nárok na bolestné znaky výjimky nesplňuje (nebyl uznán jako dluh ani uplatněn u OVP) → do pozůstalosti nepatří a smrtí zaniká. Běžné jmění (byt, účet) je bez dalšího součástí pozůstalosti.
 
 **5. Řešení.** Dědici by měli pozůstalostnímu soudu/notáři doložit běžící řízení; uplatněný nárok se sepíše jako aktivum pozůstalosti a dědici v něm pokračují jako procesní nástupci. Neuplatněný nárok na bolestné se do soupisu nezahrne. Pravděpodobný výsledek: soud potvrdí nabytí uplatněného nároku dědicům. Procesní krok: návrh na pokračování v řízení s dědici.
@@ -670,6 +677,10 @@ Dědicem se stane jen ten, kdo zůstavitele přežil; kdo zemřel současně, ne
 - *NS* [24 Cdo 614/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B29DECB7441C81A3C125845200183A7C?openDocument) — *Přerušení řízení Dědění Dědické právo (právo na pozůstalost) (o. z.)*
   > „Za tohoto skutkového stavu bylo pro rozhodnutí soudů (mimo jiné) významné vyřešení otázky procesního práva, zda je třeba přerušit řízení podle ustanovení § 109 odst. 2 písm. c) o.s.ř."
 
+> 📎 **Doslovné znění — § 469 zákona č. 40/1964 Sb., Občanský zákoník:**
+> Nedědí, kdo se dopustil úmyslného trestného činu proti zůstaviteli, jeho manželu, dětem nebo rodičům anebo zavrženíhodného jednání proti projevu poslední vůle zůstavitelovy. Může však dědit, jestliže mu zůstavitel tento čin odpustil.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Po smrti matky se přihlásí o dědictví její dva synové. Jeden ze synů (A) byl pravomocně odsouzen za to, že matku dlouhodobě hrubě zanedbával a v jednom případě ji fyzicky napadl (úmyslný trestný čin ublížení na zdraví). Druhý dědic tvrdí, že A je dědicky nezpůsobilý. A namítá, že matka mu čin „odpustila", neboť ho po odsouzení nadále navštěvovala a obdarovala k narozeninám. A má dospělou dceru. Třeba obstarat: trestní rozsudek, doklady o kontaktu matky se synem po činu, případnou závěť.
@@ -681,6 +692,10 @@ Dědicem se stane jen ten, kdo zůstavitele přežil; kdo zemřel současně, ne
 - *Související ustanovení téhož zákona:* § 1646 odst. 2 (zůstavitel může nezpůsobilého i vydědit, čímž dopadne i na potomky), § 1483 (potomek vyloučeného nastupuje na jeho místo), § 1635 odst. 2 (reprezentace).
 - *Související předpisy:* trestní zákoník (kvalifikace úmyslného TČ); § 135 odst. 1 o. s. ř. (vázanost soudu výrokem o spáchání TČ).
 - *Judikatura:* NS 24 Cdo 2432/2025 — nezpůsobilost zakládá jen jednání povahy úmyslného TČ směřující proti zůstaviteli, nikoli pouhé porušení závazku či nemravné jednání; NS 24 Cdo 106/2021 a 24 Cdo 669/2025 — rozhodující je závěr pozůstalostního soudu o spáchaném činu; NS 24 Cdo 1375/2024 — prominutí nemusí být výslovné slovní, lze je dovodit z jiného jednání zůstavitele, z nějž jednoznačně plyne odpuštění.
+
+> 📎 **Doslovné znění — § 135 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Soud je vázán rozhodnutím příslušných orgánů o tom, že byl spáchán trestný čin, přestupek nebo jiný správní delikt postižitelný podle zvláštních předpisů, a kdo je spáchal, jakož i rozhodnutím o osobním stavu; soud však není vázán rozhodnutím v blokovém řízení.
+> (2) Jinak otázky, o nichž přísluší rozhodnout jinému orgánu, může soud posoudit sám. Bylo-li však o takové otázce vydáno příslušným orgánem rozhodnutí, soud z něho vychází.
 
 **4. Subsumpce.** Fyzické napadení matky naplňující znaky úmyslného TČ proti zůstaviteli → důvod nezpůsobilosti dle § 1481. Pouhé zanedbávání bez znaků úmyslného TČ by samo nestačilo (to je důvod vydědění dle § 1646, nikoli nezpůsobilosti). Sporné je prominutí: zákon žádá „výslovné" prominutí, judikatura však připouští i konkludentní, plyne-li z jednání jednoznačně odpuštění. Návštěvy a běžný dar k narozeninám samy o sobě jednoznačné odpuštění nedokládají.
 

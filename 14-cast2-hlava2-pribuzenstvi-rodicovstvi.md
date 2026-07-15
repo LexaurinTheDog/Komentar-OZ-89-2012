@@ -1020,6 +1020,11 @@ Muž (i matka), jehož otcovství vzniklo souhlasným prohlášením, je popře 
 - *Související předpisy:* čl. 7 a 8 Úmluvy o právech dítěte (právo znát své rodiče); čl. 10 Listiny; z. č. 292/2013 Sb.
 - *Judikatura:* z místních zdrojů ÚS [II. ÚS 3109/14] a ÚS [III. ÚS 55/24] (popěrné lhůty a zájem dítěte); NS [24 Cdo 2657/2024] (popření otcovství, prominutí zmeškání lhůty), NS [24 Cdo 1238/2022], NS [24 Cdo 551/2022], NS [24 Cdo 487/2022] (prekluzivní lhůta, prominutí) — citováno v komentáři.
 
+> 📎 **Doslovné znění — čl. 10 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý má právo, aby byla zachována jeho lidská důstojnost, osobní čest, dobrá pověst a chráněno jeho jméno.
+> (2) Každý má právo na ochranu před neoprávněným zasahováním do soukromého a rodinného života.
+> (3) Každý má právo na ochranu před neoprávněným shromažďováním, zveřejňováním nebo jiným zneužíváním údajů o své osobě.
+
 **4. Subsumpce.** Popěrná lhůta P. marně uplynula, takže běžné popření (§ 790) je vyloučeno. Nastupuje pojistka § 792 (prominutí zmeškání), je-li to v zájmu dítěte a veřejného pořádku, resp. § 793 (zahájení řízení i bez návrhu), neboť otcovství vzniklo souhlasným prohlášením a zapsaný otec P. „nemůže být otcem dítěte" (DNA). Znaky § 793 — zřejmý zájem dítěte a ochrana základních práv (právo znát rodiče) — jsou naplněny.
 
 **5. Řešení.** Soud na podnět (typicky OSPOD) zahájí i bez návrhu řízení o popření otcovství P. dle § 793 a zpravidla současně pozastaví výkon rodičovské odpovědnosti P. Alternativně, podá-li opožděný návrh oprávněná osoba, soud promine zmeškání lhůty podle § 792. Po popření může být otcovství skutečného otce určeno souhlasným prohlášením či soudem. Procesní krok: doložit vyloučení otcovství P. a konkrétní zájem dítěte. Riziko: tyto pojistky jsou výjimečné a soud poměřuje zájem dítěte na stabilitě stávajícího vztahu proti zájmu na poznání pravého otce.

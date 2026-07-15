@@ -253,6 +253,10 @@ Pokud jsou splněny, smlouva je **platná** — i když na ní je pseudonym mís
 - *NS* [29 ICdo 84/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/96252E7AE61CFBE0C12584AE001EA73E?openDocument) — *Podnikatel Právní úkony Osoba blízká Jednatel*
   > „4) Slovní spojení „osoba blízká“ (dlužníku) a osoba „tvořící s dlužníkem koncern“ je nutno vykládat způsobem vymezeným legální definicí těchto pojmů v příslušných právních předpisech; srov. pro dobu před 1. lednem 2014 ustanovení § 116 obč. zák. a ustanovení § 66a odst. 7 zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch."
 
+> 📎 **Doslovné znění — § 116 zákona č. 40/1964 Sb., Občanský zákoník:**
+> Osobou blízkou je příbuzný v řadě přímé, sourozenec a manžel; jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, jestliže by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Spisovatelka F dlouhodobě publikuje pod uměleckým pseudonymem „Jan Hradec", pod nímž je široce známá. Nakladatelství s ní uzavře licenční smlouvu o vydání románu, v níž je jako autor uveden pseudonym „Jan Hradec" a vlastnoruční podpis F; jednání předcházela osobní setkání, korespondence z její soukromé e-mailové adresy a předání rukopisu. Po vydání jiný subjekt začne uvádět na trh e-knihy „Jana Hradce", které F nenapsala. Účastníci: F (autorka, nositelka pseudonymu), nakladatelství (smluvní partner), třetí subjekt (rušitel). Důkazy: licenční smlouva, korespondence prokazující totožnost jednajícího, doklady o známosti pseudonymu (recenze, prodeje), srovnání spotřebitelské asociace pseudonymu s F.
@@ -495,6 +499,14 @@ Bydliště v soukromém právu je materiální kategorie (zdržování se + úmy
 - *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
   > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
 
+> 📎 **Doslovné znění — § 208 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru**
+> (1) Kdo protiprávně obsadí nebo užívá dům, byt nebo nebytový prostor jiného, bude potrestán odnětím svobody až na dvě léta.
+> (2) Stejně bude potrestán, kdo oprávněné osobě v užívání domu, bytu nebo nebytového prostoru neoprávněně brání.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny, nebo
+> b) způsobí-li takovým činem škodu velkého rozsahu.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Investigativní web zveřejní reportáž, v níž o známém podnikateli I uvede, že „bezpochyby řídí organizovanou zločineckou skupinu", ačkoli I nebyl obviněn ani odsouzen; článek je doplněn jeho fotografií, údaji o zdravotním stavu (psychiatrická léčba) a o rodinném životě. I se cítí dotčen na cti, dobré pověsti, soukromí i důstojnosti. Účastníci: I (dotčená osoba), provozovatel webu (rušitel). Důkazy: text reportáže, doklad o neexistenci trestního stíhání, zdroj informací o zdravotním stavu, doklady o dopadu (ztráta zakázek).
@@ -518,6 +530,13 @@ Bydliště v soukromém právu je materiální kategorie (zdržování se + úmy
 - *Protiargument „svoboda projevu a veřejný zájem":* žalovaný se dovolá čl. 17 LZPS. Neutralizace: oddělit skutková tvrzení (test pravdivosti) od hodnotících soudů (test dostatečného základu) a vyloučit veřejný zájem u ryze soukromých/zdravotních údajů.
 - *Protiargument „status veřejné osoby":* tvrzení o snížené ochraně veřejně činné osoby. Neutralizace: snížená ochrana se týká veřejného působení, nikoli zdravotního stavu a rodinného života.
 - *Slabé místo:* výše satisfakce je obtížně předvídatelná a vyžaduje doložení intenzity a následků zásahu; bez doložení dopadu hrozí symbolické plnění.
+
+> 📎 **Doslovné znění — čl. 17 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Svoboda projevu a právo na informace jsou zaručeny.
+> (2) Každý má právo vyjadřovat své názory slovem, písmem, tiskem, obrazem nebo jiným způsobem, jakož i svobodně vyhledávat, přijímat a rozšiřovat ideje a informace bez ohledu na hranice státu.
+> (3) Cenzura je nepřípustná.
+> (4) Svobodu projevu a právo vyhledávat a šířit informace lze omezit zákonem, jde-li o opatření v demokratické společnosti nezbytná pro ochranu práv a svobod druhých, bezpečnost státu, veřejnou bezpečnost, ochranu veřejného zdraví a mravnosti.
+> (5) Státní orgány a orgány územní samosprávy jsou povinny přiměřeným způsobem poskytovat informace o své činnosti. Podmínky a provedení stanoví zákon.
 
 #### H. Praktický závěr
 
@@ -573,6 +592,37 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *NS* [30 Cdo 5848/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AEF771EA85E22CC3C125829600476AF9?openDocument) — *Ochrana osobnosti*
   > „Bylo již zmíněno, že odvolací soud daný spor podřadil pod ustanovení o ochraně osobnosti člověka občanského zákoníku č. 89/2012 Sb. (konkrétně upravující postmortální ochranu člověka ve smyslu ustanovení § 82 odst. 2 o.z.)."
 
+> 📎 **Doslovné znění — § 28 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách):**
+> (1) Zdravotní služby lze pacientovi poskytnout pouze s jeho svobodným a informovaným souhlasem, nestanoví-li tento zákon jinak.
+> (2) Pacient má právo na poskytování zdravotních služeb na náležité odborné úrovni.
+> (3) Pacient má při poskytování zdravotních služeb dále právo
+> a) na úctu, důstojné zacházení, na ohleduplnost a respektování soukromí při poskytování zdravotních služeb v souladu s charakterem poskytovaných zdravotních služeb,
+> b) zvolit si poskytovatele oprávněného k poskytnutí zdravotních služeb, které odpovídají zdravotním potřebám pacienta, a zdravotnické zařízení, pokud tento zákon nebo jiné právní předpisy nestanoví jinak,
+> c) vyžádat si konzultační služby od jiného poskytovatele, popřípadě zdravotnického pracovníka, než který mu poskytuje zdravotní služby; to neplatí, jde-li o poskytování neodkladné péče nebo o osoby ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence,
+> d) být seznámen s vnitřním řádem zdravotnického zařízení lůžkové nebo jednodenní péče (dále jen „vnitřní řád“),
+> e) na
+> 1. nepřetržitou přítomnost zákonného zástupce, popřípadě osoby určené zákonným zástupcem, pěstouna nebo jiné osoby, do jejíž péče byl pacient na základě rozhodnutí soudu nebo jiného orgánu svěřen, je-li nezletilou osobou,
+> 2. nepřetržitou přítomnost opatrovníka, popřípadě osoby určené opatrovníkem, nebo jiné osoby, která je na základě rozhodnutí soudu oprávněna pacienta zastupovat70) v právním jednání vztahujícím se k poskytování zdravotních služeb, je-li pacient v tomto rozsahu zastoupen (dále jen „pacient s ustanoveným zástupcem“),
+> 3. přítomnost podpůrce71), osoby blízké nebo osoby určené pacientem,
+> a to v souladu s jinými právními předpisy a vnitřním řádem, a nenaruší-li přítomnost těchto osob poskytnutí zdravotních služeb; to neplatí, jde-li o osoby ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence; tím není dotčen § 47 odst. 1 písm. b),
+> f) být předem informován o ceně poskytovaných zdravotních služeb a služeb souvisejících s poskytovanými zdravotními službami nehrazených nebo částečně hrazených z veřejného zdravotního pojištění a o způsobu jejich úhrady, pokud to jeho zdravotní stav umožňuje,
+> g) znát jméno, popřípadě jména, a příjmení zdravotnických pracovníků a jiných odborných pracovníků přímo zúčastněných na poskytování zdravotních služeb a osob připravujících se u poskytovatele na výkon zdravotnického povolání, které jsou při poskytování zdravotních služeb přítomny, popřípadě provádějí činnosti, které jsou součástí výuky,
+> h) odmítnout přítomnost osob, které nejsou na poskytování zdravotních služeb přímo zúčastněny, a osob připravujících se na výkon povolání zdravotnického pracovníka,
+> i) přijímat návštěvy ve zdravotnickém zařízení lůžkové nebo jednodenní péče, a to s ohledem na svůj zdravotní stav a v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů, pokud tento zákon nebo jiný právní předpis nestanoví jinak,
+> j) přijímat ve zdravotnickém zařízení lůžkové nebo jednodenní péče duchovní péči a duchovní podporu (dále jen „duchovní péče“) od duchovních církví a náboženských společností registrovaných v České republice nebo od osob pověřených výkonem duchovenské činnosti (dále jen „duchovní“) v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů, a s ohledem na svůj zdravotní stav, nestanoví-li jiný právní předpis jinak; návštěvu duchovního nelze pacientovi odepřít v případech ohrožení jeho života nebo vážného poškození zdraví, nestanoví-li jiný právní předpis jinak,
+> k) na poskytování zdravotních služeb v co nejméně omezujícím prostředí při zajištění kvality a bezpečí poskytovaných zdravotních služeb.
+> (4) Pacient vykazující znaky osoby, na které bylo spácháno domácí nebo sexuální násilí, má při poskytování zdravotních služeb dále právo
+> a) žádat o změnu ošetřujícího zdravotnického pracovníka za předpokladu, že
+> 1. aktuální personální možnosti poskytovatele tuto změnu umožňují,
+> 2. touto změnou nebude ohroženo zdraví nebo život pacienta a
+> 3. tato změna nenaruší poskytování zdravotních služeb,
+> b) na poskytnutí informací o dostupné sociální, psychologické a právní pomoci.
+> O uplatnění práva podle písmene a) se provede záznam ve zdravotnické dokumentaci pacienta.
+> (5) Pacient s ustanoveným zástupcem nebo který je nezletilý, může požadovat, aby při poskytování zdravotních služeb nebyla přítomna osoba podle odstavce 3 písm. e), uvádí-li, že jde o osobu, která se na něm dopouští domácího nebo sexuálního násilí nebo jej jinak týrá, zneužívá nebo zanedbává. V tomto případě se postupuje podle § 35 odst. 5.
+> (6) Práva pacienta uvedená v odstavci 3 písm. c), e), i) a j) nemůže uplatnit pacient, kterému je poskytována záchytná služba nebo který je povinen se podrobit odbornému lékařskému vyšetření podle zákona o ochraně zdraví před škodlivými účinky návykových látek. Tento pacient rovněž nemůže při uplatňování práva podle odstavce 3 písm. h) odmítnout přítomnost příslušníka Policie České republiky, příslušníka Vojenské policie, strážníka obecní policie nebo příslušníka Vězeňské služby České republiky (dále jen „Vězeňská služba“), který na žádost poskytovatele poskytuje součinnost při poskytování záchytné služby nebo při vyšetření podle věty první.
+> (7) V případě poskytování zdravotních služeb osobám ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence a osobám omezeným na svobodě podle zákona o Policii České republiky může být právo pacienta na důvěrnost a respektování soukromí uvedené v odstavci 3 písm. a) a právo odmítnout přítomnost třetích osob uvedené v odstavci 3 písm. h) omezeno dozorem příslušníka Vězeňské služby nebo Policie České republiky (dále jen „příslušník“), pokud je to nezbytné kvůli důvodným obavám z útěku nebo o bezpečnost osob zúčastněných na poskytování zdravotních služeb nebo pacienta a hrozbu nelze odvrátit jinak. Uplatnění dozoru a jeho intenzita musí být přiměřené danému nebezpečí a podmínkám poskytování služby. Případný dozor a jeho formu stanoví příslušník ve spolupráci se zdravotnickým pracovníkem. O uplatnění dozoru a jeho formě se provede záznam ve zdravotnické dokumentaci pacienta.
+> (8) Poskytovatel nesmí požadovat platbu za přítomnost některé z osob podle odstavce 3 písm. e). Poskytovatel dále nesmí podmiňovat umožnění přítomnosti těchto osob platbou za jiné plnění. Tím není dotčena možnost, aby poskytovatel požadoval úhradu účelně vynaložených nákladů v souvislosti s přítomností některé z osob podle odstavce 3 písm. e).
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Veřejně známý politik J zemře; půl roku po jeho smrti odvysílá televize pořad, který o J nepravdivě tvrdí, že za života bral úplatky, a doprovodí to fingovanými „rekonstrukcemi". Dcera K i bratr L se cítí dotčeni na památce zemřelého. Současně vydavatel požaduje peněžitou satisfakci za zásah, k němuž došlo ještě za života J (článek vyšel den před smrtí). Účastníci: zemřelý J, K a L (osoby blízké), televize (rušitel). Důkazy: záznam pořadu, doklad o nepravdivosti, doklad o příbuzenském/blízkém vztahu, datace zásahu vůči okamžiku smrti.
@@ -584,6 +634,11 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - *Související ustanovení téhož zákona:* § 81 (chráněné statky); § 22 (osoba blízká); § 83 odst. 2 (postmortální legitimace právnické osoby); § 2951 odst. 2 a § 629 (satisfakce a promlčení).
 - *Související předpisy:* tiskový zákon č. 46/2000 Sb. (právo na odpověď/dodatečné sdělení); čl. 10 LZPS.
 - *Judikatura:* ÚS sp. zn. II. ÚS 577/13 a NS sp. zn. 30 Cdo 5848/2016 a 30 Cdo 547/2018 (citováno v komentáři) — postmortální ochrana podle § 82 odst. 2 a okruh oprávněných osob blízkých.
+
+> 📎 **Doslovné znění — čl. 10 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý má právo, aby byla zachována jeho lidská důstojnost, osobní čest, dobrá pověst a chráněno jeho jméno.
+> (2) Každý má právo na ochranu před neoprávněným zasahováním do soukromého a rodinného života.
+> (3) Každý má právo na ochranu před neoprávněným shromažďováním, zveřejňováním nebo jiným zneužíváním údajů o své osobě.
 
 **4. Subsumpce.** Postmortální legitimace (odst. 2) — naplněna u K i L jako osob blízkých; mohou se domáhat upuštění od šíření a odstranění následku (omluva, stažení). Naopak peněžitá satisfakce za zásah do osobnosti zemřelého náleží primárně do režimu ochrany památky (zdržovací a restituční nároky), nikoli automaticky jako majetkový nárok pozůstalých; nárok na satisfakci vzniklý za života J je nárokem J a jeho přechod do pozůstalosti je třeba posoudit zvlášť (osobní povaha práva). Sporné: rozsah, v jakém lze žádat zadostiučinění v penězích po smrti.
 
@@ -1656,6 +1711,10 @@ Souhlas lze odvolat v jakékoli formě, i byl-li dán písemně (§ 97 odst. 1).
 - *Související předpisy:* zákon č. 372/2011 Sb. (§ 36 — dříve vyslovené přání a jeho meze; § 38 — péče bez souhlasu).
 - *Judikatura:* k respektování autonomie a k mezím dříve vysloveného přání lze vyjít z ústavních východisek o nedotknutelnosti a sebeurčení (čl. 7 LZPS).
 
+> 📎 **Doslovné znění — čl. 7 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Nedotknutelnost osoby a jejího soukromí je zaručena. Omezena může být jen v případech stanovených zákonem.
+> (2) Nikdo nesmí být mučen ani podroben krutému, nelidskému nebo ponižujícímu zacházení nebo trestu.
+
 **4. Subsumpce.** Znaky § 99 — náhlé a patrné nebezpečí života (splněno), nemožnost získat souhlas (splněno — bezvědomí), nezbytnost zákroku ve prospěch zdraví (splněno) → lze okamžitě operovat. Dříve vyslovené přání (§ 98 odst. 2) — k odmítnutí transfuze je třeba přihlédnout; jeho závaznost je však omezena podmínkami zvláštního zákona (§ 36 zákona o zdravotních službách). Sporné: zda v akutní situaci jsou splněny podmínky závaznosti dříve vysloveného přání.
 
 **5. Řešení.** Lékaři smí provést nezbytný život zachraňující zákrok bez souhlasu (§ 99); k odmítnutí transfuze (dříve vyslovené přání) musí přihlédnout, je-li platné a aplikovatelné dle § 36 zákona o zdravotních službách — pak je nutno volit alternativní postupy. Kroky: zdokumentovat stav nouze a indikaci, ověřit platnost a dosah dříve vysloveného přání, postupovat co nejméně invazivně; po nabytí způsobilosti pacienta poučit (§ 103). Riziko: nerespektování platného přání → zásah do autonomie; naopak respektování neaplikovatelného přání při bezprostředním ohrožení života → odpovědnost. Neutralizace: pečlivé posouzení podmínek § 36 a dokumentace.
@@ -1883,6 +1942,34 @@ Dva principy:
 - *Související předpisy:* § 38 zákona č. 372/2011 Sb. (důvody hospitalizace bez souhlasu); § 66–84 z. ř. s. (řízení o přípustnosti převzetí); čl. 8 LZPS.
 - *Judikatura:* NS sp. zn. 24 Cdo 3387/2024, 24 Cdo 2368/2024 a 30 Cdo 3005/2017 (citováno v komentáři) — převzetí/držení bez souhlasu jen ze zákonného důvodu a nelze-li péči nahradit mírnějším a méně omezujícím opatřením.
 
+> 📎 **Doslovné znění — čl. 8 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Osobní svoboda je zaručena.
+> (2) Nikdo nesmí být stíhán nebo zbaven svobody jinak než z důvodů a způsobem, který stanoví zákon. Nikdo nesmí být zbaven svobody pouze pro neschopnost dostát smluvnímu závazku.
+> (3) Obviněného nebo podezřelého z trestného činu je možno zadržet jen v případech stanovených v zákoně. Zadržená osoba musí být ihned seznámena s důvody zadržení, vyslechnuta a nejpozději do 48 hodin propuštěna na svobodu nebo odevzdána soudu. Soudce musí zadrženou osobu do 24 hodin od převzetí vyslechnout a rozhodnout o vazbě, nebo ji propustit na svobodu.
+> (4) Zatknout obviněného je možno jen na písemný odůvodněný příkaz soudce. Zatčená osoba musí být do 24 hodin odevzdána soudu. Soudce musí zatčenou osobu do 24 hodin od převzetí vyslechnout a rozhodnout o vazbě nebo ji propustit na svobodu.
+> (5) Nikdo nesmí být vzat do vazby, leč z důvodů a na dobu stanovenou zákonem a na základě rozhodnutí soudu.
+> (6) Zákon stanoví, ve kterých případech může být osoba převzata nebo držena v ústavní zdravotnické péči bez svého souhlasu. Takové opatření musí být do 24 hodin oznámeno soudu, který o tomto umístění rozhodne do 7 dnů.
+
+> 📎 **Doslovné znění — § 38 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách):**
+> (1) Pacienta lze bez souhlasu hospitalizovat, jestliže
+> a) mu
+> 1. bylo pravomocným rozhodnutím soudu uloženo ochranné léčení formou lůžkové péče,
+> 2. je nařízena izolace, karanténa nebo léčení podle zákona o ochraně veřejného zdraví,
+> 3. je podle trestního řádu nebo zákona o zvláštních řízeních soudních nařízeno vyšetření zdravotního stavu,
+> b) bezprostředně a závažným způsobem ohrožuje sebe nebo své okolí a jeví známky duševní poruchy nebo touto poruchou trpí nebo je pod vlivem návykové látky, pokud tuto hrozbu nelze odvrátit jinak, nebo
+> c) jeho zdravotní stav vyžaduje poskytnutí neodkladné péče a zároveň neumožňuje, aby vyslovil souhlas.
+> (2) Nezletilého pacienta nebo pacienta s ustanoveným zástupcem lze bez souhlasu osob uvedených v § 28 odst. 3 písm. e) bodech 1 a 2 hospitalizovat též v případě, jde-li o podezření na domácí nebo sexuální násilí nebo jiné týrání, zneužívání nebo zanedbávání.
+> (3) Pacientovi lze bez jeho souhlasu poskytnout pouze neodkladnou péči, a to v případě
+> a) kdy zdravotní stav neumožňuje pacientovi tento souhlas vyslovit; tím není dotčeno dříve vyslovené přání podle § 36, nebo
+> b) léčby vážné duševní poruchy, pokud by v důsledku jejího neléčení došlo se vší pravděpodobností k vážnému poškození zdraví pacienta.
+> (4) Nezletilému pacientovi nebo pacientovi s ustanoveným zástupcem lze bez souhlasu poskytnout neodkladnou péči, jde-li o
+> a) případy podle odstavce 3 písm. b), nebo
+> b) zdravotní služby nezbytné k záchraně života nebo zamezení vážného poškození zdraví.
+> (5) Nezletilému pacientovi nebo pacientovi s ustanoveným zástupcem lze poskytnout neodkladnou péči bez souhlasu osob uvedených v § 28 odst. 3 písm. e) bodech 1 a 2, pokud je u něj podezření na domácí nebo sexuální násilí nebo jiné týrání, zneužívání nebo zanedbávání.
+> (6) Poskytovatel je povinen o hospitalizaci podle odstavce 1 písm. b) nebo c) informovat osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2 nebo podpůrce a osobu určenou podle § 33. Není-li žádné takové osoby nebo žádnou takovou osobu nelze zastihnout, poskytovatel je povinen informovat některou z osob blízkých, popřípadě osobu ze společné domácnosti, pokud jsou mu známy. Není-li takových osob nebo je nelze zastihnout, informuje Policii České republiky.
+> (7) Bez souhlasu lze poskytnout též jiné zdravotní služby, stanoví-li tak zákon o ochraně veřejného zdraví, a záchytnou službu.
+> (8) Bez souhlasu pacienta lze provést orientační vyšetření nebo odborné lékařské vyšetření za účelem zjištění přítomnosti alkoholu nebo jiné návykové látky v těle72), jestliže zdravotní stav neumožňuje pacientovi, aby vyslovil souhlas.
+
 **4. Subsumpce.** Zákonný důvod (§ 104 ve spojení s § 38 zák. o zdrav. službách) — naplněn jen, prokáže-li se nebezpečí pro sebe/okolí či akutní porucha. Subsidiarita — sporná: je-li dostupná intenzivní ambulantní péče, plná hospitalizace je nepřípustná. Zákaz spojení s návrhem na omezení svéprávnosti — naplněn: tento návrh sám důvodem být nemůže. Sporné: zda mírnější opatření reálně postačuje.
 
 **5. Řešení.** Hospitalizace je přípustná jen při zákonném důvodu a vyčerpání mírnějších opatření; nelze ji opřít o samotný návrh na omezení svéprávnosti. Není-li subsidiarita splněna, je držení nezákonné a pacient má být propuštěn (s následným soudním přezkumem dle § 105). Kroky: doložit zákonný důvod, posoudit a zdokumentovat dostupnost mírnějších opatření; soud přezkoumá přípustnost. Riziko: paušální hospitalizace bez úvahy o alternativě → nezákonnost; neutralizuje se zdokumentovaným posouzením subsidiarity.
@@ -2002,6 +2089,11 @@ Při převzetí bez souhlasu platí tři lhůty: neprodlené oznámení rodině 
 - *NS* [5 Tdo 124/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/77237A2924BE6039C1258796001E50F6?openDocument) — *Podvod Poškozování věřitele Promlčení trestní odpovědnosti Příčetnost Úvěrový podvod Zkr…*
   > „Pak je podle státního zástupce namístě použít ustanovení § 106 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále ve zkratce jen „obč. zák.“), jak učinily ve věci soudy."
 - *NS* [28 Cdo 2931/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE263744E832078EC12587FD001B8AD2?openDocument) — *Promlčení Bezdůvodné obohacení Výklad projevu vůle*
+
+> 📎 **Doslovné znění — § 106 zákona č. 40/1964 Sb., Občanský zákoník:**
+> (1) Právo na náhradu škody se promlčí za rok ode dne, kdy se poškozený dozví o škodě a o tom, kdo za ni odpovídá.
+> (2) Nejpozději se právo na náhradu škody promlčí za tři roky, a jde-li o škodu způsobenou úmyslně, za deset let ode dne, kdy došlo k události, z níž škoda vznikla; to neplatí, jde-li o škodu na zdraví.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
 
 #### F. Kazuistika
 

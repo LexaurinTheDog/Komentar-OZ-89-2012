@@ -326,6 +326,11 @@ Příklady:
 - *Související předpisy:* § 57 o. s. ř. jako procesní obdoba; zvláštní lhůty ve spotřebitelském právu (§ 1829 OZ).
 - *Judikatura:* NS sp. zn. 30 Cdo 1839/2024 a 29 ICdo 88/2023 (citováno) k aplikaci § 605 odst. 1 i 2; NS sp. zn. 30 Cdo 3248/2020 (citováno) — určení dne promlčení dle § 605 odst. 2.
 
+> 📎 **Doslovné znění — § 57 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Do běhu lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin.
+> (2) Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůty určené podle hodin končí uplynutím hodiny, která se svým označením shoduje s hodinou, kdy došlo ke skutečnosti určující počátek lhůty.
+> (3) Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+
 **4. Subsumpce.** Patnáctidenní lhůta (dny) dle § 605 odst. 1: den události 1. 5. se nezapočítává, lhůta běží od 2. 5., konec 16. 5. Jednoměsíční lhůta od 31. 1. (měsíce/léta) dle § 605 odst. 2: shodný den by byl 31. 2., který neexistuje — proto konec připadá na poslední den února (28. 2., resp. 29. 2. v přestupném roce). Oba znaky norem jsou naplněny.
 
 **5. Řešení.** Spotřebitel má pro měsíční lhůtu čas do 28. (29.) února a pro patnáctidenní do 16. května. Procesně je třeba doložit datum doručení (doručenka). Výsledek je dále nutné zkontrolovat optikou § 607 (zda konec nepřipadá na víkend/svátek). Riziko: záměna pravidel pro dny vs. měsíce vede k chybnému určení konce.
@@ -985,6 +990,21 @@ Zajištění přežívá promlčení osobní pohledávky: věřitel se může us
 - *NS* [33 Cdo 2807/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8588C9BB74F2276C1258B8E004D411A?openDocument) — *Přípustnost dovolání Promlčení Smlouva o úvěru*
 - *NS* [23 Cdo 2120/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E605FFB5F4F393FC1258A3C00160EF7?openDocument) — *Promlčení*
 - *NS* [22 Cdo 3169/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/18748CAE47252C41C125871E00187799?openDocument) — *Promlčení*
+
+> 📎 **Doslovné znění — § 43 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád):**
+> (1) Ten, komu bylo trestným činem ublíženo na zdraví, způsobena majetková škoda nebo nemajetková újma, nebo ten, na jehož úkor se pachatel trestným činem obohatil (poškozený), má právo činit návrh na doplnění dokazování, nahlížet do spisů (§ 65), zúčastnit se sjednávání dohody o vině a trestu, zúčastnit se hlavního líčení a veřejného zasedání konaného o odvolání nebo o schválení dohody o vině a trestu a před skončením řízení se k věci vyjádřit. Jde-li o trestný čin zanedbání povinné výživy (§ 196 trestního zákoníku), rozumí se pro účely tohoto zákona majetkovou škodou, jež byla poškozenému způsobena trestným činem, i dlužné výživné.
+> (2) Za poškozeného se nepovažuje ten, kdo se sice cítí být trestným činem morálně nebo jinak poškozen, avšak vzniklá újma není způsobena zaviněním pachatele nebo její vznik není v příčinné souvislosti s trestným činem.
+> (3) Poškozený je oprávněn také navrhnout, aby soud v odsuzujícím rozsudku uložil obžalovanému povinnost nahradit v penězích škodu nebo nemajetkovou újmu, jež byla poškozenému trestným činem způsobena, nebo vydat bezdůvodné obohacení, které obžalovaný na jeho úkor trestným činem získal. Návrh je třeba učinit nejpozději u hlavního líčení před zahájením dokazování (§ 206 odst. 2); je-li sjednána dohoda o vině a trestu, je třeba návrh učinit nejpozději při prvním jednání o takové dohodě (§ 175a odst. 2). Z návrhu musí být patrno, z jakých důvodů a v jaké výši se nárok na náhradu škody nebo nemajetkové újmy uplatňuje nebo z jakých důvodů a v jakém rozsahu se uplatňuje nárok na vydání bezdůvodného obohacení. Důvod a výši škody, nemajetkové újmy nebo bezdůvodného obohacení je poškozený povinen doložit. O těchto právech a povinnostech musí být poškozený poučen. Nebyl-li by pro rozhodnutí o nároku poškozeného dostatečný podklad a nebrání-li tomu důležité důvody, zejména potřeba vyhlášení rozsudku nebo vydání trestního příkazu bez zbytečných průtahů, soud poškozenému sdělí, jakým způsobem může podklady doplnit, a poskytne mu k tomu přiměřenou lhůtu, kterou mu zároveň určí.
+> (4) Poškozený, který je obětí trestného činu podle zákona o obětech trestných činů, má právo v kterémkoliv stadiu trestního řízení učinit prohlášení o tom, jaký dopad měl spáchaný trestný čin na jeho dosavadní život. Prohlášení lze učinit i písemně. Písemné prohlášení se v řízení před soudem provede jako listinný důkaz.
+> (5) Poškozený se může rovněž výslovným prohlášením sděleným orgánu činnému v trestním řízení vzdát procesních práv, které mu tento zákon jako poškozenému přiznává.
+
+> 📎 **Doslovné znění — § 6 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích:**
+> (1) Pokud stát vystupuje jako účastník právních vztahů, je právnickou osobou.
+> (2) Právní osobnost a svéprávnost státu se pro účely jeho vystupování v právních vztazích s jinými osobami dělí mezi jednotlivé organizační složky, které jsou podle tohoto zákona anebo podle zvláštních právních předpisů věcně příslušné k zajišťování výkonu práv a plnění závazků státu v těchto právních vztazích a jsou účetními jednotkami.
+> (3) Organizační složky uvedené v odstavci 2 naplňují právní osobnost a svéprávnost státu v právních vztazích, které se jich týkají, samostatně a vzájemně nezávisle.
+> (4) Týká-li se právní vztah současně různých organizačních složek uvedených v odstavci 2, naplňuje každá z nich právní osobnost a svéprávnost státu v rozsahu, který odpovídá její příslušnosti.
+> (5) Odstavce 2 až 4 se použijí přiměřeně i na právní vztahy mezi organizačními složkami navzájem. Právní jednání organizačních složek se v těchto případech řídí ustanovením § 19 odst. 1.
+> (6) V řízení před soudy a jinými orgány vystupují organizační složky za stát jako jednotliví účastníci96). Vystupuje-li v řízení před soudy a jinými orgány za stát v téže věci více organizačních složek, postupují v řízení samostatně, v souladu se svou procesní rolí a vzájemně nezávisle v rozsahu, který odpovídá jejich příslušnosti.
 
 ##### F. Kazuistika
 
@@ -1975,6 +1995,16 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 - *Související předpisy:* o. s. ř. (zahájení řízení), exekuční řád; zák. č. 82/1998 Sb. (předběžné projednání nároku vůči státu).
 - *Judikatura:* NS sp. zn. 30 Cdo 1776/2020 (citováno) — předběžné projednání nároku dle § 14 zák. č. 82/1998 Sb. není řízením před orgánem veřejné moci ve smyslu § 648, pravidlo § 652 se neuplatní; NS sp. zn. 29 Cdo 1774/2016 (citováno) — insolvenční řízení a promlčení.
 
+> 📎 **Doslovné znění — § 14 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád):**
+> (1) Nárok na náhradu škody se uplatňuje u úřadu uvedeného v § 6.
+> (2) Byl-li nárok uplatněn u úřadu, který není příslušný, postoupí tento úřad žádost poškozeného příslušnému úřadu. Účinky předběžného uplatnění jsou v tomto případě zachovány.
+> (3) Uplatnění nároku na náhradu škody podle tohoto zákona je podmínkou pro případné uplatnění nároku na náhradu škody u soudu.
+> (4) Je-li pro posouzení nároku na náhradu škody nezbytné zohlednit okolnosti, k nimž má v rámci své činnosti přístup úřad nebo jiný orgán veřejné moci, který není k jeho projednání příslušný, poskytne tento úřad nebo jiný orgán veřejné moci příslušnému úřadu nezbytnou součinnost; to platí pro řízení před soudem obdobně.
+> (5) Uplatnil-li poškozený nárok na náhradu ušlého zisku nebo na přiměřené zadostiučinění za vzniklou nemajetkovou újmu podle § 9 nebo 10 a byl-li vůči poškozenému vydán odsuzující rozsudek, kterým byla zohledněna dříve vykonaná vazba nebo dříve vykonaný trest odnětí svobody, nebo kterým byl uložen trest umožňující jejich započítání, posoudí příslušný úřad nárok nejdříve po nabytí právní moci
+>   - a) rozhodnutí o započítání vazby nebo trestu odnětí svobody, bylo-li trestní řízení, ve kterém byl tento odsuzující rozsudek vydán, skončeno pravomocným odsuzujícím rozsudkem, kterým byl uložen trest umožňující jejich započítání, nebo
+>   - b) rozhodnutí, kterým bylo skončeno trestní řízení, ve kterém byl tento odsuzující rozsudek vydán, v ostatních případech.
+> (6) Nárok na náhradu škody podle § 9 až 11 se uplatňuje pouze prostřednictvím formuláře, jehož náležitosti stanoví Ministerstvo spravedlnosti vyhláškou. Tento formulář uveřejní Ministerstvo spravedlnosti způsobem umožňujícím dálkový přístup. K návrhu, který není podán na formuláři podle věty první, se nepřihlíží.
+
 **4. Subsumpce.** Věřitel uplatnil právo u soudu v promlčecí lhůtě a řádně pokračoval v řízení — znak § 648 je naplněn, po dobu řízení lhůta neběží; totéž platí pro fázi výkonu rozhodnutí. Naproti tomu předběžné projednání nároku u úřadu není „řízením před orgánem veřejné moci" ve smyslu § 648, takže stavění ani prodloužení dle § 652 nenastává (negativní vymezení znaku).
 
 **5. Řešení.** Po dobu soudního řízení a exekuce lhůta neběží (§ 648); věřitel je chráněn před promlčením, dokud řádně pokračuje. Praktický krok: doložit včasné podání žaloby a kontinuitu řízení. Riziko: spoléhání na předběžné projednání nároku jako na stavící úkon je chybné (§ 648 se nepoužije) — je nutné včas podat žalobu. Pozor i na to, že nečinnost či zpětvzetí mohou účinek stavění zmařit.
@@ -2228,6 +2258,9 @@ Uznání již promlčeného dluhu (§ 653) obnoví nárok a založí novou deset
   > „Uvádí, že oba soudy vycházely z prekluzivní lhůty stanovené v § 72 zákoníku práce, pro kterou platí obdobně ustanovení o běhu promlčecí lhůty v § 654 odst. 2 občanského zákoníku, a že je proto možné uplatnit neplatnost rozvázání pracovního poměru v delší než dvouměsíční lhůtě, stanoví-li to § 645 až § 652 občanského zákoníku."
 - *NS* [21 Cdo 4075/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/634B0E8B4C39D487C125859C0019FEF0?openDocument) — *Lhůty Dohoda o rozvázání pracovního poměru Neplatnost právních jednání (o. z.) [ Právní…*
   > „Podle ustanovení § 654 odst. 2 o. z. ustanovení tohoto zákona o běhu promlčecí lhůty platí obdobně i pro prekluzivní lhůtu."
+
+> 📎 **Doslovné znění — § 72 zákona č. 262/2006 Sb., zákoník práce:**
+> Neplatnost rozvázání pracovního poměru výpovědí, okamžitým zrušením, zrušením ve zkušební době nebo dohodou může jak zaměstnavatel, tak i zaměstnanec uplatnit u soudu nejpozději ve lhůtě 2 měsíců ode dne, kdy měl pracovní poměr skončit tímto rozvázáním.
 
 #### F. Kazuistika
 

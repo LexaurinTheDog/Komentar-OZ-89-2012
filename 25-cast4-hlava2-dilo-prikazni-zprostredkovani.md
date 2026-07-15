@@ -887,6 +887,20 @@ U splátkové zápůjčky umožňuje § 2394 zesplatnit celý dluh při kvalifik
 - *NS* [33 Cdo 1459/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4B4CB07A049A07F5C1258AC1001B7E9E?openDocument) — *Neplatnost právního jednání (o. z.) Smlouva o úvěru*
   > „Účel úvěru – poskytnutí peněžních prostředků a jejich vrácení spolu s úroky (§ 2395 o. z.) – svědčí pro závěr, že zbylé části právního jednání, tedy i utvrzení dluhu smluvní pokutou (článek V.4) obstojí."
 
+> 📎 **Doslovné znění — § 211 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Úvěrový podvod**
+> (1) Kdo při sjednávání úvěrové smlouvy nebo při čerpání úvěru uvede nepravdivé nebo hrubě zkreslené údaje nebo podstatné údaje zamlčí, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+> (2) Stejně bude potrestán, kdo bez souhlasu věřitele, v nikoli malém rozsahu, použije prostředky získané účelovým úvěrem na jiný než určený účel.
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo 2 větší škodu.
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny,
+> b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+> c) způsobí-li takovým činem značnou škodu.
+> (5) Odnětím svobody na pět až deset let bude pachatel potrestán,
+> a) způsobí-li činem uvedeným v odstavci 1 nebo 2 škodu velkého rozsahu, nebo
+> b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu (§ 312d) nebo vyhrožování teroristickým trestným činem (§ 312f).
+> (6) Příprava je trestná.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Banka B uzavřela s podnikatelem U úvěrovou smlouvu s rámcem 2 mil. Kč; U čerpal 1,2 mil. Kč. Smlouva obsahuje utvrzení dluhu smluvní pokutou. U později namítá, že celá smlouva je neplatná pro neurčitost ujednání o smluvní pokutě, a dovozuje neplatnost celého závazku včetně povinnosti vrátit čerpané prostředky. Důkazy: úvěrová smlouva, doklady o čerpání, výpisy účtu.
@@ -1539,6 +1553,12 @@ Skladování je úplatné podnikatelské opatrování cizí věci: skladovatel p
   > „2020, sp. zn. 20 Cdo 900/2019) není důvod se odchýlit – s ohledem na značnou podobnost příslušných ustanovení (k tomu srov. znění § 708 odst. 1 zákona č. 513/1991 Sb., obchodní zákoník, a znění § 2662 o. z.) – ani za účinnosti zákona č. 89/2012 Sb., občanský zákoník, tedy od 1."
 - *NS* [21 ICdo 44/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/113A24CE7E890673C12588B90018C6AE?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Smlouva o účtu (o. z.) Zástav…*
   > „2014 i ustanovení § 2662 o. z., podle něhož smlouvou o účtu se ten, kdo vede účet, zavazuje zřídit od určité doby v určité měně účet pro jeho majitele, umožnit vložení hotovosti na účet nebo výběr hotovosti z účtu nebo provádět převody peněžních prostředků z účtu či na účet."
+
+> 📎 **Doslovné znění — § 708 zákona č. 513/1991 Sb., Obchodní zákoník:**
+> **Základní ustanovení**
+> (1) Smlouvou o běžném účtu se zavazuje banka zřídit od určité doby na určitou měnu běžný účet pro jeho majitele.
+> (2) K uzavření smlouvy se vyžaduje písemná forma.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
 
 #### F. Kazuistika
 
@@ -2963,6 +2983,36 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
   > „Pro právní posouzení věci je významná i řada dalších ustanovení právních předpisů (zejména § 81 odst. 1 a 2, § 82 odst. 1, § 858, § 875 odst. 1, § 2910, § 2951 odst. 2, § 2956, § 2636 odst. 1 a 2, zákona č. 89/2012 Sb., občanského zákoníku, § 28 odst. 3 písm. e), § 45 odst. 1 zákona o zdravotních službách, a vyhlášek č. 92/2012 Sb. a č."
 - *NS* [25 Cdo 3179/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E36FD6306C40908C1258D06004D24AC?openDocument) — *Nemajetková újma (o. z.) Bolestné Ztížení společenského uplatnění*
   > „Při právním posouzení soudy postupovaly podle § 81, § 2910, § 2911, § 2914, § 2636, § 2643, § 2645, § 2951, § 2955, § 2956, § 2958 a § 2960 zákona č. 89/2012 Sb., občanského zákoníku, (dále jen „o. z.“) a § 4 odst. 5, § 28 odst. 2, § 31 odst. 1 písm. a) a § 34 zákona č."
+
+> 📎 **Doslovné znění — § 45 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách):**
+> (1) Poskytovatel je povinen poskytovat zdravotní služby na náležité odborné úrovni, vytvořit podmínky a opatření k zajištění uplatňování práv a povinností pacientů a dalších oprávněných osob, zdravotnických pracovníků a jiných odborných pracovníků při poskytování zdravotních služeb.
+> (2) Poskytovatel je dále povinen
+> a) informovat pacienta o ceně poskytovaných zdravotních služeb nebo služeb souvisejících s poskytovanými zdravotními službami nehrazených nebo částečně hrazených z veřejného zdravotního pojištění, a to před jejich poskytnutím, a vystavit účet za uhrazené zdravotní služby, nestanoví-li jiný právní předpis jinak,
+> b) zpracovat seznam cen poskytovaných zdravotních služeb a služeb souvisejících s poskytovanými zdravotními službami nehrazených a částečně hrazených z veřejného zdravotního pojištění a umístit ho tak, aby byl seznam přístupný pacientům; to neplatí pro poskytovatele lékárenské péče,
+> c) vymezit ordinační dobu, jde-li o pracoviště ambulantní nebo jednodenní péče, a údaj o ní umístit tak, aby tato informace byla přístupná pacientům; jde-li o zdravotnické zařízení lékárenské péče, kontaktní pracoviště domácí péče nebo místo poskytování zdravotních služeb mimo zdravotnické zařízení podle § 11a odst. 5 písm. c), poskytovatel má povinnost vymezit jeho otevírací dobu,
+> d) opatřit zdravotnické zařízení a místo poskytování zdravotních služeb mimo zdravotnické zařízení podle § 11a odst. 5 písm. c) viditelným označením, které musí obsahovat obchodní firmu, název nebo jméno, popřípadě jména a příjmení poskytovatele, a identifikační číslo, bylo-li přiděleno,
+> e) v době nepřítomnosti nebo dočasného přerušení poskytování zdravotních služeb zpřístupnit pacientům informaci o poskytnutí neodkladné péče jiným poskytovatelem v rámci jeho ordinační doby,
+> f) bez zbytečného odkladu předat zprávu o poskytnutých zdravotních službách registrujícímu poskytovateli v oboru všeobecné praktické lékařství nebo v oboru praktické lékařství pro děti a dorost nebo pediatrie, je-li to nezbytné pro zajištění návaznosti poskytování zdravotních služeb a je-li mu tento poskytovatel znám, poskytovateli, který si poskytnutí těchto zdravotních služeb vyžádal, a na vyžádání též poskytovateli zdravotnické záchranné služby nebo pacientovi; registrující poskytovatel v oboru zubní lékařství nebo v oboru gynekologie a porodnictví má povinnost předat zprávu jen v případě, kdy si poskytnutí zdravotních služeb vyžádal registrující poskytovatel v oboru všeobecné praktické lékařství nebo v oboru praktické lékařství pro děti a dorost nebo pediatrie,
+> g) bez zbytečného odkladu předat jiným poskytovatelům zdravotních služeb nebo poskytovatelům sociálních služeb potřebné informace o zdravotním stavu pacienta nezbytné k zajištění návaznosti dalších zdravotních a sociálních služeb poskytovaných pacientovi,
+> h) jde-li o dosavadního registrujícího poskytovatele, předat na žádost nového registrujícího poskytovatele do 15 dnů kopii zdravotnické dokumentace vedené o pacientovi tomuto novému registrujícímu poskytovateli,
+> i) informovat pacienta o tom, že se na poskytování zdravotních služeb mohou podílet osoby získávající způsobilost k výkonu povolání zdravotnického pracovníka nebo jiného odborného pracovníka, a to včetně nahlížení do zdravotnické dokumentace, a že pacient může přítomnost těchto osob při poskytování zdravotních služeb a nahlížení do zdravotnické dokumentace zakázat,
+> j) přijmout pacienta k
+> 1. izolaci, karanténě, léčení nebo lékařskému dohledu stanovenému podle zákona o ochraně veřejného zdraví, pokud je oprávněn požadované zdravotní služby zajišťovat,
+> 2. ochrannému léčení nařízenému soudem, jde-li o poskytovatele zajišťujícího tuto službu podle zákona o specifických zdravotních službách,
+> k) poskytnout zdravotní služby indikované lékařem Vězeňské služby osobě obviněné nebo odsouzené nebo umístěné v ústavu pro výkon zabezpečovací detence v termínu předem dohodnutém s Vězeňskou službou; to neplatí v případě poskytnutí neodkladné péče,
+> l) předávat údaje do Národního zdravotnického informačního systému,
+> m) být pojištěn pro případ své odpovědnosti za újmu způsobenou v souvislosti s poskytováním zdravotních služeb, a to v rozsahu, v jakém lze rozumně předpokládat, že by jej mohla taková odpovědnost postihnout; toto pojištění musí trvat po celou dobu poskytování zdravotních služeb; kopii pojistné smlouvy nebo pojistky je poskytovatel povinen zaslat příslušnému správnímu orgánu nejpozději do 15 dnů ode dne zahájení poskytování zdravotních služeb,
+> n) poskytovat informace vnitrostátnímu kontaktnímu místu na jeho žádost podle zákona o veřejném zdravotním pojištění50).
+> (3) Poskytovatel je dále povinen
+> a) předat pacientovi lékařský posudek nebo potvrzení pro Úřad práce České republiky – krajskou pobočku a na území hlavního města Prahy pro pobočku pro hlavní město Prahu v případě, že pacient není vzhledem ke svému zdravotnímu stavu schopen plnit povinnost součinnosti s krajskou pobočkou Úřadu práce nebo pobočkou pro hlavní město Prahu při zprostředkování zaměstnání24),
+> b) umožnit vstup osobám pověřeným příslušným správním orgánem, orgánem ochrany veřejného zdraví, Státním ústavem pro kontrolu léčiv, smluvní zdravotní pojišťovnou, komorou, pověřeným lékařům Institutu posuzování zdravotního stavu, zaměstnancům územních správ sociálního zabezpečení a Institutu posuzování zdravotního stavu pověřených provedením kontroly, veřejnému ochránci práv, ochránci práv dětí, jejich zástupci a pověřeným zaměstnancům Kanceláře veřejného ochránce práv a ochránce práv dětí za účelem zjišťování podkladů potřebných k plnění úkolů podle tohoto zákona nebo jiných právních předpisů upravujících činnost a úkoly uvedených subjektů a poskytnout jim potřebnou součinnost a předložit doklady nezbytné k provedení kontroly a plnění jejich úkolů; vstupem pověřených osob nesmí být narušeno poskytování zdravotních služeb,
+> c) umožnit vstup lékařům a zaměstnancům služebních orgánů pověřených kontrolou podle zákona o nemocenském pojištění25) a orgánů Ministerstva obrany, Ministerstva vnitra nebo Ministerstva spravedlnosti podle zákona o organizaci a provádění sociálního zabezpečení26) za účelem zjišťování podkladů potřebných pro plnění úkolů podle tohoto zákona, zákona o nemocenském pojištění nebo zákona o organizaci a provádění sociálního zabezpečení v souvislosti s plněním úkolů v důchodovém pojištění; vstupem těchto osob nesmí být narušeno poskytování zdravotních služeb,
+> d) poskytovat příslušnému správnímu orgánu, ministerstvu a Státnímu ústavu pro kontrolu léčiv na jeho žádost podklady a údaje potřebné pro přípravu na řešení mimořádných událostí a krizových situací,
+> e) zajistit součinnost členům mezinárodních orgánů při plnění jejich úkolů, vyplývá-li tato povinnost z mezinárodních smluv, kterými je Česká republika vázána,
+> f) zajistit splnění oznamovací povinnosti a sdělování údajů podle zákona upravujícího sociálně-právní ochranu dětí,
+> g) na žádost pacienta, kterému poskytuje následnou nebo dlouhodobou lůžkovou péči pro tutéž nemoc nebo úraz trvající, včetně následné nebo dlouhodobé lůžkové péče poskytované předchozími poskytovateli, nepřetržitě déle než 60 dnů, vydat písemné potvrzení o této skutečnosti, a to pro účely řízení o příspěvku na péči podle zákona o sociálních službách,
+> h) umožnit sociálním pracovníkům Úřadu práce České republiky – krajských poboček a pobočky pro hlavní město Prahu a sociálním pracovníkům Ministerstva práce a sociálních věcí provést u pacienta uvedeného v písmenu g) sociální šetření pro účely řízení o příspěvku na péči podle zákona o sociálních službách a sdělit těmto pracovníkům informace nezbytné pro toto šetření; tím nesmí být narušeno poskytování zdravotních služeb.
+> (4) Poskytovatel je povinen informovat osobu určenou pacientem podle § 33 odst. 1, že pacient svévolně opustil zdravotnické zařízení lůžkové péče, a to bez zbytečného odkladu poté, co se o této skutečnosti dozvěděl. Jde-li o nezletilého pacienta nebo pacienta s ustanoveným zástupcem, poskytovatel bezodkladně informuje osoby uvedené v § 28 odst. 3 písm. e) bodech 1 a 2. Poskytovatel rovněž bez zbytečného odkladu informuje Policii České republiky v případech, kdy přerušením poskytování zdravotních služeb pacientovi podle věty první je vážně ohroženo jeho zdraví nebo život nebo je ohroženo zdraví nebo život třetích osob.
 
 #### F. Kazuistika
 

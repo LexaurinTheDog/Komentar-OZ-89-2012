@@ -134,6 +134,11 @@
 - *Související předpisy:* zák. č. 89/2012 Sb. ve spojení se směrnicí o nekalých obchodních praktikách; čl. 10 Listiny.
 - *Judikatura:* Pl. ÚS 26/24 a Pl. ÚS 20/24 (ústavnost § 2894 odst. 2 — zásah do pověsti právnické osoby není zvláštním zákonným případem nemajetkové újmy); NS 23 Cdo 1366/2025 a 23 Cdo 1379/2023 (po účinnosti o. z. nemá právnická osoba nárok na zadostiučinění za pověst dle § 2894 odst. 2); NS 27 Cdo 1484/2023 (škoda dle § 2894 odst. 1 = újma na souhrnu majetku a dluhů ve smyslu § 495, objektivně vyjádřitelná penězi).
 
+> 📎 **Doslovné znění — čl. 10 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý má právo, aby byla zachována jeho lidská důstojnost, osobní čest, dobrá pověst a chráněno jeho jméno.
+> (2) Každý má právo na ochranu před neoprávněným zasahováním do soukromého a rodinného života.
+> (3) Každý má právo na ochranu před neoprávněným shromažďováním, zveřejňováním nebo jiným zneužíváním údajů o své osobě.
+
 **4. Subsumpce.** Majetková škoda (ušlý zisk 800 000 Kč) spadá pod § 2894 odst. 1 — hradí se vždy, je‑li prokázána příčinná souvislost a porušení povinnosti. Nárok na 1 mil. Kč za pověst naopak naráží na § 2894 odst. 2: ujednání chybí a žádný zvláštní zákon nepřiznává obecné peněžité zadostiučinění právnické osobě za zásah do pověsti mimo nekalou soutěž (§ 2988). Sporné je, zda lze nárok podřadit pod nekalou soutěž — to vyžaduje soutěžní vztah a naplnění generální klauzule § 2976.
 
 **5. Řešení.** Soud přizná majetkovou škodu dle § 2910 + § 2952; nárok na peněžité zadostiučinění za pověst zamítne (§ 2894 odst. 2). A se může bránit zdržovacím a odstraňovacím nárokem (§ 135), případně satisfakcí dle práva nekalé soutěže, prokáže‑li soutěžní postavení škůdce. Procesně je nutné rozdělit petit na majetkovou a nemajetkovou složku a u každé prokázat samostatně předpoklady.
@@ -262,6 +267,9 @@ Majetková škoda právnické i fyzické osoby se hradí vždy; nemajetková új
 - *Související ustanovení téhož zákona:* § 2956—2958 (újma na zdraví), § 433 (slabší strana podnikatele), § 1812 (výklad ve prospěch spotřebitele), § 2950 (profesionál).
 - *Související předpisy:* spotřebitelská ochrana dle o. z.; čl. 31 Listiny (zdraví).
 - *Judikatura:* NS 28 Cdo 1551/2025 (k mezím omezení odpovědnosti a moderaci); obecně nosný závěr, že ujednání odporující § 2898 je neplatné a nepřihlíží se k němu.
+
+> 📎 **Doslovné znění — čl. 31 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> Každý má právo na ochranu zdraví. Občané mají na základě veřejného pojištění právo na bezplatnou zdravotní péči a na zdravotní pomůcky za podmínek, které stanoví zákon.
 
 **4. Subsumpce.** Formulář je předem učiněným vyloučením odpovědnosti vůči spotřebiteli (slabší strana) a současně se týká újmy na zdraví (přirozené právo). Naplňuje hned dvě zapovězené kategorie § 2898 — proto je k němu nepřihlíženo a práva se nelze platně vzdát. Lze jej vyložit nanejvýš jako varování před nebezpečím (§ 2896), což ovšem nevylučuje odpovědnost za vadné jištění (zavinění/porušení prevenční povinnosti).
 
@@ -405,6 +413,13 @@ Předem vyloučit či omezit odpovědnost za zdraví, úmysl, hrubou nedbalost a
   > „Ustálená judikatura obecných soudů pak stanoví, že nedodržením uvedených pravidel (byť nejde o obecně závazný právní předpis) je zároveň porušena obecná prevenční povinnost podle § 2900 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (srov. usnesení Nejvyššího soudu ze dne 23."
 - *NS* [4 Tdo 501/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0DBA94E3EAEAB020C1258B72004D19D9?openDocument) — *Nedbalost Subjektivní stránka Ublížení na zdraví z nedbalosti*
   > „Navíc podle státního zástupce lze porušení důležité povinnosti dovodit i s odkazem na ustanovení § 2900 občanského zákoníku."
+
+> 📎 **Doslovné znění — § 143 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Usmrcení z nedbalosti**
+> (1) Kdo jinému z nedbalosti způsobí smrt, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+> (2) Odnětím svobody na jeden rok až šest let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona.
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 proto, že hrubě porušil zákony o ochraně životního prostředí nebo zákony o bezpečnosti práce nebo dopravy anebo hygienické zákony.
+> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 3 smrt nejméně dvou osob.
 
 #### F. Kazuistika
 
@@ -1449,6 +1464,26 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [8 Tdo 190/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-8_Tdo_190_2017.txt) — 20.09.2017, kat. A
   > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
 
+> 📎 **Doslovné znění — § 89 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád):**
+> **Obecné ustanovení**
+> (1) V trestním stíhání je v nezbytném rozsahu třeba dokazovat zejména:
+> a) zda se stal skutek, v němž je spatřován trestný čin,
+> b) zda tento skutek spáchal obviněný, případně z jakých pohnutek,
+> c) podstatné okolnosti mající vliv na posouzení povahy a závažnosti činu,
+> d) podstatné okolnosti k posouzení osobních, rodinných, majetkových a jiných poměrů obviněného,
+> e) podstatné okolnosti umožňující stanovení následku, výše škody způsobené trestným činem a bezdůvodného obohacení,
+> f) okolnosti, které vedly k trestné činnosti nebo umožnily její spáchání.
+> (2) Za důkaz může sloužit vše, co může přispět k objasnění věci, zejména výpovědi obviněného a svědků, znalecké posudky, věci a listiny důležité pro trestní řízení a ohledání. Každá ze stran může důkaz vyhledat, předložit nebo jeho provedení navrhnout. Skutečnost, že důkaz nevyhledal nebo nevyžádal orgán činný v trestním řízení, není důvodem k odmítnutí takového důkazu.
+> (3) Důkaz získaný nezákonným donucením nebo hrozbou takového donucení nesmí být použit v řízení s výjimkou případu, kdy se použije jako důkaz proti osobě, která takového donucení nebo hrozby donucení použila.
+
+> 📎 **Doslovné znění — § 228 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád):**
+> (1) Odsuzuje-li soud obžalovaného pro trestný čin, kterým způsobil jinému majetkovou škodu nebo nemajetkovou újmu nebo kterým se na úkor poškozeného bezdůvodně obohatil, uloží mu v rozsudku, aby poškozenému nahradil majetkovou škodu nebo nemajetkovou újmu v penězích nebo aby vydal bezdůvodné obohacení, jestliže byl nárok včas uplatněn (§ 43 odst. 3), nestanoví-li tento zákon jinak; nebrání-li tomu zákonná překážka, soud uloží obžalovanému vždy povinnost k náhradě škody nebo k vydání bezdůvodného obohacení, jestliže je výše škody nebo rozsah bezdůvodného obohacení součástí popisu skutku uvedeného ve výroku rozsudku, jímž se obžalovaný uznává vinným, a škoda v této výši nebyla dosud uhrazena nebo bezdůvodné obohacení nebylo dosud v tomto rozsahu vydáno.
+> (2) Výrok o povinnosti obžalovaného k náhradě škody nebo nemajetkové újmy v penězích nebo k vydání bezdůvodného obohacení musí přesně označovat osobu oprávněného a nárok, který mu byl přisouzen. V odůvodněných případech může soud vyslovit, že závazek má být splněn ve splátkách, jejichž výši a podmínky splatnosti zároveň určí.
+> (3) Výrok rozsudku o plnění v penězích může být na návrh poškozeného vyjádřen v cizí měně, neodporuje-li to okolnostem případu a
+> a) škoda byla způsobena na peněžních prostředcích v cizí měně nebo na věcech zakoupených za takové peněžní prostředky, nebo
+> b) obžalovaný nebo poškozený je cizozemcem.
+> (4) Odsuzuje-li soud obžalovaného za zločin k nepodmíněnému trestu odnětí svobody a přiznává-li poškozenému alespoň zčásti nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení, poučí poškozeného o možnosti požádat o vyrozumění o konání veřejného zasedání o podmíněném propuštění z trestu odnětí svobody. Žádost poškozený podává soudu, který rozhodoval v prvním stupni.
+
 ### § 2951—2952 — Způsob náhrady
 
 **§ 2951**:
@@ -1604,6 +1639,19 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - *NS* [25 Cdo 970/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8DA22118B0B63605C1258BD40052AFE0?openDocument) — *Náhrada škody Znalecký posudek Přípustnost dovolání*
 - *NS* [29 Cdo 3736/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6200B05CABD7869C1258B6D004D1993?openDocument) — *Konkurs Správce konkursní podstaty Náhrada škody*
 
+> 📎 **Doslovné znění — čl. 36 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
+> (2) Kdo tvrdí, že byl na svých právech zkrácen rozhodnutím orgánu veřejné správy, může se obrátit na soud, aby přezkoumal zákonnost takového rozhodnutí, nestanoví-li zákon jinak. Z pravomoci soudu však nesmí být vyloučeno přezkoumávání rozhodnutí týkajících se základních práv a svobod podle Listiny.
+> (3) Každý má právo na náhradu škody způsobené mu nezákonným rozhodnutím soudu, jiného státního orgánu či orgánu veřejné správy nebo nesprávným úředním postupem.
+> (4) Podmínky a podrobnosti upravuje zákon.
+
+> 📎 **Doslovné znění — § 126 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon):**
+> (1) Stavbu lze užívat jen k účelu vymezenému zejména v kolaudačním rozhodnutí, v ohlášení stavby, ve veřejnoprávní smlouvě, v certifikátu autorizovaného inspektora, ve stavebním povolení, v oznámení o užívání stavby nebo v kolaudačním souhlasu.
+> (2) Změna v účelu užívání stavby, v jejím provozním zařízení, ve způsobu výroby nebo v jejím podstatném rozšíření a změna v činnosti, jejíž účinky by mohly ohrozit život a veřejné zdraví, život a zdraví zvířat, bezpečnost nebo životní prostředí, je přípustná jen na základě písemného souhlasu stavebního úřadu. Ustanovení § 81 odst. 2 písm. c) tím není dotčeno.
+> (3) Změna v užívání stavby musí být v souladu se záměry územního plánování, s veřejnými zájmy chráněnými tímto zákonem a se zvláštními právními předpisy.
+> (4) Pokud je změna v užívání stavby podmíněna změnou dokončené stavby, která vyžaduje ohlášení nebo stavební povolení, postupuje se podle § 105 až 117. Po dokončení změny stavby se podle okolností postupuje podle § 120 nebo 122.
+> *(Pozn.: citováno znění z lokálního zdroje, před novelou č. 225/2017 Sb.)*
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Při dopravní nehodě je poškozeno starší vozidlo poškozeného (obvyklá cena před nehodou 120 000 Kč). Oprava do předešlého stavu by stála 190 000 Kč. Poškozený trvá na uvedení do předešlého stavu (chce auto opravit u značkového servisu); pojišťovna škůdce nabízí jen tzv. totální škodu (obvyklá cena minus hodnota vraku). Důkazy: znalecký posudek na obvyklou cenu a cenu opravy, fotodokumentace, doklad o hodnotě vraku.
@@ -1747,6 +1795,14 @@ Primárně se škoda hradí uvedením do předešlého stavu, ale je‑li to hos
   > „Nemajetková újma, Náhrada nemajetkové škody, Adhezní řízení § 2958 o. z., § 2953 o. z., § 228 odst. 1 tr. ř. I. Snížení náhrady nemajetkové újmy podle § 2953 odst. 1 o. z. za použití § 2894 odst. 2 o. z. v obecné rovině u bolestného a ztížení společenského uplatnění stanoveného podle § 2958 o. z. není vyloučeno, bude však přicházet v úvahu spíše výjimečně, neboť toto snížení lze použít jen z důvodů zvláštního zřetele hodných. Snížit náhradu nemajetkové újmy bude však možné jen tehdy, jestliže kritéria (srov. nález Ústavního soudu ze dne 22. 12. 2015, sp. zn. I. ÚS 2844/14), na jejichž základě lze uvedené moderační ustanovení uplatnit, nebyla brána v úvahu již při určení vlastní výše náhrady nemajetkové újmy. Znalecký posudek, Dokazování § 105 odst. 1, § 89 odst. 2 tr. ř. II. Znalci z oboru zdravotnictví, odvětví stanovení nemateriální újmy na zdraví, nepřísluší, aby na základě Metodiky Nejvyššího soudu k náhradě nemajetkové újmy na zdraví (bolest a ztížení společenského uplatnění podle § 2958 o. z.) sám stanovil a určil částku náhrady za ztížení společenského uplatnění, neboť je to soud, kdo stanoví její výši podle předem daných kritérií. Účelem znaleckého posudku je vytvořit pro soud dostatečně podrobný, strukturovaný a pochopitelný skutkový podklad, obsahující odborný lékařský závěr o míře vyřazení poškozeného ze životních činností definovaných v Metodice tak, aby soud mohl učinit právní závěr o výši náhrady za nemajetkovou újmu.“
 - *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
   > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
+
+> 📎 **Doslovné znění — § 208 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru**
+> (1) Kdo protiprávně obsadí nebo užívá dům, byt nebo nebytový prostor jiného, bude potrestán odnětím svobody až na dvě léta.
+> (2) Stejně bude potrestán, kdo oprávněné osobě v užívání domu, bytu nebo nebytového prostoru neoprávněně brání.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny, nebo
+> b) způsobí-li takovým činem škodu velkého rozsahu.
 
 #### F. Kazuistika
 
@@ -2024,6 +2080,9 @@ Při ublížení na zdraví vzniká soubor majetkových nároků: náklady péč
 - *NS* [30 Cdo 1479/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A8FDA7CC6127AFCDC1258BC500529810?openDocument) — *Skutečná škoda [ Škoda ]*
 - *NS* [25 Cdo 2679/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C66DA72ECACCE28C1258684001E0EB3?openDocument) — 25. 11. 2020, kat. A
   > „Ve sporu o náhradu škody při určení obvyklé ceny vozidla pořízeného v zahraničí, které je v místě a čase dopravní nehody svým typem či konstrukcí neobvyklé a v České republice se neobchoduje, je třeba zohlednit též možnosti přilehlého zahraničního trhu, funguje-li reálně přeshraniční obchod tohoto typu a je-li pro poškozeného dostupný či obvyklý, není-li nákup tímto způsobem spojen se zjevně neúčelnými či účelově nadhodnocenými náklady.“
+
+> 📎 **Doslovné znění — § 237 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
 
 #### F. Kazuistika
 

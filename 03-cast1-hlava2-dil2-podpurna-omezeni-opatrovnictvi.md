@@ -854,6 +854,11 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
   > „Ve smyslu § 51 odst. 1, 2 zákona č. 91/2012 Sb. byl návrh na uznání cizího rozhodnutí podán účastníkem řízení a bylo též zjištěno, že navrhovatelka byla v době vydání rozhodnutí o rozvodu občanem České republiky."
 - *NS* [29 Cdo 2119/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/100313DEE9F526CFC1258A4300161076?openDocument) — *Majetková podstata Škoda Insolvenční správce Konkurs Konflikt zájmů Přípustnost dovolání…*
 
+> 📎 **Doslovné znění — § 55 zákona č. 91/2012 Sb., o mezinárodním právu soukromém:**
+> **Uznání cizích rozhodnutí ve věcech určení a popření rodičovství**
+> (1) Pro uznání pravomocných cizích rozhodnutí ve věcech určení a popření rodičovství, jestliže byl alespoň jeden z účastníků řízení státní občan České republiky, se použije ustanovení § 51 obdobně.
+> (2) Jestliže byli všichni účastníci řízení v rozhodné době občany státu, o jehož pravomocné rozhodnutí jde, nebo uznává-li se takové rozhodnutí orgánů jiných cizích států v domovských státech všech účastníků řízení, kteří jsou cizinci, použije se pro uznání pravomocných cizích rozhodnutí ve věcech určení a popření rodičovství ustanovení § 52 obdobně.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zástupkyně (dcera) zastupuje matku s demencí jako členka domácnosti. Matka celý život chodila každý týden do kostela a na koncerty vážné hudby, byla zvyklá na jednolůžkový pokoj a vlastní oblečení. Dcera z pohodlnosti chce matku umístit do levnějšího vícelůžkového zařízení bez možnosti návštěv kulturních akcí a její šatník nahradit uniformním ošacením. Důkazy: doklady o dosavadním způsobu života matky, svědectví o jejích zvyklostech a přáních.
@@ -1056,6 +1061,9 @@ Před 1. 1. 2014 OZ 40/1964 Sb. znal dva tvrdé instituty:
 - **Omezení způsobilosti k právním úkonům** — částečné omezení.
 
 Soudy je aplikovaly velmi často a šablonovitě, čímž **vyřazovaly desetitisíce lidí ze soukromoprávního styku**. ÚS v rozsudku **Pl. ÚS 43/10** (rok 2013) konstatoval, že institut **zbavení způsobilosti** je **protiústavní** — odporuje čl. 5 LZPS (právní subjektivita) a Úmluvě OSN o právech osob se zdravotním postižením.
+
+> 📎 **Doslovné znění — čl. 5 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> Každý je způsobilý mít práva.
 
 OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení svéprávnosti** — s důrazem na subsidiaritu, diferenciaci a časové omezení (§ 59 — max. 5 let).
 
@@ -1421,6 +1429,13 @@ Ustanovení dává soudu nástroj dočasné ochrany během řízení o svépráv
 - *NS* [24 Cdo 2160/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03BF585E7420D38BC1258ADD00269B05?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Právní moc rozhodnutí*
   > „Dobu jednoho roku uvedenou v § 59 odst. 2 o."
 - *NS* [24 Cdo 923/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7652871EB823C56C1258B23004D2B8A?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník hmotně právní [ Opatrovn…*
+
+> 📎 **Doslovné znění — § 59 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Práva a povinnosti mezi obchodní korporací a členem jejího voleného orgánu se řídí přiměřeně ustanoveními občanského zákoníku o příkazu, ledaže ze smlouvy o výkonu funkce, byla-li uzavřena, nebo ze zákona plyne něco jiného. Ustanovení občanského zákoníku o správě cizího majetku se nepoužijí.
+> (2) Smlouva o výkonu funkce se v kapitálové společnosti sjednává písemně a schvaluje ji, včetně jejích změn, nejvyšší orgán společnosti; bez tohoto schválení nenabude smlouva účinnosti. Nerozhodl-li nejvyšší orgán společnosti jinak, je schválená smlouva účinná ode dne jejího uzavření, nebo ode dne vzniku funkce, podle toho, který z těchto dnů nastal později.
+> (3) Není-li odměňování v kapitálové společnosti sjednáno ve smlouvě o výkonu funkce, platí, že výkon funkce je bezplatný. Ustanovení § 61 odst. 1 tím není dotčeno.
+> (4) Jsou-li smlouva o výkonu funkce nebo v ní obsažené ujednání o odměně neplatné z důvodu na straně kapitálové společnosti nebo není-li smlouva o výkonu funkce uzavřena z důvodu překážek na straně kapitálové společnosti nebo z důvodu vyšší moci či jiné překážky vzniklé nezávisle na vůli člena voleného orgánu kapitálové společnosti anebo ji nejvyšší orgán neschválí bez zbytečného odkladu po jejím uzavření z uvedených důvodů, odstavec 3 se nepoužije. Odměna se v takovém případě určuje jako odměna obvyklá v době uzavření smlouvy nebo, nebyla-li smlouva uzavřena, jako odměna obvyklá v době vzniku funkce za činnost obdobnou činnosti, kterou člen voleného orgánu vykonával. Ustanovení § 61 odst. 1 tím není dotčeno.
+> (5) V případě rozporu mezi smlouvou o výkonu funkce a společenskou smlouvou se použijí ujednání společenské smlouvy; byla-li smlouva o výkonu funkce schválena většinou vyžadovanou pro změnu společenské smlouvy, použijí se ujednání ve smlouvě o výkonu funkce.
 
 #### F. Kazuistika
 

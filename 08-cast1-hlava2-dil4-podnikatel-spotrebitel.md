@@ -371,6 +371,27 @@ Podnikatelská povaha podle § 420 odst. 1 se posuzuje materiálně — podle fa
 - *NS* [29 Cdo 5758/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A89132FFCAEB0502C125838300221393?openDocument) — *Právnická osoba Obchodní rejstřík Obchodní firma Ochrana názvu právnické osoby Ochrana o…*
   > „Podle § 421 odst. 1 o. z. se za podnikatele považuje osoba zapsaná v obchodním rejstříku."
 
+> 📎 **Doslovné znění — § 39 zákona č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách):**
+> (1) Právnická osoba, která má sídlo, svou ústřední správu nebo hlavní místo své podnikatelské činnosti na území některého členského státu Evropské unie a která byla zřízena nebo založena podle práva některého členského státu Evropské unie, je oprávněna působit jako soukromá vysoká škola, pokud jí ministerstvo udělilo státní souhlas.
+> (2) Oprávnění působit jako soukromá vysoká škola je nepřevoditelné a nepřechází na právní nástupce, s výjimkou případů uvedených v § 39a odst. 7 a 8.
+> (3) Na žádost zřizovatelů nebo zakladatelů může ministerstvo vydat státní souhlas i před zápisem právnické osoby, která má působit jako soukromá vysoká škola, do obchodního nebo jiného rejstříku, jde-li o právnickou osobu zapisovanou do rejstříku, jestliže je prokázáno, že tato právnická osoba byla zřízena nebo založena. Tato právnická osoba je povinna předložit ministerstvu výpis z rejstříku ve lhůtě do 15 dnů od doručení příslušného dokladu o zápisu do rejstříku. Účinnost udělení státního souhlasu nastává nejdříve vznikem právnické osoby, které se státní souhlas uděluje.
+> (4) Žádost o udělení státního souhlasu obsahuje
+> a) název, sídlo a typ vysoké školy,
+> b) právní formu právnické osoby a statutární orgán,
+> c) strategický záměr vzdělávací a tvůrčí činnosti soukromé vysoké školy (dále jen „strategický záměr soukromé vysoké školy“),
+> d) údaje o personálním, finančním, materiálním a dalším zabezpečení činnosti soukromé vysoké školy,
+> e) návrhy studijních programů,
+> f) návrh vnitřních předpisů upravujících organizaci a činnost soukromé vysoké školy a postavení členů akademické obce,
+> g) doklady o bezúhonnosti žadatele, je-li zahraniční právnickou osobou, a bezúhonnosti členů statutárního orgánu nebo jiného obdobného řídicího orgánu žadatele, kteří jsou cizincem nebo zahraniční právnickou osobou, nejde-li o případ podle odstavce 3; doklady nesmí být ke dni podání žádosti starší než 3 měsíce a předkládají se v originále nebo v úředně ověřené kopii.
+> (5) Žadatel je povinen údaje uvedené v žádosti doložit.
+> (6) Nejde-li o případ podle odstavce 3, ministerstvo si za účelem doložení bezúhonnosti žadatele a členů jeho statutárního nebo jiného obdobného řídicího orgánu vyžádá podle jiného právního předpisu výpis z rejstříku trestů.
+> (7) Nejde-li o případ podle odstavce 3, žadatel předloží za účelem doložení bezúhonnosti členů jeho statutárního nebo jiného obdobného řídicího orgánu, kteří jsou cizincem nebo zahraniční právnickou osobou, výpis z cizozemské evidence trestů nebo rovnocenný doklad vydaný orgánem státu,
+> a) jehož je fyzická osoba občanem, jakož i orgánem státu, ve kterém se fyzická osoba naposledy v posledních 3 letech bezprostředně předcházejících dni podání žádosti o udělení státního souhlasu nepřetržitě zdržovala po dobu delší než 6 měsíců; za účelem doložení bezúhonnosti fyzické osoby, která je nebo byla občanem jiného členského státu Evropské unie nebo má nebo měla bydliště v jiném členském státě Evropské unie, postačí předložit výpis z rejstříku trestů, a to s případnou přílohou obsahující informace o jejích pravomocných odsouzeních za trestné činy a o navazujících údajích o těchto odsouzeních zapsaných v evidenci tohoto státu,
+> b) v němž má nebo v posledních 3 letech bezprostředně předcházejících dni podání žádosti o udělení státního souhlasu měla zahraniční právnická osoba sídlo, jakož i orgánem státu, ve kterém zahraniční právnická osoba má nebo v posledních 3 letech bezprostředně předcházejících dni podání žádosti o udělení státního souhlasu měla organizační složku obchodního závodu, pokud právní řád tohoto státu upravuje trestní odpovědnost právnických osob.
+> (8) Nejde-li o případ podle odstavce 3, postupuje žadatel za účelem doložení bezúhonnosti občana České republiky, který se v posledních 3 letech bezprostředně předcházejících dni podání žádosti o udělení státního souhlasu nepřetržitě zdržoval po dobu delší než 6 měsíců v zahraničí, podle odstavce 7 písm. a) obdobně.
+> (9) Nevydává-li cizí stát výpis z evidence trestů nebo rovnocenný doklad nebo existují-li právní nebo jiné překážky pro předložení výpisu z evidence trestů, předloží žadatel čestné prohlášení o své bezúhonnosti, je-li zahraniční právnickou osobou, nebo o bezúhonnosti člena jeho statutárního nebo jiného obdobného řídicího orgánu, který je cizincem nebo zahraniční právnickou osobou, nebo je občanem České republiky, který se v posledních 3 letech bezprostředně předcházejících dni podání žádosti o udělení státního souhlasu nepřetržitě zdržoval po dobu delší než 6 měsíců v zahraničí.
+> (10) Ministerstvo rozhodne o žádosti do 150 dnů ode dne jejího doručení. Před rozhodnutím si ministerstvo vyžádá stanovisko Akreditačního úřadu k udělení státního souhlasu; Akreditační úřad vydá stanovisko do 90 dnů ode dne, kdy mu byla žádost ministerstva doručena. Udělení státního souhlasu nezakládá nárok na udělení institucionální akreditace, akreditace studijního programu a akreditace habilitačního řízení nebo řízení ke jmenování profesorem.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Společnost ALFA s.r.o., zapsaná v obchodním rejstříku, je realitní kanceláří. S panem M. (spotřebitelem) uzavře zprostředkovatelskou smlouvu obsahující rozhodčí doložku. V navazujícím sporu ALFA namítá, že tato konkrétní smlouva nebyla uzavřena v rámci jejího zapsaného předmětu podnikání, a tedy v ní nevystupovala jako podnikatel, takže rozhodčí doložka je platná (nejde o spotřebitelskou smlouvu). Důkazy: výpis z OR (zápis a předmět podnikání), text smlouvy, korespondence o povaze plnění.
@@ -951,6 +972,16 @@ Podnikatel **nemůže namítat skutečné sídlo** vůči tomu, kdo se v dobré 
 - **Datové schránky** (§ 17 zákona č. 300/2008 Sb.);
 - **Příslušnost soudu** v obchodněprávních sporech (§ 85 OSŘ — sídlo PO/podnikatele).
 
+> 📎 **Doslovné znění — § 17 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů:**
+> **Doručování dokumentů orgánů veřejné moci prostřednictvím datové schránky**
+> (1) Umožňuje-li to povaha dokumentu, orgán veřejné moci jej doručuje jinému orgánu veřejné moci prostřednictvím datové schránky, pokud se nedoručuje na místě. Umožňuje-li to povaha dokumentu a má-li fyzická osoba, podnikající fyzická osoba nebo právnická osoba zpřístupněnu svou datovou schránku, orgán veřejné moci doručuje dokument této osobě prostřednictvím datové schránky, pokud se nedoručuje veřejnou vyhláškou nebo na místě. Doručuje-li se způsobem podle tohoto zákona, ustanovení jiných právních předpisů upravující způsob doručení se nepoužijí.
+> (2) Připouštějí-li jiné právní předpisy doručování prostřednictvím datových schránek, pořadí způsobů doručování stanovené těmito právními předpisy zůstává ustanovením odstavce 1 nedotčeno.
+> (3) Dokument, který byl dodán do datové schránky, je doručen okamžikem, kdy se do datové schránky přihlásí osoba, která má s ohledem na rozsah svého oprávnění přístup k dodanému dokumentu.
+> (4) Nepřihlásí-li se do datové schránky osoba podle odstavce 3 ve lhůtě 10 dnů ode dne, kdy byl dokument dodán do datové schránky, považuje se tento dokument za doručený posledním dnem této lhůty; to neplatí, vylučuje-li jiný právní předpis náhradní doručení6).
+> (5) Osoba, pro niž byla datová schránka zřízena, může za podmínek stanovených jiným právním předpisem7) žádat o určení neúčinnosti doručení podle odstavce 4.
+> (6) Doručení dokumentu podle odstavce 3 nebo 4 má stejné právní účinky jako doručení do vlastních rukou.
+> (7) Doručování mezi orgány veřejné moci prostřednictvím datové schránky se nepoužije, pokud je z bezpečnostních důvodů mezi těmito orgány zavedena jiná forma elektronické komunikace.
+
 **Důvodová zpráva (sněmovní tisk 362, k § 422 až 428 návrhu — dnešní § 429—435):**
 
 > Ustanovení § 423 a 424 stanovují obecná pravidla pro zastoupení
@@ -1015,6 +1046,9 @@ Podnikatel **nemůže namítat skutečné sídlo** vůči tomu, kdo se v dobré 
 - *Související ustanovení téhož zákona:* § 137 (paralela u PO — adresa sídla a ochrana dobré víry), § 80 (bydliště), § 502 (obchodní závod).
 - *Související předpisy:* § 46—46b o. s. ř. (doručování); § 85 a § 84 o. s. ř. (místní příslušnost dle sídla); zákon č. 300/2008 Sb. (datové schránky); zákon č. 304/2013 Sb.
 - *Judikatura:* judikatura k doručování na zapsané sídlo a k ochraně dobré víry třetích osob (srov. rozhodnutí k § 429/§ 137); rozhodnutí VS v Praze citovaná výše k rejstříkovým a doručovacím otázkám.
+
+> 📎 **Doslovné znění — § 84 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> K řízení je příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
 
 **4. Subsumpce.** GAMA má zapsané sídlo A a skutečné sídlo B. Dle odst. 2 má věřitel volbu: může se dovolat skutečného sídla B (např. pro efektivní doručení), nebo zapsaného sídla A, přičemž v druhém případě je chráněna jeho dobrá víra — GAMA nemůže namítat, že skutečné sídlo je jinde. Doručuje-li věřitel na zapsané sídlo A, je doručení účinné i při faktické nepřítomnosti adresáta (fikce doručení dle o. s. ř.); pro příslušnost soudu lze rovněž vyjít ze zapsaného sídla.
 
@@ -1184,7 +1218,13 @@ Překročení zástupčího oprávnění zástupcem podnikatele zavazuje podnika
 
 **Výklad:**
 
-**Generální zákaz konkurence pro zástupce podnikatele** — paralela k § 51 ZP (pro zaměstnance), § 199 ZOK (pro statutární orgány obchodních korporací).
+**Generální zákaz konkurence pro zástupce podnikatele** — paralela k § 304 ZP (pro zaměstnance), § 199 ZOK (pro statutární orgány obchodních korporací).
+
+> 📎 **Doslovné znění — § 199 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> Neurčí-li společenská smlouva jinak, jednatel nesmí
+> a) podnikat v předmětu činnosti nebo podnikání společnosti, a to ani ve prospěch jiných osob, ani zprostředkovávat obchody společnosti pro jiného,
+> b) být členem statutárního orgánu jiné právnické osoby s obdobným předmětem činnosti nebo podnikání nebo osobou v obdobném postavení, ledaže se jedná o koncern, nebo
+> c) účastnit se na podnikání jiné obchodní korporace jako společník s neomezeným ručením nebo jako ovládající osoba jiné osoby se stejným nebo obdobným předmětem činnosti nebo podnikání.
 
 **Skutkový vzorec:**
 - Zástupce **bez souhlasu** podnikatele;
@@ -1222,6 +1262,12 @@ Překročení zástupčího oprávnění zástupcem podnikatele zavazuje podnika
 - *Související ustanovení téhož zákona:* § 430—431 (zastoupení podnikatele), § 2976 a násl. (nekalá soutěž), § 2913 (náhrada škody z porušení smlouvy).
 - *Související předpisy:* § 51 zákoníku práce (zákaz konkurence zaměstnance), § 199 ZOK (zákaz konkurence jednatele/člena orgánu), zákon č. 90/2012 Sb.
 - *Judikatura:* NS 27 Cdo 1331/2024 (prokura, konkurence, konflikt zájmů), NS 27 Cdo 127/2024 (zákaz konkurence jednatele), NS 21 Cdo 1316/2021 (konkurenční jednání) — analogicky k rozsahu nároků a posouzení oboru činnosti.
+
+> 📎 **Doslovné znění — § 304 zákona č. 262/2006 Sb., zákoník práce:**
+> (1) Zaměstnanci mohou vedle svého zaměstnání vykonávaného v základním pracovněprávním vztahu vykonávat výdělečnou činnost, která je shodná s předmětem činnosti zaměstnavatele, u něhož jsou zaměstnáni, jen s jeho předchozím písemným souhlasem.
+> (2) Jestliže zaměstnavatel souhlas podle odstavce 1 odvolá, musí být odvolání písemné; zaměstnavatel je povinen v něm uvést důvody změny svého rozhodnutí. Zaměstnanec je pak povinen bez zbytečného odkladu výdělečnou činnost skončit způsobem vyplývajícím pro její skončení z příslušných právních předpisů.
+> (3) Omezení stanovené v odstavci 1 se nevztahuje na výkon vědecké, pedagogické, publicistické, literární a umělecké činnosti.
+> (4) Ustanovení odstavců 2 a 3 se použijí, pokud zvláštní zákon nestanoví jinak88).
 
 **4. Subsumpce.** Pan Horák je zástupcem ZETA při provozu závodu; bez souhlasu činí v oboru závodu (klimatizace) jak na vlastní účet (vlastní zákazníci), tak na cizí účet (provize od konkurenta). Skutková podstata § 432 odst. 1 je naplněna. ZETA proto má: zdržovací nárok (odst. 1); ohledně jednání na vlastní účet právo, aby bylo prohlášeno za učiněné na její účet, a ohledně jednání na cizí účet postoupení/vydání odměny (odst. 2); alternativně náhradu škody (odst. 3), věděl-li či mohl Horák vědět o poškození; solidárně odpovídá i konkurent, mohl-li to vědět.
 
@@ -1304,6 +1350,14 @@ Zástupce nesmí bez souhlasu podnikatele konkurovat v oboru obchodního závodu
   > „Podle § 433 odst. 1 o. z. kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran."
 - *NS* [33 Cdo 5942/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EB2602FB242F8CF8C125839F00220CE3?openDocument) — *Rozhodčí doložka Rozhodčí řízení Ochrana spotřebitele*
   > „Podle § 433 odst. 1 občanského zákoníku kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran."
+
+> 📎 **Doslovné znění — § 237 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+
+> 📎 **Doslovné znění — § 240 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+> (2) Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+> (3) Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do tří měsíců od doručení.
 
 #### F. Kazuistika
 

@@ -1972,6 +1972,9 @@ Při skončení správy správce předloží vyúčtování a vydá majetek i v�
 - *Související předpisy:* § 267 o. s. ř. / § 68 exekučního řádu (vylučovací žaloba); zákon č. 304/2013 Sb. (evidence svěřenských fondů); zákon č. 240/2013 Sb. (subjekty oprávněné být správcem).
 - *Judikatura:* z místních zdrojů NS 20 Cdo 617/2021 (svěřenský fond, excindační žaloba — citace § 1448 odst. 1), NS 27 Cdo 3033/2019 („autonomní majetek bez vlastníka vyčleněný zakladatelem“ — § 1448 odst. 2 a 3) a NS 24 Cdo 1754/2022 (pasivní legitimace u svěřenského fondu); nosný závěr — majetek ve fondu je autonomní masou bez vlastníka, oddělenou od majetku zakladatele i správce.
 
+> 📎 **Doslovné znění — § 267 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Právo k majetku, které nepřipouští výkon rozhodnutí, lze uplatnit vůči oprávněnému návrhem na vyloučení majetku z výkonu rozhodnutí v řízení podletřetí části tohoto zákona.
+
 **4. Subsumpce.** Vyčleněním vzniklo oddělené a nezávislé vlastnictví (§ 1448 odst. 2). Majetek není vlastnictvím Z (vyčlenil jej), ani S (jedná na účet fondu), ani obmyšlených (čekají na plnění) — § 1448 odst. 3. Postižení pro dluh Z proto naráží na to, že majetek již není v jeho vlastnictví; postižení pro dluh S naráží na to, že majetek není jeho.
 
 **5. Řešení.** Vyčleněný majetek zásadně nelze postihnout pro osobní dluhy zakladatele vzniklé po účinném vyčlenění ani pro dluhy správce; jde o autonomní masu. S excindační žalobě (jménem fondu) zpravidla vyhoví, prokáže-li řádné vyčlenění, vznik fondu a zápis. Praktické kroky: doložit smlouvu o vyčlenění, statut a zápisy; namítat oddělenost masy. Riziko: pokud vyčlenění sledovalo úmyslné zkrácení věřitelů zakladatele, nastupuje § 1467 (solidární odpovědnost) a instituty relativní neúčinnosti — ochrana fondu pak neplatí.
@@ -2799,6 +2802,29 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 - *Související ustanovení téhož zákona:* § 1448 odst. 3 (oddělené vlastnictví — ochrana fondu, kterou § 1467 prolamuje při zneužití); § 1466 (soudní ochrana fondu); § 589 a násl. (relativní neúčinnost — odporovatelnost); § 2909 (úmyslné poškození dobrými mravy) a § 2915 (společná povinnost k náhradě).
 - *Související předpisy:* § 589–599 o. z. (odporovatelnost) a § 240 a násl. insolvenčního zákona (neúčinné úkony bez přiměřeného protiplnění a úmyslně zkracující úkony); § 222 tr. zákoníku (poškození věřitele) v rovině trestní.
 - *Judikatura:* z místních zdrojů KS v Hradci Králové 21 Co 434/2025 (majetek, neúčinnost, odvolání); nosný princip — zneužití svěřenského fondu ke zkrácení věřitele nezakládá imunitu majetku, nýbrž solidární odpovědnost zúčastněných.
+
+> 📎 **Doslovné znění — § 222 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Poškození věřitele**
+> (1) Kdo, byť i jen částečně, zmaří uspokojení svého věřitele tím, že
+> a) zničí, poškodí, zatají, zcizí, učiní neupotřebitelnou, nebo odstraní, byť i jen část svého majetku,
+> b) postoupí svou pohledávku, anebo převezme dluh jiného,
+> c) zatíží věc, která je předmětem závazku, nebo ji pronajme,
+> d) předstírá nebo uzná neexistující právo nebo závazek,
+> e) předstírá nebo uzná právo nebo závazek ve větším rozsahu, než odpovídá skutečnosti,
+> f) předstírá splnění závazku, nebo
+> g) předstírá úpadek nebo svůj majetek jinak zdánlivě zmenšuje nebo předstírá jeho zánik,
+> a způsobí tím na cizím majetku škodu nikoli malou, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+> (2) Stejně bude potrestán, kdo, byť i jen částečně, zmaří uspokojení věřitele jiné osoby tím, že
+> a) zničí, poškodí, zatají, zcizí, učiní neupotřebitelnou nebo odstraní, byť i jen část majetku dlužníka, nebo
+> b) k majetku dlužníka uplatní neexistující právo nebo pohledávku nebo existující právo nebo pohledávku ve vyšší hodnotě či lepším pořadí, než jaké má,
+> a způsobí tím na cizím majetku škodu nikoli malou.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) způsobí-li činem uvedeným v odstavci 1 nebo 2 značnou škodu, nebo
+> b) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+> (4) Odnětím svobody na tři léta až osm let bude pachatel potrestán,
+> a) způsobí-li činem uvedeným v odstavci 1 nebo 2 škodu velkého rozsahu,
+> b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+> c) způsobí-li takovým činem jinému úpadek.
 
 **4. Subsumpce.** „Účast na činech sledujících úmyslné poškození věřitele“ — naplněna u Z (organizátor), S (vědomě se podílel), i O (věděl o účelu a přijal plnění). „Úmysl poškodit zakladatelova věřitele“ — doložen časovou souvislostí a komunikací. Tím je naplněna hypotéza § 1467: všichni tři jsou zavázáni společně a nerozdílně.
 

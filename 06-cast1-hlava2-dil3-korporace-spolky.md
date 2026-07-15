@@ -58,6 +58,10 @@ Strukturálně se Oddíl dělí na:
 
 **4. Subsumpce.** Klíčovým znakem korporace je **osobní substrát** (členové). Pokud útvar stojí na společenství osob sledujících společný účel, jde o korporaci. Chce-li A být jediným „vlastníkem", spolek to neumožní (vyžaduje 3 osoby — § 214), ale jednočlenná s.r.o. ano (fikce korporace dle § 210 odst. 2 ve spojení s § 11 ZOK). Pro neziskovou komunitní zahradu s více aktivními lidmi je naopak naplněn znak společenství osob → spolek.
 
+> 📎 **Doslovné znění — § 11 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Kapitálovou společnost může založit jediný zakladatel.
+> (2) Kapitálová společnost může mít jediného společníka také v důsledku soustředění všech podílů v jeho rukou.
+
 **5. Řešení.** Pokud projekt stojí na členské základně a nepodnikatelském účelu, správnou formou je **spolek** (korporace dle § 210, blíže § 214 a násl.); jednočlenná struktura zde není možná. Praktický krok: posoudit, zda je primární osobní substrát (→ korporace) nebo vyčleněný majetek (→ fundace). Riziko: zvolení nevhodné formy vede k pozdější nákladné přeměně.
 
 **6. Varianty.** (a) Pokud by A chtěl realizovat účel sám a majetkem (např. stipendijní fond), nešlo by o korporaci, ale o nadační fond. (b) Pokud by účelem bylo poskytování služeb veřejnosti pomocí osob i majetku, jde o ústav (§ 402).
@@ -235,9 +239,12 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *Související předpisy:* ZOK — § 56 (zákaz zneužití hlasu v obchodní korporaci), § 212 a násl. ZOK (žaloba na neplatnost usnesení valné hromady), § 244 ZOK (rovné zacházení).
 - *Judikatura (citovaná u tohoto §):* NS 27 Cdo 1306/2023 (reprodukuje znění § 212 odst. 2 jako základ posouzení); NS 26 Cdo 751/2020 (totéž u SVJ); NS 27 Cdo 1602/2023 — z principu loajality nelze bez dalšího dovodit povinnost upřednostnit zájem společnosti před vlastním zájmem věřitele; NS 27 Cdo 1753/2024 — podání akcionářské žaloby jako neadekvátní a nehospodárný prostředek může být zneužitím práv v rozporu s loajalitou (§ 212); NS 27 Cdo 698/2024 — omezení počtu hlasů člena není bez dalšího „bezdůvodným" znevýhodněním.
 
+> 📎 **Doslovné znění — § 244 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> Společnost zachází za stejných podmínek se všemi akcionáři stejně.
+
 **4. Subsumpce.** Hlasování M proti rozdělení zisku bez hospodářského důvodu, motivované poškozením N, naplňuje znaky **zneužití hlasovacího práva k újmě celku** (újma korporace i menšiny). Aktivní legitimaci má ten, kdo prokáže právní zájem (typicky N). Klíčové je dodržení **tříměsíční prekluzivní lhůty** od okamžiku zneužití hlasu. Naopak samotná loajalita (odst. 1) sama o sobě nezakládá povinnost M hlasovat proti svému zájmu — musí jít o kvalifikované zneužití.
 
-**5. Řešení.** N podá v 3měsíční lhůtě návrh, aby soud rozhodl, že k hlasu M nelze pro daný případ přihlížet; po vyloučení „toxického" hlasu se hlasování přepočítá. Paralelně lze napadnout neplatnost usnesení (§ 258 OZ / § 212 ZOK). Procesní krok: zajistit důkazy o motivu (e-maily, dřívější nabídky odkupu) a o absenci hospodářského důvodu kumulace zisku. Riziko: marné uplynutí lhůty 3 měsíců právo definitivně zhasíná.
+**5. Řešení.** N podá v 3měsíční lhůtě návrh, aby soud rozhodl, že k hlasu M nelze pro daný případ přihlížet; po vyloučení „toxického" hlasu se hlasování přepočítá. Paralelně lze napadnout neplatnost usnesení (§ 258 OZ; u kapitálových společností § 191 a § 428 ZOK). Procesní krok: zajistit důkazy o motivu (e-maily, dřívější nabídky odkupu) a o absenci hospodářského důvodu kumulace zisku. Riziko: marné uplynutí lhůty 3 měsíců právo definitivně zhasíná.
 
 **6. Varianty.** (a) Pokud by kumulace zisku měla reálný hospodářský důvod (plánovaná investice), o zneužití nejde a hlas zůstává platný. (b) Pokud by N podal návrh po více než 3 měsících, právo dle § 212 odst. 2 zaniká a soud návrh zamítne bez věcného přezkumu zneužití.
 
@@ -375,6 +382,12 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - *Související ustanovení téhož zákona:* § 215 (dobrovolnost, vyloučení ručení), § 216 (název — „spolek"/„z. s."), § 217 (hlavní a vedlejší činnost), § 210 (korporace), § 145 (zakázaný účel).
 - *Související předpisy:* čl. 20 LZPS (svoboda sdružování); zákon č. 304/2013 Sb. (zápis do spolkového rejstříku); zákon č. 424/1991 Sb. (politické strany — zvláštní úprava mimo spolky).
 - *Judikatura (citovaná u tohoto §):* NS 27 Cdo 3150/2021 (zájmové sdružení PO / spolek); NS 27 Cdo 3526/2022 (pobočný spolek jako korporace) — vymezení spolku a jeho organizačních forem.
+
+> 📎 **Doslovné znění — čl. 20 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Právo svobodně se sdružovat je zaručeno. Každý má právo spolu s jinými se sdružovat ve spolcích, společnostech a jiných sdruženích.
+> (2) Občané mají právo zakládat též politické strany a politická hnutí a sdružovat se v nich.
+> (3) Výkon těchto práv lze omezit jen v případech stanovených zákonem, jestliže to je v demokratické společnosti nezbytné pro bezpečnost státu, ochranu veřejné bezpečnosti a veřejného pořádku, předcházení trestným činům nebo pro ochranu práv a svobod druhých.
+> (4) Politické strany a politická hnutí, jakož i jiná sdružení jsou odděleny od státu.
 
 **4. Subsumpce.** Dvě osoby nenaplňují znak **„alespoň tři osoby"** → spolek nelze platně založit, zápis se odmítne (po přistoupení třetí osoby je podmínka splněna). U svazu spolků je naplněn znak vytvoření nového spolku více spolky → odst. 2 ukládá vyjádřit svazovou povahu v názvu (např. „svaz", „unie", „asociace"); pouhé „Ochrana přírody" požadavku nevyhovuje.
 
@@ -1399,6 +1412,11 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 - *NS* [27 Cdo 1129/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3F724452908B2C89C1258CE0004D09D3?openDocument) — *Statutární orgán Zájmové sdružení právnických osob Zdánlivé právní jednání (o. z.) [ Prá…*
 - *NS* [26 Cdo 3352/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99333E012B13AA3DC12588CA0017DED2?openDocument) — *Společenství vlastníků jednotek*
   > „Zjistí-li soud v průběhu řízení o neplatnost rozhodnutí shromáždění vlastníků, že rozhodnutí je zdánlivé, rozhodne z úřední povinnosti, že o rozhodnutí shromáždění nejde (§ 90 odst. 1 z. ř. s.)."
+
+> 📎 **Doslovné znění — § 90 zákona č. 292/2013 Sb., o zvláštních řízeních soudních:**
+> **Rozhodování**
+> (1) V řízení o vyslovení neplatnosti rozhodnutí orgánu právnické osoby rozhodne soud o tom, že o rozhodnutí orgánu právnické osoby nejde, hledí-li se na něj, jako by nebylo přijato, i bez návrhu.
+> (2) V řízení o vyslovení neplatnosti rozhodnutí orgánu právnické osoby rozhodne soud až po uplynutí lhůty 3 měsíců od podání návrhu.
 
 ##### F. Kazuistika
 

@@ -579,6 +579,11 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 - *NS* [25 Cdo 753/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C2A8F3584D542A5C1258AF5004D3118?openDocument) — *Ochrana osobnosti Dobré mravy Dovolací důvody Přípustnost dovolání Dokazování Promlčení*
   > „K použití korektivu dobrých mravů ve smyslu § 2 odst. 3 o. z. (obdobně podle dřívějšího § 3 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31."
 
+> 📎 **Doslovné znění — § 13 zákona č. 67/2013 Sb., Zákon, kterým se upravují některé otázky související s poskytováním plnění spojených s užíváním bytů a nebytových prostorů v domě s byty:**
+> **Pokuta za prodlení s nepeněžitým plněním**
+> (1) Jestliže poskytovatel služeb nebo příjemce služeb nesplní svoji povinnost stanovenou tímto zákonem, zejména nesplní-li příjemce služeb povinnost oznámit změnu počtu osob, nebo nedoručí-li poskytovatel služeb včas vyúčtování nebo nesplní povinnosti spojené s právem příjemce služeb nahlížet do podkladů k vyúčtování a povinnosti spojené s vypořádáním námitek, je povinen zaplatit druhé straně pokutu, ledaže by splnění povinností ve stanovené lhůtě nebylo spravedlivé požadovat nebo k nesplnění lhůty došlo zaviněním druhé strany.
+> (2) Výši pokuty poskytovatel služeb ujedná alespoň s dvoutřetinovou většinou nájemců v domě, nebo o ní rozhodne družstvo, anebo společenství. Ujednaná výše pokuty nesmí přesáhnout 50 Kč za každý započatý den prodlení. Nedojde-li k ujednání s nájemci nebo rozhodnutí družstva anebo společenství, činí výše pokuty 50 Kč za každý započatý den prodlení.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pronajímatel se domáhá vyklizení bytu a doplatku nájemného; doslovné znění ujednání v nájemní smlouvě by vedlo k tomu, že nájemce (samoživitelka s nezletilým dítětem) ztrácí bydlení i přesto, že dluh vznikl v důsledku přechodné a již odstraněné životní krize. Soud zvažuje, zda doslovný výklad ujednání odpovídá smyslu úpravy a zda jeho aplikace nevede k výsledku urážejícímu obyčejné lidské cítění. Účastníci: pronajímatel a nájemce. Důkazy: nájemní smlouva, doklady o úhradách, doklady o sociální situaci.
@@ -590,6 +595,11 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 - *Související ustanovení téhož zákona:* § 3 (vůdčí zásady), § 6 (poctivost), § 8 (zákaz zneužití práva), § 547—554 (výklad právního jednání toutéž metodologií).
 - *Související předpisy:* Listina základních práv a svobod, ústavní pořádek (čl. 1, čl. 4, čl. 10 LZPS).
 - *Judikatura:* NS 30 Cdo 2893/2025 a NS 22 Cdo 2350/2025 (citováno výše) — § 2 odst. 3 zakotvuje zásadu souladného výkonu práv s dobrými mravy jako odraz ústavního požadavku spravedlivého řešení, k němuž se přihlíží i při konstitutivním rozhodnutí; ÚS III. ÚS 1782/15 — vyhovění žalobě by bylo v rozporu s § 2 odst. 3 o. z.
+
+> 📎 **Doslovné znění — čl. 10 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý má právo, aby byla zachována jeho lidská důstojnost, osobní čest, dobrá pověst a chráněno jeho jméno.
+> (2) Každý má právo na ochranu před neoprávněným zasahováním do soukromého a rodinného života.
+> (3) Každý má právo na ochranu před neoprávněným shromažďováním, zveřejňováním nebo jiným zneužíváním údajů o své osobě.
 
 **4. Subsumpce.** Jazykový výklad ujednání (odst. 2 první teze) vede k vyklizení. Tento výsledek je třeba poměřit s úmyslem zákonodárce a smyslem ochrany nájemce; je-li doslovný výklad v rozporu se smyslem, „musí mu ustoupit" (odst. 1 věta druhá). Současně se posuzuje, zda výsledek není krutý ve smyslu odst. 3. Sporné je, zda intenzita dopadu dosahuje úrovně, která ospravedlňuje odklon od doslovného výkladu.
 
@@ -750,6 +760,18 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
   > „Odkázal na § 3 odst. 2 písm. a) a § 81 odst. 1 o. z. a na § 28 odst. 1, 2 a 3 písm. a), § 31 a § 34 odst. 1 a 3 zákona č."
 - *NS* [25 Cdo 8/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/84A19C6F7E6FEA70C12586C400374377?openDocument) — 28. 1. 2021, kat. A
   > „Neúspěšná obrana v soudním sporu o průchod žalobce k nemovitosti přes pozemek žalovaného není sama o sobě neoprávněným zásahem do osobnostního práva žalobce. Běžnou povahu sousedské neshody v občanskoprávní rovině již přesahuje a do práva žalobce na soukromí a na důstojnost zasahuje jednání žalovaného, který po skončení sporu nerespektoval vykonatelné soudní rozhodnutí o zřízení věcného břemene cesty způsobem, pro který byl pravomocně odsouzen trestním soudem pro přečin neoprávněného zásahu do práva k domu, bytu nebo k nebytovému prostoru (§ 208 odst. 2 trestního zákoníku).“
+
+> 📎 **Doslovné znění — § 208 zákona č. 40/2009 Sb., trestní zákoník:**
+> **Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru**
+> (1) Kdo protiprávně obsadí nebo užívá dům, byt nebo nebytový prostor jiného, bude potrestán odnětím svobody až na dvě léta.
+> (2) Stejně bude potrestán, kdo oprávněné osobě v užívání domu, bytu nebo nebytového prostoru neoprávněně brání.
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+> a) spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizované skupiny, nebo
+> b) způsobí-li takovým činem škodu velkého rozsahu.
+
+> 📎 **Doslovné znění — § 101 zákona č. 40/1964 Sb., Občanský zákoník:**
+> Pokud není v dalších ustanoveních uvedeno jinak, je promlčecí doba tříletá a běží ode dne, kdy právo mohlo být vykonáno poprvé.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
 
 #### F. Kazuistika
 
@@ -930,6 +952,9 @@ To má dopady na:
   > „Podle odvolacího soudu žalobkyni jakožto realitní kanceláři podléhající režimu § 5 odst. 1 o. z. muselo být bez pochybností zřejmé, že B. podpisem smlouvy o spolupráci překračuje své zástupčí oprávnění, resp. že zástupčí oprávnění k uzavření smlouvy o spolupráci nemá, neboť nedisponoval plnou mocí od žalované."
 - *NS* [28 Cdo 568/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A639C0C01682AB29C1258B32004D43AC?openDocument) — *Neplatnost právních jednání (o. z.) [ Právní jednání (o. z.) ]*
   > „Podle § 5 o. z. kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena."
+
+> 📎 **Doslovné znění — § 237 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
 
 #### F. Kazuistika
 
@@ -1267,6 +1292,19 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
   > „S odkazem na rozhodnutí Nejvyššího soudu sp. zn. 28 Cdo 1927/2015 a sp. zn. 22 Cdo 3082/2016 namítá, že při stanovení hodnoty věci podle ustanovení § 8 odst. 1 advokátního tarifu „ se může vycházet pouze“ z ceny obvyklé."
 - *NS* [27 Cdo 1236/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A59FD4BC785804AEC1258C400052B32D?openDocument) — *Konkurenční doložka Smlouva o výkonu funkce Odstoupení od smlouvy*
   > „Podle § 8 o. z. zjevné zneužití práva nepožívá právní ochrany. b) K odstoupení od konkurenční doložky v kontextu zneužití práva 19."
+
+> 📎 **Doslovné znění — § 71 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> **Ovlivnění**
+> (1) Každý, kdo pomocí svého vlivu v obchodní korporaci (dále jen „vlivná osoba“) rozhodujícím významným způsobem ovlivní chování obchodní korporace (dále jen „ovlivněná osoba“) k její újmě, tuto újmu nahradí, ledaže prokáže, že mohl při svém ovlivnění v dobré víře rozumně předpokládat, že jedná informovaně a v obhajitelném zájmu ovlivněné osoby.
+> (2) Neuhradí-li vlivná osoba způsobenou újmu nejpozději do konce účetního období, v němž újma vznikla, nebo v jiné dohodnuté přiměřené lhůtě, nahradí i újmu, která v této souvislosti vznikla společníkům ovlivněné osoby.
+> (3) Vlivná osoba ručí věřitelům ovlivněné osoby za splnění těch dluhů, které jim ovlivněná osoba nemůže v důsledku ovlivnění podle odstavce 1 zcela nebo zčásti splnit.
+> (4) Vlivem podle odstavce 1 se rozumí také vliv vykonávaný prostřednictvím jiné osoby či jiných osob.
+> (5) Ustanovení odstavce 1 se nepoužije na jednání členů volených orgánů ovlivněné osoby.
+
+> 📎 **Doslovné znění — § 8 zákona č. 67/2013 Sb., Zákon, kterým se upravují některé otázky související s poskytováním plnění spojených s užíváním bytů a nebytových prostorů v domě s byty:**
+> **Nahlížení do podkladů k vyúčtování a vypořádání námitek**
+> (1) Do 30 dnů od doručení vyúčtování může příjemce služeb písemně požádat poskytovatele služeb, aby příjemci služeb doložil náklady na jednotlivé služby, způsob jejich rozúčtování, způsob stanovení výše záloh za služby a provedení vyúčtování podle tohoto zákona a aby umožnil příjemci služeb pořízení kopie podkladů. Této žádosti poskytovatel služeb vyhoví do 30 dnů od jejího doručení.
+> (2) Případné námitky ke způsobu a obsahu vyúčtování předloží příjemce služeb poskytovateli služeb do 30 dnů od doručení vyúčtování, popřípadě doložení podkladů podle odstavce 1. Nepředloží-li příjemce služeb námitky v této lhůtě, platí, že se způsobem a obsahem vyúčtování souhlasí. Včas uplatněné námitky musí poskytovatel služeb vyřídit do 30 dnů od jejich předložení.
 
 #### F. Kazuistika
 
@@ -1640,6 +1678,12 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 
 § 12 je **soukromoprávní paralela** ústavního práva na spravedlivý proces (čl. 36 LZPS). Klíčová pravidla:
 
+> 📎 **Doslovné znění — čl. 36 Listiny základních práv a svobod (usnesení č. 2/1993 Sb.):**
+> (1) Každý se může domáhat stanoveným postupem svého práva u nezávislého a nestranného soudu a ve stanovených případech u jiného orgánu.
+> (2) Kdo tvrdí, že byl na svých právech zkrácen rozhodnutím orgánu veřejné správy, může se obrátit na soud, aby přezkoumal zákonnost takového rozhodnutí, nestanoví-li zákon jinak. Z pravomoci soudu však nesmí být vyloučeno přezkoumávání rozhodnutí týkajících se základních práv a svobod podle Listiny.
+> (3) Každý má právo na náhradu škody způsobené mu nezákonným rozhodnutím soudu, jiného státního orgánu či orgánu veřejné správy nebo nesprávným úředním postupem.
+> (4) Podmínky a podrobnosti upravuje zákon.
+
 - **Aktivní legitimace**: kdokoliv, kdo se cítí zkrácen — i potenciálně (nikoliv jen ten, jehož právo bylo nesporně porušeno).
 - **Subsidiarita soudní cesty**: soud je defaultní orgán, ledaže zákon stanoví jinak. Jiné orgány veřejné moci s rozhodovací působností v soukromoprávních věcech:
   - **ČTÚ** — telekomunikační spory (zákon č. 127/2005 Sb.);
@@ -1683,6 +1727,27 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
   > „Podle § 12 o. z. každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávajícího veřejnou moc."
 - *NS* [30 Cdo 107/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7643093CAE143AB7C125895E001E0354?openDocument) — *Odpovědnost státu za nemajetkovou újmu [ Odpovědnost státu za újmu ] Zadostiučinění (sat…*
   > „Uplatnění nároku na zadostiučinění za nemajetkovou újmu zůstavitelem u úřadu uvedeného v § 6 zákona č. 82/1998 Sb. postupem podle § 14 odst. 1 zákona č. 82/1998 Sb. není uplatněním práva u orgánu veřejné moci ve smyslu § 1475 odst. 2 o. z."
+
+> 📎 **Doslovné znění — § 14 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád):**
+> (1) Nárok na náhradu škody se uplatňuje u úřadu uvedeného v § 6.
+> (2) Byl-li nárok uplatněn u úřadu, který není příslušný, postoupí tento úřad žádost poškozeného příslušnému úřadu. Účinky předběžného uplatnění jsou v tomto případě zachovány.
+> (3) Uplatnění nároku na náhradu škody podle tohoto zákona je podmínkou pro případné uplatnění nároku na náhradu škody u soudu.
+> (4) Je-li pro posouzení nároku na náhradu škody nezbytné zohlednit okolnosti, k nimž má v rámci své činnosti přístup úřad nebo jiný orgán veřejné moci, který není k jeho projednání příslušný, poskytne tento úřad nebo jiný orgán veřejné moci příslušnému úřadu nezbytnou součinnost; to platí pro řízení před soudem obdobně.
+> (5) Uplatnil-li poškozený nárok na náhradu ušlého zisku nebo na přiměřené zadostiučinění za vzniklou nemajetkovou újmu podle § 9 nebo 10 a byl-li vůči poškozenému vydán odsuzující rozsudek, kterým byla zohledněna dříve vykonaná vazba nebo dříve vykonaný trest odnětí svobody, nebo kterým byl uložen trest umožňující jejich započítání, posoudí příslušný úřad nárok nejdříve po nabytí právní moci
+>   - a) rozhodnutí o započítání vazby nebo trestu odnětí svobody, bylo-li trestní řízení, ve kterém byl tento odsuzující rozsudek vydán, skončeno pravomocným odsuzujícím rozsudkem, kterým byl uložen trest umožňující jejich započítání, nebo
+>   - b) rozhodnutí, kterým bylo skončeno trestní řízení, ve kterém byl tento odsuzující rozsudek vydán, v ostatních případech.
+> (6) Nárok na náhradu škody podle § 9 až 11 se uplatňuje pouze prostřednictvím formuláře, jehož náležitosti stanoví Ministerstvo spravedlnosti vyhláškou. Tento formulář uveřejní Ministerstvo spravedlnosti způsobem umožňujícím dálkový přístup. K návrhu, který není podán na formuláři podle věty první, se nepřihlíží.
+
+> 📎 **Doslovné znění — § 6 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád):**
+> (1) Ve věcech náhrady škody způsobené rozhodnutím nebo nesprávným úředním postupem a o regresních úhradách jednají jménem státu ministerstva a jiné ústřední správní úřady (dále jen „úřad“).
+> (2) Úřadem podle odstavce 1 je
+>   - a) Ministerstvo spravedlnosti, došlo-li ke škodě v občanském soudním řízení nebo v trestním řízení, a dále v případech, kdy bylo soudem ve správním soudnictví vydáno nezákonné rozhodnutí, jímž soud rozhodl o žalobě proti rozhodnutí územního celku v samostatné působnosti, a v případech, kdy škoda byla způsobena notářem nebo soudním exekutorem,
+>   - b) příslušný úřad, došlo-li ke škodě v odvětví státní správy, jež náleží do jeho působnosti, a dále v případech, kdy bylo soudem ve správním soudnictví vydáno nezákonné rozhodnutí, jímž soud rozhodl o žalobě proti rozhodnutí vydanému v odvětví státní správy, jež náleží do působnosti tohoto úřadu.
+> (3) Došlo-li ke škodě nesprávným úředním postupem podle § 13 odst. 1 vět druhé a třetí a posuzují-li se pro účely náhrady této škody navazující správní a soudní řízení jako jeden celek, jedná za stát příslušný úřad, do jehož působnosti náleží odvětví státní správy, v němž probíhalo správní řízení.
+> (4) Není-li možno příslušný úřad určit podle odstavce 2 nebo 3, jedná za stát Ministerstvo financí.
+> (5) Bylo-li nezákonné rozhodnutí vydáno Českou národní bankou nebo na základě mezinárodní smlouvy orgánem dohledu nad finančním trhem jiného členského státu Evropské unie13) nebo došlo-li u České národní banky nebo tohoto orgánu dohledu k nesprávnému úřednímu postupu, jedná za stát Česká národní banka.
+> (6) Bylo-li nezákonné rozhodnutí vydáno Nejvyšším kontrolním úřadem nebo došlo-li u Nejvyššího kontrolního úřadu k nesprávnému úřednímu postupu, jedná za stát tento orgán.
+> (7) Úřad určený podle odstavců 1 až6 jedná za stát jako organizační složka státu i v řízení před soudem, pokud zvláštní právní předpis nestanoví jinak.
 
 #### F. Kazuistika
 
@@ -1733,6 +1798,10 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 1. **Princip předvídatelnosti soudních rozhodnutí** (paralela k čl. 1 odst. 1 LZPS, k čl. 95 Ústavy);
 2. **Faktickou závaznost ustálené judikatury** — soud se nemůže od ní odchýlit bez odůvodnění;
 3. **Povinnost přesvědčivého odůvodnění odchylky** — pokud se soud chce odchýlit od ustáleného řešení, musí to v rozhodnutí pojednat a uvést konkrétní důvody.
+
+> 📎 **Doslovné znění — čl. 95 Ústavy České republiky (ústavní zákon č. 1/1993 Sb.):**
+> (1) Soudce je při rozhodování vázán zákonem a mezinárodní smlouvou, která je součástí právního řádu; je oprávněn posoudit soulad jiného právního předpisu se zákonem nebo s takovou mezinárodní smlouvou.
+> (2) Dojde-li soud k závěru, že zákon, jehož má být při řešení věci použito, je v rozporu s ústavním pořádkem, předloží věc Ústavnímu soudu.
 
 **Praktický dopad:**
 

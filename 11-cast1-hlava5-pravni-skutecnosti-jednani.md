@@ -154,6 +154,13 @@ Vnitřní struktura Dílu 1:
 - *NS* [25 Cdo 740/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/41D0C1E5F3D25378C1258D710052AAEB?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Škoda na převzaté věci [ Škod…*
   > „Na základě dokazování založeného především na výpovědích svědků uzavřel okresní soud, že žalovaný se zavázal, že zajistí pro žalobce (otce jeho tehdejší partnerky J. L.) opravu jeho poškozeného vozidla, a to se zohledněním výkladu tohoto právního jednání ve smyslu § 545 a § 6 zákona č. 89/2012 Sb., občanského zákoníku, dále jen „o."
 
+> 📎 **Doslovné znění — § 45 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) V jakých případech se hledí na rozhodnutí orgánu obchodní korporace, jako by nebylo přijato, se posoudí podle ustanovení občanského zákoníku upravujícího spolky; to neplatí pro rozhodnutí, které se příčí dobrým mravům.
+> (2) Na rozhodnutí orgánu obchodní korporace se hledí, jako by nebylo přijato, také tehdy, je-li jeho obsah neurčitý nebo nesrozumitelný anebo zavazuje-li k nemožnému plnění.
+> (3) Není-li rozhodnutí orgánu obchodní korporace v případech vyžadovaných zákonem osvědčeno veřejnou listinou sepsanou nejpozději do 60 dnů ode dne jeho přijetí, nemá právní účinky.
+> (4) Ustanovení občanského zákoníku o zdánlivém právním jednání, o neplatnosti právních jednání, omylu a následcích neplatnosti právního jednání se na rozhodnutí orgánu obchodní korporace s výjimkou povinnosti nahradit újmu způsobenou neplatným právním jednáním nepoužijí.
+> (5) Rozhodnutí orgánu obchodní korporace působí vůči obchodní korporaci okamžikem přijetí. Rozhodnutí jediného společníka v působnosti orgánu obchodní korporace je vůči ní účinné, jakmile jí dojde. Vůči třetím osobám působí rozhodnutí orgánu obchodní korporace od okamžiku, kdy se o něm dozvěděly nebo dozvědět mohly.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Společnost A prodala společnosti B obráběcí stroj kupní smlouvou, v níž bylo ujednáno jen označení stroje a cena 850 000 Kč. Smlouva neobsahovala žádné ustanovení o jakosti, době dodání ani o vadách. Stroj byl dodán s vadou převodovky, kterou B zjistila po týdnu provozu. Prodávající A odmítá odpovědnost s tím, že „o vadách nic ujednáno nebylo". Účastníci: A (prodávající/podnikatel), B (kupující/podnikatel). Důkazy: kupní smlouva, dodací list, e-mailová komunikace předcházející uzavření, znalecký posudek k vadě.
@@ -405,6 +412,13 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 - *NS* [33 Cdo 4737/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/714ABB8D66615420C12585720019B3B8?openDocument) — *Předkupní právo*
   > „Uplatněním předkupního práva dochází k naplnění rozvazovací podmínky, ale pouze, pokud je předkupní právo uplatněno předkupníkem vůči dlužníkovi (§ 2145 o. z. ve spojení s § 548 odst. 2 o. z.)."
 
+> 📎 **Doslovné znění — § 173 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> **Podání přihlášky**
+> (1) Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahájení insolvenčního řízení až do uplynutí lhůty stanovené rozhodnutím o úpadku. K přihláškám, které jsou podány později, insolvenční soud nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují. Věřitelé vykonatelných pohledávek na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podávají přihlášky pohledávek u insolvenčního soudu kdykoli v průběhu insolvenčního řízení, pokud v trestním řízení o tomto trestném činu byl zajištěn majetek v majetkové podstatě dlužníka a přihláška pohledávky byla podána v době, kdy zajištění podle trestního řádu trvá.
+> (2) Přihlašují se i pohledávky, které již byly uplatněny u soudu, jakož i pohledávky vykonatelné včetně těch, které jsou vymáhány výkonem rozhodnutí nebo exekucí.
+> (3) Přihlásit lze i pohledávku nesplatnou nebo pohledávku vázanou na podmínku. Pohledávky věřitelů vázané na splnění rozvazovací podmínky se považují v insolvenčním řízení za nepodmíněné, dokud rozvazovací podmínka není splněna. Na pohledávky věřitelů vázané na splnění odkládací podmínky nemá zahájení insolvenčního řízení vliv.
+> (4) Přihláška pohledávky má pro běh lhůty k promlčení nebo pro zánik práva stejné účinky jako žaloba nebo jiné uplatnění práva u soudu, a to ode dne, kdy došla insolvenčnímu soudu. Přihlášku pohledávky, která je podána u jiného než insolvenčního soudu, postoupí tento soud neprodleně soudu insolvenčnímu, aniž o tom vydává rozhodnutí; účinky spojené s podáním takové přihlášky nastávají dnem, kdy přihláška dojde insolvenčnímu soudu.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Prodávající P a kupující K uzavřeli kupní smlouvu na pozemek s odkládací podmínkou: „kupní smlouva nabývá účinnosti, bude-li pozemek do 30. 6. 2027 vyňat ze zemědělského půdního fondu". P následně sám (bez vědomí K a bez oprávnění) podal námitky, jimiž řízení o vynětí zmařil, protože mezitím dostal výhodnější nabídku od třetí osoby. K se domáhá splnění smlouvy. Účastníci: P (prodávající, jemuž je nesplnění podmínky na prospěch), K (kupující). Důkazy: kupní smlouva, spis o vynětí z PF, doklady o jednání P, korespondence o konkurenční nabídce.
@@ -495,6 +509,14 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
   > „Podle § 551 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů (dále jen „o. z.“), o právní jednání nejde, chybí-li vůle jednající osoby."
 - *NS* [28 Cdo 1758/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/07B2092CE8900B84C1258A4300160F91?openDocument) — *Přípustnost dovolání Bezdůvodné obohacení Výklad projevu vůle Znalecký posudek*
 - *NS* [32 Cdo 3505/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/63E1A6C19C2A686FC125871E00187851?openDocument) — *Smlouva o dílo*
+
+> 📎 **Doslovné znění — § 225 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> (1) Osoby, které tvrdí, že označený majetek neměl být do soupisu zahrnut proto, že to vylučuje jejich právo k majetku nebo že tu je jiný důvod, pro který neměl být zahrnut do soupisu, se mohou žalobou podanou u insolvenčního soudu domáhat rozhodnutí, že se tento majetek vylučuje z majetkové podstaty.
+> (2) Žaloba musí být podána proti insolvenčnímu správci, a to ve lhůtě 30 dnů ode dne, kdy osobě uvedené v odstavci 1 bylo doručeno vyrozumění o soupisu majetku, k němuž uplatňuje právo. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty insolvenčnímu soudu.
+> (3) Nebyla-li žaloba podána včas, platí, že označený majetek je do soupisu pojat oprávněně. Totéž platí i tehdy, jestliže insolvenční soud žalobu zamítl, nebo jestliže řízení o žalobě zastavil nebo ji odmítl.
+> (4) Od počátku běhu lhůty k podání žaloby podle odstavce 2 až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení nesmí insolvenční správce zpeněžit majetek, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce. Ustanovení § 217 tím není dotčeno.
+> (5) Před pravomocným skončením řízení o žalobě lze ke zpeněžení nebo jinému nakládání s majetkem podle odstavce 4 přistoupit, jestliže tak z důvodů hodných zvláštního zřetele určil insolvenční soud ve výroku rozhodnutí, jímž žalobu zamítl, řízení o ní zastavil nebo ji odmítl. Z výtěžku zpeněžení nebo jiného nakládání s takovým majetkem mohou být věřitelé uspokojeni až po pravomocném skončení řízení o žalobě.
+> (6) Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení; jeho právo na náhradu škody tím není dotčeno.
 
 #### F. Kazuistika
 
@@ -1030,6 +1052,11 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 
 **6. Varianty.** (a) Pokud by strany uzavřely smlouvu písemně s podpisy (byť bez ověření), byla by mezi nimi platná; ověření podpisů (§ 7 katastrálního zákona) je potřebné až pro vklad do katastru. (b) Pokud by šlo o nájem nemovitosti (závazkové, nikoli věcné právo), § 560 by se neuplatnil a forma by se řídila úpravou nájmu.
 
+> 📎 **Doslovné znění — § 7 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon):**
+> (1) Zápisy práv se do katastru provádějí na základě písemností v listinné podobě nebo v elektronické podobě (dále jen „listina“). Pokud je listina vyhotovena v elektronické podobě, musí být též opatřena kvalifikovaným elektronickým časovým razítkem. Je-li listina v elektronické podobě podepsána elektronickým podpisem, musí být k podepsání použit uznávaný elektronický podpis. Je-li písemnost v elektronické podobě zapečetěna elektronickou pečetí, musí být k pečetění použita uznávaná elektronická pečeť.
+> (2) Nejsou-li podpisy na soukromé listině úředně ověřeny, musí ten, kdo zápis navrhuje, prokázat jejich pravost. Nebude-li pravost podpisů prokázána ve lhůtě 30 dnů od podání návrhu na zápis, katastrální úřad řízení o povolení vkladu zastaví nebo vrátí listinu předloženou k zápisu záznamem či poznámkou tomu, kdo listinu předložil.
+> (3) Týká-li se právo, které má být na základě listiny zapsáno do katastru, jen části pozemku evidovaného v katastru, musí být s listinou spojen geometrický plán, který část pozemku vymezuje. Geometrický plán se považuje za součást listiny.
+
 #### G. Protiargumenty a rizika
 
 - *Protiargument „dohodli jsme se, smlouva platí":* K tvrdí konsensus a zaplacení zálohy. Neutralizace: u věcných práv k nemovitostem je písemná forma kogentní (§ 560); její nedostatek zakládá neplatnost (§ 582) bez ohledu na konsensus.
@@ -1138,8 +1165,13 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 
 **Praktické nástroje:**
 - **E-mail** s identifikovatelným odesílatelem;
-- **Datová schránka** — § 18 odst. 2 zák. č. 300/2008 Sb. = písemná forma s úředně ověřeným podpisem;
+- **Datová schránka** — § 18 odst. 2 zák. č. 300/2008 Sb.: úkon učiněný prostřednictvím datové schránky má účinky úkonu učiněného písemně a podepsaného;
 - **Elektronický podpis** podle eIDAS — kvalifikovaný (KEP) má nejvyšší důkazní sílu.
+
+> 📎 **Doslovné znění — § 18 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů:**
+> **Provádění úkonů vůči orgánům veřejné moci prostřednictvím datové schránky**
+> (1) Fyzická osoba, podnikající fyzická osoba a právnická osoba může provádět úkon vůči orgánu veřejné moci, má-li zpřístupněnu svou datovou schránku a umožňuje-li to povaha tohoto úkonu, prostřednictvím datové schránky.
+> (2) Úkon učiněný osobou uvedenou v § 8 odst. 1 až 4 nebo pověřenou osobou, pokud k tomu byla pověřena, prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný, ledaže jiný právní předpis nebo vnitřní předpis požaduje společný úkon více z uvedených osob.
 
 **§ 562 odst. 2 — Důvěra v elektronické záznamy** (vyvratitelná domněnka spolehlivosti):
 - Systematicky a posloupně pořizované;
@@ -1288,6 +1320,11 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - *NS* [23 Cdo 1666/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D80EB5C302EBB346C1258AFA002CB849?openDocument) — *Novace privativní Novace kumulativní Změna závazku Forma právních jednání (o. z.) [ Práv…*
   > „Pro účely požadavku formy vyjádřeného v § 1906 o. z. se považuje za novaci ve smyslu § 1902 o. z. jen taková dohoda o změně obsahu závazku, kterou se dosavadní závazek ruší a nahrazuje se závazkem novým. V případě dohody o změně obsahu závazku za jeho trvání podle § 1901 o. z. se forma takového právního jednání řídí § 564 o. z."
 
+> 📎 **Doslovné znění — § 272 zákona č. 513/1991 Sb., Obchodní zákoník:**
+> (1) Smlouva vyžaduje k platnosti písemnou formu pouze v případech stanovených v tomto zákoně nebo když alespoň jedna strana při jednání o uzavření smlouvy projeví vůli, aby smlouva byla uzavřena v písemné formě.
+> (2) Obsahuje-li písemně uzavřená smlouva ustanovení, že může být měněna nebo zrušena pouze dohodou stran v písemné formě, může být smlouva měněna nebo zrušena pouze písemně.
+> *(Pozn.: citováno z lokálního zdroje — původní vyhlášené znění zrušeného předpisu; srov. pozdější novely.)*
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zhotovitel Z a objednatel O uzavřeli písemnou smlouvu o dílo, v níž si ujednali, že „jakékoli změny ceny musí být sjednány písemně" (doložka písemných změn). Během provádění díla se strany v e-mailové korespondenci dohodly na vyšší ceně víceprací a Z je provedl a O je převzal. O nyní odmítá vyšší cenu zaplatit s tím, že nebyla sjednána v písemné formě podle smlouvy. Účastníci: Z (zhotovitel), O (objednatel). Důkazy: smlouva s doložkou písemných změn, e-mailová korespondence o ceně víceprací, doklady o provedení a převzetí víceprací.
@@ -1417,6 +1454,9 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - *NS* [33 Cdo 1469/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D5DECC4C8A7FC39C1258A1F001616FE?openDocument) — *Soukromá listina (o. z.) Břemeno důkazní*
   > „Podle ustanovení § 565 zákona č. 89/2012 Sb., občanského zákoníku, ve znění pozdějších předpisů, je na každém, kdo se dovolává soukromé listiny, aby dokázal její pravost a správnost."
 
+> 📎 **Doslovné znění — § 237 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Žalobce (dodavatel) se vůči žalovanému (odběrateli) domáhá zaplacení zboží a dokládá nárok dodacími listy, které žalovaný nepodepsal. Žalovaný popřel pravost i správnost dodacích listů a tvrdí, že zboží nepřevzal. V druhé variantě se věřitel dovolává smlouvy o zápůjčce podepsané dlužníkem, který svůj podpis nezpochybňuje, jen tvrdí, že peníze nepřevzal. Účastníci: dodavatel/odběratel, resp. věřitel/dlužník. Důkazy: dodací listy a smlouva, podpisy (či jejich absence), skladová a účetní evidence, svědci o předání.
@@ -1500,6 +1540,15 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - *NS* [22 Cdo 871/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BB59C0B80128CED3C1258C76004D3940?openDocument) — *Přípustnost dovolání Vlastnictví Vydání věci Dokazování Poučovací povinnost soudu Veřejn…*
 - *NS* [30 Cdo 1332/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CD22E7A0FC87F60C1258689001EFDFC?openDocument) — *Odpovědnost státu za újmu Veřejná listina (o. z.) Přípustnost dovolání*
   > „Úřední záznam o použití donucovacího prostředku sepsaný dle § 57 odst. 2 zákona č. 273/2008 Sb. (ve znění pozdějších předpisů) je veřejnou listinou ve smyslu § 134 o. s. ř."
+
+> 📎 **Doslovné znění — § 134 zákona č. 99/1963 Sb., Občanský soudní řád:**
+> Listiny vydané soudy České republiky nebo jinými státními orgány v mezích jejich pravomoci, jakož i listiny, které jsou zvláštními předpisy prohlášeny za veřejné, potvrzují, že jde o nařízení nebo prohlášení orgánu, který listinu vydal, a není-li dokázán opak, i pravdivost toho, co je v nich osvědčeno nebo potvrzeno.
+
+> 📎 **Doslovné znění — § 57 zákona č. 273/2008 Sb., o Policii České republiky:**
+> **Povinnosti policisty po použití donucovacího prostředku nebo zbraně**
+> (1) Po použití donucovacího prostředku nebo zbraně, při kterém došlo ke zranění osoby, je policista povinen ihned, jakmile to okolnosti dovolí, poskytnout zraněné osobě první pomoc a zajistit lékařské ošetření. Dále je povinen učinit neodkladné úkony nebo jiná opatření, aby mohla být řádně objasněna oprávněnost použití zbraně.
+> (2) Zákrok, při kterém bylo použito donucovacího prostředku nebo zbraně, je policista povinen bezodkladně ohlásit svému nadřízenému a sepsat o něm úřední záznam s uvedením důvodu, průběhu a výsledku jejich použití. Úřední záznam nesepisuje při použití pout podle § 54.
+> (3) Vedoucí policejního útvaru je povinen vyrozumět bez zbytečného odkladu příslušného státního zástupce o zranění nebo usmrcení osoby anebo o škodě nikoli nepatrné9), způsobených použitím donucovacího prostředku nebo zbraně.
 
 #### F. Kazuistika
 
@@ -1925,6 +1974,10 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 - *NS* [29 Cdo 3919/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/03B05DAF303050B5C1257DB600364BE8?openDocument) — 27. 11. 2014, kat. A
   > „Plná moc udělená k právnímu jednání, pro které zákon vyžaduje formu notářského zápisu o právním jednání (§ 441 odst. 2 in fine o. z.), není neplatná pro nedostatek formy vyžadované zákonem, není- li pochyb o tom, kdo (která osoba) plnou moc udělil. Plná moc k založení obchodní korporace je právním jednáním týkajícím se založení obchodní korporace ve smyslu § 6 odst. 1 zákona č. 90/2012 Sb.“
 
+> 📎 **Doslovné znění — § 6 zákona č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích):**
+> (1) Právní jednání týkající se založení, vzniku, změny, zrušení nebo zániku obchodní korporace vyžadují písemnou formu s úředně ověřenými podpisy, jinak jsou neplatná; soud k této neplatnosti přihlédne i bez návrhu.
+> (2) Odstavec 1 se nepoužije na rozhodnutí nejvyššího orgánu obchodní korporace.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Strany si v rámcové smlouvě ujednaly, že změny musí mít písemnou formu. Následně se ústně dohodly na změně ceny a obě strany podle nové ceny několik měsíců plnily (fakturovaly a platily). Jedna strana poté namítá neplatnost ústní změny pro nedostatek formy. V druhé variantě osoba s duševní poruchou, která ji činí neschopnou právně jednat, uzavřela kupní smlouvu. Ve třetí variantě převod nemovitosti byl uzavřen jen ústně. Účastníci: smluvní strany, resp. osoba s duševní poruchou a její protistrana. Důkazy: smlouva a doložka o formě, doklady o plnění podle změny, znalecký posudek o duševním stavu, text (ne)písemné smlouvy.
@@ -2121,6 +2174,11 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
   > „3) § 586 odst. 1 obč. zák. - Je-li neplatnost právního jednání stanovena na ochranu zájmu určité osoby, může vznést námitku neplatnosti jen tato osoba."
 - *NS* [21 Cdo 886/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2088FCD8EE49D757C1258ADF001B86EF?openDocument) — *Neplatnost právního jednání (o. z.) Bezprávná výhrůžka Přípustnost dovolání Dovolací dův…*
 
+> 📎 **Doslovné znění — § 230 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád):**
+> (1) Shledal-li soud u obžalovaného důvod k uložení ochranného opatření, může je uložit i bez návrhu státního zástupce.
+> (2) Jestliže soud potřebuje k rozhodnutí o ochranném opatření provést ještě další dokazování, které nemůže být provedeno ihned, vyhradí rozhodnutí o ochranném opatření veřejnému zasedání.
+> (3) Postupovat podle odstavce 2 lze i tehdy, jestliže státní zástupce učinil návrh na zabrání věci nebo části majetku nenáležející obžalovanému.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Dlužník D podepsal směnku poté, co mu věřitel V pohrozil, že jinak zveřejní jeho citlivé osobní údaje a fyzicky mu ublíží (bezprávná výhrůžka vyvolávající důvodnou obavu). D nyní namítá neplatnost. V druhé variantě smlouva sjednává prodej lidského orgánu (jednání zjevně odporující zákonu a narušující veřejný pořádek). Účastníci: D (přinucený) a V (vyhrožující), resp. strany zakázané smlouvy. Důkazy: směnka, doklady o výhrůžce (svědci, komunikace), posouzení důvodné obavy s ohledem na poměry D.
@@ -2223,6 +2281,12 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - *NS* [29 Cdo 710/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E8A06DF86E491F16C1258A78001B8560?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Odporovatelnost*
   > „Jakkoli byla výše zmíněná rozhodnutí přijata na podkladě předchozí právní úpravy (v režimu § 42a zákona č. 40/1964 Sb., občanského zákoníku), Nejvyšší soud nemá pochyb, že jsou uvedené závěry plně použitelné i při výkladu pojmů „zkracující právní jednání“ a „zkrácení věřitele“ ve smyslu (nyní účinného) ustanovení § 589 odst. 1 o. z. 32."
 - *NS* [23 Cdo 2094/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7BC8FC54612239C12588FB001DC1FA?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Přípustnost dovolání*
+
+> 📎 **Doslovné znění — § 239 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon):**
+> (1) Odporovat právním úkonům dlužníka může v insolvenčním řízení pouze insolvenční správce, i když nejde o osobu s dispozičními oprávněními, a to odpůrčí žalobou podanou proti osobám, které mají povinnost vydat dlužníkovo plnění z neúčinných právních úkonů do majetkové podstaty. Jestliže v době zahájení insolvenčního řízení probíhá o téže věci řízení na základě odpůrčí žaloby jiné osoby, nelze v něm až do skončení insolvenčního řízení pokračovat.
+> (2) Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu vždy. Nejsou-li v majetkové podstatě peněžní prostředky potřebné ke krytí nákladů na podání odpůrčí žaloby a vedení incidenčního sporu, může insolvenční správce podmínit podání odpůrčí žaloby nebo další vedení incidenčního sporu tím, aby mu věřitelé poskytli na úhradu těchto nákladů přiměřenou zálohu. Skončí-li incidenční spor úspěchem insolvenčního správce, mohou věřitelé, kteří zálohu poskytli, požadovat její náhradu jako pohledávku za majetkovou podstatou.
+> (3) Insolvenční správce může podat odpůrčí žalobu ve lhůtě 1 roku ode dne, kdy nastaly účinky rozhodnutí o úpadku. Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.
+> (4) Dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty právní mocí rozhodnutí, kterým bylo odpůrčí žalobě vyhověno. Tím není dotčeno právo insolvenčního správce v případě, že šlo o peněžité plnění nebo že má jít o peněžitou náhradu za poskytnuté plnění, požadovat odpůrčí žalobou vedle určení neúčinnosti dlužníkova právního úkonu i toto peněžité plnění nebo peněžitou náhradu plnění. Vylučovací žaloba není přípustná.
 
 #### F. Kazuistika
 
@@ -2650,6 +2714,12 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
   > „Povaha řízení o odpůrčí žalobě podle zákona č. 89/2012 Sb., občanského zákoníku, nevylučuje skončení řízení soudním smírem, a tudíž ani možnost vydat v takové věci rozsudek pro uznání (§ 153a odst. 2 o. s. ř.)."
 - *NS* [29 Cdo 334/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F513F894604DD623C1258DB00052C05F?openDocument) — *Neúčinnost právního jednání Pohledávka Dlužník Věřitel*
   > „Podle § 597 odst. 1 o. z. kdo má vůči věřiteli povinnost podle § 595 nebo 596, může se jí zprostit uspokojením věřitelovy pohledávky za dlužníkem."
+
+> 📎 **Doslovné znění — § 153a zákona č. 99/1963 Sb., Občanský soudní řád:**
+> (1) Uzná-li žalovaný v průběhu soudního řízení nárok nebo základ nároku, který je proti němu žalobou uplatňován, rozhodne soud rozsudkem podle tohoto uznání. Uzná-li žalovaný nárok proti němu žalobou uplatněný jen zčásti, rozhodne soud rozsudkem podle tohoto uznání, jen navrhne-li to žalobce.
+> (2) Rozsudek pro uznání, nelze vydat ve věcech, v nichž nelze uzavřít a schválit smír (§ 99 odst. 1 a 2).
+> (3) Rozsudkem pro uznání rozhodne soud také tehdy, má-li se za to, že žalovaný nárok, který je proti němu žalobou uplatňován, uznal (§ 114b odst. 5 a § 114c odst. 6).
+> (4) Jen pro vydání rozsudku pro uznání nemusí být nařízeno jednání.
 
 #### F. Kazuistika
 
