@@ -1078,7 +1078,57 @@ Speciální desetileté lhůty platí zejména u uznání dluhu (§ 639), soudn�
 
 **Typicky rozhodné důkazy / podklady:** písemné uznání dluhu (s určením doby splnění), soudní rozhodnutí, pojistná smlouva, doklady o nabytí dědictví či splnění zajištěného dluhu.
 
+**Doslovná znění § 632 až 644:**
+
+**§ 632**:
+> Bylo-li do veřejného seznamu zapsáno právo, které může být vykonáváno nepřetržitě nebo opakovaně, promlčí se, pokud není vykonáváno po dobu deseti let. Bylo-li však do veřejného seznamu zapsáno právo, které se vykonává jen zřídka, vyžaduje se, aby osoba, které právo náleží, měla v průběhu deseti let alespoň třikrát příležitost je vykonat a nikdy je nevykonala; nevyskytne-li se v průběhu deseti let příležitost právo vykonat třikrát, prodlužuje se promlčecí lhůta, dokud nebude využita žádná ze tří příležitostí.
+
+**§ 633**:
+> (1) Brání-li osoba zavázaná z věcného břemene výkonu práva, promlčí se věcné břemeno, pokud oprávněná osoba neuplatní své právo do tří let.
+> (2) Právo na jednotlivé plnění z reálného břemene se promlčuje jako pohledávka.
+
+**§ 634**:
+> Právo požadovat, aby soud určil na základě smlouvy o smlouvě budoucí obsah budoucí smlouvy, se promlčí za jeden rok od posledního dne lhůty, kdy měla být budoucí smlouva uzavřena. To platí i v případě, že bylo ujednáno, že určitou náležitost smlouvy určí třetí osoba nebo soud.
+
+**§ 635**:
+> (1) Jedná-li se o životní pojištění, promlčí se právo na pojistné plnění za deset let.
+> (2) Právo na pojistné plnění z pojištění odpovědnosti se promlčí nejpozději promlčením práva na náhradu škody nebo újmy, na kterou se pojištění vztahuje.
+
+**§ 636**:
+> (1) Právo na náhradu škody nebo jiné újmy se promlčí nejpozději za deset let ode dne, kdy škoda nebo újma vznikla.
+> (2) Byla-li škoda nebo újma způsobena úmyslně, promlčí se právo na její náhradu nejpozději za patnáct let ode dne, kdy škoda nebo újma vznikla. To platí i v případě vzniku škody nebo újmy porušením povinnosti v důsledku úplatkářství spočívajícího v nabídce, slibu nebo dání úplatku jiným než poškozeným nebo v přímém či nepřímém vyžádání úplatku od poškozeného.
+> (3) Pro právo vzniklé z újmy na svobodě, životě nebo na zdraví se odstavce 1 a 2 nepoužijí.
+
+**§ 637**:
+> Právo na náhradu škody způsobené vadou výrobku podle § 2939 se promlčí nejpozději za deset let ode dne, kdy výrobce uvedl vadný výrobek na trh.
+
+**§ 638**:
+> (1) Právo na vydání bezdůvodného obohacení se promlčí nejpozději za deset let ode dne, kdy k bezdůvodnému obohacení došlo.
+> (2) Bylo-li bezdůvodné obohacení nabyto úmyslně, promlčí se právo na jeho vydání nejpozději za patnáct let ode dne, kdy k bezdůvodnému obohacení došlo.
+
+**§ 639**:
+> Uznal-li dlužník svůj dluh, promlčí se právo za deset let ode dne, kdy k uznání dluhu došlo. Určí-li však dlužník v uznání i dobu, do které splní, promlčí se právo za deset let od posledního dne určené doby.
+
+**§ 640**:
+> Právo přiznané rozhodnutím orgánu veřejné moci se promlčí za deset let ode dne, kdy mělo být podle rozhodnutí plněno.
+
+**§ 641**:
+> Bylo-li v uznání dluhu nebo v rozhodnutí orgánu veřejné moci plnění rozloženo na jednotlivá dílčí plnění, platí desetiletá promlčecí lhůta i pro tato dílčí plnění a počíná běžet ode dne dospělosti každého dílčího plnění. Dospěje-li nesplněním některého dílčího plnění celý dluh, počne promlčecí lhůta běžet ode dne dospělosti nesplněného dílčího plnění.
+
+**§ 642**:
+> Byl-li dluh uznán nebo bylo-li právo přiznáno rozhodnutím orgánu veřejné moci, neplatí desetiletá promlčecí lhůta pro úroky a pro ta opětující se plnění, které dospěly po uznání dluhu nebo po přiznání práva.
+
+**§ 643**:
+> (1) Přešla-li povinnost na dědice, skončí promlčecí lhůta nejdříve uplynutím šesti měsíců ode dne, kdy bylo dědici nabytí dědictví potvrzeno.
+> (2) Byla-li právnická osoba obnovena, skončí jejím věřitelům promlčecí lhůta nejdříve uplynutím šesti měsíců ode dne, kdy byl zápis právnické osoby ve veřejném rejstříku obnoven.
+
+**§ 644**:
+> Splní-li věřiteli dluh za dlužníka zástavní dlužník, nepromlčí se jeho právo vůči dlužníku dříve než za šest měsíců po splnění dluhu.
+
 ### Pododdíl 3 — Běh promlčecí lhůty (stavění a prodloužení) (§ 645—652)
+
+**§ 649**:
+> Uplatní-li věřitel u orgánu veřejné moci vzájemné právo a vztahují-li se obě práva k téže smlouvě nebo k několika smlouvám uzavřeným co do účelu v závislosti na sobě, přestává běžet promlčecí lhůta dnem, kdy bylo zahájeno řízení ohledně toho práva, proti němuž vzájemné právo směřuje. V ostatních případech přestává promlčecí lhůta běžet dnem, kdy bylo vzájemné právo uplatněno.
 
 #### § 645—646 — Stavění (zákonný zástupce, manželé)
 
@@ -1385,6 +1435,10 @@ Uznání již promlčeného dluhu (§ 653) obnoví nárok a založí novou deset
 ## Oddíl 2 — Prekluze (§ 654)
 
 ### § 654 — Prekluze
+
+**§ 654**:
+> (1) Nebylo-li právo vykonáno ve stanovené lhůtě, zanikne jen v případech stanovených zákonem výslovně. K zániku práva soud přihlédne, i když to dlužník nenamítne.
+> (2) Ustanovení tohoto zákona o běhu promlčecí lhůty platí obdobně i pro prekluzivní lhůtu.
 
 (1) Nebylo-li právo vykonáno ve stanovené lhůtě, zanikne jen v případech stanovených zákonem výslovně. K zániku práva soud přihlédne, i když to dlužník nenamítne.
 

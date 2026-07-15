@@ -1220,6 +1220,12 @@ Podstatnou změnu poměrů či neshodu rodič × pěstoun řeší na návrh dít
 
 ### § 971 — Důvody nařízení
 
+**§ 971**:
+> (1) Jsou-li výchova dítěte nebo jeho tělesný, rozumový či duševní stav, anebo jeho řádný vývoj vážně ohroženy nebo narušeny do té míry, že je to v rozporu se zájmem dítěte, anebo jsou-li tu vážné důvody, pro které rodiče dítěte nemohou jeho výchovu zabezpečit, může soud jako nezbytné opatření také nařídit ústavní výchovu. Učiní tak zejména tehdy, kdy dříve učiněná opatření nevedla k nápravě. Soud přitom vždy zvažuje, zda není na místě dát přednost svěření dítěte do péče fyzické osoby.
+> (2) V případě, že rodiče nemohou z vážných důvodů zabezpečit výchovu dětí na přechodnou dobu, svěří soud dítě do zařízení pro děti vyžadující okamžitou pomoc, a to na dobu nejdéle šest měsíců.
+> (3) Nedostatečné bytové poměry nebo majetkové poměry rodičů dítěte nebo osob, kterým bylo dítě svěřeno do péče, nemohou být samy o sobě důvodem pro rozhodnutí soudu o ústavní výchově, jestliže jsou jinak rodiče způsobilí zabezpečit řádnou výchovu dítěte a plnění dalších povinností vyplývajících z jejich rodičovské odpovědnosti.
+> (4) Soud v rozhodnutí, kterým nařizuje ústavní výchovu, označí zařízení, do kterého má být dítě umístěno. Tímto zařízením nesmí být zdravotnické zařízení. Přitom přihlédne k zájmům dítěte a k vyjádření orgánu sociálně-právní ochrany dětí. Soud dbá na umístění dítěte co nejblíže bydlišti rodičů nebo jiných osob dítěti blízkých. To platí i tehdy, rozhoduje-li soud o přemístění dítěte do jiného zařízení pro výkon ústavní nebo ochranné výchovy.
+
 (1) Jsou-li výchova dítěte nebo jeho tělesný, rozumový či duševní stav, anebo jeho řádný vývoj vážně ohroženy nebo narušeny do té míry, že je to v rozporu se zájmem dítěte, anebo jsou-li tu vážné důvody, pro které rodiče dítěte nemohou jeho výchovu zabezpečit, může soud jako nezbytné opatření také nařídit ústavní výchovu. Učiní tak zejména tehdy, kdy dříve učiněná opatření nevedla k nápravě. Soud přitom vždy zvažuje, zda není na místě dát přednost svěření dítěte do péče fyzické osoby.
 
 (2) V případě, že rodiče nemohou z vážných důvodů zabezpečit výchovu dětí na přechodnou dobu, svěří soud dítě do zařízení pro děti vyžadující okamžitou pomoc, a to na dobu nejdéle šest měsíců.

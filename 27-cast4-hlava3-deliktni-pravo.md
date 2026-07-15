@@ -449,6 +449,15 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 **§ 2910 věta druhá**: i porušení **zákonné povinnosti chránící jiné právo** → škůdce odpovídá za škodu z toho vzniklou (např. porušení dopravního předpisu → škoda na vozidle).
 
+**Doslovná znění § 2911 až 2912:**
+
+**§ 2911**:
+> Způsobí-li škůdce poškozenému škodu porušením zákonné povinnosti, má se za to, že škodu zavinil z nedbalosti.
+
+**§ 2912**:
+> (1) Nejedná-li škůdce, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale.
+> (2) Dá-li škůdce najevo zvláštní znalost, dovednost nebo pečlivost, nebo zaváže-li se k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebí, a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale.
+
 #### 3) Porušení smlouvy (§ 2913)
 
 > (1) Poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou druhé straně nebo i osobě, jejímuž zájmu mělo splnění ujednané povinnosti zjevně sloužit.
@@ -462,6 +471,11 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 - Kdo používá zmocněnce/zaměstnance/pomocníka → odpovídá **jako za vlastní jednání**;
 - **Výjimka**: **samostatný podnikatel** — odpovídá sám, ale ručí ten, kdo ho **nepečlivě vybral** nebo **dohlížel**.
 
+**Doslovné znění § 2914:**
+
+**§ 2914**:
+> Kdo při své činnosti použije zmocněnce, zaměstnance nebo jiného pomocníka, nahradí škodu jím způsobenou stejně, jako by ji způsobil sám. Zavázal-li se však někdo při plnění jiné osoby provést určitou činnost samostatně, nepovažuje se za pomocníka; pokud ho však tato jiná osoba nepečlivě vybrala nebo na něho nedostatečně dohlížela, ručí za splnění jeho povinnosti k náhradě škody.
+
 ### Domněnka nedbalosti
 
 **§ 2911—2912 — Vyvratitelná domněnka nedbalosti**:
@@ -470,6 +484,16 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 - **§ 2912 odst. 2**: **profesionál** (kdo deklaruje zvláštní znalost) → vyšší standard.
 
 ### Solidární odpovědnost více škůdců (§ 2915—2917)
+
+**§ 2915**:
+> (1) Je-li k náhradě zavázáno několik škůdců, nahradí škodu společně a nerozdílně; je-li některý ze škůdců povinen podle jiného zákona k náhradě jen do určité výše, je zavázán s ostatními škůdci společně a nerozdílně v tomto rozsahu. To platí i v případě, že se více osob dopustí samostatných protiprávních činů, z nichž mohl každý způsobit škodlivý následek s pravděpodobností blížící se jistotě, a nelze-li určit, která osoba škodu způsobila.
+> (2) Jsou-li pro to důvody zvláštního zřetele hodné, může soud rozhodnout, že škůdce nahradí škodu podle své účasti na škodlivém následku; nelze-li účast přesně určit, přihlédne se k míře pravděpodobnosti. Takto nelze rozhodnout, pokud se některý škůdce vědomě účastnil na způsobení škody jiným škůdcem nebo je podněcoval či podporoval nebo pokud lze připsat celou škodu každému škůdci, byť jednali nezávisle, nebo má-li škůdce hradit škodu způsobenou pomocníkem a vznikla-li povinnost k náhradě také pomocníkovi.
+
+**§ 2916**:
+> Kdo je povinen k náhradě škody společně a nerozdílně s jinými, vypořádá se s nimi podle účasti na způsobení vzniklé škody.
+
+**§ 2917**:
+> Kdo je povinen k náhradě škody způsobené jinou osobou, má proti ní postih.
 
 **§ 2915 — Solidarita**:
 - Více škůdců → **solidární odpovědnost**;
@@ -541,6 +565,18 @@ Promlčení náhrady škody nebrání domáhat se vydání toho, oč se škůdce
 
 #### Škoda způsobená nezletilým / duševně postiženým (§ 2920—2922)
 
+**§ 2920**:
+> (1) Nezletilý, který dovršil třinácti let a nenabyl plné svéprávnosti, nebo ten, kdo je stižen duševní poruchou, nahradí způsobenou škodu, pokud byl způsobilý ovládnout své jednání a posoudit jeho následky; poškozenému náleží náhrada škody i tehdy, nebránil-li se škůdci ze šetrnosti k němu.
+> (2) Nebyl-li nezletilý, který dovršil třinácti let a nenabyl plné svéprávnosti, nebo ten, kdo je stižen duševní poruchou, způsobilý ovládnout své jednání a posoudit jeho následky, má poškozený právo na náhradu, je-li to spravedlivé se zřetelem k majetkovým poměrům škůdce a poškozeného.
+> (3) Škodu způsobenou nezletilým mladším třinácti let nahradí ten, kdo nad ním zanedbal náležitý dohled. Nedošlo-li ke škodě v důsledku zanedbání náležitého dohledu, nahradí škodu nezletilý, způsobil-li ji činem povahy úmyslného trestného činu nebo je-li to spravedlivé se zřetelem k jeho majetkovým poměrům a majetkovým poměrům poškozeného.
+
+**§ 2921**:
+> (1) Společně a nerozdílně se škůdcem, je-li jím nezletilý, který dovršil třinácti let, nebo ten, kdo je stižen duševní poruchou, nahradí škodu i ten, kdo nad ním zanedbal náležitý dohled. Není-li škůdce povinen k náhradě, nahradí poškozenému škodu ten, kdo nad škůdcem zanedbal dohled.
+> (2) Není-li nezletilý škůdce povinen k náhradě a ke škodě nedošlo v důsledku zanedbání náležitého dohledu, nahradí škodu ten, kdo má a vůči dítěti vykonává rodičovskou odpovědnost v plném rozsahu, je-li to spravedlivé se zřetelem k jeho majetkovým poměrům a majetkovým poměrům poškozeného.
+
+**§ 2922**:
+> Kdo se uvede vlastní vinou do takového stavu, že není s to ovládnout své jednání nebo posoudit jeho následky, nahradí škodu v tomto stavu způsobenou. Společně a nerozdílně s ním nahradí škodu ti, kteří jej vlastní vinou do tohoto stavu přivedli.
+
 **§ 2920 — Schopnost rozumového úsudku** rozhoduje:
 - **Nezletilý ≥13 let** + nezpůsobilý → kombinovaná odpovědnost s dohlížitelem;
 - **Nezletilý ≥13 let** + způsobilý → osobně odpovídá;
@@ -578,6 +614,25 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 #### Provoz dopravních prostředků (§ 2927—2932)
 
+**§ 2927**:
+> (1) Kdo provozuje dopravu, nahradí škodu vyvolanou zvláštní povahou tohoto provozu. Stejnou povinnost má i jiný provozovatel vozidla, plavidla nebo letadla, ledaže je takový dopravní prostředek poháněn lidskou silou.
+> (2) Povinnosti nahradit škodu se nemůže provozovatel zprostit, byla-li škoda způsobena okolnostmi, které mají původ v provozu. Jinak se zprostí, prokáže-li, že škodě nemohl zabránit ani při vynaložení veškerého úsilí, které lze požadovat.
+
+**§ 2928**:
+> Je-li dopravní prostředek v opravě, považuje se za jeho provozovatele osoba, která dopravní prostředek převzala k opravě.
+
+**§ 2929**:
+> Místo provozovatele nahradí škodu ten, kdo použije dopravního prostředku bez vědomí nebo proti vůli provozovatele. Provozovatel nahradí škodu společně a nerozdílně s ním, pokud mu takové užití dopravního prostředku z nedbalosti umožnil.
+
+**§ 2930**:
+> Nelze-li provozovatele určit, platí, že jím je vlastník dopravního prostředku.
+
+**§ 2931**:
+> Vznikla-li škoda na věci jejím odcizením nebo ztrátou, nahradí provozovatel tuto škodu, jen pokud poškozený neměl možnost věc opatrovat.
+
+**§ 2932**:
+> Střetnou-li se provozy dvou nebo více provozovatelů a jedná-li se o vypořádání mezi těmito provozovateli, vypořádají se provozovatelé podle své účasti na způsobení vzniklé škody.
+
 **§ 2927 — Klíčová ustanovení**:
 - **Provozovatel dopravy** + **provozovatel vozidla/plavidla/letadla** odpovídá za škodu **vyvolanou zvláštní povahou provozu**;
 - **Výjimka**: dopravní prostředek **poháněný lidskou silou** (kola, koloběžky bez motoru);
@@ -595,6 +650,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 #### Zvíře (§ 2933—2935)
 
+**§ 2933**:
+> Způsobí-li škodu zvíře, nahradí ji jeho vlastník, ať již bylo pod jeho dohledem nebo pod dohledem osoby, které vlastník zvíře svěřil, anebo se zatoulalo nebo uprchlo. Osoba, které zvíře bylo svěřeno nebo která zvíře chová nebo jinak používá, nahradí škodu způsobenou zvířetem společně a nerozdílně s vlastníkem.
+
+**§ 2934**:
+> Slouží-li domácí zvíře vlastníku k výkonu povolání či k jiné výdělečné činnosti nebo k obživě, anebo slouží-li jako pomocník pro osobu se zdravotním postižením, zprostí se vlastník povinnosti k náhradě, prokáže-li, že při dozoru nad zvířetem nezanedbal potřebnou pečlivost, anebo že by škoda vznikla i při vynaložení potřebné pečlivosti. Za týchž podmínek se povinnosti k náhradě zprostí i ten, komu vlastník zvíře svěřil.
+
+**§ 2935**:
+> (1) Odňala-li třetí osoba svémocně zvíře vlastníku nebo osobě, které vlastník zvíře svěřil, nahradí třetí osoba škodu způsobenou zvířetem sama, prokáže-li vlastník nebo osoba, které vlastník zvíře svěřil, že odnětí nemohli rozumně zabránit; jinak společně a nerozdílně s nimi.
+> (2) Kdo zvíře svémocně odňal, nemůže se zprostit povinnosti k náhradě.
+
 **§ 2933** — **Vlastník zvířete** odpovídá za škodu:
 - Bez ohledu, zda zvíře bylo pod dohledem;
 - I když zvíře **uniklo nebo se zatoulalo**;
@@ -608,6 +673,17 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 #### Věc (§ 2936—2938)
 
+**§ 2936**:
+> Kdo je povinen někomu něco plnit a použije při tom vadnou věc, nahradí škodu způsobenou vadou věci. To platí i v případě poskytnutí zdravotnických, sociálních, veterinárních a jiných biologických služeb.
+
+**§ 2937**:
+> (1) Způsobí-li škodu věc sama od sebe, nahradí škodu ten, kdo nad věcí měl mít dohled; nelze-li takovou osobu jinak určit, platí, že jí je vlastník věci. Kdo prokáže, že náležitý dohled nezanedbal, zprostí se povinnosti k náhradě.
+> (2) Způsobila-li škodu věc pádem nebo vyhozením z místnosti nebo podobného místa, nahradí škodu společně a nerozdílně s tím, kdo je povinen k náhradě podle odstavce 1, i osoba, která takové místo užívá, a nelze-li ji určit, vlastník nemovité věci.
+
+**§ 2938**:
+> (1) Při zřícení budovy nebo odloučení její části v důsledku vady budovy nebo nedostatečného udržování budovy nahradí její vlastník škodu z toho vzniklou.
+> (2) Společně a nerozdílně s ním hradí škodu předešlý vlastník, má-li škoda příčinu v nedostatku vzniklém za trvání jeho vlastnického práva, na nějž nástupce neupozornil, a došlo-li ke škodě do roka od zániku jeho vlastnického práva. To neplatí, pokud se jedná o takový nedostatek, o kterém nástupce musel vědět.
+
 **§ 2936 — Vadná věc při plnění** — kdo používá vadnou věc → odpovídá.
 
 **§ 2937 — Věc způsobí škodu sama** (např. spadlá tabule):
@@ -619,6 +695,34 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2938 — Zřícení budovy** — vlastník + **předchozí vlastník** (do 1 roku po zániku jeho vlastnictví, pokud o vadě věděl).
 
 #### Vada výrobku (§ 2939—2943)
+
+**§ 2939**:
+> (1) Škodu způsobenou vadou movité věci určené k uvedení na trh jako výrobek za účelem prodeje, nájmu nebo jiného použití nahradí ten, kdo výrobek nebo jeho součást vyrobil, vytěžil, vypěstoval nebo jinak získal, a společně a nerozdílně s ním i ten, kdo výrobek nebo jeho část označil svým jménem, ochrannou známkou nebo jiným způsobem.
+> (2) Společně a nerozdílně s osobami uvedenými v odstavci 1 hradí škodu i ten, kdo výrobek dovezl za účelem jeho uvedení na trh v rámci svého podnikání.
+> (3) Škoda na věci způsobená vadou výrobku se hradí jen v částce převyšující částku vypočtenou z 500 EUR kursem devizového trhu vyhlášeným Českou národní bankou v den, v němž škoda vznikla; není-li tento den znám, pak v den, kdy byla škoda zjištěna.
+
+**§ 2940**:
+> (1) Nelze-li výrobce určit podle § 2939, nahradí škodu i každý dodavatel, pokud poškozenému při uplatnění práva na náhradu škody do jednoho měsíce nesdělí, kdo je výrobcem nebo kdo mu výrobek dodal.
+> (2) Jedná-li se o dovezený výrobek, pak nahradí škodu každý dodavatel, i když je výrobce znám, pokud poškozenému ve lhůtě nesdělí, kdo je dovozcem.
+
+**§ 2941**:
+> (1) Výrobek je ve smyslu § 2939 vadný, není-li tak bezpečný, jak to od něho lze rozumně očekávat se zřetelem ke všem okolnostem, zejména ke způsobu, jakým je výrobek na trh uveden nebo nabízen, k předpokládanému účelu, jemuž má výrobek sloužit, jakož i s přihlédnutím k době, kdy byl výrobek uveden na trh.
+> (2) Výrobek nelze považovat za vadný jen proto, že byl později uveden na trh výrobek dokonalejší.
+
+**§ 2942**:
+> (1) Povinnosti k náhradě škody způsobené vadou výrobku se škůdce zprostí, jen prokáže-li, že škodu zavinil poškozený nebo ten, za jehož čin poškozený odpovídá.
+> (2) Povinnosti k náhradě škody se tato osoba rovněž zprostí, prokáže-li, že
+>     - a) výrobek na trh neuvedla,
+>     - b) lze důvodně předpokládat s přihlédnutím ke všem okolnostem, že vada neexistovala v době, kdy byl výrobek na trh uveden, nebo že nastala později,
+>     - c) výrobek nevyrobila pro prodej nebo jiný způsob použití pro podnikatelské účely, ani že výrobek nevyrobila nebo nešířila v rámci své podnikatelské činnosti,
+>     - d) vada výrobku je důsledkem plnění těch ustanovení právních předpisů, která jsou pro výrobce závazná, nebo
+>     - e) stav vědeckých a technických znalostí v době, kdy uvedl výrobek na trh, neumožnil zjistit jeho vadu.
+> (3) Kdo vyrobil součást výrobku, zprostí se povinnosti k náhradě škody, prokáže-li, že vadu způsobila konstrukce výrobku, do něhož byla součást zapracována, nebo že ji způsobil návod k výrobku.
+> (4) Vzdá-li se druhá strana předem práva na náhradu škody zcela nebo zčásti, nepřihlíží se k tomu.
+> (5) K ujednáním odporujícím odstavcům 1 až 4 se nepřihlíží.
+
+**§ 2943**:
+> Ustanovení § 2939 až 2942 se nepoužijí, pokud vada způsobila poškození vadného výrobku nebo poškození věci určené a užívané převážně k podnikatelským účelům.
 
 **Transpozice směrnice 85/374/EHS** o odpovědnosti za vadné výrobky.
 
@@ -652,6 +756,21 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **Liberace**: prokáže, že **škoda by vznikla i jinak** (vyšší moc, nepředvídatelná okolnost).
 
 #### Další zvláštní skutkové podstaty (§ 2945—2950)
+
+**§ 2946**:
+> (1) Kdo provozuje pravidelně ubytovací služby, nahradí škodu na věci, kterou ubytovaný vnesl do prostor vyhrazených k ubytování nebo k uložení věcí, popřípadě na věci, která tam byla pro ubytovaného vnesena. To platí i tehdy, byla-li věc za tím účelem ubytovatelem převzata.
+> (2) Prokáže-li ubytovatel, že by ke škodě došlo i jinak, nebo že škodu způsobil ubytovaný nebo osoba, která ubytovaného z jeho vůle provází, povinnosti k náhradě škody se zprostí. K ujednáním o jiných důvodech zproštění se nepřihlíží.
+
+**§ 2947**:
+> Povinnost nahradit škodu se nevztahuje na vozidla, na věci ponechané ve vozidle, ani na živá zvířata, ledaže je ubytovatel převzal do úschovy.
+
+**§ 2948**:
+> (1) Škoda se hradí do výše odpovídající stonásobku ceny ubytování za jeden den.
+> (2) Byla-li věc převzata do úschovy, odmítl-li ubytovatel úschovu věci v rozporu se zákonem nebo byla-li škoda způsobena ubytovatelem nebo tím, kdo v provozu pracuje, hradí se škoda bez omezení.
+
+**§ 2949**:
+> (1) Neuplatní-li se právo na náhradu škody u ubytovatele bez zbytečného odkladu, soud je nepřizná, pokud ubytovatel namítne, že právo nebylo uplatněno včas. Nejpozději lze právo na náhradu škody uplatnit do patnácti dnů po dni, kdy se poškozený o škodě musel dozvědět.
+> (2) Ustanovení odstavce 1 se nepoužije, převzal-li ubytovatel věc do úschovy, odmítl-li ubytovatel úschovu věci v rozporu se zákonem nebo způsobil-li škodu ubytovatel nebo ten, kdo v provozu pracuje.
 
 - **§ 2945 — Škoda na odložené věci** — kdo provozuje **provozovnu k poskytování služeb**, ručí za odložené věci zákazníků (např. restaurace za kabáty);
 - **§ 2946 — Škoda na vnesených věcech** — provozovatel ubytování (hotel) odpovídá za **vnesené věci** hostů (do **stonásobku** ceny ubytování);
@@ -1114,6 +1233,17 @@ Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštn�
 
 **Typicky rozhodné důkazy / podklady:** znalecké ocenění obvyklé ceny i ceny zvláštní obliby, fotodokumentace, veterinární účty a vyjádření o účelnosti péče, svědectví a podklady k pohnutce škůdce.
 
+**Doslovná znění § 2972 až 2974:**
+
+**§ 2972**:
+> Kdo se účastní hospodářské soutěže (soutěžitel), nesmí při soutěžní činnosti, ani při sdružování k výkonu soutěžní činnosti, vlastní účast v hospodářské soutěži nekalou soutěží zneužívat, ani účast jiných v hospodářské soutěži omezovat.
+
+**§ 2973**:
+> Ustanovení této hlavy se nevztahují na jednání v rozsahu, v jakém má účinky v zahraničí, pokud z mezinárodních smluv, jimiž je Česká republika vázána a které byly vyhlášeny ve Sbírce mezinárodních smluv, nevyplývá něco jiného.
+
+**§ 2974**:
+> Českým osobám jsou, pokud se jedná o ochranu proti nekalé soutěži, postaveny na roveň zahraniční osoby, které se v České republice účastní hospodářské soutěže. Jinak mohou zahraniční osoby požadovat ochranu podle mezinárodních smluv, jimiž je Česká republika vázána a které byly vyhlášeny ve Sbírce mezinárodních smluv, a není-li jich, na základě vzájemnosti.
+
 ---
 
 ### Pododdíl 3 — Náhrada majetkové újmy (§ 2972—2990)
@@ -1128,6 +1258,15 @@ Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštn�
 - **Cenné papíry, autorská díla** — speciální oceňování.
 
 **§ 2980 — Náhrada za poškozenou věc** (oprava, znehodnocení).
+
+**Doslovná znění § 2988 až 2989:**
+
+**§ 2988**:
+> Osoba, jejíž právo bylo nekalou soutěží ohroženo nebo porušeno, může proti rušiteli požadovat, aby se nekalé soutěže zdržel nebo aby odstranil závadný stav. Dále může požadovat přiměřené zadostiučinění, náhradu škody a vydání bezdůvodného obohacení.
+
+**§ 2989**:
+> (1) Právo, aby se rušitel nekalé soutěže zdržel nebo aby odstranil závadný stav, může mimo případy uvedené v § 2982 až 2985 uplatnit též právnická osoba oprávněná hájit zájmy soutěžitelů nebo zákazníků.
+> (2) Uplatní-li spotřebitel právo, aby se rušitel zdržel nekalé soutěže nebo aby odstranil závadný stav a jde-li o některý případ stanovený v § 2976 až 2981 nebo v § 2987, musí rušitel prokázat, že se nekalé soutěže nedopustil. Uplatní-li spotřebitel právo na náhradu škody, musí rušitel prokázat, že škoda nebyla způsobena nekalou soutěží.
 
 ### Promlčení nároků z deliktů (§ 619—621, § 636)
 

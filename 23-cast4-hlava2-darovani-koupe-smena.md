@@ -249,6 +249,13 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 
 ### Pododdíl 2 — Zvláštní ustanovení o platnosti darování (§ 2066—2067)
 
+**§ 2066**:
+> Osoba omezená ve svéprávnosti je způsobilá darovat a přijmout dar malé hodnoty nebo dar vzhledem k okolnostem obvyklý.
+
+**§ 2067**:
+> (1) Darování osobě, která provozuje zařízení, kde se poskytují zdravotnické nebo sociální služby, anebo osobě, která takové zařízení spravuje nebo je v něm zaměstnána, je neplatné, stalo-li se v době, kdy dárce byl v péči takového zařízení nebo jinak přijímal jeho služby.
+> (2) Odstavec 1 se nepoužije, je-li obdarovaný osobou dárci blízkou.
+
 **§ 2066 — Osoba omezená ve svéprávnosti**: může darovat/přijmout dar **malé hodnoty** nebo **obvyklý** (Vánoce, narozeniny).
 
 **§ 2067 — Zařízení péče**: **neplatné** darování zaměstnanci nebo provozovateli zařízení (nemocnice, domov důchodců), pokud:
@@ -262,6 +269,19 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 **OZ obnovuje tradiční institut odvolání daru** (chybělo v 1964). Dva důvody:
 
 ### Odvolání pro nouzi (§ 2068—2071)
+
+**§ 2068**:
+> (1) Upadne-li dárce po darování do takové nouze, že nemá ani na nutnou výživu vlastní nebo nutnou výživu osoby, k jejíž výživě je podle zákona povinen, může dar odvolat a požadovat po obdarovaném, aby mu dar vydal zpět nebo zaplatil jeho obvyklou cenu, nanejvýš však v tom rozsahu, v jakém se dárci nedostává prostředků k uvedené výživě. Obdarovaný se může této povinnosti zprostit poskytováním toho, co je k této výživě potřeba.
+> (2) Obdarovaný nemá povinnost podle odstavce 1, je-li sám v obdobné nouzi jako dárce.
+
+**§ 2069**:
+> Bylo-li obdarováno více osob, je ta, která byla obdarována dříve, povinna plnit jen v tom rozsahu, v jakém k výživě nestačí příspěvek později obdarovaného.
+
+**§ 2070**:
+> Právo odvolat dar nepřechází na dárcovy dědice. Leč neuplatní-li dárce své právo, má ten, komu je dárce podle zákona povinen výživou, právo požadovat za stejných podmínek, aby mu obdarovaný doplnil to, čeho mu dárce nemůže poskytnout.
+
+**§ 2071**:
+> Právo odvolat dar nemá dárce, který si stav nouze přivodil úmyslně nebo z hrubé nedbalosti.
 
 **§ 2068 — Důvod**: dárce upadl do nouze tak, že nemá ani na **nutnou vlastní výživu** nebo **vyživovací povinnost**.
 
@@ -279,6 +299,20 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 
 > § 2072 (1): Ublížil-li obdarovaný dárci úmyslně nebo z hrubé nedbalosti tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy pro jeho nevděk odstoupit.
 
+**§ 2072**:
+> (1) Ublížil-li obdarovaný dárci úmyslně nebo z hrubé nedbalosti tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy pro jeho nevděk odstoupit. Byl-li dar již odevzdán, má dárce právo požadovat vydání celého daru, a není-li to možné, zaplacení jeho obvyklé ceny.
+> (2) Odůvodňují-li to okolnosti, považuje se za nevděk vůči dárci také zjevné porušení dobrých mravů vůči osobě obdarovanému blízké.
+
+**§ 2073**:
+> Nevděk činí obdarovaného co do jeho osoby nepoctivým držitelem.
+
+**§ 2074**:
+> Právo odvolat dar přechází na dárcova dědice, zabránil-li obdarovaný dárci v odvolání daru nebo zabránila-li v tom dárci vyšší moc.
+
+**§ 2075**:
+> (1) Dárce může dar pro nevděk odvolat do jednoho roku ode dne, co obdarovaný dárci ublížil, ale dozví-li se o tom dárce později, do jednoho roku ode dne, kdy získal vědomost o důvodu pro odvolání daru. Dědic dárce může dar odvolat nejpozději do jednoho roku od smrti dárce.
+> (2) Je-li dar odvolán později a namítne-li obdarovaný opožděné odvolání daru, soud k odvolání nepřihlédne.
+
 **Pojem nevděku** (*ingratitudo*):
 - **Úmyslné** ublížení nebo z **hrubé nedbalosti**;
 - **Zjevné porušení dobrých mravů**;
@@ -292,6 +326,15 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 **Lhůta** (§ 2075): **1 rok** od ublížení (resp. od vědomosti o ublížení). Dědic dárce: **1 rok** od smrti.
 
 ### Společná ustanovení (§ 2076—2078)
+
+**§ 2076**:
+> Vzdá-li se dárce při darování mezi živými předem práva odvolat dar pro nouzi nebo nevděk, nepřihlíží se k tomu.
+
+**§ 2077**:
+> Pojí-li se s darem povinnost zavazující obdarovaného podle darovací smlouvy, ruší se odvoláním daru pro budoucnost.
+
+**§ 2078**:
+> Nemá-li již obdarovaný dar ani jeho plnou hodnotu, zavazuje ho odvolání daru k vydání toho, co mu z obohacení ještě zbývá. To neplatí, zbavil-li se daru, aby vydání zmařil, anebo odvolal-li dar pro nevděk samotný dárce.
 
 **§ 2076** — Zákaz **vzdání se práva odvolat dar** mezi živými předem (chrání dárce).
 
@@ -644,6 +687,12 @@ Prodávající musí odevzdat nejen věc, ale i doklady nutné k jejímu převze
 - [ ] Byla vada vytknuta včas (§ 2111, § 2112)?
 
 **Typicky rozhodné důkazy / podklady:** kupní smlouva a předávací protokol (výčet dokladů), korespondence o vydání dokladů, servisní/technická dokumentace, znalecký posudek ke stáří a povaze vady, doklad o reklamaci.
+
+**Doslovné znění § 2105:**
+
+**§ 2105**:
+> (1) Odesílá-li prodávající věc, může kupující odložit prohlídku do doby, kdy je věc dopravena do místa určení.
+> (2) Je-li věc během přepravy směrována do jiného místa určení, anebo kupujícím dále odeslána, aniž měl možnost věc prohlédnout, a prodávající v době uzavření smlouvy věděl nebo musel vědět o možnosti takové změny místa určení nebo takového dalšího odeslání, může kupující prohlídku odložit do doby, kdy je věc dopravena do nového místa určení.
 
 ### § 2106—2108 — Práva z vadného plnění
 
@@ -1064,6 +1113,39 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 
 **OD 6. 1. 2023 NOVÁ ÚPRAVA** dle zákona č. 374/2022 Sb. (Modernizační směrnice 2019/2161 + sm. 2019/771):
 
+**Doslovná znění § 2161a až 2168:**
+
+**§ 2161a**:
+> Prodávající odpovídá kupujícímu také za vadu způsobenou nesprávnou montáží nebo instalací, která byla podle smlouvy provedena prodávajícím nebo na jeho odpovědnost. To platí i v případě, že byla montáž nebo instalace provedena kupujícím a vada nastala v důsledku nedostatku v návodu, který k ní poskytl prodávající nebo poskytovatel digitálního obsahu nebo služby digitálního obsahu, jde-li o věc s digitálními vlastnostmi.
+
+**§ 2161b**:
+> (1) Je-li předmětem koupě věc s digitálními vlastnostmi, prodávající zabezpečí, že budou kupujícímu poskytovány ujednané aktualizace digitálního obsahu nebo služby digitálního obsahu.
+> (2) Vedle ujednaných aktualizací prodávající zabezpečí, že budou kupujícímu poskytovány aktualizace, které jsou nezbytné, aby si věc po převzetí uchovala vlastnosti podle § 2161, a že bude na jejich dostupnost upozorněn
+>     - a) po dobu dvou let, mají-li být podle smlouvy digitální obsah nebo služba digitálního obsahu poskytovány soustavně po určitou dobu, a je-li ujednáno poskytování po dobu delší dvou let, po celou tuto dobu,
+>     - b) po dobu, po kterou to kupující může rozumně očekávat, mají-li být podle smlouvy digitální obsah nebo služba digitálního obsahu poskytnuty jednorázově; to se posoudí podle druhu a účelu věci, povahy digitálního obsahu nebo služby digitálního obsahu a s přihlédnutím k okolnostem při uzavření smlouvy a povaze závazku.
+> (3) Odstavec 2 se nepoužije v případě, že prodávající kupujícího před uzavřením smlouvy zvlášť upozornil, že aktualizace poskytovány nebudou a kupující s tím při uzavírání smlouvy výslovně souhlasil.
+> (4) Neprovedl-li kupující aktualizaci podle odstavce 2 v přiměřené době, nemá práva z vady, která vznikla pouze v důsledku neprovedené aktualizace. To neplatí v případě, že kupující nebyl upozorněn na aktualizaci nebo na důsledky jejího neprovedení anebo aktualizaci neprovedl či ji provedl nesprávně v důsledku nedostatku v návodu.
+> (5) Mají-li být podle smlouvy digitální obsah nebo služba digitálního obsahu poskytovány soustavně po určitou dobu a projeví-li se nebo vyskytne-li se vada v době podle odstavce 2 písm. a), má se za to, že jsou digitální obsah nebo služba digitálního obsahu poskytovány vadně.
+
+**§ 2162**:
+> Připouští-li to povaha koupě, má kupující právo, aby byla věc před ním překontrolována nebo aby byly předvedeny její funkce.
+
+**§ 2163**:
+> U zuživatelné věci se vyznačí doba nejkratší trvanlivosti, popřípadě, u věci podléhající rychlé zkáze, doba, po kterou lze věc použít.
+
+**§ 2165**:
+> (1) Kupující může vytknout vadu, která se na věci projeví v době dvou let od převzetí.
+> (2) Je-li předmětem koupě věc s digitálními vlastnostmi a mají-li být podle smlouvy digitální obsah nebo služba digitálního obsahu poskytovány soustavně po určitou dobu, může kupující vytknout vadu, která se na nich vyskytne nebo projeví v době dvou let od převzetí. Má-li být plněno po dobu delší dvou let, má kupující právo z vady, která se vyskytne nebo projeví v této době.
+> (3) Soud právo z vady přizná i v případě, že nebyla vytknuta bez zbytečného odkladu poté, co ji mohl kupující při dostatečné péči zjistit.
+> (4) Vytkl-li kupující prodávajícímu vadu oprávněně, doba podle odstavců 1 a 2 neběží po dobu, po kterou kupující nemůže věc užívat.
+
+**§ 2167**:
+> (1) Právo z vadného plnění kupujícímu nenáleží, pokud vadu sám způsobil.
+> (2) Vadou věci není opotřebení věci způsobené jejím obvyklým užíváním nebo u použité věci opotřebení odpovídající míře jejího předchozího používání.
+
+**§ 2168**:
+> Při koupi použité věci mohou strany zkrátit dobu podle § 2165 až na jeden rok.
+
 ### Klíčové prvky
 
 **§ 2158 — Aplikace**: platí pro kupní smlouvy mezi **prodejcem (podnikatel)** a **spotřebitelem (FO mimo podnikání)**.
@@ -1086,6 +1168,29 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 
 ### Hierarchie nároků (§ 2169—2172)
 
+**§ 2169**:
+> (1) Má-li věc vadu, může kupující požadovat její odstranění. Podle své volby může požadovat dodání nové věci bez vady nebo opravu věci, ledaže je zvolený způsob odstranění vady nemožný nebo ve srovnání s druhým nepřiměřeně nákladný; to se posoudí zejména s ohledem na význam vady, hodnotu, kterou by věc měla bez vady, a to, zda může být druhým způsobem vada odstraněna bez značných obtíží pro kupujícího.
+> (2) Prodávající může odmítnout vadu odstranit, je-li to nemožné nebo nepřiměřeně nákladné zejména s ohledem na význam vady a hodnotu, kterou by věc měla bez vady.
+> (3) Ustanovení § 1923, 2106 a 2107 o právech z vadného plnění se nepoužijí.
+
+**§ 2170**:
+> (1) Prodávající odstraní vadu v přiměřené době po jejím vytknutí tak, aby tím kupujícímu nezpůsobil značné obtíže, přičemž se zohlední povaha věci a účel, pro který kupující věc koupil.
+> (2) K odstranění vady převezme prodávající věc na vlastní náklady. Vyžaduje-li to demontáž věci, jejíž montáž byla provedena v souladu s povahou a účelem věci předtím, než se vada projevila, prodávající provede demontáž vadné věci a montáž opravené nebo nové věci anebo uhradí náklady s tím spojené.
+> (3) Nepřevezme-li kupující věc v přiměřené době poté, co jej prodávající vyrozuměl o možnosti věc po opravě převzít, použije se § 2159 odst. 3 obdobně.
+
+**§ 2171**:
+> (1) Kupující může požadovat přiměřenou slevu nebo odstoupit od smlouvy, pokud
+>     - a) prodávající vadu odmítl odstranit nebo ji neodstranil v souladu s § 2170 odst. 1 a 2,
+>     - b) se vada projeví opakovaně,
+>     - c) je vada podstatným porušením smlouvy, nebo
+>     - d) je z prohlášení prodávajícího nebo z okolností zjevné, že vada nebude odstraněna v přiměřené době nebo bez značných obtíží pro kupujícího.
+> (2) Přiměřená sleva se určí jako rozdíl mezi hodnotou věci bez vady a vadné věci, kterou kupující obdržel.
+> (3) Kupující nemůže odstoupit od smlouvy, je-li vada věci nevýznamná; má se za to, že vada není nevýznamná. Ustanovení § 2110 a 2111 se nepoužijí.
+> (4) Odstoupí-li kupující od smlouvy, prodávající vrátí kupujícímu kupní cenu bez zbytečného odkladu poté, co obdrží věc nebo co mu kupující prokáže, že věc odeslal.
+
+**§ 2172**:
+> Vadu lze vytknout prodávajícímu, u kterého věc byla koupena. Je-li však k opravě určena jiná osoba, která je v místě prodávajícího nebo v místě pro kupujícího bližším, kupující vytkne vadu tomu, kdo je určen k provedení opravy.
+
 **§ 2169 — Nový pořádek nároků**:
 1. **Oprava** nebo **výměna** (kupující volí);
 2. **Sleva** nebo **odstoupení** — **až po marné opravě/výměně** (§ 2171), nebo pokud:
@@ -1097,6 +1202,14 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 
 **§ 2173 — Náklady reklamace** — nese prodejce (vč. dopravy reklamace).
 
+**Doslovná znění § 2173 až 2174:**
+
+**§ 2173**:
+> Dokud prodávající nesplní své povinnosti z vadného plnění, nemusí kupující platit dosud neuhrazenou kupní cenu nebo její část.
+
+**§ 2174**:
+> Ujednají-li strany ještě předtím, než kupující vytkl vadu věci, že se jeho práva omezí nebo že zanikají, nepřihlíží se k tomu.
+
 ---
 
 ### Pododdíl 5 — Vedlejší ujednání při koupi (§ 2132—2157)
@@ -1105,6 +1218,38 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 
 ### Předkupní právo (§ 2140—2149)
 
+**§ 2141**:
+> Náleží-li předkupní právo několika osobám společně, mohou je uplatnit jen v celku. Zanikne-li však předkupní právo některé z nich, nebo neuplatní-li je, mohou zbývající předkupníci předkupní právo uplatnit v celku.
+
+**§ 2142**:
+> Výhrada předkupního práva zavazuje dědice a předkupní právo lze zcizit, je-li to výslovně ujednáno.
+
+**§ 2143**:
+> Povinnost prodávajícího nabídnout věc předkupníkovi ke koupi dospěje uzavřením smlouvy s koupěchtivým.
+
+**§ 2144**:
+> (1) Je-li předkupní právo zřízeno jako právo věcné, opravňuje předkupníka domáhat se vůči nástupci druhé strany, jenž věc nabyl koupí nebo způsobem postaveným ujednáním o předkupním právu koupi na roveň, aby mu věc za příslušnou úplatu převedl.
+> (2) Nabude-li nástupce vlastnické právo k věci jiným způsobem, přechází na něho povinnost nabídnout předkupníkovi věc ke koupi za podmínek, kterými byl vázán jeho předchůdce.
+> (3) Nekoupí-li předkupník nabídnutou věc, zůstává mu předkupní právo zachováno.
+
+**§ 2145**:
+> Věděl-li koupěchtivý o předkupním právu nebo musel-li o něm vědět, platí, že smlouva je uzavřena s rozvazovací podmínkou uplatnění předkupního práva.
+
+**§ 2146**:
+> Ujedná-li prodávající s koupěchtivým, že od smlouvy s ním odstoupí, pokud předkupník uplatní své právo, nebo že se závazek změní nebo zruší, pokud předkupník své právo neuplatní, jsou taková ujednání vůči předkupníkovi neúčinná. K opačnému ujednání se nepřihlíží.
+
+**§ 2147**:
+> (1) Nabídku učiní prodávající předkupníkovi ohlášením všech podmínek. Při nabídce se vyžaduje oznámení obsahu smlouvy uzavřené s koupěchtivým. Nabídka ke koupi nemovité věci vyžaduje písemnou formu.
+> (2) Přijme-li předkupník nabídku, uskuteční se koupě mezi prodávajícím a předkupníkem za týchž podmínek, jaké prodávající dohodl s koupěchtivým.
+
+**§ 2148**:
+> (1) Předkupník zaplatí kupní cenu v ujednané lhůtě, jinak do osmi dnů po nabídce u věci movité a u nemovité věci do tří měsíců po nabídce. Neučiní-li to, předkupní právo zanikne.
+> (2) Odložil-li prodávající koupěchtivému zaplacení kupní ceny na pozdější dobu nebo povolil-li mu placení ve splátkách, může se předkupník domáhat téže výhody, zajistí-li odloženou platbu dostatečnou jistotou.
+
+**§ 2149**:
+> (1) Předkupník zaplatí kupní cenu ve výši nabídnuté koupěchtivým a splní podmínky nabídnuté koupěchtivým vedle kupní ceny. Zavázal-li se koupěchtivý k vedlejšímu plnění, které předkupník poskytnout nemůže, zaplatí prodávajícímu jeho hodnotu. Nelze-li vedlejší plnění vyrovnat ani odhadní cenou, předkupní právo zanikne; to neplatí, byla-li by smlouva s koupěchtivým podle rozumného očekávání uzavřena i bez závazku k vedlejšímu plnění.
+> (2) Zavázal-li se koupěchtivý koupit věc společně s jinými za souhrnnou cenu, zaplatí předkupník poměrnou část souhrnné ceny. Prodávající může požadovat, aby předkupník koupil s věcí vše, co od ní nemůže být odděleno bez poškození.
+
 **Předkupní právo** (*Vorkaufsrecht*):
 - **Smluvní** nebo **zákonné** (např. § 1124 — spoluvlastníci, § 1254 — právo stavby vs. pozemek);
 - **Obsah**: prodávající **musí nejdříve nabídnout věc** předkupníkovi za stejných podmínek, za jakých chce prodat třetí osobě;
@@ -1112,7 +1257,44 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - **Věcné předkupní právo** (zápis do katastru) → působí **erga omnes**;
 - **Obligační předkupní právo** (jen mezi stranami) → pouze náhrada škody při porušení.
 
+**Doslovná znění § 2150 až 2156:**
+
+**§ 2150**:
+> (1) Kdo koupí věc na zkoušku, kupuje s podmínkou, že věc ve zkušební lhůtě schválí.
+> (2) Neujednají-li strany zkušební lhůtu, činí u movitých věcí tři dny a u nemovitých věcí jeden rok od uzavření smlouvy. Plyne-li však z jednání o uzavření smlouvy, že věc má být prohlédnuta nebo vyzkoušena po odevzdání, běží zkušební doba ode dne odevzdání.
+
+**§ 2151**:
+> (1) Nepřevzal-li kupující věc, má podmínka povahu podmínky odkládací. Tato podmínka se považuje za zmařenou, jestliže kupující nesdělí prodávajícímu ve zkušební době, že věc schvaluje.
+> (2) Převzal-li kupující věc, má podmínka povahu podmínky rozvazovací. Platí, že kupující věc schválil, neodmítl-li ji ve zkušební době.
+> (3) Kupující nemá právo věc odmítnout, nemůže-li ji vrátit ve stavu, v jakém ji převzal. K změnám vyvolaným vyzkoušením věci se nepřihlíží.
+
+**§ 2152**:
+> (1) Uzavřením kupní smlouvy s výhradou lepšího kupce nabývá prodávající právo dát přednost lepšímu kupci, přihlásí-li se v určené lhůtě. Tato lhůta činí u movitých věcí tři dny a u nemovitých věcí jeden rok od uzavření smlouvy.
+> (2) Zda je nový kupec lepší, rozhoduje prodávající; může dát zejména přednost novému kupci, třebaže první nabízí vyšší cenu.
+
+**§ 2153**:
+> Obdobně jako u koupě na zkoušku se posoudí, ve kterých případech má výhrada lepšího kupce povahu podmínky odkládací a v kterých povahu podmínky rozvazovací.
+
+**§ 2154**:
+> Je-li ujednána cenová doložka, upraví se kupní cena věci dodatečně s přihlédnutím k výrobním nákladům. Neurčí-li se, které náklady jsou rozhodné, mění se kupní cena v poměru k cenovým změnám hlavních surovin potřebných k vyrobení věci.
+
+**§ 2155**:
+> (1) Neurčí-li strany, která doba rozhoduje pro posouzení cenových změn, přihlédne se k cenám v době uzavření smlouvy a v době, kdy měl prodávající věc dodat. Má-li se dodání věci uskutečnit během určité lhůty, rozhoduje doba skutečného včasného plnění, jinak konec této lhůty.
+> (2) Dodá-li prodávající věc s prodlením a jsou-li ceny rozhodných složek výrobních nákladů nižší než ceny určené podle odstavce 1, přihlíží se k nižším cenám.
+
+**§ 2156**:
+> Práva a povinnosti stran z cenové doložky zaniknou, neuplatní-li oprávněná strana svá práva u druhé strany bez zbytečného odkladu po dodání věci.
+
 ### Výhrada vlastnictví (§ 2132—2134)
+
+**§ 2132**:
+> Vyhradí-li si prodávající k věci vlastnické právo, má se za to, že se kupující stane vlastníkem teprve úplným zaplacením kupní ceny. Nebezpečí škody na věci však na kupujícího přechází již jejím převzetím.
+
+**§ 2133**:
+> Je-li nabytí vlastnického práva kupujícím podmíněno zaplacením kupní ceny ve splátkách, nezakládá prodlení kupujícího se splátkou nepřesahující desetinu kupní ceny samo o sobě právo prodávajícího od smlouvy odstoupit a požadovat vrácení věci, pokud kupující splátku zaplatí nejpozději v době splatnosti následující splátky a společně s ní.
+
+**§ 2134**:
+> Výhrada vlastnického práva působí vůči věřitelům kupujícího jen tehdy, bylo-li ujednání pořízeno ve formě veřejné listiny, popřípadě bylo-li pořízeno v písemné formě a podpisy stran úředně ověřeny, leč tehdy až ode dne úředního ověření podpisů. Je-li však výhrada vlastnického práva ujednána ohledně věci zapsané do veřejného seznamu, působí vůči třetím osobám, jen byla-li do tohoto seznamu zapsána.
 
 **Výhrada vlastnictví** (*Eigentumsvorbehalt*, *retention of title*):
 - Kupující **nabude vlastnictví** **až splnením podmínky** (typicky úhrada celé ceny);
@@ -1121,6 +1303,19 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - **Účinky vůči 3. osobám**: u movitých věcí **až zápisem do rejstříku zástav** (§ 2134); jinak jen vůči kupujícímu.
 
 ### Výhrada zpětné koupě (§ 2135—2139)
+
+**§ 2135**:
+> (1) Z ujednání o výhradě zpětné koupě vzniká kupujícímu povinnost převést na požádání věc prodávajícímu za úplatu zpět. Kupující vrátí prodávajícímu věc v nezhoršeném stavu a prodávající vrátí kupujícímu kupní cenu; tím jsou vyrovnány i užitky z peněz a plody z věci snad vytěžené.
+> (2) Výhrada zpětné koupě zavazuje dědice a právo na zpětnou koupi lze zcizit, jen je-li to výslovně ujednáno.
+
+**§ 2136**:
+> Vynaložil-li kupující na věc náklad k jejímu zlepšení, anebo mimořádný náklad pro její zachování, náleží mu stejná náhrada jako poctivému držiteli; pokud se ale vrácení věci zmaří nebo zhorší její hodnota z důvodů, za které kupující odpovídá, nahradí prodávajícímu škodu.
+
+**§ 2137**:
+> Nebyla-li ujednána lhůta, ve které má prodávající právo žádat vrácení věci, platí vzhledem k movité věci za ujednanou tříletá lhůta a vzhledem k nemovité věci desetiletá lhůta.
+
+**§ 2138**:
+> Byla-li výhrada zpětné koupě ujednána k věci zapsané do veřejného seznamu jako právo věcné, lze věc zatížit jen se souhlasem toho, pro koho je právo zpětné koupě ve veřejném seznamu zapsáno.
 
 **Výhrada zpětné koupě** (*Wiederkaufsrecht*):
 - Prodávající si vyhradí **právo věc znovu odkoupit** v určité lhůtě;
@@ -1133,6 +1328,26 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - **Koupě na zkoušku** (§ 2150 — věc lze vrátit ve lhůtě);
 - **Cenová doložka** (§ 2154);
 - **Jiná vedlejší ujednání** (§ 2156—2157).
+
+**Doslovná znění § 2158 až 2160:**
+
+**§ 2158**:
+> (1) Je-li kupujícím spotřebitel, platí pro prodej hmotné movité věci i ustanovení tohoto pododdílu. Ustanovení tohoto pododdílu se použijí také na smlouvu o dodání hmotné movité věci, kterou je nutné vyrobit nebo vytvořit.
+> (2) Je-li předmětem koupě hmotná movitá věc, která je propojena s digitálním obsahem nebo službou digitálního obsahu takovým způsobem, že by bez nich nemohla plnit své funkce (dále jen „věc s digitálními vlastnostmi“), použijí se ustanovení tohoto pododdílu také na poskytování digitálního obsahu nebo služby digitálního obsahu, i když je poskytuje třetí osoba. To neplatí, je-li z obsahu smlouvy i z povahy věci zjevné, že jsou poskytovány samostatně.
+> (3) Slouží-li hmotná movitá věc jen jako nosič digitálního obsahu, ustanovení tohoto pododdílu se s výjimkou § 2159 a 2159a nepoužijí.
+
+**§ 2159**:
+> (1) Není-li ujednán čas plnění, prodávající odevzdá věc kupujícímu bez zbytečného odkladu po uzavření smlouvy, nejpozději však do třiceti dnů.
+> (2) Má-li prodávající kupujícímu věc odeslat, je kupujícímu odevzdána v okamžiku, kdy ji spotřebiteli nebo jím určené osobě předá dopravce. Určil-li však dopravce kupující, aniž mu byl prodávajícím nabídnut, je věc kupujícímu odevzdána v okamžiku, kdy ji prodávající předá tomuto dopravci; práva kupujícího vůči dopravci tím nejsou dotčena.
+> (3) Nepřevezme-li kupující věc v čase uvedeném v odstavci 1, náleží prodávajícímu úplata za uskladnění. Neujednají-li strany její výši, platí za ujednanou výše obvyklá.
+
+**§ 2159a**:
+> (1) Je-li prodávající v prodlení s odevzdáním věci, může kupující od smlouvy odstoupit, nesplní-li prodávající svoji povinnost ani v dodatečné přiměřené lhůtě, kterou mu kupující poskytl. Kupující může od smlouvy odstoupit bez dodatečné lhůty jen v případě, že prodávající odmítl plnit nebo je plnění v určeném čase nezbytné s ohledem na okolnosti při uzavření smlouvy anebo kupující sdělil prodávajícímu před uzavřením smlouvy, že je dodání v určitý čas nezbytné; § 1980 se nepoužije.
+> (2) Prodávající vrátí bez zbytečného odkladu po odstoupení od smlouvy kupujícímu všechna peněžitá plnění, která kupující podle smlouvy uhradil.
+
+**§ 2160**:
+> (1) Převzetím koupené věci nabývá kupující k věci vlastnické právo.
+> (2) Při samoobslužném prodeji nabývá kupující vlastnické právo k věci zaplacením kupní ceny. Do té doby může kupující vrátit věc na původní místo. Vznikne-li na věci škoda před zaplacením kupní ceny, nahradí se podle obecných ustanovení.
 
 ---
 

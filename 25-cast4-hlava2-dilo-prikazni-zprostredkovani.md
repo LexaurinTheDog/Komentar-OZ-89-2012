@@ -84,6 +84,12 @@ Licenční smlouva je platná i bez ujednání odměny; OZ presumuje úplatnost 
 
 **Typicky rozhodné důkazy / podklady:** licenční smlouva, předsmluvní korespondence o ceně, znalecký posudek na obvyklou výši odměny, doklady o skutečném využívání licence nabyvatelem.
 
+**Doslovné znění § 2359:**
+
+**§ 2359**:
+> (1) Nabyvatel není povinen licenci využít, ledaže trvání práva závisí na jeho výkonu.
+> (2) Poskytovatel udržuje po dobu trvání licence právo, vyžaduje-li to jeho povaha.
+
 ### Druhy licencí
 
 **§ 2359 — Výhradní × nevýhradní licence**:
@@ -365,6 +371,192 @@ Autorské licence požívají zvýšené ochrany: bestsellerová klauzule (§ 23
 - [ ] Nevyužívá-li nabyvatel výhradní licenci: byla dána výzva a uplynuly lhůty (§ 2378, § 2379)?
 
 **Typicky rozhodné důkazy / podklady:** nakladatelská/licenční smlouva, ediční a prodejní výkazy, vyúčtování výnosů, znalecký posudek na obvyklou výši autorské odměny.
+
+**Doslovná znění § 2361 až 2362:**
+
+**§ 2361**:
+> Je-li ujednána nevýhradní licence, je poskytovatel oprávněn k výkonu práva, ke kterému udělil nevýhradní licenci, jakož i poskytnout licenci třetí osobě.
+
+**§ 2362**:
+> Není-li výslovně ujednána výhradní licence, platí, že se jedná o nevýhradní licenci.
+
+**Doslovné znění § 2374a:**
+
+**§ 2374a**:
+> (1) Nabyvatel, kterému byla licence poskytnuta za odměnu, předkládá autorovi pravidelně, alespoň jednou ročně, při zachování vysoké úrovně transparentnosti v jednotlivých odvětvích a s přihlédnutím ke zvláštnostem jednotlivých odvětví, aktuální, relevantní a úplné informace o užití autorského díla. Informace poskytuje v rozsahu přiměřeném okolnostem, zejména s přihlédnutím k nákladům ve vztahu k výnosům plynoucím z užití autorského díla. Je-li takové poskytování informací nepřiměřené, předkládá nabyvatel informace o užití autorského díla alespoň takového typu a úrovně podrobnosti, které lze v takovém případě rozumně očekávat.
+> (2) Není-li příspěvek autora k dílu jako celku významný, může autor požadovat informace o užití díla, pokud prokáže, že je vyžaduje za účelem uplatnění práva na dodatečnou odměnu.
+> (3) Byla-li k užití autorského díla poskytnuta podlicence, poskytne nabyvatel licence autorovi na jeho žádost informace o užití autorského díla na základě udělené podlicence; nemá-li nabyvatel licence informace o užití autorského díla na základě udělené podlicence, nebo nelze-li takové informace od nabyvatele licence získat z jiného důvodu, poskytne tyto informace nabyvateli licence na jeho žádost nabyvatel podlicence.
+> (4) K ujednáním vylučujícím nebo omezujícím právo autora podle odstavců 1 až 3 se nepřihlíží. To platí i v případě, že se autor tohoto práva vzdá.
+
+**Doslovná znění § 2389a až 2389e:**
+
+**§ 2389a**:
+> (1) Smlouvou o poskytování digitálního obsahu se poskytovatel zavazuje zpřístupnit uživateli věc v digitální podobě (digitální obsah) k užívání pro vlastní potřebu a uživatel se zavazuje platit za to odměnu.
+> (2) Vyžaduje-li užívání digitálního obsahu oprávnění k výkonu práva duševního vlastnictví, použijí se také příslušná ustanovení o licenci.
+
+**§ 2389b**:
+> (1) Není-li ujednán čas plnění, poskytovatel zpřístupní uživateli digitální obsah bez zbytečného odkladu po uzavření smlouvy.
+> (2) Poskytovatel splní tuto povinnost také zpřístupněním digitálního obsahu prostřednictvím fyzického nebo virtuálního zařízení, které si k tomu uživatel zvolil.
+> (3) Je na poskytovateli, aby prokázal, že digitální obsah uživateli zpřístupnil.
+
+**§ 2389c**:
+> (1) Poskytovatel odpovídá uživateli, že digitální obsah je po dobu trvání závazku bez vad.
+> (2) Poskytovatel zpřístupní uživateli nejnovější verzi digitálního obsahu dostupnou v době uzavření smlouvy.
+
+**§ 2389d**:
+> (1) Poskytovatel zabezpečí, že budou uživateli poskytovány ujednané aktualizace digitálního obsahu.
+> (2) Vedle ujednaných aktualizací poskytovatel zabezpečí, že budou uživateli poskytovány aktualizace, které jsou nezbytné, aby byl digitální obsah bez vad po dobu trvání závazku a že bude na jejich dostupnost upozorněn.
+> (3) Neprovedl-li uživatel aktualizaci podle odstavce 2 v přiměřené době, nemá práva z vady, která vznikla pouze v důsledku neprovedené aktualizace. To neplatí v případě, že uživatel nebyl upozorněn na aktualizaci nebo na důsledky jejího neprovedení anebo aktualizaci neprovedl či ji provedl nesprávně v důsledku nedostatku v návodu.
+
+**§ 2389e**:
+> (1) Projeví-li se vada za trvání závazku, je na poskytovateli, aby prokázal, že digitální obsah je poskytován bez vad.
+> (2) Prokáže-li poskytovatel, že vadu způsobilo nevyhovující technické nebo programové vybavení nebo síťové připojení pro přístup či užívání digitálního obsahu uživatele nezbytné pro řádné fungování digitálního obsahu (dále jen „digitální prostředí uživatele“), ačkoli byl uživatel na jeho potřebu před uzavřením smlouvy jasně a srozumitelně upozorněn, odstavec 1 se nepoužije.
+> (3) K ověření, zda se vada vyskytla v důsledku nevyhovujícího digitálního prostředí uživatele, poskytne uživatel poskytovateli nezbytnou součinnost v míře, kterou lze rozumně požadovat. Povinnost součinnosti uživatele je omezena pouze na technicky dostupné prostředky, které jsou pro uživatele co nejméně rušivé. Odmítne-li uživatel součinnost poskytnout, přestože byl o této povinnosti a o důsledcích jejího porušení jasně a srozumitelně poučen před uzavřením smlouvy, odstavec 1 se nepoužije.
+
+## Poskytování digitálního obsahu — doplněná ustanovení (§ 2389g—2389p)
+
+**§ 2389g**:
+> (1) Je-li uživatelem spotřebitel, platí pro poskytování digitálního obsahu i ustanovení tohoto pododdílu.
+> (2) Ustanovení o poskytování digitálního obsahu se použijí také v případě, že uživatel namísto odměny poskytovateli poskytuje nebo se zavazuje poskytnout své osobní údaje, ledaže je poskytovatel zpracovává pouze pro účely poskytnutí digitálního obsahu nebo pouze ke splnění svých zákonných povinností. V takovém případě uživatel nemůže požadovat přiměřenou slevu a § 2389m odst. 2 a 3 a § 2389p se nepoužijí.
+> (3) Ustanovení o poskytování digitálního obsahu se použijí i na smlouvu o zhotovení digitálního obsahu.
+> (4) Ustanovení tohoto pododdílu se nepoužijí, je-li digitální obsah poskytován spolu s věcí s digitálními vlastnostmi podle § 2158 odst. 2.
+
+**§ 2389h**:
+> (1) Je-li poskytovatel v prodlení se zpřístupněním digitálního obsahu, může uživatel od smlouvy odstoupit, nesplní-li poskytovatel svoji povinnost bez zbytečného odkladu poté, co jej uživatel vyzval k plnění nebo v dodatečné lhůtě, na níž se strany výslovně dohodly.
+> (2) Uživatel může od smlouvy odstoupit bez dodatečné lhůty jen v případě, že je z prohlášení poskytovatele nebo z okolností zjevné, že poskytovatel digitální obsah neposkytne anebo vyplývá-li z ujednání stran nebo z okolností při uzavření smlouvy, že je plnění v určeném čase nezbytné; § 1980 se nepoužije. Odstoupí-li uživatel od smlouvy, použijí se § 2389n až 2389p obdobně.
+> (3) Je-li digitální obsah poskytován na hmotném nosiči, odstavce 1 a 2 a § 2389b se nepoužijí.
+
+**§ 2389i**:
+> (1) Poskytovatel zejména odpovídá uživateli, že digitální obsah
+>     - a) odpovídá ujednanému popisu a rozsahu, jakož i jakosti, funkčnosti, kompatibilitě, interoperabilitě a jiným ujednaným vlastnostem,
+>     - b) je vhodný k účelu, pro který jej uživatel požaduje a s nímž poskytovatel souhlasil, a
+>     - c) je poskytován s ujednaným příslušenstvím a pokyny k použití, včetně návodu k instalaci, a s uživatelskou podporou.
+> (2) Poskytovatel odpovídá uživateli, že vedle ujednaných vlastností
+>     - a) je digitální obsah vhodný k účelu, k němuž se digitální obsah tohoto druhu obvykle používá, i s ohledem na práva třetích osob, právní předpisy, technické normy nebo kodexy chování daného odvětví, není-li technických norem,
+>     - b) digitální obsah rozsahem, jakostí a dalšími výkonnostními parametry, včetně funkčnosti, kompatibility, přístupnosti, kontinuity a bezpečnosti, odpovídá obvyklým vlastnostem digitálního obsahu téhož druhu, které může uživatel rozumně očekávat, i s ohledem na veřejná prohlášení učiněná poskytovatelem nebo jinou osobou v témže smluvním řetězci, zejména reklamou nebo označením,
+>     - c) je digitální obsah poskytován s příslušenstvím a pokyny k použití, které může uživatel rozumně očekávat, a
+>     - d) digitální obsah odpovídá zkušební verzi nebo náhledu, které poskytovatel zpřístupnil před uzavřením smlouvy.
+> (3) Poskytovatel není vázán veřejným prohlášením podle odstavce 2 písm. b), prokáže-li, že si ho nebyl vědom nebo že bylo v době uzavření smlouvy upraveno alespoň srovnatelným způsobem, jakým bylo učiněno, anebo že na rozhodnutí o uzavření smlouvy nemohlo mít vliv.
+> (4) Odstavec 2 se nepoužije v případě, že poskytovatel uživatele před uzavřením smlouvy zvlášť upozornil, že se některá vlastnost digitálního obsahu liší a uživatel s tím při uzavírání smlouvy výslovně souhlasil.
+
+**§ 2389j**:
+> Poskytovatel odpovídá uživateli také za vadu způsobenou nesprávným propojením digitálního obsahu s digitálním prostředím uživatele, které bylo podle smlouvy provedeno poskytovatelem nebo na jeho odpovědnost. To platí i v případě, že propojení provedl uživatel a vada nastala v důsledku nedostatku v návodu poskytnutého poskytovatelem.
+
+**§ 2389k**:
+> (1) Uživatel může vytknout vadu, která se u digitálního obsahu projeví nebo vyskytne za trvání závazku. Jde-li o jednorázové plnění, může vytknout vadu, která se na digitálním obsahu projeví v době dvou let od zpřístupnění.
+> (2) Soud právo z vady přizná i v případě, že nebyla oznámena bez zbytečného odkladu poté, co ji mohl uživatel při dostatečné péči zjistit.
+
+**§ 2389l**:
+> (1) Má-li digitální obsah vadu, může uživatel požadovat její odstranění, ledaže je to nemožné nebo nepřiměřeně nákladné; to se posoudí zejména s ohledem na význam vady a hodnotu, kterou by digitální obsah měl bez vady.
+> (2) Poskytovatel odstraní vadu v přiměřené době po jejím vytknutí tak, aby nezpůsobil uživateli značné obtíže, přičemž se zohlední povaha digitálního obsahu a účel, pro který ho uživatel požadoval.
+
+**§ 2389m**:
+> (1) Uživatel může požadovat přiměřenou slevu nebo odstoupit od smlouvy, pokud
+>     - a) poskytovatel vadu neodstranil podle § 2389l nebo je z prohlášení poskytovatele nebo z okolností zjevné, že vada nebude odstraněna v přiměřené době nebo bez značných obtíží pro uživatele,
+>     - b) se vada projeví i po odstranění, nebo
+>     - c) je vada podstatným porušením smlouvy.
+> (2) Přiměřená sleva se určí jako rozdíl mezi hodnotou digitálního obsahu bez vady a vadného digitálního obsahu, který byl uživateli poskytnut. Má-li být digitální obsah poskytován po určitou dobu, zohlední se doba, po kterou byl poskytován vadně; uživateli náleží sleva i v případě, že odstoupí od smlouvy.
+> (3) Uživatel nemůže odstoupit od smlouvy, je-li vada digitálního obsahu jen nevýznamná; má se za to, že vada není nevýznamná.
+
+**§ 2389n**:
+> (1) Odstoupí-li uživatel od smlouvy, poskytovatel se zdrží užívání obsahu odlišného od osobních údajů uživatele, který byl vytvořen uživatelem při užívání digitálního obsahu; to neplatí v případě, že
+>     - a) je obsah bez tohoto digitálního obsahu nepoužitelný,
+>     - b) se obsah vztahuje výlučně k činnosti uživatele při užívání digitálního obsahu,
+>     - c) poskytovatel smísil obsah s jinými daty a může být oddělen jen při vynaložení nepřiměřeného úsilí, nebo
+>     - d) byl vytvořen společně s jinými osobami, které mohou obsah nadále užívat.
+> (2) S výjimkou případů podle odstavce 1 písm. a) až c) poskytovatel zpřístupní uživateli na jeho žádost obsah odlišný od jeho osobních údajů, který uživatel při užívání digitálního obsahu jeho prostřednictvím vytvořil nebo uchovával. Poskytovatel tak učiní bezplatně, v přiměřené době a v běžně používaném strojově čitelném formátu.
+> (3) Odstoupí-li uživatel od smlouvy, poskytovatel může uživateli zabránit v dalším užívání digitálního obsahu, a to zejména tím, že mu digitální obsah nebo uživatelský účet znepřístupní.
+
+**§ 2389o**:
+> (1) Odstoupí-li uživatel od smlouvy a byl-li mu v souvislosti s poskytováním digitálního obsahu odevzdán hmotný nosič, vydá jej poskytovateli na jeho žádost a náklady bez zbytečného odkladu. Poskytovatel může o vydání hmotného nosiče požádat do čtrnácti dnů od ukončení závazku.
+> (2) Odstoupí-li uživatel od smlouvy, zdrží se užívání digitálního obsahu, včetně jeho poskytování třetí osobě.
+
+**§ 2389p**:
+> Peněžité částky, které má poskytovatel z důvodu vadného plnění vydat uživateli, vrátí poskytovatel na vlastní náklady bez zbytečného odkladu, nejpozději však do čtrnácti dnů ode dne, kdy uživatel uplatnil u poskytovatele příslušné právo z vadného plnění. Použije přitom stejný způsob, jakým uživatel uhradil odměnu, ledaže uživatel výslovně svolí jinak a nevzniknou mu tím žádné náklady.
+
+**Doslovná znění § 2389r až 2389u:**
+
+**§ 2389r**:
+> Ustanovení § 2174b se použije obdobně v případě vady digitálního obsahu nebo prodlení s jeho zpřístupněním.
+
+**§ 2389s**:
+> (1) Nepřihlíží se k ujednání, že se práva uživatele omezují nebo že zanikají, učiněnému předtím, než vytkl vadu digitálního obsahu nebo prodlení s jeho zpřístupněním anebo než byl vyrozuměn o jeho změně podle § 2389q.
+> (2) Ustanovení § 2389d odst. 2 se nepoužije v případě, že poskytovatel před uzavřením smlouvy zvlášť upozornil uživatele, že aktualizace poskytovány nebudou a uživatel s tím při uzavírání smlouvy výslovně souhlasil.
+
+**§ 2389t**:
+> Ustanovení o poskytování digitálního obsahu se použijí obdobně i na případy, kdy se poskytovatel zavazuje uživateli poskytovat službu, která uživateli umožňuje vytvářet, zpracovávat či uchovávat data v digitální podobě nebo k nim přistupovat, sdílet data v digitální podobě nahraná či vytvořená tímto nebo jiným uživatelem této služby anebo jakoukoli jinou interakci s těmito daty (služba digitálního obsahu).
+
+**§ 2389u**:
+> (1) Ustanovení o poskytování digitálního obsahu se nepoužijí na smlouvu, jejímž předmětem je
+>     - a) poskytování služby elektronických komunikací podle zákona upravujícího elektronické komunikace, s výjimkou interpersonální komunikační služby nezávislé na číslech,
+>     - b) poskytování zdravotní péče,
+>     - c) hra, sázka nebo los,
+>     - d) finanční služba,
+>     - e) poskytování počítačového programu s otevřeným zdrojovým kódem na základě svobodné licence, za kterou uživatel neplatí cenu a pokud osobní údaje poskytnuté uživatelem zpracovává poskytovatel výlučně za účelem zlepšení bezpečnosti, kompatibility nebo interoperability tohoto počítačového programu,
+>     - f) poskytování digitálního obsahu, při němž je digitální obsah učiněn dostupným široké veřejnosti jinak než přenosem signálu jakožto součást představení nebo jiné akce, nebo
+>     - g) poskytování informací, které jsou předmětem ochrany práva autorského, podle zákona upravujícího svobodný přístup k informacím.
+> (2) Obsahuje-li smlouva, na jejímž základě je digitální obsah poskytován, také prvky smlouvy podle odstavce 1, použijí se ustanovení tohoto oddílu pouze na tu část závazku, která se týká poskytování digitálního obsahu.
+
+**Výklad:**
+
+Pododdíl navazuje na obecná ustanovení o poskytování digitálního obsahu (§ 2389a—2389e, doslovná znění výše) a spolu se společnými a závěrečnými pravidly § 2389r—2389u zakládá zvláštní ochranný režim pro případ, kdy je uživatelem **spotřebitel** (§ 2389g odst. 1); věcně jde o transpozici směrnice (EU) 2019/770 o smlouvách o digitálním obsahu. Působnost je rozšířena třemi směry: úprava se použije i tehdy, poskytuje-li uživatel namísto odměny své osobní údaje (ledaže je poskytovatel zpracovává pouze pro účely poskytnutí digitálního obsahu nebo pouze ke splnění svých zákonných povinností) — v takovém případě však uživatel nemůže požadovat přiměřenou slevu a nepoužijí se § 2389m odst. 2 a 3 ani § 2389p (§ 2389g odst. 2); dále se vztahuje i na smlouvu o zhotovení digitálního obsahu (§ 2389g odst. 3); a konečně se použije obdobně na služby umožňující vytvářet, zpracovávat, uchovávat či sdílet data v digitální podobě nebo k nim přistupovat, které zákon označuje legislativní zkratkou „služba digitálního obsahu" (§ 2389t) — typicky cloudová úložiště, streamovací nebo komunikační platformy. Negativně je působnost vymezena jednak vyloučením digitálního obsahu poskytovaného spolu s věcí s digitálními vlastnostmi podle § 2158 odst. 2, který sleduje režim spotřebitelské koupě (§ 2389g odst. 4), jednak výčtem výluk v § 2389u odst. 1 (mj. služby elektronických komunikací s výjimkou interpersonálních komunikačních služeb nezávislých na číslech, zdravotní péče, hra, sázka nebo los, finanční služba, počítačový program s otevřeným zdrojovým kódem poskytovaný na základě svobodné licence bez placení ceny a s omezeným zpracováním poskytnutých osobních údajů, obsah zpřístupňovaný široké veřejnosti jinak než přenosem signálu jako součást představení nebo jiné akce a autorskoprávně chráněné informace poskytované podle zákona upravujícího svobodný přístup k informacím). U smíšených smluv se ustanovení použijí pouze na tu část závazku, která se týká poskytování digitálního obsahu (§ 2389u odst. 2).
+
+Prodlení se zpřístupněním upravuje § 2389h. Východiskem je § 2389b: není-li ujednán čas plnění, poskytovatel zpřístupní obsah bez zbytečného odkladu po uzavření smlouvy a je na něm, aby zpřístupnění prokázal. Při prodlení může uživatel odstoupit teprve tehdy, nesplní-li poskytovatel povinnost bez zbytečného odkladu poté, co byl uživatelem vyzván k plnění, anebo v dodatečné lhůtě, na níž se strany výslovně dohodly (§ 2389h odst. 1). Bez dodatečné lhůty lze odstoupit jen, je-li zjevné, že poskytovatel digitální obsah neposkytne, anebo je-li plnění v určeném čase nezbytné; použití § 1980 je výslovně vyloučeno a na následky odstoupení se § 2389n až 2389p použijí obdobně (§ 2389h odst. 2). Je-li digitální obsah poskytován na hmotném nosiči, § 2389h odst. 1 a 2 ani § 2389b se nepoužijí (§ 2389h odst. 3).
+
+Vadnost se posuzuje kombinací ujednaných (subjektivních) a objektivních hledisek. Poskytovatel odpovídá, že obsah odpovídá ujednanému popisu a rozsahu, jakosti, funkčnosti, kompatibilitě, interoperabilitě a jiným ujednaným vlastnostem, že je vhodný k účelu, pro který jej uživatel požaduje a s nímž poskytovatel souhlasil, a že je poskytován s ujednaným příslušenstvím, pokyny a uživatelskou podporou (§ 2389i odst. 1). Vedle toho musí být obsah vhodný k obvyklému účelu a odpovídat rozsahem, jakostí a dalšími výkonnostními parametry — včetně funkčnosti, kompatibility, přístupnosti, kontinuity a bezpečnosti — obvyklým vlastnostem obsahu téhož druhu, které může uživatel rozumně očekávat i s ohledem na veřejná prohlášení poskytovatele nebo jiné osoby v témže smluvním řetězci (zejména reklamu nebo označení), být poskytován s rozumně očekávatelným příslušenstvím a pokyny a odpovídat zkušební verzi nebo náhledu (§ 2389i odst. 2). Veřejným prohlášením není poskytovatel vázán, prokáže-li, že si ho nebyl vědom, že bylo v době uzavření smlouvy srovnatelným způsobem upraveno, anebo že nemohlo mít vliv na rozhodnutí o uzavření smlouvy (§ 2389i odst. 3); odchýlení od objektivních požadavků vyžaduje zvláštní upozornění před uzavřením smlouvy a výslovný souhlas uživatele (§ 2389i odst. 4). Poskytovatel odpovídá i za vadu způsobenou nesprávným propojením obsahu s digitálním prostředím uživatele, bylo-li provedeno jím nebo na jeho odpovědnost, anebo provedl-li je uživatel a vada nastala v důsledku nedostatku v návodu poskytovatele (§ 2389j). Součástí bezvadnosti jsou aktualizace (§ 2389c, § 2389d): vedle ujednaných musí poskytovatel zabezpečit i aktualizace nezbytné k tomu, aby byl obsah bez vad po dobu trvání závazku; vyloučit je lze jen zvláštním upozorněním, že aktualizace poskytovány nebudou, s výslovným souhlasem uživatele (§ 2389s odst. 2).
+
+Pro vytýkání vad platí, že uživatel může vytknout vadu, která se projeví nebo vyskytne za trvání závazku; jde-li o jednorázové plnění, vadu, která se projeví v době dvou let od zpřístupnění (§ 2389k odst. 1). Opožděné vytknutí nevede ke ztrátě práva: soud právo z vady přizná i tehdy, nebyla-li vada oznámena bez zbytečného odkladu (§ 2389k odst. 2). Důkazní břemeno je obráceno — projeví-li se vada za trvání závazku, je na poskytovateli, aby prokázal, že obsah je poskytován bez vad (§ 2389e odst. 1). To neplatí, prokáže-li poskytovatel, že vadu způsobilo nevyhovující digitální prostředí uživatele, ačkoli byl uživatel na jeho potřebu před uzavřením smlouvy „jasně a srozumitelně" upozorněn (§ 2389e odst. 2), anebo odmítne-li předem poučený uživatel poskytnout nezbytnou součinnost k ověření příčiny vady (§ 2389e odst. 3).
+
+Práva z vadného plnění jsou odstupňována. Primárním právem je odstranění vady, ledaže je nemožné nebo nepřiměřeně nákladné — to se posoudí zejména s ohledem na význam vady a hodnotu, kterou by obsah měl bez vady; poskytovatel vadu odstraní v přiměřené době po vytknutí tak, aby uživateli nezpůsobil značné obtíže (§ 2389l). Přiměřenou slevu nebo odstoupení může uživatel volit, jestliže poskytovatel vadu neodstranil nebo je zjevné, že ji neodstraní v přiměřené době či bez značných obtíží, jestliže se vada projeví i po odstranění, anebo je-li vada podstatným porušením smlouvy (§ 2389m odst. 1). Sleva se určí jako rozdíl mezi hodnotou obsahu bez vady a vadného obsahu; má-li být obsah poskytován po určitou dobu, zohlední se doba vadného poskytování, a sleva náleží i uživateli, který od smlouvy odstoupil (§ 2389m odst. 2). Odstoupení je vyloučeno jen u nevýznamné vady, přičemž „má se za to, že vada není nevýznamná" (§ 2389m odst. 3) — důkaz opaku tíží poskytovatele. Režim je jednostranně kogentní: nepřihlíží se k ujednáním omezujícím práva uživatele, učiněným předtím, než vytkl vadu nebo prodlení anebo než byl vyrozuměn o změně digitálního obsahu podle § 2389q (§ 2389s odst. 1); podle § 2389r se v případě vady nebo prodlení se zpřístupněním použije obdobně § 2174b.
+
+Ukončení závazku je spojeno s podrobným vypořádáním. Odstoupí-li uživatel, poskytovatel se zdrží užívání obsahu odlišného od osobních údajů, který uživatel při užívání digitálního obsahu vytvořil (s výjimkami podle § 2389n odst. 1 písm. a) až d)), a s výjimkou případů podle písm. a) až c) mu jej na žádost zpřístupní bezplatně, v přiměřené době a „v běžně používaném strojově čitelném formátu" (§ 2389n odst. 2) — funkčně jde o přenositelnost uživatelských dat. Poskytovatel současně může uživateli zabránit v dalším užívání obsahu, zejména znepřístupněním obsahu nebo uživatelského účtu (§ 2389n odst. 3); uživatel se zdrží užívání digitálního obsahu včetně jeho poskytování třetí osobě (§ 2389o odst. 2) a byl-li mu odevzdán hmotný nosič, vydá jej na žádost a náklady poskytovatele — o vydání lze požádat do čtrnácti dnů od ukončení závazku (§ 2389o odst. 1). Peněžité částky, které má poskytovatel z důvodu vadného plnění vydat, vrací na vlastní náklady bez zbytečného odkladu, nejpozději do čtrnácti dnů od uplatnění práva, a to stejným způsobem, jakým uživatel uhradil odměnu, ledaže uživatel výslovně svolí jinak a nevzniknou mu tím žádné náklady (§ 2389p).
+
+**Vazba na další ustanovení:**
+- § 2389a—2389e (obecná ustanovení o poskytování digitálního obsahu — definice, zpřístupnění a důkaz o něm, bezvadnost, aktualizace, digitální prostředí uživatele; doslovná znění výše);
+- § 2389r—2389u (společná a závěrečná ustanovení — obdobné použití § 2174b, zákaz předchozích odchylek, služba digitálního obsahu, výluky; doslovná znění výše);
+- § 2158 odst. 2 a § 2158 a násl. (věc s digitálními vlastnostmi a spotřebitelská koupě — negativní vymezení podle § 2389g odst. 4);
+- § 1810 a násl. (spotřebitelské smlouvy), zejména § 1811 (jasná a srozumitelná sdělení — na ně navazují předsmluvní upozornění podle § 2389e odst. 2 a § 2389i odst. 4);
+- § 1820 a násl. (smlouvy uzavírané distančním způsobem — typický způsob kontraktace digitálního obsahu);
+- § 2358 a násl. (licence — vyžaduje-li užívání obsahu oprávnění k výkonu práva duševního vlastnictví, použijí se také ustanovení o licenci, § 2389a odst. 2);
+- § 1980 (pro odstoupení bez dodatečné lhůty jej § 2389h odst. 2 výslovně vylučuje).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel U si u poskytovatele P sjednal za měsíční odměnu aplikaci pro ukládání a synchronizaci fotografií (služba digitálního obsahu). Po šesti měsících přestala synchronizace fungovat; U vadu vytkl, P ji ani po dvou měsících neodstranil a tvrdí, že příčinou je zastaralý telefon U — na žádné technické požadavky však před uzavřením smlouvy neupozornil. U od smlouvy odstoupí, žádá vrácení odměny za dobu nefunkčnosti a vydání svých fotografií; P vše odmítá a uživatelský účet znepřístupní. Důkazy: smlouva a obchodní podmínky, předsmluvní informace, doklady o platbách, záznamy o vytknutí vady a komunikaci, technické záznamy o funkčnosti služby.
+
+**2. Právní otázka.** Může uživatel odstoupit od smlouvy pro vadu služby digitálního obsahu, kterou poskytovatel neodstranil v přiměřené době, a jaká práva na vrácení plateb a na vydání vytvořeného obsahu mu po odstoupení náleží?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2389g odst. 1 (použití pododdílu na spotřebitele); § 2389t (služba digitálního obsahu); § 2389l (odstranění vady v přiměřené době a bez značných obtíží); § 2389m odst. 1 písm. a), odst. 2 a 3 (sleva a odstoupení; domněnka, že vada není nevýznamná); § 2389e (obrácené důkazní břemeno; výjimka digitálního prostředí uživatele jen po předchozím jasném a srozumitelném upozornění); § 2389n odst. 2 a 3 (vydání vytvořeného obsahu, znepřístupnění účtu); § 2389p (vrácení peněz do čtrnácti dnů stejným způsobem platby).
+- *Související ustanovení téhož zákona:* § 2389c a § 2389d (bezvadnost po dobu trvání závazku, aktualizace); § 2389k (doba pro vytknutí vady); § 2389s (zákaz předchozích odchylek od práv uživatele); § 1811 a násl., § 1820 a násl. (informační povinnosti vůči spotřebiteli, distanční kontraktace).
+- *Související předpisy:* předpisy o ochraně osobních údajů (§ 2389n upravuje jen obsah odlišný od osobních údajů uživatele; nakládání s osobními údaji se řídí zvláštní úpravou).
+
+**4. Subsumpce.** U je spotřebitel a služba umožňující uchovávat a sdílet data v digitální podobě je službou digitálního obsahu (§ 2389g odst. 1, § 2389t). Vada se projevila za trvání závazku, takže bezvadnost prokazuje P (§ 2389e odst. 1); námitka nevyhovujícího telefonu neobstojí, protože U nebyl na potřebu technického vybavení před uzavřením smlouvy jasně a srozumitelně upozorněn (§ 2389e odst. 2). P vadu neodstranil v přiměřené době (§ 2389l odst. 2), čímž je dán důvod pro slevu nebo odstoupení (§ 2389m odst. 1 písm. a)); domněnku, že vada není nevýznamná (§ 2389m odst. 3), P nevyvrátil.
+
+**5. Řešení.** Odstoupení U je důvodné. U náleží sleva za dobu, po kterou byla služba poskytována vadně (§ 2389m odst. 2), a vrácení odpovídajících částek bez zbytečného odkladu, nejpozději do čtrnácti dnů od uplatnění práva, stejným způsobem, jakým platil (§ 2389p). P je dále povinen na žádost U bezplatně, v přiměřené době a v běžně používaném strojově čitelném formátu zpřístupnit fotografie, které U prostřednictvím služby vytvořil nebo uchovával (§ 2389n odst. 2); znepřístupnění účtu je po odstoupení přípustné (§ 2389n odst. 3), povinnost vydat vytvořený obsah tím však není dotčena. Procesně U doloží vytknutí vady, platby a žádost o vydání obsahu; bezvadnost by musel prokázat P.
+
+**6. Varianty.** (a) U za službu neplatil penězi, ale poskytoval osobní údaje využívané P k marketingu (§ 2389g odst. 2) → ochranný režim se použije, U však nemůže požadovat přiměřenou slevu a § 2389m odst. 2 a 3 ani § 2389p se nepoužijí; odstoupení a práva podle § 2389n zůstávají. (b) P před uzavřením smlouvy jasně a srozumitelně upozornil na minimální požadovanou verzi systému, kterou telefon U nesplňuje, a prokáže, že vada vznikla právě proto → obrácené důkazní břemeno podle § 2389e odst. 1 se nepoužije a práva z vadného plnění U zpravidla nesvědčí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vada je nevýznamná, odstoupit nelze":* § 2389m odst. 3 zakládá domněnku, že vada není nevýznamná — opak musí tvrdit a prokázat poskytovatel; dlouhodobý výpadek podstatné funkce nevýznamný nebude.
+- *Protiargument „vadu způsobilo zařízení uživatele":* výjimka z obráceného důkazního břemene předpokládá jednak důkaz příčiny v digitálním prostředí uživatele, jednak předchozí jasné a srozumitelné upozornění na technické požadavky (§ 2389e odst. 2); poskytovatel může namítat i odepření součinnosti uživatele (§ 2389e odst. 3), to však jen při předchozím poučení o této povinnosti a jejích důsledcích.
+- *Protiargument „práva byla omezena obchodními podmínkami":* k ujednáním omezujícím práva uživatele učiněným před vytknutím vady se nepřihlíží (§ 2389s odst. 1).
+- *Slabé místo:* neurčité pojmy *přiměřená doba* a *značné obtíže* (§ 2389l odst. 2, § 2389m odst. 1 písm. a)) činí výsledek závislým na technickém dokazování a povaze obsahu.
+
+#### H. Praktický závěr
+
+Spotřebitelský režim digitálního obsahu dopadá i na případy, kdy uživatel namísto odměny poskytuje osobní údaje, a obdobně na služby digitálního obsahu. Poskytovatel odpovídá za bezvadnost po celou dobu trvání závazku včetně aktualizací a nese důkazní břemeno bezvadnosti; postup uživatele vede od vytknutí vady přes její odstranění ke slevě nebo odstoupení a vypořádání je formalizované (vrácení plateb do čtrnácti dnů stejným způsobem platby, vydání uživatelských dat, hmotný nosič).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je uživatel spotřebitel a nejde o výluku podle § 2389u odst. 1 ani o věc s digitálními vlastnostmi (§ 2389g odst. 1 a 4)?
+- [ ] Poskytuje uživatel namísto odměny osobní údaje (§ 2389g odst. 2 — bez přiměřené slevy; § 2389m odst. 2 a 3 a § 2389p se nepoužijí)?
+- [ ] Jde o jednorázové, nebo průběžné plnění — v jaké době lze vadu vytknout (§ 2389k odst. 1)?
+- [ ] Byl uživatel před uzavřením smlouvy jasně a srozumitelně upozorněn na požadavky na digitální prostředí, případně zvlášť na neposkytování aktualizací (§ 2389e odst. 2, § 2389s odst. 2)?
+- [ ] Dostal poskytovatel možnost vadu odstranit, než uživatel uplatnil slevu či odstoupení (§ 2389l, § 2389m odst. 1)?
+- [ ] Při ukončení: vrácení plateb do čtrnácti dnů stejným způsobem (§ 2389p), vydání vytvořeného obsahu (§ 2389n odst. 2), vydání hmotného nosiče na žádost (§ 2389o)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a obchodní podmínky, předsmluvní informace a upozornění (technické požadavky, aktualizace, odchylky od obvyklých vlastností), doklad o zpřístupnění obsahu (prokazuje poskytovatel — § 2389b odst. 3), záznamy o vytknutí vady a komunikaci, technické záznamy o funkčnosti, doklady o platbách nebo o rozsahu poskytovaných osobních údajů.
 
 ---
 
@@ -648,6 +840,12 @@ U účelového úvěru je porušení účelu silným titulem k odstoupení a oka
 
 **Typicky rozhodné důkazy / podklady:** úvěrová smlouva s vymezením účelu, doklady o čerpání a o skutečném použití prostředků, účetní podklady úvěrovaného, odstoupení a výzva k vrácení.
 
+**Doslovné znění § 2401:**
+
+**§ 2401**:
+> (1) Pracovní poměr, jakož i práva a povinnosti zaměstnance a zaměstnavatele z pracovního poměru upravuje jiný zákon. Totéž platí v rozsahu stanoveném jiným zákonem o smlouvách o výkonu závislé práce zakládajících mezi zaměstnancem a zaměstnavatelem obdobný závazek.
+> (2) Na práva a povinnosti zaměstnance a zaměstnavatele se nepoužijí ustanovení tohoto zákona o ochraně spotřebitele.
+
 ---
 
 ## Úschova (§ 2402—2414)
@@ -860,6 +1058,124 @@ Cenné papíry v úschově (zejména hromadné) náleží uschovatelům, oddělu
 
 **Typicky rozhodné důkazy / podklady:** smlouva o úschově CP, evidence schovatele, doklady o nabytí a druhu CP, podklady k podílu a k případné druhotné/imobilizované úschově.
 
+## Skladování — doplněná ustanovení (§ 2416—2427)
+
+**§ 2416**:
+> Předá-li ukladatel věc skladovateli, skladovatel věc převezme a její převzetí ukladateli v písemné formě potvrdí.
+
+**§ 2417**:
+> (1) Potvrzení o převzetí věci lze nahradit skladištním listem. Skladištní list je cenný papír, se kterým je spojeno právo požadovat vydání skladované věci; lze jej vydat na jméno, na řad, nebo na doručitele.
+> (2) Skladištní list obsahuje alespoň
+>   - a) jméno skladovatele a jeho bydliště nebo sídlo,
+>   - b) jméno ukladatele a jeho bydliště nebo sídlo,
+>   - c) označení, množství, váhu nebo objem uskladněných věcí,
+>   - d) formu skladištního listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
+>   - e) údaj o místě, kde je věc uskladněna, a
+>   - f) místo a den vydání skladištního listu a skladovatelův podpis.
+> (3) Neobsahuje-li skladištní list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad ukladatele.
+
+**§ 2418**:
+> Je-li třetí osoba oprávněna požadovat vydání skladované věci na základě skladištního listu, potvrdí skladovateli na požádání převzetí věci na skladištním listu. Platit skladné povinna není, ale není-li zaplaceno, skladovatel nemusí zboží vydat, uplatní-li zadržovací právo ke zboží uloženému ve skladu.
+
+**§ 2419**:
+> Závazek zanikne, pokud věc nebude skladovateli předána k uskladnění v ujednané době, jinak do šesti měsíců od uzavření smlouvy.
+
+**§ 2420**:
+> Skladovatel věc uloží odděleně od ostatních skladovaných věcí s označením, že se jedná o věci ukladatele. Ukladatel má právo kontrolovat stav skladované věci a brát z ní vzorky.
+
+**§ 2421**:
+> Skladovatel věc pojistí, bylo-li to ujednáno nebo odpovídá-li to zvyklostem.
+
+**§ 2422**:
+> (1) Trvá-li skladování déle než šest měsíců, platí se skladné pololetně pozadu.
+> (2) Skladné za neukončené pololetí i skladné za kratší dobu skladování se platí při vyzvednutí skladované věci.
+> (3) I po zániku závazku ze smlouvy má skladovatel právo na skladné za dobu, po kterou byla věc u něho uložena proto, že ji ukladatel včas nevyzvedl.
+
+**§ 2423**:
+> Skladné kryje všechny náklady spojené se skladováním kromě nákladů na pojištění. Na náhradu nákladů na pojištění má skladovatel právo, byl-li povinen dát věc pojistit.
+
+**§ 2424**:
+> (1) Je-li skladování ujednáno na dobu neurčitou, může skladovatel požadovat vydání věci kdykoli s tím, že zaplatí skladné za skutečnou dobu skladování. Vyzvednutím věci skladování zaniká.
+> (2) Skladovatel může skladování ujednané na neurčitou dobu vypovědět; výpovědní doba činí jeden měsíc a počne běžet prvním dnem měsíce následujícího po doručení výpovědi.
+
+**§ 2425**:
+> I když je skladování ujednáno na dobu určitou, může ukladatel věc vyzvednout ještě před uplynutím ujednané doby, musí však předtím zaplatit skladné připadající na celou ujednanou dobu. Před uplynutím ujednané doby může ukladatel požádat znovu o převzetí věci k uskladnění do konce této doby, nahradí-li skladovateli náklady s tím spojené.
+
+**§ 2426**:
+> (1) Skladovatel nahradí ukladateli škodu vzniklou od převzetí věci do jejího vydání, neprokáže-li, že ji nemohl odvrátit.
+> (2) Skladovatel nehradí škodu způsobenou ukladatelem nebo vlastníkem věci, anebo vadou nebo přirozenou povahou uložené věci. Škodu způsobenou vadou obalu skladovatel nahradí, mohl-li vadu při vynaložení odborné péče poznat a upozornil-li na ni v potvrzení podle § 2416.
+> (3) Vznikla-li škoda z příčiny uvedené v odstavci 2, vynaloží skladovatel odbornou péči, aby škoda byla co nejmenší.
+
+**§ 2427**:
+> Skladovatel může skladování vypovědět bez výpovědní doby,
+>   - a) zatajil-li ukladatel nebezpečnou povahu věci a hrozí-li z ní skladovateli značná škoda,
+>   - b) dluží-li ukladatel skladné za dobu nejméně tři měsíce, nebo
+>   - c) hrozí-li vznik podstatné škody na uložené věci, kterou skladovatel nemůže odvrátit.
+
+**Doslovné znění § 2429:**
+
+**§ 2429**:
+> Skladovatel má ke skladované věci, dokud se u něho nachází, zadržovací právo k zajištění dluhů vyplývajících ze smlouvy.
+
+**Výklad:**
+
+Doplněná ustanovení § 2416—2427 (spolu s § 2429, doslovné znění výše) dotvářejí úpravu smlouvy o skladování (§ 2415—2429) — podnikatelské a vždy úplatné obdoby úschovy (*depositum mercatorum*, srov. přehled výše v této kapitole). Od úschovy (§ 2402 a násl.), u níž úplata schovateli náleží jen, bylo-li to ujednáno nebo plyne-li to ze zvyklostí, z předchozího styku stran či z předmětu činnosti schovatele (§ 2406 odst. 2), se skladování liší především pravidelnou úplatou (skladné — § 2422, § 2423), formalizovaným převzetím věci (§ 2416), možností vtělit právo na vydání věci do cenného papíru (skladištní list — § 2417), přísnou odpovědností skladovatele za škodu (§ 2426) a zákonným zadržovacím právem (§ 2418, § 2429). Stranami jsou skladovatel a ukladatel; předmětem je zboží ukládané ve skladu (srov. § 2418).
+
+Převzetí věci a skladištní list. Předá-li ukladatel věc skladovateli, skladovatel ji převezme a převzetí ukladateli písemně potvrdí (§ 2416). Není-li věc předána k uskladnění v ujednané době, jinak do šesti měsíců od uzavření smlouvy, závazek zaniká (§ 2419); smlouva se tedy uzavírá již před předáním věci a marným uplynutím uvedené doby zaniká bez dalšího. Potvrzení o převzetí lze nahradit skladištním listem (§ 2417 odst. 1); zákon jej vymezuje tak, že „Skladištní list je cenný papír, se kterým je spojeno právo požadovat vydání skladované věci", a připouští jeho vydání na jméno, na řad, nebo na doručitele. Obligatorní náležitosti stanoví § 2417 odst. 2 písm. a) až f) (označení skladovatele a ukladatele, označení, množství, váha nebo objem uskladněných věcí, forma listu, místo uskladnění, místo a den vydání a podpis skladovatele); neobsahuje-li list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad ukladatele (§ 2417 odst. 3). Skladištní list tak umožňuje disponovat s uskladněným zbožím — převádět právo na jeho vydání — bez fyzického přemístění věci. Postavení třetí osoby řeší § 2418: je-li oprávněna požadovat vydání skladované věci na základě skladištního listu, potvrdí skladovateli na požádání převzetí věci na skladištním listu; skladné platit povinna není, avšak „není-li zaplaceno, skladovatel nemusí zboží vydat, uplatní-li zadržovací právo ke zboží uloženému ve skladu".
+
+Povinnosti stran za trvání skladování. Skladovatel uloží věc odděleně od ostatních skladovaných věcí s označením, že se jedná o věci ukladatele; ukladatel má právo kontrolovat stav skladované věci a brát z ní vzorky (§ 2420). Věc skladovatel pojistí, bylo-li to ujednáno nebo odpovídá-li to zvyklostem (§ 2421). Skladné se při skladování delším šesti měsíců platí pololetně pozadu; skladné za neukončené pololetí i za kratší dobu skladování je splatné při vyzvednutí věci (§ 2422 odst. 1 a 2). Právo na skladné má skladovatel i po zániku závazku, a to za dobu, po kterou u něho byla věc uložena proto, že ji ukladatel včas nevyzvedl (§ 2422 odst. 3). Skladné kryje všechny náklady spojené se skladováním kromě nákladů na pojištění; jejich náhrada skladovateli náleží, byl-li povinen dát věc pojistit (§ 2423).
+
+Trvání a zánik závazku. U skladování na dobu neurčitou zaniká skladování vyzvednutím věci; skladné se hradí za skutečnou dobu skladování (§ 2424 odst. 1). Skladovatel může skladování ujednané na dobu neurčitou vypovědět s jednoměsíční výpovědní dobou, která počne běžet prvním dnem měsíce následujícího po doručení výpovědi (§ 2424 odst. 2). Při době určité může ukladatel věc vyzvednout i před jejím uplynutím, musí však předtím zaplatit skladné připadající na celou ujednanou dobu; do konce ujednané doby pak může požádat znovu o převzetí věci k uskladnění, nahradí-li skladovateli náklady s tím spojené (§ 2425). Bez výpovědní doby může skladovatel skladování vypovědět, zatajil-li ukladatel nebezpečnou povahu věci a hrozí-li z ní skladovateli značná škoda, dluží-li ukladatel skladné za dobu nejméně tří měsíců, anebo hrozí-li vznik podstatné škody na uložené věci, kterou skladovatel nemůže odvrátit (§ 2427). Vedle toho závazek zaniká nepředáním věci podle § 2419.
+
+Odpovědnost za škodu. Skladovatel nahradí ukladateli škodu vzniklou na věci od převzetí do jejího vydání, „neprokáže-li, že ji nemohl odvrátit" (§ 2426 odst. 1) — jde o přísnou odpovědnost s jediným liberačním důvodem. Nehradí škodu způsobenou ukladatelem nebo vlastníkem věci, anebo vadou či přirozenou povahou uložené věci; škodu způsobenou vadou obalu však nahradí, mohl-li vadu při vynaložení odborné péče poznat a upozornil-li na ni v potvrzení podle § 2416 (§ 2426 odst. 2). I vznikla-li škoda z těchto příčin, je skladovatel povinen vynaložit odbornou péči, aby škoda byla co nejmenší (§ 2426 odst. 3). Dokumentace stavu věci při převzetí (potvrzení podle § 2416, popřípadě údaje skladištního listu) má proto zásadní důkazní význam.
+
+Zajištění pohledávek skladovatele. Skladovatel má ke skladované věci, dokud se u něho nachází, „zadržovací právo k zajištění dluhů vyplývajících ze smlouvy" (§ 2429). Vůči osobě oprávněné ze skladištního listu se toto zajištění prosazuje odepřením vydání zboží do zaplacení skladného (§ 2418); dluh na skladném za dobu nejméně tří měsíců je nadto důvodem výpovědi bez výpovědní doby (§ 2427 písm. b)).
+
+**Vazba na další ustanovení:**
+- § 2402 a násl. (úschova — obecná úprava opatrování cizí movité věci, výše v této kapitole; skladování je její podnikatelskou, úplatnou obdobou — k úplatě schovatele srov. § 2406 odst. 2);
+- § 2408 (přiměřené použití ustanovení o úschově na další případy smluvního či zákonného opatrování věci pro jiného);
+- § 2409—2414 (úschova cenných papírů, hromadná a druhotná úschova — výše v této kapitole);
+- § 1395 a násl. (zadržovací právo obecně — § 2418 a § 2429 na ně navazují zvláštním zákonným zadržovacím právem skladovatele);
+- § 2894 a násl. (obecná úprava náhrady škody — § 2426 obsahuje zvláštní skutkovou podstatu odpovědnosti skladovatele s liberačním důvodem).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce nápojů V (ukladatel) uzavřel s provozovatelem logistického skladu S (skladovatel) smlouvu o skladování 300 palet zboží na dobu neurčitou. S převzetí potvrdil vydáním skladištního listu, v němž není uvedeno jméno osoby, na jejíž řad je vydán. V převedl skladištní list na odběratele T, který požaduje vydání zboží. S vydání odepřel, protože skladné za poslední čtyři měsíce nebylo zaplaceno; při prohlídce navíc vyšlo najevo, že část zboží byla poškozena zatečením dešťové vody vadnou střechou skladu. Důkazy: smlouva o skladování, skladištní list a jeho náležitosti, doklady o (ne)úhradách skladného a výzvy k zaplacení, protokoly o stavu zboží při převzetí a při prohlídce, dokumentace údržby skladu.
+
+**2. Právní otázka.** Může skladovatel odepřít vydání zboží osobě oprávněné ze skladištního listu do zaplacení dlužného skladného a odpovídá za škodu na zboží vzniklou v době od převzetí do vydání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2417 (skladištní list — cenný papír s právem požadovat vydání skladované věci; bez uvedení osoby, na jejíž řad je vydán, platí za vystavený na řad ukladatele, odst. 3); § 2418 (třetí osoba skladné platit povinna není, skladovatel však nemusí zboží vydat, uplatní-li zadržovací právo); § 2429 (zadržovací právo k zajištění dluhů ze smlouvy); § 2426 (odpovědnost za škodu od převzetí do vydání s liberací); § 2422 a § 2423 (splatnost skladného a rozsah jím krytých nákladů); § 2427 písm. b) (výpověď bez výpovědní doby při dluhu na skladném za dobu nejméně tří měsíců).
+- *Související ustanovení téhož zákona:* § 2416 (písemné potvrzení převzetí); § 2419 (zánik závazku nepředáním věci); § 2420 a § 2421 (oddělené uložení, kontrola, pojištění); § 2402 a násl. (úschova — podpůrné srovnání); § 1395 a násl. (zadržovací právo obecně); § 2894 a násl. (náhrada škody obecně).
+- *Související předpisy:* insolvenční zákon č. 182/2006 Sb. (uplatnění pohledávky skladného a práv k zadržené věci při případném úpadku ukladatele).
+
+**4. Subsumpce.** Skladištní list bez uvedení jména osoby, na jejíž řad je vydán, se považuje za vystavený na řad ukladatele (§ 2417 odst. 3); T, na nějž byl list převeden, je proto osobou oprávněnou požadovat vydání skladované věci (§ 2418 věta první). Sám skladné platit povinen není, skladovateli však svědčí zadržovací právo ke zboží uloženému ve skladu (§ 2418, § 2429), takže do zaplacení dlužného skladného nemusí zboží vydat. Škoda na zboží vznikla mezi převzetím a vydáním; liberace vyžaduje důkaz, že ji skladovatel nemohl odvrátit (§ 2426 odst. 1) — zatečení vadnou střechou vlastního skladu takovým důkazem zpravidla není a nejde ani o výluky podle § 2426 odst. 2 (škodu nezpůsobil ukladatel, vlastník, vada či přirozená povaha věci ani vada obalu).
+
+**5. Řešení.** S je oprávněn vydání zboží odepřít, dokud není dlužné skladné zaplaceno (uhradit je může T, chce-li zboží získat, jinak V jako smluvní dlužník); převzetí věci T potvrdí na skladištním listu (§ 2418). Za poškozenou část zboží S odpovídá, neprokáže-li liberační důvod (§ 2426 odst. 1); nárok na náhradu škody se vypořádá vedle nároku na skladné. Dluží-li ukladatel skladné za dobu nejméně tří měsíců, může S skladování nadto vypovědět bez výpovědní doby (§ 2427 písm. b)). Riziko: příčina a rozsah škody vyžadují znalecké posouzení; spor o výši skladného se řeší podle smlouvy a § 2422 a § 2423.
+
+**6. Varianty.** (a) Škodu způsobila vada obalu, kterou S mohl při vynaložení odborné péče poznat, na niž však v potvrzení podle § 2416 neupozornil → škodu z vady obalu hradí (§ 2426 odst. 2 věta druhá). (b) V zboží skladovateli v ujednané době (jinak do šesti měsíců od uzavření smlouvy) vůbec nepředal → závazek zanikl podle § 2419; skladištní list nemohl být vydán, neboť nahrazuje potvrzení o převzetí věci (§ 2417 odst. 1 ve spojení s § 2416).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „oprávněný ze skladištního listu skladné neplatí, zboží mu proto musí být vydáno":* § 2418 spojuje obě pravidla — třetí osoba skladné platit povinna není, avšak není-li zaplaceno, skladovatel nemusí zboží vydat, uplatní-li zadržovací právo; věty nelze číst izolovaně.
+- *Protiargument „zatečení bylo nahodilou událostí":* liberace podle § 2426 odst. 1 předpokládá důkaz, že skladovatel škodu nemohl odvrátit; stav vlastního skladu (údržba střechy) je v jeho sféře a důkazní břemeno nese on.
+- *Protiargument „pojištění je kryto skladným":* § 2423 stanoví opak — skladné kryje všechny náklady spojené se skladováním kromě nákladů na pojištění; jejich náhrada náleží, jen byl-li skladovatel povinen dát věc pojistit (§ 2421).
+- *Slabé místo:* prokazování stavu zboží při převzetí a okamžiku vzniku škody — rozhodující je kvalita potvrzení podle § 2416, údajů skladištního listu a průběžné dokumentace (kontroly ukladatele podle § 2420).
+
+#### H. Praktický závěr
+
+Skladování je úplatné podnikatelské opatrování cizí věci: skladovatel převzetí písemně potvrdí (případně vydá skladištní list — cenný papír umožňující převádět právo na vydání zboží), věc uloží odděleně, případně pojistí a odpovídá za škodu od převzetí do vydání, neprokáže-li, že ji nemohl odvrátit. Pohledávky ze smlouvy jsou zajištěny zadržovacím právem ke skladované věci (§ 2418, § 2429); dluh na skladném za dobu nejméně tří měsíců zakládá právo na výpověď bez výpovědní doby (§ 2427 písm. b)).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla věc předána v ujednané době, jinak do šesti měsíců od uzavření smlouvy (§ 2419 — jinak závazek zanikl)?
+- [ ] Bylo převzetí věci písemně potvrzeno, případně vydán skladištní list se všemi náležitostmi (§ 2416, § 2417 odst. 2)?
+- [ ] Kdo je oprávněn požadovat vydání věci — ukladatel, nebo osoba oprávněná ze skladištního listu (forma listu, § 2417 odst. 1 a 3)?
+- [ ] Je skladné uhrazeno (splatnost § 2422), nebo hrozí zadržení zboží (§ 2418, § 2429), případně výpověď bez výpovědní doby (§ 2427)?
+- [ ] Je věc uložena odděleně s označením a bylo ujednáno či zvyklostem odpovídající pojištění (§ 2420, § 2421)?
+- [ ] Vznikla škoda mezi převzetím a vydáním a prokázal skladovatel liberaci nebo výluku (§ 2426)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o skladování, písemné potvrzení o převzetí či skladištní list, doklady o úhradách skladného a upomínky, protokoly o stavu zboží při převzetí a vydání, dokumentace skladu a jeho údržby, doklady o pojištění, znalecký posudek k příčině a výši škody.
+
 ---
 
 ## Smlouva o účtu (§ 2662—2675)
@@ -922,6 +1238,62 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 
 **Typicky rozhodné důkazy / podklady:** smlouva o účtu a podpisové vzory, výpisy o pohybech, doklady o původu prostředků, výpověď smlouvy, doklady o majitelství/disponentství.
 
+**Doslovná znění § 2663 až 2679:**
+
+**§ 2663**:
+> Je-li účet zřízen pro více osob, má každá z nich postavení majitele účtu. Tyto osoby nakládají s účtem společně. Má se za to, že jejich podíly na peněžních prostředcích na účtu jsou stejné.
+
+**§ 2664**:
+> S peněžními prostředky na účtu může majitel účtu a za podmínek ujednaných ve smlouvě i jeho zmocněnci nakládat ujednaným způsobem. Nevyplývá-li ze zmocnění opak, nezaniká smrtí zmocnitele.
+
+**§ 2665**:
+> Ujednají-li strany, že ten, kdo vede účet, umožní výběr hotovosti nebo provede převod peněžních prostředků z účtu, ač pro to na účtu není dostatek peněžních prostředků, použijí se přiměřeně ustanovení o úvěru.
+
+**§ 2666**:
+> Zemře-li majitel účtu, zastaví ten, kdo vede účet, v den následující po dni, kdy mu byla smrt majitele účtu doložena, ty výplaty hotovosti a převody peněžních prostředků z účtu, o kterých majitel účtu určil, že se v nich po jeho smrti pokračovat nemá.
+
+**§ 2667**:
+> Úrok z peněžních prostředků na účtu je splatný na konci kalendářního měsíce. Ten, kdo vede účet, připíše úrok k zůstatku peněžních prostředků na účtu bez zbytečného odkladu poté, co se stal splatným.
+
+**§ 2668**:
+> Zanikne-li závazek, vypořádá ten, kdo vede účet, bez zbytečného odkladu pohledávky a dluhy týkající se účtu, zejména provede převody peněžních prostředků z účtu uskutečněné prostřednictvím platebních prostředků a šeků použitých do dne zániku závazku, účet zruší a zůstatek peněžních prostředků vyplatí majiteli účtu.
+
+**§ 2669**:
+> Platební účet upravuje jiný zákon. Jiný zákon rovněž upravuje převody peněžních prostředků na účtu, který není platebním účtem, jestliže se jedná o platební transakci podle jiného zákona.
+
+**§ 2670**:
+> Ustanovení tohoto pododdílu se použijí pro účet, který není platebním účtem. Ustanovení tohoto pododdílu se rovněž použijí pro vložení hotovosti, výběr hotovosti nebo převod peněžních prostředků prováděné na platebním účtu, jestliže se nejedná o platební transakci podle jiného zákona.
+
+**§ 2671**:
+> Byl-li sjednán úrok, náleží majiteli účtu ode dne připsání peněžních prostředků na účet do dne předcházejícího dni jejich odepsání z účtu.
+
+**§ 2672**:
+> Ten, kdo vede účet, připíše na něj přijaté nebo převedené peněžní prostředky nejpozději následující pracovní den poté, co získal právo s nimi nakládat.
+
+**§ 2673**:
+> (1) Ten, kdo vede účet, oznámí majiteli účtu vložení či výběr hotovosti nebo převod peněžních prostředků, k němuž došlo v uplynulém kalendářním měsíci, bez zbytečného odkladu po skončení kalendářního měsíce.
+> (2) Ten, kdo vede účet, oznámí majiteli účtu bez zbytečného odkladu po skončení kalendářního roku zůstatek peněžních prostředků na účtu.
+
+**§ 2674**:
+> Majitel účtu může závazek ze smlouvy o účtu vypovědět i bez výpovědní doby, i když je smlouva uzavřena na dobu určitou.
+
+**§ 2675**:
+> (1) Ten, kdo vede účet, může závazek ze smlouvy o účtu vypovědět s účinností ke konci měsíce následujícího po měsíci, v němž výpověď došla majiteli účtu.
+> (2) Poruší-li majitel účtu podstatným způsobem ujednanou povinnost, může ten, kdo vede účet, závazek ze smlouvy o účtu vypovědět i bez výpovědní doby.
+
+**§ 2676**:
+> (1) Vkladní knížkou potvrzuje výstavce vkladní knížky vložení hotovosti na účet a výběr hotovosti z účtu. Účet, k němuž byla vystavena vkladní knížka, neslouží k provádění převodů peněžních prostředků. Vkladní knížka může být vystavena pouze na jméno majitele vkladní knížky. Z vkladní knížky musí být zřejmá výše peněžních prostředků na účtu a její změny.
+> (2) Má se za to, že výše peněžních prostředků na účtu odpovídá záznamům ve vkladní knížce.
+
+**§ 2677**:
+> S peněžními prostředky na účtu nakládá majitel vkladní knížky. Bez předložení vkladní knížky nelze s peněžními prostředky na účtu nakládat.
+
+**§ 2678**:
+> Při ztrátě nebo zničení vkladní knížky vystaví výstavce vkladní knížky na žádost majitele vkladní knížky novou vkladní knížku. Tato vkladní knížka nahrazuje původní vkladní knížku, která pozbývá dnem jejího vystavení platnosti.
+
+**§ 2679**:
+> Pokud majitel vkladní knížky nenakládá s peněžními prostředky na účtu po dobu dvaceti let ani nepředloží vkladní knížku k doplnění záznamů, ruší se závazek uplynutím této doby; majitel vkladní knížky má právo na výplatu zůstatku peněžních prostředků na účtu včetně úroků ke dni zrušení závazku.
+
 ### Specifika
 
 **Návazné předpisy**:
@@ -938,6 +1310,12 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 **§ 2671—2672 — Zánik smlouvy**:
 - Výpověď — **dispozitivně 2 měsíce**;
 - Smrt majitele — účet trvá, dispozice pro dědice po potvrzení dědictví.
+
+**Doslovné znění § 2680:**
+
+**§ 2680**:
+> (1) Smlouvou o jednorázovém vkladu se vkladatel zavazuje poskytnout příjemci vkladu pevný jednorázový vklad v určité výši a příjemce vkladu se zavazuje tento vklad přijmout, po zániku závazku jej vrátit a zaplatit vkladateli úrok.
+> (2) Bylo-li nakládání s vkladem podmíněno sdělením hesla a vkladatel heslo nezná, může vkladatel nakládat s vkladem, pokud prokáže, že mu vklad náleží.
 
 ---
 
@@ -992,6 +1370,62 @@ Akreditiv je abstraktní, dokumentární a (zpravidla) neodvolatelný platební 
 - [ ] Nejde o zjevný podvod oprávněného (podvodová výjimka)?
 
 **Typicky rozhodné důkazy / podklady:** text akreditivu a jeho podmínky, předložené dokumenty (přepravní list, faktura, pojistka), inkorporace UCP 600, komunikace banky o (ne)souladu.
+
+**Doslovná znění § 2683 až 2692:**
+
+**§ 2683**:
+> (1) Výstavce akreditivu oznámí oprávněnému v písemné formě bez zbytečného odkladu po uzavření smlouvy, že v jeho prospěch otvírá akreditiv, a sdělí mu jeho obsah.
+> (2) Akreditiv obsahuje alespoň určení, že se výstavce akreditivu zavazuje zaplatit určitou částku, přijmout směnku nebo se zavazuje k jinému plnění, jakož i akreditivní podmínky s určením, do kdy je má oprávněný splnit, aby mohl požadovat plnění od výstavce akreditivu.
+
+**§ 2684**:
+> Závazek výstavce akreditivu vůči oprávněnému vzniká vystavením akreditivu. Tento závazek je nezávislý na závazku mezi výstavcem akreditivu a příkazcem i na závazku mezi příkazcem a oprávněným.
+
+**§ 2685**:
+> Výstavce akreditivu může pověřit akreditivem i jiného výstavce, aby za něj poskytl plnění. Poskytne-li pověřený výstavce plnění, má právo na náhradu vůči výstavci akreditivu; byl-li akreditiv potvrzen, má toto právo i vůči potvrzujícímu výstavci.
+
+**§ 2686**:
+> Neurčí-li akreditiv výslovně jinak, může jej výstavce akreditivu změnit nebo zrušit jen se souhlasem oprávněného a příkazce.
+
+**§ 2687**:
+> (1) Je-li akreditiv na žádost výstavce akreditivu potvrzen dalším výstavcem, vzniká oprávněnému právo na plnění i vůči potvrzujícímu výstavci od doby, kdy potvrzující výstavce oprávněnému potvrzení akreditivu oznámil.
+> (2) Ke změně nebo zrušení potvrzeného akreditivu se vyžaduje i souhlas potvrzujícího výstavce.
+
+**§ 2688**:
+> Plnil-li potvrzující výstavce oprávněnému podle podmínek akreditivu, má právo na náhradu vůči výstavci akreditivu.
+
+**§ 2689**:
+> Výstavce akreditivu, který oprávněnému jen oznámí, že pro něho jiný výstavce akreditivu otevřel akreditiv, nevzniká závazek z akreditivu, nahradí však škodu, bylo-li oznámení nesprávné.
+
+**§ 2690**:
+> (1) Při dokumentárním akreditivu výstavce akreditivu plní oprávněnému, jsou-li mu včas předloženy dokumenty určené akreditivem v souladu s akreditivními podmínkami. To platí i v případě, jsou-li dokumenty předloženy výstavci pověřenému akreditivem.
+> (2) Byl-li dokumentární akreditiv potvrzen, poskytne potvrzující výstavce oprávněnému plnění, jsou-li mu, popřípadě výstavci pověřenému akreditivem, včas předloženy dokumenty uvedené v odstavci 1.
+
+**§ 2691**:
+> Výstavce akreditivu s odbornou péčí přezkoumá, zda obsah předložených dokumentů a jejich vzájemná souvislost zjevně odpovídají podmínkám určeným akreditivem.
+
+**§ 2692**:
+> Dojde-li k ztrátě, zničení nebo poškození dokumentů v době, kdy je má výstavce akreditivu u sebe, nahradí výstavce akreditivu příkazci škodu tím způsobenou. To neplatí, nemohl-li výstavce akreditivu škodu odvrátit ani při vynaložení odborné péče.
+
+**Doslovná znění § 2695 až 2700:**
+
+**§ 2695**:
+> Obstaravatel inkasa vyzve třetí osobu k provedení inkasního úkonu. Odmítne-li tato osoba splnit výzvu, podá o tom obstaravatel inkasa příkazci bez zbytečného odkladu zprávu.
+
+**§ 2696**:
+> Obstaravatel inkasa postupuje při obstarání inkasa s odbornou péčí podle pokynů příkazce. Neuskuteční-li se přesto inkaso, nezakládá to důvod k postihu obstaravatele inkasa.
+
+**§ 2697**:
+> (1) Co obstaravatel inkasa při inkasu přijal, vydá bez zbytečného odkladu příkazci.
+> (2) Přijal-li obstaravatel inkasa cenný papír nebo dokument, nahradí příkazci škodu způsobenou jeho ztrátou, zničením nebo poškozením v době, kdy jej měl obstaravatel inkasa u sebe. To neplatí, nemohl-li obstaravatel inkasa škodu odvrátit ani při vynaložení odborné péče.
+
+**§ 2698**:
+> Použije-li obstaravatel inkasa k obstarání inkasa jiného obstaravatele podle pokynů příkazce, děje se tak na účet a nebezpečí příkazce.
+
+**§ 2699**:
+> Při dokumentárním inkasu se obstaravatel inkasa vůči příkazci zavazuje vydat třetí osobě dokumenty, zaplatí-li tato osoba proti vydání dokumentů určitou peněžní částku, nebo provést před vydáním dokumentů jiný inkasní úkon, a příkazce se zavazuje zaplatit obstaravateli inkasa odměnu.
+
+**§ 2700**:
+> Dojde-li k ztrátě, zničení nebo poškození dokumentů v době, kdy je má obstaravatel inkasa u sebe, nahradí obstaravatel inkasa příkazci škodu tím způsobenou. To neplatí, nemohl-li obstaravatel inkasa škodu odvrátit ani při vynaložení odborné péče.
 
 ---
 
@@ -1060,6 +1494,11 @@ Příkaz je smlouvou o úsilí (péči), nikoli o výsledku; příkazníkovi ná
 - [ ] Je odměna sjednána jako paušál, nebo jako success fee vázaný na výsledek?
 
 **Typicky rozhodné důkazy / podklady:** příkazní smlouva, doklady o provedených úkonech (podání, jednání), výstup orgánu/protistrany, ujednání o odměně, komunikace o pokynech.
+
+**Doslovné znění § 2431:**
+
+**§ 2431**:
+> Obstarává-li někdo určité záležitosti jako podnikatel, má povinnost, byl-li o obstarání takové záležitosti požádán, dát druhé straně bez zbytečného odkladu výslovně najevo, zda na sebe obstarání záležitosti bere nebo ne; jinak nahradí škodu tím způsobenou.
 
 ### § 2432—2440 — Práva a povinnosti
 
@@ -1219,6 +1658,10 @@ Příkaz lze odvolat kdykoli, avšak s povinností nahradit příkazníkovi nák
 ---
 
 ### Zprostředkování (§ 2445—2454)
+
+**§ 2446**:
+> (1) Zprostředkovatel sdělí zájemci bez zbytečného odkladu vše, co má význam pro jeho rozhodování o uzavření zprostředkovávané smlouvy.
+> (2) Zájemce sdělí zprostředkovateli vše, co pro něho má rozhodný význam pro uzavření této smlouvy.
 
 ### § 2445 — Definice
 
@@ -1559,6 +2002,52 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 
 **Rozdíl od přepravní smlouvy** (§ 2555): zasílatel **obstarává**, dopravce **provádí**.
 
+**Doslovná znění § 2472 až 2482:**
+
+**§ 2472**:
+> Není-li smlouva uzavřena v písemné formě, má zasílatel právo žádat, aby mu příkazce doručil příkaz k obstarání přepravy (zasílatelský příkaz).
+
+**§ 2473**:
+> Zasílatel může užít k obstarání přepravy dalšího zasílatele (mezizasílatele).
+
+**§ 2474**:
+> Neodporuje-li to smlouvě nebo nezakáže-li to příkazce nejpozději do začátku uskutečňování přepravy, může zasílatel sám provést přepravu, kterou má obstarat.
+
+**§ 2475**:
+> Způsob a podmínky přepravy zasílatel ujedná s vynaložením potřebné péče tak, aby co nejlépe vyhovovaly zájmům příkazce, které zasílatel zná. Povinnost pojistit zásilku má zasílatel, jen bylo-li to ujednáno.
+
+**§ 2476**:
+> Neposkytne-li příkazce zasílateli správné údaje o obsahu zásilky a o všech skutečnostech potřebných k uzavření smlouvy o přepravě, nahradí škodu, která zasílateli vznikne porušením této povinnosti.
+
+**§ 2477**:
+> (1) Zasílatel podá příkazci zprávu o škodě, která zásilce hrozí nebo na ní již vznikla, jakmile se o tom dozví, jinak nahradí příkazci škodu způsobenou tím, že příkazce takto nezpravil.
+> (2) Hrozí-li podstatná škoda na zásilce bezprostředně a není-li čas vyžádat si pokyny příkazce nebo prodlévá-li příkazce s nimi, má zasílatel právo zásilku prodat podle § 2126 a 2127.
+
+**§ 2478**:
+> Vznikne-li na převzaté zásilce při obstarávání přepravy škoda, zasílatel ji nahradí, neprokáže-li, že škodu nemohl odvrátit.
+
+**§ 2479**:
+> Věděl-li příjemce zásilky o pohledávce zasílatele ze zasílatelské smlouvy vůči příkazci, anebo musel-li o ní vědět, stává se přijetím zásilky ručitelem za tuto pohledávku.
+
+**§ 2480**:
+> Nebyla-li výše odměny ujednána, náleží zasílateli přiměřená odměna, jaká se v době uzavření smlouvy a za obdobných smluvních podmínek obvykle poskytuje. Zasílateli kromě toho náleží i náhrada nákladů účelně vynaložených při plnění smlouvy.
+
+**§ 2481**:
+> (1) Zasílatel má k zásilce, dokud je zásilka u něho nebo dokud má listiny, které ho opravňují se zásilkou nakládat, zástavní právo k zajištění dluhů příkazce vyplývajících ze smlouvy. To platí i v případě, že zásilka nebo listiny jsou u někoho, kdo je má u sebe zasílatelovým jménem.
+> (2) Mezizasílatel uplatní na žádost dřívějších zasílatelů všechna práva, která jim přísluší z jejich zástavního práva, a má právo i povinnost jejich práva uspokojit. Uspokojí-li je, přecházejí na něho spolu se zástavním právem, které je zajišťuje.
+
+**§ 2482**:
+> V ostatním se na zasílatelství použijí přiměřeně ustanovení o komisi.
+
+**Doslovná znění § 2483 až 2484:**
+
+**§ 2483**:
+> (1) Smlouvou o obchodním zastoupení se obchodní zástupce jako nezávislý podnikatel zavazuje dlouhodobě vyvíjet pro zastoupeného činnost směřující k uzavírání určitého druhu obchodů zastoupeným nebo k ujednání obchodů jménem zastoupeného a na jeho účet a zastoupený se zavazuje platit obchodnímu zástupci provizi.
+> (2) Smlouva o obchodním zastoupení vyžaduje písemnou formu.
+
+**§ 2484**:
+> Obchodním zástupcem právnické osoby nemůže být osoba, která může zavazovat zastoupeného nebo osobu, s níž má být obchod uzavřen, jako člen jejího orgánu, ani nucený správce právnické osoby nebo insolvenční správce. K opačným ujednáním se nepřihlíží.
+
 ---
 
 ### Smlouva o obchodním zastoupení (§ 2483—2520)
@@ -1570,6 +2059,123 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 - **Obchodní zástupce** = nezávislý podnikatel;
 - **Vyhledává obchody** soustavně, dlouhodobě;
 - **Provize z uzavřených obchodů**.
+
+**Doslovné znění § 2486:**
+
+**§ 2486**:
+> Obchodní zástupce nemá právo uzavírat jménem zastoupeného obchody, cokoli pro něho přijímat nebo jinak jeho jménem právně jednat. Při opačném ujednání se na práva a povinnosti stran, která s tím souvisí, použijí ustanovení o příkazu.
+
+**Doslovná znění § 2489 až 2508:**
+
+**§ 2489**:
+> (1) Obchodní zástupce vykonává svou činnost s odbornou péčí. Dbá zájmů zastoupeného, postupuje ve shodě s pověřením a rozumnými pokyny zastoupeného a sdělí mu nezbytné údaje, které se dozvěděl v souvislosti s plněním svých povinností a které s tímto plněním souvisí.
+> (2) Obchodní zástupce sdělí zastoupenému údaje o vývoji trhu a všech dalších okolnostech důležitých pro oprávněné zájmy zastoupeného, zejména pro jeho rozhodování souvisící s uzavíráním obchodů.
+
+**§ 2490**:
+> Je-li ujednáno právo obchodního zástupce uzavírat obchody jménem zastoupeného, lze takové obchody uzavřít jen za obchodních podmínek určených zastoupeným, neprojeví-li zastoupený souhlas s jiným postupem.
+
+**§ 2491**:
+> (1) Bylo-li by to v rozporu se zájmy zastoupeného, nesmí obchodní zástupce sdělit třetí osobě údaje, které od zastoupeného získal, ani tyto údaje využít pro sebe nebo pro jiné osoby, ledaže s tím zastoupený souhlasí. Totéž platí o údajích, které se obchodní zástupce nedozvěděl přímo od zastoupeného, ale při plnění svých povinností podle smlouvy, a jejichž použití by zastoupenému mohlo přivodit újmu.
+> (2) Povinnost obchodního zástupce podle odstavce 1 trvá i po zániku obchodního zastoupení.
+
+**§ 2492**:
+> Obchodní zástupce ručí, že třetí osoba splní povinnosti z obchodu, který zastoupenému navrhl k uzavření, nebo který jménem zastoupeného sám uzavřel, jen zavázal-li se k tomu v písemné formě a byla-li za převzetí ručení ujednána zvláštní úplata.
+
+**§ 2493**:
+> Získá-li obchodní zástupce při své činnosti doklady, které mohou být významné pro ochranu oprávněných zájmů zastoupeného, uchová je po potřebnou dobu.
+
+**§ 2494**:
+> Nemůže-li obchodní zástupce vykonávat svou činnost, sdělí to zastoupenému bez zbytečného odkladu.
+
+**§ 2495**:
+> Zastoupený obstará a obchodnímu zástupci sdělí údaje nezbytné k plnění jeho povinností.
+
+**§ 2496**:
+> (1) Zastoupený poskytne obchodnímu zástupci nezbytnou dokumentaci vztahující se k předmětu obchodů.
+> (2) Zastoupený předá obchodnímu zástupci všechny podklady a věci potřebné pro plnění jeho povinností. Předané podklady a věci zůstávají ve vlastnictví zastoupeného; obchodní zástupce je po ukončení obchodního zastoupení zastoupenému vrátí, ledaže byly vzhledem k své povaze při obchodním zastoupení spotřebovány.
+
+**§ 2497**:
+> Zastoupený sdělí obchodnímu zástupci bez zbytečného odkladu, zda obchod obstaraný obchodním zástupcem přijal, nebo odmítl, popřípadě zda jej nesplnil.
+
+**§ 2498**:
+> Předpokládá-li zastoupený významné snížení rozsahu činnosti proti tomu, co obchodní zástupce mohl rozumně očekávat, oznámí to obchodnímu zástupci v rozumné době.
+
+**§ 2499**:
+> (1) Nebyla-li výše provize ujednána, má obchodní zástupce právo na provizi ve výši odpovídající zvyklostem v místě jeho činnosti vzhledem k druhu zboží nebo služeb, které jsou předmětem obchodů; nejsou-li takové zvyklosti, má obchodní zástupce právo na provizi v rozumné výši zohledňující podstatné okolnosti uskutečněného jednání.
+> (2) Je-li základem pro určení výše provize rozsah povinností splněných třetí osobou, započte se do základu i plnění neuskutečněné z důvodů na straně zastoupeného.
+> (3) Každá část úplaty, jejíž výše se mění podle počtu a hodnoty uzavřených obchodů, se považuje za složku provize.
+
+**§ 2500**:
+> Má se za to, že provize obchodního zástupce zahrnuje i náklady spojené s obchodním zastoupením. Bylo-li ujednáno, že zastoupený uhradí tyto náklady obchodnímu zástupci vedle provize, vznikne obchodnímu zástupci právo na úhradu nákladů, pokud mu vznikne i právo na provizi.
+
+**§ 2501**:
+> (1) Obchodní zástupce má právo na provizi za úkony provedené při obchodním zastoupení, byl-li obchod uzavřen v důsledku jeho činnosti nebo byl-li obchod uzavřen s třetí osobou, kterou obchodní zástupce za účelem uskutečnění tohoto obchodu získal před účinností smlouvy.
+> (2) Při výhradním obchodním zastoupení má obchodní zástupce právo na provizi i za obchod uskutečněný se třetí osobou z území nebo z okruhu osob, na které se výhradní obchodní zastoupení nevztahuje.
+> (3) Zaniklo-li obchodní zastoupení, má obchodní zástupce právo na provizi, byl-li obchod uskutečněn především v důsledku jeho činnosti v přiměřené době po zániku obchodního zastoupení, anebo učinila-li třetí osoba za podmínek stanovených v odstavci 1 nebo 2 vůči obchodnímu zástupci nebo zastoupenému objednávku před zánikem obchodního zastoupení.
+
+**§ 2502**:
+> Právo na provizi podle § 2501 odst. 1 a 2 obchodnímu zástupci nevzniká, má-li právo na provizi podle § 2501 odst. 3 předchozí obchodní zástupce, ledaže je vzhledem k okolnostem spravedlivé provizi rozdělit mezi oba obchodní zástupce.
+
+**§ 2503**:
+> Bylo-li ujednáno, že obchodní zástupce obstará pro zastoupeného jen příležitost k uzavření obchodu s určitým obsahem, vzniká obchodnímu zástupci právo na provizi již obstaráním této příležitosti.
+
+**§ 2504**:
+> (1) Nebylo-li ujednáno, že obchodní zástupce obstará pro zastoupeného jen příležitost k uzavření obchodu s určitým obsahem, vzniká obchodnímu zástupci právo na provizi v okamžiku, kdy zastoupený splnil povinnost nebo byl povinen splnit závazek na základě smlouvy uzavřené s třetí osobou, anebo kdy třetí osoba splnila závazek z takové smlouvy.
+> (2) Právo na provizi vzniká nejpozději v okamžiku, kdy třetí osoba splnila svou část závazku nebo byla povinna ji splnit, splnil-li zastoupený svoji část. Má-li však třetí osoba splnit své povinnosti až po uplynutí doby přesahující šest měsíců po uzavření obchodu, vzniká obchodnímu zástupci právo na odměnu uzavřením obchodu.
+
+**§ 2505**:
+> Provize je splatná nejpozději poslední den měsíce následujícího po skončení čtvrtletí, ve kterém na ni vzniklo právo.
+
+**§ 2506**:
+> (1) Zastoupený předá obchodnímu zástupci výkaz o dlužné provizi nejpozději poslední den měsíce následujícího po skončení čtvrtletí, ve kterém se provize stala splatnou. Ve výkazu uvede hlavní údaje rozhodné pro vypočtení provize.
+> (2) Obchodní zástupce má právo, aby mu zastoupený zpřístupnil veškeré údaje, nejméně však údaje z účetních či obdobných záznamů, které má a které jsou potřebné k ověření výše provize.
+
+**§ 2507**:
+> Je-li zřejmé, že obchod mezi zastoupeným a třetí osobou nebude splněn, právo na provizi nevzniklo; to neplatí, nesplní-li se obchod z důvodů na straně zastoupeného.
+
+**§ 2508**:
+> Právo na odměnu a na ujednanou náhradu nákladů obchodní zástupce nemá, byl-li při uzavírání obchodu činný pro obě strany jako obchodní zástupce nebo jako zprostředkovatel.
+
+**Doslovná znění § 2510 až 2517:**
+
+**§ 2510**:
+> (1) Je-li obchodní zastoupení ujednáno na dobu neurčitou, lze je vypovědět. Výpovědní doba je pro první rok trvání obchodního zastoupení jeden měsíc, pro druhý rok dva měsíce a pro třetí rok a další roky tři měsíce; k ujednání kratší výpovědní doby se nepřihlíží. Ujednají-li strany delší výpovědní dobu, nesmí být doba, kterou je vázán zastoupený, kratší než doba, kterou musí dodržet obchodní zástupce.
+> (2) Výpovědní doba končí posledním dnem kalendářního měsíce.
+
+**§ 2511**:
+> Ustanovení § 2510 se použije na obchodní zastoupení, na které se podle § 2509 hledí, jako by bylo ujednáno na dobu neurčitou, přičemž výpovědní doba bude počítána s přihlédnutím k době trvání obchodního zastoupení předcházejícího jeho přeměně na dobu neurčitou.
+
+**§ 2512**:
+> (1) Bylo-li ujednáno výhradní obchodní zastoupení, má každá strana právo obchodní zastoupení vypovědět, nedosáhl-li objem obchodů v posledních dvanácti měsících objemu určeného ve smlouvě; nebyl-li objem obchodů ujednán, rozhoduje objem přiměřený odbytovým možnostem.
+> (2) Ustanovení § 2510 a 2511 se použijí obdobně.
+
+**§ 2513**:
+> (1) Bylo-li ujednáno výhradní obchodní zastoupení a používá-li zastoupený jiného obchodního zástupce, může dotčený obchodní zástupce vypovědět obchodní zastoupení bez výpovědní doby.
+> (2) Bylo-li ujednáno výhradní obchodní zastoupení a vykonává-li obchodní zástupce stejnou činnost, ke které je zavázán vůči zastoupenému, i pro jiné osoby, může zastoupený vypovědět obchodní zastoupení i bez výpovědní doby.
+
+**§ 2514**:
+> (1) Zanikne-li obchodní zastoupení, má obchodní zástupce právo na zvláštní odměnu, pokud
+>   - a) zastoupenému získal nové zákazníky nebo významně rozvinul obchod s dosavadními zákazníky a zastoupený má dosud z těchto obchodů podstatné výhody a
+>   - b) placení zvláštní odměny je s ohledem na všechny okolnosti případu spravedlivé, jsou-li vzaty v úvahu všechny okolnosti, zejména provize, kterou obchodní zástupce ztrácí a která vyplývá z obchodů uskutečněných s těmito zákazníky; tyto okolnosti zahrnují i případné ujednání nebo neujednání konkurenční doložky.
+> (2) Jsou-li splněny podmínky podle odstavce 1, není právo na zvláštní odměnu dotčeno ani zaniklo-li obchodní zastoupení smrtí obchodního zástupce.
+
+**§ 2515**:
+> Výše zvláštní odměny nesmí překročit roční odměnu vypočtenou z ročního průměru odměn získaných obchodním zástupcem během posledních pěti let. Trvalo-li obchodní zastoupení méně než pět let, vypočte se výše zvláštní odměny z průměru odměn za celou dobu jeho trvání; pokud trvalo méně než rok, nesmí překročit úhrn provizí za celou dobu jeho trvání.
+
+**§ 2516**:
+> Právo na zvláštní odměnu zaniká, není-li uplatněno do jednoho roku od ukončení obchodního zastoupení.
+
+**§ 2517**:
+> Právo na zvláštní odměnu nevznikne,
+>   - a) ukončil-li zastoupený obchodní zastoupení pro takové porušení povinnosti obchodním zástupcem, které by ho opravňovalo k odstoupení od smlouvy,
+>   - b) ukončil-li obchodní zastoupení obchodní zástupce, ledaže k ukončení došlo z důvodů spočívajících na straně zastoupeného, anebo z důvodu věku, invalidity nebo nemoci obchodního zástupce a nelze-li po obchodním zástupci rozumně požadovat, aby ve své činnosti pokračoval, nebo
+>   - c) převedl-li obchodní zástupce práva a povinnosti z obchodního zastoupení podle dohody se zastoupeným na třetí osobu.
+
+**Doslovné znění § 2520:**
+
+**§ 2520**:
+> (1) Ustanovení o obchodním zastoupení se nepoužijí, je-li ujednáno, že zástupce není za svou činnost odměňován.
+> (2) Ustanovení o obchodním zastoupení se nepoužijí na závazky osob působících na regulovaném trhu, mnohostranném obchodním systému nebo komoditní burze podle jiného zákona a na závazky burzovních dohodců podle jiného zákona.
 
 ### Specifika
 
@@ -2514,6 +3120,20 @@ Smlouva o zájezdu předpokládá kombinaci nejméně dvou cestovních služeb z
 
 **Typicky rozhodné důkazy / podklady:** smlouva a potvrzení o zájezdu, doklad o pojištění proti úpadku, doklady o platbě, popis objednaných služeb, doklad o úpadku pořadatele.
 
+**Doslovná znění § 2522 až 2524:**
+
+**§ 2522**:
+> Obstarává-li se zájezd na základě několika smluv, použijí se ustanovení tohoto dílu na všechny smlouvy.
+
+**§ 2523**:
+> (1) Za pořadatele se považuje ten, kdo nabízí zájezd veřejnosti nebo skupině osob podnikatelským způsobem, a to i prostřednictvím třetí osoby. Za pořadatele se považuje také podnikatel, který předává údaje o zákazníkovi dalšímu podnikateli podle zákona upravujícího některé podmínky podnikání a výkon některých činností v oblasti cestovního ruchu.
+> (2) Kdo zprostředkuje nebo zařídí jednotlivé služby cestovního ruchu, se považuje za pořadatele, vyvolá-li na základě zvláštních okolností u třetích osob představu, že služby cestovního ruchu poskytuje jako zájezd na vlastní odpovědnost.
+
+**§ 2524**:
+> (1) Pořadatel nebo zprostředkovatel prodeje zájezdu sdělí zákazníkovi jasným, srozumitelným a zřetelným způsobem před tím, než učiní závaznou objednávku, nebo před uzavřením smlouvy údaje uvedené v zákoně upravujícím některé podmínky podnikání a výkon některých činností v oblasti cestovního ruchu.
+> (2) Údaje o obsahu závazku podle § 2527 a § 2528 odst. 1 písm. b) až d) a f), které pořadatel nebo zprostředkovatel zájezdu sdělil zákazníkovi podle odstavce 1, se stávají obsahem smlouvy; mohou být změněny jen výslovnou dohodou smluvních stran. Pořadatel nebo zprostředkovatel zájezdu sdělí zákazníkovi veškeré změny těchto údajů jasným, srozumitelným a zřetelným způsobem před uzavřením smlouvy.
+> (3) Pokud pořadatel nebo zprostředkovatel prodeje zájezdu nesdělil zákazníkovi celkovou cenu zájezdu včetně daní, poplatků a jiných obdobných peněžitých plnění a veškerých případných dalších nákladů, není zákazník povinen tyto daně, poplatky, jiná obdobná peněžitá plnění a další náklady uhradit. To platí i v případě, že nelze tyto daně, poplatky, jiná obdobná peněžitá plnění a další náklady přiměřeným způsobem vyčíslit před uzavřením smlouvy, a v případě, že pořadatel nebo zprostředkovatel prodeje zájezdu nesdělil zákazníkovi druh dalších nákladů, jež mu mohou ještě vzniknout.
+
 ### § 2525—2549 — Klíčové prvky
 
 **§ 2525**:
@@ -2821,6 +3441,49 @@ Vadu zájezdu je třeba vytknout bez zbytečného odkladu (lze i přes delegáta
 - [ ] Nejde o odstoupení bez odstupného (zvýšení ceny > 8 %, § 2531; mimořádné okolnosti, § 2535)?
 
 **Typicky rozhodné důkazy / podklady:** smlouva a potvrzení o zájezdu, doklad o vytknutí vady, fotodokumentace a svědecké výpovědi, srovnání sjednané a poskytnuté služby, doklady o platbě a o vyčíslení slevy/újmy.
+
+**Doslovná znění § 2530 až 2530a:**
+
+**§ 2530**:
+> (1) Pořadatel může zvýšit cenu zájezdu z důvodů stanovených v odstavci 2, pokud
+> a) je to výslovně ujednáno,
+> b) zákazník má právo na snížení ceny zájezdu z důvodu snížení nákladů uvedených v odstavci 2, ke kterému dojde v době mezi uzavřením smlouvy a zahájením zájezdu, a
+> c) je ujednán způsob výpočtu cenových úprav.
+> (2) Cenu zájezdu může pořadatel zvýšit, zvýší-li se
+> a) cena za dopravu vyplývající ze zvýšení cen pohonných hmot nebo jiných zdrojů energie,
+> b) daně, jakákoli dodatečná obdobná peněžitá plnění nebo úplaty z cestovních služeb poskytovaných podle smlouvy třetími stranami, které se přímo nepodílejí na poskytnutí zájezdu, včetně plateb spojených s dopravou, nebo
+> c) směnný kurs české koruny použitý pro stanovení ceny zájezdu.
+
+**§ 2530a**:
+> (1) Pořadatel doručí oznámení o zvýšení ceny podle § 2530 odst. 2 v textové podobě zákazníkovi nejpozději dvacátý den před zahájením zájezdu. Oznámení musí být jasné a srozumitelné a musí obsahovat zdůvodnění zvýšení ceny a výpočet tohoto zvýšení. Doručí-li pořadatel oznámení o zvýšení ceny zákazníkovi později než dvacátý den před zahájením zájezdu, nemá zvýšení ceny právní účinky.
+> (2) V případě snížení ceny zájezdu podle § 2530 odst. 1 má pořadatel právo na odečtení skutečných administrativních nákladů od částky, jež má být zákazníkovi vrácena. Na žádost zákazníka je pořadatel povinen tyto skutečné administrativní náklady doložit.
+
+**Doslovná znění § 2536 až 2536a:**
+
+**§ 2536**:
+> (1) Pořadatel může odstoupit od smlouvy, pokud
+> a) počet osob přihlášených na zájezd je nižší než nejnižší počet určený ve smlouvě a pořadatel oznámil zákazníkovi zrušení zájezdu ve lhůtě určené ve smlouvě, která nesmí být kratší než
+>   - 1. dvacet dní před zahájením zájezdu v případě cest trvajících déle než šest dní,
+>   - 2. sedm dní před zahájením zájezdu v případě cest trvajících dva až šest dní,
+>   - 3. čtyřicet osm hodin před zahájením zájezdu v případě cest trvajících méně než dva dny, nebo
+> b) mu v plnění závazku brání nevyhnutelné a mimořádné okolnosti a zrušení zájezdu oznámil zákazníkovi bez zbytečného odkladu ještě před zahájením zájezdu.
+> (2) Pořadatel v těchto případech vrátí zákazníkovi veškeré uhrazené platby za zájezd, nevzniká mu však vůči zákazníkovi povinnost k náhradě škody.
+
+**§ 2536a**:
+> Při odstoupení od smlouvy pořadatel vrátí bez zbytečného odkladu, nejpozději do čtrnácti dnů po ukončení závazku ze smlouvy, veškeré platby uhrazené zákazníkem nebo v jeho prospěch za zájezd, v případech stanovených tímto zákonem pak snížené o odstupné za předčasné ukončení závazku ze smlouvy.
+
+**Doslovné znění § 2544a:**
+
+**§ 2544a**:
+> Právem zákazníka na náhradu škody a na poskytnutí slevy nejsou dotčena jeho práva jako cestujícího podle přímo použitelných předpisů Evropské unie2) a podle mezinárodních úmluv. Náhrada škody nebo sleva poskytnutá zákazníkovi pořadatelem ze smlouvy a náhrada škody nebo sleva podle přímo použitelných předpisů Evropské unie a podle mezinárodních smluv se navzájem odečítají.
+
+**Doslovné znění § 2546:**
+
+**§ 2546**:
+> (1) Pořadatel nemá právo na odstupné, odstoupí-li zákazník od smlouvy před zahájením školního pobytu proto, že mu pořadatel nesdělil ani v předstihu dvou týdnů
+> a) jméno a adresu hostitele, u něhož bude žák po příjezdu ubytován, a
+> b) jméno a adresu pověřené osoby (koordinátora) v zemi školního pobytu, u níž lze požadovat pomoc, a údaj o možnosti spojit se s ní.
+> (2) Pořadatel nemá právo na odstupné, pokud zákazník odstoupil od smlouvy proto, že pořadatel žáka na pobyt náležitě nepřipravil.
 
 ---
 

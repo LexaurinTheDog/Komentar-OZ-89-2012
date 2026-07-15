@@ -2028,6 +2028,10 @@ U člověka nezvěstného jako účastníka hromadné události s ohrožením ž
 
 ### § 76 — Vyvratitelnost domněnky
 
+**§ 76**:
+> (1) Byl-li člověk prohlášen za mrtvého, nevylučuje to důkaz, že zemřel dříve nebo později, anebo že je ještě naživu. Zjistí-li se, že je naživu, k prohlášení za mrtvého se nepřihlíží; manželství nebo registrované partnerství se však neobnovuje.
+> (2) Byl-li proveden mylný důkaz smrti, použije se odstavec 1 obdobně.
+
 (1) Byl-li člověk prohlášen za mrtvého, nevylučuje to důkaz, že zemřel dříve nebo později, anebo že je ještě naživu. Zjistí-li se, že je naživu, k prohlášení za mrtvého se nepřihlíží; manželství nebo registrované partnerství se však neobnovuje.
 
 (2) Byl-li proveden mylný důkaz smrti, použije se odstavec 1 obdobně.

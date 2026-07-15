@@ -209,6 +209,43 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 
 **Typicky rozhodné důkazy / podklady:** nájemní smlouva (doba, výpovědní ujednání), návrh na zápis nájemního práva, výpis z katastru, korespondence o souhlasu vlastníka.
 
+**Doslovná znění § 2205 až 2212:**
+
+**§ 2205**:
+> Nájemní smlouva pronajímatele zavazuje
+>     - a) přenechat věc nájemci tak, aby ji mohl užívat k ujednanému nebo obvyklému účelu,
+>     - b) udržovat věc v takovém stavu, aby mohla sloužit tomu užívání, pro které byla pronajata,
+>     - c) zajistit nájemci nerušené užívání věci po dobu nájmu.
+
+**§ 2206**:
+> (1) Pronajímatel odevzdá nájemci věc v ujednané době, jinak v den následující poté, co jej o to nájemce požádá.
+> (2) Pronajímatel odevzdá nájemci věc se vším, co je třeba k řádnému užívání věci.
+
+**§ 2207**:
+> (1) Po dobu nájmu provádí běžnou údržbu věci nájemce, ledaže se k ní zavázal pronajímatel. Ostatní údržbu věci a její nezbytné opravy provádí pronajímatel, ledaže se k některému způsobu nebo druhu údržby a k opravě některých vad zavázal nájemce.
+> (2) Pronajímatel neodpovídá za vadu, o které v době uzavření nájemní smlouvy strany věděly a která nebrání užívání věci.
+
+**§ 2208**:
+> (1) Oznámí-li nájemce řádně a včas pronajímateli vadu věci, kterou má pronajímatel odstranit, a neodstraní-li pronajímatel vadu bez zbytečného odkladu, takže nájemce může věc užívat jen s obtížemi, má nájemce právo na přiměřenou slevu z nájemného nebo může provést opravu také sám a požadovat náhradu účelně vynaložených nákladů. Ztěžuje-li však vada zásadním způsobem užívání, nebo znemožňuje-li zcela užívání, má nájemce právo na prominutí nájemného nebo může nájem vypovědět bez výpovědní doby.
+> (2) Nájemce má právo započíst si to, co může podle odstavce 1 žádat od pronajímatele, až do výše nájemného za jeden měsíc; je-li doba nájmu kratší, až do výše nájemného.
+> (3) Neuplatní-li nájemce právo podle odstavce 1 do šesti měsíců ode dne, kdy vadu zjistil nebo mohl zjistit, soud mu je nepřizná, namítne-li pronajímatel jeho opožděné uplatnění.
+
+**§ 2209**:
+> Během nájmu pronajímatel nemá právo o své vůli pronajatou věc měnit.
+
+**§ 2210**:
+> (1) Ukáže-li se během nájmu potřeba provést nezbytnou opravu věci, kterou nelze odložit na dobu po skončení nájmu, musí ji nájemce strpět, i když mu provedení opravy způsobí obtíže nebo omezí užívání věci.
+> (2) Trvá-li oprava vzhledem k době nájmu dobu nepřiměřeně dlouhou nebo ztěžuje-li oprava užívání věci nad míru obvyklou, má nájemce právo na slevu z nájemného podle doby opravy a jejího rozsahu.
+> (3) Jedná-li se o takovou opravu, že v době jejího provádění není možné věc vůbec užívat, má nájemce právo, aby mu pronajímatel dočasně poskytl k užívání jinou věc, nebo může nájem vypovědět bez výpovědní doby.
+
+**§ 2211**:
+> Ohrozí-li třetí osoba nájemce v jeho nájemním právu nebo způsobí-li nájemci porušením nájemního práva újmu, může se ochrany domáhat nájemce sám.
+
+**§ 2212**:
+> (1) Uplatňuje-li třetí osoba vlastnické nebo jiné právo k věci nebo žádá-li vydání nebo vyklizení věci, nájemce to pronajímateli oznámí; požádá-li o to, poskytne mu pronajímatel ochranu.
+> (2) Neposkytne-li pronajímatel nájemci dostatečnou ochranu, může nájemce nájem vypovědět bez výpovědní doby.
+> (3) Bude-li nájemce rušen v užívání věci nebo jinak dotčen jednáním třetí osoby, má právo na přiměřenou slevu z nájemného, pokud takové jednání třetí osoby pronajímateli včas oznámil.
+
 ---
 
 ### § 2213—2216 — Povinnosti nájemce
@@ -687,6 +724,13 @@ Ochranná úprava nájmu bytu se uplatní vždy, slouží-li přenechání bytu/
 
 **Typicky rozhodné důkazy / podklady:** nájemní smlouva (účel, doba), doklad o trvalém pobytu a faktickém bydlení, korespondence o účelu, srovnání s rekreačním užíváním.
 
+**Doslovné znění § 2236:**
+
+**§ 2236**:
+> (1) Bytem se rozumí místnost nebo soubor místností, které jsou částí domu, tvoří obytný prostor a jsou určeny a užívány k účelu bydlení. Ujednají-li si pronajímatel s nájemcem, že k obývání bude pronajat jiný než obytný prostor, jsou strany zavázány stejně, jako by byl pronajat obytný prostor.
+> (2) Skutečnost, že pronajatý prostor není určen k bydlení, nemůže být na újmu nájemci.
+> (3) Je-li k zajištění bytových potřeb nájemce pronajat dům, použijí se ustanovení o nájmu bytu přiměřeně.
+
 ---
 
 ### § 2237—2239 — Zakázaná ujednání
@@ -1043,6 +1087,21 @@ Pronajímatel udržuje byt způsobilý k užívání; nájemce smí chovat zví�
 
 **Typicky rozhodné důkazy / podklady:** nájemní smlouva (sporná ujednání), oznámení vady a doklad o doručení, doklady o nákladech opravy a o škodě, doklad o vztahu nově přijaté osoby, evidence osob v domácnosti.
 
+**Doslovná znění § 2274 až 2277:**
+
+**§ 2274**:
+> Nájemce může dát třetí osobě do podnájmu část bytu, pokud v bytě sám trvale bydlí, i bez souhlasu pronajímatele. Ustanovení § 2272 se použije přiměřeně.
+
+**§ 2275**:
+> (1) V případě, že nájemce v bytě sám trvale nebydlí, může dát třetí osobě do podnájmu byt nebo jeho část pouze se souhlasem pronajímatele.
+> (2) Žádost o udělení souhlasu k podnájmu i souhlas s podnájmem vyžadují písemnou formu. Nevyjádří-li se pronajímatel k žádosti ve lhůtě jednoho měsíce, považuje se souhlas za daný; to neplatí, pokud byl ujednán zákaz podnájmu.
+
+**§ 2276**:
+> Dá-li nájemce byt nebo jeho část do podnájmu třetí osobě v rozporu s ustanovením § 2274 a 2275, hrubě tím poruší svou povinnost.
+
+**§ 2277**:
+> Podnájem končí společně s nájmem. Končí-li nájem, sdělí to nájemce podnájemci s uvedením rozhodných skutečností; jimi jsou zejména den skončení nájmu a popřípadě i délka výpovědní doby a počátek jejího běhu.
+
 ---
 
 ### § 2278—2284 — Skončení nájmu bytu
@@ -1081,6 +1140,11 @@ Pronajímatel udržuje byt způsobilý k užívání; nájemce smí chovat zví�
 **§ 2284**:
 > Není-li nájemcův dědic znám ani do šesti měsíců ode dne nájemcovy smrti, může pronajímatel byt vyklidit; tím nájem zaniká. Věci z bytu pronajímatel uloží na náklad nájemcova dědice ve veřejném skladišti nebo u jiného schovatele; nepřevezme-li nájemcův dědic věci bez zbytečného odkladu, může je pronajímatel na jeho účet vhodným způsobem prodat.
 >
+
+**§ 2282a**:
+> (1) Přejde-li nájem na nezletilého, který ke dni smrti nájemce nenabyl plné svéprávnosti, lze splnění dluhu z nájmu vymoci pouze z majetku podle § 899a odst. 1; to platí i tehdy, je-li jako člen nájemcovy domácnosti zavázán z dluhů, které z nájmu vznikly před jeho smrtí.
+> (2) Zákonný zástupce, opatrovník nebo poručník, který za nezletilého nájem neukončil, ač mohl rozumně předpokládat, že povinnosti vyplývající z nájmu nebude nezletilý schopen plnit, ručí za dluh z nájmu vzniklý ode dne, kdy se ujal funkce, pokud s nezletilým v bytě po přechodu nájmu žil. Ručitel nemůže vymáhat po dlužníkovi vyrovnání tohoto dluhu.
+
 **Klíčové pravidlo**: nájem bytu **NELZE vypovědět bez důvodu** (kogentní ochrana).
 
 **§ 2287 — Výpověď ze strany nájemce**:
@@ -1250,6 +1314,44 @@ Nájem bytu smrtí nájemce nezaniká, nýbrž přechází na člena domácnosti
 - [ ] Není-li nástupce, přešel nájem na dědice a běží lhůty k výpovědi (§ 2282—2283)?
 
 **Typicky rozhodné důkazy / podklady:** úmrtní list, doklad o společné domácnosti (evidence pobytu, svědci), doklad o tom, že nástupce nemá vlastní byt, doklad o příbuzenství, případný souhlas pronajímatele.
+
+**Doslovná znění § 2287 až 2294:**
+
+**§ 2287**:
+> Nájemce může vypovědět nájem na dobu určitou, změní-li se okolnosti, z nichž strany při vzniku závazku ze smlouvy o nájmu zřejmě vycházely, do té míry, že po nájemci nelze rozumně požadovat, aby v nájmu pokračoval.
+
+**§ 2288**:
+> (1) Pronajímatel může vypovědět nájem na dobu určitou nebo neurčitou v tříměsíční výpovědní době,
+>     - a) poruší-li nájemce hrubě svou povinnost vyplývající z nájmu,
+>     - b) je-li nájemce odsouzen pro úmyslný trestný čin spáchaný na pronajímateli nebo členu jeho domácnosti nebo na osobě, která bydlí v domě, kde je nájemcův byt, nebo proti cizímu majetku, který se v tomto domě nachází,
+>     - c) má-li být byt vyklizen, protože je z důvodu veřejného zájmu potřebné s bytem nebo domem, ve kterém se byt nachází, naložit tak, že byt nebude možné vůbec užívat, nebo
+>     - d) je-li tu jiný obdobně závažný důvod pro vypovězení nájmu.
+> (2) Pronajímatel může vypovědět nájem na dobu neurčitou v tříměsíční výpovědní době i v případě, že
+>     - a) má být byt užíván pronajímatelem, nebo jeho manželem, který hodlá opustit rodinnou domácnost a byl podán návrh na rozvod manželství, nebo manželství bylo již rozvedeno,
+>     - b) potřebuje pronajímatel byt pro svého příbuzného nebo pro příbuzného svého manžela v přímé linii nebo ve vedlejší linii v druhém stupni.
+> (3) Vypoví-li pronajímatel nájem z důvodů uvedených v odstavcích 1 a 2, uvede výpovědní důvod ve výpovědi.
+
+**§ 2289**:
+> Dal-li pronajímatel nájemci výpověď z některého z důvodů uvedených v § 2288 odst. 2, je povinen nájemci byt znovu pronajmout nebo mu nahradit škodu, nevyužil-li byt do jednoho měsíce od jeho vyklizení nájemcem k účelu uvedenému jako výpovědní důvod. Tato lhůta neběží po dobu potřebnou k úpravě bytu, bylo-li s úpravou započato nejdéle do dvou týdnů po vyklizení bytu a je-li v ní řádně pokračováno.
+
+**§ 2290**:
+> Nájemce má právo podat návrh soudu, aby přezkoumal, zda je výpověď oprávněná, do dvou měsíců ode dne, kdy mu výpověď došla.
+
+**§ 2291**:
+> (1) Poruší-li nájemce svou povinnost zvlášť závažným způsobem, má pronajímatel právo vypovědět nájem bez výpovědní doby a požadovat, aby mu nájemce bez zbytečného odkladu byt odevzdal, nejpozději však do jednoho měsíce od skončení nájmu.
+> (2) Nájemce porušuje svou povinnost zvlášť závažným způsobem, zejména nezaplatil-li nájemné a náklady na služby za dobu alespoň tří měsíců, poškozuje-li byt nebo dům závažným nebo nenapravitelným způsobem, způsobuje-li jinak závažné škody nebo obtíže pronajímateli nebo osobám, které v domě bydlí nebo užívá-li neoprávněně byt jiným způsobem nebo k jinému účelu, než bylo ujednáno.
+> (3) Neuvede-li pronajímatel ve výpovědi, v čem spatřuje zvlášť závažné porušení nájemcovy povinnosti, nebo nevyzve-li před doručením výpovědi nájemce, aby v přiměřené době odstranil své závadné chování, popřípadě odstranil protiprávní stav, k výpovědi se nepřihlíží.
+
+**§ 2292**:
+> Nájemce odevzdá byt pronajímateli v den, kdy nájem končí. Byt je odevzdán, obdrží-li pronajímatel klíče a jinak mu nic nebrání v přístupu do bytu a v jeho užívání. Opustí-li nájemce byt takovým způsobem, že nájem lze bez jakýchkoli pochybností považovat za skončený, má se byt za odevzdaný ihned.
+
+**§ 2293**:
+> (1) Nájemce odevzdá byt ve stavu, v jakém jej převzal, nehledě na běžné opotřebení při běžném užívání a na vady, které je povinen odstranit pronajímatel.
+> (2) Nájemce odstraní v bytě změny, které provedl se souhlasem pronajímatele, pokud si strany ujednaly, že při skončení nájmu nájemce uvede byt do původního stavu.
+> (3) Nájemce odstraní v bytě změny, které provedl bez souhlasu pronajímatele, ledaže pronajímatel nájemci sdělí, že odstranění změn nežádá; nájemce přesto nemůže žádat vyrovnání, i kdyby se změnami hodnota bytu zvýšila. Pronajímatel může žádat náhradu ve výši snížení hodnoty bytu, které bylo způsobeno změnami provedenými nájemcem bez souhlasu pronajímatele.
+
+**§ 2294**:
+> Zařízení a předměty upevněné ve zdech, podlaze a stropu bytu, které nelze odstranit bez nepřiměřeného snížení hodnoty nebo bez poškození bytu nebo domu, přecházejí upevněním nebo vložením do vlastnictví vlastníka nemovité věci. Nájemce má právo žádat, aby se s ním pronajímatel bez zbytečného odkladu vyrovnal; to neplatí o tom, co nájemce provedl bez souhlasu pronajímatele. Vyrovnání je splatné nejpozději ke dni skončení nájmu.
 
 ---
 
@@ -1547,10 +1649,43 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 
 ### Pododdíl 4 — Nájem dopravního prostředku (§ 2321—2325)
 
+**§ 2322**:
+> (1) Pronajímatel odevzdá nájemci dopravní prostředek spolu s potřebnými doklady v ujednané době, jinak bez zbytečného odkladu po uzavření smlouvy.
+> (2) Dopravní prostředek musí být způsobilý k provozu a k ujednanému způsobu užívání, jinak k užívání, k němuž dopravní prostředek obvykle slouží.
+> (3) Není-li dopravní prostředek způsobilý k provozu podle odstavce 2, nájemce má právo odmítnout dopravní prostředek převzít, a zjistí-li nezpůsobilost dodatečně, má právo jej vrátit a žádat odstranění vady nebo odevzdání jiného dopravního prostředku, anebo zrušení smlouvy.
+
+**§ 2323**:
+> Nájemce dopravní prostředek pojistí, jen bylo-li to ujednáno.
+
+**§ 2324**:
+> Nájemce zaplatí nájemné po ukončení užívání dopravního prostředku; je-li však nájem ujednán na dobu delší než tři měsíce, platí nájemce nájemné ke konci každého kalendářního měsíce.
+
+**§ 2325**:
+> (1) Nájemce udržuje dopravní prostředek ve stavu, v jakém jej převzal, s přihlédnutím k obvyklému opotřebení.
+> (2) Pronajímatel nahradí nájemci náklady, které nájemce vynaložil na údržbu; neuplatní-li nájemce toto právo u pronajímatele do tří měsíců od vynaložení nákladů, právo zanikne.
+
 **Speciální úprava** pro pronájem aut, lodí, letadel (car rental):
 - Krátkodobý charakter;
 - **Pronajímatel ručí** za bezpečnost a způsobilost prostředku;
 - **Nájemce** odpovídá za škodu při neopatrnosti.
+
+**Doslovná znění § 2317 až 2320:**
+
+**§ 2317**:
+> Pronajímatel se při předání věci nájemci přesvědčí, že věc je v dobrém stavu, předvede nájemci, že věc je funkční, pokud je to obvyklé, a seznámí nájemce s pravidly pro zacházení s věcí nebo mu pro to předá pokyny v písemné formě.
+
+**§ 2318**:
+> (1) Má-li věc vadu, pro kterou ji nelze řádně užívat nebo pro kterou ji lze užívat jen se značnými obtížemi, má nájemce právo, aby mu pronajímatel poskytl jinou věc sloužící témuž účelu.
+> (2) Po dobu, po niž nájemce nemohl věc řádně užívat vůbec nebo jen se značnými obtížemi, má nájemce právo na prominutí nájemného, anebo na slevu z nájemného nebo snížení nájemného; své právo musí nájemce uplatnit u pronajímatele do konce ujednané doby nájmu, jinak zanikne.
+
+**§ 2319**:
+> (1) Nájemce oznámí pronajímateli poškození, ztrátu nebo zničení věci bez zbytečného odkladu.
+> (2) Nájemce platí nájemné, dokud neoznámí pronajímateli poškození věci, pro které věc nemůže řádně užívat, anebo ztrátu nebo zničení věci; stejně tak platí nájemné, dokud je v prodlení s vrácením věci.
+> (3) Nájemce neodpovídá za opotřebení věci způsobené řádným užíváním.
+
+**§ 2320**:
+> (1) Nájemce má právo nájem kdykoli vypovědět. Výpovědní doba je desetidenní.
+> (2) Ustanovení o obnovení nájemní smlouvy po uplynutí doby nájmu za předpokladu, že pronajímatel o vrácení nepožádá, se nepoužije.
 
 ---
 
@@ -1872,6 +2007,16 @@ Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále
 ---
 
 ### Pododdíl 2 — Zemědělský pacht (§ 2345—2348)
+
+**§ 2346**:
+> Pachtovné se platí ročně pozadu a je splatné k 1. říjnu.
+
+**§ 2347**:
+> Pacht ujednaný na dobu neurčitou lze vypovědět v dvanáctiměsíční výpovědní době.
+
+**§ 2348**:
+> (1) Stane-li se pachtýř ze zdravotních důvodů nezpůsobilý na pozemku hospodařit, má právo vypovědět pacht v tříměsíční výpovědní době, i když byl pacht ujednán na dobu určitou.
+> (2) Zemře-li pachtýř, má pachtýřův dědic právo vypovědět pacht v tříměsíční výpovědní době, i když byl pacht ujednán na dobu určitou; výpověď musí být podána do šesti měsíců ode dne, kdy pachtýř zemřel.
 
 **Zemědělský pacht** (*pachtus rusticus*) — speciální úprava pro:
 - **Polnosti, louky, pastviny**;

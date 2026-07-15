@@ -447,6 +447,19 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 #### § 779—782 — Druhá domněnka: souhlasné prohlášení
 
+**§ 779**:
+> (1) Nedojde-li k určení otcovství podle § 776, 777 nebo 778, má se za to, že otcem je muž, jehož otcovství bylo určeno souhlasným prohlášením matky a tohoto muže. Takto lze určit otcovství i k dítěti ještě nenarozenému, je-li již počato.
+> (2) Prohlášení se činí osobně před soudem nebo před matričním úřadem. Nezletilý, který není plně svéprávný, činí prohlášení vždy před soudem.
+
+**§ 780**:
+> Činí-li prohlášení ten, kdo není plně svéprávný, může je učinit pouze před soudem. Soud podle okolností případu posoudí, zda ten, kdo není plně svéprávný, je schopen jednat sám, nebo zda za něho bude jednat jeho opatrovník.
+
+**§ 781**:
+> Nemůže-li matka pro duševní poruchu posoudit význam svého prohlášení nebo je-li opatření jejího prohlášení spojeno s těžko překonatelnou překážkou, není možné určit otcovství souhlasným prohlášením.
+
+**§ 782**:
+> Na prohlášení otcovství jako zvláštní projev vůle se použijí obecná ustanovení o právním jednání, není-li stanoveno jinak. Neplatnosti se však lze dovolat jen ve lhůtě pro popření otcovství.
+
 § 779: (1) Nedojde-li k určení otcovství podle § 776, 777 nebo 778, má se za to, že otcem je muž, jehož otcovství bylo určeno souhlasným prohlášením matky a tohoto muže. Takto lze určit otcovství i k dítěti ještě nenarozenému, je-li již počato.
 
 > (2) Prohlášení se činí osobně před soudem nebo před matričním úřadem. Nezletilý, který není plně svéprávný, činí prohlášení vždy před soudem.
@@ -507,6 +520,17 @@ Souhlasné prohlášení (druhá domněnka) se uplatní, jen nelze-li otcovství
 **Typicky rozhodné důkazy / podklady:** doklady totožnosti a věku rodičů, rodný list dítěte, protokol o souhlasném prohlášení (matrika/soud), případně lékařské posouzení svéprávnosti / duševního stavu matky.
 
 #### § 783—784 — Třetí domněnka: soudní rozhodnutí
+
+**§ 783**:
+> (1) Nedojde-li k určení otcovství podle § 776, 777 nebo 778, ani podle § 779, může matka, dítě i muž, který tvrdí, že je otcem, navrhnout, aby otcovství určil soud.
+> (2) Má se za to, že otcem je muž, který s matkou dítěte souložil v době, od které neprošlo do narození dítěte méně než sto šedesát a více než tři sta dní, ledaže jeho otcovství vylučují závažné okolnosti.
+> (3) Není-li domnělý otec naživu, podává se návrh proti opatrovníkovi, kterého k tomu jmenuje soud.
+
+**§ 784**:
+> (1) Zemře-li během řízení navrhovatel, může v řízení pokračovat další k návrhu oprávněný.
+> (2) Zemře-li během řízení dítě, může do šesti měsíců od jeho smrti podat návrh též potomek tohoto dítěte, má-li právní zájem na tomto určení.
+> (3) Zemře-li během řízení domnělý otec, pokračuje řízení proti opatrovníkovi, kterého k tomu jmenuje soud.
+> (4) Zemře-li během řízení muž, který tvrdil, že je otcem, a nepokračuje-li v řízení dítě nebo matka, soud řízení zastaví.
 
 § 783: (1) Nedojde-li k určení otcovství podle § 776, 777 nebo 778, ani podle § 779, může matka, dítě i muž, který tvrdí, že je otcem, navrhnout, aby otcovství určil soud.
 
@@ -984,6 +1008,23 @@ Osvojitelem může být jen zletilá a svéprávná osoba zaručující řádné
 
 #### Souhlas dítěte (§ 804—808)
 
+**§ 804**:
+> Osvojení je vyloučeno mezi osobami spolu příbuznými v přímé linii a mezi sourozenci. To neplatí v případě náhradního mateřství.
+
+**§ 805**:
+> O osvojení nemůže být rozhodnuto bez souhlasu dítěte, rodičů dítěte nebo osob, které jsou oprávněny dát souhlas za rodiče, popřípadě manžela osvojitele. To platí i v případě, že byl souhlas vzat zpět.
+
+**§ 806**:
+> (1) Dosáhlo-li osvojované dítě alespoň dvanácti let, je třeba vždy jeho osobního souhlasu, ledaže je mimo jakoukoli pochybnost, že by byl postup požadující osobní souhlas osvojovaného dítěte v zásadním rozporu se zájmy dítěte, nebo že dítě není schopno posoudit důsledky souhlasu.
+> (2) Dříve než se osvojované dítě vyjádří, soud je řádně poučí o účelu, obsahu a důsledcích souhlasu s osvojením.
+
+**§ 807**:
+> (1) Nedosáhlo-li dítě věku alespoň dvanácti let, dá jeho jménem souhlas s osvojením jeho opatrovník; opatrovníkem soud jmenuje zpravidla orgán sociálně-právní ochrany dětí. Dříve než dá opatrovník souhlas, zjistí všechny rozhodné skutečnosti, které ho povedou k závěru, že osvojení bude v souladu se zájmy dítěte.
+> (2) Je-li to možné, soud vyslechne i osvojované dítě a vezme na jeho vyjádření zřetel s ohledem na stupeň jeho duševního vývoje.
+
+**§ 808**:
+> Osvojované dítě může svůj souhlas s osvojením odvolat až do rozhodnutí o osvojení.
+
 **§ 804**: osvojení **bez souhlasu dítěte** je možné, **jen pokud:**
 - Dítě **není schopno** pochopit důsledky;
 - A soud zjistí jiným způsobem, že je to v jeho zájmu.
@@ -993,6 +1034,47 @@ Osvojitelem může být jen zletilá a svéprávná osoba zaručující řádné
 **§ 805—808**: souhlas dítěte lze odvolat **do nabytí právní moci** rozhodnutí o osvojení.
 
 #### Souhlas rodičů (§ 809—818)
+
+**§ 809**:
+> K osvojení je třeba souhlasu rodičů osvojovaného dítěte.
+
+**§ 810**:
+> (1) Souhlas dává rodič osobním prohlášením vůči soudu. Prohlášení musí splňovat obecné náležitosti právního jednání, je-li však souhlas vázán na splnění podmínky nebo je-li časově omezený, nepřihlíží se k němu.
+> (2) Dříve než se rodič vyjádří, soud ho řádně poučí o podstatě a důsledcích prohlášení souhlasu a o podstatě osvojení.
+
+**§ 811**:
+> (1) Souhlasu rodiče k osvojení jeho dítěte je třeba i tehdy, nenabyl-li plné svéprávnosti. Rodič, který ještě nedosáhl věku šestnácti let, nemůže dát souhlas k osvojení.
+> (2) Dává-li souhlas rodič, který nenabyl plné svéprávnosti, nelze, aby za něho jednal jeho opatrovník; jeho způsobilost dát souhlas posoudí soud podle obecných ustanovení.
+
+**§ 812**:
+> Rodič, jehož svéprávnost byla omezena rozhodnutím soudu, může ve věcech osvojení, včetně udělení souhlasu k osvojení, právně jednat pouze v rozsahu, ve kterém jeho svéprávnost omezena nebyla.
+
+**§ 813**:
+> (1) Matka osvojovaného dítěte může dát souhlas k osvojení nejdříve šest týdnů po narození dítěte. Otec osvojovaného dítěte může dát souhlas k osvojení i před uplynutím této doby, nejdříve však po narození dítěte.
+> (2) Byl-li souhlas otce nebo matky dán dříve, nepřihlíží se k němu.
+
+**§ 814**:
+> Není rozhodné, zda byl souhlas k osvojení dán s určením pro určitou osobu osvojitele, nebo bez takového určení.
+
+**§ 815**:
+> Byl-li souhlas k osvojení dán s určením pro určitou osobu jako osvojitele a bude-li návrh na osvojení vzat zpět, nebo zamítnut, pozbude souhlas účinnosti.
+
+**§ 816**:
+> Souhlas k osvojení pozbude účinnosti vždy, nedojde-li k osvojení do šesti let ode dne, kdy byl souhlas dán.
+
+**§ 817**:
+> (1) Souhlas k osvojení lze odvolat po dobu tří měsíců ode dne, kdy byl dán.
+> (2) Souhlas k osvojení lze odvolat i po uplynutí tří měsíců ode dne, kdy byl dán,
+>     - a) nebylo-li osvojované dítě ještě předáno do péče osvojitele před osvojením,
+>     - b) má-li být osvojované dítě podle rozhodnutí soudu vydaného na návrh rodičů vydáno tím, komu bylo svěřeno do péče, protože je v souladu se zájmy dítěte, aby bylo se svými rodiči.
+> (3) Pro odvolání souhlasu platí obdobně ustanovení o tom, jak, vůči komu a s jakými účinky se souhlas k osvojení dává.
+
+**§ 818**:
+> (1) Souhlasu rodiče osvojovaného dítěte není k osvojení třeba, pokud rodič
+>     - a) byl zbaven rodičovské odpovědnosti a zároveň práva dát souhlas k osvojení,
+>     - b) není schopen projevit svou vůli nebo rozpoznat následky svého jednání nebo je ovládnout, nebo
+>     - c) se zdržuje na neznámém místě a toto místo se nepodaří soudu v součinnosti s dalšími orgány veřejné moci zjistit ani při vynaložení potřebné pečlivosti.
+> (2) Jsou-li tyto skutečnosti dány u obou rodičů, vyžaduje se k osvojení souhlas poručníka, popřípadě souhlas opatrovníka, kterého k tomu účelu jmenuje soud; to platí i v případě, že oba rodiče zemřeli nebo že rodičovství k osvojovanému dítěti nebylo určeno. Před udělením nebo odmítnutím souhlasu musí být zjištěny všechny rozhodné skutečnosti týkající se osvojovaného dítěte a jeho rodiny, které by mohly mít vliv na rozhodnutí o osvojení; zejména se zjistí, zda osvojované dítě má blízké příbuzné a zda ti mají zájem o dítě pečovat, a vyslechne se i ten, v jehož péči se osvojované dítě právě nalézá.
 
 **§ 809 — Souhlas obou rodičů** (default — kogentní), bez ohledu na omezení svéprávnosti / nezletilost. Souhlas se dává **osobně** soudu.
 
@@ -1009,6 +1091,76 @@ Osvojitelem může být jen zletilá a svéprávná osoba zaručující řádné
 - Byl zbaven svéprávnosti / není schopen vyjádřit vůli.
 
 **§ 818 — Bez souhlasu rodičů**: soud může rozhodnout o osvojení **bez souhlasu** rodičů, **pokud zájem dítěte zjevně vyžaduje** a rodiče zjevně nemají o dítě zájem (typicky po dlouhodobé absenci péče).
+
+**Doslovná znění § 819 až 835:**
+
+**§ 819**:
+> (1) K osvojení dále není třeba souhlasu rodiče, který zjevně nemá o dítě zájem.
+> (2) Rodič zjevně nemá o dítě zájem, neprojevuje-li soustavně o dítě opravdový zájem, a tím trvale zaviněně porušuje své povinnosti rodiče.
+
+**§ 820**:
+> (1) Má se za to, že nezájem rodiče o dítě je zjevný, trvá-li alespoň tři měsíce od posledního projeveného opravdového zájmu. Nelze-li však v chování rodiče spatřovat hrubé porušování jeho povinností, je třeba, aby byl orgánem sociálně-právní ochrany dětí poučen o možných důsledcích svého chování a aby od takového poučení uplynuly alespoň tři měsíce. Orgán sociálně-právní ochrany dětí je povinen poskytnout rodiči nejpozději po tomto poučení poradenství a pomoc za podmínek stanovených jiným právním předpisem.
+> (2) Poučení podle odstavce 1 se nevyžaduje, opustil-li rodič místo, kde se dříve zdržoval, aniž sdělil, kde se nyní zdržuje, a nepodařilo-li se ani za tři měsíce zjistit místo, kde se rodič zdržuje.
+
+**§ 821**:
+> (1) Soud rozhoduje ve zvláštním řízení, je-li, nebo není-li třeba k osvojení souhlasu rodiče.
+> (2) Rozhodne-li soud, že k osvojení není třeba souhlasu obou rodičů, je k osvojení zapotřebí souhlasu opatrovníka, kterého soud k tomu účelu jmenuje. Dříve než dá opatrovník souhlas, zjistí všechny rozhodné skutečnosti týkající se osvojovaného dítěte a jeho rodiny, které by mohly mít vliv na rozhodnutí o osvojení; zejména zjistí, má-li osvojované dítě blízké příbuzné, kteří mají zájem o ně pečovat, a vyslechne toho, v jehož péči se osvojované dítě právě nalézá.
+
+**§ 822**:
+> (1) Nastaly-li okolnosti, kdy k osvojení není třeba souhlasu rodiče, nelze přesto o osvojení kladně rozhodnout, je-li tu někdo z blízkých příbuzných dítěte, který je ochoten a schopen o dítě pečovat a učiní v tomto smyslu návrh soudu.
+> (2) Soud svěří dítě do péče jeho blízkého příbuzného, je-li to v souladu se zájmy dítěte a je-li zjevné, že tato osoba je schopna o dítě pečovat.
+
+**§ 823**:
+> (1) Se souhlasem budoucího osvojitele je možné předat mu osvojované dítě do péče ihned poté, kdy oba rodiče dali k osvojení souhlas. Souhlasí-li s tím rodiče, lze dítě předat budoucímu osvojiteli do péče i dříve, jakmile to zdravotní stav dítěte dovolí. Rodiče osvojovaného dítěte jsou povinni o předání dítěte informovat orgán sociálně-právní ochrany dětí.
+> (2) Péče o dítě v době před uplynutím tří měsíců ode dne, kdy byl dán souhlas k osvojení, není péčí před osvojením. Po tuto dobu má ten, komu bylo dítě předáno do péče, pouze povinnost a právo o dítě řádně pečovat a chránit je; v záležitostech dítěte, které s touto péčí souvisí, může jednat, jen je-li toho nezbytně třeba.
+
+**§ 824**:
+> (1) O předání dítěte do péče podle § 823 rozhodne soud.
+> (2) Má-li soud za to, že jsou dány okolnosti, kdy k osvojení není třeba souhlasu rodiče, může použít § 823 odst. 1 obdobně.
+
+**§ 825**:
+> Po uplynutí tří měsíců ode dne, kdy byl dán souhlas k osvojení, se pozastavuje výkon práv a povinností vyplývajících z rodičovské odpovědnosti; soud jmenuje poručníkem osvojovaného dítěte orgán sociálně-právní ochrany dětí, ledaže byl poručník jmenován již dříve. Ustanovení § 929 platí obdobně.
+
+**§ 826**:
+> Po uplynutí tří měsíců ode dne, kdy byl souhlas k osvojení dán, může být osvojované dítě předáno osvojiteli do péče před osvojením. O takovém předání rozhoduje na návrh osvojitele soud.
+
+**§ 827**:
+> (1) Soud o předání dítěte osvojiteli do péče před osvojením rozhodne až poté, co provede šetření ohledně vzájemné vhodnosti dítěte a osvojitele, zejména se zřetelem na
+>     - a) osobnost a zdravotní stav osvojitele i jeho sociální prostředí, zvláště bydlení a domácnost, jakož i schopnost osvojitele pečovat o dítě a pohnutky osvojitele k osvojení,
+>     - b) osobnost a zdravotní stav dítěte, sociální prostředí, ze kterého dítě pochází, jakož i jeho statusová práva,
+>     - c) etnické, náboženské a kulturní prostředí dítěte a osvojitele,
+>     - d) dobu, po kterou bylo dítě v péči osvojitele.
+> (2) Chce-li dítě osvojit jeden z manželů, soud zjistí, z jakého důvodu se druhý manžel k návrhu nepřipojil.
+
+**§ 828**:
+> Bylo-li osvojované dítě již dříve předáno do péče osvojitele, považuje se jeho další péče za péči před osvojením. Pro péči před osvojením není nutné další rozhodnutí orgánu veřejné moci.
+
+**§ 829**:
+> (1) Dříve než bude o osvojení rozhodnuto, musí být osvojované dítě v péči osvojitele na jeho náklad. Osvojitel má povinnosti a práva osoby, do jejíž péče je dítě svěřeno podle § 953 až 957.
+> (2) Péče osvojitele o osvojované dítě před osvojením trvá po dobu dostatečnou pro přesvědčivé zjištění, že se mezi osvojitelem a dítětem vytvořil takový poměr, jaký je smyslem a cílem osvojení; tato péče neskončí dříve než uplynutím šesti měsíců.
+> (3) Po dobu, v níž je dítě v péči osvojitele, se pozastavuje dříve stanovená vyživovací povinnost jiné osoby k dítěti.
+
+**§ 830**:
+> (1) Podá-li muž, který tvrdí, že je otcem osvojovaného dítěte, návrh na určení otcovství, nelze o osvojení rozhodnout, dokud o návrhu na určení otcovství nebude rozhodnuto.
+> (2) Bylo-li osvojované dítě předáno do péče budoucího osvojitele podle § 823 a uplynula-li tříměsíční lhůta, ve které lze souhlas k osvojení odvolat, dříve, než byl návrh podle odstavce 1 podán, použije se § 817 obdobně.
+
+**§ 831**:
+> Podá-li osoba, která tvrdí, že je blízkým příbuzným osvojovaného dítěte, návrh na svěření dítěte do péče podle § 953, nelze o osvojení rozhodnout, dokud o tomto návrhu nebude rozhodnuto.
+
+**§ 832**:
+> (1) Dítě, které bylo společně osvojeno manžely, nebo manželem svého rodiče, má postavení společného dítěte manželů; jinak má postavení dítěte osvojitele.
+> (2) Osvojitelé mají rodičovskou odpovědnost.
+
+**§ 833**:
+> (1) Osvojením zaniká příbuzenský poměr mezi osvojencem a původní rodinou, jakož i práva a povinnosti z tohoto poměru vyplývající. Zanikají také práva a povinnosti opatrovníka, popřípadě poručníka, který byl jmenován, aby za rodiče tato práva a povinnosti vykonával.
+> (2) Je-li osvojitel manželem jednoho z rodičů osvojence nebo pozůstalým manželem po rodiči nebo osvojiteli, nedotýká se osvojení příbuzenského poměru mezi osvojencem a tímto rodičem i jeho příbuznými, ani práv a povinností vyplývajících z tohoto poměru.
+
+**§ 834**:
+> Bylo-li osvojeno dítě, které je rodičem, vztahují se účinky osvojení i na jeho dítě.
+
+**§ 835**:
+> (1) Osvojenec mladší 12 let má příjmení osvojitele; společný osvojenec manželů má příjmení podle § 860.
+> (2) Dovršil-li osvojenec 12 let, může osvojitel s jeho souhlasem před matričním úřadem prohlásit, že osvojenec bude mít příjmení osvojitele, popřípadě příjmení podle § 860, jde-li o společného osvojence, nebo prohlásit, že osvojenec bude osvojitelovo příjmení připojovat ke svému příjmení. Má-li osvojenec připojované příjmení, lze osvojitelovo příjmení připojit jen k prvnímu příjmení osvojence; má-li osvojitel připojované příjmení, lze k osvojencovu příjmení připojit jen první příjmení osvojitele.
 
 ### Pododdíl 3 — Péče před osvojením (§ 819—835)
 
@@ -1215,6 +1367,9 @@ Osvojení lze zrušit pro důvody zvláštního zřetele hodné (zejm. závažn�
 
 ### Pododdíl 5 — Osvojení zletilého (§ 846—854)
 
+**§ 846**:
+> Zletilého lze osvojit, není-li to v rozporu s dobrými mravy.
+
 **Specifický institut** — osvojení dospělé osoby. **Dvě formy** (od novely 2014):
 
 #### § 847—852 — Obdoba osvojení nezletilého
@@ -1306,6 +1461,14 @@ Osvojení zletilého jako obdoba osvojení nezletilého (§ 847) je možné při
 **Typicky rozhodné důkazy / podklady:** důkazy o péči osvojitele za nezletilosti osvojovaného, souhlas manžela osvojovaného, vyjádření pokrevních rodičů, doklady o rodinných a majetkových poměrech.
 
 #### § 853—854 — Osvojení bez obdoby nezletilého
+
+**§ 853**:
+> (1) Vyživovací povinnost osvojence vůči jeho předkům nebo potomkům trvá nadále jen tehdy a jen v té míře, nejsou-li jiné osoby, které mají vyživovací povinnost, popřípadě nejsou-li tyto osoby schopny své vyživovací povinnosti dostát. Osvojenec má právo na výživné vůči svým předkům nebo potomkům jen tehdy a jen v té míře, není-li osvojitel s to své vyživovací povinnosti dostát.
+> (2) Osvojenec dědí po osvojiteli v první zákonné třídě dědiců, nevstupuje však v dědické právo osvojitele vůči jiným osobám.
+> (3) Má-li osvojení právní následky i pro potomky osvojence, použijí se odstavce 1 a 2 obdobně.
+
+**§ 854**:
+> Pro osvojení nezletilého, kterému byla přiznána svéprávnost, se ustanovení o osvojení zletilého použijí obdobně.
 
 **Předpoklady**:
 - **Jiné důvody zvláštního zřetele hodné** (vzájemný vztah jako rodič — dítě);

@@ -737,6 +737,20 @@ Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zá
 
 ### Pobočný spolek (§ 228—230)
 
+**§ 228**:
+> (1) Právní osobnost pobočného spolku se odvozuje od právní osobnosti hlavního spolku. Pobočný spolek může mít práva a povinnosti a nabývat je v rozsahu určeném stanovami hlavního spolku a zapsaném ve veřejném rejstříku.
+> (2) Název pobočného spolku musí obsahovat příznačný prvek názvu hlavního spolku a vyjádřit jeho vlastnost pobočného spolku.
+
+**§ 229**:
+> (1) Pobočný spolek vzniká dnem zápisu do veřejného rejstříku.
+> (2) Návrh na zápis pobočného spolku do veřejného rejstříku podává hlavní spolek.
+> (3) Není-li rozhodnutí o zápisu nebo o jeho odmítnutí vydáno do třiceti dnů od podání návrhu na zápis, považuje se pobočný spolek za zapsaný do veřejného rejstříku.
+> (4) Z právních jednání pobočného spolku vzniklých přede dnem jeho zápisu do veřejného rejstříku je hlavní spolek oprávněn a zavázán společně a nerozdílně s pobočným spolkem. Ode dne zápisu pobočného spolku do veřejného rejstříku ručí hlavní spolek za dluhy pobočného spolku v rozsahu určeném stanovami.
+
+**§ 230**:
+> (1) Zrušením hlavního spolku se zrušuje i pobočný spolek.
+> (2) Hlavní spolek nezanikne dříve, než zaniknou všechny pobočné spolky.
+
 **Pobočný spolek** je **regionální / organizační jednotka** hlavního spolku s vlastní právní osobností odvozenou od hlavního.
 
 **§ 228 — Odvozená osobnost**: pobočný spolek má **práva a povinnosti v rozsahu určeném stanovami hlavního spolku** a zapsaném ve VR. Název pobočného spolku obsahuje příznačný prvek hlavního + označení podřízenosti.
@@ -1683,6 +1697,12 @@ Soud neplatnost rozhodnutí **nevysloví** při porušení **bez závažných pr
 
 #### § 261 — Přiměřené zadostiučinění
 
+**§ 261**:
+> (1) Porušil-li spolek základní členské právo člena závažným způsobem, má člen právo na přiměřené zadostiučinění.
+> (2) Namítne-li to spolek, soud právo na zadostiučinění členu spolku nepřizná, nebylo-li uplatněno
+>     - a) v době stanovené pro podání návrhu na vyslovení neplatnosti rozhodnutí, nebo
+>     - b) do tří měsíců ode dne právní moci rozhodnutí o zamítnutí návrhu, byl-li tento návrh zamítnut podle § 260.
+
 Při **závažném porušení základního členského práva** má člen právo na **přiměřené zadostiučinění** (peněžitá náhrada nemajetkové újmy). Lhůta: stejná jako pro neplatnost rozhodnutí (3 měsíce / 1 rok), případně 3 měsíce od právní moci zamítavého rozhodnutí podle § 260.
 
 **Judikatura (z místních zdrojů):**
@@ -1727,6 +1747,16 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 
 ### Kontrolní komise (§ 262—264)
 
+**§ 262**:
+> (1) Zřídí-li stanovy kontrolní komisi, vyžaduje se, aby měla alespoň tři členy. Neurčí-li stanovy jinak, volí a odvolává členy kontrolní komise členská schůze. Určí-li stanovy, že členy kontrolní komise jmenuje nebo odvolává statutární orgán, nepřihlíží se k tomu.
+> (2) Neurčí-li stanovy další omezení, není členství v kontrolní komisi slučitelné s členstvím ve statutárním orgánu spolku ani s funkcí likvidátora.
+
+**§ 263**:
+> Kontrolní komise dohlíží, jsou-li záležitosti spolku řádně vedeny a vykonává-li spolek činnost v souladu se stanovami a právními předpisy, nesvěří-li jí stanovy další působnost. Zjistí-li kontrolní komise nedostatky, upozorní na ně statutární orgán, jakož i další orgány určené stanovami.
+
+**§ 264**:
+> V rozsahu působnosti kontrolní komise může její pověřený člen nahlížet do dokladů spolku a požadovat od členů dalších orgánů spolku nebo od jeho zaměstnanců vysvětlení k jednotlivým záležitostem.
+
 **§ 262 — Volitelný orgán**: min. **3 členové**. Voli **členská schůze** (nelze stanovami určit SO — odst. 1 věta třetí *ius cogens*). **Inkompatibility**: nelze být zároveň ve SO ani likvidátorem.
 
 **§ 263 — Působnost**: dohlíží na řádné vedení a soulad se stanovami/zákony. Upozorňuje SO i další orgány na zjištěné nedostatky.
@@ -1734,6 +1764,17 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 **§ 264 — Pravomoci**: pověřený člen **nahlíží do dokladů** a požaduje **vysvětlení** od členů orgánů / zaměstnanců.
 
 ### Rozhodčí komise (§ 265—267)
+
+**§ 265**:
+> Je-li zřízena rozhodčí komise, rozhoduje sporné záležitosti náležející do spolkové samosprávy v rozsahu určeném stanovami; neurčí-li stanovy působnost rozhodčí komise, rozhoduje spory mezi členem a spolkem o placení členských příspěvků a přezkoumává rozhodnutí o vyloučení člena ze spolku.
+
+**§ 266**:
+> (1) Neurčí-li stanovy jinak, má rozhodčí komise tři členy, které volí a odvolává členská schůze nebo shromáždění členů spolku.
+> (2) Členem rozhodčí komise může být jen bezúhonná zletilá a plně svéprávná osoba, která ve spolku nepůsobí jako člen statutárního orgánu nebo kontrolní komise. Nenavrhl-li nikdo vyslovení neplatnosti volby člena rozhodčí komise pro nedostatek bezúhonnosti, platí s výhradou změny okolností, že byla zvolena bezúhonná osoba.
+> (3) Z činnosti rozhodčí komise je vyloučen její člen, jemuž okolnosti případu brání nebo by mohly bránit rozhodovat nepodjatě.
+
+**§ 267**:
+> Řízení před rozhodčí komisí upravuje jiný právní předpis.
 
 **§ 265 — Působnost**: spory **uvnitř spolkové samosprávy** v rozsahu stanov; default — spory o členské příspěvky a **přezkum vyloučení**.
 
@@ -1753,6 +1794,24 @@ Tato úprava je **specificky spolková** — nad rámec obecných důvodů zruš
 
 ### Likvidace spolku (§ 269—273)
 
+**§ 269**:
+> (1) Při zrušení spolku s likvidací sestaví likvidátor soupis jmění a zpřístupní jej v sídle spolku všem členům.
+> (2) Likvidátor vydá proti úhradě nákladů soupis jmění každému členu, který o to požádá.
+
+**§ 270**:
+> (1) Nelze-li povolat likvidátora jinak, jmenuje soud likvidátorem i bez jeho souhlasu některého z členů statutárního orgánu. Není-li to možné, jmenuje soud likvidátorem i bez jeho souhlasu některého člena spolku.
+> (2) Likvidátor jmenovaný podle odstavce 1 nemůže z funkce odstoupit, může však navrhnout soudu, aby jej z funkce zprostil, prokáže-li, že na něm nelze spravedlivě požadovat, aby funkci vykonával.
+
+**§ 271**:
+> Likvidátor zpeněží likvidační podstatu pouze v tom rozsahu, v jakém to je pro splnění dluhů spolku nezbytné.
+
+**§ 272**:
+> (1) Likvidátor naloží s likvidačním zůstatkem podle stanov.
+> (2) Nelze-li s likvidačním zůstatkem naložit podle stanov, nabídne likvidátor likvidační zůstatek spolku s účelem obdobným. Není-li to možné, nabídne likvidátor likvidační zůstatek obci, na jejímž území má spolek sídlo. Nepřijme-li obec nabídku do dvou měsíců, nabývá likvidační zůstatek kraj, na jehož území má spolek sídlo. Získá-li likvidační zůstatek obec nebo kraj, použije jej jen k veřejně prospěšnému cíli.
+
+**§ 273**:
+> Obdržel-li spolek účelově vázané plnění z veřejného rozpočtu, ustanovení § 272 se nepoužije a likvidátor naloží s příslušnou částí likvidačního zůstatku podle rozhodnutí příslušného orgánu.
+
 **§ 269**: likvidátor sestaví **soupis jmění** + zpřístupní v sídle všem členům.
 
 **§ 270**: pokud nelze povolat likvidátora, **soud jmenuje** člena SO i bez souhlasu (nemůže odstoupit, ale může požádat soud o zproštění).
@@ -1769,6 +1828,138 @@ Tato úprava je **specificky spolková** — nad rámec obecných důvodů zruš
 Obec/kraj použije pouze k **veřejně prospěšnému cíli**.
 
 **§ 273**: účelově vázané prostředky z veřejného rozpočtu se vrátí podle rozhodnutí poskytovatele.
+
+**Doslovná znění § 274 až 302:**
+
+**§ 274**:
+> Zúčastněné spolky uzavírají smlouvu o fúzi jako smlouvu o sloučení spolků, nebo jako smlouvu o splynutí spolků.
+
+**§ 275**:
+> Smlouva o fúzi obsahuje alespoň údaje o názvu, sídle a identifikující údaj každého ze zúčastněných spolků s uvedením, který spolek je zanikající a který nástupnický, a rozhodný den.
+
+**§ 276**:
+> (1) Smlouva o splynutí spolků obsahuje i ujednání o stanovách nástupnického spolku.
+> (2) Dojde-li při sloučení ke změně stanov nástupnického spolku, obsahuje smlouva o sloučení také ujednání o této změně.
+
+**§ 277**:
+> (1) Společně s návrhem smlouvy o fúzi vyhotoví členové statutárních orgánů zúčastněných spolků i zprávu vysvětlující hospodářské i právní důvody a důsledky fúze. Zprávu lze vyhotovit i jako společnou pro všechny zúčastněné spolky.
+> (2) Zpráva vysvětlující hospodářské i právní důvody a důsledky fúze nemusí být vyhotovena, jsou-li všichni členové zúčastněného spolku členy jeho statutárního nebo kontrolního orgánu nebo souhlasí-li s tím všichni členové zúčastněného spolku.
+
+**§ 278**:
+> Zasedání členské schůze, kterému bude návrh smlouvy o fúzi předložen ke schválení, musí ten, kdo je svolává, ohlásit nejméně třicet dnů před jeho konáním. V této lhůtě musí být zpřístupněny všem členům
+>     - a) návrh smlouvy o fúzi,
+>     - b) stanovy nástupnického spolku,
+>     - c) výkaz majetku a závazků všech zúčastněných spolků ne starší než šest měsíců a
+>     - d) zpráva vysvětlující hospodářské i právní důvody a důsledky fúze, je-li její vyhotovení nutné.
+
+**§ 279**:
+> (1) Zúčastněné spolky zveřejní nejméně třicet dnů před zasedáním členské schůze společné oznámení, v němž uvedou, jakých spolků se fúze týká a jaký spolek se stane nástupnickým spolkem.
+> (2) Není-li spolek příjemcem plnění z veřejného rozpočtu, má-li zanedbatelný počet věřitelů a je-li celková výše dluhů zanedbatelná, postačí, pokud doručí oznámení známým věřitelům.
+
+**§ 280**:
+> Přihlásí-li věřitel zúčastněného spolku pohledávku do šesti měsíců ode dne, kdy se zápis fúze stal vůči němu účinným, má právo na dostatečnou jistotu, zhorší-li se dobytnost pohledávky. Prokáže-li věřitel, že se v důsledku fúze dobytnost pohledávky zhorší podstatným způsobem, má právo na dostatečnou jistotu ještě před zápisem fúze do veřejného rejstříku.
+
+**§ 281**:
+> (1) Návrh smlouvy o fúzi schvalují členské schůze zúčastněných spolků. Členská schůze může návrh smlouvy o fúzi jen schválit, nebo odmítnout.
+> (2) Zasedání členských schůzí zúčastněných spolků může být svoláno i jako společné. Tehdy členské schůze zúčastněných spolků hlasují o návrhu smlouvy o fúzi odděleně. Pokud se však po schválení návrhu smlouvy o fúzi volí členové orgánů nástupnického spolku, mohou členské schůze zúčastněných spolků rozhodnout, že budou o těchto členech hlasovat společně.
+
+**§ 282**:
+> Ten, kdo za zúčastněný spolek návrh smlouvy o fúzi podepisuje, připojí k podpisu kromě dalších náležitostí také údaj, že návrh smlouvy schválila členská schůze spolku a kdy se tak stalo. Smlouva o fúzi je přijata usnesením členské schůze posledního ze zúčastněných spolků o schválení návrhu smlouvy o fúzi a jejím podpisem za tento spolek.
+
+**§ 283**:
+> Návrh na vyslovení neplatnosti smlouvy o fúzi lze podat jen společně s návrhem na neplatnost usnesení členské schůze schvalujícího tuto smlouvu. Právo domáhat se neplatnosti má jen zúčastněný spolek nebo osoba oprávněná podat návrh na vyslovení neplatnosti členské schůze.
+
+**§ 284**:
+> (1) Návrh na zápis fúze do veřejného rejstříku podávají společně všechny zúčastněné spolky. Jedná-li se o fúzi splynutím, podepíší návrh také členové statutárního orgánu nástupnického spolku.
+> (2) Na základě návrhu provede příslušný orgán zápis fúze tak, že k témuž dni vymaže ve veřejném rejstříku zanikající spolky, poznamená, kdo je jejich právní nástupce, a při fúzi
+>     - a) sloučením poznamená u nástupnického spolku den účinnosti sloučení a názvy, adresy sídla a identifikující údaje spolků, které se s nástupnickým spolkem sloučily, a případné další změny u nástupnického spolku, pokud v důsledku fúze nastaly,
+>     - b) splynutím provede zápis nástupnického spolku a poznamená u něho názvy, adresy sídla a identifikující údaje spolků, které jsou jeho právní předchůdci.
+
+**§ 285**:
+> Po zápisu fúze do veřejného rejstříku nelze smlouvu o fúzi změnit nebo zrušit.
+
+**§ 286**:
+> Zápisem fúze nabývají členové zanikajícího spolku členství v nástupnickém spolku.
+
+**§ 287**:
+> (1) Nepodají-li zúčastněné spolky návrh na zápis fúze do šesti měsíců ode dne, kdy byla smlouva o fúzi uzavřena, může ten ze zúčastněných spolků, který byl připraven návrh podat, od smlouvy o fúzi odstoupit. Odstoupí-li od smlouvy i jen jedna strana, zaniká tím závazek všech stran založený smlouvou.
+> (2) Nepodají-li zúčastněné spolky návrh na zápis fúze do jednoho roku ode dne, kdy byla smlouva o fúzi uzavřena, platí, že od smlouvy odstoupily všechny zúčastněné spolky.
+> (3) Společně a nerozdílně se spolkem, který způsobil, že návrh na zápis fúze nebyl podán včas, nahradí ostatním spolkům škodu z toho vzniklou členové jeho statutárního orgánu vyjma těch, kteří prokáží, že vyvinuli dostatečné úsilí, aby návrh byl podán včas.
+
+**§ 288**:
+> (1) Při rozdělení sloučením uzavírají zúčastněné spolky smlouvu o rozdělení.
+> (2) Smlouva o rozdělení obsahuje alespoň
+>     - a) údaje o názvu, sídle a identifikující údaj zúčastněných spolků s uvedením, který spolek je zanikající a které jsou nástupnické,
+>     - b) určení, jaký majetek a dluhy zanikajícího spolku přejímají nástupnické spolky,
+>     - c) určení, kteří zaměstnanci zanikajícího spolku se stávají zaměstnanci jednotlivých nástupnických spolků,
+>     - d) rozhodný den.
+> (3) Dochází-li v důsledku rozdělení sloučením ke změně stanov některého z nástupnických spolků, obsahuje smlouva o rozdělení také dohodu o této změně.
+> (4) Nestanoví-li smlouva o rozdělení jinak, nabývá každý člen zanikajícího spolku ke dni účinnosti rozdělení členství ve všech nástupnických spolcích.
+
+**§ 289**:
+> (1) Při rozdělení se založením nových spolků vyhotoví rozdělovaný spolek projekt rozdělení.
+> (2) Projekt obsahuje alespoň
+>     - a) údaje o názvu, sídle a identifikující údaj zúčastněných spolků s uvedením, který spolek je zanikající a které jsou nástupnické,
+>     - b) určení, jaký majetek a dluhy zanikajícího spolku přejímají nástupnické spolky,
+>     - c) určení, kteří zaměstnanci zanikajícího spolku se stávají zaměstnanci jednotlivých nástupnických spolků,
+>     - d) návrh stanov nástupnických spolků,
+>     - e) rozhodný den.
+> (3) Nestanoví-li projekt rozdělení jinak, nabývá každý člen zanikajícího spolku ke dni účinnosti rozdělení členství ve všech nástupnických spolcích.
+
+**§ 290**:
+> (1) Není-li ze smlouvy o rozdělení nebo z projektu rozdělení zřejmé, jaký majetek přechází z rozdělovaného spolku na nástupnické spolky, platí, že nástupnické spolky jsou spoluvlastníky takového majetku.
+> (2) Není-li ze smlouvy o rozdělení nebo z projektu rozdělení zřejmé, jaké dluhy přecházejí z rozdělovaného spolku na nástupnické spolky, platí, že nástupnické spolky jsou z těchto dluhů zavázány společně a nerozdílně.
+
+**§ 291**:
+> (1) Při rozdělení sloučením se ustanovení o fúzi použijí obdobně.
+> (2) Při rozdělení se založením nových spolků vyhotoví statutární orgán rozdělovaného spolku společně s projektem rozdělení i zprávu vysvětlující hospodářské i právní důvody a důsledky rozdělení. Zpráva nemusí být vyhotovena, jsou-li všichni členové spolku členy jeho statutárního orgánu, anebo souhlasí-li s tím všichni členové spolku.
+
+**§ 292**:
+> (1) Zasedání členské schůze, kterému bude předložena smlouva o rozdělení nebo projekt rozdělení ke schválení, musí ten, kdo je svolává, ohlásit nejméně třicet dnů před jeho konáním.
+> (2) Ve lhůtě uvedené v odstavci 1 spolek zpřístupní ve svém sídle všem členům zprávu statutárního orgánu vysvětlující hospodářské i právní důvody a důsledky rozdělení, je-li její vyhotovení nutné. Zpráva musí obsahovat,
+>     - a) jedná-li se o rozdělení sloučením, návrh smlouvy o rozdělení, stanovy nástupnického spolku a výkaz majetku a závazků všech zúčastněných spolků ne starší než šest měsíců, nebo
+>     - b) jedná-li se o rozdělení se založením nových spolků, projekt rozdělení, výkaz majetku a závazků rozdělovaného spolku, jakož i zahajovací rozvahy a návrh stanov nástupnických spolků.
+
+**§ 293**:
+> (1) Nejméně třicet dnů před zasedáním členské schůze zveřejní rozdělovaný spolek oznámení, v němž uvede, jakého spolku se rozdělení týká a které spolky se stanou jeho spolky nástupnickými. V oznámení rozdělovaný spolek též upozorní věřitele na jejich právo podle § 301.
+> (2) Není-li spolek příjemcem plnění z veřejného rozpočtu, má-li zanedbatelný počet věřitelů a je-li celková výše dluhu zanedbatelná, postačí, pokud doručí oznámení známým věřitelům.
+
+**§ 294**:
+> (1) Smlouvu o rozdělení schvalují členské schůze zúčastněných spolků. Ustanovení § 282 se použije obdobně.
+> (2) Projekt rozdělení schvaluje členská schůze rozdělovaného spolku.
+> (3) Členská schůze může smlouvu o rozdělení nebo projekt rozdělení jen schválit, nebo odmítnout.
+
+**§ 295**:
+> (1) Rozdělovaný spolek podá návrh na zápis rozdělení do veřejného rejstříku. Jedná-li se o rozdělení sloučením, podají společný návrh spolek rozdělovaný i nástupnický.
+> (2) Na základě návrhu provede příslušný orgán zápis rozdělení tak, že k témuž dni vymaže ve veřejném rejstříku zanikající spolek, poznamená, kdo je jeho právní nástupce, a při rozdělení
+>     - a) sloučením poznamená u nástupnického spolku den účinnosti rozdělení sloučením a název, adresu sídla a identifikující údaj spolku, který se s nástupnickým spolkem sloučil a případné další změny u nástupnického spolku, pokud v důsledku rozdělení nastaly,
+>     - b) se založením nových spolků provede zápis nástupnických spolků a poznamená u něho název, adresu sídla a identifikující údaj spolku, který je jeho právním předchůdcem.
+
+**§ 296**:
+> Po zápisu rozdělení do veřejného rejstříku nelze smlouvu o rozdělení ani projekt rozdělení změnit nebo zrušit.
+
+**§ 297**:
+> (1) Nepodají-li při rozdělení sloučením zúčastněné spolky návrh na zápis rozdělení do šesti měsíců ode dne, kdy byla smlouva o rozdělení uzavřena, může ten ze zúčastněných spolků, který byl připraven návrh podat, od smlouvy o rozdělení odstoupit. Odstoupí-li od smlouvy i jen jedna strana, zanikají tím závazky všech stran založené smlouvou.
+> (2) Nepodají-li při rozdělení sloučením zúčastněné spolky návrh na zápis rozdělení do jednoho roku ode dne, kdy byla smlouva o rozdělení uzavřena, platí, že od smlouvy odstoupily všechny zúčastněné spolky.
+> (3) Společně a nerozdílně se spolkem, který způsobil, že návrh na zápis rozdělení nebyl podán včas, nahradí ostatním spolkům škodu z toho vzniklou členové jeho statutárního orgánu vyjma těch, kteří prokáží, že vyvinuli dostatečné úsilí, aby návrh byl podán včas.
+
+**§ 298**:
+> Nepodá-li rozdělovaný spolek při rozdělení se založením nových spolků návrh na zápis rozdělení do jednoho roku ode dne, kdy bylo rozhodnutí o rozdělení přijato, ruší se marným uplynutím lhůty rozhodnutí o rozdělení.
+
+**§ 299**:
+> (1) Každý z nástupnických spolků ručí společně s ostatními nástupnickými spolky za dluhy přešlé z rozdělovaného spolku na další nástupnický spolek.
+> (2) Dá-li si rozdělovaný spolek ocenit své jmění posudkem znalce ustanoveného mu soudem podle jiného zákona, a to včetně odděleného ocenění jmění přecházejícího na jednotlivé nástupnické spolky, a splní povinnost zveřejnění podle § 269, ručí každý nástupnický spolek za dluhy podle odstavce 1 jen do výše čistého jmění nabytého rozdělením.
+> (3) Právo z ručení podle odstavců 1 a 2 nemohou uplatnit věřitelé, jimž se dostalo jistoty podle § 300.
+
+**§ 300**:
+> Přihlásí-li věřitel zúčastněného spolku pohledávku do šesti měsíců ode dne, kdy se zápis rozdělení stal vůči němu účinným, má právo na dostatečnou jistotu, pokud prokáže, že se dobytnost pohledávky zhorší. Prokáže-li věřitel, že se v důsledku rozdělení dobytnost pohledávky podstatným způsobem zhorší, má právo na dostatečnou jistotu ještě před zápisem rozdělení do veřejného rejstříku.
+
+**§ 301**:
+> (1) Každý, jehož právní zájmy jsou rozdělením dotčeny, má právo, aby mu kterýkoli ze zúčastněných spolků sdělil do jednoho měsíce od doručení žádosti, jaké jmění přechází rozdělením na jednotlivé nástupnické spolky.
+> (2) Nedostane-li se dlužníku zaniklého spolku sdělení, kdo je po rozdělení spolku jeho věřitelem, může plnit kterémukoli z nástupnických spolků. Nedostane-li se věřiteli zaniklého spolku sdělení, kdo je po rozdělení spolku jeho dlužníkem, může požadovat plnění od kteréhokoli z nástupnických spolků.
+
+**§ 302**:
+> Určí-li stanovy, že o fúzi nebo rozdělení spolku rozhoduje jiný orgán než členská schůze, použijí se z ustanovení o fúzi nebo rozdělení spolku na rozhodování takového orgánu přiměřeně ustanovení o členské schůzi.
 
 ### Fúze spolků (§ 274—287)
 

@@ -485,6 +485,15 @@ Tato skupina tvoří „výpočtové jádro" bezdůvodného obohacení. Nelze-li
 
 **Typicky rozhodné důkazy / podklady:** znalecký posudek k obvyklé ceně/nájemnému, doklad o utržené ceně při zcizení, podklady o dobré/zlé víře příjemce, srovnatelné licenční odměny u podobizny, doklady o spotřebě či trvání obohacení.
 
+**Doslovná znění § 3003 až 3004:**
+
+**§ 3003**:
+> Nepoctivý příjemce vydá, co nabyl v době, kdy obohacení získal.
+
+**§ 3004**:
+> (1) Obohacený, který nebyl v dobré víře, vydá vše, co obohacením nabyl, včetně plodů a užitků; rovněž nahradí užitek, který by ochuzený byl získal. Zcizil-li předmět bezdůvodného obohacení za úplatu, má ochuzený právo požadovat, aby mu byla podle jeho volby vydána buď peněžitá náhrada, anebo co obohacený zcizením utržil.
+> (2) Bylo-li bezdůvodné obohacení nabyto zásahem do přirozeného práva člověka chráněného ustanovenímiprvní části tohoto zákona, může ochuzený požadovat za neoprávněné nakládání s hodnotami týkajícími se jeho osobnosti namísto plnění podle odstavce 1 dvojnásobek odměny obvyklé za udělení souhlasu s takovým nakládáním. Je-li pro to spravedlivý důvod, může soud rozsah plnění přiměřeně zvýšit.
+
 ### § 3005 — Náklady obohaceného
 
 > Kdo předmět bezdůvodného obohacení vydává, má právo na náhradu nutných nákladů, které na věc vynaložil, a může od věci oddělit vše, čím ji na svůj náklad zhodnotil, je-li to možné bez zhoršení podstaty věci.

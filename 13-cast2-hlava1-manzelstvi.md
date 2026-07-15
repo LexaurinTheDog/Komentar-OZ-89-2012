@@ -441,6 +441,12 @@ Ve výjimečných situacích lze sňatek uzavřít při ohrožení života (§ 6
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí krajského úřadu, plná moc s ověřeným podpisem, doklad o čase a adresátovi odvolání, protokol o obřadu.
 
+**Doslovné znění § 670:**
+
+**§ 670**:
+> (1) Byl-li uzavřen občanský sňatek, nemají následné náboženské obřady právní následky.
+> (2) Byl-li uzavřen církevní sňatek, nelze následně uzavřít občanský sňatek.
+
 ### § 671—676 — Způsobilost a zákonné překážky
 
 **§ 671**:
@@ -1113,6 +1119,12 @@ Rodinný závod je závod, v němž trvale pracují manželé a jejich blízcí 
 
 **Typicky rozhodné důkazy / podklady:** doklady o vlastnictví závodu, prokázání trvalé práce členů, účetnictví o zisku a přírůstcích, příbuzenské/švagrovské vztahy, případné smlouvy.
 
+**Doslovné znění § 708:**
+
+**§ 708**:
+> (1) To, co manželům náleží, má majetkovou hodnotu a není vyloučeno z právních poměrů, je součástí společného jmění manželů (dále jen „společné jmění“). To neplatí, zanikne-li společné jmění za trvání manželství na základě zákona.
+> (2) Společné jmění podléhá zákonnému režimu, nebo smluvenému režimu, anebo režimu založenému rozhodnutím soudu.
+
 ### Oddíl 2 — Manželské majetkové právo (§ 708—742)
 
 **Společné jmění manželů (SJM)** je **stěžejní institut** majetkového práva manželského. **Tři režimy** (§ 708 odst. 2):
@@ -1124,6 +1136,9 @@ Rodinný závod je závod, v němž trvale pracují manželé a jejich blízcí 
 | **Soudní** | Rozhodnutí soudu při závažných důvodech |
 
 #### Zákonný režim (§ 709—715)
+
+**§ 712**:
+> Není-li v této části zákona stanoveno jinak, použijí se pro společné jmění obdobně ustanovení tohoto zákona o společnosti, popřípadě ustanovení o spoluvlastnictví.
 
 ##### § 709 — Co je v SJM
 
@@ -1395,6 +1410,17 @@ SJM spravují manželé společně a jsou zavázáni solidárně (§ 713). Mimo�
 
 #### Smluvený režim (§ 716—723)
 
+**§ 722**:
+> (1) Snoubenci i manželé mohou uzavřít smlouvu o správě toho, co je součástí společného jmění, která se odchyluje od ustanovení § 713 a 714; ustanovení § 719 a 720 platí i pro tuto smlouvu.
+> (2) Smlouva podle odstavce 1 obsahuje ujednání o tom, který manžel bude spravovat společné jmění nebo jeho součást a jakým způsobem.
+
+**§ 723**:
+> (1) Manžel, který spravuje společné jmění, právně jedná v záležitostech týkajících se společného jmění samostatně, a to i v soudním nebo jiném řízení, ledaže je dále stanoveno jinak.
+> (2) Manžel, který spravuje všechno společné jmění, může právně jednat jen se souhlasem druhého manžela
+>   - a) při nakládání se společným jměním jako celkem,
+>   - b) při nakládání s obydlím, v němž je rodinná domácnost manželů, je-li toto obydlí součástí společného jmění, nebo které je obydlím jednoho z nich, anebo obydlím nezletilého dítěte, které nenabylo plné svéprávnosti a o něž manželé pečují, jakož i při ujednání trvalého zatížení nemovité věci, která je součástí společného jmění.
+> (3) Ustanovení § 714 odst. 2 platí obdobně.
+
 ##### § 716—719 — Smlouva
 
 > (1) Snoubenci a manželé si mohou ujednat manželský majetkový režim odlišný od zákonného režimu. Ujednají-li si smluvený režim manželé, upraví zpravidla své povinnosti a práva týkající se již existujícího společného jmění. Ujedná-li se pro smluvený režim zpětný účinek, nepřihlíží se k tomu.
@@ -1534,6 +1560,17 @@ Smlouva snoubenců nabývá účinnosti uzavřením manželství; u věcí zapsa
 
 #### Soudní režim (§ 724—728)
 
+**§ 725**:
+> Režim založený rozhodnutím soudu lze změnit smlouvou manželů nebo rozhodnutím soudu.
+
+**§ 726**:
+> (1) Soud může společné jmění poté, co je zrušil, obnovit; soud tak rozhodne zejména, když pominou důvody zrušení společného jmění. To platí i v případě, že manžel navrhne, aby společné jmění, jehož rozsah byl zúžen, bylo rozšířeno do zákonného rozsahu.
+> (2) Zaniklo-li společné jmění na základě zákona, soud jej na návrh manžela obnoví, pokud je to v zájmu obou manželů.
+
+**§ 727**:
+> (1) Rozhodnutím soudu nelze vyloučit ani změnit ustanovení upravující obvyklé vybavení rodinné domácnosti.
+> (2) Rozhodnutí soudu o změně, zrušení nebo obnovení společného jmění nesmí svými důsledky vyloučit schopnost manžela zabezpečovat rodinu a nesmí se obsahem nebo účelem dotknout práv třetí osoby, ledaže by s rozhodnutím souhlasila.
+
 ##### § 724 — Závažné důvody
 
 > (1) Je-li pro to závažný důvod, soud na návrh manžela společné jmění zruší nebo zúží jeho stávající rozsah.
@@ -1645,6 +1682,18 @@ V režimu oddělených jmění nakládá každý manžel se svým majetkem samos
 
 #### Ochrana třetích osob (§ 731—734)
 
+**§ 731**:
+> Vznikl-li dluh jen jednoho z manželů za trvání společného jmění, může se věřitel při výkonu rozhodnutí uspokojit i z toho, co je ve společném jmění.
+
+**§ 732**:
+> Vznikl-li dluh jen jednoho z manželů proti vůli druhého manžela, který nesouhlas projevil vůči věřiteli bez zbytečného odkladu poté, co se o dluhu dozvěděl, může být společné jmění postiženo jen do výše, již by představoval podíl dlužníka, kdyby bylo společné jmění zrušeno a vypořádáno podle § 742. To platí i v případě povinnosti manžela plnit výživné nebo jde-li o dluh z protiprávního činu jen jednoho z manželů nebo v případě, že dluh jen jednoho z manželů vznikl ještě před uzavřením manželství.
+
+**§ 733**:
+> Zavázal-li se jeden z manželů v době, od které do změny nebo vyloučení zákonného majetkového režimu, ať smlouvou manželů nebo rozhodnutím soudu, uplynulo méně než šest měsíců, může být pohledávka jeho věřitele uspokojena ze všeho, co by bylo součástí společného jmění, kdyby ke smlouvě manželů nebo k rozhodnutí soudu nedošlo.
+
+**§ 734**:
+> Je-li smlouvou manželů nebo rozhodnutím soudu, kterými byl zákonný majetkový režim změněn nebo vyloučen, dotčeno právo třetí osoby, zejména věřitele, může tato osoba své právo uplatnit u příležitosti vypořádání toho, co bylo dříve součástí společného jmění, stejně, jako by ke smlouvě manželů nebo k rozhodnutí soudu nedošlo; přitom se použije § 742.
+
 **§ 731**: dluh jednoho z manželů za trvání SJM → věřitel se může uspokojit **i z SJM**.
 
 **§ 732 — Dluh proti vůli druhého**: pokud druhý projevil nesouhlas vůči věřiteli bez zbytečného odkladu → SJM postiženo jen **do výše podílu dlužníka** podle § 742. Platí i pro **výživné, delikty, předmanželské dluhy**.
@@ -1690,6 +1739,24 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 **Typicky rozhodné důkazy / podklady:** smlouva o dluhu, doklad o nesouhlasu druhého manžela vůči věřiteli, notářský zápis o změně SJM s datem, doklady o vzniku a době pohledávky.
 
 #### Vypořádání SJM (§ 736—742)
+
+**§ 736**:
+> Je-li společné jmění zrušeno nebo zanikne-li, anebo je-li zúžen jeho stávající rozsah, provede se likvidace dosud společných povinností a práv jejich vypořádáním. Dokud zúžené, zrušené nebo zaniklé společné jmění není vypořádáno, použijí se pro ně ustanovení o společném jmění přiměřeně.
+
+**§ 737**:
+> (1) Vypořádáním jmění nesmí být dotčeno právo třetí osoby. Bylo-li její právo vypořádáním dotčeno, může se třetí osoba domáhat, aby soud určil, že je vypořádání vůči ní neúčinné.
+> (2) Vypořádání dluhů má účinky jen mezi manžely.
+
+**§ 738**:
+> (1) Dohoda o vypořádání má vždy účinky ke dni, kdy společné jmění bylo zúženo, zrušeno nebo zaniklo, bez ohledu na to, zda dohoda byla uzavřena před anebo po zúžení, zrušení nebo zániku společného jmění. Je-li však předmětem vypořádání věc, která se zapisuje do veřejného seznamu, nabývá dohoda právních účinků v části týkající se této věci zápisem do veřejného seznamu.
+> (2) Platnosti dohody o vypořádání nebrání, týká-li se jen části společných majetkových povinností a práv.
+
+**§ 739**:
+> (1) Dohoda o vypořádání vyžaduje písemnou formu, pokud byla uzavřena za trvání manželství nebo pokud je předmětem vypořádání věc, u které vyžaduje písemnou formu i smlouva o převodu vlastnického práva.
+> (2) Nevyžaduje-li dohoda o vypořádání písemnou formu a požádá-li o to jeden z manželů, doručí mu druhý manžel potvrzení, jak se vypořádali.
+
+**§ 740**:
+> Nedohodnou-li se manželé o vypořádání, může každý z nich navrhnout, aby rozhodl soud. O vypořádání rozhoduje soud podle stavu, kdy nastaly účinky zúžení, zrušení nebo zániku společného jmění.
 
 **§ 736**: zrušení / zánik / zúžení → **likvidace vypořádáním**. Mezitím pravidla SJM přiměřeně.
 
@@ -2022,6 +2089,16 @@ Manžel s výhradním právem k domu/bytu, v němž je rodinná domácnost a jeh
 **Typicky rozhodné důkazy / podklady:** výpis z katastru (vlastnictví, zatížení), smlouvy o dispozici, doklad o nezbytnosti obydlí pro rodinu, písemný souhlas druhého manžela (nebo jeho absence).
 
 ### Domácí násilí (§ 751—753)
+
+**§ 751**:
+> (1) Stane-li se další společné bydlení manželů v domě nebo bytě, v němž se nachází rodinná domácnost manželů, pro jednoho z nich nesnesitelné z důvodu domácího násilí vůči manželovi nebo jinému, kdo v rodinné domácnosti manželů žije, může soud na návrh dotčeného manžela omezit, popřípadě i vyloučit na určenou dobu právo druhého manžela v domě nebo bytě bydlet.
+> (2) Stejně jako v odstavci 1 lze postupovat v případě, že se jedná o manžele rozvedené, jakož i v případě, kdy manželé nebo rozvedení manželé bydlí společně jinde než v rodinné domácnosti.
+
+**§ 752**:
+> Omezení, popřípadě vyloučení práva manžela v domě nebo bytě bydlet, určí soud nejdéle na dobu šesti měsíců. Soud na návrh rozhodne znovu, jsou-li pro to zvlášť závažné důvody.
+
+**§ 753**:
+> Právo domáhat se ochrany proti domácímu násilí má také každá jiná osoba, která žije spolu s manžely nebo rozvedenými manžely v rodinné domácnosti.
 
 **§ 751 — Soudní omezení / vyloučení práva bydlet** druhého manžela při domácím násilí — **na návrh dotčeného manžela**.
 
@@ -2438,6 +2515,25 @@ Zanikne-li manželství smrtí, vypořádá se SJM v řízení o dědictví podl
 **Typicky rozhodné důkazy / podklady:** úmrtní list nebo rozhodnutí o prohlášení za mrtvého, doklad o majetkovém režimu, soupis a ocenění SJM, pořízení pro případ smrti, podklady o zásluhách a investicích.
 
 #### § 766—770 — Bydlení
+
+**§ 766**:
+> (1) Zaniklo-li manželství smrtí manžela a manželé měli společné nájemní právo k domu nebo bytu, v němž se nacházela jejich rodinná domácnost, zůstane nájemcem bytu pozůstalý manžel. Svědčilo-li manželům k domu nebo bytu společně jiné závazkové právo, zůstane oprávněným pozůstalý manžel.
+> (2) Zaniklo-li manželství smrtí manžela a nájemní právo k domu nebo bytu, v němž se nacházela rodinná domácnost manželů, měl jen jeden z nich, použijí se ustanovení o nájmu bytu.
+
+**§ 767**:
+> (1) Zaniklo-li manželství smrtí manžela, který měl k domu nebo bytu, v němž se nacházela rodinná domácnost manželů, výhradní právo umožňující v domě nebo bytě bydlet, a bylo-li to jiné právo než závazkové, zatímco druhý manžel měl v domě nebo bytě právo bydlení, zanikne tomuto manželu právo bydlení, pokud výhradní právo zemřelého manžela přešlo na jinou osobu než na pozůstalého manžela. To neplatí, nelze-li na pozůstalém manželu spravedlivě žádat, aby dům nebo byt opustil.
+> (2) Je-li to přiměřené poměrům pozůstalého manžela, především proto, že pečuje o nezletilé dítě, které nenabylo plné svéprávnosti, o něž manželé pečovali, nebo o nezletilé dítě, které nenabylo plné svéprávnosti, jehož rodičem je zemřelý manžel, anebo o dítě nezaopatřené, které s pozůstalým manželem žije, může soud na návrh pozůstalého manžela založit v jeho prospěch právo odpovídající věcnému břemenu bydlení podle okolností případu, nejdéle však do doby, než takové dítě nabude trvale schopnost samo se živit, a za úplatu srovnatelnou s nájemným v místě obvyklým; toto právo nezanikne, nabude-li dítě schopnost samo se živit jen na přechodnou dobu.
+> (3) Měl-li pozůstalý manžel právo bydlet z jiného důvodu, použijí se odstavce 1 a 2 obdobně.
+
+**§ 768**:
+> (1) Zaniklo-li manželství rozvodem, a manželé měli k domu nebo bytu, v němž se nacházela jejich rodinná domácnost, stejné, nebo společné právo, a nedohodnou-li se, kdo bude v domě nebo bytě dále bydlet, zruší soud na návrh jednoho z nich podle okolností případu dosavadní právo toho z rozvedených manželů, na kterém lze spravedlivě žádat, aby dům nebo byt opustil, a popřípadě zároveň rozhodne o způsobu náhrady za ztrátu práva; přitom přihlédne zejména k rozhodnutí o péči rozvedených manželů o nezletilé dítě, které nenabylo plné svéprávnosti a o které manželé pečovali, jakož i ke stanovisku pronajímatele, půjčitele nebo jiné osoby v obdobném postavení.
+> (2) Rozvedený manžel, který má dům nebo byt opustit, má právo tam bydlet, dokud mu druhý manžel nezajistí náhradní bydlení, ledaže mu v řízení podle odstavce 1 náhrada nebyla přiznána; v tomto případě má právo v domě nebo bytě bydlet nejdéle jeden rok. Pečuje-li však o nezletilé dítě, které nenabylo plné svéprávnosti a o které manželé pečovali za trvání manželství, nebo o dítě nezaopatřené, které s ním žije, může soud na návrh tohoto manžela založit v jeho prospěch právo bydlení; ustanovení § 767 odst. 2 platí obdobně.
+
+**§ 769**:
+> Zaniklo-li manželství rozvodem, a manželé neměli k domu nebo bytu, v němž se nacházela jejich rodinná domácnost, stejné, popřípadě společné právo, a manželé, popřípadě rozvedení manželé se nedohodnou o dalším bydlení manžela, který má v domě nebo bytě pouze právo bydlet, popřípadě jiné právo, které je slabší než právo druhého manžela, rozhodne soud na návrh manžela, který má k domu nebo bytu právo vlastnické nebo jiné věcné právo, popřípadě výhradní právo nájemní nebo jiné závazkové právo, o povinnosti druhého manžela se vystěhovat; ustanovení § 767 odst. 2 platí obdobně.
+
+**§ 770**:
+> Zaniklo-li manželství rozvodem, a manželé měli v domě nebo bytě právo bydlet, s tím, že jedno právo bylo odvozeno od druhého, má právo žádat vystěhování toho z rozvedených manželů, který měl jen právo odvozené, ten, kdo má k domu nebo bytu věcné nebo závazkové právo, od kterého bylo právo druhého z manželů bydlet přímo odvozeno.
 
 **§ 766 — Smrt + společné nájemní právo**: nájemcem zůstává **pozůstalý manžel**.
 

@@ -893,6 +893,11 @@ Přeshraniční přemístění sídla je přípustné jen při souladu s veřejn
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o přemístění, doklad a datum zveřejnění, evidence (nesplatných) pohledávek, doklady o nabídnutém zajištění, doklad o vypořádání člena, výpis z rejstříku se zápisem nové adresy.
 
+**Doslovné znění § 143:**
+
+**§ 143**:
+> Pro zřizování a přemísťování poboček právnických osob platí § 138 až 142 obdobně.
+
 ---
 
 ## Účel a zakázané PO
@@ -1295,6 +1300,11 @@ Je-li členem orgánu PO jiná PO, musí zmocnit konkrétní fyzickou osobu; jin
 **§ 158**:
 > (2) Zakladatelské právní jednání může připustit rozhodování orgánu i mimo zasedání v písemné formě nebo s využitím technických prostředků.
 > (3) Zakladatelské právní jednání může určit, že v případě dosažení rovnosti hlasů při rozhodování voleného orgánu právnické osoby rozhoduje hlas předsedajícího.§ 158a: (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami...
+
+**§ 158a**:
+> (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami.
+> (2) Rozhoduje-li orgán podle odstavce 1 mimo zasedání v písemné formě, uchovává právnická osoba i všechny dokumenty související s takovým rozhodováním.
+> (3) V případě zániku právnické osoby s právním nástupcem zajistí uchování dokumentů podle odstavce 1 nebo 2 její právní nástupce. Zrušuje-li se právnická osoba s likvidací, zajistí uchování těchto dokumentů likvidátor. Zrušuje-li se právnická osoba bez likvidace, zajistí uchování těchto dokumentů insolvenční správce nebo jiná osoba určená soudem. Osoba podle vět druhé a třetí zajistí uchování dokumentů po dobu 10 let od zániku právnické osoby.
 
 **Výklad:**
 
@@ -2103,6 +2113,11 @@ Likvidátora povolává příslušný orgán PO; není-li povolán nebo neplní-
 - [ ] Rozlišit, kdo je oprávněn likvidátora odvolat (orgán PO vs. jen soud dle § 194).
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vstupu do likvidace, doklad o (ne)povolání likvidátora, podání s osvědčením právního zájmu, doklady o nečinnosti či porušení povinností likvidátora.
+
+**Doslovné znění § 195:**
+
+**§ 195**:
+> Odměnu a způsob její výplaty určuje likvidátorovi ten, kdo jej povolal.
 
 ### § 196—204 — Postup likvidace
 

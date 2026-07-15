@@ -1169,6 +1169,24 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 
 ### Pododdíl 3 — Inventář, jistota a pojištění (§ 1423—1427)
 
+**§ 1423**:
+> (1) Správce sestaví inventář, dá jistotu za řádný výkon správy nebo pojistí svěřený majetek, určí-li tak stanovy či jiná smlouva nebo stanoví-li tak zákon.
+> (2) Na návrh beneficienta nebo jiné osoby, která má na tom právní zájem, soud může uložit správci povinnost podle odstavce 1 při uvážení hodnoty spravovaného majetku, postavení stran a dalších okolností případu. Návrhu nelze vyhovět, odporuje-li to smlouvě o zřízení správy uzavřené mezi správcem a beneficientem.
+
+**§ 1424**:
+> (1) Je-li správce povinen sestavit inventář, uvede v něm věrný a přesný seznam jmění zahrnutého do správy včetně seznamu významných dokladů.
+> (2) Věci osobní potřeby zahrnuté do inventáře lze popsat jen obecně, ledaže jsou mezi nimi věci hodnoty nikoli nepatrné.
+
+**§ 1425**:
+> Má se za to, že majetek popsaný v inventáři je ke dni sestavení inventáře v dobrém stavu.
+
+**§ 1426**:
+> Inventář správce doručí tomu, kdo ho správou pověřil, beneficientovi a osobě, o níž to bylo ujednáno nebo zákonem stanoveno. Beneficient nebo jiná osoba, která má na tom právní zájem, má právo namítnout nesprávnost inventáře v jakékoli jeho položce nebo žádat sestavení nového inventáře.
+
+**§ 1427**:
+> (1) Správce je oprávněn pojistit spravovaný majetek na náklady beneficienta proti běžným rizikům.
+> (2) Správce má právo pojistit svou majetkovou odpovědnost ze správy na náklady beneficienta, vykonává-li správu bezúplatně.
+
 **§ 1423** — Povinnost **inventáře / jistoty / pojištění** vzniká:
 - Ze stanov/smlouvy;
 - Ze zákona;
@@ -1185,6 +1203,20 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 ---
 
 ### Pododdíl 4 — Společná správa (§ 1428—1431)
+
+**§ 1428**:
+> Několik správců pověřených společnou správou rozhoduje a jedná většinou hlasů, ledaže smlouva určí nebo zákon stanoví jinak. Má se za to, že každý ze společných správců má jeden hlas.
+
+**§ 1429**:
+> (1) Nemohou-li společní správci jednat podle § 1411 pro překážku způsobenou právní událostí, pro soustavnou nečinnost či soustavný odpor některého správce, anebo z jiného podobného důvodu, mohou ostatní správci rozhodovat a jednat samostatně v záležitostech potřebných k udržení současného stavu. V jiných záležitostech mohou takto jednat se souhlasem soudu.
+> (2) Trvá-li stav podle odstavce 1, může soud rozhodnout na návrh osoby, která na tom má právní zájem, že správci mohou rozhodovat a jednat jiným způsobem, než stanoví § 1428, že některý ze správců bude mít rozhodující hlas, nebo rozhodnout o dalším výkonu správy jiným způsobem přiměřeným okolnostem případu.
+
+**§ 1430**:
+> Ze společné správy jsou správci zavázáni společně a nerozdílně, ledaže zákon stanoví jinak.
+
+**§ 1431**:
+> (1) Nesdělí-li některý ze společných správců ostatním správcům bez prodlení, že s rozhodnutím nesouhlasí, a neoznámí-li to bez zbytečného odkladu beneficientovi, má se za to, že rozhodnutí schválil.
+> (2) Přijali-li společní správci rozhodnutí v nepřítomnosti některého z nich, má se za to, že nepřítomný rozhodnutí schválil, pokud svůj nesouhlas neoznámil ostatním správcům a beneficientovi bez zbytečného odkladu poté, co se o rozhodnutí dozvěděl.
 
 **§ 1428 — Většinové rozhodování**: rozhoduje **většina hlasů**, každý jeden hlas (dispozitivní — stanovy mohou určit jinak).
 
@@ -1205,6 +1237,18 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 
 ### Pododdíl 5 — Obezřetné investice (§ 1432—1435)
 
+**§ 1432**:
+> Správce rozhoduje o investicích se zřetelem k výnosu a předpokládanému zisku; je-li to možné, rozvrhne investiční riziko tak, aby dosáhl takového poměru mezi pevným příjmem a pohyblivými výnosy, který rozumně odpovídá hospodářským podmínkám.
+
+**§ 1433**:
+> Správci se zakazuje nabýt pro beneficienta více než 5 % akcií téhož emitenta. Správci se rovněž zakazuje nabýt pro beneficienta akcii, dluhopis nebo jiný dlužnický cenný papír osoby, která porušila povinnost platit z cenného papíru výnos; takové osobě správce nesmí ani poskytnout úvěr.
+
+**§ 1434**:
+> Správce může uložit spravované peněžní prostředky na účet u banky, zahraniční banky nebo spořitelního a úvěrního družstva s možností jejich výběru na požádání nebo do třiceti dnů.
+
+**§ 1435**:
+> Investici vynaloženou dříve, než se ujal správy, může správce udržovat, třebaže nebyla obezřetná.
+
 **§ 1432 — Diversifikace** — správce **rozkládá riziko** mezi pevné a pohyblivé příjmy.
 
 **§ 1433 — Konkrétní zákazy**:
@@ -1219,6 +1263,13 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 ---
 
 ### Pododdíl 6 — Vyúčtování (§ 1436—1437)
+
+**§ 1436**:
+> (1) Správce předloží beneficientovi vyúčtování správy nejméně jednou za rok. Je-li správců několik, předloží vyúčtování společné, ledaže vzhledem k rozdělení jejich působnosti smlouva určí nebo zákon stanoví něco jiného.
+> (2) Vyúčtování musí být tak podrobné, aby bylo možné ověřit jeho správnost.
+
+**§ 1437**:
+> Správce beneficientovi umožní kdykoli přezkoumat účetní knihy a doklady týkající se správy a poskytne mu na vyžádání potřebné informace, jak je správa vedena.
 
 **§ 1436 — Roční vyúčtování** (minimálně 1× ročně) — **dostatečně podrobné**, aby bylo lze ověřit správnost. Při více správcích **společné vyúčtování**.
 
@@ -1803,6 +1854,20 @@ Statut je „ústavou“ fondu: musí mít formu veřejné listiny a obsahovat z
 
 ### Pododdíl 2 — Správa svěřenského fondu (§ 1453—1456)
 
+**§ 1453**:
+> (1) Svěřenským správcem může být každý svéprávný člověk.
+> (2) Právnická osoba může být svěřenským správcem, stanoví-li to zákon.
+
+**§ 1454**:
+> Za podmínek uvedených v § 1453 může být svěřenským správcem i zakladatel svěřenského fondu nebo osoba, které má být ze svěřenského fondu plněno. V takovém případě však musí mít svěřenský fond dalšího svěřenského správce, kterým je osoba třetí, a správci musí právně jednat společně.
+
+**§ 1455**:
+> (1) Svěřenského správce jmenuje a odvolává zakladatel. Zakladatel může ve statutu určit jiný způsob jmenování nebo odvolání svěřenského správce.
+> (2) Na návrh osoby, která na tom má právní zájem, jmenuje svěřenského správce soud, nejmenuje-li jej k tomu oprávněná osoba v přiměřené době nebo nelze-li jej ustavit podle odstavce 1.
+
+**§ 1456**:
+> Svěřenskému správci náleží plná správa majetku ve svěřenském fondu. Do veřejného seznamu nebo do jiné evidence se svěřenský správce zapíše jako vlastník majetku ve svěřenském fondu s poznámkou „svěřenský správce“.
+
 **§ 1453 — Svěřenský správce**:
 - FO: svéprávný člověk (každý);
 - PO: jen pokud **stanoví zákon** (typicky banky, investiční společnosti — zákon č. 240/2013 Sb. o investičních společnostech a investičních fondech umožňuje statut svěřenského správce některým subjektům).
@@ -2128,6 +2193,17 @@ Zanikne-li právo na plody/užitky a statut neurčuje dalšího obmyšleného, p
 
 ### Pododdíl 4 — Dohled (§ 1463—1467)
 
+**§ 1463**:
+> (1) Dohled nad správou svěřenského fondu vykonává zakladatel a osoba označená za obmyšleného, popřípadě další osoby, určí-li tak statut.
+> (2) V případech stanovených zákonem dohlíží na správu svěřenského fondu jiná osoba nebo skupina osob, anebo orgán veřejné moci.
+
+**§ 1464**:
+> Je-li svěřenský fond zřízen ve prospěch obmyšleného, který v den vzniku fondu ještě není, nebo kterého v den vzniku fondu nelze určit, jmenuje zakladatel osobu oprávněnou dohlížet na správu svěřenského fondu v zájmu obmyšleného. Není-li to možné, nebo je-li zakladatel nečinný, jmenuje takovou osobu soud na návrh správce nebo toho, kdo na tom má zájem.
+
+**§ 1465**:
+> (1) Svěřenský správce bez zbytečného odkladu doručí tomu, kdo má právo dohledu nad správou svěřenského fondu podle zákona, oznámení, v němž uvede alespoň označení, účel a dobu trvání svěřenského fondu a své jméno a adresu. Oznámení není třeba, jsou-li tyto skutečnosti osobě oprávněné k dohledu již známy.
+> (2) Na žádost toho, kdo má právo dohledu nad správou svěřenského fondu, umožní svěřenský správce kontrolu dokladů o svěřenském fondu a předloží mu vyžádané vyúčtování, zprávu nebo jinou informaci.
+
 **§ 1463 — Dohled vykonává**:
 - **Zakladatel** + **obmyšlený** (primárně);
 - Další osoby dle statutu;
@@ -2239,6 +2315,12 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 ---
 
 ### Pododdíl 5 — Změny svěřenského fondu (§ 1468—1470)
+
+**§ 1468**:
+> Kdo zvýší majetek svěřenského fondu smlouvou nebo pořízením pro případ smrti, není jeho zakladatelem. Majetek takto nabytý podléhá správě podle statutu a zákona.
+
+**§ 1470**:
+> Před rozhodnutím podle § 1469 si soud vyžádá stanovisko zakladatele nebo jeho právního nástupce, svěřenského správce, obmyšleného a toho, komu nad správou svěřenského fondu náleží dohled, pokud nejsou navrhovateli.
 
 **§ 1468 — Zvýšení majetku**: kdo přispěje (smlouvou/závětí) **není zakladatelem**; přidaný majetek podléhá statutu.
 

@@ -977,6 +977,31 @@ Vůči nezpůsobilému dítěti postačí jednat s jedním rodičem, avšak je-l
 
 ### Péče o dítě a jeho ochrana (§ 880—886)
 
+**§ 880**:
+> (1) Rodičovskou odpovědnost týkající se osoby dítěte vykonávají rodiče způsobem a v míře odpovídající stupni vývoje dítěte.
+> (2) Rozhodují-li rodiče o vzdělání nebo o pracovním uplatnění dítěte, vezmou v úvahu jeho názor, schopnosti a nadání.
+
+**§ 881**:
+> Péči o dítě a jeho ochranu, výkon jeho výchovy, popřípadě některých jejích stránek, nebo dohled nad dítětem mohou rodiče svěřit jiné osobě; dohoda rodičů s ní se nemusí dotknout trvání ani rozsahu rodičovské odpovědnosti.
+
+**§ 882**:
+> (1) Zadržuje-li jiná osoba dítě protiprávně, mají rodiče právo žádat, aby jim dítě předala; to platí i mezi rodiči navzájem. Toto právo má i ten, kdo o dítě oprávněně pečuje.
+> (2) Osoba, která dítě protiprávně zadržuje, má povinnost jej řádně předat tomu, kdo má dítě po právu v péči.
+
+**§ 883**:
+> Rodiče a dítě si jsou povinni pomocí, podporou a ohledem na svou důstojnost.
+
+**§ 884**:
+> (1) Rodiče mají rozhodující úlohu ve výchově dítěte. Rodiče mají být všestranně příkladem svým dětem, zejména pokud se jedná o způsob života a chování v rodině.
+> (2) Výchovné prostředky lze použít pouze v podobě a míře, která je přiměřená okolnostem, neohrožuje zdraví dítěte ani jeho rozvoj a nedotýká se lidské důstojnosti dítěte. Platí, že lidské důstojnosti dítěte se dotýká tělesné trestání, působení duševního strádání nebo jiné ponižující opatření.
+
+**§ 885**:
+> Na péči o dítě a jeho výchově se podílí i manžel nebo partner rodiče dítěte, žije-li s dítětem v rodinné domácnosti. To platí i pro toho, kdo s rodičem dítěte žije, aniž s ním uzavřel manželství nebo registrované partnerství, žije-li s dítětem v rodinné domácnosti.
+
+**§ 886**:
+> (1) Žije-li dítě s rodiči nebo s některým z nich v rodinné domácnosti a je-li o ně řádně pečováno, podílí se i ono na péči o chod domácnosti. Tato povinnost dítěte zaniká zároveň s poskytováním výživy rodičů dítěti.
+> (2) Dítě se podílí na péči o chod rodinné domácnosti vlastní prací, popřípadě peněžitými příspěvky, má-li vlastní příjem, anebo oběma způsoby. Pro určení rozsahu podílu dítěte na péči o chod rodinné domácnosti jsou rozhodné schopnosti a možnosti dítěte i odůvodněné potřeby členů rodiny.
+
 **§ 880**: výkon přiměřený **stupni vývoje** dítěte; při volbě vzdělání/práce vzít v úvahu **názor, schopnosti, nadání** dítěte.
 
 **§ 881 — Svěření péče jiné osobě**: rodiče mohou svěřit péči/výchovu/dohled jiné osobě. **Nedotýká se rodičovské odpovědnosti** (zůstává rodičům).
@@ -1033,6 +1058,23 @@ Rodiče mají při výchově rozhodující úlohu a mají být příkladem, jeji
 
 ### Výkon styku, oddělené žití (§ 887—891)
 
+**§ 887**:
+> Výkon práva rodičů udržovat osobní styk s dítětem nemohou rodiče svěřit jiné osobě.
+
+**§ 888**:
+> (1) Dítě má právo na rovnocennou péči obou rodičů, stejně jako rodiče mají právo na rovnocennou péči o své dítě.
+> (2) Nežijí-li rodiče dítěte spolu, je rodič povinen dítě na péči druhého rodiče řádně připravit, péči druhého rodiče o dítě řádně umožnit a při výkonu práva o dítě pečovat v potřebném rozsahu s druhým rodičem spolupracovat.
+
+**§ 889**:
+> (1) Nežijí-li rodiče dítěte spolu, musí se zdržet všeho, co narušuje vztah dítěte ke druhému rodiči nebo co výchovu dítěte ztěžuje.
+> (2) Brání-li rodič bezdůvodně trvale či opakovaně druhému rodiči v péči o dítě, je takové chování důvodem pro nové rozhodnutí soudu o úpravě poměrů dítěte.
+
+**§ 890**:
+> Rodiče jsou povinni si vzájemně sdělit vše podstatné, co se týká dítěte a jeho zájmů.
+
+**§ 891**:
+> Nežijí-li rodiče dítěte spolu, má po dobu, kdy rodič o dítě pečuje, druhý rodič právo na nepřímý styk s dítětem a právo na informace o dítěti v přiměřeném rozsahu; ustanovení § 888 odst. 2 a § 889 odst. 1 se použijí obdobně.
+
 **§ 887**: výkon **osobního styku NELZE svěřit jiné osobě** (osobně vázané právo).
 
 **§ 888 — Rovnocenná péče**: dítě má právo na **rovnocennou péči obou rodičů**. Při odděleném žití:
@@ -1085,6 +1127,22 @@ Při odděleném žití má dítě právo na rovnocennou péči obou rodičů; p
 **Typicky rozhodné důkazy / podklady:** komunikace rodičů, záznamy o zmařených předáních, zprávy školy a OSPOD, lékařské doklady k tvrzeným překážkám, vyjádření dítěte.
 
 ### Zastoupení dítěte (§ 892—895)
+
+**§ 892**:
+> (1) Rodiče mají povinnost a právo zastupovat dítě při právních jednáních, ke kterým není právně způsobilé.
+> (2) Rodiče zastupují dítě společně, jednat však může každý z nich; ustanovení § 876 odst. 3 platí obdobně.
+> (3) Rodič nemůže dítě zastoupit, jestliže by mohlo dojít ke střetu zájmů mezi ním a dítětem nebo mezi dětmi týchž rodičů. V takovém případě jmenuje soud dítěti opatrovníka.
+
+**§ 893**:
+> Nedohodnou-li se rodiče, který z nich dítě při právním jednání zastoupí, rozhodne soud na návrh rodiče, který z rodičů bude za dítě právně jednat a jakým způsobem.
+
+**§ 894**:
+> (1) Rodiče jako zákonní zástupci mohou pro vyřízení záležitosti dítěte, nejedná-li se o záležitost osobního stavu, uzavřít smlouvu o zastoupení osobou s odbornými znalostmi, popřípadě i jinou vhodnou osobou.
+> (2) Uzavře-li dítě smlouvu o zastoupení, nemá to vliv na zákonné zastoupení dítěte rodiči.
+> (3) Nedojde-li mezi zákonným a smluvním zástupcem k dohodě, rozhodne soud v souladu se zájmy dítěte.
+
+**§ 895**:
+> Došlo-li k popření otcovství, právní jednání učiněná otcem jako zákonným zástupcem zůstávají nedotčena.
 
 **§ 892**: rodiče **povinnost a právo** zastupovat dítě. Default **společně**; jedná **každý** (§ 876 odst. 3 — domněnka souhlasu).
 
@@ -1195,6 +1253,11 @@ Rodiče spravují jmění dítěte jako řádní hospodáři a s prostředky, je
 
 **Typicky rozhodné důkazy / podklady:** doklady o nabytí a stavu jmění, výpisy o investicích a převodech, znalecké ocenění škody, vyúčtování správy.
 
+**Doslovné znění § 897:**
+
+**§ 897**:
+> Nedohodnou-li se rodiče o podstatných věcech při péči o jmění dítěte, rozhodne na návrh rodiče soud.
+
 #### § 898 — KLÍČOVÉ — Souhlas soudu k některým úkonům
 
 > (1) K právnímu jednání, které se týká existujícího i budoucího jmění dítěte nebo jednotlivé součásti tohoto jmění, potřebují rodiče souhlas soudu, ledaže se jedná o běžné záležitosti, nebo o záležitosti sice výjimečné, ale týkající se zanedbatelné majetkové hodnoty.
@@ -1283,6 +1346,10 @@ Rodiče spravují jmění dítěte jako řádní hospodáři a s prostředky, je
 >
 > (2) Vznikly-li rodičům při správě jmění dítěte nebo v souvislosti s ní náklady, mohou požadovat jejich náhradu.
 
+**§ 899a**:
+> (1) Splnění peněžitého dluhu z právního jednání nezletilého, který nenabyl plné svéprávnosti, lze vymoci pouze z majetku, který nezletilý nabyl před nabytím plné svéprávnosti, a majetku, který nabyl právním jednáním vztahujícím se výlučně k majetku nabytému před nabytím plné svéprávnosti; to neplatí pro peněžitý dluh vzniklý při výdělečné činnosti podle § 33.
+> (2) Za peněžitý dluh dítěte, který vznikl z právního jednání učiněného před nabytím plné svéprávnosti, ručí rodič, který za dítě jednal nebo mu k právnímu jednání udělil souhlas; tím není dotčen § 876 odst. 3. Ručitel nemůže vymáhat po dlužníkovi vyrovnání tohoto dluhu.
+
 **§ 899**: co rodiče získají z majetku dítěte — **nabývá dítě** (zákaz osobního obohacení rodičů z majetku dítěte).
 
 **§ 899a — Vymáhání dluhu nezletilého**:
@@ -1347,6 +1414,19 @@ Plody a užitky z majetku dítěte patří dítěti a slouží primárně jeho v
 - [ ] Nenastal konkurs rodiče / ohrožení jmění? (opatrovník — § 901, § 905)
 
 **Typicky rozhodné důkazy / podklady:** smlouvy a doklady o vzniku dluhu, přehled nabytí a stavu majetku dítěte, doklady o správě a vyúčtování, případné rozhodnutí o souhlasu soudu (§ 898).
+
+**Doslovná znění § 903 až 905:**
+
+**§ 903**:
+> (1) Byla-li správa jmění značně obtížná, zejména pro rozsáhlost či rozmanitost majetkového souboru, a rodiče správu jmění řádně vykonávali, mohou poté, co odevzdají spravované jmění svému dítěti, žádat přiměřenou odměnu, umožňuje-li to výnos jmění.
+> (2) Je-li již během trvání správy jmění z okolností zřejmé, že správa je značně obtížná a rodiče ji vykonávají řádně, soud jim na návrh přizná přiměřenou roční, popřípadě jinak časově určenou odměnu za správu jmění.
+
+**§ 904**:
+> Předání a převzetí jmění nemá vliv na odpovědnost rodičů za správu jmění dítěte.
+
+**§ 905**:
+> (1) Soud jmenuje i bez návrhu opatrovníka pro správu jmění dítěte, jestliže by zájmy dítěte mohly být ohroženy, zejména jsou-li tu společná majetková práva rodičů a dítěte nebo dítěte a jeho sourozence. V rozsahu povinností a práv opatrovníka pro správu jmění dítěte jsou rodiče ve výkonu povinností a práv ve vztahu ke jmění dítěte omezeni.
+> (2) Pro povinnosti a práva opatrovníka pro správu jmění dítěte, který byl jmenován vedle rodičů, se použijí obdobně ustanovení o poručníkovi, který spravuje jmění poručence, popřípadě o opatrovníkovi, který spravuje jmění opatrovance.
 
 ### Výkon po rozvodu (§ 906—909)
 
@@ -1762,6 +1842,13 @@ Otec poskytne neprovdané matce výživu po dobu dvou let od narození dítěte 
 > (2) Dojde-li ke zrušení nebo snížení výživného za minulou dobu pro nezletilé dítě, které nenabylo plné svéprávnosti, spotřebované výživné se nevrací. V rozsahu, v jakém se spotřebované výživné nevrací, se přiměřeně sníží dávka výživného splatná v budoucnu. Nevrací se ani dávka výživného, která na takové dítě byla splněna na měsíc dopředu, ale dítě před uplynutím měsíce zemřelo.
 
 >
+
+**§ 921a**:
+> (1) Splatnou peněžitou pohledávku výživného, o kterém rozhodl soud, lze za úplatu postoupit. Úplata se poskytuje pouze bezhotovostním převodem na účet u poskytovatele platebních služeb; k jinému ujednání se nepřihlíží. Postupník nabývá pohledávku teprve úplným poskytnutím úplaty.
+> (2) Postupitel neručí postupníkovi za dobytnost pohledávky. Jde-li o pohledávku výživného pro nezletilé dítě, které nenabylo plné svéprávnosti, neodpovídá postupitel postupníkovi ani za to, že pohledávka v době postoupení trvala, mohl-li postupník vědět, že je pohledávka nejistá nebo nedobytná. K ujednání odchylujícímu se od ustanovení věty první nebo druhé v neprospěch postupitele se nepřihlíží.
+> (3) Ustanovení tohoto zákona omezující nakládání s pohledávkou výživného se na postoupenou pohledávku nepoužijí. Dlužník však nesmí vůči postupníkovi namítat své vzájemné pohledávky vůči postupiteli. Pohledávka výživného, která byla postoupena, smrtí oprávněné osoby nezaniká.
+> (4) Ustanovení odstavce 1 vět druhé a třetí a odstavce 2 se nepoužijí na další postoupení pohledávky.
+
 **§ 921 — Splatnost**:
 - V **pravidelných dávkách**;
 - **Měsíc dopředu** (default);
@@ -1992,6 +2079,9 @@ Byla-li péče o dítě svěřena soudem jiné osobě než rodiči a rodič s to
 ## Oddíl 5 — Vztahy mezi dítětem a jinými příbuznými (§ 927)
 
 ### § 927 — Právo styku jiných osob
+
+**§ 927**:
+> Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce či vzdáleně, jakož i osoby dítěti společensky blízké, pokud k nim dítě má citový vztah, který není jen přechodný, a pokud je zřejmé, že by nedostatek styku s těmito osobami pro dítě znamenal újmu. Také dítě má právo se stýkat s těmito osobami, pokud tyto osoby se stykem souhlasí.
 
 Právo stýkat se s dítětem mají osoby příbuzné s dítětem, ať blízce či vzdáleně, jakož i osoby dítěti společensky blízké, pokud k nim dítě má citový vztah, který není jen přechodný, a pokud je zřejmé, že by nedostatek styku s těmito osobami pro dítě znamenal újmu. Také dítě má právo se stýkat s těmito osobami, pokud tyto osoby se stykem souhlasí.
 

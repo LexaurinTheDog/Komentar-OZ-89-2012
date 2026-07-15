@@ -2622,6 +2622,9 @@ Opatrovník PO má práva a povinnosti obdobně jako člen statutárního orgán
 
 #### § 488 — Předjmenování opatrovníka
 
+**§ 488**:
+> Určuje-li zakladatelské právní jednání, že má být právnické osobě jako opatrovník jmenována určitá osoba, soud takovou osobu opatrovníkem jmenuje, pokud je k tomu způsobilá a souhlasí se jmenováním.
+
 Pokud **zakladatelské jednání** určuje konkrétní osobu jako opatrovníka, soud takovou osobu **jmenuje** (pokud je způsobilá a souhlasí). Toto je analogie k předběžnému prohlášení (§ 38) pro PO.
 
 **Judikatura (z místních zdrojů):**

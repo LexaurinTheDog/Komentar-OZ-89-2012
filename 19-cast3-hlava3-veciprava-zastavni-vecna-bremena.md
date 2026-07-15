@@ -1590,6 +1590,11 @@ U užívacího práva nese údržbu primárně vlastník, avšak jen do výše u
 
 **Typicky rozhodné důkazy / podklady:** zřizovací smlouva, vyúčtování nákladů údržby a oprav, znalecké vyčíslení užitků a poměru nákladů a užitku.
 
+**Doslovné znění § 1285:**
+
+**§ 1285**:
+> Služebností požívacího práva se poživateli poskytuje právo užívat cizí věc a brát z ní plody a užitky; poživatel má právo i na mimořádný výnos z věci. Při výkonu těchto práv je poživatel povinen šetřit podstatu věci.
+
 ### § 1285—1296 — Požívací právo (ususfructus)
 
 **§ 1285**:
@@ -1700,6 +1705,9 @@ Požívací právo dává poživateli plný užitkový profit z věci, ale zavaz
 
 **§ 1297**:
 > Je-li zřízena služebnost bytu, má se za to, že byla zřízena jako služebnost užívání.
+
+**§ 1298**:
+> Vlastníku náleží právo volně nakládat se všemi částmi domu, na které se služebnost bytu nevztahuje, a nesmí mu být znesnadněn potřebný dohled.
 
 **Domněnka**: služebnost bytu = **užívací právo** (užší), ne požívací. Pokud strany chtějí požívací (možnost pronájmu, plody), **musí to výslovně ujednat**.
 
@@ -2860,6 +2868,29 @@ Cizí věc lze zastavit jen se souhlasem vlastníka; výjimkou je dobrá víra v
 
 ### Pododdíl 3 — Rozsah zástavního práva (§ 1346—1352)
 
+**§ 1346**:
+> (1) Zástavní právo se vztahuje na zástavu, na její přírůstek i příslušenství, ledaže zástavní smlouva určí něco jiného. Z plodů a užitků se zástavní právo vztahuje jen na ty, které nejsou odděleny.
+> (2) Je-li zastavena pohledávka, náleží zástavnímu věřiteli i každé právo, které pohledávku zajišťuje.
+
+**§ 1347**:
+> Při zastavení hromadné věci se zástavní právo vztahuje na zástavcovy jednotlivé věci náležející k zástavě a jí sloužící, ať jsou kdekoli. Zástavní právo se vztahuje na každou jednotlivou věc, která k hromadné věci přibude, a zanikne ke každé jednotlivé věci, která se od hromadné věci odloučí.
+
+**§ 1348**:
+> Ujedná-li se za trvání zástavního práva k hromadné věci samostatné zástavní právo k jednotlivé věci, která náleží k zástavě, zástavní právo nevznikne. Vzniklo-li k jednotlivé věci zástavní právo dříve, než k hromadné věci přibyla, nebo než byla hromadná věc zastavena, použijí se ustanovení o pořadí zástavního práva.
+
+**§ 1349**:
+> Na trvání a rozsah zástavního práva k cennému papíru nemá vliv ani výměna zastaveného cenného papíru emitentem zástavnímu dlužníkovi za jiný cenný papír, ani přeměna cenného papíru na zaknihovaný cenný papír nebo přeměna zaknihovaného cenného papíru na cenný papír. Vzejde-li z výměny nebo přeměny cenný papír na řad, opatří ho zástavním rubopisem emitent před vydáním cenného papíru osobě oprávněné mít cenný papír u sebe.
+
+**§ 1350**:
+> (1) Přemění-li se zástava v novou věc, zatíží zástavní právo i věc novou.
+> (2) Spojí-li se zástava s jinou věcí, má zástavní věřitel právo na obnovení předešlého stavu na náklady zástavního dlužníka. Není-li to možné, zatíží zástavní právo celou věc, avšak jen do hodnoty zástavy v době spojení. Byla-li zástava oceněna, má se za to, že cenu zástavy určuje výše ocenění.
+
+**§ 1351**:
+> Při rozdělení zastavené věci zatíží zástavní právo všechny věci vzniklé rozdělením.
+
+**§ 1352**:
+> Spojí-li se dvě zástavy, hledí se na to pro účely zástavního práva, jako by ke spojení nedošlo; to neplatí, pokud spojené zástavy zajišťují splnění téhož dluhu.
+
 **Co zástava zahrnuje**:
 
 **§ 1346** — **Zástava + přírůstek + příslušenství** (dispozitivně); **oddělené plody/užitky** → mimo zástavu. **Zástava pohledávky** → i zajišťovací práva (např. ručení).
@@ -2879,6 +2910,26 @@ Cizí věc lze zastavit jen se souhlasem vlastníka; výjimkou je dobrá víra v
 ---
 
 ### Pododdíl 4 — Práva a povinnosti (§ 1353—1358)
+
+**§ 1353**:
+> Zástavní dlužník se zdrží všeho, čím se zástava zhoršuje na úkor zástavního věřitele. Stane-li se činem zástavního dlužníka dostatečná jistota zástavního věřitele nedostatečnou nebo sníží-li se nedostatečná jistota, zástavní dlužník ji přiměřeně doplní.
+
+**§ 1354**:
+> (1) Je-li zástava pojištěna a nastane-li pojistná událost, plní pojišťovna z pojistné smlouvy zástavnímu věřiteli, prokáže-li zástavní věřitel pojišťovně včas, že na věci vázne jeho zástavní právo, anebo oznámí-li jí to včas zástavce nebo zástavní dlužník.
+> (2) Zástavní věřitel má právo zadržet plnění z pojistné smlouvy a uspokojit se z něho, nebude-li jeho pohledávka řádně a včas splněna, ledaže je ujednáno jinak. Co převyšuje pohledávku včetně příslušenství a nákladů, na jejichž náhradu má zástavní věřitel právo, vydá zástavní věřitel zástavnímu dlužníkovi.
+
+**§ 1355**:
+> Je-li zástava přenechána k užívání jinému bez souhlasu zástavního věřitele, nemá to vůči zástavnímu věřiteli právní účinky. To neplatí, ujednají-li strany, že souhlasu není třeba.
+
+**§ 1356**:
+> (1) Zástavní věřitel, jemuž byla zástava odevzdána, je oprávněn ji mít u sebe po celou dobu trvání zástavního práva. Je povinen pečovat o ni jako řádný hospodář a má proti zástavci právo na náhradu nákladů s tím spojených jako poctivý držitel.
+> (2) Zástavní věřitel může zástavu užívat jen se souhlasem zástavního dlužníka a způsobem pro zástavního dlužníka neškodným; je-li zástavní věřitel v dobré víře, že zástavce je zástavním dlužníkem, postačí souhlas zástavce. Není-li jiného ujednání, započte se prospěch ze zástavy na náhradu nákladů podle odstavce 1.
+
+**§ 1357**:
+> Byla-li zastavená věc odevzdána třetí osobě k opatrování, tato osoba nesmí zástavu užívat nebo umožnit její užití jinému, ani ji odevzdat jiné osobě; učiní-li tak, odpovídá i za náhodu, která by zástavu u ní nebyla postihla.
+
+**§ 1358**:
+> Změní-li se podstatná skutečnost zapsaná o zástavním právu v rejstříku zástav nebo ve veřejném seznamu a neukládá-li jiný právní předpis povinnost požádat o provedení změny zápisu jiné osobě, požádá provedení změny zápisu bez zbytečného odkladu ten, koho se změna týká; nelze-li ho určit, požádá o provedení změny zápisu zástavní věřitel. Má-li tuto povinnost více osob, postačí, splní-li ji alespoň jedna z nich.
 
 - **§ 1353 — Zákaz zhoršování** zástavy; **doplnění jistoty** při snížení;
 - **§ 1354 — Pojistné plnění** ze zástavy přechází na věřitele (možno zadržet a uspokojit se z něj); nadbytek → dlužníku;
@@ -2962,6 +3013,11 @@ Po splatnosti dluhu má věřitel na výběr: písemně ujednaný způsob, jinak
 - [ ] U veřejné dražby dodržet režim zák. č. 26/2000 Sb.; u burzovních CP prodej za tržní cenu.
 
 **Typicky rozhodné důkazy / podklady:** zástavní smlouva s ujednáním o zpeněžení, doklad o splatnosti, výpis z katastru/evidence, doklady o nákladech výkonu, dražební dokumentace.
+
+**Doslovné znění § 1360:**
+
+**§ 1360**:
+> Bylo-li ujednáno, že zástavní věřitel může zástavu prodat jiným způsobem než ve veřejné dražbě, zavazuje to i právního nástupce zástavního dlužníka. Zástavní dlužník upozorní při převodu zástavy nabyvatele na věřitelovo právo prodat zástavu takovým způsobem.
 
 ### § 1361—1364 — Procesní postup
 
@@ -3145,6 +3201,29 @@ Z výtěžku se uspokojí pohledávka, příslušenství a doložené náklady; 
 ---
 
 ### Pododdíl 6 — Více věřitelů (§ 1371—1375)
+
+**§ 1371**:
+> (1) Vázne-li na zástavě více zástavních práv, stanoví se jejich pořadí podle doby vzniku zástavního práva. Má-li být vznik zástavního práva zapsán ve veřejném seznamu, rozhoduje pro pořadí okamžik podání návrhu na provedení zápisu.
+> (2) Je-li zástavou věc, k níž má zástavci vzniknout vlastnické právo teprve v budoucnu, stanoví se pořadí zástavních práv podle doby uzavření zástavní smlouvy; zapisuje-li se budoucí zástavní právo do rejstříku zástav nebo do veřejného seznamu, rozhoduje pořadí, v němž byly návrhy na provedení zápisu podány.
+> (3) Vázne-li na movité věci více zástavních práv, uspokojí se právo zástavního věřitele zapsané v rejstříku zástav nebo ve veřejném seznamu podle pořadí zápisu přednostně před právem vzniklým jiným způsobem. Právo vzniklé odevzdáním zástavy zástavnímu věřiteli nebo třetí osobě se uspokojí přednostně před právem vzniklým označením věci znamením.
+
+**§ 1372**:
+> (1) Vznikne-li na zástavě více zástavních práv, mohou si zástavní věřitelé v písemné formě ujednat jejich pořadí. Ujednání je vůči třetím osobám účinné od zápisu do rejstříku zástav, nebo do veřejného seznamu, vyžaduje-li se ke vzniku zástavního práva zápis do takového seznamu. Provedení zápisu navrhnou společně všichni zástavní věřitelé, kteří si pořadí zástavních práv ujednali.
+> (2) Mají-li být ujednáním zkrácena práva zástavního věřitele, který na ujednání nepřistoupil, nemá to vůči němu právní účinky.
+
+**§ 1373**:
+> (1) Zástavní věřitel oznámí započetí s výkonem zástavního práva také těm zástavním věřitelům, kterým náleží právo na uspokojení v pořadí předcházejícím jeho pořadí. Ustanovení § 1362 platí obdobně.
+> (2) Zástavní věřitel může zpeněžit zástavu nejdříve po uplynutí třiceti dnů od oznámení všem zástavním věřitelům podle odstavce 1. To neplatí, oznámí-li mu v této lhůtě zástavní věřitel, kterému náleží právo na uspokojení v pořadí předcházejícím jeho pořadí, že sám započíná s výkonem svého zástavního práva; nezapočne-li tento věřitel s výkonem svého zástavního práva bez zbytečného odkladu, k jeho oznámení se nepřihlíží.
+
+**§ 1374**:
+> (1) Vykoná-li zástavní věřitel zástavní právo, které je první v pořadí rozhodném pro uspokojení zástavních práv (dále jen „přednostní zástavní věřitel“), přechází zástava na nabyvatele nezatížená dalšími zástavními právy.
+> (2) Převyšuje-li výtěžek z prodeje zástavy pohledávku včetně příslušenství a nákladů, na jejichž náhradu má právo, uloží přednostní zástavní věřitel přebytek do soudní úschovy ve prospěch věřitelů ostatních pohledávek, kterým svědčí zástavní právo, a zástavního dlužníka, nedohodne-li se s nimi jinak.
+> (3) Z přebytku budou věřitelé ostatních pohledávek, kterým svědčí zástavní právo, uspokojeni podle pořadí rozhodujícího pro uspokojení zástavních práv. Co zbude, vydá se zástavnímu dlužníkovi.
+
+**§ 1375**:
+> (1) Vykoná-li zástavní právo jiný zástavní věřitel než přednostní, přechází na nabyvatele zástava zatížená zástavními právy těch zástavních věřitelů, jejichž právo na uspokojení předchází jeho pořadí. O přechodu zástavy včetně zatížení tento zástavní věřitel nabyvatele zástavy včas poučí.
+> (2) Zástavní věřitel, který vykonává své zástavní právo, a nabyvatel zástavy zajistí zápis změny v osobě zástavního dlužníka v rejstříku zástav nebo ve veřejném seznamu, vyžaduje-li se takový zápis ke vzniku zástavního práva, jinak škodu tím způsobenou nahradí.
+> (3) O právech zástavních věřitelů, jejichž právo na uspokojení následuje po pořadí věřitele, který vykonává zástavní právo podle odstavce 1, platí obdobně § 1374.
 
 **Pořadí** je klíč k uspokojení při více zástavách na jedné věci.
 
@@ -3330,6 +3409,21 @@ Po zániku zástavy je přetrvávající zápis závadou (§ 1378). Věřitel mu
 
 ### Pododdíl 8 — Uvolnění zástavy (§ 1380—1384)
 
+**§ 1380**:
+> Uvolní-li se zástava zánikem zástavního práva a není-li ve veřejném seznamu zápis o zástavním právu ještě vymazán, považuje se zástavní právo za uvolněné a vlastník věci může spojit uvolněné zástavní právo s jiným dluhem, který nepřevyšuje původní dluh.
+
+**§ 1381**:
+> Požádá-li o to vlastník, zapíše se do veřejného seznamu, že je zástavní právo uvolněné a že zajištění původního dluhu pominulo, prokáže-li zánik zástavního práva listinou potvrzenou zástavním věřitelem nebo rozhodnutím soudu nebo jinou veřejnou listinou. Nezajistí-li vlastník uvolněným zástavním právem jiný dluh do deseti let od zápisu uvolnění zástavního práva, jeho právo učinit tak zaniká.
+
+**§ 1382**:
+> Bylo-li do veřejného seznamu zapsáno uvolnění zástavního práva, lze je před uplynutím deseti let vymazat jen společně se zástavním právem.
+
+**§ 1383**:
+> Nezajistil-li vlastník uvolněným zástavním právem nový dluh, nepřihlíží se po zpeněžení zástavy k uvolněnému zástavnímu právu při rozdělení výtěžku.
+
+**§ 1384**:
+> Zaváže-li se vlastník při zřízení zástavního práva nebo později, že zástavním právem zapsaným ve výhodnějším pořadí nezajistí nový dluh, a bude-li to ve veřejném seznamu zapsáno, nelze uvolněným zástavním právem zajistit nový dluh, dokud trvá zástavní právo pro věřitele, v jehož prospěch se vlastník zavázal.
+
 **Institut „uvolněného zástavního práva"** je převzat z německé a rakouské tradice (*freie Pfandstelle*) — umožňuje **dispozici s pořadím** zástavy po zániku.
 
 **§ 1380** — Pokud zástavní právo zaniklo, ale **zápis nebyl ještě vymazán**, **vlastník** může **spojit uvolněné pořadí s jiným dluhem**, pokud nepřevyšuje původní dluh.
@@ -3344,6 +3438,21 @@ Po zániku zástavy je přetrvávající zápis závadou (§ 1378). Věřitel mu
 
 ### Pododdíl 9 — Záměna (§ 1385—1389)
 
+**§ 1385**:
+> Bylo-li zástavní právo zapsáno do veřejného seznamu, může vlastník věci žádat, aby v pořadí zástavního práva váznoucího na věci a k zajištění dluhu, který nepřevyšuje původní dluh, bylo zapsáno zástavní právo pod podmínkou, že do roka po zápisu nového zástavního práva bude staré zástavní právo vymazáno.
+
+**§ 1386**:
+> O výmaz starého zástavního práva může žádat vlastník věcí nebo věřitel, v jehož prospěch má být nové zástavní právo zřízeno. Neučiní-li tak s úspěchem do roka, zanikne nové zástavní právo uplynutím této doby. Příslušný orgán veřejné moci nové zástavní právo vymaže i bez návrhu spolu se všemi zápisy, které se k němu vztahují.
+
+**§ 1387**:
+> Vázne-li na starém zástavním právu jiné právo nebo omezení zapsané ve veřejném seznamu, lze nové zástavní právo do tohoto seznamu zapsat pod podmínkou, že závada bude vymazána, nebo se souhlasem stran převedena na zástavní právo nové.
+
+**§ 1388**:
+> Zaváže-li se vlastník při zřízení zástavního práva nebo později, že neumožní zápis nového zástavního práva namísto starého, a bude-li to ve veřejném seznamu zapsáno, nelze staré zástavní právo v nové přeměnit.
+
+**§ 1389**:
+> Má-li být nové zástavní právo zapsáno namísto několika zástavních práv zapsaných v pořadí přímo za sebou, použijí se ustanovení tohoto pododdílu přiměřeně.
+
 **Záměna zástavního práva** (*Pfandrechtstausch*) — nahrazení starého zástavního práva novým **v jeho pořadí**:
 
 - **§ 1385** — Nové zástavní právo se zapíše **v pořadí starého** pod podmínkou, že **do 1 roku** bude staré vymazáno;
@@ -3357,6 +3466,24 @@ Po zániku zástavy je přetrvávající zápis závadou (§ 1378). Věřitel mu
 ---
 
 ### Pododdíl 10 — Podzástavní právo (§ 1390—1394)
+
+**§ 1390**:
+> Podzástavní právo vzniká zastavením pohledávky, které svědčí zástavní právo.
+
+**§ 1391**:
+> (1) Souhlas zástavního dlužníka není k zastavení pohledávky potřebný. Podzástavní právo vůči němu nabývá účinků,
+>     - a) bylo-li mu doručeno oznámení o jeho vzniku, nebo
+>     - b) je-li zástavou věc, k níž vzniká zástavní právo zápisem do rejstříku zástav nebo zvláštního veřejného seznamu, zápisem do tohoto seznamu; tímto zápisem podzástavní právo vzniká.
+> (2) Oznámení podle odstavce 1 může učinit podzástavce, nebo podzástavní věřitel; ten však musí vznik podzástavního práva podzástavnímu dlužníkovi prokázat.
+
+**§ 1392**:
+> Podzástavce se nezbaví povinností podle § 1353 předáním věci podzástavnímu věřiteli.
+
+**§ 1393**:
+> Podzástavní věřitel se může domáhat uspokojení z podzástavy místo podzástavce, jakmile je dluh zajištěný podzástavním právem splatný.
+
+**§ 1394**:
+> Na podzástavní právo se přiměřeně použijí ustanovení o právu zástavním.
 
 **Podzástavní právo** (*Afterpfand*) — **zastavení pohledávky, která je sama zajištěna zástavou**:
 - **§ 1390** — Vznik zastavením zajištěné pohledávky;

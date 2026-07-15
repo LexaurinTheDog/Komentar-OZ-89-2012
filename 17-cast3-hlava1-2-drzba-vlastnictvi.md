@@ -79,6 +79,11 @@ Ustanovení § 976 je výchozí kvalifikační normou: absolutní účinky (vů�
 
 **Typicky rozhodné důkazy / podklady:** smlouva zakládající tvrzené právo, výpis z katastru/veřejného seznamu ke dni převodu, doklady o vědomosti nabyvatele, znění zvláštního předpisu zakládajícího zákonnou výjimku.
 
+**Doslovné znění § 977:**
+
+**§ 977**:
+> Jen zákon stanoví, která práva k majetku jsou absolutní.
+
 ### § 978 — Omezená dispozitivnost vůči třetím osobám
 
 > Od ustanovení této části se lze odchýlit ujednáním s účinky vůči třetím osobám, jen připouští-li to zákon.
@@ -517,6 +522,11 @@ Držba se presumuje jako řádná, poctivá a pravá (§ 994); kdo to popírá, 
 - [ ] Kdy byla doručena žaloba napadající držbu (§ 995) a jak to ovlivňuje poctivost a vydržecí dobu?
 
 **Typicky rozhodné důkazy / podklady:** nabývací titul a geometrický plán, doklady o okolnostech ujetí držby a o přesvědčení držitele, listiny o trpění/výprose ze strany souseda, datum doručení žaloby.
+
+**Doslovné znění § 995:**
+
+**§ 995**:
+> Bylo-li vyhověno žalobě napadající držbu nebo její poctivost, považuje se poctivý držitel za nepoctivého nejpozději od okamžiku, kdy mu byla doručena žaloba. Náhoda, která by věc u vlastníka nebyla stihla, však jde k tíži držitele, jen když spor svévolně zdržel.
 
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
 
@@ -1407,6 +1417,59 @@ Nalezenou věc nelze bez dalšího pokládat za opuštěnou (§ 1051). Zkrocené
 
 **6. Varianty.** (a) U skryté (zakopané, zazděné) věci, kde nelze určit vlastníka, se nálezce a vlastník pozemku dohodnou, kdo si věc ponechá (s vyplacením 1/2 ceny), jinak připadne vlastníku pozemku (§ 1064); věděl-li vlastník o úkrytu, nálezné nepřísluší. (b) U zvířete v zájmovém chovu nabývá nálezce vlastnictví po 2 měsících, popř. po svěření útulku po 4 měsících (§ 1058—1059).
 
+**Doslovná znění § 1052 až 1065:**
+
+**§ 1052**:
+> (1) Ztracenou věc vrátí nálezce tomu, kdo ji ztratil, nebo vlastníkovi proti úhradě nutných nákladů a nálezného.
+> (2) Nelze-li z okolností poznat, komu má být věc vrácena, a nepovažuje-li se věc za opuštěnou, oznámí nálezce bez zbytečného odkladu nález obci, na jejímž území byla nalezena, zpravidla do tří dnů; byla-li však věc nalezena ve veřejné budově nebo ve veřejném dopravním prostředku, odevzdá nálezce nález provozovateli těchto zařízení, který se zachová podle jiných právních předpisů, a není-li jich, postupuje, jako by byl nálezcem.
+
+**§ 1053**:
+> (1) Obec vyhlásí nález obvyklým způsobem. Nepřihlásí-li se v přiměřené době ten, kdo věc ztratil a má-li věc značnou hodnotu, učiní obec vhodné opatření, aby nález vešel v širší známost.
+> (2) Zjistí-li obec sama vlastníka, zejména z nezaměnitelného označení věci, oznámí mu nález a vyzve ho, aby si věc převzal.
+
+**§ 1054**:
+> (1) Obec rozhodne, jak bude nalezená věc uschována. Souhlasí-li s tím nálezce či jiná osoba a je-li to vhodné, může obec rozhodnout, že věc bude uschována u této osoby. Věci značné hodnoty, zejména peníze o vyšší částce, obec odevzdá zpravidla do soudní úschovy nebo je uloží jiným vhodným způsobem.
+> (2) Věc, která se nedá uschovat bez patrné škody nebo kterou lze uschovat jen s nepoměrnými náklady, obec prodá ve veřejné dražbě a s výtěžkem naloží podle odstavce 1; předtím však odečte vlastní náklady s dosavadní správou věci. S neprodejnou věcí obec naloží libovolným způsobem; to neplatí, jde-li o věc, o níž nelze mít pochybnost o její výjimečnosti a hodnotě.
+
+**§ 1055**:
+> Věc nebo výtěžek za ni stržený vydá obec včetně plodů a užitků a po odečtení nákladů a nálezného tomu, kdo věc ztratil, nebo vlastníkovi, pokud se přihlásí do jednoho roku od vyhlášení nálezu.
+
+**§ 1056**:
+> (1) Nálezné náleží nálezci i tehdy, když lze vlastníka zřejmě poznat ze znamení na věci, nebo z jiných okolností.
+> (2) Nálezné činí desetinu ceny nálezu. Má-li však ztracená věc hodnotu jen pro toho, kdo ji ztratil, nebo pro jejího vlastníka, náleží nálezci nálezné podle slušného uvážení.
+
+**§ 1057**:
+> (1) Nepřihlásí-li se nikdo o věc do jednoho roku od vyhlášení nálezu, může nálezce, obec nebo jiná osoba, které byla věc svěřena, nakládat s věcí jako poctivý držitel. Spočívá-li však nález v penězích, mohou je tyto osoby jen užívat; to platí i o výtěžku za věc strženém.
+> (2) Přihlásí-li se ten, kdo věc ztratil, nebo její vlastník po uplynutí doby jednoho roku od vyhlášení nálezu a před uplynutím tří let od vyhlášení nálezu, vydá se mu věc nebo výtěžek za ni stržený po zaplacení nákladů a nálezného.
+> (3) Uplynou-li tři roky od vyhlášení nálezu, nabude nálezce, obec nebo jiná osoba, které byla věc svěřena, vlastnické právo k věci nebo k výtěžku za ni strženému.
+
+**§ 1058**:
+> (1) Je-li nalezeno zvíře, u něhož je zjevné, že mělo vlastníka, oznámí nálezce nález bez zbytečného odkladu obci, nelze-li z okolností poznat, komu má být vráceno.
+> (2) Osoba, která nalezené zvíře opatruje, o ně pečuje jako řádný hospodář, dokud se jej neujme vlastník.
+
+**§ 1059**:
+> (1) Je-li nalezeno zvíře zjevně určené k zájmovému chovu a nepřihlásí-li se o ně nikdo do dvou měsíců od vyhlášení nálezu, nabude k němu nálezce vlastnické právo.
+> (2) Prohlásí-li nálezce obci, že zvíře nabýt nechce, a svěří-li obec zvíře neodvolatelně osobě, která provozuje útulek pro zvířata, může tato osoba se zvířetem volně nakládat, pokud se o ně nikdo nepřihlásí do čtyř měsíců ode dne, kdy jí bylo zvíře svěřeno. Byl-li nález vyhlášen až po předání zvířete, počne lhůta běžet od vyhlášení nálezu.
+
+**§ 1060**:
+> Prohlásí-li nálezce obci, že nalezenou věc nabýt nechce, přechází jeho právo věc nebo výtěžek za ni stržený užívat a nabýt na obec, na jejímž území byla nalezena. Nabytím vlastnického práva vzniká obci povinnost zaplatit nálezci nálezné.
+
+**§ 1061**:
+> Nálezci, který nález neoznámí, přisvojí si jej nebo jinak poruší své povinnosti, nenáleží úhrada a nálezné, ani nemůže nález užívat nebo nabýt k němu vlastnické právo podle ustanovení tohoto zákona o nálezu. Tím není dotčena jeho povinnost nahradit škodu.
+
+**§ 1062**:
+> Nalezne-li nějakou věc několik osob zároveň, jsou oprávněny i zavázány společně a nerozdílně. Spolunálezcem je i ten, kdo věc spatřil a snažil se ji dosíci, třebaže se jí dříve uchopil někdo jiný.
+
+**§ 1063**:
+> O nálezu věci zakopané, zazděné nebo jinak skryté platí totéž, co o nálezu ztracené věci. Nálezci však nenáleží nálezné, když vlastník o úkrytu věci věděl.
+
+**§ 1064**:
+> (1) Není-li zřejmé, komu skrytá věc patří, oznámí nálezce její nalezení vlastníkovi pozemku a obci, na jejímž území byla nalezena; § 1062 platí obdobně.
+> (2) Nepřipadne-li skrytá věc podle jiných právních předpisů do vlastnictví státu, kraje nebo obce, ujedná si nálezce s vlastníkem pozemku, kdo z nich si věc ponechá a vyplatí druhému polovinu ceny věci. Neshodnou-li se, náleží věc vlastníku pozemku a ten nálezci zaplatí polovinu její ceny.
+
+**§ 1065**:
+> Osoba zjednaná k nalezení ztracené nebo skryté věci není nálezcem a náleží jí jen odměna za hledání, byla-li ujednána.
+
 #### G. Protiargumenty a rizika
 
 - *„Domníval jsem se, že je věc opuštěná":* námitka dobré víry. Neutralizace: § 1051 zakládá domněnku neopuštěnosti; u věci s doklady majitele je tvrzení opuštění zjevně neudržitelné.
@@ -1429,6 +1492,29 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 
 ### Pododdíl 2 — Přirozený přírůstek (§ 1066—1073)
 
+**§ 1066**:
+> Plody, které pozemek vydává sám od sebe, aniž je obděláván, náleží vlastníkovi pozemku. Totéž obdobně platí o přirozených plodech jiných nemovitých věcí.
+
+**§ 1067**:
+> Strom náleží tomu, z jehož pozemku vyrůstá kmen. Vyrůstá-li kmen na hranici pozemků různých vlastníků, je strom společný.
+
+**§ 1068**:
+> Zemina naplavená poznenáhla na břeh náleží vlastníkovi pobřežního pozemku. To platí i o přírůstcích vzniklých působením větru nebo jiných přírodních sil.
+
+**§ 1069**:
+> Velká a rozeznatelná část pozemku, kterou vodní tok odplaví k jinému břehu, se stává součástí pobřežního pozemku, pokud původní vlastník k odplavenému pozemku neuplatní své právo po dobu jednoho roku.
+
+**§ 1070**:
+> (1) Oddělí-li vodní tok od pozemku jeho část jako ostrov, je vlastník původního pozemku vlastníkem ostrova.
+> (2) V ostatních případech náleží ostrov vlastníku vodního koryta.
+
+**§ 1071**:
+> Vodní koryto vzniklé strží nebo v důsledku vzniku ostrova se stává vlastnictvím vlastníka původního koryta.
+
+**§ 1073**:
+> (1) Plody, které vydává zvíře, náleží vlastníku zvířete.
+> (2) Za oplodnění zvířete lze žádat odměnu, jen byla-li ujednána.
+
 **§ 1066—1067**: plody pozemku → vlastník pozemku. Strom roste z čího pozemku → tomu náleží. Hranice → společný.
 
 **§ 1068—1071 — Naplavenina a strž**:
@@ -1438,6 +1524,36 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 - **Ostatní ostrovy** → vlastníku vodního koryta.
 
 **§ 1072—1073**: přírůstek movité věci → vlastník; plody zvířete → vlastník zvířete; **odměna za oplodnění zvířete** — jen pokud ujednána.
+
+**Doslovná znění § 1074 až 1081:**
+
+**§ 1074**:
+> (1) Nová věc vzniklá zpracováním movitých věcí několika vlastníků tak, že zpracované věci nelze uvést do předešlého stavu buď vůbec, anebo jen se značným nákladem nebo se značnou ztrátou, náleží jako vlastníkovi tomu, kdo materiálem nebo prací nejvíc přispěl hodnotě výsledku.
+> (2) Vlastník nové věci zaplatí tomu, kdo vlastnické právo pozbyl, hodnotu zpracované věci a tomu, kdo se na výsledku podílel prací, odměnu za práci.
+
+**§ 1075**:
+> (1) Vlastníku věci, kterou zpracovatel nezpracoval v novou věc v dobré víře, se ponechává na vůli, zda si přisvojí novou věc a nahradí druhému, co on pozbyl, nebo zda mu věc za náhradu ponechá.
+> (2) Právo k volbě výhodnějšího řešení zanikne, nebude-li vykonáno do jednoho měsíce ode dne, kdy se vlastník o zpracování věcí dozvěděl.
+
+**§ 1076**:
+> (1) Nelze-li určit jediného vlastníka nové věci, náleží věc do spoluvlastnictví vlastníků zpracovaných věcí. Podíly se stanoví podle hodnot zpracovaných věcí; není-li to možné, jsou jejich podíly stejné.
+> (2) Spoluvlastníci zaplatí společně a nerozdílně odměnu za práci tomu, kdo věc zpracoval.
+
+**§ 1077**:
+> Použije-li se cizí věc jen na opravu jiné věci, připadne vlastníkovi opravené věci, a ten nahradí vlastníkovi zpracované věci hodnotu použité cizí věci.
+
+**§ 1078**:
+> (1) Smísí-li se movité věci několika vlastníků tak, že obnovení předešlého stavu sice není možné, ale celek lze bez porušení podstaty rozdělit na díly, ponechává se každému na vůli, zda si oddělí poměrnou část toho, co vzniklo smísením, anebo zda bude požadovat náhradu toho, co pozbyl. Nebyl-li ten, kdo věci smísil, v dobré víře, má vlastník právo přenechat mu svůj podíl na smísené věci za plnou náhradu.
+> (2) Ustanovení § 1075 odst. 2 platí obdobně.
+
+**§ 1079**:
+> Při smísení movitých věcí téhož druhu, zejména dojde-li k němu při jejich úschově, se § 1078 nepoužije; na vlastníky smísených věcí přechází vlastnictví poměrné části smísených věcí.
+
+**§ 1080**:
+> Kdo se podílel na smísení cizích věcí a nebyl v dobré víře, nahradí dotčeným vlastníkům také ušlý zisk; skutečnou škodu hradí však jen v tom rozsahu, v jakém vlastníci nedosáhli její náhrady podle předchozích ustanovení.
+
+**§ 1081**:
+> Kdo z těch, kteří se na spojení věci podíleli, má novou věc u sebe, ač ji má vydat, není povinen tak učinit, dokud mu vlastník nezaplatí náhradu.
 
 ### Pododdíl 3 — Umělý přírůstek (§ 1074—1087)
 
@@ -1457,7 +1573,28 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 - **§ 1086 — KLÍČOVÉ**: stavebník v dobré víře, vlastník pozemku **věděl + nezakázal** → právo žádat **převod pozemku za obvyklou cenu**. Vzájemné — vlastník může žádat koupi. Soud rozhodne.
 - **§ 1087 — Přestavek**: trvalá stavba malou částí na cizím pozemku → **zastavěná část** přechází na stavebníka (jen v dobré víře); náhrada **obvyklou cenou**.
 
+**Doslovná znění § 1083 až 1086:**
+
+**§ 1083**:
+> (1) Užije-li někdo cizí věc pro stavbu na svém pozemku, stane se stavba součástí pozemku. Vlastník pozemku nahradí vlastníku užité věci její hodnotu.
+> (2) Kdo nebyl při užití cizí věci pro stavbu v dobré víře, nahradí vlastníku užité věci také ušlý zisk; skutečnou škodu hradí však jen v tom rozsahu, v jakém vlastník nedosáhl její náhrady podle odstavce 1.
+
+**§ 1084**:
+> (1) Stavba zřízená na cizím pozemku připadá vlastníkovi pozemku.
+> (2) Vlastník pozemku nahradí osobě, která zřídila na cizím pozemku stavbu v dobré víře, účelně vynaložené náklady. Osoba, která v dobré víře nebyla, má táž práva a povinnosti jako nepřikázaný jednatel.
+
+**§ 1085**:
+> Soud může na návrh vlastníka pozemku rozhodnout, že ten, kdo zřídil stavbu na cizím pozemku, ač na to nemá právo, musí vlastním nákladem stavbu odstranit a uvést pozemek do předešlého stavu. Soud přitom přihlédne, zda k zřízení stavby došlo v dobré víře.
+
+**§ 1086**:
+> (1) Kdo v dobré víře zřídil na cizím pozemku stavbu, má právo domáhat se po vlastníku pozemku, který o zřizování stavby věděl a bez zbytečného odkladu ji nezakázal, aby mu pozemek převedl za obvyklou cenu. Také vlastník pozemku má právo po zřizovateli stavby požadovat, aby pozemek koupil za obvyklou cenu.
+> (2) Soud na návrh některé ze stran přikáže pozemek do vlastnictví zřizovatele stavby a rozhodne o jeho povinnosti zaplatit vlastníku pozemku náhradu.
+
 ### Pododdíl 4 — Smíšený přírůstek (§ 1088)
+
+**§ 1088**:
+> (1) Při osetí pozemku cizím semenem nebo osázení cizími rostlinami náleží vlastníku pozemku, co takto přibude; rostliny mu však náleží až poté, co zapustí kořeny.
+> (2) O náhradě za osivo a rostliny platí § 1083 a 1084 obdobně.
 
 **Osetí pozemku cizím semenem**: nárůst patří vlastníkovi pozemku; rostliny po **zapuštění kořenů**. Náhrada podle § 1083—1084.
 
@@ -1468,6 +1605,11 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 #### § 1089—1090 — Řádné vydržení (záčátky)
 
 **§ 1089**:
+
+**§ 1090**:
+> (1) K vydržení se vyžaduje pravost držby a aby se držba zakládala na právním důvodu, který by postačil ke vzniku vlastnického práva, pokud by náleželo převodci nebo kdyby bylo zřízeno oprávněnou osobou.
+> (2) Nabyl-li zůstavitel nepravou držbu, nemůže vlastnické právo vydržet ani jeho dědic, i kdyby držel poctivě. To platí obdobně i pro všeobecného právního nástupce právnické osoby.
+
 - (1) **Poctivý držitel** po určenou dobu **vydrží** vlastnické právo;
 - (2) Nepoctivost předchůdce **nebrání** poctivému nástupci (kalkuluje se až od jeho nabytí držby).
 

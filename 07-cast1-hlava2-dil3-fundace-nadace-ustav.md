@@ -1674,6 +1674,20 @@ O změně kapitálu rozhoduje správní rada s předchozím souhlasem dozorčí 
 
 ### Přidružený fond (§ 349—352)
 
+**§ 349**:
+> (1) Smlouvou lze nadaci svěřit do správy jako přidružený fond majetek způsobilý být předmětem vkladu do nadace a pověřit nadaci k použití tohoto majetku k ujednanému účelu, souvisí-li s posláním nadace; použití nesmí spočívat v podpoře politické strany nebo politického hnutí.
+> (2) Smlouva vyžaduje písemnou formu.
+
+**§ 350**:
+> Je-li ujednáno, že nadace bude spravovat přidružený fond pod zvláštním označením, musí označení obsahovat slova „přidružený fond“. Označení musí být uváděno současně s názvem nadace, která přidružený fond spravuje.
+
+**§ 351**:
+> Má se za to, že nadace vykonává prostou správu majetku v přidruženém fondu a že ji vykonává za úplatu ve výši, jaká se v obdobných případech obvykle vyžaduje.
+
+**§ 352**:
+> (1) Z nakládání s přidruženým fondem vznikají práva a povinnosti jen spravující nadaci. Majetek v přidruženém fondu eviduje nadace odděleně od svého majetku.
+> (2) Je-li nadace zrušena, naloží likvidátor s přidruženým fondem tak, aby jeho právní povaha a účel byly i nadále zachovány.
+
 **Přidružený fond** je institut, kdy jiná osoba svěří nadaci majetek **do správy** (pověření) pro účel **související s posláním** nadace.
 
 - **Smlouva** vyžaduje písemnou formu;
@@ -1836,6 +1850,29 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 
 ### Účetnictví, výroční zpráva (§ 357—361)
 
+**§ 358**:
+> (1) Nadace sestaví výroční zprávu do konce šestého měsíce od uplynutí předcházejícího účetního období.
+> (2) Výroční zpráva obsahuje účetní závěrku a přehled o veškeré činnosti nadace včetně zhodnocení této činnosti.
+> (3) Ve výroční zprávě nadace uvede alespoň
+>     - a) přehled o vlastním majetku a závazcích,
+>     - b) u jednotlivých nadačních darů přehled o osobách, které poskytly nadační dar v hodnotě vyšší než 10 000 Kč,
+>     - c) přehled o tom, jak byl majetek nadace použit,
+>     - d) přehled o osobách, kterým byl poskytnut nadační příspěvek v hodnotě vyšší než 10 000 Kč,
+>     - e) zhodnocení, zda nadace při svém hospodaření dodržela pravidla pro poskytování nadačních příspěvků podle § 353 až 356, a přehled nákladů na vlastní správu a
+>     - f) zhodnocení základních údajů roční účetní závěrky a zprávu auditora, je-li nadace povinna mít účetní závěrku ověřenou auditorem.
+> (4) Vyjde-li po uveřejnění zprávy najevo skutečnost, která odůvodňuje opravu zprávy, nadace opravu bez zbytečného odkladu provede a uveřejní.
+
+**§ 359**:
+> (1) Požádá-li o to dárce, nadace údaje o dárci ve výroční zprávě neuvede. Stejné právo má i příjemce nadačního příspěvku. Při poskytnutí nadačního příspěvku v hodnotě vyšší než 10 000 Kč, může žádat o zachování anonymity jen člověk, jenž dostal nadační příspěvek z humanitárních důvodů, zejména z důvodů zdravotních.
+> (2) Nadace zachová anonymitu, doručí-li jí oprávněné osoby žádost před schválením výroční zprávy. Člověk, jenž dostal nadační příspěvek z humanitárních důvodů, však může uplatnit své právo na anonymitu kdykoli, jestliže jej nadace o jeho právu při poskytnutí příspěvku nepoučila; má se za to, že poučení nebylo dáno.
+
+**§ 360**:
+> (1) Nadace výroční zprávu uveřejní do třiceti dnů od jejího schválení správní radou a zpřístupní ji také ve svém sídle. Není-li nadace zřízena jako veřejně prospěšná, postačí zpřístupnit výroční zprávu v jejím sídle.
+> (2) Neschválila-li správní rada výroční zprávu, uveřejní nadace výroční zprávu způsobem upraveným v odstavci 1 nejpozději do konce bezprostředně následujícího účetního období a uvede, že výroční zpráva nebyla schválena a z jakých důvodů.
+
+**§ 361**:
+> Každý může ve veřejném rejstříku do výroční zprávy nahlížet a činit si z ní výpisy, opisy nebo kopie. Stejné právo lze uplatnit také v sídle nadace.
+
 **§ 357**: **oddělené účetnictví** o příspěvcích, jiných činnostech, nákladech správy.
 
 **§ 358 — Výroční zpráva**:
@@ -1853,6 +1890,29 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 
 #### Správní rada (§ 362—367)
 
+**§ 362**:
+> Správní rada je statutární orgán nadace; má alespoň tři členy.
+
+**§ 363**:
+> Neurčí-li nadační listina další omezení, není k členství ve správní radě způsobilá osoba, která
+>     - a) je členem dozorčí rady nadace,
+>     - b) je vůči nadaci v pracovním poměru, nebo
+>     - c) není ve vztahu k účelu nadace bezúhonná.
+
+**§ 364**:
+> Neurčí-li nadační listina jiné funkční období člena správní rady, je pětileté. Nevyloučí-li to nadační listina, lze člena správní rady volit i opakovaně.
+
+**§ 365**:
+> (1) Neurčí-li nadační listina něco jiného, volí a odvolává své členy správní rada sama.
+> (2) Nadační listina může stanovit, že určitý počet členů správní rady musí být zvolen z kandidátů navržených správní radě osobami určenými nadační listinou, případně osobami určenými způsobem tam stanoveným.
+
+**§ 366**:
+> Nestanoví-li nadační listina další důvody, odvolá správní rada z funkce svého člena, který závažně nebo opakovaně porušil nadační listinu nebo statut, nebo který porušil zákon způsobem zjevně narušujícím pověst nadace. Neučiní-li tak do jednoho měsíce ode dne, kdy se o důvodu k odvolání dozvěděla, nejpozději však do šesti měsíců ode dne, kdy tento důvod vznikl, odvolá člena správní rady z funkce soud na návrh osoby, která osvědčí právní zájem; právo domáhat se odvolání člena správní rady zaniká, nebylo-li uplatněno do roka ode dne, kdy důvod k odvolání vznikl.
+
+**§ 367**:
+> (1) Zanikne-li členství ve správní radě, zvolí správní rada nového člena do tří měsíců. Neučiní-li to, jmenuje nového člena správní rady soud na návrh dozorčí rady nebo na návrh osoby, která osvědčí právní zájem, na dobu, dokud správní rada nezvolí nového člena.
+> (2) Soud jmenuje nového člena správní rady i bez návrhu, je-li správní rada pro pokles počtu svých členů neschopna usnést se na nové volbě.
+
 **Statutární orgán** nadace; min. **3 členové**.
 
 **§ 363 — Inkompatibility**: nezpůsobilý je člen dozorčí rady, zaměstnanec nadace, osoba **bez bezúhonnosti** vůči účelu.
@@ -1866,6 +1926,33 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 **§ 367**: nové členy do **3 měsíců** od zániku členství; pokus selže → soud jmenuje (na návrh dozorčí rady / osoby s právním zájmem); i bez návrhu při ztrátě usnášeníschopnosti.
 
 #### Dozorčí rada (§ 368—372)
+
+**§ 368**:
+> (1) Dozorčí rada je kontrolní a revizní orgán nadace; má alespoň tři členy.
+> (2) Dozorčí rada musí být zřízena, dosahuje-li nadační kapitál výše alespoň desetkrát vyšší, než stanoví § 330 odst. 1.
+
+**§ 369**:
+> Neurčí-li nadační listina další omezení, není k členství v dozorčí radě způsobilá osoba, která
+>     - a) je členem správní rady nebo likvidátorem,
+>     - b) je vůči nadaci v pracovním poměru, nebo
+>     - c) není ve vztahu k účelu nadace bezúhonná.
+
+**§ 370**:
+> (1) Nesvěří-li nadační listina nebo v mezích jejího určení statut nadace dozorčí radě další působnost, dozorčí rada
+>     - a) dohlíží, zda správní rada vykonává působnost podle zákona a ve shodě s nadační listinou i statutem,
+>     - b) kontroluje plnění podmínek stanovených pro poskytování nadačních příspěvků,
+>     - c) upozorňuje správní radu na zjištěné nedostatky a podává návrhy na jejich odstranění,
+>     - d) kontroluje, jak je vedeno účetnictví a přezkoumává roční, mimořádnou a konsolidovanou účetní závěrku,
+>     - e) vyjadřuje se k výroční zprávě a
+>     - f) nejméně jedenkrát ročně podává správní radě v písemné formě zprávu o své kontrolní činnosti.
+> (2) Dozorčí rada zastupuje nadaci proti členu správní rady, jakož i v každé záležitosti, kdy zájem členů správní rady odporuje zájmům nadace. Za tím účelem pověří dozorčí rada jednoho ze svých členů.
+
+**§ 371**:
+> (1) Dozorčí rada svolá zasedání správní rady, pokud tak k návrhu dozorčí rady neučiní předseda správní rady.
+> (2) V rozsahu působnosti dozorčí rady může její pověřený člen nahlížet do dokladů nadace a požadovat od členů dalších orgánů nadace nebo jejích zaměstnanců vysvětlení k jednotlivým záležitostem.
+
+**§ 372**:
+> Neurčí-li nadační listina něco jiného, volí a odvolává své členy dozorčí rada sama. Pro volbu a odvolání členů dozorčí rady a pro jejich funkční období platí obdobně ustanovení o správní radě.
 
 **Kontrolní a revizní orgán**; min. **3 členové**.
 
@@ -1887,9 +1974,50 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 
 #### Revizor (§ 373—375)
 
+**§ 373**:
+> (1) Není-li zřízena dozorčí rada, vykonává její působnost revizor.
+> (2) Nadační listina nebo statut nadace mohou stanovit, že funkci revizora bude vykonávat právnická osoba, jejíž předmět činnosti umožňuje výkon kontrolní a revizní činnosti, a že tuto funkci bude vykonávat i po neurčitou dobu.
+
+**§ 374**:
+> (1) Pro způsobilost být revizorem platí obdobně § 369. Je-li revizorem právnická osoba, může vykonávat její práva a povinnosti spojená s funkcí revizora její zástupce, který splňuje podmínky podle věty první.
+> (2) Neurčí-li nadační listina období kratší, je funkční období revizora pětileté. Revizora lze volit i opakovaně, pokud to nadační listina nevyloučí.
+
+**§ 375**:
+> (1) Neurčí-li nadační listina jiný způsob, volí a odvolává revizora správní rada.
+> (2) Neurčí-li nadační listina další důvody, odvolá správní rada revizora, který závažně nebo opakovaně porušil nadační listinu nebo statut, nebo který porušil zákon způsobem zjevně narušujícím pověst nadace. Neučiní-li tak do jednoho měsíce ode dne, kdy se o důvodu k odvolání dozvěděla, nejpozději však do šesti měsíců ode dne, kdy tento důvod vznikl, odvolá revizora soud na návrh osoby, která osvědčí právní zájem; právo domáhat se odvolání revizora zaniká, nebylo-li uplatněno do roka ode dne, kdy důvod k odvolání vznikl.
+
 Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnická osoba** s předmětem činnosti umožňujícím kontrolu (typicky auditorská firma).
 
 ### Zrušení nadace s likvidací (§ 376—381)
+
+**§ 376**:
+> Bylo-li dosaženo účelu, pro který byla nadace založena, je nadace zrušena a správní rada zvolí likvidátora.
+
+**§ 377**:
+> (1) Soud zruší nadaci s likvidací na návrh osoby, která na tom má právní zájem, nebo i bez návrhu v případě, že
+>     - a) nadace vyvíjí činnost zakázanou v § 145 nebo jedná v rozporu s § 307,
+>     - b) se nadace stane neomezeně ručícím společníkem obchodní společnosti,
+>     - c) nadace závažně nebo opakovaně porušuje zákaz poskytovat nadační příspěvek osobě uvedené v § 353,
+>     - d) nadace neposkytuje nadační příspěvky déle než dva roky, aniž pro to má vážný důvod,
+>     - e) nadace nakládá s nadační jistinou v rozporu s § 339,
+>     - f) se hodnota nadační jistiny sníží pod výši 500 000 Kč, a že tento stav trvá déle než jeden rok od konce účetního období, v němž k snížení hodnoty nadační jistiny došlo,
+>     - g) nadační jistina nepřináší žádný výnos po dobu delší než dva roky, nebo
+>     - h) není trvale možné, aby nadace nadále plnila svůj účel.
+> (2) Tímto ustanovením není dotčen § 172.
+
+**§ 378**:
+> (1) Likvidátor zpeněží likvidační podstatu v rozsahu nutném pro vyrovnání dluhů nadace. S likvidačním zůstatkem naloží podle nadační listiny.
+> (2) Určí-li nadační listina veřejně prospěšné nadace, že má být likvidační zůstatek použit k jiným než veřejně prospěšným cílům, nepřihlíží se k tomu.
+
+**§ 379**:
+> (1) Neurčí-li nadační listina, jak má být s likvidačním zůstatkem naloženo, nabídne jej likvidátor nadaci s obdobným účelem. Je-li však pro to vážný důvod, může správní rada rozhodnout, že se likvidační zůstatek přednostně nabídne obci, kraji nebo státu.
+> (2) Není-li dobře možné nadaci s obdobným účelem likvidační zůstatek nabídnout, anebo je-li nabídka učiněná podle odstavce 1 odmítnuta, nabídne likvidátor likvidační zůstatek obci, na jejímž území má nadace sídlo. Nepřijme-li obec nabídku ani do dvou měsíců ode dne její účinnosti, nabývá likvidační zůstatek kraj, na jehož území má nadace sídlo.
+
+**§ 380**:
+> Získá-li likvidační zůstatek obec, kraj nebo stát, použije likvidační zůstatek jen k veřejně prospěšnému cíli.
+
+**§ 381**:
+> Obdržela-li nadace účelově vázané plnění z veřejného rozpočtu, ustanovení § 378 se nepoužije a likvidátor naloží s příslušnou částí likvidačního zůstatku podle rozhodnutí příslušného orgánu.
 
 **§ 376 — Dosažení účelu** → nadace zrušena, SR zvolí likvidátora (ipso facto).
 
@@ -1908,6 +2036,71 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 - Pokud nadační listina veřejně prospěšné nadace určuje **jiný účel než veřejně prospěšný** → **se nepřihlíží**;
 - Default: nadace s obdobným účelem → obec → kraj → stát;
 - Vždy **k veřejně prospěšnému cíli**.
+
+**Doslovná znění § 382 až 393:**
+
+**§ 382**:
+> (1) K přeměně nadace může dojít její fúzí sloučením s jinou nadací nebo s nadačním fondem, anebo změnou právní formy na nadační fond.
+> (2) Nadaci lze sloučit s jinou nadací nebo s nadačním fondem, pokud to nadační listina nevylučuje a zúčastněné osoby slouží témuž nebo obdobnému účelu. Při sloučení nadace s nadačním fondem musí být nástupnickou osobou nadace.
+
+**§ 383**:
+> (1) Smlouva o sloučení obsahuje alespoň
+>     - a) údaje o názvu, sídle a identifikující údaj zúčastněných osob s uvedením, která z nich je zanikající a která nástupnická,
+>     - b) určení, v jaké struktuře přejímá nástupnická osoba složky vlastního kapitálu a cizího kapitálu zanikající osoby, jež nejsou závazkem,
+>     - c) výši nadačního kapitálu, je-li nástupnickou osobou nadace,
+>     - d) dohodu o změně statutu nástupnické osoby, dochází-li v důsledku sloučení k takové změně,
+>     - e) rozhodný den.
+> (2) Slučují-li se nadace, je výše nadačního kapitálu podle odstavce 1 písm. c) dána součtem nadačních kapitálů slučovaných nadací. Při sloučení nadačního fondu s nadací jako nástupnickou osobou může být nadační kapitál zvýšen za podmínek uvedených v § 342; v takovém případě musí smlouva o sloučení obsahovat náležitosti uvedené v § 342 odst. 2.
+> (3) Smlouva o sloučení vyžaduje formu veřejné listiny.
+
+**§ 384**:
+> (1) Zúčastněné osoby si před uzavřením smlouvy o sloučení navzájem zpřístupní své účetnictví a poskytnou další informace a písemnosti potřebné pro posouzení právních a hospodářských důsledků sloučení.
+> (2) Kdo se seznámí s údaji podle odstavce 1, zachová mlčenlivost o skutečnostech, které zákon zakazuje uveřejnit nebo jejichž prozrazení může zúčastněné osobě způsobit vážnou újmu.
+
+**§ 385**:
+> Dozorčí rady nebo revizoři zúčastněných osob přezkoumají účetnictví každé ze zúčastněných osob a sestaví zprávu o skutečnostech, které jsou předmětem jejich účetnictví včetně stanoviska k návrhu smlouvy o sloučení a k hospodářským důsledkům sloučení; zprávu lze sestavit i jako společnou pro všechny zúčastněné osoby.
+
+**§ 386**:
+> (1) Je-li sestavena zpráva podle § 385, rozhodnou o sloučení správní rady zúčastněných osob. Zasedání správní rady musí být ohlášeno nejméně třicet dnů před jeho konáním; v této lhůtě se každému členu správní rady zpřístupní
+>     - a) návrh smlouvy o sloučení,
+>     - b) má-li dojít v důsledku sloučení ke změně stanov nástupnické osoby, její stanovy,
+>     - c) účetní závěrky všech zúčastněných osob; je-li účetní závěrka sestavena z údajů ke dni, od něhož ke dni vyhotovení návrhu smlouvy o sloučení uplynulo více než šest měsíců, také mezitímní účetní závěrka příslušné osoby,
+>     - d) zahajovací rozvaha nástupnické osoby a
+>     - e) zpráva podle § 385.
+> (2) Správní rada může návrh smlouvy o sloučení jen přijmout nebo odmítnout.
+> (3) Svolá-li se zasedání správních rad zúčastněných osob jako společné, hlasují jednotlivé správní rady o návrhu smlouvy o sloučení odděleně. Pokud se však po schválení smlouvy volí členové orgánů nástupnické osoby, mohou správní rady zúčastněných osob rozhodnout, že budou o těchto členech hlasovat společně.
+
+**§ 387**:
+> (1) Zúčastněné osoby zveřejní nejméně třicet dnů před zasedáním správní rady společné oznámení, v němž uvedou, jakých osob se sloučení týká a která z nich se stane nástupnickou osobou.
+> (2) Přihlásí-li věřitel zúčastněné osoby pohledávku do šesti měsíců ode dne, kdy se zápis sloučení stal vůči němu účinným, má právo na dostatečnou jistotu, pokud prokáže, že se dobytnost pohledávky zhorší. Prokáže-li věřitel, že se v důsledku sloučení dobytnost pohledávky podstatným způsobem zhorší, má právo na dostatečnou jistotu ještě před zápisem rozdělení do veřejného rejstříku.
+
+**§ 388**:
+> Právo domáhat se neplatnosti smlouvy o sloučení má jen zúčastněná osoba, člen správní rady, člen dozorčí rady nebo revizor; toto právo zaniká, není-li návrh podán do tří měsíců ode dne, kdy se konalo zasedání správní rady.
+
+**§ 389**:
+> (1) Návrh na zápis sloučení do veřejného rejstříku podávají společně všechny zúčastněné osoby; návrh podepíší také členové statutárního orgánu nástupnické osoby.
+> (2) Na základě návrhu se provede zápis sloučení tak, že k témuž dni vymaže ve veřejném rejstříku zanikající osoby, poznamená, kdo je jejich právní nástupce, a u nástupnické osoby uvede den účinnosti sloučení a názvy, adresy sídla a identifikující údaje osob, které se s nástupnickou osobou sloučily, a případné další změny u nástupnické osoby, pokud v důsledku sloučení nastaly.
+
+**§ 390**:
+> (1) Nepodají-li zúčastněné osoby návrh na zápis sloučení do šesti měsíců ode dne, kdy byla smlouva o sloučení uzavřena, může kterákoli z těch zúčastněných osob, která byla připravena návrh podat, od smlouvy odstoupit. Odstoupí-li od smlouvy i jen jedna strana, zanikají tím závazky všech stran, založené smlouvou.
+> (2) Nepodají-li zúčastněné osoby návrh na zápis sloučení do jednoho roku ode dne, kdy byla smlouva o sloučení uzavřena, platí, že od smlouvy odstoupily všechny zúčastněné osoby.
+> (3) Společně a nerozdílně se zúčastněnou osobou, která způsobila, že návrh na zápis sloučení nebyl podán včas, nahradí ostatním zúčastněným osobám škodu z toho vzniklou členové jejího statutárního orgánu vyjma těch, kteří prokáží, že vyvinuli dostatečné úsilí, aby návrh byl podán včas.
+
+**§ 391**:
+> (1) Připustí-li to nadační listina výslovně, může správní rada po předchozím vyjádření dozorčí rady nebo revizora rozhodnout o změně právní formy nadace na nadační fond, avšak jen pokud došlo ke snížení hodnoty nadační jistiny pod výši stanovenou v § 330 odst. 1 na dobu nikoli přechodnou.
+> (2) Rozhodnutí o změně právní formy musí obsahovat
+>     - a) označení nadace názvem, sídlem a identifikujícím údajem,
+>     - b) název nadačního fondu po změně právní formy,
+>     - c) rozhodný den,
+>     - d) údaje o členech orgánů nadačního fondu, které se zapisují do veřejného rejstříku.
+> (3) Rozhodnutí vyžaduje formu veřejné listiny.
+
+**§ 392**:
+> Rozhodnutí o změně právní formy nabývá účinnosti dnem zápisu do veřejného rejstříku.
+
+**§ 393**:
+> (1) Nejméně třicet dnů před zasedáním správní rady nadace zveřejní oznámení o záměru přijmout rozhodnutí o změně právní formy.
+> (2) Věřitel nadace, který přihlásí svou pohledávku do šesti měsíců ode dne, kdy se zápis změny právní formy stal účinným vůči třetím osobám, může žádat zajištění své pohledávky dostatečnou jistotou, jestliže se v důsledku změny právní formy její dobytnost zhorší. Prokáže-li věřitel, že se v důsledku změny právní formy dobytnost jeho pohledávky podstatným způsobem zhorší, náleží mu dostatečná jistota ještě před zápisem změny právní formy do veřejného rejstříku.
 
 ### Přeměna nadace (§ 382—393)
 
@@ -2980,6 +3173,9 @@ Nenaplňuje-li ústav dlouhodobě svůj účel, soud jej zruší na návrh osoby
 **Typicky rozhodné důkazy / podklady:** zakladatelská listina (účel), výroční zprávy a doklady o (ne)činnosti, osvědčení právního zájmu navrhovatele, listiny o majetku k likvidaci.
 
 ### § 418 — Subsidiární použití pravidel o nadaci
+
+**§ 418**:
+> V ostatním se na právní poměry ústavu použijí obdobně ustanovení o nadaci; nepoužijí se však ustanovení o nadační jistině a nadačním kapitálu.
 
 V ostatním se **přiměřeně použijí ustanovení o nadaci**, vyjma:
 - Nadační jistina;

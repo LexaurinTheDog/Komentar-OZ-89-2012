@@ -706,6 +706,13 @@ Blok § 3031—3035 transformuje dosavadní statusy: zbavení/omezení způsobil
 
 ### Oddíl 2 — Lhůty a doby (§ 3036—3037)
 
+**§ 3036**:
+> Podle dosavadních právních předpisů se až do svého zakončení posuzují všechny lhůty a doby, které začaly běžet přede dnem nabytí účinnosti tohoto zákona, jakož i lhůty a doby pro uplatnění práv, která se řídí dosavadními právními předpisy, i když začnou běžet po dni nabytí účinnosti tohoto zákona.
+
+**§ 3037**:
+> (1) Dozvěděla-li se osoba přede dnem nabytí účinnosti tohoto zákona o porušení svého práva na jméno, čest, pověst nebo o porušení obdobného soukromého poměru a o tom, kdo je porušil, nebo měla-li a mohla se o tom přede dnem nabytí účinnosti tohoto zákona dozvědět, počne lhůta k zániku práva na jeho ochranu běžet ode dne nabytí účinnosti tohoto zákona.
+> (2) Dozvěděla-li se osoba za účinnosti tohoto zákona, že její právo na jméno, čest, pověst nebo jiný obdobný soukromý poměr bylo porušeno přede dnem nabytí účinnosti tohoto zákona a o tom, kdo je porušil, nebo měla-li a mohla se o tom dozvědět, počne lhůta k zániku práva na jeho ochranu běžet ode dne nabytí účinnosti tohoto zákona.
+
 **§ 3036 — Lhůty před účinností**: dokončují se **podle starého OZ**.
 
 **§ 3037 — Ochrana osobnosti**: lhůta k zániku práva začíná běžet od **1. 1. 2014** (pro porušení před tímto datem).
@@ -748,6 +755,15 @@ Blok § 3031—3035 transformuje dosavadní statusy: zbavení/omezení způsobil
 
 ### Oddíl 3 — Majetkové právo manželské (§ 3038—3040)
 
+**§ 3038**:
+> Věci náležející k obvyklému vybavení rodinné domácnosti přestávají být dnem nabytí účinnosti tohoto zákona součástí společného jmění.
+
+**§ 3039**:
+> Co přede dnem nabytí účinnosti tohoto zákona nabyl bezúplatně jeden z manželů nebo co bezúplatně nabyli oba manželé, aniž se to stalo součástí společného jmění, není i nadále součástí společného jmění.
+
+**§ 3040**:
+> Součástí společného jmění není věc vydaná podle právních předpisů o restituci majetku jednomu z manželů, který měl vydanou věc ve vlastnictví před uzavřením manželství nebo jemuž byla věc vydána jako právnímu nástupci původního vlastníka.
+
 **§ 3038 — Obvyklé vybavení domácnosti** přestává být součástí SJM (formálně i fakticky).
 
 **§ 3039 — Bezúplatně nabyté věci** (před 2014) nejsou součástí SJM (pokud nebyly výslovně začleněny).
@@ -789,6 +805,53 @@ Oddíl 3 (§ 3038—3040) zpřesňuje rozsah SJM po rekodifikaci: obvyklé vybav
 - [ ] Vypořádat jen majetek skutečně náležející do SJM.
 
 **Typicky rozhodné důkazy / podklady:** dědické rozhodnutí, darovací smlouva, restituční rozhodnutí, kupní smlouvy, soupis vybavení domácnosti, dohody o modifikaci SJM.
+
+**Doslovná znění § 3041 až 3053:**
+
+**§ 3041**:
+> (1) Právní povaha právnických osob upravených tímto zákonem se řídí ustanoveními tohoto zákona ode dne nabytí jeho účinnosti. Bylo-li přede dnem nabytí účinnosti tohoto zákona zahájeno řízení o zápisu právnické osoby do veřejného rejstříku, dokončí se podle dosavadních právních předpisů; odporuje-li však zakladatelské právní jednání učiněné přede dnem nabytí účinnosti tohoto zákona dosavadním právním předpisům, považuje se za platné, vyhovuje-li ustanovením tohoto zákona.
+> (2) Ustanovení společenské smlouvy nebo statutu právnických osob uvedených v odstavci 1, která odporují donucujícím ustanovením tohoto zákona, pozbývají závaznosti dnem nabytí jeho účinnosti; právnická osoba přizpůsobí do tří let ode dne nabytí účinnosti tohoto zákona společenskou smlouvu nebo statut úpravě tohoto zákona a doručí je orgánu veřejné moci, který vede veřejný rejstřík, do něhož je právnická osoba zapsána. Neučiní-li tak, příslušný orgán veřejné moci ji k tomu vyzve a stanoví ve výzvě dodatečnou přiměřenou lhůtu ke splnění této povinnosti; uplyne-li dodatečná lhůta marně, soud právnickou osobu na návrh orgánu veřejné moci nebo osoby, která na tom osvědčí právní zájem, zruší a nařídí její likvidaci.
+> (3) Ustanovení odstavce 2 části věty druhé za středníkem se na odborové organizace a organizace zaměstnavatelů nevztahuje.
+
+**§ 3042**:
+> Odporuje-li název právnické osoby ustanovením tohoto zákona, přizpůsobí právnická osoba svůj název požadavkům tohoto zákona do dvou let ode dne nabytí jeho účinnosti. Není povinna tak učinit tehdy, jsou-li pro to důležité důvody, zejména užívala-li právnická osoba svůj název dlouhodobě a je-li pro ni tak příznačný, že jeho zaměnitelnost nebo klamavost nelze rozumně předpokládat.
+
+**§ 3043**:
+> (1) Odporují-li smlouva nebo rozhodnutí o přeměně právnické osoby učiněné přede dnem nabytí účinnosti tohoto zákona dosavadním právním předpisům, považují se za platné, vyhovují-li ustanovením tohoto zákona a nezamítl-li příslušný orgán veřejné moci přede dnem nabytí účinnosti tohoto zákona návrh na zápis přeměny do veřejného rejstříku, anebo nerozhodl-li, že k přeměně nedošlo.
+> (2) Bylo-li přede dnem nabytí účinnosti tohoto zákona rozhodnuto o zrušení nebo přeměně právnické osoby, postupuje se podle dosavadních právních předpisů, nerozhodne-li příslušný orgán právnické osoby do tří měsíců ode dne nabytí účinnosti tohoto zákona, že se uplatní postup podle tohoto zákona. Ustanovení tohoto zákona na ochranu věřitelů se použijí i na případy, kdy bylo rozhodnutí o zrušení nebo přeměně právnické osoby přijato přede dnem nabytí účinnosti tohoto zákona a ke dni nabytí účinnosti tohoto zákona nebylo ještě zapsáno do veřejného rejstříku.
+
+**§ 3044**:
+> Ustanovení § 128 se použije i na zakladatelská právní jednání a na přeměny právnických osob, k nimž došlo přede dnem nabytí účinnosti tohoto zákona.
+
+**§ 3045**:
+> (1) Sdružení podle zákona č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů, se považují za spolky podle tohoto zákona. Sdružení má právo změnit svoji právní formu na ústav nebo sociální družstvo podle jiného zákona.
+> (2) Organizační jednotky sdružení způsobilé jednat svým jménem podle zákona č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů, se považují za pobočné spolky podle tohoto zákona. Statutární orgán hlavního spolku podá do tří let ode dne nabytí účinnosti tohoto zákona návrh na zápis pobočného spolku, jinak posledním dnem této lhůty právní osobnost pobočného spolku zaniká.
+
+**§ 3046**:
+> Odborová organizace, organizace zaměstnavatelů včetně organizací mezinárodních a jejich organizační jednotky evidované podle zákona č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů, se považují za odborové organizace a organizace zaměstnavatelů podle tohoto zákona.
+
+**§ 3047**:
+> Bylo-li přede dnem nabytí účinnosti tohoto zákona zahájeno řízení o neplatnosti rozhodnutí orgánu občanského sdružení, soud o návrhu rozhodne podle tohoto zákona.
+
+**§ 3048**:
+> Až do účinnosti zákona o veřejném rejstříku, do něhož se zapisují spolky, podléhají spolky registraci podle zákona č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů.
+
+**§ 3049**:
+> (1) Nadace vzniklé podle dosavadních právních předpisů se považují za nadace vzniklé podle tohoto zákona; byla-li nadace zřízena závětí, použijí se § 311 a 312, i když byla závěť pořízena přede dnem nabytí účinnosti tohoto zákona, pokud řízení o dědictví nebylo ke dni nabytí účinnosti tohoto zákona ukončeno. Byla-li nadace založena jinak než nadační listinou, zejména vydáním statutu, platí pro takové právní jednání a pro jeho změny ustanovení tohoto zákona o nadační listině v rozsahu náležitostí stanovených v § 310 pro nadační listinu.
+> (2) Zakladatel nadace může zakladatelské právní jednání přizpůsobit úpravě nadační listiny podle tohoto zákona, pokud rozhodnutí, kterým zakladatelské právní jednání mění, doručí tomu, kdo vede veřejný rejstřík, u něhož je nadace zapsána, nejpozději však ve lhůtě dvou let ode dne nabytí účinnosti tohoto zákona. Zemřel-li nebo zanikl-li zakladatel přede dnem nabytí účinnosti tohoto zákona, může na návrh nadace změnit zakladatelské právní jednání soud.
+> (3) Ustanovení odstavců 1 a 2 se obdobně použijí i pro nadační fondy.
+
+**§ 3050**:
+> Práva a povinnosti obecně prospěšných společností se i nadále řídí dosavadními právními předpisy. Obecně prospěšná společnost má právo změnit svoji právní formu na ústav, nadaci nebo nadační fond podle tohoto zákona; ustanovení tohoto zákona o přeměně právní formy právnických osob se použijí obdobně.
+
+**§ 3051**:
+> Zájmová sdružení právnických osob vzniklá podle dosavadních právních předpisů se i nadále řídí dosavadními právními předpisy. Zájmové sdružení právnických osob má právo změnit svoji právní formu na spolek podle tohoto zákona; ustanovení tohoto zákona o přeměně právní formy právnických osob se použijí obdobně.
+
+**§ 3052**:
+> Právnické osoby založené podle zákona č. 42/1980 Sb., o hospodářských stycích se zahraničím, ve znění pozdějších předpisů, se i nadále řídí dosavadními právními předpisy. To platí i o právnických osobách vzniklých jako sdružení podle § 636 zákona č. 101/1963 Sb., o právních vztazích v mezinárodním obchodním styku. Tyto právnické osoby mají právo změnit svoji právní formu na spolek; ustanovení tohoto zákona o přeměně právní formy právnických osob se použijí obdobně.
+
+**§ 3053**:
+> Právní povaha a vnitřní právní poměry právnických osob vyvíjejících podnikatelskou činnost, které se řídí do dne nabytí účinnosti tohoto zákona dřívějšími právními předpisy podle § 767 odst. 2 zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zůstávají nezměněny a nadále se řídí právními předpisy, podle nichž byly zřízeny.
 
 ### Oddíl 4 — Právnické osoby (§ 3041—3053)
 
@@ -846,6 +909,47 @@ Oddíl 4 (§ 3041—3053) ukládá právnickým osobám existujícím před 1. 1
 
 **Typicky rozhodné důkazy / podklady:** registrace/zakladatelské dokumenty PO, stanovy/statut, výpis z příslušného veřejného rejstříku, doklad o (ne)provedení adaptace ve lhůtě.
 
+**Doslovná znění § 3054 až 3065:**
+
+**§ 3054**:
+> Stavba, která není podle dosavadních právních předpisů součástí pozemku, na němž je zřízena, přestává být dnem nabytí účinnosti tohoto zákona samostatnou věcí a stává se součástí pozemku, měla-li v den nabytí účinnosti tohoto zákona vlastnické právo k stavbě i vlastnické právo k pozemku táž osoba.
+
+**§ 3055**:
+> (1) Stavba spojená se zemí pevným základem, která není podle dosavadních právních předpisů součástí pozemku, na němž je zřízena, a je ke dni nabytí účinnosti tohoto zákona ve vlastnictví osoby odlišné od vlastníka pozemku, se dnem nabytí účinnosti tohoto zákona nestává součástí pozemku a je nemovitou věcí. Totéž platí o stavbě, která je ve spoluvlastnictví, je-li některý ze spoluvlastníků i vlastníkem pozemku nebo jsou-li jen někteří spoluvlastníci stavby spoluvlastníky pozemku.
+> (2) Odstavec 1 platí obdobně pro stavbu, která má být zřízena na pozemku jiného vlastníka na základě věcného práva vzniklého stavebníku přede dnem nabytí účinnosti tohoto zákona nebo na základě smlouvy uzavřené přede dnem nabytí účinnosti tohoto zákona.
+
+**§ 3056**:
+> (1) Vlastník pozemku, na němž je zřízena stavba, která není podle dosavadních právních předpisů součástí pozemku a nestala se součástí pozemku ke dni nabytí účinnosti tohoto zákona, má ke stavbě předkupní právo a vlastník stavby má předkupní právo k pozemku. Předkupní právo vlastníka pozemku se vztahuje i na podzemní stavbu na stejném pozemku, která je příslušenstvím nadzemní stavby. K ujednáním vylučujícím nebo omezujícím předkupní právo se nepřihlíží.
+> (2) Lze-li část pozemku se stavbou oddělit, aniž to podstatně ztíží jejich užívání a požívání, vztahuje se předkupní právo jen na část pozemku nezbytnou pro výkon vlastnického práva ke stavbě.
+
+**§ 3057**:
+> Zřídí-li vlastník k pozemku věcné právo ve prospěch třetí osoby, která věcné právo nabývá v dobré víře, že stavba je součástí pozemku, považuje se vůči této osobě stavba za součást pozemku. Vlastník stavby je vůči zřizovateli věcného práva oprávněn požadovat náhradu za znehodnocení svého vlastnictví; je-li stavba zatížena zástavním právem, rozšiřuje se zástavní právo i na pohledávku na tuto náhradu.
+
+**§ 3058**:
+> (1) Stanou-li se pozemek i stavba vlastnictvím téhož vlastníka, přestane být stavba samostatnou věcí a stane se součástí pozemku, na němž je zřízena. To neplatí, jedná-li se o stavbu, která není součástí pozemku podle tohoto zákona.
+> (2) Bylo-li vlastnické právo k pozemku zcizeno třetí osobě, která byla při nabytí vlastnického práva v dobré víře, že stavba je součástí pozemku, přestane být stavba samostatnou věcí a stane se součástí pozemku, na němž je zřízena. Kdo vlastnil stavbu, má vůči zciziteli právo na náhradu ve výši ceny stavby ke dni zániku svého vlastnického práva; byla-li stavba zatížena zástavním právem, přechází zástavní právo na pohledávku na tuto náhradu.
+
+**§ 3059**:
+> Je-li stavba zřízena na několika pozemcích, použijí se § 3056 až 3058 jen ve vztahu k pozemku, na němž je převážná část stavby. Stane-li se stavba součástí tohoto pozemku, použije se ve vztahu k pozemkům, na něž části stavby přesahují, ustanovení o přestavku.
+
+**§ 3060**:
+> Zatěžuje-li věcné právo stavbu nebo pozemek, nestane se stavba součástí pozemku, dokud toto věcné právo trvá a pokud to jeho povaha vylučuje.
+
+**§ 3061**:
+> Ustanovení tohoto oddílu se nepoužijí, jedná-li se o stavbu, která není součástí pozemku podle tohoto zákona, nebo o nemovitou věc podle § 498 odst. 1 věty druhé.
+
+**§ 3062**:
+> Zákonné předkupní právo spoluvlastníků podle § 140 zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, zanikne uplynutím jednoho roku ode dne nabytí účinnosti tohoto zákona. To neplatí v případě spoluvlastnictví k zemědělskému nebo rodinnému závodu.
+
+**§ 3063**:
+> Nabyl-li vlastnického práva alespoň k jedné jednotce v domě s byty a nebytovými prostory přede dnem nabytí účinnosti tohoto zákona nabyvatel podle zákona č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, vznikne i po dni nabytí účinnosti tohoto zákona vlastnické právo k dalším jednotkám v tomto domě podle dosavadních právních předpisů.
+
+**§ 3064**:
+> Ohledně práv zapsaných do katastru nemovitostí přede dnem nabytí účinnosti tohoto zákona a ohledně práv zapsaných do katastru nemovitostí v době jednoho roku ode dne nabytí účinnosti tohoto zákona nastanou účinky podle § 980 až 986 uplynutím jednoho roku ode dne nabytí účinnosti tohoto zákona. Lhůty stanovené v § 983 a 986 počnou běžet po uplynutí jednoho roku ode dne nabytí účinnosti tohoto zákona.
+
+**§ 3065**:
+> Jedná-li se o věcné právo, které přede dnem nabytí účinnosti tohoto zákona nepodléhalo zápisu do veřejného seznamu, nastanou vůči těmto právům účinky přednosti zapsaných věcných práv podle § 981 a účinky pořadí věcných práv podle § 982 odst. 1 dnem 1. ledna 2018.
+
 ### Oddíl 5 — Věcná práva (§ 3054—3068)
 
 **KLÍČOVÝ ÚSEK** — řešení **návratu *superficies solo cedit*** (§ 506 OZ).
@@ -901,7 +1005,21 @@ Oddíl 5 (§ 3054—3068) řeší návrat zásady superficies solo cedit: stavba
 
 **Typicky rozhodné důkazy / podklady:** výpisy z katastru ke dni 1. 1. 2014 a ke dni převodu, doklady o vlastnictví stavby a pozemku, kupní smlouvy, doklad o nabídce předkupního práva.
 
+**Doslovné znění § 3068:**
+
+**§ 3068**:
+> Vzniklo-li zástavní právo přede dnem nabytí účinnosti tohoto zákona, může vlastník uplatnit právo z uvolnění zástavního práva, jen pokud zástavní věřitel zapsaný přede dnem nabytí účinnosti tohoto zákona za uvolněným zástavním právem v dalším pořadí s uvolněním zástavního práva souhlasí. To platí obdobně i o záměně zástavního práva.
+
 ### Oddíl 6 — Dědické právo (§ 3069—3072)
+
+**§ 3070**:
+> Zemřel-li zůstavitel po dni nabytí účinnosti tohoto zákona a odporuje-li jeho pořízení pro případ smrti právním předpisům účinným v době, kdy bylo učiněno, považuje se za platné, vyhovuje-li tomuto zákonu. Totéž platí o dovětku i o vedlejších doložkách v pořízení pro případ smrti, pokud jim právní předpisy účinné v době, kdy byly dovětek nebo pořízení pro případ smrti učiněny, odnímají právní následky, anebo je prohlašují za neplatné.
+
+**§ 3071**:
+> Uzavřel-li zůstavitel smlouvu o zřeknutí se dědictví přede dnem nabytí účinnosti tohoto zákona a zemřel-li po dni nabytí účinnosti tohoto zákona, považuje se smlouva za platnou.
+
+**§ 3072**:
+> Zemřel-li zůstavitel po dni nabytí účinnosti tohoto zákona a odporuje-li jeho prohlášení o vydědění právním předpisům účinným v době, kdy bylo učiněno, považuje se za platné, vyhovuje-li tomuto zákonu.
 
 **§ 3069 — KLÍČOVÉ PRAVIDLO**:
 > Při dědění se použije právo platné v den smrti zůstavitele.
@@ -953,6 +1071,30 @@ Oddíl 6 (§ 3069—3072) podřizuje dědění právu platnému ke dni smrti zů
 **Typicky rozhodné důkazy / podklady:** originál závěti/dědické smlouvy, úmrtní list (datum smrti), znalecký posudek pravosti rukopisu/podpisu, listiny o zřeknutí se dědictví nebo vydědění.
 
 ### Oddíl 7 — Závazková práva (§ 3073—3079)
+
+**§ 3073**:
+> Práva ze zajištění závazku vzniklá přede dnem nabytí účinnosti tohoto zákona, byť byla zřízena i jako práva věcná, se posuzují až do svého zániku podle dosavadních právních předpisů. To nebrání ujednání stran, že se tato jejich práva a povinnosti budou řídit tímto zákonem ode dne nabytí jeho účinnosti.
+
+**§ 3074**:
+> (1) Nájem se řídí tímto zákonem ode dne nabytí jeho účinnosti, i když ke vzniku nájmu došlo před tímto dnem; vznik nájmu, jakož i práva a povinnosti vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů. To neplatí pro nájem movité věci ani pro pacht.
+> (2) Ustanovení § 2249 odst. 1 se nepoužije v případě, že nájemné nebylo určeno ujednáním pronajímatele a nájemce nebo rozhodnutím soudu, ale na základě jiného právního předpisu. V takovém případě má pronajímatel právo navrhnout v písemné formě nájemci zvýšení nájemného; ustanovení § 2249 odst. 3 se použije obdobně.
+
+**§ 3075**:
+> Byl-li přede dnem nabytí účinnosti tohoto zákona zřízen byt zvláštního určení ze státních prostředků nebo přispěl-li stát na jeho zřízení, lze uzavřít smlouvu o nájmu tohoto bytu jen na základě doporučení obecního úřadu obce s rozšířenou působností a nájem lze vypovědět jen s předchozím souhlasem tohoto úřadu.
+
+**§ 3076**:
+> Bylo-li přede dnem nabytí účinnosti tohoto zákona zahájeno řízení o neplatnosti výpovědi nájmu bytu, dokončí se podle dosavadních právních předpisů; právo nájemce na bytovou náhradu nebo na jiná plnění podle dosavadních právních předpisů nejsou dotčena.
+
+**§ 3077**:
+> (1) Účet se řídí tímto zákonem ode dne nabytí jeho účinnosti, i když k uzavření smlouvy o účtu došlo před tímto dnem; vznik této smlouvy, jakož i práva a povinnosti z ní vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů.
+> (2) Jestliže byla výplata z vkladní knížky přede dnem nabytí účinnosti tohoto zákona vázána na heslo, na přivolení třetí osoby nebo na skutečnost, o níž je jisto, že nastane, řídí se vázanost výplaty dosavadními právními předpisy.
+
+**§ 3078**:
+> Je-li cestovní smlouva uzavřená přede dnem nabytí účinnosti tohoto zákona podle dosavadních právních předpisů neplatná, považuje se vzhledem k právům uplatněným za účinnosti tohoto zákona za platnou smlouvu o zájezdu, vyhovuje-li tomuto zákonu; i na závazky z cestovních smluv uzavřených podle dosavadních právních předpisů se použije § 2542, nebylo-li o uplatněném právu dosud rozhodnuto. Došlo-li k porušení povinnosti pořadatele nebo cestovní kanceláře, a to i přede dnem nabytí účinnosti tohoto zákona, použije se § 2543, nebylo-li přede dnem nabytí účinnosti tohoto zákona o náhradě škody ještě rozhodnuto.
+
+**§ 3079**:
+> (1) Právo na náhradu škody vzniklé porušením povinnosti stanovené právními předpisy, k němuž došlo přede dnem nabytí účinnosti tohoto zákona, se posuzuje podle dosavadních právních předpisů.
+> (2) Nerozhodl-li soud ke dni nabytí účinnosti tohoto zákona o náhradě škody vzniklé porušením povinnosti stanovené právními předpisy, k němuž došlo přede dnem nabytí účinnosti tohoto zákona, může na návrh poškozeného člověka, jsou-li pro to mimořádné důvody hodné zvláštního zřetele (§ 2 odst. 3), přiznat poškozenému i náhradu nemajetkové újmy podle tohoto zákona.
 
 **§ 3073 — Zajištění závazků** vzniklých přede 2014 → **starý OZ** (s možností smluvně přejít na nový).
 

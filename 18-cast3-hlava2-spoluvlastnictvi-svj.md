@@ -909,6 +909,26 @@ Rozhodnutím soudu či jiného orgánu veřejné moci (restituce, vyvlastnění,
 
 ### Oddíl 1 — Obecná ustanovení (§ 1115—1120)
 
+**§ 1115**:
+> (1) Osoby, jimž náleží vlastnické právo k věci společně, jsou spoluvlastníky.
+> (2) Ustanovení o spoluvlastnictví se použijí přiměřeně i pro společenství jiných věcných práv.
+
+**§ 1116**:
+> Vzhledem k věci jako celku, se spoluvlastníci považují za jedinou osobu a nakládají s věcí jako jediná osoba.
+
+**§ 1117**:
+> Každý spoluvlastník má právo k celé věci. Toto právo je omezeno stejným právem každého dalšího spoluvlastníka.
+
+**§ 1118**:
+> Spoluvlastníku náleží vyúčtování, jak bylo se společnou věcí nakládáno, i podíl z plodů a užitků ze společné věci.
+
+**§ 1119**:
+> Vyúčtování se lze domáhat po uplynutí doby obvyklé povaze správy společné věci, při zániku spoluvlastnictví nebo při zániku účasti v něm, anebo z jiných důležitých důvodů.
+
+**§ 1120**:
+> (1) Plody a užitky ze společné věci se dělí podle poměru podílů.
+> (2) Jak se naloží s plody a užitky ze společné věci, které nelze podle podílů rozdělit, určí dohoda spoluvlastníků. Nedohodnou-li se spoluvlastníci, prodají se tyto plody a užitky vhodným způsobem a výnos se rozdělí podle podílů.
+
 **§ 1115—1117**: spoluvlastníci jsou ti, jimž **náleží vlastnické právo společně**. **Navenek** se považují za **jedinou osobu**; každý má **právo k celé věci** (*ius totius*), omezené stejným právem ostatních.
 
 **§ 1118**: spoluvlastníkovi náleží **vyúčtování** + **podíl z plodů a užitků**.
@@ -954,6 +974,17 @@ Podíloví spoluvlastníci vystupují navenek jako jediná osoba (§ 1116), ale 
 ---
 
 ### Oddíl 2 — Spoluvlastnický podíl (§ 1121—1125)
+
+**§ 1121**:
+> Každý ze spoluvlastníků je úplným vlastníkem svého podílu.
+
+**§ 1122**:
+> (1) Podíl vyjadřuje míru účasti každého spoluvlastníka na vytváření společné vůle a na právech a povinnostech vyplývajících ze spoluvlastnictví věci.
+> (2) Velikost podílu vyplývá z právní skutečnosti, na níž se zakládá spoluvlastnictví nebo účast spoluvlastníka ve spoluvlastnictví. To spoluvlastníkům nebrání, aby si velikost podílů ujednali jinak; takové ujednání musí splňovat náležitosti stanovené pro převod podílu.
+> (3) Má se za to, že podíly jsou stejné.
+
+**§ 1123**:
+> Spoluvlastník může se svým podílem nakládat podle své vůle. Takové nakládání však nesmí být na újmu právům ostatních spoluvlastníků bez zřetele k tomu, z čeho vyplývají.
 
 **§ 1121**: **každý spoluvlastník je úplným vlastníkem svého podílu** — může s ním libovolně nakládat.
 
@@ -1070,6 +1101,53 @@ Zákonné předkupní právo spoluvlastníků existuje jen u spoluvlastnictví v
 - [ ] Nejde o zemědělský závod s trvalým předkupním právem (§ 1125)?
 
 **Typicky rozhodné důkazy / podklady:** dědické/nabývací rozhodnutí s datem právní moci, kupní/darovací smlouva o převodu podílu, doklad o (ne)učinění nabídky, doklady o vztahu nabyvatele k převodci (osoba blízká).
+
+**Doslovná znění § 1126 až 1138:**
+
+**§ 1126**:
+> (1) Každý ze spoluvlastníků je oprávněn k účasti na správě společné věci.
+> (2) Při rozhodování o společné věci se hlasy spoluvlastníků počítají podle velikosti jejich podílů.
+
+**§ 1127**:
+> Z právního jednání týkajícího se společné věci jsou všichni spoluvlastníci oprávněni a povinni společně a nerozdílně.
+
+**§ 1128**:
+> (1) O běžné správě společné věci rozhodují spoluvlastníci většinou hlasů.
+> (2) Rozhodnutí má právní účinky pro všechny spoluvlastníky pouze v případě, že všichni byli vyrozuměni o potřebě rozhodnout, ledaže se jednalo o záležitost, která vyžadovala jednat okamžitě. Spoluvlastník opominutý při rozhodování o neodkladné záležitosti může navrhnout soudu, aby určil, že rozhodnutí o neodkladné záležitosti nemá vůči němu právní účinky, nelze-li po něm spravedlivě požadovat, aby je snášel.
+> (3) Není-li návrh podle odstavce 2 podán do třiceti dnů od přijetí rozhodnutí, právo podat jej zaniká; nebyl-li spoluvlastník o nakládání uvědoměn, běží lhůta ode dne, kdy se o rozhodnutí dozvěděl nebo dozvědět mohl.
+
+**§ 1129**:
+> (1) K rozhodnutí o významné záležitosti týkající se společné věci, zejména o jejím podstatném zlepšení nebo zhoršení, změně jejího účelu či o jejím zpracování, je třeba alespoň dvoutřetinové většiny hlasů spoluvlastníků. Nedosáhne-li se této většiny, rozhodne na návrh spoluvlastníka soud.
+> (2) Spoluvlastník přehlasovaný při rozhodování podle odstavce 1 může navrhnout, aby o záležitosti rozhodl soud; v rámci toho může též navrhnout, aby soud dočasně zakázal jednat podle napadeného rozhodnutí. Ustanovení § 1128 odst. 3 platí obdobně.
+
+**§ 1130**:
+> Přehlasovaný spoluvlastník, jemuž rozhodnutí hrozí těžkou újmou, zejména neúměrným omezením v užívání společné věci nebo vznikem povinnosti zřejmě nepoměrné k hodnotě jeho podílu, může soudu navrhnout, aby toto rozhodnutí zrušil. Ustanovení § 1128 odst. 3 platí obdobně.
+
+**§ 1131**:
+> Rozhodne-li většina spoluvlastníků o opatření potřebném pro zachování nebo zlepšení společné věci a zaváže-li se vůči přehlasovanému spoluvlastníku, že po něm nebude požadovat, aby se na nákladech podílel, nebo že mu nahradí veškerou újmu způsobenou přijatým opatřením a poskytne dostatečnou jistotu, nemá přehlasovaný spoluvlastník právo podle § 1130.
+
+**§ 1132**:
+> K rozhodnutí, na jehož základě má být společná věc zatížena nebo její zatížení zrušeno, a k rozhodnutí, na jehož základě mají být práva spoluvlastníků omezena na dobu delší než deset let, je třeba souhlasu všech spoluvlastníků.
+
+**§ 1133**:
+> Ke zřízení zástavního práva nebo jiné obdobné jistoty sloužící k zajištění peněžité pohledávky vzniklé při zlepšení společné věci nebo při její obnově postačí rozhodnutí alespoň dvoutřetinové většiny spoluvlastníků.
+
+**§ 1134**:
+> O volbě a odvolání správce rozhodují spoluvlastníci stejně jako o záležitostech běžné správy.
+
+**§ 1135**:
+> Správce má právní postavení příkazníka. Musí spoluvlastníkům správu vyúčtovat; náleží mu náhrada účelně vynaložených nákladů, kterou si může vybrat z výnosů spravované věci.
+
+**§ 1136**:
+> Spoluvlastník, který vynaložil na společnou věc náklad v zájmu ostatních spoluvlastníků bez jejich vyrozumění a souhlasu, může požadovat
+>   - a) poměrnou část náhrady v rozsahu zhodnocení věci, jednalo-li se o náklad, který byl spoluvlastníkům ku prospěchu,
+>   - b) náhradu nutných nákladů, jednalo-li se o náklad, který bylo třeba vynaložit na záchranu věci.
+
+**§ 1137**:
+> Svěří-li se správa několika osobám, rozhodují většinou hlasů; každá z nich má jeden hlas.
+
+**§ 1138**:
+> Dohodnou-li se spoluvlastníci nemovité věci o její správě jinak, vyžaduje dohoda formu veřejné listiny. Dohoda se založí do sbírky listin u orgánu, u něhož je nemovitá věc zapsána ve veřejném seznamu.
 
 ---
 
@@ -1400,6 +1478,10 @@ Rozdělení společné věci nezasahuje do věcných práv třetích osob (§ 11
 
 ### Pododdíl 1 — Obecná ustanovení (§ 1158—1162)
 
+**§ 1162**:
+> (1) Jsou-li podíly na společných částech určeny jinak než poměrem velikosti podlahové plochy bytu k celkové podlahové ploše všech bytů v domě nebo než jako stejné, má vlastník jednotky právo domáhat se změny tohoto určení, pokud se okolnosti změnily tak podstatně, že určení jeho podílu na společných částech je zjevně nespravedlivé.
+> (2) Nedojde-li na návrh vlastníka jednotky ke změně prohlášení (§ 1169), změní prohlášení soud.
+
 #### § 1158—1159 — Definice
 
 > (1) Bytové spoluvlastnictví je spoluvlastnictví nemovité věci založené vlastnictvím jednotek. Bytové spoluvlastnictví může vzniknout, pokud je součástí nemovité věci dům alespoň s dvěma byty.
@@ -1458,6 +1540,13 @@ Bytové spoluvlastnictví vzniká u nemovité věci, jejíž součástí je dům
 
 #### § 1160—1161 — Společné části
 
+**§ 1160**:
+> (1) Společné jsou alespoň ty části nemovité věci, které podle své povahy mají sloužit vlastníkům jednotek společně.
+> (2) Společnými jsou vždy pozemek, na němž byl dům zřízen, nebo věcné právo, jež vlastníkům jednotek zakládá právo mít na pozemku dům, stavební části podstatné pro zachování domu včetně jeho hlavních konstrukcí, a jeho tvaru i vzhledu, jakož i pro zachování bytu jiného vlastníka jednotky, a zařízení sloužící i jinému vlastníku jednotky k užívání bytu. To platí i v případě, že se určitá část přenechá některému vlastníku jednotky k výlučnému užívání.
+
+**§ 1161**:
+> Neurčí-li se podíly na společných částech se zřetelem k povaze, rozměrům a umístění bytu nebo jako stejné, platí, že jsou stanoveny poměrem velikosti podlahové plochy bytu k celkové podlahové ploše všech bytů v domě.
+
 **Společné jsou alespoň**:
 - **Pozemek** (nebo věcné právo k němu);
 - **Stavební části podstatné pro zachování domu** (hlavní konstrukce, tvar, vzhled);
@@ -1513,6 +1602,19 @@ Společnými částmi jsou vždy alespoň pozemek, stavební části podstatné 
 
 ### Pododdíl 2 — Vznik jednotky (§ 1163—1169)
 
+**§ 1166**:
+> (1) Při rozdělení práva k nemovité věci na vlastnické právo k jednotkám se uvedou alespoň
+>     - a) údaje o pozemku, domu, obci a katastrálním území,
+>     - b) údaje o jednotce, zejména
+>       - 1. pojmenování a označení jednotlivých bytů alespoň číslem a umístěním s určením účelu užívání,
+>       - 2. určení a popis společných částí se zřetelem k jejich stavební, technické nebo uživatelské povaze a s případným určením, které z nich jsou vyhrazeny k výlučnému užívání vlastníku určité jednotky,
+>       - 3. velikost podílů na společných částech,
+>     - c) jaká věcná a jiná práva a jaké závady přecházejí se vznikem vlastnického práva k jednotce na všechny vlastníky jednotek nebo na některé z nich.
+> (2) K prohlášení se přiloží půdorysy všech podlaží, popřípadě jejich schémata, určující polohu bytů a společných částí domu, spolu s údaji o podlahových plochách bytů.
+
+**§ 1167**:
+> Dojde-li k zápisu vlastnického práva k jednotkám do veřejného seznamu, nelze prohlášení prohlásit za neplatné ani nelze určit, že vlastnické právo k jednotce nevzniklo, v případě, že věcné právo k jednotce nabyla další osoba.
+
 **§ 1163 — Výstavbou** — když dům je v dostatečném stupni rozestavěnosti (obvodové stěny + střecha + byt obvodovými stěnami).
 
 **§ 1164 — Zápisem do VR** (z **prohlášení vlastníka** o rozdělení).
@@ -1567,6 +1669,20 @@ Jednotky vznikají nejčastěji zápisem prohlášení vlastníka do katastru (�
 
 ### Pododdíl 3 — Smlouva o výstavbě (§ 1170—1174)
 
+**§ 1171**:
+> Je-li smlouva o výstavbě uzavřena v době, kdy je dům již rozestavěn, ale byty ještě rozestavěny nejsou, ujednají si strany velikost spoluvlastnických podílů k nemovité věci ve velikosti odpovídající velikosti spoluvlastnických podílů budoucích vlastníků jednotek na společných částech.
+
+**§ 1172**:
+> (1) Má-li jednotka vzniknout nástavbou, přístavbou nebo stavební úpravou domu a nejsou-li v domě jednotky dosud vymezeny, ujednají strany ve smlouvě i vymezení jednotek v domě a vlastník nebo osoba k tomu oprávněná z jiného věcného práva převede na zájemce o nabytí nové jednotky spoluvlastnický podíl k nemovité věci ve velikosti odpovídající velikosti jeho spoluvlastnického podílu jako vlastníka jednotky na společných částech.
+> (2) Má-li vzniknout nová jednotka nebo má-li být dosavadní jednotka změněna nástavbou, přístavbou nebo stavební úpravou v domě, kde jsou jednotky již vymezeny, ujednají strany ve smlouvě i změny velikosti spoluvlastnických podílů po vzniku nové jednotky nebo změně dosavadní jednotky tak, aby odpovídaly nově určeným velikostem spoluvlastnických podílů.
+
+**§ 1173**:
+> Neobsahuje-li smlouva o výstavbě výslovné ujednání o odchylkách od určení jednotek, považuje se výstavba za řádnou, pokud je odchylka jen nepatrná a dotčený spoluvlastník ji měl a mohl rozumně očekávat. Nedohodnou-li se strany, rozhodne soud, jak se důsledky odchylky od určení jednotek vypořádají.
+
+**§ 1174**:
+> (1) Vznikne-li výstavbou dům, zůstanou strany až do vzniku jednotky podílovými spoluvlastníky nemovité věci.
+> (2) Vznikem jednotky se podílové spoluvlastnictví nemovité věci mění v bytové spoluvlastnictví.
+
 Pro **družstevní výstavbu** + **přístavbu/nástavbu**. Vyžaduje **písemnou formu** + obsahuje náležitosti prohlášení + způsob úhrady nákladů + velikost spoluvlastnických podílů.
 
 #### F. Kazuistika
@@ -1608,6 +1724,39 @@ Nové jednotky lze vytvořit nástavbou, přístavbou či družstevní výstavbo
 ---
 
 ### Pododdíl 4 — Práva a povinnosti vlastníka jednotky (§ 1175—1183)
+
+**§ 1175**:
+> (1) Vlastník jednotky má právo svobodně spravovat, výlučně užívat a uvnitř stavebně upravovat svůj byt jakož i užívat společné části, nesmí však ztížit jinému vlastníku jednotky výkon stejných práv ani ohrozit, změnit nebo poškodit společné části.
+> (2) Vlastník jednotky spravuje svůj byt, jak to vyžaduje nezávadný stav a dobrý vzhled domu; jde-li však o společné části uvnitř bytu a společné části, které slouží vlastníku jednotky k výlučnému užívání, provádí a hradí pouze údržbu a drobné opravy.
+
+**§ 1176**:
+> Vznikem vlastnického práva k jednotce vzniká vlastníku jednotky povinnost řídit se pravidly pro správu domu a pozemku a užívání společných částí, pokud byl s těmito pravidly seznámen nebo pokud je měl a mohl znát, jakož i zajistit jejich dodržování osobami, jimž umožnil přístup do domu nebo bytu.
+
+**§ 1177**:
+> Vlastník jednotky oznámí bez zbytečného odkladu osobě odpovědné za správu domu a pozemku (dále jen „osoba odpovědná za správu domu“) své jméno, bydliště, jméno a bydliště osoby, které přenechal byt k užívání na dobu nikoli přechodnou, a počet osob, které budou mít v bytě domácnost. To platí i v případě změny těchto údajů.
+
+**§ 1178**:
+> (1) Osoba odpovědná za správu domu vede seznam vlastníků jednotek a osob, kterým vlastník přenechal byt k užívání, v rozsahu stanoveném v § 1177.
+> (2) Požádá-li o to vlastník jednotky, sdělí mu osoba odpovědná za správu domu jméno a bydliště kteréhokoli vlastníka jednotky nebo osoby, které přenechal byt k užívání.
+
+**§ 1179**:
+> Vlastník jednotky má právo seznámit se, jak osoba odpovědná za správu domu hospodaří a jak dům nebo pozemek spravuje. U této osoby může vlastník jednotky nahlížet do smluv uzavřených ve věcech správy, jakož i do účetních knih a dokladů, a pořizovat si z nich výpisy, opisy a kopie.
+
+**§ 1180**:
+> (1) Vlastník jednotky přispívá na správu domu a pozemku v poměru odpovídajícím jeho podílu na společných částech, nebylo-li v prohlášení určeno jinak, zejména se zřetelem k povaze, rozměrům a umístění společné části, která slouží jen některému vlastníku jednotky k výlučnému užívání, a k rozsahu povinnosti vlastníka jednotky spravovat tuto část na vlastní náklad.
+> (2) Příspěvky určené na odměňování osoby, která dům spravuje, nebo členů jejích orgánů, na vedení účetnictví a na podobné náklady vlastní správní činnosti se rozvrhnou na každou jednotku stejně.
+
+**§ 1181**:
+> Vlastník jednotky platí zálohy na plnění spojená nebo související s užíváním bytu (služby) a má právo, aby mu osoba odpovědná za správu domu zálohy včas vyúčtovala.
+
+**§ 1182**:
+> (1) Vlastník jednotky předem oznámí osobě odpovědné za správu domu stavební úpravu uvnitř svého bytu.
+> (2) Upravuje-li vlastník jednotky stavebně svůj byt, umožní osobě odpovědné za správu domu na základě její předchozí výzvy ověření, zda stavební úpravy neohrožují, nepoškozují nebo nemění společné části, a to popřípadě i přístupem do bytu.
+> (3) Vlastník jednotky předem oznámí osobě odpovědné za správu domu podnikání nebo jinou činnost v bytě, která může vést k narušení obvyklého klidu a pořádku v domě na dobu nikoli přechodnou.
+
+**§ 1183**:
+> (1) Vlastník jednotky se zdrží všeho, co brání údržbě, opravě, úpravě, přestavbě či jiné změně domu nebo pozemku, o nichž bylo řádně rozhodnuto; jsou-li prováděny uvnitř bytu nebo na společné části, která slouží výlučně k užívání vlastníka jednotky, umožní do nich přístup, pokud k tomu byl předem vyzván osobou odpovědnou za správu domu. To platí i pro umístění, údržbu a kontrolu zařízení pro měření spotřeby vody, plynu, tepla a jiných energií.
+> (2) Při poškození jednotky prováděním prací podle odstavce 1, nahradí vlastníku jednotky škodu společenství vlastníků jednotek (dále jen „společenství vlastníků“), a nevzniklo-li, nahradí ji poměrně spoluvlastníci domu. Prováděl-li však tyto práce ve svém zájmu jen některý vlastník jednotky, nahradí škodu sám.
 
 **§ 1175 — Práva**:
 - **Svobodně spravovat, výlučně užívat** byt + **užívat společné části**;
@@ -1663,6 +1812,13 @@ Vlastník jednotky smí byt svobodně užívat (§ 1175), musí se však řídit
 
 **Typicky rozhodné důkazy / podklady:** evidence příspěvků a záloh, vyúčtování a upomínky, prohlášení a pravidla správy domu, stížnosti a důkazy o rušení, oznámení počtu osob v bytě.
 
+**Doslovné znění § 1184:**
+
+**§ 1184**:
+> (1) Na návrh osoby odpovědné za správu domu může soud nařídit prodej jednotky toho vlastníka, který i přes písemnou výstrahu osoby odpovědné za správu domu porušuje své povinnosti způsobem podstatně omezujícím nebo znemožňujícím výkon práv ostatních vlastníků jednotek.
+> (2) Ve výstraze podle odstavce 1 se uvede důvod jejího udělení, upozornění na možnost podání návrhu na nařízení prodeje jednotky a výzva, aby se vlastník porušování povinností zdržel, popřípadě aby následky porušování povinností odstranil; k tomu se vlastníkovi vždy poskytne přiměřená lhůta, nejméně však 30 dnů.
+> (3) S podáním návrhu podle odstavce 1 musí vyslovit souhlas většina všech vlastníků jednotek; při určení většiny potřebné pro vyslovení souhlasu se nepřihlíží k hlasu vlastníka podle odstavce 1.
+
 ---
 
 ### Pododdíl 5 — Správa domu a pozemku (§ 1189—1222)
@@ -1715,6 +1871,332 @@ Správu domu zajišťuje SVJ, povinné při alespoň 5 jednotkách a 4 různých
 - [ ] Běží tříměsíční lhůta přehlasovaného vlastníka k soudu (§ 1209)?
 
 **Typicky rozhodné důkazy / podklady:** stanovy SVJ, pozvánka s dokladem o doručení, prezenční listina a zápis ze shromáždění, výpočet hlasů podle podílů, výpis z rejstříku společenství.
+
+**Doslovná znění § 1186 až 1199:**
+
+**§ 1186**:
+> (1) Při převodu vlastnického práva k jednotce nevzniká osobě odpovědné za správu domu povinnost vypořádat příspěvky na správu domu a zálohy na plnění spojená nebo související s užíváním bytu.
+> (2) Při převodu vlastnického práva k jednotce přecházejí s jednotkou na nabyvatele dluhy převodce vůči osobě odpovědné za správu domu na příspěvcích na správu domu a pozemku a na plněních spojených nebo souvisejících s užíváním bytu a zálohách na tato plnění, měl-li je a mohl-li je nabyvatel zjistit. Za dluhy, které na nabyvatele jednotky přešly, ručí převodce osobě odpovědné za správu domu.
+> (3) Převádí-li vlastník vlastnické právo k jednotce, doloží nabyvateli potvrzením osoby odpovědné za správu domu, jaké má dluhy podle odstavce 2, popřípadě že takové dluhy nejsou; potvrzení vydá nabyvateli se souhlasem převodce také osoba odpovědná za správu domu. Má se za to, že nabyvatel nemohl tyto dluhy zjistit, pokud je nemohl zjistit z potvrzení osoby odpovědné za správu domu nebo nevydala-li tato osoba potvrzení bez zbytečného odkladu, ač o něj byla požádána.
+
+**§ 1187**:
+> (1) Vznikla-li jednotka rozdělením práva k domu nebo pozemku na vlastnické právo k jednotkám, má nájemce bytu předkupní právo k jednotce při jejím prvním převodu. To platí i v případě nájmu nebytového prostoru, pokud byl pronajat v souvislosti s bytem v tomtéž domě. Předkupní právo zanikne, nepřijme-li nájemce nabídku do šesti měsíců od její účinnosti.
+> (2) Je-li nájemcem právnická osoba, ustanovení odstavce 1 se nepoužije.
+
+**§ 1188**:
+> Vznikne-li jednotka v domě ve vlastnictví nebo ve spoluvlastnictví právnické osoby a je-li nájemcem člen nebo společník této právnické osoby, který se podílel prací nebo majetkovou účastí na pořízení nemovité věci, lze vlastnické právo k jednotce převést jen na něho. To platí i v případě, že se na pořízení nemovité věci podílel právní předchůdce společníka nebo člena.
+
+**§ 1189**:
+> (1) Správa domu a pozemku zahrnuje vše, co nenáleží vlastníku jednotky a co je v zájmu všech spoluvlastníků nutné nebo účelné pro řádnou péči o dům a pozemek jako funkční celek a zachování nebo zlepšení společných částí. Správa domu a pozemku zahrnuje i činnosti spojené s údržbou a opravou společných částí, přípravou a prováděním změn společných částí domu nástavbou, přístavbou, stavební úpravou nebo změnou v užívání, jakož i se zřízením, udržováním nebo zlepšením zařízení v domě nebo na pozemku sloužících všem spoluvlastníkům domu.
+> (2) Má se za to, že se správa vztahuje i na společné části, které slouží výlučně k užívání jen některému spoluvlastníku.
+
+**§ 1190**:
+> Osobou odpovědnou za správu domu je společenství vlastníků. Nevzniklo-li společenství vlastníků, je osobou odpovědnou za správu domu správce.
+
+**§ 1191**:
+> (1) Nevzniklo-li společenství vlastníků, použijí se na správu pravidla pro správu domu a pozemku a užívání společných částí určená v prohlášení; bylo-li založeno společenství vlastníků a nejsou-li v prohlášení určena tato pravidla, použijí se na správu pravidla obsažená ve stanovách.
+> (2) Pro rozhodování v záležitostech správy domu a pozemku se použijí obdobně ustanovení tohoto zákona o shromáždění. Vlastníky jednotek svolává správce. K přijetí rozhodnutí se vyžaduje souhlas většiny hlasů všech vlastníků jednotek a souhlas většiny všech vlastníků jednotek, ledaže prohlášení nebo stanovy vyžadují počet vyšší; ustanovení § 1209 není dotčeno.
+
+**§ 1192**:
+> Z právních jednání správce jsou vlastníci jednotek oprávněni a zavázáni společně a nerozdílně; jde-li však o právní jednání v záležitosti, která je v působnosti shromáždění, jsou oprávněni a zavázáni, pouze pokud je k němu dán souhlas podle § 1191 odst. 2.
+
+**§ 1193**:
+> (1) První správce je určen v prohlášení. Při volbě nového správce se postupuje podle § 1191 odst. 2. Správce lze odvolat pouze se současným zvolením nového správce.
+> (2) Má-li některý vlastník jednotky při vzniku jednotek podíl na společných částech větší než poloviční, jde o většinového vlastníka, který je vždy správcem. Přestane-li být správce většinovým vlastníkem, mohou vlastníci jednotek zvolit nového správce.
+> (3) Je-li pro to důležitý důvod, soud na návrh některého vlastníka jednotky správce, který je většinovým vlastníkem, odvolá a jmenuje nového správce; to platí i v případě soudem jmenovaného správce. Soudem jmenovaný správce může navrhnout soudu, aby jej odvolal, prokáže-li, že na něm nelze spravedlivě požadovat, aby správcem setrval. Přestane-li být soudem odvolaný správce většinovým vlastníkem, zvolí vlastníci jednotek bez zbytečného odkladu nového správce. Okamžikem zvolení nového správce přestává být soudem jmenovaný správce správcem.
+
+**§ 1194**:
+> (1) Společenství vlastníků je právnická osoba založená za účelem zajišťování správy domu a pozemku; při naplňování svého účelu je způsobilé nabývat práva a zavazovat se k povinnostem. Společenství vlastníků nesmí podnikat ani se přímo či nepřímo podílet na podnikání nebo jiné činnosti podnikatelů nebo být jejich společníkem nebo členem.
+> (2) Členství ve společenství vlastníků je neoddělitelně spojeno s vlastnictvím jednotky. Za dluhy společenství vlastníků ručí jeho člen v poměru podle velikosti svého podílu na společných částech.
+
+**§ 1195**:
+> (1) Společenství vlastníků může nabývat majetek a nakládat s ním pouze pro účely správy domu a pozemku.
+> (2) Práva a povinnosti ze závazků spojených se správou domu a pozemku vzniklých před vznikem společenství vlastníků, z nichž jsou vlastníci jednotek oprávněni a zavázáni společně a nerozdílně, přechází dnem vzniku společenství vlastníků na společenství vlastníků. Společenství vlastníků oznámí bez zbytečného odkladu po svém vzniku všem věřitelům a dlužníkům, kteří jsou oprávněni a zavázáni z těchto pohledávek a dluhů, že došlo ke vzniku společenství vlastníků. Vlastníci jednotek ručí za splnění dluhu společně a nerozdílně, ledaže věřitel bez zbytečného odkladu vyslovil souhlas s tím, aby vlastníci jednotek ručili podle § 1194 odst. 2.
+> (3) K právnímu jednání, kterým společenství vlastníků zajistí dluh jiné osoby, se nepřihlíží.
+> (4) Společenství vlastníků, které vzniklo po převodu jednotek z vlastnictví právnické osoby podle § 1188 do vlastnictví jeho členů, může dluh z úvěru poskytnutého této právnické osobě na opravu, údržbu nebo stavební úpravu domu, převzít, přistoupit k němu nebo jej zajistit, pokud s tím souhlasí všichni jeho členové; souhlas musí mít písemnou formu s úředně ověřeným podpisem. Je-li pro to důležitý důvod a lze-li to po členu spravedlivě požadovat, může společenství vlastníků navrhnout soudu, aby prohlášení vůle člena, který nesouhlasil s převzetím, přistoupením nebo zajištěním takového dluhu, bylo nahrazeno soudním rozhodnutím.
+
+**§ 1196**:
+> (1) Společenství vlastníků právně jedná v mezích svého účelu s vlastníky jednotek i s třetími osobami.
+> (2) Vzniknou-li vlastníkům jednotek práva vadou jednotky, zastupuje společenství vlastníků vlastníky jednotek při uplatňování těchto práv.
+
+**§ 1197**:
+> Sdruží-li se společenství vlastníků s jiným společenstvím vlastníků ke spolupráci při naplňování svého účelu nebo stane-li se členem právnické osoby sdružující společenství vlastníků nebo vlastníky jednotek nebo jinak působící v oblasti bydlení, nesmí se zavázat k jiné majetkové účasti, než je poskytnutí členského vkladu nebo poskytování členských příspěvků. Zaváže-li se společenství vlastníků podílet se na ztrátě jiné osoby, hradit její dluhy nebo je zajistit, nepřihlíží se k tomu, ledaže se jedná o případ uvedený v § 1195 odst. 4.
+
+**§ 1198**:
+> (1) Nebylo-li společenství vlastníků založeno již dříve, založí je vlastníci jednotek v domě, kde je alespoň pět jednotek, z nichž alespoň čtyři jsou ve vlastnictví čtyř různých vlastníků.
+> (2) Do veřejného seznamu se nezapíše vlastnické právo k jednotce převáděné dalšímu vlastníku, pokud není prokázán vznik společenství vlastníků.
+
+**§ 1199**:
+> Je-li v domě méně než pět jednotek, může být společenství vlastníků založeno, pokud s tím souhlasí všichni vlastníci jednotek.
+
+**Doslovné znění § 1201:**
+
+**§ 1201**:
+> Ke změně stanov před vznikem společenství vlastníků se vyžaduje souhlas většiny hlasů všech vlastníků jednotek, ledaže stanovy vyžadují vyšší počet.
+
+**Doslovná znění § 1206 až 1209:**
+
+**§ 1206**:
+> (1) Shromáždění tvoří všichni vlastníci jednotek. Každý z nich má počet hlasů odpovídající velikosti jeho podílu na společných částech; je-li však vlastníkem jednotky společenství vlastníků, k jeho hlasu se nepřihlíží.
+> (2) Shromáždění je způsobilé usnášet se za přítomnosti vlastníků jednotek, kteří mají většinu všech hlasů. K přijetí rozhodnutí se vyžaduje souhlas většiny hlasů přítomných vlastníků jednotek, ledaže stanovy nebo zákon vyžadují vyšší počet hlasů.
+> (3) Působnost shromáždění vykonává ve společenství vlastníků s jediným vlastníkem tento vlastník.
+
+**§ 1207**:
+> (1) Statutární orgán svolá shromáždění k zasedání tak, aby se konalo nejméně jedenkrát do roka. Statutární orgán svolá shromáždění i z podnětu vlastníků jednotek, kteří mají více než čtvrtinu všech hlasů, nejméně však dvou z nich; neučiní-li to, svolají tito vlastníci shromáždění k zasedání na náklad společenství vlastníků sami.
+> (2) Nejsou-li k pozvánce připojeny podklady týkající se pořadu zasedání, umožní svolavatel každému vlastníku jednotky včas se s nimi seznámit.
+> (3) Pokud o to před rozesláním pozvánky na shromáždění požádají vlastníci jednotek podle odstavce 1, zařadí statutární orgán na pořad shromáždění jimi určenou záležitost za předpokladu, že k takové záležitosti je navrženo usnesení nebo je její zařazení odůvodněno.
+
+**§ 1208**:
+> Do působnosti shromáždění patří
+>     - a) změna stanov,
+>     - b) volba a odvolávání členů volených orgánů a rozhodování o výši jejich odměn,
+>     - c) schválení rozpočtu, účetní závěrky, vypořádání výsledku hospodaření a zprávy o hospodaření společenství vlastníků a správě domu a pozemku, jakož i celkové výše příspěvků na správu domu a pozemku pro příští období a rozhodnutí o vyúčtování nebo vypořádání nevyčerpaných příspěvků,
+>     - d) schválení druhu služeb a způsobu rozúčtování cen služeb na jednotky,
+>     - e) rozhodování
+>       - 1. o členství společenství vlastníků v právnické osobě působící v oblasti bydlení,
+>       - 2. o opravě nebo údržbě společné části anebo stavební úpravě společné části, která nevyžaduje změnu prohlášení, převyšují-li náklady částku stanovenou prováděcím právním předpisem; to neplatí, pokud stanovy určí něco jiného,
+>     - f) udělování předchozího souhlasu
+>       - 1. k nabytí, zcizení nebo zatížení nemovitých věcí nebo k jinému nakládání s nimi,
+>       - 2. k nabytí, zcizení nebo zatížení movitých věcí, jejichž hodnota převyšuje částku stanovenou prováděcím právním předpisem, nebo k jinému nakládání s nimi; to neplatí, pokud stanovy určí něco jiného,
+>       - 3. k uzavření smlouvy o úvěru společenstvím vlastníků včetně schválení výše a podmínek úvěru,
+>       - 4. k uzavření smlouvy o zřízení zástavního práva k jednotce, pokud dotčený vlastník jednotky v písemné formě s uzavřením zástavní smlouvy souhlasil,
+>     - g) určení osoby, která má zajišťovat některé činnosti správy domu a pozemku, a rozhodnutí o její změně,
+>     - h) rozhodování v dalších záležitostech určených zákonem, stanovami nebo v záležitostech, které si shromáždění k rozhodnutí vyhradí.
+
+**§ 1209**:
+> (1) Je-li pro to důležitý důvod, může přehlasovaný vlastník jednotky navrhnout soudu, aby o záležitosti týkající se správy domu a pozemku rozhodl; v rámci toho může též navrhnout, aby soud dočasně zakázal jednat podle napadeného rozhodnutí. Není-li návrh podán do tří měsíců ode dne, kdy se vlastník jednotky o rozhodnutí dozvěděl nebo dozvědět mohl, jeho právo zaniká.
+> (2) Soud uspořádá právní poměry vlastníků jednotek podle slušného uvážení. Soud může zejména rozhodnout, zda se má rozhodnutí uskutečnit bez výhrad, s výhradami či proti zajištění, anebo zda se uskutečnit vůbec nemá.
+> (3) Je-li pro to důležitý důvod, může každý vlastník jednotky navrhnout soudu, aby rozhodl o záležitosti, která byla shromáždění řádně předložena k rozhodnutí, ale o které nebylo rozhodnuto pro nezpůsobilost shromáždění usnášet se.
+
+**Doslovná znění § 1211 až 1222:**
+
+**§ 1211**:
+> (1) Není-li svolané shromáždění způsobilé usnášet se, může osoba, která je oprávněna shromáždění svolat, navrhnout v písemné formě, aby vlastníci jednotek rozhodli o týchž záležitostech mimo zasedání. V jiných případech lze navrhnout přijetí rozhodnutí mimo zasedání, pokud to připustí stanovy.
+> (2) Vyžaduje-li zákon nebo stanovy, aby přijetí rozhodnutí shromáždění bylo osvědčeno veřejnou listinou, návrh musí mít formu veřejné listiny; v takovém případě se vlastníkům jednotek zasílá kopie veřejné listiny o návrhu rozhodnutí. Přijetí rozhodnutí se osvědčuje veřejnou listinou.
+> (3) Návrh musí obsahovat alespoň návrh rozhodnutí, podklady potřebné pro jeho posouzení nebo údaj, kde jsou uveřejněny, a údaj o lhůtě, ve které se má vlastník jednotky vyjádřit. Neurčí-li stanovy delší lhůtu, platí, že lhůta činí patnáct dní.
+
+**§ 1212**:
+> K platnosti hlasování se vyžaduje vyjádření vlastníka jednotky s uvedením dne, měsíce a roku, kdy bylo učiněno, podepsané vlastní rukou na listině obsahující plné znění návrhu rozhodnutí. Vyžaduje-li zákon nebo stanovy, aby přijetí rozhodnutí shromáždění bylo osvědčeno veřejnou listinou, musí být podpis vlastníka jednotky na vyjádření úředně ověřen.
+
+**§ 1213**:
+> Statutární orgán oznámí vlastníkům jednotek v písemné formě výsledek hlasování, a pokud bylo usnesení přijato, oznámí jim i celý obsah přijatého usnesení. Neučiní-li to bez zbytečného odkladu, může oznámení učinit na náklady společenství vlastníků ten, kdo usnesení navrhl.
+
+**§ 1214**:
+> Většina se počítá z celkového počtu hlasů všech vlastníků jednotek, ledaže zákon stanoví, že se počítá z celkového počtu vlastníků jednotek.
+
+**§ 1215**:
+> (1) Společenství vlastníků se zrušuje dnem zániku vlastnického práva ke všem jednotkám v domě.
+> (2) Rozhodnutím vlastníků jednotek lze společenství vlastníků zrušit, pokud bylo založeno dobrovolně nebo pokud počet jednotek v domě nebo počet vlastníků jednotek klesl na méně než pět. V takovém případě vlastníci jednotek přijmou pravidla pro správu domu a pozemku a užívání společných částí.
+
+**§ 1216**:
+> Při zrušení společenství vlastníků se neprovádí likvidace. Práva a povinnosti společenství vlastníků přecházejí dnem jeho zániku na vlastníky jednotek v poměru stanoveném podle podílu každého vlastníka jednotky na společných částech.
+
+**§ 1217**:
+> (1) Dohodnou-li se vlastníci jednotek o přeměně bytového spoluvlastnictví v podílové spoluvlastnictví nemovité věci, změní se bytové spoluvlastnictví v podílové spoluvlastnictví zápisem do veřejného seznamu. Má se za to, že se velikost spoluvlastnického podílu každého spoluvlastníka rovná velikosti podílu, jaký měl jako vlastník jednotky na společných částech.
+> (2) Jsou-li všechny jednotky v domě ve společném jmění a dohodnou-li se manželé o přeměně bytového spoluvlastnictví na vlastnictví nemovité věci ve společném jmění, změní se bytové spoluvlastnictví ve vlastnictví nemovité věci ve společném jmění zápisem do veřejného seznamu.
+> (3) Dohoda podle odstavců 1 a 2 vyžaduje písemnou formu.
+
+**§ 1218**:
+> (1) Má-li ke všem jednotkám v domě vlastnické právo jediný vlastník a prohlásí-li, že mění vlastnické právo k jednotkám na vlastnické právo k nemovité věci, bytové spoluvlastnictví zanikne zápisem do veřejného seznamu.
+> (2) Prohlášení vyžaduje písemnou formu.
+
+**§ 1219**:
+> Je-li jednotka zatížena, vyžaduje se k platnosti dohody nebo prohlášení o zrušení bytového spoluvlastnictví souhlas osoby oprávněné z věcného práva udělený v písemné formě.
+
+**§ 1220**:
+> (1) Změní-li se prohlášení, vyhotoví jeho úplné znění osoba odpovědná za správu domu a bez zbytečného odkladu je založí do sbírky listin u orgánu, u něhož je nemovitá věc zapsána ve veřejném seznamu; to platí i v případě, že jsou náležitosti prohlášení obsaženy ve smlouvě o výstavbě.
+> (2) Je-li osoba odpovědná za správu domu zapsána do veřejného rejstříku, založí bez zbytečného odkladu prohlášení v úplném znění i do sbírky listin u orgánu, který vede veřejný rejstřík.
+
+**§ 1221**:
+> (1) Nevyplývá-li z ustanovení o společenství vlastníků něco jiného, použijí se přiměřeně ustanovení o spolku, zejména ustanovení o svolání, zasedání a rozhodování kolektivních orgánů, o neplatnosti rozhodnutí nebo o následcích jeho rozporu s dobrými mravy. Nepoužijí se však ustanovení o shromáždění delegátů ani o dílčích členských schůzích.
+> (2) Stanoví-li zákon ve věcech bytového spoluvlastnictví působnost vlastníkům jednotek, lze ji vykonat i jejich rozhodnutím přijatým na shromáždění.
+
+**§ 1222**:
+> Prováděcí právní předpis stanoví, jakým způsobem se vypočte podlahová plocha bytu v jednotce, o kterých částech nemovité věci se má za to, že jsou společné, a podrobnosti o činnostech týkajících se správy domu a pozemku.
+
+## Přídatné spoluvlastnictví (§ 1223—1235)
+
+**§ 1223**:
+> (1) Věc náležící společně několika vlastníkům samostatných věcí určených k takovému užívání, že tyto věci vytvářejí místně i účelem vymezený celek, a která slouží společnému účelu tak, že bez ní není užívání samostatných věcí dobře možné, je v přídatném spoluvlastnictví těchto vlastníků. Týká-li se přídatné spoluvlastnictví nemovité věci zapisované do veřejného seznamu, zapíše se do veřejného seznamu i přídatné spoluvlastnictví.
+> (2) Ustanovení o přídatném spoluvlastnictví se použijí přiměřeně i na zařízení pořízené nebo jinak nabyté vlastníky uvedenými v odstavci 1 společným nákladem tak, aby sloužilo jim všem.
+
+**§ 1224**:
+> (1) Věc v přídatném spoluvlastnictví nesmí být proti vůli některého ze spoluvlastníků odňata společnému účelu.
+> (2) Zatížit lze věc v přídatném spoluvlastnictví jen způsobem, který nebrání jejímu využití společnému účelu.
+
+**§ 1225**:
+> (1) Žádnému ze spoluvlastníků nelze bránit v účasti na využití věci v přídatném spoluvlastnictví způsobem, který společnému účelu odpovídá a nebrání jejímu využití ostatními spoluvlastníky.
+> (2) Vzdání se práva účasti na využití věci v přídatném spoluvlastnictví některým spoluvlastníkem nemá účinky pro jeho právní nástupce.
+
+**§ 1226**:
+> Slouží-li věc v přídatném spoluvlastnictví k společnému využití pozemků, stanoví se podíly spoluvlastníků na společné věci poměrem výměry pozemků. To spoluvlastníkům nebrání, aby si velikost podílů ujednali jinak.
+
+**§ 1227**:
+> (1) Podíl na věci v přídatném spoluvlastnictví lze převést jen za současného převodu vlastnického práva k věci, k jejímuž využití věc v přídatném spoluvlastnictví slouží. Převádí-li se vlastnické právo k takové věci, platí, že se převod vztahuje i na podíl na věci v přídatném spoluvlastnictví.
+> (2) To platí i pro zatížení předkupním právem, právem zpětné koupě nebo obdobným způsobem, jakož i pro zřízení zástavního práva nebo obdobné jistoty.
+
+**§ 1228**:
+> (1) Oddělit se z přídatného spoluvlastnictví lze za podmínky, že věc, k jejímuž využití věc v přídatném spoluvlastnictví až dosud sloužila, zanikla nebo změnila svůj účel tak, že věc v přídatném spoluvlastnictví už není potřebná.
+> (2) Ze stejného důvodu může kterýkoli z dalších spoluvlastníků navrhnout soudu, aby účast spoluvlastníka v přídatném spoluvlastnictví zrušil a přikázal jeho podíl za náhradu zbývajícím spoluvlastníkům podle poměru jejich podílů.
+
+**§ 1229**:
+> Pozbude-li věc v přídatném spoluvlastnictví svůj účel, zanikne přídatné spoluvlastnictví a spoluvlastníci se vypořádají podle obecných ustanovení o zrušení spoluvlastnictví. Dokud tento účel trvá, nelze přídatné spoluvlastnictví zrušit.
+
+**§ 1230**:
+> Nedohodnou-li se spoluvlastníci jinak, zvolí k běžné správě věci v přídatném spoluvlastnictví jednoho ze spoluvlastníků jako správce. Není-li správce spoluvlastníky zvolen ani po třech měsících, jmenuje ho na návrh kteréhokoli spoluvlastníka soud.
+
+**§ 1231**:
+> (1) Nedojde-li k jiné dohodě, volí spoluvlastníci správce většinou hlasů; každý spoluvlastník má jeden hlas.
+> (2) Spoluvlastník, který pro zvolení správce nehlasoval, může navrhnout soudu, aby správce odvolal, jsou-li pro to důležité důvody, a aby jmenoval správcem jiného spoluvlastníka. Není-li návrh podán do třiceti dnů od přijetí rozhodnutí, právo podat jej zaniká.
+
+**§ 1232**:
+> Ujme-li se spoluvlastník běžné správy věci v přídatném spoluvlastnictví o své vůli a žádný z ostatních spoluvlastníků tomu po dobu tří měsíců neodporuje, ani nepodá návrh podle § 1230, hledí se na něho, jako by byl správcem zvolen.
+
+**§ 1233**:
+> (1) Není-li jiného ujednání, postačí k odvolání správce většina hlasů spoluvlastníků; byl-li však správce jmenován soudem, mohou ho spoluvlastníci odvolat alespoň dvěma třetinami hlasů spoluvlastníků.
+> (2) Ať již byl správce povolán jakkoli, odvolá ho z důležitého důvodu soud na návrh podaný spoluvlastníky, kteří mají alespoň třetinu hlasů.
+
+**§ 1234**:
+> Z právního jednání správce v záležitostech běžné správy jsou spoluvlastníci i správce oprávněni a zavázáni společně a nerozdílně.
+
+**§ 1235**:
+> (1) Na správu věci v přídatném spoluvlastnictví přispívají spoluvlastníci poměrně podle velikosti svých podílů. Na náklady spojené se správou věci v přídatném spoluvlastnictví složí spoluvlastníci k rukám správce přiměřenou zálohu; není-li jiné dohody, je záloha splatná k 31. lednu.
+> (2) Kolik má činit úhrn záloh, rozhodnou spoluvlastníci většinou hlasů. Nepřijmou-li spoluvlastníci takové rozhodnutí do konce předcházejícího roku, platí, že byl úhrn záloh pro další rok stanoven částkou složenou na zálohách v posledním roce zvýšenou o desetinu. Není-li možné úhrn záloh takto stanovit, určí jej na návrh správce soud.
+
+**Výklad:**
+
+**§ 1223 — Pojmové znaky.** Přídatné spoluvlastnictví je **akcesorické (doplňkové) spoluvlastnictví**: věc náleží společně několika vlastníkům samostatných věcí, jestliže (i) samostatné věci jsou určeny k takovému užívání, že „vytvářejí místně i účelem vymezený celek", a (ii) společná věc slouží společnému účelu tak, že „bez ní není užívání samostatných věcí dobře možné" — typicky společná cesta, parkoviště nebo vodovod sloužící skupině pozemků (srov. § 1226). Kvalifikace nastává naplněním těchto zákonných znaků; týká-li se přídatné spoluvlastnictví nemovité věci zapisované do veřejného seznamu, zapíše se do veřejného seznamu i přídatné spoluvlastnictví (publicita režimu vůči třetím osobám). Podle odstavce 2 se úprava použije přiměřeně i na **zařízení** pořízené nebo jinak nabyté týmiž vlastníky „společným nákladem tak, aby sloužilo jim všem".
+
+**Vztah k podílovému spoluvlastnictví (§ 1115 a násl.).** Jde o zvláštní druh spoluvlastnictví; obecná úprava se použije podpůrně (srov. výslovný odkaz § 1229 na obecná ustanovení o zrušení spoluvlastnictví). Odchylky od obecného režimu jsou zásadní: (1) **účelová vázanost** — věc „nesmí být proti vůli některého ze spoluvlastníků odňata společnému účelu" (§ 1224 odst. 1), zatímco v obecném spoluvlastnictví postačí ke změně účelu 2/3 většina (§ 1129); (2) **akcesorita podílu** (§ 1227) namísto volné dispozice podílem (§ 1121, § 1123); (3) **zákaz zrušení za trvání účelu** (§ 1229) jako výjimka ze zásady, že nikdo nemůže být nucen ve spoluvlastnictví setrvat (§ 1140); (4) **hlasování podle hlav** — „každý spoluvlastník má jeden hlas" (§ 1231 odst. 1), nikoli podle velikosti podílů (§ 1126); (5) **velikost podílů** se u věcí sloužících společnému využití pozemků stanoví default „poměrem výměry pozemků" (§ 1226), nikoli domněnkou stejných podílů (§ 1122 odst. 3).
+
+**§ 1224—1225 — Ochrana účelu a účasti.** Každý jednotlivý spoluvlastník má právo veta proti odnětí věci společnému účelu; zatížit věc lze jen způsobem, který nebrání jejímu využití společnému účelu (§ 1224 odst. 2) — přípustné je tedy např. jen takové zatížení služebností, které společné užívání nenaruší (§ 1257 a násl.). Zrcadlově platí, že žádnému spoluvlastníku nelze bránit v účasti na využití věci způsobem, který společnému účelu odpovídá a nebrání jejímu využití ostatními (§ 1225 odst. 1). Vzdání se práva účasti působí jen osobně — „nemá účinky pro jeho právní nástupce" (§ 1225 odst. 2); nástupce proto nabývá účast v plném rozsahu.
+
+**§ 1226—1227 — Podíly a jejich akcesorita.** Slouží-li věc společnému využití pozemků, stanoví se podíly poměrem výměry pozemků; pravidlo je dispozitivní — spoluvlastníci si mohou velikost podílů ujednat jinak. Podíl nelze převést samostatně, nýbrž jen za současného převodu vlastnického práva k věci, k jejímuž využití věc v přídatném spoluvlastnictví slouží; při převodu hlavní věci naopak „platí, že se převod vztahuje i na podíl na věci v přídatném spoluvlastnictví" (§ 1227 odst. 1). Opomenutí podílu v převodní smlouvě je proto bez právního významu — podíl sleduje hlavní věc ze zákona. Týž akcesorický režim platí pro zatížení předkupním právem, právem zpětné koupě nebo obdobným způsobem, jakož i pro zřízení zástavního práva nebo obdobné jistoty (§ 1227 odst. 2).
+
+**§ 1228—1229 — Oddělení a zánik.** Oddělit se z přídatného spoluvlastnictví lze jen za podmínky, že hlavní věc „zanikla nebo změnila svůj účel tak, že věc v přídatném spoluvlastnictví už není potřebná" (§ 1228 odst. 1); ze stejného důvodu mohou ostatní navrhnout soudu, aby účast takového spoluvlastníka zrušil a jeho podíl za náhradu přikázal zbývajícím spoluvlastníkům podle poměru podílů (§ 1228 odst. 2) — obrana proti přetrvávání účasti osob, které již společnou věc nepotřebují. Pozbude-li věc svůj účel, přídatné spoluvlastnictví zaniká a spoluvlastníci se vypořádají podle obecných ustanovení o zrušení spoluvlastnictví (§ 1140 a násl.); do té doby platí: „Dokud tento účel trvá, nelze přídatné spoluvlastnictví zrušit." (§ 1229).
+
+**§ 1230—1234 — Správa.** Běžnou správu vykonává správce z řad spoluvlastníků (nedohodnou-li se spoluvlastníci jinak); volí se většinou hlasů, přičemž každý spoluvlastník má jeden hlas (§ 1231 odst. 1). Není-li správce zvolen ani po třech měsících, jmenuje ho na návrh kteréhokoli spoluvlastníka soud (§ 1230). Spoluvlastník, který pro zvolení nehlasoval, může do třiceti dnů od přijetí rozhodnutí navrhnout soudu, aby správce z důležitých důvodů odvolal a jmenoval správcem jiného spoluvlastníka (§ 1231 odst. 2). Praktickou pojistkou je fikce zvolení (§ 1232): ujme-li se spoluvlastník běžné správy o své vůli a žádný z ostatních tomu po dobu tří měsíců neodporuje ani nepodá návrh podle § 1230, „hledí se na něho, jako by byl správcem zvolen". K odvolání správce postačí většina hlasů, u správce jmenovaného soudem alespoň dvě třetiny hlasů; z důležitého důvodu odvolá správce soud na návrh spoluvlastníků majících alespoň třetinu hlasů (§ 1233). Z právních jednání správce v záležitostech běžné správy jsou spoluvlastníci i správce oprávněni a zavázáni **společně a nerozdílně** (§ 1234) — ochrana třetích osob obdobná § 1127.
+
+**§ 1235 — Náklady správy.** Na správu přispívají spoluvlastníci poměrně podle velikosti svých podílů (na rozdíl od hlasování se zde tedy velikost podílu uplatní) a skládají k rukám správce přiměřenou zálohu, splatnou — není-li jiné dohody — k 31. lednu. Úhrn záloh určují spoluvlastníci většinou hlasů; nerozhodnou-li do konce předcházejícího roku, platí úhrn loňský zvýšený o desetinu, a není-li možné jej stanovit ani tak, určí jej na návrh správce soud. Financování správy je tak plně samonosné — pasivita spoluvlastníků nevede k jeho paralýze.
+
+**Vazba na další ustanovení:**
+- § 1115 a násl. — obecná úprava spoluvlastnictví (podpůrné použití);
+- § 1121—1123 — dispozice spoluvlastnickým podílem (u přídatného spoluvlastnictví vyloučena akcesoritou podle § 1227);
+- § 1122 odst. 3 — domněnka stejných podílů (u věcí sloužících společnému využití pozemků nahrazena poměrem výměr podle § 1226);
+- § 1126 a násl. — správa společné věci v obecném spoluvlastnictví (hlasy podle podílů — § 1231 odst. 1 stanoví odchylně jeden hlas na spoluvlastníka); § 1127 — solidarita ze správních jednání (obdoba § 1234);
+- § 1140 a násl. — zrušení a vypořádání spoluvlastnictví (podle § 1229 se použijí až po zániku účelu);
+- § 1257 a násl. — služebnosti (zatížení věci jen způsobem nebránícím společnému účelu, § 1224 odst. 2);
+- § 1309 a násl. — zástavní právo; § 2135 a násl., § 2140 a násl. — zpětná koupě a předkupní právo (zatížení podílu sdílí akcesorický režim podle § 1227 odst. 2);
+- § 980 a násl. — veřejné seznamy (zápis přídatného spoluvlastnictví u evidovaných nemovitých věcí, § 1223 odst. 1).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Osm vlastníků rekreačních chat v osadě vlastní každý svůj pozemek; jediný přístup k nim zajišťuje soukromá cesta na samostatném pozemku, který je v přídatném spoluvlastnictví všech osmi (v katastru zapsáno, podíly podle výměry pozemků). Vlastník V1 prodá chatu s pozemkem nabyvateli N; kupní smlouva se o podílu na cestě nezmiňuje. V2 poté N brání v užívání cesty s tím, že podíl na ní nenabyl, a současně navrhne zrušení spoluvlastnictví cesty a její rozdělení. O cestu se přitom již čtyři roky bez námitek ostatních stará V3, který nyní žádá zálohy na zimní údržbu. Důkazy: výpis z katastru se zápisem přídatného spoluvlastnictví, kupní smlouva V1—N, výměry pozemků, doklady o faktické správě V3 a nákladech údržby.
+
+**2. Právní otázka.** Přešel podíl na cestě v přídatném spoluvlastnictví na N spolu s pozemkem i bez výslovného ujednání (§ 1227), lze spoluvlastnictví cesty zrušit za trvání jejího účelu (§ 1229) a je V3 správcem oprávněným požadovat zálohy (§ 1232, § 1235)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1223 (znaky přídatného spoluvlastnictví; zápis do veřejného seznamu), § 1225 (právo účasti na využití), § 1226 (podíly poměrem výměry pozemků), § 1227 (akcesorita podílu — převod hlavní věci se vztahuje i na podíl), § 1229 (zákaz zrušení, dokud trvá účel), § 1230—1232 (správce; fikce zvolení), § 1234—1235 (solidarita z jednání správce; příspěvky a zálohy).
+- *Související ustanovení téhož zákona:* § 1115 a násl. (obecné spoluvlastnictví — podpůrně), § 1140 a násl. (zrušení a vypořádání — až po zániku účelu), § 1121 a § 1123 (obecná dispozice podílem — zde vyloučena).
+- *Související předpisy:* zák. č. 256/2013 Sb., o katastru nemovitostí (zápis přídatného spoluvlastnictví).
+- *Judikatura:* rozhodovací praxe k přídatnému spoluvlastnictví je zatím sporá; přiměřeně se uplatní obecné závěry ke správě společné věci a ke zrušení spoluvlastnictví.
+
+**4. Subsumpce.** Cesta naplňuje znaky § 1223: náleží společně vlastníkům samostatných pozemků, jež tvoří místně i účelem vymezený celek (osada), a bez ní není užívání chat dobře možné (jediný přístup). Podíl V1 přešel na N ze zákona — podle § 1227 odst. 1 platí, že převod pozemku se vztahuje i na podíl na cestě; mlčení smlouvy je nerozhodné a N nelze bránit v účasti na využití cesty (§ 1225 odst. 1). Návrh V2 na zrušení nemůže uspět, dokud cesta slouží svému účelu (§ 1229). V3 se ujal běžné správy o své vůli a nikdo mu po dobu tří měsíců neodporoval ani nepodal návrh podle § 1230 — hledí se na něj, jako by byl správcem zvolen (§ 1232); zálohy se skládají k jeho rukám (§ 1235 odst. 1). Sporné: úhrn záloh, nebyl-li určen rozhodnutím většiny (§ 1235 odst. 2).
+
+**5. Řešení.** N nabyl podíl na cestě současně s pozemkem; domáhá se zápisu svého přídatného spoluvlastnictví, případně určení práva, a proti bránění v užívání se brání vlastnickou žalobou. Návrh V2 na zrušení soud zamítne (§ 1229); v úvahu připadá nejvýše zrušení účasti jednotlivce podle § 1228, zanikla-li nebo změnila-li účel jeho hlavní věc. V3 jako správce vybírá zálohy splatné k 31. lednu; nebyl-li úhrn určen většinou, platí loňská částka zvýšená o desetinu, jinak jej na návrh správce určí soud (§ 1235 odst. 2). Riziko: prokazování, že cesta je pro užívání chat skutečně nezbytná (rovnocenný alternativní přístup by znaky § 1223 zpochybnil).
+
+**6. Varianty.** (a) Získá-li osada nové veřejné napojení a cesta ztratí svůj účel, přídatné spoluvlastnictví zanikne a vypořádá se podle obecných ustanovení o zrušení spoluvlastnictví (§ 1229); zanikne-li či změní-li účel jen chata V1, může se V1 oddělit, resp. ostatní mohou navrhnout přikázání jeho podílu za náhradu (§ 1228). (b) Chtěl-li by kdokoli cestu zatížit, je to možné jen způsobem, který nebrání jejímu využití společnému účelu (§ 1224 odst. 2); odnětí cesty společnému účelu proti vůli byť jediného spoluvlastníka je vyloučeno (§ 1224 odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka, že podíl na cestě na N nepřešel, když nebyl ve smlouvě uveden:** § 1227 odst. 1 obsahuje zákonnou konstrukci („platí, že se převod vztahuje i na podíl"); podíl sleduje hlavní věc bez ohledu na text smlouvy a samostatný převod podílu je naopak vyloučen.
+- **Námitka práva kdykoli žádat zrušení spoluvlastnictví (§ 1140):** přídatné spoluvlastnictví je zvláštní režim — § 1229 zrušení za trvání účelu výslovně zakazuje; obecná úprava zrušení nastupuje až po zániku účelu.
+- **Slabé místo:** posouzení znaku, že bez společné věci „není užívání samostatných věcí dobře možné" — existuje-li rovnocenný jiný přístup, nejde o přídatné spoluvlastnictví, nýbrž o běžné podílové spoluvlastnictví s volnou dispozicí podílem; u fikce správcovství (§ 1232) je nadto třeba doložit tříměsíční nečinnost ostatních.
+
+#### H. Praktický závěr
+
+Přídatné spoluvlastnictví váže společnou věc na vlastnictví hlavních věcí: podíl přechází automaticky s hlavní věcí (§ 1227), věc nesmí být proti vůli žádného spoluvlastníka odňata společnému účelu (§ 1224) a spoluvlastnictví nelze zrušit, dokud účel trvá (§ 1229). Běžnou správu vede správce — zvolený, jmenovaný soudem, nebo fingovaně zvolený tříměsíční nerušenou správou (§ 1230—1232); náklady se hradí poměrně podle podílů zálohami splatnými k 31. lednu (§ 1235).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje věc znaky § 1223 (místně i účelem vymezený celek; bez věci není užívání samostatných věcí dobře možné)?
+- [ ] Je přídatné spoluvlastnictví nemovité věci zapsáno ve veřejném seznamu (§ 1223 odst. 1)?
+- [ ] Jsou podíly určeny poměrem výměry pozemků, nebo odchylným ujednáním (§ 1226)?
+- [ ] Počítá převodní dokumentace s tím, že podíl přechází s hlavní věcí automaticky (§ 1227)?
+- [ ] Trvá společný účel (překážka zrušení — § 1229; podmínka oddělení — § 1228)?
+- [ ] Je ustaven správce (volba / jmenování soudem / fikce podle § 1232) a určen úhrn záloh (§ 1235)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z veřejného seznamu (zápis přídatného spoluvlastnictví), nabývací tituly k hlavním věcem, doklady o účelu a nezbytnosti společné věci (přístup, sítě), výměry pozemků, zápisy o volbě správce a rozhodnutích o zálohách, vyúčtování nákladů správy.
+
+## Zvláštní ustanovení o společenství jmění (§ 1236—1239)
+
+**§ 1236**:
+> Nabude-li věc do vlastnictví více osob spojených na základě smlouvy, zákona nebo jiné právní skutečnosti ve společenství, ať již se jedná o manžele, osoby spojené v rodinné společenství, společenství dědiců nebo jiná obdobná společenství, platí, že má každá z těchto osob právo k celé věci.
+
+**§ 1237**:
+> Práva a povinnosti vlastníků spojených ve společenství se řídí ustanoveními, podle kterých bylo společenství zřízeno. Ustanovení § 1238 a 1239 se použijí, není-li stanoveno něco jiného.
+
+**§ 1238**:
+> (1) Není-li ujednáno něco jiného, vyžaduje se k výkonu vlastnických práv a k nakládání se společnou věcí jednomyslné rozhodnutí všech zúčastněných.
+> (2) Není-li ujednáno něco jiného, nelze se domáhat rozdělení společné věci, dokud společenství trvá, ani nakládat s podílem na společné věci.
+
+**§ 1239**:
+> Vlastnické právo ke společné věci zaniká jejím zcizením, nebo zánikem společenství; pro vypořádání se použijí ustanovení o spoluvlastnictví.
+
+**Výklad:**
+
+**§ 1236 — Podstata společenství jmění.** Společenství jmění je forma mnohosti vlastníků odlišná od podílového spoluvlastnictví: účastníci nemají vymezené ideální podíly, nýbrž „platí, že má každá z těchto osob právo k celé věci" (vlastnictví tzv. spojené ruky). Společenství vzniká spojením osob „na základě smlouvy, zákona nebo jiné právní skutečnosti"; výčet je demonstrativní — manželé (společné jmění manželů), osoby spojené v rodinné společenství, společenství dědiců i „jiná obdobná společenství". Ustanovení § 1236—1239 společenství sama nezakládají; předpokládají jeho existenci a určují vlastnický režim věcí do něj nabytých.
+
+**§ 1237 — Přednost zvláštní úpravy.** Práva a povinnosti účastníků se řídí především „ustanoveními, podle kterých bylo společenství zřízeno" — u manželů úpravou společného jmění (§ 708 a násl.), u společenství dědiců pravidly dědického práva (§ 1475 a násl.), u smluvních společenství smlouvou. Pravidla § 1238 a 1239 jsou podpůrná: použijí se, jen „není-li stanoveno něco jiného"; § 1238 je nadto v obou odstavcích výslovně dispozitivní („Není-li ujednáno něco jiného").
+
+**§ 1238 — Jednomyslnost a vázanost za trvání společenství.** K výkonu vlastnických práv a k nakládání se společnou věcí se vyžaduje jednomyslné rozhodnutí všech zúčastněných (odst. 1) — na rozdíl od většinového rozhodování v podílovém spoluvlastnictví (§ 1128: prostá většina, § 1129: dvoutřetinová většina). Podle odstavce 2 „nelze se domáhat rozdělení společné věci, dokud společenství trvá, ani nakládat s podílem na společné věci" — dvojí zákaz, jenž je protikladem § 1140 (právo kdykoli žádat zrušení spoluvlastnictví) i § 1121 (volná dispozice podílem) a plyne z toho, že za trvání společenství žádný vyčíslený podíl neexistuje.
+
+**§ 1239 — Zánik a vypořádání.** Vlastnické právo ke společné věci zaniká jejím zcizením nebo zánikem společenství; „pro vypořádání se použijí ustanovení o spoluvlastnictví" (zejména § 1140 a násl.). Teprve zánikem společenství se účast každého z účastníků přetváří v samostatně uchopitelnou pozici. Praktický dopad: kdo chce ze společenství vystoupit, musí primárně ukončit společenství podle pravidel, jimiž se řídí (vypořádání společného jmění, rozdělení pozůstalosti, zánik smlouvy), nikoli žalovat na zrušení spoluvlastnictví jednotlivé věci.
+
+**Vazba na další ustanovení:**
+- § 1115 a násl. — podílové spoluvlastnictví jako obecný režim (jeho ustanovení se podle § 1239 použijí pro vypořádání); srov. § 1115 odst. 2 (přiměřené použití úpravy spoluvlastnictví na společenství jiných věcných práv);
+- § 1121, § 1123 — dispozice podílem (za trvání společenství vyloučena § 1238 odst. 2);
+- § 1128—1129 — většinové rozhodování o správě společné věci (kontrast k jednomyslnosti podle § 1238 odst. 1);
+- § 1140 a násl. — zrušení a vypořádání spoluvlastnictví (nastupuje až po zániku společenství, § 1239);
+- § 708 a násl. — společné jmění manželů (nejvýznamnější zákonné společenství jmění; jako zvláštní úprava má podle § 1237 přednost);
+- § 700 a násl. — rodinný závod (srov. osoby spojené v rodinné společenství);
+- § 1475 a násl. — dědické právo (společenství dědiců do rozdělení pozůstalosti).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Po smrti otce zůstali sourozenci S1, S2 a S3 jedinými dědici; do pozůstalosti patří rodinný dům. Ještě za trvání řízení o pozůstalosti uzavře S1 se známým smlouvu o převodu třetiny domu a po ostatních žádá rozdělení domu; S2 mezitím dům bez souhlasu ostatních pronajme třetí osobě. S3 s ničím z toho nesouhlasí. Důkazy: úmrtní list, usnesení o okruhu dědiců, smlouva S1 o převodu třetiny, nájemní smlouva uzavřená S2, korespondence mezi sourozenci.
+
+**2. Právní otázka.** Může jednotlivý člen společenství dědiců za trvání společenství nakládat s podílem na věci z pozůstalosti nebo se domáhat jejího rozdělení a jaké rozhodnutí se vyžaduje k nakládání se společnou věcí (§ 1236—1239)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1236 (společenství dědiců jako společenství jmění; právo každého k celé věci), § 1237 (přednost pravidel, podle nichž bylo společenství zřízeno; podpůrnost § 1238—1239), § 1238 (jednomyslnost; zákaz domáhat se rozdělení věci a nakládat s podílem za trvání společenství), § 1239 (zánik; vypořádání podle ustanovení o spoluvlastnictví).
+- *Související ustanovení téhož zákona:* § 1475 a násl. (dědické právo — úprava, podle níž společenství vzniklo), § 1115 a násl. a § 1140 a násl. (vypořádání po zániku společenství), § 1121 a § 1123 (kontrast — volná dispozice podílem v podílovém spoluvlastnictví).
+- *Související předpisy:* zák. č. 292/2013 Sb., o zvláštních řízeních soudních (řízení o pozůstalosti).
+- *Judikatura:* obecné závěry rozhodovací praxe k nakládání s majetkem pozůstalosti do jejího rozdělení a k vypořádání spoluvlastnictví.
+
+**4. Subsumpce.** Společenství dědiců je v § 1236 výslovně uvedeno mezi společenstvími jmění: žádný ze sourozenců nemá vymezený podíl na domě, každý má právo k celé věci. Převod třetiny domu známému je proto za trvání společenství vyloučen (§ 1238 odst. 2 — nelze nakládat s podílem na společné věci) a rozdělení domu se S1 domáhat nemůže, dokud společenství trvá. Pronájem domu je nakládáním se společnou věcí, k němuž se vyžaduje jednomyslné rozhodnutí všech (§ 1238 odst. 1); přednostně se ovšem uplatní pravidla, podle nichž společenství vzniklo — zde dědické právo a režim správy pozůstalosti (§ 1237). Sporné: zda si sourozenci neujednali něco jiného (obě pravidla § 1238 jsou dispozitivní).
+
+**5. Řešení.** Smlouva S1 nemůže za trvání společenství vyvolat zamýšlené účinky — známý podíl nenabude; rozdělení domu i dispozice podílem přicházejí v úvahu až po zániku společenství. Zůstane-li dům po rozdělení pozůstalosti více dědicům, stanou se podílovými spoluvlastníky a uplatní se obecná úprava včetně § 1140 a násl. (§ 1239). Nájem sjednaný S2 bez jednomyslného souhlasu ostatní sourozence nezavazuje; věc se primárně řeší v rámci řízení o pozůstalosti. Riziko: existence odchylného ujednání či zvláštních pravidel správy pozůstalosti, která mají podle § 1237 přednost.
+
+**6. Varianty.** (a) Ujednají-li si sourozenci správu domu odchylně (např. většinové rozhodování), § 1238 se nepoužije — obě jeho pravidla jsou výslovně dispozitivní. (b) Zcizí-li dům všichni společně, vlastnické právo společenství k němu zaniká a vypořádání — tentokrát ohledně výtěžku — proběhne podle ustanovení o spoluvlastnictví (§ 1239).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka S1, že jako spoluvlastník smí s podílem volně nakládat (§ 1121):** ve společenství jmění vymezený podíl neexistuje — § 1236 přiznává každému právo k celé věci a § 1238 odst. 2 dispozici podílem za trvání společenství vylučuje; § 1121 nastupuje až po jeho zániku.
+- **Námitka rozporu se zásadou, že nikdo nemůže být nucen setrvat ve spoluvlastnictví (§ 1140):** úprava společenství jmění je zvláštní; cesta ven vede přes ukončení společenství podle pravidel, jimiž se řídí (rozdělení pozůstalosti, vypořádání společného jmění), a teprve poté nastoupí vypořádání podle § 1239.
+- **Slabé místo:** kategorie „jiná obdobná společenství" (§ 1236) je neostrá — u atypických uskupení může být sporné, zda vzniklo společenství jmění, nebo podílové spoluvlastnictví; rozhodná je právní skutečnost, na níž se společenství zakládá (§ 1237), a tu je třeba doložit.
+
+#### H. Praktický závěr
+
+Ve společenství jmění nemá účastník vymezený podíl — každý má právo k celé věci (§ 1236); režim se řídí primárně pravidly, podle nichž společenství vzniklo (§ 1237), a podpůrně platí jednomyslné rozhodování i zákaz dispozice podílem a rozdělení věci za trvání společenství (§ 1238). Vypořádání podle ustanovení o spoluvlastnictví přichází až se zcizením věci nebo zánikem společenství (§ 1239).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o společenství jmění (manželé, rodinné společenství, dědicové, jiné obdobné společenství — § 1236), nebo o podílové spoluvlastnictví?
+- [ ] Jaká zvláštní úprava (zákonná či smluvní) má podle § 1237 před § 1238—1239 přednost?
+- [ ] Je k výkonu vlastnických práv a k nakládání se společnou věcí jednomyslný souhlas všech, resp. odchylné ujednání (§ 1238 odst. 1)?
+- [ ] Trvá společenství (překážka rozdělení věci i dispozice podílem — § 1238 odst. 2)?
+- [ ] Zaniklo společenství nebo byla věc zcizena — nastupuje vypořádání podle ustanovení o spoluvlastnictví (§ 1239)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o právní skutečnosti zakládající společenství (usnesení v řízení o pozůstalosti, doklady o manželství a společném jmění, smlouva), ujednání účastníků o správě, smlouvy se třetími osobami ohledně společné věci, doklady o zániku společenství a jeho vypořádání.
 
 ---
 

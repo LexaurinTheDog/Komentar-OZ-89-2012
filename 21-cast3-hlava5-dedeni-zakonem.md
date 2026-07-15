@@ -548,6 +548,16 @@ Vzdání se dědictví (na rozdíl od odmítnutí) předpokládá, že dědic d�
 
 ### Oddíl 1 — Všeobecná ustanovení (§ 1491—1493)
 
+**§ 1491**:
+> Pořízení pro případ smrti jsou závěť, dědická smlouva nebo dovětek.
+
+**§ 1492**:
+> Pořízením pro případ smrti nelze zkrátit povinný díl nepominutelného dědice, který se práva na povinný díl nezřekl a nedošlo-li ani k vydědění. Pokud tomu pořízení pro případ smrti odporuje, náleží nepominutelnému dědici povinný díl.
+
+**§ 1493**:
+> (1) Pořídil-li zůstavitel pro případ smrti v době, kdy byl v péči zařízení, kde se poskytují zdravotnické nebo sociální služby, nebo kdy jinak přijímal jeho služby, a povolal-li za dědice nebo odkazovníka osobu, která takové zařízení spravuje nebo je v něm zaměstnána nebo v něm jinak působí, je povolání těchto osob za dědice nebo odkazovníka neplatné, ledaže se tak stalo závětí učiněnou ve formě veřejné listiny.
+> (2) Mohl-li zůstavitel po ukončení péče takového zařízení nebo po uplynutí doby, kdy jinak přijímal jeho služby, bez obtíží pořídit ve formě veřejné listiny, odstavec 1 se nepoužije, pokud jde o neplatnost závěti nebo dovětku.
+
 **§ 1491** — **Pořízení pro případ smrti** je závěť, dědická smlouva nebo dovětek.
 
 **§ 1492** — **Ochrana povinného dílu**: pořízení pro případ smrti **nesmí zkrátit povinný díl** nepominutelného dědice (= potomka — § 1643), který se nezřekl a nebyl vyděděn.
@@ -559,6 +569,82 @@ Vzdání se dědictví (na rozdíl od odmítnutí) předpokládá, že dědic d�
 ### Oddíl 2 — Závěť (§ 1494—1581)
 
 #### Pododdíl 1 — Obecná ustanovení (§ 1494—1497)
+
+**Doslovná znění § 1551 až 1572:**
+
+**§ 1551**:
+> (1) Zůstavitel může uvést v závěti podmínku, doložení času nebo příkaz.
+> (2) Směřuje-li vedlejší doložka jen k zřejmému obtěžování dědice nebo odkazovníka ze zjevné zůstavitelovy svévole, nepřihlíží se k ní. Nepřihlíží se ani k vedlejší doložce, která zjevně odporuje veřejnému pořádku nebo je nesrozumitelná.
+
+**§ 1552**:
+> Nepřihlíží se k vedlejší doložce, kterou zůstavitel ukládá dědici nebo odkazovníku, aby uzavřel či neuzavřel manželství, popřípadě aby v manželství setrval, anebo aby manželství zrušil. Zůstavitel však může zřídit někomu právo na dobu, než uzavře manželství.
+
+**§ 1553**:
+> (1) Zůstavitel může závětí povolat vykonavatele závěti a případně určit, jaké má povinnosti a zda i jak bude odměňován.
+> (2) Zjistí-li soud při projednávání dědictví, že byl vykonavatel závěti povolán, vyrozumí ho o tom. Vykonavatel závěti může z funkce kdykoli odstoupit; odstoupení je účinné, dojde-li soudu.
+
+**§ 1554**:
+> (1) Vykonavatel závěti dbá o řádné splnění poslední vůle zůstavitele s péčí řádného hospodáře. Náleží mu všechna práva potřebná k splnění jeho úkolů, včetně práva před soudem hájit platnost závěti, namítat nezpůsobilost dědice nebo odkazovníka a vůbec dbát o splnění zůstavitelových pokynů.
+> (2) Nepovolal-li zůstavitel správce pozůstalosti, náleží vykonavateli závěti také správa pozůstalosti, dokud soud nerozhodne o jiném opatření. Ustanovení o správci pozůstalosti se na vykonavatele závěti použijí obdobně, byl-li povolán veřejnou listinou; jinak se použijí přiměřeně.
+
+**§ 1555**:
+> Při námitce neplatnosti povolání do funkce může vykonavatel závěti uplatňovat svá práva a plnit své povinnosti až do právní moci rozhodnutí, že projev zůstavitelovy vůle není platný, pokud soud neučiní jiné opatření.
+
+**§ 1556**:
+> (1) Zůstavitel může povolat správce pozůstalosti nebo některé její části (dále jen „správce pozůstalosti“) a případně určit, jaké má povinnosti a zda i jak bude odměňován. Povolání správce pozůstalosti vyžaduje formu veřejné listiny.
+> (2) Projev vůle, kterým byl správce pozůstalosti povolán, lze zrušit stejným způsobem, jakým se zrušuje závěť.
+
+**§ 1557**:
+> Správce pozůstalosti se správy ujme, je-li mu známo, že byl povolán, jakmile se dozví o zůstavitelově smrti. Zjistí-li až soud, že byl správce pozůstalosti povolán, vyrozumí ho o tom.
+
+**§ 1558**:
+> Byl-li povolán vykonavatel závěti, řídí se správce pozůstalosti jeho pokyny; jejich vzájemná práva a povinnosti se posoudí podle ustanovení o příkazu.
+
+**§ 1559**:
+> Správce pozůstalosti může z funkce kdykoli odstoupit; odstoupení je účinné, dojde-li soudu.
+
+**§ 1560**:
+> Poruší-li vykonavatel závěti nebo správce pozůstalosti závažně své povinnosti, není-li schopen své povinnosti řádně plnit nebo je-li pro to jiný vážný důvod, odvolá ho soud i bez návrhu.
+
+**§ 1561**:
+> Směřuje-li podmínka k jednání dědice nebo odkazovníka, které jím může být opakováno, musí být znovu vykonáno po smrti zůstavitele, třebaže se tak stalo již za zůstavitelova života, není-li zřejmá jiná vůle zůstavitele.
+
+**§ 1562**:
+> K nabytí toho, co bylo zůstaveno s odkládací podmínkou, je třeba, aby osoba, jíž bylo něco takto zůstaveno, přežila zůstavitele a byla způsobilá dědit.
+
+**§ 1563**:
+> (1) Uděluje-li se někomu právo s nemožnou rozvazovací podmínkou, nepřihlíží se k ní.
+> (2) Ustanovení závěti, kterým se někomu uděluje právo s nemožnou odkládací podmínkou, je neplatné.
+
+**§ 1564**:
+> Omezí-li zůstavitel někomu právo doložením času a není-li jisté, zda čas nastane, platí zůstavené právo za podmíněné.
+
+**§ 1565**:
+> Je-li čas určen tak, že rozhodná chvíle nastat musí, přechází zůstavené právo jako jiná nepodmíněná práva i na dědice té osoby, jíž bylo takto zůstaveno.
+
+**§ 1566**:
+> Je-li jisté, že doba vyměřená v závěti nastat nikdy nemůže, posoudí se toto doložení času jako nemožná podmínka. Bude-li však nepochybné, že se zůstavitel při určení času jenom zmýlil, určí se rozhodná chvíle podle jeho pravděpodobné vůle.
+
+**§ 1567**:
+> (1) Dokud zůstává právo následného dědice odsunuto, až bude splněna podmínka nebo až nastane doložený čas, je právo předního dědice, kterému dědictví připadlo, omezeno jako právo poživatele; ustanovení § 1520 až 1524 se použijí obdobně.
+> (2) Dědic, jehož právo bylo odloženo nařízením podmínky nebo doložením času, nabude, co mu bylo zůstaveno, s povinností přispět poměrně přednímu dědici na to, co on plnil na zůstavitelovy dluhy nebo nepominutelnému dědici na povinný díl.
+
+**§ 1568**:
+> Byl-li povolán přední a následný odkazovník, použije se § 1567 obdobně.
+
+**§ 1569**:
+> (1) Zůstaví-li zůstavitel někomu něco s připojením příkazu, posuzuje se příkaz jako rozvazovací podmínka, takže se zůstavení práva zmaří, nebude-li příkaz proveden, ledaže zůstavitel projeví jinou vůli.
+> (2) Zákaz zcizení nebo zatížení zavazuje obtíženého, jen je-li nařízen na určitou přiměřenou dobu a odůvodněn vážným zájmem hodným právní ochrany, jinak může soud na návrh obtíženého rozhodnout, že se k zákazu nepřihlíží. Byl-li zákaz zapsán do veřejného seznamu, může obtížený požadovat, aby soud zákaz zrušil; soud návrhu nevyhoví, neprokáže-li se, že zájem na zrušení zákazu zřejmě převyšuje zájem na jeho zachování.
+
+**§ 1570**:
+> Nelze-li příkaz splnit přesně, budiž splněn alespoň tak, aby mu bylo přibližně co možná vyhověno. Není-li možné ani to, náleží osobě obtížené příkazem, co jí bylo zůstaveno, ledaže zůstavitel projevil jinou vůli. Kdo se však učinil neschopným splnit příkaz, věda, že jej tím zmaří, pozbude, co mu bylo zůstaveno.
+
+**§ 1571**:
+> Právo vymáhat splnění příkazu má kromě osoby, jíž je příkaz k prospěchu, také vykonavatel závěti nebo jiná osoba k tomu v závěti povolaná.
+
+**§ 1572**:
+> (1) Směřuje-li příkaz k prospěchu více osob bez bližšího určení, splní obtížená osoba příkaz vůči právnické osobě oprávněné chránit zájmy těchto osob. Je-li takových právnických osob více a není-li zřejmá jiná zůstavitelova vůle, má volbu osoba obtížená příkazem; neprovede-li ji bez zbytečného odkladu, určí oprávněnou osobu soud na návrh toho, kdo na tom má právní zájem.
+> (2) Směřuje-li příkaz k veřejnému prospěchu, může splnění příkazu vymáhat i příslušný orgán veřejné moci.
 
 ### § 1494 — Definice závěti
 
@@ -691,9 +777,124 @@ Listina, na niž závěť odkazuje, má účinky závěti jen při splnění jej
 
 #### Připadnutí pozůstalosti (§ 1499—1502)
 
+**§ 1499**:
+> Dědici připadne celá pozůstalost, je-li povolán jako dědic jediný. Je-li povolanému dědici zůstaven jen podíl, připadne zbylá část pozůstalosti zákonným dědicům.
+
+**§ 1500**:
+> (1) Je-li povoláno několik dědiců a podíly nejsou určeny, mají právo na pozůstalost rovným dílem.
+> (2) Je-li povoláno několik dědiců tak, že jsou všem určeny podíly, ale pozůstalost není vyčerpána, mají právo na zbylou část pozůstalosti zákonní dědicové. Toto právo zákonní dědicové nemají, zůstavil-li zůstavitel povolaným dědicům zřejmě celou pozůstalost, byť i při výčtu podílů nebo věcí něco přehlédl.
+
+**§ 1501**:
+> (1) Vyměří-li zůstavitel některým z povolaných dědiců určité podíly a jiným nikoli, připadne dědicům povolaným bez podílu zbylá část pozůstalosti rovným dílem.
+> (2) Nezbude-li nic, srazí se pro dědice, který byl povolán bez podílu, poměrně ze všech vyměřených podílů tolik, aby se mu dostalo podílu rovného s dědicem, kterému bylo vyměřeno nejméně. Jsou-li podíly ostatních dědiců stejné, srazí se z nich tolik, aby se dědici, který byl ustaven bez podílu, dostal podíl s nimi stejný.
+
+**§ 1502**:
+> Ve všech případech, kdy se zůstavitel zřejmě přepočetl, se provede dělení tak, aby byla jeho vůle naplněna co nejlépe.
+
 - **§ 1499** — Jediný povolaný dědic = celá pozůstalost; jen podíl → zbytek zákonným;
 - **§ 1500** — Více dědiců bez určení podílů → **rovným dílem**;
 - **§ 1501—1502** — Pravidla pro nejasné podíly, „přepočet" zůstavitele (vůle naplněna *co nejlépe*).
+
+**Doslovná znění § 1503 až 1531:**
+
+**§ 1503**:
+> (1) Vyskytnou-li se mezi povolanými dědici osoby pokládané při zákonné dědické posloupnosti vzhledem k ostatním za jednu osobu, pokládají se za jednu osobu i při dělení podle závěti; to neplatí, je-li vůle zůstavitele zřejmě opačná.
+> (2) Povolá-li zůstavitel za dědice bez bližšího určení skupinu osob, má se za to, že dědici jsou ti, kteří do určené skupiny patřili v době zůstavitelovy smrti.
+> (3) Povolá-li zůstavitel za dědice bez bližšího určení chudé či obdobně určenou skupinu osob, má se za to, že za dědice byla povolána obec, na jejímž území měl zůstavitel poslední bydliště, která dědictví použije ve prospěch určené skupiny.
+
+**§ 1504**:
+> Podíl dědice, který nedědí a nemá náhradníka, se uvolní a přiroste poměrně k podílům ostatních povolaných dědiců jen tehdy, jsou-li všichni dědicové povoláni k dědictví buď rovným dílem, nebo všeobecným výrazem znamenajícím rovné podělení.
+
+**§ 1505**:
+> (1) Právo na přírůstek nemá ten, komu byl zůstaven určitý dědický podíl.
+> (2) Jsou-li někteří dědici povoláni s podílem a další bez takového určení, přiroste uvolněný podíl těm, kteří jsou povoláni bez podílu.
+
+**§ 1506**:
+> S uvolněným dědickým podílem přecházejí na toho, komu přiroste, omezení s ním spojená, ledaže zůstavitel projevil vůli, že se tato omezení vztahují jedině k osobě povolaného dědice, anebo plyne-li to z povahy věci.
+
+**§ 1507**:
+> Zůstavitel může pro případ, že dědictví nenabude osoba, kterou povolal za dědice, povolat této osobě náhradníka; také náhradníkům může povolat postupně další náhradníky. Povolá-li zůstavitel takto několik náhradníků, dědí ten, který je ve výčtu nejbližší osobě, která dědictví nenabyla.
+
+**§ 1508**:
+> Zřídí-li zůstavitel náhradnictví pro případ, že by povolaná osoba dědit nechtěla, nebo pro případ, že by dědit nemohla, má se za to, že náhradnictví bylo zřízeno pro oba tyto případy.
+
+**§ 1509**:
+> Omezení uložená dědici postihují také náhradníka, ledaže zůstavitel projevil vůli, že se tato omezení vztahují jedině k osobě dědice, nebo plyne-li to z povahy věci.
+
+**§ 1510**:
+> Jsou-li za náhradníky povoláni samotní spoludědicové, má se za to, že zůstavitel chtěl podělit náhradníky v takovém poměru, v jakém podělil dědice. Je-li však za náhradníka povolán mimo spoludědice ještě někdo jiný, pak neprojeví-li zůstavitel jinou vůli, připadne uvolněný podíl všem rovným dílem.
+
+**§ 1511**:
+> (1) Nabude-li povolaný dědic dědictví, náhradnictví zanikne.
+> (2) Neprojeví-li zůstavitel jinou vůli, zanikne náhradnictví, které zůstavitel zřídil svému dítěti v době, kdy nemělo potomky, zanechá-li toto dítě potomky způsobilé dědit. To platí i tehdy, zřídí-li zůstavitel náhradnictví jinému svému potomku v době, kdy ten potomky nemá.
+
+**§ 1512**:
+> (1) Zůstavitel může nařídit, že dědictví má přejít po smrti dědice nebo v určitých jiných případech na svěřenského nástupce jako následného dědice. Povolání za svěřenského nástupce se považuje i za povolání za náhradníka.
+> (2) Je-li zůstavitelovo nařízení do té míry neurčité, že nelze zjistit, zda povolal náhradníka, nebo svěřenského nástupce, považuje se jeho nařízení za povolání náhradníka.
+
+**§ 1513**:
+> Povolá-li zůstavitel svému dědici dědice, zakáže-li dědici, aby o zanechaném jmění pořizoval, povolá-li za dědice někoho, kdo v době smrti zůstavitele ještě není, anebo povolá-li dědice s podmínkou nebo na určitou dobu, považuje se to za zřízení svěřenského nástupnictví.
+
+**§ 1514**:
+> Jsou-li všichni svěřenští nástupci zůstavitelovými současníky, není omezena řada, ve které po sobě mají svěřenští nástupci následovat.
+
+**§ 1515**:
+> (1) Je-li povoláno více svěřenských nástupců, z nichž někteří v době smrti zůstavitele jako osoby ještě neexistují, zanikne svěřenské nástupnictví, jakmile jmění nabude první svěřenský nástupce z těch, kteří nebyli zůstavitelovými současníky.
+> (2) Svěřenské nástupnictví zanikne nejpozději uplynutím sta let od smrti zůstavitele, a to i když nařídil delší dobu. Má-li však svěřenský nástupce nabýt dědictví nejpozději při smrti dědice žijícího v době zůstavitelovy smrti, zanikne svěřenské nástupnictví teprve, až první ze svěřenských nástupců nabude dědictví po tomto dědici.
+
+**§ 1516**:
+> Svěřenské nástupnictví zanikne také tehdy, není-li již žádný ze svěřenských nástupců, nebo nenastane-li případ, pro který bylo zřízeno.
+
+**§ 1517**:
+> Povolal-li zůstavitel svěřenského nástupce svému nezletilému dítěti nezpůsobilému pořizovat a nabude-li dítě poté pořizovací způsobilost, zaniká svěřenské nástupnictví v rozsahu povinného dílu.
+
+**§ 1518**:
+> Není-li zřejmá jiná vůle zůstavitele, zanikne svěřenské nástupnictví, které zůstavitel zřídil svému dítěti v době, kdy nemělo potomka, zanechá-li dítě potomka způsobilého dědit. To platí i tehdy, zřídí-li zůstavitel svěřenské nástupnictví jinému svému potomku v době, kdy ten potomka nemá.
+
+**§ 1519**:
+> Povolal-li zůstavitel svěřenského nástupce osobě, která není způsobilá pořizovat pro omezení svéprávnosti, zanikne svěřenské nástupnictví navždy, nabude-li tato osoba pořizovací způsobilost, ledaže zůstavitel projevil jinou vůli.
+
+**§ 1520**:
+> (1) Požádá-li o to svěřenský nástupce, sestaví dědic bez zbytečného odkladu a za jeho přítomnosti v písemné formě inventář všeho, co děděním nabyl, uvede v něm den sestavení a vydá ho svěřenskému nástupci. Na žádost svěřenského nástupce musí být podpis dědice na inventáři úředně ověřen.
+> (2) Svěřenský nástupce má právo požadovat sestavení inventáře ve formě veřejné listiny.
+> (3) Náklady na sestavení inventáře jdou k tíži dědictví.
+
+**§ 1521**:
+> Nesvěřil-li zůstavitel při nařízení svěřenského nástupnictví dědici právo s dědictvím volně nakládat, je vlastnické právo dědice k tomu, co nabyl děděním, jakož i k tomu, co nabyl náhradou za zničení, poškození nebo odnětí věci z dědictví, omezeno na práva a povinnosti poživatele. To neplatí, je-li věc z dědictví zcizena nebo zatížena za účelem úhrady zůstavitelových dluhů.
+
+**§ 1522**:
+> (1) Nesvěřil-li zůstavitel při nařízení svěřenského nástupnictví dědici právo s dědictvím volně nakládat, může dědic zcizit nebo zatížit věc z toho, co děděním nabyl, jen se souhlasem svěřenského nástupce; souhlas vyžaduje formu veřejné listiny.
+> (2) Je-li vzhledem k péči řádného hospodáře potřebné věc zatížit nebo zcizit, může soud na návrh dědice souhlas svěřenského nástupce nahradit. Rozhodne-li soud, že věc bude zatížena nebo zcizena za úplatu, určí, jak se naloží s výtěžkem; přitom vezme zřetel na oprávněné zájmy svěřenského nástupce.
+
+**§ 1523**:
+> Náleží-li do dědictví věc přinášející plody nebo užitky, může svěřenský nástupce požadovat, aby soud stanovil dědici způsob a rozsah hospodaření s věcí nebo požívání věci.
+
+**§ 1524**:
+> (1) Zapisuje-li se věc a její vlastník do veřejného seznamu, zapíše se do veřejného seznamu i svěřenské nástupnictví. Jsou-li věc a svěřenské nástupnictví do veřejného seznamu zapsány a naloží-li dědic s věcí, kterou nabyl z dědictví, způsobem mařícím nebo omezujícím práva svěřenského nástupce, aniž s tím svěřenský nástupce souhlasil, nemá to vůči svěřenskému nástupci právní účinky.
+> (2) Nejsou-li věc nebo svěřenské nástupnictví zapsány do veřejného seznamu a naloží-li dědic s věcí, kterou nabyl z dědictví, způsobem mařícím nebo omezujícím práva svěřenského nástupce, aniž s tím svěřenský nástupce souhlasil, má svěřenský nástupce právo domáhat se podle ustanovení o relativní neúčinnosti, aby soud určil, že právní jednání dědice není vůči němu právně účinné.
+
+**§ 1525**:
+> Nesvéprávný není způsobilý pořizovat, nejedná-li se o případy uvedené v § 1526 až 1528.
+
+**§ 1526**:
+> Kdo dovršil patnácti let věku a dosud nenabyl plné svéprávnosti, může pořizovat bez souhlasu zákonného zástupce formou veřejné listiny.
+
+**§ 1527**:
+> Kdo byl ve svéprávnosti omezen tak, že není způsobilý pořizovat, může přesto platně pořídit v jakékoli formě, pokud se uzdravil do té míry, že je schopen projevit vlastní vůli.
+
+**§ 1528**:
+> (1) Kdo byl ve svéprávnosti omezen, může v rámci omezení pořizovat jen formou veřejné listiny.
+> (2) Kdo byl ve svéprávnosti omezen pro chorobnou závislost na požívání alkoholu, užívání psychotropních látek nebo podobných přípravků či jedů nebo chorobnou závislost na hráčské vášni představující závažnou duševní poruchu, může v rozsahu omezení pořizovat v jakékoli předepsané formě, nejvýše však o polovině pozůstalosti. Zbývající část pozůstalosti připadne zákonným dědicům; měl-li by však jako zákonný dědic dědit jen stát, může zůstavitel pořídit o celé pozůstalosti.
+
+**§ 1529**:
+> Podstatný omyl zůstavitele způsobuje neplatnost ustanovení závěti, kterého se týká.
+
+**§ 1530**:
+> (1) Omyl je podstatný, týká-li se osoby, které se něco zůstavuje, nebo podílu či věci, které se zůstavují, anebo podstatných vlastností věci. Vlastnosti jsou podstatné, je-li zřejmé, že by zůstavitel v závěti tak neurčil, kdyby se v nich nebyl zmýlil.
+> (2) Ustanovení závěti je platné, ukáže-li se, že osoba nebo věc byla jen nesprávně popsána.
+
+**§ 1531**:
+> Zakládá-li se vůle zůstavitele jen na mylné pohnutce, způsobuje neplatnost ustanovení závěti, kterého se týká.
 
 #### Pododdíl 2 — Forma závěti (§ 1532—1542)
 
@@ -729,6 +930,70 @@ Listina, na niž závěť odkazuje, má účinky závěti jen při splnění jej
 - Na lodi/letadle → před kapitánem;
 - Vojenská závěť → před velitelem.
 
+**Doslovná znění § 1533 až 1549:**
+
+**§ 1533**:
+> Kdo chce pořizovat v písemné formě beze svědků, napíše celou závěť vlastní rukou a vlastní rukou ji podepíše.
+
+**§ 1534**:
+> Závěť, kterou zůstavitel nenapsal vlastní rukou, musí vlastní rukou podepsat a před dvěma svědky současně přítomnými výslovně prohlásit, že listina obsahuje jeho poslední vůli.
+
+**§ 1535**:
+> (1) Je-li zůstavitel nevidomý, projeví poslední vůli před třemi současně přítomnými svědky v listině, která musí být nahlas přečtena svědkem, který závěť nepsal. Zůstavitel před svědky potvrdí, že listina obsahuje jeho poslední vůli.
+> (2) Je-li zůstavitel osobou se smyslovým postižením a nemůže-li číst nebo psát, projeví poslední vůli před třemi současně přítomnými svědky v listině, jejíž obsah musí být tlumočen zvláštním způsobem dorozumívání, který si zůstavitel zvolí, svědkem, který závěť nepsal; všichni svědci musí ovládat způsob dorozumívání, kterým je obsah listiny tlumočen. Zůstavitel zvoleným způsobem dorozumívání před svědky potvrdí, že listina obsahuje jeho poslední vůli.
+
+**§ 1536**:
+> (1) V závěti pořízené osobou se smyslovým postižením, která nemůže číst nebo psát, budiž uvedeno, že zůstavitel nemůže číst nebo psát, kdo závěť napsal, kdo ji přečetl nebo tlumočil a jakým způsobem zůstavitel potvrdil, že listina obsahuje jeho poslední vůli. Byl-li obsah tlumočen zvláštním způsobem dorozumívání, uvede se to v listině včetně údaje, jaký způsob dorozumívání zůstavitel zvolil.
+> (2) Listinu podepíše i zůstavitel; nemůže-li psát, použije se § 563 obdobně.
+
+**§ 1537**:
+> Zůstavitel může projevit poslední vůli ve veřejné listině.
+
+**§ 1538**:
+> Kdo sepisuje veřejnou listinu o závěti, přesvědčí se, zda se projev poslední vůle děje s rozvahou, vážně a bez donucení.
+
+**§ 1539**:
+> (1) Svědci se zúčastní pořizování závěti takovým způsobem, aby byli s to potvrdit, že zůstavitel a pořizovatel jsou jedna a táž osoba. Svědek se podepíše na listinu obsahující závěť; k podpisu zpravidla připojí doložku poukazující na jeho vlastnost jako svědka a údaje, podle nichž ho lze zjistit.
+> (2) Svědkem nemůže být osoba nesvéprávná, nebo osoba, která není znalá jazyka, nebo způsobu dorozumívání, v němž se projev vůle činí.
+
+**§ 1540**:
+> (1) Dědic nebo odkazovník není způsobilý svědčit o tom, co se mu zůstavuje. Stejně není způsobilá být svědkem osoba dědici nebo odkazovníkovi blízká, ani zaměstnanec dědice nebo odkazovníka.
+> (2) K platnosti ustanovení závěti učiněného ve prospěch některé z osob uvedených v odstavci 1 se vyžaduje, aby je zůstavitel napsal vlastní rukou, nebo aby je potvrdili tři svědci.
+
+**§ 1541**:
+> Ustanovení § 1540 platí obdobně i pro toho, koho zůstavitel povolal za vykonavatele závěti nebo kdo při pořizování závěti působí jako pisatel, předčitatel, tlumočník nebo úřední osoba.
+
+**§ 1542**:
+> (1) Kdo je pro nenadálou událost v patrném a bezprostředním ohrožení života, má právo pořídit závěť ústně před třemi současně přítomnými svědky. Totéž právo má i ten, kdo se nachází v místě, kde je běžný společenský styk ochromen následkem mimořádné události a nelze-li po něm rozumně požadovat, aby pořídil v jiné formě.
+> (2) Nepořídí-li svědci záznam o zůstavitelově poslední vůli, bude důvodem dědické posloupnosti soudní protokol o výslechu svědků.
+
+**§ 1543**:
+> Je-li důvodná obava, že by zůstavitel zemřel dříve, než by mohl pořídit závěť ve formě veřejné listiny, může zaznamenat jeho poslední vůli starosta obce, na jejímž území se zůstavitel nalézá, za přítomnosti dvou svědků. Za týchž podmínek může zaznamenat zůstavitelovu poslední vůli i ten, kdo je podle jiného právního předpisu oprávněn vykonávat pravomoci starosty.
+
+**§ 1544**:
+> (1) Má-li pro to zůstavitel vážný důvod, může na palubě námořního plavidla plujícího pod státní vlajkou České republiky nebo letadla zapsaného v leteckém rejstříku v České republice zaznamenat zůstavitelovu poslední vůli za přítomnosti dvou svědků velitel námořního plavidla nebo letadla, popřípadě jeho zástupce, pokud mu v tom nebrání péče o bezpečnost plavby nebo letu. Platnost závěti nelze popřít tím, že zůstavitel neměl k pořízení závěti vážný důvod.
+> (2) Byla-li závěť pořízena podle odstavce 1 na palubě
+>     - a) námořního plavidla, zaznamená to velitel v lodním deníku a závěť bez zbytečného odkladu předá zastupitelskému úřadu České republiky, který je nejblíže přístavu, do něhož námořní plavidlo připluje, popřípadě orgánu veřejné moci, u něhož je námořní plavidlo zapsáno v námořním rejstříku, nebo
+>     - b) letadla, zaznamená to velitel v palubním deníku a závěť předá bez zbytečného odkladu zastupitelskému úřadu České republiky, který je nejblíže místu, kde letadlo přistálo v zahraničí, popřípadě orgánu veřejné moci, u něhož je letadlo zapsáno v leteckém rejstříku.
+
+**§ 1545**:
+> (1) Při účasti v ozbrojeném konfliktu a vojenských operacích může zaznamenat poslední vůli vojáka nebo jiné osoby náležející k ozbrojeným silám velitel vojenské jednotky České republiky, nebo jiný voják v hodnosti důstojníka nebo vyšší, za přítomnosti dvou svědků. Byla-li závěť takto pořízena, nelze její platnost popřít.
+> (2) Závěť pořízenou podle odstavce 1 odevzdá velitel bez zbytečného odkladu veliteli nadřízeného velitelství, odkud se bez zbytečného odkladu předá Ministerstvu obrany České republiky.
+
+**§ 1546**:
+> Byla-li závěť pořízena podle § 1543, zařídí obec bez zbytečného odkladu její úschovu u notáře. Byla-li závěť pořízena podle § 1544 nebo 1545, zařídí totéž úřad, jemuž byla závěť předána.
+
+**§ 1547**:
+> (1) Pořídil-li zůstavitel podle § 1543, 1544 nebo 1545, vyžaduje se, aby osoba, která záznam pořídila, jej také s oběma svědky podepsala a zůstaviteli za přítomnosti obou svědků přečetla a aby zůstavitel potvrdil, že jde o projev jeho poslední vůle. Takto pořízená závěť se považuje za veřejnou listinu.
+> (2) Došlo-li při vyhotovování závěti podle § 1543, 1544 nebo 1545 k porušení předepsaných formalit, zejména chybí-li na listině podpisy přítomných svědků, ač se vyžadují, ale je-li přesto jisté, že listina spolehlivě zaznamenává zůstavitelovu poslední vůli, nepůsobí to neplatnost závěti; taková listina se však za veřejnou listinu nepovažuje.
+
+**§ 1548**:
+> (1) Při pořizování závěti s úlevami mohou být svědky i osoby, které dosáhly patnáctého roku věku, a osoby, které byly ve svéprávnosti omezeny, pokud jsou způsobilé věrohodně popsat skutečnosti významné pro platnost závěti.
+> (2) Je-li závěť pořízena s úlevami, není její platnosti na újmu, že ji zůstavitel nebo svědek nepodepsal proto, že nemohl psát, nebo pro jinou závažnou překážku, je-li to v listině výslovně uvedeno.
+
+**§ 1549**:
+> Je-li zůstavitel naživu, pozbývá platnosti závěť pořízená podle § 1542 uplynutím dvou týdnů a podle § 1543, 1544, nebo 1545 uplynutím tří měsíců ode dne pořízení. Tyto doby však nepočnou běžet ani neběží, dokud zůstavitel nemůže pořídit závěť ve formě veřejné listiny.
+
 #### Pododdíl 3 — Vedlejší doložky v závěti (§ 1551—1572)
 
 **Vedlejší doložky** = ustanovení závěti, která neustanovují dědice, ale **upravují jeho postavení**:
@@ -758,6 +1023,30 @@ Listina, na niž závěť odkazuje, má účinky závěti jen při splnění jej
 - Vykonatelný **jinou osobou** (typicky vykonavatelem závěti).
 
 #### Pododdíl 4 — Zrušení závěti (§ 1573—1581)
+
+**§ 1573**:
+> Vysloví-li se zůstavitel o účelu, ke kterému něco někomu zanechává, ale neuloží-li povinnost k tomuto účelu zanechané věci použít, hledí se na jeho projev vůle jako na přání bez právní závaznosti.
+
+**§ 1574**:
+> Ustanovení, kterým zůstavitel dědici nebo odkazovníku přikáže s pohrůžkou ztráty nějaké výhody, aby závěti neodporoval, nemá právní účinky, jde-li jen o odpor proti pravosti závěti nebo proti výkladu jejího smyslu.
+
+**§ 1575**:
+> (1) Zůstavitel má právo závěť nebo její jednotlivá ustanovení kdykoli zrušit.
+> (2) Závěť se zrušuje odvoláním nebo pořízením pozdější závěti.
+
+**§ 1577**:
+> K výslovnému odvolání závěti se vyžaduje projev vůle učiněný ve formě předepsané pro pořízení závěti.
+
+**§ 1578**:
+> (1) K odvolání závěti mlčky se vyžaduje zničení listiny, na níž byla závěť napsána. Zničí-li zůstavitel jen jeden z několika stejnopisů závěti, nelze z toho ještě usuzovat na její odvolání.
+> (2) Porušil-li zůstavitel listinu jiným způsobem, nebo neobnovil-li závěť, ač ví, že listina byla zničena nebo ztracena, závěť se tím ruší, plyne-li z okolností nepochybně zůstavitelův zrušovací úmysl.
+
+**§ 1579**:
+> (1) Byla-li závěť pořízena ve formě veřejné listiny, má zůstavitel právo požadovat kdykoli, aby mu závěť byla vydána; závěť lze vydat jen zůstaviteli osobně. Vydá-li se zůstaviteli závěť, považuje se za odvolanou; o tom zůstavitele poučí ten, kdo mu závěť vydal, a odvolání závěti i poučení poznamená na vydávané listině i ve svém spisu.
+> (2) Byla-li závěť uložena do úřední úschovy, má zůstavitel právo požadovat její vydání; vydání závěti nemá právní následky podle druhé věty odstavce 1.
+
+**§ 1580**:
+> Zruší-li zůstavitel novější závěť, ale dřívější uchová, má se za to, že dřívější závěť nepozbyla platnost a hledí se na ni, jako by nebyla zrušena.
 
 **Tři způsoby zrušení**:
 
@@ -828,6 +1117,15 @@ Dědická smlouva je nejsilnější, oboustranně zavazující dědický titul v
 - [ ] Sledovat pozdější pořízení a darování a zvážit dovolání se jejich neúčinnosti (§ 1588).
 
 **Typicky rozhodné důkazy / podklady:** notářský zápis dědické smlouvy, pozdější závěti a darovací smlouvy, doklady o plnění účelu smlouvy (např. péče), znalecké posouzení svéprávnosti při uzavření.
+
+**Doslovná znění § 1583 až 1584:**
+
+**§ 1583**:
+> Co se v tomto oddílu stanoví o smluvním dědici, platí obdobně i pro smluvního odkazovníka.
+
+**§ 1584**:
+> (1) Dědickou smlouvu může uzavřít zletilý zůstavitel, který je plně svéprávný; je-li zůstavitel ve svéprávnosti omezen, může dědickou smlouvu uzavřít a závazek z ní změnit se souhlasem opatrovníka.
+> (2) Dědickou smlouvu mohou strany uzavřít a závazek z ní změnit jen osobním jednáním.
 
 ### § 1585—1593 — Specifika
 
@@ -976,6 +1274,14 @@ Odkaz zakládá obligační pohledávku odkazovníka vůči obtíženému dědic
 
 **Typicky rozhodné důkazy / podklady:** závěť (text odkazu), doklady o vlastnictví odkázaných věcí, soupis pozůstalosti, přihlášky pohledávek věřitelů.
 
+**Doslovná znění § 1595 až 1596:**
+
+**§ 1595**:
+> Odkaz může zřídit osoba způsobilá pořizovat závětí. Zůstavitel nezpůsobilý pořizovat může ze svého majetku odkázat jinému jen předměty malé hodnoty.
+
+**§ 1596**:
+> Zůstavitel může také dědici nebo spoludědicům zanechat přednostní odkaz; vzhledem k tomuto odkazu se budou posuzovat jako odkazovníci.
+
 ### § 1597—1602 — Zřízení a obtížení odkazem
 
 **§ 1597**:
@@ -1050,6 +1356,11 @@ Odkazy jdou k tíži dědiců podle podílů, avšak každému dědici musí zů
 - [ ] Prověřit, zda odkaz nebyl odvolán nakládáním s věcí (§ 1602).
 
 **Typicky rozhodné důkazy / podklady:** závěť s odkazy, ocenění aktiv a vyčíslení dluhů, doklady o nakládání s odkázanými věcmi za života zůstavitele.
+
+**Doslovné znění § 1603:**
+
+**§ 1603**:
+> Má se za to, že odkaz nebyl odvolán, pokud odkázanou věc nabyla jiná osoba nebo byla-li odkázaná věc změněna či zničena mimo vůli zůstavitele. To platí i tehdy, vyrovnal-li dlužník zůstaviteli odkázanou pohledávku z vlastního popudu.
 
 ### Druhy odkazů
 
@@ -1157,6 +1468,76 @@ Odkaz jednotlivé věci z pozůstalosti (a vyjmenované odkazy) lze požadovat i
 - [ ] Sledovat dostatečnost pozůstalosti (§ 1630–1631) a výhradu soupisu dědice.
 
 **Typicky rozhodné důkazy / podklady:** závěť, doklad o datu úmrtí, soupis a ocenění pozůstalosti, doklady o povaze odkázaného plnění, podklady k zajištění.
+
+**Doslovná znění § 1604 až 1617:**
+
+**§ 1604**:
+> (1) Při odkazu věci určitého druhu, je-li takových věcí v pozůstalosti více, rozhodne osoba obtížená odkazem, která věc bude odkazovníkovi vydána. Musí však zvolit takovou věc, kterou odkazovník bude moci užívat.
+> (2) Ponechá-li se odkazovníku, aby si z několika věcí sám vybral, může zvolit i věc nejlepší.
+
+**§ 1605**:
+> (1) Při odkazu věci určitého druhu, která však v pozůstalosti není, není odkaz platný. Odkáže-li zůstavitel několik věcí určitého druhu a není-li jich v pozůstalosti určené množství, spokojí se odkazovník s těmi, které v pozůstalosti jsou.
+> (2) Neodkáže-li však zůstavitel věc určitého druhu výslovně ze svého vlastnictví a není-li taková věc v pozůstalosti, opatří ji osoba obtížená odkazem odkazovníku v jakosti přiměřené osobním poměrům a potřebě odkazovníka.
+
+**§ 1606**:
+> (1) Zůstavitel může pověřit i jinou osobu, aby zvolila, kterou z několika věcí má odkazovník dostat. Nevykoná-li tato osoba volbu, určí odkaz soud se zřetelem k osobním poměrům a potřebě odkazovníka.
+> (2) Soud určí odkaz také tehdy, když odkazovník nevykoná volbu, která mu byla ponechána, ve lhůtě stanovené k žádosti osoby obtížené odkazem.
+
+**§ 1607**:
+> Odkaz peněz zavazuje osobu obtíženou odkazem k jejich vyplacení, ať již hotové peníze v pozůstalosti jsou, nebo nejsou.
+
+**§ 1608**:
+> Při opakování odkazu určité věci v jednom nebo několika ustanoveních nemá odkazovník právo na odkázanou věc i na její cenu zároveň. Jiné odkazy, byť i obsahují věc téhož druhu nebo stejnou peněžní částku, náležejí odkazovníku, kolikrát jsou opakovány.
+
+**§ 1609**:
+> K odkazu věci, která v době pořízení závěti náležela odkazovníkovi, se nepřihlíží. Nabyl-li ji později, uhradí se mu obvyklá cena věci; dostal-li ji však bezplatně od samotného zůstavitele, platí, že odkaz byl odvolán.
+
+**§ 1610**:
+> (1) Nepřihlíží se k odkazu věci cizí nenáležející ani zůstaviteli, ani dědici nebo odkazovníkovi, který ji má poskytnout někomu jinému. Mají-li uvedené osoby na odkázané věci podíl nebo právo, týká se odkaz jen tohoto podílu nebo práva.
+> (2) Nařídil-li zůstavitel, že cizí věc má být koupena a poskytnuta odkazovníku, avšak její vlastník ji nechce prodat za obvyklou cenu, vyplatí se odkazovníku tato cena.
+
+**§ 1611**:
+> Zastavení nebo jiné zatížení odkázané věci postihují příjemce jako závady odkazu.
+
+**§ 1612**:
+> Při odkazu pohledávky, která zůstaviteli náleží za někým jiným, postoupí osoba obtížená odkazem tuto pohledávku s příslušenstvím a případným zajištěním odkazovníku, vydá mu potřebné doklady o pohledávce a sdělí mu vše, co je k uplatnění pohledávky proti dlužníku zapotřebí.
+
+**§ 1613**:
+> Odkaz všech pohledávek zahrnuje sice všechny pohledávky trvající po zřízení odkazu, nikoli však pohledávky vzniklé z převoditelných cenných papírů a vkladních knížek, ani pohledávky váznoucí na nemovitých věcech a pohledávky vznikající z práva věcného.
+
+**§ 1614**:
+> Odkaz pohledávky, kterou má zůstavitel za odkazovníkem, zavazuje obtíženou osobu k tomu, aby vydala odkazovníku kvitanci anebo vrátila dlužní úpis.
+
+**§ 1615**:
+> Prominutí dluhu se nevztahuje na dluhy vzniklé po zřízení odkazu. Promine-li se odkazem zajištění dluhu, neplyne z toho ještě, že byl prominut také dluh. Prodlouží-li se jen lhůta k placení, neplyne z toho ještě prominutí úroků.
+
+**§ 1616**:
+> (1) Odkaz dluhu, který má zůstavitel uhradit odkazovníku, má ten právní účinek, že zavazuje osobu obtíženou odkazem uznat dluh, který zůstavitel určitě vyjádří nebo odkazovník prokáže, a uhradit jej nejpozději ve lhůtě pro splnění ostatních odkazů bez zřetele k podmínkám a lhůtám, které obtížený se zůstavitelem ujednal.
+> (2) Nařídí-li zůstavitel, aby odkazovníkova pohledávka byla zajištěna, musí mu být poskytnuta dostatečná jistota.
+
+**§ 1617**:
+> Odkáže-li zůstavitel někomu stejnou částku, jakou mu je sám dlužen, má se za to, že nechtěl odkazem splnit dluh. Odkazovník obdrží dluh i odkaz.
+
+**Doslovné znění § 1619:**
+
+**§ 1619**:
+> I při jiných odkazech než podle § 1594 až 1618 se použije obdobně § 1503.
+
+**Doslovná znění § 1620 až 1623:**
+
+**§ 1620**:
+> (1) Odkazovník nabývá právo na odkaz pro sebe a pro své nástupce smrtí zůstavitele.
+> (2) O právu na odkaz, které má teprve vzniknout, platí § 1480 obdobně.
+
+**§ 1621**:
+> (1) Odkázanou věc nabývá odkazovník způsobem, jakým se nabývá vlastnické právo.
+> (2) Dospěje-li právo na odkaz, může se odkazovník domáhat vydání odkázané věci. Zapisuje-li se odkázaná věc do veřejného seznamu, nahradí vydání věci prohlášení vykonavatele závěti, jinak obtížené osoby, s úředně ověřeným podpisem; nebyla-li splatnost odkazu odložena, zapíše se odkazovník do veřejného seznamu přímo po zůstaviteli.
+
+**§ 1622**:
+> Před smrtí zůstavitele nemůže odkazovník právo na odkaz převést ani o něm pořídit.
+
+**§ 1623**:
+> Prohlásí-li odkazovník způsobem, jaký je stanoven pro odmítnutí dědictví, že odkaz nechce, hledí se na něho, jako by právo na odkaz vůbec nenabyl.
 
 ---
 
@@ -1356,6 +1737,14 @@ Je-li dědic se zůstavitelem příbuzný z více stran, dědí z každé strany
 
 ### Oddíl 1 — Nepominutelný dědic (§ 1642—1645)
 
+**§ 1644**:
+> (1) Povinný díl může být zůstaven v podobě dědického podílu nebo odkazu, ale musí zůstat nepominutelnému dědici zcela nezatížen.
+> (2) K nařízení zůstavitele, která omezují povinný díl, se nepřihlíží. Zůstaví-li se nepominutelnému dědici více než povinný díl, vztahuje se takové nařízení, učinil-li je zůstavitel v pořízení pro případ smrti, jen na část, která přesahuje hodnotu povinného dílu. To neplatí, zemře-li nepominutelný dědic před zůstavitelem, nebo nedědí-li z jiného důvodu.
+> (3) Zůstavitel může také nepominutelnému dědici uložit, aby se rozhodl pro to, co se mu zůstavuje s omezením, nebo pro povinný díl.
+
+**§ 1645**:
+> Kdo se zřekl dědictví nebo povinného dílu, kdo je nezpůsobilý dědit nebo kdo byl zůstavitelem vyděděn, právo na povinný díl nemá, ale při výpočtu povinných dílů ostatních dědiců se k němu hledí právě tak, jako by z dědického práva nebyl vyloučen.
+
 ### § 1642—1643 — Definice
 
 **§ 1642**:
@@ -1430,6 +1819,16 @@ Nepominutelnými dědici jsou jen potomci; mají právo na povinný díl (zletil
 **Typicky rozhodné důkazy / podklady:** matriční doklady (rodné listy potomků), závěť, soupis a ocenění čisté pozůstalosti, doklady o darech za života zůstavitele.
 
 ### Oddíl 2 — Vydědění (§ 1646—1649)
+
+**§ 1647**:
+> Zůstavitel může vydědit i nepominutelného dědice, který je tak zadlužen nebo si počíná tak marnotratně, že tu je obava, že se pro jeho potomky nezachová povinný díl. Učinit to však může jen tak, že tento jeho povinný díl zůstaví dětem tohoto nepominutelného dědice, popřípadě, není-li jich, jejich potomkům.
+
+**§ 1648**:
+> Nevysloví-li zůstavitel důvod vydědění, má nepominutelný dědic právo na povinný díl, ledaže se proti němu prokáže zákonný důvod vydědění.
+
+**§ 1649**:
+> (1) Prohlášení o vydědění lze učinit nebo je lze změnit či zrušit stejným způsobem, jakým se pořizuje nebo ruší závěť.
+> (2) Stejným způsobem může zůstavitel prohlásit o některém z dědiců nikoli nepominutelných, jemuž svědčí zákonná dědická posloupnost, že pozůstalosti nenabude.
 
 ### § 1646 — Důvody vydědění
 
@@ -1517,7 +1916,36 @@ Vydědit nepominutelného dědice lze jen z taxativních důvodů (§ 1646), kte
 
 ### Oddíl 3 — Ochrana nepominutelného dědice (§ 1650—1654)
 
+**§ 1650**:
+> Nepominutelný dědic vyděděný neplatně má právo na povinný díl; byl-li zkrácen na čisté hodnotě povinného dílu, má právo na jeho doplnění.
+
+**§ 1651**:
+> (1) Právo na povinný díl má i nepominutelný dědic, o němž bylo zůstaviteli známo, že je naživu, a přesto jej v závěti opominul.
+> (2) Dopustil-li se ten, kdo byl opominut nikoli omylem, něčeho, co naplňuje zákonný důvod vydědění, hledí se na toto opominutí jako na vydědění učiněné mlčky a po právu.
+
+**§ 1652**:
+> Dokáže-li nepominutelný dědic, že jeho opominutí pochází jen z toho, že zůstavitel při pořízení pro případ smrti o něm nevěděl, má takový dědic právo na povinný díl, jaký mu náleží podle zákona.
+
+**§ 1653**:
+> Byl-li nepominutelný dědic zkrácen nebo opominut, přispějí dědici i odkazovníci k vyrovnání jeho práva poměrně.
+
+**§ 1654**:
+> (1) Nepominutelný dědic nemá právo na podíl z pozůstalosti, nýbrž jen na peněžní částku rovnající se hodnotě jeho povinného dílu. Jsou-li pro to na straně dědiců zvlášť závažné důvody a lze-li to na nepominutelném dědici rozumně požadovat, může soud povolit splátky na povinný díl nebo odklad jeho splatnosti; pohledávka se však úročí ode dne, kdy byla původně splatná.
+> (2) Ustanovení odstavce 1 nebrání, aby se nepominutelný dědic dohodl s dědici ze závěti nebo z dědické smlouvy jinak; zkrátí-li se tím však práva dalších věřitelů, je dohoda vůči nim neúčinná. Bude-li v průběhu řízení o dědictví ujednáno, že se nepominutelnému dědici namísto zaplacení vydá z pozůstalosti věc zapsaná do veřejného seznamu, zapíše se nepominutelný dědic do veřejného seznamu přímo po zůstaviteli.
+
 **§ 1654 — Promlčení**: nárok na povinný díl se promlčuje **v promlčecí době tříletá** od poučení.
+
+**Doslovná znění § 1655 až 1657:**
+
+**§ 1655**:
+> (1) Pro stanovení povinného dílu se majetek v pozůstalosti sepíše a odhadne; dluhy zůstavitele a závady, které na majetku vázly již v době zůstavitelovy smrti, se od hodnoty majetku odečtou. Při vypočtení povinného dílu se k pozůstalosti připočte, co se započítává na povinný díl podle § 1660 a 1661.
+> (2) Nepominutelný dědic má právo být při odhadu, vznášet dotazy a uplatňovat připomínky.
+
+**§ 1656**:
+> Povinný díl se stanoví bez zřetele na odkazy a jiné závady vznikající z pořízení pro případ smrti. Až do určení povinného dílu se nepominutelný dědic poměrně účastní na zisku a ztrátě pozůstalosti. Kdo má právo na povinný díl, má právo i na poměrné vyúčtování podílu na zisku a ztrátě pozůstalosti od smrti zůstavitele až do určení povinného dílu.
+
+**§ 1657**:
+> Dohodne-li si nepominutelný dědic s dědici odbytné a schválí-li dohodu soud, ustanovení § 1655 a 1656 se nepoužijí.
 
 ### Oddíl 4—5 — Výpočet a započtení (§ 1655—1665)
 
@@ -1531,6 +1959,36 @@ Vydědit nepominutelného dědice lze jen z taxativních důvodů (§ 1646), kte
 - **Klauzule prominutí započtení** — zůstavitel může výslovně určit, že dar se nezapočítává.
 
 **§ 1664—1665 — Započtení na dědický podíl**: dary se **započítávají i mezi spoludědici** (vyrovnání).
+
+**Doslovná znění § 1658 až 1664:**
+
+**§ 1658**:
+> Započtení na povinný díl nebo na dědický podíl nezakládá povinnost něco vydat, ledaže se jedná o případ uvedený v § 2072.
+
+**§ 1659**:
+> Při započtení se počítá hodnota toho, co bylo poskytnuto a co podléhá započtení, podle doby odevzdání. V mimořádných případech může soud rozhodnout jinak.
+
+**§ 1660**:
+> (1) Na povinný díl se započte vše, co nepominutelný dědic z pozůstalosti skutečně nabyl odkazem nebo jiným zůstavitelovým opatřením.
+> (2) Na povinný díl se započte i to, co nepominutelný dědic od zůstavitele bezplatně obdržel v posledních třech letech před jeho smrtí, ledaže zůstavitel přikáže, aby se započtení provedlo za delší dobu; potomku se kromě toho započte i to, co od zůstavitele bezplatně obdržel dědicův předek. Při započtení se však nepřihlíží k obvyklým darováním.
+
+**§ 1661**:
+> (1) Na povinný díl potomka se započte to, co mu zůstavitel dal za svého života na úlevu v nákladech spojených se založením samostatné domácnosti, se založením manželského či obdobného soužití nebo s nástupem povolání či se započetím podnikání; na povinný díl se započte i to, co zůstavitel použil na úhradu dluhů zletilého potomka. Stalo-li se tak dříve než v posledních třech letech před zůstavitelovou smrtí, provede se započtení, pokud zůstavitel neprojeví opačnou vůli.
+> (2) Potomkovi, který vstupuje na místo svého předka, se započte na povinný díl i to, co takto dostali od zůstavitele jeho rodiče, na jejichž místo vstupuje.
+
+**§ 1662**:
+> Dědické podíly se vypočtou stejně jako povinný díl.
+
+**§ 1663**:
+> Při posloupnosti dědiců podle pořízení pro případ smrti nebo při zákonné dědické posloupnosti se započtení na dědický podíl provede, jen přikázal-li to zůstavitel projevem vůle učiněným ve formě předepsané pro pořízení závěti.
+
+**§ 1664**:
+> Soud může provést započtení na dědický podíl, i když to zůstavitel nepřikázal, byl-li by jinak nepominutelný dědic neodůvodněně znevýhodněn; k obvyklým darováním se však nepřihlíží.
+
+**Doslovné znění § 1665:**
+
+**§ 1665**:
+> Kdo by jinak byl nepominutelným dědicem, ale nemá právo na povinný díl, má právo na nutnou výživu, pokud se mu jí nedostává a pokud není schopen sám se živit; takto však nemůže dostat z pozůstalosti více, než kolik by činil jeho povinný díl. Právo na nutnou výživu však nemá ten, na jehož místě dědí jeho potomek, nebo je-li jeho potomek na jeho místě povolán k povinnému dílu.
 
 ---
 
@@ -1706,6 +2164,19 @@ Pozůstalost přechází na dědice okamžikem smrti, avšak plné účinky (nab
 
 **Typicky rozhodné důkazy / podklady:** doklad o datu úmrtí, stav a rozhodnutí pozůstalostního řízení, případné povolení soudu dle § 1680, listiny k prokázání dědického práva.
 
+**Doslovná znění § 1671 až 1673:**
+
+**§ 1671**:
+> (1) Neuplatnil-li dědic dědické právo před soudem ve lhůtě, kterou soud stanoví, nezaniká dědici dědické právo, avšak při projednání pozůstalosti se k němu nepřihlíží. To platí i o dědickém právu neznámého dědice nebo dědici neznámého pobytu, který byl o svém právu vyrozuměn vyhláškou soudu a v určené lhůtě o sobě nedal vědět.
+> (2) Má-li neznámý dědic nebo dědic neznámého pobytu opatrovníka, nemůže opatrovník učinit prohlášení, že tento dědic dědictví odmítá, nebo že je neodmítá, anebo přijímá.
+
+**§ 1672**:
+> Uplatňuje-li právo na dědictví více osob a odporují-li si, odkáže soud toho z dědiců, jehož právní důvod je slabší, aby své právo uplatnil žalobou. Nepodá-li tento dědic žalobu ve lhůtě určené soudem, nezaniká sice jeho dědické právo, avšak při projednání pozůstalosti se k němu nepřihlíží.
+
+**§ 1673**:
+> (1) Proti dědici, který se opírá o dědickou smlouvu nepopřenou co do pravosti, se k podání žaloby odkáže každý dědic ze závěti nebo dědic zákonný. Proti dědici, který se opírá o závěť nepopřenou co do pravosti, se odkáže k podání žaloby každý zákonný dědic.
+> (2) Uvede-li zůstavitel důvod vydědění, odkáže se k podání žaloby potomek, který tvrdí, že byl vyděděn neprávem. Není-li důvod vydědění uveden, odkáže se k podání žaloby ten, kdo má dědit na jeho místě.
+
 ### § 1674—1684 — Výhrada soupisu
 
 **§ 1674**:
@@ -1839,11 +2310,63 @@ Výhrada soupisu (beneficium inventarii) omezuje ručení dědice za zůstavitel
 
 **Typicky rozhodné důkazy / podklady:** prohlášení o výhradě soupisu, soupis a ocenění pozůstalosti, doklady o nakládání s majetkem (výpisy z účtů, smlouvy), důkazy o smísení či zatajení majetku.
 
+**Doslovná znění § 1685 až 1689:**
+
+**§ 1685**:
+> (1) Soud nařídí soupis pozůstalosti, uplatní-li dědic právo výhrady soupisu, nebo je-li to potřebné pro výpočet povinného dílu.
+> (2) Soud nařídí soupis pozůstalosti také,
+>   - a) je-li mezi dědici osoba, která není plně svéprávná, nebo která je neznámá či nepřítomná, nebo právnická osoba veřejně prospěšná či zřízená ve veřejném zájmu (dále jen „osoba pod zvláštní ochranou“),
+>   - b) je-li nejistota, zda je někdo dědicem nebo kdo je dědicem,
+>   - c) žádá-li o to věřitel podle § 1709, nebo
+>   - d) osvědčí-li věřitel zůstavitele, že tu je pro provedení soupisu jiný vážný důvod.
+
+**§ 1686**:
+> (1) Náklady na pořízení soupisu se hradí z pozůstalosti a jdou poměrně k tíži dědických podílů těch dědiců, jimž je soupis k prospěchu. Není-li dobře možné hradit náklady na pořízení soupisu z pozůstalosti, uloží soud těmto dědicům, aby na úhradu nákladů poměrně přispěli.
+> (2) Nařídil-li soud soupis pro potřebu výpočtu povinného dílu, hradí se náklady z pozůstalosti a jdou poměrně k tíži všech dědiců a osoby, která má právo na povinný díl. Není-li dobře možné hradit náklady na pořízení soupisu z pozůstalosti, uloží soud těmto osobám, aby na úhradu nákladů poměrně přispěly.
+> (3) Požaduje-li někdo soupis, aniž pro to má vážný důvod, soud mu uloží, aby náklady soupisu nesl ze svého.
+
+**§ 1687**:
+> (1) Odůvodňují-li to okolnosti případu, může soud rozhodnout o nahrazení soupisu pozůstalosti seznamem pozůstalostního majetku vyhotoveným správcem pozůstalosti a potvrzeným všemi dědici. Nebyl-li správce pozůstalosti dosud ustaven, může ho za tím účelem jmenovat soud.
+> (2) V jednoduchých případech může soud rozhodnout, neodporují-li tomu dědicové, o nahrazení soupisu pozůstalosti společným prohlášením dědiců o pozůstalostním majetku.
+
+**§ 1688**:
+> (1) Prokáže-li se, že prohlášení nebo seznam podle § 1687 neodpovídají skutečnosti v rozsahu nikoli nepodstatném,
+>   - a) ruší se tím dědicům od počátku účinky výhrady soupisu, pokud ji případně učinili,
+>   - b) osoba uvedená v § 1685 odst. 2 má právo žádat, aby soud nařídil nový soupis pozůstalosti, prokáže-li na tom právní zájem.
+> (2) Účinek podle odstavce 1 písm. a) nenastane vůči osobě pod zvláštní ochranou, ledaže se prokáže, že pozůstalostní majetek úmyslně zatajila. Tento účinek nenastane ani vůči dědici, který prokáže, že nezavinil neúplnost prohlášení nebo seznamu.
+> (3) Způsobil-li správce, že seznam podle § 1687 není úplný, nahradí škodu z toho vzešlou.
+
+**§ 1689**:
+> Je-li znám věřitel, soud mu oznámí, že byl proveden soupis pozůstalosti a umožní mu vyjádřit se k soupisu.
+
 ### Oddíl 2 — Správa pozůstalosti (§ 1677—1690)
 
 - **§ 1677—1684** — Správa do potvrzení dědictví (správce pozůstalosti, exekuce, soupis);
 - **Závěra pozůstalosti** (§ 1685—1687) — soud zajistí majetek (pečetí, deponuje);
 - **Soupis pozůstalosti** (§ 1685, § 1687—1690) — věrný popis aktiv a pasiv.
+
+**Doslovná znění § 1690 až 1693:**
+
+**§ 1690**:
+> (1) Soud potvrdí dědictví tomu, kdo dědictví neodmítl a má podle průběhu řízení o dědictví nejlepší dědické právo, poté, co je zabezpečeno, že vůle zůstavitele bude náležitě splněna.
+> (2) Byl-li povolán vykonavatel závěti, potvrdí soudu splnění zůstavitelových nařízení; nebyl-li povolán, prokáží to soudu dědicové. Neshodnou-li se dědici nebo odporují-li tomu, co potvrdil vykonavatel závěti, rozhodne soud, jak důkaz opatří.
+
+**§ 1691**:
+> (1) Byly-li nařízeny odkazy, soud potvrdí dědictví až poté, co mu bude prokázáno, že
+>   - a) odkazovníkům byly podány zprávy o odkazu,
+>   - b) splatné odkazy osobám, které nejsou plně svéprávné, právnickým osobám veřejně prospěšným nebo zřízeným ve veřejném zájmu nebo odkazy učiněné za dobročinným a veřejně prospěšným účelem byly splněny a že splnění nesplatných odkazů bylo zajištěno,
+>   - c) bylo zajištěno i splnění odkazů neznámým nebo nepřítomným osobám.
+> (2) Soud může jistotu prominout, je-li zřejmě zbytečná.
+
+**§ 1692**:
+> (1) Jedinému dědici soud potvrdí, že dědictví nabyl. Uvede, kdo je dědicem, čí pozůstalost nabývá, z jakého důvodu a zda se tak děje s výhradou soupisu, nebo bez ní.
+> (2) Několika dědicům soud potvrdí i dědické podíly ve výši po případném započtení na dědický podíl a po započtení případných odkazů. Při rozdělení pozůstalosti soud rovněž potvrdí, jaké dědictví každý dědic nabyl a z jakého důvodu k rozdělení dědictví dochází.
+> (3) Je-li nařízena dědická posloupnost zřízením svěřenského nástupnictví, doložením času nebo jiným způsobem, soud potvrdí, že byla nařízena, kdo následuje jako následný dědic a za jakého předpokladu. Určil-li zůstavitel, že přední dědic může s dědictvím volně nakládat, soud potvrdí i to.
+
+**§ 1693**:
+> (1) Dědicové si mohou před soudem v řízení o dědictví dohodnout, jaká bude výše jejich dědických podílů. Soud dohodu schválí, neodporuje-li zájmu osoby pod zvláštní ochranou.
+> (2) Dědí-li se na základě pořízení pro případ smrti, mohou si dědici dohodnout jinou výši dědických podílů, než jakou jim zůstavitel vyměřil, pokud to zůstavitel výslovně připustil.
+> (3) Dědí-li se podle zákonné dědické posloupnosti, má dědic právo požadovat po ostatních dědicích vypořádání, pokud se staral o zůstavitele delší dobu nebo přispěl značnou měrou k udržení či zvětšení zůstavitelova majetku prací, peněžitou podporou nebo podobným způsobem, aniž byl za to odměňován. Vypořádání se poskytne ve výši přiměřené trvání a rozsahu toho, co plnil, a hodnotě pozůstalosti; o tuto výši se zvětší jeho dědický podíl. To platí i v případě, že dědic, který není pozůstalým manželem, plnil vůči zůstaviteli vyživovací nebo obdobnou povinnost.
 
 ### Oddíl 3—5 — Potvrzení dědictví, rozdělení, dluhy (§ 1691—1713)
 
@@ -1856,6 +2379,81 @@ Výhrada soupisu (beneficium inventarii) omezuje ručení dědice za zůstavitel
 - **S výhradou soupisu**: jen do výše dědictví;
 - **Pořadí uspokojování věřitelů**: zajištěné > nezajištěné > odkazy;
 - **Odloučení pozůstalosti** (§ 1709—1711) — věřitelé zůstavitele mohou žádat o oddělení majetku, aby nedošlo k jeho smíšení s majetkem dědice.
+
+**Doslovná znění § 1694 až 1700:**
+
+**§ 1694**:
+> (1) Pořídil-li zůstavitel pro případ smrti, rozdělí se pozůstalost podle jeho vůle. Dědici se mohou před soudem dohodnout, že si pozůstalost zcela nebo zčásti rozdělí i jinak, pokud to zůstavitel výslovně připustil.
+> (2) Přidělil-li zůstavitel dědicům jednotlivé věci ze svého jmění, aniž výslovně přikázal, že pozůstalost musí být rozdělena, jak nařídil, nebo že povolaný dědic může přijmout jen, co mu bylo přiděleno, popřípadě, že určitá věc má zůstat ve spoluvlastnictví dědiců, hledí se na jeho projev vůle jako na přání bez právní závaznosti.
+
+**§ 1695**:
+> (1) Nepořídil-li zůstavitel pro případ smrti, mohou se dědici před soudem dohodnout o rozdělení pozůstalosti jakkoli.
+> (2) Nepořídil-li zůstavitel o některé části pozůstalosti nebo nepřikázal-li, jak má být pozůstalost nebo její část rozdělena, nebo není-li rozdělení pozůstalosti podle zůstavitelovy vůle vůbec možné, použije se ustanovení odstavce 1 obdobně.
+
+**§ 1696**:
+> (1) Soud dohodu dědiců o rozdělení schválí, neodporuje-li vůli zůstavitele a v jejích mezích ani zájmům osoby pod zvláštní ochranou. Neschválí-li soud dohodu, potvrdí dědicům nabytí dědictví podle výše jejich dědických podílů.
+> (2) K platnosti dohody o rozdělení pozůstalosti se vyžaduje, aby v důsledku jejího uzavření byla rozdělena celá známá pozůstalost. Dohodou lze zřídit i věcné břemeno nebo zástavní či jiné věcné právo, i když o něm zůstavitel nepořídil.
+
+**§ 1697**:
+> (1) Soud rozdělí pozůstalost podle nařízení zůstavitele. Pověřil-li zůstavitel třetí osobu určením, jak má být pozůstalost rozdělena, soud této osobě stanoví přiměřenou lhůtu, nejméně v délce dvou měsíců; soud však k určení nepřihlédne, je-li zjevně nespravedlivé nebo dojde-li k němu po lhůtě.
+> (2) Nebrání-li tomu zůstavitelovo nařízení, soud rozdělí pozůstalost schválením dohody dědiců; nedojde-li k dohodě, soud pozůstalost rozdělí, pokud o to požádají všichni dědicové a pokud mezi nimi není sporu, co do pozůstalosti náleží. Soud přitom dbá zájmů osoby pod zvláštní ochranou.
+> (3) V ostatních případech soud pozůstalost nerozdělí a potvrdí dědicům nabytí dědictví podle dědických podílů.
+
+**§ 1698**:
+> Při rozdělení pozůstalosti lze vypořádat právo na náhradu z poměrů mezi spoludědici, provést započtení na dědický podíl a započtení odkazů.
+
+**§ 1699**:
+> (1) Podle okolností mohou být také pohledávka nebo dluh přiděleny jednotlivému dědici. Přidělí-li se dluh některému dědici, nedotýká se to práv věřitele.
+> (2) Dědic zkrácený na svém podílu přidělením vadné věci má vůči spoludědicům právo na náhradu toho, oč byl vadou zkrácen.
+
+**§ 1700**:
+> (1) Rozděluje-li pozůstalost soud na žádost dědiců, zřídí výkaz, jehož základem je soupis pozůstalosti nebo soupis potvrzený všemi dědici. Bylo-li něco z pozůstalosti prodáno z vůle dědice po právu, zahrne se do pozůstalosti dosažená kupní cena, při jiném zcizení z vůle dědice pak obvyklá cena v den vzniku dědického práva. Na podíl každého z dědiců vyjádřený v penězích se přidělí jednotlivé předměty podle ceny uvedené ve výkazu.
+> (2) Není-li cena některého předmětu zřejmá, stanoví ji soud odhadem, pokud předmět nepřidělí všem dědicům podle jejich podílů.
+
+**Doslovná znění § 1701 až 1702:**
+
+**§ 1701**:
+> (1) Dluhy zůstavitele přecházejí na dědice, ledaže zákon stanoví jinak.
+> (2) Dědic je zavázán k úhradě nákladů zůstavitelova pohřbení a opatření zůstavitelova hrobového místa, ledaže tyto náklady byly z pozůstalosti uhrazeny podle § 114 odst. 2.
+
+**§ 1702**:
+> Dědic se nemůže zprostit povinnosti založené mu pořízením pro případ smrti odmítnutím dědictví z tohoto pořízení s tím, že uplatní své právo jako dědic ze zákona. Může se stát dědicem z pořízení pro případ smrti, nebo dědictví odmítnout.
+
+**Doslovná znění § 1704 až 1713:**
+
+**§ 1704**:
+> Neuplatnil-li dědic výhradu soupisu, hradí dluhy zůstavitele v plném rozsahu. Neuplatnilo-li výhradu soupisu více dědiců, hradí dluhy zůstavitele společně a nerozdílně.
+
+**§ 1705**:
+> Provedení soupisu nemá právní účinky pro rozsah povinnosti k hrazení dluhů u dědice, který výhradu soupisu neuplatnil.
+
+**§ 1706**:
+> Uplatnil-li dědic výhradu soupisu, hradí dluhy zůstavitele do výše ceny nabytého dědictví. To platí i v případě, že soupis pozůstalosti nařídil soud v zájmu osoby pod zvláštní ochranou.
+
+**§ 1707**:
+> Každý z dědiců, který uplatnil výhradu soupisu, hradí dluhy zůstavitele společně a nerozdílně s ostatními dědici, věřitel však může po každém dědici vyhradivšímu si soupis požadovat plnění jen do výše odpovídající jeho dědickému podílu.
+
+**§ 1708**:
+> Postih mezi spoludědici se řídí podle obecných ustanovení o společných dluzích.
+
+**§ 1709**:
+> (1) Věřitel, který osvědčí obavu z předlužení dědice, může předtím, než soud potvrdil nabytí dědictví, navrhnout, aby pozůstalost zůstala odloučena od jmění dědice a byla spravována jako oddělené jmění. Soud návrhu nevyhoví, je-li zřejmé, že k obavě není důvod.
+> (2) Návrh na odloučení pozůstalosti nebrání, aby soud nabytí dědictví potvrdil.
+
+**§ 1710**:
+> Z odloučené pozůstalosti se uspokojí věřitel, který si odloučení vyžádal. Tento věřitel však ztrácí právo uspokojit se z ostatního dědicova majetku, a to i v případě, že dědic neuplatnil výhradu soupisu.
+
+**§ 1711**:
+> Dědic, který si vyhradil soupis, nebo ten, kdo pozůstalost spravuje, může před rozhodnutím soudu o potvrzení dědictví navrhnout, aby soud pro vyhledání dluhů zůstavitele věřitele vyzval, aby v přiměřené lhůtě ohlásili a doložili své pohledávky. Dokud nebude skončeno řízení, které se takto zavede, nemá dědic, ani ten, kdo spravuje pozůstalost, povinnost uspokojovat věřitele.
+
+**§ 1712**:
+> (1) Věřitel, který se ve lhůtě nepřihlásí, nemá právo na uhrazení vůči dědici, je-li pozůstalost vyčerpána uhrazením ohlášených pohledávek.
+> (2) Ustanovení odstavce 1 se nepoužije,
+>   - a) prokáže-li věřitel, že dědic věděl o pohledávce, nebo
+>   - b) zajišťuje-li pohledávku věřitele zástavní nebo jiné věcné právo k věci náležející do pozůstalosti.
+
+**§ 1713**:
+> Nebylo-li žádáno o výzvu věřitelům, nebo uspokojí-li dědic některého z hlásících se věřitelů bez zřetele na práva ostatních, a nedosáhne-li proto některý věřitel úplného uhrazení pohledávky z pozůstalosti, je dědic věřiteli zavázán nad rámec uvedený v § 1692, a to až do výše, v jaké by věřitel dosáhl uspokojení při likvidaci pozůstalosti podle jiného právního předpisu.
 
 ---
 

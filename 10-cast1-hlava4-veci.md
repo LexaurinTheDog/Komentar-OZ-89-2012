@@ -2176,6 +2176,71 @@ Zaknihované cenné papíry se evidují na majetkových účtech: na účtu vlas
 
 **Typicky rozhodné důkazy / podklady:** výpisy z evidence (účet vlastníka/zákazníků), smlouvy s klienty, údaje centrálního depozitáře, doklady k identifikaci skutečných vlastníků.
 
+**Doslovná znění § 529 až 544:**
+
+**§ 529**:
+> (1) Rozhodl-li emitent o přeměně cenného papíru na zaknihovaný cenný papír, bez zbytečného odkladu zveřejní své rozhodnutí včetně lhůty, ve které vlastník cenného papíru emitentovi cenný papír odevzdá, a rozhodnutí v téže lhůtě uveřejní způsobem umožňujícím dálkový přístup.
+> (2) Zakazuje se určit lhůtu k odevzdání cenného papíru emitentovi kratší než dva měsíce a delší než šest měsíců ode dne zveřejnění rozhodnutí.
+> (3) Emitent, kterému jiný právní předpis ukládá vést evidenci vlastníků cenných papírů, zašle osobě uvedené v této evidenci a na adresu tam uvedenou oznámení o přeměně tohoto cenného papíru na zaknihovaný cenný papír.
+
+**§ 530**:
+> (1) Vlastník cenného papíru sdělí při jeho odevzdání emitentovi číslo účtu v příslušné evidenci, na který má být cenný papír zaevidován; pokud mu tento údaj nesdělí, určí mu k tomu emitent dodatečnou lhůtu, která nesmí být kratší než dva měsíce.
+> (2) Odevzdal-li vlastník emitentovi cenný papír a nesdělil-li mu číslo účtu v příslušné evidenci, na který má být cenný papír zaevidován, ani v dodatečné lhůtě, přejde na emitenta vlastnické právo k tomuto cennému papíru dnem, kdy za něj jeho vlastníku zaplatí spravedlivou cenu.
+
+**§ 531**:
+> Je-li vlastník cenného papíru v prodlení s odevzdáním cenného papíru, určí emitent k jeho odevzdání dodatečnou lhůtu způsobem stanoveným v § 529 odst. 1 a při jejím vyhlášení upozorní, že cenný papír, který nebude odevzdán ani v dodatečné lhůtě, prohlásí emitent za neplatný.
+
+**§ 532**:
+> (1) Na žádost emitenta zaeviduje centrální depozitář zaknihované cenné papíry do centrální evidence obdobně jako při vydání zaknihovaného cenného papíru a zaeviduje cenné papíry na majetkové účty uvedené v žádosti. Žádost emitent podá po uplynutí lhůty stanovené v § 529 odst. 1 nebo i před jejím uplynutím, pokud mu byly odevzdány všechny cenné papíry, nejpozději však po uplynutí dodatečné lhůty.
+> (2) Od podání žádosti emitenta o zaevidování zaknihovaného cenného papíru do centrální evidence do zaevidování celé emise nelze s těmito cennými papíry obchodovat na evropském regulovaném trhu.
+
+**§ 533**:
+> (1) Cenný papír, který nebyl odevzdán, eviduje centrální depozitář na zvláštním technickém účtu; majitelem technického účtu je emitent. Zaevidováním na tomto účtu jsou tyto cenné papíry přeměněny na zaknihované cenné papíry.
+> (2) Právo na výnos z cenného papíru uvedeného v odstavci 1 za dobu od skončení lhůty podle § 529 odst. 1 nedospěje dříve, než vlastník cenného papíru emitentovi cenný papír odevzdá.
+
+**§ 534**:
+> (1) Nebyl-li cenný papír odevzdán ani v dodatečné lhůtě, prohlásí jej emitent za neplatný.
+> (2) Po prohlášení cenného papíru za neplatný prodá emitent zaknihovaný cenný papír, který jej nahrazuje, s odbornou péčí. Rozhodne-li emitent prodat zaknihovaný cenný papír ve veřejné dražbě, uveřejní místo, dobu a předmět dražby alespoň dva týdny před jejím konáním.
+> (3) Emitent vyplatí výtěžek z prodeje zaknihovaného cenného papíru osobě, jejíž cenný papír byl prohlášen za neplatný, po započtení pohledávek vzniklých emitentovi prohlášením cenného papíru za neplatný a prodejem zaknihovaného cenného papíru, který jej nahrazuje.
+
+**§ 535**:
+> Ustanovení § 529, 531 až 533 se přiměřeně použijí na cenné papíry, které se přeměňují na zaknihované cenné papíry, které mají být vedeny v samostatné evidenci.
+
+**§ 536**:
+> Rozhodl-li emitent o přeměně zaknihovaného cenného papíru na cenný papír, bez zbytečného odkladu své rozhodnutí zveřejní a rozhodnutí v téže lhůtě uveřejní způsobem umožňujícím dálkový přístup.
+
+**§ 537**:
+> (1) Centrální depozitář předá emitentovi do třiceti dnů ode dne, kdy obdrží emitentovo oznámení o přeměně zaknihovaného cenného papíru na cenný papír, výpis z centrální i navazující evidence obsahující údaje o emisi zaknihovaného cenného papíru, o vlastnících zaknihovaných cenných papírů, zda bylo nakládání se zaknihovaným cenným papírem pozastaveno a zda byl zaknihovaný cenný papír zastaven včetně označení zástavního věřitele.
+> (2) Centrální depozitář ani majitel účtu zákazníků nesmí po vyhotovení výpisu provést ve své evidenci žádný zápis týkající se zaknihovaného cenného papíru přeměňovaného na cenný papír.
+
+**§ 538**:
+> (1) Centrální depozitář zruší evidenci zaknihovaného cenného papíru ke dni určenému emitentem, nejdříve však ke dni vyhotovení výpisu podle § 537 odst. 1 a nejpozději do jednoho měsíce ode dne, kdy byl výpis vyhotoven.
+> (2) Zrušení evidence zaknihovaného cenného papíru oznámí centrální depozitář organizátorovi evropského regulovaného trhu, na kterém jsou tyto zaknihované cenné papíry přijaty k obchodování, účastníkům centrálního depozitáře, kteří tuto skutečnost oznámí vlastníkům zaknihovaných cenných papírů a majiteli účtu zákazníků.
+> (3) Majitel účtu zákazníků zruší evidenci zaknihovaných cenných papírů k témuž dni jako centrální depozitář.
+
+**§ 539**:
+> (1) Vlastníku zaknihovaného cenného papíru, který byl přeměněn na cenný papír, vzniká dnem zrušení evidence zaknihovaného cenného papíru právo na odevzdání cenného papíru emitentem.
+> (2) Cenný papír je vydán nejdříve ke dni zrušení evidence.
+
+**§ 540**:
+> (1) Je-li ke dni zrušení evidence zaknihovaného cenného papíru pozastaveno nakládání s cenným papírem, k němuž dal příkaz orgán veřejné moci, odevzdá emitent cenný papír tomuto orgánu.
+> (2) Je-li ke dni zrušení evidence zaknihovaného cenného papíru pozastaveno nakládání se zaknihovaným cenným papírem, k němuž dala příkaz osoba k tomu oprávněná podle zákona upravujícího podnikání na kapitálovém trhu, vznikne vlastníkovi tohoto zaknihovaného cenného papíru právo na odevzdání cenného papíru až po uplynutí doby, na kterou bylo nakládání se zaknihovaným cenným papírem pozastaveno. To neplatí, jestliže osoba, která dala příkaz k tomu, aby bylo pozastaveno nakládání, souhlasí s odevzdáním cenného papíru vlastníku.
+
+**§ 541**:
+> (1) Je-li ke dni zrušení evidence zaknihovaného cenného papíru zaknihovaný cenný papír zastaven, zůstávají účinky zastavení nedotčeny; právo na odevzdání cenného papíru vzniká zástavnímu věřiteli. Povinnost odevzdat cenný papír emitent splní též tím, že se souhlasem zástavního věřitele uloží vydaný cenný papír do úschovy ve prospěch vlastníka a schovateli předá prvopis zástavní smlouvy nebo její úředně ověřenou kopii.
+> (2) V případě přeměny zaknihovaného cenného papíru na cenný papír na řad na něm emitent vyznačí prohlášení o zastavení cenného papíru.
+
+**§ 542**:
+> (1) Po zrušení evidence zaknihovaného cenného papíru emitent bez zbytečného odkladu zveřejní výzvu vlastníkům cenných papírů z této emise k jejich převzetí a výzvu v téže lhůtě uveřejní způsobem umožňujícím dálkový přístup. Lhůty k převzetí cenného papíru určí ve výzvě obdobně podle § 529 odst. 2 a § 531.
+> (2) U cenného papíru na jméno nebo na řad zašle emitent výzvu k převzetí cenného papíru i na adresu sídla nebo bydliště vlastníka uvedenou v příslušné evidenci.
+
+**§ 543**:
+> (1) Nepřevezme-li vlastník cenný papír ani v dodatečné lhůtě, emitent jej prodá s odbornou péčí. Rozhodne-li emitent prodat cenný papír ve veřejné dražbě, uveřejní místo, dobu a předmět dražby alespoň dva týdny před jejím konáním.
+> (2) Emitent vyplatí výtěžek z prodeje cenného papíru vlastníku po započtení pohledávek vzniklých emitentovi v souvislosti s jeho prodejem.
+
+**§ 544**:
+> Na zaknihované cenné papíry vedené v samostatné evidenci se § 536 až 543 použijí přiměřeně.
+
 ---
 
 ### Oddíl 3 — Přeměna cenného papíru (§ 529—544)
