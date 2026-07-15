@@ -2960,7 +2960,7 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 1205/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0370643F0DF9CB9EC12585A4002EE0F2?openDocument) — 28. 4. 2020, kat. A
-  > „Při vypořádání společného jmění manželů zaniklého podle [[Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník|zákona č. 89/2012 Sb.]], občanského zákoníku, se zásadně vychází z obvyklé ceny věci a jejího stavu v době rozhodování soudu.“
+  > „Při vypořádání společného jmění manželů zaniklého podle zákona č. 89/2012 Sb., občanského zákoníku, se zásadně vychází z obvyklé ceny věci a jejího stavu v době rozhodování soudu.“
 
 **Judikatura (z místních zdrojů):**
 
