@@ -746,6 +746,7 @@ Název PO musí být odlišitelný, obsahovat označení právní formy a nesmí
 ### § 136—137 — Určení a dovolání skutečného sídla
 
 **§ 136**:
+> (1) Při ustavení právnické osoby se určí její sídlo. Nenaruší-li to klid a pořádek v domě, může být sídlo i v bytě.
 > (2) Zapisuje-li se právnická osoba do veřejného rejstříku, postačí, pokud zakladatelské právní jednání uvede název obce, kde je sídlo právnické osoby; do veřejného rejstříku však právnická osoba navrhne zapsat plnou adresu sídla.
 
 **§ 137**:

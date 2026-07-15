@@ -700,6 +700,7 @@ Nositel jména (a jeho právní nástupce) může odvolat souhlas s užitím jm�
 #### § 429 — Sídlo podnikatele
 
 > (1) Sídlo podnikatele se určí adresou zapsanou ve veřejném rejstříku. Nezapisuje-li se fyzická osoba jako podnikatel do veřejného rejstříku, je jeho sídlem místo, kde má hlavní obchodní závod, popřípadě kde má bydliště.
+> (2) Uvádí-li podnikatel jako své sídlo jiné místo než své sídlo skutečné, může se každý dovolat i jeho skutečného sídla. Proti tomu, kdo se dovolá sídla podnikatele zapsaného ve veřejném rejstříku, nemůže podnikatel namítat, že má skutečné sídlo v jiném místě.
 
 > (2) Uvádí-li podnikatel jako své sídlo jiné místo než své sídlo skutečné, může se každý dovolat i jeho skutečného sídla. Proti tomu, kdo se dovolá sídla podnikatele zapsaného ve veřejném rejstříku, nemůže podnikatel namítat, že má skutečné sídlo v jiném místě.
 
@@ -898,6 +899,8 @@ Překročení zástupčího oprávnění zástupcem podnikatele zavazuje podnika
 #### § 432 — Zákaz konkurence zástupce
 
 > (1) Osoba, která vystupuje jako podnikatelův zástupce při provozu obchodního závodu, nesmí bez souhlasu podnikatele činit na vlastní nebo cizí účet nic, co spadá do oboru obchodního závodu. Stane-li se tak, může se podnikatel domáhat, aby se jeho zástupce takového jednání zdržel.
+> (2) Jednal-li zástupce na vlastní účet, může se podnikatel domáhat, aby zástupcovo jednání bylo prohlášeno za učiněné na jeho účet. Jednal-li zástupce na cizí účet, může se podnikatel domáhat, aby mu bylo postoupeno právo na odměnu nebo aby mu byla vydána odměna již poskytnutá. Tato práva zanikají, pokud nebyla uplatněna do tří měsíců ode dne, kdy se podnikatel o jednání dozvěděl, nejpozději však rok ode dne, kdy k jednání došlo.
+> (3) Namísto práva podle odstavce 2 může podnikatel požadovat náhradu škody; to však jen tehdy, měl-li a mohl zástupce vědět, že svou činností podnikatele poškozuje. Měl-li a mohl vědět také ten, v jehož prospěch podnikatelův zástupce nedovoleně jednal, že jde o činnost poškozující podnikatele, je povinen k náhradě škody také on.
 
 > (2) Jednal-li zástupce na vlastní účet, může se podnikatel domáhat, aby zástupcovo jednání bylo prohlášeno za učiněné na jeho účet. Jednal-li zástupce na cizí účet, může se podnikatel domáhat, aby mu bylo postoupeno právo na odměnu nebo aby mu byla vydána odměna již poskytnutá. Tato práva zanikají, pokud nebyla uplatněna do tří měsíců ode dne, kdy se podnikatel o jednání dozvěděl, nejpozději však rok ode dne, kdy k jednání došlo.
 

@@ -353,6 +353,7 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 ### § 2079 — Definice
 
 > (1) Kupní smlouvou se prodávající zavazuje, že kupujícímu odevzdá věc, která je předmětem koupě, a umožní mu nabýt vlastnické právo k ní, a kupující se zavazuje, že věc převezme a zaplatí prodávajícímu kupní cenu.
+> (2) Neplyne-li ze smlouvy nebo zvyklostí něco jiného, jsou prodávající a kupující zavázáni splnit své povinnosti současně.
 
 **Tři podstatné prvky**:
 1. **Předmět** (věc, právo, podíl, závod);
@@ -1150,6 +1151,39 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 **§ 2168**:
 > Při koupi použité věci mohou strany zkrátit dobu podle § 2165 až na jeden rok.
 
+**Doslovné znění § 2161:**
+
+**§ 2161**:
+> **Jakost při převzetí**
+> (1) Prodávající odpovídá kupujícímu, že věc při převzetí nemá vady. Zejména prodávající odpovídá kupujícímu, že věc
+>     - a) odpovídá ujednanému popisu, druhu a množství, jakož i jakosti, funkčnosti, kompatibilitě, interoperabilitě a jiným ujednaným vlastnostem,
+>     - b) je vhodná k účelu, pro který ji kupující požaduje a s nímž prodávající souhlasil, a
+>     - c) je dodána s ujednaným příslušenstvím a pokyny k použití, včetně návodu k montáži nebo instalaci.
+> (2) Prodávající odpovídá kupujícímu, že vedle ujednaných vlastností
+>     - a) je věc vhodná k účelu, k němuž se věc tohoto druhu obvykle používá, i s ohledem na práva třetích osob, právní předpisy, technické normy nebo kodexy chování daného odvětví, není-li technických norem,
+>     - b) věc množstvím, jakostí a dalšími vlastnostmi, včetně životnosti, funkčnosti, kompatibility a bezpečnosti, odpovídá obvyklým vlastnostem věcí téhož druhu, které může kupující rozumně očekávat, i s ohledem na veřejná prohlášení učiněná prodávajícím nebo jinou osobou v témže smluvním řetězci, zejména reklamou nebo označením,
+>     - c) je věc dodána s příslušenstvím, včetně obalu, návodu k montáži a jiných pokynů k použití, které může kupující rozumně očekávat, a
+>     - d) věc odpovídá jakostí nebo provedením vzorku nebo předloze, které prodávající kupujícímu poskytl před uzavřením smlouvy.
+> (3) Prodávající není vázán veřejným prohlášením podle odstavce 2 písm. b), prokáže-li, že si ho nebyl vědom nebo že bylo v době uzavření smlouvy upraveno alespoň srovnatelným způsobem, jakým bylo učiněno, anebo že na rozhodnutí o koupi nemohlo mít vliv.
+> (4) Odstavec 2 se nepoužije v případě, že prodávající kupujícího před uzavřením smlouvy zvlášť upozornil, že se některá vlastnost věci liší a kupující s tím při uzavírání smlouvy výslovně souhlasil.
+> (5) Projeví-li se vada v průběhu jednoho roku od převzetí, má se za to, že věc byla vadná již při převzetí, ledaže to povaha věci nebo vady vylučuje. Tato doba neběží po dobu, po kterou kupující nemůže věc užívat, v případě, že vadu vytkl oprávněně.
+
+**Doslovná znění § 2174a až 2174b:**
+
+**§ 2174a**:
+> **Zvláštní ustanovení o záruce za jakost**
+> (1) Poskytovatel záruky vydá kupujícímu nejpozději při převzetí věci potvrzení o záruce za jakost (záruční list) v textové podobě. Záruční list musí být sepsán jasným a srozumitelným jazykem a musí obsahovat
+>     - a) údaj, že má kupující ze zákona právo vůči prodávajícímu na bezplatnou nápravu a že toto právo není zárukou za jakost dotčeno, a
+>     - b) označení věci, na niž se záruka vztahuje, obsah záruky, jméno a bydliště nebo sídlo poskytovatele záruky, postup k uplatnění práv ze záruky a podmínky záruky.
+> (2) Nesplněním povinnosti podle odstavce 1 není platnost záruky dotčena.
+
+**§ 2174b**:
+> **Právo postihu**
+> (1) Byla-li vada způsobena konáním nebo opomenutím jiné osoby v témže smluvním řetězci, náleží konečnému prodávajícímu náhrada od toho, kdo mu v rámci své podnikatelské činnosti věc prodal nebo kdo byl zavázán poskytovat digitální obsah či službu digitálního obsahu, včetně jejich aktualizace. Náhrada se poskytne ve výši nákladů, které konečný prodávající účelně vynaložil na zjednání nápravy.
+> (2) Právo na náhradu nevznikne, věděl-li konečný prodávající o vadě věci v okamžiku jejího převzetí nebo nebyla-li věc určena k uvedení na trh pro spotřebitele.
+> (3) K ujednání, které předem vylučuje nebo omezuje právo konečného prodávajícího na náhradu, se nepřihlíží.
+> (4) Odstavce 1 až 3 se na další osoby v témže smluvním řetězci použijí obdobně.
+
 ### Klíčové prvky
 
 **§ 2158 — Aplikace**: platí pro kupní smlouvy mezi **prodejcem (podnikatel)** a **spotřebitelem (FO mimo podnikání)**.
@@ -1254,6 +1288,11 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 > (1) Předkupník zaplatí kupní cenu ve výši nabídnuté koupěchtivým a splní podmínky nabídnuté koupěchtivým vedle kupní ceny. Zavázal-li se koupěchtivý k vedlejšímu plnění, které předkupník poskytnout nemůže, zaplatí prodávajícímu jeho hodnotu. Nelze-li vedlejší plnění vyrovnat ani odhadní cenou, předkupní právo zanikne; to neplatí, byla-li by smlouva s koupěchtivým podle rozumného očekávání uzavřena i bez závazku k vedlejšímu plnění.
 > (2) Zavázal-li se koupěchtivý koupit věc společně s jinými za souhrnnou cenu, zaplatí předkupník poměrnou část souhrnné ceny. Prodávající může požadovat, aby předkupník koupil s věcí vše, co od ní nemůže být odděleno bez poškození.
 
+**§ 2140**:
+> **Předkupní právo**
+> (1) Ujedná-li si předkupník k věci předkupní právo, vzniká dlužníku povinnost nabídnout věc předkupníkovi ke koupi, pokud by ji chtěl prodat třetí osobě (koupěchtivému).
+> (2) Předkupní právo lze zvláštním ujednáním rozšířit i na jiné způsoby zcizení. Předkupní právo lze také ujednat i mimo souvislost s kupní smlouvou.
+
 **Předkupní právo** (*Vorkaufsrecht*):
 - **Smluvní** nebo **zákonné** (např. § 1124 — spoluvlastníci, § 1254 — právo stavby vs. pozemek);
 - **Obsah**: prodávající **musí nejdříve nabídnout věc** předkupníkovi za stejných podmínek, za jakých chce prodat třetí osobě;
@@ -1321,6 +1360,10 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 **§ 2138**:
 > Byla-li výhrada zpětné koupě ujednána k věci zapsané do veřejného seznamu jako právo věcné, lze věc zatížit jen se souhlasem toho, pro koho je právo zpětné koupě ve veřejném seznamu zapsáno.
 
+**§ 2139**:
+> **Výhrada zpětného prodeje**
+> Ustanovení o zpětné koupi se obdobně použijí i na ujednání, kterým si kupující vymíní, že věc prodá prodávajícímu zpět.
+
 **Výhrada zpětné koupě** (*Wiederkaufsrecht*):
 - Prodávající si vyhradí **právo věc znovu odkoupit** v určité lhůtě;
 - **U nemovitostí**: max. **10 let**;
@@ -1352,6 +1395,12 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 **§ 2160**:
 > (1) Převzetím koupené věci nabývá kupující k věci vlastnické právo.
 > (2) Při samoobslužném prodeji nabývá kupující vlastnické právo k věci zaplacením kupní ceny. Do té doby může kupující vrátit věc na původní místo. Vznikne-li na věci škoda před zaplacením kupní ceny, nahradí se podle obecných ustanovení.
+
+**Doslovné znění § 2157:**
+
+**§ 2157**:
+> **Jiná vedlejší ujednání**
+> Ujednají-li strany jiné výhrady nebo podmínky připouštějící změnu nebo zánik práv a povinností z kupní smlouvy, zaniká výhrada nebo podmínka nejpozději do jednoho roku od účinnosti kupní smlouvy, pokud ji neuplatnil v této lhůtě ten, kdo je z výhrady nebo podmínky oprávněn.
 
 ---
 
@@ -1523,7 +1572,8 @@ Cena závodu se při pozdější účinnosti smlouvy mění podle změny jmění
 
 ### § 2184 — Definice
 
-> Směnnou smlouvou se každá ze stran zavazuje převést druhé straně vlastnické právo k věci výměnou za závazek druhé strany převést vlastnické právo k jiné věci.
+> (1) Směnnou smlouvou se každá ze stran zavazuje převést druhé straně vlastnické právo k věci výměnou za závazek druhé strany převést vlastnické právo k jiné věci.
+> (2) Strany si odevzdají věci v tom stavu, v jakém byly v okamžiku uzavření smlouvy.
 
 **Směna** (*permutatio*) — vzájemné převedení vlastnictví **bez peněžního plnění**:
 - Klíčové: **NENÍ peněžitá** (jinak by šlo o koupi);

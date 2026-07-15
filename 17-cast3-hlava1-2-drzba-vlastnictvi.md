@@ -720,6 +720,12 @@ Posesorní ochrana (§ 1003, § 1007) je rychlým prostředkem k obnovení fakti
 
 **Typicky rozhodné důkazy / podklady:** doklady o dosavadním pokojném stavu držby, fotodokumentace rušení/zábrany, prokázání data vědomosti o rušení a o osobě rušitele, datum podání žaloby, případně podklady k petitornímu titulu.
 
+**Doslovné znění § 1010:**
+
+**§ 1010**:
+> **Spoludržba**
+> Spoludržba se řídí přiměřeně ustanoveními o držbě a o společných právech.
+
 ---
 
 ## Hlava II Díl 3 — Vlastnictví
@@ -1520,6 +1526,10 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 > (1) Plody, které vydává zvíře, náleží vlastníku zvířete.
 > (2) Za oplodnění zvířete lze žádat odměnu, jen byla-li ujednána.
 
+**§ 1072**:
+> **Přírůstek movité věci**
+> Přirozený přírůstek movité věci náleží jejímu vlastníkovi.
+
 **§ 1066—1067**: plody pozemku → vlastník pozemku. Strom roste z čího pozemku → tomu náleží. Hranice → společný.
 
 **§ 1068—1071 — Naplavenina a strž**:
@@ -1594,6 +1604,19 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 **§ 1086**:
 > (1) Kdo v dobré víře zřídil na cizím pozemku stavbu, má právo domáhat se po vlastníku pozemku, který o zřizování stavby věděl a bez zbytečného odkladu ji nezakázal, aby mu pozemek převedl za obvyklou cenu. Také vlastník pozemku má právo po zřizovateli stavby požadovat, aby pozemek koupil za obvyklou cenu.
 > (2) Soud na návrh některé ze stran přikáže pozemek do vlastnictví zřizovatele stavby a rozhodne o jeho povinnosti zaplatit vlastníku pozemku náhradu.
+
+**Doslovné znění § 1082:**
+
+**§ 1082**:
+> **Společné ustanovení**
+> Kdo je povinen poskytnout při zpracování nebo smísení náhradu jiné osobě, nemá povinnost plnit více, než kolik by byl povinen plnit při bezdůvodném obohacení.
+
+**Doslovné znění § 1087:**
+
+**§ 1087**:
+> **Přestavek**
+> (1) Zasahuje-li trvalá stavba zřízená na vlastním pozemku jen malou částí na malou část cizího pozemku, stane se část pozemku zastavěného přestavkem vlastnictvím zřizovatele stavby; to neplatí, nestavěl-li zřizovatel stavby v dobré víře.
+> (2) Kdo stavěl v dobré víře, nahradí vlastníku pozemku, jehož část byla zastavěna přestavkem, obvyklou cenu nabytého pozemku.
 
 ### Pododdíl 4 — Smíšený přírůstek (§ 1088)
 

@@ -503,6 +503,7 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
 ### § 496 — Hmotné a nehmotné věci
 
 > (1) Hmotná věc je ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
+> (2) Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty.
 
 > (2) Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty.
 
@@ -629,6 +630,7 @@ Na ovladatelné přírodní síly, s nimiž se obchoduje (elektřina, plyn, tepl
 ### § 498 — Nemovité a movité věci
 
 > (1) Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon. Stanoví-li zákon, že určitá věc není součástí pozemku, a nelze-li takovou věc přenést z místa na místo bez porušení její podstaty, je i tato věc nemovitá.
+> (2) Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
 
 > (2) Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
 
@@ -999,6 +1001,7 @@ Obchodní závod je organizovaný soubor jmění (majetku i dluhů) sloužící 
 ### § 503 — Pobočka a odštěpný závod
 
 > (1) Pobočka je taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou.
+> (2) Je-li pobočka zapsána do obchodního rejstříku, jedná se o odštěpný závod; to platí i o jiné organizační složce, pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku. Vedoucí odštěpného závodu je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl jako vedoucí odštěpného závodu zapsán do obchodního rejstříku.
 
 > (2) Je-li pobočka zapsána do obchodního rejstříku, jedná se o odštěpný závod; to platí i o jiné organizační složce, pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku. Vedoucí odštěpného závodu je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl jako vedoucí odštěpného závodu zapsán do obchodního rejstříku.
 
@@ -2071,6 +2074,7 @@ Datum emise (§ 519) značí den možného vydání; vydání (§ 520) nastává
 #### § 525 — Definice
 
 > (1) Je-li cenný papír nahrazen zápisem do příslušné evidence a nelze-li jej převést jinak než změnou zápisu v této evidenci, jedná se o zaknihovaný cenný papír. Zaknihované cenné papíry jsou zastupitelné, pokud byly vydány týmž emitentem a pokud z nich vznikají stejná práva.
+> (2) Ustanovení o cenných papírech se použijí i na zaknihované cenné papíry, ledaže to vylučuje jejich povaha, tento zákon nebo jiný právní předpis.
 
 **Výklad:**
 
@@ -2128,6 +2132,20 @@ Zaknihovaný cenný papír je nahrazen zápisem v evidenci a převádí se výlu
 ---
 
 #### § 526—528 — Evidence
+
+**§ 526**:
+> **Evidence zaknihovaných cenných papírů**
+> Evidence zaknihovaných cenných papírů se vede na majetkových účtech; jimi jsou účet vlastníka nebo účet zákazníků.
+
+**§ 527**:
+> **Účet vlastníka**
+> (1) Na účtu vlastníka jsou evidovány zaknihované cenné papíry toho, pro něhož byl účet zřízen.
+> (2) Má se za to, že vlastníkem zaknihovaného cenného papíru je osoba, na jejímž účtu vlastníka je zaknihovaný cenný papír evidován.
+
+**§ 528**:
+> **Účet zákazníků**
+> (1) Na účtu zákazníků jsou evidovány zaknihované cenné papíry osob, které zaknihovaný cenný papír svěřily tomu, pro něhož byl účet zákazníků zřízen.
+> (2) Ten, pro koho byl účet zákazníků zřízen, není vlastníkem zaknihovaných cenných papírů evidovaných na tomto účtu.
 
 **§ 526 — Evidence**: vedena na **majetkových účtech** — buď **účet vlastníka**, nebo **účet zákazníků**.
 

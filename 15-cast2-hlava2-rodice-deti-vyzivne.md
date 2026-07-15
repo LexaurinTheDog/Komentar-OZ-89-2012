@@ -1459,6 +1459,14 @@ Plody a užitky z majetku dítěte patří dítěti a slouží primárně jeho v
 
 ### Výkon po rozvodu (§ 906—909)
 
+**§ 908**:
+> **Výkon povinností a práv rodičů, kteří žijí odděleně**
+> Nežijí-li spolu rodiče nezletilého dítěte, které není plně svéprávné, a nedohodnou-li se o úpravě péče o takové dítě, rozhodne o ní i bez návrhu soud. V ostatním se ustanovení § 906 a 907 použijí obdobně.
+
+**§ 909**:
+> **Zvláštní ustanovení**
+> Změní-li se poměry a nedohodnou-li se rodiče o výkonu povinností a práv vyplývajících z rodičovské odpovědnosti, rozhodne o tom soud i bez návrhu.
+
 #### § 906—907 — Úprava péče při rozvodu
 
 > (1) Má-li být rozhodnuto o rozvodu manželství rodičů dítěte, soud nejprve určí, jak bude každý z rodičů napříště o dítě pečovat, a to s uvážením zájmu dítěte; s tímto zřetelem se od souhlasného stanoviska rodičů soud odchýlí jen tehdy, vyžaduje-li to zájem dítěte.
@@ -1796,6 +1804,8 @@ Dítě má právo na zásadně shodnou životní úroveň s rodiči (toto hledis
 ### § 920 — Výživné neprovdané matce
 
 > (1) Není-li matka dítěte provdána za otce dítěte, poskytne jí otec dítěte výživu po dobu dvou let od narození dítěte a přispěje jí v přiměřeném rozsahu na úhradu nákladů spojených s těhotenstvím a porodem. Povinnost k úhradě nákladů spojených s těhotenstvím a porodem vznikne muži, jehož otcovství je pravděpodobné, i v případě, že se dítě nenarodí živé.
+> (2) Soud může na návrh těhotné ženy uložit muži, jehož otcovství je pravděpodobné, aby částku potřebnou na výživu a příspěvek na úhradu nákladů spojených s těhotenstvím a porodem poskytl předem.
+> (3) Soud může rovněž na návrh těhotné ženy uložit muži, jehož otcovství je pravděpodobné, aby předem poskytl částku potřebnou k zajištění výživy dítěte po dobu, po kterou by ženě náležela jako zaměstnankyni podle jiného právního předpisu mateřská dovolená.
 
 > (2) Soud může na návrh těhotné ženy uložit muži, jehož otcovství je pravděpodobné, aby částku potřebnou na výživu a příspěvek na úhradu nákladů spojených s těhotenstvím a porodem poskytl předem.
 

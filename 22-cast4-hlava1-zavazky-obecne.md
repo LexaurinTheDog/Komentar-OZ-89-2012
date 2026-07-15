@@ -863,6 +863,12 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 **§ 1806**:
 > Úroky z úroků lze požadovat, bylo-li to ujednáno. Jedná-li se o pohledávku z protiprávního činu, lze úroky z úroků požadovat ode dne, kdy byla pohledávka uplatněna u soudu.
 
+**Doslovné znění § 1807:**
+
+**§ 1807**:
+> **Záloha**
+> Má se za to, že co dala jedna strana druhé před uzavřením smlouvy, je záloha.
+
 ---
 
 ### Závdavek (§ 1808—1809)
@@ -1013,6 +1019,38 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 
 **§ 1797**:
 > Podnikatel, který uzavřel smlouvu při svém podnikání, nemá právo požadovat zrušení smlouvy podle § 1793 odst. 1, ani se nemůže dovolat neplatnosti smlouvy podle § 1796.
+
+**Doslovné znění § 1769:**
+
+**§ 1769**:
+> **Smlouva o plnění třetí osoby**
+> Zaváže-li se někdo zajistit pro druhou stranu, aby jí třetí osoba splnila, zavazuje se tím, že se u třetí osoby přimluví, aby ujednané plnění poskytla. Zaváže-li se však někdo k tomu, že třetí osoba splní, co bylo ujednáno, nahradí škodu, kterou věřitel utrpí, pokud k splnění nedojde.
+
+**Doslovné znění § 1771:**
+
+**§ 1771**:
+> **Dražba**
+> (1) Při dražbě je smlouva uzavřena příklepem.
+> (2) Již učiněná nabídka se zruší, pokud je podána vyšší nabídka, nebo pokud se dražba ukončí jinak než příklepem.
+
+**Doslovné znění § 1785:**
+
+**§ 1785**:
+> **Základní ustanovení**
+> Smlouvou o smlouvě budoucí se nejméně jedna strana zavazuje uzavřít po vyzvání v ujednané lhůtě, jinak do jednoho roku, budoucí smlouvu, jejíž obsah je ujednán alespoň obecným způsobem.
+
+**Doslovné znění § 1792:**
+
+**§ 1792**:
+> **Úplata za plnění**
+> (1) Plyne-li ze smlouvy povinnost stran poskytnout a přijmout plnění za úplatu, aniž je ujednána její výše, či způsob, jakým bude tato výše určena, platí, že úplata byla ujednána ve výši obvyklé v době a v místě uzavření smlouvy. Nepodaří-li se takto výši úplaty určit, určí ji soud s přihlédnutím k obsahu smlouvy, povaze plnění a zvyklostem.
+> (2) Byla-li úplata ujednána v rozporu s právními předpisy o cenách, platí za ujednanou ta, která je podle těchto předpisů přípustná.
+
+**Doslovné znění § 1796:**
+
+**§ 1796**:
+> **Lichva**
+> Neplatná je smlouva, při jejímž uzavírání někdo zneužije tísně, nezkušenosti, rozumové slabosti, rozrušení nebo lehkomyslnosti druhé strany a dá sobě nebo jinému slíbit či poskytnout plnění, jehož majetková hodnota je k vzájemnému plnění v hrubém nepoměru.
 
 ---
 
@@ -1453,6 +1491,61 @@ Předsmluvní údaje sdělené spotřebiteli se stávají obsahem smlouvy (§ 18
 **§ 1853**:
 > Je-li pro použití ustanovení tohoto oddílu rozhodné trvání závazku, zohlední se všechna ujednání umožňující obnovit smlouvu nebo prodloužit závazek i bez výslovného projevu vůle smluvní strany.
 
+**Doslovné znění § 1825:**
+
+**§ 1825**:
+> **Zvláštní ustanovení o uzavírání smluv po telefonu**
+> (1) Kontaktuje-li podnikatel spotřebitele ústně prostřednictvím telefonu nebo obdobného zařízení, sdělí podnikatel spotřebiteli na začátku každého hovoru obchodní účel hovoru a údaje o své totožnosti, a pokud telefonuje v zastoupení jiné osoby, rovněž údaje o její totožnosti.
+> (2) Nabídku učiněnou během hovoru podle odstavce 1 podnikatel potvrdí spotřebiteli bez zbytečného odkladu v textové podobě. Spotřebitel je nabídkou vázán až poté, co projeví svůj souhlas elektronicky nebo podpisem potvrzení nabídky na listině.
+
+**Doslovné znění § 1828:**
+
+**§ 1828**:
+> **Smlouvy uzavírané mimo obchodní prostory**
+> (1) Sjednává-li se smlouva mimo prostor obvyklý pro podnikatelovo podnikání za současné fyzické přítomnosti podnikatele a spotřebitele, poskytne podnikatel spotřebiteli čitelně údaje podle § 1820 odst. 1 na listině; v jiné textové podobě jen tehdy, pokud s tím spotřebitel souhlasí.
+> (2) Za smlouvu uzavřenou mimo obchodní prostory podnikatele se považuje také smlouva uzavřená
+>     - a) v prostoru obvyklém pro podnikatelovo podnikání nebo s použitím prostředku komunikace na dálku, pokud k jejímu uzavření došlo bezprostředně poté, co podnikatel oslovil spotřebitele mimo obchodní prostory,
+>     - b) během výletu organizovaného podnikatelem za účelem nebo s účinkem propagace a prodeje zboží či poskytování služeb, nebo
+>     - c) na základě nabídky učiněné spotřebitelem mimo obchodní prostory podnikatele za současné fyzické přítomnosti podnikatele a spotřebitele.
+> (3) Podnikatel vydá spotřebiteli vyhotovení smlouvy nebo potvrzení o uzavřené smlouvě na listině; v jiné textové podobě jen tehdy, pokud s tím spotřebitel souhlasí.
+> (4) Je-li předmětem závazku poskytnutí digitálního obsahu, který není dodán na hmotném nosiči, podnikatel vydá spotřebiteli též potvrzení, že spotřebitel výslovně souhlasí se započetím plnění před uplynutím lhůty pro odstoupení od smlouvy a že bere na vědomí, že udělením souhlasu zaniká jeho právo odstoupit od smlouvy podle § 1837 písm. l).
+> (5) Je-li předmětem závazku poskytování služby nebo dodávky vody, plynu nebo elektřiny, které nejsou prodávány v omezeném objemu nebo v určitém množství, nebo tepla z dálkového vytápění za úplatu, začne podnikatel s plněním ve lhůtě pro odstoupení od smlouvy pouze na výslovnou žádost spotřebitele v textové podobě; na to ho podnikatel upozorní a poučí ho, že poskytnutím plnění zaniká jeho právo odstoupit od smlouvy podle § 1837 písm. a).
+
+**Doslovné znění § 1843:**
+
+**§ 1843**:
+> **Sdělení před uzavřením smlouvy**
+> (1) Podnikatel v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku, sdělí spotřebiteli v textové podobě alespoň
+>     - a) údaje uvedené v § 1811 odst. 2 písm. a), b), d) a § 1820 odst. 1 písm. g) a p),
+>     - b) hlavní předmět svého podnikání,
+>     - c) název a sídlo orgánu odpovědného za výkon dohledu nebo státního dozoru nad činností podnikatele, jde-li o podnikání na základě povolení,
+>     - d) celkovou cenu poskytované služby včetně všech daní, poplatků a jiných obdobných peněžitých plnění placených prostřednictvím podnikatele a jiných souvisejících nákladů; nelze-li přesnou celkovou cenu určit předem, pak veškeré údaje o způsobu výpočtu konečné ceny umožňující spotřebiteli si tuto cenu ověřit,
+>     - e) údaje o dalších daních nebo nákladech, které se prostřednictvím podnikatele nehradí nebo které podnikatel nevybírá,
+>     - f) možná rizika mimo kontrolu podnikatele spojená s poskytovanou finanční službou včetně případného upozornění, že minulé výnosy nezaručují výnosy budoucí,
+>     - g) poučení o možnosti či nemožnosti odstoupit od smlouvy podle § 1846, včetně poučení o lhůtách k uplatnění práva odstoupit od smlouvy, o podmínkách, za jakých může být uplatněno, o částce, jejíž zaplacení může být po spotřebiteli požadováno podle § 1849, jakož i poučení o důsledcích neuplatnění práva na odstoupení od smlouvy,
+>     - h) praktické pokyny pro uplatnění práva odstoupit od smlouvy včetně adresy místa, na které má být oznámení o odstoupení od smlouvy zasláno,
+>     - i) poučení o právu každé ze stran ukončit předčasně nebo jednostranně závazek ze smlouvy na základě smluvních podmínek včetně poučení o případných sankcích,
+>     - j) označení členského státu nebo členských států Evropské unie, jejichž právní předpisy bere podnikatel za základ pro vytvoření vztahů se spotřebitelem před uzavřením smlouvy,
+>     - k) údaj o smluvní doložce o rozhodném právu a o příslušnosti soudu v případě sporu ze smlouvy,
+>     - l) údaj o jazyku nebo jazycích, ve kterých bude podnikatel se spotřebitelem jednat za trvání závazku a ve kterých poskytne spotřebiteli smluvní podmínky a další údaje,
+>     - m) údaj o existenci, způsobu a podmínkách mimosoudního vyřizování stížností spotřebitelů včetně údaje, zda se lze obrátit se stížností na orgán dohledu nebo státního dozoru,
+>     - n) údaj o existenci garančního fondu, a
+>     - o) dobu, po kterou zůstávají poskytnuté údaje včetně údaje o ceně v platnosti.
+> (2) Jedná-li podnikatel prostřednictvím zástupce nebo jedná-li spotřebitel se zprostředkovatelem, uvedou se společně s údaji podle odstavce 1 také údaje uvedené v § 1811 odst. 2 písm. a) o zástupci nebo zprostředkovateli, jakož i právní důvod, na jehož základě zprostředkovatel právně jedná.
+> (3) Z údajů poskytnutých spotřebiteli musí být rozpoznatelný jejich podnikatelský účel.
+
+**Doslovné znění § 1844b:**
+
+**§ 1844b**:
+> **Nevyžádaná obchodní sdělení**
+> Kontaktuje-li podnikatel spotřebitele, může při komunikaci se spotřebitelem použít automatický telekomunikační systém nebo faxový přístroj jen s předchozím souhlasem spotřebitele; jiný prostředek komunikace na dálku umožňující individuální obchodní sdělení může použít jen v případě, že spotřebitel jeho použití neodmítl. Tímto postupem spotřebiteli nesmí vzniknout náklady.
+
+**Doslovné znění § 1851:**
+
+**§ 1851**:
+> **Neobjednané plnění**
+> Plnil-li podnikatel spotřebiteli finanční službu bez výslovné objednávky, nevzniká spotřebiteli povinnost za plnění zaplatit ani mu z toho nevznikají žádné jiné povinnosti.
+
 ### § 1829 — Právo odstoupit ve 14 dnech
 
 > Spotřebitel má právo odstoupit od smlouvy bez udání důvodu ve lhůtě 14 dnů.
@@ -1725,6 +1818,24 @@ Výjimky z práva odstoupit (§ 1837) jsou taxativní a vykládají se restrikti
 **§ 1867**:
 > Uzavřel-li spotřebitel na období delší než jeden rok smlouvu, kterou nabyl za úplatu právo na výhodu spojenou s ubytováním, popřípadě s dopravou nebo jinými službami, má právo ve lhůtě čtrnácti dnů ode dne, kdy obdržel výzvu podle § 1866 odst. 2, počínaje obdržením výzvy k zaplacení druhé splátky, vypovědět smlouvu bez výpovědní doby, a to bez uvedení důvodu a bez jakékoliv sankce. Toto ustanovení se nedotýká jiných způsobů zániku závazku stanovených zákonem nebo smlouvou.
 
+**Doslovná znění § 1854 až 1855:**
+
+**§ 1854**:
+> **Sdělení před uzavřením smlouvy**
+> (1) V rámci nabídkové nebo prodejní akce podnikatel na pozvánce zřetelně uvede obchodní účel a povahu akce. Po celou dobu jejího trvání musí mít spotřebitel přístup k údajům podle odstavce 2.
+> (2) Dříve než spotřebitel uzavře smlouvu nebo se zaváže k jejímu uzavření, sdělí podnikatel bezplatně spotřebiteli v textové podobě ve formuláři v dostatečném předstihu údaje, které spolu s náležitostmi formuláře stanoví prováděcí právní předpis tak, aby k nim měl spotřebitel snadný přístup. Podnikatel upozorní spotřebitele výslovně i na jeho právo odstoupit od smlouvy, na délku lhůty k odstoupení a na zákaz platby záloh a jiných plnění nebo jejich zajištění v průběhu lhůty k odstoupení.
+> (3) Podnikatel sdělí údaje spotřebiteli podle jeho volby v úředním jazyce členského státu Evropské unie, v němž má spotřebitel bydliště nebo jehož je spotřebitel státním příslušníkem.
+
+**§ 1855**:
+> **Forma smlouvy**
+> Smlouva vyžaduje písemnou formu; podnikatel však nemá právo namítnout vůči spotřebiteli neplatnost smlouvy pro nedostatek formy.
+
+**Doslovné znění § 1860:**
+
+**§ 1860**:
+> **Jazyk smlouvy**
+> Podnikatel uzavře smlouvu se spotřebitelem podle jeho volby v úředním jazyce členského státu Evropské unie, v němž má spotřebitel bydliště nebo jehož je spotřebitel státním příslušníkem. Liší-li se tento jazyk od jazyka členského státu Evropské unie, na jehož území se nachází nemovitá věc nebo její část, ke které se vztahuje smlouva, kterou spotřebitel nabývá právo užívat ubytovací zařízení podle § 1852 odst. 1 písm. a), vydá podnikatel spotřebiteli i úřední překlad textu smlouvy do tohoto jazyka.
+
 ---
 
 ## Díl 5 — Společné dluhy a pohledávky (§ 1868—1878)
@@ -1931,6 +2042,10 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 > (1) Na žádost postupníka může postupitel vymáhat postoupenou pohledávku svým jménem na účet postupníka; bylo-li postoupení pohledávky dlužníkovi již oznámeno nebo prokázáno, může postupitel pohledávku vymáhat, pokud prokáže souhlas postupníka a pokud postupník pohledávku sám nevymáhá.
 > (2) Vymáhá-li postupitel pohledávku, může dlužník namítat proti ní své vzájemné pohledávky, jež má vůči postupiteli, nikoliv však pohledávky, jež má vůči postupníkovi.
 
+**§ 1887**:
+> **Postoupení souboru pohledávek**
+> Postoupit lze i soubor pohledávek, ať již současných nebo budoucích, je-li takový soubor pohledávek dostatečně určen, zejména pokud se jedná o pohledávky určitého druhu vznikající věřiteli v určité době nebo o různé pohledávky z téhož právního důvodu.
+
 **Postoupení pohledávky** (*cessio*):
 - **Smlouva mezi postupitelem (cedentem) a postupníkem (cesionářem)**;
 - Pohledávka přechází **v existujícím stavu** vč. příslušenství a zajištění;
@@ -1993,6 +2108,17 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 **§ 1894**:
 > Při přeměně právnické osoby ani při zcizení závodu nebo jeho pobočky se § 1893 nepoužije.
 
+**§ 1892**:
+> **Přistoupení k dluhu**
+> (1) Kdo bez dlužníkova souhlasu ujedná s věřitelem, že za dlužníka splní jeho dluh, stává se novým dlužníkem vedle původního dlužníka a je spolu s ním zavázán společně a nerozdílně.
+> (2) Zajistila-li dluh původního dlužníka třetí osoba, nelze proti ní nastoupit pro neplnění dluhu novým dlužníkem, ledaže k tomu dala souhlas.
+
+**§ 1893**:
+> **Převzetí majetku**
+> (1) Převezme-li někdo od zcizitele veškerý majetek nebo jeho poměrně určenou část, stává se společně a nerozdílně se zcizitelem dlužníkem z dluhů, které s převzatým majetkem souvisí a o nichž nabyvatel při uzavření smlouvy věděl nebo musel vědět. Nabyvatel však není povinen plnit více, než kolik činí hodnota majetku, jehož takto nabyl.
+> (2) Převezme-li takový majetek osoba zciziteli blízká, stává se společně a nerozdílně se zcizitelem dlužníkem z dluhů, které s převzatým majetkem souvisí, bez omezení na hodnotu majetku, jehož takto nabyla. To neplatí, prokáže-li, že o určitém dluhu nevěděla, ani vědět nemusela.
+> (3) Opačné ujednání mezi zcizitelem a nabyvatelem je vůči věřiteli neúčinné.
+
 **Převzetí dluhu** (*assumptio debiti*):
 - **Smlouva mezi dlužníkem a třetí osobou** (přejímatelem);
 - **VYŽADUJE SOUHLAS VĚŘITELE** — chrání věřitele před změnou solventnosti dlužníka;
@@ -2022,6 +2148,10 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 
 **§ 1907**:
 > Zajištění práv, která jsou předmětem novace nebo narovnání, se vztahuje i na práva z nich vzniklá. Poskytla-li však zajištění osoba třetí, která k novaci nebo k narovnání nepřistoupila, je zavázána nejvýše v rozsahu původního závazku a zůstávají jí zachovány všechny námitky, které mohla proti pohledávce uplatnit, kdyby k novaci nebo k narovnání nebylo došlo.
+
+**§ 1902**:
+> **Novace**
+> Dohodou o změně obsahu závazku se dosavadní závazek ruší a nahrazuje se novým závazkem. Může-li však dosavadní závazek vedle nového závazku obstát, má se za to, že nebyl zrušen.
 
 **Změny obsahu závazku** dohodou (typicky úpravy splátkového kalendáře, prodloužení doby splatnosti). Použijí se principy o smluvních dispozicích.
 
@@ -2270,11 +2400,27 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 **§ 1951**:
 > Dlužník splní dluh i tehdy, splní-li tomu, kdo mu předloží věřitelovo potvrzení, že je oprávněn plnění přijmout, nebo vydá-li mu kvitanci, kterou věřitel vystavil, ledaže dlužník věděl, že ten, kdo potvrzení předložil, není oprávněn plnění přijmout.
 
+**Doslovná znění § 1946 až 1947:**
+
+**§ 1946**:
+> **Poukázka na řad**
+> (1) Zní-li poukázka na řad, může být převedena rubopisem.
+> (2) Rubopisem přecházejí všechna práva z poukázky na osobu oprávněnou z rubopisu.
+> (3) O náležitostech rubopisu, jakož i o tom, kdo je z rubopisu oprávněn a jak své právo prokazuje, platí právní předpisy o směnkách. Podle nich se rovněž posoudí, od koho může požadovat poukázku ten, kdo o ni přišel.
+
+**§ 1947**:
+> **Poukázka na doručitele**
+> Byla-li poukázka vystavena na doručitele, zaplatí poukázaný dluh každému, kdo mu ji předloží.
+
 ### 2) Dohoda (§ 1981—1982)
 
 **§ 1982**:
 > (1) Dluží-li si strany vzájemně plnění stejného druhu, může každá z nich prohlásit vůči druhé straně, že svoji pohledávku započítává proti pohledávce druhé strany. K započtení lze přistoupit, jakmile straně vznikne právo požadovat uspokojení vlastní pohledávky a plnit svůj vlastní dluh.
 > (2) Započtením se obě pohledávky ruší v rozsahu, v jakém se vzájemně kryjí; nekryjí-li se zcela, započte se pohledávka obdobně jako při splnění. Tyto účinky nastávají k okamžiku, kdy se obě pohledávky staly způsobilými k započtení.
+
+**§ 1981**:
+> **Dohoda**
+> Stranám je na vůli ujednat si zánik závazku, aniž bude zřízen závazek nový.
 
 Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, novace, **promlčení dlužníka**).
 
@@ -2357,6 +2503,10 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 **§ 1991**:
 > Zákaz započtení pohledávky prohlášením jedné ze stran nebrání stranám, aby si započtení ujednaly; k ujednání o započtení proti pohledávce výživného pro nezletilého, který není plně svéprávný, se však nepřihlíží.
 
+**§ 1992**:
+> **Odstupné**
+> Ujednají-li si strany, že jedna z nich může závazek zrušit zaplacením odstupného, ruší se závazek zaplacením odstupného obdobně jako při odstoupení od smlouvy. Právo zrušit závazek zaplacením odstupného však nemá strana, která již, byť i jen zčásti, plnění druhé strany přijala nebo druhé straně sama plnila.
+
 **Narovnání** (*Vergleich*) = kompromisní dohoda upravující sporná práva.
 
 ### 7) Nemožnost plnění (§ 1996—2000)
@@ -2378,6 +2528,11 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 - **Bez viny dlužníka** (vyšší moc) → zánik závazku **bez náhrady**.
 
 ### 8) Smrt dlužníka nebo věřitele (§ 2009)
+
+**§ 2009**:
+> **Smrt dlužníka nebo věřitele**
+> (1) Smrtí dlužníka povinnost nezanikne, ledaže jejím obsahem bylo plnění, které mělo být provedeno osobně dlužníkem.
+> (2) Smrtí věřitele právo zanikne, bylo-li plnění omezeno jen na jeho osobu.
 
 - **Smrt dlužníka**: závazek **přechází na dědice** (kromě intuitu personae);
 - **Smrt věřitele**: pohledávka přechází na dědice;
@@ -2546,6 +2701,25 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 
 **§ 1979**:
 > Poskytl-li věřitel dlužníku nepřiměřeně krátkou dodatečnou lhůtu k plnění a odstoupí-li od smlouvy po jejím uplynutí, nastávají účinky odstoupení teprve po marném uplynutí doby, která měla být dlužníku poskytnuta jako přiměřená. To platí i tehdy, odstoupil-li věřitel od smlouvy, aniž byl dlužníkovi dodatečnou lhůtu k plnění poskytl.
+
+**Doslovná znění § 1952 až 1953:**
+
+**§ 1952**:
+> **Dlužní úpis**
+> (1) Věřitel, který má dlužníkovo prohlášení o uznání dluhu nebo jiný dlužní úpis, je musí dlužníkovi při splnění vrátit nebo na dlužním úpisu vyznačit, že bylo splněno částečně. Není-li to možné, může dlužník požadovat, aby mu věřitel vydal potvrzení, že dlužní úpis pozbyl platnosti v rozsahu, ve kterém byl dluh splněn. Ustanovení o kvitanci tím nejsou dotčena.
+> (2) Obdrží-li dlužník dlužní úpis bez kvitance, má se za to, že dluh byl splněn.
+
+**§ 1953**:
+> **Náhradní splnění**
+> (1) Nelze-li dluh splnit proto, že věřitel je neznámý nebo nepřítomný, že věřitel odmítl bezdůvodně plnění přijmout, že dlužník je bez své viny v nejistotě, kdo je věřitelem, nebo z jiných důležitých příčin na straně věřitele, je dlužník oprávněn složit předmět plnění do soudní úschovy. Účelně vynaložené náklady spojené s náhradním splněním jdou k tíži věřitele.
+> (2) O složení předmětu plnění do úschovy vyrozumí soud toho, pro koho se složení stalo, a podle potřeby zařídí jeho zastoupení.
+
+**Doslovné znění § 1980:**
+
+**§ 1980**:
+> **Fixní závazek**
+> (1) Byla-li ve smlouvě ujednána přesná doba plnění a vyplývá-li ze smlouvy nebo z povahy závazku, že věřitel nemůže mít na opožděném plnění zájem, zaniká závazek počátkem prodlení dlužníka, ledaže věřitel dlužníku bez zbytečného odkladu oznámí, že na splnění smlouvy trvá.
+> (2) Zánikem závazku nastávají tytéž účinky, jako by věřitel od smlouvy odstoupil.
 
 ---
 

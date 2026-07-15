@@ -348,6 +348,10 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 > a) bylo nebo mělo být neoprávněně zasaženo do její tělesné integrity,
 > b) bylo nebo mělo být neoprávněně opakovaně nebo vážně zasaženo do její duševní integrity, svobody nebo důstojnosti, zejména v intimní oblasti, do její vážnosti, cti nebo soukromí nebo
 > c) byla vážně ohrožena nebo narušena její schopnost uspokojovat své základní potřeby nebo základní potřeby členů společné domácnosti.
+> (2) Obětí domácího násilí může být
+> a) osoba, která s osobou dopouštějící se domácího násilí žije nebo žila ve společné domácnosti, nebo osoba, jejíž domácnost osoba dopouštějící se domácího násilí opakovaně a dlouhodobě navštěvuje,
+> b) osoba blízká nebo ten, kdo jí dříve byl, nebo rodič společného dítěte nebo ten, kdo s osobou dopouštějící se domácího násilí vykonává rodičovskou odpovědnost.
+> (3) Ustanovení § 751 až 753 se použijí obdobně v případě společného bydlení jiných osob, než jsou manželé.
 
 **Legislativní definice domácího násilí**:
 - **Tělesná, duševní, ekonomická složka**;
@@ -1009,6 +1013,16 @@ Oddíl 5 (§ 3054—3068) řeší návrat zásady superficies solo cedit: stavba
 
 **§ 3068**:
 > Vzniklo-li zástavní právo přede dnem nabytí účinnosti tohoto zákona, může vlastník uplatnit právo z uvolnění zástavního práva, jen pokud zástavní věřitel zapsaný přede dnem nabytí účinnosti tohoto zákona za uvolněným zástavním právem v dalším pořadí s uvolněním zástavního práva souhlasí. To platí obdobně i o záměně zástavního práva.
+
+**Doslovná znění § 3066 až 3067:**
+
+**§ 3066**:
+> **Mimořádné vydržení**
+> Do doby stanovené v § 1095 se započte i doba, po kterou měl držitel, popřípadě jeho právní předchůdce, věc nepřetržitě v držbě přede dnem nabytí účinnosti tohoto zákona; tato doba však neskončí dříve než uplynutím dvou let ode dne nabytí účinnosti tohoto zákona, jde-li o věc movitou, a pěti let, jde-li o věc nemovitou.
+
+**§ 3067**:
+> **Opuštění nemovité věci**
+> Je-li opuštěna nemovitá věc, počne běžet doba uvedená v § 1050 odst. 2 ode dne nabytí účinnosti tohoto zákona.
 
 ### Oddíl 6 — Dědické právo (§ 3069—3072)
 
@@ -1690,6 +1704,29 @@ Oddíl 7 (§ 3073—3079) obsahuje zvláštní přechodová pravidla pro závazk
 ### § 3081 — Účinnost
 
 > Tento zákon nabývá účinnosti dnem 1. ledna 2014.
+> Němcová v. r.
+> Klaus v. r.
+> Nečas v. r.
+> 1) Směrnice Rady 85/374/EHS ze dne 25. července 1985 o sbližování právních a správních předpisů členských států týkajících se odpovědnosti za vadné výrobky, ve znění směrnice Evropského parlamentu a Rady 1999/34/ES.
+>  Směrnice Rady 86/653/EHS ze dne 18. prosince 1986 o koordinaci právní úpravy členských států týkající se nezávislých obchodních zástupců.
+>  Směrnice Rady 93/13/EHS ze dne 5. dubna 1993 o zneužívajících ujednáních ve spotřebitelských smlouvách, ve znění směrnice Evropského parlamentu a Rady 2011/83/EU a směrnice Evropského parlamentu a Rady (EU) 2019/2161.
+>  Směrnice Evropského parlamentu a Rady 98/6/ES ze dne 16. února 1998 o ochraně spotřebitelů při označování cen výrobků nabízených spotřebiteli, ve znění směrnice Evropského parlamentu a Rady (EU) 2019/2161.
+>  Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu, na vnitřním trhu.
+>  Směrnice Evropského parlamentu a Rady 2002/65/ES ze dne 23. září 2002 o uvádění finančních služeb pro spotřebitele na trh na dálku a o změně směrnice Rady 90/619/EHS a směrnic 97/7/ES a 98/27/ES, ve znění směrnice Evropského parlamentu a Rady 2005/29/ES, směrnice Evropského parlamentu a Rady 2007/64/ES a směrnice Evropského parlamentu a Rady (EU) 2015/2366.
+>  Směrnice Evropského parlamentu a Rady 2006/114/ES ze dne 12. prosince 2006 o klamavé a srovnávací reklamě (kodifikované znění).
+>  Směrnice Evropského parlamentu a Rady 2008/122/ES ze dne 14. ledna 2009 o ochraně spotřebitele ve vztahu k některým aspektům smluv o dočasném užívání ubytovacího zařízení (timeshare), o dlouhodobých rekreačních produktech, o dalším prodeji a o výměně.
+>  Směrnice Evropského parlamentu a Rady 2009/138/ES ze dne 25. listopadu 2009 o přístupu k pojišťovací a zajišťovací činnosti a jejím výkonu (Solventnost II), ve znění směrnice Evropského parlamentu a Rady 2011/89/EU, směrnice Evropského parlamentu a Rady 2012/23/EU, směrnice Evropského parlamentu a Rady 2013/23/EU, směrnice Evropského parlamentu a Rady 2013/58/EU, směrnice Evropského parlamentu a Rady 2014/51/EU, směrnice (EU) 2016/2341, směrnice (EU) 2017/2402 a směrnice (EU) 2018/843.
+>  Směrnice Evropského parlamentu a Rady 2011/7/EU ze dne 16. února 2011 o postupu proti opožděným platbám v obchodních transakcích.
+>  Směrnice Evropského parlamentu a Rady 2011/83/EU ze dne 25. října 2011 o právech spotřebitelů, kterou se mění směrnice Rady 93/13/EHS a směrnice Evropského parlamentu a Rady 1999/44/ES a zrušuje směrnice Rady 85/577/EHS a směrnice Evropského parlamentu a Rady 97/7/ES, ve znění směrnice Evropského parlamentu a Rady (EU) 2015/2302 a směrnice Evropského parlamentu a Rady (EU) 2019/2161.
+>  Směrnice Evropského parlamentu a Rady (EU) 2015/2302 ze dne 25. listopadu 2015 o souborných cestovních službách a spojených cestovních službách, o změně nařízení Evropského parlamentu a Rady (ES) č. 2006/2004 a směrnice Evropského parlamentu a Rady 2011/83/EU a o zrušení směrnice Rady 90/314/EHS.
+>  Směrnice Evropského parlamentu a Rady (EU) 2019/770 ze dne 20. května 2019 o některých aspektech smluv o poskytování digitálního obsahu a digitálních služeb.
+>  Směrnice Evropského parlamentu a Rady (EU) 2019/771 ze dne 20. května 2019 o některých aspektech smluv o prodeji zboží, o změně nařízení (EU) 2017/2394 a směrnice 2009/22/ES a o zrušení směrnice 1999/44/ES.
+>  Směrnice Evropského parlamentu a Rady (EU) 2019/790 ze dne 17. dubna 2019 o autorském právu a právech s ním souvisejících na jednotném digitálním trhu a o změně směrnic 96/9/ES a 2001/29/ES.
+> 2) Nařízení Evropského parlamentu a Rady (ES) č. 261/2004 ze dne 11. února 2004, kterým se stanoví společná pravidla náhrad a pomoci cestujícím v letecké dopravě v případě odepření nástupu na palubu, zrušení nebo významného zpoždění letů a kterým se zrušuje nařízení (EHS) č. 295/91.
+>  Nařízení Evropského parlamentu a Rady (ES) č. 1371/2007 ze dne 23. října 2007 o právech a povinnostech cestujících v železniční přepravě.
+>  Nařízení Evropského parlamentu a Rady (ES) č. 392/2009 ze dne 23. dubna 2009 o odpovědnosti dopravců k cestujícím po moři v případě nehod.
+>  Nařízení Evropského parlamentu a Rady (EU) č. 1177/2010 ze dne 24. listopadu 2010 o právech cestujících při cestování po moři a na vnitrozemských vodních cestách a o změně nařízení (ES) č. 2006/2004.
+>  Nařízení Evropského parlamentu a Rady (EU) č. 181/2011 ze dne 16. února 2011 o právech cestujících v autobusové a autokarové dopravě a o změně nařízení (ES) č. 2006/2004.
 
 **Účinnost OZ od 1. 1. 2014** — největší rekodifikace soukromého práva v dějinách Československa a České republiky.
 

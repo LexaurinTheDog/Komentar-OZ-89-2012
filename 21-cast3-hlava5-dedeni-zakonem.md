@@ -357,7 +357,9 @@ Dědickou nezpůsobilost zakládá jen čin povahy úmyslného trestného činu 
 
 ### § 1484 — Zřeknutí se dědického práva (předem)
 
-> (1) Dědického práva se lze předem zříci smlouvou se zůstavitelem; není-li jinak ujednáno, působí zřeknutí i proti potomkům.
+> (1) Dědického práva se lze předem zříci smlouvou se zůstavitelem; není-li jinak ujednáno, působí zřeknutí i proti potomkům. Kdo se zřekne dědického práva, zříká se tím i práva na povinný díl; kdo se však zřekne jen práva na povinný díl, nezříká se tím práva z dědické posloupnosti.
+> (2) Zřekl-li se někdo dědického práva ve prospěch jiné osoby, má se za to, že zřeknutí platí, jen stane-li se tato osoba dědicem.
+> (3) Smlouva vyžaduje formu veřejné listiny; práva a povinnosti z ní však mohou být zrušeny, pokud strany dodrží písemnou formu.
 
 **Smlouva o zřeknutí dědického práva** (*pactum renuntiationis*):
 - **Předem** (před úmrtím) mezi zůstavitelem a dědicem;
@@ -645,6 +647,18 @@ Vzdání se dědictví (na rozdíl od odmítnutí) předpokládá, že dědic d�
 **§ 1572**:
 > (1) Směřuje-li příkaz k prospěchu více osob bez bližšího určení, splní obtížená osoba příkaz vůči právnické osobě oprávněné chránit zájmy těchto osob. Je-li takových právnických osob více a není-li zřejmá jiná zůstavitelova vůle, má volbu osoba obtížená příkazem; neprovede-li ji bez zbytečného odkladu, určí oprávněnou osobu soud na návrh toho, kdo na tom má právní zájem.
 > (2) Směřuje-li příkaz k veřejnému prospěchu, může splnění příkazu vymáhat i příslušný orgán veřejné moci.
+
+**Doslovné znění § 1532:**
+
+**§ 1532**:
+> **Písemná forma závěti**
+> Závěť vyžaduje písemnou formu, ledaže byla pořízena s úlevami.
+
+**Doslovné znění § 1550:**
+
+**§ 1550**:
+> **Mlčenlivost**
+> Kdo působil při pořízení závěti nebo jiném právním jednání, pro které tento zákon vyžaduje náležitosti jako pro závěť, jako pisatel, svědek, předčitatel, tlumočník, schovatel nebo úřední osoba, zachová o obsahu zůstavitelovy vůle mlčenlivost, ledaže je zřejmá jiná vůle zůstavitele; poruší-li tuto povinnost, odčiní zůstaviteli újmu, kterou mu tím způsobil.
 
 ### § 1494 — Definice závěti
 
@@ -1048,6 +1062,14 @@ Listina, na niž závěť odkazuje, má účinky závěti jen při splnění jej
 **§ 1580**:
 > Zruší-li zůstavitel novější závěť, ale dřívější uchová, má se za to, že dřívější závěť nepozbyla platnost a hledí se na ni, jako by nebyla zrušena.
 
+**§ 1576**:
+> **Pořízení nové závěti**
+> Pořízením pozdější závěti se dřívější závěť ruší v rozsahu, v jakém nemůže vedle pozdější závěti obstát.
+
+**§ 1581**:
+> **Neúčinná zrušovací doložka**
+> Prohlásí-li zůstavitel, že neplatná budou všechna jeho příští pořízení pro případ jeho smrti, anebo že budou neplatná taková pořízení, jež nebudou zřízena v určité formě, nepřihlíží se k tomu.
+
 **Tři způsoby zrušení**:
 
 **§ 1573 — Pořízení nové závěti**:
@@ -1059,6 +1081,12 @@ Listina, na niž závěť odkazuje, má účinky závěti jen při splnění jej
 - **Zničení listiny** (zůstavitelem osobně) — zničení = odvolání.
 
 **§ 1581 — Neúčinná zrušovací doložka**: doložky vylučující právo závěť odvolat **jsou neplatné** (*ius testandi* je nezadatelné).
+
+**Doslovné znění § 1498:**
+
+**§ 1498**:
+> **Dovětek**
+> Dovětkem může zůstavitel nařídit odkaz, stanovit odkazovníku nebo dědici podmínku, nebo doložit čas anebo uložit odkazovníku nebo dědici příkaz. Co je stanoveno o závěti, platí obdobně i o dovětku.
 
 ### Oddíl 3 — Dědická smlouva (§ 1582—1593)
 
@@ -1543,6 +1571,12 @@ Odkaz jednotlivé věci z pozůstalosti (a vyjmenované odkazy) lze požadovat i
 **§ 1623**:
 > Prohlásí-li odkazovník způsobem, jaký je stanoven pro odmítnutí dědictví, že odkaz nechce, hledí se na něho, jako by právo na odkaz vůbec nenabyl.
 
+**Doslovné znění § 1618:**
+
+**§ 1618**:
+> **Odkaz dětem a příbuzným**
+> Dětmi se rozumí jen synové a dcery, jestliže zůstavitel pamatoval na děti někoho jiného. Jedná-li se však o vlastní děti zůstavitele, rozumí se tím i potomci vstupující na jejich místo.
+
 ---
 
 ## Díl 4 — Zákonná dědická posloupnost (§ 1633—1641)
@@ -1600,6 +1634,13 @@ Nedědí-li žádný dědic ze všech šesti tříd, připadne pozůstalost stá
 - [ ] Uspokojit věřitele a odkazy do výše nabytého majetku.
 
 **Typicky rozhodné důkazy / podklady:** výsledky lustrace dědiců, soupis a ocenění pozůstalosti, přihlášky pohledávek věřitelů, doklad o absenci pořízení pro případ smrti.
+
+**Doslovné znění § 1634:**
+
+**§ 1634**:
+> **Odúmrť**
+> (1) Nedědí-li žádný dědic ani podle zákonné dědické posloupnosti, připadá dědictví státu a na stát se hledí, jako by byl zákonný dědic; stát však nemá právo odmítnout dědictví, ani právo na odkaz podle § 1594 odst. 1 věty třetí.
+> (2) Vůči jiným osobám má stát stejné postavení jako dědic, kterému svědčí výhrada soupisu.
 
 ### § 1635—1640 — Šest dědických tříd
 
@@ -2465,6 +2506,12 @@ Výhrada soupisu (beneficium inventarii) omezuje ručení dědice za zůstavitel
 
 **§ 1713**:
 > Nebylo-li žádáno o výzvu věřitelům, nebo uspokojí-li dědic některého z hlásících se věřitelů bez zřetele na práva ostatních, a nedosáhne-li proto některý věřitel úplného uhrazení pohledávky z pozůstalosti, je dědic věřiteli zavázán nad rámec uvedený v § 1692, a to až do výše, v jaké by věřitel dosáhl uspokojení při likvidaci pozůstalosti podle jiného právního předpisu.
+
+**Doslovné znění § 1703:**
+
+**§ 1703**:
+> **Práva věřitelů před potvrzením dědictví**
+> Dokud soud nepotvrdí dědici nabytí dědictví, mohou věřitelé vymáhat plnění jen vůči tomu, kdo spravuje pozůstalost, a domáhat se uspokojení jen z majetku náležejícího do pozůstalosti.
 
 ---
 

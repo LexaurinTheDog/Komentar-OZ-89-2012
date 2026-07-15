@@ -438,7 +438,7 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 #### 2) Porušení zákona (§ 2910)
 
-> Škůdce, který vlastním zaviněním poruší povinnost stanovenou zákonem a zasáhne tak do absolutního práva poškozeného, nahradí poškozenému, co tím způsobil.
+> Škůdce, který vlastním zaviněním poruší povinnost stanovenou zákonem a zasáhne tak do absolutního práva poškozeného, nahradí poškozenému, co tím způsobil. Povinnost k náhradě vznikne i škůdci, který zasáhne do jiného práva poškozeného zaviněným porušením zákonné povinnosti stanovené na ochranu takového práva.
 
 **KLÍČOVÁ GENERÁLNÍ KLAUZULE** deliktního práva:
 - **Zavinění** (úmysl nebo nedbalost);
@@ -461,6 +461,7 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 #### 3) Porušení smlouvy (§ 2913)
 
 > (1) Poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou druhé straně nebo i osobě, jejímuž zájmu mělo splnění ujednané povinnosti zjevně sloužit.
+> (2) Povinnosti k náhradě se škůdce zprostí, prokáže-li, že mu ve splnění povinnosti ze smlouvy dočasně nebo trvale zabránila mimořádná nepředvídatelná a nepřekonatelná překážka vzniklá nezávisle na jeho vůli. Překážka vzniklá ze škůdcových osobních poměrů nebo vzniklá až v době, kdy byl škůdce s plněním smluvené povinnosti v prodlení, ani překážka, kterou byl škůdce podle smlouvy povinen překonat, ho však povinnosti k náhradě nezprostí.
 
 **Smluvní odpovědnost** (*kontraktualní*):
 - **Objektivní povaha** (odst. 2 — bez zavinění, kontraktualní princip);
@@ -588,6 +589,10 @@ Promlčení náhrady škody nebrání domáhat se vydání toho, oč se škůdce
 
 #### Škoda způsobená osobou nebezpečných vlastností (§ 2923)
 
+**§ 2923**:
+> **Škoda způsobená osobou s nebezpečnými vlastnostmi**
+> Kdo se vědomě ujme osoby nebezpečných vlastností tak, že jí bez její nutné potřeby poskytne útulek nebo jí svěří určitou činnost, ať již v domácnosti, provozovně či na jiném podobném místě, nahradí společně a nerozdílně s ní škodu způsobenou v takovém místě nebo při této činnosti někomu jinému nebezpečnou povahou takové osoby.
+
 Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, svěří činnost) **bez nutné potřeby** → solidárně odpovídá za škodu, kterou taková osoba způsobila.
 
 #### Provozní činnost (§ 2924)
@@ -601,6 +606,12 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 
 #### Zvlášť nebezpečný provoz (§ 2925)
 
+**§ 2925**:
+> **Škoda způsobená provozem zvlášť nebezpečným**
+> (1) Kdo provozuje závod nebo jiné zařízení zvláště nebezpečné, nahradí škodu způsobenou zdrojem zvýšeného nebezpečí; provoz je zvlášť nebezpečný, nelze-li předem rozumně vyloučit možnost vzniku závažné škody ani při vynaložení řádné péče. Jinak se povinnosti zprostí, prokáže-li, že škodu způsobila zvnějšku vyšší moc nebo že ji způsobilo vlastní jednání poškozeného nebo neodvratitelné jednání třetí osoby; ujednají-li se další důvody zproštění, nepřihlíží se k tomu.
+> (2) Je-li z okolností zřejmé, že provoz významně zvýšil nebezpečí vzniku škody, ačkoli lze důvodně poukázat i na jiné možné příčiny, soud zaváže provozovatele k náhradě škody v rozsahu, který odpovídá pravděpodobnosti způsobení škody provozem.
+> (3) Má se za to, že provoz je zvláště nebezpečný, pokud se provozuje továrním způsobem nebo pokud se při něm výbušná nebo podobně nebezpečná látka používá nebo se s ní nakládá.
+
 **Zvlášť nebezpečný provoz** (*besonders gefährliche Tätigkeit*):
 - **Provozy, u nichž nelze předem rozumně vyloučit závažnou škodu** ani při řádné péči;
 - **Domněnka**: tovární výroba, použití/nakládání s **výbušnými** látkami;
@@ -609,6 +620,10 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 **Praktické příklady**: jaderné elektrárny, chemické závody, výroba munice, sklady benzinu/plynu.
 
 #### Škoda na nemovité věci (§ 2926)
+
+**§ 2926**:
+> **Škoda na nemovité věci**
+> Kdo, byť oprávněně provádí nebo zajišťuje práce, jimiž se jinému působí škoda na nemovité věci, nebo jimiž se držba nemovité věci znemožní nebo podstatně ztíží, nahradí škodu z toho vzniklou.
 
 Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitosti → odpovídá, **i když oprávněně** prováděl (např. stavební deformace sousedního domu).
 
@@ -772,6 +787,16 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 > (1) Neuplatní-li se právo na náhradu škody u ubytovatele bez zbytečného odkladu, soud je nepřizná, pokud ubytovatel namítne, že právo nebylo uplatněno včas. Nejpozději lze právo na náhradu škody uplatnit do patnácti dnů po dni, kdy se poškozený o škodě musel dozvědět.
 > (2) Ustanovení odstavce 1 se nepoužije, převzal-li ubytovatel věc do úschovy, odmítl-li ubytovatel úschovu věci v rozporu se zákonem nebo způsobil-li škodu ubytovatel nebo ten, kdo v provozu pracuje.
 
+**§ 2945**:
+> **Škoda na odložené věci**
+> (1) Je-li s provozováním nějaké činnosti zpravidla spojeno odkládání věcí a byla-li věc odložena na místě k tomu určeném nebo na místě, kam se takové věci obvykle ukládají, nahradí provozovatel poškození, ztrátu nebo zničení věci tomu, kdo ji odložil, popřípadě vlastníku věci. Stejně nahradí škodu provozovatel hlídaných garáží nebo zařízení podobného druhu, jedná-li se o dopravní prostředky v nich umístěné a o jejich příslušenství.
+> (2) Neuplatní-li se právo na náhradu škody u provozovatele bez zbytečného odkladu, soud je nepřizná, pokud provozovatel namítne, že právo nebylo uplatněno včas. Nejpozději lze právo na náhradu škody uplatnit do patnácti dnů po dni, kdy se poškozený o škodě musel dozvědět.
+> (3) Byla-li škoda způsobena na věci odložené v dopravním prostředku hromadné dopravy, nahradí se jen podle ustanovení o náhradě škody způsobené provozem dopravního prostředku.
+
+**§ 2950**:
+> **Škoda způsobená informací nebo radou**
+> Kdo se hlásí jako příslušník určitého stavu nebo povolání k odbornému výkonu nebo jinak vystupuje jako odborník, nahradí škodu, způsobí-li ji neúplnou nebo nesprávnou informací nebo škodlivou radou danou za odměnu v záležitosti svého vědění nebo dovednosti. Jinak se hradí jen škoda, kterou někdo informací nebo radou způsobil vědomě.
+
 - **§ 2945 — Škoda na odložené věci** — kdo provozuje **provozovnu k poskytování služeb**, ručí za odložené věci zákazníků (např. restaurace za kabáty);
 - **§ 2946 — Škoda na vnesených věcech** — provozovatel ubytování (hotel) odpovídá za **vnesené věci** hostů (do **stonásobku** ceny ubytování);
 - **§ 2950 — Odpovědnost profesionála**: kdo **deklaruje členství v profesi** → odpovídá za škodu z **profesní péče**.
@@ -781,6 +806,11 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 ## Oddíl 3 — Způsob a rozsah náhrady (§ 2951—2990)
 
 ### Pododdíl 1 — Obecná ustanovení (§ 2951—2955)
+
+**§ 2953**:
+> **Snížení náhrady**
+> (1) Z důvodů zvláštního zřetele hodných soud náhradu škody přiměřeně sníží. Vezme přitom zřetel zejména na to, jak ke škodě došlo, k osobním a majetkovým poměrům člověka, který škodu způsobil a odpovídá za ni, jakož i k poměrům poškozeného. Náhradu nelze snížit, byla-li škoda způsobena úmyslně.
+> (2) Odstavec 1 se nepoužije, způsobil-li škodu ten, kdo se hlásil k odbornému výkonu jako příslušník určitého stavu nebo povolání, porušením odborné péče.
 
 ### § 2951—2952 — Způsob náhrady
 
@@ -1267,6 +1297,104 @@ Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštn�
 **§ 2989**:
 > (1) Právo, aby se rušitel nekalé soutěže zdržel nebo aby odstranil závadný stav, může mimo případy uvedené v § 2982 až 2985 uplatnit též právnická osoba oprávněná hájit zájmy soutěžitelů nebo zákazníků.
 > (2) Uplatní-li spotřebitel právo, aby se rušitel zdržel nekalé soutěže nebo aby odstranil závadný stav a jde-li o některý případ stanovený v § 2976 až 2981 nebo v § 2987, musí rušitel prokázat, že se nekalé soutěže nedopustil. Uplatní-li spotřebitel právo na náhradu škody, musí rušitel prokázat, že škoda nebyla způsobena nekalou soutěží.
+
+**Doslovné znění § 2975:**
+
+**§ 2975**:
+> **Zakázaná konkurenční doložka**
+> (1) Neurčí-li se v ujednání zakazujícím jinému soutěžní činnost území, okruh činnosti nebo okruh osob, kterých se zákaz týká, ke konkurenční doložce se nepřihlíží.
+> (2) Zakazuje se konkurenční doložka ujednaná na neurčitou dobu nebo na dobu delší než pět let; poruší-li se zákaz, platí, že konkurenční doložka byla ujednána na pět let.
+> (3) Zakazuje se konkurenční doložka omezující zavázanou stranu více, než vyžaduje potřebná ochrana oprávněné strany; poruší-li se zákaz, může soud na návrh dotčené strany konkurenční doložku omezit, zrušit, nebo prohlásit za neplatnou.
+
+**Doslovná znění § 2976 až 2987:**
+
+**§ 2976**:
+> **Základní ustanovení**
+> (1) Kdo se dostane v hospodářském styku do rozporu s dobrými mravy soutěže jednáním způsobilým přivodit újmu jiným soutěžitelům nebo zákazníkům, dopustí se nekalé soutěže. Nekalá soutěž se zakazuje.
+> (2) Nekalou soutěží podle odstavce 1 je zejména
+>   - a) klamavá reklama,
+>   - b) klamavé označování zboží a služeb,
+>   - c) vyvolání nebezpečí záměny,
+>   - d) parazitování na pověsti závodu, výrobku či služeb jiného soutěžitele,
+>   - e) podplácení,
+>   - f) zlehčování,
+>   - g) srovnávací reklama, pokud není dovolena jako přípustná,
+>   - h) porušení obchodního tajemství,
+>   - i) dotěrné obtěžování a
+>   - j) ohrožení zdraví a životního prostředí.
+
+**§ 2977**:
+> **Klamavá reklama**
+> (1) Klamavá reklama je taková reklama, která souvisí s podnikáním nebo povoláním, sleduje podpořit odbyt movitých nebo nemovitých věcí nebo poskytování služeb, včetně práv a povinností, klame nebo je způsobilá klamat podáním nebo jakýmkoli jiným způsobem osoby, jimž je určena nebo k nimž dospěje, a tím i zřejmě způsobilá ovlivnit hospodářské chování takových osob.
+> (2) Při posuzování, zda je reklama klamavá, se přihlédne ke všem jejím výrazným znakům. Zvláště se přihlédne k údajům, které reklama obsahuje ohledně
+>   - a) dostupnosti, povahy, provedení, složení, výrobního postupu, data výroby nebo poskytnutí, způsobilosti k určenému účelu, použitelnosti, množství, zeměpisného či obchodního původu, jakož i podrobnějšího vytčení a dalších znaků zboží nebo služeb včetně předpokládaných výsledků použití nebo výsledků a podstatných znaků provedených zkoušek či prověrek,
+>   - b) ceny nebo způsobu jejího určení,
+>   - c) podmínek, za nichž se zboží dodává nebo služba poskytuje, a
+>   - d) povahy, vlastností a práv zadavatele reklamy, jako jsou zejména jeho totožnost, majetek, odborná způsobilost, jeho práva duševního vlastnictví nebo jeho vyznamenání a pocty.
+
+**§ 2978**:
+> **Klamavé označení zboží nebo služby**
+> (1) Klamavé označení zboží nebo služby je takové označení, které je způsobilé vyvolat v hospodářském styku mylnou domněnku, že jím označené zboží nebo služba pocházejí z určité oblasti či místa nebo od určitého výrobce, anebo že vykazují zvláštní charakteristický znak nebo zvláštní jakost. Nerozhodné je, zda označení bylo uvedeno bezprostředně na zboží, na obalu, obchodní písemnosti nebo jinde. Rovněž je nerozhodné, zda ke klamavému označení došlo přímo nebo nepřímo a jakým prostředkem se tak stalo.
+> (2) Klamavost působí i údaj všeobecně vžitý v hospodářském styku k označení druhu nebo jakosti, je-li k němu připojen dodatek způsobilý klamat, zejména s použitím výrazu „pravý“, „skutečný“ nebo „původní“.
+> (3) Ustanoveními předchozích odstavců nejsou dotčeny jiné právní předpisy o ochraně průmyslového nebo jiného duševního vlastnictví.
+
+**§ 2979**:
+> **Společné ustanovení o klamavé reklamě a klamavém označení zboží nebo služby**
+> (1) Způsobilost oklamat může mít i údaj sám o sobě správný, může-li uvést v omyl vzhledem k okolnostem a souvislostem, za nichž byl učiněn.
+> (2) Při posouzení klamavosti se přihlédne rovněž k dodatkům, zejména k použití výrazů jako „druh“, „typ“, „způsob“, jakož i k výpustkám, zkratkám a celkové vnější úpravě.
+
+**§ 2980**:
+> **Srovnávací reklama**
+> (1) Srovnávací reklama přímo nebo nepřímo označuje jiného soutěžitele nebo jeho zboží či službu.
+> (2) Srovnávací reklama je přípustná, pokud se srovnání týče,
+>   - a) není-li klamavá,
+>   - b) srovnává-li jen zboží a službu uspokojující stejnou potřebu nebo určené ke stejnému účelu,
+>   - c) srovnává-li objektivně jednu nebo více podstatných, důležitých, ověřitelných a příznačných vlastností zboží nebo služeb včetně ceny,
+>   - d) srovnává-li zboží s označením původu pouze se zbožím stejného označení,
+>   - e) nezlehčuje-li soutěžitele, jeho postavení, jeho činnost nebo její výsledky nebo jejich označení ani z nich nekalým způsobem netěží, a
+>   - f) nenabízí-li zboží nebo službu jako napodobení či reprodukci zboží nebo služby označovaných ochrannou známkou soutěžitele nebo jeho názvem.
+
+**§ 2981**:
+> **Vyvolání nebezpečí záměny**
+> (1) Kdo užije jména osoby nebo zvláštního označení závodu užívaného již po právu jiným soutěžitelem, vyvolá tím nebezpečí záměny.
+> (2) Nebezpečí záměny vyvolá i ten, kdo užije zvláštního označení závodu nebo zvláštního označení či úpravy výrobku, výkonu nebo obchodního materiálu závodu, které v zákaznických kruzích platí pro určitý závod za příznačné.
+> (3) Stejně tak vyvolá nebezpečí záměny, kdo napodobí cizí výrobek, jeho obal nebo výkon, ledaže se jedná o napodobení v prvcích, které jsou již z povahy výrobku funkčně, technicky nebo esteticky předurčeny, a napodobitel učinil veškerá opatření, která lze na něm požadovat, aby nebezpečí záměny vyloučil nebo alespoň podstatně omezil, pokud jsou tato jednání způsobilá vyvolat nebezpečí záměny nebo klamnou představu o spojení se soutěžitelem, jeho závodem, pojmenováním, zvláštním označením nebo s výrobkem či výkonem jiného soutěžitele.
+
+**§ 2982**:
+> **Parazitování na pověsti**
+> Parazitováním je zneužití pověsti závodu, výrobku nebo služby jiného soutěžitele umožňující získat pro výsledky vlastního nebo cizího podnikání prospěch, jehož by soutěžitel jinak nedosáhl.
+
+**§ 2983**:
+> **Podplácení**
+> Podplácením ve smyslu tohoto zákona je jednání, jímž
+>   - a) soutěžitel osobě, která je členem statutárního nebo jiného orgánu jiného soutěžitele nebo je v pracovním poměru k jinému soutěžiteli, přímo nebo nepřímo nabídne, slíbí či poskytne jakýkoliv prospěch za tím účelem, aby jejím nekalým postupem docílil na úkor jiných soutěžitelů pro sebe nebo jiného soutěžitele přednost nebo jinou neoprávněnou výhodu v soutěži, anebo
+>   - b) osoba uvedená v písmenu a) přímo či nepřímo žádá, dá si slíbit nebo přijme za stejným účelem jakýkoliv prospěch.
+
+**§ 2984**:
+> **Zlehčování**
+> (1) Zlehčováním je jednání, jímž soutěžitel uvede nebo rozšiřuje o poměrech, výkonech nebo výrobku jiného soutěžitele nepravdivý údaj způsobilý tomuto soutěžiteli přivodit újmu.
+> (2) Zlehčováním je i uvedení a rozšiřování pravdivého údaje o poměrech, výkonech nebo výrobku jiného soutěžitele, pokud jsou způsobilé tomuto soutěžiteli přivodit újmu. Nekalou soutěží však není, byl-li soutěžitel k takovému jednání okolnostmi donucen (oprávněná obrana).
+
+**§ 2985**:
+> **Porušení obchodního tajemství**
+> Porušením obchodního tajemství je jednání, jímž jednající jiné osobě neoprávněně sdělí, zpřístupní, pro sebe nebo pro jiného využije obchodní tajemství, které může být využito v soutěži a o němž se dověděl
+>   - a) tím, že mu tajemství bylo svěřeno nebo jinak se stalo přístupným na základě jeho pracovního poměru k soutěžiteli nebo na základě jiného vztahu k němu, popřípadě v rámci výkonu funkce, k níž byl soudem nebo jiným orgánem povolán, nebo
+>   - b) vlastním nebo cizím jednáním příčícím se zákonu.
+
+**§ 2986**:
+> **Dotěrné obtěžování**
+> (1) Dotěrné obtěžování je sdělování údajů o soutěžiteli, zboží nebo službách, jakož i nabídka zboží nebo služeb s využitím telefonu, faxového přístroje, elektronické pošty nebo podobných prostředků, ačkoli si takovou činnost příjemce zjevně nepřeje, nebo sdělování reklamy, při kterém její původce utají nebo zastře údaje, podle nichž ho lze zjistit, a neuvede, kde příjemce může bez zvláštních nákladů přikázat ukončení reklamy.
+> (2) Rozesílá-li se reklama na elektronickou adresu, kterou podnikatel získal v souvislosti s prodejem zboží nebo poskytnutím služby, nejde o dotěrné obtěžování, pokud podnikatel tuto adresu používá k přímé reklamě pro vlastní zboží nebo služby a druhá strana reklamu nezakázala, ačkoli ji podnikatel při získání adresy i při každém jejím použití k reklamě zřetelně upozornil na právo přikázat bez zvláštních nákladů ukončení reklamy.
+
+**§ 2987**:
+> **Ohrožení zdraví nebo životního prostředí**
+> Ohrožení zdraví nebo životního prostředí je jednání, jímž soutěžitel zkresluje podmínky hospodářské soutěže tím, že provozuje výrobu, uvádí na trh výrobek nebo provádí výkon ohrožující zájem na ochraně zdraví nebo životního prostředí chráněný zákonem, aby tak získal pro sebe nebo pro jiného prospěch na úkor jiného soutěžitele nebo zákazníků.
+
+**Doslovné znění § 2990:**
+
+**§ 2990**:
+> **Ochrana proti omezování soutěže**
+> Osoba, jejíž právo bylo ohroženo nebo porušeno nedovoleným omezením soutěže, má práva stanovená v § 2988.
 
 ### Promlčení nároků z deliktů (§ 619—621, § 636)
 

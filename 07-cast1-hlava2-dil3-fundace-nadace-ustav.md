@@ -1875,6 +1875,10 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 **§ 361**:
 > Každý může ve veřejném rejstříku do výroční zprávy nahlížet a činit si z ní výpisy, opisy nebo kopie. Stejné právo lze uplatnit také v sídle nadace.
 
+**§ 357**:
+> **Náklady správy**
+> Nadace účtuje odděleně o nadačních příspěvcích, o ostatních činnostech k naplnění účelu nadace a o nákladech na její správu.
+
 **§ 357**: **oddělené účetnictví** o příspěvcích, jiných činnostech, nákladech správy.
 
 **§ 358 — Výroční zpráva**:

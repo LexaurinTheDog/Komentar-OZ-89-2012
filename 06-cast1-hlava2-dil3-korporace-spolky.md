@@ -1788,6 +1788,15 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 
 ### Zrušení spolku (§ 268)
 
+**§ 268**:
+> **Zrušení spolku**
+> (1) Soud zruší spolek s likvidací na návrh osoby, která na tom má oprávněný zájem, nebo i bez návrhu v případě, že spolek, ač byl na to soudem upozorněn,
+>     - a) vyvíjí činnost zakázanou v § 145,
+>     - b) vyvíjí činnost v rozporu s § 217,
+>     - c) nutí třetí osoby k členství ve spolku, k účasti na jeho činnosti nebo k jeho podpoře, nebo
+>     - d) brání členům ze spolku vystoupit.
+> (2) Ustanovení § 172 není dotčeno.
+
 **§ 268 — Soudní zrušení s likvidací** — návrh osoby s oprávněným zájmem nebo i bez návrhu, pokud spolek (po upozornění soudem):
 - a) Vyvíjí zakázanou činnost (§ 145);
 - b) Vyvíjí činnost v rozporu s § 217 (primárně podniká);

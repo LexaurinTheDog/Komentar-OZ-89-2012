@@ -95,7 +95,7 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 
 ### § 2202 — Předmět nájmu
 
-> (1) Pronajmout lze věc nemovitou i nezuživatelnou věc movitou. Pronajmout lze i část nemovité věci.
+> (1) Pronajmout lze věc nemovitou i nezuživatelnou věc movitou. Pronajmout lze i část nemovité věci; co se dále stanoví o věci, použije se i pro nájem její části.
 > (2) Pronajmout lze i věc, která v budoucnu teprve vznikne, je-li ji možné dostatečně přesně určit při uzavření nájemní smlouvy.
 
 **Předmět**:
@@ -1645,6 +1645,13 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 
 **Typicky rozhodné důkazy / podklady:** nájemní smlouva a výpověď (důvod, datum), doklady o vybudované klientele a tržbách, důkazy o návaznosti provozu pronajímatele/nového nájemce na tutéž základnu, znalecké ocenění výhody.
 
+**Doslovné znění § 2316:**
+
+**§ 2316**:
+> **Základní ustanovení**
+> (1) Nájemní smlouvou se pronajímatel, který je podnikatelem a jehož podnikání spočívá v pronajímání věcí, zavazuje přenechat nájemci na určitou dobu užívání movité věci a nájemce se zavazuje platit za to pronajímateli nájemné.
+> (2) Není-li dále stanoveno jinak, použijí se pro podnikatelský pronájem movitých věcí obecná ustanovení o nájmu.
+
 ---
 
 ### Pododdíl 4 — Nájem dopravního prostředku (§ 2321—2325)
@@ -1663,6 +1670,10 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 **§ 2325**:
 > (1) Nájemce udržuje dopravní prostředek ve stavu, v jakém jej převzal, s přihlédnutím k obvyklému opotřebení.
 > (2) Pronajímatel nahradí nájemci náklady, které nájemce vynaložil na údržbu; neuplatní-li nájemce toto právo u pronajímatele do tří měsíců od vynaložení nákladů, právo zanikne.
+
+**§ 2321**:
+> **Základní ustanovení**
+> Nájemní smlouvou se pronajímatel zavazuje přenechat nájemci na určitou dobu užívání dopravního prostředku a nájemce se zavazuje platit za to pronajímateli nájemné.
 
 **Speciální úprava** pro pronájem aut, lodí, letadel (car rental):
 - Krátkodobý charakter;
@@ -1693,7 +1704,7 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 
 ### § 2326 — Definice ubytování
 
-> (1) Ubytovací smlouvou ubytovatel zavazuje poskytnout ubytovanému přechodně ubytování na ujednanou dobu nebo na dobu vyplývající z účelu ubytování v zařízení k tomu určeném a ubytovaný se zavazuje zaplatit ubytovateli za ubytování a za služby s ním spojené ve lhůtě stanovené ubytovacím řádem, popř. ve lhůtě obvyklé.
+> Smlouvou o ubytování (o přechodném nájmu) se ubytovatel zavazuje poskytnout ubytovanému přechodně ubytování na ujednanou dobu nebo na dobu vyplývající z účelu ubytování v zařízení k tomu určeném a objednatel se zavazuje zaplatit ubytovateli za ubytování a za služby spojené s ubytováním ve lhůtě stanovené ubytovacím řádem, popřípadě ve lhůtě obvyklé.
 
 **Ubytování** (*Beherbergung*) — **přechodné** ubytování:
 - **Hotel, penzion, hostel**;
@@ -1834,6 +1845,7 @@ Ubytovaný má právo užívat prostor a služby a žádat úschovu cenností; z
 ### § 2332 — Definice pachtu
 
 > (1) Pachtovní smlouvou se propachtovatel zavazuje přenechat pachtýři věc k dočasnému užívání a požívání a pachtýř se zavazuje platit za to propachtovateli pachtovné nebo poskytnout poměrnou část výnosu z věci.
+> (2) Přenechá-li strana druhé smluvní straně jednou smlouvou více věcí, z nichž některé slouží k užívání a jiné k požívání, posoudí se smlouva podle povahy hlavní věci.
 
 **Pacht** (*Pacht*, *Pachtvertrag*) — **klíčový rozdíl** od nájmu:
 - **Nájem** = **užívání** (*usus*);
@@ -2017,6 +2029,11 @@ Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále
 **§ 2348**:
 > (1) Stane-li se pachtýř ze zdravotních důvodů nezpůsobilý na pozemku hospodařit, má právo vypovědět pacht v tříměsíční výpovědní době, i když byl pacht ujednán na dobu určitou.
 > (2) Zemře-li pachtýř, má pachtýřův dědic právo vypovědět pacht v tříměsíční výpovědní době, i když byl pacht ujednán na dobu určitou; výpověď musí být podána do šesti měsíců ode dne, kdy pachtýř zemřel.
+
+**§ 2345**:
+> **Základní ustanovení**
+> (1) Je-li propachtován zemědělský nebo lesní pozemek, je ujednán zemědělský pacht.
+> (2) Je-li pacht ujednán na dobu delší než dva roky a není-li smlouva uzavřena v písemné formě, má se za to, že pacht byl ujednán na dobu neurčitou.
 
 **Zemědělský pacht** (*pachtus rusticus*) — speciální úprava pro:
 - **Polnosti, louky, pastviny**;

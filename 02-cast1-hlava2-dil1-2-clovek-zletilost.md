@@ -1414,6 +1414,7 @@ Existuje tvrdá hranice: v záležitostech vyžadujících přivolení soudu i u
 ### § 37 — Přiznání svéprávnosti
 
 > (1) Navrhne-li nezletilý, který není plně svéprávný, aby mu soud přiznal svéprávnost, soud návrhu vyhoví, pokud nezletilý dosáhl věku šestnácti let, pokud je osvědčena jeho schopnost sám se živit a obstarat si své záležitosti a pokud s návrhem souhlasí zákonný zástupce nezletilého. V ostatních případech soud vyhoví návrhu, je-li to z vážných důvodů v zájmu nezletilého.
+> (2) Za podmínek stanovených v odstavci 1 soud přizná nezletilému svéprávnost i na návrh jeho zákonného zástupce, pokud nezletilý s návrhem souhlasí.
 
 > (2) Za podmínek stanovených v odstavci 1 soud přizná nezletilému svéprávnost i na návrh jeho zákonného zástupce, pokud nezletilý s návrhem souhlasí.
 

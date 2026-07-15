@@ -171,6 +171,10 @@ Ustanovení § 2551—2554 rozdělují odpovědnost dopravce do dvou režimů: �
 
 > Smlouvou o přepravě věci se dopravce zavazuje přepravit věc jako zásilku z místa odeslání do místa určení a odesílatel se zavazuje zaplatit přepravné.
 
+**§ 2555**:
+> (1) Smlouvou o přepravě věci se dopravce zavazuje odesílateli, že přepraví věc jako zásilku z místa odeslání do místa určení, a odesílatel se zavazuje zaplatit dopravci přepravné.
+> (2) Nepožádá-li odesílatel dopravce o převzetí zásilky v ujednané době a není-li ujednána do šesti měsíců od uzavření smlouvy, práva a povinnosti ze smlouvy zaniknou.
+
 **Smlouva o přepravě věci** (*Frachtvertrag*):
 - **Dopravce** (logistická firma, přepravce);
 - **Odesílatel**;
@@ -437,6 +441,10 @@ Dopravce odpovídá za škodu na zásilce objektivně a nese důkazní břemeno 
 
 > Smlouvou o kontrolní činnosti se kontrolor zavazuje nestranně zjistit stav určité věci nebo provést ověření výsledku určité činnosti a vydat o tom kontrolní osvědčení.
 
+**§ 2652**:
+> (1) Smlouvou o kontrolní činnosti se kontrolor zavazuje zjistit nestranně stav určité věci nebo ověřit výsledek určité činnosti a vydat o tom kontrolní osvědčení a objednatel se zavazuje zaplatit mu odměnu.
+> (2) K ujednání, jímž se kontrolorovi ukládá povinnost, jež by mohla ovlivnit nestrannost kontroly nebo správnost kontrolního osvědčení, se nepřihlíží.
+
 **Kontrolní činnost** (*inspection contract*) — **nezávislá** odborná kontrola:
 - **Kontrolor** — typicky znalec, akreditovaná osoba;
 - **Příkazce**;
@@ -603,6 +611,10 @@ Kontrolor má právo na odměnu jen za řádně a v obvyklém rozsahu provedenou
 
 > Smlouvou o důchodu se plátce zavazuje platit příjemci pravidelně peněžitý důchod a příjemce se zavazuje k protiplnění nebo jinému plnění, popřípadě k bezplatnému přijetí důchodu.
 
+**§ 2701**:
+> (1) Smlouvou o důchodu se plátce zavazuje platit příjemci pravidelné peněžní dávky (důchod).
+> (2) Zaváže-li se plátce k placení důchodu na dobu života nějaké osoby nebo na dobu delší než pět let, vyžaduje smlouva písemnou formu.
+
 **Důchod** (*Rente*, *Leibrente*) — **pravidelná renta**:
 - Plátce platí **periodicky**;
 - **Doživotní** nebo na dobu určitou;
@@ -687,6 +699,10 @@ Smlouva o důchodu podle § 2701 je samostatný zaopatřovací typ; je-li důcho
 
 > Smlouvou o výměnku zaopatří vlastník nemovité věci dosavadní vlastník její nabyvateli nebo bývalý vlastník svému právnímu nástupci určité plnění.
 
+**§ 2707**:
+> (1) Smlouvou o výměnku si vlastník nemovité věci vymiňuje v souvislosti s jejím převodem pro sebe nebo pro třetí osobu požitky, úkony nebo práva sloužící k zaopatření na dobu života nebo na dobu určitou a nabyvatel nemovité věci se zavazuje zaopatření poskytnout. Není-li stanoveno nebo ujednáno jinak, rozhoduje pro obsah práv výměnkáře místní zvyklost.
+> (2) Podle obsahu právního jednání, kterým byl výměnek zřízen, se na smlouvu o výměnku použijí také ustanovení o právech, ze kterých se výměnek skládá, zejména o služebnosti bytu nebo o důchodu.
+
 **Výměnek** (*Ausgedinge*) — **klasický rolnický institut** (ABGB tradice):
 - Při převodu **zemědělské usedlosti** rodiči přenechávají dětem;
 - **Doživotní bydlení** + **naturální plnění** (mléko, vejce, dřevo) + **péče v nemoci**;
@@ -742,6 +758,7 @@ Výměnek podle § 2707 je zaopatřovací institut spojený zpravidla s převode
 ### § 2716 — Definice
 
 > (1) Zaváže-li se smlouvou několik osob sdružit jako společníci za společným účelem činnosti nebo věci, vzniká společnost.
+> (2) Bylo-li ujednáno sdružení majetku, vyžaduje se k platnosti smlouvy soupis vkladů společníků jimi podepsaný. Má se za to, že sdruženo bylo jen to, co uvádí soupis.
 
 **Společnost** (*societas civilis*, *Gesellschaft bürgerlichen Rechts*) — **občanskoprávní společnost** (≠ obchodní korporace ZOK):
 - **Bez právní osobnosti** (neúřední subjekt);
@@ -1003,6 +1020,10 @@ Vnitřní poměry společnosti (§ 2718—2746) zahrnují zákaz konkurence se s
 ### § 2747 — Definice
 
 > (1) Smlouvou o tiché společnosti se tichý společník zavazuje vložit vklad do podnikání podnikatele a podílet se na zisku tohoto podnikání a podnikatel se zavazuje platit tichému společníkovi část zisku.
+
+**§ 2747**:
+> (1) Smlouvou o tiché společnosti se tichý společník zavazuje k vkladu, kterým se bude podílet po celou dobu trvání tiché společnosti na výsledcích podnikání podnikatele, a podnikatel se zavazuje platit tichému společníkovi podíl na zisku.
+> (2) Tichá společnost může být ujednána i k účasti tichého společníka jen na provozu některého ze závodů podnikatele.
 
 **Tichá společnost** (*stille Gesellschaft*) — **vklad bez veřejné účasti**:
 - **Tichý společník** — vkladatel kapitálu;
@@ -1539,6 +1560,13 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (1) Nejsou-li ve smlouvě ujednány podmínky, při jejichž splnění má pojistitel právo upravit nově výši běžného pojistného na další pojistné období, nelze bez dohody s pojistníkem výši pojistného měnit.
 > (2) Vyhradí-li si pojistitel právo měnit výši pojistného z jiného důvodu, než je změna podmínek rozhodných pro stanovení výše pojistného nebo vyhradí-li si pojistitel u pojištění osob právo měnit výši pojistného v závislosti na věku nebo zdravotním stavu, nepřihlíží se k tomu.
 
+**Doslovné znění § 2774:**
+
+**§ 2774**:
+> **Pojistné podmínky**
+> (1) Pojistné podmínky vymezí zpravidla podrobnosti o vzniku, trvání a zániku pojištění, pojistnou událost, výluky z pojištění a způsob určení rozsahu pojistného plnění a jeho splatnost.
+> (2) Odkazuje-li smlouva na pojistné podmínky, seznámí s nimi pojistitel pojistníka ještě před uzavřením smlouvy; to neplatí, uzavírá-li se smlouva formou obchodu na dálku. Ustanovení § 1845 platí obdobně.
+
 ### Pododdíl 3 — Pojistné (§ 2786—2792)
 
 **§ 2786**:
@@ -1563,6 +1591,11 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 
 **§ 2792**:
 > Prokáže-li pojistitel, že by vzhledem k podmínkám platným v době uzavření smlouvy smlouvu neuzavřel, existovalo-li by pojistné riziko ve zvýšeném rozsahu již při uzavírání smlouvy, má právo pojištění vypovědět s osmidenní výpovědní dobou. Nevypoví-li pojistitel pojištění do jednoho měsíce ode dne, kdy mu změna byla oznámena, zanikne jeho právo vypovědět pojištění.
+
+**§ 2788**:
+> **Povinnost k pravdivým sdělením**
+> (1) Dotáže-li se pojistitel v písemné formě zájemce o pojištění při jednání o uzavření smlouvy nebo pojistníka při jednání o změně smlouvy na skutečnosti, které mají význam pro pojistitelovo rozhodnutí, jak ohodnotí pojistné riziko, zda je pojistí a za jakých podmínek, zodpoví zájemce nebo pojistník tyto dotazy pravdivě a úplně. Povinnost se považuje za řádně splněnou, nebylo-li v odpovědi zatajeno nic podstatného.
+> (2) Co je v odstavci 1 stanoveno o povinnosti pojistníka, platí obdobně i pro pojištěného.
 
 **§ 2786 — Stanovení pojistného**:
 - Smluvně;
@@ -1655,6 +1688,19 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 **§ 2810**:
 > Pojištění zaniká zánikem pojistného zájmu, zánikem pojistného nebezpečí, dnem smrti pojištěné osoby, dnem zániku pojištěné právnické osoby bez právního nástupce nebo dnem odmítnutí pojistného plnění.
 
+**Doslovná znění § 2800 až 2801:**
+
+**§ 2800**:
+> **Následky porušení povinností**
+> (1) Bylo-li v důsledku porušení povinnosti pojistníka nebo pojištěného při jednání o uzavření smlouvy nebo o její změně ujednáno nižší pojistné, má pojistitel právo pojistné plnění snížit o takovou část, jaký je poměr pojistného, které obdržel, k pojistnému, které měl obdržet.
+> (2) Mělo-li porušení povinnosti pojistníka, pojištěného nebo oprávněné osoby, podstatný vliv na vznik pojistné události, její průběh, na zvětšení rozsahu jejích následků nebo na zjištění či určení výše pojistného plnění, má pojistitel právo snížit pojistné plnění úměrně k tomu, jaký vliv mělo toto porušení na rozsah pojistitelovy povinnosti plnit.
+
+**§ 2801**:
+> **Přerušení pojištění**
+> (1) Pojištění se přeruší, nebylo-li pojistné zaplaceno; doba přerušení počne uplynutím dvou měsíců ode dne splatnosti pojistného až do jeho zaplacení.
+> (2) Přeruší-li se pojištění během pojistné doby, netrvá za přerušení povinnost platit pojistné a nevzniká právo na plnění z událostí, které v době přerušení nastaly a byly by jinak pojistnými událostmi. Doba přerušení pojištění se započítává do pojistné doby, jen je-li to výslovně ujednáno.
+> (3) Existují-li zákonné důvody trvání povinného pojištění, nelze povinné pojištění přerušit. Životní pojištění lze přerušit, jen bylo-li to ujednáno.
+
 ### Pododdíl 5—8 — Speciální pojištění (§ 2811—2872)
 
 **Druhy pojištění**:
@@ -1668,6 +1714,14 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (1) Ujedná-li se, že se pojistné plnění omezí horní hranicí, určí se tato hranice pojistnou částkou nebo limitem pojistného plnění.
 > (2) Lze-li při pojištění majetku určit jeho pojistnou hodnotu při uzavření smlouvy, určí se na návrh pojistníka horní hranice pojistného plnění pojistnou částkou ve výši odpovídající pojistné hodnotě pojištěného majetku v době uzavření smlouvy. Pojistitel má právo přezkoumat při uzavření smlouvy hodnotu pojištěného majetku.
 > (3) Nelze-li při pojištění majetku určit jeho pojistnou hodnotu při uzavření smlouvy, určí se na návrh pojistníka horní hranice pojistného plnění limitem pojistného plnění. Tento limit se ujedná i v případě, že se pojištění vztahuje jen na část hodnoty pojištěného majetku podle odstavce 2 (zlomkové pojištění). Odpovídá-li tomu pojistný zájem, lze takto určit horní hranici pojistného plnění i při pojištění podle odstavce 2.
+
+**§ 2811**:
+> **Rozsah**
+> Při škodovém pojištění poskytne pojistitel pojistné plnění, které v ujednaném rozsahu vyrovnává úbytek majetku vzniklý v důsledku pojistné události.
+
+**§ 2812**:
+> **Změna vlastnictví pojištěného majetku**
+> Nebylo-li výslovně ujednáno, že pojištění změnou vlastnictví nebo spoluvlastnictví pojištěného majetku nezaniká, zanikne pojištění dnem oznámení této změny pojistiteli. Ustanovení § 2765 se v takovém případě nepoužije.
 
 - **Škodové**: kryje **skutečnou škodu** (typicky majetek, odpovědnost);
 - **Obnosové**: vyplácí **dohodnutou částku** (typicky životní pojištění).
@@ -1744,6 +1798,52 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 
 **§ 2836**:
 > Zemřou-li pojištěný i obmyšlený ve stejnou dobu nebo za okolností, které brání zjištění, kdo z nich zemřel jako první, považuje se pro účely pojištění za zjištěné, že pojištěný přežil obmyšleného. Zemřel-li však pojištěný, aniž právo na plnění nabyly osoby uvedené v § 2829 a 2830, považuje se pro tyto účely za zjištěné, že obmyšlený přežil pojištěného.
+
+**Doslovná znění § 2816 až 2820:**
+
+**§ 2816**:
+> **Množné pojištění**
+> Je-li týž pojistný zájem pojištěn proti témuž pojistnému nebezpečí a pro tutéž dobu u několika pojistitelů, vzniká množné pojištění. Množné pojištění může vzniknout jako
+>     - a) soupojištění, byla-li uzavřena smlouva mezi pojistníkem a více pojistiteli zastoupenými vedoucím pojistitelem a zavázal-li se pojistník platit jediné pojistné,
+>     - b) souběžné pojištění, nepřesahuje-li souhrn pojistných částek pojistnou hodnotu pojištěného majetku nebo nepřesáhne-li souhrn limitů pojistného plnění skutečnou výši vzniklé škody, nebo
+>     - c) vícenásobné pojištění, přesahuje-li souhrn pojistných částek pojistnou hodnotu pojištěného majetku nebo přesáhne-li souhrn limitů pojistného plnění skutečnou výši vzniklé škody.
+
+**§ 2817**:
+> **Soupojištění**
+> (1) Je-li ujednáno soupojištění, vedoucí pojistitel určený ve smlouvě stanoví pojistné podmínky a výši pojistného, spravuje soupojištění, přejímá oznámení o pojistné události a vede šetření nezbytná ke zjištění rozsahu povinnosti pojistitelů poskytnout pojistné plnění; v tomto rozsahu jedná jménem ostatních pojistitelů. Není-li ujednán způsob příjmů pojistného, přijímá vedoucí pojistitel i pojistné.
+> (2) V rámci soupojištění lze smlouvu uzavřít i mezi pojistníkem a více pojistiteli, kteří si ujednali společný postup při pojištění určitých pojistných nebezpečí, a to jménem a na účet všech pojistitelů, a určili vedoucího pojistitele, popřípadě pověřili plněním jeho povinností společný orgán vytvořený k tomuto účelu, anebo pojišťovacího zprostředkovatele.
+> (3) Právo na pojistné plnění se uplatňuje vůči vedoucímu pojistiteli. Pojistitelé se mezi sebou vzájemně vypořádají podle svých podílů; nebyly-li podíly ujednány, platí, že jsou stejné.
+> (4) Při likvidaci pojistitele se jeho povinnosti z pojištění vyplývající ze soupojištění splní stejně jako povinnosti vyplývající z jiných pojištění ujednaných tímto pojistitelem.
+> (5) Nepřihlíží se k ujednáním, která se odchylují od odstavců 1 až 4, a to ani v případě, kdy se některý z pojistitelů účastní soupojištění prostřednictvím obchodní sítě založené v místě sídla pojistitele nebo prostřednictvím jeho pobočky, které se nacházejí na území jiného členského státu Evropské unie nebo členského státu Dohody o Evropském hospodářském prostoru, než je stát sídla pojistitele, nebo nachází-li se pojistné riziko v některém z těchto států nebo v České republice. To neplatí při pojištění velkých rizik podle jiného zákona upravujícího pojišťovnictví.
+
+**§ 2818**:
+> **Vícenásobné pojištění**
+> (1) Vznikne-li vícenásobné pojištění, oznámí to pojistník bez zbytečného odkladu každému pojistiteli a v oznámení uvede ostatní pojistitele a pojistné částky nebo limity pojistného plnění ujednané v ostatních smlouvách.
+> (2) Pojistitel, jemuž byla jako prvnímu oznámena pojistná událost, poskytne pojistné plnění do výše pojistné částky nebo limitu pojistného plnění ujednaného ve smlouvě, kterou je vázán, a oznámí to bez zbytečného odkladu ostatním pojistitelům, o nichž se dozvěděl. Tím není dotčeno právo oprávněné osoby požadovat pojistné plnění až do výše vyrovnání úbytku majetku na ostatních pojistitelích, pokud pojistná částka nebo limit pojistného plnění ujednaný ve smlouvě s prvním pojistitelem nepostačuje k vyrovnání celého úbytku majetku vzniklého v důsledku pojistné události.
+> (3) Pojistitelé se vypořádají v poměru, v jakém jsou k sobě pojistné částky nebo limity pojistného plnění ujednané ve smlouvách, kterými jsou vázáni, s přihlédnutím k pojistnému plnění poskytnutému podle odstavce 2 věty druhé.
+> (4) Nastala-li pojistná událost, nepřihlíží se pro potřeby vypořádání pojistitelů podle odstavce 3 k případnému následnému zániku nebo následné změně některého z vícenásobných pojištění.
+
+**§ 2819**:
+> **Zachraňovací náklady**
+> (1) Vynaložil-li pojistník účelně náklady při odvracení bezprostředně hrozící pojistné události na zmírnění následků již nastalé pojistné události nebo proto, že plnil povinnost odklidit poškozený pojištěný majetek nebo jeho zbytky z hygienických, ekologických či bezpečnostních důvodů, má proti pojistiteli právo na jejich náhradu, jakož i na náhradu škody, kterou v souvislosti s touto činností utrpěl.
+> (2) Nepřihlíží se k ujednání, kterým si pojistitel ve vztahu k náhradám podle odstavce 1 vyhradil právo
+>     - a) snížit o ně pojistnou částku nebo limit pojistného plnění,
+>     - b) omezit je na méně než 30 % pojistné částky nebo limitu pojistného plnění, jde-li o záchranu života nebo zdraví osob, nebo
+>     - c) omezit je, vynaložil-li pojistník zachraňovací náklady se souhlasem pojistitele, ač k nim nebyl jinak povinen.
+> (3) Vynaložil-li zachraňovací náklady pojištěný nebo jiná osoba nad rámec povinností stanovených jiným zákonem, má proti pojistiteli stejné právo na náhradu jako pojistník.
+
+**§ 2820**:
+> **Přechod práva na pojistitele**
+> (1) Vzniklo-li v souvislosti s hrozící nebo nastalou pojistnou událostí osobě, která má právo na pojistné plnění, pojištěnému nebo osobě, která vynaložila zachraňovací náklady, proti jinému právo na náhradu škody nebo jiné obdobné právo, přechází tato pohledávka včetně příslušenství, zajištění a dalších práv s ní spojených okamžikem výplaty plnění z pojištění na pojistitele, a to až do výše plnění, které pojistitel oprávněné osobě vyplatil. To neplatí, vzniklo-li této osobě takové právo vůči tomu, kdo s ní žije ve společné domácnosti nebo je na ni odkázán výživou, ledaže způsobil pojistnou událost úmyslně.
+> (2) Osoba, jejíž právo na pojistitele přešlo, vydá pojistiteli potřebné doklady a sdělí mu vše, co je k uplatnění pohledávky zapotřebí. Zmaří-li přechod práva na pojistitele, má pojistitel právo snížit plnění z pojištění o částku, kterou by jinak mohl získat. Poskytl-li již pojistitel plnění, má právo na náhradu až do výše této částky.
+
+**Doslovné znění § 2827:**
+
+**§ 2827**:
+> **Skupinové pojištění**
+> (1) Vztahuje-li se pojištění na členy určité skupiny, popřípadě i na jejich rodiny a osoby na nich závislé, nemusí smlouva obsahovat jména pojištěných, lze-li pojištěné bez pochybností určit alespoň v době pojistné události.
+> (2) Souhlas pojištěných podle § 2826 se nevyžaduje. To platí obdobně, postoupí-li pojistník smlouvu.
+> (3) Porušení povinnosti pravdivě a úplně zodpovědět dotazy pojistitele zasahuje při skupinovém pojištění jen pojištění těch osob, kterých se porušení této povinnosti týká.
 
 #### Pojištění odpovědnosti (§ 2861—2867)
 
@@ -1880,6 +1980,34 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 >     - b) zastupování pojištěného, je-li taková činnost současně vykonávána ve vlastním zájmu pojistitele v rámci pojištění odpovědnosti za škodu, a
 >     - c) pojištění právní ochrany poskytovaném pojistitelem jako doplněk k pojištění pomoci osobám, které se dostanou do nesnází během cestování nebo při pobytu mimo místo jejich bydliště.
 
+**Doslovné znění § 2837:**
+
+**§ 2837**:
+> **Výluka z pojištění**
+> Pojistitel není povinen poskytnout pojistné plnění v případě sebevraždy pojištěného, trvalo-li pojištění nepřetržitě méně než dva roky předcházející sebevraždě.
+
+**Doslovná znění § 2853 až 2855:**
+
+**§ 2853**:
+> **Přepojištění**
+> (1) Převyšuje-li pojistná částka pojistnou hodnotu pojištěného majetku, mají pojistitel i pojistník právo navrhnout druhé straně, aby byla pojistná částka snížena při současném poměrném snížení pojistného pro další pojistné období, následující po této změně. Nepřijme-li strana návrh do jednoho měsíce ode dne, kdy jej obdržela, pojištění zaniká.
+> (2) Převyšuje-li pojistná částka pojistnou hodnotu pojištěného majetku a bylo-li ujednáno jednorázové pojistné, má pojistitel právo domáhat se snížení pojistné částky pod podmínkou, že bude poměrně sníženo i pojistné, a pojistník má právo domáhat se snížení pojistného pod podmínkou, že bude poměrně snížena i pojistná částka.
+
+**§ 2854**:
+> **Podpojištění**
+> Je-li pojistná částka v době pojistné události nižší než pojistná hodnota pojištěného majetku, použije se pro určení výše pojistného plnění částka odpovídající výši škody snížená v poměru, v jakém je v době vzniku pojistné události pojistná částka k pojistné hodnotě pojištěného majetku; to neplatí, ujednají-li strany, že pojistné plnění sníženo nebude.
+
+**§ 2855**:
+> **Zvláštní ustanovení**
+> Je-li ujednáno pojištění lidských tkání nebo orgánů určených k transplantaci podle jiného zákona, anebo lidské krve nebo jejích složek odebraných za účelem výroby krevních derivátů a pro použití u člověka podle jiného zákona, použijí se ustanovení § 2849 až 2854 obdobně. To platí i v případě, že je po smrti člověka pojištěno jeho tělo nebo jeho oddělená část.
+
+**Doslovné znění § 2872:**
+
+**§ 2872**:
+> **Pojištění velkého pojistného rizika**
+> (1) Pojišťuje-li pojistitel velké pojistné riziko v neživotním pojištění podle jiného zákona upravujícího pojišťovnictví, lze se odchýlit od jakéhokoli ustanovení této části ve prospěch kterékoli strany, vyžaduje-li to účel a povaha pojištění.
+> (2) Pojištění velkého pojistného rizika lze ujednat pouze jako pojištění škodové.
+
 ### Specifické úpravy
 
 **Povinné pojištění odpovědnosti z provozu vozidla**:
@@ -1898,6 +2026,10 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 ### § 2873 — Definice
 
 > Sázkou se rozumí závazek, podle něhož se ten, o němž se ukáže, že tvrdí to, co se nestalo, nebo to, co se nesplnilo, zavazuje protistraně poskytnout dohodnuté plnění.
+
+**§ 2873**:
+> (1) Sázkou se alespoň jedna strana zavazuje vůči druhé plnit výhru, ukáže-li se nesprávným její tvrzení o skutečnosti stranám neznámé nebo ukáže-li se tvrzení druhé strany o této události správným.
+> (2) Má-li strana, jejíž tvrzení se ukáže správným, jistotu o výsledku a zatají-li to druhé straně, je sázka neplatná.
 
 **Sázka** (*Wette*) — **dohoda mezi dvěma stranami** o nejisté události:
 - **Žádná strana** událost neovlivňuje;

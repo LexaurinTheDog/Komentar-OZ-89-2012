@@ -1212,6 +1212,13 @@ Hlasy se počítají podle velikosti podílů (§ 1126); běžná správa vyžad
 
 **Typicky rozhodné důkazy / podklady:** doklady o velikosti podílů, zápisy a pozvánky z jednání spoluvlastníků, doklady o informování opominutých, rozpočty a povaha zásahu (běžný × významný).
 
+**Doslovné znění § 1139:**
+
+**§ 1139**:
+> **Soudní úprava poměrů spoluvlastníků**
+> (1) Navrhne-li některý ze spoluvlastníků soudu, aby rozhodl, že rozhodnutí většiny spoluvlastníků nemá vůči němu právní účinky, aby takové rozhodnutí zrušil, nebo je nahradil svým rozhodnutím, uspořádá soud právní poměry spoluvlastníků podle slušného uvážení. Soud může zejména rozhodnout, zda se má změna uskutečnit bez výhrad, s výhradami či proti zajištění, anebo zda se uskutečnit vůbec nemá.
+> (2) Způsobem uvedeným v odstavci 1 soud rozhodne také tehdy, domáhá-li se jeho rozhodnutí některý ze spoluvlastníků proto, že se při rozhodování o společné věci nedosáhlo potřebné většiny.
+
 ---
 
 ### Oddíl 4 — Zrušení spoluvlastnictví (§ 1140—1157)
@@ -1617,6 +1624,33 @@ Společnými částmi jsou vždy alespoň pozemek, stavební části podstatné 
 **§ 1167**:
 > Dojde-li k zápisu vlastnického práva k jednotkám do veřejného seznamu, nelze prohlášení prohlásit za neplatné ani nelze určit, že vlastnické právo k jednotce nevzniklo, v případě, že věcné právo k jednotce nabyla další osoba.
 
+**§ 1163**:
+> **Výstavba**
+> Zavázaly-li se k tomu strany v souvislosti se stavbou domu nebo jeho změnou, vznikne jednotka výstavbou, pokud je dům alespoň v takovém stupni rozestavěnosti, že je již navenek uzavřen obvodovými stěnami a střešní konstrukcí a byt je uzavřen obvodovými stěnami.
+
+**§ 1164**:
+> **Zápis do veřejného seznamu**
+> (1) Zápisem do veřejného seznamu jednotka vznikne, pokud vlastník nebo osoba k tomu oprávněná z jiného věcného práva prohlášením rozdělí své právo k domu a pozemku na vlastnické právo k jednotkám.
+> (2) Zápisem do veřejného seznamu jednotka vznikne i v případě, že si to ujednají spoluvlastníci při oddělení ze spoluvlastnictví nebo při jeho zrušení a vypořádání, nebo že si to ujednají manželé při změně rozsahu nebo při vypořádání společného jmění. Ustanovení o prohlášení se na tato ujednání použijí přiměřeně.
+
+**§ 1165**:
+> **Rozhodnutí soudu**
+> Jednotka vznikne, pokud o tom rozhodne soud při oddělení ze spoluvlastnictví, při zrušení a vypořádání spoluvlastnictví, při zúžení společného jmění nebo při vypořádání společného jmění.
+
+**§ 1168**:
+> **Odstranění vady prohlášení**
+> (1) Vymezuje-li prohlášení jednotku neurčitým nebo nesprávným způsobem a neodstraní-li je původce prohlášení bez zbytečného odkladu poté, co ho na vadu upozornila osoba, která na tom má právní zájem, mohou vadu odstranit vlastníci dotčených jednotek společným prohlášením. Nedojde-li k tomu, rozhodne o odstranění vady soud na návrh osoby, která na tom má právní zájem.
+> (2) Určí-li prohlášení neurčitě nebo nesprávně podíl vlastníka jednotky na společných částech, nepřihlíží se k tomu.
+
+**§ 1169**:
+> **Změna prohlášení**
+> (1) Vlastníci jednotek mohou prohlášení změnit. Ke změně prohlášení se vyžaduje písemný souhlas vlastníka jednotky, jehož práv a povinností se změna dotkne. Je-li jednotka zatížena, vyžaduje se rovněž písemný souhlas osoby oprávněné z věcného práva, pokud se jejích práv a povinností změna dotkne. Pro účinnost změny prohlášení se vyžaduje souhlas většiny hlasů všech vlastníků jednotek, ledaže se změna dotýká práv a povinností všech vlastníků jednotek.
+> (2) Ke změně prohlášení postačí souhlas většiny hlasů všech vlastníků jednotek, týká-li se změna
+>     - a) společných částí, při které se nemění velikost podílu na společných částech, nejde-li o části ve výlučném užívání vlastníka jednotky,
+>     - b) účelu užívání bytu na základě žádosti jeho vlastníka, nebo
+>     - c) pravidel pro správu domu a pozemku a užívání společných částí, jsou-li určena v prohlášení.
+> (3) Pro přezkoumání rozhodnutí o změně prohlášení se ustanovení § 1209 použije přiměřeně.
+
 **§ 1163 — Výstavbou** — když dům je v dostatečném stupni rozestavěnosti (obvodové stěny + střecha + byt obvodovými stěnami).
 
 **§ 1164 — Zápisem do VR** (z **prohlášení vlastníka** o rozdělení).
@@ -1684,6 +1718,15 @@ Jednotky vznikají nejčastěji zápisem prohlášení vlastníka do katastru (�
 **§ 1174**:
 > (1) Vznikne-li výstavbou dům, zůstanou strany až do vzniku jednotky podílovými spoluvlastníky nemovité věci.
 > (2) Vznikem jednotky se podílové spoluvlastnictví nemovité věci mění v bytové spoluvlastnictví.
+
+**§ 1170**:
+> **Smlouva o výstavbě**
+> (1) Smlouvou o výstavbě se strany zavazují podílet se společně na výstavbě, dokončení nebo na změně domu za účelem zřízení nebo změny jednotek. Pro práva a povinnosti stran platí přiměřeně ustanovení tohoto zákona o společnosti.
+> (2) Ve smlouvě strany ujednají alespoň
+>     - a) údaje stanovené jako náležitosti prohlášení o rozdělení práva k domu a pozemku na vlastnické právo k jednotkám,
+>     - b) způsob úhrady nákladů výstavby, popřípadě ocenění svépomocně prováděných prací, a
+>     - c) velikost spoluvlastnických podílů k domu, a má-li být dům součástí pozemku, velikost spoluvlastnických podílů k pozemku, na dobu, než výstavbou vznikne první jednotka; spoluvlastnické podíly se určí ve velikosti odpovídající velikosti podílu vlastníka jednotky na společných částech.
+> (3) Smlouva vyžaduje písemnou formu.
 
 Pro **družstevní výstavbu** + **přístavbu/nástavbu**. Vyžaduje **písemnou formu** + obsahuje náležitosti prohlášení + způsob úhrady nákladů + velikost spoluvlastnických podílů.
 
@@ -2015,6 +2058,46 @@ Správu domu zajišťuje SVJ, povinné při alespoň 5 jednotkách a 4 různých
 
 **§ 1222**:
 > Prováděcí právní předpis stanoví, jakým způsobem se vypočte podlahová plocha bytu v jednotce, o kterých částech nemovité věci se má za to, že jsou společné, a podrobnosti o činnostech týkajících se správy domu a pozemku.
+
+**Doslovné znění § 1185:**
+
+**§ 1185**:
+> **Spoluvlastnictví jednotky**
+> (1) Vlastník jednotky může své právo k jednotce rozdělit na podíly, ledaže to bylo vyloučeno.
+> (2) Spoluvlastníci jednotky zmocní společného zástupce, který bude vykonávat jejich práva vůči osobě odpovědné za správu domu. To platí i v případě manželů, kteří mají jednotku ve společném jmění.
+
+**Doslovné znění § 1200:**
+
+**§ 1200**:
+> **Založení společenství vlastníků**
+> (1) Společenství vlastníků se založí schválením stanov; společenství vlastníků může založit i jediný vlastník všech jednotek. Ke schválení stanov se vyžaduje jejich přijetí na ustavující schůzi většinou hlasů všech vlastníků jednotek, nebo shoda všech vlastníků jednotek na jejich obsahu; ustanovení § 1209 není dotčeno.
+> (2) Stanovy obsahují alespoň
+>     - a) název obsahující slovo „společenství vlastníků“ a označení domu, pro který společenství vlastníků vzniklo,
+>     - b) sídlo určené v domě, pro který společenství vlastníků vzniklo; není-li to možné, na jiném vhodném místě,
+>     - c) členská práva a povinnosti vlastníků jednotek,
+>     - d) určení orgánů, jejich působnosti, počtu členů volených orgánů a jejich funkčního období, jakož i způsobu svolávání, jednání a usnášení,
+>     - e) určení prvních členů statutárního orgánu,
+>     - f) pravidla pro správu domu a pozemku a užívání společných částí.
+> (3) Údaj podle odstavce 2 písm. e) lze po vzniku společenství vlastníků ze stanov vypustit; stanovy mohou svěřit toto rozhodnutí do působnosti statutárního orgánu. Toto rozhodnutí se nepovažuje za rozhodnutí o změně stanov.
+> (4) Rozhodnutí ustavující schůze o přijetí stanov se osvědčuje veřejnou listinou, která obsahuje schválený text stanov. Zakládá-li se společenství vlastníků přijetím stanov všemi vlastníky jednotek, vyžadují stanovy formu veřejné listiny. Zakládá-li společenství vlastníků jediný vlastník všech jednotek, stanovy formu veřejné listiny nevyžadují.
+> (5) Při změně stanov se forma veřejné listiny nevyžaduje.
+
+**Doslovná znění § 1204 až 1205:**
+
+**§ 1204**:
+> **Vznik společenství vlastníků**
+> Společenství vlastníků vzniká dnem zápisu do veřejného rejstříku.
+
+**§ 1205**:
+> **Orgány společenství vlastníků**
+> (1) Nejvyšší orgán společenství vlastníků je shromáždění. Statutární orgán je výbor, ledaže stanovy určí, že je statutárním orgánem předseda společenství vlastníků. Zřídí-li stanovy další orgány, nelze jim založit působnost vyhrazenou shromáždění nebo statutárnímu orgánu.
+> (2) Způsobilý být členem voleného orgánu nebo zástupcem právnické osoby jako člena takového orgánu je ten, kdo je plně svéprávný a je bezúhonný ve smyslu jiného právního předpisu upravujícího živnostenské podnikání.
+
+**Doslovné znění § 1210:**
+
+**§ 1210**:
+> **Náhradní shromáždění**
+> Připouští-li stanovy konání náhradního shromáždění, je náhradní shromáždění způsobilé usnášet se za přítomnosti vlastníků jednotek, kteří mají alespoň 40 % všech hlasů.
 
 ## Přídatné spoluvlastnictví (§ 1223—1235)
 

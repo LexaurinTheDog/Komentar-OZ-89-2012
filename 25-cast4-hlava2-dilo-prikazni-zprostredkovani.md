@@ -37,7 +37,11 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2358 — Definice
 
-> (1) Licenční smlouvou poskytovatel poskytuje nabyvateli oprávnění k výkonu práva duševního vlastnictví (licenci) v ujednaném omezeném nebo neomezeném rozsahu a nabyvatel se zavazuje, není-li ujednáno jinak, poskytnout poskytovateli odměnu.
+> (1) Licenční smlouvou poskytuje poskytovatel nabyvateli oprávnění k výkonu práva duševního vlastnictví (licenci) v ujednaném omezeném nebo neomezeném rozsahu a nabyvatel se zavazuje, není-li ujednáno jinak, poskytnout poskytovateli odměnu.
+> (2) Smlouva vyžaduje písemnou formu,
+>     - a) poskytuje-li se licence výhradní, nebo
+>     - b) má-li být licence zapsána do příslušného veřejného seznamu.
+> (3) Licence k předmětu průmyslového vlastnictví zapsanému do veřejného seznamu je účinná vůči třetím osobám zápisem do tohoto seznamu.
 
 **Licence** (*Lizenz*) — smlouva o **oprávnění užívat** předmět práva duševního vlastnictví:
 - **Předmět**: autorské dílo, patent, ochranná známka, užitný vzor, průmyslový vzor, know-how, software;
@@ -413,6 +417,28 @@ Autorské licence požívají zvýšené ochrany: bestsellerová klauzule (§ 23
 > (2) Prokáže-li poskytovatel, že vadu způsobilo nevyhovující technické nebo programové vybavení nebo síťové připojení pro přístup či užívání digitálního obsahu uživatele nezbytné pro řádné fungování digitálního obsahu (dále jen „digitální prostředí uživatele“), ačkoli byl uživatel na jeho potřebu před uzavřením smlouvy jasně a srozumitelně upozorněn, odstavec 1 se nepoužije.
 > (3) K ověření, zda se vada vyskytla v důsledku nevyhovujícího digitálního prostředí uživatele, poskytne uživatel poskytovateli nezbytnou součinnost v míře, kterou lze rozumně požadovat. Povinnost součinnosti uživatele je omezena pouze na technicky dostupné prostředky, které jsou pro uživatele co nejméně rušivé. Odmítne-li uživatel součinnost poskytnout, přestože byl o této povinnosti a o důsledcích jejího porušení jasně a srozumitelně poučen před uzavřením smlouvy, odstavec 1 se nepoužije.
 
+**Doslovné znění § 2360:**
+
+**§ 2360**:
+> **Výhradní nebo nevýhradní licence**
+> (1) Je-li ujednána výhradní licence, poskytovatel nemá právo poskytnout tutéž licenci třetí osobě po dobu, co výhradní licence trvá. Není-li výslovně ujednán opak, zdrží se i poskytovatel výkonu práva, ke kterému udělil výhradní licenci.
+> (2) Poskytne-li poskytovatel za trvání výhradní licence nabyvatele bez jeho souhlasu uděleného v písemné formě licenci třetí osobě, licence nevznikne. Byla-li však nevýhradní licence poskytnuta před poskytnutím výhradní licence, zůstává zachována.
+
+**Doslovné znění § 2363:**
+
+**§ 2363**:
+> **Podlicence**
+> Nabyvatel může oprávnění tvořící součást licence poskytnout třetí osobě zcela nebo zčásti, jen bylo-li to ujednáno v licenční smlouvě.
+
+**Doslovné znění § 2389f:**
+
+**§ 2389f**:
+> **Zvláštní ustanovení o jednorázovém plnění**
+> (1) Nemá-li být digitální obsah poskytován po určitou dobu, ale spočívá-li plnění pouze v jednorázovém úkonu nebo jejich sledu, včetně případů, v nichž uživatel nabývá právo užívat digitální obsah trvale, použijí se odstavce 2 až 4; v ostatním se ustanovení o poskytování digitálního obsahu použijí obdobně.
+> (2) Poskytovatel odpovídá za vady digitálního obsahu, které měl při zpřístupnění; tím není dotčena povinnost zabezpečit aktualizace podle odstavce 4 a § 2389d.
+> (3) Projeví-li se vada v průběhu jednoho roku od zpřístupnění, má se za to, že byl digitální obsah vadný již při zpřístupnění. Tato doba neběží po dobu, po kterou uživatel nemůže digitální obsah užívat, v případě, že vadu vytkl oprávněně.
+> (4) Poskytovatel zabezpečí, že budou uživateli poskytovány aktualizace podle § 2389d odst. 2 po dobu, po kterou to uživatel může rozumně očekávat; to se posoudí podle druhu a účelu digitálního obsahu a s přihlédnutím k okolnostem při uzavření smlouvy a povaze závazku.
+
 ## Poskytování digitálního obsahu — doplněná ustanovení (§ 2389g—2389p)
 
 **§ 2389g**:
@@ -558,13 +584,26 @@ Spotřebitelský režim digitálního obsahu dopadá i na případy, kdy uživat
 
 **Typicky rozhodné důkazy / podklady:** smlouva a obchodní podmínky, předsmluvní informace a upozornění (technické požadavky, aktualizace, odchylky od obvyklých vlastností), doklad o zpřístupnění obsahu (prokazuje poskytovatel — § 2389b odst. 3), záznamy o vytknutí vady a komunikaci, technické záznamy o funkčnosti, doklady o platbách nebo o rozsahu poskytovaných osobních údajů.
 
+**Doslovné znění § 2389q:**
+
+**§ 2389q**:
+> **Změna digitálního obsahu**
+> (1) Má-li být digitální obsah poskytován po určitou dobu a nejedná-li se o změnu nezbytnou pro zachování digitálního obsahu bez vad, poskytovatel může digitální obsah změnit,
+>     - a) je-li to ujednáno ve smlouvě spolu se spravedlivým důvodem pro takovou změnu,
+>     - b) nevzniknou-li uživateli změnou dodatečné náklady a
+>     - c) oznámí-li uživateli změnu jasným a srozumitelným způsobem.
+> (2) Zhoršuje-li změna podle odstavce 1 přístup uživatele k digitálnímu obsahu nebo jeho užívání nikoli jen nevýznamně, poskytovatel dále upozorní uživatele v přiměřené době před provedením změny v textové podobě na povahu změny, čas jejího provedení a na právo vypovědět závazek podle odstavce 3 nebo na možnost zachovat digitální obsah beze změny podle odstavce 4.
+> (3) Uživatel může závazek bez postihu vypovědět, zhoršuje-li změna jeho přístup k digitálnímu obsahu nebo jeho užívání nikoli jen nevýznamně, a to do třiceti dnů ode dne, kdy byl o změně vyrozuměn nebo od okamžiku, kdy byl digitální obsah změněn, podle toho, co nastane později. Vypoví-li uživatel závazek, použijí se § 2389n až 2389p obdobně.
+> (4) Odstavec 3 se nepoužije, umožní-li poskytovatel uživateli odmítnout změnu a ponechat si digitální obsah bez dodatečných nákladů v původní podobě, aniž by to bylo na úkor jeho poskytování bez vad.
+> (5) Odstavce 1 až 4 se nepoužijí na digitální obsah, který je poskytován společně se službou přístupu k internetu podle nařízení Evropského parlamentu a Rady (EU) 2015/2120 nebo s interpersonální komunikační službou založenou na číslech.
+
 ---
 
 ## Zápůjčka (§ 2390—2394)
 
 ### § 2390 — Definice
 
-> Smlouvou o zápůjčce zapůjčitel přenechává vydlužiteli zastupitelnou věc tak, aby ji užil podle libosti a po čase mu vrátil věc stejného druhu, a vydlužitel se zavazuje věc po čase vrátit.
+> Přenechá-li zapůjčitel vydlužiteli zastupitelnou věc tak, aby ji užil podle libosti a po čase vrátil věc stejného druhu, vznikne smlouva o zápůjčce.
 
 **Zápůjčka** (*mutuum*) — **klasická Spotřebová** zápůjčka:
 - **Předmět**: **zastupitelná věc** (peníze, obilí, palivo);
@@ -852,7 +891,7 @@ U účelového úvěru je porušení účelu silným titulem k odstoupení a oka
 
 ### § 2402 — Definice
 
-> Smlouvou o úschově se schovatel zavazuje, že pro uschovatele bude opatrovat a chránit věc, kterou převzal do úschovy.
+> Smlouvou o úschově se schovatel zavazuje převzít věc, aby ji pro uschovatele opatroval. Ve smlouvě lze ujednat, že schovatel může věc odevzdat do úschovy dalšímu schovateli.
 
 **Úschova** (*depositum*) — **bezúplatná** nebo úplatná úschova movité věci:
 - **Schovatel** = bere věc do péče;
@@ -1058,6 +1097,13 @@ Cenné papíry v úschově (zejména hromadné) náleží uschovatelům, oddělu
 
 **Typicky rozhodné důkazy / podklady:** smlouva o úschově CP, evidence schovatele, doklady o nabytí a druhu CP, podklady k podílu a k případné druhotné/imobilizované úschově.
 
+**Doslovné znění § 2415:**
+
+**§ 2415**:
+> **Základní ustanovení**
+> (1) Smlouvou o skladování se skladovatel zavazuje převzít věc tak, aby ji uložil a opatroval, a ukladatel se zavazuje zaplatit mu za to skladné.
+> (2) Je-li opatrování věci předmětem podnikání skladovatele, má se za to, že strany uzavřely smlouvu o skladování.
+
 ## Skladování — doplněná ustanovení (§ 2416—2427)
 
 **§ 2416**:
@@ -1176,13 +1222,19 @@ Skladování je úplatné podnikatelské opatrování cizí věci: skladovatel p
 
 **Typicky rozhodné důkazy / podklady:** smlouva o skladování, písemné potvrzení o převzetí či skladištní list, doklady o úhradách skladného a upomínky, protokoly o stavu zboží při převzetí a vydání, dokumentace skladu a jeho údržby, doklady o pojištění, znalecký posudek k příčině a výši škody.
 
+**Doslovné znění § 2428:**
+
+**§ 2428**:
+> **Svépomocný prodej**
+> Nevyzvedne-li ukladatel věc po skončení doby, po kterou je skladovatel povinen věc skladovat, může skladovatel určit ukladateli přiměřenou lhůtu k vyzvednutí věci. Upozorní-li ho přitom, že jinak věc prodá, může skladovatel věc po marném uplynutí lhůty prodat na účet ukladatele vhodným způsobem; výtěžek ukladateli vydá bez zbytečného odkladu, může si však odečíst skladné a účelně vynaložené náklady spojené s prodejem.
+
 ---
 
 ## Smlouva o účtu (§ 2662—2675)
 
 ### § 2662 — Definice
 
-> Smlouvou o účtu se ten, kdo vede účet, zavazuje zřídit od určité doby v určité měně účet pro jeho majitele a umožnit vklad peněžních prostředků a výplatu peněžních prostředků z účtu, anebo provádět převody peněžních prostředků z účtu či na účet.
+> Smlouvou o účtu se ten, kdo vede účet, zavazuje zřídit od určité doby v určité měně účet pro jeho majitele, umožnit vložení hotovosti na účet nebo výběr hotovosti z účtu nebo provádět převody peněžních prostředků z účtu či na účet.
 
 **Účet** = **smluvní bankovní vztah**:
 - **Vedoucí účtu** = banka, družstevní záložna, jiný poskytovatel platebních služeb;
@@ -1317,6 +1369,12 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 > (1) Smlouvou o jednorázovém vkladu se vkladatel zavazuje poskytnout příjemci vkladu pevný jednorázový vklad v určité výši a příjemce vkladu se zavazuje tento vklad přijmout, po zániku závazku jej vrátit a zaplatit vkladateli úrok.
 > (2) Bylo-li nakládání s vkladem podmíněno sdělením hesla a vkladatel heslo nezná, může vkladatel nakládat s vkladem, pokud prokáže, že mu vklad náleží.
 
+**Doslovné znění § 2681:**
+
+**§ 2681**:
+> **Vkladní list**
+> Vkladním listem příjemce vkladu potvrzuje pevný jednorázový vklad na dobu určitou ve výši vkladním listem uvedené.
+
 ---
 
 ## Akreditiv (§ 2682—2693)
@@ -1324,6 +1382,9 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 ### § 2682 — Definice
 
 > Akreditivem se ten, kdo otevírá akreditiv (výstavce), zavazuje vůči osobě (oprávněnému) na základě žádosti příkazce, že na účet příkazce poskytne určité plnění, předloží-li oprávněný v akreditivní době stanovené dokumenty a splní-li další akreditivní podmínky.
+
+**§ 2682**:
+> Smlouvou o otevření akreditivu se výstavce akreditivu zavazuje vůči příkazci vystavit na jeho žádost a účet ve prospěch třetí osoby (oprávněného) akreditiv a příkazce se zavazuje zaplatit výstavci akreditivu odměnu.
 
 **Dokumentární akreditiv** (*letter of credit*) — **trojstranný** vztah:
 - **Příkazce** (kupující);
@@ -1426,6 +1487,19 @@ Akreditiv je abstraktní, dokumentární a (zpravidla) neodvolatelný platební 
 
 **§ 2700**:
 > Dojde-li k ztrátě, zničení nebo poškození dokumentů v době, kdy je má obstaravatel inkasa u sebe, nahradí obstaravatel inkasa příkazci škodu tím způsobenou. To neplatí, nemohl-li obstaravatel inkasa škodu odvrátit ani při vynaložení odborné péče.
+
+**Doslovné znění § 2693:**
+
+**§ 2693**:
+> **Jiné akreditivy**
+> Ustanovení o dokumentárním akreditivu se použije přiměřeně i na akreditiv, podle něhož se lze domáhat plnění při splnění jiných podmínek, než je předložení dokumentů.
+
+**Doslovné znění § 2694:**
+
+**§ 2694**:
+> **Základní ustanovení**
+> (1) Smlouvou o inkasu se obstaravatel inkasa zavazuje obstarat pro příkazce přijetí peněžní částky nebo jiný inkasní úkon od třetí osoby a příkazce se zavazuje zaplatit obstaravateli inkasa odměnu.
+> (2) Není-li výše odměny ujednána, zaplatí příkazce obstaravateli inkasa odměnu obvyklou v době uzavření smlouvy.
 
 ---
 
@@ -1665,7 +1739,8 @@ Příkaz lze odvolat kdykoli, avšak s povinností nahradit příkazníkovi nák
 
 ### § 2445 — Definice
 
-> Smlouvou o zprostředkování se zprostředkovatel zavazuje, že zájemci zprostředkuje uzavření určité smlouvy s třetí osobou, a zájemce se zavazuje zaplatit zprostředkovateli provizi.
+> (1) Smlouvou o zprostředkování se zprostředkovatel zavazuje, že zájemci zprostředkuje uzavření určité smlouvy s třetí osobou, a zájemce se zavazuje zaplatit zprostředkovateli provizi.
+> (2) Je-li již při uzavření smlouvy, kterou se jedna strana zaváže obstarat druhé straně příležitost k uzavření smlouvy s třetí osobou, z okolností zřejmé, že za obstarání bude požadována odměna, má se za to, že byla uzavřena smlouva o zprostředkování.
 
 **Zprostředkování** (*Vermittlung*) — vyhledání příležitosti k uzavření:
 - **Zprostředkovatel** (*broker*) — vyhledává;
@@ -1830,7 +1905,7 @@ Provize je zpravidla splatná uzavřením zprostředkované smlouvy, avšak při
 
 ### § 2455 — Definice
 
-> Smlouvou komisionářskou se komisionář zavazuje obstarat pro komitenta na jeho účet vlastním jménem určitou záležitost.
+> Komisionářskou smlouvou se komisionář zavazuje obstarat pro komitenta na jeho účet vlastním jménem určitou záležitost, a komitent se zavazuje zaplatit mu odměnu.
 
 **Komise** (*commissio*) — **klíčový rozdíl od zastoupení**:
 - Komisionář jedná **vlastním jménem**, ale **na účet** komitenta;
@@ -1990,6 +2065,13 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 - [ ] Odmítl komitent koupi nad cenu bez zbytečného odkladu (jinak schválení, § 2459 odst. 2)?
 
 **Typicky rozhodné důkazy / podklady:** komisionářská smlouva s limitní cenou, zpráva komisionáře o obchodu, kupní smlouva, doklady o tržním vývoji/znalecký posudek, doklad o okamžiku informování komitenta.
+
+**Doslovné znění § 2471:**
+
+**§ 2471**:
+> **Základní ustanovení**
+> (1) Zasílatelskou smlouvou se zasílatel zavazuje příkazci obstarat mu vlastním jménem a na jeho účet přepravu zásilky z určitého místa do jiného určitého místa, případně i obstarat nebo provést úkony s přepravou související, a příkazce se zavazuje zaplatit zasílateli odměnu.
+> (2) Je-li ujednáno, že zasílatel obstará pro příkazce od příjemce zásilky přijetí peněžních prostředků nebo že uskuteční jiný inkasní úkon dříve, než příjemci vydá zásilku nebo doklad umožňující se zásilkou nakládat, použijí se přiměřeně i ustanovení o dokumentárním inkasu.
 
 ---
 
@@ -2177,6 +2259,42 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 > (1) Ustanovení o obchodním zastoupení se nepoužijí, je-li ujednáno, že zástupce není za svou činnost odměňován.
 > (2) Ustanovení o obchodním zastoupení se nepoužijí na závazky osob působících na regulovaném trhu, mnohostranném obchodním systému nebo komoditní burze podle jiného zákona a na závazky burzovních dohodců podle jiného zákona.
 
+**Doslovné znění § 2485:**
+
+**§ 2485**:
+> **Rozhodné území**
+> Není-li ujednáno, kde má obchodní zástupce vyvíjet činnost, platí za ujednané území Česká republika; je-li obchodním zástupcem zahraniční osoba, platí za ujednané území stát, kde má obchodní zástupce sídlo v době uzavření smlouvy.
+
+**Doslovná znění § 2487 až 2488:**
+
+**§ 2487**:
+> **Výhradní obchodní zastoupení**
+> (1) Bylo-li ujednáno výhradní obchodní zastoupení, nemá zastoupený právo na rozhodném území nebo pro určený okruh osob využívat jiného obchodního zástupce; obchodní zástupce nemá ve stejném rozsahu právo vykonávat obchodní zastoupení pro jiné osoby, ani uzavírat obchody na vlastní účet nebo na účet jiné osoby.
+> (2) Zastoupený má právo uzavírat obchody, na které se vztahuje výhradní obchodní zastoupení, i bez součinnosti obchodního zástupce. V takovém případě však obchodnímu zástupci vzniká právo na provizi, jako by tyto obchody byly uzavřeny s jeho součinností.
+
+**§ 2488**:
+> **Nevýhradní obchodní zastoupení**
+> Nevyplývá-li ze smlouvy, že je obchodní zastoupení výhradní, může zastoupený pověřit i jinou osobu stejným obchodním zastoupením, jaké ujednal s obchodním zástupcem, a obchodní zástupce může vykonávat činnost, ke které se zavázal vůči zastoupenému, i pro jiné osoby, popřípadě uzavírat obchody, jež jsou předmětem obchodního zastoupení, i na vlastní účet nebo účet jiné osoby.
+
+**Doslovné znění § 2509:**
+
+**§ 2509**:
+> **Trvání obchodního zastoupení**
+> (1) Není-li ujednáno, na jakou dobu se obchodní zastoupení zřizuje, a neplyne-li to ani z účelu smlouvy, platí, že obchodní zastoupení bylo ujednáno na dobu neurčitou.
+> (2) Bylo-li obchodní zastoupení ujednáno na dobu určitou a řídí-li se strany smlouvou i po uplynutí ujednané doby, hledí se na obchodní zastoupení, jako by bylo ujednáno na dobu neurčitou.
+
+**Doslovná znění § 2518 až 2519:**
+
+**§ 2518**:
+> **Konkurenční doložka**
+> (1) Strany si mohou ujednat, že obchodní zástupce po zániku obchodního zastoupení nesmí na určeném území nebo vůči určenému okruhu osob na tomto území vykonávat na vlastní nebo cizí účet činnost, která by měla soutěžní povahu ve vztahu k podnikání zastoupeného, zejména tu činnost, kterou při obchodním zastoupení vykonával pro zastoupeného. Konkurenční doložka, která tomu odporuje nebo která je ujednána na dobu delší než dva roky od zániku zastoupení, je neplatná.
+> (2) Omezuje-li konkurenční doložka obchodního zástupce více, než vyžaduje potřebná míra ochrany zastoupeného, může soud konkurenční doložku omezit.
+
+**§ 2519**:
+> **Zakázaná ujednání**
+> (1) Zakázána jsou ujednání odchylující se od § 2489, 2495, § 2496 odst. 1, § 2497 nebo 2498.
+> (2) K ujednáním, která se odchylují od § 2504 odst. 2, § 2505, 2506, 2507, 2514, 2515, 2516 nebo 2517 v neprospěch obchodního zástupce, se nepřihlíží.
+
 ### Specifika
 
 **§ 2486 — Územní výhradnost** — dispozitivně.
@@ -2194,7 +2312,8 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 
 ### § 2636 — Definice
 
-> Smlouvou o péči o zdraví se poskytovatel vůči příkazci zavazuje pečovat v rámci svého povolání nebo předmětu činnosti o zdraví ošetřovaného, ať již je jím příkazce sám, nebo třetí osoba.
+> (1) Smlouvou o péči o zdraví se poskytovatel vůči příkazci zavazuje pečovat v rámci svého povolání nebo předmětu činnosti o zdraví ošetřovaného, ať již je jím příkazce nebo třetí osoba.
+> (2) Příkazce zaplatí poskytovateli odměnu, je-li to ujednáno; to neplatí, stanoví-li jiný právní předpis, že se péče o zdraví hradí výlučně z jiných zdrojů.
 
 **Smlouva o péči o zdraví** — **nová typologie** v OZ (1964 OZ tento institut neznal — vztah byl mimo smluvní rámec):
 - **Poskytovatel** (lékař, nemocnice, klinika);
@@ -2471,6 +2590,7 @@ Pacient má právo nahlížet do své zdravotnické dokumentace a pořizovat kop
 ### § 2586 — Definice
 
 > (1) Smlouvou o dílo se zhotovitel zavazuje provést na svůj náklad a nebezpečí pro objednatele dílo a objednatel se zavazuje dílo převzít a zaplatit cenu.
+> (2) Cena díla je ujednána dostatečně určitě, je-li dohodnut alespoň způsob jejího určení, anebo je-li určena alespoň odhadem. Mají-li strany vůli uzavřít smlouvu bez určení ceny díla, platí za ujednanou cena placená za totéž nebo srovnatelné dílo v době uzavření smlouvy a za obdobných smluvních podmínek.
 
 **Dílo** (*locatio conductio operis*, *Werkvertrag*):
 - **Zhotovitel** (*Werkunternehmer*) — provede dílo;
@@ -3482,6 +3602,76 @@ Vadu zájezdu je třeba vytknout bez zbytečného odkladu (lze i přes delegáta
 > a) jméno a adresu hostitele, u něhož bude žák po příjezdu ubytován, a
 > b) jméno a adresu pověřené osoby (koordinátora) v zemi školního pobytu, u níž lze požadovat pomoc, a údaj o možnosti spojit se s ní.
 > (2) Pořadatel nemá právo na odstupné, pokud zákazník odstoupil od smlouvy proto, že pořadatel žáka na pobyt náležitě nepřipravil.
+
+**Doslovná znění § 2527 až 2528:**
+
+**§ 2527**:
+> **Hlavní náležitosti potvrzení o zájezdu**
+> Pořadatel v potvrzení o zájezdu uvede
+> a) místo určení cesty nebo pobytu, trasu a délku pobytu včetně termínů a, je-li součástí ubytování, i počet nocí,
+> b) ujednané dopravní prostředky, jejich vlastnosti a kategorie, místa, data a časy odjezdu a příjezdu, trvání a místa zastávek a dopravní spojení; není-li přesný čas ještě stanoven, sdělí pořadatel a tam, kde je to významné, zprostředkovatel prodeje zájezdu zákazníkovi přibližný čas odjezdu a příjezdu,
+> c) umístění, hlavní znaky a případnou turistickou kategorii, do níž je podle pravidel státu místa určení cesty nebo pobytu ubytování zařazeno,
+> d) ujednané stravování,
+> e) návštěvy, výlety nebo jiné služby zahrnuté v celkové ceně zájezdu,
+> f) údaj, zda některá ze služeb cestovního ruchu bude zákazníkovi poskytována v rámci skupiny a, je-li tomu tak a je-li to možné, o přibližné velikosti skupiny, pokud to není zřejmé ze souvislostí,
+> g) jazyk, v němž se služby cestovního ruchu poskytují, závisí-li využití těchto služeb zákazníkem na ústní komunikaci, a
+> h) údaj, zda jsou cesta nebo pobyt obecně vhodné pro osoby s omezenou schopností pohybu, a na žádost zákazníka údaj o vhodnosti cesty nebo pobytu s ohledem na potřeby zákazníka.
+
+**§ 2528**:
+> **Další náležitosti potvrzení o zájezdu**
+> (1) Pořadatel v potvrzení o zájezdu dále uvede
+> a) obchodní firmu a adresu sídla nebo adresu bydliště pořadatele, popřípadě i adresu nebo bydliště zprostředkovatele prodeje zájezdu, jejich telefonní čísla a elektronické adresy,
+> b) celkovou cenu zájezdu včetně daní, poplatků nebo jiných obdobných peněžitých plnění a veškerých případných dalších nákladů nebo, nelze-li tyto náklady přiměřeným způsobem vyčíslit před uzavřením smlouvy, uvede druh dalších nákladů, jež mohou zákazníkovi ještě vzniknout,
+> c) způsob platby včetně částky nebo procenta z ceny, jež mají být zaplaceny jako záloha, a časový rozvrh pro zaplacení zbývající části ceny, nebo peněžité jistoty, které musí zákazník uhradit nebo poskytnout,
+> d) nejnižší počet osob nutný k uskutečnění zájezdu a lhůtu, během níž může pořadatel odstoupit od smlouvy podle § 2536 odst. 1 písm. a),
+> e) obecné údaje o pasových a vízových požadavcích včetně přibližných lhůt pro vyřízení víz a údaje o zdravotních požadavcích státu určení,
+> f) údaj, že zákazník může odstoupit od smlouvy kdykoli před zahájením zájezdu proti zaplacení přiměřeného odstupného za předčasné ukončení závazku ze smlouvy, případně odstupného stanoveného pořadatelem v souladu se zákonem upravujícím některé podmínky podnikání a výkon některých činností v oblasti cestovního ruchu,
+> g) údaj o pojištění pro případ krytí nákladů spojených s ukončením závazku ze smlouvy zákazníkem nebo nákladů na pomoc zahrnujících repatriaci v případě úrazu, nemoci nebo smrti,
+> h) zvláštní požadavky zákazníka, které pořadatel přijal,
+> i) název a kontaktní údaje subjektu, který má poskytnout ochranu pro případ úpadku, včetně jeho adresy, a je-li to důležité, název příslušného orgánu určeného daným členským státem pro tento účel a jeho kontaktní údaje,
+> j) jméno, adresu, telefonní číslo, elektronickou adresu a případně faxové číslo místního zástupce pořadatele, kontaktního místa nebo jiné služby, které zákazníkovi umožní urychleně pořadatele kontaktovat a účinně s ním komunikovat, požádat o pomoc, ocitne-li se zákazník v nesnázích, nebo vytknout vadu zájezdu,
+> k) údaj, že zákazník musí v souladu s § 2537 odst. 2 vytknout vadu zájezdu,
+> l) údaje umožňující spojit se s nezletilým nebo s osobou, která za nezletilého odpovídá v místě jeho pobytu, cestuje-li nezletilý bez doprovodu osoby, která o něj pečuje, a zahrnuje-li zájezd ubytování,
+> m) údaje o dostupných vnitřních postupech vyřizování stížností a o způsobech alternativního řešení sporů podle jiného právního předpisu,
+> n) údaj o právu zákazníka postoupit smlouvu v souladu s § 2532,
+> o) lhůtu, ve které zákazník může oznámit, že se zájezdu místo něho zúčastní jiná osoba, a
+> p) případné další podmínky, které musí účastník zájezdu splňovat, jsou-li pro určení podmínek důvody.
+> (2) V potvrzení o zájezdu pořadatel rovněž sdělí, že odpovídá za řádné poskytnutí všech sjednaných služeb cestovního ruchu a že má povinnost poskytnout zákazníkovi pomoc v nesnázích.
+
+**Doslovná znění § 2531 až 2532:**
+
+**§ 2531**:
+> **Jiné změny závazku ze smlouvy**
+> (1) Pořadatel může změnit závazek ze smlouvy,
+> a) vyhradil-li si toto právo ve smlouvě,
+> b) jde-li o nevýznamnou změnu a
+> c) oznámí-li zákazníkovi v textové podobě jasným a srozumitelným způsobem údaje o změně.
+> (2) Navrhne-li pořadatel v souladu s § 2530 zvýšení ceny zájezdu o více než osm procent, může zákazník návrh přijmout nebo může odstoupit od smlouvy ve lhůtě podle smlouvy, aniž by musel hradit odstupné za předčasné ukončení závazku. Lhůta pro odstoupení nesmí být kratší než pět dnů a musí skončit před zahájením zájezdu. Neodstoupí-li zákazník od smlouvy v určené lhůtě, platí, že se změnou ceny zájezdu souhlasí. Obdobně se postupuje i v případě, že vnější okolnosti nutí pořadatele podstatně změnit některou z hlavních náležitostí zájezdu uvedených v § 2527 nebo nemůže-li pořadatel splnit zvláštní požadavky zákazníka, které přijal podle § 2528 odst. 1 písm. h).
+> (3) Pořadatel oznámí zákazníkovi společně s předložením návrhu na změnu závazku podle odstavce 2 jasným, srozumitelným a zřetelným způsobem a bez zbytečného odkladu informace zaznamenané v textové podobě, a to
+> a) dopad navrhovaných změn na cenu zájezdu,
+> b) lhůtu, v níž může zákazník odstoupit od smlouvy,
+> c) důsledky pro zákazníka, neodstoupí-li včas od smlouvy, a
+> d) údaje o případném náhradním zájezdu a jeho ceně.
+> (4) Jestliže se v důsledku změny závazku ze smlouvy v souladu s odstavcem 2 sníží jakost nebo náklady zájezdu, má zákazník právo na přiměřenou slevu.
+
+**§ 2532**:
+> **Postoupení smlouvy**
+> (1) Splňuje-li třetí osoba podmínky účasti na zájezdu, může jí zákazník smlouvu postoupit.
+> (2) Změna v osobě zákazníka je vůči pořadateli účinná, doručí-li mu postupitel o tom včas oznámení v textové podobě spolu s prohlášením postupníka, že s uzavřenou smlouvou souhlasí a že splní podmínky účasti na zájezdu. Oznámení je včasné, je-li doručeno alespoň sedm dnů před zahájením zájezdu; kratší lhůtu lze ujednat, je-li smlouva uzavřena v době kratší než sedm dnů před zahájením zájezdu.
+> (3) Pořadatel nebo zprostředkovatel prodeje zájezdu
+> a) sdělí postupiteli skutečné náklady spojené s postoupením smlouvy; tyto náklady nesmějí být nepřiměřené a nesmějí překročit náklady skutečně vynaložené na postoupení smlouvy, a
+> b) doloží postupiteli náklady uvedené pod písmenem a).
+> (4) Postupitel a postupník jsou zavázáni společně a nerozdílně k zaplacení doplatku ceny zájezdu a k úhradě jakýchkoli dodatečných nákladů, které pořadateli v souvislosti se změnou v osobě zákazníka vzniknou.
+
+**Doslovné znění § 2541:**
+
+**§ 2541**:
+> **Pomoc v nesnázích**
+> (1) Ocitne-li se po zahájení zájezdu zákazník v nesnázích nebo v situaci podle § 2539 odst. 2, poskytne mu pořadatel neprodleně pomoc, zejména tím, že mu
+> a) sdělí údaje o zdravotních službách, místních úřadech a konzulární pomoci,
+> b) je nápomocen se zprostředkováním komunikace na dálku a
+> c) pomůže najít náhradní cestovní řešení.
+> (2) Zavinil-li si zákazník nesnáze sám, může pořadatel za svou pomoc požadovat přiměřenou náhradu skutečně vynaložených nákladů.
 
 ---
 

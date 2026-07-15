@@ -238,6 +238,7 @@ Pseudonym je legitimní alternativou jména; jednání pod ním je platné, je-l
 ### § 80 — Bydliště
 
 > (1) Člověk má bydliště v místě, kde se zdržuje s úmyslem žít tam s výhradou změny okolností trvale; takový úmysl může vyplývat z jeho prohlášení nebo z okolností případu. Uvádí-li člověk jako své bydliště jiné místo než své skutečné bydliště, může se každý dovolat i jeho skutečného bydliště. Proti tomu, kdo se v dobré víře dovolá uvedeného místa, nemůže člověk namítat, že má své skutečné bydliště v jiném místě.
+> (2) Nemá-li člověk bydliště, považuje se za ně místo, kde žije. Nelze-li takové místo zjistit, anebo lze-li je zjistit jen s neúměrnými obtížemi, považuje se za bydliště člověka místo, kde má majetek, popřípadě místo, kde měl bydliště naposledy.
 
 > (2) Nemá-li člověk bydliště, považuje se za ně místo, kde žije. Nelze-li takové místo zjistit, anebo lze-li je zjistit jen s neúměrnými obtížemi, považuje se za bydliště člověka místo, kde má majetek, popřípadě místo, kde měl bydliště naposledy.
 

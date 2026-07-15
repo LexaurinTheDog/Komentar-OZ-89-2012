@@ -933,6 +933,7 @@ O záležitostech rodiny se manželé dohodnou (§ 692). Běžné záležitosti 
 #### § 697 — Vyživovací povinnost
 
 > (1) Manželé mají vzájemnou vyživovací povinnost v rozsahu, který oběma zajišťuje zásadně stejnou hmotnou a kulturní úroveň. Vyživovací povinnost mezi manžely předchází vyživovací povinnosti dítěte i rodičů.
+> (2) Pro vyživovací povinnost mezi manžely jinak platí obecná ustanovení o výživném.
 
 **Výklad:**
 
@@ -1571,6 +1572,10 @@ Smlouva snoubenců nabývá účinnosti uzavřením manželství; u věcí zapsa
 > (1) Rozhodnutím soudu nelze vyloučit ani změnit ustanovení upravující obvyklé vybavení rodinné domácnosti.
 > (2) Rozhodnutí soudu o změně, zrušení nebo obnovení společného jmění nesmí svými důsledky vyloučit schopnost manžela zabezpečovat rodinu a nesmí se obsahem nebo účelem dotknout práv třetí osoby, ledaže by s rozhodnutím souhlasila.
 
+**§ 728**:
+> **Správa v režimu založeném rozhodnutím soudu**
+> Jedná-li manžel při správě společného jmění způsobem, který je ve zřejmém rozporu se zájmem druhého manžela, rodiny nebo rodinné domácnosti, a snoubenci nebo manželé neuzavřeli smlouvu o správě toho, co je součástí společného jmění, může soud na návrh druhého manžela rozhodnout, jakým způsobem bude společné jmění spravováno.
+
 ##### § 724 — Závažné důvody
 
 > (1) Je-li pro to závažný důvod, soud na návrh manžela společné jmění zruší nebo zúží jeho stávající rozsah.
@@ -1737,6 +1742,12 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 - [ ] Zvážit vylučovací žalobu, popř. obranu věřitele dle § 733–734.
 
 **Typicky rozhodné důkazy / podklady:** smlouva o dluhu, doklad o nesouhlasu druhého manžela vůči věřiteli, notářský zápis o změně SJM s datem, doklady o vzniku a době pohledávky.
+
+**Doslovné znění § 735:**
+
+**§ 735**:
+> **Zvláštní ustanovení**
+> Neuzavřou-li spolu manželé, kteří mají v úmyslu dosáhnout rozvodu manželství způsobem uvedeným v § 757, dohodu o uspořádání majetkových povinností a práv pro případ rozvodu, v níž pod podmínkou, že manželství bude rozvedeno, rovněž ujednají, jak budou v době odděleného hospodaření nabývat práva a zavazovat se, platí pro dobu odděleného hospodaření manželů ustanovení o společném jmění přiměřeně, ledaže tento zákon stanoví jinak.
 
 #### Vypořádání SJM (§ 736—742)
 
