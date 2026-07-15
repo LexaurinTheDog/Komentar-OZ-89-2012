@@ -52,6 +52,65 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 - 2024 — zákon č. 123/2024 Sb. (účinnost 1. 5. 2025) — **plnoprávné partnerství** s obdobnou aplikací manželského práva;
 - Dosavadní registrovaná partnerství se **automaticky transformovala** na partnerství podle § 655 odst. 2.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 647 návrhu — dnešní § 655):**
+
+> Část druhá občanského zákoníku je věnována rodinnému právu.
+>
+> Právní problematika manželství a rodiny je rozmanitá a sahá takřka do
+> všech oblastí soukromého (a mnoha oblastí veřejného) práva. Některé
+> civilní kodexy řeší manželsko-právní a rodinně-právní otázky na třech
+> nebo více místech (např. francouzský Code civil, německý BGB). I u nás
+> musíme dosud pracovat s několika právními předpisy, resp. jejich částmi.
+> Soustředění úpravy na jediné místo kodexu (byť stále s několika málo
+> výjimkami -- např. v dědění) představuje systémové řešení vhodné i
+> výhodné.
+>
+> Navrhovaná část druhá občanského zákoníku zahrnuje právní pravidla
+> upravující manželství (jeho vznik, povinnosti a práva manželů, zánik
+> manželství), příbuzenství (jeho pojem a druhy, vztahy mezi rodiči a
+> dětmi, včetně určování rodičovství a osvojení), poručenství a jiné formy
+> péče o dítě (totiž kromě poručenství zejména také opatrovnictví, svěření
+> dítěte do péče a pěstounství).
+>
+> Hlava první je věnována manželství, a to předně jeho vzniku, totiž
+> sňatku; poté jsou upraveny povinnosti a práva manželů, a konečně se
+> reguluje zánik manželství.
+>
+> Ustanovení § 647 vymezuje manželství jako trvalý svazek muže a ženy
+> vzniklý zákonem stanoveným způsobem; zároveň se uvádí, že hlavním účelem
+> manželství je založení rodiny, řádná výchova dětí a vzájemná podpora a
+> pomoc. Toto ustanovení nepředstavuje definici manželství, jeho smyslem
+> -- nicméně -- je výslovně stanovit to, co je pro vlastní podstatu
+> manželství typické, resp. charakteristické, to bez čeho by manželství
+> nebylo manželstvím (proto např. svazek dvou osob stejného pohlaví
+> manželstvím být nemá).
+>
+> Manželství je svazkem (neboli společenstvím) dvou osob různého pohlaví,
+> a to svazkem jednak trvalým (totiž proponovaným jako trvalý), jednak
+> vzniklý způsobem, který závazně stanoví zákon.
+>
+> Trvalost manželství je třeba chápat jako naprosto nezbytný atribut,
+> který manželství odlišuje (kromě zákonné regulace) od stavů či poměrů,
+> které jsou předem uvažovány jako krátkodobé, přechodné. Ostatně, nejen
+> že 70 % manželských svazků (i u nás) přetrvá, ale za první důvod zániku
+> manželství se stále považuje smrt manžela.
+>
+> Hlavní účel manželství je vymezen jako založení rodiny a řádná výchova
+> dětí. Děje se tak přesto, že je nepochybné, že existují i manželství,
+> jejichž účelem je něco docela jiného. Účelem manželství může být
+> vytvoření pevného základu pro plození a výchovu dětí, ale ke vzniku
+> manželství mohou vést i důvody psychologické, zdravotní, důvodem
+> existence manželství může být i vzájemná podpora sociální, či naplnění
+> nějakých zájmů ekonomických. Důvody, smysl, či účel trvání jednotlivého
+> manželství se navíc během času zcela nepochybně proměňuje. Bude proto na
+> soudu, před který se ta či ona otázka týkající se manželství dostane,
+> aby sám uvážil, bude-li toho zapotřebí, jaký je konkrétní důvod, smysl,
+> účel tohoto manželství, a podle toho pak jednotlivou spornou otázku
+> posoudil. Nicméně se nelze domnívat, že to může být právě zákon, co
+> zlomí současný narůstající trend odmítání manželství. Ani zákon nemůže
+> mít a nemá sílu nařizovat v době vzrůstajícího počtu neplodných mužů a
+> žen plození a výchovu dětí jako naplňování účelu manželství.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1173/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29C90A1E94AA93EFC1258749001880B9?openDocument) — *Uznání cizích rozhodnutí Osvojení*
@@ -115,6 +174,45 @@ Manželství je heterosexuální trvalý svazek (odst. 1); partnerství je stejn
 3. **Sňatečný obřad** — formální (veřejný, slavnostní, 2 svědci).
 
 **Klíčové: konsenzus + forma**. Sňatek bez obřadu = nevznikne manželství (zdánlivé manželství § 677).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 648 návrhu — dnešní § 656):**
+
+> Celá tato partie návrhu zahrnuje především ustanovení upravující vznik
+> manželství, sňatek, a to zvláště jeho podstatu, tj. vlastní způsob
+> uzavření manželství, tedy především sňatečný proces. Tato hlava zahrnuje
+> i ustanovení stanovující veškeré podmínky, jejichž splnění se vyžaduje
+> ke vzniku manželství, a to bez ohledu na to, zda je jejich nesplnění
+> sankcionováno, popřípadě jak je sankcionováno. Mezi tyto podmínky náleží
+> v prvé řadě výčet skutečností, které brání uzavření manželství
+> (*impedimenta matrimonii*).
+>
+> Navrhované ustanovení klade ve shodě s Úmluvou o souhlasu k manželství,
+> nejnižším věku pro uzavření manželství a o registraci manželství z r.
+> 1962 (uveřejněna pod č. 124/1968 Sb.) důraz na svobodný a plný souhlasný
+> projev vůle -- tj. projev řádné, skutečné či opravdové vůle -- snoubenců
+> před orgánem určeným k provedení sňatečného obřadu, totiž k přijetí
+> sňatečných projevů vůle podle zákona, a to veřejně, slavnostně a před
+> svědky.
+>
+> K volbě se kladou výrazy „prohlášení" a „projev vůle", nicméně v obou
+> případech bude užito jednotného čísla, protože jde o jedno prohlášení,
+> jeden projev vůle, a to nikoli vzájemně, nýbrž vůči orgánu
+> představovanému oddávajícím. Výraz „projev vůle" se jeví jako vhodnější
+> než „prohlášení", vzhledem k osobám, které nejsou schopny učinit
+> prohlášení, nicméně jsou s to projevit vůli.
+>
+> Vyžaduje se svobodný a úplný souhlasný projev vůle (*liber ac plenus
+> consensus*). V anglických verzích relevantních textů mezinárodních smluv
+> se vyžaduje *free and full consent*; výraz *full* znamená dokonalý,
+> bezvadný, řádný, perfektní. V tomto smyslu je třeba použitý výraz
+> „úplný" vykládat.
+>
+> Vyžaduje se, aby sňatečný obřad byl veřejný a slavnostní, učiněný v
+> přítomnosti dvou svědků.
+>
+> Výraz „sňatečný obřad" sice platná právní úprava dosud nezná, nicméně se
+> jeví jako vhodné použít v zákonném textu přiléhavý pojem, který proces
+> uzavření manželství vyjádří jednoduchým způsobem.
 
 **Judikatura (z místních zdrojů):**
 
@@ -183,6 +281,39 @@ Pro vznik manželství musí být současně dán (i) svobodný a úplný souhla
 **Oprávněné církve**: registrované Ministerstvem kultury podle zákona č. 3/2002 Sb. o církvích — typicky římskokatolická, evangelická, husitská, pravoslavná, židovská náboženská společnost atd.
 
 **Klíčové: § 670 — Zákaz kombinace**: po občanském sňatku nemají náboženské obřady právní účinky; po církevním sňatku **nelze** uzavřít občanský sňatek.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 649 návrhu — dnešní § 657):**
+
+> Ačkoli věcný záměr občanského zákoníku schválený vládou (usnesení č. 345
+> z 18. dubna 2001) předpokládal napříště jen úpravu občanského sňatku s
+> tím, že jen občanský sňatek má mít statusové i jiné právní následky v
+> rovině soukromoprávní i veřejnoprávní, v samém závěru příprav návrhu
+> nového civilního kodexu bylo rozhodnuto, že vhodnější je řešení, které
+> občanským sňatkům postaví na roveň sňatky církevní, a to s ohledem na
+> sociální citlivost odlišného státního zásahu do soukromého života osob
+> po té, co byly církevní sňatky s právně statusovými účinky do našeho
+> právního řádu v roce 1992 zavedeny.
+>
+> Navrhuje se tedy umožnit církevní sňatky se statusovými účinky i nadále.
+> Rovněž tak, jak je tomu dosud, navrhuje se, aby sňatečný projev vůle
+> snoubenců mohl být učiněn jen před orgánem církve nebo náboženské
+> společnosti registrované ve smyslu zákona č. 3/2002 Sb., o svobodě
+> náboženského vyznání a postavení církví a náboženských společností a o
+> změně některých zákonů. Státní dozor nad dodržováním zákonných podmínek
+> pro uzavření manželství se u církevních sňatků navrhuje i nadále řešit
+> zachováním institutu osvědčení vydaného příslušným matričním úřadem, bez
+> něhož manželství uzavřít nelze, jakož i zachováním povinnosti ve lhůtě
+> tří pracovních dnů prokázat příslušnému matričnímu úřadu uzavření
+> církevního sňatku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 650 návrhu — dnešní § 658):**
+
+> Tak, jak tomu bylo až dosud, navrhuje se, aby občanský sňatečný obřad
+> mohl provést v podstatě kterýkoli úřad, pokud je to stanoveno zvláštním
+> zákonem (tím se rozumí zákon o obcích).
+>
+> Naproti tomu pokud jde o sňatek církevní, je třeba, aby příslušnost
+> stanovila sama registrovaná církev či náboženská společnost.
 
 **Judikatura (z místních zdrojů):**
 
@@ -259,6 +390,37 @@ Sňatek lze uzavřít jako občanský (před orgánem veřejné moci) nebo círk
 
 **§ 662 — Omezení připojovaného příjmení**: technické pravidlo pro snoubence s již spojeným příjmením.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 651 návrhu — dnešní § 659):**
+
+> Na otázku, kdy je manželství uzavřeno, kdy je dovršeno, kdy je sňatečné
+> právní jednání perfektní, je třeba odpovědět tak, že v okamžiku
+> vyjádření snoubence druhého v pořadí, pokud k němu došlo v přítomnosti
+> oddávajícího a svědků. To zásadně. Vzhledem k tomu, že v některých
+> církvích a náboženských společnostech nevzniká manželství projevem vůle
+> obvyklým u občanského sňatku, je třeba připustit vznik manželství i
+> jiným dostatečným prohlášením sňatečné vůle.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 652 až 654 návrhu — dnešní § 660—662):**
+
+> Ustanovení jsou věnována prohlášení o příjmení. Navrhuje se, aby platný
+> právní stav doznal drobnou změnu pouze v přesnějším řešení otázky
+> připojovaného příjmení.
+>
+> Navrhuje se, aby napříště bylo nezbytně třeba mít za to, že příjmení
+> popřípadě uváděné na druhém místě je příjmení *připojované*. Je důležité
+> uvědomit si, že bude-li se po případném rozvodu manželství rozvedený
+> manžel vracet ke svému příjmení, bude se vracet k té jeho podobě, kterou
+> nahradil příjmením manželským.
+>
+> Otázka příjmení prvního a připojovaného se posléze ukazuje také v
+> souvislosti s osvojením.
+>
+> Dohodu o rozdílném příjmení mohou manželé kdykoli změnit a dohodnout se
+> na společném příjmení jednoho z nich ve smyslu ustanovení § 652 písmena
+> a). Pokud by se již narodilo společné dítě, které by neslo příjmení toho
+> z manželů, který se rozhodl změnit příjmení na příjmení manžela, dojde
+> ze zákona i ke změně příjmení tohoto dítěte.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Kolíně* [15 C 71/2021-33](https://rozhodnuti.justice.cz/rozhodnuti/?id=86950f60-862a-4603-a752-7faf7fd2d4ea) — *byty služební, nájem bytu, peněžité plnění, smlouva darovací, smlouva o výpůjčce, vydání…*
@@ -333,6 +495,66 @@ Manželství vzniká kladnou odpovědí obou snoubenců (§ 659). Při obřadu s
 
 **§ 666 — Církevní sňatek — osvědčení matriky**: oddávající musí mít **osvědčení matričního úřadu** (platnost max. 6 měsíců). Po sňatku oddávající doručí matrice **protokol** do 3 pracovních dnů.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 655 návrhu — dnešní § 663):**
+
+> Ustanovení zmiňuje konkrétní místo, kde má, resp. může být občanský
+> sňatek celebrován -- je to místo, kde dochází ke sňatkům pravidelně
+> (místo obvyklé), anebo i výjimečně (kupř. nad i pod povrchem zemským),
+> ale vždy toto místo určuje ten úřad, před kterým skutečně bude sňatečný
+> obřad proveden. Výraz „určí" nemá nikterak imperativní podtext, jde jen
+> o to, že správní orgán jinak jednat neumí. Výslovně se stanoví, že vůle
+> snoubenců (zvláštní přání, pokud jde o vhodné místo obřadu) má být pro
+> úřad relevantním zřetelem.
+>
+> Naproti tomu, jde-li o sňatek církevní, je třeba při volbě sňatečného
+> místa vyhovět vnitřním předpisům církve, resp. náboženské společnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 656 návrhu — dnešní § 664):**
+
+> Z formulace, že snoubenci požádají příslušný úřad o provedení sňatečného
+> obřadu, nelze dovodit, že podávají žádost, kterou se zahajuje správní
+> řízení (návrh také výrazu „žádost" nepoužívá); jde však o to, že musí
+> být určeny alespoň doba a místo sňatečného obřadu určitých osob, což bez
+> požádání snoubenců učinit nelze. Příslušným úřadem se rozumí ten úřad,
+> který má provést sňatečný obřad. Zároveň snoubenci předloží příslušnému
+> úřadu potřebné doklady. Bližší předpisy k tomuto ustanovení obsahuje
+> zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých
+> souvisejících zákonů, ve znění pozdějších předpisů, dále jen „matriční
+> zákon". V úrovni volného uvážení (jde o posouzení míry obtížnosti
+> překonání případné překážky) je možnost prominout předložení některých
+> stanovených dokladů. O těchto otázkách rovněž ustanovuje zvláštní, tj.
+> matriční zákon.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 657 návrhu — dnešní § 665):**
+
+> V navrženém ustanovení je uvedeno to, co u nás -- již tradičně --
+> zastupuje jak ohlášky, tak zdravotní prohlídky, resp. deliberační lhůtu,
+> totiž povinnost snoubenců uvést, že jim nejsou známy překážky
+> manželství, a naopak že jim je znám zdravotní stav (druhého z nich) a že
+> zvážili uspořádání budoucích majetkových poměrů, svého bydlení a hmotné
+> zajištění po uzavření manželství. Tuto povinnost mají snoubenci splnit
+> dříve, než dojde ke sňatečnému projevu vůle, totiž k projevu vůle o
+> vstupu do manželství. Proto se také napříště nebude mluvit o
+> prohlášeních, ani o projevech vůle. Takové tvrzení také nemá právní
+> následky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 658 návrhu — dnešní § 666):**
+
+> V tomto navrhovaném ustanovení se stanoví zvláštní podmínky pro uzavření
+> církevního sňatku. Na prvním místě se uvádí, že matriční úřad v obvodu,
+> v němž má být uzavřen církevní sňatek, má vydat osvědčení o tom, že
+> snoubenci splnili všechny požadavky zákona pro uzavření manželství.
+> Těmito požadavky zákona se rozumí v podstatě to, že manželství *in
+> concreto* nebrání *impedimenta matrimonii*. Toto osvědčení musejí
+> snoubenci předložit oddávajícímu dříve, než přistoupí ke sňatečnému
+> obřadu. V tuto chvíli nesmí být dotyčné prohlášení starší než šest
+> měsíců.
+>
+> Dále se pak uvádí, že oddávající je povinen doručit protokol o uzavření
+> manželství s uvedením všech rozhodných skutečností do tří pracovních dnů
+> příslušnému matričnímu úřadu, tj. zase matričnímu úřadu, v jehož obvodu
+> bylo manželství uzavřeno.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS Praha-západ* [16 C 17/2025-37](https://rozhodnuti.justice.cz/rozhodnuti/?id=4591c0c8-950e-426d-be74-d0dfeb2ddd62) — *smlouva nájemní*
@@ -399,6 +621,40 @@ Občanský sňatek se koná na místě určeném orgánem veřejné moci, círke
 
 **§ 669 — Sňatek v zastoupení**: výjimečně lze povolit (krajský úřad), aby projev vůle učinil **zmocněnec**. **Plná moc**: písemná + úředně ověřený podpis + obsahuje identifikační údaje + prohlášení o příjmení + standardní předsňatková prohlášení. Odvolání plné moci účinné jen je-li druhému snoubenci známo před sňatečním projevem vůle.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 659 návrhu — dnešní § 667):**
+
+> Je obvyklé uvažovat, a tedy také upravit situace, kdy je život člověka
+> přímo ohrožen, a přeje si -- spolu se svým partnerem -- aby s ním byl
+> ještě před svou případnou smrtí oddán. Nelze vyloučit ani situace, kdy
+> takto ohroženi jsou oba snoubenci. Tady se pak zpravidla poskytují
+> určité zákonné dispenze, které vznik manželství usnadní. Tyto právní
+> ústupky se týkají jak pravidel o místní příslušnosti celebrujícího
+> orgánu, tak pravidel o žádosti a dokladech, které se jinak požadují,
+> nikoli však pravidel o „prohlášení", které nahrazuje ohlášky (neboť
+> jinak by pravidla o sňatečném obřadu byla v neomluvitelném rozporu s
+> ustanoveními úmluvy o souhlasu k manželství (viz výše), jež požaduje
+> předchozí zveřejnění uvažovaného sňatku). Nadto je ve zcela výjimečné
+> situaci některým osobám civilním i vojenským svěřena zcela výjimečná
+> pravomoc. (Srov. též zákon o námořní plavbě č. 61/2000 Sb. a prováděcí
+> vyhlášku č. 25/2001 Sb. a vyhlášku č. 149/2001 Sb.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 660 návrhu — dnešní § 668):**
+
+> Sňatek, totiž občanský, lze celebrovat v cizině rovněž před
+> diplomatickou misí nebo konzulárním úřadem České republiky. Kromě toho
+> totiž náš občan může uzavřít manželství i před příslušným orgánem cizího
+> státu. Stačí, je-li českým občanem alespoň jeden ze snoubenců.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 661 návrhu — dnešní § 669):**
+
+> Navržené ustanovení obsahuje úpravu tradiční možnosti uzavření
+> manželství zmocněncem, a to ve standardní podobě, tj. s omezením na
+> jediného snoubence a s přivolením vyššího úřadu, a naopak bez omezení,
+> pokud jde o stejnost pohlaví zmocněnce a zmocnitele, kterýžto požadavek
+> by odporoval zásadě rovnosti pohlaví. Údajné estetické důvody nemohou
+> tento stěžejní princip mezilidských vztahů daný ústavním pořádkem
+> potlačit.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 9* [52 C 242/2023-51](https://rozhodnuti.justice.cz/rozhodnuti/?id=252d1913-5b3e-47dc-bc66-c672422dfe2a) — 19. 3. 2024
@@ -447,6 +703,10 @@ Ve výjimečných situacích lze sňatek uzavřít při ohrožení života (§ 6
 > (1) Byl-li uzavřen občanský sňatek, nemají následné náboženské obřady právní následky.
 > (2) Byl-li uzavřen církevní sňatek, nelze následně uzavřít občanský sňatek.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 662 návrhu — dnešní § 670):**
+
+> Navrhuje se zachovat současnou právní úpravu.
+
 ### § 671—676 — Způsobilost a zákonné překážky
 
 **§ 671**:
@@ -486,6 +746,65 @@ Ve výjimečných situacích lze sňatek uzavřít při ohrožení života (§ 6
 - Pěstoun — svěřené dítě.
 
 (Důvod: nerovnost postavení + ochrana před zneužitím péče.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 663 návrhu — dnešní § 671):**
+
+> Jedná se o relativně nové ustanovení, standardní v západních zemích.
+> Jeho smyslem je učinit další zákonný text srozumitelnějším.
+>
+> Zavádí se pojem „zákonná překážka". Tou se rozumí s jistou odchylkou to,
+> co dříve představovala *impedimenta matrimonii.* Zákonnými překážkami
+> jsou nedostatek věku, nedostatek svéprávnosti, dříve uzavřené a dosud
+> trvající manželství, resp. registrované partnerství, příbuzenství, jakož
+> i poručenství, svěření do péče a pěstounství.
+>
+> Závady ve sňatečném projevu vůle nejsou zákonnými překážkami. Zákonnou
+> překážkou není ani flagrantní porušení zákonných ustanovení o formálních
+> náležitostech sňatku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 664 návrhu — dnešní § 672):**
+
+> Vychází se z dosavadního právního stavu s tím, že je pro příště možné
+> emancipovat osobu, která dovršila věku šestnácti let. V souvislosti
+> s možností přiznat plnou svéprávnost člověku před dovršením osmnácti let
+> i z jiných důvodů, než z důvodu uzavření manželství reaguje na tuto
+> skutečnost zákon i v oblasti uzavírání sňatku. Zákonnou překážkou pro
+> uzavření manželství je tedy nově nesplnění kumulativní podmínky, a to
+> nezletilosti a zároveň nedosažení plné svéprávnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 665 návrhu — dnešní § 673):**
+
+> S ohledem na znění zahraničních právních úprav se navrhuje změnit
+> dosavadní právní úpravu se zjednodušením formulace. Důraz bude položen
+> na skutečné omezení, nikoli na stav, který jako duševní porucha brání
+> uzavření manželství.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 666 návrhu — dnešní § 674):**
+
+> Navrhuje se zachovat dosavadní právní úpravu
+
+**Důvodová zpráva (sněmovní tisk 362, k § 667 návrhu — dnešní § 675):**
+
+> Navrhuje se zachovat dosavadní právní úpravu. Nicméně, jak pro zdejší
+> ustanovení, tak i pro ustanovení následující se navrhuje neuvádět zřejmě
+> zbytečná slova „pokud osvojení trvá", resp. „pokud poručenství nebo
+> pěstounství trvá" - plyne to z povahy věci. Pokud jde o zrušitelné
+> osvojení, může být zrušeno, naproti tomu vztah poručence a poručníka,
+> jakož i vztah osoby, které bylo dítě svěřeno do péče, resp. pěstouna a
+> svěřeného dítěte, resp. schovance zaniká nabytím plné svéprávnosti,
+> popřípadě zrušením či zánikem takového poměru. Pokud jde o nezrušitelné
+> osvojení, je výjimečně možné jeho zrušení, právě pro případ uzavření
+> manželství.
+>
+> Právní příbuzenství neruší přirozené příbuzenství do té míry, že by
+> otevíralo možnost uzavření manželství mezi biologicky příbuznými osobami
+> (v zákonem stanoveném rozsahu).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 668 návrhu — dnešní § 676):**
+
+> Ustanovení doplňuje rejstřík zapovězených sňatků o vztahy poručenství a
+> osoby, do jejíž péče bylo dítě svěřeno, resp. pěstouna a svěřeného
+> dítěte (schovance). Srov. i DZ k předchozímu ustanovení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -560,6 +879,32 @@ Manželství může uzavřít každý bez zákonné překážky. Překážkami j
 - Soud bezodkladně rozhodne o **otcovství ke společnému dítěti**;
 - Majetkové vztahy: **jednotlivě** podle povahy; pak **bezdůvodné obohacení**;
 - Ohled na osobu jednající v **dobré víře**, na **zájem dětí** a **třetích osob**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 669 a 670 návrhu — dnešní § 677—678):**
+
+> Je nepochybné, že institut zdánlivého manželství vyžaduje nejen novou
+> právní úpravu, ale veskrze odlišné pojetí. Náš dosavadní přístup je ve
+> srovnání s cizinou naprosto neobvyklý, a navíc vadný. Většina států se
+> vůbec o zdánlivosti (neexistenci) nevyjadřuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 671 návrhu — dnešní § 678):**
+
+> Navrhuje se, aby soud mohl určit, že manželství není, i bez návrhu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 672 návrhu — dnešní § 679):**
+
+> Toto ustanovení jsme v našem právním řádu dosud postrádali, i když např.
+> to, co obsahuje odst. první, se mělo v právní teorii i praxi za
+> samozřejmé.
+>
+> Pokud jde o předmět odst. druhého, lze mít za to, že výslovná zmínka o
+> dobré víře je nanejvýš vhodná -- ovšem výhradně v otázkách majetkových
+> (totiž nikoli statusových). Lze uvažovat i o ustanovení, podle něhož by
+> v případě pochybností platila pravidla o rovném podílu na majetkových
+> povinnostech a právech, popř. i v tomto případě, tedy stejně jako v
+> případě prohlášení neplatnosti manželství, by bylo lze přiměřeně použít
+> pravidla o vypořádání majetkových povinností a práv po rozvodu
+> manželství.
 
 **Judikatura (z místních zdrojů):**
 
@@ -640,6 +985,49 @@ Zdánlivé manželství vzniká, chyběla-li náležitost, na níž je nutno bez
 
 **§ 686 — Důsledky neplatnosti**: stejně jako rozvod (povinnosti k dítěti, majetkové vypořádání). U nátlaku/omylu (§ 684): ohled na osobu **jednající v dobré víře**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 673 návrhu — dnešní § 680):**
+
+> Navrhuje se výslovně stanovit, že přestoupení zákonné překážky
+> manželství je důvodem prohlášení manželství za neplatné. Návrh na
+> prohlášení manželství za neplatné může podat každý, kdo na tom má právní
+> zájem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 674 návrhu — dnešní § 681):**
+
+> Ve větě první se navrhuje stanovit to, co je v současnosti jen
+> dovozováno právní teorií. Naproti tomu obsah věty druhé by měl jen
+> opakovat současnou právní úpravu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 675 a 676 návrhu — dnešní § 682—683):**
+
+> V ustanovení § 675 se stanoví jistého druhu samozřejmost pracující s
+> principem konvalidace. Dále se navrhuje stanovit zvláštní způsob zhojení
+> vadného manželství v případě, že je uzavíral nezletilý nebo osoba s
+> omezenou svéprávností bez povolení soudu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 677 návrhu — dnešní § 684):**
+
+> Ustanovení § 677 spojuje -- na rozdíl od dosud platné právní úpravy -
+> „*vis*" a „*metus*" do jediného ustanovení s týmiž následky.
+>
+> Rovněž nově zahrnuje to, co dosud bylo možné jen obtížně dovozovat, že
+> totiž ten, kdo se provinil (např. použitím násilí), se nemůže dotyčné
+> závady sám (a ve svůj prospěch) dovolávat (zásada *Nebude popřáno sluchu
+> tomu, kdo poukazuje na vlastní hanebnost*). V ostatním se na platné
+> právní úpravě nic nemění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 678 návrhu — dnešní § 685):**
+
+> Ve dvou zákonných situacích může být řízení o neplatnost manželství
+> zahájeno i bez návrhu, a to v případě bigamie a v případě příbuzenství.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 679 návrhu — dnešní § 686):**
+
+> Navrhuje se, aby první odstavce převzal platnou právní úpravu.
+>
+> Odstavec druhý by měl připomenout nutný zřetel na jednání v dobré víře,
+> pakliže jde o záležitosti majetkové.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Ncu 19/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/310E3BD08F104DB4C12585F800240BE4?openDocument) — *Uznání cizích rozhodnutí Manželství*
@@ -706,6 +1094,51 @@ Neplatné manželství vzniklo, ale je vadné: platí do prohlášení neplatnos
 
 **§ 688 — Informační právo**: každý manžel má právo na **sdělení o příjmech a stavu jmění** druhého + jeho pracovních / studijních činnostech.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 680 až 682 návrhu — dnešní § 687—689):**
+
+> Díl čtvrtý hlavy první je věnován úpravě povinností a práv manželů
+> osobních a majetkových. Je to tedy soubor ustanovení, která jsou
+> v dosavadní právní úpravě umístěna jednak v zákoně o rodině, jednak
+> v občanském zákoníku, tu navíc na různých místech.
+>
+> V civilních kodexech přijatých na počátku 19. století -- Code civil,
+> ABGB -- bylo o rodinném právu pojednáno jednak v rámci osobních práv
+> /práva statusová a rodinná/, jednak v rámci buď práva závazkového
+> (manželské majetkové režimy v Code Napoleon) nebo v části věnované
+> věcným právům (tato koncepce sledovala učení o dvou kořenech soukromého
+> práva.). Kodexy vzniklé o sto let později - BGB, ZGB - upravily rodinné
+> právo na jediném místě, buď až před poslední částí věnovanou dědickému
+> právu, anebo hned za prvou kapitolou pojednávající o právu osob. Teprve
+> mladší občanské zákoníky - Codice civile, BW, Code civil du Québec -
+> upravují všechno rodinné právo na samém začátku svého textu. Navrhované
+> řešení takto odpovídá nejnovějším koncepčním trendům.
+>
+> Ustanovení § 680 až 682 upravují osobní povinnosti a práva manželů. O
+> nich vesměs platí, že ve své obecnosti, resp. abstraktnosti nejsou přímo
+> vynutitelné. Případné neplnění povinností (i těch, které odpovídají
+> výslovně uvedeným právům) může mít jistě zejména faktické důsledky,
+> které pak ale mohou nalézt i své právní odrazy, např. mohou -- jako
+> skutečnost, která má zásadní vliv na existenci rozvodového důvodu --
+> představovat relevantní zdůvodnění návrhu na zrušení manželství
+> rozvodem, a posléze se mohou projevit i při rozhodování např. o výživném
+> nebo o bydlení rozvedeného manžela. Je na místě připomenout, že zásada
+> rovnosti mezi manžely má u nás dlouhé trvání (Ústava 9.května) a stala
+> se tradiční; naproti tomu původní znění Evropské úmluvy o ochraně
+> lidských práv a základních svobod tuto zásadu neobsahovalo, rovnost a
+> záruky rovnosti mezi manžely se objevily v Paktu o občanských a
+> politických právech z r. 1976 (104/1976 Sb., čl. 23 odst. 4), a pak i
+> v čl. 5 Protokolu č. 7 (k Evropské úmluvě) z r. 1984 („Při uzavření
+> manželství, za jeho trvání a při jeho skončení mají manželé rovná práva
+> a povinnosti civilní povahy, jak mezi sebou, tak ve vztahu ke svým
+> dětem.").
+>
+> Dětmi (ne plně svéprávnými), které spolu s manžely žijí v rodinné
+> domácnosti, se rozumějí jak děti manželů nebo jednoho z nich, tak i
+> děti, které byly svěřeny do péče manželů nebo jednoho z nich. Pokud jde
+> jen o vlastní, tj. dosud ne plně svéprávné děti svých rodičů, právní
+> úprava jejich postavení je zařazena na jiném místě (totiž v dílu
+> druhém).
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 3394/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-3394-13_1) — usnesení, 25. 3. 2014
@@ -751,6 +1184,8 @@ Manželé mají rovná práva a povinnosti a širokou paletu osobních povinnost
 > Manžel je povinen při volbě svých pracovních, studijních a podobných činností brát zřetel na zájem rodiny, druhého manžela a nezletilého dítěte, které nenabylo plné svéprávnosti a které žije spolu s manžely v rodinné domácnosti, a popřípadě dalších členů rodiny.
 
 Při volbě svých pracovních/studijních činností musí každý manžel **brát zřetel na zájem rodiny, druhého manžela, nezletilých dětí**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 680 až 682“ (dnešní § 687—689) — viz § 687.
 
 **Judikatura (z místních zdrojů):**
 
@@ -810,6 +1245,42 @@ Při volbě pracovních a studijních činností musí každý manžel zohlednit
 - Každý nese náklady **své domácnosti**;
 - Stále vzájemná **podpora a pomoc**;
 - **Opuštění bez vážného důvodu + odmítání návratu** → opouštějící manžel přispívá na rodinnou domácnost (pokud tam zůstal druhý s dětmi).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 683 návrhu — dnešní § 690):**
+
+> Potřebami rodiny, resp. záležitostmi rodiny, se rozumí netoliko její
+> výživa, ale všechno, co rodina a členové rodiny ke svému životu,
+> hmotnému i kulturnímu potřebují, tedy také potřeby rodinné domácnosti
+> (bydliště), resp. záležitosti domácnosti se týkající. Smyslem plnění
+> této povinnosti je, aby rodina prospívala, aby prospívali i její
+> jednotliví členové. Zásadní srovnatelnost tedy nemá být -- pokud možno
+> -- rovností v nedostatku, ale má tomu být -- pokud možno -- právě
+> naopak. Rodina ani domácnost nejsou subjekty práva, jsou to však výrazy
+> v právním řádu užívané, zdomácnělé, a v celku jednoznačně definovatelné.
+> Pokud s těmito výrazy pracují ustanovení návrhu občanského zákoníku
+> v jiných částech, mohou mít význam podle souvislosti více či méně
+> posunutý.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 684 návrhu — dnešní § 691):**
+
+> Nedostatek společné, totiž rodinné domácnosti má různé důvody a také
+> může mít různý účel. Podle toho by také měly být upraveny vzájemné
+> povinnosti a vzájemná práva manželů, pokud jde o náklady na tuto
+> domácnost. Namísto výrazu „nevedou" užívá návrh výrazu „nemají", protože
+> jakémukoli „vedení" musí předcházet „mětí".
+>
+> V rozporu se zásadami slušnosti a dobrých mravů bude např. takové
+> chování manžela, ve kterém je možné spatřovat porušení manželských
+> povinností, kdy manžel odešel v úmyslu ukončit manželství rozvodem, kdy
+> sám zapříčinil, že manželství je stiženo vadou apod.
+>
+> Také v situaci uvedené v odstavci 2 mají manželé vzájemnou vyživovací
+> povinnost (tj. vedle jednostranné povinnosti přispívat na domácnost;
+> kritéria přiznání práva jsou jiná: výživné lze přiznat jen ode dne
+> zahájení řízení, příspěvek na domácnost lze přiznat i zpětně i do
+> budoucna, právě jako plnění v dávkách.). Pro rozhodnutí o tom, zda bude
+> přiznáno výživné, popřípadě pro rozhodnutí o jeho rozsahu, platí obecná
+> pravidla.
 
 **Judikatura (z místních zdrojů):**
 
@@ -886,6 +1357,71 @@ Každý manžel přispívá na potřeby rodiny podle svých poměrů tak, aby ž
 
 **§ 696 — Vzájemné zastupování**: manžel může **zastupovat** druhého v **běžných záležitostech**. Vyloučení: výslovné oznámení druhému / třetí straně.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 685 návrhu — dnešní § 692):**
+
+> Novinkou je zde předně výslovná úprava dohody o místě bydlení a způsobu
+> života. Ač je nejspíš možné takovou povinnost dovodit i za dosavadního
+> právního stavu, resp. zákonné dikce, zdá se, že změna životního stylu
+> v ČR by měla být v občanském zákoníku adekvátně zohledněna.
+>
+> Druhou novotou je pak možnost -- dnes dovoditelná jen obtížně -- dovolat
+> se pomoci soudu ve zvláštních situacích manželské neshody, popř. -- a to
+> zejména -- tam, kde právní jednání manžela je tak či onak znemožněno.
+> Neschopnost (nemožnost) souhlas projevit zahrnuje různé případy,
+> počínaje zdravotním stavem, a konče nepřítomností způsobenou prodléváním
+> v obtížně dosažitelných končinách světa (přičemž se nejedná o člověka
+> nezvěstného).
+>
+> Zásadně se nahrazení souhlasu týká vždy jen jediné jednotlivé
+> záležitosti, slušelo by ale uvážit, zda by v odůvodněném případě nebylo
+> možné nahradit takto souhlas manžela pro určitou minimální budoucí dobu.
+> Soud má v takovém případě vést manžele k dohodě, popřípadě i pomocí
+> prostředníka (odborného poradenského zařízení). Zvažování, zda neshoda
+> mezi manžely vlastně nenaplňuje znaky hlubokého, trvalého a
+> nenapravitelného rozvratu, ale v tomto případě soudu nepřísluší.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 686 až 688 návrhu — dnešní § 693—695):**
+
+> Rozumí se, že soud bude rozhodovat jen k návrhu odůvodněnému závažnými
+> skutečnostmi. Rozhodnutí bude vždy možno změnit (tj. bude vydáno pod
+> doložkou *rebus sic stantibus*).
+>
+> Ochrana třetích osob vyžaduje, aby jak ohrazení se manžela, tak
+> rozhodnutí soudu, mělo vždy účinky jen pro futuro. Je pak na každém, kdo
+> kontrahuje, aby tak činil s dostatečnou pečlivostí (zásada prevence a
+> zásada zvaná *vigilantibus iura*): je na něm, aby zjistil, zda je
+> kontrahent manželem a dotázal se jej na pravý stav věcí.
+>
+> Pokud jde o negativní právní následky, je zvoleno řešení v podobě
+> relativní neplatnosti tak, jak je tomu i v obdobných případech
+> společného jmění.
+>
+> Běžnou záležitostí se rozumí taková, jejíž majetkový aspekt zásadně
+> odpovídá majetkovým poměrům rodiny. Naproti tomu za „ostatní"
+> záležitosti, čili nikoli běžné, by mělo být považováno např. omezení
+> nebo vyloučení práv, která umožňují obvyklý život rodiny.
+>
+> Běžně nezbytnými životními potřebami se zásadně rozumí potřeby
+> každodenní, běžné nákupy, výdaje na cestování prostředky hromadné
+> dopravy, na běžné kulturní a sportovní akce apod.
+>
+> Dětmi, které nenabyly plné svéprávnosti, se i zde rozumějí děti manželů
+> nebo jednoho z nich, jakož i děti, které byly svěřeny do péče manželů
+> nebo jednoho z nich.
+>
+> Pokud jde o předměty podléhající právní úpravě zákonného majetkového
+> režimu (a to i v rozsahu popřípadě režimu tak či onak modifikovaného),
+> tj. kupř. nad to, co tvoří obvyklé vybavení rodinné domácnosti, zdejší
+> ustanovení se nepoužijí. Předpokládá se, že dohoda o majetkovém režimu
+> zahrne i odkaz na ustanovení, kterými se bude třeba nadále spravovat.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 689 návrhu — dnešní § 696):**
+
+> Navrhuje se zachovat dosavadní právní úpravu zástupčího práva manžela,
+> je třeba ovšem pomýšlet i na případ odděleného žití manželů. Je
+> samozřejmé, že toto obecné ustanovení nijak nezasahuje do speciálních
+> úprav ve zvláštních zákonech.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Ústí nad Labem* [84 Co 551/2024-115](https://rozhodnuti.justice.cz/rozhodnuti/?id=0bc5fef4-d4a7-40b4-9d20-514aab6af9a8) — *okamžité zrušení pracovního poměru, elektronický podpis*
@@ -940,6 +1476,11 @@ O záležitostech rodiny se manželé dohodnou (§ 692). Běžné záležitosti 
 **Vyživovací povinnost mezi manžely**:
 - **Cíl**: stejná hmotná a kulturní úroveň;
 - **Priorita**: **předchází** povinnosti dítěte i rodičů (mezi manžely se vyrovnává primárně).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 690 návrhu — dnešní § 697):**
+
+> Pro vzájemnou vyživovací povinnost mezi manžely platí dosavadní
+> pravidla.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1001,6 +1542,51 @@ Manželé mají vzájemnou vyživovací povinnost zajišťující zásadně stej
 - **Neplatnost** lze namítnout.
 
 **§ 699 — Opuštění domácnosti**: opouštějící manžel může žádat vydání **svých výhradních věcí** patřících k vybavení; **společné** se rozdělí rovnomerně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 691 návrhu — dnešní § 698):**
+
+> Obvyklé vybavení rodinné domácnosti je novým pojmem s novým obsahem.
+> Navržené ustanovení představuje pojetí, které je standardním řešení
+> v cizích právních řádech. Důraz je totiž položen na funkci jednotlivých
+> movitých věcí, zatímco právní titul jejich mětí ustupuje do pozadí.
+> Nemusí jít jen o vlastnictví, resp. vlastnění, protože nelze vyloučit
+> ani jiné věcněprávní tituly. Tomu odpovídá i zvláštní úprava
+> dispozičního práva manželů, resp. každého z nich, pokud jde o jednotlivé
+> součásti onoho souboru. Výjimky jsou samozřejmě možné, jsou-li dány
+> veřejným zájmem (totiž manžel je kupř. povinen naložit s věcí podle
+> zákona, rozhodnutí soudu nebo jiného orgánu veřejné moci apod., nebo
+> je-li manžel povinen s věcí naložit na základě předchozího právního
+> jednání, s nímž jeho manžel souhlasil), anebo jde-li o věc bagatelní
+> (rozumí se hodnota nejen finanční, ale i podle významu).
+>
+> Institut obvyklého vybavení rodinné domácnosti je sice teoreticky
+> vlastní každému manželství, může však fakticky sestávat jen z jedné
+> jediné věci, a může také zůstat nenaplněn. Je třeba poznamenat, že tato
+> koncepce je -- v zásadě - známa i současné právní úpravě: neobsahuje-li
+> tento soubor nic, jde-li o prázdnou množinu, neznamená to, že obvyklé
+> vybavení přece institucionálně neexistuje.
+>
+> Ochrana třetích osob (jednání v dobré víře, jemuž je jinde poskytována
+> ochrana) zde ustupuje do pozadí. Je nutné v tomto minimu chránit
+> existenci rodinného majetku.
+>
+> Systematické zařazení institutu obvyklého vybavení rodinné domácnosti
+> odpovídá jeho zvláštní podstatě; zařazení § 691 a 692 za první
+> ustanovení v části Manželské majetkové právo se proto jeví méně vhodným.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 692 návrhu — dnešní § 699):**
+
+> Zvláštní majetkový soubor obvyklého vybavení rodinné domácnosti vyžaduje
+> zakotvení i některých dalších speciálních pravidel, pokud jde o
+> nakládání s jeho součástmi, a to i za výjimečné situace souvisící se
+> separací manželů. Přitom je třeba myslet nejen na manžela, který hodlá
+> být v rozchodu právně iniciativní, ale i na manžela, který -- byť jistě
+> nepůjde o běžný jev -- podal návrh na prohlášení manželství za neplatné.
+> Použití analogie je ve statusových věcech vyloučeno, a nadto jde o
+> hmotněprávní podmínku zvláštních právních následků. Rozumí se, že
+> ustanovení odstavce druhého nelze použít (zatímco ustanovení odstavce
+> prvého se naopak použije), kdyby výsledné řešení mělo být v rozporu
+> s dobrými mravy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1079,6 +1665,190 @@ Obvyklé vybavení rodinné domácnosti tvoří movité věci sloužící běžn
 - **§ 704** — **přednostní právo** a **předkupní právo** rodinného účastníka při dělení / zcizení;
 - **§ 705—706** — zánik účastenství + možnost splátek po zániku.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 693 návrhu — dnešní § 700):**
+
+> Navrhovaná úprava sleduje po vzoru úpravy v italském Codice civile (čl.
+> 230 bis) zařadit do občanského zákoníku zvláštní ustanovení o rodinném
+> závodu. Italský občanský zákoník byl v tomto směru novelizován při
+> reformě rodinného práva v roce 1975 a doplněn o úpravu, ze které návrh
+> čerpá jako z inspirativního vzoru právě s ohledem na jeho ucelenou
+> koncepci. Některé jiné zahraniční úpravy (např. nový francouzský Code de
+> commerce z r. 2001 se problematikou rodinných podniků zabývá v čl. 121-4
+> až 121-7, ale řeší jen některé dílčí aspekty, zejména právní postavení
+> toho z manželů, který působí jako spolupracující osoby). Navrhuje se
+> tedy zařadit skupinu zvláštních ustanovení, která řeší nejen právní
+> poměry rodinného závodu, jehož provozování slouží k obživě rodiny a na
+> jehož provozování se členové rodiny fakticky podílejí, ale především
+> otázky práv a povinností zúčastněných členů rodiny pro případ, že není
+> ujednáno něco jiného.
+>
+> Navržená úprava usiluje vyplnit prostor, kdy členové rodiny pro rodinný
+> závod fakticky pracují, aniž se jejich práva a povinnosti spravují
+> zvláště uzavřenou smlouvou. Proto se výslovně vytýká, že se tato
+> ustanovení nepoužijí, pokud je rodinný závod provozován na základě
+> společenské smlouvy (ať již se založením obchodní společnosti nebo
+> družstva nebo bez takového založení), smlouvy o tiché společnosti nebo
+> na základě smlouvy zakládající mezi stranami pracovní poměr. Tyto právní
+> prostředky mohou být přirozeně kombinovány: i v případě, že bude závod
+> provozován obchodní společností, jejímiž společníky budou manželé se
+> závazkem k osobnímu výkonu práce, že jejich dcera a syn budou pro tuto
+> obchodní společnost pracovat na základě pracovní smlouvy a děd bude
+> tichým společníkem takové obchodní společnosti, budou se práva a
+> povinnosti každého z nich řídit příslušnou smlouvou. To má platit i v
+> případě uzavření obdobných smluv (příkazní, zprostředkovatelské,
+> komisionářské apod.).
+>
+> Navržená úprava se nepoužije ani v případě, kdy rodinný závod provozuje
+> právnická osoba, na které mají podíly někteří členové rodiny společně s
+> třetími osobami.
+>
+> Podílejí-li se na provozu rodinného závodu manželé, mohou vzhledem k
+> obecné úpravě manželského majetkového práva nastat různé situace podle
+> toho, zda je rodinný závod ve společném jmění manželů, nebo náleží-li do
+> výlučného jmění jednoho z manželů, jakož i podle toho, zda si manželé
+> ujednali majetkový režim odlišný od zákonného režimu, popřípadě zda
+> takový režim založil svým rozhodnutím soud. Vzhledem k tomu se navrhuje
+> stanovit, že se úprava manželského majetkového práva použije přednostně
+> před ustanoveními o rodinném závodu. Tím se vylučuje konflikt obou
+> úprav.
+>
+> Praktičnost navržené úpravy vyplývá zejména z toho, že podle současné
+> právní úpravy se práva a povinnosti zúčastněných osob v obdobných
+> případech, nejsou-li řešena smluvně nebo konkrétní právní úpravou, řídí
+> ustanoveními o bezdůvodném obohacení, což s ohledem na konkrétní
+> okolnosti případu, podmíněné zejména dlouhodobostí faktických poměrů
+> tohoto druhu, otázky skutkového dokazování a zejména na promlčení,
+> nepřináší odpovídající úpravu práv a povinností ani dostatečnou ochranu
+> dotčených osob. Obtíže, které z mlčení zákona plynou, jsou dostatečně
+> patrné z judikatury týkající se případů, kdy se členové rodiny nebo
+> blízcí příbuzní vlastní prací společně podílejí na vytváření trvalých
+> hodnot (např. R 16/83, R 29/89, rozsudek Nejvyššího soudu sp. zn. 22 Cdo
+> 1174/2001 ze dne 5. 11. 2002).
+>
+> O rodinný závod se jedná, jde-li o soubor obchodního jmění sloužící
+> podnikatelským účelům (tedy splňuje-li obecné podmínky existence
+> obchodního závodu) a na jehož provozu se podílejí trvalou prací členové
+> širší rodiny bez toho, že tak činí jako společníci společnosti nebo na
+> základě pracovní smlouvy. Rodinný závod není tedy charakterizován
+> předmětem podnikání, ale osobami, které se trvale podílejí na jeho
+> provozování. Kromě fixace pojmu rodinného závodu obsahuje navržené
+> ustavení významné právní pravidlo, podle něhož je na roveň členu rodiny,
+> který pro rodinný závod trvale pracuje, postaven i ten člen rodiny,
+> který trvale pracuje pro rodinu, tedy se zejména stará o rodinnou
+> domácnost. Jde o důsledné naplnění zásady, že osobní péče o rodinu a
+> její členy má stejný význam jako poskytování majetkových plnění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 694 návrhu — dnešní § 701):**
+
+> Dosud platná i navrhovaná právní úprava vychází z pojetí, že životní
+> úroveň členů rodiny má být zásadně srovnatelná a že životní úroveň
+> dítěte má být zásadně shodná s životní úrovní rodičů. Tato právní
+> pravidla se vztahují k zabezpečování osobní potřeby člena rodiny, tedy
+> jeho výživy ve vlastním slova smyslu a jeho kulturních i hmotných
+> potřeb; v tom směru je literatura i judikatura ve shodě (např.
+> *Zuklínová, M.* in *Knappová, M. - Švestka, J. et al.* Občanské právo
+> hmotné. Svazek III. 3. vydání. Praha: ASPI, 2002, s. 154 an. nebo
+> *Hrušáková, M. et al.* Zákon o rodině. Komentář. 3. vydání. Praha: C. H.
+> Beck, 2005, s. 357 a judikatura tam citovaná na s. 366 an.). Na tomto
+> zásadním přístupu navržené ustanovení nic nemění: i dítě, které se na
+> provozu rodinného závodu neúčastní (např. z důvodů studijních,
+> zdravotních nebo jiných) nemůže být vyživováno, oblékáno atd. hůře než
+> jeho sourozenec, který v rodinném závodu pracuje.
+>
+> Rodinné hospodaření se však neorientuje výlučně na produkci hodnot k
+> okamžité spotřebě: naopak - a zvláště, provozuje-li rodina rodinný
+> závod, část vytvořených hodnot slouží jako rezerva nebo se investuje do
+> závodního provozu za účelem modernizace, koupě nových technologických
+> zařízení apod. Navrhovaným ustanovením se sleduje založit právo
+> pracujících členů rodiny (členů rodiny zúčastněných na provozu rodinného
+> závodu) na podíl na zisku, přírůstcích závodu i na věcech nabytých ze
+> zisku z provozu závodu. Ustanovení o právu na podíl na zisku z provozu
+> rodinného závodu a zakládající i další majetková práva zúčastněným
+> členům rodiny jsou dispozitivní a nebrání jiným ujednáním. Nicméně i v
+> této souvislosti se jeví jako potřebné chránit slabší stranu. Proto se
+> sice nevylučuje, aby se člen rodiny zúčastněný na provozu rodinného
+> závodu svých majetkových práv z toho plynoucích vzdal, avšak navrhuje se
+> stanovit, že tak může učinit jen osoba plně svéprávná, a to vlastním
+> osobním prohlášením (nikoli tedy s využitím zástupce). Forma veřejné
+> listiny se vyžaduje z obdobných důvodů jako u manželských majetkových
+> smluv; je nutné zajistit dostatečnou jistotu, že se projev vůle děje s
+> rozvahou, vážně a bez donucení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 695 návrhu — dnešní § 702):**
+
+> Právě proto, že rodinný závod slouží k obživě rodiny, navrhuje se
+> založit právo všech členů rodiny zúčastněných na jeho provozu rozhodovat
+> o zásadních otázkách, které se k němu vztahují. To má platit i v
+> případě, že vlastnictví tohoto závodu náleží jen některému nebo některým
+> z členů rodiny.
+>
+> V rámci toho je zapotřebí rozlišovat dvě situace. Předně se jedná o
+> rozhodování o použití zisku z rodinného závodu a o rozhodování, jak se
+> naloží s jeho přírůstky. Protože se podle předešlého ustanovení na
+> těchto hodnotách všichni zúčastnění členové rodiny podílejí, je jejich
+> právo podílet se i na rozhodování, jak s nimi bude naloženo, logickým
+> důsledkem této konstrukce. Do jiné kategorie spadají zásadní otázky,
+> týkají se vlastního provozu rodinného závodu - zastavení jeho provozu,
+> změn základních zásad pro provoz, zcizení rodinného závodu nebo jeho
+> použití jako zástavy apod. Rozhodnutí o nich se svěřují celému rodinnému
+> společenství, resp. všem členům rodiny zúčastněným na provozu rodinného
+> závodu bez zřetele na vlastnictví nebo spoluvlastnictví. I když tedy
+> bude rodinný závod např. ve společném jmění manželů, nebude za situace,
+> kdy se na jeho provozování účastní i jejich dcera se svým manželem,
+> prarodiče manžela a bratr manželky, nebudou moci např. o zastavení
+> provozu závodu rozhodnout jen manželé, třebaže jej mají ve společném
+> jmění, ale všichni zúčastnění většinou hlasů - právě proto, že jde o
+> zdroj obživy jich všech a celé rodiny.
+>
+> Pokud však mají někteří členové rodiny společně s třetími osobami jen
+> podíly na obchodní společnosti nebo družstvu, nemůže být toto ani jiná
+> ustanovení o rodinném závodu použita. V takovém případě rozhoduje o
+> těchto otázkách orgán obchodní společnosti nebo družstva příslušný podle
+> zákona nebo společenské smlouvy. Tehdy totiž k obživě rodiny neslouží
+> zisk z obchodního závodu, ale výnos z obchodních nebo členských podílů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 696 návrhu — dnešní § 703):**
+
+> Ze zřejmých důvodů se stanovuje osobní povaha účasti člena rodiny na
+> rodinném závodu. Přenést tuto účast na jiného má být možné jen v
+> případě, že půjde o některého z manželů nebo jejich příbuzného do
+> třetího stupně nebo osobu s manžely sešvagřenou až do druhého stupně a
+> za podmínky, že s tím budou souhlasit všichni členové rodiny na provozu
+> rodinného závodu již zúčastnění (nikoli jen většina). Hlavní důvod, proč
+> se v tomto případě vyžaduje jednomyslnost, spočívá v opatření
+> sledujícího dosažení obecné shody a důvěry v přistupujícího člena, což
+> je při provozování rodinného závodu jako hospodářského organismu
+> neobyčejně významné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 697 návrhu — dnešní § 704):**
+
+> Hlavní účel navrženého ustanovení sleduje zachování rodinného závodu v
+> majetku rodiny a těch jejích členů, kteří se účastní na jeho
+> provozování. Ustanovení prvního odstavce míří především na případy, kdy
+> má při dědění podle pořízení pro případ smrti dojít k rozdělení
+> pozůstalosti z vůle zůstavitele rozhodnutím třetí osoby. Rovněž
+> ustanovení druhého odstavce sleduje myšlenku, že rodinný závod má zůstat
+> v rukou těch, k jejichž obživě slouží.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 698 a 699 návrhu — dnešní § 705—706):**
+
+> Zanikne-li účastenství člena rodiny na provozu rodinného závodu, má
+> právo na vypořádání svého podílu na zisku a na přírůstcích. Zejména za
+> situace, kdy provoz rodinného závodu trvá, by mohlo jednorázové
+> vypořádání s odstupujícím členem rodiny představovat výrazný ekonomický
+> zásah do rodinného hospodaření, umožňuje se rozložení platby
+> odstupujícímu členu rodiny do splátek. Soudní kontrola se v daném
+> případě jeví jako nezbytná v zájmu ochrany slabší strany.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 700 návrhu — dnešní § 707):**
+
+> Faktická rodinná společenství se řídí především vlastními zvyklostmi a
+> praxí, jaké jsou v nich zavedeny. Provozování rodinných (obchodních)
+> závodů, zejména zemědělských, navíc podléhá i místním zvyklostem, jakož
+> i zvyklostem uplatňovaným v jednotlivých oborech podnikání. Navržené
+> ustanovení na tuto praxi a zvyklosti odkazuje, ale zároveň stanoví, že
+> zákonná ustanovení o rodinném závodu před nimi mají přednost.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2648/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2648-14_1) — usnesení, 9. 9. 2015
@@ -1126,6 +1896,23 @@ Rodinný závod je závod, v němž trvale pracují manželé a jejich blízcí 
 > (1) To, co manželům náleží, má majetkovou hodnotu a není vyloučeno z právních poměrů, je součástí společného jmění manželů (dále jen „společné jmění“). To neplatí, zanikne-li společné jmění za trvání manželství na základě zákona.
 > (2) Společné jmění podléhá zákonnému režimu, nebo smluvenému režimu, anebo režimu založenému rozhodnutím soudu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 701 návrhu — dnešní § 708):**
+
+> Manželské majetkové právo představuje soubor právních ustanovení
+> týkajících se majetkových poměrů manželů v tom nejširším slova smyslu.
+> Přesto jsou některé majetkové záležitosti manželů (výživné, bydlení a
+> zejména pak dědické právo manželů) upraveny zvlášť.
+>
+> Rozlišuje se na straně jedné zákonný režim, na straně druhé pak režimy
+> modifikované -- režim smluvený a režim založený rozhodnutím soudu.
+> Modifikované režimy mají zásadně mít shodnou právní relevanci a shodné
+> právní důsledky, zejména pokud jde o třetí osoby.
+>
+> Jinou povahu má případ, kdy je zákonný režim vyloučen v důsledku
+> výslovného zákonného ustanovení, totiž tehdy, hraje-li takové opatření
+> roli zásadní zákonné ochrany jednoho z manželů v případě, kdy je vůči
+> druhému aplikována ať již soukromoprávní, anebo veřejnoprávní sankce.
+
 ### Oddíl 2 — Manželské majetkové právo (§ 708—742)
 
 **Společné jmění manželů (SJM)** je **stěžejní institut** majetkového práva manželského. **Tři režimy** (§ 708 odst. 2):
@@ -1140,6 +1927,13 @@ Rodinný závod je závod, v němž trvale pracují manželé a jejich blízcí 
 
 **§ 712**:
 > Není-li v této části zákona stanoveno jinak, použijí se pro společné jmění obdobně ustanovení tohoto zákona o společnosti, popřípadě ustanovení o spoluvlastnictví.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 705 návrhu — dnešní § 712):**
+
+> Manželé tvoří společenství, obdobně jako spolunájemci, spoluvlastníci, ti, kdo se sdružili, aby spojili své síly nebo prostředky, aniž mají v úmyslu vytvořit právnickou osobu.
+>
+> Pro manželskou entitu by měl být užíván výraz „společenství", nikoli
+> „společnost".
 
 ##### § 709 — Co je v SJM
 
@@ -1172,6 +1966,59 @@ Rodinný závod je závod, v němž trvale pracují manželé a jejich blízcí 
 **§ 709 odst. 2 — Zisk z výhradního majetku** → **v SJM** (např. nájemné z bytu jednoho z manželů je v SJM).
 
 **§ 709 odst. 3 — PODÍL V OBCHODNÍ KORPORACI**: stal-li se manžel **za trvání manželství** společníkem / členem družstva → **podíl je v SJM**. **Druhý manžel se NESTAVÁ účastníkem** korporace (kromě bytového družstva — důležitý pro SVJ).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 702 až 704 návrhu — dnešní § 709—711):**
+
+> Navrhuje se, aby obecná právní úprava již nepřipomínala věci vydané
+> v restitucích, neboť jsou zpravidla majetkoprávně, resp. vlastnicky
+> ustáleny i proto je na restituce pamatováno jen v přechodných
+> ustanoveních. Ze společného jmění se vylučuje, co je nabyto výhradně z
+> majetku jednoho z manželů, a tedy nebylo součástí společného jmění
+> (příjmy z nemovité věci manžela do výše nákladů). Naproti tomu zisk (tj.
+> výnos po odečtení nákladů) z výhradního majetku se stává součástí
+> společného jmění.
+>
+> Tak jako v platné právní úpravě je součástí společného jmění to, co
+> slouží výkonu povolání jen jednoho z manželů: i napříště bude tedy
+> především na těch, kdo podnikají, aby zvláštní postavení tohoto majetku
+> řešili smlouvou o vynětí toho, co slouží výkonu povolání jen jednoho
+> z manželů, ze společného jmění.
+>
+> Některé majetkové hodnoty, resp. jejich zvěcnělá podoba se uvádějí
+> výslovně, pokud jde o jejich podíl vstupující do společného jmění
+> (dluhy, povinnosti, závazky), anebo pokud jde o okamžik, kdy se součástí
+> společného jmění stávají (mzda). Výslovnou úpravu si zaslouží rovněž
+> pohledávky vzniklé z výhradního jmění. Protože, jak výše řečeno, pouze
+> zisk z výhradního jmění se stává součástí společného jmění, jde o
+> pohledávky tohoto zisku: součástí společného jmění se stanou dnem, kdy
+> se staly splatnými. Naopak výslovné právní úpravy není zapotřebí, pokud
+> jde o řešení otázky po právech a povinnostech souvisejících s tím, že
+> jeden z manželů zdědí nemovitou věc, závod apod., a své spoludědice
+> vyplatí (z prostředků společného jmění). Tady stačí odkázat na pravidla
+> o vypořádání společného jmění.
+>
+> Ustanovení o účasti v korporaci a družstvu nelze považovat za nadbytečné
+> vzhledem k významu takových účastí.
+>
+> V § 703 se stanovuje výslovně o převzatých dluzích. Jde tedy o dluhy,
+> které *lze převzít*: takovými jsou jen dluhy soukromoprávní (nikoli
+> veřejnoprávní), a jen o závazky z řádného obligačního důvodu (nejde o
+> závazky z porušení právní povinnosti). Pokud jde o účel, který byl
+> převzetím (vzetím na sebe) dluhu sledován, bude třeba vždy hodnotit, zda
+> touto cestou měla být obstarána běžná potřeba rodiny, anebo zda již šlo
+> o záležitost, která potřebám rodinné domácnosti po stránce kvalitativní
+> a kvantitativní neodpovídá. Z tohoto zřetele je třeba posuzovat i
+> kvalitu velkého počtu kvalitativně, popř. kvantitativně malých závazků.
+>
+> Nabývání a pozbývání součástí společného jmění (§ 704) se spravuje
+> obecnými pravidly, totiž jak práva věcného, tak dědického, i
+> závazkového. Takto se například uplatní pravidla o nabývání vlastnického
+> práva přírůstkem (totiž ve prospěch společného jmění), pokud budou
+> spojeny, smíšeny, zpracovány věci náležející jednak do společného jmění,
+> jednak výhradně jednomu z manželů: větší díl z majetku manžela bude
+> znamenat obohacení předmětu jeho vlastnického práva. V takovém případě
+> se vklad ze společného vypořádá při zúžení, zrušení či zániku společného
+> jmění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1233,6 +2080,8 @@ Do SJM patří vše nabyté za trvání manželství kromě výjimek § 709 odst
 - a) Týkají se **výhradního majetku** (přesahující zisk z něj);
 - b) Převzaté **jen jedním bez souhlasu druhého** (a nejde o každodenní/běžné potřeby rodiny).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 702 až 704“ (dnešní § 709—711) — viz § 709.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 91/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3C853FB1C01EFF6C1258CAE004D3541?openDocument) — *Přípustnost dovolání Vady podání Společné jmění manželů Společné závazky*
@@ -1286,6 +2135,8 @@ Dluhy převzaté za trvání manželství jsou zásadně v SJM; nepatří do ně
 > (3) Pohledávky z výhradního majetku jen jednoho z manželů, které se mají stát součástí společného jmění, se součástí společného jmění stávají dnem splatnosti.
 
 **Mzda, plat, zisk z činnosti** → v SJM **v okamžiku, kdy manžel získal možnost s nimi nakládat** (nikoliv okamžikem práce nebo splatnosti). To je **klíčové pro určení** rozsahu SJM při rozvodu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 702 až 704“ (dnešní § 709—711) — viz § 709.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1360,6 +2211,51 @@ Mzda, plat, prémie a zisk z výdělečné činnosti se stávají součástí SJ
 - Nabytí podílu v korporaci s ručením přesahujícím přiměřenou míru → **souhlas druhého manžela**;
 - Bez souhlasu → relativní neplatnost.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 706 a 707 návrhu — dnešní § 713—714):**
+
+> Ustanovení nemění nic na dosavadním právním stavu.
+>
+> Jsou tu předně vyjmenována jednotlivá dílčí oprávnění (resp. povinnosti)
+> vyplývající z existence společného jmění a jeho součástí. Jako obvykle
+> se klade otázka, zda nelze nalézt pouze jeden výraz, který by tato dílčí
+> oprávnění pokrýval.
+>
+> Vzhledem k tomu, že občanský zákoník nebude užívat slova „nestanoví-li
+> zákon jinak", neboť se to rozumí samo sebou, je třeba mít za to, že
+> s touto výhradou se zdejší ustanovení zajisté použijí i pro podíl
+> manžela v obchodní společnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 708 návrhu — dnešní § 715):**
+
+> Ustanovení představuje prohloubení právní ochrany manžela toho, kdo
+> podniká: obsahuje pravidla, která jsou standardní v cizích úpravách, u
+> nás dosud scházela. Přitom za základ je vzata regulace dosavadní, srov.
+> souhlas při prvním použití, nikoli ale při užití majetku bagatelní
+> hodnoty -- srov. možnost koupit si balíček jehel a nití a založit
+> krejčovský salon.
+>
+> Navrhuje se zavést stejná pravidla pro právní jednání, jejichž důsledkem
+> je nabytí účasti v obchodní společnosti nebo družstvu, tedy pro založení
+> takových právnických osob, pro přistoupení k nim nebo pro úplatné nabytí
+> obchodnímu podílu. Obdobně se pamatuje jak na případy, kdy se k založení
+> takové právnické osoby nebo získání účasti v ní nevyžaduje majetkový
+> vklad, ale důsledkem je rozsáhlé ručení společníka (typicky u veřejné
+> obchodní společnosti), popřípadě kdy k nabytí účasti v takové právnické
+> osobě bude zapotřebí - vzhledem k majetkovým poměrům manželů - jen
+> bagatelní hodnota, ale rozsah ručení již tuto míru přesahuje (taková
+> situace může nastat např. u družstev).
+>
+> Výslovně je dána možnost dovolat se neplatnosti jednání jednoho manžela,
+> s nímž druhý manžel nesouhlasí. (Srov. též dnešní povinnost
+> podnikatele-fyzické osoby založit do sbírky listin obchodního rejstříku
+> doklad o souhlasu manžela s použitím společného jmění nebo jeho části
+> k podnikání.) Na rozdíl od předchozího ustanovení soud nepoužije
+> rozhodný zřetel zájmu, protože s podnikáním (obchodem) je vždy spojena
+> jistá míra rizika, kterou nelze vyvážit zájmem rodiny. Lze dovodit, že
+> úspěšné dovolání se neplatnosti jednání manžela, s nímž druhý manžel
+> nesouhlasí, má negativní důsledky v oblasti týkající se stavu obchodní
+> společnosti.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2227/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DC0C27C91FB3D6DDC1258D2D004D1D8E?openDocument) — *Společné jmění manželů*
@@ -1422,6 +2318,39 @@ SJM spravují manželé společně a jsou zavázáni solidárně (§ 713). Mimo�
 >   - b) při nakládání s obydlím, v němž je rodinná domácnost manželů, je-li toto obydlí součástí společného jmění, nebo které je obydlím jednoho z nich, anebo obydlím nezletilého dítěte, které nenabylo plné svéprávnosti a o něž manželé pečují, jakož i při ujednání trvalého zatížení nemovité věci, která je součástí společného jmění.
 > (3) Ustanovení § 714 odst. 2 platí obdobně.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 715 návrhu — dnešní § 722):**
+
+> Dosavadní právní úprava je velmi stručná, což neodpovídá ani běžnému
+> standardu zahraničních úprav, ani potřebě chránit samy manžele -- totiž
+> jednoho před druhým, jejich děti, třetí osoby.
+>
+> Smlouvou o správě mohou snoubenci či manželé ujednat mnohé změny oproti
+> zákonnému režimu a taková smlouva může být i velmi praktická. Že nemůže
+> být její obsah zcela libovolný, je samozřejmé, a totéž platí i o formě
+> smlouvy. Další omezení pak vyplývají (viz násl. ustanovení) z potřeby
+> ještě více chránit rodinné společenství a jeho členy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 716 návrhu — dnešní § 723):**
+
+> Vzhledem k dosavadní vakanci podrobnější právní úpravy se považuje za
+> vhodné přesněji stanovit, co to vlastně znamená, je-li správa všeho
+> společného jmění nebo jeho součásti vykonávána jedním z manželů. Rozsah
+> možného právního jednání je stanoven jednak v kladném smyslu, jednak ve
+> smyslu záporném. Není výslovně stanoveno, co lze v našem právním
+> prostředí považovat za samozřejmé, že totiž s určitým oprávněním je
+> spojena určitá povinnost (povinnost spravovat, pečovat, starat se), a
+> tudíž i tomu odpovídající právní následky a s nimi popřípadě spojené
+> sankce.
+>
+> Potřebný souhlas druhého manžela za situace vážných důvodů nepřítomnosti
+> i z důvodu neodůvodněného odmítání souhlasu, může nahradit soud tak, jak
+> je to i jinak obvyklé, za obdobných předpokladů, resp. podmínek.
+> Zohlední při tom, zda konkrétní jednání je v zájmu manželů, rodiny,
+> rodinné domácnosti.
+>
+> Je ale také možné, aby se druhý manžel dovolal neplatnosti jednání
+> společné jmění spravujícího manžela.
+
 ##### § 716—719 — Smlouva
 
 > (1) Snoubenci a manželé si mohou ujednat manželský majetkový režim odlišný od zákonného režimu. Ujednají-li si smluvený režim manželé, upraví zpravidla své povinnosti a práva týkající se již existujícího společného jmění. Ujedná-li se pro smluvený režim zpětný účinek, nepřihlíží se k tomu.
@@ -1457,6 +2386,57 @@ SJM spravují manželé společně a jsou zavázáni solidárně (§ 713). Mimo�
 **§ 719 — Limity**:
 - Nesmí vyloučit **schopnost zabezpečovat rodinu**;
 - Nesmí se dotknout **práv třetí osoby** (ledaže souhlasí — pak bez účinků vůči ní).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 709 návrhu — dnešní § 716):**
+
+> Navrhuje se doplnit platnou úpravu novými právními pravidly. Ve všech
+> případech se jedná o situace, jejichž právní posouzení není zcela jasné.
+> Předpis formy veřejné listiny pro tyto smlouvy je obsahuje již současná
+> úprava (§ 143a platného občanského zákoníku), která sleduje zdejší
+> právní tradici; je také obvyklý i v četných zahraničních právních
+> úpravách.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 710 návrhu — dnešní § 717):**
+
+> Výslovně se upravuje možnost změny smluveného režimu jak novou smlouvou,
+> tak rozhodnutím soudu (jednostranné právní jednání je vyloučeno), a
+> uvádí se, v čem změna může spočívat. Eventuální změna zákonem se pokládá
+> za samozřejmou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 711 návrhu — dnešní § 718):**
+
+> Základní ustanovení týkající se smluvně modifikovaného režimu obsahuje
+> jednak přípustná modifikující ujednání, včetně toho, že prohlašuje za
+> kogentní ustanovení upravující obvyklé vybavení rodinné domácnosti,
+> jednak přípustné, smlouvou založené majetkové režimy -- v podstatě podle
+> současného právního stavu. (První větu nelze zatím považovat
+> nadbytečnou.) Smlouva se může týkat jakékoli věci, a tedy i majetkového
+> práva, např. práva obligačního (nájemního), a to i takového, které
+> vznikne třeba v budoucnu.
+>
+> Smlouvy manželů či snoubenců mohou obsahovat i uspořádání na případ
+> zániku manželství rozvodem. Uspořádání na případ zániku manželství smrtí
+> má kvalitu dědické smlouvy. Podmínkou ale je, aby byly splněny všechny
+> náležitosti stanovené dědickým právem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 712 návrhu — dnešní § 719):**
+
+> Na rozdíl od současné právní úpravy se výslovně stanoví obecné obsahové
+> předpoklady platnosti modifikační majetkové smlouvy manželů, a to pokud
+> se jedná o zachování schopnosti manžela pečovat o rodinu zcela nově. Je
+> to ovšem standardní ustanovení jiných právních řádů (jejichž úpravy --
+> co se týče obsáhlosti, detailnosti a přesnosti -- nelze dobře s naším
+> dosavadním přístupem srovnávat).
+>
+> Po dobu, kdy není založena (neexistuje) zvláštní evidence smluv o
+> manželském majetkovém režimu, je třeba trvat na tom, aby smlouvy
+> týkající se manželského majetkového režimu i souhlas třetí osoby (je-li
+> ho zapotřebí), měly formu úředního (notářského, popř. jiného) zápisu. Na
+> to je pamatováno v návrhu přechodných ustanovení.
+>
+> Zdejší ustanovení postihuje dobu uzavření smlouvy a dobu budoucí.
+> Naproti tomu následující ustanovení se týká doby negociací, popřípadě
+> kontrahování poté, co byla smlouva uzavřena.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1514,6 +2494,52 @@ Smluvený režim umožňuje odchýlit se od zákonného SJM (oddělená jmění,
 **§ 721 — Veřejný seznam smluv o majetkovém režimu manželů** (vedený Notářskou komorou ČR):
 - Smlouva se **zapíše**, je-li to ujednáno (nebo na žádost obou manželů);
 - Zápis provede **notář, který smlouvu sepsal**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 713 návrhu — dnešní § 720):**
+
+> Otázka účinnosti modifikujících smluv byla zatím poněkud nejasná, a
+> nejednou se také vykládala tak, že celá dohoda, nabývá účinnosti ke dni
+> vkladu. To je zajisté z mnoha důvodů nevhodné, ba nesprávné. Proto se
+> navrhuje výslovně upravit otázku účinků jednak smluv uzavíraných
+> snoubenci, jednak smluv uzavíraných manžely. Obsah druhého odstavce
+> reaguje na situaci, která dnes je řešitelná jen výkladem (který však
+> není jednotný).
+>
+> Pro obojí smlouvy má platit, že se jejich účinky rozpadají (mohou
+> rozpadat) podle konkrétního předmětu, resp. obsahu smlouvy. Není ale
+> vyloučeno, aby v části, která se netýká nemovitých věcí, si snoubenci
+> nebo manželé dohodli jinak, než stanoví zákon, bude-li taková jejich
+> vůle.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 714 návrhu — dnešní § 721):**
+
+> Je-li uzavřena smlouva o manželském majetkovém režimu, váže smluvní
+> strany, tedy oba manžely. Pro smlouvu se vyžaduje i nadále forma veřejné
+> listiny, jak tomu je v současné právní úpravě (§ 143a občanského
+> zákoníku) a v řadě dalších evropských států.
+>
+> Zároveň se nabízí nové řešení ochrany třetích osob obdobné, jaké znají
+> Německo, Itálie a některé další státy. Má-li mít smlouva o manželském
+> majetkovém režimu účinky vůči třetím osobám, musí být zapsána do
+> veřejného seznamu; podrobnosti o něm upraví zvláštní zákon, protože jeho
+> úprava nemá a nemůže mít soukromoprávní povahu. Na zvláštním zákonu
+> bude, aby stanovil, kdo veřejný seznam povede, zda to bude soud či jiné
+> registrační místo, a jak bude zápis proveden.
+>
+> Budou-li smlouva a vše, co zákonný majetkový režim manželů mění, zapsány
+> do veřejného seznamu, budou změny ujednané manžely účinné vůči třetím
+> osobám. Je ovšem na stranách manželské smlouvy a na jejich vůli,
+> chtějí-li takové účinky vyvolat. Proto se vyžaduje, aby smlouva
+> obsahovala výslovné ujednání, že zápis smlouvy bude do seznamu proveden.
+> Chybí-li takové ujednání ve smlouvě (popřípadě nedoplní-li manželé v
+> tomto smyslu následně smlouvu dodatkem), bude možné smlouvu do veřejného
+> seznamu zapsat, pokud o to oba manželé požádají. Důraz se klade na shodu
+> vůle obou manželů; k podání žádosti o zápis může být ovšem i jeden z
+> manželů druhým manželem zmocněn ve smlouvě nebo mimo ni.
+>
+> Pokud smlouva o manželském majetkovém režimu nebude do veřejného seznamu
+> zapsána, budou se manželé moci jejího obsahu vůči třetí osobě dovolat,
+> jen byla-li se smlouvou seznámena.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1576,6 +2602,30 @@ Smlouva snoubenců nabývá účinnosti uzavřením manželství; u věcí zapsa
 > **Správa v režimu založeném rozhodnutím soudu**
 > Jedná-li manžel při správě společného jmění způsobem, který je ve zřejmém rozporu se zájmem druhého manžela, rodiny nebo rodinné domácnosti, a snoubenci nebo manželé neuzavřeli smlouvu o správě toho, co je součástí společného jmění, může soud na návrh druhého manžela rozhodnout, jakým způsobem bude společné jmění spravováno.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 718 až 720 návrhu — dnešní § 725—727):**
+
+> Změna manželského majetkového režimu založeného rozhodnutím soudu bude
+> možná -- obdobně jako v případě smluveného režimu -- jak rozhodnutím
+> soudu, tak i smlouvou manželů.
+>
+> Také obnovení zákonného rozsahu společného jmění, resp. opětovné
+> rozšíření společného jmění, je ponecháno na úvaze, resp. uvážení soudu.
+>
+> Rovněž v případě, kdy společné jmění zaniklo na základě zákonného
+> ustanovení rozhodnutím soudu ve věci, jejímž meritem není společné
+> jmění, je ponecháno na soudu, aby zvážil, zda napříště již ochrany
+> (slabšího) manžela není zapotřebí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 721 návrhu — dnešní § 728):**
+
+> V dosavadní právní úpravě obdobné ustanovení scházelo. Přitom se lze
+> setkat se situacemi, kdy obtíže manželů v souvislosti se společným
+> jměním není nutné řešit podstatnějšími zásahy. Soud bude muset ovšem
+> přesně stanovit pravidla výkonu správy (např. obdobně, jak se to nabízí,
+> jsou-li manželé schopni se dohodnout). Přitom by nemělo být rozhodné,
+> jaká je v konkrétním případě podoba společného jmění, významné je pouze,
+> zda existuje.
+
 ##### § 724 — Závažné důvody
 
 > (1) Je-li pro to závažný důvod, soud na návrh manžela společné jmění zruší nebo zúží jeho stávající rozsah.
@@ -1589,6 +2639,29 @@ Soud na návrh **zruší nebo zúží** SJM. **Závažné důvody vždy**:
 - **Začátek podnikání** nebo **neomezené ručení** ve společnosti.
 
 **§ 725—726**: změna smlouvou nebo soudem; možnost **obnovení** SJM.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 717 návrhu — dnešní § 724):**
+
+> Nelze mít dost dobře za správné, staví-li zákonná ustanovení soud do
+> role schvalovacího stroje, totiž do role, kterou až dosud byly soudy
+> povolány hrát. Napříště by se tedy měly soudy vrátit ke skutečnému
+> rozhodování, včetně zvažování rozhodných argumentů a volby možných
+> řešení.
+>
+> Základním zřetelem pro rozhodnutí o zúžení, či případně i o zrušení
+> společného jmění jsou závažné důvody. Některé z nich jsou výslovně
+> uvedeny, resp. jsou uvedeny skutečnosti, které je třeba vždy posoudit
+> jako závažné důvody, jakož příkladmo i skutečnosti, které mohou být jako
+> závažný důvod posouzeny (mezi takové důvody by dále patřil např.
+> nepřiměřeně lehkovážný přístup k majetku a k řešení otázek s ním
+> souvisejících). To, zda v daném případě je ta či ona skutečnost nebo
+> okolnost skutečně natolik významná, aby ji bylo třeba zohlednit právě
+> jako důvod podmiňující modifikaci zákonného rozsahu společného jmění,
+> však vždy zůstane toliko na uvážení soudu.
+>
+> Mezi takové důvody nepatří existence vymahatelného dluhu, který svým
+> rozsahem přesahuje hodnotu výhradního jmění manžela. (Zrušení společného
+> jmění ale přichází v úvahu až poté, kdy bude věřitel uspokojen.)
 
 **Judikatura (z místních zdrojů):**
 
@@ -1640,6 +2713,26 @@ Soud na návrh manžela zruší nebo zúží SJM, je-li pro to závažný důvod
 >
 
 V tomto režimu: manžel nakládá s majetkem **bez souhlasu druhého**. Podnikání společně → příjmy podle ujednání / rovnoměrně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 722 návrhu — dnešní § 729):**
+
+> V režimu oddělených jmění je navržena úprava tradiční: každý z manželů
+> může se svým výhradním (odděleným) jměním nakládat zcela podle své vůle,
+> tedy bez souhlasu druhého manžela.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 723 návrhu — dnešní § 730):**
+
+> Jedná se o přepis dosavadní právní úpravy (obsahově rozšířený, totiž
+> vztažený i na jiné případy, než na situaci, která nastane po rozhodnutí
+> soudu).
+>
+> Nicméně obdobně jako v souvislosti s platnou právní úpravou se může
+> klást otázka, jak vykládat výraz „s pomocí", zda totiž má jít o tzv.
+> spolupracující osobu ve smyslu daňových předpisů, anebo zda může jít i o
+> poskytování tzv. *full servisu*, aby se manžel mohl věnovat jen
+> podnikání. V tomto směru je však nutné zdržet se jakýchkoli definic i
+> nadbytečného upřesňování, a ponechat výklad v plném rozsahu soudní
+> praxi.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1707,6 +2800,28 @@ V režimu oddělených jmění nakládá každý manžel se svým majetkem samos
 
 **§ 734 — Třetí osoba dotčena**: může uplatnit právo, jako by ke smlouvě / rozhodnutí nedošlo (§ 742).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 724 a 725 návrhu — dnešní § 731—732):**
+
+> Tato ustanovení se dosud postrádají. První z nich bylo při novelizaci
+> v r. 1998 opomenuto, zčásti záměrně. Ustanovení následující má pak za
+> úkol vyvažovat ochranu věřitele a ochranu společného jmění, resp.
+> druhého manžela, resp. rodiny.
+>
+> Je třeba zdůraznit, že třetí osobou se rozumí každý, kdo není manželem,
+> totiž subjektem manželského majetkového společenství. Může tedy jít i o
+> osobu vlastně druhou, totiž i o manželova kontrahenta.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 726 a 727 návrhu — dnešní § 733—734):**
+
+> Rovněž tato ustanovení dosud scházejí. Každé z nich chrání třetí osoby,
+> zejména pak věřitele, jiným způsobem, resp. z jiného aspektu. Zatímco
+> první z nich je do jisté míry možné dovodit pro smluvní modifikaci i za
+> současného právního stavu, druhé ustanovení možnosti třetí osoby,
+> zejména věřitele - pokud jde o uspokojení jeho práv - dále zvyšuje. Obě
+> ustanovení napříště vyrovnávají důsledky opatření provedených soudem a
+> manžely samotnými (rovné, resp. stejné bývají totiž i cíle žaloby a
+> dohody, rovné, resp. stejné jsou i jejich účinky základní).
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Manžel M převzal bez souhlasu manželky Ž vysoký dluh u věřitele V (nešlo o běžné potřeby rodiny). Ž se o dluhu dozvěděla a bez zbytečného odkladu projevila vůči V svůj nesouhlas. Krátce nato (do 6 měsíců) manželé notářským zápisem zúžili SJM. V vede exekuci a požaduje uspokojení z celého SJM. Důkazy: smlouva o dluhu, doklad o sdělení nesouhlasu Ž vůči V, datum a obsah zúžení SJM, doklad o vzniku pohledávky.
@@ -1749,6 +2864,11 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 > **Zvláštní ustanovení**
 > Neuzavřou-li spolu manželé, kteří mají v úmyslu dosáhnout rozvodu manželství způsobem uvedeným v § 757, dohodu o uspořádání majetkových povinností a práv pro případ rozvodu, v níž pod podmínkou, že manželství bude rozvedeno, rovněž ujednají, jak budou v době odděleného hospodaření nabývat práva a zavazovat se, platí pro dobu odděleného hospodaření manželů ustanovení o společném jmění přiměřeně, ledaže tento zákon stanoví jinak.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 728 návrhu — dnešní § 735):**
+
+> Navrhuje se výslovně upravit to, co se až dosud toliko dovozovalo, avšak
+> někdy poněkud obtížně.
+
 #### Vypořádání SJM (§ 736—742)
 
 **§ 736**:
@@ -1778,6 +2898,64 @@ Věřitel jednoho manžela se zásadně může uspokojit i ze SJM (§ 731). Proj
 **§ 739 — Forma**: písemná (pokud uzavřena za trvání manželství nebo týká se věci vyžadující písemnou formu převodu).
 
 **§ 740 — Soudní vypořádání**: pokud manželé nedohodnou, soud rozhodne podle stavu k účinkům zániku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 729 až 731 návrhu — dnešní § 736—738):**
+
+> I když základní ustanovení o vypořádání vycházejí z dosavadní právní
+> úpravy, přesto se ukazuje potřeba některých změn.
+>
+> Takto se navrhuje nově výslovně upravit otázku dosud netoliko nejasných,
+> ale rovněž zřejmě nejednotně posuzovaných okamžiků vzniku účinků
+> vypořádání. Dohoda o vypořádání uzavřená poté, co bylo společné jmění
+> negativně dotčeno, bude mít vždy (jednotně) k rozhodnému dni zpětné
+> účinky. Také není třeba, aby pro vypořádávané nemovité věci platila
+> zvláštní pravidla. Zápis do katastru nemovitostí bude mít jen
+> deklaratorní účinky.
+>
+> Na rozdíl od platné právní úpravy je rovněž výslovně vyjádřeno (§ 730),
+> že žádný způsob vypořádání (tedy ani vypořádání rozhodnutím soudu) nesmí
+> nepříznivě postihnout práva třetích osob. Zahrnuje to zajisté i zákonný
+> zákaz dalšího vyloučení solidarity v závazcích původně solidárních.
+>
+> Přes zákaz dotčená třetí osoba se může u soudu domoci ochrany v podobě
+> relativní neúčinnosti vypořádání (sankce neplatnosti se nejeví vhodnou,
+> a to ani v podobně neplatnosti relativní, pro svůj absolutní dopad
+> (působení vůči všem), který v tomto případě nelze považovat za žádoucí).
+> Tvrzení o újmě způsobené dotčením (resp. v podobě dotčení) a důkaz o ní
+> jsou podmínkou úspěšnosti takové žaloby: povinnost tvrzení a povinnost
+> důkazní takto leží na žalujícím, on tedy také ponese případnou škodu,
+> kterou by druhému manželovi způsobil. Právo domáhat se u soudu vyloučení
+> účinků lze uplatnit ve stejné lhůtě, jaká pravidelně platí i pro jiná
+> majetková práva. V tomto případě nelze vyloučit ani použití žaloby na
+> plnění, když v rámci řízení o této žalobě bude rozhodnuta předběžná
+> otázka relativní neúčinnosti.
+>
+> Konečně, na rozdíl od mnohých dosud aplikovaných dovození -- se navrhuje
+> výslovně uvést, že vypořádání může (roz. podmíněně) předcházet rozhodnou
+> skutečnost a může být toliko dílčí. To je jen důsledný odraz toho, že už
+> dle dosavadní právní úpravy k takové situaci již běžně dochází (v
+> případě rozvodu bez zjišťování příčin rozvratu, tj. rozvodu s domněnkou
+> rozvratu), a není důvod mezi „rozvody" rozlišovat.
+>
+> To vše platí také pro případy, kdy se zúžené, zrušené nebo zaniklé
+> společné jmění vypořádává rozhodnutím soudu nebo na základě zákonného
+> pravidla.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 732 návrhu — dnešní § 739):**
+
+> Jedná se o přepis dosavadní právní úpravy. Účinky zápisu do veřejného
+> seznamu se vztahují i zde nazpět k okamžiku, kdy se stala právně
+> relevantní skutečnost, která přivodila nutnost vypořádání. Zápisem do
+> veřejného seznamu se pouze dotvrzuje právní skutečnost, o niž se jedná
+> (nejde o výjimku ze zásady o titulu a modu nabytí - neboť o nabytí
+> nejde).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 733 návrhu — dnešní § 740):**
+
+> Navrhuje se převzít dosavadní právní úpravu s výslovným ustanovením, že
+> pro rozhodnutí soudu je rozhodný stav v době, kdy nastaly účinky toho
+> kterého právního důvodu vypořádání. Pokud ale jde o ceny jednotlivých
+> součástí společného jmění, rozhodným bude stav v době rozhodování soudu.
 
 ##### F. Kazuistika
 
@@ -1833,6 +3011,14 @@ Po zúžení/zrušení/zániku SJM se provádí vypořádání (§ 736) bez dot�
 - **Pohledávky a dluhy** → společně, podíly 1/2.
 
 **Důsledek**: po 3 letech není potřeba žádný akt — vlastnické / spoluvlastnické vztahy nastávají **automaticky**. Praxe ale doporučuje **dohodu** nebo **žalobu** pro jasnost.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 734 návrhu — dnešní § 741):**
+
+> V odstavci prvním se jedná o přepis dosavadní právní úpravy. Pravidla
+> vypořádání je ale třeba důsledně vykládat tak, aby jednou založená
+> solidarita závazků (společnou a nerozdílnou zavázanost) nebyla rušena,
+> jinak řečeno, ani zákonem, ani rozhodnutím soudu, ani dohodou (ledaže by
+> šlo o dohodu s věřitelem) nelze jednou založenou solidaritu zrušit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1915,6 +3101,21 @@ Nedojde-li do 3 let od zániku SJM k vypořádání dohodou ani žalobou, nastá
 
 **§ 742 odst. 2 — Zhodnocení/znehodnocení vykládaných nákladů**: částky se započítávají **upravené** podle toho, jak se mezitím změnila hodnota.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 735 návrhu — dnešní § 742):**
+
+> Ustanovení je určeno pro situace, kdy o vypořádání rozhoduje soud.
+>
+> V odstavci prvním se jedná o přepis dosavadní právní úpravy.
+>
+> V odstavci druhém se řeší otázka, která nikdy nebyla řešena zákonem, a
+> po dlouhou dobu byla dostatečně řešena judikaturou. Současná doba, pro
+> niž jsou charakteristické výkyvy cen oběma směry, vyžaduje výslovnou
+> právní úpravu. Kromě snížení ceny se ale pamatuje i na její možné
+> zvýšení.
+>
+> Otázka majetkových práv a povinností po smrti jednoho z manželů je
+> řešena v ustanovení § 758.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2697/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/137961317017A8DCC1258DB800528435?openDocument) — *Vypořádání SJM Součást věci*
@@ -1990,6 +3191,49 @@ Soudní vypořádání SJM vychází z rovných podílů (§ 742 odst. 1 písm. 
 **§ 745 — Společné nájemní právo**: pokud měl jeden ke dni sňatku nájemní právo → vznik **společného nájemního práva** uzavřením manželství. Modifikovatelné ujednáním.
 
 **§ 746**: solidární zavázanost u společného nájmu. Manžel s právem bydlení = **ručitel** druhého.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 736 návrhu — dnešní § 743):**
+
+> Nová ustanovení mají -- kromě jiného - zdůraznit význam společného
+> rodinného bydlení pro existenci manželského, resp. rodinného
+> společenství.
+>
+> Vzhledem k možným proměnám potřeb manželů se pomýšlí i na možnost změny
+> místa rodinné domácnosti tak, aby bylo lze případný spor odpovídajícím
+> způsobem řešit.
+>
+> Výslovné ustanovení o stejných právních důsledcích dohody a konání je
+> v intencích dosavadní právní úpravy i právní praxe.
+>
+> Výraz „obydlí" je obecným výrazem, kterým se rozumí místo, kde osoba
+> nebo osoby bydlí, které obývají. „Bydlištěm" je třeba rozumět místo, kde
+> je jejich adresa, např. pro doručování, nejen úředních písemností.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 737 a 738 návrhu — dnešní § 744—745):**
+
+> Právní úprava má postihnout všechny právní eventuality právních důvodů
+> bydlení manželů. Takto postupně uvádí tituly věcně právní a obligačně
+> právní.
+>
+> Jedná se předně o to, že proti věcně právnímu titulu původnímu,
+> silnějšímu, ať už vlastnickému, nebo obdobnému (práva odpovídající
+> věcnému břemenu, popřípadě i titulu silnějšímu z jiného důvodu, např.
+> jeden z manželů bydlí na základě jiného právního důvodu, třeba
+> odvozeného, kupř. bydlení dcery nebo syna v domě rodičů), stojí
+> odvozené, slabší právo druhého manžela. Pokud je rodinná domácnost
+> manželů v domě nebo bytě, k němuž oběma manželům svědčí věcné právo,
+> uzavřením manželství k žádné změně nedochází.
+>
+> U obligačně právních titulů je dosavadní úprava pozměněna tak, že je
+> doplněna o prvky smluvní volnosti. Zpravidla tedy společné právo
+> vznikne, ale není vyloučeno odchylné ujednání manželů nebo již
+> snoubenců.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 739 návrhu — dnešní § 746):**
+
+> Dosavadní právní úprava (odst. 1) je doplněna v druhém odstavci o
+> standardní ustanovení upravující právní postavení manžela, který bydlí
+> jen na základě odvozeného právního titulu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2067,6 +3311,26 @@ Obydlím manželů je rodinná domácnost (§ 743). Měl-li jeden manžel ke dni
 - Nesmí se dotknout práv třetích osob (kromě souhlasu);
 - Forma: **písemná**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 740 až 742 návrhu — dnešní § 747—749):**
+
+> Jedná se o standardní ochranná ustanovení, která ve své výslovné zákonné
+> podobě dosud scházela.
+>
+> Záměrně zde není řečeno nic o ochraně dobré víry třetí osoby: je zde na
+> místě chránit rodinu, resp. její jednotlivé členy, a to popřípadě i před
+> jejich vlastním jednáním. Případná ochrana třetí osoby bude spočívat
+> pouze ve standardních prostředcích.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 743 návrhu — dnešní § 750):**
+
+> Za předpokladu zachování náležité formy je možné odchýlit se od
+> zákonných ustanovení o bydlení -- ustanovení manželského práva bydlení
+> jsou zásadně dispozitivní povahy. Kromě formy je však zapotřebí
+> dodržovat také ochranné opatření: ochrana je dána nejen každému
+> z manželů, ale také dítěti, pronajímateli, popř. i dalším třetím osobám,
+> jejich zájmy mohou být případnou dohodou dotčeny. Jde rovněž o
+> standardní ochranné ustanovení, dosud chybějící.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 1626/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1BDFDB755ED1B5D9C1258BA3004D246E?openDocument) — *Rodinná domácnost (o. z.) Vrácení daru*
@@ -2130,6 +3394,19 @@ Manžel s výhradním právem k domu/bytu, v němž je rodinná domácnost a jeh
 
 **Návaznost**: zákon č. 273/2008 Sb. o policii — předběžné vykázání policií (10 dnů) jako rychlá ochrana; soudní řízení podle § 405 a násl. ZŘS.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 744 až 746 návrhu — dnešní § 751—753):**
+
+> Zejména v posledním desetiletí se tzv. domácí násilí stalo fenoménem, o
+> němž více než o jiných jevech (snad s výjimkou terorismu) je třeba
+> uvažovat ve všech možných polohách a směrech. Tak je vedle roviny
+> psychologické a psychosociální nutné i v jednotlivých právních oborech
+> připravit -- bez zbytečného otálení -- předpisy, které by (podle své
+> povahy) osoby, které jsou domácím násilím dotčeny, ochránily. Současně
+> existující předpisy zajišťují okamžitou ochranu dotčených osob. Nicméně
+> považuje se za vhodné přijmout i ustanovení v rovině soukromoprávní, a
+> to dlouhodobějšího charakteru. (Nakonec dobrým příkladem pro nás může
+> být právní úprava německá, rakouská, italská, slovenská a jiné.)
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Manžel M se vůči manželce Ž opakovaně dopouští fyzického i psychického domácího násilí; v bytě žijí i dvě nezletilé děti a babička Ž. Policie M na 10 dnů vykázala; Ž se domáhá u soudu omezení, resp. vyloučení práva M v bytě bydlet a stýkat se s ní. Ochranu žádá i babička. Důkazy: záznam o policejním vykázání, lékařské zprávy, výpovědi, doklad o společném bydlení a o ohrožení dalších členů domácnosti.
@@ -2178,6 +3455,19 @@ Při domácím násilí může soud na návrh dotčeného manžela omezit nebo v
 1. **Smrt** manžela (§ 754 + § 23 OZ — smrt člověka);
 2. **Prohlášení za mrtvého** (§ 71—76 OZ — vázáno k datu uvedeném v rozhodnutí);
 3. **Rozvod** (§ 755—758).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 747 návrhu — dnešní § 754):**
+
+> Díl pátý hlavy první zahrnuje ustanovení upravující zánik manželství.
+> Jedná se o standardní soubor ustanovení, doplněný o výslovnou úpravu
+> právních následků zániku manželství.
+>
+> Právní úprava obsahuje především dva základní důvody, resp. způsoby
+> zániku manželství (další ustanovení pak ustanovují o dni, k němuž
+> manželství zaniká). Jiná možnost není, jiným způsobem manželství
+> zaniknout nemůže, neboť prohlášení manželství za neplatné neznamená
+> zánik manželství, ani jeho zrušení (na rozdíl od koncepce některých
+> cizích právních úprav).
 
 **Judikatura (z místních zdrojů):**
 
@@ -2281,6 +3571,99 @@ Manželství zaniká jen ze zákonných důvodů: smrtí manžela, prohlášení
 
 **§ 758 — Definice „nežijí spolu"**: netvoří manželské/rodinné společenství, bez ohledu na společnou domácnost — pokud alespoň jeden **zjevně nechce obnovit**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 748 návrhu — dnešní § 755):**
+
+> Rozvod manželství rozhodnutím soudu (přičemž není nutné uvádět, že
+> rozhoduje soud, neboť o statusové věci manželů nikdo jiný rozhodovat
+> nemůže) představuje jediný způsob zániku manželství za života manželů.
+> Navrhovaná právní úprava se od úpravy dosavadní zásadně neliší (s
+> výjimkou ochranné lhůty ve prospěch manžela a vymezení stavu, kdy
+> manželé spolu nežijí -- srov. dále), změny jsou povýtce toliko ve
+> vyjádření (formulační).
+>
+> Základním a jediným rozvodovým důvodem má být i nadále rozvrat
+> manželství, a to rozvrat tzv. kvalifikovaný -- hluboký, trvalý a
+> nenapravitelný -- to jest takový, o němž nelze předpokládat, že odezní.
+> Soud zjišťuje příčiny rozvratu, jak se praví dále (§ 749), na tomto
+> místě má být vymezen rozvodový důvod.
+>
+> Klauzule proti tvrdosti chrání především nezletilé dítěte, které není
+> plně svéprávné, z manželství o jeho rozvod se jedná, resp. má se jednat,
+> kterémužto dítěti by pro zvláštní okolnosti vyskytující se na jeho
+> straně byla způsobena újma v rozporu s jeho zájmem. Dále pak je chráněn
+> ten z manželů, který, aniž měl převažující podíl na rozvratu manželství,
+> je v takové osobní situaci, v níž by mu případný rozvod jeho manželství
+> nepochybně přivodil zvlášť závažnou újmu. Ochrana manžela nicméně není
+> časově neomezená -- trvá právě tak dlouho, jak je adekvátní, a to
+> při porovnání újmy, která by mohla být způsobena rozvodem manželství
+> jemu, a újmy, která je zachováváním manželství působena druhému členu
+> manželského páru.
+>
+> Ustanovení, které ponechává posouzení doby přiměřenosti na soudu,
+> zásadně odpovídá standardu evropského zákonodárství, zatímco Komise pro
+> evropské právo rodinné žádá pouze jednoroční lhůtu. Není pochyby o tom,
+> že bude žádoucí, aby se vyšší soudní instance k této otázce co nejdříve
+> vyslovily.
+>
+> Ochrana nezletilého dítěte, které nenabylo plné svéprávnosti je nadto
+> formálně vyjádřena poukazem na zvláštní řízení, v němž je třeba
+> především rozhodnout, jaké budou poměry tohoto dítěte, po rozvodu
+> manželství jeho rodičů. V případě rozvodového řízení, v němž soud
+> rozhodující o rozvodu zjišťuje příčiny rozvratu manželství, soud
+> rozhodující o poměrech dítěte dohodu rodičů (i toto rozhodnutí je
+> rozhodnutím meritorním). Toto zvláštní řízení nemůže být spojeno
+> s řízením o rozvodu, protože řízení o rozvodu je vždy řízením sporným,
+> totiž spravuje se pravidly o řízení sporném, zatímco řízení o poměrech
+> dítěte je vždy řízením nesporným, tj. spravuje se pravidly pro nesporná
+> řízení, zejména zde totiž platí princip vyšetřovací. (Srov. také
+> ustanovení o pomoci mediátora -- odborného poradenského zařízení.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 749 návrhu — dnešní § 756):**
+
+> Rozlišuje se rozvod se zjišťováním příčin rozvratu (lze také říct:
+> „rozvod bez domněnky rozvratu") a rozvod bez zjišťování příčin rozvratu
+> (tj. rozvod, kdy soud má zákonný důvod rozvratu za prokázaný - „rozvod
+> s domněnkou rozvratu").
+>
+> V prvém případě musí žalobce tvrdit a dokazovat existenci
+> kvalifikovaného rozvratu manželských vztahů. Je pak na soudu, aby se
+> rozvratem a jeho příčinami zabýval v odůvodnění vyhovujícího rozhodnutí
+> o návrhu na rozvod, aby mohlo být těchto rozhodných skutečností využito
+> pro rozhodování jiná, jak osobní, tak majetková (vypořádání společného
+> jmění, rozhodování o bydlení nebo o výživném).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 750 návrhu — dnešní § 757):**
+
+> V případě této varianty řízení o rozvodu manželství se kvalifikovaný
+> rozvrat předpokládá. Jsou však stanoveny podmínky, jednak v podobě
+> lhůty, jednak v podobě ujednání formálně vybavených. Splnění těchto
+> podmínek je nezbytné pro kladné rozhodnutí o návrhu.
+>
+> Rozvod s domněnkou rozvratu představuje řešení nejen pro ty, kdo jsou
+> schopni se přes rozpory v manželství dohodnout v otázce jeho ukončení a
+> otázkách s tím souvisejících, ale také pro ty, kdo sami, z náboženských
+> nebo morálních důvodů nemohou o rozvod žádat.
+>
+> Stejně jako v dosud platné právní úpravě soud rozhodující o rozvodu
+> vlastně neprojednává spor, ale pouze zjišťuje, zda manželé chtějí a
+> tvrdí totéž (především tedy, zda jejich vůle je pravá, zda jejich
+> tvrzení jsou pravdivá, což však nemůže zjistit jinak než osobním
+> slyšením účastníků) a zda splnili stanovené formální požadavky. Jsou-li
+> všechny podmínky, resp. požadavky splněny a absentuje tu zvláštní zájem
+> dítěte manželů, soud manželství rozvede. Úvaha se tedy popřípadě týká
+> pouze zájmu dítěte (pokud jde o řízení o péči o nezletilé, platí
+> všechno, co bylo uvedeno výše).
+>
+> Je na místě poznamenat, že za současného procesního stavu se nelze nijak
+> vypořádat s případnou neplatností dohody předložené soudu (např. pro
+> duševní poruchu).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 751 návrhu — dnešní § 758):**
+
+> Nová úprava má vyjádřit i to, co se rozumí odděleným žitím manželů.
+> Dosud takové ustanovení scházelo. Mělo by napomoci lépe řešit otázku
+> povinností a práv manželů v „přechodném období".
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 902/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-902-15_1) — usnesení, 21. 7. 2015
@@ -2345,6 +3728,16 @@ Manželství lze rozvést při hlubokém, trvalém a nenapravitelném rozvratu (
 >
 
 Manžel s přijatým příjmením druhého může **do 6 měsíců** po rozvodu oznámit matrice návrat k dřívějšímu příjmení. Pokud nestihne — zůstává s přijatým.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 752 návrhu — dnešní § 759):**
+
+> Zčásti se jedná o přepis dosavadní právní úpravy, formulačně upravený a
+> zpřesněný. Doba, v níž je třeba oznámit matričnímu úřadu rozhodnutí o
+> příjmení, se prodlužuje s ohledem na faktické prodloužení okolností
+> souvisících s rozvodem. Dále srov. též § 652 an. Dřívějším příjmením se
+> rozumí příjmení právě v podobě (tvaru) před uzavřením manželství. Pokud
+> si manžel přeje jinou úpravu svého příjmení, postupuje podle ustanovení
+> matričního zákona.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2433,6 +3826,115 @@ Soud zohlední věk, zdravotní stav, dobu manželství, dobu od rozvodu, neopat
 
 **§ 763 — Zánik výživného**: uzavření nového manželství / vstup do partnerství.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 753 návrhu — dnešní § 760):**
+
+> Zdejší právní úprava spojovala právo rozvedeného manžela na výživné
+> (před rokem 1950 na zadostiučinění) se zásadním zohledněním viny nebo
+> neviny bývalého manžela na rozvratu rozvedeného manželství. Obdobné
+> pojetí sleduje dosud např. rakouské, polské nebo nizozemské právo. Naše
+> zákonná úprava toto pojetí opustila v r. 1964 a správně se přihlásila k
+> objektivnímu pojetí, podle něhož rozhoduje neschopnost rozvedeného
+> manžela sám se živit. Zároveň platný zákon o rodině (§ 92 a násl.)
+> vychází z pojetí, že se rozvodem manželství ruší mezi bývalými manžely
+> rodinné a právní vazby, a že tedy institut výživného rozvedeného manžela
+> je výjimečné povahy, jakož i ze zásady, že toto výživné nelze přiznat,
+> bylo-li by to v rozporu s dobrými mravy. Navrhuje se, zejména s poučením
+> z úpravy německé (§ 1570 a násl. BGB) a švýcarské (čl. 125 ZBG)
+> zdůraznit výjimečnou povahu této vyživovací povinnosti a přesněji
+> vymezit hlediska, k nimž má být v rámci dosavadního obecného a pro praxi
+> často obtížně uchopitelného kritéria dobrých mravů přihlédnuto. Jinak
+> hrozí každému z rozvedených manželů neodůvodněné riziko, že vůči němu
+> bývalý manžel uplatní právo na výživné kdykoli po rozvodu, a to i po
+> velmi dlouhé době, protože podle platného zákona právo rozvedeného
+> manžela na výživné zaniká jen uzavřením nového manželství nebo smrtí.
+> Zásadní omezení dobou pěti let po dobu po rozvodu, které dosud platí v
+> polském právu, bylo u nás zrušeno v r. 1982. Zatížení každého manželství
+> již při jeho uzavření rizikem, že po případném rozvodu může kterýkoli z
+> rozvedených manželů uplatnit vůči druhému kdykoli právo na výživné, může
+> působit již při úvaze, zda uzavřít manželství, jako demotivující.
+>
+> Navrhuje se proto více respektovat faktický i právní stav, podle něhož
+> se rozvodem ruší rodinný a právní svazek bývalých manželů, a v jehož
+> důsledku se z bývalých manželů stávají cizí lidé. Proto se navrhuje
+> stanovit, že právo na výživné vzniká rozvedenému manželu, není-li
+> schopen sám se živit a lze-li po druhém z manželů spravedlivě požadovat,
+> aby výživné poskytoval. Typicky půjde o případy, kdy neschopnost jednoho
+> z bývalých manželů živit se sám má zřejmou souvislost s rozvedeným
+> manželstvím, a proto jsou příkladmo vytknuty v odstavci 1. Jde o
+> situace, kdy důvodem neschopnosti rozvedeného manžela živit se sám,
+> popřípadě živit se dostatečně, je především jeho věk nebo zdravotní stav
+> v době rozvodu, anebo - pečuje-li rozvedený manžel po rozvodu o společné
+> dítě rozvedených manželů - jeho věk nebo zdravotní stav v době, kdy péče
+> o toto dítě skončila.
+>
+> V odstavci druhém se zvláště vytýkají skutečnosti, které musí být
+> uváženy při rozhodování, má-li rozvedený manžel právo na výživné,
+> popřípadě, v jaké výši má být výživné přiznáno. Zkušenosti z praxe
+> ukazují, že dosavadní obecný poukaz zákona na dobré mravy není pro
+> judikaturu dostatečným vodítkem, a že se tedy podrobnější vymezení jeví
+> jako vhodné. Předně to je délka rozvedeného manželství; trvá-li např.
+> bezdětné manželství mladých a zdravých lidí jen krátkou dobu, není důvod
+> konstituovat jednomu z nich vůči druhému právo na výživné. Dále to jsou
+> skutkové důvody v tomto ustanovení taxativně vypočtené. Německé právo s
+> nimi spojuje ztrátu práva rozvedeného manžela na výživné (z níž pro
+> některé situace připouští výjimky), švýcarské naproti tomu stanoví, že
+> na ně musí být vzat zřetel. Osnova se přiklání k druhému z uvedených
+> řešení.
+>
+> Navrhuje se vyloučit přednost vyživovací povinnost rozvedeného manžela
+> před vyživovací povinností dětí a rodičů; po rozvodu manželství není
+> odsunout příbuzenský a právní poměr rozvedeného manžela k dětem a
+> rodičům a vzájemnou vyživovací povinnost předků a potomků (tedy
+> vyživovací povinnost v rámci existující rodiny) až za vyživovací
+> povinnost jeho bývalého manžela, odvozovanou z někdejší existence rodiny
+> již zaniklé.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 754 návrhu — dnešní § 761):**
+
+> Zásadně se předpokládá, že se manželé, resp. bývalí manželé o vyživovací
+> povinnosti dohodnou, a to nejen pokud jde o její rozsah, ale také pokud
+> se jedná o způsob jejího plnění.
+>
+> Vyživovací povinnost může být plněna jako důchod (dávky) nebo jako tzv.
+> odstupné, totiž v podobě jednorázového plnění (bez ohledu na to, zda
+> bude plněno ve splátkách, po částech, anebo skutečně jediným konáním,
+> totiž dáním).
+>
+> Dohoda manželů o výživném je vždy uzavírána pod podmínkou, že manželství
+> bude rozvedeno, bez ohledu na to, o jakou variantu řízení o rozvod
+> v daném případě půjde.
+>
+> Nedojde-li k dohodě -- ovšem jen bývalých -- manželů, dává to potřebnému
+> členovi bývalého manželského páru právo žádat o pomoc soud. Soud pak
+> rozhoduje podle obecných pravidel, tedy se zvážením potřeb oprávněného a
+> schopností, možností a majetkových poměrů povinného a dobrých mravů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 755 a 756 návrhu — dnešní § 762—763):**
+
+> Úprava výživného, které je zpravidla označováno jako sankční, má zásadně
+> stejnou podobu i podmínky jako v dosud platné právní úpravě. Z nového
+> textu nicméně bude zřejmé, že není nezbytné, aby sankční výživné
+> pokrývalo celé tříleté období. Nicméně, je vždy třeba, aby soud
+> rozhodující o sankčním výživném určil dobu jeho poskytování (to mj.
+> znamená, že po uplynutí této doby je oprávněný nucen znovu žalovat o
+> „standardní" výživné, které lze pak přiznat ode dne podání žaloby).
+>
+> Ustanovení druhého odstavce § 755 je zařazeno proto, že výslovné
+> zakotvení takového omezení je plně na místě.
+>
+> Vzhledem k tomu, že přiznání sankčního výživného vždy záleží na úvaze
+> soudu (ten posoudí především sociální a mravní důvodnost žádání), není
+> rozhodné, jakou argumentaci manžel, proti jehož vůli k rozvodu došlo,
+> konkrétně (v rozvodovém řízení) použil, zejména zda totiž výslovně
+> poukazoval (popřípadě vůbec mohl poukazovat) na svou nepříznivou životní
+> situaci, anebo zda i bez této argumentace bylo z jiných skutečností
+> zřejmé, že mu zvlášť závažná újma v důsledku případného rozvodu skutečně
+> hrozí.
+>
+> Navrhuje se výslovně vyjádřit, že poté, co doba poskytování sankčního
+> výživného skončí, není vyloučeno, aby potřebný rozvedený manžel žádal o
+> poskytování běžného výživného i pro další dobu.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Klatovech* [9 C 238/2025-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=8bfc8d9f-157f-427e-a46a-f5a04a00faa2) — *rozvod manželství, náhrada nákladů, rodinná domácnost, náklady řízení, doručování, dokaz…*
@@ -2491,6 +3993,32 @@ Rozvedený manžel má při neschopnosti živit se s původem v manželství ná
 **§ 764 — Smrt manžela**: SJM se vypořádá **v řízení o dědictví** podle majetkového režimu, případně pokynů zemřelého. Default: pravidla § 742 (kromě nákladů odst. 1 písm. c).
 
 **§ 765 — Rozvod**: vypořádání **dohodou** nebo **soudem na návrh**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 757 návrhu — dnešní § 764):**
+
+> Jedná se o standardní ustanovení (přepis dosavadní právní úpravy,
+> formulačně upravený), dovoditelné z institutu vyživovací povinnosti mezi
+> manžely. Zanikne tedy vyživovací povinnost druhého rozvedeného manžela,
+> a to bez ohledu na to, o jaké výživné, tj. tzv. sankční, anebo tzv.
+> obyčejné se jednalo.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 758 návrhu — dnešní § 765):**
+
+> Majetkové poměry po zániku manželství byly dosud upraveny jen parciálně.
+> Nyní by měly být řešeny komplexně, přičemž se zmiňují oba způsoby zániku
+> manželství.
+>
+> Bez ohledu na to, jak manželství zanikne, je samozřejmé, že eo ipso
+> zaniká případné společné jmění manželů (srov. ustanovení § 701 až 703 a
+> contrario).
+>
+> Jestliže manželství zaniklo smrtí manžela, posoudí se majetkové
+> povinnosti a práva zemřelého v závislosti na majetkovém režimu za
+> existence jeho manželství, popř. i ve spojení s jeho majetkovými
+> dispozicemi.
+>
+> V případě, že došlo k prohlášení za mrtvého, posoudí se majetkové poměry
+> ke dni určenému soudem jako den smrti manžela.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2569,6 +4097,47 @@ Zanikne-li manželství smrtí, vypořádá se SJM v řízení o dědictví podl
 **§ 769 — Rozvod + nestejná práva**: manžel s pouhým **právem bydlení** vůči vlastnickému / silnějšímu právu druhého → soud rozhodne o **vystěhování** s podobnou ochranou jako § 767/2.
 
 **§ 770 — Odvozené právo**: manžel s **odvozeným právem** se musí vystěhovat na žádost manžela s **primárním právem**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 759 návrhu — dnešní § 766):**
+
+> Jestliže manželství zaniklo rozvodem (a tato ustanovení se použijí
+> přiměřeně i v případě, že došlo k prohlášení manželství za neplatné),
+> předpokládá se, že se manželé o svých majetkových poměrech dohodnou,
+> pokud se nedohodnou, obrátí se na soud, a pokud ani to neučiní, uplatní
+> se nevyvratitelná domněnka -- tak, jak to zná dosavadní právní úprava.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 760 a 761 návrhu — dnešní § 767—768):**
+
+> Ustanovení § 760 se použije i v případě, kdy jeden z manželů opustí
+> rodinnou domácnost s úmyslem nevrátit se: svědčí-li manželům společné
+> nájemní právo a jeden z manželů rodinnou domácnost opustí s úmyslem žít
+> trvale na jiném místě, platí pro právní poměry manžela, který v domě
+> nebo bytě zůstal, ustanovení o zániku manželství smrtí manžela obdobně.
+>
+> K odstavci druhému § 761: je třeba mít na zřeteli, že děti trvale
+> invalidní schopnost samy se živit nenabudou vůbec.
+>
+> K odstavci třetímu § 761: ustanovení míří na případy, kdy v domě nebo
+> bytě měl jeden z manželů pouze právo bydlet (dané například svolením
+> svých rodičů), a druhý manžel měl právo bydlet odvozené od práva bydlet,
+> které svědčilo prvnímu z manželů, totiž bydlel právě jako manžel.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 762 až 764 návrhu — dnešní § 769—771):**
+
+> Tato ustanovení řeší otázky bydlení v souvislosti se zánikem manželství
+> smrtí manžela a rozvodem řádově shodně, tj. odlišující kritérium
+> představují zásadně jen tituly bydlení, jednak věcně právní (rovné a
+> nerovné), jednak obligačně právní.
+>
+> Nosným zřetelem obou ustanovení je ochrana slabšího partnera a dítěte
+> svěřeného do jeho péče.
+>
+> Doba, v níž je ochrana poskytována, nemusí být dána toliko časem, ale
+> obdobně jako dosud např. vázána na podmínku zajištění (obstarání)
+> bydlení, popřípadě náhrady za ně, zejména v penězích.
+>
+> Nic rovněž nebrání, aby soud v rámci náhrady určil třeba také povinnost
+> přispívat na cenu nového bydlení manželovi, který obydlí opustil.
 
 **Judikatura (z místních zdrojů):**
 

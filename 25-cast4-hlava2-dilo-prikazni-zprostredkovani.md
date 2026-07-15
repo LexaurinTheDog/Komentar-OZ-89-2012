@@ -48,6 +48,24 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 - **Poskytovatel** (*licensor*) — držitel práva;
 - **Nabyvatel** (*licensee*) — uživatel za odměnu (typicky).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2332 až 2363 návrhu — dnešní § 2358—2389):**
+
+> Práva a povinnosti z licenční smlouvy jsou v platném právu upraveny
+> nejednotně. Ustanovení o licenci k předmětům průmyslového vlastnictví
+> obsahuje obchodní zákoník (§ 508 a násl.), ustanovení o licenci k
+> předmětům chráněným autorským právem obsahuje zákon autorský (§ 46 a
+> násl.). Obě tyto úpravy jsou speciální, obecná ustanovení o licenční
+> smlouvě a licenci chybí. Osnova odstraňuje tento nedostatek tím, že obě
+> speciální úpravy spojuje do jediného institutu, přičemž zároveň
+> respektuje zvláštnosti licence k předmětům chráněným právem autorským.
+> Navržená nová úprava sleduje především naplnění systematického hlediska,
+> platnou právní úpravu v obou speciálních zákonech přejímá, aniž ji
+> podstatně mění.
+>
+> Práva a povinnosti z licenční smlouvy přecházejí na právního nástupce
+> osoby, které byla licence udělena. Licenční smlouva může takový přechod
+> práv a povinností na právního nástupce vyloučit.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 392/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/31ACC30082B1C3B9C125882E0017D664?openDocument) — *Zánik závazku Bezdůvodné obohacení Licenční smlouva (o. z.)*
@@ -94,6 +112,8 @@ Licenční smlouva je platná i bez ujednání odměny; OZ presumuje úplatnost 
 > (1) Nabyvatel není povinen licenci využít, ledaže trvání práva závisí na jeho výkonu.
 > (2) Poskytovatel udržuje po dobu trvání licence právo, vyžaduje-li to jeho povaha.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
 ### Druhy licencí
 
 **§ 2359 — Výhradní × nevýhradní licence**:
@@ -123,6 +143,12 @@ Licenční smlouva je platná i bez ujednání odměny; OZ presumuje úplatnost 
 >
 > (3) Nabyvatel předloží poskytovateli pravidelná vyúčtování odměny podle odstavce 2 v ujednaných časových obdobích; není-li ujednáno jinak, je povinen tak učinit alespoň jednou ročně.
 **Podlicence** — nabyvatel může postoupit licenci nebo udělit podlicenci **jen se souhlasem** poskytovatele (kogentní, ledaže smluvně jinak).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
 
 **Judikatura (z místních zdrojů):**
 
@@ -183,6 +209,14 @@ Postoupení licence i udělení podlicence vyžaduje písemný souhlas poskytova
 **§ 2367 — Výše odměny**:
 - Smluvní (typicky paušál nebo % z příjmů — *royalty*);
 - **Bez ujednání**: licence je **úplatná** (domněnka), odměna se určí dle obvyklé (tržní) ceny.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
 
 #### F. Kazuistika
 
@@ -332,6 +366,50 @@ Poskytovatel musí nabyvateli bez zbytečného odkladu předat podklady k výkon
 - Licence k **autorskému dílu** (§ 2371—2381) — návaznost na autorský zákon č. 121/2000 Sb.;
 - **Licence pro nakladatelskou smlouvu** (§ 2384—2389) — kniha, periodikum, audiovizuální dílo.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2359 návrhu — dnešní § 2385):**
+
+> Jelikož se v případě autorské korektury jedná o drobné tvůrčí změny
+> díla, vyplývá z jejího obsahu, že ji může vykonat pouze autor, nikoli
+> tedy např. dědic jeho majetkových práv.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [3 CO 82/2023-57](https://rozhodnuti.justice.cz/rozhodnuti/?id=3127c6f3-e720-4a13-a247-ac0d0459a4d4) — *autorské dílo, rozsudek pro zmeškání*
@@ -438,6 +516,19 @@ Autorské licence požívají zvýšené ochrany: bestsellerová klauzule (§ 23
 > (2) Poskytovatel odpovídá za vady digitálního obsahu, které měl při zpřístupnění; tím není dotčena povinnost zabezpečit aktualizace podle odstavce 4 a § 2389d.
 > (3) Projeví-li se vada v průběhu jednoho roku od zpřístupnění, má se za to, že byl digitální obsah vadný již při zpřístupnění. Tato doba neběží po dobu, po kterou uživatel nemůže digitální obsah užívat, v případě, že vadu vytkl oprávněně.
 > (4) Poskytovatel zabezpečí, že budou uživateli poskytovány aktualizace podle § 2389d odst. 2 po dobu, po kterou to uživatel může rozumně očekávat; to se posoudí podle druhu a účelu digitálního obsahu a s přihlédnutím k okolnostem při uzavření smlouvy a povaze závazku.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2332 až 2363“ (dnešní § 2358—2389) — viz § 2358.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2337 návrhu — dnešní § 2363):**
+
+> Nabyvatel podlicence může dále poskytovat další podlicenci rovněž tak
+> jen tehdy, bylo-li tak ujednáno mezi ním a poskytovatelem podlicence.
 
 ## Poskytování digitálního obsahu — doplněná ustanovení (§ 2389g—2389p)
 
@@ -611,6 +702,16 @@ Spotřebitelský režim digitálního obsahu dopadá i na případy, kdy uživat
 - **Vrácení**: stejné množství téhož druhu a jakosti;
 - Vrácení **po určitém čase** (= rozdíl od kupní smlouvy).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2364 až 2368 návrhu — dnešní § 2390—2394):**
+
+> Osnova se vrací ke klasickému označení „zápůjčka" (pojem je konstruován
+> a contrario k „výpůjčka"). S tím souvisí i označení smluvních stran jako
+> zapůjčitele a vydlužitele (oproti nevhodnému „věřitel" a „dlužník" v
+> současné úpravě). Základem návrhu jsou převzatá ustanovení § 657 a 658
+> platného občanského zákoníku. Doplněna jsou některá ustanovení o
+> případech, na něž současná úprava nepamatuje. Jedná se o některé
+> podrobnosti týkající se vrácení zápůjčky a o vypovězení smlouvy.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3597/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB5AEA3A88BC5836C1258D5C0052D48C?openDocument) — *Smlouva o zápůjčce (mutuum) (o. z.) Dovolání Spotřebitel*
@@ -697,6 +798,14 @@ Zápůjčka vzniká reálně (přenecháním věci), nikoli pouhou dohodou; spor
 - Bez ujednání: na **požádání zapůjčitele**;
 - **Předčasné splacení** zapůjčky: vydlužitel může, pokud nedohodnuto jinak.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2364 až 2368“ (dnešní § 2390—2394) — viz § 2390.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2364 až 2368“ (dnešní § 2390—2394) — viz § 2390.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2364 až 2368“ (dnešní § 2390—2394) — viz § 2390.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2364 až 2368“ (dnešní § 2390—2394) — viz § 2390.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [4 Tdo 769/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2226E9CA9CBBEBDC125892B001DC110?openDocument) — *Dokazování Důkaz Podvod Skutek Subsidiarita trestní represe Ultima ratio*
@@ -754,6 +863,17 @@ U splátkové zápůjčky umožňuje § 2394 zesplatnit celý dluh při kvalifik
   - **Úvěrový rámec** = úvěrující se zavazuje **poskytnout** prostředky **na vyžádání**;
   - Úvěrovaný **vrací** + platí **úroky**;
   - **Vždy úplatný**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2369 až 2374 návrhu — dnešní § 2395—2400):**
+
+> Návrh ustanovení o smlouvě o úvěru je s drobnými úpravami převzat z
+> platného obchodního zákoníku (§ 497 a násl.). Ze stejných důvodů, z
+> jakých se v úpravě smlouvy o půjčce opouští označení stran jako věřitele
+> a dlužníka se totéž označení i ve vztahu k stranám úvěrové smlouvy (i
+> sama důvodová zpráva k vládnímu návrhu obchodního zákoníku o nich uvádí,
+> že „nejsou zcela přesné"). Z toho důvodu se navrhuje označit strany
+> úvěrové smlouvy zpodstatnělými adjektivy „úvěrovaný" a „úvěrující". V
+> ostatním se dosavadní úprava až na drobné stylistické zásahy nemění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -839,6 +959,16 @@ U splátkové zápůjčky umožňuje § 2394 zesplatnit celý dluh při kvalifik
 - **Kontokorentní úvěr** — možnost přečerpání účtu;
 - **Spotřebitelský úvěr** — zvláštní úprava v zákoně č. 257/2016 Sb. (transpozice směrnice 2008/48/ES, novela 2024 podle směrnice 2023/2225).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2369 až 2374“ (dnešní § 2395—2400) — viz § 2395.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2369 až 2374“ (dnešní § 2395—2400) — viz § 2395.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2369 až 2374“ (dnešní § 2395—2400) — viz § 2395.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2369 až 2374“ (dnešní § 2395—2400) — viz § 2395.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2369 až 2374“ (dnešní § 2395—2400) — viz § 2395.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 4155/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBD6AE5DF4A9786AC1258474002EA260?openDocument) — *Smlouva o úvěru*
@@ -885,6 +1015,27 @@ U účelového úvěru je porušení účelu silným titulem k odstoupení a oka
 > (1) Pracovní poměr, jakož i práva a povinnosti zaměstnance a zaměstnavatele z pracovního poměru upravuje jiný zákon. Totéž platí v rozsahu stanoveném jiným zákonem o smlouvách o výkonu závislé práce zakládajících mezi zaměstnancem a zaměstnavatelem obdobný závazek.
 > (2) Na práva a povinnosti zaměstnance a zaměstnavatele se nepoužijí ustanovení tohoto zákona o ochraně spotřebitele.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2375 návrhu — dnešní § 2401):**
+
+> Návrh občanského zákoníku nemá ambici zasahovat do pracovního práva, a
+> proto ponechává úpravu vzniku, změn a zániku pracovního poměru, jakož i
+> úpravu práv a povinností zaměstnance a zaměstnavatele z pracovního
+> poměru jako dosud speciální zákonné úpravě. Přesto se jeví jako potřebné
+> zařadit do občanského zákoníku navržené ustanovení. Předně je jím
+> vyjádřeno, že pracovní smlouva (a stejně tak i jiné smlouvy zakládající
+> mezi stranami závazek k výkonu závislé práce) je institut soukromého
+> práva i to, že subjektivní práva a povinnosti založené touto smlouvou
+> jsou právy a povinnostmi soukromoprávní povahy. Dále pak i to, že
+> jakkoli se úprava pracovní smlouvy a pracovního poměru vyhrazuje
+> zvláštnímu zákonu, půjde právě o zákon zvláštní, vůči němuž plní
+> občanský zákoník funkci zákona obecného. Tím bude utvrzen běžný,
+> konvenční právní režim typický pro kontinentální právo, pro nějž je v
+> soukromoprávní oblasti typická subsidiarita obecného zákona vůči zákonu
+> speciálnímu, což ostatně potvrdil i Ústavní soud ve svém nálezu č.
+> 116/2008 Sb. Konečně se zařazením tohoto ustanovení do občanského
+> zákoníku respektuje systematické hledisko, vzhledem k němuž má občanský
+> zákoník kodifikovat souhrn soukromoprávních smluvních typů.
+
 ---
 
 ## Úschova (§ 2402—2414)
@@ -897,6 +1048,12 @@ U účelového úvěru je porušení účelu silným titulem k odstoupení a oka
 - **Schovatel** = bere věc do péče;
 - **Uschovatel** = vlastník věci;
 - **Předmět**: pouze movité věci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2376 až 2382 návrhu — dnešní § 2402—2408):**
+
+> Návrh ustanovení smlouvy o úschově vychází z platného občanského
+> zákoníku (§ 747 a násl.) a z vládní osnovy československého občanského
+> zákoníku z r. 1937 s přihlédnutím k standardním evropským úpravám.
 
 **Judikatura (z místních zdrojů):**
 
@@ -976,6 +1133,18 @@ U účelového úvěru je porušení účelu silným titulem k odstoupení a oka
 **§ 2407 — Nahodilá ztráta**:
 - **Bez viny schovatele** → bez odpovědnosti;
 - **Při vyšší moci** → bez odpovědnosti.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2376 až 2382“ (dnešní § 2402—2408) — viz § 2402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1057,6 +1226,19 @@ Schovatel nesmí věc bez svolení užívat ani přenechat jinému; poruší-li 
 - **Skladní list** (= cenný papír reprezentující skladované zboží);
 - Účet je typicky vázán na **logistický systém** (WMS).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2383 až 2386 návrhu — dnešní § 2411—2414):**
+
+> Úschova cenných papírů je spojena s některými zvláštními instituty
+> (hromadná úschova, druhotná úschova, imobilizace) a vyžaduje i v jiných
+> směrech zvláštní úpravu. Za tím účelem se navrhuje převzít s nezbytnými
+> úpravami dosavadní ustanovení § 34, 35 a 38 zákona o cenných papírech.
+>
+> Nově je doplněno ustanovení, podle něhož se na listinné cenné papíry v
+> úschově podpůrně použijí ustanovení o zaknihovaných cenných papírech v
+> těch případech, kdy nelze požadovat vydání jednotlivého cenného papíru.
+> Návrh reaguje na existenci zahraničních cenných papírů, pro které je
+> tato úprava potřebná.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 4* [7 C 192/2023-185](https://rozhodnuti.justice.cz/rozhodnuti/?id=1cfd71bb-1db5-4c1b-963c-c3410db156ee) — *neplatnost právního jednání, podnájem, dlužné nájemné, notářský zápis, narovnání, znalec…*
@@ -1103,6 +1285,11 @@ Cenné papíry v úschově (zejména hromadné) náleží uschovatelům, oddělu
 > **Základní ustanovení**
 > (1) Smlouvou o skladování se skladovatel zavazuje převzít věc tak, aby ji uložil a opatroval, a ukladatel se zavazuje zaplatit mu za to skladné.
 > (2) Je-li opatrování věci předmětem podnikání skladovatele, má se za to, že strany uzavřely smlouvu o skladování.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2387 až 2401 návrhu — dnešní § 2415—2429):**
+
+> Návrh recipuje úpravu skladovací smlouvy z platného obchodního zákoníku
+> (§ 527 a násl.).
 
 ## Skladování — doplněná ustanovení (§ 2416—2427)
 
@@ -1184,6 +1371,32 @@ Zajištění pohledávek skladovatele. Skladovatel má ke skladované věci, dok
 - § 1395 a násl. (zadržovací právo obecně — § 2418 a § 2429 na ně navazují zvláštním zákonným zadržovacím právem skladovatele);
 - § 2894 a násl. (obecná úprava náhrady škody — § 2426 obsahuje zvláštní skutkovou podstatu odpovědnosti skladovatele s liberačním důvodem).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Výrobce nápojů V (ukladatel) uzavřel s provozovatelem logistického skladu S (skladovatel) smlouvu o skladování 300 palet zboží na dobu neurčitou. S převzetí potvrdil vydáním skladištního listu, v němž není uvedeno jméno osoby, na jejíž řad je vydán. V převedl skladištní list na odběratele T, který požaduje vydání zboží. S vydání odepřel, protože skladné za poslední čtyři měsíce nebylo zaplaceno; při prohlídce navíc vyšlo najevo, že část zboží byla poškozena zatečením dešťové vody vadnou střechou skladu. Důkazy: smlouva o skladování, skladištní list a jeho náležitosti, doklady o (ne)úhradách skladného a výzvy k zaplacení, protokoly o stavu zboží při převzetí a při prohlídce, dokumentace údržby skladu.
@@ -1228,6 +1441,8 @@ Skladování je úplatné podnikatelské opatrování cizí věci: skladovatel p
 > **Svépomocný prodej**
 > Nevyzvedne-li ukladatel věc po skončení doby, po kterou je skladovatel povinen věc skladovat, může skladovatel určit ukladateli přiměřenou lhůtu k vyzvednutí věci. Upozorní-li ho přitom, že jinak věc prodá, může skladovatel věc po marném uplynutí lhůty prodat na účet ukladatele vhodným způsobem; výtěžek ukladateli vydá bez zbytečného odkladu, může si však odečíst skladné a účelně vynaložené náklady spojené s prodejem.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2387 až 2401“ (dnešní § 2415—2429) — viz § 2415.
+
 ---
 
 ## Smlouva o účtu (§ 2662—2675)
@@ -1240,6 +1455,77 @@ Skladování je úplatné podnikatelské opatrování cizí věci: skladovatel p
 - **Vedoucí účtu** = banka, družstevní záložna, jiný poskytovatel platebních služeb;
 - **Majitel účtu**;
 - **Provozní rámec**: vklady, výplaty, převody.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2634 až 2651 návrhu — dnešní § 2662—2679):**
+
+> Osnova opouští rozlišování smlouvy o běžném účtu a smlouvy o vkladovém
+> účtu, neboť toto rozlišování ztratilo z velké části své původní
+> opodstatnění. Velká část právní úpravy je již v současnosti oběma
+> smluvním typům společná, takže smlouva o vkladovém účtu je fakticky
+> pouze určitou modifikací smlouvy o běžném účtu. Nejsou vyloučeny ani
+> smlouvy, které v sobě kombinují prvky obou smluvních typů. Stávající
+> právní úprava smlouvy o vkladovém účtu nemá převážně ani dispozitivní
+> povahu a pouze výslovně uvádí, které různé eventuality mohou strany ve
+> smlouvě upravit, což je nadbytečné. Osnova proto upravuje jako obecný
+> smluvní typ smlouvu o účtu, která bude po příslušných smluvních
+> modifikacích využitelná jak pro stávající běžné, tak pro stávající
+> vkladové účty.
+>
+> Jak běžné, tak vkladové účty mohou být za určitých okolností platebními
+> účty podle zákona o platebním styku, pro které se přednostně použijí
+> ustanovení tohoto zákona (§ 708 odst. 3 a § 716 odst. 3 stávajícího
+> obchodního zákoníku). Osnova proto rozlišuje nejobecnější ustanovení,
+> která se použijí pro všechny účty (§ 2634 až 2640), ustanovení pro
+> platební účty, jež pouze odkazuje na právní úpravu v zákoně o platebním
+> styku (§ 2641), a zvláštní ustanovení pro jiné než platební účty (§ 2623
+> až 2647). Jako speciální případ účtu se upravuje vkladní knížka (§ 2648
+> až 2651).
+>
+> Ustanovení upravující smlouvu o účtu v občanském zákoníku mají za cíl
+> zakotvit alespoň minimální právní úpravu použitelnou v případě, že
+> určité otázky týkající se účtu nejsou řešeny zákonem o platebním styku,
+> případně je aplikace zákona o platebním styku vzhledem k jeho působnosti
+> vyloučena, a strany si neupravily tyto otázky ani smluvně.
+>
+> Společná ustanovení pro všechny druhy účtů vycházejí především ze
+> stávající úpravy běžného účtu v obchodním zákoníku. Nepřebírají se
+> ustanovení, která již podle stávající právní úpravy nejsou použitelná
+> pro platební účty nebo která pouze deklarují možnost stran sjednat si
+> určitá práva a povinnosti. Smluvní stranu, která vede účet, osnova nově
+> neoznačuje jako banku, neboť postavení určité osoby jako smluvní strany
+> by nemělo být závislé na její regulaci z hlediska veřejného práva, což
+> je přístup obvyklý i u ostatních smluvních typů. Vedle vlastního
+> vymezení smluvního typu je důležité zejména ustanovení o tom, že
+> zmocnění udělené třetím osobám k nakládání s peněžními prostředky na
+> účtu smrtí majitele zásadně nezaniká a že stejně tak se zásadně
+> pokračuje v provádění transakcí, k nimž dal majitel účtu za života
+> příkaz. Na rozdíl od stávajícího obchodního zákoníku se však
+> nekonstatuje výslovně, že smrtí majitele účet nezaniká, protože to
+> jednoznačně vyplývá z obou právě uvedených ustanovení a také z obecného
+> § 1985.
+>
+> Návrh § 2641 pouze deklaruje, že platební účty se řídí zákonem o
+> platebním styku. Tímto zákonem se řídí i transakce na jiných než
+> platebních účtech, jestliže se jedná o platební transakce, které
+> podléhají zákonu o platebním styku.
+>
+> Zvláštní ustanovení pro jiné než platební účty se vztahují jednak na
+> účty, které nejsou platebními účty podle zákona o platebním styku (např.
+> účty stavebního spoření, účty s výpovědní dobou nebo účty, které si mezi
+> sebou vedou poskytovatelé platebních služeb), a jednak na transakce,
+> které sice probíhají na platebních účtech, ale jsou z působnosti zákona
+> o platebním styku vyňaty (např. placení platebním prostředkem
+> použitelným pouze v rámci omezené sítě, placení směnkou, šekem, srov. §
+> 3 odst. 3 zákona o platebním styku).
+>
+> Vkladní knížka je upravena jako speciální případ účtu, neboť má stejnou
+> podstatu jako účet, ale liší se pouze způsobem nakládání s peněžními
+> prostředky a způsobem provádění záznamů o provedených transakcích.
+> Vychází se ze stávající právní úpravy v občanském zákoníku, ovšem
+> nepřebírají se ustanovení, která jsou z hlediska současné praxe
+> překonaná. Osnova opouští také institut umoření vkladní knížky, neboť
+> při povinné formě vkladních knížek pouze na jméno ztratil tento institut
+> smysl.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1346,6 +1632,40 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 **§ 2679**:
 > Pokud majitel vkladní knížky nenakládá s peněžními prostředky na účtu po dobu dvaceti let ani nepředloží vkladní knížku k doplnění záznamů, ruší se závazek uplynutím této doby; majitel vkladní knížky má právo na výplatu zůstatku peněžních prostředků na účtu včetně úroků ke dni zrušení závazku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2634 až 2651“ (dnešní § 2662—2679) — viz § 2662.
+
 ### Specifika
 
 **Návazné předpisy**:
@@ -1375,6 +1695,16 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 > **Vkladní list**
 > Vkladním listem příjemce vkladu potvrzuje pevný jednorázový vklad na dobu určitou ve výši vkladním listem uvedené.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2652 a 2653 návrhu — dnešní § 2680—2681):**
+
+> Jako protipól obecné smlouvy o účtu upravuje osnova smlouvu o
+> jednorázovém vkladu. Pro jednorázový vklad je charakteristické, že na
+> rozdíl od účtu nedochází ke změnám výše vložených peněžních prostředků.
+> Základem právní úpravy jsou ustanovení stávajícího občanského zákoníku o
+> vkladech a některá ustanovení stávajícího obchodního zákoníku o smlouvě
+> o vkladovém účtu. Jako speciální případ jednorázového vkladu se upravuje
+> vkladní list.
+
 ---
 
 ## Akreditiv (§ 2682—2693)
@@ -1395,6 +1725,49 @@ U smlouvy o účtu je nutné odlišit vztah majitele k bance (dispozice podle sm
 **Význam**: klíčový **mezinárodní obchodní instrument** — zajištění platby pro vývozce.
 
 **UCP 600** (Uniform Customs and Practice for Documentary Credits) — mezinárodní pravidla ICC, na něž OZ odkazuje obvykle smluvně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2654 až 2665 návrhu — dnešní § 2682—2693):**
+
+> Akreditiv se vyvinul z někdejší kupecké poukázky. V moderní době plní
+> funkci nástroje úvěrování. V podstatě jde o zvláštní platební nástroj
+> (peněžní nebo platební dokument) vystavený zpravidla bankou, kterou
+> příkazce zavázal ve smlouvě o otevření akreditivu vyplatit osobě, v
+> jejíž prospěch má být akreditiv otevřen a označované jako oprávněný nebo
+> jako beneficient, peněžitý obnos až do ujednané výše. V souvislosti s
+> akreditivem tedy vznikají vzájemná práva a povinnosti tří osob. Předně
+> jde o práva a povinnosti mezi příkazcem a výstavcem akreditivu založená
+> smlouvou o otevření akreditivu. Dále pak o práva a povinnosti mezi
+> výstavcem akreditivu a oprávněným, pro která má význam oznámení výstavce
+> akreditivu, že mu akreditiv otvírá a jaký je jeho obsah, označované jako
+> akreditivní listina; návrh zákonného textu však s ohledem na požadavky
+> praxe a rozdílně od platné úpravy (§ 683 a 686 obchodního zákoníku)
+> výraz „akreditivní listina" nepoužívá z toho důvodu, že tento výraz
+> vyvolává dojem, že oznámení vyžaduje inkorporaci v listině, ač je lze
+> učinit také v elektronické podobě. Konečně je pravidlem, že věcný -
+> nikoli právní - důvod k uzavření smlouvy o otevření akreditivu je
+> obligační povinnost příkazce plnit oprávněnému, a že tedy i tyto osoby
+> mají vůči sobě práva a povinnosti. Uvedené tři poměry jsou na sobě
+> právně nezávislé, ačkoli jejich hospodářská souvislost je zřejmá.
+> Akreditiv tak slouží k řádnému fungování platebního styku a poskytuje
+> oprávněnému i příkazci vyšší stupeň právní jistoty opírající se o
+> odbornou službu výstavce akreditivu. Akreditiv působí jako typický
+> platební nástroj mezinárodního obchodního styku, avšak jeho použití se
+> postupně rozvíjí i v platebním styku tuzemském, neboť i zde může
+> posloužit jako efektivní nástroj snižující nebezpečí důsledků platební
+> neschopnosti nebo rizika, že bude placeno k prodlením apod. Otevření
+> akreditivu však nemusí sloužit jen k přímému placení, ale i k jiným
+> srovnatelným plněním (např. k tomu, že výstavce akreditivu oprávněnému
+> vystaví směnku).
+>
+> Navržená ustanovení vycházejí z platné právní úpravy v obchodním
+> zákoníku (§ 682 až 691). Protože nejčastěji využívaným akreditivem je
+> akreditiv dokumentární, vychází návrh i z Jednotných zvyklostí a
+> pravidel pro dokumentární akreditivy (Uniform Customs and Practice for
+> Documentary Credits) vydaných Mezinárodní obchodní komorou (ICC) v
+> Paříži. Tyto zvyklosti a pravidla (ve znění z r. 1983) ovlivnily v r.
+> 1991 i platnou právní úpravu v obchodním zákoníku, od r. 2007 však platí
+> jejich podstatně revidovaná úprava, ze které vychází i předkládaný
+> návrh.
 
 #### F. Kazuistika
 
@@ -1501,6 +1874,41 @@ Akreditiv je abstraktní, dokumentární a (zpravidla) neodvolatelný platební 
 > (1) Smlouvou o inkasu se obstaravatel inkasa zavazuje obstarat pro příkazce přijetí peněžní částky nebo jiný inkasní úkon od třetí osoby a příkazce se zavazuje zaplatit obstaravateli inkasa odměnu.
 > (2) Není-li výše odměny ujednána, zaplatí příkazce obstaravateli inkasa odměnu obvyklou v době uzavření smlouvy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2654 až 2665“ (dnešní § 2682—2693) — viz § 2682.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2666 až 2672 návrhu — dnešní § 2694—2700):**
+
+> Inkaso představuje bankovní obchod, při kterém se obstaravatel inkasa
+> zavazuje obstarat pro příkazce přijetí peněžitého plnění, popřípadě
+> jiného inkasního úkonu, jakým může být např. přijetí cenných papírů nebo
+> předložení směnky k akceptaci. Zvláštní význam má dokumentární inkaso,
+> jehož podstata je v tom, že inkasní úkon je vázán na vydání dokumentů té
+> osobě, která má inkasní úkon - zpravidla tedy platbu - provést. Podobně
+> jako u akreditivu vychází i návrh ustanovení o inkasu z platné právní
+> úpravy v § 692 až 699 obchodního zákoníku, avšak přihlíží k revidované
+> úpravě Jednotných pravidel pro inkasa (Uniform Rulles for Collections) z
+> r. 1995 vydaných Mezinárodní obchodní komorou v Paříži.
+
 ---
 
 ## Příkaz a příbuzné smlouvy (§ 2430—2520)
@@ -1518,6 +1926,12 @@ Akreditiv je abstraktní, dokumentární a (zpravidla) neodvolatelný platební 
 **Rozdíly od podobných smluv**:
 - **Příkaz** ≠ **dílo**: u díla je výsledek hmotný; u příkazu je úkol činnost;
 - **Příkaz** ≠ **zastoupení** (§ 436): zastoupení = jednání jménem; příkaz = obstarání záležitosti (lze i vlastním jménem na účet příkazce).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2402 až 2416 návrhu — dnešní § 2430—2444):**
+
+> Osnova odstraňuje dosavadní neúčelnou duplicitu občanskoprávní příkazní
+> smlouvy a obchodní smlouvy mandátní a zavádí jediný smluvní typ
+> odpovídající standardnímu pojetí příkazní smlouvy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1574,6 +1988,8 @@ Příkaz je smlouvou o úsilí (péči), nikoli o výsledku; příkazníkovi ná
 **§ 2431**:
 > Obstarává-li někdo určité záležitosti jako podnikatel, má povinnost, byl-li o obstarání takové záležitosti požádán, dát druhé straně bez zbytečného odkladu výslovně najevo, zda na sebe obstarání záležitosti bere nebo ne; jinak nahradí škodu tím způsobenou.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
 ### § 2432—2440 — Práva a povinnosti
 
 **§ 2432**:
@@ -1619,6 +2035,22 @@ Příkaz je smlouvou o úsilí (péči), nikoli o výsledku; příkazníkovi ná
 **§ 2436 — Náklady** — příkazník má právo na náhradu vynaložených.
 
 **§ 2438 — Vyúčtování** — povinnost detailně.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1689,6 +2121,16 @@ Příkazník plní s odbornou péčí, na zřejmě nesprávný pokyn musí upozo
 - Výpověď příkazníka **v nevhodnou dobu** = škoda;
 - Smrt: u **intuitu personae** zaniká.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2402 až 2416“ (dnešní § 2430—2444) — viz § 2430.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2070/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D3EDC74906496F0FC125858A0018BED3?openDocument) — *Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ] Neplatnost právního jednání V…*
@@ -1737,6 +2179,8 @@ Příkaz lze odvolat kdykoli, avšak s povinností nahradit příkazníkovi nák
 > (1) Zprostředkovatel sdělí zájemci bez zbytečného odkladu vše, co má význam pro jeho rozhodování o uzavření zprostředkovávané smlouvy.
 > (2) Zájemce sdělí zprostředkovateli vše, co pro něho má rozhodný význam pro uzavření této smlouvy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
 ### § 2445 — Definice
 
 > (1) Smlouvou o zprostředkování se zprostředkovatel zavazuje, že zájemci zprostředkuje uzavření určité smlouvy s třetí osobou, a zájemce se zavazuje zaplatit zprostředkovateli provizi.
@@ -1754,6 +2198,14 @@ Příkaz lze odvolat kdykoli, avšak s povinností nahradit příkazníkovi nák
 - Pojišťovací zprostředkovatel;
 - Sňatkový makléř;
 - Online platformy (eBay, Marketplace).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2417 až 2426 návrhu — dnešní § 2445—2454):**
+
+> Návrh smlouvy o zprostředkování nahrazuje dosavadní smluvní typ, který
+> občanský zákoník upravil jako smlouvu o obstarání věci (jedná se o
+> relikt původní koncepce občanského zákoníku jako kodexu o službách).
+> Úprava se inspiruje platným obchodním zákoníkem (§ 642 a násl.) s
+> přihlédnutím k některým tradičním úpravám.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1845,6 +2297,22 @@ Zprostředkovatel jen vyhledává příležitost (smlouvu neuzavírá); právo n
 - Zájemce nesmí pověřit jiného zprostředkovatele;
 - Provize i pokud smlouvu uzavře bez zprostředkovatele.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2417 až 2426“ (dnešní § 2445—2454) — viz § 2445.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2379/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/207E5B2D0E750826C1258800001B8B5E?openDocument) — *Přípustnost dovolání Smlouva zprostředkovatelská*
@@ -1916,6 +2384,15 @@ Provize je zpravidla splatná uzavřením zprostředkované smlouvy, avšak při
 - Komisionářský prodej (autobazar, antikvariát);
 - Komise CP (investiční zprostředkovatel — již nahrazen MiFID II);
 - Komise nákupu surovin.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2427 až 2442 návrhu — dnešní § 2455—2470):**
+
+> Komisi jako formu nepřímého zastoupení upravuje v současné době jak
+> platný občanský zákoník (pod nevhodným označením „obstarání prodeje
+> věci" v § 737, což je důsledek původního pojetí obč. z. jako kodexu o
+> službách), tak i obchodní zákoník (v § 577 a násl.). Osnova recipuje s
+> drobnými korekturami úpravu obchodního zákoníku, která odpovídá
+> evropským standardům.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2025,6 +2502,36 @@ Komisionář jedná vlastním jménem na účet komitenta (§ 2455): navenek je 
 
 **§ 2467 — Vstup komisionáře sám do obchodu** (*Selbsteintritt*): jen se souhlasem komitenta.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2427 až 2442“ (dnešní § 2455—2470) — viz § 2455.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1736/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E6B7C6DA95477F26C125849400184815?openDocument) — *Řízení o úschovách Cenné papíry Smlouva komisionářská*
@@ -2072,6 +2579,55 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 > **Základní ustanovení**
 > (1) Zasílatelskou smlouvou se zasílatel zavazuje příkazci obstarat mu vlastním jménem a na jeho účet přepravu zásilky z určitého místa do jiného určitého místa, případně i obstarat nebo provést úkony s přepravou související, a příkazce se zavazuje zaplatit zasílateli odměnu.
 > (2) Je-li ujednáno, že zasílatel obstará pro příkazce od příjemce zásilky přijetí peněžních prostředků nebo že uskuteční jiný inkasní úkon dříve, než příjemci vydá zásilku nebo doklad umožňující se zásilkou nakládat, použijí se přiměřeně i ustanovení o dokumentárním inkasu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2443 až 2454 návrhu — dnešní § 2471—2482):**
+
+> Zasílatelství (spedice) je species komisionářské smlouvy. Osnova
+> recipuje platnou úpravu obchodního zákoníku (§ 601 a násl.).
+>
+> (676) K § 2455 až 2492:
+>
+> Vzhledem k tomu, že občanský zákoník má zahrnout úplný katalog smluvních
+> typů, zařazují se do osnovy i ustanovení o obchodním zastoupení. Tím mj.
+> nalezne logiku i dosavadní vyjádření požadavku v základním ustanovení,
+> že obchodním zástupcem může být jen nezávislý podnikatel, který v
+> obchodním zákoníku nemá zvláštní opodstatnění. Platná úprava obchodního
+> zastoupení v § 652 a násl. obchodního zákoníku byla novelou provedenou
+> zák. č. 370/2000 Sb. byla až na drobné výjimky harmonizována s textem
+> směrnice č. 86/653/ES. Proto se obsah dosavadní úpravy obchodního
+> zastoupení zásadně zachovává, jen se stylistickými a systematickými
+> úpravami a s upřesněními, která si vyžaduje plná harmonizace s citovanou
+> směrnicí.
+>
+> Dosavadní zákaz v § 652 odst. 2 písm. b) obchodního zákoníku, podle
+> něhož nemůže být obchodním zástupcem společník oprávněný zavazovat
+> ostatní společníky, je nahrazen přesnější formulací, lépe vyhovující čl.
+> 1 odst. 3 směrnice. V navrženém ustanovení není ve výčtu výslovně uváděn
+> likvidátor, neboť likvidátor je členem orgánu právnické osnovy ve smyslu
+> § 146, 147, 203 a 184 a jako člen orgánu za právnickou osobu rozhoduje a
+> nahrazuje její vůli; jako takový právnickou osobu i zavazuje. Znamená
+> to, že i likvidátor je osoba, která může zavazovat právnickou osobu jako
+> člen jejího orgánu.
+>
+> Platná úprava v § 655 odst. 1 obchodního zákoníku vyžaduje, aby obchodní
+> zástupce jednal v dobré víře. Tato formulace se opouští, protože jde o
+> subjektivní kategorii, která se podle obecných ustanovení osnovy
+> předpokládá u každého, kdo právně jedná, a tedy i u obou stran smlouvy o
+> obchodním zastoupení. Nově se proto navrhuje, že obchodní zástupce má
+> povinnost jednat s odbornou péčí.
+>
+> V ostatním se navrhuje zachovat obsah dosavadní úpravy. Pouze výraz
+> „právo na odškodnění", se kterým pracuje platný obchodní zákoník v §
+> 669, je nahrazen výrazem „zvláštní odměna" (ustanovení § 2486 návrhu). K
+> tomu se přikročilo z toho důvodu, že věcně nejde o odškodnění (tj. o
+> náhradu škody), ale o zvláštní odměnu za získané zákazníky nebo za
+> rozvinutí obchodu s dosavadními zákazníky. Způsobí-li zastoupený
+> obchodnímu zástupci protiprávně škodu, pak obchodní zástupce přirozeně
+> není práva na náhradu škody zbaven ani tím, že mu byla poskytnuta
+> zvláštní odměna za získané zákazníky nebo za rozvinutí obchodu s
+> dosavadními zákazníky, protože právo na zvláštní odměnu a právo na
+> náhradu škody se liší a uspokojení jednoho nenahrazuje uspokojení
+> druhého.
 
 ---
 
@@ -2129,6 +2685,28 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 
 **§ 2484**:
 > Obchodním zástupcem právnické osoby nemůže být osoba, která může zavazovat zastoupeného nebo osobu, s níž má být obchod uzavřen, jako člen jejího orgánu, ani nucený správce právnické osoby nebo insolvenční správce. K opačným ujednáním se nepřihlíží.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2443 až 2454“ (dnešní § 2471—2482) — viz § 2471.
 
 ---
 
@@ -2321,6 +2899,60 @@ Komisionář musí respektovat limitní ceny: prodej pod limit zakládá povinno
 - **Ošetřovaný** = může být **třetí osoba** (rodič za dítě);
 - **Předmět**: zdravotní péče dle lege artis.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2608 a 2609 návrhu — dnešní § 2636—2637):**
+
+> Zdejší platné právo neodráží dobře pojetí vzájemných práv a povinností
+> osoby, která se zavazuje někoho léčit, vůči druhé straně. Základ platné
+> právní úpravy vychází z koncepce zák. č. 20/1966 Sb., o péči o zdraví
+> lidu. Ten vychází z myšlenky, že člověk má veřejnoprávní nárok na léčení
+> vůči státu. V důsledku toho je tato úprava jednak zúžena na oblast
+> zdravotní péče poskytované provozovateli zdravotnických zařízení, a
+> nevztahuje se tudíž na jiné případy (např. činnost léčitelů, masérů,
+> chiropraktiků a dalších), jednak je pojata především veřejnoprávně, což
+> záporně ovlivňuje vnímání vzájemného právního postavení osoby, která
+> léčí, vůči osobě, která je léčena. Dosavadní pojetí právní úpravy
+> vyvolává představu, že zařízení poskytující léčebnou péči má postavení
+> mocenského orgánu, kterému je ošetřovaný podřízen. Takový pohled je však
+> klamný a rezidua někdejšího vnímání daného vztahu nelze do budoucna
+> uchovávat, mj. i se zřetelem k celkovým společenským proměnám v
+> uplynulých letech. Návrhy nových zákonů o zdravotních službách, o
+> specifických zdravotních službách a dalších přinášejí v tomto směru řadu
+> významných změn, ponechávají však stranou smluvní základ právního poměru
+> mezi dotčenými osobami; je proto třeba i v tomto směru postavit najisto,
+> že i v těchto případech tento základ tvoří smlouva.
+>
+> Navrhuje se proto upravit v občanském zákoníku práva a povinnosti
+> zúčastněných osob především jako oprávnění a povinnosti ze smlouvy.
+> Právní režim se navrhuje upravit obecně pro jakékoli léčebné výkony,
+> nejen tedy pro oblast výkonu zdravotní péče v užším slova smyslu s tím,
+> že navržená úprava nezasahuje do zvláštní zákonné úpravy platné pro
+> poskytování zdravotní péče, která jako speciální zůstává nedotčena.
+> Vzorem pro návrh jsou především obdobná úprava v nizozemském občanském
+> zákoníku (7: 446 a násl) a návrh příslušných ustanovení IV. knihy DFCR
+> (Draft Common Frame of Reference, návrh evropského občanského zákoníku),
+> zejména ustanovení čl. IV.C. - 8:101. Co do systematiky návrh sleduje
+> kompaktní a srozumitelnou nizozemskou úpravu: úprava DFCR některé otázky
+> řeší v obecných ustanoveních společných pro různé smlouvy týkající se
+> nejen léčebného výkonu, ale i stavby, zpracování, skladování aj., což
+> narušuje její přehlednost. Z hlediska návrhu volby věcných řešení se
+> však návrh inspiruje oběma uvedenými předlohami.
+>
+> Smluvní typ je označen jako smlouva o péči o zdraví, kterou se
+> poskytovatel zavazuje k poskytování péče o zdraví druhé smluvní strany,
+> popřípadě třetí osoby. Pojem péče o zdraví je podrobněji vymezen.
+> Protože se péče o zdraví může vztahovat i k třetí osobě - typicky, když
+> ošetřovaný není způsobilý uzavřít smlouvu - označují se strany jako
+> poskytovatel a příkazce. Tím se dává jednak najevo, že příkazcem může
+> být i osoba odlišná od ošetřovaného, dále pak i to, že povinnost
+> poskytovatele se týká především řádného provedení činnosti podle zásad
+> odbornosti (*de lege artis*). Poskytovatelem nemusí být nutně ten, kdo
+> výkon sám provádí: může jím být i právnická osoba. Poskytovatel odpovídá
+> zpravidla jen za odbornost výkonu, nikoli za dosažení výsledku. Proto se
+> také poskytovateli ukládá vysvětlit ošetřovanému, že léčením nemusí být
+> dosaženo chtěného výsledku, musí-li si být vědom toho, že u ošetřovaného
+> vyvolal opačnou představu. Pojmovým znakem smlouvy není úplatnost,
+> protože některé výkony jsou plně hrazeny z pojištění.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 3675/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4569125C70670F1C125859C0019FF05?openDocument) — *Náhrada škody Smlouva o péči o zdraví (o. z.)*
@@ -2460,6 +3092,101 @@ Péče o zdraví je smluvním typem (§ 2636), v němž ošetřovaným může b�
 - Hradí příkazce, ledaže zdravotní pojištění (zákon č. 48/1997 Sb.);
 - Nadstandardní péče platí pacient přímo.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2608 a 2609“ (dnešní § 2636—2637) — viz § 2636.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2610 až 2616 návrhu — dnešní § 2638—2644):**
+
+> Základem pojetí je respekt k zásadě, že poskytovatel i ošetřovaný si
+> jsou v právně rovném postavení. Jde o soukromoprávní hledisko; jedna
+> strana nemá vůči druhé nařizovací pravomoc. To se považuje za podstatné
+> zvláště vzhledem k tomu, že se péčí o zdraví zasahuje do tělesné nebo
+> duševní integrity člověka.
+>
+> Proto se vyžaduje, aby se ošetřovanému vysvětlilo vše potřebné, co se
+> vztahuje k jeho zdravotnímu stavu i k péči o zdraví. Ust. § 23 zák. č.
+> 20/1966 Sb. se týká jen lékařské péče a jeho úprava není dostatečná.
+> Návrh zákona o zdravotních službách situaci podstatně mění, ale bude-li
+> přijat, bude se vztahovat na případy vymezené předmětem jeho úpravy (do
+> nichž tato navržená úprava nezasahuje), nikoli na další situace, které
+> ponechává neřešeny. Z toho důvodu se navrhuje stanovit i pro případy,
+> které zdravotnické právní předpisy neřeší, že ošetřovanému musí být
+> vysvětleno, jaký je jeho zdravotní stav, jaká péče byla zvolena a proč,
+> jaké jiné výkony přicházejí v úvahu, jaký se očekává výsledek a jaká
+> rizika péči o zdraví provázejí. Informace mají být podány tak
+> srozumitelně, aby bylo možné rozumně předpokládat, že je ošetřovaný
+> vzhledem k svému věku a postavení pochopil. Vysvětlení může být dočasně
+> odepřeno, resp. nepodáno v plném rozsahu, je-li zjevné, že by se
+> sdělením vážně ohrozil zdravotní stav ošetřovaného; je-li to v jeho
+> zájmu, podá se v takovém případě vysvětlení jiné osobě. Ošetřovaný může
+> také projevit vůli, že si přeje, aby o péči nebyl poučen ani on, ani
+> jiná osoba: pak jeho přání musí být respektováno, vyjma případy, že z
+> toho někomu hrozí vážné nebezpečí.
+>
+> Vyjma případy, kdy to vylučuje zákon, se navrhuje jasně stanovit, že se
+> ke každému úkonu v rámci péče o zdraví vyžaduje souhlas ošetřovaného.
+> Má-li být ošetřovanému poskytována péče o zdraví, vyžaduje se jeho
+> spolupráce. Proto se navrhuje stanovit, že je povinen k potřebné
+> součinnosti a v rámci toho i sdělit poskytovateli podle svého nejlepšího
+> svědomí i potřebné údaje. Návrh nejde do podrobností, pokud jde o
+> provádění péče o zdraví; poukazuje jen, že se tak má stát s péčí řádného
+> odborníka a *de lege artis.* Podrobnosti, je-li potřebné je stanovit,
+> vymezují zvláštní zákony vztažené k některým speciálním činnostem a
+> stavovské předpisy. Navrhuje se však výslovně stanovit, že ošetřovaný má
+> právo požadovat, aby provádění jednotlivých úkonů při léčení nesledovaly
+> další - tj. na výkonu nezúčastněné - osoby.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2617 a 2618 návrhu — dnešní § 2645—2646):**
+
+> Péče o zdraví se poskytuje ošetřovanému jako plnění ze smlouvy. Protože
+> poskytovatel provádí péči v rámci svého povolání nebo předmětu činnosti,
+> zavazuje ho to provést ji podle smlouvy, s péčí řádného odborníka a *de
+> lege artis.* Porušení této povinnosti se posoudí jako porušení
+> povinnosti ze smlouvy, proto se povinnost k náhradě újmy tím způsobené
+> posoudí podle § 2883; tj., škůdce se povinnosti k náhradě zprostí,
+> prokáže-li, že mu ve splnění jeho povinnosti ze smlouvy zabránila
+> mimořádná nepředvídatelná a nepřekonatelná překážka vzniklá nezávisle na
+> jeho vůli. Jinak se povinnosti k náhradě zprostí i v případě, že
+> prokáže, že péči prováděl s péčí řádného odborníka: smlouva zavazuje
+> poskytovatele k odborné činnosti, nikoli povinnosti dosáhnout chtěného
+> výsledku.
+>
+> Navrhuje se reagovat výslovnou úpravou na situace, kdy se péče poskytuje
+> v zařízeních jako jsou nemocnice, polikliniky, ústavy sociálních služeb
+> a obdobná zařízení, jejichž provozovatelem je osoba odlišná od osoby,
+> která poskytuje péči vlastním jménem a na vlastní účet a riziko. Návrh
+> se odklání od striktního řešení nizozemského občanského zákoníku (čl.
+> 7:462 a 7:463) a s inspirací v DFCR (Draft Common Frame of Reference,
+> návrh evropského občanského zákoníku, čl. IV.C. - 8:111) volí řešení,
+> podle kterého provozovatelé těchto zařízení neodpovídají za činnost,
+> kterou v nich samostatně provádějí jiné osoby vlastním jménem a na
+> vlastní účet i riziko, protože provozovatel zařízení není smluvní
+> stranou; zároveň se však se zřetelem k obdobnému návrhu v DFCR bere v
+> úvahu, že se příkazci a ošetřovanému může z vnějších okolností jevit
+> situace důvodně jinak a že je ho třeba jako slabší stranu chránit. Z
+> toho důvodu se navrhuje stanovit, že příkazci nebo ošetřovanému musí být
+> včas sděleno, že provozovatel zařízení, kde se péče poskytuje, smluvní
+> stranou není. Pro případ, že se tak nestane a nelze-li poskytovatele
+> určit nebo nesdělí-li provozovatel bez zbytečného odkladu, kdo péči
+> poskytl, se navrhuje stanovit, že se i on považuje za poskytovatele
+> péče. V tom směru se navrhuje zmírnit normativní konstrukci DFCR (srov.
+> čl. IV.C. - 8.111 odst. 2: „Kde nemůže být poskytovatel ošetření
+> identifikovaný, \... organizace \..., ve které se ošetření konalo, je
+> brána jako poskytovatel \..."); výrazem „i" se zakládá dlužnická
+> solidarita skutečného poskytovatele a provozovatele zařízení, kde byla
+> péče poskytnuta. To má praktický význam, zjistí-li se dodatečně, kdo
+> péči ve skutečnosti podle smlouvy s příkazcem poskytl, protože pak vůči
+> němu uplatní provozovatel postihová práva snáze podle ustanovení o
+> dlužnické solidaritě, než kdyby byl nucen dovolávat se ustanovení o
+> bezdůvodném obohacení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2619 až 2622 návrhu — dnešní § 2647—2650):**
+
+> Návrh vychází z pojetí, že poskytovatel musí vést o péči potřebnou
+> dokumentaci. Navrhuje se opět úprava obecná, která nezasahuje do úprav
+> zvláštních zákonů. Podstatné je pojetí, podle něhož jsou sice záznamy o
+> ošetřovaném v majetku poskytovatele, týkají se však natolik soukromé
+> sféry ošetřovaného, že je zásadně nelze zpřístupnit bez jeho souhlasu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 358/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CE918B701A99D41C1258D22004D3BD7?openDocument) — *Nemajetková újma (o. z.) Ochrana osobnosti Dobré mravy Zdravotnictví*
@@ -2539,6 +3266,20 @@ Informovaný souhlas vyžaduje řádné, srozumitelné poučení o stavu, účel
 - Zákon č. 48/1997 Sb. o veřejném zdravotním pojištění;
 - Etický kodex ČLK.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2619 až 2622“ (dnešní § 2647—2650) — viz § 2647.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2619 až 2622“ (dnešní § 2647—2650) — viz § 2647.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2619 až 2622“ (dnešní § 2647—2650) — viz § 2647.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2623 návrhu — dnešní § 2651):**
+
+> Ze zřejmých důvodů se zakládá právo ošetřovaného odmítnout péči, i když
+> není příkazcem, je-li ovšem s to projevit právně relevantní vůli.
+> Navrhuje se také stanovit, že poskytovatel může smlouvu vypovědět jen z
+> důležitého důvodu, tedy např., odmítá-li ošetřovaný nezbytnou
+> součinnost, porušuje-li závažně poskytovatelova práva apod.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Praze* [25 Co 137/2025-159](https://rozhodnuti.justice.cz/rozhodnuti/?id=a7188037-f3f4-4da9-a2e3-889b55517d90) — *smlouva o přepravě věci, smlouva mezinárodní, držba*
@@ -2603,6 +3344,65 @@ Pacient má právo nahlížet do své zdravotnické dokumentace a pořizovat kop
 - Vytvoření softwaru;
 - Reklamní spot;
 - Údržba IT infrastruktury.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2558 až 2591 návrhu — dnešní § 2586—2619):**
+
+> Osnova odstraňuje dualismus úpravy neobchodní a obchodní smlouvy o dílo,
+> jehož zavedením se české právo řadilo mezi evropské kuriozity. Za základ
+> návrhu nové úpravy byla vzata platná úprava obchodního zákoníku s
+> přihlédnutím k některým zahraničním úpravám, protože pojetí smlouvy o
+> dílo v platném občanském zákoníku je poplatné jeho původní koncepci z r.
+> 1964 a vzoru občanského zákoníku z r. 1950. V určitých směrech se
+> přihlíží i k některým ustanovením někdejšího zákoníku mezinárodního
+> obchodu, jehož normativní konstrukce platný obchodní zákoník přejímal,
+> ale které byly často formulovány přesněji a přehledněji než stávající
+> úprava.
+>
+> V zájmu přehlednosti úpravy je návrh strukturován tak, že nejprve se
+> navrhuje upravit smlouvu o dílo obecně a poté odchylky o ceně díla
+> sjednané podle rozpočtu, o díle prováděném na nemovitých věcech a o
+> dílech s nehmotným výsledkem.
+>
+> Dílo je pojato standardně jako činnost (práce), přičemž práce jako
+> plnění smlouvy o dílo se od práce poskytované zaměstnancem na základě
+> pracovní smlouvy liší zejména tím, že podle smlouvy o dílo vykonává
+> zhotovitel činnost samostatně, podle vlastního rozvrhu, s vlastními
+> prostředky a na vlastní riziko, nepodléhaje ani soustavnému dozoru, ani
+> řízení objednatele.
+>
+> Zásada je, že zhotovitel provádí dílo osobně nebo je nechává provést pod
+> svým osobním vedením jen tehdy, je-li to zapotřebí vzhledem k jeho
+> osobním vlastnostem nebo k povaze díla. Nejedná-li se o takový případ,
+> může zhotovitel pověřit provedením nebo vedením díla jinou osobu, pak
+> ale, již podle obecné úpravy závazkového práva, odpovídá za řádné plnění
+> jako by dílo provedl sám.
+>
+> Velmi často je k provedení díla potřebná součinnost zhotovitele v
+> různých formách (dostavit se ke zkoušce šatů šitých na míru, předat věc
+> k provedení opravy, umožnit vstup do domu nebo bytu, zajistit staveniště
+> atp.). Osnova řeší na obecné úrovni různé aspekty těchto situací.
+> Zhotovitel není příkazníkem objednatele, nepodléhá tudíž zásadně jeho
+> pokynům, může to však být v určitém rozsahu ujednáno. Stejně tak může (a
+> někdy pro určité případy musí) být ujednáno, že objednatel dodá
+> zhotoviteli věc nebo materiál k provedení díla apod. Pro tyto případy je
+> převzato řešení, že zhotovitel jako osoba, která dílo provádí na svoji
+> odpovědnost, musí případné příkazy objednatele stejně jako věci případně
+> objednatelem k provedení díla předané s dostatečnou péčí prověřit a
+> upozornit na jejich případné vady. Řešena je i situace, kdy objednatel,
+> ač k tomu smluvně zavázán, věc nedodá.
+>
+> Právě proto, že je pravidlem, že zhotovitel při provádění díla příkazům
+> objednatele nepodléhá, musí zákon vyhradit objednateli právo kontroly
+> nad prováděním díla. I v tom směru se přejímá dosavadní pojetí
+> občanského a obchodního zákoníku.
+>
+> Povinnost provést dílo zhotovitel splní jeho dokončením a předáním, své
+> povinnosti objednatel splní zaplacením ceny. Návrh řeší také zvláštní
+> případy, kdy je dílo předáváno po částech, kdy je cena určena jen
+> odhadem, kdy je dílo z různých příčin zmařeno apod.
+>
+> Pokud jde o vady díla, odkazuje se shodně s dosavadními úpravami na
+> přiměřená použití ustanovení o kupní smlouvě.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2675,6 +3475,12 @@ Smlouva o dílo je závazkem k výsledku činnosti (§ 2586); kvalifikace se ř�
 - **Zhotovení věci** (movité, nemovité);
 - **Údržba, oprava, úprava** věci;
 - **Činnost s materiálním výsledkem** (např. úklid, kuchařské služby pro událost).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2761,6 +3567,20 @@ Je-li dílo vázáno na zvláštní osobní schopnosti zhotovitele, jeho ztráta
 
 **§ 2620 — Rozpočet závazný** — zhotovitel **nemůže žádat zvýšení**, ledaže:
 - Mimořádné okolnosti, kterým nemohl předejít.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2863,6 +3683,26 @@ Zhotovitel postupuje samostatně a s odbornou péčí (§ 2590, § 2592) a musí
 - Pokud objednatel → zhotovitel **upozorní** na vady.
 
 **§ 2602—2606 — Subdodavatelé**: dovoleno, pokud nebylo vyloučeno; **odpovědnost zhotovitele** za jejich úkony.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2976,6 +3816,57 @@ Vlastnictví a nebezpečí škody u rozpracovaného díla se řídí § 2599 (m�
 **§ 2608—2609 — Vady při převzetí**:
 - **Otevřené vady** (zjevné) → uplatnit při převzetí;
 - **Skryté vady** → ve lhůtě (typicky 5 let u staveb — § 2629).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2558 až 2591“ (dnešní § 2586—2619) — viz § 2586.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2592 až 2594 návrhu — dnešní § 2620—2622):**
+
+> Při složitějších dílech bývá pravidelně vypracován rozpočet sloužící ke
+> stanovení a odůvodnění výše ceny. Byl-li rozpočet jen pomůckou pro
+> ujednání ceny ve smlouvě pevnou částkou, platí mezi stranami takto
+> ujednaná cena díla a případné změny rozpočtu změnu pevně dohodnuté ceny
+> neovlivní.
+>
+> Přece jen však mohou nastat mimořádné okolnosti, odůvodňující zmírnění
+> tvrdosti tohoto pravidla. Z toho důvodu se navrhuje převzít ze
+> švýcarského práva řešení situace, kdy provedení díla ztíží a prodraží
+> mimořádná okolnost blížící se svým charakterem vyšší moci. Nedohodnou-li
+> se strany v takovém případě o zvýšení ceny, navrhuje se, aby o
+> přiměřeném zvýšení ceny rozhodl na návrh zhotovitele soud, případně aby
+> soud měl možnost smlouvu zrušit a rozhodnout o vypořádání stran.
+>
+> Bylo-li však dílo zadáno podle rozpočtu, přejímá se standardní úprava
+> rozlišení rozpočtu na zaručený a nezaručený. Při rozpočtu zaručeném co
+> do závaznosti a úplnosti nelze cenu zvýšit jinak než dohodou stran.
+> Naproti tomu nezaručený rozpočet umožňuje zhotoviteli jednostranně
+> zvýšit cenu, objeví-li se nutnost vyšších nákladů nebo dalších prací,
+> musí však takovou nutnost bezodkladně oznámit objednateli, jinak právo
+> na zvýšení ceny ztrácí. Má-li se však cena zvýšit o více než o 10%,
+> přiznává se objednateli právo odstoupit od smlouvy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -3127,6 +4018,49 @@ Dílo je provedeno dokončením a předáním (§ 2604); převzetí bez výhrad 
 - **Záruka 5 let** (zvláštní ochrana u staveb);
 - **Solidární ručení** subdodavatelů (§ 2630) — investor může žádat napřímo subdodavatele.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2592 až 2594“ (dnešní § 2620—2622) — viz § 2620.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2592 až 2594“ (dnešní § 2620—2622) — viz § 2620.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2595 až 2602 návrhu — dnešní § 2623—2630):**
+
+> Souborem zvláštních ustanovení se navrhuje upravit některá specifika děl
+> prováděných jako stavební práce. Typické případy jsou zhotovení stavby,
+> její oprava nebo úprava, mohou však přicházet v úvahu i jiné úpravy
+> nemovité věci.
+>
+> Předně má zhotovitel nést nebezpečí škody na stavbě až do jejího předání
+> (ledaže by ke škodě došlo i jinak). V tom směru se přejímá § 651
+> platného občanského zákoníku.
+>
+> I při stavebních pracích má objednatel právo kontrolovat její provádění
+> již podle obecné úpravy. Navrhuje se však, aby mu bylo přiznáno také
+> právo požadovat předložení průběžného vyúčtování provedených prací a
+> vynaložených nákladů v těch případech, kdy je cena ujednána podle jejich
+> skutečného rozsahu.
+>
+> Ustanovení o kontrolách díla na určitém stupni jejich provádění a o
+> skrytých překážkách jsou převzata z platného obchodního zákoníku (§ 552
+> a 553).
+>
+> Pokud se jedná o práva z vadného provedení díla, vymezil platný občanský
+> zákoník dobu, do které mohou být uplatněny, třemi léty (§ 646 odst. 3),
+> obchodní zákoník pěti lety (§ 562 odst. 2). Osnova se přiklání řešení
+> obchodního zákoníku, které více odpovídá mezinárodním standardům. Avšak
+> vzhledem k tomu, že u určitých částí stavby nelze pravidelně garantovat
+> pětiletou životnost, navrhuje se po vzoru § 646 odst. 3 platného
+> občanského zákoníku umožnit, aby v určitých případech pro některé části
+> stavby prováděcí předpis tuto dobu zkrátil. Totéž se navrhuje umožnit i
+> pro úmluvu stran; v tom případě však nelze zhoršit postavení
+> objednatele, je-li slabší stranou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2603 až 2607 návrhu — dnešní § 2631—2635):**
+
+> Ustanovení tohoto oddílu přejímají s drobnými úpravami platnou právní
+> úpravu obsaženou v § 556 až 559 obchodního zákoníku. Doplněna jsou nově
+> o pravidlo vztažené k soutěžnímu dílu, které, ač velmi potřebné, v našem
+> právním řádu zatím chybí.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 37/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-37-24_1) — usnesení, 13. 2. 2024
@@ -3193,6 +4127,32 @@ Skryté vady stavby lze vytknout v pětileté lhůtě (§ 2629; u spotřebitele 
 
 **Transpozice směrnice (EU) 2015/2302** o **souborných cestovních službách** (PTD).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2493 až 2502 návrhu — dnešní § 2521—2530):**
+
+> Návrh ustanovení o zájezdu respektuje směrnici č. 90/314/EHS z 13. 6.
+> 1990 o souborných službách pro cestování, pobytech a zájezdech. Stejný
+> smluvní typ upravuje platný občanský zákoník v § 852a a násl. jako
+> cestovní smlouvu. Dosavadní označení je převzato z německého názvu
+> *Reisevertrag,* není však zcela vhodné, protože plněním podle této
+> smlouvy není cesta, nýbrž zájezd jako soubor služeb cestovního ruchu.
+> Označení této smlouvy jako cestovní je nepřesné i z toho důvodu, že o
+> tuto smlouvu půjde, i když doprava cestujícího nebude do poskytovaného
+> souboru služeb cestovního ruchu vůbec zahrnuta.
+>
+> Platná úprava evropské směrnici plně neodpovídá. Základní nedostatky
+> platné úpravy jsou zejména v tom, že platný občanský zákoník spojuje
+> (často odkazy na veřejnoprávní úpravu v zákoně č. 159/1999 Sb.)
+> pořadatelství zájezdu s existencí příslušného podnikatelského oprávnění,
+> pojetí zájezdu neodpovídá vymezení směrnice a z práv cestujícího při
+> porušení smlouvy pořadatelem se vylučuje právo na odškodnění za ztrátu
+> potěšení z dovolené. Na druhé straně je platná úprava místy příliš
+> přepjatá, např. požadavkem písemné formy smlouvy (který se paradoxně
+> obrací proti zákazníkovi, neboť nedostatek formy působí neplatnost
+> smlouvy). Tyto nedostatky se navrhuje odstranit.
+>
+> Návrh vychází z dosavadní úpravy s přihlédnutím k některým zahraničním
+> úpravám, zejména německé, nizozemské a slovenské.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B08811983AF3F78EC1258CB6004D35DC?openDocument) — *Smlouva o zájezdu (o. z.) Pojištění záruky (o. z.) [ Odvážné smlouvy (o. z.) ]*
@@ -3251,6 +4211,12 @@ Smlouva o zájezdu předpokládá kombinaci nejméně dvou cestovních služeb z
 > (1) Pořadatel nebo zprostředkovatel prodeje zájezdu sdělí zákazníkovi jasným, srozumitelným a zřetelným způsobem před tím, než učiní závaznou objednávku, nebo před uzavřením smlouvy údaje uvedené v zákoně upravujícím některé podmínky podnikání a výkon některých činností v oblasti cestovního ruchu.
 > (2) Údaje o obsahu závazku podle § 2527 a § 2528 odst. 1 písm. b) až d) a f), které pořadatel nebo zprostředkovatel zájezdu sdělil zákazníkovi podle odstavce 1, se stávají obsahem smlouvy; mohou být změněny jen výslovnou dohodou smluvních stran. Pořadatel nebo zprostředkovatel zájezdu sdělí zákazníkovi veškeré změny těchto údajů jasným, srozumitelným a zřetelným způsobem před uzavřením smlouvy.
 > (3) Pokud pořadatel nebo zprostředkovatel prodeje zájezdu nesdělil zákazníkovi celkovou cenu zájezdu včetně daní, poplatků a jiných obdobných peněžitých plnění a veškerých případných dalších nákladů, není zákazník povinen tyto daně, poplatky, jiná obdobná peněžitá plnění a další náklady uhradit. To platí i v případě, že nelze tyto daně, poplatky, jiná obdobná peněžitá plnění a další náklady přiměřeným způsobem vyčíslit před uzavřením smlouvy, a v případě, že pořadatel nebo zprostředkovatel prodeje zájezdu nesdělil zákazníkovi druh dalších nákladů, jež mu mohou ještě vzniknout.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
 
 ### § 2525—2549 — Klíčové prvky
 
@@ -3510,6 +4476,183 @@ Smlouva o zájezdu předpokládá kombinaci nejméně dvou cestovních služeb z
 - **Náhrada nákladů** vynaložených účelně;
 - **Bez nároku na odměnu** (pokud nebyla zachráněna lidská hodnota — § 3009);
 - **Schválení** pánem věci dodatečně → mění se na příkazní vztah.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2493 až 2502“ (dnešní § 2521—2530) — viz § 2521.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2503 návrhu — dnešní § 2531):**
+
+> Návrh ustanovení je provedením čl. 4 odst. 5 směrnice č. 90/314/EHS z
+> 13. 6. 1990 o souborných službách pro cestování, pobytech a zájezdech,
+> podle kterého je organizátor musí co nejrychleji uvědomit spotřebitele,
+> pokud je nucen před odjezdem podstatně změnit některou ze základních
+> podmínek smlouvy, a umožnit mu přijmout vhodné rozhodnutí; zejména
+> odstoupit od smlouvy bez sankce, nebo přijmout dodatek ke smlouvě
+> upřesňující provedené změny a jejich cenu.
+>
+> Protože směrnice v posl. větě čl. 4 odst. 5 spotřebiteli povinnost
+> uvědomit pořadatele zájezdu co nejdříve, je odstavec 2 navrženého
+> ustanovení provedením tohoto právního pravidla, které stanoví nezbytnost
+> rychlé reakce cestujícího. Stanovení pětidenní lhůty přejímá dosavadní
+> úpravu (§ 852e platného občanského zákoníku); obdobné omezení počtem dnů
+> se při provedení směrnice objevuje v právních úpravách řady států
+> (Itálie omezuje právo cestujícího odstoupit od smlouvy dvěma pracovními
+> dny od návrhu změny, Belgie a Španělsko třemi kalendářními dny, Rumunsko
+> pěti, Lucembursko sedmi, Portugalsko osmi aj.). Nevyužije-li cestující
+> své právo odstoupit od smlouvy, přejímá se z § 852e platného občanského
+> zákoníku právní domněnka jeho souhlasu s navrženými změnami. I toto
+> řešení odpovídá požadavku směrnice. Je totiž nutné uvážit, že původní
+> smlouva nezměněna zůstat nemůže, neboť pořadatel je vnějšími okolnostmi
+> donucen změnit podmínky zájezdu, takže neodstoupí-li cestující, nemůže
+> smlouva s původním obsahem již obstát. Proto, neodstoupí-li cestující od
+> smlouvy, nemohou být strany nezměněnou smlouvou vázány, a tudíž se
+> vychází z právní domněnky, že za takových okolností cestující změnu
+> přijal. Proto také řada zahraničních právních úprav upravuje v dané
+> souvislosti výslovně jen právo cestujícího odstoupit od smlouvy,
+> vycházejíc z toho, že přijetí změn je samozřejmé, pokud cestující od
+> smlouvy neodstoupil. Odstoupí-li cestující, může požadovat náhradní
+> zájezd.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2504 návrhu — dnešní § 2532):**
+
+> Již dosavadní úprava (§ 852f platného občanského zákoníku) zakládá právo
+> cestujícího postoupit smlouvu jinému. Navržená úprava toto řešení
+> přejímá, avšak návrh je v tomto bodě stručnější, protože postoupení
+> smlouvy je v osnově upraveno jako obecný institut obligačního práva,
+> který zatím v platném právu chybí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2505 až 2512 návrhu — dnešní § 2533—2540):**
+
+> Navržená úprava přejímá s formulačními a systematickými úpravami
+> ustanovení o odstoupení od smlouvy a o vadách zájezdu z platného
+> občanského zákoníku.
+>
+> Vyskytnou-li se vady zájezdu, ukládá se cestujícímu vytknout je bez
+> zbytečného odkladu. Obdobné je to i v současné právní úpravě (§ 852i
+> odst. 2 platného občanského zákoníku). Kdy je vada vytknuta bez
+> zbytečného odkladu, záleží na okolnostech. Obecně jde o povinnost
+> reagovat tak rychle, jak je to za dané situace technicky a organizačně
+> možné. Zpravidla bude zapotřebí vadu vytknout již na místě (pokud např.
+> v hotelovém pokoji neteče voda, cestující nedostal v rozporu se smlouvou
+> oběd, fakultativní výlet odpadl, ač byl zaplacen apod.), aby pořadatel
+> měl možnost zajistit nápravu. Mohou však nastat i výjimečné situace, kdy
+> to nebude možné, např. když se vada objeví na samém konci zájezdu a
+> zástupce pořadatele již nebude přítomen. Tehdy bude lhůta dodržena i při
+> vytknutí vady po skončení zájezdu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2513 návrhu — dnešní § 2541):**
+
+> Návrh ustanovení o pomoci v nesnázích důsledněji naplňuje smysl a účel
+> směrnice č. 90/314/EHS z 13. 6. 1990 o souborných službách pro
+> cestování, pobytech a zájezdech a více chrání cestujícího než dosavadní
+> úprava v § 852k odst. 1 platného občanského zákoníku. Povinnost
+> poskytnout pomoc cestujícímu v nesnázích je tudíž koncipována šíře.
+> Rozsah a intenzita pomoci v nesnázích se odvíjejí od toho, k čemu
+> pořadatele zavazuje smlouva. Poruší-li pořadatel tyto povinnosti, musí
+> urychleně zjednat nápravu, tak aby porušení smlouvy bylo zahlazeno.
+>
+> V jiných případech, např. onemocní-li cestující, utrpí-li úraz nebo
+> ztratí-li se v průběhu zájezdu, záleží na okolnostech jednotlivého
+> případu. V každém případě má pořadatel zájezdu i za této nebo podobné
+> situace poskytnout cestujícímu v nesnázích takovou pomoc, která je v
+> jeho možnostech a kterou na něm lze rozumně požadovat. To se týká např.
+> také práva cestujícího na repatriaci. Zahrnuje-li smlouva do služeb
+> poskytovaných v rámci zájezdu i dopravu, má cestující právo, aby mu
+> cestovní kancelář zajistila nejen dopravu zpět do místa odjezdu,
+> popřípadě do jiného místa, pokud s tím zákazník souhlasí, ale také
+> náhradní ubytování a stravování, je-li toho třeba (srov. *Selucká, M.*
+> in *Švestka, J. et al.* Občanský zákoník II. Komentář. 1. vydání. Praha:
+> C. H. Beck, 2008, s. 2230; *Hulmák, M.* in *Eliáš, K. et al.* Občanský
+> zákoník. Velký akademický komentář. 2. svazek. 1. vydání. Praha: Linde,
+> 2008, s. 2536). Nezahrnuje-li smlouva povinnost pořadatele zajistit
+> cestujícímu dopravu zpět, pak pořadateli nevznikne automaticky povinnost
+> cestujícího repatriovat, ani ocitne-li se v nesnázích. Leč i v tomto
+> případě pořadatel cestujícímu pomoc poskytnout musí. Potom záleží na
+> okolnostech případu a na možnostech pořadatele, v jakém rozsahu a v jaké
+> intenzitě může pomoc cestujícímu poskytnout. Někdy postačí rada, jak se
+> náhradním způsobem dopravit zpět, jindy, bude-li to v možnostech
+> pořadatele, i v nabídce že pořadatel cestujícího sám dopraví zpět (např.
+> dopravil-li se cestující podle smlouvy do místa pobytu vlastním
+> automobilem, automobil byl v místě zničen, ale pořadatel vezl do téhož
+> místa jiné cestující autobusem a při zpáteční cestě má volné místo). V
+> takovém případě je však samozřejmé, že rozšířená nabídka služby
+> pořadatele vyžaduje její přijetí cestujícím, včetně závazku cestujícího
+> zaplatit poskytnutou službu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2514 až 2516 návrhu — dnešní § 2542—2544):**
+
+> Rovněž návrh ustanovení o náhradě škody přejímá ustanovení z platné
+> právní úpravy. Navrhuje se však výslovně upravit právo cestujícího na
+> náhradu újmy za ztrátu radosti z dovolené. Důvody jsou následující:
+>
+> Platná úprava vychází z pojetí, že škodou se rozumí majetková újma.
+> Návrh nového občanského zákoníku vychází z téhož pojetí, avšak formuluje
+> pravidlo, že právo na náhradu nemajetkové újmy náleží poškozenému, jen
+> stanoví-li tak zákon výslovně. Toto pojetí sleduje koncepci, kterou ve
+> stejné otázce zaujal německý občanský zákoník. Protože čl. 5 směrnice č.
+> 90/314/EHS zakládá podle rozhodnutí Evropského soudního dvora v zásadě i
+> právo zákazníka na náhradu nemajetkové újmy v důsledku neplnění nebo
+> vadného plnění služeb zahrnutých v zájezdu (věc C-168/00 *Simone Leitner
+> v. TUI Deutschland GmbH & Co KG* z 12. 3. 2002), neodpovídá dosavadní
+> úprava této otázky v českém právu požadavku směrnice. Z toho důvodu
+> návrh vychází z čl. 7:510 nizozemského občanského zákoníku, jakož i
+> dalších úprav ve státech EU (srov. např. § 31e odst. 3 rakouského zákona
+> na ochranu spotřebitelů nebo § 651f německého občanského zákoníku;
+> výslovnou úpravu mají v daném směru např. také Belgie, Dánsko nebo
+> Estonsko). V jiných státech EU (Itálie, Španělsko, Maďarsko, Rumunsko,
+> Velká Británie aj.) přiznává náhradu za ztrátu radosti z dovolené
+> judikatura. Náhrada za ztrátu radosti z dovolené (*loss of enjoyment of
+> the holiday, Entgang von Urlaubsfreude*) je tedy institut spojovaný ve
+> státech EU se službami cestovního ruchu zcela běžně, což je vzhledem k
+> účelu a smyslu čl. 5 směrnice č. 90/314/EHS také logické. Důvodem tohoto
+> řešení je obvyklý účel zájezdu jako placené služby, kterou si cestující
+> zajišťuje dostatečný odpočinek, zvláště jde-li o člověka, který se živí
+> vlastní prací.
+>
+> Bez výslovné úpravy v zákoně hledá judikatura v našem právním prostředí
+> cestu k ochraně cestujícího s využitím § 11 a následujících platného
+> občanského zákoníku o ochraně osobnosti (srov. např. rozsudek Obvodního
+> soudu pro Prahu 1, sp. zn. C 220/2006 z 30. 4. 2008). Aplikace těchto
+> ustanovení však může vést široko nad rámec směrnice, neboť ochrana
+> osobnosti se netýká jen smluvních stran, takže mlčení zákonného textu
+> může pro pořadatele zájezdu vyvolat tvrdší následky, než k jakým povede
+> výslovná úprava. Podle navrženého ustanovení má pro obstarání zájezdu
+> platit zvláštní úprava, tudíž tato zvláštní úprava má mít před obecnou
+> úpravou také přednost. Právo na náhradu za ztrátu radosti z dovolené
+> vznikne ovšem jen v případě, že účelem zájezdu je skutečně dovolená a
+> odpočinek cestujícího. Nikoli tedy v případech, kdy účelem zájezdu není
+> rekreace, ale školení nebo účast na konferenci apod. V těchto případech
+> nepřichází radost z dovolené v úvahu, a tudíž ani náhrada za její
+> ztrátu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2517 až 2519 návrhu — dnešní § 2545—2547):**
+
+> Zahraniční školní pobyty mají svá specifika. Zejména se jedná o potřebu
+> vyšší ochrany žáka a o možnost odstoupit od smlouvy ještě před zahájením
+> pobytu bez povinnosti platit odstupné i v jiných případech, než stanoví
+> obecná úprava. Proto se navrhuje upravit zvláštnosti zahraničního
+> školního pobytu převzetím § 651l německého občanského zákoníku. Žákem se
+> ve smyslu těchto ustanovení nerozumí jen žák základní školy, ale každý,
+> kdo za účelem vzdělávání navštěvuje školu, tedy i student střední nebo
+> vysoké školy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2520 a 2521 návrhu — dnešní § 2548—2549):**
+
+> Dosavadní úprava cestovní smlouvy v občanském zákoníku speciálně neřeší
+> otázku platnosti, resp. neplatnosti smluvních ujednání. Navrženým
+> ustanovením se ve shodě se směrnicí č. 90/314/EHS stranám zapovídá
+> ujednat si ve smlouvě o obstarání zájezdu smluvní doložky odchylující se
+> od zákonné úpravy v neprospěch cestujícího a stíhá taková ujednání
+> neplatností.
 
 **Judikatura (z místních zdrojů):**
 

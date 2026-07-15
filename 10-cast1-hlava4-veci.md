@@ -48,6 +48,113 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 
 **Praktický význam široké definice**: do oboru věcného práva (vlastnické právo, držba) se zahrnují i **práva** — lze hovořit o „vlastnictví pohledávky", „vlastnictví autorského práva". To zjednodušuje úpravu a umožňuje analogické aplikace.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 482 až 486 návrhu — dnešní § 489—493):**
+
+> Návrh právní úpravy věcí vychází, shodně s věcným záměrem občanského
+> zákoníku, koncepčně z předválečného vládního návrhu československého
+> občanského zákoníku z r. 1937 s přihlédnutím k některým novějším
+> zahraničním úpravám. Osnova se přiklání k širokému pojmu věci a opouští
+> materialistické a pozitivistické hledisko druhé poloviny 19. stol.,
+> které se u nás bylo zavedeno v r. 1950 pod vlivem německého a zejména
+> sovětského právního nazírání a uchovalo se do současné doby. Široké
+> vymezení zahrnující pojmově jako věci v právním smyslu věci hmotné i
+> nehmotné (např. předměty spadající do kategorií průmyslového a jiného
+> duševního vlastnictví, zaknihovaných cenných papírů, investičních
+> nástrojů typu opcí, swapů, futures nebo forwardů atd.) vyhovuje lépe
+> praktické potřebě i hledisku zdejšího ústavního pořádku. Je třeba vzít v
+> úvahu, že různé speciální zákony prolomily zdejší civilistické dogma,
+> podle něhož mohou být ve vlastnictví jen věci hmotné: např. zákon o
+> ochranných známkách, zákon o průmyslových vzorech, zákon o podnikání na
+> kapitálovém trhu, obchodní zákoník a další. Hlavně je však nutné uvážit,
+> že navržené pojetí věci v právním smyslu a způsobilého předmětu
+> vlastnictví plně konvenuje čl. 11 odst. 1 Listiny základních práv a
+> svobod a odpovídá i pojetí mezinárodních smluv na ochranu vlastnictví a
+> řadě nadnárodních úprav, které např. i pohledávky chápou jako věci ve
+> smyslu práva.
+>
+> Předně se navrhuje pozitivní vymezení věci v právním smyslu. Nelze
+> přijmout argument, na jehož základě platný občanský zákoník již v roce
+> 1964 definici věci v právním smyslu odmítl, totiž že věc je přírodní
+> fakt, a že ji tedy právo nemůže definovat. Definice věci v juristickém
+> slova smyslu není definicí reálnou a nevypovídá nic o reálném světě, ale
+> je definicí nominální. Rovněž dosavadní pojetí věci v právním smyslu se
+> rozchází s realitou, neboť i to, co se jeví ve skutečném světě jako věc,
+> anebo zač věc považují např. jednotlivé technické nebo přírodní vědy,
+> není věcí ve smyslu práva. Návrh § 482 staví na dvou základních znacích.
+>
+> Za prvé, věcí v právním smyslu je to, co je rozdílné od osoby a co
+> slouží potřebě lidí. V tom je vyjádřeno, že věcí v právním smyslu jsou
+> objekty pro člověka užitečné. Užitečností se nerozumí jen faktické
+> přinášení užitku jednotlivým předmětem konkrétnímu vlastníkovi, ale
+> objektivní způsobilost přinášet především hospodářský užitek (čímž se
+> nevylučuje užitek estetický či jiný). Užitečné je, co je prospěšné pro
+> život člověka, a tedy má i hodnotu. Užitečnost není vnitřní vlastností
+> věci (s věcí trvale a neoddělitelně spjatou); o tom, co je užitečné, a
+> co tedy je vzhledem k tomu věcí, rozhodují lidská vůle a poznání i
+> schopnosti člověka.
+>
+> Za druhé, věcí v právním smyslu je to, čeho se mohou týkat subjektivní
+> majetková práva, především právo vlastnické. Obecně je pro věc v právním
+> smyslu typické, že si ji lze přivlastnit. V tom je vyjádřeno, že určitý
+> předmět je věcí v právním smyslu, je-li ovladatelný. Ne vše, co je pro
+> člověka užitečné (vzduch, déšť, slunce, žhavé zemské jádro) lze spojit s
+> pojmem věci. Věc v právním smyslu profiluje její ovladatelnost. Např.
+> španělský (čl. 334) občanský zákoník spojuje vlastnost věci s její
+> způsobilostí k přivlastnění, italský zákoník (čl. 810) s její
+> způsobilostí být objektem práv apod. Osnova vyjadřuje totéž slovy, že
+> věcí v právním smyslu se týkají majetková práva. Věcí je vše, co člověk
+> jako bytost nadaná rozumem může podrobit své vůli. Také ovladatelnost je
+> třeba chápat jako kategorii objektivní a obecnou, nikoli tedy ve vztahu
+> ke konkrétnímu jednotlivci nebo ke konkrétní situaci.
+>
+> Veřejný statek (§ 483) je věc zvláštní povahy. Navrhuje se vymezit jako
+> věc, která slouží k obecnému užívání. Tím je řečeno, že kritérion
+> určení, co je veřejným statkem, není ve zjištění, kdo je vlastníkem
+> určité věci (zda se jedná o věc ve veřejném či soukromém vlastnictví),
+> ale v tom, jakému účelu má sloužit nebo slouží. Vymezení veřejného
+> statku odkazem na účel, jemuž má určitá věc sloužit - nikoli, jemuž již
+> slouží - se opírá o fakt, že rozhoduje stav chtěný, nikoli faktický.
+> Povolá-li zůstavitel dědice s příkazem, aby dědic učinil z uzavřené
+> zahrady uprostřed města, kterou zdědil, veřejný park, pak se zahrada
+> okamžikem smrti zůstavitele stane veřejným statkem, byť obecnému užívání
+> ještě neslouží, a ten, komu to podle zvláštních právních předpisů
+> náleží, má právo domáhat se, aby pozemek byl veřejnosti zpřístupněn. Při
+> vymezení veřejného statku se vychází z obdobné charakteristiky, jakou
+> měl vládní návrh občanského zákoníku z r. 1937. Z tohoto návrhu se však
+> nepřejímá formulace, že se veřejný statek „spravuje tímto zákonem, pokud
+> ve správních a jiných zákonech není stanoveno něco jiného", aniž se
+> ovšem zamýšlí tuto zásadu opustit, protože zásada jako taková vyplývá z
+> právního řádu automaticky. Předpokládá se, že se úprava veřejného
+> statku, je-li nemovitou věcí, zohlední při novele katastrálního zákona.
+>
+> Na základní ustanovení o věcech navazuje ustanovení § 484 o plodech a
+> užitcích věci. Obsah ustanovení je formulován standardně a odpovídá
+> konvencím kontinentálního práva.
+>
+> K obecným ustanovením o věcech se řadí i § 485 o ceně věci. Obratem
+> „lze-li ji vyjádřit v penězích" se vyjadřuje v prvém odstavci
+> skutečnost, že mohou být také věci, jejichž cenu stanovit v penězích
+> (ani odhadem) vůbec nelze: pak jsou takové věci neocenitelné. Navrhuje
+> se stanovit, co je obecná cena věci a zároveň, že určení této obecné
+> ceny je obecné pravidlo. V určitých případech vymezených v § 485 odst. 2
+> však může být zjišťována i mimořádná cena věci, a pro ten případ se
+> navrhuje stanovit, jaká kritéria jsou pro zjištění mimořádné ceny věci
+> rozhodná.
+>
+> Věc v právním smyslu se vymezuje také negativně (§ 486 a 487). Předně se
+> navrhuje stanovit, že lidské tělo a části lidského těla nejsou věcmi, i
+> když jsou od lidského těla odděleny. Z této formulace a z jejího spojení
+> s návrhem ustanovení § 482 plyne, že věcí v právním smyslu není člověk,
+> ani jeho mrtvé tělo, ani části lidského těla. V daném směru zákonná
+> ustanovení o věcech použít vůbec nelze. Za určitých okolností je však
+> možné považovat i části lidského těla za věc, a to tehdy, pokud to
+> zvláštní právní předpis pro své účely stanoví. Části lidského těla však
+> nelze podřídit běžným ustanovením o věcech podle občanského zákoníku, a
+> to z důvodu, aby se zabránilo například s jejich volným obchodováním.
+> Pokud zvláštní právní předpisy stanoví, že části lidského těla jsou
+> věci, je možné s nimi jako s věcmi nakládat pouze v mezích těchto
+> zvláštních právních předpisů.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2225/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/80F0E63778128EA1C1258D420052A363?openDocument) — *Odstoupení od smlouvy Spotřebitel*
@@ -119,6 +226,8 @@ Definice § 489 je záměrně široká a zahrnuje hmotné objekty, práva (pohle
 - Vlastník nemůže veřejné užívání svévolně zakázat;
 - Speciální zákony: zákon č. 13/1997 Sb. o pozemních komunikacích; zákon č. 254/2001 Sb. o vodách.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 482 až 486“ (dnešní § 489—493) — viz § 489.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2076/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E06D15B48850E05AC12589E100182FE6?openDocument) — *Přípustnost dovolání Veřejný statek (o. z.)*
@@ -183,6 +292,8 @@ Veřejný statek je věc určená k obecnému užívání; její vlastník (typi
 - **Při dispozici s věcí** (prodej, dar) plody a užitky **náleží novému vlastníkovi** od okamžiku přechodu vlastnictví, ledaže je ujednáno jinak (§ 1067);
 - **Poctivý držitel** má nárok na plody a užitky **odebrané** během držby (§ 996); nepoctivý nemá (§ 1000);
 - **Užitky pohledávky** (úroky) — viz § 1808 a násl. (úroky z prodlení), § 513 (úroky jako příslušenství pohledávky).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 482 až 486“ (dnešní § 489—493) — viz § 489.
 
 **Judikatura (z místních zdrojů):**
 
@@ -259,6 +370,8 @@ Plody jsou přirozené výnosy (ovoce, mléko, úroda), užitky jsou právní v�
 
 **Praktický význam**: u věcí zvláštní obliby (§ 459) je hodnota při náhradě **vyšší** než tržní (zohlednění citového vztahu).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 482 až 486“ (dnešní § 489—493) — viz § 489.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 451/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7ADA174D9152FA7C12586E500186B9C?openDocument) — *Neúměrné zkrácení (o. z.) Akcie na jméno Akcie Akcionář Cena Cena věci (o. z.) Znalecký…*
@@ -321,6 +434,8 @@ Plody jsou přirozené výnosy (ovoce, mléko, úroda), užitky jsou právní v�
 
 **Výjimka — vlasy, nehty a podobné**: § 112 OZ — obnovující se části těla, které lze bezbolestně odejmout, jsou **movitou věcí** (vlasy lze prodat parukáři).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 482 až 486“ (dnešní § 489—493) — viz § 489.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Praze* [19 CO 289/2022-342](https://rozhodnuti.justice.cz/rozhodnuti/?id=7167abbc-f8dc-48c8-9af7-6a68ddfac5fd) — *bolestné, náhrada nemajetkové újmy, náklady léčení, nemajetková újma, odpovědnost za vad…*
@@ -378,6 +493,131 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
   - Specifické ochranné instituty (§ 1395 — zvláštní pravidla pro vrácení ztraceného zvířete; § 1396 — nálezce zvířete v zájmovém chovu);
   - Limitace náhrady škody — ne jen obvyklou cenu, ale i náklady na léčbu (§ 2970).
 - **Speciální úprava** v § 2970 — náhrada škody na zvířeti zahrnuje **náklady na léčbu**, i pokud jsou vyšší než cena zvířete (zohlednění citového vztahu).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 487 návrhu — dnešní § 494):**
+
+> Návrh ustanovení o živých zvířatech, která nemají být nadále považována
+> za věci, se po vzoru dalších evropských úprav a jejich vývoje v
+> posledních dvaceti letech vymaňuje z dogmatu římského práva o „bučících
+> nástrojích" a z právního pojetí zvířat jako věcí v právním smyslu.
+> Příkladem může být novela rakouského občanského zákoníku (§ 285a) z r.
+> 1988 a německého občanského zákoníku (§ 90a) z r. 1990, dále pak novela
+> švýcarského občanského zákoníku (čl. 641a) z r. 2002, úprava v novém
+> ruském občanském zákoníku (čl. 137) nebo úprava v Polsku, kde se ani
+> nečekalo na rekodifikaci občanského práva a stejné pravidlo vyjádřil v
+> r. 1997 přímo zákon na ochranu zvířat (čl. 1 odst. 1). Tento posun v
+> občanském právu, označovaný jako dereifikace zvířat, je veden
+> ekologickými hledisky a etikou ochrany zvířat (srov. např. *Holch, G*.
+> in *Säcker, F. J. et al.* Münchener Kommentar zum Bürgerlichen
+> Gesetzbuch. Bd. 1. Allgemeiner Teil. AGB-Gesetz. 3. vydání. München: C.
+> H. Beck, 1993, s. 713 nebo *Radwański, Z.* Prawo cywilne - część ogólna.
+> 7. vydání. Warszawa: C. H. Beck, 2004. s. 114). Ve shodě se zákony na
+> ochranu zvířat sleduje i úprava v občanských zákonících stejné hodnotové
+> východisko, dané problematiky si však všímá hlavně z pohledu
+> vlastnického práva a jeho ochrany. Nebere tedy zřetel jen na samotné
+> zvíře, ale i na jeho pána a bere v ochranu i jejich vzájemný vztah a
+> emoční vazbu. Uvedené zákonné úpravy formulují pravidla, že zvířata
+> nejsou věcmi, že je chrání zvláštní zákony a že předpisy o věcech na ně
+> lze aplikovat jen v mezích, kde pro zvířata neplatí odchylná úprava.
+> Ruský kodex dokonce výslovně zakazuje nakládat se zvířaty v rozporu se
+> zásadami humanity. Osnova občanského zákoníku sleduje stejnou tendenci:
+> navrhuje stanovit, že živé zvíře není věcí a vyjádřit, za jakých
+> podmínek na ně lze aplikovat předpisy o movitých věcech. Bylo by např. v
+> rozporu s povahou zvířete jako živého tvora použít jako zástavu psa
+> lpícího na svém pánovi s tím, že pes bude předán zástavnímu věřiteli
+> jako osobě zvířeti cizí a vystaven stresu.
+>
+> Pojetí zvířete v občanském zákoníku je širší, než v platném zákoně na
+> ochranu zvířat, který jako veřejnoprávní předpis a výslovně jen pro své
+> účely omezuje pojem zvířete na živé obratlovce odlišné od člověka (§ 1
+> zák. č. 246/1992 Sb.). Toto zúžené pojetí platí jen pro zvláštní úpravu
+> v zákoně na ochranu zvířat, ale neuplatní se v občanském právu. Ze
+> soukromoprávního hlediska jsou zvířaty i nejen obratlovci, ale i
+> bezobratlí, jsou-li schopni cítit bolest nebo stres. Tento přístup je
+> přímo v zákonném textu vyjádřen poukazem na povahu živého tvora. Živým
+> tvorem ve smyslu tohoto ustanovení nejsou jenom obratlovci.
+>
+> Podobně jako rozlišuje veřejné právo pro své účely různé kategorie
+> zvířat (např. zvířata domácí a chovaná, v zájmovém chovu a hospodářská,
+> původní a nepůvodní, chráněná a zvlášť chráněná, obhospodařovaná lovem,
+> lovená, poraněná, postřelená, dobytek, zvířata nebezpečných druhů atd.;
+> srov. zák. č. 246/1992 Sb., č. 114/1992 Sb., č. 166/1999 Sb., č.
+> 154/2000 Sb., zák. č. 449/2001 Sb., č. 162/2003 Sb. nebo zák. č. 99/2004
+> Sb. a další), má i soukromé právo pro své účely svoji kategorizaci.
+> Rozdělení zvířat pro potřeby soukromého práva sleduje účel ve vazbě na
+> základní soukromoprávní instituty. Zejména jde o otázky spojené s
+> existencí, vznikem a zánikem vlastnického práva ke zvířeti a otázky
+> spojené s povinností nahradit škodu způsobenou zvířetem.
+>
+> Tradičně se rozlišují zvířata divoká a domácí. Tyto skupiny zvířat zná i
+> veřejné právo: k divokým zvířatům srov. např. sdělení ČSÚ č. 275/2008
+> Sb. a k domácím zvířatům např. zákony o myslivosti, o krmivech, o
+> zoologických zahradách, o ochraně přírody a krajiny nebo zákon o
+> pozemních komunikacích aj.; tyto zákony však zpravidla nechápou pojem
+> domácích zvířat jednotně.
+>
+> Z hlediska soukromého práva se zvířata pokládají za divoká, pokud náleží
+> k nedomestikovanému druhu, tj. celý druh žije zcela nebo převážně ve
+> volné přírodě (křeček, sokol aj.), byť jeho jednotlivé kusy jsou
+> člověkem chovány v zajetí. Domácí jsou podle soukromoprávního pojímání
+> naopak ta zvířata, jejichž druh žije s člověkem buď bezvýjimečně, anebo
+> z převážné části. Existence pštrosích nebo krokodýlích farem tedy nemění
+> nic na tom, že pštros i krokodýl je z hlediska občanského zákoníku
+> divoké zvíře; obdobně skutečnost volně žijících zdivočelých holubů nebo
+> koček nemění nic na tom, že holub i kočka jsou domácí zvířata.
+>
+> Ve vztahu k divokým zvířatům žijícím na svobodě se jako základní právní
+> pravidlo uplatní, že nemají vlastníka. Taková zvířata se v právním
+> jazyce tradičně označují jako zvířata bez pána \[v terminologii
+> německého nebo švýcarského občanského zákoníku *herrenlos* (srov. § 960
+> německého nebo čl. 719 švýcarského občanského zákoníku), ve francouzské
+> právní terminologii *sans maitre* (např. čl. 934 québeckého zákoníku), v
+> italské právní terminologii *senza padrone* atd.\]. Bez pána může být i
+> zvíře náležející druhem k domácím zvířatům (kočky, psi), pokud
+> jednotlivý kus žije divoce v přírodě.
+>
+> I divoká zvířata mohou být a jsou člověkem chována, stejně jako jsou
+> chována i zvířata domácí. Nauka občanského práva i terminologie mnoha
+> občanských zákoníku označuje divoká zvířata chovaná člověkem jako zajatá
+> \[v německém občanském zákoníku *gefangene wilde Tiere* (§ 960), ve
+> švýcarském *gefangene Tiere* (čl. 719) atd.\]. Zajatými zvířaty se
+> rozumí ta, kterým se fyzickými překážkami brání v útěku, tj. která jsou
+> trvale chována např. v klecích, voliérách, teráriích, uzavřených
+> ohradách apod. Divoká zvířata mohou být i zkrocená. Jako zkrocená
+> zvířata \[v rakouském občanském zákoníku *zahm gemachte Tiere* (§ 384),
+> ve švýcarském *gezähmte Tiere* (čl. 719), v italském *animali
+> mansuefatti* (čl. 925), ve španělském *animales amansados* (čl. 612) v
+> nizozemském *tamme dieren* (čl. 5:19) atd.\] se označují taková, kterým
+> se zpravidla trvale nebrání ve volném pohybu, ale která si na svého pána
+> natolik zvykla, že se u něho samovolně zdržují, anebo se k němu
+> pravidelně vrací, zachovávajíce si návyk vracet se (*consuetudo
+> revertendi*). Z tohoto hlediska je zajatým divokým zvířetem např. orel
+> chovaný trvale ve voliéře, zkroceným divokým zvířetem orel vycvičený k
+> lovu.
+>
+> Kategorie chovaných zvířat zahrnuje domácí zvířata i divoká zvířata
+> zajatá nebo zkrocená, která mají vlastníka a která člověk chová. Podle
+> účelu chovu se rozlišují zvířata v zájmovém chovu a zvířata hospodářská.
+> Zvířata prvé skupiny se chovají pro potěšení a jako společník - tj.
+> hospodářský účel chovu buď vůbec chybí, anebo není hlavní (srov. např.
+> ve švýcarském občanském zákoníku *Tiere, die nicht zu Vermögens- oder
+> Erwerbszwecken gehalten werden;* čl. 722) - naproti tomu zvířata z druhé
+> skupiny se chovají výlučně nebo hlavně k přímému hospodářskému
+> prospěchu. Tím nejsou jen plody (mléko, vejce, vlna), ani např. u
+> jatečných zvířat hlavně maso a u kožešinových zvířat kožešina, ale také
+> práce (např. u koní nebo psů). Zvláštní kategorii hospodářských zvířat
+> představuje dobytek \[v rakouském, německém a švýcarském občanském
+> zákoníku *Vieh,* ve španělském kodexu *ganado,* v italském *bestiame*
+> atd.; švýcarský zákoník rozlišuje v čl. 700 *Gross-* (tj. skot) a
+> *Kleinvieh* (tj. brav)\], dobytek tedy zahrnuje sudokopytníky náležející
+> k domácím zvířatům a chované jako hospodářská zvířata: tak např.
+> jelenovití sudokopytníci chovaní v oborách spadají do kategorie
+> hospodářských zvířat, ale nepovažují se za dobytek. Občanské zákoníky
+> některých států (Francie, Itálie, Španělsko) mají v úpravě nabytí a
+> pozbytí vlastnického práva zvláštní ustanovení o některých druzích
+> domácích zvířat jako jsou zejména králíci a holubi; návrh občanského
+> zákoníku v tom směru přejímá jen ustanovení o roji včel, které se
+> objevuje ve větším počtu evropských úprav.
 
 **Judikatura (z místních zdrojů):**
 
@@ -444,6 +684,48 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
 - **Pozůstalost** = jmění zůstavitele (§ 1475 — aktiva i pasiva);
 - **Manželské majetkové společenství** (SJM) — společné jmění zahrnuje aktiva i dluhy (§ 708 a násl.);
 - **Likvidační podstata** PO v likvidaci = aktiva (majetek), z nichž se hradí dluhy (§ 187).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 488 návrhu — dnešní § 495):**
+
+> Česká klasická civilistická terminologie přisuzovala výrazům „majetek" a
+> „jmění" opačný význam než dnešní právní nauka. Z toho stále vznikají
+> určitá nedorozumění. Návrh občanského zákoníku pracuje s oběma pojmy
+> poměrně často. Rovněž platný občanský zákoník používá pojmy majetek
+> (např. v ustanoveních § 42a, 135b, 143 až 146, 149, 415, 485, 839 nebo
+> 841) a stejně tak i jmění (např. v § 20a odst. 3, 20j odst. 1, 143 a
+> násl.); obdobně i některé další právní předpisy soukromého práva (např.
+> zákon o rodině v § 37a nebo § 80, obchodní zákoník v § 6 aj.). Obecné
+> zákonné vymezení pojmů majetku a jmění však v dosavadním právním řádu
+> chybí; z toho pak mohou vzniknout i některá nedorozumění vyplývající
+> např. i z toho, že literatura někdy rozlišuje majetek ve smyslu širším a
+> užším (např. *Knapp, V. - Knappová, M.* in *Knappová, M. - Švestka, J.
+> et al.* Občanské právo hmotné. 3. vydání. Praha: ASPI, 2002, s. 226). Z
+> těchto důvodů se považuje za vhodné tyto pojmy jasně vymezit.
+>
+> Souhrn věcí, práv a jiných majetkových hodnot náležejících téže osobě
+> vytváří její majetek. Majetkem se tedy rozumí souhrn aktivních
+> hodnotových položek náležející určité osobě. Takové vymezení odpovídá
+> především čl. 11 odst. 1 Listiny základních práv a svobod. Také platný
+> občanský zákoník dává slovním spojením „majetek a závazky" (§ 144) a
+> odlišením aktivní a pasivní sféry majetkových poměrů najevo, že toto
+> pojetí odpovídá současnému právnímu stavu, který se nehodlá měnit.
+> Obdobně i obchodní zákoník v § 6 odst. 1. Jměním se rozumí, rovněž ve
+> shodě s dosavadní právní úpravou, komplex kladných a záporných
+> majetkových hodnot (aktiv a pasiv) náležející určité osobě. Majetek i
+> jmění mohou náležet společně i několika osobám, které tvoří
+> společenství. Na to pamatují zvláštní ustanovení návrhu o
+> spoluvlastnictví a o společenství jmění; tato úprava je dostatečná a
+> obecné ustanovení ji nemusí odrážet.
+>
+> V soukromoprávních předpisech byly zatím reflektovány jen zvláštní pojmy
+> obchodního majetku, obchodního jmění a čistého obchodního jmění v § 6
+> obchodního zákoníku. Tato úprava byla do obchodního zákoníku zařazena
+> při jeho původní redakci (zák. č. 513/1991 Sb.), když tento zákoník
+> obsahoval i ustanovení o účetnictví podnikatelů v § 35 až 40. Dnes je
+> účetnictví podnikatelů upraveno zákonem o účetnictví, tedy právem
+> veřejným, a pro občanský zákoník uvedené zvláštní pojmy nejsou potřebné.
+> O obchodním jmění je zmínka jen v ustanovení o obchodním závodu a pro
+> jeho účely lze obsah pojmu obchodní jmění vymezit z obecných ustanovení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -522,6 +804,83 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
 - **Cenné papíry** (§ 514) — hybrid: listina (hmotná) + právo (nehmotné);
 - **Zaknihované cenné papíry** (§ 525) — zcela nehmotné (jen záznam v evidenci).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 489 až 491 návrhu — dnešní § 496—498):**
+
+> Rozdílně od stávajícího občanského zákoníku, který se ve své obecné
+> části spokojuje jen s dělením věcí na movité a nemovité a o některých
+> dalších věcech se zákoník zmiňuje jen v částech zvláštních, soustřeďuje
+> tato osnova v obecné části právní rozdělení věcí podle hlavních a
+> tradičních kritérií. Některé skupiny věcí (zejména věci nemovité,
+> hromadné, zuživatelné a zastupitelné) se v následujících ustanoveních
+> blíže vymezují, u jiných (např. pokud jde o věci určené jednotlivě nebo
+> věci dělitelné) jsou však jejich bližší charakteristiky zbytečné
+> vzhledem k všeobecné srozumitelnosti označení.
+>
+> S ohledem na rozšíření pojmu věci v právním smyslu je nutné vzít při
+> rozdělení věcí v úvahu fakt věcí hmotných a nehmotných. Na to se reaguje
+> návrhem § 489, kde se především definují věci hmotné. Věci, které
+> nevyhovují definici hmotné věci, jsou věcmi nehmotnými. Pojmové vymezení
+> hmotné věci se opět inspiruje vládním návrhem předválečného
+> československého občanského zákoníku. V případě § 489 - stejně jako na
+> řadě jiných míst osnovy - se respektuje osvědčené legislativní pravidlo,
+> že při vymezení párových pojmů, je-li namístě užití legální definice,
+> není vhodné definovat oba pojmy. Vzhledem ke známé zásadě *omnis
+> definitio in iure civili periculosa est* by při definování obou párových
+> pojmů snadno došlo k tomu efektu, že by určitá část materie zůstala
+> nepokryta. Definuje se tudíž jen jeden z obou pojmů s tím, že obsah
+> druhého lze spolehlivě zjistit argumentací a contrario.
+>
+> Po vzoru řady úprav (např. § 285 a 292 rakouského, čl. 713 švýcarského,
+> čl. 814 italského nebo čl. 906 québeckého občanského zákoníku) se návrh
+> ustanovení § 490 přiklonil k řešení, že energie mají být právně
+> posuzovány jako věci movité, jak také odpovídá tradiční tuzemské
+> nauce.[^44] Vyloučí se tak názorový zmatek, kdy se názory na právní
+> povahu energií různí (dokonce i v různých vydáních téže novodobé
+> učebnice občanského práva) a energie se jednou prohlašují za věc, jindy
+> za majetkovou hodnotu od věci odlišnou, a přijme se řešení prakticky
+> účelné.
+>
+> Pro právo je významné dělení věcí na movité a nemovité. Podobně jako
+> osnova volí při třídění věcí hmotných a nehmotných metodu ostrého
+> vymezení především jednoho druhu těchto věcí, totiž věcí hmotných, je i
+> při třídění nemovitých a movitých věcí zvolen důraz na pojmové vymezení
+> nemovitých věcí (§ 491). Pojetí nemovité věci se oproti dosavadnímu
+> stavu navrhuje změnit dvojím způsobem. Jednak se pojem nemovité věc
+> rozšiřuje i na některá práva (tak se např. v třetí části osnovy zákoníku
+> za nemovitou věc prohlašuje právo stavby). Především se však pojetí
+> nemovité věci vrací k zásadě *superficies solo cedit,* v důsledku čehož
+> se stavba, nejedná-li o stavbu jen dočasnou, prohlašuje za součást
+> pozemku.
+>
+> Pokud se jedná o podzemní stavby, rozlišují se jednak samostatné stavby
+> se zvláštním (autonomním) hospodářským určením (např. metro, vinný sklep
+> pod cizím pozemkem atp.), které se zamýšlí prohlásit za samostatné
+> nemovité věci, jednak podzemní stavby zřízené jako součást určitého
+> pozemku, které jsou jeho součástí celé, byť zasahují pod cizí pozemek. Z
+> podzemních útvarů osnova pomíjí úpravu speciálního právního režimu pro
+> důlní díla a důlní stavby pod povrchem, a to jak vzhledem k tomu, že z
+> hlediska soukromoprávního postačí i tu obecné vymezení, tak s
+> přihlédnutím k zvláštní úpravě v horním zákoně (zák. č. 44/1988 Sb., v
+> platném zněn), jehož koncepci, byť v mnohém anachronickou, nelze
+> vzhledem k jeho - ve výrazné části - veřejnoprávnímu rázu, předpisem
+> soukromého práva měnit. Zvláště není v osnově řešena ani otázka tzv.
+> starých důlních děl, tedy opuštěných důlních děl jakoby „bez vlastníka",
+> neboť i tu pro soukromoprávní úpravu postačí § 499 osnovy. Otázku
+> likvidace starých důlních děl a vypořádaní škod jimi vyvolaných řeší §
+> 35 horního zákona. Otázku staveb na stavbách osnova nezamýšlí řešit
+> speciálně a nesleduje v tom směru založit kazuistickou úpravou pro ně
+> nějaký zvláštní právní režim. Vychází totiž v daném ohledu z
+> předpokladu, že plně postačí úprava obecná v kombinaci s některými
+> dalšími právní instituty (zejména úpravy spoluvlastnictví, věcných
+> břemen a práva stavby).
+>
+> Návrh nemíní zasahovat do speciálních úprav ve zvláštních zákonech.
+> Pokud tyto zákony stanoví, že určité objekty mají status nemovité věci
+> (např. letiště, pozemní komunikace), platí toto jejich určení i nadále.
+> Také u vodovodů a kanalizací se nic nemění proti stávající úpravě; jedná
+> se o nemovité věci, které se zapisují do majetkové evidence podle zákona
+> o vodovodech a kanalizacích, nikoli do katastru nemovitostí.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E04FF9315F0A89C5C1258AE6001B86AA?openDocument) — *Oddlužení (povolení, schválení) Zpeněžování Spoluvlastnictví*
@@ -580,6 +939,8 @@ Lidské tělo a jeho části nejsou věcí ani po oddělení; chrání to lidsko
 **Speciální úpravy:**
 - Zákon č. 458/2000 Sb. o energetice — elektrika, plyn, teplo;
 - Zákon č. 274/2001 Sb. o vodovodech a kanalizacích.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 489 až 491“ (dnešní § 496—498) — viz § 496.
 
 **Judikatura (z místních zdrojů):**
 
@@ -655,6 +1016,8 @@ Na ovladatelné přírodní síly, s nimiž se obchoduje (elektřina, plyn, tepl
 - **Forma smluv** — převod věcného práva k nemovitosti vyžaduje **písemnou formu** (§ 560);
 - **Předpisy** — KatZ (256/2013 Sb.) pro nemovitosti.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 489 až 491“ (dnešní § 496—498) — viz § 496.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3392/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EE3133EBD40BF95AC1258C580052A253?openDocument) — *Věc Příslušenství věci Součást věci Předkupní právo Stavba, součást pozemku (superficies…*
@@ -729,6 +1092,26 @@ Na ovladatelné přírodní síly, s nimiž se obchoduje (elektřina, plyn, tepl
 - **Zápůjčka vs. výpůjčka** (§ 2390 vs. § 2193) — zápůjčka je **jen pro zastupitelné věci**;
 - **Smíšení a sloučení** věcí (§ 1078) — relevantní jen u zastupitelných.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 492 a 493 návrhu — dnešní § 499—500):**
+
+> Zvláštní ustanovení jsou věnována věcem zuživatelným a nezuživatelným i
+> zastupitelným a nezastupitelným. Zuživatelné věci označují některé
+> zákony soukromoprávní povahy jako spotřebitelné (např. § 441 odst. 4
+> nebo § 740 obchodního zákoníku). Toto označení není správné; vyhovuje
+> marxistickému dělení věcí na výrobní prostředky a spotřební předměty.
+> Podstatný znak těchto věcí však není v tom, že se jen spotřebovávají,
+> ale také, že se zpracovávají (tak např. obchodní zákoník v § 488g odst.
+> 2 nebo § 663 odst. 2), že jsou určeny k prodeji apod. Typické
+> zuživatelné věci (*res quae usu consumuntur*) jsou potraviny, ale patří
+> sem také topivo, suroviny nebo jiný materiál určený k dalšímu použití,
+> včetně zboží na skladě. Mezi zuživatelné věci se řadí i peníze, neboť
+> jsou-li použity k svému obvyklému účelu, placením je vlastník pozbývá.
+> Zuživatelné jsou jen věci movité. Totéž platí i o zastupitelných věcech,
+> kterými rovněž mohou být jen věci movité. Zastupitelná věc je - rozdílně
+> od nezastupitelné - ta věc, u níž nezáleží na individualitě, takže ji
+> lze nahradit jinou věcí téže kategorie (téhož druhu a množství). Naproti
+> tomu nemovité věci jsou vždy nezastupitelné.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 2094/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DA0CC8535C545F3C1258DBF0052CCF1?openDocument) — *Zmírnění křivd (restituce) Zastupitelná věc (o. z.)*
@@ -790,6 +1173,8 @@ Na ovladatelné přírodní síly, s nimiž se obchoduje (elektřina, plyn, tepl
 - **Užívací právo** (úžitek — § 1283 a násl.) — primárně pro nezuživatelné věci; u zuživatelných se aplikuje **kvazi-úžitek** (§ 1290) s povinností nahradit;
 - **Nájem vs. zápůjčka** — nájem se týká nezuživatelných věcí; zápůjčka zuživatelných (peníze, suroviny);
 - **Výhrada vlastnického práva** (§ 2132) — typická pro nezuživatelné věci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 492 a 493“ (dnešní § 499—500) — viz § 499.
 
 **Judikatura (z místních zdrojů):**
 
@@ -858,6 +1243,72 @@ Na ovladatelné přírodní síly, s nimiž se obchoduje (elektřina, plyn, tepl
 - **Hromadný převod** (jednou smlouvou — efektivnější);
 - **Hromadná zástava** (§ 1346 — zástavní právo na hromadné věci);
 - **Pojištění** souboru věcí jednou smlouvou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 494 až 496 návrhu — dnešní § 501—503):**
+
+> K ustanovení o hromadných věcech se navrhuje zařadit ustanovení o
+> obchodním závodu a jeho pobočce. Text ustanovení se spokojuje s výrazem
+> „závod" vzhledem k dříve zavedené legislativní zkratce. Pojetí
+> obchodního závodu je změněno věcně i pojmově.
+>
+> Nahrazení pojmu „podnik" pojmem „závod" má několik důvodů. Hlavní důvod
+> přestavuje stále silnější tlak *acquis* na používání pojmu „podnik"
+> především k označení osoby, popřípadě i v užším slova smyslu jako
+> soutěžitele; právo Evropské unie však také často používá slovo „podnik"
+> k vymezení prostoru. Toto vícevýznamové pojímání proniká i do platného
+> práva a různé právní předpisy, zejména z oblasti práva veřejného, chápou
+> podnik různě a nikoli jen v předmětovém slova smyslu, tj. jako objekt
+> práv a povinností. Podpůrně lze poukázat na přesné německé právnické
+> pojmosloví, které také odlišuje mezi podnikem a závodem. Návrh tedy
+> nelpí na dosavadním pojmu a i se zřetelem na potřeby vyplývající z
+> komunitárního práva jej uvolňuje k jinému využití.
+>
+> Pojem závodu a jeho vymezení jako hromadné věci zohledňuje i situace, že
+> obchodní závod je především majetková hodnota a bere víc v úvahu, než
+> dosavadní právo, že jeho vlastníkem nemusí být jen podnikatel a že jej
+> může dostat do rukou i jiná osoba (např. dědic), která může obchodní
+> závod vlastnit, a i když nemusí být podnikatelem způsobilým k jeho
+> provozu, může takový závod např. trvale nebo dočasně propachtovat.
+>
+> Přesněji se stanoví vazba složek obchodního závodu na podnikatele, a to
+> se zřetelem na rozhodnutí ESD ve věci č. 19/61 Mannesmann z 13. 6. 1962
+> a s přihlédnutím mj. i k čl. 2555 italského občanského zákoníku. Vychází
+> se tedy z pojetí, že k obchodnímu závodu patří ty věci, které podnikatel
+> vůlí vymezil (ať výslovně, ať jen fakticitou používání) - rozhodná je
+> tedy skutečnost, nikoli evidence. Vzhledem k tomu, že nově navrhovaná
+> úprava obecně vychází z jednotného pojmu věci v právním smyslu, opouští
+> se popisný text § 5 platného obchodního zákoníku vypočítávající hmotné,
+> nehmotné a osobní složky. I to, co dnes literatura chápe jako osobní
+> složku podniku (podnikatelská myšlenka, know-how, goodwill,
+> zaměstnanecká složka, klientela) jsou ve skutečnosti tzv. nehmotné
+> statky představované buď právy, nebo průmyslovým a jiným duševním
+> vlastnictvím. I o klientele (zákaznictvu) vázané v naší právní kultuře
+> na existující podnikatelova obchodní spojení, na podnikatelovy možnosti
+> ovlivnit žádoucím způsobem jednání s jinými osobami, popř. doporučit
+> určité osoby jiným, se v minulosti vždy soudilo, že ji lze samostatně
+> převádět i to, že se s převodem obchodního závodu převádí i klientela,
+> ledaže je ujednáno něco jiného. Z uvedených důvodů návrh vychází při
+> vymezení pojmu obchodního závodu z pojmu obchodního jmění, tedy s
+> využitím obsahové provazby na aktiva a pasiva neboli - civilisticky
+> řečeno - na věci a dluhy.
+>
+> Obchodní závod se i nadále bude považovat za zákonnou věc hromadnou
+> (*universitas iuris),* tedy *non subjekt.* Obecně tedy bude platit, že
+> převodem závodu k němu nabyvatel získá *uno actu* vlastnické právo jako
+> k celku, a není tedy nutný samostatně převádět jeho jednotlivé části.
+>
+> Podnikateli se ponechává na vůli, zda určitou část závodu vymezí tak, že
+> ji určí k tomu, aby v rámci obchodních styků vystupovala jako pobočka
+> (filiálka) a - hospodářsky a do jisté míry i právně - autonomní
+> jednotka. Obecně se pro pobočku vyžaduje kumulativní splnění podmínek
+> hospodářské a funkční samostatnosti - rozhoduje faktický stav, nikoli
+> zápis do obchodního rejstříku. Má-li však jít o odštěpný závod, zápis do
+> obchodního rejstříku se bude vyžadovat i nadále; důvodem pro to je
+> transparentnost zápisů v obchodním rejstříku a ochrana dobré víry v
+> obchodní rejstřík nezbytná vzhledem k zvláštnímu zástupčímu oprávnění
+> vedoucího odštěpného závodu. Nic však nebrání tomu, aby jeden odštěpný
+> závod měl více vedoucích. Pojem odštěpného závodu tak váže na obecný
+> pojem obchodního závodu a respektuje jejich tradiční vazbu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -939,6 +1390,8 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 - **Přechod zaměstnanců** (§ 338—342 ZP);
 - **Notářský zápis** pro převod závodu obchodní korporace.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 494 až 496“ (dnešní § 501—503) — viz § 501.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 55/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B2677532FA9BA838C1258CF1004D38D7?openDocument) — *Insolvenční řízení Reorganizace Obchodní závod (o. z.) Konkurs Analogie legis*
@@ -1017,6 +1470,8 @@ Obchodní závod je organizovaný soubor jmění (majetku i dluhů) sloužící 
 
 **Klíčové: VEDOUCÍ ODŠTĚPNÉHO ZÁVODU** je **ze zákona oprávněn zastupovat** podnikatele ve všech záležitostech týkajících se odštěpného závodu — bez plné moci, na základě zápisu v OR. To je důležitá implicitní zástupčí oprávnění (paralela k § 166 — zastoupení zaměstnanci, ale silnější).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 494 až 496“ (dnešní § 501—503) — viz § 501.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [5 Tdo 1400/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/959A102427E2937AC12587240018621F?openDocument) — *Porušení povinnosti při správě cizího majetku Subsidiarita trestní represe Zpronevěra*
@@ -1091,6 +1546,46 @@ Pobočka je hospodářsky a funkčně samostatná část závodu; její zápis d
 
 **Vazba na § 2985** (nekalá soutěž) — žaloba: zápůrčí + restitutivní + náhrada škody + bezdůvodné obohacení.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 497 návrhu — dnešní § 504):**
+
+> Vzhledem k tomu, že se v občanském zákoníku navrhuje upravit mj.
+> postavení podnikatelů a nakládání s obchodním závodem, je potřebné do
+> návrhu zapracovat i ustanovení o obchodním tajemství, které se
+> systematicky zařazuje k ustanovením o věcech a konkrétně o věcech
+> nehmotných. Zachovává se dosavadní označení obchodního tajemství,
+> třebaže jde o označení sporné a diskutováno bylo již v dřívější
+> literatuře (např. *Drábek, J.* Právo na podniku a jeho reflexy na osobní
+> svobodu. 1. vydání. Praha: Knihovna Sborníku věd právních a státních,
+> 1934, s. 61; *Wenig, A.* Příručka obchodního práva. 1. vydání. Praha:
+> Československý kompas, 1947, s. 80). Podstatná totiž není vazba
+> tajemství na obchod, ale na obchodní závod; proto se také v minulosti
+> volila označení jako „obchodní a výrobní tajemství", „podnikové
+> tajemství", „závodní tajemství" apod. Přesto návrh vychází ze současné
+> právní úpravy, ale oprošťuje se od přepjaté kazuistiky a duplicit dnešní
+> úpravy v § 17 až 20 obchodního zákoníku.
+>
+> Navrhuje se stanovit, že obchodní tajemství tvoří určité skutečnosti,
+> pokud jsou splněny kumulativně stanovené podmínky. Nezdůrazňuje se
+> povaha těchto skutečností (obchodní, výrobní, technická apod.), protože
+> to dostatečně kryje samotný výraz „skutečnosti" a o jaké skutečnosti *in
+> concreto* jde a jaká je jejich povaha, je otázka skutkového zjištění -
+> podstatná je jejich souvislost s obchodním závodem. Nezdůrazňuje se ani,
+> že hodnota těchto skutečností musí být materiální nebo imateriální,
+> aktuální či alespoň potenciální, jak tomu je v současné úpravě, protože
+> to vše dostatečně kryje stanovení podmínky, že musí jít o skutečnosti
+> konkurenčně ocenitelné. Znaky, na něž se existence obchodního tajemství
+> váže, jsou i nadále kumulativní - zánikem kteréhokoli z nich zaniká i
+> obchodní tajemství.
+>
+> Z povahy obchodního tajemství plyne, že s ním jeho vlastník může
+> nakládat podle vlastní vůle. Pokud jde o využívání obchodního tajemství
+> jeho vlastníkem pro sebe, není zvláštní úprava potřebná, neboť to plyne
+> z ustanovení o vlastnictví. Pokud jde o přenechání obchodního tajemství
+> k využití jinému, postačí ustanovení o závazkovém právu. Rovněž
+> o ochraně obchodního tajemství nejsou zvláštní právní pravidla potřebná,
+> neboť i tu dostačují ustanovení o ochraně vlastnictví a o nekalé
+> soutěži.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2984/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2984-14_1) — usnesení, 22. 4. 2015
@@ -1164,6 +1659,54 @@ Obchodní tajemství je kvalifikovaná nehmotná hodnota chráněná při splně
 - **Motor v autě**;
 - **Pevně zabudované kuchyňské vybavení** (typicky obklad, vestavěné spotřebiče);
 - **Sklepní kóje patřící k bytové jednotce**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 498 až 501 návrhu — dnešní § 505—508):**
+
+> Pojmové vymezení věci jako takové doplňují ustanovení o součásti věci.
+> Základní ustanovení o součásti věci přejímá dosavadní úpravu § 120 odst.
+> 1 platného občanského zákoníku. Vzhledem k posunu kontextu a souvislosti
+> s § 502 odst. 2, podle něhož příslušenství věci sleduje právní osud věci
+> hlavní, dává osnova jasně najevo, že judikatura nemůže nadále dovozovat,
+> že např. dálkový ovladač je součástí televizoru nebo technický průkaz
+> součástí automobilu. Tyto tendence soudního nalézání práva jsou zjevně
+> nesprávné a vybočují z pojímání rozdílu mezi součástí a příslušenstvím
+> věci, jak je obvyklý ve zdejším i evropském kulturním kontextu. Co je a
+> co není součástí věci, plyne jednak z její povahy, jednak z rizika
+> oddělení celku v důsledku oddělení součásti. Oboje se posuzuje vzhledem
+> k účelu (funkci) celku: zpravidla hospodářskému, leč může jít i o účel
+> jiný (estetický, vzdělávací atp.). Na rozdíl od příslušenství, které
+> představují samostatné a samostatně obchodovatelné věci, jejichž účelem
+> je, aby se jich trvale užívalo společně s hlavní věcí, nepředstavuje
+> součást samostatný objekt práv.
+>
+> Návrh speciálních ustanovení o částech pozemku a o částech nemovitých
+> věcí je nově formulován. Ustanovení § 499 a 500 vycházejí ze zásady
+> *superficies solo cedit* a respektují zásady obecně respektované ve
+> většině právních řádů Evropy. Návrh ustanovení o součástech nemovité
+> věci (§ 501) umožňuje výhradu odděleného vlastnictví ke strojům a jiným
+> zařízením sice již s nemovitou věcí pevně spojeným, ale náležejícím
+> jinému vlastníku než je vlastník nemovité věci. Nebýt tohoto ustanovení,
+> stala by se i taková zařízení spojením vlastnictvím vlastníka nemovité
+> věci a musela by být aplikována ustanovení o specifikaci nebo o
+> bezdůvodném obohacení. Návrh § 501 sleduje řešení odpovídající evropským
+> standardům a přináší praktické řešení případů, kdy si vlastník nemovité
+> věci opatří určitý stroj nebo jiné zařízení koupí spojenou např. s
+> výhradou vlastnického práva nebo pořízením stroje na leasing. Protože
+> výhrada vlastnického práva pro osobu odlišnou od vlastníka nemovité věci
+> nepůsobí jen mezi stranami, ale má mít účinky absolutní a působit *erga
+> omnes,* je nezbytné, aby její vznik a trvání byly zapsány do příslušného
+> veřejného seznamu (zde do katastru nemovitostí). Vzhledem k tomu, že k
+> situacím tohoto druhu může dojít i při obměně strojů nebo podobných
+> zařízení a že to zpravidla bude mít vliv na změnu hodnoty nemovité věci,
+> navrhuje se, jsou-li v katastru nemovitostí zapsána pro třetí osoby
+> zvláštní práva v přednostním pořadí - nemusí jít jen o právo zástavní,
+> ale i o právo zpětné koupě, předkupní právo a další - aby takové výhradě
+> mohly odporovat.
+>
+> Navrhovaná úprava se ovšem nedotýká úprav ve zvláštních zákonech.
+> Stanoví-li např. horní (§ 7) nebo vodní zákon (§ 3), že součástí pozemku
+> nejsou ložiska vyhrazených nerostů nebo povrchové a podzemní vody,
+> nemíní do toho navrhovaná úprava zasahovat.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1243,6 +1786,8 @@ Součást věci je vše, co k ní podle povahy náleží a nelze oddělit bez zn
 - Po 1. 1. 2014: nové stavby jsou součástí pozemku;
 - **Přechod**: § 3054—3061 — postupné sjednocení vlastnictví; právo přednosti pro vlastníka pozemku k odkupu stavby a opačně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 498 až 501“ (dnešní § 505—508) — viz § 505.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3259/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60DEB7921F0511FDC12583810021FE40?openDocument) — *Součást věci*
@@ -1315,6 +1860,8 @@ Součást věci je vše, co k ní podle povahy náleží a nelze oddělit bez zn
 - Nálezový režim u plodů z cizího pozemku — § 1051;
 - **Padlé plody** patří vlastníkovi pozemku, kam dopadly (§ 1015).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 498 až 501“ (dnešní § 505—508) — viz § 505.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2069/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F33CDC586C22DA01C1258B01004D3150?openDocument) — *Znalecký posudek Oceňování majetku Zemědělská půda*
@@ -1373,6 +1920,8 @@ Rostlinstvo vzešlé na pozemku je jeho součástí a patří vlastníku pozemku
 3. Stroj zůstává **samostatnou movitou věcí**, lze ho odebrat / převést samostatně.
 
 **§ 508 odst. 2 — nahrazení stroje**: pokud má být nahrazen stávající stroj (součást nemovitosti) novým s výhradou, lze to **bez odporu** osob ve výhodnějším pořadí (zástavních věřitelů, jejichž zájem zápis výhrady ohrožuje), nebo bez práva odporu pro osoby, jejichž pohledávka je splněna / nedotčena.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 498 až 501“ (dnešní § 505—508) — viz § 505.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1516,6 +2065,56 @@ Liniové stavby (vedení, vodovody, kanalizace) zasahující více pozemků nejs
 
 **Přechodné odloučení** (odst. 1 věta druhá) — pokud je příslušenství dočasně odděleno (např. odvezení nábytku do opravy), **nepřestává být příslušenstvím** — vrátí se k hlavní věci.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 502 až 505 návrhu — dnešní § 510—513):**
+
+> Základní ustanovení o pojmovém vymezení věci jako takové doplňují rovněž
+> ustanovení o jejím příslušenství. Návrh ustanovení § 502 vymezuje
+> příslušenství obecně, poté následují ustanovení o příslušenství pozemku
+> a o příslušenství pohledávky. Obsah těchto ustanovení je tradiční a z
+> téhož pojetí vychází s nevýznamnými obměnami valná část právních řádů
+> kontinentální Evropy. Také naše pozitivní právo vychází již dnes při
+> obecném vymezení příslušenství věci ze stejné konstrukce (§ 121 odst. 1
+> stávajícího občanského zákoníku).
+>
+> Posun v navrhované úpravě je však v tom, že návrh potlačuje subjektivní
+> prvek co do relevance vymezení příslušenství a zdůrazňuje jako významná
+> pro zjištění, co je příslušenstvím věci, objektivní hlediska a z nich
+> zejména hospodářské určení věci hlavní a posouzení otázky podle
+> zvyklostí. Proto se osnova s poučením z právních úprav platných nebo
+> připravovaných u nás před r. 1950 i z právních úprav zahraničních (např.
+> švýcarský občanský zákoník, čl. 644 a násl., nebo německý občanský
+> zákoník, § 97 odst. 1), k těmto přístupům přiklání. Navrhuje se
+> stanovit, že v pochybnostech, je-li něco příslušenstvím věci, rozhoduje
+> zřetel na zvyklosti soukromého života.
+>
+> V ustanovení o příslušenství pohledávky se přejímá úprava § 121 odst. 3
+> platného občanského zákoníku.
+>
+> Neobyčejně významný je návrh ustanovení § 502 odst. 2. Příslušenství je
+> sice samostatná věc v právním smyslu, ale její právní osud je do značné
+> míry spojen s právním osudem věci hlavní. Z tohoto spojení se především
+> odvozuje klasické pravidlo, že rozhodne-li se o právním osudu vlastní
+> věci, sleduje týž osud i příslušenství (*accessorium sequitur
+> principale*). Toto právní pravidlo, uchované ještě občanským zákoníkem z
+> r. 1950, bylo ze zdejšího právního řádu vypuštěno. To vede ke kolísavé
+> judikatuře, a to i v rozhodnutích Nejvyššího soudu: tak bylo např.
+> rozsudkem ze 14. 8. 2001 (sp. zn. 28 Cdo 133/2001) judikováno, že „při
+> převodu vlastnictví sdílí příslušenství věci právní osud věci hlavní bez
+> zřetele k tomu, jestli účastníci smlouvy v ní toto příslušenství
+> výslovně identifikovali," naproti tomu jiná rozhodnutí (R 7/87, R 75/04)
+> se postavila na stanovisko opačné. Proto osnova formuluje toto právní
+> pravidlo výslovně.
+>
+> Naproti tomu se nepovažuje za potřebné stanovovat výslovně, že nemovitá
+> věc nemůže být nikdy považována za příslušenství movité věci. Nejde ani
+> tak o to, že právní nauka pokládá toto pravidlo za samozřejmé nebo že je
+> tradiční občanské zákoníky výslovně neformulují. Osnova nechává tuto
+> otázku výslovně neupravenou zejména z toho důvodu, že v dané souvislosti
+> plně postačuje hledisko hlavní a vedlejší věci. Výslovné kazuistické
+> ustanovení formulující pravidlo, že nemovitá věc není způsobilá být
+> příslušenstvím věci movité, by mohlo působit jako překážka dalšího
+> hospodářského vývoje.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 213/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9FBD35085071E5C5C12588D00017C806?openDocument) — *Příslušenství věci*
@@ -1568,6 +2167,8 @@ Příslušenství je samostatná vedlejší věc téhož vlastníka určená k t
 **Výklad:**
 
 **Subsidiární kritérium** při sporu — **zvyklosti** v daném oboru / místě / typu věci. Soud zkoumá: co se v podobných případech obvykle považuje za příslušenství.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 502 až 505“ (dnešní § 510—513) — viz § 510.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1622,6 +2223,8 @@ Příslušenství je samostatná vedlejší věc téhož vlastníka určená k t
 **Výklad:**
 
 **Návaznost na § 506**: pokud je stavba součástí pozemku, příslušenství stavby je **příslušenstvím pozemku**. Při prodeji pozemku → automatický přechod stavby + jejího příslušenství.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 502 až 505“ (dnešní § 510—513) — viz § 510.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1687,6 +2290,8 @@ Příslušenství je samostatná vedlejší věc téhož vlastníka určená k t
 - Postoupení pohledávky (§ 1879) **zahrnuje i příslušenství** (default);
 - Promlčení pohledávky **zahrnuje promlčení příslušenství** (s některými výjimkami — § 614);
 - Při uspokojení pohledávky se **plní nejdříve příslušenství** (default — § 1932; lze ujednat jinak).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 502 až 505“ (dnešní § 510—513) — viz § 510.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1762,6 +2367,27 @@ Příslušenstvím pohledávky jsou (taxativně) úroky, úroky z prodlení a n�
 | **Náložní listy** | OZ § 2572 a násl. |
 | **Podílové listy** | Zákon č. 240/2013 Sb. |
 
+**Důvodová zpráva (sněmovní tisk 362, k § 506 návrhu — dnešní § 514):**
+
+> Návrh ustanovení o cenných papírech uvozuje ustanovení vymezující cenný
+> papír pojmově. Podstata je v tom, že právo je v listině inkorporováno,
+> klade se tedy důraz na spojení práva s listinou; v tom je základní
+> povaha cenného papíru. Zároveň je vyjádřena kvalita tohoto spojení: bez
+> listiny nelze toto právo ani uplatnit, ani převést. V tom je podstata
+> rozdílu mezi cennými papíry a jinými listinami.
+>
+> Navržené ustanovení přejímá obsah čl. 965 švýcarského zákona o
+> obligačním právu, z jehož pojetí vycházejí i jiné právní úpravy, např.
+> italská nebo polská. Uvedené pojetí se shoduje i s přístupem a pojetím
+> tuzemské právní doktríny (srov. např. *Dědič, J. - Pauly, J.* Cenné
+> papíry. 1. vydání. Praha: Prospektrum, 1994, s. 20; *Pelikánová, I. et
+> al.* Obchodní právo. 2. díl. 2. vydání. Praha: Codex, 1998, s. 312;
+> *Dědič, J. et al.* Právo cenných papírů a kapitálového trhu. 1. vydání.
+> Praha: Prospektrum, 1999, s. 33 nebo *Kotásek, J. et al.* Právo cenných
+> papírů. 4. vydání. Praha: C. H. Beck, 2005, s. 13). Navrhované
+> ustanovení kryje cenné papíry dokonalé i nedokonalé, tudíž zvláštní
+> vymezení jedněch i druhých není potřebné.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 2116/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5FF9F5162BDB4FF4C125861E0041D505?openDocument) — *Exekuce*
@@ -1820,6 +2446,50 @@ Cenný papír je listina, s níž je právo spojeno tak, že je po vydání nelz
 **§ 516 — Zastupitelnost**: cenné papíry **téhož druhu, emitenta, formy, se stejnými právy** jsou **zastupitelné** (např. všechny akcie téže emise). **Podpis lze nahradit otiskem** + ochranné prvky.
 
 **§ 517 — Odpovědnost emitenta** za třetí osobu (např. ručitele) zavázanou z cenného papíru.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 507 návrhu — dnešní § 515):**
+
+> Obecné vymezení cenného papíru nevylučuje existenci takových druhů
+> cenných papírů, které nejsou zákonem zvlášť upraveny. Proto se navrhuje
+> stanovit podstatné prvky, které musí listina obsahovat, aby mohla být za
+> cenný papír uznána. Jsou to údaje o emitentovi a právech spojených s
+> cenným papírem. Z listiny musí být ovšem patrné i to, že je cenným
+> papírem, což je zřejmé i ze znění navrhovaného ustanovení, třebaže se v
+> něm záměrně neukládá, aby listina obsahovala výslovné označení, že se
+> jedná o cenný papír. Nebude-li listina označena jako cenný papír, ale
+> např. jako certifikát, bond, warrant nebo obilní zástavní list, nebude
+> to na újmu závěru, že se jedná o cenný papír, pokud z listiny budou
+> patrné jak emitent, tak i práva s listinou spojená. Tato práva mohou být
+> v listině určena výslovně nebo odkazem na emisní podmínky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 508 návrhu — dnešní § 516):**
+
+> Cenné papíry jsou věcmi v právním smyslu. Obecné ustanovení o věcech
+> vymezuje zastupitelnou věc jako movitou věc, která může být nahrazena
+> jinou věcí téhož druhu. Z této základní charakteristiky vychází i
+> navržené ustanovení, které s úpravami přejímá z platné úpravy cenných
+> papírů § 2 zák. č. 591/1992 Sb. Navržená úprava prvního odstavce
+> rozlišuje, ostatně jako celá osnova, význam slov týž a stejný a nadále
+> již nevyžaduje jako znak zastupitelnosti tutéž podobu, neboť s podobou
+> cenného papíru osnova již vzhledem k novému pojetí zaknihovaných cenných
+> papírů nepočítá.
+>
+> Navrhuje se výslovně vyřešit praktické obtíže spojené s tím, že v
+> četných případech musí být i při emisi většího množství zastupitelných
+> cenných papírů každý z nich opatřen podpisem oprávněné osoby. Protože
+> podpis představuje základní prvek, jak ověřit pravost cenného papíru,
+> navrhuje se umožnit opatření zastupitelných cenných papírů i otiskem
+> podpisu, avšak za předpokladu, že na listině budou současně použity
+> ochranné prvky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 509 návrhu — dnešní § 517):**
+
+> Ustanovení je dispozitivní. Nebrání tedy, aby emitent svou odpovědnost
+> za plnění z cenného papíru vyloučil. To plyne ze základních ustanovení o
+> cenných papírech - v cenném papíru se určí, jaká práva jsou s ním
+> spojena, tudíž se připouští i negativní vymezení, že určité právo s
+> cenným papírem spojeno není. Opak lze přirozeně stanovit pro jednotlivé
+> případy kogentním ustanovením jiného zákona.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1885,6 +2555,18 @@ Cenný papír je listina, s níž je právo spojeno tak, že je po vydání nelz
 **Vyvratitelné domněnky** (odst. 2):
 - **Obsahuje jméno** → presumpce **na řad**;
 - **Neobsahuje jméno** → presumpce **na doručitele**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 510 návrhu — dnešní § 518):**
+
+> V souladu s první větou § 3 odst. 1 zák. č. 592/1991 Sb., o cenných
+> papírech se uvádějí tři formy cenných papírů. Připojují se vyvratitelná
+> právní domněnka, podle které je cenný papír na řad ten, který obsahuje
+> jméno oprávněné osoby (tím není vyloučen důkaz, že jde o cenný papír na
+> jméno nebo na doručitele), a nevyvratitelná právní domněnka, podle které
+> se určuje, kdy jde o cenný papír na doručitele.
+>
+> Základní vymezení emisních podmínek je převzato z návětí § 7 odst. 1
+> zák. č. 190/2004 Sb., o dluhopisech.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1952,6 +2634,37 @@ Cenný papír má formu na doručitele (převod předáním), na řad (rubopis +
 **§ 521 — Vady postupu při vydání**:
 - **Ochrana nabyvatele v dobré víře** — cenný papír je **vydán i přes vady**;
 - Poškozený má **nárok na náhradu škody** vůči emitentovi a osobám jednajícím za něj.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 511 návrhu — dnešní § 519):**
+
+> První odstavec přejímá druhou a třetí větu z § 5 odst. 1 zák. č.
+> 591/1992 Sb. Druhý odstavec vymezuje, co jsou emisní podmínky, které
+> mohou, popřípadě musí, je-li to zvlášť stanoveno, být s cenným papírem
+> vydány.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 512 návrhu — dnešní § 520):**
+
+> Od emise cenných papírů je nutné odlišit shodně se stávající právní
+> úpravou (§ 5 odst. 1 zák. č. 591/1992 Sb., o cenných papírech) jejich
+> vydání. Až vydáním, tedy okamžikem, kdy se cenný papír stane majetkem
+> prvního nabyvatele. O majetku - nikoli o vlastnictví - se v tomto
+> ustanovení normuje z toho důvodu, že k vydání cenného papíru může dojít
+> i v případě, že náležitosti postupu při vydání cenného papíru nebyly
+> dodrženy nebo že se cenný papír nestal stanoveným způsobem vlastnictvím
+> prvního nabyvatele (ustanovení nebere zřetel na zlou či dobrou víru
+> prvního nabyvatele). Jde o důležité právní pravidlo sledující ochranu
+> dobrověrných dalších osob. Ta je zakotvena v následujícím ustanovení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 513 návrhu — dnešní § 521):**
+
+> Navržené ustanovení přejímá úpravu § 5 odst. 4 a 5 zák. č. 591/1992 Sb.,
+> o cenných papírech a sleduje ochranu toho, kdo cenný papír nabyl v dobré
+> víře. Ze skutečnosti, že rozdílně od platné úpravy, návrh výslovně
+> nestanoví, že odpovědnost osob, které porušily povinnosti při vydávání
+> cenných papírů, jak dnes stanovuje druhá věta § 5 odst. 4 zák. č.
+> 591/1992 Sb., nelze dovodit, že podle nové úpravy nebudou tyto osoby
+> sankčně postižitelné. Obecně platí, že sankce dopadá na každého, kdo
+> poruší právní povinnost.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2027,6 +2740,61 @@ Datum emise (§ 519) značí den možného vydání; vydání (§ 520) nastává
 
 **§ 524 — Hromadná listina**: může nahradit více zastupitelných cenných papírů (typicky pro velké akcionáře — místo 10 000 jednotlivých akcií jedna hromadná listina). **Právo na výměnu** za jednotlivé. **Nelze dělit na podíly** (kromě imobilizace v hromadné úschově).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 514 návrhu — dnešní § 522):**
+
+> Byl-li cenný papír vydán ve stejnopisech, je nutné, aby bylo zřejmé, že
+> se jedná o několik stejnopisů téhož cenného papíru, nikoli o větší počet
+> zvláštních cenných papírů. Proto se, obdobně jako u směnek (čl. I § 64
+> zákona směnečného a šekového, č. 191/1950 Sb.) nebo šeků (čl. II. § 49
+> zák. č. 191/1950 Sb.), vyžaduje, aby každý stejnopis byl v textu listiny
+> číslován. Nestane-li se tak, bude se na každý stejnopis hledět jako na
+> samostatný cenný papír (výrazem „považuje se" se v návrhu zákonného
+> textu vyjadřuje fikce) s vyloučením důkazu opaku.
+>
+> Při plnění na jeden stejnopis zaniknou práva z ostatních stejnopisů, a
+> to i v případě, že na jednotlivých stejnopisech nebude na tento právní
+> následek výslovně upozorněno.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 515 návrhu — dnešní § 523):**
+
+> Ustanovení o kupónech přejímá obsah § 12 zák. č. 591/1991 Sb., o cenných
+> papírech.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 516 návrhu — dnešní § 524):**
+
+> Návrh úpravy hromadných listin navazuje na platnou úpravu v § 5 odst. 3
+> zák. č. 591/1992 Sb., o cenných papírech. Na rozdíl od dosavadní úpravy
+> opouští nově navržené ustanovení taxativní výčet těch druhů cenných
+> papírů, které lze vtělit do hromadné listiny, a spokojuje se s obecným
+> výměrem, že hromadnou listinou lze nahradit jakékoli zastupitelné cenné
+> papíry. Že i sama hromadná listina je cenným papírem, vyplývá jak ze
+> zařazení její úpravy do tohoto dílu, tak i z definice cenného papíru.
+>
+> Zachovává se právní pravidlo, že hromadná listina obsahuje alespoň ty
+> náležitosti, které zákon stanoví pro jednotlivý cenný papír. K
+> odstranění pochybností, které vznikly na základě platné úpravy, se
+> výslovně stanovuje, že mezi tyto náležitosti patří i čísla jednotlivých
+> cenných papírů nahrazovaných hromadnou listinou; tam, kde bude hromadná
+> listina nahrazovat souvislou číselnou řadu jednotlivých cenných papírů,
+> přirozeně nebude nutné uvádět všechna jejich čísla a postačí jejich
+> číselnou řadu srozumitelně označit (např. 14 až 396).
+>
+> Rozdílně od platné úpravy se navrhuje jasně stanovit, že vlastník
+> hromadné listiny má právo na její výměnu za jednotlivé cenné papíry.
+> Vychází se z toho, že o vydání hromadné listiny rozhoduje emitent.
+> Emitent může v emisních podmínkách (např. ve stanovách emitenta akcií, v
+> emisních podmínkách dluhopisů, ve statutu podílového fondu nebo v
+> obdobném dokumentu u nepojmenovaných cenných papírů) určit, za jakých
+> podmínek bude hromadná listina za jednotlivé cenné papíry vyměněna.
+> Pokud by měla být hromadná listina vyměněna za několik hromadných
+> listin, musely by to emisní podmínky připustit, v ostatních případech by
+> si to vlastník hromadné listiny musel s emitentem ujednat. Stejně tak
+> může určit, za jakých podmínek bude vydána vlastníku jednotlivých
+> cenných papírů hromadná listina.
+>
+> Dělení práv z hromadné listiny převodem na podíly má být i nadále
+> vyloučeno, vyjma případ imobilizace cenného papíru.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 603/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A64BA35488B1D210C1258BD80052C452?openDocument) — *Postoupení pohledávky Zdánlivé právní jednání (o. z.) [ Právní jednání (o. z.) ] Výklad…*
@@ -2086,6 +2854,25 @@ Datum emise (§ 519) značí den možného vydání; vydání (§ 520) nastává
 - Vhodné pro velké objemy obchodů na burze.
 
 **Použití**: zejména **akcie obchodovaných společností**, **veřejně obchodované dluhopisy**, **podílové listy**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 517 návrhu — dnešní § 525):**
+
+> Se zohledněním moderních úprav dematerializovaných cenných papírů
+> přijatých v roce 2010 ve Švýcarsku a v Německu se navrhuje opustit
+> dosavadní pojetí dvojí podoby cenných papírů. Navržená definice cenného
+> papíru spojuje cenný papír s listinou. Listina je tedy pojmovým znakem
+> cenného papíru. Zaknihovaný cenný papír nadále nebude z definice cenným
+> papírem, bude jeho náhražkou, tj. ve své podstatě zaknihovaným právem.
+> Tento přístup má logiku v tm, že se u zaknihovaných cenných papírů
+> nerozlišuje forma, zákon upravuje zvláštní způsob jejich převodu nebo
+> zastavení apod. Švýcarské právo mezi oběma instituty dokonce
+> terminologicky rozlišuje (srov. *papiers-valeurs, Wertpapiere* a naproti
+> tomu *droits valeurs, Wertrechte*). Tak daleko navrhovaná úprava nejde,
+> terminologická změna by vyžadovala změnu řady právních předpisů a
+> vzhledem k pojetí věci v právním smyslu, ze kterého návrh občanského
+> zákoníku vychází, by byla i zbytečná. Návrh se zřetelem k tomu
+> terminologicky rozlišuje jen cenný papír jako základní pojem a
+> zaknihovaný cenný papír jako jeho náhražku.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2154,6 +2941,15 @@ Zaknihovaný cenný papír je nahrazen zápisem v evidenci a převádí se výlu
 **§ 528 — Účet zákazníků**: typicky účet **obchodníka s cennými papíry** vedoucího CP **pro klienty**. Vlastníkem **nejsou** zákazníci jednotlivě, ale **majitel účtu zákazníků není vlastníkem**.
 
 **Centrální depozitář cenných papírů** (CDCP) — vede centrální evidenci pro veřejně obchodované cenné papíry (zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 518 až 520 návrhu — dnešní § 526—528):**
+
+> Navržená ustanovení vymezují základní právní pravidla o evidenci
+> zaknihovaných cenných papírů. Návrh vychází z platné úpravy v § 94 odst.
+> 1, 3 a 4 zák. č. 256/2004 Sb., o podnikání na kapitálovém trhu. V
+> souvislosti s účtem vlastníka se stanovuje (obdobou § 94 odst. 3 cit.
+> zák.) vyvratitelná právní domněnka ve prospěch vlastnictví zaknihovaného
+> cenného papíru.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2263,6 +3059,66 @@ Zaknihované cenné papíry se evidují na majetkových účtech: na účtu vlas
 
 **§ 544**:
 > Na zaknihované cenné papíry vedené v samostatné evidenci se § 536 až 543 použijí přiměřeně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 521 návrhu — dnešní § 529):**
+
+> Ustanovení o přeměně cenného papíru na zaknihovaný cenný papír vycházejí
+> z § 112 zák. č. 256/2004 Sb., o podnikání na kapitálovém trhu. Vzhledem
+> k tomu, že se jedná o ustanovení o proměně vlastnického objektu, jde o
+> ustanovení soukromoprávní povahy. Navržené ustanovení přejímá bez
+> věcných změn § 112 odst. 1 cit. zák.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 522 a 523 návrhu — dnešní § 530—531):**
+
+> Navržená úprava rozlišuje právní důsledky porušení povinnosti vlastníka
+> cenného papíru odevzdat emitentovi cenný papír určený k přeměně na
+> zaknihovaný cenný papír a právní důsledky porušení povinnosti vlastníka
+> cenného papíru sdělit emitentovi při odevzdání cenného papíru číslo účtu
+> v příslušné evidenci, na který má být cenný papír zaevidován. Při
+> porušení každé z těchto povinností je na emitentovi určit vlastníku
+> cenného papíru dodatečnou lhůtu k následnému splnění povinnosti.
+>
+> Shodně s dosavadní úpravou (§ 112 odst. 2 a 8 zák. č. 256/2004 Sb., o
+> podnikání na kapitálovém trhu) se navrhuje zachovat právní pravidlo,
+> podle kterého emitent prohlásí za neplatný cenný papír, který mu nebyl
+> ani dodatečně odevzdán.
+>
+> Rozdílně od dosavadní právní úpravy se však navrhuje jiné řešení pro
+> případ, že vlastník cenného papíru emitentovi cenný papír sice odevzdá,
+> ale číslo účtu v příslušné evidenci mu nesdělí. Je nutné pomyslet na to,
+> že o přeměně cenného papíru na zaknihovaný rozhoduje emitent. Důsledkem
+> jeho rozhodnutí je např. vznik povinnosti i těch vlastníků cenných
+> papírů, kteří dosud příslušný účet neměli, si jej zřídit a nést náklady
+> spojené s jeho zřízením a vedením. Proto se navrhuje řešit situaci, kdy
+> vlastník emitentovi cenný papír odevzdá, ale číslo účtu mu nesdělí, tak
+> že bude na emitentovi, aby cenný papír od vlastníka vykoupil za
+> spravedlivou cenu (v zásadě tedy určenou podle podílu vlastníka cenného
+> papíru na příslušném jmění). Pokud to emitent neučiní, zůstane cenný
+> papír stále vlastnictvím dosavadního vlastníka a emitent nebude moci do
+> jeho vlastnického práva zasahovat. To je důsledek zásady, že osoba,
+> která vytvoří určitou situaci, nemůže přenášet negativní důsledky, které
+> z ní vyplynou, přenášet na jiné osoby. Jsou samozřejmě situace, kdy
+> emitent rozhodne o přeměně účastnických cenných papírů na zaknihované
+> hlasováním na valné hromadě. V té souvislosti je nutné myslet na
+> případy, kdy vlastníci cenných papírů vahou svých hlasů rozhodnou o
+> přeměně cenných papírů na zaknihované a poté nesplní povinnost sdělit
+> emitentovi číslo účtu s úmyslem domoci se vykoupení cenných papírů ze
+> svého vlastnictví. Takový postup by odporoval zásadě poctivosti a zákazu
+> zneužití vlastnického práva; byl by tedy postižitelný již podle obecných
+> ustanovení občanského zákoníku. Předpokládá se však, že podrobnější
+> úpravy bránící konkrétněji takovým postupům, upraví příslušné zvláštní
+> zákony.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 524 až 527 návrhu — dnešní § 532—535):**
+
+> Bez obsahových změn se přejímají příslušná ustanovení z § 112 zák. č.
+> 256/2004 Sb., o podnikání na kapitálovém trhu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 528 až 536 návrhu — dnešní § 536—544):**
+
+> Bez obsahových změn se přejímají příslušná ustanovení z § 113 zák. č.
+> 256/2004 Sb., o podnikání na kapitálovém trhu. Navržená ustanovení jsou
+> formulačně upravena a systematicky přehledněji uspořádána.
 
 ---
 

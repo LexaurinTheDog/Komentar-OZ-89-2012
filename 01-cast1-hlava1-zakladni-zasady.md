@@ -62,6 +62,364 @@ Pojem dobrých mravů (*boni mores*) je **nedefinovaná hodnotová kategorie**. 
 
 OZ obrátil interpretační prevenci: pod 40/1964 Sb. se předpokládalo, že ustanovení je kogentní (a strany musely výslovně dovodit dispozitivnost); od 1. 1. 2014 je situace opačná — **většina ustanovení je dispozitivních**, ledaže by zákon stanovil výslovně jinak. Velmi to rozšířilo prostor pro smluvní úpravu (zejména v B2B kontraktech).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1 návrhu — dnešní § 1):**
+
+> Ustanovení formuluje dvě základní pravidla, která jsou pro soukromé
+> právo klíčová. V tom směru se osnova inspiruje zejména ustanoveními § 1
+> rakouského, čl. 1 švýcarského a čl. 7 francouzského občanského zákoníku.
+> Za prvé jde o poukaz na pojem soukromého práva, za druhé o stanovení
+> základní směrnice pro rozlišení právních pravidel podle míry závaznosti.
+>
+> Prvá věta odstavce 1 poukazuje na objektivní soukromé právo důrazem na
+> jeho základní pojmové znaky. Zvláště se vytýká, že objektivní soukromé
+> právo vytvářejí ustanovení právního řádu. Právní řád je pojmem ústavním
+> (čl. 10 Ústavy), na mimoústavní úrovni s týmž pojmem pracují stovky
+> právních předpisů, definován však ze zřejmých důvodů není a na jeho
+> obsah existují v právní doktríně názory, které se v detailech i
+> některých podstatných rysech liší (v tuzemské literatuře srov. např.
+> *Weinberger, O.* Norma a instituce. 1. vydání. Brno: Masarykova
+> univerzita, 1995, s. 20 an.; *Knapp, V.* Teorie práva. 1. vydání. Praha:
+> C. H. Beck, 1995, s. 64; *Boguszak, J.* in *Boguszak, J. - Čapek, J.*
+> Teorie práva. 1. vydání. Praha: Codex Bohemia, 1997, s. 11 an.;
+> *Gerloch, A.* Teorie práva. 2. vydání. Dobrá voda: Aleš Čeněk, 2001, s.
+> 74 an.; *Kubů, L. - Osina, P.* in *Kubů, L. - Hungr, P. - Osina, P.*
+> Teorie práva. 1. vydání. Praha: Linde, 2007, s. 20 an., 276 an.). Dílčí
+> názorové rozdíly v literatuře však nemají v dané souvislosti zvláštní
+> význam. Osnova vychází z pojetí, že se zřetelem k soukromému právu
+> právní řád nezahrnuje jen právní předpisy, ale i jiné prameny, z nichž
+> práva a povinnosti vyplývají. Do tohoto okruhu tedy mj. spadají i
+> nepsané principy (např. princip právní jistoty), zásady (např. zásada
+> presumované poctivosti) i zvyklosti apod. To je zřejmé i z dalších
+> ustanovení návrhu, dovolávajících se v § 2 i ústavního pořádku, v § 3
+> obecně uznaných zásad spravedlnosti a práva nebo v některých dalších
+> ustanoveních zvyklostí apod. Ovšemže ne všechna ustanovení právního řádu
+> vytvářejí soukromé právo, ale jen ta, která upravují soukromá práva a
+> soukromé povinnosti subjektivní povahy. Zpracovatelé osnovy se v jejích
+> prvních verzích pokoušeli odlišit subjektivní soukromé právo od
+> objektivního tak, že pro prvé z nich volili důsledně výraz „oprávnění".
+> Toto řešení je sice teoreticky správné a podle zásad legislativní
+> techniky by bylo namístě, ale z hlediska jazykového vyjádření vedlo k
+> toporné stavbě vět a celkové těžkopádnosti. Proto od něho bylo v
+> pozdějších redakcích osnovy upuštěno se závěrem, že k odlišení obojího
+> postačí logický a systematický výklad. Osnova tedy rovněž subjektivní
+> právo (oprávnění) označuje jako právo, přičemž se vyhýbá veřejnoprávnímu
+> „nárok", kteréžto označení do některých soukromoprávních předpisů
+> proniklo (srov. v platném občanském zákoníku např. § 42a odst. 1, § 130
+> odst. 3, § 500 odst. 1, § 511 odst. 2 a 3, § 530, 535, 573, 640, 745,
+> 776, 841 a četné další). Nárok je jen složkou soukromého oprávnění,
+> nevzniká hned při vzniku oprávnění, ale až při dospělosti subjektivního
+> práva, zánikem nároku (typicky promlčením) se oprávnění neruší, nýbrž
+> existuje dál v naturální podobě. Některá soukromá oprávnění navíc nejsou
+> s nárokem vůbec spojena (např. pohledávky z některých sázek nebo her).
+> Soukromá subjektivní práva a soukromé subjektivní povinnosti se
+> charakterizují jako vzájemná soukromá práva a vzájemné soukromé
+> povinnosti osob. Tím se klade důraz na jejich soukromou sféru a
+> vyjadřuje se, že tato práva a tyto povinnosti vznikají mezi osobami v
+> jejich vzájemném styku (nikoli tedy mezi osobou a orgánem veřejné moci
+> nebo mezi orgány veřejné moci navzájem); soukromé právo se týká
+> privátního života lidí, jde o jejich právo uplatňované ve společnosti
+> (srov. *Krčmář, J.* Právo občanské. II. 3. vydání. Praha: Všehrd, 1934,
+> s. 104). Konečně se za soukromé právo neoznačují jednotlivá ustanovení
+> právního řádu upravující oprávnění a povinnosti osob v jejich soukromé
+> sféře, ale souhrn těchto ustanovení, čímž se dává najevo význam
+> systematického uspořádání právních pravidel v nich obsažených.
+>
+> Osnova neusiluje o vědeckou definici soukromého práva. Stavba první věty
+> navrženého ustanovení to jasně naznačuje, protože není jako definice
+> formulována. Neuvádí se v ní víc než poukaz na hlavní rysy: ta právní
+> pravidla, která upravují práva a povinnosti mezi osobami vzniklá z
+> jejich soukromého styku, spadají do sféry soukromého práva. Význam
+> tohoto přístupu vystihl místopředseda Ústavního soudu Pavel Holänder
+> (Odborný posudek na návrh obecné části občanského zákoníku, Justiční
+> praxe, L, 2002, s. 508) stanoviskem, že „význam (uvedeného ustanovení
+> osnovy) pro právní praxi spočívá v orientaci na hledání a uvědomění si
+> smyslu soukromého práva." Obecné určení, která práva a které povinnosti
+> jsou soukromé, se ponechává právní vědě, a naopak konkrétní určení
+> téhož, tedy určení pro jednotlivý případ, se ponechává judikatuře.
+>
+> Soukromé právo se může definovat jen vymezením vůči právu veřejnému. Na
+> kvalifikaci rozdílu mezi soukromým a veřejným právem bylo vystavěno
+> několik teorií, z nichž nejznámější jsou zájmová, mocenská a organická.
+> Ač se např. část literatury (typicky *Knapp, V.* Teorie práva. 1.
+> vydání. Praha: C. H. Beck, 1995, s. 68) i naše ústavní soudnictví stále
+> přiklání k teorii mocenské, osnova ji za svou přijmout nemůže, protože
+> jsou též takové veřejnoprávní poměry, které na nadřízenosti a
+> podřízenosti vybudovány nejsou. A. Bělohlávek v pozoruhodné studii
+> „Interakce soukromého a veřejného práva" zdůrazňuje s rozsáhlým
+> argumentačním a literárním zázemím, že subordinační teorie se dnes
+> uplatňuje zcela výjimečně a poukazuje, že její přístupy se jeví jako
+> překonané a nevyhovující potřebám současné praxe. Autor zvláště podtrhl,
+> že subordinační teorie neposkytuje ani dostatečné záruky, „že nedojde ke
+> zneužití moci veřejné a k ohrožení práv soukromoprávních subjektů v
+> důsledku excesu moci veřejné nad či mimo rámec příslušných konkrétních
+> pravomocí" (*Bělohlávek, A. J.* Rozhodčí řízení, ordre public a trestní
+> právo. Komentář. I. díl. 1. vydání. Praha: C. H. Beck, 2009, 26). Proto
+> se návrh v pojetí právního dualismu od počátku hlásí k teorii organické.
+>
+> Při odlišení oblastí soukromého a veřejného práva je důležité, že obě
+> právní oblasti nezahrnují právní předpisy v jejich celku, ale
+> soukromoprávní nebo veřejnoprávní normy. Při tvorbě právních předpisů se
+> zákonodárce zpravidla řídí praktickou stránkou věci, nikoli puristickým
+> oddělováním soukromoprávních pravidel od veřejnoprávních. Tak i dnes
+> platný občanský zákoník obsahuje dílčí veřejnoprávní normy, např. v § 29
+> zakládá soudu pravomoc jmenovat osobě opatrovníka, pokud to vyžaduje
+> veřejný zájem, a v § 128 odst. 2 upravuje vyvlastnění. Podobně např. i
+> tak typický veřejnoprávní předpis, jakým je zákon o ochraně hospodářské
+> soutěže, obsahuje soukromoprávní pravidlo o neplatnosti dohod
+> narušujících hospodářskou soutěž (§ 3 odst. 1).
+>
+> Navrhuje se výslovně vyjádřit dualitu soukromého a veřejného práva
+> formulací zásady, že uplatňování soukromého práva je na uplatňování
+> veřejného práva nezávislé. Dílčí projevy této zásady a jejich výslovné
+> vyjádření lze v platném právu pozorovat již dnes (typicky v úpravě § 3a
+> obchodního zákoníku). Tím se nezpochybňuje ani jednota právního řádu ani
+> jeho celkový účel spočívající ve stanovení pravidel pro spořádané
+> soužití svobodných lidí (srov. *Weinberger, O.* Norma a instituce. 1.
+> vydání. Brno: Masarykova univerzita, 1995, s. 23), neboť „právo a právní
+> řád, pozorované z aspektu teleologického, jsou vždy zjevy sociálními,
+> tj. položíme-li otázku, v čí zájem nebo pro koho jsou stanoveny, musíme
+> vždy odpovědět poukazem na pospolitost" (*Weyr, F.* Teorie práva. 1.
+> vydání. Brno - Praha: Orbis, 1936, s. 181). Svoboda člověka, a v
+> důsledku toho i jeho práva a rovnost lidí v důstojnosti i právech jsou
+> klíčové hodnoty pro celý právní řád a stát i veřejná moc jsou založeny
+> na úctě k nim (čl. 1 Ústavy a čl. 1 Listiny základních práv a svobod).
+> Nelze však přehlížet, že právní řád používá k naplnění svého účelu různé
+> prostředky. Se zřetelem k tomu si kontinentální systém práva osvojil
+> ideu právního dualismu. Přes veškeré zpochybňování a někdy i popírání se
+> ukazuje, „že i v dnešní době zůstává tradiční dělení práva funkční"
+> (*Hendrych, D.* in *Hendrych, D. et al.* Správní právo. Obecná část. 6.
+> vydání. Praha: C. H. Beck, 2006, s. 23. Srov. také *David, R. - Grasman,
+> G.* Einführung in die groϐe Rechtssysteme der Gegenwart. 2. vydání.
+> München: C. H. Beck, 1988, s. 131 an.). V rámci jednotného právního řádu
+> sleduje právo soukromé i právo veřejné různé cíle. Soukromé právo otvírá
+> co nejširší prostor soukromé iniciativě jednotlivce a svobodnému
+> utváření soukromého života. Naproti tomu veřejné právo upravuje
+> organizaci, působnost a činnost orgánů veřejné moci. Tím je dáno odlišné
+> zaměření norem soukromého a veřejného práva: první zasahují vzájemný
+> styk osob, druhé styk osoby a orgánu veřejné moci nebo vzájemný styk
+> těchto orgánů. Proto je soukromé i veřejné právo pořádáno odlišným
+> způsobem. Pro soukromé právo je klíčová zásada autonomie vůle -
+> soukromník si ve své privátní sféře může dělat, co chce, a i když se
+> chová libovolně, nemusí to nikomu zdůvodňovat. To pro veřejné právo
+> neplatí: pro ně a pro orgány veřejné moci platí zásada objektivity -
+> orgán veřejné moci nesmí postupovat a rozhodovat se libovolně, ale může
+> svou moc uplatnit pouze k zákonným účelům a v zákonném rozsahu (čl. 2
+> odst. 3 Ústavy a čl. 2 odst. 2 Listiny základních práv a svobod). Texty
+> právních předpisů mnohdy používají relativně neurčité pojmy (např.
+> veřejný zájem, odůvodněný případ, důvod zvláštního zřetele hodný,
+> důležitý důvod apod.). Často se také stává, že zákon poukáže orgán
+> veřejné moci, aby rozhodl, aniž mu dá konkrétní směrnici. Ustanovení
+> odkazující na soudcovskou úvahu najdeme i v platném občanském zákoníku
+> (např. § 135c odst. 3, § 139 odst. 2 nebo v § 705 odst. 1 aj.), podobně
+> mnohé zákony z oboru správního práva dávají prostor správnímu uvážení
+> rozhodujícího orgánu. Leč ani v těchto případech volného uvážení
+> (diskrece) nemá libovůle místo: rozhodnutí orgánu veřejné moci musí být
+> odůvodněno a přezkoumatelné, aby bylo patrné, že diskrece je v
+> konkrétním případě logickým vyústěním řádného hodnocení skutkových
+> zjištění. V tom je hlavní odlišnost soukromého a veřejného práva jako
+> velkých oblastí právního řádu.
+>
+> Při naplňování svých zvláštních účelů volí soukromé i veřejné právo
+> různé metody, jak to odpovídá i kautelám čl. 2 odst. 3 a 4 Ústavy a čl.
+> 2 odst. 2 a 3 Listiny základních práv a svobod. Se soukromoprávní
+> zásadou autonomie vůle se shoduje preference dispozitivních ustanovení,
+> zatímco zásady oficiality a legality vlastní právu veřejnému vyžadují
+> kogentní úpravu.
+>
+> V soukromoprávní oblasti vzniká jednotlivci oprávnění z jeho vlastní
+> vůle, kdežto veřejné právo zakládá jednotlivci nárok aktem veřejné moci.
+> Protože jednotlivec vstupuje do soukromého právního poměru ze své vůle a
+> ve svém zájmu, je pro soukromé právo typická zásada vzájemnosti
+> ekvivalentních plnění - soukromník se zavazuje k povinnosti, aby za to
+> něco pro sebe získal, a nabývá-li ze své vůle oprávnění, zavazuje se
+> pravidelně druhé straně k protiplnění (srov. *Gerloch, A.* Teorie práva.
+> 2. vydání. Dobrá voda: Aleš Čeněk, 2001, s. 115 a četní další). Naproti
+> tomu v právu veřejném vznikají nároky bez zřetele na zásadu reciprocity
+> (Boguszak píše o unilateralitě, co se týče práv a povinností; srov.
+> *Boguszak, J. - Čapek, J.* Teorie práva. 1. vydání. Praha: Codex
+> Bohemia, 1997, s. 86). Rovněž pojetí sankcí se v soukromém a veřejném
+> právu se liší. Sankce vzniká v soukromém právu již deliktem. Hlavním
+> účelem sankce v soukromém právu je odčinit újmu způsobenou jednotlivci a
+> plně mu nahradit, co mu bylo v jeho soukromé sféře způsobeno; sankce
+> soukromého práva řeší konflikt mezi jednotlivci. Naproti tomu ve
+> veřejném právu vzniká sankce až právní mocí rozhodnutí orgánu veřejné
+> moci a jejím účelem není řešit vzájemný konflikt osob, nýbrž konflikt
+> mezi jednotlivcem a veřejnou mocí, která hájí a chrání veřejným zájem.
+> Účelem veřejnoprávní sankce, ať již správní nebo trestní, je potrestat
+> viníka, přičemž relace mezi deliktem a veřejnoprávní sankcí sleduje něco
+> jiného než je tomu u sankce soukromoprávní.
+>
+> Formulací zásady, podle níž je uplatňování soukromého práva na
+> uplatňování veřejného práva nezávislé, není řečeno, že obě uvedené
+> oblasti právního řádu jsou na sobě nezávislé navzájem. Zásada je
+> formulována jinak. Jde v ní o důraz na principy ústavního pořádku, že
+> existenci státu a veřejné moci podmiňuje úcta k právům a svobodám
+> člověka (čl. 1 Ústavy) a že i při omezení základních práv a svobod
+> člověka musí být šetřeno jejich podstaty a smyslu (čl. 4 odst. 4 Listiny
+> základních práv a svobod). Kromě toho nelze přehlížet význam kategorií
+> ústavního pořádku a veřejného pořádku, kterými jsou soukromé a veřejné
+> právo provázány. Ústavní pořádek, zejména principy a právní pravidla
+> obsažené v Ústavě a Listině základních práv a svobod nepůsobí jen
+> vertikálně, tj. ve vztahu mezi jednotlivcem a veřejnou mocí, ale i
+> horizontálně, tedy ve vztahu soukromými osobami.
+>
+> Zásada nezávislého uplatňování soukromého práva na právu veřejném
+> nevylučuje výjimky z pravidla a její obecnou formulací se nepopírá, že
+> mezi oběma oblastmi právního řádu četné styčné body. Přes rozdíly mezi
+> soukromým a veřejným právem vyplývající z jejich rozličného účelového
+> zaměření sledují obě uvedené oblasti právního řádu v konečném výsledku
+> jeden celkový cíl: zajistit společným působením zajistit právní jistotu
+> a naplnit demokratické hodnoty právního státu. Proto obě oblasti mají i
+> styčné plochy a funkcionální vazby (k tomu např. *Tilsch, E.* Einfluss
+> der Civilprocessgesetze auf das materielle Recht. 1. vydání. Wien: Manz,
+> 1901, s. 5 an.; *Macur, J.* Problémy vzájemného vztahu práva procesního
+> a hmotného. 1. vydání. Brno: Masarykova univerzita, 1993, s. 26 an.;
+> *Bělohlávek, A. J.* Rozhodčí řízení, ordre public a trestní právo.
+> Komentář. I. díl. 1. vydání. Praha: C. H. Beck, 2009, s. 35 an.). Leč je
+> podstatné, že v případech, kdy je namístě vázat uplatňování soukromého
+> práva na právo veřejné, vyžaduje se, aby to zákon stanovil výslovně. Tak
+> tomu je např. v úpravě nabývání vlastnického práva k nemovité věci na
+> základě smlouvy, kdy je vznik vlastnictví vázán na vklad vlastnického
+> práva pro nabyvatele do katastru nemovitostí, nebo v případech, kdy
+> soukromé právo spojuje vznik, změnu nebo zánik oprávnění s odsouzením
+> pro trestný čin a v dalších situacích. Zásadní ale je, že bez takového
+> výslovného stanovení nelze se vznikem veřejnoprávního nároku spojovat
+> vznik soukromého oprávnění a s porušením veřejného práva lze bez
+> výslovného stanovení opaku spojit jen veřejnoprávní, nikoli
+> soukromoprávní sankce.
+>
+> Zásada druhé věty prvního odstavce nezpochybňuje, že hranice mezi
+> soukromým a veřejným právem není pevně dána jednou provždy. Od druhé
+> poloviny 19. stol. jsme svědky jevu označovaného jako publicizace
+> soukromého práva, kdy dílčí úpravy útvarů původně pojímaných ryze
+> soukromoprávně (rodina, vlastnictví, smlouva) proniká veřejnoprávní
+> regulace. Dokonce i celé právní discipliny mění svůj charakter ze
+> soukromoprávních na převážně veřejnoprávní: např. horní právo bylo ještě
+> na počátku minulého století chápáno jako soukromoprávní a vyučováno bylo
+> na katedře občanského práva Právnické fakulty Univerzity Karlovy,
+> zatímco dnes se chápe jako dílčí disciplina práva správního. Tyto
+> tendence zesílily zejména od 30. let 20. stol. v reakci na politické i
+> hospodářské otřesy ve většině evropských států. V moderní době naopak
+> zaznamenáváme i zřejmé tendence opačné, kdy různé veřejnoprávní
+> instituty podléhají privatizaci, např. v souvislosti se změnami v
+> exekučním právu. Leč ani tyto zjevné proměny nemění nic na obecném
+> pravidlu: publicizací buď nabývají některé původně soukromoprávní normy
+> veřejnoprávní charakter, anebo k normám povahy soukromoprávní připojuje
+> veřejné právo svá další právní pravidla, zhusta z odvětví správního
+> práva, jak je patrné např. ve vývoji právních úprav směřujících k
+> ochraně spotřebitele.
+>
+> Pro naše sociální a právně kulturní prostředí je formulace druhé věty
+> prvního odstavce zvlášť významná, neboť uvedená zásada byla dlouhá
+> desetiletí popírána konstitucí jednotného socialistického práva. Zdejší
+> právní doktrína dlouhá desetiletí popírala dualismus práva (srov.
+> *Knapp, V.,* Právo veřejné a soukromé, Právník, 89, 1950, s. 99 - 100
+> nebo *Kučera, E.* Obecná teorie státu a práva. II. díl. 1. vydání.
+> Praha: Orbis, 1975, s. 236 an.). S tradicemi tohoto přístupu se praxe
+> dosud nevypořádala.
+>
+> Druhý odstavec navrženého ustanovení vymezuje kritérium pro odlišení
+> ustanovení, která nebrání, aby si osoby uspořádaly soukromá práva a
+> povinnosti odchylně od zákonné úpravy (dispozitivní právní normy) od
+> ustanovení donucující povahy (kogentní právní normy), od nichž se
+> odchýlit nelze. Důraz se klade na dispozitivitu ustanovení soukromého
+> práva jako na zásadu, zatímco kogentní ustanovení jsou výjimečná. Při
+> řešení, jaké kritérion zvolit pro odlišení obou skupin právních
+> pravidel, byly kriticky analyzovány dosavadní přístupy k této otázce v
+> platných právních úpravách i řešení zvolená v zahraničí. Pokud jde o
+> kodifikace soukromého práva, vystupuje staré poznání, že „není
+> jednotného bezpečného kritéria pro posouzení, zda to které ustanovení
+> zákonné jest právem závazným nebo nezávazným." (*Mayr, R.* Soustava
+> občanského práva. Kniha prvá: Nauky obecné. 2. vydání. Brno: Barvič &
+> Novotný, 1929, s. 25). Pohled do četných občanských kodexů kontinentálně
+> evropské provenience to zjevně stvrzuje. Přesto je úkol legislativní
+> praxe dát aplikační praxi vodítko k odlišení dispozitivních ustanovení
+> od kogentních. Zdejší zákonodárství zvolilo při řešení této otázky dvojí
+> přístup. První zvolil obecným vymezením platný občanský zákoník (§ 2
+> odst. 3) a podle jeho vzoru i nový zákoník práce (§ 2 odst. 1). Druhý
+> zvolil platný obchodní zákoník v § 263, případně někdejší zákoník
+> mezinárodního obchodu v § 5. Kladla se tedy otázka, zda se rozhodnout
+> pro obecnou směrnici jako v dosavadním občanském zákoníku, anebo zda
+> volit matematicky přesné řešení spočívající buď v uzavřeném výčtu
+> donucujících ustanovení, jak to učinil obchodní zákoník v § 263 ve
+> vztahu k své třetí části, anebo doplněním každého kogentního ustanovení
+> výslovným zákazem smluvní odchylky. Pro volbu obecně formulovaného
+> pravidla rozhodly standardy, kterých k řešení téže otázky přistupují
+> jiné civilní kodexy, skutečnost, že se v § 1 odst. 2 nenavrhuje pravidlo
+> jen pro občanský zákoník, ale pro celou oblast soukromého práva, a také
+> praktická zkušenost s § 263 obchodního zákoníku; jeho obsah se mění
+> takřka s každou novelou obchodního zákoníku a otřásá právní jistotou
+> mnohem víc než obecné vymezení, nehledě k tomu, že v soukromém právu
+> může společenský vývoj vést časem k posunům v náhledu na povahu
+> některých ustanovení. Literatura proto kriticky poukazuje na koncepci §
+> 263 obchodního zákoníku, vytýkajíc, že jde o rigiditu, nepružné řešení
+> nedávající doktríně a judikatuře žádný prostor (*Pelikánová, I.*
+> Komentář k obchodnímu zákoníku. 3. díl. 2. vydání. Praha: Linde, 1998,
+> s. 47). Takové řešení je sociálně svazující - brání společenskému pohybu
+> a konzervuje sociální poměry. Navíc výčet ustanovení, od nichž se nelze
+> odchýlit, přitahuje pozornost adresáta normy a sugeruje mu představu, že
+> mimo tato omezení je mu dán zcela volný prostor. Tak tomu ale není,
+> protože i tady se uplatní obecné zásady, přes které nelze jít (např.
+> zákaz obcházet zákon, zákaz porušit dobré mravy apod.). Proto osnova v
+> obecné rovině vsadila po vzoru jiných civilních kodexů na generální
+> klauzuli. Místopředseda Ústavního soudu Pavel Holänder komentuje toto
+> pojetí slovy, že ve vztahu k dispozitivnosti právní regulace „lze uvítat
+> její zakotvení abstraktní a nikoli kazuistické," jakož i „odmítnutí
+> nonkognivistické skepse ke schopnosti aplikační praxe smysluplně
+> interpretovat právní text" (Odborný posudek na návrh obecné části
+> občanského zákoníku, Justiční praxe, L, 2002, s. 508).
+>
+> Osnova však nesleduje vzor § 2 odst. 3 platného občanského zákoníku
+> slepě. Vypuštěn je odkaz na povahu ustanovení, který (jak vyplývá z
+> analýzy novější judikatury) leckdy vede k blíže nezdůvodněným závěrům o
+> kogentní povaze i u těch zákonných ustanovení, kde to nemá rozumný
+> smysl. Proto se volí formulace sice rovněž obecná a relativně neurčitá,
+> ale přece jen konkrétnější: Tam, kde není výslovný zákonný zákaz, je
+> ujednání odchylky od zákona přípustné, ledaže se tím poruší dobré mravy,
+> veřejný pořádek nebo právo týkající se postavení osob, včetně práva na
+> ochranu osobnosti. Zákonný zákaz je formulován buď výslovně slovy
+> „zakazuje se", nebo výslovným stanovením důsledku odklonu od kogentního
+> ustanovení poukazem na neplatnost ujednání nebo stanovením, že se k
+> závadnému ujednání nepřihlíží. Kategorie dobrých mravů je v soukromém
+> právu ustálena, v doktríně je dostatečně zpracována a právní praxi
+> nepůsobí větší potíže. Společně s ní se navrhuje stanovit poukaz na
+> druhý limit autonomie vůle, a to je veřejný pořádek. Veřejný pořádek
+> představuje jednu z podstatných náležitostí demokratického právního
+> státu (§ 9 odst. 2 Ústavy). Listina základních práv a svobod poukazuje
+> na maximu veřejného pořádku na řadě míst (čl. 14 odst. 3, čl. 16 odst.
+> 4, čl. 19 odst. 2, čl. 20 odst. 3). Se zřetelem k tomu je také kategorie
+> veřejného pořádku zvolena jako kritérium omezující autonomii vůle.
+> Dlužno uvést, že pojem veřejného pořádku vznikl v právu soukromém, odkud
+> se posléze přenesl do práva veřejného. S kategorií veřejného pořádku
+> pracují občanské zákoníky Francie, Španělska, Švýcarska, Québecu;
+> obdobné omezení znají i občanské zákoníky Polska nebo Maďarska a další.
+> Také náš platný občanský zákoník ve své původní podobě znal vedle
+> kritéria dobrých mravů - byť je přejmenoval na pravidla socialistického
+> soužití - i kritérium veřejného pořádku, které ukryl pod označení zájmu
+> společnosti (k tomu *Pauly, J.* Společenský zájem v československém
+> občanském právu. 1. vydání. Praha: Academia, 1983). Při novele
+> občanského zákoníku provedené zák. č. 509/1991 Sb. se hledisko veřejného
+> pořádku vytěsnilo, ač nešlo o krok zcela promyšlený. Veřejný pořádek se
+> osnova nepokouší blíže definovat, neboť to v právní normě není možné,
+> stejně jako není možné právní normou definovat dobré mravy. Orientačně
+> lze vyjít z pojetí, že veřejný pořádek prostupuje celé právo a zahrnuje
+> pravidla, na nichž leží právní základy společenského řádu zdejší
+> společnosti. S tím souvisí i požadavek na transparentní uspořádání
+> soukromých právních poměrů osob. Nikdo např. nepochybuje, že právní
+> pravidla stanovující, jak vzniká manželství nebo které věci jsou
+> nemovité a které věci jsou zastupitelné, jsou kogentní. Závaznost tohoto
+> ustanovení však nelze opřít o dobré mravy, nýbrž o právě zásadu
+> veřejného pořádku. Z těchto obecných kritérií se odvozují konkrétnější
+> omezení - např. dobrým mravům odpovídá, že se nelze odchýlit od
+> zákonných ustanovení chránících slabší stranu, veřejnému pořádku např.
+> pravidlo, že ujednání stran nezasahuje právní postavení třetí osoby a
+> nemění její oprávnění nebo povinnosti. Návrh obecného pravidla v § 1
+> odst. 2 snižuje nebezpečí mezer v právním řádu - ty by bylo nutné
+> násilně vyplňovat různými konstrukcemi. Zároveň brání libovůli při
+> prohlašování určitých ustanovení za *ius cogens* pouhým odkazem na
+> povahu právního pravidla, protože vyžaduje přesné odůvodnění, v čem by
+> jinak došlo ke střetu s dobrými mravy nebo veřejným pořádkem.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 2288/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9856B3770CC84E53C1258DAB0052C5F9?openDocument) — *Vyklizení nemovitosti Exekuční titul*
@@ -146,6 +504,59 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 - § 8 (zákaz zneužití práva — *contra legem* výklad nesmí vést ke zneužití);
 - § 13 (legitimní očekávání — výklad nesmí být překvapivý vůči ustálené judikatuře);
 - § 547—554 (výklad právního jednání — vychází ze stejné metodologie).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2 návrhu — dnešní § 2):**
+
+> Navržené ustanovení sleduje dvojí účel. Předně se hlásí k trvale platné
+> Celsově myšlence *Scire leges non hoc est verba eorum tenere, sed vim ac
+> potestatem* (znát zákony neznamená držet se jejich slov, ale pochopit
+> jejich účinnost a sílu). Vzhledem k tomu se stanoví, že právo není
+> samoúčelné a že se připíná k určité hodnotové soustavě, vyjádřené ve
+> shodě s naším ústavním pořádkem právě a především zásadami práva
+> přirozeného. Základní smysl je v pojetí, že přirozená práva člověka
+> představují limit pro zákon, a nikoli naopak. Se zřetelem k tomu se
+> navrhuje formulovat výslovné pravidlo, že výklad zákona (ve smyslu
+> judikatury Ústavního soudu tzv. jednoduchého práva) může být správný,
+> jen jde-li o výklad vykazující ústavní konformitu a respektující obecné
+> právní principy plynoucí z ústavního pořádku, jakož i obecné zásady
+> soukromého práva.
+>
+> V tom směru se čelí zejména bezhodnotovému právnímu formalismu, jehož
+> masivní nástup v 90. letech působí mnoho škod. Uvedený formalismus má
+> různé příčiny, z nichž do popředí významně vystupuje tradice výkladu
+> zákona, jaká byla typická zejména pro období tzv. socialistického práva.
+> Zároveň však osnova usiluje čelit i tendencím k možné libovůli při
+> výkladu zákona, a to právě nařízením, že zákonným ustanovením nelze
+> přikládat jiný smysl, než jaký odpovídá jejich slovům a jasnému (to jest
+> zřejmému, jasně projevenému a z textu zákona interpretací odvoditelnému)
+> zákonodárcově úmyslu. Protipólem bezduchého formalismu jsou právě ty
+> případy z rozhodovací praxe, kdy při právním hodnocení věci rozhoduje
+> jen vůle soudce, byť třeba i ignoruje jasná slova zákona.
+>
+> Rozlišuje se tudíž mezi literou zákona a jeho duchem v tom smyslu, že
+> litera zákona je jen celkový smysl holých slov. „Význam slov totiž,
+> skoro všech, je buď v nich samých nebo v přeneseném jich užívání velmi
+> různý a může znamenati velmi mnoho. Ale význam zákona nemůže být než
+> jeden." Předpokládá se, že úmysl zákonodárce je vždy spravedlnost. Mezi
+> literou a duchem zákona však není rozpor: duch zákona pomáhá odhalit
+> pravý význam slov zákonných ustanovení.[^20] Proto navržené ustanovení
+> zdůrazňuje, že zákon nelze vykládat jen z jeho slov, ale je nutno
+> přihlížet především k jeho smyslu. Zákonodárce si musí být vědom, že
+> slova zákona nemusí vždy dokonale vyjádřit jeho úmysl, a proto ukládá
+> soudci, aby tato slova zvažoval, poměřoval je právními principy a
+> zásadami, nespokojil se jen s gramatickým výkladem a hledal skutečný
+> obsah zákona.
+>
+> V třetím odstavci se navrhuje stanovit, že skutečného smyslu zákona
+> třeba šetřit nejen při výkladu zákonných ustanovení (interpretaci), ale
+> také při jejich používání (aplikaci). Tím nejobecnějším kritériem je
+> hledisko spravedlnosti. Zdůrazňuje se, že povaze soukromého práva
+> odpovídá to hledisko, že musí přijmout za své konstrukce přijatelné pro
+> obyčejné lidské cítění a se zřetelem k citu obyvatelstva pro
+> spravedlnost musí být tyto konstrukce také aplikovány. Poukazuje-li se v
+> odstavci 1 na ústavní pořádek, plyne z toho, vzhledem k čl. 10 a 10a
+> odst. 1 Ústavy, že výklad ustanovení soukromého práva musí být konformní
+> i s právem Evropské unie.
 
 **Judikatura (z místních zdrojů):**
 
@@ -235,6 +646,89 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 
 § 3 odst. 3 dodává, že soukromé právo vyvěrá také z **dalších obecně uznaných zásad spravedlnosti a práva** — tento odstavec otevírá prostor pro odkaz na obecné právní zásady (např. *bona fides*, *nemo plus iuris transferre potest quam ipse habet*, *favor matrimonii*, *favor testamenti*).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 3 návrhu — dnešní § 3):**
+
+> Celé ustanovení má interpretační význam a otevírá tak blok paragrafů,
+> jimiž se stanovují hlavní směrnice pro hledání a poznání skutečné
+> zákonodárcovy vůle. Základní myšlenka, z níž se zde vychází, je idea, že
+> zákon nepodložený velkými principy je stvořen jen k tomu, aby se
+> překrucoval nebo vnucoval, a následkem toho jeho paragrafy stíhá osud
+> ustanovení jen přechodných.[^21] Toto riziko se osnova snaží odvrátit
+> metodou dále popsanou.
+>
+> Prvním odstavcem se kodex soukromého práva přihlašuje k zásadám
+> přirozeného práva a staví na nich. Jiný přístup nemohl být se zřetelem k
+> Listině základních práv a svobod ani zvolen. Listina již v preambuli
+> uznává neporušitelnost přirozených práv člověka a k jusnaturalistické
+> koncepci lidských práv se, stejně jako Ústava, sama hlásí.[^22] Toto
+> pojetí se neomezuje jen na formulaci § 3 odst. 1, které nelze chápat
+> jako proklamaci, ale jako vyjádření účelu zákona a vodítko pro řešení
+> složitých právních případů (*hard cases*). Hledisko vyjádřené v tomto
+> ustanovení rezonuje celou osnovou - i když v prvé hlavě Části první ze
+> zřejmých příčin nejzřetelněji. Civilní kodex nemůže jít cestou odchylky
+> od zásad našeho ústavního pořádku. Avšak vzhledem k tomu, že
+> legislativní praxe v oblasti soukromoprávního zákonodárství je zhusta
+> jiná (nehledě již k tomu, že je řada jednotlivých norem privátního práva
+> zahrnuta v předpisech, obsahujících rovněž normy práva veřejného), je
+> důležité, aby se zákoník k této otázce vyjádřil jasně a zřetelně. Sám
+> princip, jenž tvoří obsah § 3 odst. 1, není nový. Hlásila se k němu už
+> na konci 18. stol. Hortenova osnova občanského zákoníku,[^23] třebaže do
+> konečné verze Obecného zákoníku občanského z r. 1811, vzhledem k
+> politickým poměrům absolutistického státu, katalog přirozených práv
+> člověka zahrnut nebyl. Ani dnes netřeba jít v tomto směru do velkých
+> podrobností, byť z jiných důvodů. Plnit funkci charty lidských práv dnes
+> u nás již občanský zákoník nemá, tento úkol je svěřen jinému právnímu
+> předpisu a civilní kodex může Listinu základních práv a svobod jen
+> provádět a provést.
+>
+> Důraz na přirozené právo člověka brát se o vlastní štěstí neodpovídá jen
+> běžně přijímané představě, že si každý člověk přeje být šťastný. Pojetí
+> § 3 odst. 1 vychází z poznání, že svoboda člověka není samoúčelná. Moc
+> jednotlivce činit, co chce, v souladu se svým vlastním určením, pojímaná
+> abstraktně, může vést k dobrým i k zlým činům a v tomto smyslu stojí
+> mimo obecné pojmy dobra a zla (de Jacourt). Ústavně chráněná svoboda
+> jednotlivce není samoúčelná. Ve vztahu k soukromým záležitostem člověka
+> má svůj cíl, kterým je osobní štěstí. Přijatá koncepce má své
+> filosofické a sociální zdůvodnění spjaté s tradicí i současností
+> evropského myšlení od antiky po dnešek. Jak připomíná již na počátku
+> zdejší civilizace Démokritos, zákon může životu lidí prospět, jen
+> chtějí-li oni sami, aby se jim dobře dařilo.[^24] Nic nezdůvodňuje lépe
+> správnost uvedeného přístupu, než fakt, že „veškerá západní kultura
+> směřuje k individuálnímu hledání štěstí."[^25] Ve známých slovech
+> Deklarace nezávislosti Spojených států o nezcizitelném právu na
+> vytváření osobního štěstí nelze vidět argument proti tomu, co bylo právě
+> uvedeno. Naopak, Thomas Jefferson se odklonem od formulace Johna Locka
+> akcentující hledisko majetku přihlásil důrazem na osobní štěstí člověka
+> k myšlenkovému proudu tlumočenému zejména francouzskými osvícenci a jako
+> štěstí chápal všestranný sociální a kulturní rozvoj jednotlivce.[^26]
+> Ostatně, v Praze již v r. 1774, tedy dříve, než Jefferson napsal do
+> americké Deklarace známá slova o přirozeném právu na štěstí, přednášel
+> na půdě zdejší univerzity profesor K. H. Seibt, jak blaho státu závisí
+> na štěstí jeho občanů. I to odpovídá myšlenkovému konceptu, který
+> precizně formuloval již Aristoteles, a podle něhož vlastní štěstí
+> motivuje člověka k soudržnosti, konání dobra a pomoci ostatním (což
+> ostatně potvrzuje trvající sociální zkušenost), a tím i k dosažení
+> stavu, označovaného Aristotelem jako blaženství. Osnova bere na vědomí
+> diferencovanost představ různých lidí o vlastním štěstí. Příznačným
+> prvkem totalitarismu je představa, že stát sám nejlépe ví, co je štěstí,
+> a snaha vnutit je člověku i proti jeho vůli. Proto se respektuje, že
+> každý může žít podle svého, neporušuje-li přitom práva jiných, a že
+> každý může usilovat o vlastní štěstí podle libosti, nepůsobí-li to jiným
+> bezdůvodnou újmu. Tak se vzájemně doplňují dvě hlavní zásady soukromého
+> práva: zásada autonomie vůle a zásada *neminem laedere.*
+>
+> V druhém odstavci jsou koncentrovány ty právní zásady, k nimž osnova
+> považuje za správné se soustředěně přihlásit. Sleduje se při nich
+> hodnotová stupnice, k níž celá stavba zákoníku lne. Důraz na obecné
+> zásady právní však osnova zákoníku podtrhla i na jiných místech a
+> některé další zvlášť zmiňuje jinde (např. zákaz šikany, ochranu dobré
+> víry atd.). Osnova zdůrazňuje též, že není v moci zákona kodifikovat
+> všechny obecné právní zásady, a vystříhává se rizika svádět praxi k
+> mylnému pojetí, že za závazné právní zásady zákoník uznává jen ty, na
+> které pamatuje jejich výslovným pojmenováním. Z toho důvodu se v
+> posledním odstavci tohoto ustanovení podtrhává, že soukromé právo
+> pramení také z dalších obecně uznaných zásad práva a spravedlnosti.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 716/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-716-14_1) — usnesení, 8. 7. 2015
@@ -313,6 +807,39 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 - ochrany dobré víry v zápis v katastru nemovitostí (§ 980 odst. 2);
 - pojistné smlouvy (§ 2788 — nepravdivé / neúplné odpovědi pojistníka).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 4 a 5 návrhu — dnešní § 4—5):**
+
+> Celé soukromé právo směřuje svou úpravou v prvé řadě k běžnému člověku.
+> Není však možné pod rouškou jeho ochrany jako jednotlivce podlamovat
+> nezbytnou ochranu třetích osob. Proto se navrhuje stanovit, že každý
+> může ve styku s jinou svéprávnou osobou důvodně předpokládat, že se
+> jedná o osobu průměrné inteligence, která jedná s běžnou pečlivostí
+> a opatrností. Obdobné hledisko se navrhuje přijmout jako obecné pro
+> rozhodnutí, závisí-li právní následek na mínění určité osoby nebo na
+> existenci pochybností. Skutkové podstaty, jež činí právní závěr na
+> pochybnostech nebo na úsudku určité osoby, jsou poměrně časté. Dnešní i
+> navrhovaná zákonná úprava spojuje právní následek nejednou s tím, zda
+> určitá osoba něco měla či mohla vědět, anebo jaké pravidlo má být
+> aplikováno, jsou-li pochybnosti. Proto se stanoví, že takové kritérion
+> musí být do určité míry objektivizováno, aby se zajistila minimální
+> předvídatelnost a schopnost vyhodnocení, zda bylo naplněno.
+>
+> Něco jiného je, bude-li se jednat o osobu, která se veřejně přihlašuje k
+> určitému povolání nebo stavu. Stavem se rozumí skupina lidí, kterou sice
+> nelze označit jako skupinu příslušníků určitého povolání, ale u nichž se
+> rovněž předpokládají zvláštní znalosti, vlastnosti nebo schopnosti
+> (např. voják v záloze, student lékařské fakulty, amatérský sportovec
+> apod.). Po osobě, která se takto chová, lze důvodně požadovat, aby také
+> jednala s využitím těch nadprůměrných znalostí a dovedností a s takovou
+> neobvyklou pečlivostí, jaké vyžaduje ona profese nebo onen stav. V daném
+> případě nehraje roli, zda ten, kdo se takto chová, má či nemá příslušné
+> podnikatelské oprávnění, je-li ho třeba, ale to, jak jej z jeho
+> přičinění vnímají jeho partneři, zejména klientela. Nechová-li se taková
+> osoba tak, jak vyžaduje *lex artis,* musí nést případné následky. Šlo-li
+> z její strany jen o předstírání určitého zvláštního postavení, nemůže
+> nikdo zpochybnit platnost právních jednání při té příležitosti
+> učiněných, vyjma případ, kdy se toho dovolá oklamaná strana.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1510/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC1D9BD286ADE13C125882E0015FE70?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ]*
@@ -382,6 +909,8 @@ To má dopady na:
 - **břemeno tvrzení a důkazu** — *jde to k jeho tíži* znamená, že **profesionál nese důkazní břemeno**, že odbornou péči vyvinul (obrácení důkazního břemene oproti obecnému pravidlu § 2911).
 
 § 5 odst. 2 stanoví, že **chybějící veřejnoprávní oprávnění** (živnostenský list, atestace, povolení) **samo o sobě nezpůsobuje neplatnost smlouvy** — pokud druhá strana s touto vadou nesouhlasí. Spotřebitel/klient se může dovolat plnění i tehdy, když dodavatel jednal bez oprávnění. (Ovšem je možná soukromoprávní odpovědnost za škodu způsobenou tímto „provozem".) Tento odstavec navazuje na zásadu autonomie soukromého práva v § 1 odst. 1: porušení veřejnoprávní normy nezpůsobuje automaticky neplatnost.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 4 a 5“ (dnešní § 4—5) — viz § 4.
 
 **Judikatura (z místních zdrojů):**
 
@@ -466,6 +995,34 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - Smlouva o převodu nemovitosti, kde převodce úmyslně tají právní vady. Soud uznal, že právo nabyvatele uplatnit nárok není promlčeno, dokud nemohl vadu zjistit (NS 32 Cdo 3457/2018).
 - Nájemník, který úmyslně poškozuje byt, nemůže se dovolávat ochrany nájemního vztahu (§ 2236 odst. 2 — výpověď bez výpovědní doby z důvodu hrubého porušení).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 6 návrhu — dnešní § 6):**
+
+> Standardní občanské zákoníky spojují výkon subjektivních práv a plnění
+> právních povinností s kritériem čestnosti a absence zlé vůle i
+> podvodného úmyslu. Tak tomu je např. v § 242 německého, čl. 7
+> španělského, čl. 2 švýcarského, v čl. 6:2 nizozemského občanského
+> zákoníku atd. Toto kritérium poctivého a slušného uplatňování oprávnění
+> i poctivého a čestného plnění povinností odpovídá zásadě čestného žití
+> (*honeste vivere*) chápaného jako jeden ze základních příkazů práva již
+> v justiniánském kodexu (Inst. I, 3). Četné evropské jazyky vyjadřují
+> analogický požadavek výrazy, jako jsou *Treu und Glauben* (věrnost a
+> víra), *good faith, bonne foi, buena fe, buona fede* (dobrá víra),
+> *redelijkheid eb bilijkheid* (počestnost a poctivost) atd. Výraz „dobrá
+> víra" však má ve zdejším právním jazyce již svůj osobitý právní význam
+> jako vnitřní (subjektivní) přesvědčení jednajícího o jeho vlastním
+> právním postupu, a tudíž výraz *good faith* a jemu podobné nelze do
+> češtiny správně převést jako dobrou víru. Stalo-li se tak již v
+> některých případech mechanickým překladem cizojazyčných textů, jako
+> např. v § 56 odst. 1 platného občanského zákoníku, vede to k
+> nedorozuměním a ke scholastickému rozlišování dobré víry v subjektivním
+> a v objektivním slova smyslu. Z toho důvodu se táž zásada v návrhu
+> vyjadřuje formulací ukládající každému jednat v právním styku poctivě.
+>
+> Zároveň se navrhuje stanovit, že nikdo nemůže získat právní výhodu,
+> jednal-li nezákonně nebo obmyslně, protože ochranu je třeba poskytnout
+> naopak tomu, kdo jednal v dobré víře. *Mala fide* nelze získat právem
+> aprobovanou výhodu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 3767/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F18909AE1AA8CFE2C1258A3600160EEC?openDocument) — *Přípustnost dovolání Výpověď z pracovního poměru Dobré mravy Diskriminace*
@@ -538,6 +1095,14 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 - **ochrana dobré víry v katastr nemovitostí** (§ 980—984).
 
 Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradičního pojetí: subjektivní přesvědčení o oprávněnosti vlastního jednání, založené na okolnostech, které průměrně rozumný člověk považuje za dostatečné. Dobrá víra **není totožná s poctivostí** (§ 6) — poctivost je objektivní standard chování, dobrá víra je subjektivní stav vědomí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 7 návrhu — dnešní § 7):**
+
+> Navrhované ustanovení presumuje ve shodě se všemi právními řády evropské
+> kontinentální tradice existenci dobré víry. Kdo dobrou víru popírá, musí
+> v tom směru unést důkazní břemeno. Dosud platný občanský zákoník je
+> vedle občanského zákoníku Slovenska jediným evropským občanským
+> zákoníkem, který obecnou zásadu presumpce dobré víry neupravil.
 
 **Judikatura (z místních zdrojů):**
 
@@ -626,6 +1191,56 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 - Uplatňování smluvní pokuty v zjevně nepřiměřené výši (NS 23 Cdo 1234/2020 — kombinace § 8 a § 2051);
 - Šikana sousedů — uplatňování imisí, které vlastník sám vyvolal (NS 22 Cdo 765/2017).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 8 návrhu — dnešní § 8):**
+
+> Individualistické pojetí soukromého práva má své limity, které
+> nejobecněji vyjadřuje kritérium svobody jednotlivce, neboť svoboda
+> jednoho končí tam, kde začíná svoboda druhého. Toto kritérium se
+> projevuje i v tom, že nemálo právních řádů bere zřetel na případy, kdy
+> se osoba chová tak, že vykonává subjektivní právo jen zdánlivě; totiž
+> tak, že dovolávajíc se formy, koná za účelem dosažení nedovoleného
+> výsledku. Zneužití práva (*abusus iuris*) je tak pojato jako reprobované
+> chování a jeho obecný zákaz jako jedna z vůdčích právních zásad, která
+> nalezla své výslovné vyjádření v řadě občanských kodexů (§ 226, 242 a
+> 826 německého, čl. 2 švýcarského, čl. 11 až 15 třetí knihy nizozemského,
+> čl. 7 španělského, čl. 334 portugalského, čl. 7 québeckého atd.), které
+> se v závěru 19. a v průběhu 20. století přiklonily k sociální koncepci
+> subjektivních práv a jejich výkonu. Dokonce i zdejší občanské zákoníky
+> z r. 1950 a platný občanský zákoník z r. 1964 (v původní redakci) obecný
+> zákaz zneužití práva obsahovaly, byť s obsahem ovlivněným dobovou
+> ideologií. Dnes podobná zákonná úprava chybí (formulace § 3 odst. 1
+> platného zákoníku nevystihuje podstatu věci). To je závažný nedostatek
+> jednak vzhledem k tomu, že se jedná o nedostatečné promítnutí ústavního
+> principu zákazu zneužití vlastnictví (čl. 11 odst. 3 Listiny), jednak
+> proto, že nejsou jasně stanoveny právní následky zneužití práva, resp.
+> výkladem § 3 odst. 1 platného občanského zákoníku lze dospět k závěru o
+> absolutní neplatnosti úkonu, jímž se právo zneužívá, což se ve svých
+> důsledcích může obrátit i proti druhé straně.
+>
+> Navržené ustanovení bere v úvahu dvě základní pravidla: *Neminem laedid
+> qui iure suo utitur* (Kdo vykonává svoje právo, nikomu neškodí) a *Mal
+> enim iure nostra uti non debemus* (Nemáme však zneužívat svoje právo).
+> Z toho důvodu se nezakazuje výkon práva, jímž se právo zneužívá, neboť
+> zneužití není výkonem práva, nýbrž jde o protiprávní (nedovolený) čin, a
+> proto mu nelze přiznat ochranu. Vzhledem k tomu, že i zákaz zneužití
+> může být zneužit, klade se důraz na zákaz činů, kterým je právo *zjevně*
+> zneužito, protože o naplnění skutkové podstaty nesmí být při právním
+> posouzení pochybnost. Jedná se tedy o takové zneužití, které lze
+> prokázat. Jsou-li pochybnosti, musí být chráněn ten, kdo subjektivní
+> právo má a dovolává se jej. Sankcí za zneužití práva je odmítnutí právní
+> ochrany zdánlivého výkonu práva. Má-li tedy být sankce naplněna, závisí
+> to, ostatně jako ve výrazné většině situací upravených soukromým právem,
+> na vůli osoby zneužitím práva dotčené. Navržená úprava je obecná, netýká
+> se jen majetkových práv, na něž dopadá čl. 11 odst. 3 Listiny základních
+> práv a svobod (Listina v čl. 11 odst. 1 vztahuje vlastnictví k majetku
+> vůbec, nikoliv jen k hmotným předmětům), neboť ke zneužití práva může
+> dojít a dochází i ve sféře práv osobních.
+>
+> Zvláštním případem zneužití práva je šikana jako chování, jímž se právo
+> zneužívá za tím určujícím účelem, aby druhé straně byla způsobena škoda.
+> Na šikanu pamatují zvláštní ustanovení při úpravě věcných práv a práv
+> obligačních.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3235/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1AE36B439D4DA9B2C1258D9C0052B12A?openDocument) — *Stavba Dobré mravy*
@@ -712,6 +1327,38 @@ Vztah subsidiarity je vždy **dvousměrný**: jsou-li v zvláštním zákoně me
 
 Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pramen) — zvyklost je faktická opakovaná praxe, obyčejové právo by mělo normativní účinky bez výslovného odkazu zákona.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 9 návrhu — dnešní § 9):**
+
+> Navržené ustanovení vyjadřuje jako vůdčí pravidlo, že občanský zákoník
+> je kodex, těžiště veškerého soukromého práva, k němuž se sbíhají a pod
+> jehož vlivem jsou i všechna soukromoprávní ustanovení, byť je obsahují
+> jiné zákony nebo další předpisy. To přirozeně není dáno tím, že by
+> zákoník (kodex) byl formálně předpisem vyšší právní síly než „obyčejný"
+> zákon - neboť z hlediska jeho právní síly je i zákoník obyčejným
+> zákonem - ale předmětem úpravy občanského zákoníku a principem
+> subsidiarity, tj. pravidlem, že ustanovení občanského zákoníku jsou
+> aplikována na soukromoprávní poměry osob potud, pokud je neupravují
+> speciální zákony.
+>
+> Pojetí občanského zákoníku jako univerzálního kodexu a charty soukromých
+> práv sleduje dvě základní opatření. Za prvé se stanoví, že občanský
+> zákoník upravuje osobní stav osob, a to fyzických i právnických. Je tedy
+> v důsledku toho vyloučeno, aby se úprava statusových otázek ocitla mimo
+> občanský kodex. Za druhé se normuje, že občanský zákoník je zákonem
+> subsidiárně aplikovatelným pro celé soukromé právo ve všech aspektech, o
+> nichž speciální soukromoprávní předpisy nestanoví od občanského zákoníku
+> odchylky.
+>
+> Podle vzoru § 10 rakouského občanského zákoníku (ABGB) se pro okruh
+> obecného soukromého práva vylučuje aplikovatelnost právních obyčejů jako
+> pramene práva. Z toho důvodu osnova nečiní rozdílu mezi právními obyčeji
+> a zvyklostmi a staví je vzájemně naroveň. Ze zvyklostí lze odvozovat
+> oprávnění a povinnosti osob jen tam, kde na ně zákon odkáže. V ostatních
+> případech mohou sloužit jen jako interpretační pomůcka. Zvyklosti mají
+> nepochybně značný význam v obchodním styku tuzemském i mezinárodním.
+> Pokud se jedná o tuzemský obchodní styk, poukazuje se na jeho zvyklosti
+> ve zvláštních ustanoveních.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 11/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9F6195ACC42C6F8C12584950016003C?openDocument) — *Řízení o úschovách Správa cizího majetku (o. z.)*
@@ -780,6 +1427,64 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 - § 2 (hodnotově orientovaný výklad);
 - § 13 (legitimní očekávání — analogie se musí provádět s ohledem na ustálenou praxi);
 - § 1746 (inominátní smlouvy — výslovné zmocnění k analogii).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 10 návrhu — dnešní § 10):**
+
+> Základní instrukce k výkladu zákona dává § 10.
+>
+> Komplex pravidel shrnutých do tohoto ustanovení se záměrně, kategoricky,
+> a také v logické návaznosti na § 3, rozchází s Robespierovou maximou, že
+> „slovo soudní tvorba práva musí být vymýceno z našeho slovníku." Tato
+> zásada je totalitnímu právnímu myšlení blízká, jak je známo rovněž
+> z nedávné české zkušenosti, pohříchu i současnosti. S těmito neblahými
+> tradicemi je nezbytné se rozejít nejen s ohledem na jejich kořeny, ani
+> jen proto, že myšlenka popření soudcovské tvorby práva ani v totalitních
+> právních systémech nenašel plné uplatnění (jako princip nepůsobí), ale
+> především z toho důvodu, že snahy o jeho prosazování působí retardačně
+> na juristické myšlení i na celkovou právní kulturu, vedou
+> k nespravedlnostem při aplikaci práva, a tudíž i k sociálně škodlivým
+> efektům.
+>
+> Předně se přikazuje, není-li výslovného ustanovení, použít analogii (na
+> mysli se má *analogia legis*). To je tradiční juristické řešení příkazu
+> nalézt v zákoně i jeho latentní obsah, které má své kořeny již v
+> zákonodárství josefínské doby. Návrh § 10 odst. 1 přejímá dosavadní
+> konstrukci § 853 stávajícího občanského zákoníku.
+>
+> Ale i případy, při nichž není analogie legis použitelná, musí být nějak
+> vyřešeny, protože i za této situace je zřejmé, že právo mlčet nemůže. V
+> těchto případech se používají obecné zásady právní nebo analogie práva
+> (*analogia iuris*), což je v podstatě totéž. Oboje otvírá prostor pro
+> praxi příliš mlhavý. To může vést k nepředvídatelným závěrům a
+> arbitrární libovůli. Řešení nabízí občanský zákoník Švýcarska (ZGB) v
+> čl. 1, kde stanoví podmínky, za nichž soudce může *a priori* formulovat
+> právní normu (právní pravidlo, jaké by vytvořil, kdyby byl sám
+> zákonodárcem), podle níž případ posoudí. Jde vlastně o metodu vyplňování
+> nezamýšlených mezer v zákoně. Toto pojetí odpovídá, že zákon stanovuje
+> právní pravidla povšechně jako obecná, že je však třeba pamatovat a mít
+> řešení i pro případy, kdy se „přihodí něco mimopovšechného, a tehdy je
+> správné, aby tam, kde zákonodárce, poněvadž mluvil všeobecně, něco
+> opominul a pochybil, opominutí opraviti, jak by řekl i sám zákonodárce,
+> kdyby byl přítomen a jak by ustanovil, kdyby o tom věděl."[^27]
+>
+> Doslovné převzetí čl. 1 ZGB vyvolalo při projednávání diskuse a
+> nesouhlas s jeho formulací, nikoli však s věcným obsahem a návrhem
+> věcného řešení. To ostatně nalézá uplatnění i při stávající judikatorní
+> praxi a přitakává mu desetiletí i právní nauka (srov. práce V. Kubeše,
+> V. Knappa, A. Gerlocha, Z. Kühna a dalších). Při soudním dotváření práva
+> a vyplňování mezer v zákoně však není možné ponechat volné pole rozmaru
+> nebo libovůli. Proto se navrhuje uložit, aby se právní případ posoudil
+> podle principů spravedlnosti i zákonných zásad a s přihlédnutím k stavu
+> právní nauky i ustálené rozhodovací praxi. Výsledkem má být dobré
+> uspořádání práv a povinností se zřetelem k zvyklostem soukromého života,
+> tedy rozhodnutí podle pravidel ekvity, rozhodnutí rozumné, nikoli slepé
+> následování maximy *fiat iustitia, perreat mundus* (ať zvítězí
+> spravedlnost, i kdyby svět vzal za své). Navržené znění druhého odstavce
+> nenařizuje, aby soudcovské stanovisko odpovídalo dosavadní soudní praxi
+> nebo doktríně, musí však vycházet z jejich znalosti a být náležitě
+> vyargumentováno. Ačkoli návrh zákoníku předpokládá soudcovské dotváření
+> práva, stanoví mu zároveň jisté meze, protože návrh nechce opustit
+> limity kontinentálního právního systému.
 
 **Judikatura (z místních zdrojů):**
 
@@ -855,6 +1560,18 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Praktický dopad:**
 
 § 11 brání tomu, aby vznikaly mezery v úpravě jen proto, že určitý institut není v dané části zvlášť pojednán. Klíčová je formulace „**přiměřeně**" — tj. s ohledem na povahu daného právního vztahu, ne mechanicky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 11 návrhu — dnešní § 11):**
+
+> Návrh zařadil do čtvrté části souhrn ustanovení o vzniku, změně a zániku
+> soukromých práv a povinností obligační povahy, zejména ustanovení o
+> smlouvě. Stalo se tak z toho důvodu, že smlouva má klíčový význam pro
+> vznik závazků. Ustanovení o smlouvě, zajištění závazku, splnění dluhu a
+> četná další z tohoto okruhu jsou však aplikovatelná i na práva a
+> povinnosti plynoucí z ustanovení v jiných částech návrhu, jakož i
+> dalších právních předpisů soukromého práva. Proto se navrhuje všeobecným
+> odkazem na použitelnost těchto ustanovení poukázat. Vzorem je obdobné
+> řešení zvolené švýcarským občanským zákoníkem (ZGB) v čl. 7.
 
 **Judikatura (z místních zdrojů):**
 
@@ -932,6 +1649,23 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 14 (svépomoc — výjimečná alternativa k soudní ochraně);
 - § 13 (legitimní očekávání ohledně rozhodnutí).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 12 návrhu — dnešní § 12):**
+
+> V právním státě má osoba dotčená ve své soukromoprávní sféře právo žádat
+> po státu závazně, aby se jí dostalo účinné, a tedy mj. i včasné pomoci.
+> V právním státě má prvořadou úlohu v tom směru soud.
+>
+> Je-li tu takový orgán nadaný veřejnou mocí, pak musí dbát, aby se tomu,
+> kdo se na něho obrací, dostalo včasného rozhodnutí odpovídajícího
+> zákonu. Nepostupuje-li k tomu povolaná veřejná moc takto, jestliže s
+> rozhodnutím otálí, pak se osoba, která se na soud nebo správní či jiný
+> orgán obrací, ocitá ve stavu nejistoty a trpí tím újmu. Z toho důvodu
+> toto ustanovení vyžaduje, aby příslušný orgán postupoval tak, aby osoba
+> dožadující se rozhodnutí nezůstala ve stavu nejistoty po dobu neúměrnou
+> povaze konkrétního případu. Odepřením spravedlnosti přirozeně není
+> vydání rozhodnutí, kterým se navrhovateli nevyhoví, ale případ, kdy
+> veřejná moc nekoná, ač podle zákona a povahy věci konat má.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Nd 670/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6CD865DD9144558CC1258AAD00529B97?openDocument) — *Přikázání věci (delegace)*
@@ -1006,6 +1740,85 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 2 (ústavně konformní výklad);
 - OSŘ § 237 (přípustnost dovolání pro rozdílnost / odchýlení od ustálené praxe NS);
 - čl. 95 Ústavy ČR (vázanost soudu zákonem a judikatorními výklady).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 13 návrhu — dnešní § 13):**
+
+> Třebaže zdejší právní řád nestojí na precedentech, nelze pominout
+> faktický význam rozhodovací praxe při konkretizaci dosahu abstraktních
+> normativních konstrukcí právních předpisů, při nalézání konkrétního
+> obsahu neurčitých právních pojmů (které jsou např. vyjádřeny výrazy
+> dobré mravy, dobrá víra, míra přiměřená poměrům, účelně vynaložené
+> náklady, bez zbytečného odkladu, vyžaduje-li to nezbytně atd.) a při
+> dotváření práva vůbec. Tato skutečnost vystupuje v právním životě české
+> společnosti zcela zřejmě: stejně jako vystupuje ve všech společnostech,
+> jejichž právní řády jsou založeny na kontinentální právní soustavě. Tak
+> C. Kemp Allen v klasickém díle Law in the Making[^28] poznamenává, jak
+> je překvapivé, nakolik takový prototyp kontinentálního práva, jakým je
+> právo francouzské, dotváří vedle doktríny a jurisprudence také
+> judikatura, nejvýznamnější německý právní filosof R. Zippelius
+> (Rechtsphilosophie. 4. vydání. München: C. H. Beck) mluví o soudním
+> dotváření práva (*Fortbildung des Rechts*); obdobně v soudobé polské
+> literatuře např. Z. Radvański[^29] Ve zdejším právním prostředí otevřel
+> tuto otázku poprvé již před válkou V. Kubeš, který psal proti ideologii
+> „exegetické školy s její bázní před myšlenkou, že také soudce je tvůrcem
+> práva",[^30] později v r. 1969 V. Knapp[^31] a v současné době i řada
+> dalších autorů (Gerloch, Kühn a jiní).
+>
+> Proto není možné přehlížet podíl rozhodovací praxe na tvorbě práva jako
+> společenský fakt, který má i své ústavněprávní konotace, z nichž do
+> popředí vystupují především hlediska principů právního státu a úcty k
+> právům a svobodám člověka a občana (čl. 1 odst. 1 Ústavy) a princip
+> rovnosti v právech (čl. 1 Listiny základních práv a svobod). Osnova
+> nemíní řešit otázku závaznosti soudních a jiných rozhodnutí, ani se
+> vyjadřovat k otázce hierarchie rozhodnutí vydávaných v různých
+> rozhodovacích systémech a rozhodnutí různých instancí v rámci těchto
+> systémů - to náleží jiným normativním úpravám, zejména Ústavě (srov.
+> její čl. 89 odst. 2) a zákonům z oblasti procesního práva. Osnova však
+> považuje za účelné, ba v zájmu ústavní konformity za nutné, postavit se
+> k problematice soudního dotváření právního řádu z pozice hmotného práva.
+> Východiskem je Ehrlichova myšlenka, že „posuzování týchž nebo podobných
+> případů rozdílně není právo, nýbrž libovůle nebo rozmar".[^32] Stejné
+> hledisko proniklo i do aktuální judikatury Ústavního soudu, Nejvyššího
+> soudu i Nejvyššího správního soudu (např. rozh. č. 398/2004 Sb. NSS,
+> sešit 10/2004 výslovně odmítá „jurisdikční libovůli" při odlišném
+> posuzování srovnatelných případů). Proto také Ústavní soud zdůrazňuje ve
+> svých nálezech postulát legitimního očekávání, že jednotlivé právní
+> případy budou posouzeny obdobně, jako byly posouzeny jiné srovnatelné
+> právní případy a že k tzv. překvapivým rozhodnutím musí být přistupováno
+> zvláštním způsobem.
+>
+> Osnova se k těmto otázkám staví v duchu téže koncepce, podle které je v
+> ní formulován návrh i jiných obecných ustanovení (např. § 2 nebo 3).
+> Základem je maxima čl. 36 odst. 1 Listiny základních práv a svobod,
+> podle něhož má každý právo na právní ochranu. To je východisko vyjádřené
+> v § 12. Obdobně stanoví i platný občanský zákoník v § 4. Do budoucna
+> však není možné setrvat jen u této obecné formulace. Ta totiž nebrání
+> ani mechanickému rozhodování se zřetelem k právním větám publikovaných
+> judikátů, při jejichž používání se v praxi nejednou neberou v úvahu
+> podstatné rysy toho kterého právního případu, ani rozhodovacímu rozmaru
+> nebo libovůli.
+>
+> Z těchto důvodů se navrhuje výslovně stanovit, že ten, kdo se dovolává
+> ochrany svého oprávnění založeného právem hmotným, má legitimní právní
+> důvod očekávat, že jeho právní případ bude posouzen obdobně jako jiné
+> typově shodné a již rozhodnuté právní případy, protože má právní důvod
+> spoléhat na to, že ustanovení hmotného práva budou vyložena shodně s
+> dosavadní usuální rozhodovací praxí. Navrhuje se tedy zavést normativní
+> konstrukci blížící se zásadě *stare decisis* (setrvat na rozhodnutém),
+> což má význam pro právní jistotu a pro stabilitu práva. Zároveň ale
+> nelze založit konzervaci rozhodovací praxe. Zákon je pravidlo psané pro
+> současnost (E. Tilsch). Proto je třeba obecná zákonná ustanovení
+> vykládat a používat vzhledem k aktuální společenské a ekonomické
+> situaci. Tak již dnes jsou četná právní pravidla občanského zákoníku, ač
+> zůstala od jeho schválení bez podstatných změn, vykládána a uplatňována
+> jinak než v r. 1964. Proto se nenavrhuje založit právo soukromníka na
+> stejné právní posouzení jeho právního případu jako již rozhodnutých
+> typově shodných právních případů, ale jeho právo na náležité odůvodnění,
+> bude-li jeho právní případ rozhodnut odlišně. Nezamýšlí se tedy bránit
+> faktickým změnám psaného práva cestou jeho aplikace. Každé právo se ve
+> svém historickém vývoji mění, a to i když zákon trvá bez formální změny.
+> Této vývojové fakticitě by ani výslovné zákonné ustanovení nedokázalo
+> zabránit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1099,6 +1912,25 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 - § 2906—2908 (okolnosti vylučující protiprávnost — nutná obrana, krajní nouze);
 - § 1006 (svépomocné držení vlastnické věci);
 - § 1395 (zástavní právo svépomocné).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 14 návrhu — dnešní § 14):**
+
+> Po osobě, jejíž soukromá práva jsou dotčena, nelze vážně žádat, aby
+> trpně čekala na pomoc státu nebo orgánu nadaného veřejnou mocí, když ta
+> nepřichází, anebo vzhledem k akutnosti nebezpečí ani nemůže přijít včas.
+> Proto se navrhuje stanovit podmínky pro výkon svépomoci a vychází se
+> ohroženému vstříc.
+>
+> Navrhuje se změnit koncept současné právní úpravy pocházející ze
+> socialistického období a formulovat dvě zvláštní skutkové podstaty.
+> Druhý odstavec opouští dosavadní rigidní kritérion objektivně
+> posuzovaného „přiměřeného způsobu", jímž má být svépomocí nepřiměřený
+> zásah odvrácen, ale přichází s konstrukcí, že dovolenost způsobu
+> svépomoci je podmíněna tím, jak by se přiměřenost jevila osobě v
+> postavení ohrožené strany. Zároveň se po vzoru německého zákoníku (BGB,
+> § 230) a některých dalších kodexů navrhuje zvláštní právní pravidlo pro
+> případ svépomoci sledující zajištění subjektivního práva (např. při
+> zadržení zloděje).
 
 **Judikatura (z místních zdrojů):**
 

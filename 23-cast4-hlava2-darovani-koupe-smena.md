@@ -39,6 +39,17 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2055 odst. 2 — Společenská úsluha**: rozdíl mezi darováním a společenskou pozorností (květiny, čokoláda — neformální gesta). Kritérium: **vůle smluvně se vázat**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2031 návrhu — dnešní § 2055):**
+
+> Osnova odlišuje darování a ostatní liberality, které jsou bez právních
+> následků. Podstata darování je v tom, že dárce převede věc obdarovanému
+> bezplatně do vlastnictví nebo slíbí tak učinit, a obdarovaný dar nebo
+> slib daru přijme. Pojmovým znakem darovací smlouvy jsou takové projevy
+> vůle dárce a obdarovaného, z nichž je smluvníkům zřejmé, že na sebe
+> berou právní závazek, a konsens těchto projevů. Naproti tomu u jiných
+> liberalit není vůle stran smluvně se vázat. Proto také na ně nelze
+> vztáhnout ustanovení o darování.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 3163/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC8FA94DC50A53DFC1258DA00052DD9F?openDocument) — *Darování Bezdůvodné obohacení*
@@ -114,6 +125,42 @@ Darování je bezúplatný dvoustranný převod vlastnictví; u movité věci p�
 **§ 2058 — Budoucí majetek**:
 - **Veškerý současný majetek** lze darovat;
 - **Budoucí majetek**: **max. polovinu** (zbytek je neplatný — chrání dárce před totální chudobou).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2032 návrhu — dnešní § 2056):**
+
+> Nevznikne-li darovací smlouva, není ten, kdo darovací slib učinil,
+> právně zavázán darovat. Přece jen však je i v takovém případě zapotřebí
+> chránit příjemce slibu důvěřujícího projevené vůli slibujícího, a pro
+> případ, že ten slibu nedostojí, přiznat příjemci slibu právo náhradu
+> nákladů v očekávání daru účelně vynaložených.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2033 návrhu — dnešní § 2057):**
+
+> Spadá-li obligační a soluční jednání v jedno, netřeba obtěžovat soukromý
+> styk formalitami. Výjimka se stanoví pro darování věci zapsané do
+> veřejného rejstříku (nejde jen o věci nemovité, ale i o ochranné známky,
+> obchodní podíly apod.). Rovněž se přejímá tradiční pravidlo, podle něhož
+> je písemná forma smlouvy předepsána, má-li být dar odevzdán až po
+> uzavření smlouvy.
+>
+> Darováním projevuje dárce štědrost vůči obdarovanému, projevuje ji
+> dobrovolně a obdarovaný není vůči dárci smlouvou vázán k protiplnění.
+> Proto se navrhuje po vzoru BGB (§ 522), aby zákon vyloučil povinnost
+> dárce platit při prodlení úrok z prodlení. Obdarovaný tak bude oprávněn
+> požadovat jen samotný dar. Tento přístup lépe odpovídá povaze darovací
+> smlouvy jako smlouvy bezúplatné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2034 návrhu — dnešní § 2058):**
+
+> Prvý odstavec se vztahuje k darování majetkových souborů (včetně všeho
+> majetku, který dárce má, nebo získá). Má-li být majetek jako předmět
+> daru určitý, musí být nějak fixován. Proto se rozeznává majetek přítomný
+> a budoucí. Přítomný majetek je rozsahem vymezen k účinnosti smlouvy.
+> Budoucí majetek jsou hodnoty, které dárce získá později; ohledně nich je
+> dispozice omezena nejvýše polovinou budoucího majetku. Druhý odstavec se
+> týká darování jednotlivé věci (či více věcí určených druhem a
+> množstvím), pokud ji dárce nemá. V takovém případě se dárce musí ve
+> smlouvě zavázat, že ji opatří.
 
 **Judikatura (z místních zdrojů):**
 
@@ -200,6 +247,85 @@ Pouhý slib daru nezavazuje darovat, ale chrání důvěru obdarovaného nároke
 
 **§ 2065 — Cizí věc / vadná věc**: pokud dárce vědomě daruje **cizí věc** nebo **věc s vadou** a zatají to → **odpovídá za škodu** + obdarovaný může **odstoupit a vrátit dar**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2035 návrhu — dnešní § 2059):**
+
+> Specifická povaha darování vyžaduje, aby byla výslovně upravena
+> *clausula rebus sic stantibus*. Na dárci nelze spravedlivě požadovat,
+> aby obohatil obdarovaného, změní-li se následně na jeho straně podstatně
+> poměry do té míry, že by darování vážně ohrozilo jeho výživu nebo plnění
+> dárcovy vyživovací povinnosti. Význam má toto ustanovení nastane-li po
+> uzavření smlouvy nepředvídatelná událost (dárce náhle onemocní nebo se
+> zraní a jeho zdravotní stav vyžaduje nákladnou léčbu, dárce se může
+> zavázat k darování podpory, ale po čase uzavře manželství a narodí se mu
+> děti atd.). Proto se navrhuje dárci umožnit, aby při podstatné změně
+> okolností zásadně měnící životní podmínky jeho nebo jeho rodiny mohl od
+> darovací smlouvy odstoupit a z povinnosti dát dar se vyvázat. Vzorem je
+> právní úprava německá (§ 519 BGB). Navržené ustanovení dopadá na
+> situace, kdy podle smlouvy ještě nebylo plněno, popř. kdy má být plněno
+> postupně a nebylo ještě dáno celé plnění. Byl-li však celý dar již dán,
+> nelze tohoto ustanovení již využít. Tehdy by dárce případně mohl odvolat
+> dar pro nouzi, pro takový postup se však navrhují stanovit přísnější
+> podmínky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2036 návrhu — dnešní § 2060):**
+
+> Úprava se týká renumeratorního (odměnného) darování. Význam má pro
+> odlišení plnění při úplatných a bezúplatných smlouvách, resp. při
+> synallagmatických a asynallagmatických závazcích. (Např. plnění za
+> záchranu života poskytnuté nikoli jako odměna za výkon, ale dar, jímž
+> dárce projevuje vděčnost.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2037 návrhu — dnešní § 2061):**
+
+> Jedná se o *negotium mixtum cum donatione*. Navržené ustanovení náleží
+> ke standardním úpravám.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2038 návrhu — dnešní § 2062):**
+
+> Návrh ustanovení je potřebné pro odlišení, kdy smlouva o daru podpory
+> zavazuje jen smluvníky a kdy i jejich dědice. Ustanovení nezmiňuje
+> zvláštní pravidlo ohledně jiných případů právního nástupnictví (zejména
+> při přeměnách právnických osob), tehdy se tudíž uplatní obecná pravidla.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2039 návrhu — dnešní § 2063):**
+
+> Jedná se o tradiční úpravu, která byla z našeho zákonodárství vypuštěna
+> v r. 1950 ve snaze vyloučit majetkové dispozice člověka pro případ smrti
+> a posílit dědění ze zákona. Osnova vychází ze zásady, že smluvní
+> vázanost *mortis causa* není zásadně přípustná. Výjimky z této zásady
+> představují dědické smlouvy a darování pro případ smrti. Dar vázaný na
+> podmínku, že obdarovaný dárce přežije, má být pravidelně posuzován jako
+> odkaz (pak případ podléhá úpravě pořízení pro případ smrti); o dar půjde
+> jen za podmínek v navrženém ustanovení. Věcný rozdíl je zejména v tom,
+> že odkaz je odvolatelný, zatímco při darování pro případ smrti dar
+> odvolat nelze. Rovněž co do formalit jsou pro oba případy předepsány
+> různé náležitosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2040 návrhu — dnešní § 2064):**
+
+> Darovací smlouvu mohou provázet různá vedlejší ustanovení. Dar může být
+> poskytnut za určitým účelem, ve smlouvě výslovně ujednaným, může být
+> darováno pod podmínkou, s určitými časovými omezeními a podobně. Tyto
+> modality darování lze řešit podle obecných ustanovení. Pokud se ale
+> obdarovaný zaváže ve smlouvě splnit dárcův příkaz (např. že dále
+> obdaruje osobu třetí), pak se navrhuje stanovit, že dárce není oprávněn
+> domáhat se splnění příkazu, dokud sám nesplnil. Povinnost obdarovaného
+> z příkazu je jako každá jiná povinnost ze závazku povinností majetkovou;
+> nebude-li tedy jinak ujednáno, budou se moci jejího splnění domáhat i
+> dárcovi dědicové. V určitých případech to však plně nezajistí splnění
+> příkazu -- např. nebude-li to dědicům dárce ku prospěchu, anebo bude-li
+> obdarovaný sám dědicem. Tehdy se navrhuje, je-li splnění příkazu ve
+> veřejném zájmu, aby se toho mohl domáhat také příslušný orgán veřejné
+> moci, popř. právnická osoba oprávněná takový zájem chránit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2041 návrhu — dnešní § 2065):**
+
+> Ustanovení přejímá zásadu § 629 platného občanského zákoníku a rozšiřuje
+> ji o případ, kdy dárce dal obdarovanému vědomě věc cizí. Tehdy může
+> náhrada škody reprezentovat např. náklady sporu o vydání věci. Daruje-li
+> dárce cizí věc nevědomky, posoudí se případ podle ustanovení o omylu a
+> podle obecné úpravy náhrady škody.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Karviné, pobočka Havířov* [110 C 340/2022](https://rozhodnuti.justice.cz/rozhodnuti/?id=0dfdee03-9596-4e74-89ca-050d1d50f4f6) — *insolvence, konkurs, oddlužení, smlouva darovací*
@@ -262,6 +388,20 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 - Dárce byl **v péči** zařízení nebo jinak přijímal služby;
 - **Výjimka**: obdarovaný je dárci **blízkou osobou** (§ 22).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2042 návrhu — dnešní § 2066):**
+
+> Návrh je projevem zásady šetřící nesvéprávnou osobu při úkonech
+> spojených s běžnými záležitostmi každodenního života, projevující se v
+> osnově i na jiných místech.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2043 návrhu — dnešní § 2067):**
+
+> Při darovací smlouvě se klade důraz na dobrovolnost darování. Proto se
+> po vzoru některých moderních zákoníků berou v úvahu situace, ve kterých
+> je rozhodovací volnost dárce ovlivnitelná závislostí na prostředí apod.
+> (vzorem je čl. 1817 CCQ). Neplatnost je relativní, může se jí dovolat
+> jen dárce.
+
 ---
 
 ### Pododdíl 3 — Odvolání daru (§ 2068—2078)
@@ -295,6 +435,76 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 
 **§ 2071 — Vyloučení**: pokud **dárce sám zavinil** nouzi úmyslně/hrubou nedbalostí.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2044 až 2054 návrhu — dnešní § 2068—2078):**
+
+> Dar je zásadně neodvolatelný. Tuto zásadu návrh výslovně neuvádí, neboť
+> plyne z obecnější zásady závaznosti smluv. Navrhuje se však upravit
+> výjimečné případy možnosti dar odvolat. Tradiční právní úpravy znají
+> odvolání daru pro nouzi, pro nevděk, pro zkrácení nepominutelných
+> dědiců, pro pozdější narození dítěte a z některých dalších důvodů.
+> Osnova navrhuje upravit odvolání daru jen pro nouzi dárce a pro nevděk
+> obdarovaného.
+>
+> Právo odvolat dar pro nouzi bylo z našeho práva vypuštěno při přijetí
+> občanského zákoníku z r. 1950 z ideologických důvodů. Navrhuje se
+> umožnit dárci, aby dar odvolal poté, co jej dal, upadl-li následně
+> nezaviněně do takové nouze, že nemá na vlastní nutnou výživu nebo na
+> nutnou výživu osob, k nimž má zákonnou vyživovací povinnost. Toto právo
+> je osobním oprávněním dárce, trvá po dobu jeho života a jeho smrtí
+> zaniká. Leč uplatní-li je, mohou je za stanovených podmínek uplatnit i
+> ti, k nimž je dárce k vyživovací povinnosti zavázán.
+>
+> Druhý důvod pro odvolání daru se pojí s hrubým nevděkem obdarovaného
+> vůči dárci. Návrh nepřijímá konstrukci § 630 platného zákoníku, neboť
+> toto ustanovení provází od počátku výkladové nejasnosti odrážející se
+> v rozporných stanoviscích literatury a v tápání praxe. Nejen se zřetelem
+> k těmto obtížím se návrh přiklání k tradičnímu pojetí, podle něhož je
+> důvodem pro odvolání daru nevděk obdarovaného projevující se hrubým
+> porušením dobrých mravů ze zlého úmyslu. Nevděk musí být projeven proti
+> dárci obdarovaný je vděkem za dar vázán jen k dárci, nikoliv k dalším
+> osobám. Dopustí-li se obdarovaný porušení dobrých mravů vůči osobě dárci
+> blízké, může dárci vzniknout právo odvolat dar, jen odůvodňují-li
+> okolnosti, že tím bylo ublíženo i dárci. Za této situace může dárce od
+> smlouvy odstoupit a požadovat vrácení celého daru. Lhůta pro odvolání
+> daru je zkrácena z dosavadních tří let na dobu jednoho roku. Návrh
+> rovněž řeší, za jakých podmínek mohou dar odvolat i dědici dárce, a
+> odstraňuje tak nespravedlnost, k níž se uchýlil výklad platné právní
+> úpravy, dle něhož dokonce ani zavraždění dárce obdarovaným nezakládá
+> dárcovým dědicům oprávnění dar odvolat.
+>
+> Navrhuje se také jasně vyřešit, co má obdarovaný vydat, byl-li dar
+> odvolán, neboť zejména situace, kdy byl darovaný objekt dále zcizen nebo
+> darovaná hodnota transformována v jinou, působí v praxi nejasnosti.
+> Vychází se z obecné konstrukce, že při odvolání daru má obdarovaný
+> vydat, co z daru ještě má, ať již jde o darovaný objekt, anebo
+> obohacení, které z daru získal a dosud má, např. při transformaci daru.
+> Základem tohoto pojetí je fakt, že obdarovaný se nabytím daru stává jeho
+> plným a neomezeným vlastníkem, který s darovaným předmětem může nakládat
+> podle své vlastní vůle. Ví-li však obdarovaný, nebo musí-li z okolností
+> předpokládat, že dar bude odvolán, a zbaví-li se daru, aby zmařil jeho
+> vydání, vznikne mu odvoláním daru povinnost vydat (popř. nahradit
+> v penězích) to, čeho se obmyslně zbavil.
+>
+> Z uvedených zásad se navrhují dvě výjimky.
+>
+> Prvá směřuje ku prospěchu obdarovaného. Vyplývá z ustanovení o odvolání
+> daru pro nouzi. I tu je rozsah povinnosti obdarovaného sice limitován
+> nanejvýš tím, co on z daru ještě má, zároveň se však má uplatnit
+> pravidlo, že povinnost nemusí zasáhnout celý prospěch obdarovaného
+> z daru, protože je zároveň omezena rozsahem potřeby nutné výživy
+> oprávněných osob. Nedosahuje-li tudíž tato potřeba výše, v jaké má
+> obdarovaný ještě obohacení z daru, bude obdarovaný povinen krýt nanejvýš
+> jen to, co je k nutné výživě potřebné. Přesáhne-li naopak potřeba nutné
+> výživy výši obohacení z daru, bude obdarovaný povinen plnit jen
+> v rozsahu svého obohacení.
+>
+> Druhá výjimka favorizuje dárce. Byl-li odvolán dar pro nevděk, navrhuje
+> se výslovně stanovit, že tehdy má dárce právo odstoupit od darovací
+> smlouvy a požadovat vrácení celého daru. Toto právo je konstruováno jako
+> osobní právo dárce, neboť jen vůči němu je obdarovaný vázán vděkem. Na
+> dárcovy dědice tedy nepřechází; ti se případně mohou domáhat navrácení
+> daru jen v rozsahu trvajícího obohacení obdarovaného.
+
 ### Odvolání pro nevděk (§ 2072—2075)
 
 > § 2072 (1): Ublížil-li obdarovaný dárci úmyslně nebo z hrubé nedbalosti tak, že zjevně porušil dobré mravy, může dárce, neprominul-li to obdarovanému, od darovací smlouvy pro jeho nevděk odstoupit.
@@ -325,6 +535,14 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 
 **Lhůta** (§ 2075): **1 rok** od ublížení (resp. od vědomosti o ublížení). Dědic dárce: **1 rok** od smrti.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
 ### Společná ustanovení (§ 2076—2078)
 
 **§ 2076**:
@@ -341,6 +559,12 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 **§ 2077 — Povinnost obdarovaného** vyplývající z daru zaniká pro budoucnost.
 
 **§ 2078 — Pokud obdarovaný již nemá dar** (ani plnou hodnotu) → vrátí jen **co z obohacení ještě zbývá**. Výjimka: zbavil se účelově (zmaření vydání) → vrací plnou hodnotu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2044 až 2054“ (dnešní § 2068—2078) — viz § 2068.
 
 ---
 
@@ -359,6 +583,34 @@ Tato ustanovení pokrývají „netypická" darování: smíšené (§ 2061), za
 1. **Předmět** (věc, právo, podíl, závod);
 2. **Cena** (peněžitá; pokud naturální → směna);
 3. **Vzájemnost** plnění (současné — odst. 2; lze odlišně).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2055 až 2060 návrhu — dnešní § 2079—2084):**
+
+> Úprava neobchodní a obchodní kupní smlouvy byla dosud oddělena a svěřena
+> občanskému i obchodnímu zákoníku v podobě tzv. komplexních úprav. Jejich
+> dualismus vychází z duality soukromého práva promítnuté jak do
+> kodifikace obecného občanského práva, tak i obchodního práva. Ta má své
+> historické příčiny, ale v různých evropských státech byly tyto zdvojené
+> úpravy postupně odstraňovány (poprvé ve Švýcarsku r. 1881; následovaly
+> Itálie, Nizozemsko, Rusko aj.). Naši dosavadní zákonnou úpravu kupní
+> smlouvy poznamenaly různé vlivy. Úprava občanského zákoníku je stále
+> ovlivněna socialistickými tradicemi a pro rekodifikaci je použitelná jen
+> podmíněně. Úprava v obchodním zákoníku vcelku sleduje standardní pojetí,
+> zabíhá však do mnohomluvnosti a nemírné kazuistiky. Přesto byla po
+> očištění od těchto nedostatků vzata za základ tohoto návrhu (pokud se
+> jedná o případy mobiliární koupě).
+>
+> Koncepčně se osnova inspiruje švýcarskou úpravou v tom smyslu, že
+> nejprve se formulují obecná ustanovení společná pro všechny případy
+> koupě. Následují ustanovení o koupi movitých věcí, odchylky vztahující
+> se ke koupi nemovitých věcí a ustanovení o vedlejších doložkách v kupní
+> smlouvě. Na závěr oddílu jsou připojena zvláštní ustanovení o prodeji v
+> obchodě, která má význam pro tzv. spotřebitelské právo.
+>
+> Obecná ustanovení sledují pojmové vymezení kupní smlouvy a řešení otázky
+> určitosti kupní ceny, jakož i stanovení základních povinností stran,
+> přičemž se zvláštní zřetel bere na otázky spojené s plněním a přechodem
+> nebezpečí škody na věci.
 
 **Judikatura (z místních zdrojů):**
 
@@ -450,6 +702,16 @@ Kupní smlouva je úplatný převod vlastnictví; vzniká konsenzem o předmětu
 
 **§ 2084 — Informační povinnost**: prodávající **upozorní na vady**, o nichž ví.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2055 až 2060“ (dnešní § 2079—2084) — viz § 2079.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2055 až 2060“ (dnešní § 2079—2084) — viz § 2079.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2055 až 2060“ (dnešní § 2079—2084) — viz § 2079.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2055 až 2060“ (dnešní § 2079—2084) — viz § 2079.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2055 až 2060“ (dnešní § 2079—2084) — viz § 2079.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 4452/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/17786C112D13811FC12583C90028AE02?openDocument) — *Cena Smlouva kupní*
@@ -517,6 +779,22 @@ Nebezpečí škody přechází zásadně s vlastnictvím (res perit domino), nab
 **§ 2086 — Rozhraní koupě/dílo**:
 - Dodání věci k vyrobení = **koupě**;
 - Pokud kupující dodá **podstatnou část materiálu** → **dílo** (§ 2586).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2061 a 2062 návrhu — dnešní § 2085—2086):**
+
+> Mobiliární koupě je vymezena předmětem, kterým je movitá věc.
+> Nerozhoduje přitom výchozí stav, ale stav, v jakém má kupující věc
+> nabýt. Proto se ustanoveními o koupi movitých věcí spravují i případy,
+> kdy je prodána součást věci nemovité (plody, materiál ze stavby nebo z
+> lomu apod.), kterou má kupující nabýt podle smlouvy jako věc movitou.
+> Zároveň se stanoví kritéria pro rozlišení kupní smlouvy od smlouvy o
+> dílo, což má praktický význam při koupi věci, která ještě není vyrobena.
+> Tato kritéria jsou formulována jako hledisko materiálu a hledisko práce
+> a vycházejí z dosavadní úpravy (§ 410 obchodního zákoníku). Osnova se
+> zvlášť nezmiňuje o případu montáže věci, jak činí § 410 obch. z., neboť
+> i v tomto případě se jedná o hledisko činnosti a případ musí být
+> posouzen podle tohoto kritéria (tj. zda montáž je činnost z hlediska
+> závazku podstatná čili nic).
 
 **Judikatura (z místních zdrojů):**
 
@@ -639,6 +917,44 @@ Dodání věci, která má být teprve vyrobena, je zásadně koupí; smlouvou o
   - Vadu **musel zjistit při uzavření smlouvy**;
   - Vada je **zjevná z dokladů**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2063 až 2070 návrhu — dnešní § 2087—2094):**
+
+> Pod označení „Povinnosti prodávajícího" je shrnut návrh těch ustanovení,
+> pro jejichž obsah jsou povinnosti prodávajícího určující a podstatné.
+> Název pododdílu byl po vzoru obchodního zákoníku zachován, třebaže se v
+> některých ustanoveních navrhují upravit i práva prodávajícího (např.
+> právo určit za stanovených podmínek dodatečně vlastnosti prodávané
+> věci), ba i práva kupujícího (např. právo odmítnout věci dodané v
+> přebytečném množství), protože ze systematického hlediska a v zájmu
+> srozumitelnosti navrhované úpravy nelze tato doplňující pravidla od
+> povinností prodávajícího oddělit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2071 až 2074 návrhu — dnešní § 2095—2098):**
+
+> Předmětem mobiliární koupě je věc movitá. Osnova také jinde důsledně
+> používá termín „věc", v názvu pododdílu a v jeho uvozovacím ustanovení
+> bylo ze stylistických důvodů zvoleno označení „předmět koupě" namísto
+> „věc jako předmět koupě". Věcně návrh ustanovení vychází ze stávajícího
+> pojetí obchodního zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2075 až 2088 návrhu — dnešní § 2099—2112):**
+
+> Na ustanovení o předmětu koupě navazují ustanovení o právních následcích
+> vad plnění. Rovněž návrh těchto ustanovení vychází z dosavadní úpravy
+> obchodního zákoníku. Ta je však oproštěna od některých ustanovení
+> generálního významu, přenesených do obecné části obligačního práva, a od
+> ustanovení nadbytečných nebo kazuistických. Posun je zejména v tom, že
+> osnova zesiluje právní postavení kupujícího, kterému bylo plněno vadně.
+> Opouští se hledisko vad opravitelných a neopravitelných jako základní
+> kriterium pro určení práv kupujícího z vad věci a nahrazuje se hlediskem
+> intenzity, jakou vadnost plnění porušuje smlouvu. Představuje-li vadné
+> plnění podstatné porušení smlouvy, rozšiřují se práva kupujícího.
+> Zejména se však opouští dosavadní koncepce prekluze práv z vad. Opožděné
+> ohlášení vad (notifikace, reklamace) nevede k zániku práva kupujícího;
+> soud k němu *ex officio* nebude přihlížet a práva z vad kupujícímu v
+> takovém případě nepřizná pouze, vznese-li v tom směru prodávající
+> námitku.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 504/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-504-26_1) — usnesení, 11. 3. 2026
@@ -695,6 +1011,8 @@ Prodávající musí odevzdat nejen věc, ale i doklady nutné k jejímu převze
 > (1) Odesílá-li prodávající věc, může kupující odložit prohlídku do doby, kdy je věc dopravena do místa určení.
 > (2) Je-li věc během přepravy směrována do jiného místa určení, anebo kupujícím dále odeslána, aniž měl možnost věc prohlédnout, a prodávající v době uzavření smlouvy věděl nebo musel vědět o možnosti takové změny místa určení nebo takového dalšího odeslání, může kupující prohlídku odložit do doby, kdy je věc dopravena do nového místa určení.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
 ### § 2106—2108 — Práva z vadného plnění
 
 **§ 2106**:
@@ -734,6 +1052,12 @@ Prodávající musí odevzdat nejen věc, ale i doklady nutné k jejímu převze
 - (b) **Sleva**.
 
 **§ 2108** — Pokud prodávající neodstraní v dodatečné lhůtě → kupující může **odstoupit** nebo **slevu**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
 
 **Judikatura (z místních zdrojů):**
 
@@ -841,6 +1165,29 @@ U podstatného porušení smlouvy vadou má kupující na výběr mezi dodáním
 - Prodávající se zaváže, že věc bude **po určitou dobu způsobilá** k použití;
 - Rozdíl od **odpovědnosti za vady** — záruka je nad rámec zákonné odpovědnosti.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2075 až 2088“ (dnešní § 2099—2112) — viz § 2099.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2089 až 2093 návrhu — dnešní § 2113—2117):**
+
+> Pojetí záruky za vady je pro obecné občanské právo nové. Platný občanský
+> zákoník vychází z někdejšího pojetí služeb, které vzniklo za jiných
+> společenských podmínek v 60. letech a bylo spojeno s institutem zákonné
+> záruky, kterou standardní právní úpravy neznají. Osnova se vrací ke
+> standardnímu řešení (z něhož vychází již nyní platný obchodní zákoník) a
+> odděluje od sebe práva, která kupujícímu vznikají z vad plnění ze zákona
+> a která vznikají kupujícímu ze záruky za jakost. Dohodnou-li se strany
+> na záruce za jakost, anebo zaručí-li se za jakost jednostranným
+> prohlášením prodávající sám, může tím být garantována jakost věci z
+> hlediska časového nebo co do vlastností. Záruka za jakost však nemůže
+> vylučovat zákonnou úpravu práv z vad věci (což je praktické zejména u
+> skrytých vad).
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 24/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-24-23_1) — usnesení, 7. 2. 2023
@@ -943,6 +1290,31 @@ Záruka za jakost vzniká i prohlášením v reklamě a na obalu a jde nad ráme
 
 **§ 2124—2127 — Dodací doložky** a dohody o riziku přepravy.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2094 až 2101 návrhu — dnešní § 2118—2125):**
+
+> Podle obecného pravidla *casum sentit dominus* stíhá nebezpečí náhodné
+> škody na věci jejího vlastníka, a tudíž i na kupující přechází nebezpečí
+> škody na předmětu koupě s nabytím vlastnického práva. Jedná-li se o
+> mobiliární koupi, pak se toto obecné pravidlo uplatnit nemůže. Z toho
+> důvodu se navrhuje stanovit, konvenčně k standardním úpravám, že při
+> koupi movitých věcí přechází nebezpečí škody na věci jejím převzetím,
+> případně nastane-li jiná skutečnost, která převzetí nahrazuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2102 a 2103 návrhu — dnešní § 2126—2127):**
+
+> Je-li některá ze smluvních stran povinna věc převzít (nemusí se jednat
+> jen o kupujícího, nýbrž i o prodávajícího, kterému vzniká povinnost
+> převzít od kupujícího věc s vadou, věci dodané v přebytečném množství
+> atp.) od druhé smluvní strany a neučiní-li to, pak nelze tuto druhou
+> stranu nutit, aby nepřevzatou věc u sebe uchovávala po neúměrně dlouhou
+> dobu. Proto se navrhuje založit jí právo věc svépomocně, a tudíž i
+> vlastním jménem, prodat. Protože se však při svépomocném prodeji jedná o
+> prodej cizí věci, děje se takový prodej na účet toho, kdo se ocitl s
+> převzetím věci v prodlení. Z toho důvodu musí být výtěžek z prodeje
+> vydán prodlévající straně; to však nebrání, aby ten, kdo věc prodal,
+> započetl k tíži tohoto výtěžku účelně vynaložené náklady, které mu
+> vznikly úschovou věci a následně i jejím prodejem.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Brně* [37 C 182/2023-142](https://rozhodnuti.justice.cz/rozhodnuti/?id=d5236951-b320-4b90-89ec-6041e3125f7d) — *odměna opatrovníka, smlouva kupní*
@@ -1005,6 +1377,12 @@ Při odeslání zboží přechází nebezpečí škody zpravidla předáním dop
 - **Vklad do katastru** je konstitutivní pro vznik vlastnictví (§ 1105);
 - **Předem dohodnuté zproštění odpovědnosti za vady** mezi podnikateli — možné, ne mezi neprofesionály.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2104 až 2107 návrhu — dnešní § 2128—2131):**
+
+> Osnova navrhuje stanovit v nezbytném rozsahu odchylky, které si vyžadují
+> případy koupě nemovité věci. Podstatná je zejména základní úprava
+> následků vadného plnění.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 78/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E1FFA7D7C897D683C1258A60001B8CB9?openDocument) — *Neplatnost smlouvy Zpeněžování Incidenční spory Vady řízení*
@@ -1066,6 +1444,12 @@ Koupě nemovité věci vyžaduje písemnou formu s projevy na téže listině a 
 - **§ 2129 — Vady**: odpovědnost prodávajícího za vady; lhůta 5 let pro vady nemovitostí;
 - **§ 2130 — Závady** v právu (kupující v dobré víře přebírá podle zápisu v katastru — § 1107);
 - **§ 2131 — Mlčící předpoklady**: dohoda o ceně, kvalitě, vlastnostech.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2104 až 2107“ (dnešní § 2128—2131) — viz § 2128.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2104 až 2107“ (dnešní § 2128—2131) — viz § 2128.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2104 až 2107“ (dnešní § 2128—2131) — viz § 2128.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1184,6 +1568,18 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 > (3) K ujednání, které předem vylučuje nebo omezuje právo konečného prodávajícího na náhradu, se nepřihlíží.
 > (4) Odstavce 1 až 3 se na další osoby v témže smluvním řetězci použijí obdobně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
 ### Klíčové prvky
 
 **§ 2158 — Aplikace**: platí pro kupní smlouvy mezi **prodejcem (podnikatel)** a **spotřebitelem (FO mimo podnikání)**.
@@ -1247,6 +1643,18 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 
 **§ 2174**:
 > Ujednají-li strany ještě předtím, než kupující vytkl vadu věci, že se jeho práva omezí nebo že zanikají, nepřihlíží se k tomu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2134 až 2150“ (dnešní § 2158—2174) — viz § 2158.
 
 ---
 
@@ -1328,6 +1736,40 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 **§ 2156**:
 > Práva a povinnosti stran z cenové doložky zaniknou, neuplatní-li oprávněná strana svá práva u druhé strany bez zbytečného odkladu po dodání věci.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
 ### Výhrada vlastnictví (§ 2132—2134)
 
 **§ 2132**:
@@ -1344,6 +1786,43 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - **Funguje jako zajištění** prodávajícího;
 - **Forma**: písemná;
 - **Účinky vůči 3. osobám**: u movitých věcí **až zápisem do rejstříku zástav** (§ 2134); jinak jen vůči kupujícímu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2108 až 2133 návrhu — dnešní § 2132—2157):**
+
+> Vedlejší ujednání při kupní smlouvě mají velký praktický význam, a z
+> toho důvodu věnují standardní zákoníky pozornost jejich úpravě. Platné
+> právo upravuje demonstrativně výhradu vlastnictví (§ 601 občanského
+> zákoníku, § 444 a 445 obchodního zákoníku, předkupní právo a právo
+> zpětné koupě (§ 602 a násl. občanského zákoníku) a koupi na zkoušku a
+> cenovou doložku (§ 471 a násl. obchodního zákoníku). Osnova z této
+> úpravy vychází, přejímá ji v podstatném rozsahu, ale ve shodě se
+> standardními evropskými zákoníky rozšiřuje výslovně upravené doložky
+> ještě o výhradu zpětného prodeje a výhradu lepšího kupce, přičemž
+> ponechává i nadále výčet vedlejších ujednání jako demonstrativní.
+>
+> K významnějším posunům dochází v návrhu úpravy ujednání o výhradě
+> vlastnického práva a o právu předkupním.
+>
+> Návrh ustanovení o výhradě práva vlastnického dává přednost konstrukci
+> rozšířené výhrady vlastnického práva, jakou zvolil obchodní zákoník v §
+> 445, čímž se stranám umožňuje vázat nabytí vlastnického práva kupujícím
+> i na splnění jiné odkládací podmínky, než je jen zaplacení kupní ceny.
+> Zároveň se navrhuje stanovit, že prodlení kupujícího se splátkou
+> nepřesahujícího desetinu kupní ceny neopravňuje prodávajícího smlouvu
+> zrušit, zaplatí-li kupující dlužnou splátku nejpozději s následující
+> splátkou. Navržené ustanovení konkretizuje obecné pravidlo o podstatném
+> a nepodstatném porušení smlouvy a odklizuje tak riziko zbytečných sporů,
+> vzhledem k dispozitivní povaze však ani nebrání opačnému ujednání stran.
+> S poučením v italské úpravě se navrhuje stanovit, že se prodávající
+> nemůže dovolat svého vyhrazeného vlastnictví vůči věřitelům kupujícího,
+> neprokáže-li hodnověrně, že mu výhrada vlastnického práva svědčí i kdy
+> byla ujednána.
+>
+> Návrh ustanovení o předkupním právu reaguje na praktické zkušenosti s
+> dosavadní úpravou, která nedokonalostí vede k různým interpretacím a k
+> celkové právní nejistotě. Nově navržená ustanovení vycházejí sice i
+> nadále ze zdejší úpravy, ale návrh také podstatnou měrou přihlíží k
+> propracované právní úpravě německé (§ 463 až 473 BGB).
 
 ### Výhrada zpětné koupě (§ 2135—2139)
 
@@ -1368,6 +1847,16 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 - Prodávající si vyhradí **právo věc znovu odkoupit** v určité lhůtě;
 - **U nemovitostí**: max. **10 let**;
 - Zápis do katastru → věcný účinek.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
 
 ### Další výhrady (§ 2143—2157)
 
@@ -1402,6 +1891,27 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 > **Jiná vedlejší ujednání**
 > Ujednají-li strany jiné výhrady nebo podmínky připouštějící změnu nebo zánik práv a povinností z kupní smlouvy, zaniká výhrada nebo podmínka nejpozději do jednoho roku od účinnosti kupní smlouvy, pokud ji neuplatnil v této lhůtě ten, kdo je z výhrady nebo podmínky oprávněn.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2108 až 2133“ (dnešní § 2132—2157) — viz § 2132.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2134 až 2150 návrhu — dnešní § 2158—2174):**
+
+> Osnova zachovává s určitými stylistickými a systematickými úpravami
+> zvláštní ustanovení o prodeji v obchodě. Vzhledem k věcnému posunu
+> rekodifikace je výslovně vyjádřeno, že se ustanovení o prodeji v obchodě
+> nepoužijí tehdy, kupuje-li věc v obchodě podnikatel ve zřejmé
+> souvislosti s vlastní podnikatelskou činností. Některá ustanovení obecné
+> povahy (např. vztahující se k návodu, k právním následkům odstranění vad
+> dodáním nové věci nebo k právním následkům neodborného uvedení věci
+> prodávajícím do provozu) jsou přesunuta do obecných ustanovení o právech
+> z vadného plnění. K ujednání, kterým se kupující vzdá práva z vady věci
+> nebo kterým se takové právo omezí nebo vyloučí, se nepřihlíží. Takové
+> ujednání je tedy jen zdánlivé, nepřihlíží se k němu; právní sankce se
+> rovná dnešní absolutní neplatnosti. Zůstává též zachována vyvratitelná
+> domněnka šesti měsíců, že věc byla vadná již při převzetí. Věc se za
+> vadnou při převzetí nebude považovat například tehdy, pokud kupující
+> věděl, že je věc vadná respektive nesplňuje požadavky dle ustanovení o
+> jakosti při převzetí.
+
 ---
 
 ### Pododdíl 6 — Zvláštní ustanovení o koupi závodu (§ 2175—2183)
@@ -1420,6 +1930,34 @@ U koupě nemovitosti odpovídá prodávající za skryté vady stavby vytknuté 
 1. Převedení **celého závodu** jako hromadné věci;
 2. **Převzetí závazků** souvisejících se závodem;
 3. Zaplacení **kupní ceny**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2151 návrhu — dnešní § 2175):**
+
+> V souvislosti s koupí se navrhuje zařadit i zvláštní ustanovení týkající
+> se koupě a prodeje obchodního závodu, protože není důvod konstruovat v
+> tom směru zvláštní (samostatný) smluvní typ v obchodním zákoníku. I
+> prodej obchodního závodu je variantou koupě a do občanského zákoníku
+> stačí zapracovat odchylky od obecné úpravy nebo její doplnění o
+> speciální ustanovení. Respektuje se přitom, že současná praxe je na
+> zvláštní ustanovení tohoto druhu zvyklá, a proto se navrhuje zachovat
+> zvláštnosti této koupě, jak je upravuje platný obchodní zákoník, přičemž
+> se proti jeho úpravě redukuje rozsah těchto ustanovení o to, co vyplývá
+> již z obecné úpravy.
+>
+> Základní ustanovení vyjadřuje zásadu, že tímto způsobem koupě nabývá
+> kupující závod jako celek. Aby se předešlo výkladovým nejasnostem (srov.
+> k tomu např. *Dědič, J.* K některým problémům ze smluv o prodeji
+> podniku. Právní praxe, 1993, č. 2 nebo *Pelikánová, I.* Komentář k
+> obchodnímu zákoníku. 3. díl. 2. vydání. Praha: Linde, 1998, s. 92 - 93),
+> které mohou svádět aplikační praxi i k nesprávnému závěru o neplatnosti
+> smlouvy (srov. např. rozsudek Nejvyššího soudu publikovaný v časopise
+> Právo a podnikání, 1995, č. 4, s. 29 nebo R 30/97), výslovně se navrhuje
+> stanovit, že vyloučení jednotlivé položky z koupě není tomuto způsobu
+> převodu závodu na újmu, neztratí-li převáděný objekt vlastnost
+> organizované jednotky.
+>
+> S ohledem na § 338 zákoníku práce je nutné stanovit, že se koupě závodu
+> považuje za převod činnosti zaměstnavatele.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1521,6 +2059,121 @@ Koupě závodu je komplexní převod obchodního závodu jako hromadné věci: k
 - Účinky vůči **dlužníkům** závazků (přechod práv);
 - **Pohledávky a dluhy** přecházejí jako **celek**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2152 návrhu — dnešní § 2176):**
+
+> Ustanovení zakládající vyvratitelnou právní domněnku o způsobu určení
+> kupní ceny se navrhuje převzít z § 482 platného obchodního zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2153 návrhu — dnešní § 2177):**
+
+> Při koupi závodu dochází k převodu organizovaného celku, který slouží k
+> provozu jeho činnosti. Proto je třeba zvlášť upravit otázky spojené s
+> tím, že vlastník závodu má vůči dalším osobám pohledávky a dluhy. Podle
+> navrženého ustanovení nabývá kupující pohledávky i dluhy, které s
+> provozem závodu souvisí. Toto řešení se shoduje s platnou právní úpravou
+> v § 477 obchodního zákoníku. Zároveň je třeba myslet jak na ochranu
+> věřitelů a dlužníků, jejichž pohledávky a dluhy se věcně pojí k provozu
+> prodávaného závodu, tak i na ochranu kupujícího. Proto se navrhuje
+> následující řešení:
+>
+> Osobou, která svůj závod a jeho jednotlivé složky dobře zná, je
+> prodávající. Proto je na něm, aby kupujícího upozornil na dluhy, které
+> jsou s podnikem spojeny, ve smlouvě nebo v zápise o předání závodu,
+> popřípadě i jinak, např. v rámci předsmluvního jednání. Kupující
+> převezme dluhy, které souvisí s provozem závodu, tj. ty, o jejichž
+> existenci ví, nebo kterou musí při koupi alespoň rozumně předpokládat.
+> Otázku rozumného předpokladu je třeba posoudit se zřetelem ke konkrétním
+> okolnostem případu. Prodávajícímu se ukládá, aby svým věřitelům oznámil,
+> že závod prodal, a je na jednotlivých věřitelích, aby toto sdělení vzali
+> na vědomí, popřípadě aby k tomu sdělili své výslovné stanovisko. Pouze v
+> případě, že věřitel prodávajícího projeví výslovný souhlas s tím, aby
+> dluh přešel na kupujícího, vyváže se prodávající ze svých povinnosti
+> vůči tomuto věřiteli. V ostatních případech dluh sice na kupujícího
+> přejde, ale prodávající bude za splnění dluhu ručit. Pokud jde o
+> pohledávky, které se s prodávaným závodem převádějí, nabývá je kupující
+> bez dalšího. Jinak ale zůstávají obecná ustanovení o postoupení
+> pohledávek nedotčena. To znamená, že dlužníku musí být prodej závodu
+> oznámen, aby věděl, že došlo ke změně závazku v osobě věřitele, jinak
+> může plnit prodávajícímu jako svému dosavadnímu věřiteli, popřípadě se s
+> ním i jinak vyrovnat, a tím se dluhu zbavit. Dojde-li k tomu, vypořádají
+> se prodávající a kupující mezi sebou podle ustanovení o bezdůvodném
+> obohacení. K takové situaci ale zásadně dojít nemá: proto se ukládá
+> prodávajícímu, aby dlužníkům oznámil, že závod prodal. Neučiní-li to,
+> může dlužníkům koupi závodu prokázat kupující; náklady s tím spojené
+> však může vymáhat po prodávajícím, který svou zákonnou oznamovací
+> povinnost poruší. Nevylučuje se ovšem, aby si strany ujednaly něco
+> jiného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2154 návrhu — dnešní § 2178):**
+
+> Jedná se o převzetí právního pravidla § 479 platného obchodního zákoníku
+> s formulační úpravou tak, aby byla jednoznačně vyjádřena donucující
+> povaha ustanovení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2155 návrhu — dnešní § 2179):**
+
+> Navrženým ustanovením se s nezbytnými formulačními úpravami přejímají z
+> platného obchodního zákoníku § 483 a 484.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2156 návrhu — dnešní § 2180):**
+
+> Účelem koupě závodu je nabýt závod jako organizovaný celek v jeden
+> okamžik. Již ve věcném záměru obchodního zákona se proto řešila otázka,
+> jak se vypořádat s právním pravidlem § 483 odst. 3 obchodního zákoníku.
+> Toto ustanovení původně stanovovalo, že i při prodeji závodu se k nabytí
+> vlastnického právo k nemovitým věcem vyžaduje registrace podle
+> zvláštních předpisů, tedy podle § 133 občanského zákoníku v tehdy
+> platném znění a podle § 61 tehdejšího notářského řádu. Po přijetí zák.
+> č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k
+> nemovitostem, došlo ke změně i příslušného ustanovení obchodního
+> zákoníku souběžně přijatým zák. č. 264/1992 Sb. a nabytí vlastnického
+> práva k nemovitým věcem je podmíněno vkladem do katastru nemovitostí.
+> Rozštěpení okamžiku nabytí závodu do dvou časových období, tj. co do
+> nemovitých složek vkladem do katastru a co do movitých složek účinností
+> smlouvy, praxe pociťuje jako komplikaci protiřečící zásadě komplexnosti
+> převodu, neboť české právo na rozdíl od některých jiných úprav (např.
+> francouzské) nesdílí zásadu, že „zdi nejsou součástí závodu". Naše právo
+> hledí na závod jako na jeden celek sestávající ze všech jeho složek,
+> movitých i nemovitých, a jako na jednotný předmět vlastnického práva,
+> tudíž postupné nabývání vlastnického práva k jeho jednotlivým složkám
+> toto pojetí popírá. Proto věcný záměr obchodního zákona přijal návrh
+> řešení (v první části zvláštní části sub III. 3.1.3.), že (a) u
+> podnikatelů zapsaných do obchodního rejstříku přejde na kupujícího
+> vlastnické právo k závodu jako celku zápisem prodeje závodu do
+> obchodního rejstříku a v katastru nemovitostí se změna vlastníka zapíše
+> záznamem, (b) u podnikatelů nezapsaných do obchodního rejstříku přejde
+> na kupujícího vlastnické právo účinností smlouvy, (c) budou-li však
+> součástí závodu nemovité věci, přejde na kupujícího vlastnické právo k
+> závodu zápisem vlastnického práva k nemovitým věcem do katastru
+> nemovitostí. Toto opatření sledovalo naplnění zásady komplexnosti
+> převodu; při schvalování věcného záměru obchodního zákona bylo
+> rozhodnuto zvolit jen prvá dvě řešení. Takto byl návrh smlouvy o koupi
+> obchodního závodu zpracován nejprve v návrhu paragrafového znění
+> obchodního zákona, odkud byla navržená ustanovení přesunuta do tohoto
+> návrhu v zájmu jednotné úpravy obligací.
+>
+> Při projednávání návrhu občanského zákoníku uplatnil Český úřad
+> zeměměřičský a katastrální zásadní připomínku, ve které trval na
+> zachování dosavadního stavu. Z toho důvodu se navrhuje převzít právní
+> pravidla druhé věty § 483 odst. 3 a v návaznosti na to i druhé věty §
+> 486 odst. 4 platného zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2157 a 2158 návrhu — dnešní § 2181—2182):**
+
+> Navrhuje se převzít z platné právní úpravy (§ 478 obchodního zákoníku)
+> ustanovení zakládající věřiteli právo odporu - právo domoci se
+> rozhodnutí, že vůči němu je prodej závodu neúčinný. Takové právo vznikne
+> věřiteli, pokud s prodejem nesouhlasil a prokáže-li, že se prodejem
+> závodu zhorší dobytnost jeho pohledávky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2159 návrhu — dnešní § 2183):**
+
+> Také toto ustanovení přejímá právní pravidlo o prodeji části obchodního
+> závodu, jak je dnes formulováno v § 487 platného obchodního zákoníku.
+> Navrhuje se však výslovně stanovit, že se ustanovení o koupi závodu
+> použijí i na jiné převody vlastnického práva k obchodnímu závodu než
+> prodejem.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 670/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7463CA3665616DA3C1258D15004D28F9?openDocument) — *Přechod práv a povinností z pracovněprávních vztahů Výpověď z pracovního poměru*
@@ -1578,6 +2231,21 @@ Cena závodu se při pozdější účinnosti smlouvy mění podle změny jmění
 **Směna** (*permutatio*) — vzájemné převedení vlastnictví **bez peněžního plnění**:
 - Klíčové: **NENÍ peněžitá** (jinak by šlo o koupi);
 - Pokud kombinace věci + peněz → **smíšená smlouva** = koupě nebo směna podle převažujícího plnění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2160 až 2164 návrhu — dnešní § 2184—2188):**
+
+> Při směnné smlouvě se strany zavazují převést si vzájemně vlastnické
+> právo k určitým věcem (*res pro re data*). Závazek míří k výměně
+> majetkových hodnot, nezavazuje se tudíž jedna strana dodat věc straně
+> druhé a vice versa; strana se zavazuje věc za věc směnit a je zavázána
+> jen k výměně. Stávající úprava postrádá podrobnější ustanovení o směnné
+> smlouvě: jak § 611 platného občanského zákoníku, tak i § 261 odst. 6
+> obchodního zákoníku jen odkazují na přiměřenou aplikaci ustanovení o
+> kupní smlouvě i na smlouvu směnnou. Jeví se však jako vhodné upravit
+> výslovně některé odchylky od kupní smlouvy podmíněné povahou tohoto
+> smluvního typu. Návrh vychází z vládní osnovy československého
+> občanského zákoníku z r. 1937 s přihlédnutím zejména k platné úpravě
+> rakouské, švýcarské, italské a polské.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1655,6 +2323,14 @@ Směna je vzájemný převod vlastnictví k věcem bez peněžního plnění jak
 - Výměna ojetých vozů s doplatkem;
 - Barter (zboží za zboží) v podnikání.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2160 až 2164“ (dnešní § 2184—2188) — viz § 2184.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2160 až 2164“ (dnešní § 2184—2188) — viz § 2184.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2160 až 2164“ (dnešní § 2184—2188) — viz § 2184.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2160 až 2164“ (dnešní § 2184—2188) — viz § 2184.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS Praha-západ* [10 C 120/2025-94](https://rozhodnuti.justice.cz/rozhodnuti/?id=4d2baca7-e952-44f9-ba83-124da147ff33) — *koupě, smlouva směnná, náhrada nákladů, dokazování, podnikatel, smlouva kupní, náklady ř…*
@@ -1712,6 +2388,19 @@ Nahodilá zkáza směňované věci před přechodem nebezpečí ruší smlouvu 
 - **Není vázán** na konkrétní účel;
 - **Vypověditelná kdykoliv** (svobodná, *ex nudo placito*);
 - Klasický římský institut, **obnovený** v NOZ (chyběl v 1964).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2165 až 2168 návrhu — dnešní § 2189—2192):**
+
+> Platný občanský zákoník upravuje jen výpůjčku (§ 659 an.). Výprosa
+> (*precarium*) se od výpůjčky liší především tím, že při výprose není
+> dohodnuta doba, po kterou může výprosník bezplatně užívat půjčitelovu
+> věc, takže ji půjčitel může žádat zpět kdykoli podle libosti. Vzhledem k
+> četnému výskytu úmluv tohoto typu v běžném občanském životě se jeví jako
+> vhodné upravit výslovně i prekariární smlouvu, protože konstrukce
+> nepojmenované smlouvy neunese jednoznačně právní řešení určitých otázek,
+> zejména pokud se jedná o náhradu škody a o řešení otázky, zda náhrada
+> daná půjčiteli za ztracenou věc zbavuje výprosníka povinnosti věc,
+> nalezne-li se později, půjčiteli vrátit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1782,6 +2471,12 @@ Výprosa je bezplatné přenechání věci k užívání bez ujednání doby a �
 
 **Praktické případy**: zápůjčka knížek mezi přáteli, dočasné zapůjčení nářadí, lůžek atd.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2165 až 2168“ (dnešní § 2189—2192) — viz § 2189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2165 až 2168“ (dnešní § 2189—2192) — viz § 2189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2165 až 2168“ (dnešní § 2189—2192) — viz § 2189.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Liberci* [13 C 320/2022-167](https://rozhodnuti.justice.cz/rozhodnuti/?id=e66d61d7-8976-40a9-b685-f5cabb76c7aa) — *smlouva kupní, výprosa, obchodní podíl, narovnání, vyklizení bytu, smlouva nájemní, bezd…*
@@ -1839,6 +2534,69 @@ Výprosník odpovídá za škodu na věci, přenechal-li ji bez souhlasu půjči
 - **Nezuživatelná věc** (= nesměřuje k spotřebě);
 - **Bezúplatné** (rozdíl od nájmu);
 - **Časově nebo účelově vázané** (rozdíl od výprosy).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2169 až 2176 návrhu — dnešní § 2193—2200):**
+
+> Návrh úpravy smlouvy o výpůjčce navazuje na platnou úpravu občanského
+> zákoníku (§ 659 až 662), ale oprošťuje ji od některých nemístných
+> zjednodušení.
+>
+> K § 2177:
+>
+> Nájem jako právní institut obligačního práva je koncipován tradičním
+> způsobem, a to jak pokud jde o systém, tak pokud jde o obsah, tedy o
+> konkrétní podobu právní úpravy.
+>
+> Na obecná ustanovení o nájmu, resp. o nájemní smlouvě, navazuje
+> speciální úprava podle obvyklých potřeb a běžných přístupů. Tak je
+> speciálně upraven nájem bytu, resp. domu, tj. toho, co slouží bydlení
+> zpravidla nájemce nebo nájemcovy rodiny.
+>
+> Vzhledem k tomu, co je považováno za byt, lze vždy dovodit, jak
+> posuzovat ubytovny, svobodárny a podobná zařízení.
+>
+> Druhou zvláštní skupinu nájmů představuje nájem místností a prostorů,
+> které k bydlení neslouží. Ty jsou pak několikerého druhu. Předně se
+> jedná o garáže, studovny, prádelny, žehlírny, které zásadně slouží
+> užitku člověku, jeho rodiny, domácnosti, klubovny, prostory pro
+> rozvíjení činnosti obecně prospěšné a přitom nevýdělečné. Specifika
+> jednotlivých druhů takových místností a prostorů ztěžují jednotnou
+> právní úpravu. Navrhuje se proto, aby se jejich nájem spravoval podle
+> obecných ustanovení o nájemní smlouvě s tím, že bude na stranách, aby si
+> konkrétní podmínky ujednaly ve smlouvě. (Jako zvláštní druh nájmu
+> upraveno není.)
+>
+> Dále jsou tu kanceláře, studia, architektonické, módní atd. ateliéry,
+> garáže jako servisní místa pro zákazníky, místnosti k vedení obchodu,
+> prostory skladovací, výrobní, a jiná další místa sloužící podnikání,
+> resp. vůbec výdělečné. A konečně jsou zde hotely, penzióny a jiná
+> ubytovací zařízení.
+>
+> Je třeba si uvědomit, že to, zda místnost nebo prostor má sloužit
+> činnosti, jejímž cílem je dosahování zisku, či nikoli, je věcí ujednání
+> stran. Jen na nich záleží, zda se dohodnou tak, že v prostoru garáže
+> budou opravována auta, anebo tam bude mít nájemce bytu v domě, v jehož
+> přízemí jsou garáže, umístěný rodinný vůz (tj. vůz k potřebě rodiny).
+>
+> Také činnost tzv. půjčoven, tedy takových podnikatelských zařízení,
+> v nichž lze získat movitou věc do nájmu k vlastnímu prospěchu či užitku,
+> ať podnikatelskému či nepodnikatelskému, je regulována zvláštními
+> normami.
+>
+> Zvláštní ustanovení zasluhuje rovněž nájem dopravního prostředku,
+> přesto, že jeho výjimečnost není tak zřetelná jako v případě jiných
+> zvláštních nájmů.
+>
+> Obsah jednotlivých oddílů, stejně jako jednotlivých ustanovení se snaží
+> přiblížit naši právní úpravu standardním právním úpravám.
+>
+> Samostatně pak je upraven pacht, právní institut charakteristický
+> požívacím právem nájemce (s právem věc užívat spojeno právo brát z ní
+> plody a užitky a nabývat k nim vlastnické právo).
+>
+> Základní ustanovení je svým způsobem vymezovací, totiž výslovně se
+> pojmenovávají strany a uvádí se kruciální znaky -- přenechání věci
+> k užívání (předání do detence), úplatné a dočasné.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1938,6 +2696,20 @@ Výpůjčka je bezplatné dočasné užívání nezuživatelné věci vázané n
 | Doba/účel | Neurčeno | Určeno |
 | Vypovědění | Kdykoli | Až po splnění účelu/uplynutí doby |
 | Odpovědnost | Mírnější | Standardní |
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2169 až 2176“ (dnešní § 2193—2200) — viz § 2193.
 
 **Judikatura (z místních zdrojů):**
 

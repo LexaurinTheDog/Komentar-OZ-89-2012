@@ -51,6 +51,12 @@ Tato kapitola pokrývá dva ze tří typů právnických osob (po korporacích z
 
 Statut (§ 305) je **vnitřní dokument** fundace upravující její organizaci. U nadace povinný (§ 314), u ústavu volitelný (§ 413).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 290 až 304“ (dnešní § 292—306) — viz § 292.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 290 až 304“ (dnešní § 292—306) — viz § 292.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 290 až 304“ (dnešní § 292—306) — viz § 292.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
@@ -123,6 +129,8 @@ Fundace je PO bez členů, definovaná vyčleněným majetkem a vázaná na úč
 
 **Důsledek porušení:** soud zruší nadaci **i bez návrhu** a nařídí likvidaci.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 290 až 304“ (dnešní § 292—306) — viz § 292.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Ostravě* [11 CO 237/2021-2117](https://rozhodnuti.justice.cz/rozhodnuti/?id=b801070a-7df1-4fd6-90d5-bf374295a8ee) — *bezdůvodné obohacení, dlužné nájemné, dražba, držba, majetková újma, nájem domu, nájem n…*
@@ -182,6 +190,18 @@ Nadace musí sloužit trvale užitečnému (veřejně prospěšnému nebo dobro�
 
 Příklad povolené vedlejší činnosti: Nadace Olgy Havlové může pronajímat budovu, kterou obdržela darem — výnosy z nájmu používá na granty pro postižené děti.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 305 až 307 návrhu — dnešní § 307—309):**
+
+> Pro právnické osoby fondového typu se volí souhrnné označení „fundace".
+> Jedná se o pojem v normativním jazyku významově neobsazený, v obecném
+> jazyce nepoužívaný, ale dlouhodobě známý spisovné češtině. V obecném
+> významu nejde jen o synonymní označení nadací, ale též o obecné
+> pojmenování majetkového základu věnovaného nějakému společenskému
+> účelu.[^42] Může být tedy funkčně využit k společnému pojmenování nadací
+> i fondů, když výraz „fundace" svým zněním připomíná názvy obou skupin
+> těchto právnických osob, a nadto se jeví jako vhodné antonymum k výrazu
+> „korporace".
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Nadace N. obdrží darem podíl 60 % v komanditní společnosti jako komplementář (neomezeně ručící společník) a současně provozuje rozsáhlou e-shopovou činnost, jejíž obrat tvoří 80 % všech jejích aktivit, přičemž zisk reinvestuje do dalšího rozšiřování e-shopu. Nadační listina podnikání nevylučuje. Dozorčí rada upozorní, že se z nadace fakticky stal obchodní podnik. Důkazy: společenská smlouva k.s., účetní závěrka, výroční zpráva, výkaz poměru činností.
@@ -231,6 +251,8 @@ Nadace smí podnikat jen vedlejším způsobem a jen tehdy, slouží-li výtěž
 2. **Označení účelu** — pravidelná (nikoli povinná, ale doporučená) součást.
 
 Příklady: „Nadace Charta 77", „Nadace Naše dítě", „Nadace Open Society Fund Praha".
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 305 až 307“ (dnešní § 307—309) — viz § 307.
 
 #### F. Kazuistika
 
@@ -289,6 +311,8 @@ Název nadace musí obsahovat slovo „nadace"; označení účelu je doporučen
 **Více zakladatelů**: považují se za **jediného** zakladatele a musí jednat **jednomyslně**. Při odmítnutí souhlasu bez vážného důvodu může soud nahradit souhlas.
 
 **Forma**: **veřejná listina** (notářský zápis — § 776 OZ a § 6 NotZ).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 305 až 307“ (dnešní § 307—309) — viz § 307.
 
 **Judikatura (z místních zdrojů):**
 
@@ -363,6 +387,38 @@ Zakládací listina obsahuje alespoň:
 - h) **Správce vkladů**;
 - i) **Podmínky pro poskytování nadačních příspěvků** (nebo odkaz na statut).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 308 až 310 návrhu — dnešní § 310—312):**
+
+> Návrh nové právní úpravy nadací jednak přihlíží k dosavadnímu vývoji
+> právní úpravy od roku 1990 až do zpracování návrhu novely zák. č.
+> 227/1997 Sb., o nadacích a nadačních fondech, jednak hledá inspiraci
+> zejména v právní úpravě Rakouska, Německa, Itálie, Nizozemí, Québecu a
+> Polska. Osnova však, rozdílně od stručných úprav německé, italské nebo
+> québecké, jde ve shodě s tuzemskou tradicí cestou detailnější úpravy.
+>
+> Zachovává se koncept nadace jako právnické osoby soukromého práva
+> tvořené účelovým sdružením majetku, který má trvale svými výnosy sloužit
+> užitečnému cíli, vyjma podpory politických stran a hnutí. Trvalý
+> charakter odlišuje nadace od nadačních fondů, jejichž úprava má být
+> zachována i nadále.
+>
+> Podle vzoru práva rakouského, italského, německého atd. se navrhuje
+> rozšířit dovolený účel nadací z výlučně veřejně prospěšného účelu i na
+> účel dobročinný. Dobročinný účel je zaměřen na podporu byť i omezeného
+> okruhu osob potřebujících pomoc. Tím se umožní mj. i zakládání tzv.
+> rodinných nadací. Osnova tedy sleduje uvolnění právní koncepce nadací co
+> do vymezení jejich účelu, nepřiklání se však k absolutně liberálnímu
+> pojetí některých evropských a mimoevropských právních řádů (např.
+> dánského či lichtenštejnského), podle nichž je jen na vůli donátora
+> (zřizovatele), jak cíl nadace vymezí.
+>
+> Navrhuje se zachovat zásadu, že výdělečný účel je povaze nadací cizí.
+> Zároveň se však shodně s moderními vývojovými trendy (srov. např.
+> rakouský zákon o soukromých nadacích z r. 1993 nebo čl. 1256 québeckého
+> zákoníku z r. 1991) nadacím nezakazuje podnikání, nesmí však jít o
+> hlavní činnost nadace a výnos z podnikání může být použit jen k podpoře
+> jejího účelu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2648/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BCDC20E5B57F627C1258D08004D3440?openDocument) — *Nadace (o. z.) Zakladatel*
@@ -426,6 +482,10 @@ Zakládací listina musí obsahovat všechny náležitosti § 310; jejich absenc
 
 Specifické náležitosti pro založení závětí (omezenější obsah; ostatní rozhodne vykonavatel závěti nebo soud).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 308 až 310“ (dnešní § 310—312) — viz § 310.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 308 až 310“ (dnešní § 310—312) — viz § 310.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS ve Vyškově* [6 C 186/2019-129](https://rozhodnuti.justice.cz/rozhodnuti/?id=99eb01a9-5e22-4672-b196-a93e495cd74b) — *držba, podílové spoluvlastnictví, vydržení*
@@ -475,6 +535,77 @@ Nadaci lze založit i pořízením pro případ smrti (povolání za dědice neb
 > (2) Určila-li nadační listina, že se vkladová povinnost splní vnesením nepeněžitého předmětu, a není-li to možné nebo nedosáhne-li hodnota vkladu při splnění vkladové povinnosti výše určené v nadační listině, má se za to, že vkladatel vyrovná rozdíl v penězích.
 
 Default: vkladová povinnost se plní **v penězích**. Pokud zakladatel ujednal nepeněžitý vklad a ten nedosáhne stanovené hodnoty, **vyrovná rozdíl v penězích**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 311 až 315 návrhu — dnešní § 313—317):**
+
+> Založení nadace se děje právním jednáním, jímž je podle povahy věci
+> zakládací listina nebo závěť. Termín „zakládací listina" se volí z té
+> příčiny, že je třeba pojmově odlišit „zakladatelskou listinu" jako
+> obecný termín (§ 123) od jednostranného zakladatelského jednání, jímž se
+> zakládají právě nadace. Osnova opouští mylnou koncepci ustanovení § 3
+> dosavadního zákona o nadacích a nadačních fondech č. 227/1997 Sb., které
+> rozlišuje nadační listiny jednostranné a kontraktuální. Ve shodě s
+> převažujícím míněním se opouští „málo životaschopná" úvaha, která jako
+> „ojedinělý názor" prosazuje smluvní charakter erekční listiny nadace
+> pořízené několika osobami.[^43] Neosobní povaha nadace svým charakterem
+> vylučuje úpravu budoucích vztahů mezi jejími zřizovateli (jak je tomu
+> u právnických osob budovaných na principu korporace), tudíž i při více
+> zřizovatelích téže nadace půjde o jejich shodný projev vůle jednosměrně
+> orientovaný k zřízení nadace. Dosavadní řešení, analogicky vycházející z
+> právní povahy jednání sledujícího založení korporace, není u nadací
+> namístě.
+>
+> Od zakladatelské listiny lze před vznikem nadace odstoupit, resp. jej
+> lze následným projevem vůle zrušit. Zrušit lze i nadační listinu
+> zřízenou závětí. Zákoník nezamýšlí tuto otázku výslovně zmiňovat,
+> protože takové řešení plyne z povahy věci. Stojí-li na zakladatelské
+> straně více osob, pak odstoupení kterékoli z nich vyvolává zrušení celé
+> nadační listiny.
+>
+> Se zřetelem k pojetí nadační listiny jako jednostranného právního
+> jednání se vychází z jednoty zakladatelského substrátu nadace i za
+> situace, že jej tvoří více osob. Skupina několika zakladatelů nadace se
+> považuje za zakladatele jediného. (Obdobně např. rakouský zákon z r.
+> 1993 v § 3 odst. 2.)
+>
+> Zachovává se koncepce zřízení nadace jak zakládací listinou, tak
+> pořízení pro případ smrti (závětí, dědickou smlouvou, dovětkem). Pro obě
+> tato jednání se zachovává společné označení „nadační listina" i
+> požadavek pořídit je ve formě notářského zápisu.
+>
+> Zakládací listina je co do obligatorních náležitostí upravena rigidně,
+> nově je upraven požadavek na údaj o nadačním kapitálu a o správci
+> vkladů.
+>
+> Návrh ustanovení o zřízení nadace závětí vychází z dosavadní zákonné
+> úpravy v tom smyslu, že určité náležitosti, které musí obsahovat
+> zakládací listina nadace, pořízení pro případ smrti obsahovat nemusí
+> a mohou být upraveny dodatečně. Při zřízení nadace *mortis causa* se
+> mohou vyskytnout situace, kdy testátor nebude moci z různých důvodů
+> určit některé náležitosti zakladatelského právního jednání (např. sídlo
+> nadace). Pro tyto případy musí být určena osoba, která doplní nadační
+> listinu a zařídí zápis nadace do veřejného rejstříku.
+>
+> V posledním ustanovení se navrhuje stanovit dvě důležitá právní
+> pravidla. První se navrhuje pro případ, že nadační listina určí pro
+> založení nadace povinnost k vkladu v určité výši, ale neuvede, jaký je
+> předmět vkladu. V takovém případě nastoupí nevyvratitelná právní
+> domněnka, že se vkladová povinnost plní v penězích a že bude splněna
+> splacením vkladu. Tím se vyloučí závěr o neplatnosti nadační listiny pro
+> neurčitost. Nástup právní domněnky lze samozřejmě odvrátit v případech,
+> kdy bylo zřejmé, že zakladatel chtěl do nadace vnést nepeněžitý předmět
+> a zapomnělo se jej v nadační listině vymezit, pořízením dodatku k
+> nadační listině nebo jiným projevem vůle, kterým se nadační listina
+> změní. Druhé právní pravidlo se navrhuje pro případ, že nadační listina
+> zavazuje k vkladu s nepeněžitým předmětem a tento předmět následně do
+> nadace vložit není možné (např. proto, že podlehl zkáze) nebo nastane
+> situace, že hodnota předmětu klesne. V takovém případě má nastoupit
+> vyvratitelná právní domněnka, že vzniklý schodek má být vyrovnán v
+> penězích. Znamená to, že v nadační listině lze zvolit i jiné pravidlo,
+> např. že rozdíl bude vyrovnán nepeněžitým plněním nebo že pokles hodnoty
+> nebude sanován (za podmínky, že souhrnná výše vkladů dosáhne alespoň 500
+> 000 Kč, popř. že hodnota výše zakladatelova vkladu neklesne pod určitou
+> částku apod.).
 
 **Judikatura (z místních zdrojů):**
 
@@ -537,6 +668,8 @@ Neuvede-li nadační listina předmět vkladu, plní se v penězích; je-li ujed
 
 **Uveřejnění**: uložením do **sbírky listin** veřejného rejstříku — **přístupné komukoli**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 311 až 315“ (dnešní § 313—317) — viz § 313.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 3225/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9C6FBC0E7B684B0C12582A900267A40?openDocument) — *Fundace (o. z.) [ Korporace (o. z.) ] Nadační fond (o. z.) [ Korporace (o. z.) ] Účel pr…*
@@ -586,6 +719,8 @@ Statut je povinný a upraví minimálně jednání orgánů a podmínky přísp�
 > (2) Návrh na zápis nadace do veřejného rejstříku podává zakladatel; není-li to možné a neurčil-li zakladatel něco jiného, podá návrh na zápis jménem nadace její správní rada.
 
 Vznik = **den zápisu do veřejného rejstříku** (nadační rejstřík). Návrh podává zakladatel; pokud nemožné, správní rada.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 311 až 315“ (dnešní § 313—317) — viz § 313.
 
 #### F. Kazuistika
 
@@ -650,6 +785,10 @@ Nadace vzniká dnem zápisu do veřejného rejstříku; návrh podává zakladat
 > Určil-li zakladatel v nadační listině výslovně, že je nezměnitelná nebo že nelze měnit její určitou část, nelze ji změnit ani rozhodnutím soudu.
 >
 Pokud zakladatel **výslovně určí**, že nadační listina (nebo její část) je **nezměnitelná**, **nelze ji změnit ani rozhodnutím soudu**. Tato klauzule chrání vůli zakladatele s absolutní platností.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 311 až 315“ (dnešní § 313—317) — viz § 313.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 311 až 315“ (dnešní § 313—317) — viz § 313.
 
 **Judikatura (z místních zdrojů):**
 
@@ -893,6 +1032,53 @@ Změnu účelu nadace z veřejně prospěšného na dobročinný může povolit 
 - Dary poskytnuté na **původní účel** se musí použít k **původnímu účelu** (nikoli k novému);
 - Default při změně z veřejně prospěšného na dobročinný: **4/5 výnosů** se používá na **původní účel** **po dobu 5 let**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 320 až 322 návrhu — dnešní § 326—328):**
+
+> Osnova věnuje vkladům do nadace velkou pozornost. Považuje se za
+> nezbytné ochránit majetkový substrát nadace co nejvíce před rizikem jeho
+> fiktivního vytváření nebo umělého nadhodnocení.
+>
+> Z hlediska terminologie se opouští výraz splacení vkladu jako obecný
+> termín užívaný zejména dosavadním obchodním zákoníkem. Je tomu tak
+> proto, že stricto sensu se nesplácí vklad, ale předmět vkladu, navíc jen
+> předmět peněžitý (peníze implikují placení), zatímco splacení
+> nepeněžitého předmětu (pozemku, směnky, ochranné známky apod.) je
+> logický i gramatický nonsens. To je důvod, proč se jako obecný pojem
+> zavádí splnění vkladové povinnosti. Odpovídá to právnímu pojetí, že
+> osoba, která se zaváže vložit do právnické osoby určitý vklad, se
+> zavazuje k vkladové povinnosti, plní vkladovou povinnost a jejím
+> splněním se jí zbavuje. Splnit vkladovou povinnost lze buď splacením,
+> je-li předmět vkladu peněžitý, nebo vnesením, jde-li o nepeněžitý
+> předmět.
+>
+> Osnova se inspiruje teoreticky již značně propracovanou doktrínou
+> vztaženou k právní úpravě vkladů do obchodních společností a rozlišuje
+> terminologicky i pojmově „vklad" a „předmět vkladu". Vklad je souhrn
+> majetkových hodnot vnášených do nadace, předmět vkladu je jednotlivá
+> hmotná věc, jednotlivé právo nebo jiná jednotlivá majetková hodnota,
+> která se vnesením vkladu na nadaci převádí. Z toho důvodu tvoří i různé
+> předměty vnesené do právnické osoby jediným právním jednáním téhož
+> vkladatele jen jeden vklad.
+>
+> Předměty vkladů mohou být peněžité i nepeněžité. Pro předmět
+> nepeněžitých vkladů se zachovává zákonný požadavek, že musí jít o
+> hodnotu, s níž je spojen předpoklad, že bude poskytovat trvalý výnos.
+> Nově se navrhuje rozšířit dosavadní zákonnou zápověď způsobilosti vkladu
+> být zástavou i na jiné jistoty (kauce). Vlastník tudíž např. nebude moci
+> vložit do nadace věc, ke které někdo jiný uplatnil zadržovací právo.
+>
+> Jsou-li do nadace vloženy peníze, odvozuje se výše vkladu ze jmenovité
+> hodnoty peněz. Je-li však vkládán nepeněžitý předmět, musí být výše
+> vkladu odvozena z jeho hodnoty, kterou má stanovit znalecký posudek.
+> Protože však normativní význam nemá údaj ve znaleckém posudku, nýbrž
+> určení výše vkladu příslušným právním jednáním (nadační listinou,
+> rozhodnutím o zvýšení nadačního kapitálu), navrhuje se stanovit, že výši
+> vkladu nelze stanovit vyšší částkou, než jaká byla u vkládaného předmětu
+> zjištěna znaleckým posudkem. Pokud je však tímto předmětem cenný papír,
+> bylo by mnohdy zbytečné oceňovat jej znalecky. Proto se zamýšlí umožnit
+> stanovení hodnoty cenného papíru i jiným dostatečně spolehlivým
+> způsobem.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=973949f5-b02f-4856-a8fb-966ffb5ab191) — 23. 1. 2023
@@ -948,6 +1134,8 @@ Po změně účelu se účelově poskytnuté dary a jejich výnosy nadále použ
 - **Cena podle posudku znalce** (nelze určit vyšší);
 - Musí splňovat **předpoklad trvalého výnosu**;
 - **Nesmí sloužit jako jistota** (musí být volně použitelný).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 320 až 322“ (dnešní § 326—328) — viz § 326.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1006,6 +1194,8 @@ Nepeněžitý vklad do nadace lze ocenit nejvýše částkou dle znaleckého pos
 
 - **Cenné papíry / nástroje peněžního trhu** (§ 328) — lze určit hodnotu váženým průměrem cen za 6 měsíců na regulovaném trhu;
 - **Jiné věci** (§ 329) — tržní hodnota odborníkem / účetní hodnota s auditorovým výrokem bez výhrad.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 320 až 322“ (dnešní § 326—328) — viz § 326.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1203,6 +1393,18 @@ Potvrzení správce vkladů je veřejnoprávně významný podklad zápisu a sou
 - Po vzniku nadace předá správce předmět **bez zbytečného odkladu**;
 - Po vzniku lze **rozmnožit nadační jistinu** nadačními dary nebo rozhodnutím o zvýšení kapitálu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 327 návrhu — dnešní § 334):**
+
+> Ustanovení § 327 je základním ustanovením o rozmnožení nadační jistiny
+> po vzniku nadace. K tomu může dojít především nadačními dary. Splňuje-li
+> předmět daru tytéž náležitosti, jaké se navrhuje stanovit pro předmět
+> vkladu, tedy splňuje-li předpoklad trvalého výnosu a neslouží-li jako
+> jistota, zavádí se vyvratitelná právní domněnka, že úmyslem dárce bylo
+> věnovat předmět daru do nadační jistiny, avšak jen jde-li o dar
+> nepeněžitý. Právní povaha domněnky nevylučuje, aby dárce projevil
+> opačnou vůli; pak rozhoduje vůle, jak ji dárce projevil zcizovacím
+> právním jednáním.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Plzni* [10 CO 184/2021-522](https://rozhodnuti.justice.cz/rozhodnuti/?id=d07270d5-1ab3-4c1b-9f6e-708da01cdbec) — *peněžité plnění, služebnost, věcná břemena*
@@ -1263,6 +1465,47 @@ Po vzniku nadace musí správce předat vklady bezodkladně; výnosové nepeně�
 
 **Minimum jistiny: 500 000 Kč** (§ 336 odst. 2).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 328 až 332 návrhu — dnešní § 335—339):**
+
+> Skupina těchto ustanovení se věnuje majetkovým poměrům nadace. Ve shodě
+> s dosavadní úpravou se navrhuje i nadále požadovat, aby nadační jistina
+> dosahovala alespoň hodnoty stanovené v den založení nadace jako hodnoty
+> minimální. Ve shodě s dosavadní úpravou se i nadále požaduje, aby
+> nadační jistina dosahovala minimálně hodnoty 500 000 Kč.
+>
+> Pro peněžní vyjádření nadační jistiny se navrhuje označení „nadační
+> kapitál". Navrhuje se nově, aby do veřejného rejstříku nebyla zapisována
+> nadační jistina (jako souhrn konkrétních majetkových kusů v oceněné
+> hodnotě), protože faktický majetkový substrát se co do hodnoty v čase
+> mění a tyto změny by musely být bez zbytečného odkladu do veřejného
+> rejstříku zapisovány, ale aby tam byla zapsána výše nadačního kapitálu.
+> Jeví se totiž jako potřebné vyjádření souhrnu těchto hodnot k určitému
+> časovému okamžiku fixovat v podobě nadačního kapitálu jako fixního čísla
+> stanoveného k tomuto okamžiku, na něž faktické výkyvy v hodnotách věcí,
+> z nichž nadační majetek sestává, nebudou mít vliv.
+>
+> Zásady zachování nadačního majetku i nadačního kapitálu jsou v osnově
+> vyjádřeny jednak tím, že přijetí nadačního daru bude mít pravidelně za
+> následek zvýšení nadačního kapitálu v příslušné míře, jednak návrhem
+> normativních konstrukcí, podle nichž může být nadační kapitál zvýšen,
+> případně musí být snížen v závislosti na případných hodnotových
+> pohybech, dotýkajících se nadační jistiny. Změna výše nadačního kapitálu
+> bude zapisována s konstitutivními účinky do veřejného rejstříku.
+> Případný pokles hodnoty nadačního majetku pod 500 000 Kč ovšem nemůže
+> být do výše nadačního kapitálu promítnut, nýbrž musí být - nezdaří-li se
+> nadační jistinu včas doplnit na zákonný limit - řešen zrušením nadace s
+> likvidací nebo její přeměnou.
+>
+> Nadační jistina je nezcizitelná a nelze ji ani zastavit či jinak použít
+> k zajištění pohledávky. V tom směru se navrhuje zachovat dosavadní
+> úpravu. Přísná pravidla vztažená k nadační jistině se však nemohou
+> uplatnit za situace, kdy nadace provozuje závod. Proto se navrhuje
+> stanovit, že se v takovém případě příslušné zákazy neuplatní v rozsahu
+> potřebném pro plynulý provoz závodu.
+>
+> Nadace má vedle nadační jistiny rovněž ostatní majetek, který nepodléhá
+> zpřísněnému režimu uplatňovanému vůči nadační jistině.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 74/2025-292](https://rozhodnuti.justice.cz/rozhodnuti/?id=d30ea86b-bdce-42ae-ac97-f6221d9e2038) — 24. 7. 2025
@@ -1318,6 +1561,8 @@ Nadace používá majetek **v souladu s účelem** k:
 
 **Zákaz neomezeného ručení** — k jednání nadace, kterým převezme neomezené ručení, **se nepřihlíží** (zdánlivé jednání).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 328 až 332“ (dnešní § 335—339) — viz § 335.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 286/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=6dd1432c-ca2c-4229-b02f-901769abeb2d) — 23. 5. 2024
@@ -1371,6 +1616,8 @@ Nadace nesmí převzít neomezené ručení za jiného — k takovému jednání
 - Jinak jen **za protiplnění** zahrnuté do jistiny;
 - Nebo při **neočekávané změně okolností**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 328 až 332“ (dnešní § 335—339) — viz § 335.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 1* [30 C 35/2015-163](https://rozhodnuti.justice.cz/rozhodnuti/?id=ce4feb1a-5284-41a5-84d8-8482c4f63546) — *peněžité plnění, smlouva kupní, znalecký posudek*
@@ -1416,6 +1663,25 @@ Nadační jistinu nelze zastavit (mimo úzkou výjimku obchodního závodu) a zc
 > Nadace nakládá s nadační jistinou s péčí, jakou tento zákon stanoví pro správu cizího majetku. Vyžaduje-li se podle ustanovení o prosté správě cizího majetku k určitému právnímu jednání souhlas beneficienta, vyžaduje se k takovému právnímu jednání předchozí souhlas osoby určené v nadační listině; není-li tato osoba určena, vyžaduje se předchozí souhlas dozorčí rady.
 
 Nadace nakládá s jistinou s **péčí podle ustanovení o správě cizího majetku** (§ 1400 a násl. OZ). Pro úkony vyžadující souhlas beneficienta → souhlas osoby určené v nadační listině (default: dozorčí rada).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 333 návrhu — dnešní § 340):**
+
+> Současná úprava nadací detailně stanoví, jak nadace mohou s nadační
+> jistinou nakládat a často jde do neúměrných podrobností. Vzhledem k
+> tomu, že osnova za prvé zamýšlí liberalizovat celkový rámec úpravy
+> nadací zejména umožněním vzniku nadací rodinného typu a nadací
+> provozujících závod a že osnova za druhé obsahuje v závěru třetí části
+> návrh obsáhlé obecné úpravy správy cizího majetku, navrhuje se obecně
+> odkázat na obdobné použití těchto pravidel. Z nich vyplývá, že majetek
+> podrobený úpravě správy cizího majetku musí být zásadně zachován, že
+> nesmí být měněno jeho účelové určení a že - tvoří-li jej peníze - může
+> být investován způsobem obecně považovaným za rozumný. Navržené
+> ustanovení nijak nebrání tomu, aby nadační listina či statut
+> jednotlivých nadací stanovily podmínky přísněji, vyžaduje-li to zájem
+> zakladatele nebo jiná konkrétní potřeba.
+>
+> Odkazové ustanovení dopadá pouze na nadační jistinu, nikoli na ostatní
+> majetek nadace, netýká se tudíž např. poskytování nadačních příspěvků.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1468,6 +1734,13 @@ S jistinou se nakládá s péčí jako se svěřeným cizím majetkem; u úkonů
 Auditor ověřuje **řádnou, mimořádnou a konsolidovanou účetní závěrku**, pokud:
 - Nadační kapitál nebo obrat **≥ 5 mil. Kč** (10× minimum) v uplynulém období;
 - NEBO se rozhoduje o **zvýšení/snížení kapitálu** nebo **přeměně**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 334 návrhu — dnešní § 341):**
+
+> Z platné úpravy se navrhuje převzít pro uvedené případy požadavek
+> ověření účetních závěrek auditorem. Nově má být audit účetní závěrky
+> vyžadován, má-li být podkladem pro rozhodnutí o změně výše nadačního
+> kapitálu, nebo pro rozhodnutí o přeměně nadace.
 
 ##### F. Kazuistika
 
@@ -1528,6 +1801,14 @@ Audit je povinný při dosažení kapitálu *nebo* obratu 5 mil. Kč, a vždy, r
 
 **Z darů** (§ 343) — pokud dar je věcí způsobilou být vkladem.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 335 až 341 návrhu — dnešní § 342—348):**
+
+> Zavedení institutu nadačního kapitálu vyžaduje úpravu rozhodování o jeho
+> zvýšení nebo snížení. Působnost rozhodnout o zvýšení nebo snížení
+> nadačního kapitálu se svěřuje správní radě s tím, že ta potřebuje k
+> takovému rozhodnutí předchozí souhlas dozorčí rady. Ze zřejmých důvodů
+> se možnost snížit nadační kapitál omezuje jen na mimořádné případy.
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Po schválení (auditované) účetní závěrky vykazuje nadace vlastní zdroje 7 000 000 Kč při zapsaném kapitálu 5 000 000 Kč; z toho 800 000 Kč jsou účelově vázané prostředky, jejichž účel nadace nesmí měnit. Správní rada chce zvýšit kapitál o 2 000 000 Kč. Současně přijala darem pozemek vhodný jako vklad, oceněný posudkem na 1 500 000 Kč, a uvažuje zvýšit kapitál o 1 800 000 Kč „pro jistotu". Důkazy: účetní závěrka, struktura vlastních zdrojů, znalecký posudek pozemku, darovací smlouva.
@@ -1582,6 +1863,12 @@ Zvýšení kapitálu z vlastních zdrojů je limitováno rozdílem vlastních zd
 
 **Doplnění při ztrátě** (§ 346): pokud nadace pozbude část jistiny / klesne hodnota, doplní; pokud nemožné, sníží kapitál odpovídajícím způsobem.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 335 až 341“ (dnešní § 342—348) — viz § 342.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 335 až 341“ (dnešní § 342—348) — viz § 342.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 335 až 341“ (dnešní § 342—348) — viz § 342.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS ve Svitavách* [16 C 262/2021-112](https://rozhodnuti.justice.cz/rozhodnuti/?id=9f8b4271-8e18-4937-9feb-aa0462682df6) — *držba, mimořádné vydržení, notářský zápis, peněžité plnění, podvod, postoupení pohledávk…*
@@ -1632,6 +1919,10 @@ Snížit kapitál lze jen pro hospodárnější naplnění účelu, max. o 1/5 z
 >
 
 Rozhoduje **správní rada po souhlasu dozorčí rady**. **Účinnost dnem zápisu do VR**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 335 až 341“ (dnešní § 342—348) — viz § 342.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 335 až 341“ (dnešní § 342—348) — viz § 342.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1699,6 +1990,33 @@ O změně kapitálu rozhoduje správní rada s předchozím souhlasem dozorčí 
 
 Při zrušení nadace likvidátor naloží s přidruženým fondem tak, aby **zachoval povahu a účel**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 342 až 345 návrhu — dnešní § 349—352):**
+
+> Ustanovení o přidruženém fondu reflektují koncept tzv. „nesamostatných
+> nadací". Přidružený fond je sice - rovněž jako nadace - vytvářen
+> majetkovým souborem, postrádá však právní subjektivitu, přestože může
+> být zvláštním způsobem označen. Osnova neobsahuje výslovné určení, že
+> fond není právnickou osobou, protože to vzhledem k § 20 principiálně
+> není potřeba; je proti zásadám legislativní techniky stanovovat, že
+> určitý právní následek nenastane, když se pro to, aby nastal, vyžaduje
+> pozitivní zákonné určení.
+>
+> Vzhledem k zvláštnímu účelovému určení přidruženého fondu jako
+> „nesamostatné nadace", kdy vlastník svěřuje jako donátor již existující
+> nadaci majetek uvedený pouze do správy, a zůstává tudíž jeho vlastníkem,
+> musí být speciálně vyřešeny důsledky vzniku oprávnění a povinností
+> vázaných na tento majetek a vzniklých po dobu správy.
+>
+> Protože se při svěření určitého majetku pro ujednaný účel předpokládá,
+> že zájem donátora sleduje trvalost takového použití tohoto majetku -
+> právě proto, že musí jít o věc způsobilou být jinak předmětem vkladu do
+> nadace - musí tedy splňovat předpoklad trvalého výnosu - vychází osnova
+> z koncepce, že ani případné zrušení spravující nadace s likvidací nemá
+> mít zásadně za následek odnětí přidruženého fondu jeho původně určenému
+> účelu. Z té příčiny se navrhuje stanovit likvidátorovi povinnost, aby
+> při zrušení nadace s likvidací přenesl správu tohoto fondu na jinou k
+> tomu způsobilou osobu.
+
 ### Nadační příspěvky (§ 353—356)
 
 #### § 353 — Zákazy příjemců
@@ -1712,6 +2030,41 @@ Při zrušení nadace likvidátor naloží s přidruženým fondem tak, aby **za
 - b) **Zakladateli** ani osobě jemu blízké — vyjma případů zvláštního zřetele hodných po projednání s dozorčí radou. (Výjimka: pokud nadace byla zřízena k podpoře osob blízkých zakladateli.)
 
 **Anti-fraud klauzule** proti zneužití nadace pro osobní obohacení správců.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 346 až 349 návrhu — dnešní § 353—356):**
+
+> Rovněž návrh nové úpravy nadačních příspěvků vychází z dosavadního
+> zákonného pojetí, upřesňuje však některé dosud neřešené aspekty.
+>
+> Na podněty z oblasti neziskového sektoru se navrhuje vyloučit z okruhu
+> osob oprávněných přijmout nadační příspěvek nad rámec dosavadní úpravy,
+> která pamatuje jen na členy orgánů nadace, i další osoby, a to
+> zaměstnance nadace a osoby blízké zaměstnancům nadace nebo členům jejích
+> orgánů. Pokud jde o zakladatele, nemá být připuštěno, aby mu byly
+> nadační příspěvky, ledaže pro to mluví důvody hodné zvláštního zřetele -
+> např. zřídil-li zakladatel nadaci k podpoře lidí zdravotně postižených a
+> posléze byl i on sám zdravotně postižen. Pokud jde o osoby zakladateli
+> blízké, je nutné vzít v úvahu rozdíl mezi nadacemi veřejně prospěšnými a
+> dobročinnými. Vzhledem k tomu, že osnova nevylučuje, aby zakladatel
+> zřídil dobročinnou nadaci k podpoře osob sobě blízkých, nelze
+> kategoricky vyloučit tyto osoby z práva na příspěvek
+>
+> Poskytování nadačních příspěvků stanoveným způsobem je hlavní činností
+> nadace. Podmínky pro poskytnutí nadačních příspěvků určuje statut
+> nadace; s ohledem na zveřejnění statutu ve veřejném rejstříku a na
+> právní účinky tohoto zveřejnění lze vycházet z účinnosti zveřejněných
+> podmínek pro poskytování příspěvků vůči veřejnosti. Nadační příspěvek
+> lze poskytnout jednorázově, anebo i opakovaně, a to buď na neurčito
+> (např. formou renty), anebo i na určitý čas (např. formou stipendia).
+> Zřídit lze i důchodové nadace atd. Do těchto otázek osnova nezasahuje,
+> protože je věcí autonomie vůle zřizovatele nadace a také nadace samotné,
+> jak tyto otázky ve statutu vyřeší.
+>
+> Ustanovení § 348 sleduje princip zachování nadačního kapitálu a brání,
+> aby nadační příspěvky byly vypláceny na jeho úkor. Ustanovení § 349
+> chrání dobrou víru destinatářů. Tam, kde dobrá víra chybí, anebo bude-li
+> příspěvek použit rozporně s jeho určeným účelem, vznikne destinatáři
+> povinnost příspěvek nadaci vrátit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1759,6 +2112,8 @@ Nadace nesmí poskytovat příspěvky členům orgánů, zaměstnancům a osobá
 > Kdo přijal nadační příspěvek, může jej použít jen ve shodě s ujednanými podmínkami; nadaci na požádání prokáže, jak jej použil. Kdo použil nadační příspěvek v rozporu s ujednanými podmínkami, vrátí jej nadaci jako bezdůvodné obohacení.
 
 Příjemce **prokáže na požádání** nadaci způsob použití. Při použití v rozporu s podmínkami **vrátí jako bezdůvodné obohacení**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 346 až 349“ (dnešní § 353—356) — viz § 353.
 
 ##### F. Kazuistika
 
@@ -1813,6 +2168,10 @@ Příjemce smí příspěvek použít jen podle ujednaných podmínek a na pož�
 **Nesmí poskytnout** příspěvky, pokud by tím **vlastní zdroje** klesly pod nadační kapitál (s úpravami).
 
 **§ 356 — Ochrana příjemce v dobré víře**: kdo přijal v dobré víře příspěvek v rozporu s § 355, **nemusí ho vrátit**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 346 až 349“ (dnešní § 353—356) — viz § 353.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 346 až 349“ (dnešní § 353—356) — viz § 353.
 
 ##### F. Kazuistika
 
@@ -1892,6 +2251,40 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 
 **§ 360 — Uveřejnění**: do 30 dnů od schválení správní radou. **U veřejně prospěšných** — povinně **zveřejnit** (sbírka listin VR); u ostatních postačí **zpřístupnit v sídle**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 350 návrhu — dnešní § 357):**
+
+> Navrhuje se upustit od dosavadního pravidla § 22 zák. č. 227/1997 Sb.,
+> podle něhož musí nadační listina nebo statut nadace určit, že celkové
+> roční náklady na správu nadace nesmí převýšit určité procento celkových
+> ročních výnosů nebo hodnoty poskytovaných nadačních příspěvků. Toto
+> opatření se v praxi neosvědčilo a na činnost nadací nemá ten dopad,
+> který zákonná úprava předpokládala. Navržená úprava vychází z toho, že
+> nadace účtuje o nákladech na vlastní správu odděleně, údaj o těchto
+> nákladech musí být zveřejněn ve výroční zprávě a podléhá kontrole
+> auditora. To samo o sobě zajišťuje dostatečnou transparentnost
+> hospodaření nadace ve vztahu k veřejnosti a zejména k případným dárcům.
+> Navržené ustanovení navíc nevylučuje, aby zakladatel nadace omezil její
+> režijní náklady zvláštním ustanovením v nadační listině.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 351 až 354 návrhu — dnešní § 358—361):**
+
+> Významným prostředkem sledujícím zajištění veřejné kontroly nad činností
+> nadací je výroční zpráva s předepsaným obsahem. Zvláštní konstrukce §
+> 352 sleduje ochranu soukromí dárců i některých destinatářů, kteří mohou
+> uplatnit závazný požadavek na zachování vlastní anonymity. Tento
+> požadavek však lze uplatnit jen do okamžiku, než správní rada nadace
+> výroční zprávu schválí, protože není možné nadaci nutit, aby kvůli
+> opožděně vzneseným požadavkům na zachování anonymity zprávu opakovaně
+> přepracovávala. V té souvislosti je však třeba brát zřetel na postavení
+> člověka, který získal od nadace vyšší příspěvek z humanitárních důvodů,
+> zejména zdravotních, s ohledem na jeho přirozenou vděčnost, emotivní
+> závislost na přispěvateli apod. Proto se navrhuje stanovit, že taková
+> osoba musí být o možnosti žádat zachování vlastní anonymity poučena již
+> při poskytnutí příspěvku; nestane-li se tak, zachovává se jí oprávnění
+> domáhat se ochrany vlastního soukromí a zachování anonymity kdykoli.
+> Výroční zpráva musí být uveřejněna ve veřejném rejstříku a v sídle
+> nadace.
+
 ### Orgány nadace (§ 362—375)
 
 #### Správní rada (§ 362—367)
@@ -1930,6 +2323,23 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 **§ 366 — Odvolání**: závažné/opakované porušení nadační listiny/statutu nebo zákona narušujícího pověst. **1 měsíc** od zjištění / max. **6 měsíců** od vzniku důvodu. Pokud správní rada neodvolá → soud na návrh osoby s právním zájmem; právo zaniká do **1 roku**.
 
 **§ 367**: nové členy do **3 měsíců** od zániku členství; pokus selže → soud jmenuje (na návrh dozorčí rady / osoby s právním zájmem); i bez návrhu při ztrátě usnášeníschopnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 355 až 360 návrhu — dnešní § 362—367):**
+
+> Navrhuje se zachovat dosavadní označení statutárního orgánu nadace jako
+> správní rady.
+>
+> Standardním způsobem se navrhuje stanovit způsobilost k výkonu funkce ve
+> správní radě nadace. Se zřetelem k vzoru dosavadní úpravy se navrhuje
+> zachovat stávající způsob volby a odvolávání členů správní rady; zároveň
+> se navrhuje prodloužit funkční období členů správní rady z dosavadních
+> tří až na pět let s tím, že nadační listina může stanovit funkční období
+> jiné.
+>
+> Byl-li někdo ustaven členem správní rady, aniž pro to splňuje podmínky
+> určené zákonem nebo případně i statutem, zakládá to právní neexistenci
+> volby. Tato neexistence se však nemůže dotknout práv nabytých v dobré
+> víře.
 
 #### Dozorčí rada (§ 368—372)
 
@@ -1977,6 +2387,23 @@ Příspěvky nelze poskytnout, klesly-li by vlastní zdroje pod upravený kapit�
 **§ 370 odst. 2 — Zastupování při konfliktu**: dozorčí rada zastupuje nadaci **proti členu správní rady** a v záležitostech konfliktu zájmů.
 
 **§ 371**: dozorčí rada **svolá** zasedání SR, pokud SR předseda neučiní na návrh DR. **Pověřený člen** nahlíží do dokladů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 361 až 365 návrhu — dnešní § 368—372):**
+
+> U velkých nadací musí být zřízena dozorčí rada jako kolektivní kontrolní
+> a revizní orgán. Navrhuje se nařídit povinné zřízení dozorčí rady v
+> nadacích, jejichž nadační kapitál dosahuje alespoň desetinásobku
+> minimální výše. I v tomto směru se vychází z dosavadní úpravy, která se
+> jen v některých směrech upřesňuje. Osnova výslovně neuvádí, že zřízení
+> dozorčí rady v nadacích s nižším nadačním kapitálem může přikázat
+> nadační listina. Zakladatel nadace má právo něco takového nařídit i bez
+> zákonného dovolení. Základní odchylka od dosavadní úpravy spočívá v
+> návrhu pravidla, podle něhož členy dozorčí rady nadace nemá nadále volit
+> správní rada. Není možné zachovat toto pojetí, protože nelze přistoupit
+> na řešení, že statutární orgán právnické osoby rozhoduje o personálním
+> obsazení toho orgánu, který jej má kontrolovat. Z toho důvodu se
+> navrhuje, aby se dozorčí rada sama obnovovala obdobným postupem, jaký
+> platí i pro správní radu.
 
 #### Revizor (§ 373—375)
 
@@ -2108,6 +2535,49 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 > (1) Nejméně třicet dnů před zasedáním správní rady nadace zveřejní oznámení o záměru přijmout rozhodnutí o změně právní formy.
 > (2) Věřitel nadace, který přihlásí svou pohledávku do šesti měsíců ode dne, kdy se zápis změny právní formy stal účinným vůči třetím osobám, může žádat zajištění své pohledávky dostatečnou jistotou, jestliže se v důsledku změny právní formy její dobytnost zhorší. Prokáže-li věřitel, že se v důsledku změny právní formy dobytnost jeho pohledávky podstatným způsobem zhorší, náleží mu dostatečná jistota ještě před zápisem změny právní formy do veřejného rejstříku.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 370 až 368 návrhu — dnešní § 377):**
+
+> Ve shodě s dosavadní úpravou se zachovává funkce revizora pro ty nadace,
+> v nichž se dozorčí rada nezřizuje. Osnova navrhuje zachovat pojetí
+> platné úpravy, podle kterého revizora volí a odvolává správní rada.
+> Nevidí však rozumný důvod pro omezení autonomie vůle zakladatele nadace,
+> a proto poukazuje na jeho právo nařídit v nadační listině i jiný způsob
+> obsazování funkce revizora.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 369 až 374 návrhu — dnešní § 376—381):**
+
+> Ustanovení o zrušení nadace s likvidací obsahují jen některé odchylky a
+> některé podrobnosti ve vztahu k obecné úpravě. Podle těchto speciálních
+> ustanovení rozhoduje o zrušení nadace s likvidací soud, který současně
+> nadaci jmenuje i likvidátora. Jen v případech, kdy se nadace zruší
+> dosažením účelu, pro který byla založena, nebo uplynutím doby, na kterou
+> byla založena, zvolí likvidátora správní rada.
+>
+> Podle ustanovení § 370 může dojít také k nucenému zrušení nadace
+> s likvidací rozhodnutím soudu z důvodů taxativně uvedených.
+>
+> Zvláštní účelové určení majetkového substrátu nadace vyžaduje, aby s
+> likvidační podstatou bylo naloženo jinak, než jaký cíl sleduje obecná
+> úprava likvidace. Tomu odpovídá navržené řešení, které zakazuje
+> zpeněžení likvidační podstaty nad rámec potřeby vyrovnat dluhy nadace.
+> Zbývající část likvidační podstaty má být naopak zachována a má s ní být
+> naloženo tak, aby mohla co možná sloužit účelu, jemuž byl majetek nadace
+> svěřen.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 375 až 386 návrhu — dnešní § 382—393):**
+
+> Je dáno povahou věci, že připustit rozdělení nadace by neodpovídalo
+> jejímu základnímu určení. Z té příčiny se připouští pouze sloučení
+> nadací, a to buď s jinými nadacemi, anebo s nadačním fondem. Osnova
+> preferuje vzájemné slučování nadací. Fúzi nadace s nadačním fondem se
+> navrhuje připustit, jen bude-li nástupnickou osobou nadace.
+>
+> Změnu právní formy nadace na nadační fond se navrhuje připustit jen za
+> podmínky, že to zakladatel nadace v nadační listině výslovně připustil.
+> Toto opatření se chápe jako zcela mimořádné nouzové řešení majetkových
+> obtíží nadace, jinak nepřekonatelných a navrhuje se připustit je jen za
+> této situace.
+
 ### Přeměna nadace (§ 382—393)
 
 **§ 382 — Dva typy přeměny**:
@@ -2188,6 +2658,32 @@ Pokud **není zřízena dozorčí rada** → revizor. Může být i **právnick�
 - g) Správce vkladů;
 - h) Podmínky příspěvků.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 387 až 394 návrhu — dnešní § 394—401):**
+
+> Navrhuje se zachovat bipartici soukromých fundací v podobě nadací a
+> nadačních fondů. Nadační fondy byly do našeho právního řádu vtěleny v
+> roce 1997 po vzoru někdejšího rakouského zákona z r. 1974, jejich úprava
+> se ujala, a není tudíž důvod v krátké době pojetí a právní úpravu
+> nadačních fondů obsahově měnit.
+>
+> Co do metody se osnova rozchází s dosavadní zákonnou úpravou a upravuje
+> právní poměry nadací a nadačních fondů jako oddělenou, což sleduje vyšší
+> přehlednost a zároveň i úspornost normativních konstrukcí.
+>
+> Nadační fond se od nadace liší především tím, že neslouží trvalému
+> účelu, tudíž není nutné stanovit, aby vklady a dary do nadačního fondu
+> splňovaly předpoklad trvalého výnosu. Naopak, majetek nadačního fondu
+> může být celý spotřebován k účelu, pro nějž byl založen. Z toho důvodu
+> se ani pro výši majetku a kapitálu nadačního fondu nestanovují žádné
+> limity. Ze stejných důvodů nejsou ani podnikatelské a investiční
+> aktivity nadačního fondu výrazně omezeny.
+>
+> Změna právní formy nadačního fondu na nadaci zásadně možná není, protože
+> tím by se změnil přechodný účel nadačního fondu na účel trvalý a
+> nastolilo by se řešení odporující soukromé vůli zřizovatele. Projeví-li
+> však zřizovatel v zakladatelském právním jednání opačnou vůli, není
+> ústavně konformní důvod tomu bránit.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 274/2023-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=9aaf7349-f786-4ebd-b24a-310d3f5bc214) — 11. 3. 2024
@@ -2237,6 +2733,8 @@ Nadační fond se zakládá písemnou zakládací listinou (nebo pořízením pr
 > Nadační fond vzniká dnem zápisu do veřejného rejstříku.
 
 Vznik **dnem zápisu** do VR.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 387 až 394“ (dnešní § 394—401) — viz § 394.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2298,6 +2796,8 @@ Nadační fond vzniká dnem zápisu do veřejného rejstříku; z jednání uči
 - **Použití k obezřetné investici** — analogicky § 1432 a násl. (investování opatrovníka);
 - **Veškerý majetek** nelze zatížit (širší ochrana než u nadace, kde je chráněna jen jistina).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 387 až 394“ (dnešní § 394—401) — viz § 394.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Ústí nad Labem, pobočka Liberec* [29 CO 232/2022-56](https://rozhodnuti.justice.cz/rozhodnuti/?id=0aa51809-c2ca-4136-8b70-ba90fbc0cbbb) — *smlouva kupní*
@@ -2356,6 +2856,10 @@ Pokud **zakladatelské jednání výslovně dovoluje**, lze rozhodnout o **změn
 
 Typický důvod: **nahromadění majetku** s charakterem trvalého výnosu → racionální převod na trvalou strukturu nadace.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 387 až 394“ (dnešní § 394—401) — viz § 394.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 387 až 394“ (dnešní § 394—401) — viz § 394.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 3* [7 C 288/2024-210](https://rozhodnuti.justice.cz/rozhodnuti/?id=6fbb6af8-b55a-427d-b349-0760e1642a47) — *smlouva o dílo, bezdůvodné obohacení, dokazování, podnikatel, lhůty, odstoupení od smlou…*
@@ -2408,6 +2912,8 @@ Nadační fond se může změnit na nadaci jen, připouští-li to výslovně za
 - **Soudní zrušení** — pokud neplní účel (na návrh osoby s právním zájmem).
 
 Pro likvidaci se aplikují obecná pravidla § 187—209 OZ.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 387 až 394“ (dnešní § 394—401) — viz § 394.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2474,6 +2980,38 @@ Nadační fond se zrušuje s likvidací rozhodnutím správní rady při trvalé
 
 **Historický kontext**: ústav v OZ nahrazuje (částečně) bývalé **obecně prospěšné společnosti (OPS)** podle zákona č. 248/1995 Sb., který byl 1. 1. 2014 zrušen. **Existující OPS dále fungují**, ale nové se zakládat nemohou — nahradil je ústav.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 395 až 411 návrhu — dnešní § 402—418):**
+
+> Bipartici právnických osob korporativního a fondového typu, vlastní
+> klasickému právu, rozmnožila moderní doba o některé další útvary. Proto
+> také navrhovaná úprava chápe korporace a fundace jen jako hlavní, nikoli
+> však jako jediné subtypy kategorie právnických osob. Vedle nich mají od
+> 19. stol. v soukromém právu zvláštní místo také ústavy.
+>
+> Pro ústavy je typická kombinace věcného základu s osobním prvkem za
+> účelem trvalé nebo dlouhodobé služby nějakému prospěšnému účelu. Od
+> korporace se ústav liší tím, že jejich osobní prvek zajišťuje řízení a
+> fungování ústavu a není nutně spojen s členstvím (takže rozhodování v
+> něm podléhá principu hierarchie, nikoli demokracie). Od nadace se ústav
+> liší tím, že věcný substrát není nezcizitelný, takže jmění ústavu může
+> být případně i zkonzumováno. Definiční význam pro ústav má zejména jeho
+> účel spočívající v poskytování služeb, takže z tohoto hlediska jsou pro
+> ústav významní ti, kdo služby ústavu užívají (destinatáři). Ústavy mohou
+> být soukromoprávní i veřejnoprávní (např. školy, muzea, nemocnice,
+> vědecké nebo výzkumné ústavy). Veřejnoprávní ústavy mohou mít v
+> působnosti i výkon veřejné moci, pak se někdy mluví o veřejném ústavu;
+> toto pojetí má ale význam pro administrativní právo, nikoli pro právo
+> soukromé.
+>
+> Obecná úprava právnických osob typu ústavů zatím v našem právu chybí,
+> což vyvolává jisté praktické obtíže. Proto se navrhuje zahrnout do
+> občanského zákoníku i základní ustanovení o ústavech.
+>
+> Ústav je definován svým účelem, tj. poskytováním služeb. Pro
+> hierarchické uspořádání ústavu je typické, že jeho statutární orgán je
+> monokratický (ředitel), odpovědný správní radě, která ho do funkce
+> jmenuje a odvolává.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 130/2022-205](https://rozhodnuti.justice.cz/rozhodnuti/?id=dd230fc5-e12a-4821-8d4a-526dab71db4b) — 25. 1. 2023
@@ -2524,6 +3062,8 @@ Nadační fond se zrušuje s likvidací rozhodnutím správní rady při trvalé
 
 Stejná logika jako u nadace (§ 307) a spolku (§ 217) — vedlejší činnost **na podporu hlavní**, zisk **nelze rozdělit**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zapsaný ústav provozující neziskovou školu (hlavní činnost) si jako vedlejší činnost pronajímá tělocvičnu a provozuje jídelnu pro veřejnost. Vedlejší činnost se rozšířila natolik, že personál přednostně obsluhuje komerční akce a výuka tělesné výchovy je omezována; zisk z jídelny chce ředitel rozdělit jako odměny zakladatelům. Důkazy: zakládací listina (hlavní vs. vedlejší činnost), rozvrh využití prostor, účetnictví o zisku z vedlejší činnosti, návrh na rozdělení zisku.
@@ -2563,6 +3103,8 @@ Stejná logika jako u nadace (§ 307) a spolku (§ 217) — vedlejší činnost 
 ### § 404 — Název
 
 > Název ústavu musí obsahovat slova „zapsaný ústav", postačí však zkratka „z. ú."
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2631,6 +3173,8 @@ Název ústavu musí povinně obsahovat slova „zapsaný ústav" nebo zkratku �
 
 Volitelně: dozorčí rada (počet, první členové).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 43/2024-25](https://rozhodnuti.justice.cz/rozhodnuti/?id=8baaa577-4b7f-4e29-bfb0-c9ded3042782) — 21. 3. 2024
@@ -2680,6 +3224,8 @@ Volitelně: dozorčí rada (počet, první členové).
 
 **Klíčové specifikum**: za trvání ústavu rozhoduje **zakladatel** (na rozdíl od nadace, kde má pravomoci primárně správní rada). Pokud zakladatel není dispozici → osoba určená nebo (subsidiárně) správní rada s **předchozím souhlasem soudu** u změny účelu / zrušení.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 95/2022-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=973949f5-b02f-4856-a8fb-966ffb5ab191) — 23. 1. 2023
@@ -2727,6 +3273,8 @@ O změnách zakladatelského jednání rozhoduje za trvání ústavu zakladatel;
 
 Den zápisu do VR (rejstřík ústavů).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zakladatelé sepsali zakládací listinu ústavu, ustavili správní radu a ředitele a začali jménem „ústavu" uzavírat nájemní smlouvu na prostory a pracovní smlouvy se zaměstnanci ještě **před** podáním návrhu na zápis do veřejného rejstříku. Pronajímatel se po čase domáhá plnění; namítá, že ústav v době uzavření smlouvy neexistoval. Důkazy: zakládací listina, datum podání návrhu na zápis a datum zápisu (výpis z VR), smlouvy a datum jejich uzavření, kdo a v čí prospěch jednal.
@@ -2773,6 +3321,8 @@ Den zápisu do VR (rejstřík ústavů).
 **Ředitel je individuální statutární orgán** (na rozdíl od kolektivní správní rady nadace). Lze přejmenovat (např. „rektor", „prezident") při zachování srozumitelnosti.
 
 **Inkompatibility**: nelze být zároveň členem SR/DR (oddělení manažerské a kontrolní funkce — corporate governance). **Bezúhonnost** — odsouzení za úmyslný TČ = zdánlivá volba.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2831,6 +3381,10 @@ Den zápisu do VR (rejstřík ústavů).
 **Default funkční období**: **3 roky** (kratší než u nadace).
 
 **§ 410 — Klíčová pravomoc SR**: **volí + odvolává ředitele**, dohlíží na jeho výkon, rozhoduje o jednáních vůči řediteli (default zastupuje předseda SR).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2903,6 +3457,10 @@ Den zápisu do VR (rejstřík ústavů).
 - Založení/účasti v jiné PO;
 - Default: dispozice s movitými věcmi nad **hodnotu zakázky malého rozsahu** (zákon o veřejných zakázkách).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 8* [10 C 56/2024-401](https://rozhodnuti.justice.cz/rozhodnuti/?id=32b37cea-26cb-4c8c-bc40-edc792ddfd35) — *právnická osoba, obvyklý dar, smlouva pracovní, bezdůvodné obohacení, dokazování, veřejn…*
@@ -2954,6 +3512,8 @@ Správní rada schvaluje rozpočet, závěrky a výroční zprávu a rozhoduje o
 
 **Volitelný** (rozdíl od nadace) — vydá SR, pokud to zakladatel určí nebo je to účelné. Uveřejnění uložením do **sbírky listin**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Správní rada ústavu vydá statut, jímž podrobně upraví vnitřní organizaci a podmínky poskytování služeb, avšak statut neuloží do sbírky listin a odmítne do něj umožnit nahlížení s tím, že jde o „interní dokument". Zájemce o službu i potenciální dárce se domáhají seznámení s podmínkami. Důkazy: zakladatelské jednání (zda vydání statutu uložilo či zda je účelné), text statutu, doklad o (ne)uložení do sbírky listin, žádost o nahlédnutí.
@@ -2995,6 +3555,8 @@ Statut ústavu je na rozdíl od nadace fakultativní a vydává jej správní ra
 > Neurčí-li zakládací listina, že členům orgánů ústavu náleží za výkon funkce odměna a způsob jejího určení, platí, že řediteli náleží odměna obvyklá a má se za to, že funkce členů ostatních orgánů jsou čestné. V takovém případě určí výši odměny ředitele nebo způsob jejího určení správní rada.
 
 **Default**: ředitel obdrží **odměnu obvyklou** (určí SR); funkce ostatních orgánů jsou **čestné**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -3045,6 +3607,8 @@ Neurčí-li zakládací listina jinak, náleží řediteli odměna obvyklá (sta
 **Oddělené účtování** o nákladech a výnosech: hlavní činnost / vedlejší činnost / správa.
 
 **Povinný audit** při čistém obratu **> 10 mil. Kč** (nebo když to zakladatelské jednání stanoví).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -3097,6 +3661,8 @@ Neurčí-li zakládací listina jinak, náleží řediteli odměna obvyklá (sta
 
 Obsahuje: údaje o činnosti, **plnění poskytnutá členům orgánů**, změny v zakladatelském jednání / orgánech. Uveřejnění do **6 měsíců** od konce účetního období.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ústav zpracuje výroční zprávu pouze v rozsahu účetních náležitostí, vynechá údaje o plněních poskytnutých členům orgánů (zejména odměnu ředitele) a o proběhlých změnách v obsazení správní rady; zprávu navíc uloží do sbírky listin až 9 měsíců po skončení účetního období. Dárce a člen dozorčí rady namítají neúplnost a opožděnost. Důkazy: text výroční zprávy, doklady o plněních orgánům, zápisy o změnách v orgánech, datum uložení zprávy do sbírky listin.
@@ -3138,6 +3704,8 @@ Výroční zpráva ústavu musí nad rámec účetních náležitostí obsahovat
 > Nenaplňuje-li ústav dlouhodobě svůj účel, zruší jej soud na návrh osoby, která osvědčí právní zájem.
 
 Nenaplňování účelu dlouhodobě → soud zruší na návrh osoby s právním zájmem.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 
@@ -3191,6 +3759,8 @@ V ostatním se **přiměřeně použijí ustanovení o nadaci**, vyjma:
 - Nadační kapitál.
 
 Tj. pro fúzi/přeměnu/likvidaci ústavu platí pravidla § 376—393 přiměřeně.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 395 až 411“ (dnešní § 402—418) — viz § 402.
 
 **Judikatura (z místních zdrojů):**
 

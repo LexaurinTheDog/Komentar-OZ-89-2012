@@ -51,6 +51,27 @@ Hlava III pokrývá:
 - Při uzavření smlouvy: pokud zástupce klamavě tvrdí, klam se přičítá zastoupenému;
 - Příprava obchodu prostřednictvím zástupce s informačním převodem na zastoupeného.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 429 až 432 návrhu — dnešní § 436—439):**
+
+> Tato ustanovení mají generální význam pro obecnou úpravu zastoupení
+> osob, soustředěnou do Hlavy III Části první. Zásadně se přitom vychází z
+> dosavadní úpravy v § 22 až 24 nynějšího občanského zákoníku.
+>
+> V ustanovení § 429 se navrhuje stanovit, jaký je obsah zastoupení a z
+> jakých právních důvodů zastoupení vzniká. V ustanovení § 430 se navrhuje
+> stanovit, kdo je způsobilý být zástupcem, a jaké právní následky má
+> skutečnost, že zástupce není k zastoupení způsobilý; tyto právní
+> následky se navrhuje stanovit nepřímo, ochranou dobré víry třetí osoby.
+>
+> Ustanovení § 431 obsahuje obdobnou úpravu, jakou má § 24 stávajícího
+> občanského zákoníku. Rozdílně od platné úpravy se navrhuje stanovit, že
+> zástupce si substituta může ustavit, nejen bylo-li to zvlášť ujednáno,
+> ale také v případě, že to vyžaduje nutná potřeba. Zároveň se navrhuje
+> stanovit, že v těchto případech zástupce odpovídá za řádný výběr
+> substituta. Osnova přirozeně nebrání ujednání zakazujícímu zástupci
+> pověřit dalšího zástupce: to si strany mohou ujednat, protože jim to
+> není zakázáno.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1811/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D1B0042D7807B5C4C1258C150052AF8E?openDocument) — *Přípustnost dovolání Nabytí vlastnického práva od neoprávněného*
@@ -143,6 +164,8 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 - § 199 ZOK — zákaz konkurence statutárních orgánů;
 - § 21 odst. 4 OSŘ — vyloučení zástupce pro konflikt zájmů.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 429 až 432“ (dnešní § 436—439) — viz § 436.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 452/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-452-26_1) — usnesení, 5. 3. 2026
@@ -219,6 +242,8 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 - Manažer s plnou mocí pověří kolegu — jen pokud má od vedení svolení;
 - Zákonný zástupce nemůže substituovat své rodičovství (§ 858 — povinnost osobní péče).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 429 až 432“ (dnešní § 436—439) — viz § 436.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 1* [63 C 14/2023-66](https://rozhodnuti.justice.cz/rozhodnuti/?id=4876fed9-807a-44ff-b2e8-fd12ba34cf9d) — *odbory, nemajetková újma, zadostiučinění / satisfakce, podjatost, poučovací povinnost so…*
@@ -274,6 +299,8 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 - **Modifikace**: v plné moci lze určit společné jednání („3 zástupci, vždy 2 společně").
 
 Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda všichni zástupci souhlasí. Případné porušení vnitřní dohody mezi zástupci řeší zastoupený a zástupci interně.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 429 až 432“ (dnešní § 436—439) — viz § 436.
 
 **Judikatura (z místních zdrojů):**
 
@@ -344,6 +371,27 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 **Rozdíl od § 431** (zastoupení podnikatele): u podnikatele je překročení **default zavazující**; u obecného zastoupení je překročení **default nezavazující** (nutná ratifikace). Specifická úprava § 431 chrání obchodní styk s podnikatelem.
 
 **Vazba na § 446** (smluvní zastoupení): pokud zmocnitel s překročením **nesouhlasí**, musí to oznámit třetí osobě bez zbytečného odkladu; jinak platí, že schválil (silnější ochrana třetí osoby u smluvního zastoupení).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 433 návrhu — dnešní § 440):**
+
+> Navrhuje se zobecnit dosavadní úpravu excesu z plné moci tak, že
+> překročení zástupčího oprávnění každým zástupcem, lhostejno z jakého
+> právního důvodu vzniklo, může zavázat zastoupeného, jen pokud to
+> schválí. Totéž má obdobně platit i v případech, kdy někdo jedná za
+> jiného bez zástupčího oprávnění. Samozřejmě, je-li zastoupeným
+> nesvéprávná osoba, nebude schvalovat jednání nepravého zástupce sama
+> (ledaže mezitím svéprávnosti nabude) ale její zákonný zástupce nebo
+> opatrovník, popřípadě soud - v těch případech, kdy schválení zákonným
+> zástupcem nebo opatrovníkem podle zvláštních ustanovení nestačí.
+> Podstatný význam má ustanovení druhého odstavce; odstraňuje se jím
+> pochybnost, zda je právní jednání s další osobou v těchto případech
+> platné či neplatné a koho zavazuje. Návrh zde, ostatně jako i v jiných
+> případech, dává přednost platnosti právního jednání a činí tak v zájmu
+> toho, kdo jednal v dobré víře. Dosah zvláštních ustanovení upravujících
+> speciální případy, se ovšem tímto obecným ustanovením neruší; tak např.
+> není navrženou obecnou úpravou zpochybněno právo manžela dovolat se
+> neplatnosti těch právních jednání druhého manžela, jimiž ten proti
+> zákonnému zákazu nakládá se společným jměním.
 
 **Judikatura (z místních zdrojů):**
 
@@ -434,6 +482,17 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - Plnou moc k zastupování v sporu před soudem postačí **písemně bez úředního ověření** (§ 28 OSŘ);
 - **Generální plná moc** ("ke všem věcem") musí být písemná.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 434 až 442 návrhu — dnešní § 441—449):**
+
+> Partie osnovy, věnovaná úpravě zastoupení, upravuje ve své druhé části
+> (Díl 2 Hlavy III) smluvní zastoupení, označované v platném zákoníku
+> nesprávně jako „zastoupení na základě plné moci". Nesprávnost spočívá v
+> tom, že právní důvod vzniku tohoto zastoupení představuje smlouva o
+> zastoupení, nikoli plná moc. Plná moc má funkci jen jako potvrzení
+> zastoupeného o tom, že zastoupení bylo ujednáno a vzniklo. Jinak návrh
+> vychází z právní úpravy dosavadní (§ 31 až 33b stávajícího občanského
+> zákoníku), pouze s drobnými věcnými jazykovými a systematickými změnami.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3158/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6EE46DFCF6E3EED4C125818A002609DC?openDocument) — *Přípustnost dovolání Cizinci Plná moc*
@@ -500,6 +559,8 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - **Zástupčí vztahy s vlivem na třetí osoby** (např. plná moc pro správce nemovitosti s pravomocí vybírat nájemné) — strany mohou ujednat, že lze odvolat jen pro porušení povinností;
 - **Generální plné moci pro životní situace** (typicky před cestou do zahraničí) — typicky neodvolatelnost smluvně neujednána, lze odvolat kdykoli.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 2013/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2013-14_1) — usnesení, 3. 7. 2014
@@ -551,6 +612,8 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - **Nebo osoba určená SO** (typicky pověřený zaměstnanec).
 
 Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon provádí jednatel nebo jím určený advokát/koncipient.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
 
 **Judikatura (z místních zdrojů):**
 
@@ -623,6 +686,8 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 - Zmocnitel musí **aktivně informovat** o zániku plné moci své obchodní partnery;
 - Z toho plyne důležitost **písemného odvolání** plné moci s doručením relevantním osobám.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1846/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/859A3F6EC45E52A5C1258C140052AF87?openDocument) — *Přípustnost dovolání Zastoupení*
@@ -672,6 +737,8 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 **Výklad:**
 
 **Ochrana dobré víry třetí osoby** ohledně způsobilosti zástupce. Pokud zástupce sám není způsobilý jednat (např. nezletilý plně svéprávný, omezený ve svéprávnosti), **třetí osoba v dobré víře** je chráněna.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
 
 **Judikatura (z místních zdrojů):**
 
@@ -732,6 +799,8 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 
 **Praktický význam**: aktivní povinnost zmocnitele reagovat na zjištění překročení. Promlčení reakce → vázanost překračujícím jednáním.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1011/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2307D4198A71655EC1258B28004D420B?openDocument) — *Výpověď z pracovního poměru Zastoupení*
@@ -786,6 +855,8 @@ Příklad: advokátní kancelář (s.r.o.) zmocněná klientem → výkon prová
 Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a třetí osoba **musela o nich vědět** (např. plná moc jí byla předložena), překročení pokynů = překročení oprávnění.
 
 **Praktický význam**: ujednání pokynů přímo v plné moci jim dává **vnější účinky** vůči třetím osobám (na rozdíl od pokynů jen ve smlouvě o zmocnění, které mají jen vnitřní účinky).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
 
 **Judikatura (z místních zdrojů):**
 
@@ -849,6 +920,8 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 
 **§ 448 odst. 2 — Zdánlivá platnost do vědomosti zmocněnce**: dokud zmocněnec **neví o odvolání**, jeho jednání **je platné**. Třetí osoba **se ho však nemůže dovolat**, pokud o odvolání věděla/musela vědět.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1977/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F9D1F352D527B8AFC1258C8F004D374B?openDocument) — *Smluvní zastoupení (o. z.) Plná moc Odvolání*
@@ -901,6 +974,8 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 **§ 449 odst. 1 — Povinnost dokončit neodkladné** — i po zániku plné moci musí zmocněnec dokončit neodkladná jednání pro ochranu zájmů zmocnitele / jeho nástupce. Toto je analogické *negotiorum gestio* (§ 3006).
 
 **§ 449 odst. 2 — Vydání věcí**: dokumenty, peníze, věci od zmocnitele a vše získané se musí vydat. Při smrti zmocněnce má tuto povinnost každý, kdo věci drží (dědicové, spolubydlící).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 434 až 442“ (dnešní § 441—449) — viz § 441.
 
 **Judikatura (z místních zdrojů):**
 
@@ -980,6 +1055,80 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 - Učinit změnu zakladatelského jednání;
 - Bez výslovného oprávnění zcizit/zatížit nemovitost.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 443 až 449 návrhu — dnešní § 450—456):**
+
+> Ustanovení o prokuře jsou do návrhu zařazena jako zvláštní ustanovení o
+> plné moci. V návrhu se vychází z úpravy v § 14 platného obchodního
+> zákoníku s některými dílčími změnami. Zařazení úpravy prokury do
+> občanského zákoníku sleduje logiku přímé návaznosti prokury jako
+> zvláštního smluvního zastoupení na úpravu obecnou, což usnadňuje výklad
+> příslušných ustanovení. Rovněž se bere v úvahu, že jsou do návrhu
+> zařazena i základní ustanovení o podnikatelích.
+>
+> Zachovává se standardní právní pravidlo, že prokuru může udělit jen
+> podnikatel zapsaný v obchodním rejstříku a že prokurista může jménem
+> podnikatele právně jednat ve všech záležitostech, k nimž při provozu
+> obchodního závodu běžně dochází, vyjma zcizování nebo zatěžování
+> nemovitých věcí; k takovým právním jednáním se vyžaduje zvláštní
+> zmocnění. Nově se však zavádí prakticky významný institut prokury pro
+> pobočku, který je v jiných právních úpravách běžný a který existoval i
+> ve zdejším právu až do r. 1964. Má-li tedy podnikatel obchodní závod s
+> jednou nebo více pobočkami nebo má-li více obchodních závodů, bude moci
+> udělit prokuru i jen pro určitou pobočku nebo pro určitý závod.
+>
+> Shodně se současnou úpravou v § 14 obchodního zákoníku se ani v návrhu
+> nezdůrazňuje výslovně požadavek písemné formy pro udělení prokury. Tento
+> požadavek vyplývá již z obecného ustanovení o plných mocích, podle
+> kterého je písemné formy pro plnou moc zapotřebí i v případech, kdy se
+> zmocnění netýká jen určitého právního jednání nebo kdy se týká takových
+> právních jednání, pro něž se vyžaduje písemná forma. I pro vznik prokury
+> se vyžaduje, obdobně jako u jiných smluvních zastoupení, především
+> uzavření zmocňovací smlouvy; pro ni se ani zde zvláštní forma
+> nevyžaduje. Dostatečný je předpis písemné formy pro plnou moc, a tedy i
+> pro prokuru.
+>
+> U prokuristy se vyžaduje osobní výkon funkce. Zákonný požadavek, aby
+> prokurista vykonával svou funkci s péčí řádného hospodáře, odráží význam
+> právního i faktického postavení prokuristy v podniku. Jde však o
+> pravidlo dotýkající se výlučně vzájemných oprávnění a povinností
+> podnikatele a prokuristy, tudíž je dispozitivní. Navržená úprava tedy
+> nevylučuje, aby si strany ujednaly něco jiného. Při výkonu zástupčích
+> práv založených udělením prokury jde o vztah důvěry podnikatele k
+> prokuristovi. Proto se navrhuje stanovit, že prokurista není oprávněn
+> přenést prokuru na jiného ani udělit další prokuru.
+>
+> Návrh nespojuje účinnost udělení prokury s jejím zápisem do obchodního
+> rejstříku. I to je standardní řešení, které uchoval ještě občanský
+> zákoník z r. 1950 (§ 73 a 74). Současná úprava v obchodním zákoníku
+> převzala úpravu prokury z někdejšího zákoníku mezinárodního obchodu
+> (zák. č. 101/1963 Sb., § 87), deformovanou administrativními přístupy k
+> institucím soukromého práva. Podle návrhu se tedy prokura stává účinnou
+> již udělením. Tím se nemíní zasahovat do právního pravidla, podle něhož
+> musí být prokura zapsána do obchodního rejstříku s účinky publicity.
+> Dokud nebude prokura do obchodního rejstříku zapsána, je dobrá víra
+> třetích osob dostatečně chráněna ustanovením § 437.
+>
+> Zachovává se právní pravidlo, podle něhož způsobilost být prokuristou
+> nemají právnické osoby. Návrh volí řešení ve formě výslovného zákazu -
+> shodně s koncepcí § 1 - nikoli ve formě zákonného dovolení udělit
+> prokuru fyzické osobě. Případ, kdy je prokura udělena více osobám, se v
+> návrhu řeší stejným způsobem jako v § 14 odst. 4 obchodního zákoníku.
+> Totéž platí i o právním pravidlu o omezení prokury vnitřními pokyny (§
+> 14 odst. 3 platného obchodního zákoníku).
+>
+> Ustanovení o podepisování prokuristy má instruktivní povahu, porušení
+> pravidla nemůže vést ke zmaření zastoupení nebo k neplatnosti právního
+> jednání, plyne-li již z okolností, že je právně jednáno v zastoupení (§
+> 163).
+>
+> O zániku prokury se navrhuje stanovit jen doplňující ustanovení k obecné
+> úpravě zániku smluvního zastoupení. Navrhuje se stanovit, že prokura
+> zaniká i v případě převodu nebo pachtu závodu nebo pobočky, pro které
+> byla prokura udělena. Pokud jde o případ smrti podnikatele, zachovává se
+> dosavadní právní pravidlo, že prokura trvá i po smrti podnikatele. Že
+> lze v těchto případech ujednat něco jiného, se výslovně nezdůrazňuje,
+> neboť to plyne již z § 1 návrhu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1092/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3677EBD5DD671A36C1258933001DDB54?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Prokura*
@@ -1029,6 +1178,8 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 **Výklad:**
 
 **Kogentní zákaz substituce** prokury. Prokura je **osobně vázaná** — podnikatel ji udělil **konkrétní osobě**, není přenosná. Toto je rozdíl od běžné plné moci, kde lze substituci ujednat (§ 438).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1088,6 +1239,8 @@ Pokud jsou **pokyny obsaženy v plné moci** (např. limit ceny, podmínky), a t
 - **Default**: každý jedná **samostatně**;
 - **Modifikace**: lze ujednat **kolektivní jednání** (typicky pro velké korporace — „2 prokuristé společně").
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 227/2023-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=65af8b6b-f8a1-40c2-91b2-64f1d30c154c) — 21. 2. 2024
@@ -1140,6 +1293,8 @@ Rozdíl od § 447 (smluvní zmocnění s pokyny v plné moci): u prokury **vnit�
 
 **Důsledek**: pokud prokurista poruší vnitřní pokyny, podnikatel je **vázán vůči třetí osobě** a může jen interně žalovat prokuristu za škodu (§ 159 obdobně).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Praze* [20 CO 267/2022-974](https://rozhodnuti.justice.cz/rozhodnuti/?id=1a9e123f-ef44-4970-812a-49ca18c189fc) — *nebytový prostor, osoba blízká, péče řádného hospodáře, peněžité plnění, podnájem, ručen…*
@@ -1189,6 +1344,8 @@ Rozdíl od § 447 (smluvní zmocnění s pokyny v plné moci): u prokury **vnit�
 **Výklad:**
 
 Stejný **standard péče** jako u členů voleného orgánu PO (§ 159 odst. 1). Prokurista odpovídá za škodu při porušení této péče. Z toho vyplývá doporučení **D&O pojištění** i pro prokuristy.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1246,6 +1403,8 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 
 Účel: třetí osoba **rozezná, že nejedná statutární orgán**, ale prokurista, a může si ověřit jeho zápis v OR.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Brně* [63 C 147/2019-54](https://rozhodnuti.justice.cz/rozhodnuti/?id=22362108-7ecf-462c-8edc-0f545a3fef1b) — *peněžité plnění, smlouva o dílo*
@@ -1301,6 +1460,8 @@ Příklad: „ABC Trading, s.r.o. / Jan Novák, ppa." nebo „XY, a.s. — pobo�
 - Prokura umožňuje **kontinuitu** provozu firmy po smrti podnikatele;
 - Po smrti FO-podnikatele prokurista pokračuje v jednání jménem **dědiců** (přechod práv a povinností § 1475 a násl.);
 - Dědicové mohou prokuru samozřejmě odvolat.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 443 až 449“ (dnešní § 450—456) — viz § 450.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1374,6 +1535,47 @@ Prokura zaniká automaticky převodem či pachtem závodu nebo pobočky, pro ně
 
 Pro tato jednání není možné použít plnou moc ani zákonné zastoupení — vždy osobní výkon (s ohledem na podstatu rodinného a dědického práva).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 450 až 457 návrhu — dnešní § 457—464):**
+
+> Rozdíl mezi zákonným zastoupením a opatrovnictvím je v právním důvodu
+> vzniku obou těchto forem zastoupení. Prvé vzniká přímo ze zákona, druhé
+> na základě rozhodnutí soudu. Z té příčiny osnova důsledně rozlišuje mezi
+> obojím a neslučuje zákonné zastoupení a opatrovnictví pod jednotné
+> označení „zákonné zastoupení", jak je tomu dosud, neboť tím se jasnost
+> řeči zákona rozmělňuje.
+>
+> Základním společným znakem obou uvedených způsobů zastoupení je
+> skutečnost, že zákonného zástupce i opatrovníka může mít osoba
+> nesvéprávná. (Některá další ustanovení speciální povahy tuto zásadu v
+> případě opatrovnictví prolamují.) Společným znakem je však také to, že
+> taková zastoupení vznikají k ochraně nesvéprávného a v jeho zájmu, na
+> což se zvláště dbá u člověka. Logickým důsledkem této konstrukce je
+> akceptace tradičního řešení při kolizi zájmů zákonného zástupce či
+> opatrovníka se zájmy zastoupeného, popř. při kolizi zájmů několika osob,
+> které mají společného zákonného zástupce nebo opatrovníka.
+>
+> Z těchto důvodů se navrhuje stanovit základní právní aspekty pro obě
+> uvedené formy zastoupení společně. Speciální úprava zákonného zastoupení
+> a opatrovnictví (poručnictví) nezletilých se svěřuje druhé části
+> zákoníku o právu rodinném, přičemž i tato úprava ovšem vychází co do
+> základů z této obecné úpravy.
+>
+> Zákonný zástupce i opatrovník nemá vůči zastoupenému právo na odměnu.
+> Výjimku se navrhuje nově stanovit pro případ, že při tomto zastoupení
+> náleží zákonnému zástupci nebo opatrovníkovi odměna za správu jmění;
+> není-li speciální úprava, stanoví výši takové odměny na návrh zástupce
+> soud.
+>
+> Správa jmění je odlišná od správy cizího majetku podle části třetí.
+> Proto se v ustanoveních o zákonném zastoupení a opatrovnictví používá
+> výrazu „běžná správa" (jmění), nikoli „prostá správa" nebo „plná správa"
+> (majetku). Účelem správy jmění zastoupeného nebo opatrovance je vždy
+> dbát o rozmnožení majetku zastoupeného nebo opatrovance, ale zákonný
+> zástupce i opatrovník mohou jak v péči o zachování majetku opatrovance,
+> tak i v péči o jeho rozmnožení činit jen úkony běžné povahy; v neběžných
+> případech si musí vždy vyžádat souhlas soudu. Tím se tato úprava pojetím
+> liší od úpravy správy cizího majetku.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2007/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9D5D75C0FE912FE0C1258BB3004D3AF2?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Právní jednání (o. z.) Závěť*
@@ -1433,6 +1635,8 @@ Zákonné zastoupení a opatrovnictví slouží výlučně zájmu zastoupeného 
 
 Pravidlo se vztahuje **i na umístění v zařízení** (nemocnice, domov důchodců, dětský domov) — dignita člověka.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Českém Krumlově* [9 C 145/2024-95](https://rozhodnuti.justice.cz/rozhodnuti/?id=810357f5-6113-4cfe-8944-d0a1ffdf4286) — *daň z nemovitosti, osobní služebnost, služebnost, věcná břemena, parazitování, nájem poz…*
@@ -1485,6 +1689,8 @@ Věc zvláštní obliby je chráněna i proti zákonnému zástupci a musí zůs
 - **Manželé s nezletilým** ve sporu mezi sebou (dítě potřebuje samostatné zastoupení).
 
 Procesní úprava: § 469 a násl. ZŘS (řízení o ustanovení kolizního opatrovníka).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1555,6 +1761,14 @@ Jakmile se zájmy zástupce a zastoupeného (nebo dvou zastoupených týmž zás
 
 **§ 464 — Jediný opatrovník vs. více opatrovníků**: jeden opatrovník pro osobu; více pro správu jmění + osobu možné, ale **výlučné zastoupení před soudem** má opatrovník osoby. Default jednání více opatrovníků: **společně**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 450 až 457“ (dnešní § 457—464) — viz § 457.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2069/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ECAEA3C5061115DFC1258D410052BBB1?openDocument) — *Opatrovník hmotně právní [ Opatrovník ]*
@@ -1621,6 +1835,36 @@ Opatrovník vykonává sám jen běžnou správu jmění; vše ostatní potřebu
 5. **Veřejný zájem** — speciální případy (např. opatrovník nezletilého v trestním řízení podle TŘ).
 
 **Pojistná povinnost** (odst. 2) — soud může uložit povinnost pojistit se pro případ škody. Toto je důležité u rozsáhlých majetků.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 458 až 464 návrhu — dnešní § 465—471):**
+
+> Opatrovníka nutno ustavit osobě, jejíž svéprávnost je omezena.
+> Opatrovník musí být též ustaven člověku vůbec neznámému, anebo sice
+> známému, ale neznámého pobytu, je-li to potřeba k ochraně jeho zájmů.
+> Mohou existovat i další důvody zakládající příčinu k soudnímu ustavení
+> opatrovníka. Sem spadá nejen nezbytnost ochrany zájmů opatrovance, ale i
+> ochrana zájmů reprezentujících veřejný pořádek (např. opustí-li vlastník
+> závodu závod, aniž ustaví svého zástupce, je tu důvod k ustavení
+> opatrovníka v zájmu zajištění řádného provozu závodu, mj. a hlavně v
+> zájmu zaměstnanců).
+>
+> Ustanovení § 462 upravuje možnost ustanovit člověku opatrovníka bez
+> toho, že by došlo k omezení svéprávnosti a představuje tak další
+> alternativu k omezení svéprávnosti. Toto opatření bude vhodné zejména
+> v těch případech, kdy není obava, že aktivním právním jednáním vznikne
+> dotčené osobě újma, ale kdy by újma mohla vzniknout v důsledku toho, že
+> osoba by sama určité úkony neučinila (např. žádost o sociální dávky).
+> Nezbytná pomoc bude v tomto případě poskytnuta jmenovaným opatrovníkem,
+> který nebude moci jednat samostatně, ale jenom společně s opatrovancem,
+> případně v souladu s jeho vůlí. Pokud vůli opatrovance nebude možno
+> zjistit, soud rozhodne na místo opatrovníka. Pokud bude vůle opatrovance
+> a opatrovníka v rozporu, opatrovník musí respektovat vůli opatrovance.
+>
+> Protože se připouští ustavit opatrovníka svéprávné osobě v určitých
+> případech i bez zřetele k tomu, zda v tom směru projevila nějakou vůli,
+> navrhuje se určit, že svéprávnému nelze opatrovníka ustavit, pokud sám
+> ohledně svého jmění zvolil jiné efektivní opatření. „Osobou" v prvé větě
+> § 464 odst. 2 se rozumí jak fyzická, tak právnická osoba.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1695,6 +1939,10 @@ Opatrovníka člověku jmenuje soud, kdykoli to vyžaduje ochrana jeho zájmů n
 - Pokud nemožné → **postupovat podle zájmů**;
 - Způsob života má **odpovídat schopnostem** a **představám** opatrovance.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3140/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71FB0B5CFFE710C6C1258DA10052AE8F?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Nepřípustnost dovolání*
@@ -1743,6 +1991,8 @@ Opatrovník musí udržovat skutečný a pravidelný kontakt, vysvětlovat opatr
 #### § 468 — Kontinuita po smrti / odvolání opatrovníka
 
 > Smrtí opatrovníka nebo jeho odvoláním opatrovnictví nezaniká a dokud soud nejmenuje opatrovanci nového opatrovníka, přechází na veřejného opatrovníka podle jiného zákona.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1798,6 +2048,8 @@ Smrt či odvolání opatrovníka opatrovnictví neukončí — výkon ze zákona
 
 Tento institut je analogií k smlouvě o nápomoci (§ 45) ale s **rozšířenými pravomocemi opatrovníka** (může jednat samostatně).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 2601/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2601-13_1) — usnesení, 23. 1. 2014
@@ -1846,6 +2098,8 @@ Tento institut je analogií k smlouvě o nápomoci (§ 45) ale s **rozšířený
 > Opatří-li si někdo správce svého jmění sám, nelze mu jmenovat opatrovníka pro správu jmění. To neplatí, není-li správce jmění znám, odmítne-li jednat v zájmu zastoupeného nebo zanedbává-li tuto povinnost, anebo nemůže-li jmění spravovat.
 
 Pokud si někdo opatří **správce jmění** sám (typicky plnou mocí), nelze mu jmenovat opatrovníka pro správu — ledaže správce není znám / odmítá / zanedbává / nemůže jednat.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1902,6 +2156,8 @@ Opatřil-li si člověk správce svého jmění sám (typicky plnou mocí) a spr
 2. **Příbuzný / blízká osoba** s dlouhodobým zájmem;
 3. **Jiná způsobilá osoba**;
 4. **Veřejný opatrovník** — **obec** (kde má opatrovanec bydliště) nebo PO zřízená touto obcí; **bez nutnosti souhlasu** (nucené opatrovnictví).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 458 až 464“ (dnešní § 465—471) — viz § 465.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1981,6 +2237,67 @@ Soud jmenuje opatrovníka teprve po zhlédnutí a vyslechnutí opatrovance a vyc
 
 **§ 475 — Zápis** o volbě + protesty + doručení opatrovníkovi a soudu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 465 až 478 návrhu — dnešní § 472—485):**
+
+> I při opatrovnictví člověka musí být plně šetřeny jeho osobnost,
+> důstojnost a zájmy. Opatrovníkem má být předně ustavena osoba
+> opatrovanci blízká; není-li to možné, sleduje osnova i náhradní řešení,
+> protože člověk nemůže v situaci, kdy potřebuje pomoc tohoto rázu, zůstat
+> bez pomoci a ochrany.
+>
+> Zkušenost učí, že je nebezpečné svěřit osudy člověka výlučně jiné osobě.
+> Proto se po vzoru některých právních řádů kontinentální oblasti (srov.
+> např. čl. 407 a násl. CC, čl. 222 a násl. CCQ aj.) zavádí jako
+> kolektivní a ve vztahu k opatrovníkovi konzultativní orgán a kontrolní
+> orgán o třech členech - opatrovnická rada - složený z osob opatrovanci
+> blízkých. Tato rada může být zřízena, jen je-li tu o opatrovance zájem
+> ze strany osob, kteří ji mohou tvořit. Není-li takový zájem, náleží
+> rozhodovat v záležitostech, o nichž by se jinak opatrovnická rada
+> usnášela, soudu. Opatrovnické radě náleží dozor nad činností opatrovníka
+> a zaujetí stanovisek k některým důležitým opatřením opatrovníka stran
+> opatrovance. Rozhodnutí opatrovnické rady mohou být soudem zrušena,
+> neboť navržená úprava nepopírá nijak základní funkci opatrovníka při
+> péči o záležitosti opatrovance, ani dohlédací úlohu soudu nad tím, jak
+> jsou tyto záležitosti vedeny.
+>
+> Navrhuje se působnost opatrovnické rady vymezit ve třech směrech.
+> Především nebude možné, aby bez jejího souhlasu opatrovník rozhodl o
+> podstatných změnách zasahujících významně život opatrovance. Dále. nemá
+> být možné, aby opatrovník bez přivolení opatrovnické rady podstatněji
+> zasáhl do opatrovancových majetkových záležitostí. Tato působnost rady
+> však může být zúžena rozhodnutím soudu, v jehož pravomoci bude vyhradit
+> si ke schválení i některé záležitosti z tohoto okruhu, budou-li to
+> vyžadovat konkrétní okolnosti jednotlivého případu. Konečně, jak už
+> řečeno, opatrovnická rada také pravidelně dohlíží na činnost opatrovníka
+> a může se domáhat i jeho soudního odvolání.
+>
+> Základní odpovědnost za opatrovance ovšem náleží opatrovníkovi, a proto
+> jej zákon nemůže situovat do pozice rukojmího opatrovnické rady. Krom
+> toho nelze bez dalšího spoléhat, že za všech okolností a ve všech
+> případech budou opatrovancovi příbuzní a jiní lidé mu podle zákona
+> blízcí, kteří přijali členství v opatrovnické radě, zaujímat svá
+> stanoviska nezištně a jen s trvalým ohledem na skutečné opatrovancovy
+> zájmy. Z těchto důvodů se opatrovníkovi - a za podmínky stanovené v §
+> 468 také členu opatrovnické rady - svěřuje oprávnění domoci se soudního
+> vyslovení neplatnosti usnesení rady. Pokud soud takovému návrhu vyhoví,
+> rozhodne sám v záležitosti, o niž se jedná.
+>
+> Tím, že osnova v návrhu úpravy opatrovnictví člověka v některých
+> neběžných záležitostech (odchylkou od obecné úpravy) přesouvá pravomoc
+> rozhodnout o určitých záležitostech opatrovance na opatrovnickou radu,
+> sníží zatížení soudů v rozhodování o těchto záležitostech. Osnova však
+> ve zcela zásadních otázkách zamýšlí rozhodovací působnost soudu ponechat
+> i nadále; soud krom toho může sám v rozhodnutí o ustavení opatrovníka
+> svoji působnost v tom směru dále rozšířit.
+>
+> Ustanovení § 478 ukládá opatrovníku, jemuž soud svěřil správu jmění
+> opatrovance, provést soupis jmění a předkládat pravidelně vyúčtování.
+> Při zániku opatrovnictví musí být provedena o správě jeho jmění konečná
+> zpráva. Pamatováno je i na případ, že opatrovnictví zanikne
+> opatrovníkovou smrtí; pak se navrhuje normovat povinnost vydat
+> opatrovnickému soudu listiny a doklady týkající se opatrovance; tato
+> povinnost má stíhat každého, kdo má tyto dokumenty u sebe.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS ve Svitavách* [7 C 138/2021-234](https://rozhodnuti.justice.cz/rozhodnuti/?id=b536e547-4f6f-41d4-bd01-8176f2637763) — *duševní porucha, omezení svéprávnosti, peněžité plnění, pozůstalost, smlouva nájemní, sm…*
@@ -2039,6 +2356,10 @@ Ustavení opatrovnické rady iniciuje opatrovanec nebo osoba blízká; opatrovn�
 **§ 476**: soud může prohlásit volbu za **neplatnou** při porušení zákona s rizikem újmy opatrovance.
 
 **§ 477**: členství **na dobu neurčitou**; odstoupení (písemné, doručené opatrovníkovi a soudu); odvolání soudem při závažném/opakovaném porušení / ztrátě zájmu / konfliktu zájmů.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2105,6 +2426,10 @@ Soud může prohlásit volbu opatrovnické rady za neplatnou, hrozí-li z poruš
 - Vyjádření k **soupisu jmění** a **vyúčtování** správy;
 - Vyjádření k **odměně** opatrovníka;
 - Návrh soudu na **zrušení opatrovnictví** nebo **odvolání opatrovníka**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2186,6 +2511,8 @@ Opatrovnická rada zasedá nejméně jednou ročně, projednává zprávu opatro
 - b) **> 1/3 majetku opatrovance**;
 - c) Půjčky/úvěry/jistoty výše uvedené.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3557/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1043F67C8914E98CC12589A000191C08?openDocument) — *Opatrovník Opatrovnická rada (o. z.) Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
@@ -2234,6 +2561,8 @@ Bez souhlasu opatrovnické rady nesmí opatrovník rozhodnout o změně bydlišt
 
 Člen OR (který nehlasoval pro), opatrovník nebo opatrovanec — **15 dnů** na návrh soudu zrušit a nahradit. **Pozastavení účinnosti** do rozhodnutí soudu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
 ##### F. Kazuistika
 
 **1. Modelová situace.** Pětičlenná opatrovnická rada opatrovance pana Kováře hlasovala (3:2) pro souhlas s prodejem opatrovancovy chaty, ačkoli opatrovanec si chatu výslovně přál zachovat. Pan Soukup, člen rady, který hlasoval proti, i sám opatrovanec považují rozhodnutí za odporující zájmu a vůli opatrovance. Chtějí, aby rozhodnutí rady nenabylo účinků a aby je přezkoumal soud. Opatrovník mezitím spěchá s podpisem kupní smlouvy. Důkazy: zápis ze zasedání rady s výsledkem hlasování, doklad o vůli opatrovance zachovat chatu, datum přijetí rozhodnutí rady, návrh ke soudu.
@@ -2279,6 +2608,8 @@ Rozhodnutí opatrovnické rady může do patnácti dnů napadnout u soudu člen,
 Pokud OR nelze zřídit:
 - Soud může pověřit **jednu z osob** výkonem agendy OR;
 - Nebo jednání opatrovníka **schvaluje soud**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2367,6 +2698,8 @@ Nelze-li opatrovnickou radu ustavit pro nezájem dostatečného počtu osob, mů
 
 **§ 483 odst. 4**: soud si vyžádá stanovisko OR; pokud OR nereaguje v přiměřené lhůtě, rozhodne sám.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Ostravě* [57 Co 107/2025-83](https://rozhodnuti.justice.cz/rozhodnuti/?id=1f586790-2df3-44a3-b53b-17f532e21651) — 26. 8. 2025
@@ -2423,6 +2756,8 @@ Specializované neziskové organizace pro péči o osoby se zdravotním postiže
 - **Být členem OR** (při splnění podmínek);
 - **Účastnit se zasedání**;
 - **Navrhnout soudní přezkum rozhodnutí OR**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2481,6 +2816,8 @@ Specializovaná nezisková organizace pečující o osoby se zdravotním postiž
 - **Mimořádné vyúčtování** na návrh opatrovance / OR;
 - **Konečné vyúčtování** při skončení funkce.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 465 až 478“ (dnešní § 472—485) — viz § 472.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 779/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-779-14_1) — usnesení, 26. 8. 2014
@@ -2538,6 +2875,20 @@ Soud jmenuje opatrovníka PO, která to potřebuje pro **správu záležitostí*
 - Konflikt zájmů člena SO se zájmy PO;
 - PO bez SO po jeho odvolání / odstoupení.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 479 až 481 návrhu — dnešní § 486—488):**
+
+> Navrhuje se výslovně upravit také opatrovnictví právnické osoby. Důvod
+> této úpravy není jen v nejasnostech plynoucích ze současné úpravy, zda
+> právnické osobě vůbec lze opatrovníka jmenovat (ač to leckdy nevyžaduje
+> jen zájem této osoby, ale často také veřejný zájem). Pro navržené řešení
+> mluví především praktické důvody. Poukázat je třeba i na to, že osnova v
+> některých zvláštních ustanoveních, např. v § 167, s ustavením
+> opatrovníka právnické osobě přímo počítá.
+>
+> Podobně jako se má umožnit člověku projevit předem přání, kdo se má stát
+> v budoucnu případně jeho opatrovníkem, navrhuje se umožnit totéž i
+> právnické osobě.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1190/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D69EFFA348058F1DC12589FD002D331F?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Opatrovník kolizní [ Opatrovník ] Opatrovník (op…*
@@ -2587,6 +2938,8 @@ Soud jmenuje opatrovníka PO jen tehdy, PO to potřebuje (správa záležitostí
 
 **Obdobně jako u členů SO** (§ 159 — péče řádného hospodáře, ručení atd.). Soud uloží **obnovit činnost SO** s odbornou péčí; vymezí působnost s ohledem na další orgány PO.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 479 až 481“ (dnešní § 486—488) — viz § 486.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3039/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F34B6DB1CCCF7FAC125897E001D9DA7?openDocument) — *Opatrovník hmotně právní [ Opatrovník ] Opatrovník kolizní [ Opatrovník ] Právní moc roz…*
@@ -2635,6 +2988,8 @@ Opatrovník PO má práva a povinnosti obdobně jako člen statutárního orgán
 > Určuje-li zakladatelské právní jednání, že má být právnické osobě jako opatrovník jmenována určitá osoba, soud takovou osobu opatrovníkem jmenuje, pokud je k tomu způsobilá a souhlasí se jmenováním.
 
 Pokud **zakladatelské jednání** určuje konkrétní osobu jako opatrovníka, soud takovou osobu **jmenuje** (pokud je způsobilá a souhlasí). Toto je analogie k předběžnému prohlášení (§ 38) pro PO.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 479 až 481“ (dnešní § 486—488) — viz § 486.
 
 **Judikatura (z místních zdrojů):**
 

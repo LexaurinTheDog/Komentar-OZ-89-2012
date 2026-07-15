@@ -52,6 +52,47 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 | **Dohled** | Žádný (jen § 871 — zbavení) | **Stálý dohled soudu** (§ 933) |
 | **Ukončení** | Zletilostí dítěte / zbavením | Zletilostí / smrtí / odvoláním |
 
+**Důvodová zpráva (sněmovní tisk 362, k § 923 návrhu — dnešní § 928):**
+
+> Poručenství je pojato jako institut zásadní náhradní péče, a to zejména
+> v rovině právní ochrany dítěte, jehož rodiče nejsou, totiž fakticky či
+> právně neexistují (protože zemřeli či nejsou známi) nebo kteří pro svou
+> právní nezpůsobilost (ať obecně či ve vztahu k dítěti, ať dlouhodobě či
+> přechodně) nejsou schopni dítěti poskytnout náležitou a úplnou ochranu
+> jeho práv a zájmů. (Jen poručník stojí na místě rodiče, naproti tomu
+> osvojitel se rodičem sám stává. Poručenství je ovšem stejně jako
+> osvojení institutem prvořadě statusovým.)
+>
+> Poručník ale není osobou, která by mohla vůči dítěti působit bez dozoru
+> státu (totiž tak, jak je to obvyklé u rodičů). V tomto ohledu není
+> rozhodné, kdo konkrétně je poručníkem jmenován, totiž zda osoba fyzická,
+> anebo orgán veřejné moci.
+>
+> Poručník vykonává zásadně všechny povinnosti a všechna práva jako
+> rodiče. I pro něj tedy platí, že zásadně spravuje jmění dítěte. To ale
+> neplatí bezvýjimečně, okruh povinností a práv poručníka může soud
+> v konkrétním případě vymezit jinak a kupř. pro správu jmění poručence
+> ustavit opatrovníka. Tak tomu může být tehdy, bude-li poručníkem
+> ustavena fyzická osoba, protože od ní se bude očekávat spíš osobní péče
+> o dítě, popř. jeho obecné zastupování, méně pak schopnost či možnost
+> pečovat o majetek (viz § 936). Naproti tomu orgán sociálně-právní
+> ochrany dětí ustavený rozhodnutím soudu do funkce poručníka by
+> pravidelně neměl být „doplňován" opatrovníkem pro správu jmění
+> poručence, prostě proto, že u něj se osobní péče o osobu poručence
+> nepředpokládá, a naopak se předpokládá, že je schopen -- bez ohledu na
+> to, jak se v konkrétném případě zařídí (např. dohodou o zastoupení) --
+> pečovat o majetek poručence. Takový poručník by prostě měl být schopen
+> pokrýt všechny právní záležitosti dítěte, jak pokud jde o jeho právní
+> jednání obecně, tak pokud jde o jednání majetková (srov. § 929). Že tomu
+> ovšem nejednou může být jinak, vyplývá z naprosto odlišného
+> profesionálního zaměření pracovníků sociálně-právní ochrany dětí.
+>
+> Povinnost stanovená v ust. § 891 odst. 1 věta druhá, týkající se
+> hotových peněz, má samozřejmě místo i zde.
+>
+> Ustanovení o opatrovnické radě (§ 465 an.) jsou obecná a subsidiárně
+> použitelná.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Oba rodiče sedmiletého chlapce zahynuli při dopravní nehodě. Chlapec dosud bydlel s rodiči; nejbližší příbuznou je teta z matčiny strany. Otec zanechal značný majetek (byt, podíl v s. r. o., spořicí účty). Účastníci: zemřelí rodiče (nositelé rodičovské odpovědnosti), nezletilý poručenec, teta (kandidátka na poručníka), OSPOD. Důkazy: úmrtní listy obou rodičů, rodný list dítěte prokazující příbuzenský vztah k tetě, případná závěť či předběžné prohlášení rodičů s naznačením poručníka, zpráva OSPOD o poměrech tety.
@@ -95,6 +136,40 @@ Poručenství nastupuje při absenci rodiče s plnou rodičovskou odpovědností
 **Výklad:**
 
 **Veřejný poručník** = OSPOD (orgán sociálně-právní ochrany dětí — typicky obec s rozšířenou působností, zákon č. 359/1999 Sb.). **Funguje automaticky** v mezidobí mezi vznikem situace a jmenováním soudem. Bez tohoto institutu by dítě bylo bez zákonného zástupce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 924 a 925 návrhu — dnešní § 929—930):**
+
+> Nastane-li situace uvedená v ust. § 923 odst. 1, stává se tím orgán
+> sociálně-právní ochrany dětí poručníkem. Jeho jednání je upraveno právem
+> a má charakter právního jednání. Nejde jen o jakéhosi předběžného
+> poručníka s omezenými právy a povinnostmi.
+>
+> Je povinností soudu jednat ihned, jakmile jakýmkoli věrohodným způsobem
+> zjistí (totiž přesněji, najisto postaví), že je tu dítě, které postrádá
+> odpovídající individuální právní ochranu, tedy dítě, kterému je třeba
+> ustavit poručníka -- leda by se našlo jiné řešení.
+>
+> Hrozící nebezpečí z prodlení je řešeno institutem „veřejného poručníka".
+> Fungování veřejného poručníka však nikterak nezbavuje soud povinnosti
+> neprodleně začít hledat fyzickou osobu, která by odpovídala všem
+> požadavkům na osobu poručníka kladeným (zejména i blízká dítěti a soudu
+> známá) a zároveň byla ochotná se této funkce ujmout, to jest osoba,
+> která souhlasí s tím, že ji soud do funkce poručníka ustaví.
+>
+> Teprve v případě, že soud takovou osobu nenajde, je jeho povinností
+> pečovat o dítě tak, že mu ustaví -- jako poručníka „osobního" (a
+> contrario veřejného) - orgán sociálně-právní ochrany dětí, a popřípadě
+> bude dál hledat, třeba s pomocí orgánu sociálně-právní ochrany dětí,
+> vhodnou fyzickou osobu. Je samozřejmé, že obdobná pravidla platí ve
+> všech případech, kdy poručník -- fyzická osoba -- ztratí svou schopnost
+> být poručníkem, čili ztratí-li schopnost funkci poručníka vykonávat.
+>
+> Je tedy nutné rozlišovat trojího poručníka: 1/ toho, kdo je orgánem
+> veřejné moci a do funkce poručníka vstupuje ze zákona, nastane-li
+> situace potřebnosti v zákoně výslovně uvedená, 2/ poručníka osobního,
+> kdy funkci vykonává fyzická osoba, člověk, ustavený do funkce soudem, a
+> 3/ poručníka osobního, kdy funkci vykonává orgán veřejné moci (orgán
+> sociálně-právní ochrany dětí).
 
 #### F. Kazuistika
 
@@ -158,6 +233,45 @@ Veřejné poručenství OSPOD je překlenovací institut zajišťující, že d�
 
 **§ 931 odst. 2 — Možnost odmítnutí**: jmenovaná FO může jmenování odmítnout → soud jmenuje jinou.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 924 a 925“ (dnešní § 929—930) — viz § 929.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 926 návrhu — dnešní § 931):**
+
+> Lze předpokládat, že rozumně uvažující rodiče v situaci, kdy si jsou
+> vědomi ohrožení svého bytí, popř. své způsobilosti nést rodičovské
+> povinnosti a práva (nejspíš si lze představit situaci vědomí o nebezpečí
+> smrti, ale nic zásadně nebrání tomu, aby tak učinil bez ohledu na
+> konkrétní situaci každý rodič, resp. rodiče), budou jednat rozumně, že
+> tedy budou sami uvažovat o tom, kdo by na jejich místě mohl o dítě -
+> především právně -- pečovat způsobem, který by dítě co nejlépe zajistil.
+> Cesty takového zajištění jsou samozřejmě rozmanité, zpravidla bývají
+> víceméně faktické, a jejich vyjádření navenek mívá také jen faktickou
+> podobu. Nic ale nebrání tomu, aby případné naznačení poručníka se stalo
+> v notářském zápisu, v poslední vůli (byť závěť nikterak není k takovému
+> účelu určena), popřípadě i v jiné veřejné či soukromé listině,
+> eventuálně bylo i pouze vysloveno vůči případnému poručníkovi, obvykle
+> před svědky. U takto zvolené osoby nelze ovšem vyloučit ani to, že
+> objektivně vzato nejde o osobu vhodnou vykonávat funkci poručníka, ani
+> to, že dotyčná osoba slíbí v určité situaci něco, o čem ví, že to
+> v budoucnu nesplní, že tedy vyslovuje „milosrdnou" lež. Proto (a jistě i
+> z případných jiných důvodů) nelze vyloučit, že osoba rodičem naznačená
+> nebude soudem jmenována do funkce poručníka.
+>
+> V takovém případě soudu nezbude, než hledat jinou vhodnou osobu. A tu se
+> dává soudu pokyn, mezi kterými osobami má hledat. Zásadně se však má za
+> to, že osoba s dítětem blízce příbuzná by měla mít a pociťovat morální
+> povinnost poručenství převzít, takže důvody, pro které by mohla
+> odmítnout, by měly být skutečně vážné.
+>
+> Nenalezne-li soud vhodnou osobu v tomto okruhu, má se pokusit najít
+> jinou vhodnou fyzickou osobu. A teprve pokud žádnou vhodnou fyzickou
+> osobu nenajde, jmenuje poručníkem trvale orgán sociálně-právní ochrany
+> dětí (§ 925).
+>
+> Takto se na dosavadním pojetí poručenství nic nemění.
+>
+> Soudem vybraná fyzická osoba může zajisté tuto volbu soudu odmítnout.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Otec dvou nezletilých dětí (matka zemřela dříve) v předběžném prohlášení (§ 38 a násl.) výslovně naznačil, že poručníkem má být jeho přítel a kmotr dětí, a zároveň výslovně vyloučil svou sestru, s níž byl v dlouholetém konfliktu. Po otcově smrti se sestra domáhá jmenování poručníkem s tím, že je pokrevní příbuzná. Účastníci: zemřelí rodiče, dvě nezletilé děti, kmotr (naznačený rodičem), sestra (vyloučená příbuzná), OSPOD. Důkazy: předběžné prohlášení / závěť otce, doklady o příbuzenství, zpráva OSPOD o vhodnosti kmotra i sestry.
@@ -209,6 +323,16 @@ Výběr poručníka probíhá neprodleně a podle závazné kaskády § 931, vž
 - **Soulad se zájmem dítěte**.
 
 **Dva poručníci**: typicky **manželé** (paralelně k rodičovskému párovému výkonu).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 927 návrhu — dnešní § 932):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený. Důraz je
+> výrazněji položen na zájem dítěte.
+>
+> I když je tradičně (a ve většině států Evropy) funkce poručníka důsledně
+> singularizována, navrhujeme pokračovat v přístupu, který zavedla novela
+> zákona o rodině z r. 1998, tj. že dítěti lze ustanovit i dva poručníky,
+> kterými sice zpravidla budou, ale nemusí jimi být výhradně, manželé.
 
 #### F. Kazuistika
 
@@ -271,6 +395,35 @@ Poručníkem může být jen plně svéprávná osoba, jejíž způsob života z
 - **Roční zprávy** soudu o dítěti + jmění (může být kratší období).
 
 **Tvrdší režim než u rodiče**: u rodiče bez souhlasu soudu **relativní neplatnost s testem újmy** (§ 898 odst. 4); u poručníka **zdánlivé jednání** (§ 934 odst. 1).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 928 návrhu — dnešní § 933):**
+
+> Kromě toho, co bylo již v dosavadní právní úpravě, obsahuje zdejší
+> ustanovení rovněž výslovně upravení ujetí se funkce poručníka (tzv.
+> veřejný poručník podle ust. § 924 se funkce neujímá, do funkce vstupuje
+> ze zákona a jeho subjektivní aktivita je irelevantní), a dále pak i
+> povinnost předložit v devadesátidenní lhůtě soudu soupis jmění
+> poručence. Zde uvedené povinnosti se týkají i orgánu sociálně-právní
+> ochrany dětí, který byl soudem do funkce poručníka ustaven. (I tady
+> platí povinnost stanovená v ust. § 891 odst. 1 věta druhá, týkající se
+> hotových peněz.)
+>
+> Skutečnost, že obdobné ustanovení může obsahovat procesní předpis, nelze
+> považovat za chybu: v péči o osoby dosud plně nesvéprávné platí spíš
+> *superfluum non nocet*.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 929 návrhu — dnešní § 934):**
+
+> Výslovné ustanovení o nutnosti soudního svolení k jakémukoli významnému
+> rozhodnutí poručníka je nezbytné zejména ve vztahu k rodičům, resp.
+> k právní úpravě jejich postavení vůči dítěti (viz ust. § 891 an.).
+> Svolení soudu je koncipováno jako součást právního jednání, takže
+> případně není třeba zkoumat jeho platnost.
+>
+> Povinnosti poručníka vůči soudu vycházející z jeho poručenské funkce
+> jsou samozřejmě širší než v případě jiného ochránce právních zájmů
+> dítěte: zájem soudu se proto týká nejen správy jmění, ale i osoby
+> poručence. Pokud jde o účty ze správy, právní úprava se zásadně nemění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -341,6 +494,24 @@ Poručník podléhá stálému dohledu soudu, předkládá soupis jmění do 90 
 **§ 937 — Odvolání**:
 - (1) **Povinné** — při porušení povinností;
 - (2) **Volitelné** — při nevhodnosti pro výkon.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 930 až 932 návrhu — dnešní § 935—937):**
+
+> Vede se zásadní dělicí čára mezi zánikem poručenství, totiž v případě,
+> kdy dítě již ochranu zvenčí (ochranu, kterou mu je stát jako ochránce
+> potřebných povinen poskytnout) nepotřebuje, a zánikem poručenské funkce,
+> to jest pověření určité osoby, bez ohledu na to, jaká osoba poručenskou
+> funkci vykonává.
+>
+> Poručenství zaniká vždy, není-li již ochrana osoby poručence potřebná, a
+> to jednak z důvodů na jeho straně (přičemž smrt poručence není zvlášť
+> zmiňována), jednak z důvodů na straně třetích osob (rodičů, osvojitelů).
+>
+> Poručenská funkce zaniká třemi různými způsoby, resp. zaniká právě podle
+> toho, co je příčinou, že konkrétní osoba již nadále nebude poručenskou
+> funkci vykonávat: zaniká smrtí poručníka, zproštěním funkce, které má
+> místo v případě, kdy nejde o sankci, a konečně odvoláním, které se
+> uplatní právě v případě, kdy je sankce na místě.
 
 **Judikatura (z místních zdrojů):**
 
@@ -413,6 +584,42 @@ Poručenství zaniká nabytím rodičovské odpovědnosti rodičem, svéprávnos
 
 **§ 942 — Subsidiární aplikace**: pokud není opatrovník pro správu jmění → ustanovení o opatrovníkovi pro správu jmění platí obdobně i pro poručníka pečujícího o jmění.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 933 návrhu — dnešní § 938):**
+
+> Postoupení všeho, co měl poručník z důvodu výkonu poručenské funkce u
+> sebe a předložení závěrečné zprávy a závěrečného účtu ze správy jmění
+> dítěte soudu lze považovat za nezbytnou součást ukončení výkonu
+> poručenské funkce za života poručníka. Je jistě vhodnější, aby povinnost
+> byla poručníkovi uložena vůči soudu, než vůči poručenci, protože ne ve
+> všech případech končí zároveň poručenství, a i tam, kde končí, by to měl
+> být ještě soud, kdo se o splnění povinností bývalým poručníkem postará.
+>
+> V případě smrti poručníka scházelo dosud ustanovení, které by zakládalo
+> povinnost jeho dědice, popř. toho, kdo má k věcem zemřelého přístup,
+> vydat všechno, co se týká poručence, výkonu poručenské funkce atd.
+> (obdobně je vázán opatrovník pro správu jmění, popř. i každý jiný
+> opatrovník a jeho dědic, popř. osoba, která má k věcem zemřelého
+> přístup.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 934 návrhu — dnešní § 939):**
+
+> Ustanovení zohledňuje případy, které mohou nastat (a bylo by vhodné,
+> kdyby nastávaly pravidelně tam, kde o dítě nemohou pečovat jeho rodiče),
+> že poručník je osobou naplňující nejen požadavky stran právní ochrany
+> dítěte, ale i stran jeho ochrany vůbec, a faktické a fyzické péče o
+> dítě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 935 návrhu — dnešní § 940):**
+
+> Ustanovení zohledňuje situace, na které dříve mířilo ustanovení o
+> spoluporučenství manželů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 936 a 937 návrhu — dnešní § 941—942):**
+
+> Viz též ust. § 875, resp. důvodovou zprávu k němu. Toto řešení se zdá
+> být v moderní době nezbytné, i když je to v zásadním rozporu s tím, proč
+> vůbec v minulosti poručenství jako právní institut vzniklo a existovalo.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Poručník (děd) osobně pečující o vnuka zemře po pěti letech výkonu funkce. U sebe měl spisy o jmění dítěte, vkladní knížku poručence a cenné papíry. Dítě mezitím zdědilo rozsáhlý a rozmanitý majetkový soubor (zemědělské pozemky, podíly ve fondech), jehož správa je značně obtížná. Dědicem děda je jeho dcera. Účastníci: nezletilý poručenec, zemřelý poručník-děd, jeho dědička (dcera), nový poručník, soud. Důkazy: úmrtní list poručníka, soupis jmění dítěte, evidence majetkových hodnot v držení zemřelého.
@@ -471,6 +678,22 @@ Po skončení funkce (i smrtí) je nutné do 6 měsíců předat soudu vše z ti
 3. **Jiný zájem dítěte** nebo **zákonné stanovení** (např. v trestním řízení proti dítěti, v řízení o osvojení).
 
 **Aktivní legitimace opatrovníka**: má **vlastní právo navrhovat zahájení řízení**, je-li to v zájmu dítěte.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 938 návrhu — dnešní § 943):**
+
+> Institut tzv. kolizního opatrovnictví, popř. opatrovnictví ad hoc, je
+> koncipován zásadně stejně jako dosud. V případě ohrožení majetkových
+> zájmů dítěte bude jmenován opatrovník pro správu jmění. Opatrovník bude
+> jmenován také tehdy, stanoví-li tak zákon (např. ve věci osvojení).
+>
+> Pokud je opatrovník jmenován soudem proto, že je to z nějakého jiného
+> důvodu nutné (písm. b), je třeba mu dát zvláštní právo jednat: nemusí
+> být totiž jasné a bylo by třeba i obtížné na první pohled zjistit, zda
+> právně jedná jako zástupce dítěte nebo vlastním jménem.
+>
+> Zajisté nic nebrání tomu, aby v jedné právní záležitosti dítěte
+> vystupovalo více opatrovníků (totiž např. jak opatrovník pro správu
+> jmění, tak opatrovník tzv. kolizní).
 
 **Judikatura (z místních zdrojů):**
 
@@ -545,6 +768,39 @@ Opatrovník dítěti se jmenuje při hrozícím střetu zájmů, při nedostate�
 
 **§ 947 — Zánik funkce**: při odpadnutí potřeby (kromě opatrovníka jmenovaného **jen k určitému jednání**).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 939 návrhu — dnešní § 944):**
+
+> Tato koncepce je běžným důsledkem standardního pojetí instituce
+> opatrovníka, jehož funkce -- stejně jako funkce poručníka -- je zaměřena
+> především do oblasti právních aspektů. Výjimky z pravidla obsahují další
+> ustanovení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 940 návrhu — dnešní § 945):**
+
+> Toto ustanovení má představovat vodítko pro soud; vychází koneckonců
+> z toho, co je obvyklé či pravidelné. Právo na odměnu bude zde jistě
+> výjimkou, a to na rozdíl od práva na náhradu nákladů. Zejména pro ni by
+> soud měl určit, jaký je, resp. může být její rozsah (náklady obvyklé,
+> užitečné, účelné, potřebné, nutné apod.), a kdo je k ní povinen. Pokud
+> soud takové rozhodnutí neučiní, nezbude opatrovníkovi využít
+> v konkrétním případě ustanovení o bezdůvodném obohacení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 941 návrhu — dnešní § 946):**
+
+> Vzhledem ke specifickému postavení kolizního opatrovníka je naprosto
+> nezbytné, aby jednal za dítě se znalostí věci, okolností, názorů,
+> stanovisek atd., jinak řečeno tento opatrovník nemá jen obecně při svém
+> jednání brát zřetel na zájem dítěte, ale je povinen nejprve zjistit, co
+> ve skutečnosti zájmem dítěte je, jak nejlépe by bylo možné zájem dítěte
+> naplnit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 942 návrhu — dnešní § 947):**
+
+> Je třeba zohlednit skutečnost, že opatrovník nebývá, resp. nemusí být
+> ustaven jen k jedinému právnímu jednání. Takto platí, že změní-li se
+> poměry do té míry, že obava, která k ustavení opatrovníka vedla, již
+> netrvá, soud zprostí opatrovníka funkce.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Soud jmenoval nezletilému opatrovníka pro souhlas s konkrétním lékařským zákrokem a pro zastoupení dítěte v navazujícím správním řízení; ve výroku neuvedl dobu výkonu, rozsah práv ani to, zda opatrovník potřebuje k některému jednání souhlas soudu. Opatrovník chce před udělením souhlasu se zákrokem znát postoj rodiče i dítěte. Účastníci: nezletilý, opatrovník, rodič (jehož zájmy v dané věci nehájí dostatečně), zdravotnické zařízení, soud. Důkazy: rozhodnutí o jmenování opatrovníka, lékařská dokumentace, stanoviska rodiče a dítěte.
@@ -590,6 +846,20 @@ Na opatrovnictví dítěte se přiměřeně použijí pravidla o poručenství; 
 **Výklad:**
 
 **Diferencovaný rozsah správy** — opatrovník nespravuje **celé** jmění dítěte, jen **vymezený rozsah**. Příklad: dítě zdědí nemovitost v zahraničí → opatrovník pro správu této nemovitosti (zatímco ostatní jmění spravují rodiče).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 943 návrhu — dnešní § 948):**
+
+> Opatrovník může být jmenován kupř. jen pro správu jedné součásti
+> majetku, resp. jmění (obytného domu) nebo určitého zvláštního druhu
+> několika součástí majetku, resp. jmění (zemědělsky obhospodařované
+> nemovité věci, usedlosti s polnostmi, lesy, rybníky apod.). Soud zejména
+> stanoví, jak má opatrovník vykonávat jednotlivá majetková práva, zejména
+> pak práva věcná, podmínky, za kterých může zavazovat a zatěžovat věci,
+> jak budou vykonávána práva z duševního vlastnictví apod. Zvláštní
+> pozornost zaslouží práva k cenným papírům, resp. cenné papíry, a rovněž
+> pak finanční prostředky, jak hotové, tak na účtech, a v podobě
+> podílových listů, obligací atd. atd. O hotových penězích platí
+> ustanovení § 891 odst. 1 věta druhá.
 
 #### F. Kazuistika
 
@@ -660,6 +930,60 @@ Opatrovník pro správu jmění spravuje jen soudem vymezený rozsah jmění dí
 
 **§ 952 — Zánik**: obdobně § 938 (předání věcí v 6 měsících).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 944 návrhu — dnešní § 949):**
+
+> Výraz „péče řádného hospodáře" je dostatečně vysvětlen na jiném místě.
+> Nicméně to, co se uvádí, byť i to je do jisté míry redundantní, je
+> uvedeno proto, aby ten, kdo opatrovnictví na sebe bere, si mohl dobře
+> uvědomit, jakým způsobem se bude muset vůči jmění dítěte chovat, ale
+> také proto, aby bylo možné objektivně posoudit, zda opatrovník skutečně
+> postupuje tak, jak by jako takový postupovat měl.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 945 návrhu — dnešní § 950):**
+
+> Postavení opatrovníka pro správu jmění je obdobou postavení rodiče
+> spravujícího jmění dítěte, ale také poručníka. Soud nicméně, má-li to za
+> potřebné, určí okruh jednání, která vyžadují schválení soudem výslovně.
+>
+> V souvislosti se správou jmění dítěte by vždy měla být zvažována
+> součinnost s bezpečnou bankou (srov. u § 891).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 946 návrhu — dnešní § 951):**
+
+> Opatrovníkovi pro správu jmění dítěte je zřejmě třeba přiznat širší míru
+> možnosti jednat ve prospěch jmění dítěte: je proto na místě počítat
+> s náklady potřebnými, nikoli pouze nutnými. Zatímco ale stačí-li
+> k jejich pokrytí výnos, může si odpočítávat opatrovník sám, v případě,
+> že výnos nestačí, je třeba, aby se opatrovník obrátil na soud, který
+> může rozhodnout -- v závislosti na potřebnosti vynaložených nákladů -- o
+> zasažení majetku (majetkové podstaty), ledaže soud shledá, že je celou
+> záležitost třeba řešit jinak, např. zcizením dotyčné věci apod.
+>
+> Jinak je tomu v případě odměny opatrovníka. Opatrovník pro správu jmění
+> dítěte nebude jistě ustavován tam, kde nejde o jmění na jedné straně
+> složité, na straně druhé také nesoucí výnos. Lze rovněž říct, že je
+> pravidlem, že velké (a tedy složité) jmění nese zisk. Není-li tomu tak,
+> měl by soud vést opatrovníka k jednání, kterým by se dítě takového
+> jmění, popř. jeho součástí, které stav jmění negativně ovlivňují,
+> zbavilo (viz výše). Proto opatrovníkovi bude vždy možné přiznat odměnu
+> z výnosu jmění dítěte, a to obdobně jako rodiči i v době výkonu správy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 947 návrhu — dnešní § 952):**
+
+> Postavení opatrovníka pro správu jmění je obdobou postavení poručníka.
+> Proto i zde postačí odkázat na právní úpravu týkající se poručníka.
+>
+> Také v případě zániku tohoto opatrovnictví zaniká opatrovnická funkce
+> konkrétní osoby. Obě situace se proto - pokud jde o povinnosti
+> opatrovníka - posoudí stejně. Kromě předložení závěrečné zprávy a
+> závěrečného účtu je opatrovník pro správu jmění povinen předat, popř.
+> převést všechno, co měl z důvodu výkonu své funkce nebo v souvislosti
+> s výkonem této funkce u sebe.
+>
+> Otázka zvláštních povinností dědice, popřípadě dalších osob, které mají
+> přístup k věcem zemřelého opatrovníka pro správu jmění, se řeší
+> výslovně, neboť povinnosti lze uložit jen cestou zákona.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Opatrovník pro správu jmění dítěte investoval výnos z pronájmu zděděné nemovitosti do rizikových derivátů, čímž část prostředků ztratil; potřebné náklady na opravu střechy si odečetl z výnosu a vyplatil si odměnu, aniž ji soud schválil. Soudu předkládá zprávu jednou za dva roky. Účastníci: nezletilý vlastník, opatrovník pro správu jmění, soud vykonávající dohled. Důkazy: účty ze správy jmění, doklady o investicích a nákladech, rozhodnutí o jmenování a o případném schválení úkonů.
@@ -716,6 +1040,41 @@ Opatrovník pro správu jmění postupuje s péčí řádného hospodáře bez n
 **Hierarchie přednosti**:
 - **Před ústavní výchovou** (klíčový princip subsidiarity);
 - **Není náhradou** pěstounské péče (ta je více formalizovaná a financovaná).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 948 návrhu — dnešní § 953):**
+
+> Jedná se o institut náhradní rodinné péče, jehož účelem je zejména výkon
+> osobní péče o dítě člověkem odlišným od rodiče nebo poručníka a od
+> pěstouna, jestliže tato péče nemůže být z objektivních nebo
+> subjektivních důvodů vykonávána rodiči popřípadě poručníkem. Svěření
+> dítěte do péče tak musí být pojmově pojímáno jako subsidiární k péči
+> vlastních rodičů.
+>
+> Lidská zkušenost říká, že pokud rodiče dítěte neumí, nechtějí nebo
+> nemohou o své dítě osobně pečovat, většinou se osobní péče o dítě ujmou
+> nejbližší příbuzní dítěte nebo osoby dítěti blízké. Jelikož se tyto
+> osoby a dítě osobně znají, mají k sobě blízko, zákon -- na rozdíl od
+> pěstounské péče a osvojení -- neupravuje zprostředkování této péče ani
+> obdobu předpěstounské péče. S ohledem na povahu věci, stát tuto péči
+> nefinancuje dávkami.
+>
+> Podobně jako u pěstounské péče se i zde jedná jen o osobní péči o dítě,
+> nikoli o statusovou změnu. Svěření dítěte do péče jiné osoby bude
+> dočasné, zpravidla krátkodobé. Vždy dle potřeb dítěte a situace v jeho
+> přirozené rodině.
+>
+> Svěření dítěte do péče nemůže být zneužíváno. Institut neslouží k tomu,
+> aby jej lidé dítěti cizí využívali jako předstupeň k pěstounské péči
+> nebo k osvojení a obcházeli tak zprostředkování pěstounské péče nebo
+> osvojení státem.
+>
+> Svěření dítěte do péče jiné osoby musí mít přednost před péčí
+> nerodinnou, zajišťovanou v ústavech nebo v jiných zařízeních ústavního
+> typu.
+>
+> Svěření dítěte do péče musí být v souladu s nejlepšími zájmy dítěte. K
+> tomuto cíli musí být respektován názor a přání dítěte tak, jak to
+> vyplývá z Úmluvy o právech dítěte.
 
 **Judikatura (z místních zdrojů):**
 
@@ -791,6 +1150,103 @@ Svěření dítěte do osobní péče pečující osoby je neformální rodinná
 
 **§ 957 — Nepoužitelnost při nemožnosti výživného**: pokud nelze uložit vyživovací povinnost rodičům ani příbuzným → ustanovení § 953—956 **se nepoužijí** (jiná forma péče — typicky pěstounská).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 949 návrhu — dnešní § 954):**
+
+> Pečující osobou se může stát pouze člověk, který skýtá záruky, že bude o
+> dítě řádně pečovat a že jeho péče bude dítěti ku prospěchu. Zájemce o
+> svěření dítěte do péče musí být bezúhonný a morálně způsobilý.
+>
+> Pokud se jedná o nově zaváděný požadavek obvyklého bydliště, je účelem
+> navrženého opatření zabránit zneužívání institutu svěření dítěte do péče
+> a zamezit obchodu s dětmi. Svěření dítěte do péče se s ohledem na častou
+> blízkost dítěte a pečovatele důvodně nezprostředkovává -- ani uvnitř
+> státu, a tím spíše do ciziny, neboť v důsledku rozhodnutí o svěření
+> dítěte do péče nedochází ke statusové změně v postavení dítěte, ale jde
+> jen o výkon osobní péče. Jelikož rodič zůstává právně spojen se svým
+> dítětem, předpokládá se styk dítěte s rodičem a jeho návrat do přirozené
+> rodiny po odpadnutí překážek, nelze připustit, aby byly mezi dítětem a
+> rodičem hranice. Termín obvyklé bydliště je standardně užíván
+> mezinárodními úmluvami a také nařízením 2201/2003 o příslušnosti a
+> uznávání a výkonu rozhodnutí ve věcech manželských a ve věcech
+> rodičovské zodpovědnosti a o zrušení nařízení (ES) č. 1347/2000. Tímto
+> zpřísněním se nová právní úprava sladí s evropskými standardy, na
+> kterých je ochrana práv dítěte budována.
+>
+> Navrhuje se výslovně stanovit, že zájemce musí se svěřením dítěte do své
+> péče souhlasit. Je tomu tak proto, že řízení ve věci péče o nezletilé --
+> mezi které toto řízení náleží - může soud zahájit i bez návrhu.
+>
+> Pokud se dítěte, o které jeho rodiče nemohu, nedokáží nebo nechtějí
+> osobně pečovat, fakticky ujme příbuzný nebo osoba dítěti blízká, musí
+> soud dát této péči přednost před péči osob pro dítě cizích. To je plně
+> v souladu s platným zákonem o sociálně-právní ochraně dětí, který
+> výslovně stanoví, že pokud se dítě ocitne bez péče přiměřené jeho věku,
+> musí mu být zajištěná neodkladná péče, při jejímž zajištění se dá
+> přednost zpravidla příbuznému (srov. § 15 zák. č. 359/1999 Sb., o
+> sociálně-právní ochraně dětí). Nicméně aby nedocházelo jen k pasivnímu
+> potvrzování faktického stavu po delší době, která nemusí být dítěti ku
+> prospěchu, ukládá zákon všem -- tedy i osobám příbuzným a blízkým -
+> oznamovací povinnost ohledně přijetí cizího dítěte do vlastní péče \[§
+> 10a, § 20 odst. 2 písm. b) zákona č. 359/1999 Sb., o sociálně-právní
+> ochraně dětí\]. Případ posoudí soud v s ohledem na nejlepší zájmy
+> dítěte.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 950 návrhu — dnešní § 955):**
+
+> Návrh vychází z pojetí, že je věcí soudu aby zvážil, zda při svěření
+> dítěte do péče pečující osoby rovněž vymezí její povinnosti a práva,
+> jakož i povinnosti a práva rodičů. Neučiní-li -- typicky proto, že to
+> konkrétní okolnosti případu nebudou vyžadovat -- použijí se podpůrně
+> základní ustanovení o pěstounské péči. Nelze přehlížet, že povinnosti a
+> práva pečující osoby, resp. společně pečujících osob a pěstouna k dítěti
+> jsou podobná. Také vznik, zrušení a zánik obou institutů. Samozřejmě i
+> účel je obdobný: je jím zejména výkon osobní péče o dítě po dobu, co
+> rodičům v této činnosti brání nějaká překážka. Nebylo-li rozhodnuto
+> jinak, u obou institutů platí, že rodiče zůstávají zákonnými zástupci
+> svého dítěte, mají právo se s ním stýkat a také právo požadovat své dítě
+> zpět do své péče. Tomu pak odpovídají povinnosti a práva pečující osoby
+> i pěstouna, kterým zákon ukládá především povinnost o dítě osobně
+> pečovat a pouze přiměřeně vykonávat práva a povinnosti rodičů tam, kde
+> to rodičům z povahy věci nepřísluší. Jedná se o tradiční pojetí.
+>
+> S ohledem na povahu pěstounské péče, která je zpravidla
+> zprostředkovávaná a také může být vykonávaná v zařízeních nebo pěstouny,
+> kteří tuto činnost vykonávají jako své povolání, a je pojmově
+> financovaná dávkami pěstounské péče, jsou však nepoužitelná zvláštní
+> ustanovení charakterizující pěstounskou péči co do jejích zvláštních
+> znaků.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 951 návrhu — dnešní § 956):**
+
+> Vyživovací povinnost rodičů k dětem svěřeným do péče jiné osoby
+> nezaniká. Rodiče musí svoji vyživovací povinnost plnit podle svých
+> možností, schopností a majetkových poměrů a ve vazbě na odůvodněné
+> potřeby dítěte. Rozsah vyživovací povinnosti stanoví soud dle obecných
+> ustanovení o vyživovací povinnosti rodičů k dětem. Soud rodičům uloží
+> povinnost poukazovat výživné na dítě pečující osobě.
+>
+> Soud může rozhodnout o způsobu hospodaření s výživným, např. stanovit,
+> že určitá část bude určena ke spotřebě a další část bude dítěti spořena.
+> Vždy bude záležet na potřebách dítěte (např. zvýšené nároky na dietu,
+> zdravotní pomůcky, školné, jazykové kurzy).
+>
+> Navrhuje se nově založit aktivní legitimaci pečující osoby pro vymáhání
+> výživného pro dítě od rodičů. Současná praxe je poměrně nejednotná, což
+> jde k tíži dětí v péči cizích osob.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 952 návrhu — dnešní § 957):**
+
+> Institut svěření dítěte do péče jiné osoby je určen pro děti, které
+> nemohou být vychovávány vlastními rodiči z důvodů, které budou spíše
+> přechodného rázu a dítě může být vychováváno v širší rodině, případně
+> osobou dítěti blízkou. Na rozdíl od pěstounské péče zde nevzniká nárok
+> na dávky pěstounské péče, a proto je třeba dbát na to, aby výživa dítěte
+> byla zajištěna osobami, které mají k dítěti vyživovací povinnost.
+>
+> Jestliže výživné nelze v odpovídající výši stanovit ani rodičům ani
+> prarodičům, tento institut se nepoužije a je namístě svěření dítěte do
+> pěstounské péče.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
@@ -855,6 +1311,38 @@ Pečující osoba musí skýtat záruky řádné péče, mít bydliště v ČR a
 | **Trvalá / dlouhodobá** | Dítě v pěstounské rodině do dospělosti |
 | **Přechodná** | Krátkodobá (max. 1 rok podle zákona č. 359/1999 Sb.) — pro akutní krizi |
 
+**Důvodová zpráva (sněmovní tisk 362, k § 953 návrhu — dnešní § 958):**
+
+> Pěstounská péče je soukromoprávní institut náhradní rodinné péče, jehož
+> účelem je zejména výkon osobní péče o dítě osobou odlišnou od rodiče
+> nebo od poručníka, jestliže tato péče nemůže být z objektivních nebo
+> subjektivních důvodů vykonávána rodiči. Pokud rodiče dítěte neumí,
+> nechtějí nebo nemohou o své dítě osobně pečovat, musí stát zajistit
+> náhradní péči o dítě v prostředí, které rodinu co nejvíce připomíná.
+> Pěstounská péče proto musí být pojímána jako subsidiární k péči
+> vlastních rodičů. Pojmově je tedy pěstounská péče dočasná, ať už je
+> krátkodobá, střednědobá nebo dlouhodobá. Vždy dle potřeb dítěte a
+> situace v jeho přirozené rodině. Toto pojetí plně koresponduje s
+> ustanoveními chránícími přirozenou rodinu dítěte v Listině základních
+> práv a svobod. Naopak, je třeba odhlédnout od úpravy pěstounské péče
+> v již zrušeném zákoně č. 50/1973 Sb., o pěstounské péči, který
+> pěstounskou péči pojímal spíše jako péči dlouhodobou, což je stále v
+> povědomí široké veřejnosti.
+>
+> Účelem pěstounské péče není přijetí cizího dítěte za své tak, jak je
+> tomu v případě osvojení, kdy dochází ke změně statusu dítěte.
+>
+> Pěstounská péče musí mít přednost před péčí nerodinnou, zajišťovanou
+> v ústavech nebo v jiných zařízeních ústavního typu, do kterých je dítě
+> svěřováno nikoli konkrétním osobám do osobní péče.
+>
+> Pěstounská péče musí být v souladu s nejlepšími zájmy dítěte. K tomuto
+> cíli musí směřovat nejen soudní rozhodnutí ve věci, ale i
+> zprostředkování pěstounské péče orgány sociálně-právní ochrany dítěte.
+> Při rozhodování i sledování úspěšnosti pěstounské péče musí být
+> respektován názor a přání dítěte tak, jak to vyplývá z Úmluvy o právech
+> dítěte*.*
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
@@ -913,6 +1401,64 @@ Pěstounská péče je formalizovaná náhradní rodinná péče s předností p
 - (1) **Rodiče zachovávají povinnosti a práva** rodičovské odpovědnosti, **s výjimkou** těch, které zákon přiznává pěstounovi;
 - (2) **Právo pravidelného styku + informací** o dítěti.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 954 návrhu — dnešní § 959):**
+
+> O pěstounské péči přísluší rozhodovat soudu, který může plně zohlednit
+> situaci v přirozené rodině dítěte a jde-li o délku pěstounské péče,
+> rozhodnout tak, aby to bylo v souladu s nejlepšími zájmy dítěte.
+>
+> Soud může pěstounskou péči vymezit na dobu určitou (např. po dobu pobytu
+> rodiče dítěte v léčebně). Nelze opomíjet, že do pěstounské péče bývají
+> svěřovány děti, které své rodiče znají. Soud také může určit, že se dítě
+> svěřuje do pěstounské péče, aniž vymezí její trvání. Pak se bude jednat
+> o pěstounskou péči na dobu neurčitou, s výhradou podstatné změny poměrů.
+> Pěstounská péče tak v konečném důsledku může mít podobu péče
+> dlouhodobější.
+>
+> S ohledem na ústavně právní rámec problematiky se výslovně stanoví právo
+> rodičů požadovat své dítě od pěstounů zpět. Přihlíží se k judikatuře
+> Evropského soudu pro lidská práva ve vazbě na ochranu rodinného života
+> zaručenou čl. 8 Úmluvy o ochraně lidských práv a základních svobod
+> (srov. sděl. č. 209/1992 Sb., a např. rozhodnutí ve věci Kutzner v.
+> Německo).
+>
+> Bude na soudu, aby věc posoudil se zřetelem ke všem okolnostem, zejména
+> s ohledem na to, zda u rodičů pominula překážka původně jim bránící
+> v osobní péči o dítě, zda si uspořádali své osobní, majetkové a sociální
+> poměry tak, aby se mohli ujmout péče o dítě, vytvořit mu harmonický
+> domov apod.
+>
+> Navrhované pojetí je v plném souladu se stanovisky odborníků, kteří
+> zdůrazňují potřebu práce s přirozenou rodinou, potřebu její sanace apod.
+>
+> Druhý odstavec vychází z ústavního rámce rodinného práva, bere zřetel na
+> standardy lidských práv. Jelikož je dítě neoddělitelnou součástí své
+> přirozené rodiny, musí zákon výslovně stanovit, že rodiče mohou své dítě
+> požadovat od pěstounů zpět. Bude na soudu, aby věc posoudil
+> v souvislostech, přihlédl k situaci v přirozené rodině dítěte, snahám o
+> nápravu problémů, které rodiče vedly k nemožnosti o dítě osobně pečovat,
+> k zájmům, potřebám a přáním dítěte apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 955 návrhu — dnešní § 960):**
+
+> Návrh právní úprava klade důraz na zachování přirozených vazeb mezi
+> rodičem a dítěte v pěstounské péči. Jelikož účelem pěstounské péče není
+> vytvořit takový poměr, jaký vzniká osvojením, je výslovně stanoveno, že
+> rodičům zůstávají zachovány rodičovské povinnosti a práva (resp.
+> povinnosti a práva vyplývající zejména z rodičovské odpovědnosti). Aby
+> tyto povinnosti a práva mohli rodiče vykonávat, musí mít právo se
+> s dítětem stýkat a požadovat od pěstounů informace o dítěti. Tomu pak
+> odpovídají povinnosti a práva pěstounů.
+>
+> Z povahy věci vyplývá, že rodiče dítěte především zůstávají zákonnými
+> zástupci svého dítěte, mají právo rozhodovat o podstatných
+> záležitostech, které se dítěte týkají, (např. o volbě povolání,
+> důležitém lékařském zákroku apod.), v těchto záležitostech za dítě
+> právně jednat a také spravovat jeho jmění.
+>
+> Soud může rozhodnout jinak, je-li to ku prospěchu dítěte a v souladu
+> s jeho nejlepšími zájmy, zejména jde-li o příbuzenskou pěstounskou péči.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 24/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DDB89B61B79C582C1258CF4004D0E21?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Pěst…*
@@ -969,6 +1515,26 @@ Pěstounská péče trvá po dobu překážky bránící rodičům; rodič můž
 - **Rozdíl výživné — státní příspěvek** patří dítěti.
 
 **Praktický důsledek**: rodič nemůže přesunout svou povinnost na stát; výživné se vymáhá ve prospěch státu nebo dítěte.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 956 návrhu — dnešní § 961):**
+
+> Vyživovací povinnost rodičů k dětem svěřeným do pěstounské péče
+> nezaniká. Rodiče musí svoji vyživovací povinnost plnit podle svých
+> možností, schopností a majetkových poměrů a ve vazbě na odůvodněné
+> potřeby dítěte. Rozsah vyživovací povinnosti stanoví soud dle obecných
+> ustanovení o vyživovací povinnosti rodičů k dětem. Soud rodičům uloží
+> povinnost poukazovat výživné na dítě orgánu, který vyplácí pěstounovi
+> dávky pěstounské péče. Na tento orgán přechází ze zákona nárok dítěte do
+> výše poskytnutého příspěvku. Pokud by výživné stanovené rodičům na dítě
+> bylo vyšší než zákonem stanovený příspěvek, rozdíl je rodič povinen
+> poukazovat dítěti, resp. k rukám pěstouna.
+>
+> Soud může rozhodnout o způsobu hospodaření s příspěvkem a výživným,
+> např. stanovit, že určitá část bude určena ke spotřebě a další část bude
+> dítěti spořena. Vždy bude záležet na potřebách dítěte -- např. zvýšené
+> požadavky na dietu, zdravotní pomůcky apod., školné, jazykové kurzy.
+>
+> Dávky pěstounské péče upravuje jiný právní předpis.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1050,6 +1616,85 @@ Vyživovací povinnost rodičů svěřením dítěte do pěstounské péče neza
 
 **§ 965 — Souhlas druhého manžela**: i jednotlivému pěstounovi-manželu lze svěřit dítě jen se souhlasem druhého manžela. Výjimka: druhý není svéprávný / souhlas obtížně získat. **Manžel pěstouna se podílí** na osobní péči.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 957 návrhu — dnešní § 962):**
+
+> Pěstounem se může stát pouze člověk, který skýtá záruky, že bude o dítě
+> řádně pečovat a že pěstounská péče bude dítěti ku prospěchu. Zájemce o
+> pěstounskou péči musí být bezúhonný a musí podstoupit odbornou přípravu
+> upravenou zvláštním zákonem.
+>
+> Jde-li o nově zaváděný požadavek obvyklého bydliště, účelem je, aby
+> nedocházelo ke zneužívání institutu pěstounské péče a zamezilo se její
+> komercializaci a obchodu s dětmi. Pěstounská péče se do ciziny důvodně
+> nezprostředkovává, neboť v důsledku rozhodnutí o pěstounské péči
+> nedochází ke statusové změně v postavení dítěte, ale jedná se jen o
+> výkon osobní péče. Jelikož rodič zůstává právně spojen se svým dítětem,
+> předpokládá se styl s rodičem a návrat do přirozené rodiny po odpadnutí
+> překážek, nelze připustit, aby byly mezi dítětem a rodičem hranice.
+> Termín obvyklé bydliště je standardně užíván mezinárodními úmluvami a
+> také nařízením 2201/2003 o příslušnosti a uznávání a výkonu rozhodnutí
+> ve věcech manželských a ve věcech rodičovské zodpovědnosti a o zrušení
+> nařízení (ES) č. 1347/2000. Zpřísněním se nová právní úprava sladí s
+> evropskými standardy, na kterých je ochrana práv dítěte budována.
+>
+> Navrhuje se výslovně stanovit, že zájemce o pěstounskou péči musí se
+> svěřením dítěte do pěstounské péče souhlasit. Je tomu tak proto, že
+> řízení ve věci péče o nezletilé -- mezi které řízení o pěstounské péči
+> náleží - může soud zahájit i bez návrhu.
+>
+> Pokud se dítěte, o které jeho rodiče nemohou, nedokáží nebo nechtějí
+> osobně pečovat, fakticky ujme příbuzný nebo osoba dítěti blízká, musí
+> soud v duchu výše uvedených standardů dát této péči přednost před péči
+> osob pro dítě cizích. Soud věc posoudí s ohledem na nejlepší zájmy
+> dítěte. To je plně v souladu s platným zákonem o sociálně-právní ochraně
+> dětí, který výslovně stanoví, že pokud se dítě ocitne bez péče přiměřené
+> jeho věku, musí mu být zajištěna neodkladná péče, při jejímž zajištění
+> se dá přednost zpravidla příbuznému (srov. § 15 zák. č. 359/1999 Sb., o
+> sociálně-právní ochraně dětí). Z tohoto zákona dále vyplývá, že
+> zprostředkování pěstounské péče se neprovádí, podala-li návrh na svěření
+> dítěte do pěstounské péče osoba dítěti příbuzná nebo osoba blízká dítěti
+> nebo jeho rodině \[srov. § 20 odst. 2 písm. b) zák. č. 359/1999 Sb., o
+> sociálně-právní ochraně dětí\]. Aby nedocházelo jen k pasivnímu
+> potvrzování faktického stavu po delší době, která nemusí být dítěti ku
+> prospěchu, ukládá tento zákon všem -- tedy i osobám příbuzným a blízkým
+> oznamovací povinnost ohledně přijetí cizího dítěte do své péče \[srov. §
+> 10a, § 20 odst. 2 písm. b) citovaného zákona\].
+
+**Důvodová zpráva (sněmovní tisk 362, k § 958 návrhu — dnešní § 963):**
+
+> Jde o obdobu stávající platné právní úpravy. Účelem předpěstounské péče,
+> tzv. péče na zkoušku, je navázání kontaktů mezi zájemcem o pěstounskou
+> péči a dítětem. Nová úprava tuto péči stanoví tradičně jako
+> fakultativní. Nicméně, jde-li o její délku, umožňuje, aby soud odlišoval
+> jednotlivé případy a předpěstounskou péči vymezil dle potřeb dítěte a
+> jeho rodiny. Předpěstounská péče tak může být stanovena na obvyklé tři
+> měsíce nebo i na delší dobu. Svěření dítěte do předpěstounské péče
+> v souvislosti se zprostředkováním pěstounské péče upravuje zvláštní
+> zákon.
+>
+> Navrhuje se výslovně stanovit, že soud má povinnost dohlížet nad
+> průběhem a úspěšností pěstounské, resp. předpěstounské péče. Může tak --
+> i z úřední moci - měnit nebo rušit svá rozhodnutí. Nejde o bezdůvodný
+> zásah do rodinného života pěstounů, ale o důvodnou kontrolu náhradní
+> rodinné péče v zájmu dítěte.
+>
+> Je-li pěstounská péče zprostředkovávána státem, není nutné měnit úpravu
+> zakotvenou zákonem o sociálně-právní ochraně dětí. Předpěstounská péče
+> je v tomto případě koncipována jako obligatorní.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 959 návrhu — dnešní § 964):**
+
+> Jedná se o tradiční úpravu společné pěstounské péče pěstounů, kteří jsou
+> manželi, včetně důsledků jejich rozvodu pro dítě, resp. úmrtí jednoho
+> z nich. Z povahy věci vyplývá, že se společná pěstounská péče neuvažuje
+> v případě osob žijících v nesezdaném soužití, nebo v registrovaném
+> partnerství.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 960 návrhu — dnešní § 965):**
+
+> Ustanovení přejímá z platné právní úpravy vymezení práv a povinnosti
+> manžela pěstouna, pokud jde o vznik pěstounské péče a její obsah.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 592/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-592-15_1) — usnesení, 29. 4. 2015
@@ -1120,6 +1765,43 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 
 **§ 968 — Podíl dítěte**: dítě **pomáhá v domácnosti** podle možností; má-li příjem, přispívá.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 961 návrhu — dnešní § 966):**
+
+> Ustanovení vymezuje povinnosti a práva pěstouna ve vazbě na práva a
+> povinnosti rodičů dítěte svěřeného do pěstounské péče. Je respektováno,
+> že svěřením dítěte do pěstounské péče nedochází ke statusové změně a že
+> rodič zásadně zůstává nositelem rodičovských práv a povinností (alt.
+> povinností a práv vyplývajících z rodičovské zodpovědnosti). Proto se
+> ukládá pěstounovi především o dítě osobně pečovat a pouze přiměřeně
+> vykonávat práva a povinnosti rodičů tam, kde to rodičům z povahy věci
+> nepřísluší. Jedná se o tradiční pojetí. Nicméně, soud může poměry
+> upravit i jinak, tak, aby to odpovídalo nejlepšímu zájmu dítěte.
+>
+> Jelikož dítě může být svěřeno také do předpěstounské péče, navrhuje se
+> výslovně stanovit jaké povinnosti a jaká práva mají zájemci o
+> pěstounskou péči.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 962 návrhu — dnešní § 967):**
+
+> Vychází se z důrazného odlišování pěstounské péče od osvojení. Jelikož
+> svěřením dítěte do pěstounské péče nedochází ke změně statusu a dítě
+> mnohdy své rodiče zná, je třeba, aby mělo reálnou možnost se se svými
+> rodiči a dalšími příbuznými (např. zletilým sourozencem) stýkat, pokud
+> je to v jeho zájmu. Je-li však soudem styk s rodiči omezen nebo zakázán,
+> z povahy věci vyplývá, že pěstoun nemá povinnost styk umožňovat. Také je
+> třeba, aby mělo dítě skutečnou možnost získat pravdivé informace o své
+> rodině a mohlo tak prohlubovat svůj pocit sounáležitosti se svými
+> příbuznými.
+>
+> Odborníci důvodně varují před syndromem zavrženého rodu. Také poukazují
+> na potřebu práce s přirozenou rodinou, na nutnost její sanace.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 963 návrhu — dnešní § 968):**
+
+> Jedná se o tradiční ustanovení, která má výchovný charakter. Je obdobou
+> ustanovení, které tyto povinnosti ukládá vlastním dětem osob osobně
+> pečujících o cizí děti.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 24/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4DDB89B61B79C582C1258CF4004D0E21?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Rodičovská odpovědnost (o. z.) Pěst…*
@@ -1175,6 +1857,34 @@ Pěstoun osobně pečuje a rozhoduje samostatně jen o běžných záležitostec
 **§ 970 — Zánik péče**:
 - **Plná svéprávnost** dítěte (max.);
 - **Zletilost** (default 18 let).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 964 návrhu — dnešní § 969):**
+
+> Účelem je řešit krizi v náhradní rodině, dokud je řešitelná a vytvořit
+> prostor pro sanaci přirozené rodiny. Pěstoun má přitom možnost, aby se u
+> soudu domáhal úpravy vzájemných práv a povinností, resp. rozhodnutí o
+> podstatné věci týkající se dítěte, má-li za to, že řešení navrhované
+> (prosazované) rodiči není ku prospěchu dítěte. Tím se předkládaná úprava
+> zcela koncepčně liší od úpravy zakotvené v zákoně o rodině vycházející
+> ze zákona o pěstounské péči (zák. č. 50/1973 Sb.).
+>
+> Nové ustanovení dále zdůrazňuje skutečnost, že dítě je aktivním
+> subjektem, nikoli pasivním objektem. Dítěti je výslovně přiznáno právo
+> navrhnout soudu, aby rozhodl v jeho podstatné záležitosti (např. volbě
+> povolání), popř. při zásadní změně poměrů. Samozřejmě i dítě i v této
+> záležitosti může uplatňovat svá práva zakotvená Úmluvou o právech dítěte
+> a vyjadřovat své potřeby a přání v jakémkoli řízení týkající se jeho
+> osoby zahájeném na návrh rodiče, pěstouna nebo z úřední moci soudem.
+>
+> Ustanovení umožňuje využívání alternativních forem řešení
+> rodinně-právních konfliktů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 965 návrhu — dnešní § 970):**
+
+> Na rozdíl od osvojení zaniká pěstounská péče nejpozději dosažením plné
+> svéprávnosti dítětem, jinak až jeho zletilostí. Nejde totiž o statusovou
+> změnu, ale jen osobní péči o dítě třetí osobu. Z povahy věci vyplývá, že
+> pěstounská péče zaniká také smrtí dítěte nebo pěstouna.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1259,6 +1969,76 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 - **NESMÍ být zdravotnické zařízení** (ochrana před hospitalizací jako trestem);
 - **Co nejblíže bydlišti** rodičů / blízkých (zachování kontaktu).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 966 a 967 návrhu — dnešní § 971—972):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený, s tím,
+> že je zřetelně vyjádřena povinnost soudu přijmout opatření vždy, kdy
+> nastal stav, zpravidla rodiči nezpůsobený zaviněně, který je v rozporu
+> se zájmem dítěte.
+>
+> Institut ústavní výchovy je pojat (jako dosud) zásadně jako sankční a
+> subsidiární, proto je také zařazen až za jiné, totiž individuální formy
+> péče o dítě; individuální formou péče o dítě se přitom rozumí i péče
+> zařízení pro děti vyžadující okamžitou pomoc.
+>
+> (V evropském kontextu je ústavní výchova chápána jednak jako zcela
+> přechodné, úvodní zařízení, než je dítěti opatřena péče individuální
+> (naopak ve Velké Británii), jednak jako jeden ze standardních institutů,
+> vedle zejména pěstounství, a to v případech, kdy individuální péči o
+> konkrétní dítě nelze zvládnout.)
+>
+> Stejně jako o ostatních formách péče, které dítě vzdalují z péče rodičů,
+> bude vždy rozhodovat soud, a to nejen formou předběžného opatření, ale i
+> v případě meritorního rozhodnutí. Soud je zásadně veden povinností
+> zohledňovat zájem dítěte, aniž by přitom pomíjel také právo rodičů na
+> společný život se svým dítětem, a přistupovat k ústavní výchově jako
+> k subsidiárnímu institutu a nařídit ji, nelze-li situaci dítěte řešit
+> jinými způsoby, které by nepředstavovaly nepřiměřený zásah do rodinného
+> života zúčastněných. Soud je při svém rozhodování vázán nejen tímto
+> zákonem, ale i mezinárodními závazky České republiky, zde zejména
+> Úmluvou o ochraně lidských práv a základních svobod a Úmluvou o právech
+> dítěte. V této souvislosti je třeba zohledňovat judikaturu Evropského
+> soudu pro lidská práva, např. rozsudky *Havelka a ostatní proti České
+> republice* ze dne 21. června 2007 a *Wallová a Walla proti České
+> republice* ze dne 26. října 2006. V uvedených rozsudcích Evropský soud
+> hodnotil zásah -- v podobě nařízení ústavní výchovy -- do práva rodičů i
+> dětí na společný rodinný život a s odvoláním na svoji ustálenou
+> judikaturu mimo jiné připomněl, že možnost umístit dítě do prostředí
+> vhodnějšího pro jeho výchovu nemůže sama o sobě odůvodňovat jeho násilné
+> odnětí biologickým rodičům a že takový zásah musí být vskutku nezbytný
+> s ohledem na další okolnosti. Stát má navíc jednat tak, aby se
+> existující rodinný vztah mohl rozvíjet, a přijmout vhodná opatření za
+> účelem sloučení rodiče s dítětem. Podle mínění Evropského soudu je
+> nařízení ústavní výchovy za běžných okolností třeba považovat za dočasné
+> opatření, které bude zrušeno okamžitě, jakmile to dovolí okolnosti (viz
+> citovaný rozsudek *Havelka a ostatní proti České republice*, § 56).
+>
+> Pokud jde o zrušení ústavní výchovy, je důraz položen na vpravdě
+> okamžité rozhodování soudu. Ovšem vzhledem k tomu, že soud zpravidla
+> nemá jinou možnost, jak se o potřebě zrušení ústavní výchovy dozvědět,
+> je třeba, aby se zabýval jakýmkoli relevantním podnětem v tomto ohledu,
+> prvořadě a obligatorně pak podnětem ústavu samotného.
+>
+> Otázka další péče o dítě by měla být řešena výhradně soudem (viz výše),
+> a to se zřetelem na objektivně existující možnost dítě umístit do
+> vhodného ne-ústavního prostředí (kdy je třeba rozhodnout i o
+> povinnostech a právech osoby, jíž bylo dítě svěřeno do péče (a contr.
+> rodičů). Bylo by vhodné sestavit škálu vhodných umístění, která by
+> počínala vlastní rodinou a pokračovala zařízeními pro děti vyžadujícími
+> okamžitou pomoc. V případě, že by šlo o dítě, jehož ústavní výchova byla
+> zrušena a které se nemůže vrátit do vlastní rodiny, soud by vždy
+> rozhodoval o svěření dítěte do péče jiné osoby (ustanovení dílu třetího
+> § 948 an.), jejíž konkretizace by byla sice v jednotlivém případě
+> nezbytná, avšak ve spojení s rozhodnutím o péči ne-ustavní a zároveň o
+> péči nikoli ve vlastní rodině by byla sekundární.
+>
+> Ústavní výchova se rovněž přerušuje, bylo-li rozhodnuto o svěření dítěte
+> do péče budoucího osvojitele podle § 819 nebo 825.
+>
+> V každém případě musí soud prvořadě sledovat nejlepší zájem dítěte,
+> přitom hledí i na zájem rodičů na rodinném životě. A to samozřejmě i
+> tehdy, jestliže o péči o dítě by se ucházelo více osob.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Hodoníně* [6 C 187/2022-65](https://rozhodnuti.justice.cz/rozhodnuti/?id=cd670863-6aed-428b-9ae6-8069d0912f3f) — *ústavní výchova, výživné*
@@ -1323,6 +2103,8 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 - **Osvojení** → automatický zánik;
 - **Předpěstounská / předosvojitelská péče** → **přerušení**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 966 a 967“ (dnešní § 971—972) — viz § 971.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Brně* [16 CO 145/2022-469](https://rozhodnuti.justice.cz/rozhodnuti/?id=48c8827c-a7b8-4bb5-b846-aff1c790746e) — *pěstounská péče, ústavní výchova, výživné*
@@ -1382,6 +2164,10 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 **Účel**: zjistit, zda **trvají důvody** + zda **lze náhradní rodinnou péči** zajistit (přesun do pěstounské péče, případně návrat k rodičům).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 968 a 969 návrhu — dnešní § 973—974):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Dítě je v ústavní výchově již dva roky. Soud po nařízení výchovy spis odložil a více než rok neprovedl žádný přezkum. Mezitím se poměry rodičů zlepšily (matka dokončila léčbu, zajistila bydlení) a dítě opakovaně sděluje, že se chce vrátit k matce. OSPOD má k dispozici aktuální zprávy, které soud nevyžádal. Účastníci: nezletilý, matka, zařízení, OSPOD, soud. Důkazy: zprávy OSPOD o zlepšení poměrů matky, záznam názoru dítěte, doklady o průběhu ústavní výchovy.
@@ -1425,6 +2211,8 @@ Soud je povinen nejméně jednou za 6 měsíců přezkoumat, zda trvají důvody
 
 **§ 975**:
 > Rozhodne-li soud o umístění dítěte do ústavní nebo ochranné výchovy, upraví také rozsah vyživovací povinnosti rodičů.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 968 a 969“ (dnešní § 973—974) — viz § 973.
 
 #### F. Kazuistika
 

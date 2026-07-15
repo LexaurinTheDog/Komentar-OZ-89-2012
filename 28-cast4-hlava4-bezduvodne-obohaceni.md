@@ -33,6 +33,84 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - **Na úkor jiného**;
 - → Vznik povinnosti **vydat obohacení**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2961 návrhu — dnešní § 2991):**
+
+> Ustanovení § 451 odst. 1 platného občanského zákoníku sice obecně
+> stanovuje, že bezdůvodné obohacení (kondikce) musí být vydáno, ale
+> vzhledem k výčtu jednotlivých právních důvodů bezdůvodného obohacení v §
+> 451 odst. 2 a v § 454 se v praxi projevuje důsledná tendence chápat tyto
+> důvody jako výlučné, což vylučuje samostatné použití obecné klauzule v §
+> 451 odst. 1. Takový přístup odpovídá zdejší tradici: i při
+> rekodifikačních pracích v předválečném Československu převládl v
+> superrevizní komisi názor, že „všeobecná žaloba z obohacení by mohla
+> býti nebezpečná". Při zvažování, do jaké míry zachovat současný stav,
+> anebo zda jej změnit, byly vzaty v úvahu následující skutečnosti:
+>
+> Obecnou zásadu, že se nikdo nemá bez důvodu obohacovat na úkor jiného,
+> přijalo již římské právo (D 12, 6, 14). Všeobecný zákoník občanský
+> (ABGB) tuto maximu přijal, ale upravil jen některé případy bezdůvodného
+> obohacení, zejména plnění nedluhu, plnění z právního důvodu, který
+> nenastal, a plnění z právního důvodu, který odpadl. Redaktoři ABGB totiž
+> vycházeli, ovlivněni přístupem práva římského (D, 12, 6, 15, pr.), z
+> pojetí, že oprávnění žádat vydání bezdůvodného obohacení z
+> neospravedlněného důvodu (*non ex iusta causa*) je dáno již právem
+> přirozeným a samým lidským rozumem, a tudíž že není třeba v tom směru
+> výslovná zákonná úprava. Proto v zákoníku upravili jen dílčí skutkové
+> podstaty. Pozitivistické myšlení od druhé poloviny 19. stol. tíhlo
+> naopak k pojetí, že bezdůvodným obohacením je jen to, co stanoví zákonný
+> text. Občanský zákoník z r. 1950 vyšel z posledně uvedeného pojetí a
+> stanovil v § 360 an. případy bezdůvodného obohacení úplným výčtem.
+> Naproti tomu občanský zákoník z r. 1964 přišel s pojetím odlišným a
+> justifikoval zásadu, že „nikdo nesmí v jakékoli míře nepoctivě získat
+> majetkový prospěch na úkor společnosti, ani na úkor jiného občana"
+> (důvodová zpráva k § 451 původní redakce zákoníku) a zavedl novou právní
+> instituci označenou jako bezdůvodné obohacení, kterou pojal co do pojetí
+> i rozsahu zcela odlišně; to vyjadřovaly i zákaz obohacovat se na úkor
+> společnosti i spoluobčanů (čl. VII) a povinnost počínat si tak, aby
+> nedocházelo k bezdůvodnému obohacení na úkor společnosti nebo
+> jednotlivce (§ 415). Novela občanského zákoníku č. 509/1991 Sb. v reakci
+> na ideologické konotace tohoto pojetí postupovala opačně; výsledkem je
+> výrazná tendence omezit povinnost k vydání bezdůvodného obohacení na
+> případy jednotlivě vymezené. Nelze však přehlížet, že standardní úpravy
+> kontinentální provenience sledují od konce 19. stol. odlišný přístup a
+> vycházejí ze zásady, že každé bezdůvodné obohacení musí být vydáno tomu,
+> na jehož úkor bylo získáno. Příkladem mohou být úpravy v občanských
+> zákonících Německa (§ 812), Švýcarska (čl. 62 OR), Itálie (čl. 2041),
+> Portugalska (čl. 474), Nizozemí (čl. 6:212), Québecu (čl. 1493) a
+> dalších. Rovněž návrh evropského občanského zákoníku (Draft Common Frame
+> of Reference, DCFR) vychází ze stejného pojetí.
+>
+> Z těchto příčin se navrhuje i v osnově nového občanského zákoníku
+> upravit povinnost k vydání bezdůvodného obohacení jako obecnou,
+> doplněnou příkladmým výčtem typických případů. Obecné ustanovení prvního
+> odstavce spojuje povinnost vydat obohacení s tím, že bylo nabyto bez
+> ospravedlněného důvodu; obdobně stanovuje úprava švýcarská o
+> neospravedlněném způsobu (*ungerefertigte Weise*) obohacení, nizozemská
+> poukazuje na neospravedlněné (*ongerechtvaardigd*) obohacení; italský
+> nebo portugalský zákoník vylučují bezdůvodnost obohacení, je-li pro ně
+> spravedlivý důvod (*giusta causa, causa justificativa*), apod. Jaké
+> obohacení je ospravedlněné a jaké nikoli, nelze usuzovat jen z existence
+> nebo neexistence právního důvodu, ale i ze zásad slušnosti a zvyklostí
+> soukromého života (např. spropitné se poskytuje bez právního důvodu, ale
+> přesto nejde o bezdůvodné obohacení).
+>
+> Strany závazku se navrhuje označit jako obohaceného a ochuzeného.
+> Odstraňuje se tím těžkopádné vyjadřování dosavadního zákonného textu,
+> který označuje strany závazku z kondikce opisem jako „toho, kdo
+> obohacení získal", popř. „toho, kdo předmět bezdůvodného obohacení
+> vydává", a „ten, na jehož úkor byl předmět bezdůvodného obohacení
+> získán".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2962 návrhu — dnešní § 2991):**
+
+> Institut bezdůvodného obohacení je specifický tím, že se právo na vydání
+> obohacení pojí jen se skutečností obohacení jedné strany na úkor strany
+> druhé, aniž se na straně obohaceného vyžaduje právní delikt. I se
+> zřetelem k tomu se považuje za vhodné potvrdit výslovným ustanovením, co
+> dovozuje praxe, že právo na vydání bezdůvodného obohacení je podpůrné
+> povahy a že je nelze uplatnit v případech, kdy se nabízí k využití jiné
+> právo k vymožení náhrady.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 3392/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3392-14_1) — usnesení, 5. 3. 2015
@@ -131,6 +209,39 @@ Ustanovení § 2991 je generální klauzulí (odst. 1) doplněnou demonstrativn�
 - **Darování** (vědomé obohacení druhého);
 - **Obohacení bez úmyslu právně se vázat**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2963 návrhu — dnešní § 2992):**
+
+> Pojetí, podle něhož musí být vydáno bezdůvodné obohacení vždy, vyžaduje
+> stanovit, v kterých případech obohacení vydání nepodléhá, respektive kdy
+> obohacení není bezdůvodné.
+>
+> Předně jde o případy, kdy byl plněn dluh. Zavázal-li se dlužník smlouvou
+> zaplatit za plnění úplatu, nemůže se dovolávat ustanovení o bezdůvodném
+> obohacení např. s odůvodněním, že zaplatil více, než činí obecná cena
+> nebo obvyklá úplata. Stejně tak nemůže ani věřitel žádat, aby mu bylo
+> vydáno, oč se dlužník obohatil tím, že sice plnil podle smlouvy, ale že
+> plnil méně, než činí obvyklá hodnota. Rovněž případ, kdy dlužník plní
+> věřiteli dluh předčasně a věřitel takové plnění přijme, a získá tak
+> majetkovou výhodu, je z režimu bezdůvodného obohacení vyloučen.
+>
+> K obohacení jednoho na úkor druhého může dojít i tak, že věřitel
+> neuplatní své právo: nejedná se jen o případy, kdy se věřiteli v
+> důsledku neuplatnění právo oslabí promlčením nebo zanikne prekluzí, ale
+> i o takové, kdy právo není uplatněno již v okamžiku, kdy pohledávka
+> dospěje. Také tehdy může být dlužník obohacen, protože si podrží déle
+> majetkovou hodnotu, kterou již měl vydat věřiteli; věřiteli však
+> náležejí jen zvlášť stanovená zákonná práva (např. vzhledem k prodlení
+> dlužníka), nebo práva zvlášť ujednaná (např. na smluvní pokutu), ale
+> nemůže se domáhat dalšího plnění s poukazem na bezdůvodné obohacení.
+>
+> Osoba, která sice obohatí druhého, ale činí tak ve svém výlučném a
+> osobním zájmu (např. ovlivní-li investicí na vlastním pozemku zvýšení
+> ceny sousedních pozemků) nebo na vlastní riziko (např. jedna osoba
+> bezúplatně plní druhé v očekávání výhody, protislužby nebo jiného
+> prospěchu, aniž je k tomu příjemce právně zavázán). Obdobné musí platit,
+> je-li plněno s úmyslem obohatit jiného, ať již darem nebo ze slušnosti
+> nebo mravní povinnosti, popřípadě jinou liberalitou.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 1172/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43DD4F18EE5EFFE8C1258B5D004D2EC0?openDocument) — *Bezdůvodné obohacení Vady řízení*
@@ -185,6 +296,29 @@ Paragraf 2992 je „pojistkou" proti zneúčelnému použití kondikcí: vyluču
 **Vzájemné vrácení** (*restitutio in integrum*):
 - Při **neplatné** nebo **zrušené smlouvě** → každá strana vrací **co dostala**;
 - **Námitka vzájemného plnění** (*exceptio non adimpleti contractus*) — strana může odepřít vrácení, dokud druhá nesplní.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2964 návrhu — dnešní § 2993):**
+
+> Plnění bez právního důvodu, zejména na základě neplatné smlouvy, je
+> plněním nedluhu. Takové plnění nemá oporu ve spravedlivém důvodu, a
+> proto musí být vráceno tomu, kdo plnil. Často se stává, že si strany
+> plní navzájem, pak jsou povinny k vzájemnému plnění; v ustanovení se
+> výslovně nezdůrazňuje, že si strany jsou povinny plnit současně a že
+> každá z nich může plnění odepřít, není-li druhá strana připravena k
+> protiplnění, protože to stanovují už obecná ustanovení závazkového
+> práva. Navržené ustanovení vychází z pojetí, že kdo plnil druhému bez
+> právního důvodu (*sine causa*), má právo požadovat vydání toho, co
+> plnil. Nezamýšlí se komplikovat procesní postavení žalobce tím, aby v
+> žalobě sám podmiňoval své právo na vydání poskytnutého plnění žalovaným
+> vlastním protiplněním a formuloval žalobní návrh tak, že mu je „žalovaný
+> povinen zaplatit \... proti vydání (popřípadě \... proti povinnosti)",
+> jak vyžaduje současná soudní praxe (srov. R 26/75 a navazující
+> rozhodnutí). Při vzájemném plnění z neplatné smlouvy vznikají každé ze
+> stran její majetková práva a je věcí každé strany, zda své právo
+> uplatní. Navrhuje se proto ponechat autonomii každé ze stran, zda bude
+> požadovat, nač má sama právo; to je záležitost spadající výlučně do její
+> sféry a výsostnou záležitostí žalovaného, zda případně vznese námitku
+> povinnosti žalobce k protiplnění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -248,6 +382,27 @@ Paragraf 2993 zakládá u oboustranně plněných neplatných/zrušených smluv 
 > Dal-li někdo neoprávněně věc k užívání nebo požívání jinému, aniž ten byl v dobré víře, má vlastník nebo spoluvlastník věci vůči uživateli nebo poživateli právo na náhradu.
 
 **Případ neoprávněného propůjčení** — vlastník má nárok na náhradu vůči **nedobrověrnému uživateli**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2965 a 2966 návrhu — dnešní § 2994—2995):**
+
+> Navržené ustanovení konkretizuje základní skutkovou podstatu, že
+> obohacení nabyté bez spravedlivého důvodu musí být vydáno ochuzenému.
+> Výslovná úprava se však jeví jako potřebná. Sleduje se jí překonání
+> vývoje dosavadní judikatury. Srov. např. rozsudek Nejvyššího soudu sp.
+> zn. 33 Odo 369/2004 ze dne 20. dubna 2005, podle kterého nemá většinový
+> spoluvlastník právo na náhradu proti nájemci, kterému dal věc do nájmu
+> neoprávněně menšinový spoluvlastník, a to ani když nájemce nebyl v dobré
+> víře. Ochrana uživatele nebo poživatele cizí věci má rozumný důvod,
+> byl-li v dobré víře, že má k užívání nebo požívání řádný titul. V
+> takovém případě dává jeho ochrana proti třetí osobě v úpravě
+> bezdůvodného obohacení smysl, i když je touto třetí osobou vlastník nebo
+> spoluvlastník. Není-li však uživatel či poživatel v dobré víře, ztrácí
+> jeho ochrana odůvodnění. Dosavadní pojetí, že i v takovém případě se
+> dotčený vlastník nebo spoluvlastník může domáhat plnění jen proti tomu,
+> kdo věc neoprávněně dal jinému k užívání nebo požívání, a že jen ten se
+> proti neoprávněnému uživateli či poživateli může domáhat, aby mu
+> obohacení vydal, komplikuje právní styk a zeslabuje ochranu vlastnického
+> práva.
 
 **Judikatura (z místních zdrojů):**
 
@@ -333,6 +488,75 @@ Paragraf 2994 dává vlastníkovi přímý nárok na náhradu vůči tomu, kdo c
 - **Výjimky**: lest, hrozba, závislost, nesvéprávnost.
 
 **§ 2998 — Nezákonný účel**: pokud někdo plnil **za účelem zakázaným nebo nemožným** → **bez práva** na vrácení. **Výjimka**: kdo plnil **k zabránění protiprávnímu činu** (např. úplatek policistovi k odhalení korupce).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2965 a 2966“ (dnešní § 2994—2995) — viz § 2994.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2967 návrhu — dnešní § 2996):**
+
+> Jde-li o závazek s alternativním plněním a splní-li dlužník omylem více,
+> než plnit měl, může požadovat vydání všeho, co plnil navíc. Navržené
+> ustanovení řeší, co má být vydáno. Měl-li dlužník volbu, co bude plnit,
+> musí mít volbu i co do určení toho, co mu má být vráceno. Měl-li však
+> volbu věřitel, náleží i pro případ vrácení volba věřiteli a dlužník se
+> může domáhat jen, aby věřitel provedl volbu nebo aby jeho prohlášení
+> vůle nahradilo soudní rozhodnutí.
+>
+> Byl-li tu závazek s alternativním plněním a plnil-li dlužník jednu věc v
+> omylu, že právě jen tuto má povinnost plnit, je třeba vyjít z toho, že
+> plnil to, co měl plnit, plněním dluh zanikl, a tudíž toto ustanovení
+> aplikovat nelze; lze však použít obecná ustanovení o omylu. Totéž bude
+> platit, přijal-li věřitel plnění na alternativní závazek v omylu, že
+> nemá právo volit plnění jiné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2968 návrhu — dnešní § 2997):**
+
+> Navržené ustanovení vychází z platné právní úpravy (§ 455 občanského
+> zákoníku), volí však obecnější formulace a doplňuje výjimku zakládající
+> ochuzenému právo požadovat vydání v některých mimořádných situacích, kdy
+> obohacení nelze ze zřejmých důvodů uznat za ospravedlněné.
+>
+> Navrhuje se zachovat i nadále právní pravidlo, podle kterého není
+> bezdůvodným obohacením plnění dluhu neplatného jen pro nedostatek formy
+> (§ 455 odst. 1 platného občanského zákoníku), které zdejší kodifikace
+> přejímá ze starších úprav (§ 1432 ABGB, § 362 občanského zákoníku z r.
+> 1950). Vyžaduje-li se písemná forma u projevu vůle jedné osoby (např. u
+> ručitelského prohlášení), je plněním překážka formálnosti zhojena. Totéž
+> musí platit i pro smlouvy jednostranně zavazující, např. pro smlouvu,
+> podle níž má být darováno teprve v budoucnu. Vyžaduje-li se písemná
+> forma pro smlouvu zavazující strany k vzájemnému plnění, je ovšem
+> kondikce vyloučena, jen splnily-li obě strany.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2969 návrhu — dnešní § 2998):**
+
+> Navrhuje se převzít právní pravidlo stanovované v některých zahraničních
+> právních řádech výslovně \[§ 1174 rakouského, § 817 německého, čl. 411
+> 2) polského občanského zákoníku nebo čl. 66 švýcarského OR\], popř.
+> dovozovaného v teorii a praxi tam, kde výslovné ustanovení v zákonných
+> textech chybí.
+>
+> Pro případ, že jedna strana dá druhé něco, aby ta vykonala něco
+> zakázaného, se navrhuje stanovit, že její právo na vrácení nevzniká. Ze
+> soukromoprávního hlediska náleží plnění tomu, kdo věc nebo peníze
+> dostal. Je-li však porušen zájem chráněný trestním právem, lze podle
+> okolnosti uložit propadnutí věci nebo peněžitý trest, popřípadě může
+> dojít k zabrání věci. To jsou ovšem otázky, které občanský zákoník
+> nemůže řešit.
+>
+> Pro případ, že jedna strana něco plní druhé, aby ta vykonala něco
+> nemožného, navrhuje se rovněž vyloučit právo první ze stran na vydání
+> bezdůvodného obohacení, protože se jedná v podstatě o skryté darování.
+>
+> V obou případech se vyžaduje vědomost toho, kdo plnil, v době, kdy plní,
+> že plní za účelem zakázaným nebo nedovoleným. Nedošlo-li k plnění, je
+> zakázaná nebo nemravná smlouva právním jednáním neplatným, nebo
+> zdánlivým a na případ se použijí jiná ustanovení, tj. plnění vymáhat
+> nelze. Bylo-li však již plněno, použije se toto ustanovení.
+>
+> Ustanovení druhého odstavce řeší případ, kdy strana plní druhé, aby ji
+> odvrátila od zakázaného činu. V takovém případě přijme příjemce plnění z
+> nemravné příčiny (*ob turpem causam*), neboť se zavazuje zdržet se činu,
+> který stejně vykonat nesmí, a proto ochuzenému musí být právo na vydání
+> obohacení přiznáno.
 
 **Judikatura (z místních zdrojů):**
 
@@ -428,6 +652,92 @@ Tato skupina ustanovení řeší atypické konstelace kondikcí: plnění ve pro
 - Náhradu za **užitek, který by ochuzený byl získal**;
 - **Speciální pravidlo pro zásah do osobnosti** (odst. 2): **dvojnásobek obvyklé odměny** za udělení souhlasu (typicky neoprávněné použití fotografie, jména, podoby).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2970 návrhu — dnešní § 2999):**
+
+> Hlavní zásada je, že musí být vydána věc nebo jiný předmět, který
+> obohacený bezdůvodně získal. V tomto ustanovení není výslovně uváděna,
+> protože to stanoví již základní ustanovení o bezdůvodném obohacení.
+> Navržené ustanovení tedy řeší jen případy, kdy nelze vydat zpět, co bylo
+> získáno.
+>
+> Hypotéza navrženého ustanovení se spokojuje s tím, že vydání předmětu
+> bezdůvodného obohacení není dobře možné. Rozdílně od § 458 odst. 1
+> platného občanského zákoníku se neuvádí příkladmo, že tak tomu je
+> zvláště v případech, kdy obohacení záleželo ve výkonech, a neuvádějí se
+> ani další myslitelné situace jako jsou zničení, spotřebování, zcizení
+> nebo ztráta, některé případy jeho spojení s jinou věcí apod., protože
+> obecný výraz tyto a další případy postihuje dostatečně srozumitelně,
+> takže jeho abstrakci netřeba kazuisticky rozvádět.
+>
+> Není-li vydání předmětu bezdůvodného obohacení dobře možné, má být
+> poskytnuta náhrada v penězích. I to je zásada, kterou sleduje také
+> platné právo (§ 458 odst. 1 občanského zákoníku), nestanoví však, jak se
+> stanoví výše náhrady. Právní praxe vychází z pravidla, že výše náhrady
+> musí odpovídat obvyklé ceně. Návrh toto pravidlo přejímá výslovnou
+> úpravou, zvláště z toho důvodu, že se navrhuje stanovit z něho dvě
+> výjimky. Předně mohlo být plněno za úplatu, ať již podle neplatné
+> smlouvy, anebo v rámci závazku, který byl následně zrušen. Pak není
+> rozumný důvod, aby ochuzený požadoval náhradu obvyklé ceny, a proto se
+> navrhuje přiznat mu náhradu ve výši ceny ujednané. To však může platit
+> jen v případě, že ujednaná cena zakládá svou výší neplatnost smlouvy.
+> Druhou výjimku z pravidla o náhradě ve výši obvyklé ceny se navrhuje
+> upravit v třetím odstavci.
+>
+> Právo na peněžitou náhradu však nemá vzniknout, pokud by se to příčilo
+> účelu pravidla vylučujícího platnost právního jednání. Návrh pravidla se
+> přejímá z návrhu evropského občanského zákoníku (čl. VII.-6:103 DCFR).
+> Půjde zejména o smlouvy uzavřené s nezletilými, nemůže-li již nezletilý
+> vydat, co získal, nelze ho ani zavázat k peněžité náhradě za bezdůvodné
+> obohacení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2971 návrhu — dnešní § 3000):**
+
+> Podstata bezdůvodného obohacení spočívá v tom, že obohacený musí vydat,
+> co nabyl a čím se obohatil, aniž se sám choval protiprávně. Za těchto
+> okolností je pamatovat na ochranu poctivého příjemce plnění, především
+> pravidlem, že po osobě, která nabyla prospěch bezdůvodně, ale v dobré
+> víře, lze žádat, jen co z obohacení ještě má při vznesení požadavku na
+> vydání. Shodně stanovují např. německý (§ 818 odst. 3) nebo québecký
+> (čl. 1495) občanský zákoník. Bezdůvodné obohacení a rozsah vydání tedy
+> nemá být v těchto případech posuzováno k okamžiku, kdy bylo nabyto, ale
+> k okamžiku, kdy se požaduje vydání.
+>
+> Nenavrhuje se zvlášť řešit otázku plodů a užitků nabytých poctivým
+> příjemcem; takový příjemce má stejná práva jako poctivý držitel.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2972 návrhu — dnešní § 3001):**
+
+> Zcizil-li obohacený v dobré víře předmět bezdůvodného obohacení za
+> úplatu, mohou nastat různé situace: buď utržil více, než činí obecná
+> cena, anebo utrží méně. Proto mu musí být ponechána volba, zda jako
+> náhradu poskytne jedno či druhé.
+>
+> Pro případ, že obohacený zcizí v dobré víře předmět obohacení
+> bezúplatně, se navrhuje výslovným ustanovením potvrdit základní
+> pravidlo, že již obohacení nemá, a tudíž není povinen k náhradě. Byl-li
+> předmět převeden osobě, která musela o bezdůvodném obohacení vědět, může
+> ochuzený požadovat vydání předmětu nebo zaplacení peněžité náhrady po
+> této osobě (tím ovšem nejsou dotčena práva vlastníka, který se může
+> domáhat vydání věci s odkazem na své vlastnictví a jehož práva jsou
+> upravena ustanoveními o právech věcných.) Pro případy, kdy dojde k
+> plnění bez souhlasu obohaceného a v obdobných případech a není-li možné
+> předmět bezdůvodného obohacení vydat - např. proto, že bylo plněno ve
+> výkonech - se navrhuje rovněž chránit poctivého příjemce a vyloučit jeho
+> povinnost k náhradě. Rozhodne-li se např. někdo bez souhlasu oprávněné
+> osoby upravit na její zahradě živý plot nebo pokosit trávu, nemá mít
+> právo na náhradu, protože výkon provedl sice v očekávání odměny, ale bez
+> právního důvodu a na vlastní riziko. Avšak tam, kde strany měly smlouvu,
+> podle níž měl příjemce úplatu dát, byť smlouva nebyla platná, se případ
+> posoudí podle § 2970.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2973 návrhu — dnešní § 3002):**
+
+> V případě, že úmysl stran směřoval k uzavření úplatné smlouvy, byť
+> nebyla platně uzavřena, je třeba vycházet z toho, co strany chtěly.
+> Nenalezl-li jejich úmysl právem aprobovaný výraz, pak má mít strana,
+> která podle úplatné smlouvy plnila, právo na nezkrácené vrácení toho, co
+> poskytla druhé straně.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1311/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B8372607C8C0592C12588FF001FB6F7?openDocument) — *Odstoupení od smlouvy*
@@ -494,6 +804,16 @@ Tato skupina tvoří „výpočtové jádro" bezdůvodného obohacení. Nelze-li
 > (1) Obohacený, který nebyl v dobré víře, vydá vše, co obohacením nabyl, včetně plodů a užitků; rovněž nahradí užitek, který by ochuzený byl získal. Zcizil-li předmět bezdůvodného obohacení za úplatu, má ochuzený právo požadovat, aby mu byla podle jeho volby vydána buď peněžitá náhrada, anebo co obohacený zcizením utržil.
 > (2) Bylo-li bezdůvodné obohacení nabyto zásahem do přirozeného práva člověka chráněného ustanovenímiprvní části tohoto zákona, může ochuzený požadovat za neoprávněné nakládání s hodnotami týkajícími se jeho osobnosti namísto plnění podle odstavce 1 dvojnásobek odměny obvyklé za udělení souhlasu s takovým nakládáním. Je-li pro to spravedlivý důvod, může soud rozsah plnění přiměřeně zvýšit.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2974 a 2975 návrhu — dnešní § 3003—3004):**
+
+> Nepoctivý příjemce, tedy ten, kdo obohacení nabyl ve zlé víře, má mít
+> povinnost vydat nejen nabytý předmět - případně náhradu za něj - ale i
+> povinnost vydat plody a užitky, které získal (§ 458 odst. 2 platného
+> občanského zákoníku), popřípadě náhradu za ně. Zcizil-li nepoctivý
+> příjemce předmět obohacení za úplatu a za výhodnější než obvyklou cenu,
+> navrhuje se přiznat ochuzenému právo domoci se toho, aby mu byl vydán i
+> mimořádný zisk, který obohacený případně získal.
+
 ### § 3005 — Náklady obohaceného
 
 > Kdo předmět bezdůvodného obohacení vydává, má právo na náhradu nutných nákladů, které na věc vynaložil, a může od věci oddělit vše, čím ji na svůj náklad zhodnotil, je-li to možné bez zhoršení podstaty věci.
@@ -501,6 +821,12 @@ Tato skupina tvoří „výpočtové jádro" bezdůvodného obohacení. Nelze-li
 Obohacený, který vydává předmět, má právo na:
 - **Náhradu nutných nákladů**;
 - **Oddělení toho, čím věc zhodnotil** (= "*ius tollendi*").
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2976 návrhu — dnešní § 3005):**
+
+> Jde o standardní pravidlo převzaté z platné úpravy (§ 458 odst. 3
+> občanského zákoníku), doplněné o právo na oddělení (*ius tollendi*),
+> rovněž ve standardních právních řádech běžně respektované.
 
 **Judikatura (z místních zdrojů):**
 
@@ -558,6 +884,38 @@ Paragraf 3005 vyvažuje pozici toho, kdo vydává obohacení: chrání jej proti
 **Princip**: **neoprávněné** vměšování → škoda jde **k tíži jednatele**.
 
 **Výjimky** v následujících paragrafech.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2977 až 2981 návrhu — dnešní § 3006—3010):**
+
+> Návrh ustanovení o nepřikázaném jednatelství (jednatelství bez příkazu)
+> sleduje standardní evropské úpravy odpovídající klasickému pojetí
+> institutu. V principu se sleduje platná úprava v § 742 a násl.
+> stávajícího občanského zákoníku s některými doplňky a úpravami. Základní
+> zásada je, že se nikdo zpravidla nesmí vmísit do cizích záležitostí,
+> nemá-li k tomu svolení druhé osoby (případně nemá-li k tomu zákonné
+> zmocnění nebo pověření soudu či jiného orgánu veřejné moci). Učiní-li
+> to, odpovídá za všechny následky (tedy i za náhodu).
+>
+> Zvláštní případy jsou: vmísení se do záležitosti jiného za účelem
+> odvrácení škody, anebo za účelem opatření prospěchu této osobě. V obou
+> případech má nepřikázaný jednatel právo na náhradu nákladů. Leč přec jen
+> se mezi oběma případy rozlišuje, protože jednání k užitku jiného se
+> zásadně nemá dít proti jeho vůli. Šetří se tudíž zvláštnost tohoto
+> případu: otázka, zda došlo k užitku, se neposoudí podle objektivních
+> kritérií (např. podle hlediska, bylo-li jednáno s péčí řádného
+> hospodáře), ale z pohledu zájmů a potřeb osoby, v jejíž záležitosti bylo
+> takto jednáno. Proto má tato osoba mít právo požadovat za stanovených
+> podmínek navrácení všeho v předešlý stav, popřípadě na náhradu škody.
+>
+> Ujme-li se někdo cizí záležitosti neoprávněně, je povinen dovést ji
+> dokonce a podat pánovi věci počet (vyúčtování) o tom, co učinil a s
+> jakými náklady. Nenáleží-li nepřikázanému jednateli náhrada nákladů, má
+> *ius tollendi,* tj. může si vzít, co na vlastní náklad opatřil. Osnova
+> se nespokojuje se zjednodušujícím výměrem § 745 platného občanského
+> zákoníku („pokud je to možné") a navrhuje podmínit výkon tohoto práva
+> tak, že podstata věci nesmí být zhoršena a že nesmí být ani nadměrně
+> ztíženo její užívání. Jedná se o standardní konstrukci, kterou
+> respektoval ještě občanský zákoník z r. 1950.
 
 **Judikatura (z místních zdrojů):**
 
@@ -617,6 +975,8 @@ Paragraf 3006 je výchozím (negativním) pravidlem nepřikázaného jednatelstv
 - Zavolat sanitku k cizímu zraněnému;
 - Postavit hráz proti záplavě sousedního pozemku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2977 až 2981“ (dnešní § 3006—3010) — viz § 3006.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1746/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C0878639CAC3FBA7C1258805001B7BF9?openDocument) — *Přípustnost dovolání Jednatelství bez příkazu Smlouva o zápůjčce (mutuum) (o. z.)*
@@ -675,6 +1035,8 @@ Paragraf 3007 je klasickou *negotiorum gestio utilis*: kdo bez pověření jedn�
 - Vyzvednutí ztracené věci na ulici;
 - Záchrana zboží z hořící lodi (jako *Bergung* v námořním právu).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2977 až 2981“ (dnešní § 3006—3010) — viz § 3006.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 9* [15 C 52/2022-24](https://rozhodnuti.justice.cz/rozhodnuti/?id=b01a2470-cdfd-4e74-bfbd-e981be891807) — *peněžité plnění*
@@ -730,6 +1092,8 @@ Paragraf 3008 odměňuje záchranu cizí věci od nevyhnutelné zkázy: zachrán
 
 **Praktický příklad**: oprava cizího auta, aniž majitel požádal — pokud "rozumný" majitel by to chtěl → náhrada; pokud ne → bez náhrady + zaplatí škodu za neoprávněnou opravu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2977 až 2981“ (dnešní § 3006—3010) — viz § 3006.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 1850/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E6B35330398C559C12583F00017FBED?openDocument) — *Jednatelství bez příkazu*
@@ -782,6 +1146,28 @@ Paragraf 3009 odměňuje nepřikázané jednatelství jen tehdy, bylo-li k přev
 **§ 3010 — Dokončení**: jednatel **dovede záležitost do konce** + **vyúčtování**.
 
 **§ 3011 — *Ius tollendi*** (právo odnětí): pokud nemá nárok na náhradu, může si **vzít zpět** to, co pořídil na vlastní náklady (jako § 3005).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2977 až 2981“ (dnešní § 3006—3010) — viz § 3006.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2982 až 2984 návrhu — dnešní § 3011—3013):**
+
+> Navrhuje se výslovně upravit případy tzv. nepravého jednatelství, kdy
+> někdo užije cizí věc, aniž má v úmyslu do cizí záležitosti zasáhnout. K
+> takovým situacím může dojít z různých příčin (např. někdo použije cizí
+> věc, domnívaje se důvodně, že se jedná o věc vlastní), a to i
+> nezaviněných. Jedná se o případy označované jako *versio in rem*. Jsou
+> to klasické právní konstrukce, které dopadají na situace, na něž nejsou
+> aplikovatelná ustanovení o náhradě škody, ani o bezdůvodném obohacení.
+> Ještě vládní návrh občanského zákoníku z r. 1937 trval na jejich
+> zachování s odůvodněním, že jinak by v kodexu vznikla mezera. Při
+> simplifikaci našeho civilního zákonodárství v r. 1950 byla tato
+> ustanovení vypuštěna. Brzy se však do zdejšího právního řádu znovu
+> vrátila v důsledku přijetí zákoníku mezinárodního obchodu (č. 101/1963
+> Sb.), do něhož byla příslušná právní úprava jako objektivně potřebná
+> opětovně zařazena jako ustanovení § 716 až 718. Když byl zákoník
+> mezinárodního obchodu v r. 1991 zrušen novým obchodním zákoníkem, byla
+> ustanovení o upotřebení věci pro jiného z nepochopení jejich významu
+> pominuta.
 
 **Judikatura (z místních zdrojů):**
 
@@ -843,6 +1229,8 @@ Paragrafy 3010 a 3011 dotvářejí režim nepřikázaného jednatelství: jednat
 - Použití cizího cementu na vlastní stavbu;
 - Spotřeba cizího paliva pro zachování svého vozu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2982 až 2984“ (dnešní § 3011—3013) — viz § 3011.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Stavebník S při výstavbě své haly omylem (záměna palet na sousedícím staveništi) zabudoval do svého základu cizí beton a betonářskou ocel patřící sousednímu stavebníkovi So v hodnotě 40 000 Kč. Materiál byl nenávratně zabudován (zabetonován), takže jej nelze fyzicky vydat zpět. S přitom neměl úmysl obstarat záležitost So — jednal výlučně ve svůj prospěch. So žádá náhradu hodnoty materiálu. Účastníci: S (ten, kdo upotřebil cizí věc ve svůj prospěch) a So (vlastník upotřebené věci). Důkazy: doložení vlastnictví materiálu, jeho hodnota v době upotřebení, nemožnost vydání in natura, okolnosti záměny.
@@ -892,6 +1280,8 @@ Paragraf 3012 (*condictio* za upotřebení cizí věci) řeší případy, kdy n
 **Praktický příklad**: 
 - Soused zaplatí daň z nemovitosti za nepřítomného vlastníka;
 - Rodinný příslušník uhradí leasingovou splátku, kterou měl uhradit dlužník.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2982 až 2984“ (dnešní § 3011—3013) — viz § 3011.
 
 **Judikatura (z místních zdrojů):**
 
@@ -947,6 +1337,68 @@ Paragraf 3013 zakládá regresní nárok toho, kdo za druhého učiní náklad, 
 - **Všichni, kdo měli užitek** → **poměrná náhrada**.
 
 **Klasický analog z námořního práva**: "obecné havárie" (*general average* dle Hague Rules / Hague-Visby Rules).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2985 až 2997 návrhu — dnešní § 3014—3026):**
+
+> Návrh společných ustanovení předně odkazuje na příslušné právní předpisy
+> Evropských společenství, které jsou do osnovy zapracovány. Dále bere v
+> úvahu následující hlediska:
+>
+> Předně se bere zřetel na skutečnost, že významný počet sporů je
+> rozhodován také rozhodčími soudy nebo rozhodci. Proto se navrhuje
+> stanovit, že pro tyto případy platí totéž, co má být v tomto zákoně
+> stanoveno o rozhodování soudů.
+>
+> Osnova na řadě míst rozlišuje případy zveřejnění a uveřejnění různých
+> údajů. Zatímco uveřejnění se může stát jakýmkoli vhodným způsobem
+> odpovídajícím povaze jednotlivého případu, pro zveřejnění má být i
+> nadále zachováno pravidlo, že řádným zveřejněním je zveřejnění v
+> Obchodním věstníku.
+>
+> Osnova v různých souvislostech navrhuje stanovit povinnost osob uvádět
+> identifikující číslo. Podle dosud platné právní úpravy je jím rodné
+> číslo přirozené osoby, popřípadě datum jejího narození, nebo
+> identifikační číslo právnické osoby, popřípadě identifikační číslo
+> podnikatele. Do této koncepce osnova nemíní zasahovat, ale promítá ji do
+> závěrečné části kodexu vzhledem k pravděpodobnosti, že rodná čísla budou
+> v zájmu ochrany osobních údajů lidí nahrazena jiným identifikujícím
+> číslem.
+>
+> Další společná ustanovení navrhují stanovit, že co je stanoveno o
+> manželu v těch částech osnovy, které se netýkají rodinného práva, platí
+> také o registrovaném partnerovi, a co je stanoveno o zákonném zástupci,
+> platí i pro práva a povinnosti opatrovníka (s výjimkou části druhé).
+> Konečně se přihlíží i k tomu, že tzv. bankovní obchody mohou za určitých
+> okolností provozovat také jiné osoby než ty, které jsou bankami.
+> Ustanovení o listinách má podle návrhu výslovné úpravy zásadně platit i
+> pro jiné písemnosti, čímž se sleduje odstranění pochybností ve vztahu k
+> projevům vůle učiněným sice v písemné formě, ale jinak než na listině,
+> což se týká především, nikoli však výlučně, právních jednání učiněných s
+> využitím elektroniky. Tato skupina společných ustanovení umožňuje
+> přehlednější legislativní vyjádření v předchozích částech návrhu.
+>
+> Vzhledem k tomu, že návrh kodifikuje zásadu *superficies solo cedit,*
+> ale nezavádí ji násilně, navrhuje se stanovit i právní pravidlo, že o
+> vlastníku nemovité věci, která není součástí pozemku, platí ustanovení o
+> vlastníku pozemku obdobně. Toto ustanovení nedopadne jen na přechodné
+> stavy odděleného vlastnictví pozemku a stavby, u nichž se předpokládá,
+> že postupem času splynou, ale i na stavy, o nichž se splynutí odděleného
+> vlastnictví nepředpokládá, buď proto, že je upravují zvláštní právní
+> předpisy (např. horní zákon ohledně ložisek vyhrazených nerostů), anebo
+> proto, že i tento navrhovaný zákon sám se zachováním odděleného
+> vlastnictví počítá (např. u podzemních staveb se samostatným účelovým
+> určením) nebo umožňuje jeho vznik (např. úpravou práva stavby).
+>
+> Právní povahu spolků mají i odborové organizace a organizace
+> zaměstnavatelů. V té souvislosti se jeví jako účelné výslovně stanovit,
+> že ustanovení o spolcích se na odborové organizace a organizace
+> zaměstnavatelů nevztahují v rozsahu, v jakém to vylučuje právní předpis
+> upravující svobodu sdružování a ochranu práva se odborově sdružovat.
+> Tímto právním předpisem je Úmluva o svobodě sdružování a ochraně práva
+> svobodně se sdružovat (č. 489/1990 Sb.).
+>
+> Konečně se navrhuje stanovit, jak se určí dostatečná jistota, dává-li na
+> ni zákonná úprava věřiteli právo a nedohodnou-li se o ní strany.
 
 #### F. Kazuistika
 

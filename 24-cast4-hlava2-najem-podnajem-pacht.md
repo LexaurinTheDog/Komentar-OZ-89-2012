@@ -103,6 +103,17 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 - **Část nemovitosti** (typicky byt z domu);
 - **Budoucí věc** — pokud lze dostatečně určit.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2178 návrhu — dnešní § 2202):**
+
+> Za pojmový znak nájemního poměru je možné označit i nespotřebitelnost
+> věci, která je přenechávána.
+>
+> Možnost pronajmout věc budoucí byla dosud předmětem teoretických a
+> zčásti i praktických pochybností, byť ne všeobecných (srov. koupě věci
+> budoucí, koupě naděje apod.). Výslovná úprava (spolu se stanovením
+> adekvátní podmínky) by měla pochyby odstranit. Ochrana nájemce je dána
+> standardními právními prostředky, totiž až po náhradu škody.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3721/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EAEFD687622FCA3CC12585570015FDEF?openDocument) — *Výpověď z nájmu Pacht /pachtýř, propachtovatel) (o. z.) Nájem pozemku*
@@ -167,6 +178,62 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 - **Sleva z nájemného**;
 - **Odstoupení** při neřešení;
 - **Zánik vady**: nájemce nesmí požadovat slevu, pokud vadu sám způsobil.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2179 návrhu — dnešní § 2203):**
+
+> Pro obchod s realitami má význam vědomost zájemce o nabytí vlastnického
+> práva k nemovité věci, zda je věc pronajata či nikoli, nebo alespoň
+> možnost zájemce takovou možnost zjistit. Proto se s odkazem na některé
+> zahraniční úpravy navrhuje v zájmu ochrany dobré víry založit vlastníku
+> pronajaté věci nebo i nájemci právo dát do veřejného seznamu zapsat
+> nájemní právo. Toto řešení je praktické zejména ve vztahu k nezastavěným
+> pozemkům, u nichž se zpravidla z pozorovatelných znaků buď vůbec nebo v
+> období vegetačního klidu nepozná, zda jsou pronajaty či nikoli. Navržené
+> ustanovení zakládá pouze možnost takového zápisu, nikoli povinnost k
+> němu, protože je věcí stran nájemní smlouvy, zda některá z nich navrhne
+> nájemní právo do veřejného seznamu zapsat; strany si mohou také ujednat,
+> že nájem do veřejného seznamu zapsán nebude. S ohledem na skutečnost, že
+> si takový zápis vyžádá další náklady ze strany katastrálních úřadů,
+> předpokládá se, že bude v tomto případě zpoplatnění návrhů na zápis
+> vyšší, než v případě běžných zápisů do katastru nemovitostí. Zápis
+> nájemního práva nemá konstitutivní účinky, ale má význam vzhledem k
+> dobré víře ve skutečnosti zapsané do veřejného seznamu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2180 návrhu — dnešní § 2204):**
+
+> Nájem na dobu určitou je vždy dán lhůtou, je ale více možností, jak ji
+> formulovat; v úvahu připadá i odkaz na jinou činnost (např. na dobu
+> studia, odborné stáže, výkonu práce u určitého zaměstnavatele nebo na
+> dobu podnikání v určitém místě apod.) nebo skutečnost (např. dožití
+> určitého věku). I nájem ujednaný na dobu života je ujednán na dobu
+> určitou. Určitá doba trvání nájmu může být vymezena tak, že je předem
+> jisté, kdy nastane (*certus an, certus quando*), např. na dvacet let,
+> anebo tak, že je předem jisté, že nastane, ale není jisté, kdy (*certus
+> an, incertus quando*), např. na dobu života, dobu trvání pracovního
+> poměru apod.
+>
+> Problém se pojí s nájmy ujednanými na dobu neúměrně dlouhou (srov. k
+> tomu *Knapp, V.* Devadesát devět. Právní praxe, XLII, 1994, s. 570 an.).
+> Takové nájmy sice nejsou jen z tohoto důvodu neplatně ujednány, v praxi
+> však vyvolávají pochybnosti, nakolik nejde o ujednání *in fraudem legis*
+> nebo o zastřené projevy vůle sledující ve skutečnosti něco jiného.
+> Nejvyšší soud zaujal v rozsudku 28 Cdo 2747/2004 z 28. 3. 2007
+> stanovisko, že nájem ujednaný na dobu přesahující dobu průměrného
+> lidského života (v posuzovaném případě šlo o nájem ujednaný na 100 let k
+> podnikatelským účelům provozovaných individuálními podnikateli), platí
+> za nájem ujednaný na dobu neurčitou. Toto rozhodnutí výrazně zasahuje do
+> smluvní autonomie kontrahentů a mění podmínky, za nichž nájem ujednali,
+> zakládajíc možnost nájem vypovědět ihned po jeho vzniku a bez uvedení
+> důvodu, ač si to strany zjevně nepřály. Praxe je tím znejistěna, klade
+> si otázky, zda je např. sedmdesát let trvání nájmu ještě ve shodě s
+> pojetím Nejvyššího soudu. Ve snaze vyloučit do budoucna podobnou
+> rozhodovací praxi se navrhuje stanovit, že nájem ujednaný na dobu delší
+> než padesát let byl ve skutečnosti ujednán na dobu neurčitou, avšak s
+> tím, že možnost vypovězení takového nájmu je v prvních padesáti letech
+> omezena jako by šlo o nájem ujednaný na dobu určitou. Vstřícně ke
+> skutečné vůli stran se však navrhuje stanovit toto právní pravidlo jako
+> vyvratitelnou právní domněnku. Z okolností právního případu nebo z
+> výslovně projevené vůle stran může tedy vyplývat opačný závěr.
 
 **Judikatura (z místních zdrojů):**
 
@@ -246,6 +313,81 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 > (2) Neposkytne-li pronajímatel nájemci dostatečnou ochranu, může nájemce nájem vypovědět bez výpovědní doby.
 > (3) Bude-li nájemce rušen v užívání věci nebo jinak dotčen jednáním třetí osoby, má právo na přiměřenou slevu z nájemného, pokud takové jednání třetí osoby pronajímateli včas oznámil.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2181 návrhu — dnešní § 2205):**
+
+> Obdobně jako ustanovení o nájemci (srov. dále) obsahuje zdejší
+> ustanovení základ vymezení následků nájemní smlouvy, totiž práv a
+> povinností, které stranám ze smlouvy vzniknou. Proto, je-li z ujednání
+> stran patrno, že jde o smlouvu nájemní (jsou-li nepochybně dány pojmové
+> znaky), pak již vlastně není žádného ujednání třeba -- základní právní
+> důsledky plynou stranám ze samé smlouvy (bez dalšího).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2182 návrhu — dnešní § 2206):**
+
+> Ustanovení stanoví blíže den odevzdání věci a zmiňuje, co je třeba
+> odevzdat spolu s věcí. Tak se rozumí, že je třeba odevzdat věc
+> s příslušenstvím, jakož i listinami, popř. i dalšími věcmi tak, jak je
+> toho k řádnému užívání pronajaté věci zapotřebí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2183 návrhu — dnešní § 2207):**
+
+> Ustanovení je samozřejmě (stejně jako takřka všechna ostatní ustanovení)
+> dispozitivní, takže to, co se praví např. o opravách a údržbě věci, lze
+> ujednat i právě opačně, než stanoví zákon.
+>
+> Opravy se nerozlišují na běžné a ostatní (všechny opravy provádí
+> pronajímatel) -- případná úprava je věcí ujednání stran. Naproti tomu
+> běžná údržba (spočívající v zachování funkčního, resp. řádného stavu
+> věci, jako např. výměna žárovky) je bez odchylného ujednání stran
+> povinností nájemce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2184 návrhu — dnešní § 2208):**
+
+> Slova „neodstraní-li pronajímatel vadu věci ... bez zbytečného odkladu"
+> se rozumí: včas a řádně neodstraní vadu, k jejímuž odstranění je
+> povinen. Je-li možné nájemné prominout, je také možná sleva z nájemného
+> -- záleží na povaze vady věci (nefunkční čistič koberců a contr. ucpané
+> vodovodní potrubí). Rozumí se, že jak prominutí nájemného, tak sleva
+> z nájemného, se týká doby, kdy nájemce nemůže věc užívat (vůbec nebo bez
+> obtíží).
+>
+> Slovy „bez výpovědní doby" se rozumí výpověď okamžitá.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2185 návrhu — dnešní § 2209):**
+
+> Lze mít za to, že z důvodů veřejného zájmu na základě zvláštního zákona
+> nebo soudního či úředního rozhodnutí může nastat situace, kdy je
+> pronajímatel povinen změnu provést.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2186 návrhu — dnešní § 2210):**
+
+> Omezením užívání věci se rozumí ztížení možnosti věc užívat nebo možnost
+> užívat jen část věci.
+>
+> „Dobou nepřiměřeně dlouhou" se rozumí např. v případě půlročního nájmu
+> dva měsíce trvající oprava. S tím by se měla vypořádat judikatura.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2187 návrhu — dnešní § 2211):**
+
+> Historické pojetí, podle něhož měl nájemce oprávnění na nerušený výkon
+> nájemního práva jen proti pronajímateli, a kdy tudíž jen pronajímatel
+> mohl jako vlastník pronajaté věci zasáhnout proti rušivým činům třetích
+> osob, vzalo už dávno za své. Novodobé zákonné úpravy nájemci běžně
+> umožňují, aby na svou ochranu vystoupil popřípadě i sám. Totéž pojetí
+> sleduje již platné právo (§ 126 odst. 2 platného občanského zákoníku),
+> jehož myšlenku návrh sleduje. Výslovné ustanovení přímo u nájemního
+> práva doplňuje a upřesňuje obecnou úpravu, neboť pronajatý byt dům,
+> pozemek atd. nájemce zpravidla „u sebe" nemá. Navržené ustanovení
+> zakládá nájemci právo domáhat se ochrany, ale neplyne z něho, že nájemce
+> je povinen toto právo využít. Je věcí nájemcovy volby, zda se bude sám
+> bránit, nebo zda bude vyžadovat po pronajímateli, aby mu zajistil
+> nerušený výkon nájemního práva.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2188 návrhu — dnešní § 2212):**
+
+> Ustanovení podrobně upravuje ochranu nájemce před zásahem třetí osoby,
+> včetně slevy z nájemného.
+
 ---
 
 ### § 2213—2216 — Povinnosti nájemce
@@ -271,6 +413,32 @@ Nájem podle § 2201 vzniká už shodou vůle o úplatném dočasném užíván�
 - **§ 2214 — Strpí prohlídku** pronajímatelem (v rozumné míře);
 - **§ 2215 — Podnájem**: pouze se **souhlasem pronajímatele** (písemný, nezbytný k platnosti);
 - **§ 2216** — Nájemce **odpovídá** za úkony podnájemce vůči pronajímateli.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2189 návrhu — dnešní § 2213):**
+
+> Lze-li dovodit, že jde o poměr ze smlouvy nájemní, je nájemce bez
+> zvláštního ujednání povinen (alespoň) užívat věc jako řádný (pečlivý)
+> nájemce -- hospodář, a to buď k ujednanému, anebo k obvyklému účelu, a
+> platit nájemné.
+>
+> Z toho, že je povinen užívat jako řádný hospodář, se dovozuje, že
+> fakticky, skutečně věc užívat nemusí (zajisté, pokud si strany výslovně
+> neujednaly, že bude fakticky užívat), ledaže by neužíváním byla věc
+> ohrožena nebo znehodnocena, popř. znehodnocována.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2190 návrhu — dnešní § 2214):**
+
+> Jedná se o tradiční ustanovení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2191 návrhu — dnešní § 2215):**
+
+> Ustanovení odstavce 1 má samozřejmě dispozitivní povahu -- dohodnou-li
+> se strany jinak, není nájemce omezen, resp. je oprávněn tak, jak bylo
+> ujednáno.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2192 návrhu — dnešní § 2216):**
+
+> Jedná se o tradiční ustanovení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -336,6 +504,20 @@ Nájemce musí věc užívat jako řádný hospodář ke sjednanému účelu, oz
 - Bez ujednání: **každý měsíc** (u dlouhodobých nájmů);
 - **Bezdůvodné zvýšení** je neplatné, výjimka u dlouhodobých nájmů přes inflační doložku.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2193 návrhu — dnešní § 2217):**
+
+> V odstavci 2 se jedná např. o situaci, kdy se nájemce zaváže, že provede
+> rekonstrukci věci, a tedy nájemné nebude plněno v penězích.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2194 návrhu — dnešní § 2218):**
+
+> Toto ustanovení nevylučuje, aby zvláštní ustanovení obsahovala zvláštní
+> úpravu.
+>
+> Obecná ustanovení o splatnosti (obecná část závazkového práva) se
+> nepoužijí. Naopak z textu ustanovení jednoznačně plyne, že se očekává
+> ujednání stran.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS ve Zlíně* [44 C 258/2025-55](https://rozhodnuti.justice.cz/rozhodnuti/?id=30e404be-0d9c-4f38-9379-904c6e70feee) — *smlouva nájemní*
@@ -400,6 +582,36 @@ Není-li nájemné sjednáno, platí se ve výši obvyklé k době uzavření sm
 **Klíčové rozdělení nákladů**:
 - **Pronajímatel**: **velké opravy**, údržba "konstrukce" věci;
 - **Nájemce**: **běžná údržba** + **drobné opravy** (do limitu — pro byt stanoveno NV č. 308/2015 Sb.).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2195 návrhu — dnešní § 2219):**
+
+> Ustanovení je standardní (to ovšem platí o většině zdejších ustanovení);
+> ustanovení odstavce 2 má zajisté dispozitivní povahu. Rozumí se, že
+> sleva z nájemného bude přiměřená obtížím, které nájemci činností
+> pronajímatele vzniknou.
+>
+> O škodě, která popřípadě nájemci vznikne, platí obecná ustanovení o
+> náhradě škody.
+>
+> Nic nebrání, aby v nájemní smlouvě byla ujednána i pravidla o pojištění
+> pronajaté věci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2196 návrhu — dnešní § 2220):**
+
+> Ustanovení je ovšem dispozitivní s výjimkou pravidla o formě souhlasu.
+>
+> Provedení změny pronajaté věci odvisí i od toho, co je předmětem nájmu.
+> Přestěhování nábytku v hotelovém pokoji má samozřejmě jinou povahu než
+> zazdění dveřního otvoru v bytě.
+>
+> Otázka prospěšnosti či neprospěšnosti změny věci je bez významu.
+>
+> Nepožádá-li pronajímatel o navrácení věci do původního stavu dříve nebo
+> nedojde-li k jiné dohodě, je nájemce povinen věc navrátit do původního
+> stavu -- ex lege -- nejpozději při skončení nájmu.
+>
+> Neuposlechnutí výzvy pronajímatele může být sankcionováno okamžitou
+> výpovědí.
 
 **Judikatura (z místních zdrojů):**
 
@@ -478,6 +690,69 @@ Změnu věci smí nájemce provést jen s předchozím souhlasem pronajímatele 
 **Klíčové pravidlo**: **kupní smlouva neruší nájemní smlouvu** (*Kauf bricht nicht Miete*). Nový vlastník vstupuje do postavení pronajímatele.
 
 **Výjimka**: u nájmu bytu/domu — § 2222 specifika.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2197 až 2200 návrhu — dnešní § 2221—2224):**
+
+> Ke změně vlastníka pronajaté věci může dojít z různých důvodů. Úvodní
+> ustanovení vyjadřuje obecnou zásadu, že změnou vlastníka se nájem neruší
+> a že nájemní obligace trvá s tím, že práva a povinnosti z nájmu
+> přecházejí na nového vlastníka. Už římské právo vycházelo z této
+> konstrukce, ovšem s tím, že nový vlastník, zvláště kupující, mohl nájem
+> zrušit s tím, že nájemci vzniklo vůči pronajímateli, se kterým nájem
+> ujednal, právo na náhradu škody (srov. *Heyrovský, L.* Dějiny a systém
+> soukromého práva římského. 4. vydání. Praha: J. Otto, 1910, s. 721 a
+> 724). Zásada, že koupě nájem neruší, se postupně prosadila ve
+> středověkém německém i českém právu. To bylo výrazem nazírání na nájemní
+> právo jako na právo v podstatě věcněprávní povahy nebo alespoň s
+> věcněprávními prvky. Tyto prvky byly později v kodifikacích soukromého
+> práva oslabeny (srov. § 1120 rakouského občanského zákoníku), ale
+> nezmizely úplně. Zachovává je i současné právo (§ 680 odst. 1 a 2
+> platného občanského zákoníku). Nájem se ustáleně vnímá jako dlouhodobý
+> stav, jehož zachování se jeví jako ekonomicky a sociálně žádoucí.
+>
+> Zároveň se navrhuje chránit dobrou víru nabyvatele, na něhož bylo
+> vlastnické právo převedeno. Přitom se bere v úvahu rozdíl mezi
+> univerzálním a singulárním právním nástupnictvím. Při univerzálním
+> právním nástupnictví je nástupce plně vázán činy svého právního
+> předchůdce. Při singulárním právním nástupnictví založeném převodem
+> vlastnického práva k věci se však jedná o něco jiného; pro nabyvatele je
+> především rozhodující, co si ujednal s převodcem. Nelze přitom
+> přehlížet, že nabyvatel nabývá vlastnické právo jako právo věcné a
+> chráněné ve zvýšené míře ústavním pořádkem, zatímco nájemní právo má
+> obligační povahu a váže nájemce k pronajímateli.
+>
+> K ochraně smluvního nabyvatele vlastnického práva pronajaté věci se
+> navrhují dvě zvláštní opatření.
+>
+> Předně není vyloučeno, že si nájemce a pronajímatel před zcizením
+> ujednají k tíži pronajímatele takové povinnosti, které významně převýší,
+> co pronajímateli ukládá zákon. Pro ten případ se navrhuje stanovit, že
+> takové povinnosti na nového vlastníka přejdou, jen pokud o nich věděl.
+>
+> Dále se navrhuje založit novému vlastníku právo vypovědět nájem, pokud
+> věc koupil a neměl při koupi rozumný důvod pochybovat, že kupuje věc,
+> která není pronajata. Chráněn je kupující a analogicky i ten, kdo k věci
+> nabyl vlastnické právo směnou, nikoli ten, kdo věc nabyl bezúplatně.
+> Ustanovení je formulováno tak, že se záměrně nedovolává dobré víry
+> kupujícího (byť i tu de facto o dobrou víru jde), aby aplikační praxe
+> nebyla svedena k tomu, že právní význam mají jen zápis nájemního práva
+> do veřejného seznamu nebo výslovné upozornění prodávajícího. Naopak se
+> předpokládá, že nabyvatel vyvine při uzavírání smlouvy takovou péči,
+> jakou po něm lze se zřetelem k okolnostem případu očekávat, tj. že si
+> např. kupovanou nemovitou věc prohlédne, že kupovanou movitou věc
+> převezme atd. Zanedbá-li kupující takovou pečlivost a přejde-li na něho
+> nájem, je nájemce chráněn. Kupující může v takovém případě uplatnit
+> práva z vadného plnění proti prodávajícímu, jsou-li pro to splněny
+> podmínky. Nezanedbá-li ji, nájem na něho sice také přejde, ale kupující
+> je chráněn zvláštním právem výpovědi. Využije-li kupující toto právo, je
+> na nájemci, aby uplatnit svá práva vůči tomu, s kým uzavřel smlouvu.
+>
+> Zvláštním ustanovením je chráněn nájem bytů při změně vlastnictví.
+> Byl-li pronajat byt, ve kterém nájemce bydlí, nemůže mu být změna
+> vlastnictví věci na újmu. Tím však není vyloučen požadavek na náležitou
+> péči nabyvatele věci o vlastní záležitosti. Tak např. kupuje-li někdo
+> dům s nájemními byty, zakládá to zpravidla skutkovou domněnku, že jsou
+> pronajaty.
 
 **Judikatura (z místních zdrojů):**
 
@@ -601,6 +876,93 @@ Změna vlastníka nájem neukončuje (§ 2221) a sama o sobě není výpovědní
 
 **§ 2231 — Vrácení věci**: ve stavu, v jakém byla převzata, **s ohledem na obvyklé opotřebení**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2201 návrhu — dnešní § 2225):**
+
+> Terminologie by se měla ustálit na „skončení nájmu"; zrušení smlouvy
+> nebo odstoupení od smlouvy jsou termíny poplatné teorii, že smlouva se
+> existencí právního poměru z ní postupně „vyčerpává" (smlouva je ale jen
+> právní jednání zakládající právní poměr). Skončením nájmu se rozumí
+> zánik povinností a práv ze smlouvy (zákona) vzniklých. Do tohoto souboru
+> samozřejmě nepatří odpovědnostní důsledky porušení povinností.
+>
+> Kromě stavu věci podle popisu upravuje zdejší ustanovení i *ius
+> tollendi* (srov. společná pravidla hlavy čtvrté o nepřikázaném
+> jednatelství a upotřebení cizí věci).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2202 návrhu — dnešní § 2226):**
+
+> Nájem, obdobně jako práva věcná, je spojen pojmově s existující věcí,
+> nutně tedy skončí spolu se zánikem věci. Částečný zánik věci má vzápětí
+> vznik práva volby nájemce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2203 návrhu — dnešní § 2227):**
+
+> Nepoužitelnost věci, ať z toho či onoho důvodu, včetně případu, kdy se
+> věc stala zdravotně závadnou, nemá bez dalšího za následek zánik nájmu.
+> Vypovězení nájmu přichází v úvahu jak v případě, že nájem byl ujednán na
+> dobu neurčitou, tak i v případě, že byl ujednán na dobu určitou, ale jen
+> tehdy, jestliže nepoužitelnost věci způsobily důvody na straně
+> pronajímatele, anebo jiné důvody, které však nejsou na straně nájemce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2204 návrhu — dnešní § 2228):**
+
+> O doručení výzvy platí obecná pravidla o vzniku adresovaného právního
+> jednání. I zde platí, že vypovězení nájmu přichází v úvahu jak
+> v případě, že nájem byl ujednán na dobu neurčitou, tak i v případě, že
+> byl ujednán na dobu určitou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2205 návrhu — dnešní § 2229):**
+
+> Ustanovení § 2205 upravuje skončení nájmu na dobu určitou.
+>
+> Rozumí se, že výpověď nájmu je možná rovněž z důvodů případně
+> stanovených zákonem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2206 návrhu — dnešní § 2230):**
+
+> Zdejší ustanovení upravuje *relocatio tacita*, obnovení nájmu mlčky.
+> Obecná základní doba je jeden rok.
+>
+> Došlo-li již dříve ke skutečnosti, která je právním důvodem skončení
+> nájmu, tj. požádala-li jedna ze stran o skončení nájmu nebo nájem
+> vypověděla, nemůže se nájemce, který dále věc užívá, dovolat nového
+> uzavření smlouvy ve smyslu odstavce 1.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2207 návrhu — dnešní § 2231):**
+
+> Ustanovení § 2207 upravuje skončení nájmu na dobu neurčitou.
+>
+> Pravidlem skončení nájmu na dobu neurčitou je výpověď ve výpovědní době.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2208 návrhu — dnešní § 2232):**
+
+> Výpověď nájmu bez výpovědní doby, tj. okamžité skončení nájmu z vůle
+> jedné strany, je výjimečným opatřením. Nelze vyloučit, že se strany
+> v nájemní smlouvě dohodnou i na důvodech, které k takovému skončení
+> nájmu povedou, nicméně sám zákon uvádí několik skutkových podstat,
+> s nimiž lze výpověď bez výpovědní doby spojit.
+>
+> Lze očekávat, že seznam „závažných způsobů" bude časem vypracován
+> judikaturou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2209 návrhu — dnešní § 2233):**
+
+> Stranám je den skončení nájmu znám: jedná-li se o nájem na dobu určitou,
+> jedná se o den, kdy má uplynout doba nájmu, nebo den, kdy má nájem
+> skončit, byl-li vypovězen, anebo jedná-li se o nájem na dobu neurčitou,
+> jedná se o den, kdy má podle dohody stran nájem skončit, nebo den, kdy
+> má nájem skončit, byl-li vypovězen. Období, kdy je možné nájemce
+> obtěžovat, resp. omezovat ho v užívání věci, se vymezuje třemi měsíci -
+> s možností jiné dohody.
+>
+> Nezbytný rozsah je třeba posoudit jak ze stránky časové, tak i stránky
+> prostorové (osobní vůz bude třeba projet, do ubytovny bude stačit
+> vstoupit).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2210 návrhu — dnešní § 2234):**
+
+> Koncipuje se běžné zákonné zadržovací právo pronajímatele.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 2057/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A6B0FFA6630C3422C1258D4C0052D3AB?openDocument) — *Zadržovací právo Nájem*
@@ -671,6 +1033,62 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2236 — Označení**: i pokud strany označily nesprávně, **rozhoduje skutečný účel užívání**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2211 až 2214 návrhu — dnešní § 2235—2238):**
+
+> V základních ustanoveních se navrhuje obecně stanovit, co se rozumí
+> nájmem bytu nebo domu podle zvláštní úpravy. Ta sleduje úpravu nájmu k
+> zajištění bytových potřeb. Výrazem „bytová potřeba" se vyjadřuje nejen
+> účel, ke kterému byt běžně slouží, tj. bydlení, ale i to, že byt musí
+> být k bydlení vhodný a zdravotně způsobilý. Proto se zdůrazňuje určení a
+> užívání bytu k bydlení. Je-li byt pronajat k jinému účelu než k bydlení,
+> tato zvláštní ustanovení se nepoužijí. To platí i v případě, že nájemcem
+> bytu bude právnická osoba; právnická osoba nemůže bydlet a nemá ani
+> bytovou potřebu ve smyslu těchto ustanovení. Nájemci podle těchto
+> ustanovení mohou být jen lidé.
+>
+> Pro nájemní bydlení je typické pronajímání bytu. Bytem se rozumí
+> místnost nebo soubor místností účelově určených k bydlení. Výrazem
+> „soubor místností" se poukazuje, že půjde pravidelně o několik místností
+> pod společným uzamčením, tj. přístupných společnými vchodovými dveřmi.
+> Označení „byt" se tedy pojí s tzv. samostatným bytem, tj. takovým, který
+> má vlastní vstup, a člověk, který v něm bydlí, může byt obývat, aniž je
+> závislý na místnostech nebo prostorech vně bytu, byť se nevylučuje, aby
+> z ujednání stran nebo povahy věci vyplývalo něco jiného. Z hlediska
+> veřejného práva je pro určení bytu rozhodné rozhodnutí správního orgánu
+> stanovující účel užívání stavby, tj. kolaudační rozhodnutí. Takové
+> rozhodnutí může být z hlediska soukromého práva dílčím vodítkem, nemůže
+> však být určující. Pronajme-li se jako byt k bydlení místnost (soubor
+> místností) tvořící materiálně obytný prostor (tedy prostor k bydlení
+> vhodný a zdravotně způsobilý), byť jej správní rozhodnutí za byt
+> neoznačuje, půjde přesto z hlediska soukromého práva o chráněný nájem
+> bytu. Otázku porušení veřejného práva bude nutné posoudit jako správní
+> delikt s důsledky, které veřejné právo stanoví pro toho, kdo se deliktu
+> dopustil.
+>
+> Vzhledem k ochraně nájemního bydlení je namístě podřídit zvláštním
+> ustanovením o nájmu bytu i případy, kdy pro uspokojování bytových potřeb
+> nájemce nebude pronajat byt, ale celý dům, popřípadě jiný objekt nebo
+> prostor způsobilý sloužit k uspokojení bytových potřeb nájemce
+> (houseboat, dostatečně vybavený obytný vůz apod.). Vzhledem k tomu, že
+> povaha nájemního bydlení vyžaduje zvláštní úpravu práv a povinností
+> stran, vylučují se ze zvláštního režimu případy, kdy je byt nebo dům
+> pronajat k zjevně krátkodobému účelu: typické jsou např. rekreační nebo
+> prázdninové pobyty (tzv. letní byty) nebo nájmy bytů za účelem dočasného
+> ubytování studentů v univerzitním městě nebo k zajištění několikaměsíční
+> stáže odborníka apod.
+>
+> Stejně jako byt nezařízený, resp. nevybavený, může být pronajat i byt
+> zařízený, resp. vybavený (nábytkem, spotřebiči, elektronikou). Strany
+> mají prostor ujednat si ve smlouvě obsah nájemního poměru podle
+> konkrétní potřeby.
+>
+> Nastane-li situace, že strany neuzavřely platnou smlouvu nebo že
+> neuzavřely smlouvu vůbec, ale nájemce byt dlouhodobě užívá v dobré víře,
+> že nájem je po právu a strany se chovají, jakoby nájem platně vznikl a
+> trval, navrhuje se nájemce chránit. Dlouhou dobou by se měla rozumět
+> doba alespoň několika let; konkrétní trvání se ponechává soudní praxi,
+> která patrně vezme za základ analogii s vydržením.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 3010/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/716ABAE8A66A20AEC1258DA40052D9A5?openDocument) — *Nájem bytu*
@@ -731,6 +1149,8 @@ Ochranná úprava nájmu bytu se uplatní vždy, slouží-li přenechání bytu/
 > (2) Skutečnost, že pronajatý prostor není určen k bydlení, nemůže být na újmu nájemci.
 > (3) Je-li k zajištění bytových potřeb nájemce pronajat dům, použijí se ustanovení o nájmu bytu přiměřeně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2211 až 2214“ (dnešní § 2235—2238) — viz § 2235.
+
 ---
 
 ### § 2237—2239 — Zakázaná ujednání
@@ -753,6 +1173,21 @@ Ochranná úprava nájmu bytu se uplatní vždy, slouží-li přenechání bytu/
 - **Sjednání kratší výpovědní doby** než zákon stanoví;
 - **Vzdání se práv** nájemce předem;
 - **Změna nájemného jednostranně** mimo ujednanou indexaci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2211 až 2214“ (dnešní § 2235—2238) — viz § 2235.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2211 až 2214“ (dnešní § 2235—2238) — viz § 2235.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2215 návrhu — dnešní § 2239):**
+
+> Nájem přepokládá užívání bytu (obydlí) za pevně stanovené nájemné.
+> Sankce za porušení povinností z nájmu nájemcem stanoví zákon; to se týká
+> i povinnosti nájemce nahradit pronajímateli škodu. Vzhledem k tomu, se
+> po vzoru některých zahraničních úprav (Německo, Nizozemí, Québec a
+> další) vylučuje přípustnost klauzulí o smluvní pokutě, kterými může být
+> obcházen zákaz ujednání v neprospěch nájemce; totéž platí o klauzulích
+> ukládajících nájemci povinnosti zjevně nepřiměřené konkrétním
+> okolnostem.
 
 **Judikatura (z místních zdrojů):**
 
@@ -893,6 +1328,159 @@ U nájmu bytu nesmí pronajímatel namítat neplatnost pro nedostatek písemné 
 **§ 2255 — Podnájem části bytu**:
 - **Souhlas pronajímatele** vyžadován;
 - **Trvalý pobyt podnájemce** zapsán jen se souhlasem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2218 návrhu — dnešní § 2242):**
+
+> Navrhuje se dispozitivně stanovit, kdy má být nájemci byt zpřístupněn
+> pro případ, že chybí ujednání stran. Zajisté lze nájemní smlouvu uzavřít
+> jak s odkládací podmínkou, tak s doložením času. Namísto klíčů mohou
+> vystupovat jiné prostředky sloužící k otevření bytu nebo domu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2219 návrhu — dnešní § 2243):**
+
+> Jedná se o jedno z významných ochranných ustanovení, a to především pro
+> faktickou rovinu nájemního poměru.
+>
+> Obvyklost je nutno posuzovat objektivně s přihlédnutím k tomu, o jaký
+> byt se právě jedná.
+>
+> Poskytováním nezbytných plnění spojených s užíváním bytu nebo s ním
+> souvisejících (nezbytnými službami) se rozumí napojení na vodu, odpady,
+> elektřinu, zajištění topení apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2220 návrhu — dnešní § 2244):**
+
+> Do standardní ochrany nájemce náleží i přísnější požadavky kladené na
+> pronajímatele. Nájemci se ale přesto ukládají rovněž povinnosti
+> (poskytnutí nutné součinnosti).
+>
+> Vadou bytu, která by mohla způsobit, že byt není způsobilý k nastěhování
+> a obývání, není skutečnost, kterou pronajímatel sdělil nájemci při
+> uzavření smlouvy. Prohlédl-li si nájemce byt před uzavřením smlouvy,
+> nebo když si jej bez rozumného důvodu neprohlédl, ač jej k tomu
+> pronajímatel včas a řádně vyzval, nemůže nájemce za vadu označovat něco,
+> co měl a mohl při prohlídce zjistit, ledaže pronajímatel jednal hrubě
+> nedbale nebo v rozporu se zásadami slušnosti a poctivosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2221 návrhu — dnešní § 2245):**
+
+> Vadou se rozumí taková vada, která brání obvyklému bydlení a na kterou
+> nájemce pronajímatele upozornil dříve, než se do bytu nastěhoval.
+> Přiměřenou slevou se zásadně rozumí rozdíl v obvyklém nájemném za byt
+> vadný a bezvadný.
+>
+> K § 2222:
+>
+> Neujednají-li si strany výši nájemného, nemění to nic na tom, že byla
+> uzavřena nájemní smlouva, je-li možné ze smlouvy nebo z okolností, za
+> nichž byla uzavřena, dovodit, že jde o nájemní smlouvu. Nájemní smlouva
+> je totiž pojmově smlouvou úplatnou.
+>
+> Nedohodnou-li se strany o výši nájemného, má každá z nich právo žádat,
+> aby o výši nájemného rozhodl soud. Také pro soud je pak rozhodujícím
+> hlediskem nájemné v místě obvyklé.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2223 návrhu — dnešní § 2247):**
+
+> Jednotlivé náklady podle ujednání stran mohou být určeny pevnou částkou,
+> rozvrženy podle počtu nájemců, podle počtu osob s nájemcem bydlících,
+> podle velikosti podlahové plochy bytu apod. Rovněž pokud se jedná o
+> ustanovení odstavců 2 až 4 mohou se strany svým ujednáním od nich
+> odchýlit. Ustanovení odstavců 3 a 4 mohou být však vyloučena ustanovením
+> zvláštního právního předpisu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2224 návrhu — dnešní § 2248):**
+
+> Umožňuje se sjednat každoroční zvyšování nájemného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2225 a 2226 návrhu — dnešní § 2249—2250):**
+
+> Změna nájemného je řešena zvláštním ustanovením. Jednoznačně je patrno,
+> že rozhodné je nájemné obvyklé v daném místě. Až do jeho výše se
+> pronajímatel může za stanovených podmínek domoci zvýšení nájemného.
+> Návrh na zvýšení nájemného má jednoznačně a donucujícím způsobem
+> stanovené podmínky, a to jak obsahové, tak i formální. Zdůvodnění
+> stanovených podmínek je rovněž nezbytné.
+>
+> Ustanovení o změně nájemného mohou být použita, pokud si strany
+> neujednaly jinak. Došlo-li k ujednání, že se nájemné bude zvyšovat
+> každoročně nebo že se naopak nebude vůbec zvyšovat, pak se uplatní, co
+> si strany ujednaly. Stejně tak se strany mohou dohodnout po vzniku nájmu
+> na zvýšení nájemného, třebaže si v tom směru původně v nájemní smlouvě
+> neujednaly ničeho.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2227 návrhu — dnešní § 2251):**
+
+> I zdejší ustanovení je dispozitivní v tom smyslu, že je na stranách,
+> jaké platební období si ujednají. Nájemné se ale platí na jednotlivá
+> platební období (arg. „na každý"), nelze tedy po nájemci požadovat, aby
+> předem zaplatil nájemné za větší počet platebních období. Nájemné se
+> platí pevnou částkou: nelze platně ujednat nájemné např. za září 3000
+> Kč, za říjen 3500 Kč, za listopad 2800 Kč, za prosinec 3200 Kč. Výši
+> nájemného lze měnit jen podle zvláštních ustanovení. Právní pravidlo o
+> pevně ujednaném nájemném nelze obcházet nucením nájemce, aby plnil
+> pronajímateli vedle nájemného a případných záloh na služby ještě jiná
+> plnění, např. příspěvek na stavební úpravy domu, vklad do fondu oprav
+> apod. Stejně tak nelze nutit nájemce, aby pronajímateli vystavil na
+> pozdější platební období předem šek nebo směnku opatřenou pozdějším
+> datem vystavení či aby pronajímateli založil oprávnění vybírat si
+> budoucí nájemné z nájemcova účtu apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2228 návrhu — dnešní § 2252):**
+
+> I zdejší ustanovení je dispozitivní. Pronajímateli je ve většině případů
+> známo, kdy obdrží fakturu od dodavatele, takže je na něm, aby v nájemní
+> smlouvě na pozdější termín pamatoval. Jinak řečeno: není-li v konkrétním
+> případě vzhledem k postupu třetí osoby možné umožnit nahlížení do
+> vyúčtování k 30. dubnu, je třeba výslovné dohody o tom, kdy to možné
+> bude. Nelze mít ovšem za to, že je v rozporu s dobrými mravy, pokud by
+> pronajímatel navrhoval jako rozhodný den 31. prosinec následujícího
+> roku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2229 návrhu — dnešní § 2253):**
+
+> Pokud nájemce sporné nájemné nebo jeho část nedeponuje, jak má,
+> popřípadě nevyrozumí o tom pronajímatele, může pronajímatel smlouvu
+> vypovědět nebo lze nájem jinak zrušit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2230 návrhu — dnešní § 2254):**
+
+> Ustanovení o kauci nahrazuje dosavadní úpravu v § 686a odst. 1 až 5
+> platného občanského zákoníku. Návrh vychází z myšlenky, že pronajímateli
+> lze dát peněžitou jistotu (kauci) dosahující nanejvýš šestinásobku
+> měsíčního nájemného, která pronajímateli zajišťuje plnění nájemcových
+> povinností z nájmu. Tím vzniká nájemci vůči pronajímateli pohledávka na
+> vrácení kauce, která dospěje při skončení nájmu. Protože nájemce dává
+> složením jistoty pronajímateli k využití vedle své peníze, aniž za to
+> dostává protiplnění, má právo na úrok z jistoty. K samotným penězům
+> jejich vyplacením zaniká nájemcovo vlastnické právo, protože jde o
+> genericky určené věci. Vznikne-li za trvání nájmu nájemci dluh vůči
+> pronajímateli souvisící s nájmem (dluh na nájemném, na náhradě škody
+> způsobené porušením nájemcových povinností apod.), je na nájemci, aby
+> dluh vyrovnal, popřípadě se s pronajímatelem dohodl, že se o dlužnou
+> částku jistota sníží a do jaké doby ji případně doplní na původní
+> úroveň.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2231 návrhu — dnešní § 2255):**
+
+> Jedná se o další výraz snahy eliminovat administrativní zásahy do
+> soukromoprávní sféry - důraz je položen na smlouvu, ne na stavební
+> povolení.
+>
+> Umístit sídlo podnikatele, resp. podnikání na adrese bytu, resp. v bytě,
+> není vyloučeno. Není ale možné, aby z výkonu podnikatelské činnosti
+> plynulo zvýšené zatížení pro byt nebo dům, ať už v podobě množství osob,
+> nebo hluku, prachu, pachu apod. Zejména takové podnikání, které je ve
+> své podstatě výkonem tzv. svobodného povolání nebo má jinak tvůrčí
+> povahu (autoři, vynálezci apod.), nelze považovat v bytě (domě) za
+> vyloučené. Opačně ovšem platí o provozu notářského úřadu, exekutorského
+> úřadu apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2232 návrhu — dnešní § 2256):**
+
+> Pokyny pronajímatele nejsou ovšem právně vynutitelné, přesto, že jsou in
+> concreto rozumné, ledaže by vlastně opakovaly zákon, upozorňovaly na
+> jeho ustanovení, varovaly před porušováním a podobně.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1035,6 +1623,113 @@ Peněžitá jistota spolu se smluvní pokutou nesmí přesáhnout trojnásobek m
 
 **§ 2253 — Služby**: vyúčtování spojené se službami (voda, energie, výtah, úklid) jednou za rok.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2233 návrhu — dnešní § 2257):**
+
+> Zajišťování stavu bytu v podobě způsobilé k obývání zahrnuje rovněž
+> odpovídající čistění domu, včetně vymalování, a jeho běžnou i jinou
+> údržbu. Ve vlastnictví pronajímatele jsou zpravidla nejen součásti domu,
+> ale také jeho movité a nemovité příslušenství, a další věci, související
+> s domem.
+>
+> Ustanovení, podle kterého nájemce provádí pouze běžnou údržbu
+> související s užíváním bytu, zakládá nájemcovu povinnost zajistit
+> obvyklé udržování bytu a hrazení nákladů, které se obvykle při delším
+> užívání provádějí, včetně zajištění tzv. drobných oprav v bytě, které
+> jsou s běžnou údržbou spojeny.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2234 návrhu — dnešní § 2258):**
+
+> Navrhuje se právní pravidlo, které dosud chybělo.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2235 až 2238 návrhu — dnešní § 2259—2262):**
+
+> Za trvání nájmu mohou nastat různé situace, vyžadující úpravu, přestavbu
+> nebo jinou změnu v bytě nebo v domě. Přitom se dostávají do střetu zájem
+> nájemce na nerušeném bydlení, opírající se o nájemní smlouvu, a zájem
+> pronajímatele na provedení změn. Zásadně se k těmto změnám vyžaduje
+> souhlas nájemce, protože jde o zásah do jeho práva proti smlouvě.
+> Zároveň se pamatuje na výjimečné situace, kdy nájemcův souhlas není
+> vyžadován.
+>
+> Mohou nastat i situace, kdy bude zapotřebí, aby se kvůli rozsáhlejším
+> stavebním pracím nájemce z bytu dočasně vystěhoval. Na tyto případy,
+> které platná úprava vůbec neřeší, se pamatuje podrobnějšími
+> ustanoveními.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2239 návrhu — dnešní § 2263):**
+
+> Jedná-li se o změnu, nutnou vzhledem k (nepříznivému) zdravotnímu stavu
+> obyvatele bytu, může se nájemce domáhat nahrazení souhlasu pronajímatele
+> rozhodnutím soudu. Důvod musí být nejen vážný, ale i spravedlivý
+> z hlediska ochrany práv pronajímatele.
+>
+> Odstranění změny v bytě, tj. uvedení bytu do původního stavu, zajisté
+> nebude nutné, nežádá-li to pronajímatel, popřípadě dohodnou-li se strany
+> jinak.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2240 návrhu — dnešní § 2264):**
+
+> Nic nebrání tomu, aby v nájemní smlouvě bylo uvedeno, že nájemce nesmí
+> provádět vůbec nic (žádný zásah, a to ani takový, kterým se odstraňuje
+> vada) bez souhlasu pronajímatele, ledaže z prodlení hrozí vážné
+> nebezpečí. Rovněž může být ve smlouvě ujednáno, že nájemce pak musí
+> přijmout i osobu, kterou na práci objedná pronajímatel. To ale není věc
+> zákonného ustanovení.
+>
+> Náhrada toho, co nájemce vynaložil (atd.), se rozumí včetně jeho vlastní
+> pracovní činnosti, ztrátu času apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2241 až 2244 návrhu — dnešní § 2265—2268):**
+
+> Jde o běžná ustanovení o vadách bytu a povinnostech a právech stran
+> s nimi spojených.
+>
+> K § 2245:
+>
+> Toto nové ustanovení se navrhuje nejen k ochraně pronajímatele, ale
+> současně i jako nezbytné ustanovení sloužící obecně k prevenci vzniku
+> škody nebo zvětšení jejího rozsahu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2246 a 2247 návrhu — dnešní § 2270—2271):**
+
+> Na právní úpravě se nic nemění, totiž z přiměřeného užití ustanovení o
+> společnosti vyplývá, že běžné věci spravuje (obstarává) každý ze
+> společných nájemců, pro ostatní záležitosti je třeba souhlasu všech;
+> společní nájemci jsou zavázáni a oprávněni společně a nerozdílně;
+> nemohou-li se v případech hodných zvláštního zřetele společní nájemci
+> spolu dohodnout, může se každý z nich obrátit na soud.
+>
+> V případech hodných zvláštního zřetele soud na návrh společného nájemce
+> zruší společné nájemní právo společných nájemců a zároveň rozhodne,
+> který ze společných nájemců bude napříště nájemcem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2247 a 2249 návrhu — dnešní § 2271—2273):**
+
+> Účelem těchto nových ustanovení je chránit na jedné straně soukromý
+> život nájemce a na straně druhé zájmy pronajímatele jako vlastníka. Být
+> členem domácnosti má význam pro různé právní následky. Smyslem navržené
+> úpravy je řešit zárodky budoucích konfliktů hned v zárodku.
+>
+> Pro nájemce je podstatné, že v pronajatém bytě vede svoji domácnost.
+> Proto mu nemůže být bráněno, aby ve své domácnosti přijímal návštěvy.
+> Přijme-li však nájemce do své domácnosti další osobu, musí mít
+> pronajímatel vědomost, kolik osob v bytě s nájemcem žije, protože to má
+> význam pro náklady spojené s provozem a poskytováním služeb souvisících
+> s užíváním bytu. Z toho důvodu se nájemci ukládá povinnost oznámit
+> pronajímateli, že se počet osob žijících v bytě zvýšil. Poruší-li tuto
+> povinnost, zakládá to vyvratitelnou právní domněnku závažného porušení
+> povinnosti; při opakovaném porušení půjde o zvlášť závažné nebo hrubé
+> porušení povinnosti s důsledky, které z toho plynou. Kromě toho může mít
+> nájemcovo neoznámení bydlení další osoby vliv na přechod nájmu při smrti
+> nájemce nebo při jeho trvalém opuštění společné domácnosti.
+>
+> Pronajímatel nemůže účinně bránit nájemci, aby za člena své domácnosti
+> přijal jiného člověka, ledaže jde o případ přeplnění bytu. Navrhuje se
+> však upravit výjimku pro byty pronajímané jako zařízené nábytkem a
+> dalším vybavením (koberci, elektronikou apod.).
+>
+> Něco jiného jsou situace spojené s podnájmem, které se řeší zvlášť.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 627/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/755A45DE6587F00CC1258C93004D678A?openDocument) — *Nájemné Byt Přípustnost dovolání*
@@ -1102,6 +1797,21 @@ Pronajímatel udržuje byt způsobilý k užívání; nájemce smí chovat zví�
 **§ 2277**:
 > Podnájem končí společně s nájmem. Končí-li nájem, sdělí to nájemce podnájemci s uvedením rozhodných skutečností; jimi jsou zejména den skončení nájmu a popřípadě i délka výpovědní doby a počátek jejího běhu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2250 až 2252 návrhu — dnešní § 2274—2276):**
+
+> Uzavření smlouvy o podnájmu bytu nebo části bytu bez souhlasu
+> pronajímatele představuje nájemcův protiprávní čin. Toto zvlášť závažné
+> porušení nájemcovy povinnosti má za následek, že pronajímatel může nájem
+> vypovědět.
+>
+> Podnájemce není členem nájemcovy domácnosti, ani se jím nikdy stát
+> nemůže. Má zvláštní povinnosti a práva spojená s podnájmem. Zanikne-li
+> nájem, zanikne i podnájem; na podnájemce právo nájmu nepřechází.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2253 návrhu — dnešní § 2277):**
+
+> Podnájemci žádná další zvláštní práva nepříslušejí.
+
 ---
 
 ### § 2278—2284 — Skončení nájmu bytu
@@ -1168,6 +1878,65 @@ Pronajímatel udržuje byt způsobilý k užívání; nájemce smí chovat zví�
 - **Závažné a opakované obtěžování** sousedů.
 
 **§ 2289—2290 — Výpověď s výpovědní dobou** — minimum **3 měsíce** (nelze zkrátit).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2254 a 2255 návrhu — dnešní § 2278—2279):**
+
+> Jsou-li společnými nájemci bytu manželé, pokračuje jako nájemce
+> zpravidla pozůstalý manžel. To vyplývá z ustanovení o bydlení manželů v
+> druhé části zákona. Členové nájemcovy domácnosti se pro tento účel dělí
+> do dvou skupin - v první jsou nájemcův manžel (i když nebyl společným
+> nájemcem), potomek, rodič, sourozenec, zeť nebo snacha, u nichž postačí,
+> že byli členy nájemcovy domácnosti v den jeho smrti. V ostatních
+> případech se vyžaduje výslovný souhlas pronajímatele.
+>
+> Z členů nájemcovy domácnosti mají sice právo vstoupit do nájmu všichni,
+> přednost však mají potomci nájemce. To však nevylučuje jinou dohodu
+> členů nájemcovy domácnosti (např. tak, že práva a povinnosti z nájmu
+> přejdou na nejstaršího potomka apod.) a její oznámení pronajímateli.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2256 návrhu — dnešní § 2280):**
+
+> Návrh ustanovení je obdobou § 563b německého občanského zákoníku.
+>
+> Protože přechodem nájmu dochází ke změně v osobě pronajímatelovy smluvní
+> strany, zakládá se pronajímateli právo žádat po nájemcově nástupci
+> jistotu, i když ji po původním nájemci nepožadoval.
+>
+> Zároveň je třeba pamatovat na situace, že práva a povinnosti z nájmu
+> přejdou na jinou osobu než bude nájemcův dědic.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2257 a 2258 návrhu — dnešní § 2281—2282):**
+
+> Nájemní právo je právo majetkové a týká se užívání cizí věci za peníze,
+> proto není důvod vylučovat jeho přechod na dědice pro případ, že práva a
+> povinnosti z nájmu nepřejdou na členy nájemcovy domácnosti. Pojetí,
+> podle něhož by nájem v takovém případě zanikl již nájemcovou smrtí a
+> podle něhož by musely být zaniklé povinnosti a práva vypořádány již k
+> tomuto dni, přestože nájemcovy věci v bytě stále jsou, by nutně vedlo k
+> vzniku řady nejasných situací - např. proto, že by pronajímatel neměl od
+> okamžiku nájemcovy smrti právo na nájemné. Z těchto důvodů se navrhuje
+> převzít konstrukci § 564 německého občanského zákoníku, podle něhož
+> přecházejí práva a povinnosti z nájmu na nájemcova dědice, že však každá
+> ze stran má v tomto případě právo nájem vypovědět ve zkrácené výpovědní
+> době.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2259 návrhu — dnešní § 2283):**
+
+> Zůstane-li byt po nájemcově smrti nevyklizen, ač vyklizen být měl, je
+> nutné dát pronajímateli nástroj, s jehož využitím by se mohl ujmout
+> přímé držby svého vlastnictví. Proto se pronajímateli umožňuje byt
+> svépomocně vyklidit a popřípadě i přistoupit k svépomocnému prodeji
+> vyklizených věcí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2260 návrhu — dnešní § 2284):**
+
+> Sankce za nedostatečnou aktivitu pronajímatele je navrhována až pro
+> „druhou fázi", tj. pro dobu, kdy už nájem původně sjednaný skončil.
+> Tříměsíční lhůta je při tom dost dlouhá na to, aby pronajímatel jednal.
+> Nepečuje-li o svá práva (vigilantibus iura), půjde to k jeho tíži.
+>
+> Obdobně lhůta dvou let je dostatečně dlouhá pro případnou ochranu
+> nájemce, jíž pronajímatel ještě není poškozen nad přiměřenou míru.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1267,6 +2036,12 @@ Nájem bytu může pronajímatel vypovědět jen z taxativních důvodů (§ 228
 - **§ 2280** — Sourozenci, děti, vnoučata žijící v bytě → automaticky nájem;
 - **Krátkodobý přechod** (§ 2281) — vyživované osoby do 25 let.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2261 návrhu — dnešní § 2285):**
+
+> Vypovězen může být nájem na dobu neurčitou; nájem na dobu určitou jen ze
+> zvláštních důvodů. Jednotlivé situace se v detailech liší, nicméně lze
+> vymezit obecné náležitosti výpovědi, jak se v navrženém ustanovení činí.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 533/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-533-26_1) — usnesení, 11. 3. 2026
@@ -1353,6 +2128,52 @@ Nájem bytu smrtí nájemce nezaniká, nýbrž přechází na člena domácnosti
 **§ 2294**:
 > Zařízení a předměty upevněné ve zdech, podlaze a stropu bytu, které nelze odstranit bez nepřiměřeného snížení hodnoty nebo bez poškození bytu nebo domu, přecházejí upevněním nebo vložením do vlastnictví vlastníka nemovité věci. Nájemce má právo žádat, aby se s ním pronajímatel bez zbytečného odkladu vyrovnal; to neplatí o tom, co nájemce provedl bez souhlasu pronajímatele. Vyrovnání je splatné nejpozději ke dni skončení nájmu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2263 návrhu — dnešní § 2288):**
+
+> Navržené ustanovení má zabránit zneužití výpovědního důvodu v případech,
+> kdy pronajímatel vypoví nájem s odůvodněním, že byt potřebuje k bydlení
+> pro sebe nebo pro svého manžela, který hodlá opustit domácí společenství
+> a navrhl rozvod manželství nebo je již s pronajímatelem rozveden,
+> popřípadě k bydlení pro svého příbuzného nebo pro příbuzného svého
+> manžela v přímé linii nebo ve vedlejší linii v prvním stupni, ale byt po
+> vyklizení ponechá prázdný nebo pronajme jiné osobě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2264 návrhu — dnešní § 2290):**
+
+> Řízení k návrhu nájemce vyhovuje lépe zájmu na vyvážené ochraně zájmů
+> stran. Je-li zasaženo do práv nájemce, je na něm, aby se bránil
+> (*vigilantibus iura*). Nájemcovo postavení jako slabší strany je
+> dostatečně vyváženo tím, že se vyžaduje, aby byl o svém právu domáhat se
+> soudního přezkoumání výpovědi pronajímatelem ve výpovědi poučen.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2265 návrhu — dnešní § 2291):**
+
+> Jedná se o výpověď bez výpovědní doby (s okamžitými účinky). Vzhledem
+> k tomu, že jde o výpověď jednoznačně sankčního charakteru, lze mít za
+> to, že je nutno předpokládat jistou (nemalou) intenzitu závadného
+> chování nájemce (to se týká nejen doby neplacení nájemného a nákladů na
+> služby, ale také charakteru působených škod).
+>
+> Z obecných ustanovení o nájmu se zde použije též to, které ustanovuje o
+> právu zájemce prohlížet byt.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2266 návrhu — dnešní § 2292):**
+
+> Odevzdání bytu nájemcem je obdobou odevzdání bytu pronajímatelem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2267 návrhu — dnešní § 2293):**
+
+> Rozumí se, že podmínkou odevzdání bytu ve stavu, v jakém jej nájemce
+> převzal, je předchozí odstranění změn podle ustanovení odst. 2 a 3.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2268 návrhu — dnešní § 2294):**
+
+> Strany si mohou ve všech ohledech ujednat jinak, včetně dohody o tom,
+> jakou podobu má nebo mít má odevzdaný být.
+>
+> Strany si mohou ujednat splatnost částky vyrovnání za to, co se
+> souhlasem pronajímatele nájemce nevratně vloží (zabuduje) do bytu.
+
 ---
 
 ### § 2295—2301 — Skončení nájmu
@@ -1394,6 +2215,30 @@ Nájem bytu smrtí nájemce nezaniká, nýbrž přechází na člena domácnosti
 **§ 2295 — Při skončení nájmu** — vrácení bytu **uklizený, ve stavu způsobilém** k novému nájmu.
 
 **§ 2296—2297 — Drobné úpravy** nájemce zůstávají bez náhrady; **velké úpravy** se souhlasem — nárok na náhradu, jen pokud zvyšují hodnotu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2269 návrhu — dnešní § 2295):**
+
+> Zdejší ustanovení má napomoci vyloučit pochybnosti o povaze užívání
+> bytu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2270 návrhu — dnešní § 2296):**
+
+> Pro případ, že nájemce nevyklidí byt beze zbytku, je vhodné přijmout
+> výslovnou úpravu práv pronajímatele. (Ustanovení se použije obdobně
+> v případě smrti nájemce.)
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2271 až 2273 návrhu — dnešní § 2297—2299):**
+
+> Ustanovení o nájmu služebního bytu jsou určena i pro domovnické byty,
+> pro byty, ve kterých bydlí školníci, topiči apod. a jsou určena pro
+> všechny domy bez ohledu na konkrétního vlastníka. Nájem služebního bytu
+> se od běžného nájmu bytu liší zcela zásadním způsobem. Především proto
+> nelze použít ustanovení o přechodu nájmu v případě nájemcovy smrti na
+> členy nájemcovy domácnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2274 a 2275 návrhu — dnešní § 2300—2301):**
+
+> Návrh ustanovení vychází z platné právní úpravy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1478,6 +2323,55 @@ Užívá-li nájemce byt po skončení nájmu, náleží pronajímateli náhrada
 **§ 2302 — Definice**: prostor sloužící podnikání nájemce.
 
 **§ 2305 — Subsidiarita**: použijí se přiměřeně obecná pravidla nájmu (§ 2201—2234).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2276 návrhu — dnešní § 2302):**
+
+> Výklad pojmu „místnost" a „prostor" kolísá: skladovací halu nelze patrně
+> označit za místnost, v místnostech se naopak provozují kanceláře,
+> studia, závody restauračního typu. Proto jsou v úvodním ustanovení užity
+> vedle sebe nejprve zmíněny oba výrazy, aby se předešlo pochybnostem.
+>
+> Zásadně se prostorem sloužícím podnikání rozumí vystavěná nebo jinak
+> vybudovaná část nemovité věci, která má podle ujednání stran sloužit
+> podnikání, zejména výkonu či provozu živnosti maloobchodní, restaurační,
+> hospodské (včetně tzv. rychlého občerstvení, kaváren, čajoven), nebo
+> roznáškové, hotelové, nebo výkonu živnosti řemeslnické, jiné činnosti
+> výrobní nebo skladovací nebo poskytování služeb, bez ohledu na to, zda
+> při tom bude docházet ke styku s veřejností či nikoli. Podnikání
+> samozřejmě slouží i místnosti, kde se provozuje tzv. svobodné povolání,
+> umělecká tvorba, ale také např. lékařská, zubařská, lékárnická, apod.
+> činnost. Nelze vyloučit, že si strany ujednají nájem prodejního místa
+> (tzv. stánku, pultu či pod.).
+>
+> Prostor nebo místnost nesloužící podnikání (ale ani bydlení) slouží
+> zpravidla nějaké obecně nebo místně, či jinak parciálně prospěšné
+> činnosti, především neziskové. K takovým prostorům nebo místnostem patří
+> ovšem i ty, které slouží, obdobně jako byt, k zásadně neziskovému
+> užívání nájemcem nebo členy jeho rodiny (garáž, studovna apod.).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2277 návrhu — dnešní § 2303):**
+
+> Strany si mohou i zde ujednat jinak, ledaže je výslovně stanoveno, že to
+> možné není.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2278 návrhu — dnešní § 2304):**
+
+> Ustanovení představuje dosud chybějící úpravu, jejíž potřeba byla a je
+> zjevná. Takto nájemce sice nemá právo bez souhlasu pronajímatele zásadně
+> změnit činnost nebo okolnosti jejího výkonu (např. denní dobu výkonu
+> činnosti), má však možnost dohodnout se s pronajímatelem o takové změně,
+> která bude provázena třeba změnou výše nájemného. Jinak má
+> pronajímatel - kromě práva na náhradu škody - právo nájem vypovědět
+> (neodpoví-li nájemce přiměřeným způsobem na jeho výzvu k nápravě).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2279 a 2280 návrhu — dnešní § 2305—2306):**
+
+> Osazování různých předmětů do nemovité věci nebo na nemovitou věc, v níž
+> se prostor sloužící podnikání nachází, je jistě především v zájmu
+> nájemce. Pronajímatel by mu ale zásadně neměl bránit, protože sekundárně
+> jde o i jeho prospěch. Důvodem nesouhlasu by tak popřípadě mohla být jen
+> nepřiměřená škoda, která by mohla volbou nevhodného označení nebo
+> nevhodného způsobu (realizace) označení pronajímateli vzniknout.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1594,6 +2488,57 @@ Na nájem prostoru sloužícího (převážně) podnikání se vztahují § 2302
 
 **§ 2314—2315 — Skončení**: vyklizení a vrácení v původním stavu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2279 a 2280“ (dnešní § 2305—2306) — viz § 2305.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2281 návrhu — dnešní § 2307):**
+
+> Zvláštní povaha činnosti prováděné v prostoru sloužícím podnikání
+> vyžaduje zvláštní úpravu dispozic s takovým prostorem. Předpokládá se,
+> že s prostory sloužícími podnikání disponují právě podnikatelé.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2282 až 2284 návrhu — dnešní § 2308—2310):**
+
+> Ustanovení o skončení nájmu vyhovují zvláštní povaze činnosti
+> realizované v prostoru sloužícím podnikání (prvky této zvláštní povahy
+> v jiných nájmech neexistují). V otázkách zde neupravovaných se uplatní
+> obecná ustanovení.
+>
+> Ustanovení § 2282 až 2285 dopadají na případy, kdy byl nájem ujednán na
+> dobu určitou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2285 návrhu — dnešní § 2311):**
+
+> Není důvod, aby se prostor v tomto případě posoudil zásadně jinak než
+> byt.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2286 návrhu — dnešní § 2312):**
+
+> Vážným důvodem se rozumí důvod výslovně v zákoně uvedený (viz § 2282 a
+> 2283), popř. i jiný důvod, který lze mít za vážný.
+>
+> Pro použití výjimečné šestiměsíční lhůty sluší předpokládat poctivost
+> vypovídané strany. Měla-li by mít tato strana pochybnosti o řádnosti
+> plnění svých povinností, nemůže žádat výjimku.
+>
+> Tříměsíční lhůta se jeví být minimální vzhledem k charakteru činnosti
+> v prostoru provozované, je-li takovou výroba. Ve většině ostatních
+> případů se zdá být příliš dlouhou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2287 návrhu — dnešní § 2313):**
+
+> I v tomto případě jde o obdobu ustanovení týkajícího se nájmu bytu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2288 návrhu — dnešní § 2314):**
+
+> I v tomto případě jde o obdobu ustanovení týkajícího se nájmu bytu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2289 návrhu — dnešní § 2315):**
+
+> I zdejší ustanovení je výrazem specifiky tohoto druhu nájmu. Bude třeba
+> vycházet z obvyklé ceny zákaznické základny.
+>
+> Počítá se s jednorázovou náhradou.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 235/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26A7616962053DB3C1258DD5004D365E?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
@@ -1652,6 +2597,14 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 > (1) Nájemní smlouvou se pronajímatel, který je podnikatelem a jehož podnikání spočívá v pronajímání věcí, zavazuje přenechat nájemci na určitou dobu užívání movité věci a nájemce se zavazuje platit za to pronajímateli nájemné.
 > (2) Není-li dále stanoveno jinak, použijí se pro podnikatelský pronájem movitých věcí obecná ustanovení o nájmu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2290 návrhu — dnešní § 2316):**
+
+> Dočasná, někdy, zejména je-li nájemcem fyzická osoba, krátkodobá,
+> potřeba užívat cizí věc představuje jednu stranu tohoto zvláštního druhu
+> nájmu. Druhou je podnikatelské (tedy mj. za účelem dosažení zisku)
+> poskytování toho, co tuto potřebu může pokrýt. Nejde-li o podnikatelské
+> pronajímání, jde o výpůjčky movitých věcí.
+
 ---
 
 ### Pododdíl 4 — Nájem dopravního prostředku (§ 2321—2325)
@@ -1698,6 +2651,56 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 > (1) Nájemce má právo nájem kdykoli vypovědět. Výpovědní doba je desetidenní.
 > (2) Ustanovení o obnovení nájemní smlouvy po uplynutí doby nájmu za předpokladu, že pronajímatel o vrácení nepožádá, se nepoužije.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2291 návrhu — dnešní § 2317):**
+
+> Zejména pravidla či pokyny pro zacházení s věcí je třeba stále více
+> považovat za *conditio sine qua non*, a to s ohledem na možnou složitost
+> pronajímaných předmětů. Nesplnění této povinnosti se dobře může stát
+> důvodem obrácení důkazního břemene, popř. i odpovědnosti za škodu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2292 návrhu — dnešní § 2318):**
+
+> Použitými pojmy „snížení" a „sleva" má být vyjádřeno odlišení
+> dlouhodobých nájmů a dlouhodobých obtíží od jednorázové záležitosti.
+> Dosavadní právní úprava zná ovšem jen pojem „sleva".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2293 návrhu — dnešní § 2319):**
+
+> Zdejší ustanovení nemění nic -- s výjimkou vyjádření -- na platné právní
+> úpravě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2294 návrhu — dnešní § 2320):**
+
+> Mezi specifika tohoto nájmu náleží i doba, na niž je nájemní smlouva
+> uzavřena, výpověď přípustná vždy po celou dobu nájmu, jakož i nemožnost
+> využít obvyklé relocatio tacita.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2295 návrhu — dnešní § 2321):**
+
+> Dopravním prostředkem se rozumí jakékoli vozidlo (motorové i
+> bezmotorové, silniční, kolejové, letadlo, vznášedlo atd.), které slouží
+> přepravování nákladu nebo lidí, popřípadě obojího.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2296 návrhu — dnešní § 2322):**
+
+> Zvláštní povaha tohoto druhu nájmu vyžaduje konkretizaci povinností
+> stran, zde pronajímatele.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2297 návrhu — dnešní § 2323):**
+
+> Pojištění dopravního prostředku je jinak věcí pronajímatele.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2298 návrhu — dnešní § 2324):**
+
+> Placení nájemného bude zajisté zpravidla řešena výslovným ujednáním
+> stran.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2299 návrhu — dnešní § 2325):**
+
+> Zde je výslovně uvedena obecně platná zásada: pronajímatel je povinen
+> odevzdat nájemci věc v řádném stavu a v tomto stavu ji po celou dobu
+> nájmu udržovat.
+
 ---
 
 ## Ubytování (§ 2326—2331)
@@ -1710,6 +2713,13 @@ Při výpovědi z nájmu prostoru sloužícího podnikání ze strany pronajíma
 - **Hotel, penzion, hostel**;
 - **Krátkodobý** charakter (rozdíl od bydlení);
 - **Ubytovací řád** = "veřejné" podmínky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2300 návrhu — dnešní § 2326):**
+
+> Zdejšími ustanoveními se spravuje ubytování v hotelích, noclehárnách,
+> ubytovnách a jiných podobných zařízeních.
+>
+> Navrhovaný text se nijak neodlišuje od zažitého usu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1793,6 +2803,11 @@ Smlouva o ubytování (§ 2326) zakládá přechodné ubytování v zařízení 
 - **Daňový režim**: zdaňováno jako příjem z podnikání (živnostenský — ubytovací služby) — § 7 zákona o daních z příjmů;
 - **Návaznost na obecní úpravu**: některé obce regulují AirBnB obecně závaznými vyhláškami.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2301 až 2305 návrhu — dnešní § 2327—2331):**
+
+> Ustanovení o smlouvě o ubytování jsou zásadně převzata z platného
+> občanského zákoníku (§ 754 a násl.).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 30/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D076E55401C9758C1258C0300529EA3?openDocument) — *Spotřebitel Smlouva o ubytování Odstupné*
@@ -1861,6 +2876,51 @@ Ubytovaný má právo užívat prostor a služby a žádat úschovu cenností; z
 **Plnění**:
 - **Peněžité pachtovné**, nebo
 - **Naturální plnění** (poměrná část výnosu — typicky úroda).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2306 a 2307 návrhu — dnešní § 2332—2333):**
+
+> Rozdílně od nájmu, kdy má nájemce právo věc užívat, se pachtovní
+> smlouvou zakládá pachtýři právo věc užívat i požívat. Základní
+> ustanovení o pachtovní smlouvě se spokojuje s poukazem na pachtýřovo
+> požívací právo, protože obsah tohoto práva dostatečně vyjasňuje
+> ustanovení o požívacím právu v úpravě osobních společností. Předmětem
+> pachtu může být tedy jen věc plodivá, plodonosná, přinášející výnos, ať
+> již jsou výnosem plody naturální nebo civilní. Pravidelným rysem pachtu
+> je pachtýřovo vlastní přičinění: pachtýř vlastní prací nebo jinou
+> činností obhospodařuje věc tak, aby přinášela plody nebo užitky (výnos)
+> a pachtýř si tento výnos přivlastňuje. Výnos může být řádný (běžně
+> předpokládaný) i mimořádný. Účelem pachtu však není drancování
+> propachtované věci, proto se navrhuje spojit pachtýřovo právo na výnos s
+> obhospodařováním věci podle zásad řádného hospodaření. Ovšemže i při
+> řádném hospodaření může z různých příčin - vyvolaných např. přírodními
+> nebo ekonomickými vlivy - dojít k výkyvům ve výnosech. To je však
+> především riziko pachtýře, které může být kryto např. pojištěním; možné
+> je samozřejmě i ujednání, že výše pachtovného bude v závislosti na
+> objemu výnosu pohyblivá apod.
+>
+> Jednotlivá práva a povinnosti pachtýře závisí hlavně na smlouvě, ale
+> také na povaze propachtované věci (propachtována může být nejen věc
+> hmotná, ale i nehmotná); vzhledem k tomu se v jednotlivých případech
+> může vyžadovaná míra pečlivosti lišit. Pachtovní smlouva je úplatná,
+> pachtovným však nemusí být vždy jen peníze, nýbrž i poměrná část výnosu
+> z plodonosné věci, popřípadě v kombinaci s peněžitým plněním.
+>
+> Rozdíl mezi nájmem a pachtem setřela zdejší zákonná úprava při
+> rekodifikaci v r. 1950 - nejen v odlišení od rakouské kodifikace, ale i
+> četných dalších zákoníků západní Evropy vůbec (poukázat lze na úpravu
+> německou, švýcarskou, italskou a další). Naproti tomu např. v maďarský
+> občanský zákoník z r. 1959 nebo v polský občanský zákoník z r. 1964
+> úpravu pachtu zachovaly s vědomím jeho zvláštností i hospodářského
+> významu. Zvláštní rysy pachtu - byť nejsou jako pacht označovány -
+> obchodního závodu (podniku), honitby nebo rybolovu - si vynutily úpravu
+> ve zvláštních zákonech.
+>
+> Ze stejných důvodů jako u nájmu se navrhuje založit možnost k zápisu
+> pachtovního práva do katastru nemovitostí nebo do jiného veřejného
+> seznamu. Zápis se zamýšlí umožnit i v případě, že je do veřejného
+> seznamu zapsána jednotlivá složka hromadné věci (např. pozemek jako
+> složka propachtovaného podniku). I zde se dají očekávat vyšší náklady na
+> zápis do katastru nemovitostí.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1974,6 +3034,66 @@ Pacht se od nájmu liší tím, že pachtýř věc nejen užívá, ale i požív
 - Sestaven společně;
 - **Vrácení**: ve stavu **s ohledem na obvyklé opotřebení**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2306 a 2307“ (dnešní § 2332—2333) — viz § 2332.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2308 návrhu — dnešní § 2334):**
+
+> Přísná sankce odpovídá obdobné sankci při nájmu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2309 až 2311 návrhu — dnešní § 2335—2337):**
+
+> Propachtovatel nepřestává být vlastníkem propachtované věci a jako
+> takový může být zavázán nebo oprávněn k různým opatřením. Taková
+> opatření se mohou kladně nebo záporně ovlivnit pachtýřovy výnosy. Jinak
+> ovšem riziko nezdaru v úsilí o výnos nese pachtýř. Pachtýř je zásadně
+> povinen jen k běžné údržbě a běžným opravám; vyskytnou-li se na věci
+> vady, které pachtýř nezpůsobil nebo k jejichž odstranění není povinen,
+> stíhá povinnost k odstranění vad propachtovatele. Navržená ustanovení
+> berou v úvahu různé situace, které v důsledku propachtovatelových
+> opatření mohou nastat.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2312 až 2314 návrhu — dnešní § 2338—2340):**
+
+> Je-li pacht ujednán na určitou dobu, končí uplynutím ujednané doby.
+> Specifické povaze pachtu však odpovídá zvláštní ustanovení vztažené k
+> pokračování pachtu na základě výzvy propachtovatele či pachtýře. Také
+> pokud jde o pacht ujednaný na neurčitou dobu, respektuje se jeho
+> dlouhodobý charakter, a tudíž se dispozitivně vyžaduje, aby výpovědní
+> doba končila spolu s pachtovním rokem. Pachtovním rokem je rok
+> začínající dnem účinnosti pachtovní smlouvy; má se za to, že pachtovním
+> rokem je rok kalendářní.
+>
+> Také ustanovení § 2314 odráží zvláštní povahu pachtu; zvláštní
+> ohodnocení výtěžku vyžaduje výslovnou úpravu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2315 návrhu — dnešní § 2341):**
+
+> Přes svá specifika má pacht různé rysy společné s nájmem. Odkazovací
+> ustanovení je proto plně namístě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2316 až 2318 návrhu — dnešní § 2342—2344):**
+
+> Hospodářský účel pachtu vede k tomu, že propachtovatel přenechává věc
+> pachtýři s inventářem, tedy se souborem věcí, zejména movitých, určených
+> k užívání hlavní věci a jejímu řádnému obhospodařování. Nemusí tomu být
+> jen při pachtu zemědělských farem nebo jiných obchodních závodů, který
+> je upraven speciálně, ale i v jiných případech. Pak se i na inventář
+> vztahují ustanovení o pachtu. Nenavrhuje se uložení povinnosti inventář
+> sepisovat, záleží na stranách samotných, i když se přirozeně jeví jako
+> vhodné a výhodné soupis inventáře provést jak při předání propachtované
+> věci pachtýři, tak i při vrácení věci propachtovateli po skončení
+> pachtu. Z praktických důvodů bude soupis inventáře fakticky nezbytný při
+> přenechání inventáře za ujednanou (tzv. odhadní) cenu.
+>
+> Řádné hospodaření s propachtovanou věcí zahrnuje i péči o inventář, jeho
+> údržbu a obnovování, resp. modernizaci se zřetelem k technickému
+> pokroku.
+>
+> Pacht věci hlavní ovšem nevyvolává nutnost jejího propachtování společně
+> s inventářem. Strany si mohou ujednat, že pachtýř inventář odkoupí
+> (třeba i za souhrnnou odhadní cenu) a že jej od něho při skončení pachtu
+> zase odkoupí propachtovatel.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 3967/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6ABC71E73AC6B35BC1258684001E0EC1?openDocument) — *Nájem pozemku Pacht /pachtýř, propachtovatel) (o. z.) Náhrada škody Myslivost*
@@ -2040,6 +3160,17 @@ Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále
 - **Lesní pozemky**;
 - **Rybníky a vodní plochy** pro produkci.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2319 až 2322 návrhu — dnešní § 2345—2348):**
+
+> Zvláštní ustanovení o zemědělském pachtu odůvodňují specifika podnikání
+> v zemědělství nebo lesnictví. Nicméně jde o ustanovení dispozitivní
+> povahy, záleží tudíž na vůli stran.
+>
+> Ustanovení o zemědělském pachtu se použijí v případě, že se smlouva
+> vztahuje k pozemku. Propachtován může být ovšem i celý zemědělský závod
+> (farma) nebo lesní závod. V takovém případě se použijí ustanovení o
+> pachtu závodu společně s ustanoveními o zemědělském pachtu.
+
 ### Specifika
 
 **§ 2346 — Doba**: pacht zemědělský má **delší dobu trvání** (často 5—15 let) k zajištění návratnosti investice.
@@ -2067,6 +3198,18 @@ Pachtýř pečuje o věc jako řádný hospodář a nesmí ji bez souhlasu dále
 - Pachtýř má právo na **zisk z provozu**;
 - Závazky / pohledávky závodu zůstávají **propachtovateli** (rozdíl od koupě závodu);
 - **Forma**: písemná, **veřejná listina** doporučená.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2323 až 2331 návrhu — dnešní § 2349—2357):**
+
+> Zařazením obecných ustanovení o pachtovní smlouvě do občanského zákoníku
+> odpadne nezbytnost konstruovat zvláštní smluvní typ, který platný
+> obchodní zákoník zná pod vadným označením jako smlouvu o nájmu podniku.
+> Navrhuje se proto zařadit do občanského zákoníku ve vztahu k pachtu
+> závodu jen specifická ustanovení stanovující odchylky od obecné úpravy
+> pachtu, přičemž jinak je dostatečně použitelná obecná úprava. Rozdíl
+> mezi zemědělským pachtem a pachtem závodu je dán rozdílem mezi farmou,
+> která není závodem, protože nenaplňuje znaky závodu, a závodem (srov. §
+> 476 a důvodovou zprávu k němu).
 
 **Judikatura (z místních zdrojů):**
 
@@ -2160,6 +3303,22 @@ Pacht závodu (§ 2349) přenechává obchodní závod (§ 502) pachtýři k pro
 - Pacht restaurace, hotelu, malého obchodu;
 - **Family business succession** — předání závodu novým provozovatelům před formálním převodem;
 - **Test-run** pro budoucí kupní smlouvu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2323 až 2331“ (dnešní § 2349—2357) — viz § 2349.
 
 **Judikatura (z místních zdrojů):**
 

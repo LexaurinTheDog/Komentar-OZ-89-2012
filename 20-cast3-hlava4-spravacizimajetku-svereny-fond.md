@@ -48,6 +48,62 @@ Společná úprava § 1400—1447 se aplikuje **subsidiárně** ke všem těmto 
 
 **Domněnka zastoupení** (odst. 2): správce jedná **jako zástupce vlastníka** (= jednání má účinky pro vlastníka). Vyvratitelná domněnka — lze ujednat **přímé zastoupení vlastním jménem na účet beneficienta** (typicky u svěřenského správce — § 1456).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1391 až 1395 návrhu — dnešní § 1400—1404):**
+
+> Na doporučení z Legislativní rady vlády byl do osnovy zařazen návrh
+> ustanovení o správě cizího majetku a svěřenských fondech (fiducie,
+> trust) cestou zásadního obsahového převzetí analogických pasáží z CCQ
+> čl. 1260 až 1370). Této úpravě se věnuje šestý díl osnovy (§ 1391 až
+> 1465). Generální úprava správy cizího majetku je hospodářsky, sociálně i
+> právně velmi potřebná a v našem soukromém právu je její nedostatek
+> citelný.
+>
+> Ustanovení o správě cizího majetku jsou subsidiárně použitelná pro
+> všechny případy, kdy někdo spravuje cizí majetek pro někoho jiného,
+> vyjma případů správy podle druhé části zákoníku, kde je speciálně
+> upravena správa společného jmění manželů a správa majetku nezletilých
+> dětí v rámci práva rodinného. Přirozeně, nejen zvláštní zákon, ale i
+> smlouva mohou od této úpravy stanovit odchylky, a odchylky mohou
+> vyplynout i z povahy věci (§ 1391).
+>
+> Ze správy cizího majetku vznikají práva a povinnosti dvěma stranám.
+> První z nich je označena jako správce, druhá jako beneficient. Jiná
+> možná označení beneficienta (beneficiát, obročník) nebyla zvolena,
+> protože působí uměle nebo zastarale. Na každé straně může být i více
+> osob: u beneficientů je to velmi časté a ani na straně správce není
+> pojmově vyloučena spoluspráva a osnova s ní počítá.
+>
+> Z povahy správy jako zastoupení svého druhu, založeného zpravidla na
+> principu důvěry, vyplývá zásada, že funkce správce cizího majetku je
+> funkcí osobní. Správce však nemusí osobně vykonávat vše, co k správě
+> náleží, a v řadě případů to ani není možné. Proto mu musí být dovoleno,
+> aby plněním svých jednotlivých dílčích úkolů pověřil i někoho jiného:
+> pak ale odpovídá za výběr takové osoby a za její řádnou instruktáž.
+> Přenese-li správce na někoho svou působnost neoprávněně, nemůže se vůbec
+> zprostit odpovědnosti za její činy, nýbrž za škody touto osobou
+> beneficientovi případně způsobené odpovídá solidárně se škůdcem.
+>
+> Činnost správce je zásadně úplatná. Ujme-li se někdo správy cizího
+> majetku bezdůvodně, pak právo na odměnu (úplatu) za správu nemá. To však
+> nevylučuje ani řešení právního poměru stran s využitím ustanovení o
+> bezdůvodném obohacení, budou-li naplněny příslušné skutkové podstaty,
+> ani dohodu stran, která tyto poměry vyřeší jinak.
+>
+> Pro případ, že je beneficientů několik, musí být stanoveno, jak se mezi
+> beneficienty dělí náklady správy a zisk z ní vzešlý. Pravidla v tom
+> směru může stanovit zákon; mlčí-li, pak to je věcí smlouvy. Pokud ani
+> smlouva neobsahuje řešení, musí správce rozdělení zisku a nákladů uvážit
+> podle povahy věci (např. při správě majetku spoluvlastníků, jejichž
+> podíly nejsou stejné, se jejich podílení na nákladech i zisku stanoví
+> podle velikosti spoluvlastnických podílů). Není-li možné ani to,
+> navrhuje se zavést nevyvratitelnou domněnku o stejnosti podílů.
+>
+> K určitým činům potřebuje správce souhlas beneficienta. Pro případy, že
+> beneficient není k zastižení (a neustanovil ani pro ten případ zástupce)
+> nebo kdy se z jiných důvodů nemůže vyjádřit, musí být stanoveno
+> pravidlo, jak tento souhlas nahradit. Z toho důvodu se navrhuje řešit
+> nahrazení beneficientova chybějícího souhlasu soudním přivolením.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 1036/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/38ACB1BAE3D46F22C125863E001DB01F?openDocument) — *Smlouva příkazní Smlouva o účtu (o. z.)*
@@ -109,6 +165,8 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 
 **Sankce**: neoprávněné pověření → **solidární odpovědnost** správce s delegátem za vše, co delegát učinil.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1391 až 1395“ (dnešní § 1400—1404) — viz § 1400.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 64/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EBC8E89D0BE129A7C1258D08004D33EA?openDocument) — *Plná správa cizího majetku (o. z.) [ Správa cizího majetku (o. z.) ] Konkurs Insolvenční…*
@@ -165,6 +223,8 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 
 **Bezdůvodná správa** = jednatel bez příkazu (§ 3006 a násl.) — má právo na **náklady**, nikoliv na **odměnu** (rozdíl od smluvního správce).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1391 až 1395“ (dnešní § 1400—1404) — viz § 1400.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan S na základě ústní dohody s nemocnou tetou T po několik let spravoval její byt a finance — platil účty, pronajímal garáž, vyřizoval opravy. Odměna nebyla výslovně sjednána. Po smrti T se S přihlásil do pozůstalostního řízení s nárokem na odměnu za správu; dědicové ji odmítají s tím, že šlo o rodinnou výpomoc zdarma. K prokázání: doklady o rozsahu činnosti, doba správy, obvyklé sazby správců majetku v místě.
@@ -208,6 +268,8 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 > Zisk a náklady správce rozdělí mezi beneficienty podle stanov či jiné smlouvy, jinak co nejspravedlivěji se zřetelem k povaze a předmětu správy a k okolnostem jejího vzniku se zřetelem k obecným zvyklostem. Nelze-li stanovit jiný poměr pro rozdělení zisku a nákladů mezi beneficienty, platí, že jsou tyto podíly stejné.
 
 Mezi více beneficienty: dle smlouvy/stanov → spravedlivě s ohledem na povahu a okolnosti → **rovným dílem** (poslední dispozitivní hierarchie).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1391 až 1395“ (dnešní § 1400—1404) — viz § 1400.
 
 #### F. Kazuistika
 
@@ -256,6 +318,8 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 - Stanovisko **nelze včas zjistit**;
 - Beneficient **odmítá souhlas bez spravedlivého důvodu** (chrání ho proti vlastní nerozumnosti).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1391 až 1395“ (dnešní § 1400—1404) — viz § 1400.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zůstavitel zřídil svěřenský fond ve prospěch dosud nenarozených vnoučat. Správce potřebuje k prodeji nemovitosti fondu (za účelem výhodné reinvestice) souhlas beneficienta; ten však zatím neexistuje (nenarozen) a okruh budoucích obmyšlených je neznámý. Hrozí promeškání výhodné nabídky. K prokázání: statut, doložení neexistence/neznámosti beneficienta, výhodnost zamýšleného jednání.
@@ -303,6 +367,19 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 **Prostá správa** (*simple administration*, *administration ordinaire*) = **konzervativní správa** — cílem je **zachování substance** (*conservatio*), nikoliv aktivní obohacování. Paralela k *Verwaltung* v ABGB.
 
 **Typické příklady**: opatrovnictví, správa pozůstalosti, správa věci společné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1396 až 1401 návrhu — dnešní § 1405—1410):**
+
+> Správa cizího majetku se rozlišuje na správu prostou a na správu plnou.
+> Jedná-li se o prostou správu, musí správce dbát o zachování jeho
+> podstaty a účelu a nemůže je bez přivolení beneficienta měnit. Výjimka
+> je povolena jen u správy peněz (§ 1398) a pro případy, kdy hrozí
+> nenadálá ztráta, poškození nebo ztráta hodnoty spravovaného majetku (§
+> 1399 odst. 2).
+>
+> Naproti tomu plná správa zakládá správci širší oprávnění, protože při
+> plné správě správce může se spravovaným majetkem učinit vše, co je
+> potřebné k jeho zachování, zhodnocení nebo rozmnožení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -365,6 +442,8 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 
 Správce **uplatňuje všechna práva** k majetku, **hospodaří řádně**. **Zákaz měnit účel** bez souhlasu beneficienta — chrání původní funkční zaměření majetku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1396 až 1401“ (dnešní § 1405—1410) — viz § 1405.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1660/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AAA31CDB7B08AEEC1258784001E32A5?openDocument) — 31. 8. 2021
@@ -417,6 +496,8 @@ Správce **uplatňuje všechna práva** k majetku, **hospodaří řádně**. **Z
 > Spravuje-li správce peněžní prostředky, musí je vynaložit obezřetně. Bylo-li něco ze spravovaného majetku vynaloženo určitým způsobem dříve, může správce zvolený způsob později změnit.
 
 Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu investování má prostor pro **diskreci** (ne dogmatika „nikdy neměnit").
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1396 až 1401“ (dnešní § 1405—1410) — viz § 1405.
 
 **Judikatura (z místních zdrojů):**
 
@@ -475,6 +556,8 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Výjimka (odst. 2)**: **bez souhlasu**, hrozí-li **rychlá zkáza** nebo rychlá ztráta hodnoty (typicky zemědělské produkty, kazící se zboží, akciová pozice před krachem).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1396 až 1401“ (dnešní § 1405—1410) — viz § 1405.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2335/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/58916887A7BC0C68C1258782001E4648?openDocument) — 31. 8. 2021
@@ -528,6 +611,8 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Typická aplikace**: svěřenský správce (§ 1456), správce investičního fondu, profesionální správce majetku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1396 až 1401“ (dnešní § 1405—1410) — viz § 1405.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [2 Cmo 268/2019-204](https://rozhodnuti.justice.cz/rozhodnuti/?id=0ef084b5-2241-4ba4-a409-6aa000f0e5e4) — 14. 1. 2021
@@ -578,6 +663,8 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 - Péče řádného hospodáře (§ 1411);
 - Účel spravovaného majetku;
 - Zákazy v § 1413—1416 (konflikt zájmů, smísení, bezúplatné převody).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1396 až 1401“ (dnešní § 1405—1410) — viz § 1405.
 
 #### F. Kazuistika
 
@@ -635,6 +722,50 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 **Návaznost**: § 159 (péče řádného hospodáře u členů orgánů PO), § 2913 (porušení smluvní povinnosti), § 2912 (porušení zákonné povinnosti).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1402 až 1409 návrhu — dnešní § 1411—1418):**
+
+> Při úpravě správy cizího majetku je potřebné řešit jednak poměr správce
+> k beneficientovi, jednak poměry jich obou k osobám třetím. Prvému okruhu
+> se věnují § 1402 a násl., druhému § 1410 a násl.
+>
+> Základní a obecnou povinností správce je povinnost jednat při správě
+> cizího majetku s péčí řádného hospodáře, tedy čestně, věrně, prozíravě a
+> pečlivě se zřetelem k účelu, jehož má být správou dosaženo. Není-li
+> beneficient jen jeden, musí se správce při plnění svých povinností
+> chovat ke všem beneficientům stejně nestranně; to platí i tehdy, je-li
+> správce sám jedním z několika beneficientů. Při správě společného
+> majetku musí správce respektovat zájem společný a nesmí preferovat zájem
+> některého z několika beneficientů.
+>
+> Z této zásady plyne i pravidlo, že správce nesmí smísit svůj vlastní
+> majetek s majetkem, který spravuje, a dále musí dbát, aby mezi ním a
+> beneficientem nedošlo při výkonu správy ani jinak ke střetu zájmů.
+> Takové situace musí správce vyloučit, anebo - není-li to možné -
+> beneficientovi oznámit. Tam, kde je nad správou vykonávána zvláštní
+> kontrola, musí správce oznámit skutečnosti, z nichž konflikt zájmů může
+> vyplynout, oznámit i tomu, komu náleží nad správou dohled.
+>
+> Pro zcizování něčeho z majetku ve správě platí především obecná
+> pravidla, odlišná podle toho, jedná-li se o správu prostou nebo plnou (§
+> 1399, 1401). Zvláštní pravidlo se zavádí pro bezplatné zcizení majetku
+> nacházejícího se ve správě, jehož dovolenost se omezuje na případy jen
+> zcela nezbytné (§ 1407). Protože správce jedná ohledně spravovaného
+> majetku jako beneficientův zástupce (§ 1410), musí být beneficient
+> zvlášť chráněn v situacích, kdy má správce sám něco ze spravovaného
+> majetku získat nebo tento majetek pro sebe použít (§ 1406).
+>
+> Povinnosti správce se vztahují k výkonu jeho činnosti. Vznikne-li na
+> spravovaném majetku škoda, neodpovídá správce za výsledek automaticky,
+> ale jen tehdy, způsobil-li jej porušením svých povinností. V tom směru
+> je rozhodující úprava odpovědnosti za škodu podle části čtvrté. Z těchto
+> důvodů se navrhuje stanovit jenom v § 1408, že správce neodpovídá za
+> poškození majetku vyvolaného vyšší mocí nebo amortizací. V následujícím
+> ustanovení se pak navrhuje založit moderační právo soudu ke snížení
+> náhrady škody, odůvodňují-li to okolnosti případu. Mezi těmito
+> okolnostmi se uvádí i případná nezletilost nebo nesvéprávnost správce,
+> neboť ani to není vyloučeno, ujme-li se taková osoba správy cizího
+> majetku bez právního důvodu (např. na základě neplatné smlouvy).
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 10* [12 C 235/2024-75](https://rozhodnuti.justice.cz/rozhodnuti/?id=e57fb240-77c5-4af5-b1e5-e4d51ea4c74b) — *nájem bytu, smlouva o dílo, znalecký posudek, smlouva o smlouvě budoucí, smlouva nájemní…*
@@ -688,6 +819,8 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 > (2) Je-li správce sám beneficientem, musí brát na své zájmy stejný zřetel jako na zájmy ostatních beneficientů a vykonávat svou působnost ve společném zájmu.
 
 Při více beneficientech **simultánně nebo postupně** — rovné zacházení. Pokud správce **je sám beneficientem** → musí brát na své zájmy **stejný ohled** jako na ostatní (nestranný výkon).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
 
 **Judikatura (z místních zdrojů):**
 
@@ -747,6 +880,8 @@ Oznamovací povinnost správce:
 
 Informování: **beneficient + osoba dohlížející**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Svěřenský správce S spravuje fond, jehož součástí je obchodní podíl ve společnosti ABC. S sám podniká ve stejném oboru a vlastní konkurenční společnost XYZ, která usiluje o tutéž veřejnou zakázku jako ABC. S tuto skutečnost neoznámil beneficientovi ani osobě dohlížející na správu a v rozhodování o ABC postupoval tak, aby neohrozil XYZ. Beneficient se o konfliktu dozvěděl později. K prokázání: výpisy z rejstříků o podnikání S, doklady o střetu zájmů ABC a XYZ, absence oznámení.
@@ -790,6 +925,8 @@ Informování: **beneficient + osoba dohlížející**.
 > Správce vede spolehlivé záznamy o spravovaném majetku a nesmí smísit svůj vlastní majetek s majetkem pod svou správou.
 
 **Zákaz comminglingu** (*no commingling*) — jedna ze základních povinností správce/trustee. Důvod: ochrana před zpronevěrou, jasnost identifikace majetku v insolvenci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
 
 **Judikatura (z místních zdrojů):**
 
@@ -843,6 +980,8 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Odst. 2**: užívání spravovaného majetku/informací jen se souhlasem beneficienta, ledaže to umožňují stanovy/zákon.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Plzni* [10 CO 304/2023-533](https://rozhodnuti.justice.cz/rozhodnuti/?id=ec750deb-f1ec-41ed-8eb9-6c44bd882147) — *peněžité plnění*
@@ -892,6 +1031,8 @@ Informování: **beneficient + osoba dohlížející**.
 **Zakázán**, ledaže:
 - Je to **přímo v povaze správy** (např. správa charitativní nadace);
 - **Nepatrná hodnota** + v zájmu beneficienta nebo ve shodě s účelem.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
 
 #### F. Kazuistika
 
@@ -943,6 +1084,10 @@ Informování: **beneficient + osoba dohlížející**.
   - Okolnosti přijetí správy;
   - **Bezúplatný** výkon správy;
   - **Nezletilý/omezeně svéprávný** správce.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1402 až 1409“ (dnešní § 1411—1418) — viz § 1411.
 
 **Judikatura (z místních zdrojů):**
 
@@ -998,6 +1143,39 @@ Informování: **beneficient + osoba dohlížející**.
 
 **Výjimka (odst. 2)**: pokud správce **jedná vlastním jménem** (přímé zastoupení), je **solidárně zavázán s beneficientem**, ale po beneficientovi lze žádat **jen ze spravovaného majetku** (princip oddělené odpovědnosti — typický pro trust).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1410 až 1413 návrhu — dnešní § 1419—1422):**
+
+> Jedná-li správce při správě cizího majetku, jedná jménem beneficienta, a
+> proto z takového právního jednání není zavázán sám. Může však dojít i k
+> situacím, kdy správce překročí svou působnost, anebo kdy je fakt správy
+> jen předstírán. V těchto případech je potřebné chránit dobrou víru osob,
+> s nimiž bylo takto jednáno.
+>
+> Správce může překročit rozsah své působnosti, jestliže podstoupí
+> jednání, k nimž podle povahy správy není vůbec oprávněn (např. při
+> prosté správě jedná, jako by mu náležela správa plná). V takovém případě
+> nelze namítnout neplatnost takto učiněného právního jednání správce,
+> jednala-li s ním třetí osoba v dobré víře. Správce však může překročit
+> svou působnost i tak, že bude jednat sám, ač měl podle zákona či stanov
+> jednat společně s dalším správcem. I v těchto případech je chráněna
+> dobrá víra třetích osob podle § 1411. Krom toho je však chráněn i
+> majetek podstaty - ať již ten, s kým bylo jednáno, důvodně spoléhal, že
+> správce může jednat sám, anebo věděl-li, že má být jednáno se
+> spolusprávcem, nelze namítat neplatnost takového jednání, jímž byl
+> majetek ve správě rozmnožen nebo jinak zvýhodněn (§ 1411). Toto pravidlo
+> ovšem nevylučuje namítnout neplatnost z nějakého jiného zákonného
+> důvodu, pokud je dán.
+>
+> Je-li fakt správy kvazibeneficientem jen předstírán, opět se uplatní
+> zásada preference dobré víry osob, spoléhajících na předstíraný vztah.
+> Záměrně se v té souvislosti navrhuje stanovit, že předstírající musí být
+> svéprávný, aby se předešlo případným pochybnostem, které by v té
+> souvislosti mohly jinak vzniknout. Předstírá-li fakt správy ten, kdo
+> vystupuje jako správce cizího majetku, pak pro ten případ není navrženo
+> speciální pravidlo. Ale jak a contrario z § 1410, tak i z obecných
+> ustanovení o zastoupení plyne jednoznačný závěr, že takových právních
+> jednání je předstírající zavázán sám.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Svěřenský správce S uzavřel jménem fondu (resp. na jeho účet) smlouvu o dílo se zhotovitelem Z na rekonstrukci nemovitosti fondu. Fond následně nemá dostatek likvidních prostředků k úhradě. Z žaluje o zaplacení ceny díla a domáhá se jí osobně po S jako objednateli. S namítá, že jednal na účet fondu a osobně zavázán není. K prokázání: smlouva o dílo a označení strany, doklad o tom, že S jednal jako správce na účet fondu, stav majetku fondu.
@@ -1046,6 +1224,8 @@ Správce **osobně odpovědný**, ledaže:
 
 V těchto případech → solidární odpovědnost s beneficientem.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1410 až 1413“ (dnešní § 1419—1422) — viz § 1419.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Svěřenský správce S podle statutu nesměl bez souhlasu obmyšlených prodat hlavní nemovitost fondu. S přesto uzavřel kupní smlouvu s kupujícím K, který si ověřil výpis z evidence svěřenských fondů, kde byl S zapsán jako správce s běžnými oprávněními, a o omezení ve statutu nevěděl. Obmyšlení následně prodej kritizují, ale příjem z prodeje bez výhrad přijali a část použili. K prokázání: statut a omezení působnosti, dobrá víra K, chování obmyšlených po uzavření smlouvy (přijetí plnění).
@@ -1090,6 +1270,8 @@ V těchto případech → solidární odpovědnost s beneficientem.
 
 Správce překračuje působnost, pokud **jedná sám, ač měl jednat společně**. Výjimka: pokud **větší prospěch** pro majetek.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1410 až 1413“ (dnešní § 1419—1422) — viz § 1419.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zůstavitel jmenoval pro správu pozůstalostního majetku dva spoluvykonavatele (vykonavatele závěti) A a B s pokynem, že mají jednat společně. A bez vědomí a souhlasu B sám uzavřel smlouvu o prodeji nemovitosti z pozůstalosti za cenu 8 mil. Kč, ačkoli znalecký posudek a srovnatelné nabídky ukazovaly tržní hodnotu 12 mil. Kč. B i beneficient (dědic) namítají, že A překročil působnost. Důkazy: jmenovací listina / závěť určující společný výkon, kupní smlouva, znalecký posudek, doklad o tom, zda byl pro fond získán prospěch.
@@ -1131,6 +1313,8 @@ Společný výkon správy je závazný; jeho porušení samostatným jednáním 
 > Předstírá-li svéprávný třetí osobě, že jiná osoba je správcem jeho majetku, vznikají ze smlouvy uzavřené v dobré víře s touto jinou osobou stranám stejné povinnosti, jako by majetek předstírajícího byl pod správou.
 
 Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze smlouvy uzavřené v dobré víře vznikají **stejné účinky**, jako by majetek byl pod správou (ochrana dobré víry třetí osoby).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1410 až 1413“ (dnešní § 1419—1422) — viz § 1419.
 
 #### F. Kazuistika
 
@@ -1203,6 +1387,20 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 - (1) Pojištění majetku **na náklady beneficienta** proti běžným rizikům;
 - (2) **Odpovědnostní pojištění správce** na náklady beneficienta — **jen u bezúplatné správy**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1414 až 1418 návrhu — dnešní § 1423—1427):**
+
+> Odpovídá povaze věci, že se při zřízení správy (a také při změně v osobě
+> správce) hodí sestavit inventář majetku, jehož se správce ujímá. Toto
+> opatření zákon stranám nevnucuje automaticky (v řadě případů
+> vyplynuvších z běžných životních situací by to bylo i nadbytečné), ale
+> podmiňuje vznik povinnosti sestavit inventář zvláštním právním důvodem,
+> jímž může být speciální příkaz zákona, smlouva nebo rozhodnutí soudu.
+> Ustanovení § 1415 až 1417 uvádějí podrobnosti ohledně inventáře. Tato
+> úprava je ze své povahy dispozitivní.
+>
+> Po vzoru čl. 1331 CCQ je do tohoto pododdílu zařazen také návrh
+> ustanovení o právu správce sjednat na náklady beneficienta pojištění.
+
 ---
 
 ### Pododdíl 4 — Společná správa (§ 1428—1431)
@@ -1236,6 +1434,35 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 
 **§ 1431 — Domněnka schválení** rozhodnutí — kdo **nesdělí nesouhlas** ostatním + beneficientovi bez zbytečného odkladu, ten **rozhodnutí schválil**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1419 až 1422 návrhu — dnešní § 1428—1431):**
+
+> Zákonná úprava musí pamatovat i na situace, kdy je ustaveno správců
+> několik. Pro ten případ má obecně platit, že spolusprávci o
+> záležitostech správy rozhodují a v těchto záležitostech jednají na
+> základě stanoviska většiny z nich, přičemž každý z nich má jeden hlas.
+> Nevylučuje se však, aby zákon nebo smlouva stanovily pro určité případy
+> cokoli jiného.
+>
+> Mají-li správci rozhodovat a jednat na základě většinového principu,
+> mohou uplatnění tohoto principu zablokovat skutečnosti, které
+> rozhodování a jednání kolektivu správců ochromí (§ 1420). Jestliže
+> nastane takový případ, navrhuje se rozlišit situace, kdy je třeba jednat
+> v zájmu udržení toho, co je, a situace ostatní. Jedná-li se o prvý
+> případ, navrhuje se ostatním správcům svěřit v tom směru samostatnou
+> působnost. V ostatních případech (případech neběžné povahy) nemohou
+> jednat bez pověření soudu. Musí být pamatováno i na případ, kdy se
+> spoluspráva dostane do dlouhodobého stavu ochromení své akceschopnosti:
+> tehdy se navrhuje, aby se soudu umožnilo rozhodnout o dalším výkonu
+> správy způsobem přiměřeným okolnostem případu.
+>
+> Ze společné správy plyne důsledek solidarity spolusprávců. Zejména v
+> případech volání spolusprávců ke společné odpovědnosti mohou nastat
+> pokusy exkulpovat se s argumentem, že protiprávní rozhodnutí nebo činy
+> byly učiněny proti vůli některého ze spolusprávců nebo za jeho
+> nepřítomnosti. Proto se v § 1419 navrhuje stanovit vyvratitelnou
+> domněnkou, že spolusprávce souhlasil se všemi rozhodnutími ostatních, s
+> nimiž neprojevil prokazatelný nesouhlas.
+
 ---
 
 ### Pododdíl 5 — Obezřetné investice (§ 1432—1435)
@@ -1263,6 +1490,22 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 
 **§ 1435** — **Předchozí investice**: lze udržovat, **i když nejsou obezřetné** (ochrana před nucenou likvidací s ztrátou).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1423 až 1426 návrhu — dnešní § 1432—1435):**
+
+> Správa cizího majetku je pravidelně spojena s jeho udržováním a
+> rozmnožováním. Správce je při správě povinen dbát o zlepšení majetku,
+> který spravuje, ale zároveň musí být beneficient v nezbytné míře
+> ochráněn před rizikovými investicemi svého majetku.
+>
+> Proto se v § 1423 a 1424 stanoví pravidla obezřetného investování.
+> Spravuje-li správce také peníze, může je buď investovat, anebo uložit na
+> účet. V zájmu bezpečnosti úložky se navrhuje stanovit, že dlouhodobě (na
+> základě smlouvy o vkladovém účtu v podobě tzv. termínového vkladu) lze
+> peníze beneficienta uložit jen u banky.
+>
+> Pokud správce investuje majetek beneficienta jiným než obezřetným
+> způsobem, nahradí škodu z toho případně vzniklou.
+
 ---
 
 ### Pododdíl 6 — Vyúčtování (§ 1436—1437)
@@ -1278,6 +1521,21 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 
 **§ 1437** — Beneficient může **kdykoliv** přezkoumat účetní knihy a vyžadovat informace.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1427 a 1428 návrhu — dnešní § 1436—1437):**
+
+> Povahou správy je dáno, že správce musí skládat beneficientovi počet ze
+> svých jednání. Toto skládání účtů se označuje jako vyúčtování a správce
+> je povinen předložit je beneficientovi alespoň každoročně (§ 1427) a
+> také při ukončení své funkce nebo při zániku správy (§ 1436). S tím
+> souvisí i oprávnění beneficienta přezkoumat doklady vztahující se ke
+> správě a požadovat po správci relevantní informace.
+>
+> Je-li správců ustaveno několik, podají podle všeobecného pravidla
+> vyúčtování jako společné. Může však být stanoveno nebo dohodnuto, že
+> každý ze spolusprávců podá vyúčtování jen za sebe. To je praktické
+> zejména při rozdělení jejich působností na samostatné obory činnosti
+> nebo ve vztahu k autonomním majetkovým souborům.
+
 ---
 
 ## Oddíl 3 — Skončení správy (§ 1438—1447)
@@ -1287,6 +1545,45 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 > Činnost správce skončí odstoupením, odvoláním, omezením svéprávnosti osoby dosud svéprávné, nebo osvědčením úpadku správce.
 
 **Čtyři důvody**: odstoupení, odvolání, omezení svéprávnosti, úpadek.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1429 až 1438 návrhu — dnešní § 1438—1447):**
+
+> Ustanovení o ukončení správy reflektují běžně uznávané způsoby zániku
+> povinností: odvolání správce, správcovo odstoupení, dále skutečnosti
+> ovlivňující správcovu duševní nebo majetkovou způsobilost vykonávat
+> správu, a konečně uplynutí sjednané doby nebo naplnění dohodnutého účelu
+> správy, případně zánik beneficientova práva ke spravovanému majetku
+> (posledně uvedená formulace je obecná z toho důvodu, že beneficient
+> nemusí být jen vlastníkem spravovaného majetku, ale i pachtýřem,
+> nájemcem apod.). Ustanovení § 1430 řeší speciální důsledky případu, kdy
+> správce zemřel nebo zanikl, protože i v takovém případě je nezbytné
+> záležitosti správy uzavřít.
+>
+> Správce může ze své funkce odstoupit, ale nemůže tak učinit bez vážného
+> důvodu nebo v nevhodnou dobu, neboť tím by porušil svoji povinnost
+> jednat v beneficientově zájmu. Pokud správce rezignuje na svoji funkci,
+> má povinnost oznámit fakt rezignace nejen tomu, kdo jej ustavil, ale
+> také dalším zainteresovaným osobám (§ 1431).
+>
+> V souvislosti s ukončením správcovy činnosti mohou nastat nejasné nebo
+> nepřehledné situace, kdy není zřejmé, zda správce ve své funkci skutečně
+> skončil, anebo kdy určitá osoba ještě jedná jako beneficientův správce,
+> ačkoli její správcovská práva zanikla. Také v těchto případech je třeba
+> chránit toho, kdo jedná v dobré víře (§ 1433). Ustanovení § 1434
+> navrhuje přijmout konvenční konstrukci, známou i z analogických úprav
+> jiných právních institutů, totiž že správce má povinnost učinit i po
+> skončení správy vše, co je fakticky nutné nebo právně nezbytné za tím
+> účelem, aby beneficient neutrpěl škodu.
+>
+> Logickým důsledkem ukončení správcovy činnosti je předání spravovaného
+> majetku nově nastupujícímu správci nebo - typicky končí-li správa
+> vůbec - beneficientovi. V této souvislosti je potřebí chránit nejen
+> beneficienta, ale také správce. Pokud tedy beneficient ke dni správci
+> neplní, co mu plnit měl (na odměně, na náhradě nákladů apod.), může si
+> správce svoji pohledávku započíst na konto povinnosti vydat
+> beneficientovi peněžitý obnos. Není-li to možné, bude správce oprávněn
+> zadržet svěřený majetek k zajištění své pohledávky. Ustanovení o
+> zadržovacím právu (§ 1386 a násl.) se použijí i zde.
 
 #### F. Kazuistika
 
@@ -1332,6 +1629,8 @@ Funkce konkrétního správce zaniká ze zákona při některém ze čtyř důvo
 - Uplynutí doby;
 - Dosažení účelu;
 - Zánik práva beneficienta.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
 
 #### F. Kazuistika
 
@@ -1384,6 +1683,10 @@ Správa jako instituce zaniká uplynutím doby, dosažením účelu nebo zánike
 - Doručení všem zúčastněným (ostatní správci, beneficient, dohled).
 
 **§ 1441 — Odvolání** ustanovitelem v písemné formě.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
 
 #### F. Kazuistika
 
@@ -1438,6 +1741,12 @@ Správce může odstoupit (účinnost doručením oprávněné osobě), ustanovi
 **§ 1443** — Při skončení správy správce učiní **vše potřebné** k zamezení ztráty (administrace fáze ukončení).
 
 **§ 1444** — Smrt/zánik správce: osoba pověřená správou věcí zesnulého správce **oznámí zánik** všem zúčastněným.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1503,6 +1812,12 @@ Jednání v dobré víře o trvání správy zavazuje beneficienta vůči poctiv
 - Zahrnuje **vše, co správce získal**, vč. náhrad.
 
 **§ 1447 — Zadržovací právo** správce k majetku za jeho pohledávky ze správy. **U peněz**: kompenzace (započtení) místo zadržení.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1429 až 1438“ (dnešní § 1438—1447) — viz § 1438.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1574,6 +1889,68 @@ Při skončení správy správce předloží vyúčtování a vydá majetek i v�
 
 **Důvody:** ochrana fondu před věřiteli zakladatele i správce (oddělená masa), daňová a strukturální flexibilita.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1439 až 1443 návrhu — dnešní § 1448—1452):**
+
+> Rovněž ustanovení o svěřenském fondu (trustu) jsou převzata z občanského
+> zákoníku Québecu. V porovnání s dalšími právními úpravami tohoto
+> institutu (např. ve Skotsku, Louisianě nebo v Jihoafrické republice) se
+> recepce québecké úpravy jeví jako nejvhodnější. Jednak proto, že si
+> právo Québecu zachovalo svůj výrazný charakter kontinentálního práva,
+> jemuž tento institut *common law* funkčně přizpůsobilo, jednak i z toho
+> důvodu, že tamější občanský zákoník zavedl dosti podrobná pravidla o
+> správě cizího majetku, jejichž recepce se jeví jako funkční právě proto,
+> že se institut trustu zamýšlí zavést do tuzemského práva jako nový. Z
+> téhož důvodu se jeví jako účelná i québecká konstrukce soudních
+> pravomocí dohledu nad trustem i při změně předřazena ustanovením o
+> správě cizího majetku, nýbrž jsou zařazena až za ně, protože tento
+> institut na úpravu správy cizího majetku v mnohém navazuje (správa
+> cizího majetku je svou povahou generální, zatímco svěřenský fond je
+> speciální). Navržené řešení se tedy považuje za systematicky vhodnější a
+> lépe odpovídající tuzemským legislativním konvencím.
+>
+> Podstata svěřenského fondu je v tom, že jeho zakladatel vyčlení ze svého
+> majetku určitou část a svěří ji nějakému účelu. Tím vzniká oddělené
+> vlastnictví, k němuž původní vlastník žádná vlastnická práva již nemá.
+> Tato práva vykonává svěřenský správce, ale ani ten není vlastníkem
+> svěřenského fondu, protože není nadán vlastnickou svobodou (ve smyslu §
+> 1005) - naopak, je povinen šetřit a rozmnožovat podstatu svěřenského
+> fondu, dbát o naplňování jeho účelu a respektovat práva obmyšlených.
+> (Správci náleží jen prostá správa vyčleněného majetku.) Z toho důvodu
+> jej zasahují povinnosti správce cizího majetku podle předchozích oddílů.
+> Svou povahou se svěřenské fondy blíží nadacím, liší se od nich však
+> zejména nedostatkem právní osobnosti, dočasným trváním, větší
+> variabilitou účelu a zásadní absencí veřejnoprávního dohledu nad nimi.
+> Svěřenské fondy se také častěji zřizují jen na omezenou dobu, zejména,
+> jedná-li se o fondy zřízené k prospěchu určité osoby. Svěřenský fond
+> může být zřízen jednak bezúplatně rozhodnutím zakladatele věnovat část
+> svého majetku určitému účelu, zřízení svěřenského fondu však může být
+> sjednáno i za úplatu nebo jiné protiplnění (např. od osoby, která se má
+> stát obmyšleným, ale i od osoby jiné). Podle toho se pak odvíjí i právní
+> postavení obmyšleného, jak to reflektují následující ustanovení osnovy.
+>
+> Osnova rozlišuje svěřenské fondy podle účelového určení na veřejně
+> prospěšné (zřízené k naplňování účelů kulturních, vzdělávacích,
+> vědeckých, náboženských nebo podobných) a soukromé.
+>
+> Důvodem vzniku svěřenského fondu může být zákon, pravidelně však smlouva
+> nebo ustanovení závěti. Protože svěřenskému fondu musí být ustaven
+> svěřenský správce, vyžaduje § 1439 souhlas osoby označené za svěřenského
+> správce se svým ustavením. I to je tedy právní podmínka vzniku
+> svěřenského fondu (§ 1442).
+>
+> Svěřenský fond se spravuje statutem obsaženým ve smlouvě, závěti či
+> vydaným samostatně. Podstatné náležitosti statutu se navrhuje vymezit v
+> rozsahu zcela minimálním, protože řadu dalších otázek řeší zákonná
+> dispozice. Svěřenský fond musí být označen, ze statutu musí být zřejmé,
+> k jakému účelu je zřízen a jaký majetek tomuto účelu slouží. Označení
+> obmyšlených nebo způsobu, jakým budou vybráni, není nezbytné, protože
+> při absenci takové klauzule ve statutu obmyšleného vybere svěřenský
+> správce. Také trvání svěřenského fondu nemusí být ve statutu uvedeno:
+> pak platí, že fond je zřízen na neurčitou dobu. Zákonné požadavky na
+> minimální obsah statutu nevylučují možnost zakladatele řešit ve statutu
+> i případné další otázky podle vlastní úvahy a podle okolností
+> jednotlivého případu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 617/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/038E2E44596B78F0C12587C8001E4C2A?openDocument) — *Přípustnost dovolání Zastavení exekuce Žaloba vylučovací (excindační) Svěřenský fond (o.…*
@@ -1633,6 +2010,8 @@ Svěřenský fond zakládá autonomní, oddělené vlastnictví bez vlastníka; 
 
 **Veřejně prospěšný** — nesmí mít hlavním účelem dosahování zisku nebo provoz závodu (rozdíl od běžné PO).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1439 až 1443“ (dnešní § 1448—1452) — viz § 1448.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zakladatel zřídil svěřenský fond, který ve statutu označil za „veřejně prospěšný — podpora regionální kultury“, avšak fakticky jeho hlavní a převažující činností je provozování ziskové galerie a obchodu s uměním, z jejíhož zisku je jen okrajově financována kulturní podpora. Orgán dohledu i potenciální dárce zpochybňují, zda fond skutečně sleduje veřejně prospěšný účel ve smyslu § 1449 odst. 3. Souběžně jiný zakladatel zřídil soukromý fond „investiční pro zaměstnance“ k rozdělování zisku mezi zaměstnance (business trust) a řeší jeho přípustnost.
@@ -1676,6 +2055,8 @@ Svěřenský fond zakládá autonomní, oddělené vlastnictví bez vlastníka; 
 > (2) Označení svěřenského fondu musí vyjadřovat jeho účel a obsahovat slova „svěřenský fond“.
 
 **Povinné označení** + slova „svěřenský fond" — princip publicity vůči třetím osobám.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1439 až 1443“ (dnešní § 1448—1452) — viz § 1448.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1731,6 +2112,8 @@ Označení svěřenského fondu musí být vlastní, vyjadřovat účel a obsaho
 3. **Závěťový fond** — vzniká **smrtí zůstavitele**; **zápis dodatečně** (deklaratorně).
 
 **Evidence svěřenských fondů**: vedena rejstříkovými soudy (zákon č. 304/2013 Sb. o veřejných rejstřících, § 65a a násl. — sekce evidence svěřenských fondů). Veřejně přístupný od **novely 2024** (zákon č. 163/2024 Sb. — návaznost na DAC7 a 5. AML směrnici).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1439 až 1443“ (dnešní § 1448—1452) — viz § 1448.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1809,6 +2192,8 @@ Mezi živými vzniká svěřenský fond až zápisem do evidence (konstitutivní
 
 **Forma**: **veřejná listina** (notářský zápis).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1439 až 1443“ (dnešní § 1448—1452) — viz § 1448.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 44/2022-29](https://rozhodnuti.justice.cz/rozhodnuti/?id=5f76227a-4794-4959-a4b7-3023cec5ab72) — 12. 7. 2022
@@ -1881,6 +2266,30 @@ Statut je „ústavou“ fondu: musí mít formu veřejné listiny a obsahovat z
 
 **§ 1456 — Plná správa** svěřenského fondu. **Zápis v katastru/rejstříku** jako vlastník **s poznámkou „svěřenský správce"** (princip publicity vůči 3. osobám).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1444 až 1447 návrhu — dnešní § 1453—1456):**
+
+> Úkolem správce svěřenského fondu je vykonávat jen jeho prostou správu,
+> tedy uchovávat jeho podstatu, rozmnožovat ji a investovat hotovost
+> rozumným způsobem.
+>
+> Svěřenského správce ustavuje zakladatel, nestanoví-li statut jiná
+> pravidla, případně jej jmenuje soud; táž pravidla platí i pro odvolání
+> správce (§ 1446). Nelze vyloučit, aby se správcem svěřenského fondu stal
+> jeho zakladatel nebo obmyšlený; pro ten případ je však nezbytné předem
+> zabránit vzniku rizik, k nimž taková situace může případně vést. Z toho
+> důvodu se volí konstrukce, že tehdy, je-li svěřenským správcem
+> zakladatel nebo obmyšlený, musí mít svěřenský fond ještě dalšího
+> spolusprávce, který nebude ani zakladatelem, ani obmyšlený, přičemž oba
+> spolusprávci musí za takové situace jednat společně.
+>
+> Přestože svěřenský fond představuje oddělené vlastnictví se zřetelem k
+> účelu, jemuž má sloužit, musí být přece někdo zapsán nebo evidován jako
+> jeho vlastník (např. ve veřejném seznamu u nemovitých věcí, v obchodním
+> nebo patentovém rejstříku, případně v jiných evidencích). Tím se však -
+> vzhledem k § 1439 - majetek ve svěřenském fondu nestává vlastnictvím
+> svěřenského správce, neboť ten pouze vykonává vlastnická práva - navíc,
+> jak uvedeno výše, jen v rozsahu omezeném účelem správy.
+
 ---
 
 ### Pododdíl 3 — Obmyšlený (§ 1457—1462)
@@ -1901,6 +2310,67 @@ Statut je „ústavou“ fondu: musí mít formu veřejné listiny a obsahovat z
 - Na **plody nebo užitky** z fondu (rentní typ);
 - Na **majetek** z fondu (kapitálové plnění);
 - Na **podíly** na obojím.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1448 až 1453 návrhu — dnešní § 1457—1462):**
+
+> Obmyšlený svěřenského fondu je ten, komu má být ze svěřenského fondu
+> plněno. Plnění ze svěřenského fondu může být reprezentováno poskytováním
+> plodů, užitků, výnosů ze svěřenského fondu nebo podílu z nich, anebo
+> vydáním podstaty nebo podílu na podstatě svěřenského fondu při jeho
+> zániku. Protože zakladatelem fondu může být i člověk, navrhuje se v
+> zájmu spravedlivého uspořádání vztahů založených vznikem svěřenského
+> fondu stanovit, že obmyšleným svěřenského fondu zřízeného bezúplatně
+> může být jen osoba, která je způsobilá po zakladateli v den vzniku
+> svěřenského fondu dědit.
+>
+> CCQ v čl. 1271 umožňuje stanovit obmyšleného svěřenského fondu zřízeného
+> ve prospěch určité osoby (osobního svěřenského fondu) v případě, že fond
+> je zřízen ve prospěch několika osob po sobě následujících, nanejvýš ve
+> dvou po sobě jdoucích stupních. Toto pravidlo nebylo převzato se
+> zřetelem k zásadě autonomie vůle, která má být i v případě zakladatele
+> svěřenského fondu plně respektována.
+>
+> Vymezení obmyšlených je přednostně právem zakladatele svěřenského fondu.
+> Zakladatel může již ve statutu svěřenského fondu určit, kdo je jeho
+> obmyšleným a co mu bude ze svěřenského fondu plněno. Může však také
+> určit okruh osob, z nichž má být obmyšlený vybrán, anebo i svěřit
+> oprávnění určit obmyšleného někomu jinému. Není-li taková klauzule ve
+> statutu, nepůsobí to obecně jeho neplatnost (ledaže jde o svěřenský fond
+> zřízený za soukromým účelem) a působnost jmenovat obmyšleného a určit,
+> co mu bude ze svěřenského fondu plněno, přechází na správce. Povahou
+> věci je však dáno, že při zřízení svěřenského fondu k soukromému účelu
+> (tedy ve prospěch nějaké osoby, na její památku, případně za účelem
+> investování pro dosažení zisku k rozdělení mezi určité osoby) nemůže být
+> svěřenský správce při stanovování obmyšlených plně autonomní, nýbrž že v
+> takovém případě musí statut alespoň vymezit okruh osob, ze kterého lze
+> obmyšleného jmenovat.
+>
+> Statut má určit podmínky plnění ze svěřenského fondu a obmyšlenému může
+> právo na plnění vzniknout jen tehdy, jestliže tyto podmínky splní.
+> Jednou z těchto podmínek může být i stanovení doby, kdy právo na plnění
+> obmyšlenému vznikne. Po vzoru čl. 1272 CCQ se navrhuje - s jistou
+> restrikcí - omezit volnost v určení časových podmínek tak, že právo na
+> plnění obmyšlenému musí vzniknout nejpozději sto let od vzniku
+> svěřenského fondu. Tím však není trvání fondu omezeno nanejvýš na sto
+> let, protože právo na majetkové plnění při zániku svěřenského fondu
+> stoletým limitem omezeno být nemůže, nehledě již k tomu, že po vzniku
+> práva na výnos z fondu může docházet k jeho konzumaci i opakovaně,
+> přičemž tato další plnění mohou být poskytována delší dobu. Nebylo
+> převzato pravidlo druhé aliney čl. 1272 CCQ o možnosti právnické osoby
+> být obmyšleným svěřenského fondu nejvýše sto let; opět se zřetelem k
+> vhodnosti respektovat autonomii vůle zakladatele svěřenského fondu.
+>
+> Obmyšlený má právo na plnění ze svěřenského fondu za podmínek určených
+> statutem. Pokud se jedná o právo na plody a užitky ze svěřenského fondu,
+> není vyloučeno, že některé plody a užitky, z nichž budou mít obmyšlení
+> právo na podíl, nebude možné podle podílů rozdělit; pak se - nebude-li
+> statut mít jiné určení, a nedojde-li ani k jiné dohodě - použije
+> analogicky pravidlo § 1112. To znamená, že se v takovém případě, prodají
+> tyto plody a užitky ve veřejné dražbě a výnos se rozdělí podle podílů. V
+> soukromém styku však nelze žádné osobě plnění nutit; obmyšlený se jej
+> tedy může také vzdát. Pak jeho právo přechází poměrně na ostatní
+> obmyšlené. Totéž má platit i v případě, že právo obmyšleného zaniklo z
+> jiného právního důvodu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1948,6 +2418,8 @@ Obmyšleného jmenuje primárně zakladatel, jinak správce (u soukromého fondu
 > (2) Nikdo není oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu pro vlastní zisk.
 
 **Zákaz „self-benefit" při jmenování** — obrana proti zneužití pravomoci jmenovat sebe sama nebo blízkou osobu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1448 až 1453“ (dnešní § 1457—1462) — viz § 1457.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2008,6 +2480,8 @@ Pravomoc jmenovat obmyšleného a určit mu plnění je fiduciární a nesmí sl
 > Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
 **§ 1459** — Vznik práva na plnění **podle statutu**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1448 až 1453“ (dnešní § 1457—1462) — viz § 1457.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
@@ -2062,6 +2536,8 @@ Právo obmyšleného na plnění vzniká výlučně za podmínek určených stat
 
 **Důvod**: zákaz „věčné mrtvé ruky" — nesmí být zachováván vliv zakladatele nad rodinou nekonečně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1448 až 1453“ (dnešní § 1457—1462) — viz § 1457.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
@@ -2111,6 +2587,8 @@ U soukromého fondu vznikne právo obmyšleného na plnění nejpozději do 100 
 
 Obmyšlený **se může vzdát práva** prohlášením ve **veřejné listině** (notářský zápis).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1448 až 1453“ (dnešní § 1457—1462) — viz § 1457.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Brně* [15 CO 188/2021-170](https://rozhodnuti.justice.cz/rozhodnuti/?id=0446d0a3-ab04-4d4b-8d78-04eb20564112) — *dědění, držba, peněžité plnění, převod nemovitostí, převod vlastnictví, smlouva darovací…*
@@ -2156,6 +2634,8 @@ Obmyšlený soukromého fondu může požadovat plnění ve shodě se statutem a
 > Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
 
 Pokud zanikne právo na plody/užitky a **není jiný obmyšlený**, přechází na obmyšlené s právem na majetek.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1448 až 1453“ (dnešní § 1457—1462) — viz § 1457.
 
 #### F. Kazuistika
 
@@ -2217,6 +2697,29 @@ Zanikne-li právo na plody/užitky a statut neurčuje dalšího obmyšleného, p
 
 **§ 1465 — Informační povinnost** správce vůči osobě dohledu (oznámení, vyúčtování, doklady).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1454 až 1458 návrhu — dnešní § 1463—1467):**
+
+> Protože svěřenský správce spravuje majetek, který není jeho, jeví se
+> jako vhodné vyřešit také otázku kontroly jeho činnosti. Vzhledem k
+> povaze svěřenského fondu musí jít o kontrolu dvojí. Předně musí právo
+> kontroly náležet zakladateli svěřenského fondu, případně - při smrti
+> nebo zániku zakladatele - jeho právnímu nástupci. Stejně tak ale musí
+> náležet stejné právo také osobě, která je označena za obmyšleného,
+> protože v její prospěch má být ze svěřenského fondu plněno. Zvláštní
+> ustanovení § 1455 řeší pro tento účel případy, kdy obmyšleného nelze
+> určit nebo kdy obmyšlený ještě není. V určitých zvláštních případech
+> může zákon stanovit i zvláštní kontrolní působnost jiné osoby nebo
+> veřejného úřadu.
+>
+> Komu náleží kontrola nad správou svěřenského fondu, musí být informován,
+> že mu vzniklo právo kontroly a vůči komu je má uplatnit. To, stejně jako
+> základní oprávnění kontrolujícího, řeší § 1456. Následující ustanovení
+> rozmnožují právní nástroje k odvrácení rizika malverzace nebo jiných
+> nekvalifikovaných zásahů při správě svěřenského fondu směřujících k
+> poškození svěřenského fondu nebo učiněných k újmě věřitelů. Při postupu
+> sledujícím ochranu svěřenského fondu musí být ovšem respektována obecná
+> ustanovení o ochraně práv třetích osob nabytých v dobré víře.
+
 ### § 1466 — Soudní ochrana
 
 > (1) Zakladatel, obmyšlený nebo i jiná osoba, která na tom má právní zájem, může soudu navrhnout, aby svěřenskému správci určité jednání uložil nebo zakázal, anebo aby svěřenského správce odvolal nebo jmenoval nového. Tyto osoby se také mohou dovolat neplatnosti právního jednání, kterým správce poškozuje svěřenský fond nebo právo obmyšleného; nabyla-li však třetí osoba právo v dobré víře, nesmí to vést k její újmě.
@@ -2228,6 +2731,8 @@ Zanikne-li právo na plody/užitky a statut neurčuje dalšího obmyšleného, p
 - **Neplatnost právního jednání** poškozujícího fond — ale **dobrá víra 3. osoby** je chráněna.
 
 **Odst. 2 — Substituce**: pokud správce je **nečinný**, soud pověří navrhovatele zahájením/vedením řízení **jménem fondu**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1454 až 1458“ (dnešní § 1463—1467) — viz § 1463.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2276,6 +2781,8 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 > Účastní-li se svěřenský správce, zakladatel nebo obmyšlený činů sledujících úmyslné poškození práv zakladatelova věřitele nebo poškození svěřenského fondu, jsou zavázáni společně a nerozdílně.
 
 **Solidární odpovědnost** správce + zakladatele + obmyšleného pro **úmyslné poškození** věřitelů zakladatele nebo fondu samotného.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1454 až 1458“ (dnešní § 1463—1467) — viz § 1463.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2329,6 +2836,23 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 
 **§ 1468 — Zvýšení majetku**: kdo přispěje (smlouvou/závětí) **není zakladatelem**; přidaný majetek podléhá statutu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1459 až 1461 návrhu — dnešní § 1468—1470):**
+
+> V těchto ustanoveních se řeší dvě otázky.
+>
+> Předně musí být pamatováno na to, že do fondu zřízeného za soukromým
+> nebo veřejným účelem, může po jeho vzniku přispět kdokoli další, ať již
+> bez nároku na protiplnění, anebo proto, aby se sám stal obmyšleným
+> svěřenského fondu. Pro ten případ je třeba stanovit, že takový
+> přispěvatel se tímto plněním nestává zakladatelem fondu a že nemá jeho
+> práva.
+>
+> Dále je namístě pamatovat na řešení situací, kdy je dosažení účelu
+> svěřenského fondu nemožné nebo zvlášť obtížně dosažitelné. Pro ten
+> případ se navrhuje umožnit soudu, aby nastalou situaci vyřešil
+> odpovídajícím opatřením, k němuž si však musí vyžádat stanovisko
+> zainteresovaných osob.
+
 ### § 1469 — Soudní zásah do účelu
 
 > (1) Soud může na návrh osoby, která na tom má právní zájem, rozhodnout, že svěřenský fond zruší, pokud je dosažení účelu svěřenského fondu nemožné nebo obtížně dosažitelné, zejména následkem okolností zakladateli neznámých nebo pro zakladatele nepředvídatelných. Jedná-li se o svěřenský fond zřízený za veřejně prospěšným účelem, může soud rozhodnout, že jeho původní účel nahradí podobným účelem.
@@ -2339,6 +2863,8 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 - **Změna statutu**: pokud lépe slouží původnímu úmyslu zakladatele.
 
 **§ 1470 — Procesní pravidlo**: soud si **vyžádá stanovisko** zakladatele/správce/obmyšleného/dohledu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1459 až 1461“ (dnešní § 1468—1470) — viz § 1468.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2400,6 +2926,96 @@ Ustanovení § 1469 dává soudu dvojí nástroj při „selhání" účelu fond
 - Soudním rozhodnutím;
 - **Soukromý fond**: vzdáním se všech obmyšlených.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1462 až 1465 návrhu — dnešní § 1471—1474):**
+
+> Odpadnou-li důvody existence svěřenského fondu uplynutím času, naplněním
+> účelu nebo z jiných příčin, není ani důvod, aby jeho správa nadále
+> trvala. Skončení správy však nemůže vést současně k zániku fondu,
+> protože tím okamžikem by ztratil povahu samostatného vlastnictví, a
+> tudíž by se popřely výhody, které jsou s tím spojeny. Z toho důvodu se
+> navrhuje stanovit, že svěřenský fond zaniká až převodem majetku do
+> vlastnictví oprávněné osoby, popřípadě, jde-li o fond veřejně prospěšný,
+> převodem do jiného svěřenského fondu s obdobným účelem.
+>
+> Protože svěřenský správce není vlastníkem svěřenského fondu, musí vydat
+> majetek reprezentující svěřenský fond oprávněným osobám. Kdo je k
+> získání takového majetku oprávněn, má především stanovit statut fondu.
+> Mlčí-li statut, náleží majetek ze svěřenského fondu obmyšlenému; není-li
+> obmyšlený, pak tento majetek připadne zakladateli svěřenského fondu.
+> Neřeší-li další osud majetkové podstaty svěřenského fondu zřízeného za
+> veřejným účelem, může soud na návrh svěřenského správce rozhodnout, že
+> majetek bude spojen s jiným svěřenským fondem nebo vydán právnické
+> osobě, které slouží stejnému nebo zhruba stejnému veřejnému účelu.
+>
+> K § 1466:
+>
+> Dědické právo upravuje přechod majetkových poměrů zemřelého člověka na
+> jiné osoby. Nová úprava dědického práva obecně vychází z většiny zásad
+> právní úpravy dosavadní. Opticky je však na první pohled patrné zřejmé
+> rozmnožení ustanovení o dědickém právu. Právní úprava dědění byla v
+> našem občanském právu v průběhu kodifikací z 50. a 60. let postupně
+> výrazně redukována, neboť v předchozím společenském zřízení nebyly
+> potřeba a zájem věnovat výraznější pozornost péči o přechod větších
+> majetkových podstat. V úpravě práva dědického se tak nejvýrazněji
+> projevily někdejší simplifikační tendence totalitního zákonodárství.
+>
+> Některé základní zásady dědického práva vyplývají již z návrhu tohoto
+> ustanovení.
+>
+> Předně se jedná o zásadu zachování hodnot, tedy zachování hodnot se
+> zřetelem k budoucnosti jako výraz solidarity lidí a sledování cílů
+> sahajících přes více generací. Že se tato zásada uplatňuje, pokud jde o
+> nemovité i movité věci ve všech společnostech vyjma některých
+> neliterárních (archaických, přírodních, aj.), je dostatečně známo.
+> Moderní doba se v té souvislosti k uvedené zásadě přiklonila důsledněji,
+> zejména co se týká předmětů duševního vlastnictví a jiných předmětů bez
+> hmotné podstaty. Uvedené vyjadřují z různých úhlů všechny odstavce
+> navrženého paragrafu. Posun oproti stávající úpravě je zejména v
+> opuštění široce formulovaného pravidla § 579 stávajícího obč. z. o
+> zániku subjektivních práv a povinností vázaných jen na osobu dlužníka
+> nebo věřitele jeho smrtí. Podle § 1466 odst. 2 spadají do pozůstalosti i
+> subjektivní práva a povinnosti zakládající se pouze na osobních poměrech
+> zůstavitele, pokud byly jako dluh uznány nebo jako pohledávka uplatněny
+> tak, že to vede k určení nebo uspokojení nároku zásahem veřejné moci.
+> Důsledkem toho přejdou do pozůstalosti např. i zůstavitelova práva na
+> bolestné, na satisfakci v penězích apod., byla-li za jeho života uznána
+> nebo zažalována.
+>
+> Druhá základní zásada dědického práva spočívá v přechodu majetku na
+> jednotlivce (koncepce individualistického dědického práva). Základ
+> tohoto pojetí vyplývá z konstrukce odst. 3. Princip individualistického
+> pojetí dědického práva zůstal u nás vždy zachován se zřetelem k tomu, že
+> vědomí člověka, že jeho statky připadnou osobám zůstaviteli blízkým,
+> podporují jeho starostlivost o vlastní majetek a péči o rodinu.
+> Dosavadní úprava však přece jen působila proti této zásadě, zejména
+> redukcí okruhu zákonných dědiců provedenou v r. 1950 byla z okruhu
+> zákonných dědiců vyloučena jejich čtvrtá třída (osnova ji v § 1628 mezi
+> dědice ze zákona vrací a zavádí i další dědické třídy).
+>
+> Obě uvedené zásady dědického práva se promítají i do dalších ustanovení
+> návrhu s tím, že k nim v úpravě těchto dalších ustanoveních přistupují i
+> zásady ostatní (zásada rovnosti, univerzální sukcese, volnosti dědice
+> dědictví přijmout či odmítnout a princip ingerence veřejné moci při
+> nabytí dědictví).
+>
+> Již v tomto ustanovení se pojmově rozlišuje pozůstalost a dědictví.
+> Pozůstalost je pojata jako jmění zůstavitele k okamžiku zůstavitelovy
+> smrti, resp. jako ta jeho část, která je způsobilá přejít na dědice jako
+> na právního nástupce, zatímco dědictví je to z pozůstalosti, co skutečně
+> připadá jako jmění osobě, která je dědicem. Z těchto důvodů je potřebné
+> mezi pozůstalostí a dědictvím pojmově rozlišovat. Návazně na to osnova v
+> odst. 3 vymezuje i dědice jako osobu, jíž náleží dědické právo (právo na
+> pozůstalost, nebo na podíl z ní). To má význam jednak pro odlišování
+> osob dědice a odkazovníka (§ 1468 odst. 2), jednak pro vymezení vztahu
+> dědice k pozůstalosti ve smyslu uvedeném shora.
+>
+> Ustanovení § 1466 tedy, ač má zčásti definiční charakter, jemuž se
+> osnova jinak při formulacích raději vyhýbá, se jeví jako potřebné
+> vzhledem k tomu, že normativně stanovuje, co do pozůstalosti spadá a co
+> nikoli, a v návaznosti na to pojmově odlišuje pozůstalost a dědictví.
+> Krom toho se hlásí k zásadám uchování hodnot a přechodu majetku děděním
+> na jednotlivce, což jsou dvě hlavní zásady dědického práva vůbec.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [7 Cmo 280/2018-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=4cc89710-d008-4bfb-94d6-6b25656ec342) — 20. 11. 2019
@@ -2452,6 +3068,8 @@ Ustanovení § 1471 vymezuje čtyři rovnocenné, taxativní důvody skončení 
 1. **Obmyšlenému** (domněnka);
 2. **Zakladateli**;
 3. **Státu** (pokud žádný z nich není).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1462 až 1465“ (dnešní § 1471—1474) — viz § 1471.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2510,6 +3128,8 @@ Pokud účel **nelze naplnit** → soud rozhodne o **převodu majetku** do:
 
 **Výjimka**: pokud statut určuje, co se s majetkem stane.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1462 až 1465“ (dnešní § 1471—1474) — viz § 1471.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Svěřenský fond byl zřízen za veřejně prospěšným účelem — „provoz a financování domova pro seniory v obci O". Po letech se ukázalo, že provoz domova je z důvodu demografických a regulatorních změn definitivně neudržitelný a účel nelze naplnit. Statut neobsahuje žádné ustanovení o tom, jak s majetkem při zániku fondu naložit. Ve fondu zůstává budova a finanční rezerva. Svěřenský správce zvažuje, jak naložit s majetkem, a obává se, zda jej nemá vydat státu podle § 1472. Bylo by třeba obstarat: statut fondu (vč. vymezení veřejně prospěšného účelu), doklady o nemožnosti naplnit účel, soupis majetku, identifikaci orgánu vykonávajícího dohled nad fondem a přehled fondů/PO se shodným či blízkým účelem.
@@ -2555,6 +3175,8 @@ Ustanovení § 1473 je speciální „cy-près" pravidlo pro zánik veřejně pr
 **Konec života fondu**:
 - **Naložení majetkem** = zánik;
 - **Výmaz z evidence** do **30 dnů**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1462 až 1465“ (dnešní § 1471—1474) — viz § 1471.
 
 **Judikatura (z místních zdrojů):**
 

@@ -34,6 +34,8 @@ Strukturálně se Oddíl dělí na:
 - **Fundací** — substrát majetkový (fond), žádní členové;
 - **Ústavem** — hybridní substrát (osoby + majetek pro účel poskytování služeb).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 151/2023-13](https://rozhodnuti.justice.cz/rozhodnuti/?id=36c1218f-8f61-4c14-aba0-088c18f2657c) — 21. 8. 2023
@@ -97,6 +99,8 @@ Korporace je PO s **osobním substrátem**; tato kvalifikace určuje celý aplik
 - **Kurativní lhůta** k nápravě (typicky doplnění členů).
 
 Příklad: spolek klesne ze 3 členů na 2. Soud vyzve k doplnění do 3 měsíců; pokud se nepodaří, zruší spolek s likvidací.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
 
 **Judikatura (z místních zdrojů):**
 
@@ -170,6 +174,35 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 - **Vetování rozhodnutí** ve prospěch konkurence (např. menšinový společník blokuje strategicky důležité rozhodnutí);
 - **Hlasování proti zájmu korporace** s cílem získat osobní výhodu (např. blokování fúze, která je výhodná, aby se mohl odkoupit podíl levněji);
 - **Šikana** menšinových členů hlasem většinového.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 212 až 214 návrhu — dnešní § 212—214):**
+
+> Podle obecného chápání je korporace společenstvím (nejméně tedy dvou)
+> osob. Zdůrazňuje se tedy, že unipersonální korporace je jako legální
+> myslitelná jen na základě zvláštní zákonné úpravy výjimečného
+> charakteru. Vzhledem k tomu, že jsou pro určité právní formy korporací
+> předepsány minimální počty členů (např. u osobních obchodních
+> společností nebo u družstev), navrhuje se stanovit již v obecné úpravě
+> jako logický důsledek porušení této podmínky nutnost soudního zrušení
+> korporací, jejichž počet členů klesne pod zákonné minimum. Nemělo by
+> však praktický smysl přistupovat k takovému opatření bezprostředně a
+> rušit někdy i pracně budovanou, léta trvající a funkční strukturu. Proto
+> má být právnické osobě dána možnost, aby v přiměřené době zjednala ve
+> svých členských poměrech nápravu.
+>
+> Ust. § 214 přejímá myšlenku dosavadního § 56a obch. z., která tam nemá
+> místo, protože se nejedná o speciální pravidlo pro obchodní společnosti,
+> ale o obecnou zásadu dopadající na všechny právnické osoby
+> korporativního typu. Návrh zjednodušuje normativní vyjádření tohoto
+> pravidla, aniž to je na újmu obsahu, zejména však zavádí efektivní
+> sankci za zneužití hlasů v korporaci. Dosavadní úprava svádí k tomu, aby
+> se jako sankce za zneužití většiny nebo menšiny hlasů uplatnilo jen
+> právo na náhradu škody, což je korporaci nejednou málo platné. Proto se
+> navrhuje založit pravomoc soudu k rozhodnutí, že k zneužívajícím hlasům
+> nebude přihlédnuto. Záměrně se v tom směru navrhuje stanovit, že se tak
+> má stát „pro určitý případ", neboť každou situaci nutno posoudit
+> jednotlivě; krom toho onen „určitý případ" může ležet v minulosti i v
+> budoucnosti.
 
 **Judikatura (z místních zdrojů):**
 
@@ -247,6 +280,8 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 **Paralela v ZOK** — § 157—159 ZOK obsahuje detailnější úpravu derivativní žaloby pro obchodní korporace (žaloba kvalifikovaného společníka).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 212 až 214“ (dnešní § 212—214) — viz § 212.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [14 Cmo 25/2023-851](https://rozhodnuti.justice.cz/rozhodnuti/?id=0c2682ac-8cd9-4bf8-a1f3-7190d96a8af4) — 3. 3. 2023
@@ -320,6 +355,8 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 3. **Samosprávnost + dobrovolnost** — autonomie členů.
 
 **§ 214 odst. 2 — svaz spolků**: pokud více spolků vytvoří nový spolek jako svůj svaz (typicky střechová organizace), musí to být v názvu vyjádřeno („svaz", „asociace", „unie"). Příklad: Český svaz tělovýchovy a sportu (ČSTV).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 212 až 214“ (dnešní § 212—214) — viz § 212.
 
 **Judikatura (z místních zdrojů):**
 
@@ -495,6 +532,26 @@ Název spolku musí povinně obsahovat „spolek" / „zapsaný spolek" / „z. 
 
 **Zákaz rozdělování zisku** (odst. 3) — fundamentální rozdíl od obchodních korporací. Spolek je **non-profit organizace**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 216 až 219 návrhu — dnešní § 217—220):**
+
+> Ve shodě s věcným záměrem se navrhuje zrušit podstatnou část zák. č.
+> 83/1990 Sb., o sdružování občanů, v platném znění, s tím, že
+> institucionální úprava spolků bude zahrnuta do kodifikace jako úprava
+> obecně aplikovatelná na veškeré právnické osoby typu korporace tam, kde
+> speciální zákony o jejich právních formách nestanoví odchylky. Zároveň
+> se osnova vrací k tradičnímu pojmosloví a ve shodě s doktrinární
+> kritikou[^39] opouští dosavadní umělý a zcela nevhodný zákonný termín
+> „občanské sdružení" a nahrazuje je klasickým „spolek".
+>
+> Spolek je vymezen důrazem na jeho základní znaky, jimiž jsou samospráva,
+> dobrovolnost členství, oddělení majetkových sfér spolku a jeho členů s
+> vyloučením zákonného ručení členů spolku za spolkové dluhy a spolkovou
+> činností jako hlavní (statutární) činností spolku. Vedle hlavní činnosti
+> spolek může sice vykonávat i činnost vedlejší, a to i výdělečnou, ale
+> jen za účelem podpory vlastní spolkové činnosti - i při hospodárném
+> využití majetku spolku bude konečným efektem výdělku rovněž podpora
+> spolkové činnosti, včetně správy spolku.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 674/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A0870C972AEBA33BC1258BC1004D18E0?openDocument) — *Nájem prostoru sloužícího k podnikání (o. z.)*
@@ -568,6 +625,72 @@ Spolek je **nezisková** korporace: podnikání smí být jen **vedlejší** (na
 
 **Forma stanov:** písemná (§ 123 odst. 2 obecně, pro PO).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 216 až 219“ (dnešní § 217—220) — viz § 217.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 216 až 219“ (dnešní § 217—220) — viz § 217.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 216 až 219“ (dnešní § 217—220) — viz § 217.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 220 až 229 návrhu — dnešní § 221—230):**
+
+> Návrh úpravy založení a vzniku spolku recipuje s nezbytnými upřesněními
+> dosavadní úpravu zákona č. 83/1990 Sb. Spolek je založen přijetím
+> stanov, tedy smlouvou uzavřenou buď konvenčním způsobem nebo přijetím
+> stanov na ustavující schůzi.
+>
+> Pokud jde o formu stanov, navrhuje se setrvat na požadavku prosté
+> písemné formy. Návrh vychází z pojetí, že zásadě spolkové autonomie
+> vyhovuje požadavek na stanovy co nejjednodušší. Proto se pro běžné
+> případy redukuje povinný obsah stanov jen na náležitosti, týkající se
+> názvu, sídla a určení statutárního orgánu spolku, protože to má význam i
+> pro ochranu třetích osob. Účel spolku a základní vymezení práv a
+> povinností členů má význam pro členy spolku. Tyto náležitosti musí být
+> rozšířeny ve zvláštních případech, má-li spolek působit na území více
+> států, má-li provozovat vedlejší hospodářskou činnost, zamýšlí-li spolek
+> vést seznam členů nebo zřídit rozhodčí komisi. Obsah stanov je proti
+> dosavadnímu stavu upřesněn. Po vzniku spolku lze stanovy měnit jen
+> usnesením členské schůze.
+>
+> Navrhuje se stanovit podrobnosti o ustavující schůzi, přičemž je jasně
+> řečeno, že se tu nejedná o žádné indiferentní shromáždění, ale o
+> spolkový orgán, který se podřizuje i zákonným ustanovením o členské
+> schůzi spolku.
+>
+> Pokud jde o návrh vzniku spolku, vychází se s dosavadní právní úpravy v
+> zák. č. 83/1990 Sb., o sdružování občanů, přičemž se návrh omezuje jen
+> na úpravu otázek statusové povahy, tj. na stanovení okamžiku, kdy spolek
+> nabývá právní osobnost. Otázky povahy veřejnoprávní, zvláště procesní,
+> budou řešeny mimo občanský zákoník v jiném právním předpisu. Vzhledem k
+> úpravě Listiny základních práv a svobod, která v čl. 20 odst. 1 zaručuje
+> právo svobodně se sdružovat mj. i ve spolcích a v čl. 20 odst. 3 omezuje
+> výkon tohoto práva jen případy nezbytnými z hlediska potřeb demokratické
+> společnosti, jakož i vzhledem k tomu, že spolky mají jiné účelové určení
+> než obchodní společnosti, navrhuje se vyjít z úpravy v § 9 zák. č.
+> 83/1990 Sb., kde se registrujícímu orgánu ukládá, aby v desetidenní
+> lhůtě návrh na registraci buď odmítlo, jsou-li pro to zákonné důvody,
+> anebo aby registraci provedlo. Tato úprava však neřeší případnou
+> nečinnost registrujícího orgánu (a že v praxi k takovým případům
+> dochází, dosvědčují např. rozhodnutí Nejvyššího správního soudu sp. zn.
+> 7 A 13/2002-46 ze dne 13. 11. 2003 nebo sp. zn. 1 Ans 3/2007-235 ze
+> dne 1. 8. 2007); proto se navrhuje podobné situace řešit právní fikcí
+> zápisu spolku do veřejného rejstříku.
+>
+> Pokud jde o právní jednání zakladatelů spolku učiněné před vznikem
+> spolku, spravují se obecnou úpravou právního jednání právnické osoby (§
+> 126), tedy zakladatelé mohou jednat jménem spolku již před jeho vznikem.
+>
+> S poučením v německé právní úpravě (§ 54 BGB) se navrhuje výslovně
+> upravit i právní režim spolků, které jako právnické osoby nevzniknou, na
+> taková sdružení osob se použijí ustanovení o společnosti upravené v dílu
+> 14 hlavy II části čtvrté návrhu. Zda půjde o společnost právem
+> aprobovanou nebo naopak zakázanou, záleží na konkrétních okolnostech.
+> Např. spolek nemůže být založen za tím účelem, aby jako svoji hlavní
+> činnost provozoval podnikání, společnost však ano. Naproti tomu např. k
+> podpoře násilí nelze založit ani spolek, ani společnost. Bude tedy i
+> podle navrhované úpravy nutno posoudit v jednotlivém případě, zda
+> popřípadě nedošlo k porušení zákonného zákazu a jaký právní následek
+> takové porušení má.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2801/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9951647BB95ED20C1258675001B7F89?openDocument) — *Spolek (o. z.) Pobočný spolek (o. z.) [ Korporace (o. z.) ]*
@@ -636,6 +759,14 @@ Stanovy musí mít **povinný minimální obsah** (§ 218) a být uloženy v sí
 
 Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval proti stanovám, může od přihlášky **odstoupit**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Děčíně* [15 C 93/2023-20](https://rozhodnuti.justice.cz/rozhodnuti/?id=7fe25100-918b-42d3-b069-98862e034d0f) — *peněžité plnění, postoupení pohledávky, smlouva nájemní*
@@ -694,6 +825,10 @@ Spolek lze založit i **ustavující schůzí**, která rozhoduje většinou př
 **§ 226 — Vznik spolku** = den zápisu do spolkového rejstříku. **Fikce zápisu** — pokud rejstřík nerozhodne do **30 dnů**, spolek se považuje za zapsaný (silná procesní záruka).
 
 **§ 227 — Pokud zápis odmítnut**: pokud spolek přesto pokračuje v činnosti, **použijí se ustanovení o společnosti** (§ 2716—2746 — tichá společnost / smluvní společnost, „klasické" sdružení).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
 
 **Judikatura (z místních zdrojů):**
 
@@ -767,6 +902,12 @@ Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zá
 
 **Typický příklad**: Český svaz házené (hlavní spolek) + regionální oblastní svazy (pobočné spolky).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 220 až 229“ (dnešní § 221—230) — viz § 221.
+
 ### Členství
 
 #### § 232—236 — Vznik členství, druhy, seznam
@@ -807,6 +948,108 @@ Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zá
 - Stanovy upraví způsob zápisů, výmazů, zpřístupnění;
 - Každý člen (i bývalý) má **právo na výpis o své osobě**;
 - **Uveřejnění** jen se souhlasem všech zapsaných.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 230 až 232 návrhu — dnešní § 232—234):**
+
+> Spolkové organizace mohou již dnes zřizovat - a mohly tak činit i v
+> minulosti - organizační jednotky s vlastní právní subjektivitou. Tyto
+> vedlejší právnické osoby zák. č. 83/1990 Sb. zcela nevhodně[^40]
+> označuje jako „organizační složky". Tato terminologie se opouští a
+> osnova zavádí pojem pobočného spolku.
+>
+> Protože je pobočný spolek právnická osoba s odvozenou subjektivitou,
+> záleží v prvé řadě na spolkových stanovách, zda bude vůbec zřízena - a
+> pokud ano, v jakém rozsahu bude způsobilá právně jednat. Vzhledem k
+> tomu, že stanovy mohou tuto způsobilost v různých směrech omezit a že
+> toto omezení má povahu interního opatření právnické osoby, nemohou
+> taková opatření vést k újmě třetích osob.
+>
+> Označení „pobočný spolek" je název druhový. Osnova nezamýšlí spolkům
+> nařizovat, aby své složky takto in concreto označovaly (zvoleno může být
+> např. i označení „sekce", „základní organizace", „místní organizace"
+> apod.); z názvu pobočného spolku však musí být nezbytně seznatelné, že
+> se jedná o osobu se subjektivitou jen odvozenou. Distinktivní složka
+> názvu spolku musí též obsahovat poukaz na sounáležitost pobočného spolku
+> k spolku hlavnímu.
+>
+> Zřízení pobočného spolku jako vedlejší právnické osoby vyžaduje -
+> vzhledem ke zkušenostem z praxe[^41] - nezbytná opatření v zájmu právní
+> bezpečnosti a ochrany veřejnosti. Dosavadní stav, kdy neexistuje možnost
+> hodnověrného ověření vzniku a trvání organizačních složek občanských
+> sdružení s právní subjektivitou, vede k negativním efektům. Proto se
+> navrhuje jít cestou zápisů pobočných spolků.
+>
+> Zřízení pobočného spolku nemůže vést k oslabení kredibility spolkového
+> jmění v neprospěch věřitelů a k poškozování jejich zájmů. Zároveň se
+> však ukazuje jako neschůdná myšlenka sledující zachování jednotnosti
+> spolkového jmění i při zřízení pobočného spolku. Takové pojetí by bylo
+> teoreticky vadné (jmění jedné právnické osoby by bylo při takovém řešení
+> podmnožinou jmění právnické osoby jiné). Mimo to by však jeho akceptace
+> vedla i k prakticky neschůdným situacím, neboť by tím bylo znemožněno
+> řešení případných majetkových sporů mezi pobočným a hlavním spolkem nebo
+> mezi několika pobočnými spolky téhož hlavního spolku. Proto se
+> respektuje oddělení majetkových sfér hlavního a pobočného spolku.
+>
+> Navrhuje se však v zájmu třetích osob stanovit, že z právních jednání
+> učiněných pobočným spolkem před zápisem do veřejného rejstříku, bude
+> společně s pobočným spolkem oprávněn i zavázán společně a nerozdílně
+> také spolek hlavní. Návrh se opírá o dva argumenty. Především je věcí
+> hlavního spolku, zda vznik pobočného spolku ve stanovách umožní a
+> kterému orgánu svěří působnost pobočný spolek ustavit (a rušit). Za
+> druhé, až do zápisu pobočného spolku do veřejného rejstříku nebude jiným
+> osobám dostatečně umožněno spoléhat na právní existenci pobočného
+> spolku, a proto je zapotřebí posílit jejich právní jistotu. Vedle toho
+> je potřebné mít na paměti, že navržené opatření nijak nemění pravidlo,
+> podle něhož členové statutárního orgánu spolku (tedy i spolku pobočného)
+> ručí za splnění závazků spolku vzniklých přede dnem zápisu spolku do
+> veřejného rejstříku. Jakmile bude pobočný spolek do veřejného rejstříku
+> zapsán, navrhuje se omezit rozsah zákonného ručení hlavního spolku na
+> rozsah určený stanovami.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 233 až 243 návrhu — dnešní § 235—245):**
+
+> Předpisy o členství ve spolku vycházejí z dosavadní úpravy, ale
+> rozšiřují ji a odstraňují některé nedostatky.
+>
+> Členství ve spolku má povahu osobního poměru, vyloučeného z přechodu
+> v rámci právního nástupnictví. Ke vzniku členství může dojít dvěma
+> způsoby: zvláštním způsobem vzniká členství u zakládajících členů
+> spolku, u nichž se nevyžaduje, aby podávali členskou přihlášku. Za
+> trvání spolku však členství v něm může vzniknout na základě podání a
+> přijetí členské přihlášky. Ze způsobů zániku členství upravuje osnova
+> vystoupení, vyloučení a zánik členství pro neplacení členského
+> příspěvku.
+>
+> Při vyloučení osnova předpokládá vnitřní přezkum rozhodnutí o vyloučení
+> v rámci spolkové organizace, ovšem vyjma případy, kdy o vyloučení
+> rozhoduje členská schůze nebo rozhodčí komise. Rozhoduje-li o vyloučení
+> jiný orgán, má mít vylučovaný právo žádat, aby členská schůze jeho
+> vyloučení přezkoumala. Stanovy spolku k tomu účelu mohou zřídit také
+> rozhodčí komisi. V každém případě však náleží vyloučenému soudní
+> ochrana, ať již o jeho vyloučení rozhodla členská schůze (či rozhodčí
+> komise) při přezkumu, anebo usnesla-li se členská schůze sama na
+> vyloučení přímo. Tím se zároveň odstraňuje nelogičnost stávajícího § 15
+> odst. 1 zák. č. 83/1990 Sb., jehož dikce vede k závěru, že o soudní
+> přezkum nelze žádat, není-li ve spolku vnitřní přezkum
+> institucionalizován. Mění se lhůta k podání návrhu (opouští se
+> subjektivní lhůta 30 dní a objektivní 6 měsíců) ve prospěch sjednocení
+> této a analogických konstrukcí v ostatních korporacích. Rozdílně od
+> dosavadní úpravy osnova v ustanovení o soudní ochraně člena spolku
+> výslovně nezmiňuje, že k rozhodnutí o návrhu je příslušný soud okresní,
+> protože toto pravidlo plyne již z ustanovení § 9 o. s. ř., kam také
+> systematicky patří.
+>
+> Nově se navrhuje upravit jako zvláštní právní zařízení seznam členů
+> spolku. Seznam členů slouží spolkovým záležitostem a v praxi je také
+> běžně zaváděn. Proto se jeho základní zákonný rámec jeví jako účelný a
+> vhodný. Osnova nemíní nařizovat každému spolku, aby tento seznam vedl.
+> Rozhodne-li se však spolek seznam vést, musí jeho základní rámec upravit
+> stanovy.
+>
+> Z úpravy obsahu členství se tato skupina paragrafů věnuje jen otázce
+> členských příspěvků, protože jinak v základní rovině plně postačí obecná
+> úprava o korporacích s tím, že se úprava dalších otázek ponechává
+> stanovám.
 
 **Judikatura (z místních zdrojů):**
 
@@ -856,6 +1099,8 @@ Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zá
 > Členství ve spolku zaniká vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně.
 
 Členství zaniká **vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
 
 **Judikatura (z místních zdrojů):**
 
@@ -907,6 +1152,8 @@ Spolek vzniká **zápisem**; po 30 dnech nečinnosti soudu nastává **fikce zá
 > Neurčí-li stanovy jinak, zanikne členství, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené spolkem dodatečně ve výzvě k zaplacení, ačkoli byl na tento následek ve výzvě upozorněn.
 
 Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přiměřené dodatečné lhůtě** ve výzvě k zaplacení (s upozorněním na následek).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
 
 **Judikatura (z místních zdrojů):**
 
@@ -976,6 +1223,14 @@ Pro zánik členství nezaplacením příspěvku je (nestanoví-li stanovy jinak
 
 **§ 242 — Soudní přezkum**: ve lhůtě **3 měsíců** od konečného rozhodnutí spolku lze podat **návrh soudu na neplatnost vyloučení**. **Subsidiární maximální lhůta 1 rok** ode dne zápisu zániku členství.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2595/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/112CA2CD5175724EC125883500160F10?openDocument) — *Spolek (o. z.)*
@@ -1034,6 +1289,8 @@ Vyloučení člena je možné jen pro **závažné** porušení povinnosti (zpra
 
 Povinné: **statutární orgán** + **nejvyšší orgán**. Volitelné (podle stanov): kontrolní komise, rozhodčí komise, další. Stanovy mohou pojmenovat libovolně (bez klamavosti).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1239/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D480002BB39C9F1C1258D560052D46A?openDocument) — *Spolek (o. z.) Člen Pracovněprávní vztahy Pracovní poměr Výpověď z pracovního poměru Sta…*
@@ -1080,6 +1337,8 @@ Spolek musí mít **statutární a nejvyšší orgán**; kontrolní a rozhodčí
 
 Stanovy určí: **kolektivní (výbor)** nebo **individuální (předseda)**. Default voličem: nejvyšší orgán spolku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1270/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5BA50F447F816A77C125893F001E321B?openDocument) — *Spolek (o. z.) Statutární orgán*
@@ -1125,6 +1384,8 @@ Stanovy určí, zda je statutární orgán **kolektivní (výbor)** či **indivi
 > Na usnesení členské schůze nebo jiného orgánu, které se příčí dobrým mravům, nebo mění stanovy tak, že jejich obsah odporuje donucujícím ustanovením zákona, se hledí, jako by nebylo přijato. To platí i v případě, že bylo přijato usnesení v záležitosti, o které tento orgán nemá působnost rozhodnout.
 
 Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti **donucujícím ustanovením zákona**, se hledí, jako by nebylo přijato (zdánlivé právní jednání — § 554). Totéž platí pro usnesení v záležitosti **mimo působnost** daného orgánu (*ultra vires*).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 233 až 243“ (dnešní § 235—245) — viz § 235.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1186,6 +1447,48 @@ Usnesení příčící se **dobrým mravům**, měnící stanovy proti **kogentn
 - Default funkční období: **5 let**;
 - **Kooptace**: pokud počet členů orgánu neklesl pod polovinu, mohou ostatní kooptovat náhradní (do nejbližšího zasedání volícího orgánu);
 - Pro kolektivní orgány platí **přiměřeně § 156** (usnášení) a § 159 odst. 2 (osobní výkon funkce).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 244 až 247 návrhu — dnešní § 246—249):**
+
+> Vnitřní organizace spolku je především jeho věcí. V zájmu bezpečnosti
+> právního styku je nezbytné, aby spolek měl statutární orgán, neboť ten
+> jej také zastupuje navenek v právním styku spolku s jinými osobami.
+> Proto se také vyžaduje, aby stanovy určily, jaký má spolek statutární
+> orgán, jak se tento orgán utváří a jak spolek zastupuje. Je záležitostí
+> stanov, zřídí-li statutární orgán kolektivní nebo individuální. Pro
+> zákonné označení kolektivního statutárního orgánu se navrhuje označení
+> „výbor", pro individuální orgán název „předseda". Nevylučuje se však,
+> aby si spolek tyto orgány pojmenoval jinak.
+>
+> Odpovídá zásadě samosprávy spolku, že je především na stanovách, aby
+> určily, jaké další orgány spolek bude mít a jaká bude jejich působnost.
+> Stejně tak je na stanovách určit, jak se tyto orgány svolávají nebo
+> obsazují.
+>
+> Novinkou, která však odpovídá standardním kontinentálním úpravám, je
+> konstrukce navržená v § 246. Obecně platí, že usnesení nejvyššího orgánu
+> korporativně strukturované právnické osoby, byť odporuje právnímu
+> předpisu nebo stanovám, nelze prohlásit za neplatné i po uplynutí
+> neúměrně dlouhé doby, neboť by to složitě strukturované poměry těchto
+> právnických osob znejišťovalo a destabilizovalo. Tomu odpovídá i obecná
+> konstrukce neplatnosti usnesení členské schůze. Tato obecná úprava však
+> není použitelná pro mimořádné případy, které zamýšlí řešit právě
+> ustanovení § 246. Předně se jedná o případ, kdy se usnesení členské
+> schůze ocitne v rozporu s dobrými mravy, protože takovou situaci nemůže
+> a nesmí sanovat pouhé plynutí času. Podobná situace však nastává v
+> případech, kdy usnesení členské schůze změní stanovy tak, že se ocitnou
+> v rozporu s kogentními ustanoveními zákona.
+>
+> Pouze v případě, že stanovy nebudou věnovat vnitřní organizaci spolku
+> pozornost, nastoupí dispozitivní ustanovení zákona. Osnova počítá se
+> standardní biparticí orgánů spolku, tj. se statutárním orgánem jako
+> orgánem exekutivním a s členskou schůzí jako orgánem nejvyšším, přičemž
+> se navrhuje upravit i dva orgány zřizované fakultativně, a to kontrolní
+> komisi a rozhodčí komisi. Navržená ustanovení umožňují spolku, jemuž
+> vyhovuje zákonná dispozice, přijmout jednoduché stanovy (§ 220 odst. 1)
+> a co do vnitřní organizace se řídit navrženou zákonnou úpravou. Návrh
+> však nebrání spolku, aby si ve stanovách vytvořil jakoukoli jinou
+> vnitřní organizační strukturu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1250,6 +1553,8 @@ Default: **členská schůze**. Působnost:
 - Zrušení s likvidací nebo přeměna.
 
 **Pojistka pro neaktivní SO**: pokud je statutární orgán zároveň nejvyšším a nemůže vykonávat působnost déle než **1 měsíc**, může **1/5 členů** svolat shromáždění všech členů.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 244 až 247“ (dnešní § 246—249) — viz § 246.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1317,6 +1622,64 @@ Neurčí-li stanovy jinak, je nejvyšším orgánem **členská schůze**; do je
 
 **§ 251**: **Právo informací**: člen má právo požadovat vysvětlení záležitostí spolku k předmětu zasedání. **Výjimka**: zákonem chráněné informace nebo vážná újma spolku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 244 až 247“ (dnešní § 246—249) — viz § 246.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 244 až 247“ (dnešní § 246—249) — viz § 246.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 248 až 262 návrhu — dnešní § 250—264):**
+
+> Ustanovení o členské schůzi především stanovují dispozitivní pravidlo o
+> jejím postavení v systému orgánů spolku. Dispozitivně se vymezuje i
+> základní působnost členské schůze - výrazem „zpravidla" se vyjadřuje
+> rozsah zákonné působnosti členské schůze pro případ, že stanovy o její
+> působnosti mlčí. Rovněž úprava způsobu svolávání členské schůze k
+> zasedání a požadavky na vyhotovení dokumentace o zasedání členské schůze
+> mají dispozitivní povahu. Ustanovení o neplatnosti usnesení členské
+> schůze mají ze zřejmých důvodů povahu donucující.
+>
+> Osnova ve shodě s tendencemi, které nastoupilo v r. 2000 obchodní právo,
+> rozlišuje členskou schůzi jako orgán a její jednotlivá zasedání a na
+> rozdíl od dosavadní obchodněprávní úpravy je v tom směru terminologicky
+> důsledná.
+>
+> Stanovám se ponechává na vůli, zda umožní konání členské schůze formou
+> dílčích schůzí, anebo institucionalizují-li namísto členské schůze
+> shromáždění delegátů. Rovněž v úpravě náhradního zasedání členské schůze
+> se stanovám ponechává široká autonomie.
+>
+> Neplatnosti usnesení členské schůze se věnují § 259 a násl. s poučením z
+> dosavadního vývoje obchodního práva. Podle obecné konstrukce může návrh
+> na soudní vyslovení neplatnosti usnesení členské schůze podat každý člen
+> spolku. Osnova rovněž nevidí nutnost konstruovat v tomto směru po vzoru
+> § 141 dosavadního obchodního zákoníku aktivní legitimaci insolvenčního
+> správce a vyrovnacího správce, protože členské schůzi z povahy věci
+> nenáleží činit dispozice s majetkem spolku, tudíž se její usnesení
+> nemohou přímo dotknout spolkového jmění. Učiní-li taková jednání
+> zástupci spolku, lze jejich případnou závadnost napadnout jiným
+> způsobem.
+>
+> Podle obecné konstrukce lze návrh na soudní prohlášení neplatnosti
+> usnesení podat v tříměsíční prekluzivní lhůtě. Speciálně se pak řeší
+> zvláštní situace, v nichž je nezbytné poskytnout členům spolku zvláštní
+> ochranu.
+>
+> Na druhé straně osnova v případě konfliktu individuálního zájmu člena
+> spolku a kolektivního zájmu spolku jako korporace preferuje obecnější
+> zájem této korporace na stabilitě jejích poměrů. Obdobně se sleduje i
+> ochrana dobré víry třetích osob, kterou vnitřními konflikty spolku nelze
+> otřásat zásahem do jejich právního postavení. Ani v těchto případech
+> však nelze ponechat případné porušení práva spolkem bez sankce, a proto
+> se navrhuje poskytnout dotčenému členu možnost domoci se vůči spolku
+> satisfakce za eventuální porušení jeho členských práv. Vychází se přitom
+> z pojetí, že taková sankce přináší větší efektivitu než paušálně
+> přijímané rozhodnutí o neplatnosti usnesení.
+>
+> Osnova bere v úvahu, že řízení o neplatnost usnesení členské schůze
+> nemusí vždy skončit rozhodnutím ve věci samé. Přitom jsou myslitelné
+> případy, že tu je zájem dalších členů spolku dosáhnout jasného vyřešení
+> konfliktu. Tehdy je třeba takovému zájmu poskytnout ochranu, jíž by se
+> jim jinak nedostalo.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 810/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8B30F572E875FDFC125846900187382?openDocument) — *Společenství vlastníků jednotek Přípustnost dovolání*
@@ -1383,6 +1746,12 @@ Neurčí-li stanovy jinak, je nejvyšším orgánem **členská schůze**; do je
 
 **§ 254 — Zápis**: vyhotoví SO **do 30 dnů**. Obsah: kdo svolal, kdy, kdo zahájil, předsedal, činovníci, přijatá usnesení, datum vyhotovení. **Právo nahlížet** mají členové.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 2175/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8EEEE9CA50B2A043C12587E3001B87B9?openDocument) — 23. 11. 2021
@@ -1436,6 +1805,10 @@ Neurčí-li stanovy jinak, je nejvyšším orgánem **členská schůze**; do je
 
 **§ 256 — Shromáždění delegátů**: pro velké spolky (např. tělovýchovné svazy s tisíci členy). Každý delegát zastupuje **stejný počet členů** (s rozumnou odchylkou).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 587/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D7A115E8F2852BBC1258AF4004C9550?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Členská schůze [ Spolek (o. z.) ]…*
@@ -1487,6 +1860,8 @@ Pro velké spolky lze stanovami zavést **dílčí členské schůze** (hlasy se
 
 Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zasedání** (max. 6 týdnů od původního). Pozvánka musí výslovně označit „náhradní zasedání". **Usnáší se libovolným počtem členů** (default, modifikovatelné).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [12 Cmo 137/2023-143](https://rozhodnuti.justice.cz/rozhodnuti/?id=2dc05982-f446-485a-80d4-0016c71cd408) — 25. 3. 2024
@@ -1536,6 +1911,8 @@ Není-li řádná schůze usnášeníschopná, lze do **15 dnů** svolat **náhr
 > Každý člen spolku nebo ten, kdo na tom má zájem hodný právní ochrany, může navrhnout soudu, aby rozhodl o neplatnosti rozhodnutí orgánu spolku pro jeho rozpor se zákonem nebo se stanovami, pokud se neplatnosti nelze dovolat u orgánů spolku.
 
 **Aktivní legitimace**: každý člen + osoba se **zájmem hodným právní ochrany**. **Důvod**: rozpor se zákonem nebo stanovami. **Subsidiarita**: jen pokud se nelze dovolat u orgánů spolku.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1590,6 +1967,8 @@ Neplatnosti rozhodnutí orgánu spolku se u soudu domáhá člen nebo osoba se *
 > Právo dovolat se neplatnosti rozhodnutí zaniká do tří měsíců ode dne, kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět, nejpozději však do jednoho roku od přijetí rozhodnutí.
 
 **3 měsíce** od vědomosti (nebo možnosti dozvědět se) o rozhodnutí. **Subsidiární maximum 1 rok** od přijetí rozhodnutí. **Prekluzivní lhůty** — po uplynutí právo zaniká.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1651,6 +2030,8 @@ Soud neplatnost **nevysloví**:
 
 Tato pravidla **vyvažují legalitu a stabilitu** vnitřní organizace spolku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1596/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20C71CD7526A757AC1258DA90052AA27?openDocument) — *Usnesení valné hromady (neplatnost) [ Valná hromada ] Valná hromada Vyloučení společníka*
@@ -1708,6 +2089,8 @@ Soud neplatnost rozhodnutí **nevysloví** při porušení **bez závažných pr
 >     - b) do tří měsíců ode dne právní moci rozhodnutí o zamítnutí návrhu, byl-li tento návrh zamítnut podle § 260.
 
 Při **závažném porušení základního členského práva** má člen právo na **přiměřené zadostiučinění** (peněžitá náhrada nemajetkové újmy). Lhůta: stejná jako pro neplatnost rozhodnutí (3 měsíce / 1 rok), případně 3 měsíce od právní moci zamítavého rozhodnutí podle § 260.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1767,6 +2150,12 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 
 **§ 264 — Pravomoci**: pověřený člen **nahlíží do dokladů** a požaduje **vysvětlení** od členů orgánů / zaměstnanců.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 248 až 262“ (dnešní § 250—264) — viz § 250.
+
 ### Rozhodčí komise (§ 265—267)
 
 **§ 265**:
@@ -1786,6 +2175,52 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 
 **§ 267 — Procesní úprava**: stanoví zvláštní zákon (zákon č. 216/1994 Sb. o rozhodčím řízení — přiměřeně).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 263 návrhu — dnešní § 265):**
+
+> Návrh respektuje zásadu vnitřní autonomie spolku. Proto nevylučuje, aby
+> stanovy zřídily spolek s jakoukoli organizační strukturou a libovolnými
+> orgány. V zájmu třetích osob a bezpečnosti právního styku se pouze
+> vyžaduje, aby bylo patrné, který ze spolkových orgánů je statutární a do
+> jehož působnosti spadá zastupování spolku ve všech věcech navenek. Proto
+> je možné, aby byly zřízeny spolky, jejichž nejvyšší orgány budou nejen
+> označeny jinak než jako členské schůze - např. sněmy, konference,
+> sjezdy, valné hromady aj. - ale hlavně, aby působnost a rozhodování
+> takových orgánů stanovy upravily jakkoli. Jen v případech, kdy stanovy
+> takový orgán zřídí, aniž mu určí působnost nebo aniž upraví jeho
+> rozhodování, použijí se přiměřeně zákonná ustanovení o členské schůzi.
+>
+> Není vyloučena ani existence spolku organizovaného autokraticky - podle
+> zásady vůdcovství - kdy monokratickému statutárnímu orgánu současně
+> náleží i působnost nejvyššího spolkového orgánu. Takové spolky jsou i
+> dnes, protože ani současná úprava tyto situace nevylučuje. Mlčení zákona
+> však vyvolává obtíže, nepamatují-li stanovy na případy, kdy osoba ve
+> funkci takového nejvyššího orgánu spolku zemře, stane se nezvěstnou,
+> jejíž svéprávnost je omezena, anebo nastanou-li jiné okolnosti bránící
+> jí ve výkonu funkce. Za takových situací lze dnes nahradit osobu v této
+> funkci někým jiným jen s velkými obtížemi a časovými prodlevami. To vede
+> k nežádoucím dopadům na spolek, dotýká se nepříznivě právní jistoty
+> dalších osob a nadbytečně zatěžuje soudy. Z toho důvodu se navrhuje
+> založit pro obdobné případy působnost shromáždění členů spolku a umožnit
+> mu zasáhnout. Jedná se o nouzové pravidlo, které se použije, neurčí-li
+> stanovy něco jiného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 264 až 266 návrhu — dnešní § 266—268):**
+
+> Je věcí stanov, zřídí-li ve spolku kontrolní komisi. Pro případ, že se
+> tak stane, navrhuje se stanovit pravidla pro ustavení členů kontrolní
+> komise do funkce a vymezit působnost tohoto orgánu. Zřídí-li tedy spolek
+> kontrolní komisi, pak bude potřebné, aby respektoval obsah navrhovaných
+> ustanovení. To se jeví jako nezbytné zejména z toho důvodu, že spolek
+> dává zřízením kontrolní komise najevo, že má upraven systém vnitřní
+> kontroly. Není tudíž možné připustit, aby byla kontrolní komise zřízena
+> jen titulárně, tj. bez působnosti nebo aby členy kontrolní komise
+> jmenoval statutární orgán (tedy orgán, na jehož výkon působnosti má
+> kontrolní komise dohlížet). Z obdobných důvodů nelze připustit, aby
+> došlo ke spojení funkce člena statutárního orgánu nebo likvidátora s
+> členstvím v kontrolní komisi. Nevyloučil-li by zákon tyto situace,
+> umožnil by vyvolat klamný dojem, že spolek má vnitřní kontrolní systém,
+> ač by se tak stalo jen na oko.
+
 ### Zrušení spolku (§ 268)
 
 **§ 268**:
@@ -1804,6 +2239,8 @@ Při **závažném zásahu do základního členského práva** má člen nárok
 - d) **Brání vystoupení**.
 
 Tato úprava je **specificky spolková** — nad rámec obecných důvodů zrušení podle § 172.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 264 až 266“ (dnešní § 266—268) — viz § 266.
 
 ### Likvidace spolku (§ 269—273)
 
@@ -1973,6 +2410,105 @@ Obec/kraj použije pouze k **veřejně prospěšnému cíli**.
 
 **§ 302**:
 > Určí-li stanovy, že o fúzi nebo rozdělení spolku rozhoduje jiný orgán než členská schůze, použijí se z ustanovení o fúzi nebo rozdělení spolku na rozhodování takového orgánu přiměřeně ustanovení o členské schůzi.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 267 až 269 návrhu — dnešní § 269—271):**
+
+> Spolek může zřídit pro účely rozhodování sporných záležitostí z oboru
+> spolkové samosprávy rozhodčí komisi. Zamýšlí se přiznat rozhodnutí
+> rozhodčí komise vykonatelnost. Z toho důvodu je nutné upravit podrobněji
+> nejen řízení před komisí, včetně formalit rozhodnutí spolu s nezbytnou
+> evidencí rozhodovaných záležitostí, ale i soudní přezkum rozhodnutí
+> rozhodčí komise. Tyto otázky však nemohou být předmětem úpravy
+> občanského práva hmotného, a proto se jejich úprava vyhrazuje zvláštnímu
+> zákonu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 270 návrhu — dnešní § 272):**
+
+> Vzhledem k obecné úpravě zrušení právnických osob i vzhledem k tomu, že
+> podle jiných ustanovení spolkového práva rozhoduje o dobrovolném zrušení
+> spolku členská schůze, řeší navržené ustanovení jen nucené zrušení
+> rozhodnutím orgánu veřejné moci. V tom směru se přejímá základní
+> zaměření platné úpravy v dosavadním § 12 zák. č. 83/1990 Sb. v platném
+> znění, ale nově navržené ustanovení navazuje na obecnou úpravu v § 173 a
+> zároveň se ve shodě se závěry doktrinární kritiky odstraňují některé
+> nedostatky platné úpravy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 271 až 275 návrhu — dnešní § 273—277):**
+
+> Likvidace spolku se podrobuje především obecné úpravě v ustanoveních §
+> 187 až 211. Zvláštní ustanovení spolkového práva řeší jen dílčí a
+> specifické otázky. Předně se jedná o publicitu soupisu jmění spolku.
+> Dále se doplňuje pravidlo o ustanovování likvidátora při nuceném zrušení
+> spolku. Konečně se zvláštním způsobem řeší naložení s likvidační
+> podstatou spolku.
+>
+> Cílem likvidace spolku není vzhledem k účelu spolkového jmění rozdělení
+> likvidačního zůstatku mezi členy spolku. Proto také není nutné
+> zpeněžovat likvidační podstatu celou. Likvidace spolku sleduje jen
+> očistění spolkového jmění od dluhů; další majetek spolku pak není
+> namístě měnit na peníze, ale zachovat jej pro užitečný účel spolkového
+> charakteru.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 276 až 289 návrhu — dnešní § 278—291):**
+
+> Také úprava fúzí spolku navazuje na obecnou úpravu v § 176 a násl. Fúze
+> spolků nejsou v platném právu upraveny, a protože se jedná o záležitost
+> osobního statusu, chybějící zákonný rámec spojování a slučování spolků
+> neumožňuje. Praktickými postupy lze sice již za stávající úpravy dospět
+> k obdobnému, nikoli však stejnému výsledku, tyto postupy jsou však
+> právně náročnější a komplikovanější, než jak to umožní navržená úprava.
+>
+> Spolkové právo vyžaduje určitou míru podrobnosti zvláštní úpravy.
+> Specifický charakter spolků jako soukromých korporací vyžaduje blíže
+> řešit jednak uzavírání smluv o fúzi a jejich schvalování, jednak
+> specifické dopady těchto spolkových přeměn na členské otázky. Zároveň je
+> nutné pamatovat i na důslednou ochranu věřitelských zájmů. Totéž platí i
+> o rozdělování spolků. Návrh úpravy přeměn spolků zohledňuje dosavadní
+> vývoj analogické úpravy v právu obchodních společností; rozdíl je však
+> v celkovém pojetí, zejména v tom smyslu, že je navržená úprava
+> liberálnější, než tomu je u právnických osob podnikatelské orientace.
+>
+> Ust. § 277 upravuje základní náležitosti obou subtypů smlouvy o fúzi.
+> Tuto smlouvu schvalují členské schůze fúzujících spolků. V nezbytném
+> rozsahu jsou upravena některá předsmluvní jednání zúčastněných spolků:
+> před sjednáním fúze musí zúčastněné spolky navzájem poznat své majetkové
+> poměry, aby mohly vyhodnotit rizika celé operace.
+>
+> Ustanovení § 279 a násl. vyžadují, zvláště pro účely informovanosti
+> členů spolku a v zájmu možnosti členské schůze přijmout rozhodnutí na
+> základě dostatečných informací, aby příslušné orgány spolku projekt fúze
+> vyhodnotily i obhájily, a podaly o tom zvláštní zprávu. Zároveň se
+> vylučuje nezbytnost takového administrativního zatížení spolkového
+> života tam, kde tyto zprávy objektivně nejsou třeba. Z úpravy obchodních
+> společností se však pro spolky nepřejímá pravidlo, že členové spolku
+> mohou příslušné spolkové orgány zprostit povinnosti vypracovat příslušné
+> zprávy písemným prohlášením s úředně ověřeným podpisem. Takové opatření
+> se pro spolkový život jeví jako nefunkční, a členy spolku i spolek
+> samotný by administrativně zatížilo víc, než samo vypracování zprávy.
+>
+> Ustanovení § 286 obsahuje pravidla pro zápis fúze do veřejného rejstříku
+> spolků. Sankční následky otálení s podáním návrhu na zápis fúze řeší §
+> 289.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 290 až 304 návrhu — dnešní § 292—306):**
+
+> Zrcadlově k úpravě fúzí je upraveno rozdělování spolků. Rozlišuje se
+> přitom úprava rozdělení sloučením, které vyžaduje uzavření smlouvy mezi
+> rozdělovaným spolkem a nástupnickými spolky, a rozdělení se založením
+> nových spolků, kde zanikající spolek vyhotovuje projekt rozdělení, jehož
+> součástí je i konstituce stanov nově vznikajících nástupnických spolků.
+>
+> Při rozdělení musí být zvláštní pozornost věnována majetkovým otázkám
+> právě proto, že rozdělovaný spolek má několik právních nástupců, a
+> majetkové vypořádání nemusí být provedeno důsledně. Z toho důvodu se
+> řeší také otázky nabytí aktiv a pasiv (jmění) zanikajícího spolku
+> nástupnickými spolky v případech, kdy přechod určitých položek smlouva o
+> rozdělení nebo projekt rozdělení důsledně neřeší. V téže souvislosti se
+> pamatuje na specifickou ochranu věřitelů.
+>
+> Obdobně jako u fúzí je i při úpravě rozdělení řešen zápis rozdělení do
+> veřejného rejstříku a právní následky otálení s podáním návrhu na tento
+> zápis.
 
 ### Fúze spolků (§ 274—287)
 

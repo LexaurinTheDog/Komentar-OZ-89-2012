@@ -37,6 +37,79 @@ Tento postup je v souladu s **Úmluvou OSN o právech osob se zdravotním posti�
 - **Soud má povinnost vůli respektovat** (§ 62 — při výběru opatrovníka přihlédne k přáním opatrovance; § 469 odst. 2 — opatrovník je povinen jednat ve shodě s přáními opatrovance).
 - **Není to ovšem absolutní vázanost** — viz § 43 (změna okolností).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 38 až 44 návrhu — dnešní § 38—44):**
+
+> Návrh ustanovení zařazených do tohoto oddílu vychází z pojetí, které
+> opouští přístupy typické pro starší dobu, konzervované v platné právní
+> úpravě (§ 10 platného občanského zákoníku) mj. i v důsledku udržování
+> tradice nastolené zákonnou úpravou z r. 1964. Tato úprava byla a dosud
+> je krokem zpět dokonce i ve srovnání s úpravou občanského zákoníku z r.
+> 1950, protože např. postrádá úpravu možnosti soudního jmenování
+> opatrovníka na návrh osoby, které tělesná vada působí obtíže při
+> spravování jejích záležitostí nebo hájení práv, na což občanský zákoník
+> z r. 1950 pamatoval v § 63. Zejména v posledních dvaceti letech došlo k
+> zřetelnému vývoji na úrovni národních právních úprav (např. ve Švédsku v
+> r. 1988, v Québecu v r. 1992, ve Švýcarsku v r. 2003, dále pak v
+> Německu, Rakousku, ve Francii a v dalších zemích). Tento vývoj odráží i
+> Úmluva OSN o právech osob se zdravotním postižením, kterou Česká
+> republika již podepsala a ratifikovala, jakož i judikatura Evropského
+> soudu pro lidská práva (např. č. 44009/05 ve věci Shtukaturov v. Ruská
+> federace z 27. 3. 2008 nebo č. 11223/04 ve věci X. v. Chorvatsko ze 17.
+> 7. 2008) a nálezy českého Ústavního soudu (zejména sp. zn. IV. ÚS 412/04
+> ze 7. 12. 2005, II. ÚS 303/05 z 13. 9. 2007 nebo II. ÚS 2630/07 z 13.
+> 12. 2007). Navržená ustanovení zohledňují tento vývoj a berou v úvahu,
+> že dosavadní úprava, která ve vztahu k osobám stiženým duševní poruchou
+> zná jen omezení a zbavení způsobilosti k právním úkonům (svéprávnosti),
+> vede k tvrdostem a nezohledňuje možnosti přiměřených přístupů k osobám
+> postiženým duševní poruchou tak, aby se ani jim nebránilo v uplatňování
+> jejich práv a umožnilo se jim zapojení do společenského života. Navržená
+> úprava sleduje směr již v českém právu nastolený zejména zák. č.
+> 108/2006 Sb., o sociálních službách, jehož § 2 odst. 2 zdůrazňuje
+> nutnost vycházet z individuálně určených potřeb osob, působit na osoby
+> aktivně, podporovat jejich samostatnost, motivovat je k takovým
+> činnostem, které nevedou k dlouhodobému setrvávání nebo prohlubování
+> nepříznivé situace a posilovat jejich sociální začleňování.
+>
+> Institut předběžného prohlášení je opatření preventivní povahy. Obdobnou
+> úpravu znají Rakousko, Francie, Velká Británie, Québec, Ontario, její
+> návrh je zahrnut do návrhu nového maďarského občanského zákoníku atd.
+> Úprava umožní člověku, zejména za situace, kdy u sebe pozoruje postupné
+> rozvíjení duševní poruchy (např. Alzheimerovu nemoc, demenci), projevit
+> závazně vůli pro případ, že posléze nebude schopen spravovat vlastní
+> záležitosti. Jde především o možnost projevit závazně vůli, jak mají být
+> nadále jeho záležitosti spravovány a kdo je má spravovat jako jeho
+> opatrovník. Vzhledem k závažnosti prohlášení a též i jeho odvolání, se
+> pro ně stanoví přísnější formální náležitosti; totéž platí i pro změnu
+> obsahu prohlášení. Povolá-li původce prohlášení opatrovníka a osoba
+> povolaná za opatrovníka s ním souhlasí, soud je prohlášením vázán (vázán
+> je ovšem i jeho odvoláním) a omezí se jen na přezkum, zda je tato osoba
+> způsobilá pro jmenování opatrovníkem. Soud musí zjistit, zda se jedná
+> o osobu schopnou spravovat s nezbytnou dávkou pečlivosti záležitosti
+> jiné osoby. Dále se samozřejmě zaměří i na přezkum, zda nehrozí konflikt
+> zájmů. Určí-li se v prohlášení, jak mají být určité záležitosti dotčené
+> osoby spravovány, je tím opatrovník vázán.
+>
+> Zvláštní ustanovení pamatují na případy vázanosti účinků prohlášení na
+> podmínku a na změnu okolností. Vzhledem k závažnosti právních důsledků
+> má v těchto případech rozhodnout soud. Zejména ve vazbě na podstatnou
+> změnu okolností, která má založit soudu pravomoc učiněné prohlášení
+> zrušit nebo změnit v případě, že by člověk prohlášení za takových
+> změněných okolností neučinil nebo by je učinil s jiným obsahem, je třeba
+> zajistit účinnou právní ochranu dotčené osoby. Může jít např. o situaci,
+> kdy je prohlášením povolán za opatrovníka manžel nebo osvojenec dotčené
+> osoby, ale manželství nebo osvojení následně zanikne. Proto se navrhuje
+> stanovit, že změna okolností musí být zjevná, že soud tedy nemůže
+> vycházet např. jen ze stanoviska opatrovníka nebo z výpovědí příbuzných
+> původce prohlášení, ale že musí vyvinout potřebné úsilí, aby zjistil
+> názor člověka, o jehož prohlášení rozhoduje, a o zrušení nebo změně
+> obsahu prohlášení rozhodnout jen tehdy, hrozila-li by jinak dotčenému
+> závažná újma.
+>
+> Prohlášení může být neplatné, např. pro nedostatek formy. Ani v takovém
+> případě však není možné, aby soud od jeho obsahu zcela odhlédl a
+> považoval je za právně bezvýznamné. Proto se navrhuje, aby i v takovém
+> případě soud vzal obsah prohlášení v úvahu a přihlédl k němu.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2358/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2358-13_1) — usnesení, 5. 8. 2014
@@ -96,6 +169,8 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 **Klíčová role notáře:** notářský zápis (§ 39 odst. 3) je **automaticky evidován v neveřejném seznamu** — soud, který bude řešit ustanovení opatrovníka, se dotáže Notářské komory, zda existuje předběžné prohlášení. Tím je zajištěno, že prohlášení nezůstane „v zásuvce" a soud o něm vůbec nebude vědět. U soukromé listiny **tato evidence neexistuje** — riziko, že prohlášení nebude včas předloženo soudu.
 
 **Doporučení v praxi:** Forma veřejné listiny (notářský zápis) je **silně preferována** — vyhne se sporům o pravost, pravost svědků, čas vyhotovení, a zajistí evidenci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
 
 **Judikatura (z místních zdrojů):**
 
@@ -167,6 +242,8 @@ Forma předběžného prohlášení je buď veřejná listina (notářský zápi
 - **Zvolený způsob dorozumívání** (znakový jazyk, Brailleovo písmo, daktylní abeceda).
 
 **Vazba na zákon o znakové řeči č. 155/1998 Sb.** a antidiskriminační zákon č. 198/2009 Sb.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
 
 **Judikatura (z místních zdrojů):**
 
@@ -253,6 +330,14 @@ Ustanovení zajišťuje přístupnost institutu předběžného prohlášení os
 - I neplatné prohlášení (např. vady formy, vady svědků) **soud zohlední**, není-li příčiny pochybovat o vůli pořizovatele.
 - To je **silně proautonomní pravidlo**: vady formy nesmějí potlačit zjevnou vůli člověka.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 38 až 44“ (dnešní § 38—44) — viz § 38.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS Praha-východ* [24 C 7/2024-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=42340132-4b56-4ce9-bbf3-36161376bc17) — *služebnost, narovnání, náklady řízení, věcná břemena, dokazování, náhrada nákladů*
@@ -320,6 +405,47 @@ Předběžné prohlášení lze odvolat (svéprávnou osobou) nebo soudně změn
 - Osoby s afatickými problémy po cévní mozkové příhodě;
 - Senioři, kteří chtějí mít „další pár očí" na složité smlouvy.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 45 až 48 návrhu — dnešní § 45—48):**
+
+> Duševní porucha postihuje zdraví člověka v různých stupních. Úkolem
+> právní úpravy je zajistit zdravotně postiženému dostatečnou míru
+> možnosti svobodně jednat na základě jeho vůle a možností. Platná právní
+> úprava nezohledňuje rozdílnost jednotlivých situací, které život
+> přináší; stávající občanský zákoník bere v úvahu jen případy, kdy člověk
+> není pro duševní poruchu schopen právně jednat buď v některých
+> případech, nebo vůbec a osoby se zdravotním postižením v mírnějším
+> stupni ponechává vůbec bez ochrany.
+>
+> Platný právní stav vychází z pojetí umožňujícího při postižení člověka
+> duševní poruchou podlamující jeho schopnost samostatně právně jednat jen
+> systém náhradního rozhodování, kdy opatrovník rozhoduje o člověku
+> namísto něho. Návrh zákonné úpravy podpory při rozhodování vychází z
+> pojetí tzv. podporovaného rozhodování (*supported decision-making*).
+> Podle tohoto pojetí v určitých případech postačí asistence jiné osoby -
+> ve funkci do určité míry formalizované - která se bude účastnit právních
+> jednání podporované osoby, aniž je nutné zasahovat do její svéprávnosti.
+> Podpůrce tudíž na rozdíl od opatrovníka nejedná namísto osoby se
+> zdravotním postižením, ale jedná společně s ní.
+>
+> Navržená úprava podpory při rozhodování vychází zejména z čl. 12 odst. 3
+> Úmluvy o právech osob se zdravotním postižením, podle kterého členské
+> státy musí přijmout odpovídající opatření, aby osobám se zdravotním
+> postižením umožnily přístup k asistenci, kterou mohou potřebovat při
+> uplatňování svéprávnosti. Právní řešení podpory při rozhodování bylo
+> nejprve upraveno již po r. 1990 v kanadských provinciích, posléze i v
+> Evropě v Norsku, Dánsku a Švédsku, ve Velké Británii (úprava advokáta --
+> podpůrce, která sleduje obdobnou funkci) a nejnověji ve Francii při
+> reformě systému opatrovnictví z r. 2007); jiné státy provedení takových
+> opatření připravují (maďarský návrh občanského zákoníku, práce na
+> portugalské reformě). Úmluva o právech osob se zdravotním postižením
+> vyžaduje v čl. 12 odst. 4 přijmout v dané souvislosti také odpovídající
+> a účinná opatření zamezující zneužití. Proto se navrhuje podmínit vznik
+> závazku mezi podporovaným a podpůrcem soudním schválením smlouvy o
+> poskytování podpory s tím, že podpůrce jmenuje soud. Tím se umožní
+> soudu, aby podpůrce popřípadě i odvolal, jsou-li pro to zákonné důvody.
+> Kromě toho se navrhuje relativně podrobně vymezit rozsah podpůrcovy
+> působnosti.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 794/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D25E28934EFC6A22C1258C8B004D445D?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Nápomoc při ro…*
@@ -386,6 +512,8 @@ Smlouva o nápomoci je nejmírnějším podpůrným opatřením pro osoby, jimž
 
 **Procesní úprava:** § 63 ZŘS — řízení o schválení smlouvy o nápomoci. Příslušnost: obecný soud podporovaného (§ 4 ZŘS).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 45 až 48“ (dnešní § 45—48) — viz § 45.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 10* [34 C 130/2021-78](https://rozhodnuti.justice.cz/rozhodnuti/?id=7e651b1d-db51-46c6-9eac-7d6058b799be) — *peněžité plnění, převod nemovitostí, smlouva kupní, zástavní právo, znalecký posudek*
@@ -445,6 +573,8 @@ Smlouva o nápomoci musí mít zákonný obsah (přítomnost, informace, rady) a
 - Možnost **připojit podpis** se zmínkou o funkci — to dává druhé straně signál, že byl podporovaný informován; právní jednání ovšem zůstává jednáním podporovaného samotného.
 - **Aktivní legitimace k námitce neplatnosti** — pokud podpůrce zjistí, že podporovaný jednal pod vlivem podstatného omylu, podpůrce může namítnout neplatnost (§ 581—583 OZ).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 45 až 48“ (dnešní § 45—48) — viz § 45.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Podporovaný pan P. (mírná demence, plně svéprávný, smlouva o nápomoci schválena) uzavře pod vlivem podomního prodejce kupní smlouvu na předražený „zázračný" zdravotní přístroj. Podpůrce — dcera — u jednání nebyla, dozví se o něm dodatečně a má za to, že otec jednal v podstatném omylu. Chce situaci napravit. Důkazy: kupní smlouva, srovnání ceny s obvyklou, svědectví o průběhu prodeje, lékařský podklad o stavu pana P.
@@ -491,6 +621,8 @@ Podpůrce nesmí podporovaného nevhodně ovlivňovat ani se na jeho úkor oboha
 - **Soud z úřední povinnosti** (i bez návrhu) — při závažném porušení povinností (zneužití, manipulace, obohacení).
 
 **Procesní úprava:** § 63 ZŘS.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 45 až 48“ (dnešní § 45—48) — viz § 45.
 
 **Judikatura (z místních zdrojů):**
 
@@ -565,6 +697,21 @@ Podpůrce lze odvolat na návrh podporovaného či podpůrce kdykoli, a při zá
 
 **Pokud zastoupený odmítne**, zastoupení nevzniká. To je **silně proautonomní pravidlo**: i osoba s těžkou duševní poruchou má právo vetovat zastoupení svým blízkým, pokud to dovolí svým „prahem schopnosti projevit přání".
 
+**Důvodová zpráva (sněmovní tisk 362, k § 49 až 54 návrhu — dnešní § 49—54):**
+
+> Návrh ustanovení upravuje zastoupení zletilého, kterému duševní porucha
+> brání samostatně právně jednat, členem jeho domácnosti, avšak jen v
+> obvyklých záležitostech odpovídajících konkrétním životním poměrům
+> zastoupeného. Jde zejména o záležitosti týkající se poskytování
+> zdravotních a sociálních služeb a žádostí o přiznání dávek pomoci v
+> hmotné nouzi, státní sociální podpory a sociálního zabezpečení. Navržená
+> úprava sleduje úpravu zástupčího oprávnění dalším členem domácnosti v §
+> 284b a násl. rakouského občanského zákoníku ve znění jeho novely z r.
+> 2006 a představuje jeden ze způsobů, kterým se naplňuje příkaz čl. 19
+> Úmluvy o právech osob se zdravotním postižením umožnit těmto osobám žít
+> v rámci společenství s možností volby, jakož i doporučení Rady Evropy č.
+> R (99)4 ohledně zásad právní ochrany nezpůsobilých dospělých osob.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 4701/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7D1AE2DECD7EC7CC12582E8002631AE?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ] Opatrovník*
@@ -629,6 +776,8 @@ Konstitutivní účinek **schválení soudu** — zastoupení vzniká až rozhod
 
 **Procesní úprava:** § 64 ZŘS — řízení o schválení zastoupení členem domácnosti.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 49 až 54“ (dnešní § 49—54) — viz § 49.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Příbrami* [5 C 199/2022-48](https://rozhodnuti.justice.cz/rozhodnuti/?id=be46ecbc-4a3a-4d77-957f-440ada3740fc) — *peněžité plnění, postoupení pohledávky*
@@ -682,6 +831,8 @@ Standard péče zástupce má **dvě roviny**:
 2. **Subjektivní** — respekt k osobitým představám a přáním zastoupeného (pokud nepřevažují rozumné důvody opačné).
 
 To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnějším formálním rámcem (bez plné inventarizace majetku, bez výročních zpráv soudu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 49 až 54“ (dnešní § 49—54) — viz § 49.
 
 **Judikatura (z místních zdrojů):**
 
@@ -762,6 +913,8 @@ Zástupce nese standard péče blízký opatrovníkovi: chrání zájmy a práva
 - Buď plná moc (§ 441), pokud je zastoupený schopen ji udělit;
 - Nebo opatrovnictví s omezením svéprávnosti (§ 55) a soudem definovaným rozsahem oprávnění.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 49 až 54“ (dnešní § 49—54) — viz § 49.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Mostě* [39 C 13/2025-26](https://rozhodnuti.justice.cz/rozhodnuti/?id=75f5a2f0-79c5-4ca0-ab67-3cf86d6e1866) — *smlouva o půjčce, postoupení pohledávky*
@@ -824,6 +977,10 @@ Zastoupení členem domácnosti pokrývá jen obvyklé záležitosti; u prostře
 - Odmítnutí zastoupeným (stačí schopnost projevit přání);
 - Jmenování opatrovníka (přechod na vyšší formu péče);
 - Uzavření smlouvy o nápomoci (přechod na mírnější formu — v rozsahu, v jakém je zastoupený způsobilý).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 49 až 54“ (dnešní § 49—54) — viz § 49.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 49 až 54“ (dnešní § 49—54) — viz § 49.
 
 **Judikatura (z místních zdrojů):**
 
@@ -902,6 +1059,77 @@ Soudy je aplikovaly velmi často a šablonovitě, čímž **vyřazovaly desetiti
 
 OZ 2014 zbavení svéprávnosti **zcela zrušil** a ponechal jen **omezení svéprávnosti** — s důrazem na subsidiaritu, diferenciaci a časové omezení (§ 59 — max. 5 let).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 55 až 63 návrhu — dnešní § 55—63):**
+
+> Návrh zachovává institut omezení svéprávnosti. Protože se jedná
+> o podstatný zásah do přirozených práv člověka, musí být jasně regulován
+> a svěřen do výlučné soudní jurisdikce.
+>
+> Zároveň se pojetí institutu podstatně rozchází s koncepcí totalitního
+> práva a bere zřetel na Úmluvu o právech osob se zdravotním postižením.
+> Současně přihlíží k novějším právním úpravám, které byly v některých
+> evropských státech již přijaty. Pokud jde o omezení svéprávnosti,
+> navrhuje se stanovit, že omezit člověka ve svéprávnosti lze jen v jeho
+> zájmu, po jeho zhlédnutí a poté, co vyvine potřebné úsilí, aby zjistil
+> jeho názor. Zdůrazňuje se, že k omezení svéprávnosti lze přistoupit, jen
+> nepostačí-li mírnější a méně omezující opatření (podpora při
+> rozhodování, zastoupení členem domácnosti).
+>
+> Navrhuje se, aby soud v rozhodnutí o omezení výslovně uvedl, v jakém
+> rozsahu je způsobilost člověka právně jednat dotčena. Formulace
+> „způsobilost právně jednat" je zvolena z toho důvodu, aby bylo zřejmé,
+> že soud omezením svéprávnosti rozhoduje o neschopnosti člověka nabývat
+> vlastním právním jednáním pro sebe práva a zavazovat se vlastním právním
+> jednáním k povinnostem. Soud nemůže omezit způsobilost člověka k
+> protiprávním činům: ta musí být posouzena pro jednotlivé případy
+> individuálně. Rozhodnutí o omezení svéprávnosti se navíc nijak nedotýká
+> schopnosti dotčené osoby rozhodovat o sobě v mimoprávních otázkách (jako
+> jsou např. volba oblečení nebo místa pobytu, svobodný pohyb atp.).
+>
+> Důvodem pro omezení svéprávnosti může být pouze duševní porucha, která
+> není jen přechodná, pokud dosáhne takového stupně, že člověku brání v
+> určitých záležitostech samostatně právně jednat. K rozhodnutí o omezení
+> svéprávnosti musí být přistupováno se zřetelem k subjektivnímu hledisku
+> v tom smyslu, že nerozhoduje, o jakou diagnózu duševní poruchy v daném
+> případě jde, ale relevantní je, jak se projevuje v psychické
+> způsobilosti konkrétní osoby, tj. jde-li o tak podstatnou odchylku od
+> normálního psychického vývoje člověka, která mu v určitém rozsahu brání
+> postarat se o vlastní záležitosti. U duševní poruchy se vyžaduje, aby
+> nebyla jen přechodná. Přechodná duševní porucha (vyvolaná stresem,
+> alkoholickým opojením nebo vlivem jiné drogy apod.) není důvodem pro
+> zásah do svéprávnosti jejím soudním omezením; jednání v této poruše se
+> posoudí se zřetelem ke konkrétním okolnostem případu. Podmínkou pro
+> omezení svéprávnosti však není, aby šlo o nevyléčitelnou duševní
+> poruchu, postačí, že je způsobilá projevovat se v delším než jen
+> krátkodobém časovém horizontu. Typické případy duševních poruch, které v
+> praxi vedou k zásahu do způsobilosti člověka právně jednat, jsou např.
+> schizofrenie, progresivní paralýza nebo chronická stadia závislosti na
+> omamných látkách s pokročilou deprivací osobnosti apod. Nenavrhuje se
+> stanovit marnotratnost jako zvláštní důvod pro omezení svéprávnosti. Je
+> tomu proto, že na odstranění rizik spojených s marnotratností pro
+> společné jmění manželů pamatuje zvláštní úprava v druhé části zákoníku o
+> právu rodinném. Žije-li marnotratník sám, pak není žádný důvod zasahovat
+> do jeho osobní svobody a omezovat možnosti jeho dispozic s vlastním
+> majetkem. Speciální odchylky se navrhuje upravit v rámci dědického
+> práva.
+>
+> Nové pojetí sleduje i návrh právní úpravy v tom směru, že není-li
+> vzhledem k zájmům osoby stižené duševní poruchou nezbytný výraznější
+> zásah, je třeba dát přednost mírnějšímu opatření i při samotném
+> omezování svéprávnosti. Proto se výslovně zdůrazňuje možnost omezit
+> svéprávnost i jen v souvislosti s určitou záležitostí (jako je např.
+> prodej domu nebo bytu). Omezení svéprávnosti je nově pojato jako
+> dočasné. Je-li svéprávnost omezena v souvislosti s určitou záležitostí,
+> pak může být omezena jen na dobu nutnou pro její vyřízení. Je-li
+> svéprávnost omezena vymezením okruhu právních jednání, k nimž člověk
+> není způsobilý, může se tak stát rovněž na určitou dobu, nanejvýš na tři
+> roky, s tím, že bude-li v této době zahájeno řízení o prodloužení doby
+> omezení, budou právní účinky původního rozhodnutí trvat i po dobu tohoto
+> řízení, nanejvýš však po dobu jednoho roku. Dosud platné právní pravidlo
+> § 10 odst. 3 dosavadního občanského zákoníku, podle něhož soud omezení
+> svéprávnosti změní, pokud se změní důvody, proč o něm bylo rozhodnuto,
+> anebo zruší, pokud tyto důvody odpadnou, zůstává zachováno.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 53/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-53-24_1) — usnesení, 21. 2. 2024
@@ -977,6 +1205,8 @@ Omezení svéprávnosti je *ultima ratio*: přípustné jen v zájmu člověka, 
 - **Povinné zastoupení** opatrovance v řízení (advokátem nebo zákonným zástupcem);
 - **Možnost komunikovat zvoleným způsobem** (znakový jazyk, AAC — augmentativní a alternativní komunikace).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Ostravě* [8 CO 116/2022-500](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c7c2abf-6503-4384-9856-74273f8cb460) — *dotace, odpovědnost za vady, peněžité plnění, smlouva o dílo, znalecký posudek*
@@ -1043,6 +1273,8 @@ Svéprávnost může omezit pouze soud; žádný správní orgán, lékař ani p
 
 **Komunikační bariéra ≠ důvod omezení** (odst. 2) — toto pravidlo chrání osoby s afaziií, hluchoslepé, autisty a další. Soud má povinnost zajistit komunikační prostředek (tlumočníka znakového jazyka, AAC), nikoliv osobu odepsat.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 3225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0770FE6C8165A89EC1258C130052AF87?openDocument) — *Přípustnost dovolání Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
@@ -1106,6 +1338,8 @@ Omezení svéprávnosti předpokládá trvalou (nikoli přechodnou) duševní po
 **Předběžné opatření** v řízení o svéprávnosti — analogie k předběžnému opatření OSŘ § 76, ale specifické pro tuto agendu. Soud může za běhu řízení:
 - Svěřit třetí osobě **konkrétní jednání** (např. uhradit kritickou platbu, prodat věc s rychlou ztrátou hodnoty);
 - Svěřit **správu majetku** dočasně (zejména pokud hrozí, že nejednání povede ke ztrátě).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1171,6 +1405,8 @@ Ustanovení dává soudu nástroj dočasné ochrany během řízení o svépráv
 - Opatrovník má povinnost informovat soud o změnách stavu (§ 466 a násl. ZŘS — povinnost zprávy o stavu opatrovance);
 - Lidé s omezenou svéprávností nejsou „odepsáni" navždy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1123/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72031DAEDE978C61C1258B3F004D5A46?openDocument) — *Omezení svéprávnosti (o. z.) [ Svéprávnost (o. z.) ]*
@@ -1231,6 +1467,8 @@ Omezení svéprávnosti je vždy časově ohraničené (zpravidla 3 roky, výjim
 Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zlepší (např. úspěšná léčba), může i bez návrhu zrušit nebo zmírnit omezení. Pokud se zhorší, může rozšířit (ale jen v rámci hranic § 57 a § 59).
 
 **Procesní úprava:** § 42 ZŘS.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1315,6 +1553,12 @@ Soud má trvalou povinnost sledovat poměry a při jejich podstatné změně bez
 
 **Subsidiární řešení — veřejný opatrovník** (§ 471): pokud nelze nalézt vhodnou fyzickou osobu, **opatrovníkem se jmenuje obec** (typicky obecní úřad — sociální odbor), v jejímž obvodu má opatrovanec bydliště. Toto je nucené opatrovnictví; obec ho nemůže odmítnout. Veřejný opatrovník je často nedostatečný (přetíženost, formální přístup, konflikt zájmů obce vs. opatrovance).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 55 až 63“ (dnešní § 55—63) — viz § 55.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 1504/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1504-15_1) — usnesení, 25. 6. 2015
@@ -1378,6 +1622,17 @@ Opatrovníka jmenuje soud s respektem k přáním opatrovance a podnětům blíz
 - Komunikovat s úřady v běžných věcech.
 
 Toto je **kogentní ustanovení** — soud nemůže omezit svéprávnost natolik, aby zasahovala do běžného života. Cílem je zachovat **dignity** a **autonomy** i v rámci omezení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 64 návrhu — dnešní § 64):**
+
+> Nově se navrhuje stanovit, že rozhodnutí o omezení svéprávnosti
+> nezbavuje člověka ani práva samostatně právně jednat v běžných
+> záležitostech každodenního života. I když je člověk ve svéprávnosti
+> omezen, nelze dovozovat neplatnost takových právních jednání jako je
+> koupě běžných potravin, lístku do kina, zaplacení nájemného apod. Opět
+> jde o řešení, které odpovídá běžným standardům a které bylo již před
+> desetiletími přijato např. i v Polsku. K témuž trendu se ostatně již
+> dříve přiklonila i zdejší judikatura.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1448,6 +1703,25 @@ Omezení svéprávnosti nikdy nezbavuje člověka práva jednat v běžných zá
 **Praktický dopad:**
 
 Tato úprava je **prosvobodná** — chrání svobodu kontraktovat i u osob s omezenou svéprávností, pokud jim transakce neškodí. Druhá strana (obchodník) je tím chráněna před překvapivou neplatností, jak ji znal starý OZ.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 65 návrhu — dnešní § 65):**
+
+> Navrhuje se upravit lépe než dosud právní důsledky situací, kdy
+> opatrovanec právně jedná samostatně, ač nemohl jednat bez opatrovníka.
+> Takové právní jednání nemá být prohlášeno za neplatné, nepůsobí-li
+> opatrovanci újmu (např. jde-li o přijetí daru). Rovněž se navrhuje
+> umožnit zachování platnosti těch právních jednání v těch případech, kdy
+> k obnovení rovnováhy v právech a povinnostech stran postačí soudní
+> moderace.
+>
+> Neplatnost opatrovancova právního jednání v případech, kdy opatrovanec
+> nemohl jednat bez opatrovníka, lze podle navrhovaného ustanovení zhojit
+> také ratihabicí, tedy dodatečným schválením (jde o případ právního úkonu
+> označovaného jako *negotium claudians*). Návrh v tomto směru opět
+> sleduje standardní evropské úpravy, které jsou vstřícnější potřebám
+> soukromého života než platná úprava z r. 1964, která pro tyto případy
+> zakládá absolutní neplatnost právního úkonu, vylučuje možnost takový
+> úkon dodatečně schválit a vyžaduje, aby byl popřípadě učiněn celý znovu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1521,6 +1795,47 @@ Jednání opatrovance mimo rozsah svéprávnosti je neplatné jen, působí-li m
 
 **Procesní úprava:** § 65—68 ZŘS.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 66 až 70 návrhu — dnešní § 66—70):**
+
+> Ustanovení blíže upravují situace, kdy se člověk stane nezvěstný.
+> Rozlišují se přitom na jedné straně případy, kdy člověk sice je
+> nezvěstný, ale z okolností neplyne, že jeho smrt není nepochybná, a na
+> straně druhé naopak případy, kdy vystoupí vážné pochybnosti, zda je
+> nezvěstný ještě naživu. Návrh ustanovení § 66 až 70 se zabývá prvním
+> okruhem případů.
+>
+> Stává se, že člověk opustí své bydliště a nejsou o něm zprávy, kde se
+> nalézá, ač nejsou důvody pochybovat, že je stále naživu. Takového
+> nezvěstného za mrtvého prohlásit nelze. Je ale nutné respektovat
+> praktické potřeby života, který se nemůže zastavit se zřetelem k tomu,
+> že se člověk odpovědný za své chování a řádný stav rodinných,
+> zaměstnaneckých, podnikatelských a jim podobných poměrů, do nichž
+> vstoupil, nezachová podle obvyklých zásad občanského soužití. Proto se
+> jako nový institut zavádí po vzoru čl. 112 a násl. CC a čl. 84 a násl.
+> CCQ prohlášení za nezvěstného.
+>
+> Za nezvěstného lze soudně prohlásit na návrh každého, kdo na tom má
+> právní zájem (tedy osoby fyzické i právnické), pouze svéprávného
+> člověka, pokud takový člověk sám před opuštěním bydliště neprovedl
+> efektivní opatření o svém majetku. O deklaraci nezvěstnosti soud nemůže
+> rozhodnout z úřední povinnosti. Hmotněprávní účinky takového prohlášení
+> jsou v tom, že jím je vyloučena nezbytnost, aby se administrativně
+> náročnou cestou zajišťovalo nahrazení jeho přivolení nebo souhlasu
+> k právním jednáním dalších osob v záležitostech rodiny nebo rozličných
+> majetkových dispozic. Také v korporacích, kde se rozhoduje podle
+> principu váhy hlasů, se na nezvěstného hledí, jako by nebyl, a s jeho
+> hlasem se nepočítá. Zvláštní hmotněprávní důsledek prohlášení
+> nezvěstnosti je upraven pro účely prohlášení za mrtvého. V ostatním jsou
+> práva člověka prohlášeného za nezvěstného nedotčena - zejména jeho
+> osobního stavu se takové rozhodnutí nemůže dotknout - a správu jeho věcí
+> vykonává opatrovník, jehož lze ustavit každému nezvěstnému (ať již
+> nezvěstnost byla deklarována čili nic) podle zákonných ustanovení o
+> zastoupení. Účinky deklarace nezvěstnosti končí, jakmile se člověk za
+> nezvěstného prohlášený opět fakticky ujme svých záležitostí. K jeho
+> návrhu soud prohlášení zruší s deklaratorním účinkem. Také při zániku
+> právní osobnosti člověka ztrácí deklarace nezvěstnosti právní účinky,
+> tentokrát však o tom nelze vydat zvláštní rozhodnutí.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 3* [17 C 194/2020-72](https://rozhodnuti.justice.cz/rozhodnuti/?id=e0940832-8254-4e3c-b2c9-5de8a22e6c73) — *smlouva darovací, vrácení daru*
@@ -1583,6 +1898,8 @@ Za nezvěstného lze prohlásit svéprávného člověka, který opustil bydliš
 
 **Povinnost přihlédnout k zájmům** (odst. 1 věta poslední): kdo jedná dotýkaje se záležitosti nezvěstného, **musí přihlédnout k jeho zájmům** — nelze využít prohlášení ke kořistnictví.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 66 až 70“ (dnešní § 66—70) — viz § 66.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan J. opustil bydliště a zmizel. Jeho manželka ještě před prohlášením za nezvěstného, ale bezprostředně po jeho zmizení, uzavřela jménem domácnosti nutnou smlouvu (např. o opravě střechy ve společném domě), k níž by jinak potřebovala jeho souhlas, a současně bez zbytečného odkladu podala návrh na prohlášení za nezvěstného. Později chce někdo zpochybnit platnost této opravy. Naproti tomu manželka chce „za pana J." podat návrh na rozvod. Důkazy: smlouva o opravě, datum opuštění bydliště, datum podání návrhu na prohlášení a den účinků.
@@ -1629,6 +1946,8 @@ Tři způsoby zániku účinků prohlášení:
 1. **Návrat** — fyzická přítomnost po dosažení znalosti pobytu;
 2. **Jmenování správce** — i bez návratu, pokud nezvěstný projevil vůli (typicky e-mailem, telefonem) a jmenoval správce majetku;
 3. **Prohlášení za mrtvého** — nezvěstnost se transformuje v domněnku smrti (§ 71 a násl.).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 66 až 70“ (dnešní § 66—70) — viz § 66.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1677,6 +1996,8 @@ Tři způsoby zániku účinků prohlášení:
 **Výklad:**
 
 **Ochrana právní jistoty** vůči vrátivšímu se nezvěstnému: po návratu nemůže napadnout jednání učiněná **v době účinků prohlášení** s odůvodněním, že jeho vůle nebyla zjištěna. To je **stabilizační** ustanovení — chrání ty, kdo v dobré víře jednali bez něj.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 66 až 70“ (dnešní § 66—70) — viz § 66.
 
 #### F. Kazuistika
 
@@ -1729,6 +2050,8 @@ Pokud nezvěstný **dříve ustavil správce** svého majetku (např. plnou moc�
 - Nemůže jednat (smrt, nezpůsobilost).
 
 V těchto případech se jednání řídí podle § 67 (rozhodují jiné osoby bez ohledu na souhlas nezvěstného).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 66 až 70“ (dnešní § 66—70) — viz § 66.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1799,6 +2122,34 @@ Dříve ustavený správce majetku jedná i po prohlášení nezvěstného dál 
 - Vyčká uplynutí lhůty (typicky 6 měsíců);
 - Rozhodne rozsudkem.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 71 až 76 návrhu — dnešní § 71—76):**
+
+> Standardním způsobem lze smrt člověka prohlásit po lékařském ohledání
+> jeho těla. Při zjištění smrti se vystaví úmrtní list podle předpisů
+> práva správního. Mohou však nastat a musí být hmotněprávně řešeny též ty
+> situace, kdy tu mrtvé tělo není, a přesto není s ohledem na jistotu
+> smrti nebo její vysokou pravděpodobnost rozumná pochybnost, že dotčený
+> člověk zemřel. Hmotněprávní stránka těchto záležitostí musí být náležitě
+> upravena, protože stávající úprava v druhé větě § 7 odst. 2 dosavadního
+> obč. z. i ve spojení s procesní úpravou v § 195 až 200 o. s. ř. je zcela
+> nedostatečná, nehledě již k tomu, že platný zákoník v citovaném
+> ustanovení neodůvodněně směšuje dva instituty, totiž důkaz smrti a
+> domněnku smrti. Návrh nové úpravy se inspiruje zejména úpravou
+> rakouského zákona o prohlášení za mrtvého.
+>
+> Plyne-li z okolností, že jsou vážné pochybnosti, zda je nezvěstný ještě
+> živ (nezvěstnost sama o sobě tedy nestačí), lze jej prohlásit za
+> mrtvého. Pro ten účel se stanoví s ohledem na různé okolnosti lhůty v
+> trvání tří, pěti a sedmi let v závislosti na charakteru rozhodné
+> události. Zvláštní ochrana se přitom - po vzoru rakouské úpravy -
+> poskytuje těm, kdo se stali nezvěstnými jako nezletilí; je nelze
+> prohlásit za mrtvé dříve, než uplyne pětadvacet let od jejich narození.
+> Vedle této podmínky musí být ovšem splněna podmínka lhůt stanovených v
+> příslušných ustanoveních.
+>
+> V návaznosti na uvedené případy je nutné řešit situaci, kdy byl člověk
+> prohlášen za mrtvého, ale následně se ukáže, že je ještě živ.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
@@ -1850,6 +2201,8 @@ Za mrtvého lze prohlásit člověka, o němž lze důvodně mít za to, že zem
 
 **Vyvratitelná domněnka** ohledně dne smrti.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 71 až 76“ (dnešní § 71—76) — viz § 71.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 1761/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D6A55E68181A377EC1258A3A00160F0E?openDocument) — *Prohlášení za mrtvého*
@@ -1899,6 +2252,8 @@ Nezvěstného lze prohlásit za mrtvého i před uplynutím pětileté lhůty, p
 
 **5 let od konce kalendářního roku** prohlášení za nezvěstného — pevná lhůta. Pokud se ovšem **objeví zpráva o životě** nezvěstného, lhůta neběží — postup pak podle § 74 nebo § 75.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 71 až 76“ (dnešní § 71—76) — viz § 71.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan P. byl prohlášen za nezvěstného v červnu 2021; žádná konkrétní událost ohrožující život nenastala, prostě beze stopy zmizel. Rodina chce co nejdříve vypořádat jeho majetek a zvažuje návrh na prohlášení za mrtvého. Ve variantě se navíc v roce 2024 objeví věrohodná zpráva (fotografie, svědectví), že byl pan P. spatřen živý v zahraničí. Důkazy: rozhodnutí o prohlášení za nezvěstného z roku 2021, případná zpráva o spatření z roku 2024.
@@ -1947,6 +2302,8 @@ Nezvěstného lze prohlásit za mrtvého i před uplynutím pětileté lhůty, p
 **Pravidlo „7 let od poslední zprávy"** — pokud nebyl předem prohlášen za nezvěstného, čeká se 7 let od konce roku poslední zprávy.
 
 **Ochrana nezletilých** (odst. 2): nezletilého nelze prohlásit za mrtvého **před rokem, kdy by mu bylo 25 let**. Tj. pokud zmizí dítě v 10 letech, prohlášení nejdříve po 15 letech (ve 25 letech). Důvod: dítě může mít zvláštní motivace ke zmizení (útěk z domova, problémy se školou), pravděpodobnost přežití je vyšší, a kromě toho lze i v dospělém věku objevit (např. v jiné zemi, kde žije pod jiným jménem).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 71 až 76“ (dnešní § 71—76) — viz § 71.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2002,6 +2359,8 @@ Nezvěstného bez předchozího prohlášení za nezvěstného lze prohlásit za
 - Hromadné neštěstí v důlním provozu.
 
 Důvod zkrácení: u takových událostí je pravděpodobnost úmrtí **kvalitativně vyšší** než u individuální nezvěstnosti, a rychlejší vyřízení pozůstalostí je nutné pro pozůstalé rodiny.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 71 až 76“ (dnešní § 71—76) — viz § 71.
 
 #### F. Kazuistika
 
@@ -2068,6 +2427,8 @@ U člověka nezvěstného jako účastníka hromadné události s ohrožením ž
 - **Manželství je definitivně zaniklé** — pokud chce vrátivší se obnovit svazek, musí uzavřít nové manželství.
 
 **Mylný důkaz smrti** (odst. 2) — pokud se prokáže, že úmrtní list byl vystaven omylem (např. tělo bylo špatně identifikováno), platí stejný režim jako u prohlášení za mrtvého.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 71 až 76“ (dnešní § 71—76) — viz § 71.
 
 **Judikatura (z místních zdrojů):**
 

@@ -38,6 +38,70 @@
 
 **Pozn.**: rozsudek pro nemajetkovou újmu je **„zadostiučinění"** (*Genugtuung*) — typicky peněžitá náhrada.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2864 až 2869 návrhu — dnešní § 2894—2899):**
+
+> Návrh ustanovení o náhradě majetkové újmy (škody) i jiné újmy vychází ze
+> zdejší tradice, a to i z tradice úpravy v obecném zákoníku občanském,
+> ale s poučením z novějších vývojových trendů, patrných zejména z návrhu
+> Principů evropského deliktního práva (PETL) vypracovaných Evropskou
+> skupinou pro deliktní právo v r. 2005, z vývoje příslušné partie
+> německého občanského zákoníku (§ 823 a násl. BGB), z obsahu občanského
+> zákoníku Québecu (§ 1457 a násl. CCQ) i z návrhu novely rakouského
+> deliktního práva. S přihlédnutím k těmto normativním i nenormativním
+> textům, ale i v návaznosti na tradici starého obecného občanského
+> zákoníku se navrhuje rozejít se zcela s pojetím institutu náhrady škody
+> v duchu primitivního materialismu, podle něhož se poškozenému hradí
+> výlučně škoda majetková.
+>
+> Jako základní východisko se formuluje povinnost nahradit újmu způsobenou
+> škůdcem zaviněně, přičemž zavinění z nedbalosti je presumováno. V další
+> části osnovy se přejímá konstrukce § 420 odst. 3 platného občanského
+> zákoníku, podle něhož se škůdce zprostí povinnosti nahradit škodu,
+> prokáže-li, že škodu nezavinil. Presumpce zavinění se však netýká ani
+> hrubé nedbalosti, ani úmyslu: dovolá-li se jich poškozený, musí takový
+> stupeň škůdcova zavinění dokázat. Tyto zásady charakterizují obecnou
+> úpravu povinnosti k náhradě škody, z níž se pro odůvodněné případy
+> navrhuje upravit cestou výjimek některé případy zvláštní.
+>
+> Osnova sice vychází nadále z koncepce, že se zásadně hradí majetková
+> újma (škoda), zatímco nemajetková újma jen v případech zvlášť dále
+> stanovených, ale případy, kdy poškozenému vznikne právo na náhradu -
+> resp. odčinění - nemajetkové újmy, jsou pojaty dosti široce. Obecné
+> předpoklady vzniku povinnosti hradit škodu však mají platit i pro vznik
+> povinnosti odčinit nemajetkovou újmu. Proto také většina ustanovení
+> tohoto dílu setrvává na pojmu „škoda" s tím, že totéž platí i pro
+> nemajetkovou újmu, plyne-li z právního řádu povinnost odčinit ji.
+>
+> Osnova nepřejímá obecné pravidlo socialistického práva, že neplatné jsou
+> všechny dohody, kterými se někdo vzdává práva, které má vzniknout teprve
+> v budoucnosti (§ 574 odst. 2 platného občanského zákoníku). Proto se
+> vylučuje možnost poškozeného vzdát se předem práva na náhradu škody
+> způsobené úmyslně, z hrubé nedbalosti, anebo jde-li o člověka a
+> poškození jeho přirozených práv, ať již prohlášením samostatně učiněným,
+> nebo ujednáním s potenciálním škůdcem. Rovněž se navrhuje vyloučit
+> výslovným ustanovením možnost platně se zprostit povinnosti k náhradě
+> škody prohlášením samotného škůdce. Taková prohlášení však mohou mít
+> funkci oznámení, kterým se varuje před nebezpečím (např. kdo má právo
+> vstupu na cizí pozemek, může být varován tabulkou „Pozor, zlý pes!", aby
+> o své vůli na pozemek nevstupoval, ale aby se domohl u vlastníka
+> pozemku, aby mu byl výkon práva umožněn).
+>
+> Návrh ustanovení, podle něhož vzetí na sebe rizika oběti nelze považovat
+> za vzdání se práva na náhradu škody, se inspiruje občanským zákoníkem
+> Québecu (čl. 1477). Jsou totiž situace, kdy se určitá osoba chová pro
+> sebe nebezpečně, riskuje vlastní život, zdraví nebo majetek, ale přesto
+> nelze dovodit, že to vylučuje její právo na náhradu újmy nebo že se
+> takového práva vzdala. Vběhne-li matka do hořícího domu, aby zachránila
+> své dítě, a utrpí-li těžké popáleniny, není možné dospět k závěru, že
+> nemá právo na náhradu vůči tomu, kdo požár způsobil (ať již zaviněně,
+> anebo vlastní provozní činností či z podobných důvodů, se kterými se
+> povinnost k náhradě škody pojí), protože vědomě na sebe převzala
+> neprozřetelným způsobem nebezpečí oběti. Výraz „neprozřetelně" odpovídá
+> québecké předloze (srov. *considérée comme une imprudence,* popř. *it
+> may be considered imprudent*). Výraz „neprozřetelně" vyhovuje i z toho
+> důvodu, že kryje situace, kdy určitá osoba jedná ukvapeně, nerozumně,
+> ale i v afektu apod.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — nález, 15. 1. 2025
@@ -106,6 +170,8 @@ Majetková škoda právnické i fyzické osoby se hradí vždy; nemajetková új
 - Vada výrobku (§ 2939);
 - Převzatá věc (§ 2944).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2864 až 2869“ (dnešní § 2894—2899) — viz § 2894.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2008/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5A75C9052FA01D3CC1258CAC004D1EC1?openDocument) — *Advokát Náhrada škody*
@@ -173,6 +239,14 @@ Majetková škoda právnické i fyzické osoby se hradí vždy; nemajetková új
 
 **§ 2899 — Riziková volba** — kdo přijal nebezpečí oběti, **nezbavuje se** práva na náhradu (např. dobrovolný záchranář).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2864 až 2869“ (dnešní § 2894—2899) — viz § 2894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2864 až 2869“ (dnešní § 2894—2899) — viz § 2894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2864 až 2869“ (dnešní § 2894—2899) — viz § 2894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2864 až 2869“ (dnešní § 2894—2899) — viz § 2894.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [28 Cdo 1551/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F0987D4BF8A9D6B9C1258D7F0052C236?openDocument) — *Smluvní pokuta Náhrada škody Moderační právo soudu*
@@ -235,6 +309,84 @@ Předem vyloučit či omezit odpovědnost za zdraví, úmysl, hrubou nedbalost a
 - **§ 2902** — Oznamovací povinnost při hrozícím porušení;
 - **§ 2903** — Sám poškozený **musí zakročit**, jinak nese **kontributorní vina**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2870 až 2873 návrhu — dnešní § 2900—2903):**
+
+> Návrh obecných ustanovení o předcházení škodám vychází z klasické zásady
+> *neminem laedere* (nikomu neškodit). Jedná se o obecnou prevenční
+> povinnost kodifikovanou již dnes v občanském zákoníku (§ 415). Toto
+> ustanovení je však pojato způsobem, který poznamenaly ideologie a
+> společenské zřízení své doby. Zdůvodněno bylo zájmem socialistické
+> společnosti; slibovalo se od něho „upevnění socialistických vztahů" a
+> jejich rozvoj. Dobová literatura dokonce zdůrazňovala, že „založení této
+> nové odpovědnostní skutkové podstaty je svým pojetím a dosahem v
+> občanskoprávních úpravách zcela ojedinělé." Příliš široké vymezení v
+> dosavadním § 415 platného občanského zákoníku vede v praxi k
+> nepředvídatelným efektům a vnáší do soukromých poměrů prvek nejistoty.
+> Základ tradičních úprav sleduje myšlenku, hlavním účelem zákonných
+> ustanovení o povinnosti k náhradě škody je škodu vypořádat, tj. umožnit
+> posouzení, zda škodu vzniklou v něčí majetkové sféře nese poškozený,
+> anebo má-li mu ji někdo nahradit, a tím současně vytvořit podněty k
+> tomu, aby se vzniku škod předcházelo. V těchto právních systémech mají
+> prevenční význam zejména obecná ustanovení o povinnosti jednat v souladu
+> s dobrými mravy nebo v tzv. objektivní dobré víře (*good faith, Treu und
+> Glauben*) a úprava svépomoci, dále úprava jednání v krajní nouzi nebo v
+> nutné obraně, jakož i zvláštními úpravami povinnosti k náhradě škod
+> způsobených bez zavinění (typicky v dopravě nebo provozem zvláště
+> nebezpečným). Nejdále v tomto směru pokročil nejprve německý BGB (§
+> 823), posléze některé novější kodexy, např. québecký z r. 1991 (čl.
+> 1457) nebo ruský z r. 1996 (čl. 1065); většina civilních kodifikací se
+> však staví k obecné úpravě občanskoprávní prevence rezervovaně. Pro
+> budoucí úpravu se navrhuje obecnou prevenční povinnost zachovat: jednak
+> vzhledem k obecně uznávané zásadě *neminem laedere* i k principu našeho
+> ústavního pořádku, podle něhož vlastnictví zavazuje (čl. 11 odst. 3
+> Listiny základních práv a svobod), jednak k přihlédnutím Principům
+> evropského deliktního práva a některým zahraničním vzorům. Výsledkem je
+> návrh zúžení dosavadního dosahu všeobecné prevenční povinnosti.
+>
+> Předně se navrhuje rozlišit prevenční povinnost v souvislosti s
+> nebezpečím vzniku újmy konáním, tedy aktivním postupem jednající osoby,
+> která má obecně nastoupit jako bezvýjimečná, a proti tomu případy
+> zvláštní, kdy nebezpečí újmy (na životě, zdraví a na osobních právech
+> vůbec, popřípadě na majetku) má svůj základ ve zvlášť upravených
+> situacích.
+>
+> Návrh vychází z pojetí, že kdo v soukromém styku koná, má konat tak, aby
+> z toho nevznikla bezdůvodná újma jinému. Důrazem na slovo bezdůvodná se
+> vyjadřuje samozřejmost, že výkon oprávnění jedné osoby sice může vyvolat
+> újmu u osoby druhé, že však tyto případy nemohou vést k závěru o
+> povinnosti jednajícího nahradit škodu; výslovné zdůraznění se nejeví
+> jako nadbytečné vzhledem k tomu, jaký je současný stav a k jakým
+> výkladovým důsledkům současná úprava často vede. Zejména musí být
+> váženo, co se konkrétně v jednotlivém případě od rozumné osoby podle
+> zvyklostí soukromého života očekává, jaká míra předvídatelného nebezpečí
+> pro jiné se pojí s určitým chováním, jaký je význam zájmu, který sleduje
+> konající osoba, a zájmu další osoby a jaký je mezi těmito záměry
+> hodnotový poměr, zda je mezi dotčenými osobami nějaký vztah, do jaké
+> míry jsou preventivní opatření pro konajícího dosažitelná nebo nákladná
+> atd.
+>
+> Zvláštní případy, které se pojí s povinností zakročit, jsou vytknuty
+> jako vytvoření nebezpečné situace nebo kontrola nad ní a případ
+> odůvodněný povahou poměru mezi osobami. Jinak se vyžaduje zakročení jen
+> v případech, kdy lze hrozící újmu snadno odvrátit a kdy následky hrozící
+> újmy zjevně převyšují námahu a úsilí, které je třeba k zákroku
+> vynaložit. Práva a povinnosti zakročujícího i osoby, v jejímž zájmu bylo
+> zakročeno, se posoudí podle ustanovení o nepřikázaném jednatelství.
+>
+> Doplněno je ustanovení o škůdcově notifikační povinnosti, která má
+> poškozenému umožnit, aby sám mohl učinit opatření minimalizujícímu dopad
+> škodné události do jeho majetkové sféry. Konečně je z platného
+> občanského zákoníku převzata myšlenka ustanovení § 417, dle kterého má i
+> ten, komu škoda hrozí, zakročit k jejímu odvrácení přiměřeným způsobem,
+> a nikoli jen trpně přihlížet, jak vzniká a zvětšuje se. Rozdílně od
+> dosavadní úpravy se však zakročení neukládá jako povinnost - je
+> soukromou záležitostí každého, jak nakládá s vlastním majetkem, jak
+> vyplývá ze zásady autonomie vůle i ze základního ustanovení o
+> vlastnickém právu - ale navrhuje se stanovit právní následek takové
+> nečinnosti: újma vzniká ve vlastní sféře jednající osoby v důsledku její
+> pasivity, a proto nemá právo na její náhradu vůči jinému v tom rozsahu,
+> v jakém škodě mohla zabránit.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 878/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1E62B80FC1DC030BC1258CC0004D0CD2?openDocument) — *Přípustnost dovolání Odpovědnost státu za škodu [ Odpovědnost státu za újmu ] Ušlý zisk*
@@ -295,6 +447,16 @@ Předem vyloučit či omezit odpovědnost za zdraví, úmysl, hrubou nedbalost a
 > Újmu způsobenou náhodou nahradí ten, kdo dal ze své viny k náhodě podnět, zejména tím, že poruší příkaz nebo poškodí zařízení, které má nahodilé újmě zabránit.
 
 **Zvláštní pravidlo**: pokud někdo svou vinou **dal podnět** k náhodě (porušil příkaz, poškodil zabezpečení) → odpovídá za **náhodou způsobenou újmu**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2874 návrhu — dnešní § 2904):**
+
+> Ustanovení o povinnosti nahradit škodu způsobenou náhodou v platné
+> úpravě chybělo a právní praxe musela dosud vycházet z obecné zásady
+> *casum sentit dominus*, která vyvolává některé aplikační potíže. Proto
+> se navrhuje výslovná úprava této právní otázky s tím, že základem je
+> pojetí formulované ve vládním návrhu občanského zákoníku z r. 1937,
+> které respektuje klasické konstrukce obsažené ve standardních evropských
+> kodexech.
 
 **Judikatura (z místních zdrojů):**
 
@@ -371,6 +533,60 @@ Kdo svou vinou poruší příkaz nebo vyřadí ochranné zařízení, odpovídá
 
 **§ 2908 — Náhrada za záchranu** — kdo odvracel cizí újmu, má **nárok na náhradu nákladů + utrpěné újmy** (proti tomu, v jehož zájmu jednal).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2875 až 2878 návrhu — dnešní § 2905—2908):**
+
+> Vyloučení povinnosti k náhradě újmy způsobené nutnou obranou nebo v
+> krajní nouzi náleží ke standardním občanskoprávním úpravám. Je zapotřebí
+> vzít v úvahu, že trestněprávní úprava nutné obrany a krajní nouze má
+> jinou funkci než úprava soukromoprávní.
+>
+> Na to bere zřetel i navržená úprava.
+>
+> Pokud jde o nutnou obranu, vyžaduje se protiprávnost útoku, a to již
+> jeho bezprostřední hrozba nebo, nastal-li již, jeho trvání. Obrana musí
+> být nutná, tedy taková, která je potřebná (nezbytná) k účinnému
+> odvrácení útoku. Hrozí-li újma jen nepatrná - avšak jen v tomto
+> případě - vyžaduje se navíc i přiměřenost obrany. Míra hrozící újmy musí
+> být posouzena vzhledem k poměrům napadeného; hrozí-li např. napadenému
+> ztráta sumy, která se obecně nejeví jako zvlášť významná, ale pro
+> napadeného představuje úspory za delší dobu, nelze dospět k závěru, že
+> mu hrozila nepatrná újma, a tudíž ani nebude namístě zkoumat přiměřenost
+> obrany. Význam právního pravidla, že se hrozící újma posuzuje vzhledem k
+> poměrům napadeného, se projeví i v případech, kdy napadený jedná v hrůze
+> nebo strachu, které nejsou objektivně odůvodněny, ale napadenému se
+> obrana jeví jako nutná: sem spadají případy napadení žertem, přičemž
+> napadený o žertu neví a reaguje, jako by šlo o skutečné nebezpečí. Proto
+> se ukládá vzít úvahu omluvitelné vzrušení mysli napadené osoby.
+>
+> Krajní nouze je stav hrozícího nebezpečí, který nelze odvrátit jinak než
+> způsobením újmy, ale menší než té, která hrozí. Nebezpečí musí hrozit
+> (nemůže jít o trvalý soustavný stav), a to přímo (bezprostředně). Krajní
+> nouze vylučuje protiprávnost jen při odvracení nebezpečí, které
+> jednající sám nevyvolal. Kdo např. vydráždí cizího psa a bude vystaven
+> jeho útoku, se nemůže dovolat krajní nouze a vyloučení povinnosti k
+> náhradě škody, zraní-li či zabije-li útočící zvíře, aby se ubránil.
+> Vyloučení protiprávnosti nenastane, lze-li nebezpečí odvrátit jinak nebo
+> je-li způsobený následek stejně závažný nebo závažnější než ten, který
+> hrozil. Při jednání v krajní nouzi se předpokládá ohrožení něčím jiným
+> než deliktně způsobilou osobou, tedy lavinou, povodní, požárem, zvířetem
+> atp. Podmínkou je, že se osoba odvracející nebezpečí zachová podle
+> zásady proporcionality, tj. nezpůsobí následek stejně závažnější, než
+> který hrozil. To se posoudí podle poměru hodnot, jejichž ztráta hrozí, a
+> hodnot, které mají být obětovány. Plyne z toho, že k záchraně vlastního
+> života lze obětovat cizí majetek, ne však cizí život (v tom je podstatný
+> rozdíl proti jednání v nutné obraně, při které není vyloučeno ani
+> beztrestné zabití útočníka.) Výhrada vyjádřená slovy „ledaže by majetek
+> i bez jednání v nouzi podlehl zkáze" dopadá na případy, kdy hoří dům
+> tak, že sousední by rovněž shořel, a vlastník třetího v řadě strhne
+> prostřední dům, aby zachránil svůj. Také otázky související s krajní
+> nouzí vyžadují objektivní posouzení, leč musí být přihlédnuto i k osobní
+> situaci toho, kdo se v nouzi ocitl, k potřebě rychlého rozhodnutí, k
+> případnému stressu (omluvitelnému vzrušení mysli) a dalším okolnostem, z
+> nichž je zřejmé, co si zasahující měl a mohl ještě vzhledem k situaci
+> uvědomit. Musí být zvažováno, že jinak se určitá situace může jevit
+> tomu, kdo ji následně v klidu hodnotí, a jinak osobě, která se ocitne v
+> bezprostředním ohrožení.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 611/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/418F6764AF68B195C1258D390052ADD9?openDocument) — *Nemajetková újma (o. z.) Nutná obrana*
@@ -436,6 +652,159 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 **Praktický příklad**: úmyslné šíření nepravdivých informací o konkurenci.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2879 až 2884 návrhu — dnešní § 2909—2914):**
+
+> Otázku, komu se přičítá povinnost k náhradě škody, řeší navržená
+> ustanovení. Navrhuje se v nich postupně upravit případy vzniku
+> povinnosti při porušení dobrých mravů, povinnosti stanovené zákonem a
+> povinnosti ujednané ve smlouvě.
+>
+> Do čela navržených ustanovení se staví případ upravený dnes v § 424
+> platného občanského zákoníku o povinnosti k náhradě škody způsobené
+> úmyslným porušením dobrých mravů. Kategorii dobrých mravů pojímá celá
+> osnova jako obecnou, proto se ustanovení nezařazuje mezi zvláštní
+> případy náhrady škody, ale do obecné úpravy, navíc na první místo, neboť
+> dobré mravy tvoří základ celého soukromého práva a soukromé právo z nich
+> vyvěrá jako celek.
+>
+> Návrh odděluje smluvní a mimosmluvní náhradu škody.
+>
+> Nový občanský zákoník tedy opouští pojetí jednotné úpravy civilního
+> deliktu. Důvody jsou následující: K jednotnému pojetí civilního deliktu
+> směřovala zdejší nauka již dříve (např. Knapp, V. Některé úvahy o
+> odpovědnosti v občanském právu. Stát a právo. I. Praha: NČSAV, 1956, s.
+> 68). Toto pojetí nalezlo své normativní vyjádření v občanském zákoníku z
+> r. 1950 v § 337 a v platném zákoníku v § 420 již v redakci z r. 1964.
+> Současná literatura se přitom dovolává vzoru § 1295 obecného občanského
+> zákoníku z r. 1811 (např. Švestka, J. in Knappová, M. - Švestka, J. -
+> Dvořák, J. et al. Občanské právo hmotné. 2. díl. 4. vydání. Praha: ASPI,
+> 2006, s. 426), z něhož platná úprava vychází. Přitom se přehlíží novější
+> vývoj civilního zákonodárství a nedoceňují se příčiny, které ke
+> koncepčnímu pojetí § 1295 občanského zákoníku z r. 1811 vedly. Římské
+> právo ostře rozlišilo porušení smlouvy od jiných případů: závazek k
+> náhradě škody způsobené porušením smlouvy nepojímalo jako novou
+> obligaci, ale jako změnu oprávnění a povinností v rámci původního
+> závazku. Občanské zákoníky z počátku 19. století toto pojetí nepřevzaly,
+> protože vycházely z přirozenoprávní nauky a podstatu protiprávnosti
+> spatřovaly v porušení přirozeného práva. Proto se jim také oddělení
+> kontraktní a deliktní povinnosti k náhradě škody jevilo jako umělá
+> kazuistika. Úprava protiprávnosti more iuris naturali (ve francouzském
+> Code Civil v čl. 1382 a v § 1295 rakouského ABGB) byla však záhy
+> kritizována a nauka i praxe se od uvedeného pojetí posléze odchýlily.
+> Proto se také pozdější civilní kodexy od přirozenoprávní koncepce (až na
+> řídké výjimky) odklonily návratem k odlišení úprav náhrady škody
+> způsobené porušením povinnosti ze smlouvy od jiných případů. K prvním
+> náleží již na konci 19. století španělský občanský zákoník (srov. čl.
+> 1106 a násl. a 1902 a násl.) a německý občanský zákoník (srov. § 276 a
+> násl. a § 823 a násl.). Oddělení kontraktní a deliktní povinnosti k
+> náhradě škody převzaly všechny novější kodifikace civilního práva včetně
+> občanských zákoníků přijatých v poslední době v Nizozemí (čl. 6:74 a
+> násl., čl. 6:95 a násl.), Québecu (čl. 1457 a 1458) nebo v Rusku (čl.
+> 393 a násl., čl. 1064 a násl.) a dalších zemích, jakož i nadnárodní
+> unifikační projekty včetně návrhu evropského občanského zákoníku (Draft
+> Common Frame of Reference; čl. III. - 3.101 a násl.; VI. - 1.101. a
+> násl.). Přestože stejnou koncepci v historické době přijaly i některé
+> někdejší tzv. socialistické státy včetně občanského zákoníku RSFSR z r.
+> 1922 (čl. 117 a násl., čl. 403 a násl.), maďarského občanského zákoníku
+> z r. 1959 (§ 298 a násl., § 339 a násl.) nebo občanského zákoníku bývalé
+> NDR (§ 82 a násl., § 323 a násl.), ve zdejším prostředí byla v 50.
+> letech 20. stol. odmítnuta, mj. s odůvodněním, že „z hlediska
+> teoretického není žádných přijatelných důvodů pro štěpení pojmu deliktu
+> na delikt porušující smluvní poměry a na delikt porušující jiné poměry,
+> a dokazuje i to, že taková úprava je legislativně i mnohem jednodušší"
+> (Luby, Š. Prevencia a zodpovednosť v občianskom práve. Svazek I. 1.
+> vydání. Bratislava: VSAV, 1958, s. 111) za současného poukazování, že
+> zájem „monopolů a vůbec velkých podnikatelů (\...) je hlavním faktorem
+> bránícím v období monopolistického kapitalismu vzniku a uznání
+> všeobecného pojmu občanskoprávního deliktu" (tamtéž, s. 59). Někdejší
+> zákoník mezinárodního obchodu (zák. č. 101/1963 Sb., § 251 a 719) a po
+> jeho vzoru i platný obchodní zákoník (§ 373 a § 757) se naproti tomu
+> alespoň opticky přiklánějí ke standardním evropským úpravám rozlišením -
+> řečeno terminologií uchovávanou u nás od 50. let 20. století -
+> odpovědnosti závazkové a mimozávazkové. Obě tyto úpravy však zůstaly v
+> polovině cesty, protože zavádějí pro oba případy stejný právní režim a
+> nepřihlížejí k věcným rozdílům mezi nimi.
+>
+> Rozdíly mezi smluvní a mimosmluvní povinností k náhradě škody jsou
+> zejména v tom, že se pro vznik povinnosti nahradit škodu porušením
+> smlouvy nevyžaduje zavinění a že rozsah náhrady škody podmiňuje její
+> předvídatelnost.
+>
+> Vznik povinnosti k náhradě škody způsobené porušením povinnosti
+> stanovené přímo zákonem se stejně jako v současném občanském zákoníku (§
+> 420 odst. 1 a 3) spojuje se zaviněným porušením takové povinnosti.
+> Požadavek na zavinění se přitom, rozdílně od stávající úpravy, vytýká
+> přímo jako podmínka vzniku povinnosti nahradit škodu, nikoli až jako
+> exkulpační důvod, jak tomu je v § 420 odst. 3 platného občanského
+> zákoníku.
+>
+> Návrh vychází z rozlišení případů, kdy je porušením zákonné povinnosti
+> zasaženo absolutní právo a kdy je zasaženo právo jiné. Toto oddělení se
+> zdůvodňuje povahou dotčených práv: absolutní právo, ať již osobní nebo
+> majetkové, působí vůči každému, zatímco relativní právo působí jen mezi
+> stranami. Toto pojetí sleduje úpravu § 823 německého občanského
+> zákoníku, ale i některých dalších (např. nizozemský občanský zákoník
+> přejímá v čl. 6:163 pravidlo § 823 odst. 2 BGB, když stanoví, že
+> povinnost k náhradě škody nevzniká, nesměřuje-li účel porušené normy k
+> ochraně před tou škodou, kterou poškozený utrpěl).
+>
+> Pokud jde o případy povinnosti k náhradě škody způsobené porušením
+> smlouvy, vychází návrh z pojetí, jaké je již dnes vyjádřeno v § 373
+> obchodního zákoníku. Způsobí-li smluvně zavázaná strana porušením
+> povinnosti ze smlouvy škodu, vznikne poškozenému právo na její náhradu
+> bez zřetele na škůdcovo zavinění. V těchto případech má právo na náhradu
+> škody nejen druhá smluvní strana, ale i ti, jichž se účel smlouvy přímo
+> dotýká, např. členové nájemcovy domácnosti, rodinní příslušníci osoby,
+> která objednala opravu určitého zařízení v bytě apod. Výslovný poukaz
+> navrhovaného ustanovení na chráněný zájem osoby, která není smluvní
+> stranou, sleduje vést soudní praxi k zúžení dosavadního přístupu v
+> rozhodovací praxi Nejvyššího soudu (např. srov. rozsudky sp. zn. 25 Cdo
+> 1417/2006 z 29. července 2008 nebo sp. zn. 23 Cdo 3495/2008 z 23. června
+> 2010), kde se dospělo k závěru, že u náhrady škody způsobené porušením
+> smluvní povinnosti postačí, „že porušení smluvní povinnosti mělo dopad
+> do právní sféry třetí osoby." Vzhledem k platné právní úpravě je tento
+> přístup pochopitelný, protože občanský ani obchodní zákoník případy
+> porušení smluvní nebo zákonné povinnosti v podstatě nerozlišují. (Jejich
+> rozlišení v obchodním zákoníku je formální, nikoli věcné, protože s
+> obojím spojuje shodné následky.) Pro změněnou úpravu by však mělo
+> zachování tohoto přístupu judikatury zásadně negativní následky. Je
+> totiž nutné vzít v úvahu, že ochrana třetích osob nemůže být bezbřehá.
+> Jinak by ten, kdo uzavírá smlouvu, nemohl odhadnout rizika a promítnout
+> je do požadavku na ekvivalentní protiplnění. Proto se vyžaduje, že
+> souvislost s ochranou třetí osoby musí být zjevná. To znamená, že musí
+> být zjevná pro škůdce a již při uzavírání smlouvy. Taková okolnost musí
+> být řádně prokázána a odůvodněna s důrazem na skutečnosti, z nichž musel
+> škůdce při náležité péči předpokládat zájem druhé strany na ochraně
+> třetího nebo blízký vztah a zájem třetího k plnění smluvené povinnosti.
+> V případech, kdy je i při plnění závazku způsobena škoda někomu jinému
+> bez této přímé souvislosti, např. při cestě opraváře k objednateli, se
+> otázka, zda je k náhradě povinen, posoudí podle ustanovení o deliktní
+> povinnosti k náhradě škody. Kdo poruší povinnost ze smlouvy, nemá
+> možnost vyvinit se (exkulpovat se) dokazováním, že škodu nezavinil,
+> protože se při porušení takové povinnosti zavinění nezkoumá. Na škůdce
+> dopadá tvrdší pravidlo o možností zprostit se (liberovat se) důkazem, že
+> mu ve splnění povinnosti ze smlouvy dočasně nebo trvale zabránila
+> mimořádná nepředvídatelná a nepřekonatelná překážka vzniklá nezávisle na
+> jeho vůli (v teorii zpravidla charakterizovaná jako vyšší moc). V textu
+> návrhu se vytýká porušení smluvní povinnosti jako základní a typický
+> případ. Pro porušení povinnosti ze závazku vzniklého z jiné právní
+> skutečnosti se stejná pravidla uplatní obdobně, neboť to stanoví již
+> obecná ustanovení návrhu o závazcích.
+>
+> Při plnění nejsou řídké případy, kdy dlužník (smluvně zavázaná strana)
+> použije třetí osobu. Navržené ustanovení odděluje případy, kdy se plní s
+> využitím pomocníka v užším slova smyslu a kdy s využitím poddodavatele,
+> který se zavázal k samostatnému výkonu činnosti. Pro prvý případ se s
+> formulační úpravou přejímá myšlenky § 331 a § 375 platného obchodního
+> zákoníku s tím, že se porušení právní povinnosti dlužníkovým pomocníkem
+> přičítá dlužníkovi a dlužník je povinen k náhradě škody takto způsobené
+> stejně, jako by ji způsobil sám. Tím je vyjádřeno, že se dlužník může ve
+> svůj prospěch dovolat i těch okolností, které by zprostily pomocníka
+> povinnosti k náhradě škody, kdyby za splnění odpovídal přímo. U
+> poddodavatelů, kteří se podílejí na plnění třetí osoby samostatně, se
+> povinnost dlužníka zužuje na případy nepečlivého výběru (*culpa in
+> eligendo*) nebo nedostatečného dohledu, pokud k nim byl dlužník povinen.
+
 #### 2) Porušení zákona (§ 2910)
 
 > Škůdce, který vlastním zaviněním poruší povinnost stanovenou zákonem a zasáhne tak do absolutního práva poškozeného, nahradí poškozenému, co tím způsobil. Povinnost k náhradě vznikne i škůdci, který zasáhne do jiného práva poškozeného zaviněným porušením zákonné povinnosti stanovené na ochranu takového práva.
@@ -458,6 +827,12 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 > (1) Nejedná-li škůdce, jak lze od osoby průměrných vlastností v soukromém styku důvodně očekávat, má se za to, že jedná nedbale.
 > (2) Dá-li škůdce najevo zvláštní znalost, dovednost nebo pečlivost, nebo zaváže-li se k činnosti, k níž je zvláštní znalosti, dovednosti nebo pečlivosti zapotřebí, a neuplatní-li tyto zvláštní vlastnosti, má se za to, že jedná nedbale.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2879 až 2884“ (dnešní § 2909—2914) — viz § 2909.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2879 až 2884“ (dnešní § 2909—2914) — viz § 2909.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2879 až 2884“ (dnešní § 2909—2914) — viz § 2909.
+
 #### 3) Porušení smlouvy (§ 2913)
 
 > (1) Poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou druhé straně nebo i osobě, jejímuž zájmu mělo splnění ujednané povinnosti zjevně sloužit.
@@ -476,6 +851,10 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 **§ 2914**:
 > Kdo při své činnosti použije zmocněnce, zaměstnance nebo jiného pomocníka, nahradí škodu jím způsobenou stejně, jako by ji způsobil sám. Zavázal-li se však někdo při plnění jiné osoby provést určitou činnost samostatně, nepovažuje se za pomocníka; pokud ho však tato jiná osoba nepečlivě vybrala nebo na něho nedostatečně dohlížela, ručí za splnění jeho povinnosti k náhradě škody.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2879 až 2884“ (dnešní § 2909—2914) — viz § 2909.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2879 až 2884“ (dnešní § 2909—2914) — viz § 2909.
 
 ### Domněnka nedbalosti
 
@@ -504,17 +883,27 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 **§ 2917 — Regresní nárok** — kdo platil za jiného, má vůči němu regres.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2885 až 2889 návrhu — dnešní § 2915—2919):**
+
+> Návrh ustanovení o právních důsledcích situací, kdy škodu způsobí více
+> škůdců, anebo kdy se na vzniku škody podílí poškozený, vychází z
+> dosavadní úpravy a z evropských standardů.
+
 ### Spoluzavinění poškozeného (§ 2918)
 
 > Vznikla-li škoda nebo zvětšila-li se také následkem okolností, které se přičítají poškozenému, povinnost škůdce nahradit škodu se poměrně sníží. Podílejí-li se však okolnosti, které jdou k tíži jedné či druhé strany, na škodě jen zanedbatelným způsobem, škoda se nedělí.
 
 **Spoluzavinění** (*kontributorní zavinění*) → **poměrné snížení** náhrady. **Zanedbatelné** spoluzavinění se ignoruje.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2885 až 2889“ (dnešní § 2915—2919) — viz § 2915.
+
 ### § 2919 — Obohacení po promlčení
 
 > Obohatil-li se škůdce na úkor poškozeného protiprávním činem nebo na základě jiné skutečnosti, která způsobila škodu, je škůdcovo obohacení i po promlčení práva poškozeného na náhradu škody bezdůvodné. Promlčí-li se právo poškozeného na náhradu škody, může se poškozený domáhat, aby mu škůdce vydal, co získal, podle ustanovení o bezdůvodném obohacení.
 
 Pokud se škůdce **obohatil** a právo poškozeného se promlčelo → poškozený může žádat **vydání obohacení** dle § 2991 a násl. (bezdůvodné obohacení).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2885 až 2889“ (dnešní § 2915—2919) — viz § 2915.
 
 **Judikatura (z místních zdrojů):**
 
@@ -587,6 +976,23 @@ Promlčení náhrady škody nebrání domáhat se vydání toho, oč se škůdce
 
 **§ 2922 — Vlastní vinou způsobená neschopnost** (alkohol, drogy) → odpovídá vlastník stavu i ti, kdo jej do něj přivedli.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2890 až 2892 návrhu — dnešní § 2920—2922):**
+
+> Osnova vychází při návrhu úpravy náhrady škody způsobené těmi, kdo
+> nedokážou posoudit následky svého jednání, z pojetí v dosud platném
+> občanském zákoníku (§ 422 a 423), oprošťuje ji však od některých
+> nemístných zjednodušení. Tak se zejména navrhuje zvlášť stanovit, že
+> poškozenému náleží náhrada škody i tehdy, nezakročil-li proti škůdci ze
+> šetrnosti nebo ohleduplnosti (neboť škůdcem v těchto případech je
+> nezletilý nebo člověk duševně nemocný nebo jednající v duševní poruše).
+> Stejně tak se navrhuje zvlášť stanovit, že v těchto zvláštních situacích
+> lze škůdce, který není s to posoudit následky svého jednání, zavázat k
+> náhradě škody, odpovídá-li to principům spravedlnosti.
+>
+> V případech, kdy osnova neuvádí zvláštní liberační důvody (např. § 2902
+> nebo § 2905) uplatní se možnost zprostit se povinnosti k náhradě podle
+> obecných ustanovení.
+
 #### Škoda způsobená osobou nebezpečných vlastností (§ 2923)
 
 **§ 2923**:
@@ -594,6 +1000,14 @@ Promlčení náhrady škody nebrání domáhat se vydání toho, oč se škůdce
 > Kdo se vědomě ujme osoby nebezpečných vlastností tak, že jí bez její nutné potřeby poskytne útulek nebo jí svěří určitou činnost, ať již v domácnosti, provozovně či na jiném podobném místě, nahradí společně a nerozdílně s ní škodu způsobenou v takovém místě nebo při této činnosti někomu jinému nebezpečnou povahou takové osoby.
 
 Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, svěří činnost) **bez nutné potřeby** → solidárně odpovídá za škodu, kterou taková osoba způsobila.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2893 návrhu — dnešní § 2923):**
+
+> Jedná se o klasickou *culpa in eligendo*, jejíž dosah je vzhledem k
+> obecnému pojetí odpovědnosti za zaměstnance, zástupce či pomocníka i ke
+> zvláštní úpravě povinnosti hradit škodu vzniklé z provozní činnosti či
+> jiných zvláštních příčin, omezen na případy zbývající, na jejichž
+> praktické řešení platná právní úprava nepamatuje.
 
 #### Provozní činnost (§ 2924)
 
@@ -603,6 +1017,63 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 - Provozovatel závodu odpovídá za škody **z provozu**;
 - **Liberace**: prokáže **veškerou péči**, kterou lze rozumně požadovat;
 - Typické: hluk, prach, emise, vibrace ze závodu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2894 až 2896 návrhu — dnešní § 2924—2926):**
+
+> Dosavadní právní úprava náhrady škody způsobené provozní činností a
+> provozem zvláště nebezpečným (§ 420a a 432 platného občanského zákoníku)
+> se jeví jako zmatečná, protože mezi oběma způsoby provozu rozlišuje co
+> do vzniku povinnosti k náhradě škody jen formálně, aniž bere v úvahu
+> odůvodněný rozdíl, protože mezi liberačním důvodem stanoveným u provozní
+> činnosti (škoda byla způsobena neodvratitelnou událostí nemající původ v
+> provozu anebo vlastním jednáním poškozeného) a liberačním důvodem
+> stanoveným pro provoz zvláště nebezpečný (okolnost, která nemá původ v
+> provozu, škodě nemohlo být zabráněno ani při vynaložení veškerého úsilí,
+> které lze požadovat) není zřetelná diferenciace; naopak, vezmeme-li
+> zákonný text doslova, jsou liberační důvody pro provoz zvláště
+> nebezpečný formulovány mírněji.
+>
+> Navrhuje se proto důsledněji rozlišit podmínky pro náhradu škody
+> způsobené provozem obchodního závodu nebo podobného zařízení a pro
+> náhradu škody způsobené provozem zvláště nebezpečným. Není totiž rozumně
+> možné stanovit tyto podmínky zásadně shodně pro provoz cukrárny i
+> chemické továrny, třebaže obchodním závodem je obojí.
+>
+> Navrhuje se tedy upravit povinnost k náhradě škody způsobené provozní
+> činnosti - charakterizované v podstatě stejně jako v dosavadním § 420a
+> platného občanského zákoníku, ale s možností zproštění provozovatele,
+> pokud prokáže, že vynaložil veškerou péči, kterou lze rozumně požadovat,
+> aby ke škodě nedošlo. Výrazem „rozumně požadovat" je vyjádřeno, že se
+> nemají na mysli jen povinnosti ujednané ve smlouvě nebo stanovené
+> právními předpisy, ale vše, co se v daném ohledu jeví s ohledem na
+> povahu provozu jako racionální. Je tím také vyjádřeno, že požadavky na
+> provozovatele nemohou být kladeny jako přepjaté - byť jsou formulovány
+> jako objektivní - neboť musí odpovídat tomu, co se od jednajícího v
+> daném oboru očekává jako opatrné jednání podle dosažené úrovně jednání i
+> obecné zkušenosti. Povinnost k náhradě škody způsobené provozní činností
+> se nepojí jen s provozem obchodního závodu, ale i jiných zařízení
+> sloužících k výdělečné činnosti. Takovými zařízeními nejsou jen ta,
+> která mají platící klientelu, ale i taková, jejichž výdělkem jsou
+> především příjmy z veřejných prostředků (např. veřejné nemocnice, školy
+> a podobné ústavy).
+>
+> Pokud jde o provoz zvláště nebezpečný, opouští se výrazné zjednodušení
+> zákonného textu, k němuž se přistoupilo v r. 1964. Provoz je zvlášť
+> nebezpečný, nelze-li předem rozumně vyloučit možnost vzniku závažné
+> škody ani při vynaložení řádné péče. Povinnost k náhradě škody způsobené
+> tímto provozem může vzniknout, jen vzejde-li škoda ze zdroje zvýšeného
+> nebezpečí (nikoli např. uklouznutím na vlhké podlaze); to platná právní
+> úprava dostatečně neodráží. V této souvislosti se navrhuje upravit,
+> avšak jen jako zvláštní případ, alternativní příčinnou souvislost.
+> Rovněž se navrhuje vyvratitelnou právní domněnkou naznačit, které
+> provozy vykazují zvláštní nebezpečí. I ve vztahu k provozům zvláště
+> nebezpečným se navrhuje upřesnit liberační důvody, zejména se navrhuje
+> mezi nimi výslovně uvést neodvratitelné jednání třetí osoby. Případná
+> ujednání o dalších liberačních důvodech jsou vyloučena.
+>
+> Dále se navrhuje začlenit - podle vzoru vládního návrhu občanského
+> zákoníku z r. 1937 - i zvláštní ustanovení o povinnosti k náhradě škody
+> způsobené na nemovité věci.
 
 #### Zvlášť nebezpečný provoz (§ 2925)
 
@@ -619,6 +1090,8 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 
 **Praktické příklady**: jaderné elektrárny, chemické závody, výroba munice, sklady benzinu/plynu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2894 až 2896“ (dnešní § 2924—2926) — viz § 2924.
+
 #### Škoda na nemovité věci (§ 2926)
 
 **§ 2926**:
@@ -626,6 +1099,8 @@ Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, s
 > Kdo, byť oprávněně provádí nebo zajišťuje práce, jimiž se jinému působí škoda na nemovité věci, nebo jimiž se držba nemovité věci znemožní nebo podstatně ztíží, nahradí škodu z toho vzniklou.
 
 Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitosti → odpovídá, **i když oprávněně** prováděl (např. stavební deformace sousedního domu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2894 až 2896“ (dnešní § 2924—2926) — viz § 2924.
 
 #### Provoz dopravních prostředků (§ 2927—2932)
 
@@ -663,6 +1138,50 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - **Zákon č. 30/2024 Sb. o pojištění odpovědnosti z provozu vozidla** (povinné ručení);
 - **Zákon č. 56/2001 Sb. o podmínkách provozu** vozidel.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2897 až 2902 návrhu — dnešní § 2927—2932):**
+
+> Pokud jde o škodu způsobenou provozem dopravního prostředku, osnova
+> vychází ze současné právní úpravy (§ 427 platného občanského zákoníku).
+> Po opakovaných a rozsáhlých diskusích, které vedly k tomu, že
+> Ministerstvo spravedlnosti předložilo do připomínkového řízení
+> alternativní návrh, se však podle výsledku připomínkového řízení
+> navrhuje změna v pojetí provozovatele vozidla nebo plavidla v tom směru,
+> že nová úprava má dopadat i na provozovatele všech vozidel a plavidel,
+> které nejsou poháněny lidskou silou. Navrhovaná změna vychází ze
+> zjištění, že zákonné úpravy zvláštní povinnosti k náhradě škody v
+> dopravě vznikající po druhé polovině 19. stol. \[např. na našem území se
+> železnic týkaly již ministerské nařízení č. 238/1854 ř.z. a zák. č.
+> 27/1869 ř.z., automobilů (jízdních silostrojů) zák. č. 162/1908 ř.z.\]
+> značnou měrou odrážela obavy z nových technických vymožeností
+> vyplývající z nedostatku zkušeností s nimi. Na to poukazují např. *J.
+> Guttenstein* a *A. Hartmann* v Komentáři automobilového zákona (1.
+> vydání. Praha: V. Linhart, 1934, s. 5), zdůrazňujíce, že právě malé
+> zkušenosti s motorovými vozidly vedly „k nemístné přísnosti zákona".
+> Společenský a technický vývoj vede k tomu, že motorové dopravní
+> prostředky jsou již řadu desetiletí běžným úkazem každodenního života;
+> současně se ukazuje, že není důvod rozlišovat jinou míru povinností
+> provozovatele vozidla nebo plavidla motorového a bezmotorového (provoz
+> plachetnice nebo koňského povozu vyvolává v dopravě obdobná nebezpečí
+> jako provoz plavidla nebo vozidla poháněného motorem). Není např. věcný
+> důvod stanovovat různý rozsah povinností provozovateli motorového
+> vozidla i v případech, kdy je tlačeno lidmi, aniž je použito síly
+> motoru, nebo když jede vlastní vahou z kopce, a provozovatele
+> bezmotorového vozidla ve stejných situacích. Z těchto a dalších
+> obdobných důvodů klade navrhovaná úprava důraz na zvláštní povahu
+> dopravního provozu více než na samotnou povahu dopravního prostředku.
+> Bere se přitom v úvahu i vývoj zdejší právní úpravy \[srov. § 2 písm. a)
+> zák. č. 168/1999 Sb., o pojištění z provozu vozidla, kde je za vozidlo
+> považováno i vozidlo bezmotorové, ledaže je taženo nebo tlačeno pěší
+> osobou\] a pro účely náhrady škody z provozu dopravních prostředků se
+> rozlišují vozidla a plavidla, která jsou poháněna lidskou silou a které
+> lidskou silou poháněna nejsou. Toto kritérium není záměrně upřesněno
+> příslovcem způsobu (např. slovem „výlučně"), zamýšlí se nechat prostor
+> aplikační praxi pro posouzení, v kterém konkrétním případě je lidská
+> síla pro provoz vozidla nebo plavidla rozhodující.
+>
+> V ostatních směrech se platná právní úprava věcně nemění, dochází jen k
+> jazykovým a formulačním úpravám.
+
 #### Zvíře (§ 2933—2935)
 
 **§ 2933**:
@@ -686,6 +1205,15 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **§ 2935 — Krádež zvířete** — třetí osoba (zloděj) odpovídá sám.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2903 až 2905 návrhu — dnešní § 2933—2935):**
+
+> Dosud platná úprava neobsahuje zvláštní ustanovení o škodě způsobené
+> zvířetem. Zamýšlí se proto nově na tyto situace pamatovat speciální
+> úpravou, odpovídající standardům kontinentálního práva. Návrh řeší
+> obecné otázky; respektuje se, že určité zvláštní případy (např. náhradu
+> škody způsobené vybranými zvlášť chráněnými živočichy) upravují
+> speciální zákony, do jejichž působnosti se nezasahuje.
+
 #### Věc (§ 2936—2938)
 
 **§ 2936**:
@@ -708,6 +1236,39 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2937 odst. 2 — Pád z budovy** — solidární odpovědnost **uživatele místnosti** + dohlížitele.
 
 **§ 2938 — Zřícení budovy** — vlastník + **předchozí vlastník** (do 1 roku po zániku jeho vlastnictví, pokud o vadě věděl).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2906 až 2908 návrhu — dnešní § 2936—2938):**
+
+> Dosavadní právní úprava pamatuje zvláštním ustanovením (původně § 238,
+> nyní § 420a platného občanského zákoníku) jen na případy škody způsobené
+> okolností, která má původ v povaze přístroje nebo jiné věci, jichž bylo
+> použito při plnění závazku nebo při poskytování zdravotnických,
+> sociálních, veterinárních a jiných biologických služeb. Toto ustanovení
+> je poplatné době svého vzniku, kdy obyvatelstvu poskytoval služby
+> socialistický sektor - při jejichž poskytování, podle dobového pojetí --
+> „vznikají mezi občany a socialistickými organizacemi společenské vztahy,
+> které jsou kvalitativně odlišné od vztahů vznikajících předtím mezi
+> občany a soukromými podnikateli" (důvodová zpráva k § 222 původní
+> redakce občanského zákoníku z r. 1964). Jeho účelem bylo - podle
+> důvodové zprávy k § 238 původní redakce občanského zákoníku z r. 1964 --
+> „zvýšit ochranu práv občanů pro řádné uspokojení jejich potřeb".
+> Výsledkem je ustanovení, které je v kontextu evropských právních řádů
+> zcela ojedinělé a které bylo při novele našeho občanského zákoníku
+> provedené zák. č. 509/1991 Sb. mechanicky přesunuto do § 420a. Toto
+> ustanovení představuje v současné době nedůvodnou zátěž pro ty, kdo
+> neporuší právní povinnost a naopak postupují s plnou profesionalitou a
+> podle zásad svého povolání (lege artis); tím spíš, že dnes jsou vztahy
+> mezi soukromými osoba co do povahy kvalitativně odlišné od těch, jaké
+> podle představ někdejšího zákonodárce měly být mezi občany a
+> socialistickými organizacemi. Navrhuje se proto omezit povinnost k
+> náhradě škody jen na případy, kdy škodu způsobila vada věci použité při
+> plnění.
+>
+> Dále se navrhuje zařadit úpravu povinnosti k náhradě škody způsobené
+> věcí v některých speciálních případech. Tato ustanovení dosud chyběla,
+> stejně jako speciální ustanovení o náhradě škody způsobené zřízením
+> budovy či odloučením její části. Navržené doplnění odpovídá standardům,
+> z nichž vycházejí civilní kodexy kontinentální Evropy.
 
 #### Vada výrobku (§ 2939—2943)
 
@@ -762,6 +1323,13 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - **Vadný výrobek samotný** (= smluvní odpovědnost);
 - **Věc převážně k podnikatelskému užití**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2909 až 2913 návrhu — dnešní § 2939—2943):**
+
+> Osnova přejímá již platnou právní úpravu obsaženou v zákoně č. 59/1998
+> Sb. o odpovědnosti za škodu způsobenou vadou výrobku, v platném znění.
+> Výrobkem se rozumí např. i elektřina, pokud se vyrábí a uvádí na trh,
+> neboť jde o ovladatelnou přírodní sílu, která je movitou věcí.
+
 #### Převzatá věc (§ 2944)
 
 > Každý, kdo od jiného převzal věc, která má být předmětem jeho závazku, nahradí její poškození, ztrátu nebo zničení, neprokáže-li, že by ke škodě došlo i jinak.
@@ -769,6 +1337,36 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **Klasická *obligatio in custodia*** — schovatel, dopravce, opravář ručí za poškození svěřené věci.
 
 **Liberace**: prokáže, že **škoda by vznikla i jinak** (vyšší moc, nepředvídatelná okolnost).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2914 až 2919 návrhu — dnešní § 2944—2949):**
+
+> Návrh ustanovení o povinnosti k náhradě škody na věcech svěřených,
+> odložených a vnesených odpovídá z valné části právní úpravě v § 433 až
+> 437 platného občanského zákoníku. Navrhuje se provést jen dílčí změny,
+> zvláště s inspirací v německém BGB (§ 701 a násl.).
+>
+> Předně se navrhuje doplnit úpravu o povinnost k náhradě škody vzniklé na
+> převzaté věci. Osoba, která věc převezme k splnění svého závazku (např.
+> převezme-li se věc k opravě), nese nebezpečí škody na věci obdobně jako
+> schovatel.
+>
+> Pokud jde o věci odložené, přejímá se dosavadní úprava.
+>
+> Také návrh úpravy náhrady škody na věcech vnesených ubytovanými nebo pro
+> ně do zařízení, v němž se poskytují ubytovací služby, vychází z dosud
+> platné úpravy. Navrhuje se stanovit limit výše náhrady v závislosti na
+> ceně ubytování. Bez omezení však má být hrazena škoda, byla-li věc
+> převzata do úschovy nebo odmítl-li ubytovatel věc do úschovy nezákonně
+> převzít (srov. § 2301 odst. 2), popřípadě způsobil-li škodu ubytovatel
+> samotný nebo osoba pracující v provozu ubytovacího zařízení. Rovněž se
+> navrhuje, opět podle německého vzoru, vyjmout z povinnosti k náhradě
+> škody případy škod na vozidlech nebo na živých zvířatech, ledaže byla
+> zvlášť převzata do úschovy. Rovněž se navrhuje opustit stávající pojetí
+> zániku práva na náhradu škody prekluzí (§ 436 platného občanského
+> zákoníku). Povinné osobě se poskytuje dostatečná ochrana založením práva
+> k námitce opožděného uplatnění práva na náhradu. Nelze jí však bránit,
+> aby z důvodů, které sama uzná za vhodné, náhradu škody ze své vůle sama
+> poskytla i v případě, kdy poškozený uplatnil právo po lhůtě.
 
 #### Další zvláštní skutkové podstaty (§ 2945—2950)
 
@@ -801,6 +1399,21 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 - **§ 2946 — Škoda na vnesených věcech** — provozovatel ubytování (hotel) odpovídá za **vnesené věci** hostů (do **stonásobku** ceny ubytování);
 - **§ 2950 — Odpovědnost profesionála**: kdo **deklaruje členství v profesi** → odpovídá za škodu z **profesní péče**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2914 až 2919“ (dnešní § 2944—2949) — viz § 2944.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2914 až 2919“ (dnešní § 2944—2949) — viz § 2944.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2914 až 2919“ (dnešní § 2944—2949) — viz § 2944.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2914 až 2919“ (dnešní § 2944—2949) — viz § 2944.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2914 až 2919“ (dnešní § 2944—2949) — viz § 2944.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2920 návrhu — dnešní § 2950):**
+
+> Jedná se o standardní úpravu, která je civilnímu právu vlastní už od dob
+> římského práva.
+
 ---
 
 ## Oddíl 3 — Způsob a rozsah náhrady (§ 2951—2990)
@@ -811,6 +1424,8 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 > **Snížení náhrady**
 > (1) Z důvodů zvláštního zřetele hodných soud náhradu škody přiměřeně sníží. Vezme přitom zřetel zejména na to, jak ke škodě došlo, k osobním a majetkovým poměrům člověka, který škodu způsobil a odpovídá za ni, jakož i k poměrům poškozeného. Náhradu nelze snížit, byla-li škoda způsobena úmyslně.
 > (2) Odstavec 1 se nepoužije, způsobil-li škodu ten, kdo se hlásil k odbornému výkonu jako příslušník určitého stavu nebo povolání, porušením odborné péče.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
 
 ### § 2951—2952 — Způsob náhrady
 
@@ -834,6 +1449,122 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2953 — Snížení náhrady** soudem (moderace):
 - Z **důvodů zvláštního zřetele**;
 - Zejména **majetkové poměry** škůdce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2921 až 2941 návrhu — dnešní § 2951—2971):**
+
+> Pokud se jedná o způsob náhrady škody, opouští osnova zásadu platného
+> práva, kritizovanou pro znevýhodnění poškozeného již v minulosti, podle
+> níž má relutární restituce přednost před restitucí naturální. Naopak má
+> být formulována zásada, že se škoda nahrazuje především uvedením do
+> předešlého stavu, a že relutární restituce přichází v úvahu jen, žádá-li
+> o to poškozený, anebo není-li uvedení do původního stavu dobře možné.
+> Je-li tedy naturální restituce možná, má nadále záležet jen na vůli
+> poškozeného, jaký způsob nahrazení škody bude požadovat a soud nebude
+> moci zkoumat, zda je zvolený způsob náhrady podle jeho názoru „účelný"
+> nebo „obvyklý", protože tato hlediska jsou vlastní právním pojetím
+> totalitních států. Pokud by však poškozený volil určitý způsob restituce
+> jen za účelem šikany škůdce, nedostalo by se mu právní ochrany; v tom
+> směru stačí kautely obsažené v obecné části navrhovaného zákoníku.
+>
+> Podobně i u nemajetkových újem má přicházet peněžitá náhrada jen tehdy,
+> nelze-li tuto újmu odčinit jinak.
+>
+> Co do rozsahu nahrazované škody, vychází osnova z principu, že zásadně
+> se hradí jen škoda na majetku. Škoda na majetku má být hrazena v rozsahu
+> vymezeném skutečnou škodou a ušlým ziskem.
+>
+> Nemajetková újma má však být odčiněna v některých zvláštních případech,
+> a to buď tehdy, není-li náhrada majetkové újmy vůbec možná, anebo tehdy,
+> odporovalo-li by přiznání poškozenému náhrady jen majetkové újmy obecně
+> uznávaným zásadám spravedlnosti.
+>
+> V prvé řadě se náhrada nemajetkové újmy přiznává při protiprávních
+> zásazích do osobních práv člověka nebo do obdobných (restriktivněji
+> vymezených) práv právnické osoby. V tom směru se zásadně přejímá koncept
+> dosavadní zákonné úpravy. Pokud jde o nemajetkové újmy na zdraví nebo
+> náhrady při usmrcení, opouští se pojetí § 444 odst. 2 a 3 platného
+> občanského zákoníku a vůbec myšlenka, že by sazebník výše náhrad měl a
+> priori stanovit zákon nebo dokonce podzákonný předpis, aby se tak
+> zjednodušilo rozhodování soudů. Nehledě k tomu, že obdobný přístup
+> standardní zákonné úpravy nevolí a nabízejí soudům - ačli vůbec (např.
+> francouzský Code civil nebo švýcarský Zivilgesetzbuch tyto otázky vůbec
+> neřeší a dávají soudci volnou ruku - je třeba hlavně poukázat, že
+> rozhodnutí jednotlivého právního případu náleží jen soudci a zákonodárná
+> moc, natož moc výkonná nemá v působnosti nařizovat soudu, jak má
+> jednotlivý případ rozhodnout. Soukromý život je nekonečně variabilní a
+> snaha po jeho nivelizaci v záležitostech tak navýsost individuálních
+> jako jsou bolest, důsledky újmy na zdraví pro další budoucnost
+> postiženého nebo ztráta blízkého člověka není důvodná. Není např. žádný
+> důvod založit manželu nebo sourozenci právo při usmrcení druhého manžela
+> či sourozence na zaplacení částky 240 000 nebo 175 000 Kč, jak je tomu v
+> současné právní úpravě. Za určitých okolností to může být příliš málo,
+> za jiných příliš mnoho. Je např. zřejmý rozdíl, trvá-li manželství jen
+> krátkou dobu nebo několik desetiletí, jaké byly poměry mezi manžely za
+> trvání manželství, bylo-li zahájeno řízení o rozvod manželství, žili-li
+> manželé vůbec spolu a z jakých důvodů žili odloučeně atd. Tyto a další
+> okolnosti se mohou a mají do výše náhrady kladně nebo záporně
+> promítnout. Odpovědnost za spravedlivé rozhodnutí v konkrétním případě
+> nemůže ze soudce nikdo sejmout a snaha o nivelizaci soukromého života v
+> jeho rozmanitostech nevyvolá nic jiného, než rigor nesrovnávající se s
+> povahou jednotlivých případů. Náhrada nemajetkových újem v souvislosti s
+> jinými zásahy do osobní sféry (jméno, čest, pověst, soukromí) nebo např.
+> poskytnutí zadostiučinění za újmy způsobené nekalou soutěží nebo delikty
+> proti obchodní firmě nejsou ani v současné právní úpravě co do výše
+> konkrétně stanovovány, aniž to vyvolává v rozhodovací praxi obtíže.
+> Podobné je to např. s výší výživného a v řadě dalších případů.
+> Pociťují-li někteří představitelé soudní moci potřebu tabulek, vzorců
+> nebo klíčů speciálně pro tyto účely, nic nebrání tomu, aby se soudní
+> praxe sama shodla na zásadách, podle nichž bude postupováno.
+>
+> Navrhuje se však také stanovit, že nemajetkovou újmu má hradit i ten,
+> kdo způsobil škodu úmyslně z touhy ničit či ublížit nebo z jiné
+> zavrženíhodné pohnutky, anebo způsobil-li škodu porušením důležité
+> povinnosti z hrubé nedbalosti, pokud náhradu nemajetkové újmy odůvodňují
+> zvláštní okolnosti. Do této skupiny patří i návrh ustanovení
+> zavazujícího škůdce k náhradě ceny zvláštní obliby při poškození věci ze
+> svévole nebo škodolibosti.
+>
+> Návrh ustanovení o povinnosti škůdce nahradit cenu zvláštní obliby,
+> způsobil-li škodu ze svévole či škodolibosti, přejímá dikci § 1331
+> obecného občanského zákoníku a § 1172 vládního návrhu československého
+> občanského zákoníku z r. 1937. Do jisté míry jde o jednu z obdob
+> institutu angloamerického práva označovaného jako *punitive damages.*
+> Svévole i škodolibost jsou kvalifikované případy vystupňovaného úmyslu.
+> Svévole směřuje k samotnému způsobení škody, škodolibost směřuje k osobě
+> poškozeného. V prvém případě má škůdce potěšení z toho, že škodí (srov.
+> *Dittrich, R. - Tades, H. et al.* Das Allgemeine bürgerliche
+> Gesetzbuch. 1. vydání. Wien: Manz, 1994, s. 1918), aniž mu zpravidla
+> vznikne jiný prospěch; osoba poškozeného je přitom škůdci lhostejná. V
+> druhém případě škůdce má potěšení z toho, že působí škodu právě určité
+> osobě, protože má zájem pokořit ji nebo jí jinak ublížit. Ze svévole
+> škodí např. ten, kdo poškrábe lak aut parkujících na parkovišti. Ze
+> škodolibosti škodí např. ten, kdo zlomí na cizím pozemku strom, o kterém
+> ví, že jej vlastník zasadil při narození syna a léta jej s láskou
+> pěstuje. Pro oba tyto případy se navrhuje umožnit poškozenému, aby
+> dosáhl náhrady odpovídající ceně zvláštní obliby. Cenou zvláštní obliby
+> (*pretium affectionis*) je mimořádná cena, při které se zohledňují i
+> nemajetkové aspekty, zvláště pak osobní vztah poškozeného k věci.
+> Zničí-li někdo schválně jinému jedinou fotografii jeho mrtvé matky nebo
+> zničí-li knihu opatřenou podrobnými autorskými poznámkami pro další
+> vydání se záměrem připravit autora o výsledek jeho několikaměsíční práce
+> apod., pak nelze škodu nahradit peněžitým ekvivalentem odpovídajícím
+> obvyklé ceně, protože náhradou za zničené nelze opatřit novou věc. Z
+> toho důvodu je namístě, aby náhrada plnila vedle reparační funkce i
+> funkci satisfakční (popřípadě penální). Vzhledem k tomu se cena zvláštní
+> obliby určí obdobným postupem, jakým se určuje výše satisfakčních plnění
+> za újmy ryze nemajetkové: výši určí a zdůvodní poškozený, a
+> nepřistoupí-li na ni škůdce, popřípadě nedosáhnou-li strany narovnání,
+> rozhodne o výši ceny zvláštní obliby soud.
+>
+> Jako dosud má být i do budoucna upravena moderační pravomoc soudu, která
+> má přicházet v úvahu, je-li škůdcem osoba fyzická a nezpůsobila-li škodu
+> úmyslně. Soudcovská úvaha o případném přiměřeném snížení náhrady škody
+> však musí vzít zřetel, zda tu jsou okolnosti odůvodňující toto, co do
+> své povahy, mimořádné řešení (má rozhodovat, jak ke škodě došlo a jaké
+> jsou osobní a majetkové poměry škůdce i poškozeného). Možnost snížit
+> náhradu škody má však být vyloučena, způsobil-li ji porušením odborné
+> péče ten, kdo se hlásil k odbornému výkonu jako příslušník určitého
+> stavu nebo povolání.
 
 **Judikatura (z místních zdrojů):**
 
@@ -896,6 +1627,10 @@ Primárně se škoda hradí uvedením do předešlého stavu, ale je‑li to hos
 > Nelze-li výši náhrady škody přesně určit, určí ji podle spravedlivého uvážení jednotlivých okolností případu soud.
 
 >**Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
 
 **Judikatura (z místních zdrojů):**
 
@@ -966,6 +1701,12 @@ Primárně se škoda hradí uvedením do předešlého stavu, ale je‑li to hos
 - **Ztížení společenského uplatnění** — trvalé následky;
 - **Metodika NS**: rozhodnutí pléna NS sp. zn. **Cpjn 14/2014** — výpočet bolestného + ZSU.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
@@ -1024,6 +1765,8 @@ Při ublížení na zdraví se hradí bolestné (vytrpěné bolesti) i ztížen�
 - **„Plně vyvažující utrpení"** — neexistuje pevný strop;
 - **Zásady slušnosti** při určení;
 - Současná judikatura NS: typicky **200—500 tis. Kč pro manžela**, **300—500 tis. pro rodiče dítěte**, **200—400 tis. pro děti rodiče** — s úpravami podle okolností.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1131,6 +1874,20 @@ Při usmrcení nebo zvlášť závažném ublížení na zdraví náleží blíz
 
 **§ 2966 — Renta pozůstalým** — typický nárok manželky, dětí po smrti živitele.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
@@ -1214,6 +1971,16 @@ Při ublížení na zdraví vzniká soubor majetkových nároků: náklady péč
 
 **§ 2971 — Náhrada nemajetkové újmy z porušení smluvní povinnosti** — možná, pokud strany **výslovně ujednaly** nebo zákon stanoví.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2921 až 2941“ (dnešní § 2951—2971) — viz § 2951.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 14/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-24_1) — nález, 28. 5. 2024
@@ -1273,6 +2040,29 @@ Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštn�
 
 **§ 2974**:
 > Českým osobám jsou, pokud se jedná o ochranu proti nekalé soutěži, postaveny na roveň zahraniční osoby, které se v České republice účastní hospodářské soutěže. Jinak mohou zahraniční osoby požadovat ochranu podle mezinárodních smluv, jimiž je Česká republika vázána a které byly vyhlášeny ve Sbírce mezinárodních smluv, a není-li jich, na základě vzájemnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2942 až 2945 návrhu — dnešní § 2972—2975):**
+
+> Návrh ustanovení o hospodářské soutěži je do osnovy zahrnut především
+> proto, že hospodářská soutěž není omezena jen na podnikatele, nýbrž i na
+> jiné soutěžitele a její úprava zasahuje i soukromá práva a povinnosti
+> dalších osob (např. tzv. osob pomocných). Další podstatný důvod této
+> systematické změny je v tom, že i za situace, kdy je právo hospodářské
+> soutěže upraveno zvláštním zákonem (zák. č. 143/2001 Sb.), neobsahuje
+> tato úprava soukromoprávní ustanovení, která je tudíž potřebné zařadit
+> do občanského zákoníku.
+>
+> Obecná ustanovení o hospodářské soutěži jsou dnes obsažena systematicky
+> zcela nevhodně v obchodním zákoníku (§ 41 až 43). V rámci
+> rekodifikačních prací se přesunují do občanského zákoníku s tím, že
+> doplněna jsou ustanoveními o konkurenčních doložkách po vzoru - co do
+> obsahového řešení i systematického zařazení - italského zákoníku (čl.
+> 2596 C.c.). Stávající obecná úprava konkurenčních doložek v § 672a
+> obchodního zákoníku je nevhodná zejména proto, že vycházejí z evropské
+> směrnice vydané pro obchodní zastoupení, která pojímá konkurenční
+> doložky příliš restriktivně s cílem chránit slabší stranu. Jedná se
+> tudíž o zvláštní pojetí, které má zvláštní význam pro úpravu konkrétního
+> smluvního typu.
 
 ---
 
@@ -1395,6 +2185,32 @@ Při svévolném nebo škodolibém poškození věci se hradí i cena zvláštn�
 **§ 2990**:
 > **Ochrana proti omezování soutěže**
 > Osoba, jejíž právo bylo ohroženo nebo porušeno nedovoleným omezením soutěže, má práva stanovená v § 2988.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2942 až 2945“ (dnešní § 2972—2975) — viz § 2972.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2946 až 2957 návrhu — dnešní § 2976—2987):**
+
+> Návrh ustanovení o jednotlivých skutkových podstatách přejímá příslušné
+> texty z obchodního zákoníku, vyjma ustanovení o klamavé a srovnávací
+> reklamě a ustanovení o nepřiměřeném zatěžování. Navržené ustanovení o
+> klamavé reklamě je upraveno tak, aby odpovídalo směrnici č. 2006/114/ES,
+> o klamavé a srovnávací reklamě. Rovněž navržené ustanovení o srovnávací
+> reklamě je upraveno v souladu s touto směrnicí. Z § 52 obchodního
+> zákoníku se přejímá skutková podstata ohrožování zdraví a životního
+> prostředí, byť jde o ustanovení v mezinárodním kontextu analogických
+> úpravy výjimečné a v některých odborných kruzích je označováno za
+> neživotné; lze mít za to, že nelze vyloučit jeho aplikaci zejména v
+> souvislosti s reklamou na výrobky a služby označované za biologicky
+> nezávadné a nebo šetrné pro životní prostředí. Nad rámec dosavadní
+> úpravy se navrhuje nově zařadit úpravu zvláštní skutkové podstaty
+> nepřiměřeného zatěžování sledující ochranu před jevem, který stále
+> častěji zasahuje do soukromé sféry lidí i právnických osob.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2958 až 2960 návrhu — dnešní § 2988—2990):**
+
+> Ustanovení o katalogu sankčních postihů nekalé soutěže a nedovoleného
+> omezení soutěže jsou s drobnými úpravami převzata z obchodního zákoníku
+> (§ 53 a 54).
 
 ### Promlčení nároků z deliktů (§ 619—621, § 636)
 

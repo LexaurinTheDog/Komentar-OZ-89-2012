@@ -45,6 +45,57 @@ Tato kapitola má **silný ústavní rozměr** — řada institutů byla zpřesn
 - Smlouva uzavřená pod cizím jménem se přičítá osobě, která ji uzavřela (§ 552 — projev vůle se posuzuje podle obsahu, nikoliv označení), s případnou odpovědností za škodu třetí osoby v dobré víře.
 - Pokud někdo zneužije cizí jméno, je odpovědný za škodu (§ 2956 — náhrada újmy z ochrany osobnosti).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 77 až 79 návrhu — dnešní § 77—79):**
+
+> Občanský zákoník musí upravit člověka právo člověka na jméno, zejména
+> ale na jeho ochranu. Osnova sleduje dosavadní právní pojetí, výrazně je
+> však prohlubuje a rozšiřuje. Protože tvorbu a nabytí jména stejně jako
+> úpravy a změny upravuje zákon o matrikách a protože není příčiny tuto
+> úpravu měnit, jen se na tuto úpravu odkazuje, stejně jako se zde
+> odkazuje i na právo rodinné, které stanoví, jak se jméno může změnit
+> v souvislosti se vznikem a zánikem manželství.
+>
+> Navrhuje se stanovit pravidlo, že člověk má právo na užívání svého jména
+> v právním styku. Užívá-li někdo jiné jméno než své vlastní (tj. buď
+> jméno cizí, nebo smyšlené), musí nést následky omylu nebo újmy, která
+> tím na straně dalších osob vznikne (obdobně čl. 56 CCQ).
+>
+> Při neoprávněných zásazích do práva na jméno rozlišuje osnova dvě
+> situace. Za prvé se jedná o případ, kdy někdo zpochybňuje něčí právo na
+> jeho jméno. Za druhé o případ, kdy někdo v důsledku neoprávněného
+> použití jeho jména utrpí újmu. V tom případě dotčené osobě náleží
+> zdržovací nebo odstraňovací žaloba. Pokud se jedná o právo na náhradu
+> nemajetkové nebo majetkové újmy, řeší osnova tyto otázky jednotně v
+> rámci závazků z deliktů.
+>
+> Osnova však zamýšlí ochranu jména rozšířit. Za situace, kdy objektivní
+> důvody brání dotčenému bránit se sám, přiznává se ve stejném rozsahu
+> žalobní právo také jeho nejbližším příbuzným. Zároveň se respektuje, že
+> odporovat neoprávněným zásahům do jména je především věcí dotčené osoby,
+> a proto se jí umožňuje zabránit, aby takové řízení bylo zahájeno či aby
+> se v něm pokračovalo.
+>
+> Vzhledem k tomu, že jedním z cílů osnovy je přispět k upevnění rodinných
+> vazeb a posílení soudržnosti rodiny, navrhuje se po vzoru čl. 8
+> italského občanského zákoníku (C. c.) založit zvláštní ochranu tam, kde
+> neoprávněný zásah do jména jedné osoby podstatně zasahuje vážnost celé
+> rodiny.
+>
+> Pseudonym je v platném právu dosud chráněn jen autorským zákonem (§ 7) a
+> zákonem o ochranných známkách (§ 9). Osnova mu zamýšlí poskytnout širší
+> ochranu, za podmínky, že vejde ve známost. Návrh mluví záměrně o přijetí
+> pseudonymu, nikoli o jeho vytvoření, neboť jako pseudonym lze přijmout i
+> pojmenování vytvořené pro určitého člověka někým jiným, jak je typické
+> zejména u přezdívek. Stejně tak se záměrně mluví o známosti pseudonymu,
+> nikoli o jeho obecné známosti, protože pro právní následek musí být
+> rozhodující posouzení konkrétní situace, nikoli paušálně zvolené
+> kritérium.
+>
+> Hledisko právní jistoty třetích osob zesiluje jasné pravidlo o platnosti
+> právních jednání učiněných pod pseudonymem. Obecný zájem na spravedlivém
+> a rozumném uspořádání konkrétních právních poměrů nemůže preferovat
+> neplatnost právních jednání jen proto, že byla učiněna pod pseudonymem.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Prostějově* [13 C 215/2022-127](https://rozhodnuti.justice.cz/rozhodnuti/?id=3ba27ee3-30a9-4489-9269-3c595632349f) — *smlouva o úschově, smlouva zprostředkovatelská, spoluvlastnictví, převod vlastnictví, be…*
@@ -120,6 +171,8 @@ Jméno je osobnostní statek se třemi rovinami (užívání, ochrana, úcta); j
 - § 1909 (převod pohledávky — postoupení nesmí narušit osobní povahu závazku);
 - Trestní právo § 184—186 (pomluva, šíření poplašné zprávy).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 77 až 79“ (dnešní § 77—79) — viz § 77.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Mělníku* [12 C 251/2022-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=69213f4e-7dce-4286-89ba-641afc49b190) — *nemajetková újma, podvod, svědečné, náklady řízení, dokazování*
@@ -191,6 +244,8 @@ Pokud jsou splněny, smlouva je **platná** — i když na ní je pseudonym mís
 **Vazba:**
 - Autorský zákon č. 121/2000 Sb. (§ 7 — autorské označení; § 25 — anonymní a pseudonymní dílo);
 - Zákon o ochranných známkách č. 441/2003 Sb. (pseudonym lze chránit i jako známku, např. „BANKSY" jako známka neznámého umělce — sporné u nás).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 77 až 79“ (dnešní § 77—79) — viz § 77.
 
 **Judikatura (z místních zdrojů):**
 
@@ -267,6 +322,27 @@ V mnoha případech se shodují, ale **mohou se lišit** — typicky osoba s trv
 4. Místo, kde měl bydliště naposledy.
 
 **Praktický význam — místní příslušnost soudu** (§ 84 OSŘ): obecným soudem fyzické osoby je okresní soud, v jehož obvodu má **bydliště**. § 80 OZ se uplatní subsidiárně — pokud OSŘ nezná „skutečné" bydliště podle § 80, soud postupuje podle této kaskády.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 80 návrhu — dnešní § 80):**
+
+> Osnova stanoví kritéria pro určení bydliště, přičemž vychází z
+> tradičního pojetí, že rozhodují aspekty faktické, nikoli
+> administrativní. Jedná se o soukromoprávní pojem pro účely
+> občanskoprávních plnění, nikoliv pro evidenční účely dle veřejného
+> práva. Nevylučuje se možnost člověka mít bydliště na více místech.
+>
+> Dále se v navrženém ustanovení konstruuje cestou fikce i bydliště pro
+> člověka, který skutečné bydliště nemá. Vychází se přitom z pojetí, že
+> každý má právo žít podle svého, není však možné, aby tento způsob života
+> byl na újmu okolí a aby tudíž třetí osoby byly mj. též neúměrně
+> zatěžovány pátráním po jeho bydlišti. Tato úprava má značný význam pro
+> doručování, plnění a řadu dalších případů.
+>
+> Oproti dosavadní úpravě se osnova vyhýbá legální definici domácnosti
+> vzhledem k tomu, že „domácnost" se i za nynějšího stavu chápe ve dvou
+> významech (jako pospolitost spolužijících osob i jako zařízené obydlí).
+> Který z těchto významů mají na mysli jednotlivá ustanovení osnovy,
+> vyplývá z jejich formulace nebo z kontextu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -356,6 +432,50 @@ Bydliště v soukromém právu je materiální kategorie (zdržování se + úmy
 - § 2972 — zvláštní pravidla pro úmyslné zásahy do osobnosti;
 - Čl. 7—10 LZPS (nedotknutelnost osoby, lidská důstojnost, osobnost, jméno, čest).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 81 až 83 návrhu — dnešní § 81—83):**
+
+> Návrh respektuje jusnaturalistický koncept celé kodifikace. Osobnost
+> člověka se nechápe jako „přívěsek" právní subjektivity, ale právní
+> subjektivita je naopak pojata jako důsledek osobnosti člověka jako
+> takového. Z toho důvodu osnova sleduje cíl zákonné garancie všech
+> přirozených práv člověka, ať již jsou v zákoně výslovně vzpomenuta čili
+> nic. Tím je odklizen aplikační problém, který v obdobné souvislosti
+> vyvstal ve vazbě na § 16 ABGB. Z téže příčiny se výčet osobnostních
+> práv člověka konstruuje jako demonstrativní.
+>
+> Navrhuje se konkretizací principů obsažených v čl. 2 odst. 3 Listiny
+> základních práv a svobod a čl. 2 odst. 4 Ústavy ČR výslovně stanovit, že
+> každý člověk má právo žít podle svého, což je základní zásada pro
+> soukromoprávní sféru vůbec. To zakládá i povinnost ostatních respektovat
+> takové právo jednotlivce.
+>
+> Naproti tomu se v návrhu těchto ustanovení osnovy výslovně neuvádí,
+> kterých osobnostních práv se člověk vzdát nemůže. To plyne jednak z
+> Mezinárodního paktu o občanských a politických právech a z Evropské
+> úmluvy, jednak z našeho ústavního pořádku. Pokud jde konkrétně o
+> soukromoprávní úpravu, postačí stejnému účelu v plném rozsahu obecná
+> ustanovení v úvodních pasážích osnovy.
+>
+> Právo na ochranu osobnosti náleží tomu, jehož osobnost byla nedovoleným
+> zásahem dotčena. Týká-li se však zásah činnosti člověka v právnické
+> osobě, obnovuje se ve shodě s § 14 původního znění obč. z. a v intencích
+> věcného záměru zákonné pojetí možnosti právnické osoby vystoupit na
+> obranu dotčeného, je-li mrtev nebo nemohoucí; jinak jen s jeho
+> přivolením. Po smrti dotčeného náleží žalobní právo osobám v právním
+> postavení osob blízkých, neboť dosavadní úprava nešetří osobnost
+> dotčeného v potřebném rozsahu (ochrana je např. odňata bezdětným
+> svobodným osobám, jejichž rodiče již zemřeli).
+>
+> K ochraně některých dílčích oprávnění plynoucích z osobnostního práva
+> (vzhledem k integritě člověka jako přirozené osobnosti nelze mluvit o
+> „několika" osobnostních právech, ježto z jednoty lidské osobnosti plyne,
+> že to je jediné právo) postačí generální klauzule, někdy i ve spojení se
+> speciálními ustanoveními kodexu jinde, popř. s oporou či doplňujícím
+> významem takových speciálních ustanovení. Jiná dílčí oprávnění, zejména
+> právo na tělesnou integritu a právo na soukromí a na ochranu projevů
+> osobní povahy se navrhuje upravit podrobněji. Do této skupiny patří
+> i právo na jméno, které je ze systematických důvodů zařazeno výše.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 2287/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/785A3766266FE015C1258DCA004D4E07?openDocument) — *Ochrana osobnosti Advokacie Soukromá listina (o. z.)*
@@ -431,6 +551,8 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - Žaloba na **zápůrčí ochranu a odstranění** — nepromlčuje se, dokud zásah trvá;
 - Žaloba na **peněžitou satisfakci** — promlčuje se subjektivně do 3 let, objektivně do 10 let (§ 629 — obecná promlčecí lhůta).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 81 až 83“ (dnešní § 81—83) — viz § 81.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 577/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-577-13_1) — nález, 23. 6. 2015
@@ -499,6 +621,8 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - **Není-li schopen projevit vůli** (např. nepřítomnost, neschopnost úsudku) — souhlasu netřeba.
 
 **Po smrti** (odst. 2) — PO se může domáhat samostatně. Příklad: redaktor zemřel, ale negativní tvrzení o něm pokračují → vydavatelství, kde pracoval, může žalobu podat samo.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 81 až 83“ (dnešní § 81—83) — viz § 81.
 
 **Judikatura (z místních zdrojů):**
 
@@ -578,6 +702,42 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 - **Soukromá osoba v identifikovatelné situaci** — souhlas nutný (zejména pro reklamní využití);
 - **Doma / na soukromém pozemku** — vždy nutný souhlas (kombinace s § 86 — soukromí).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 84 až 90 návrhu — dnešní § 84—90):**
+
+> Ochrana podoby a soukromí člověka mají být podle osnovy zajištěny
+> zvláštními normativními konstrukcemi. Obsahem, jak také plyne z
+> navrhované úpravy, se právo na podobu a právo na soukromí odlišují,
+> zejména tím, že podoba člověka nepožívá ochrany jen v soukromí. Návrh
+> úpravy vychází z dosavadního pojetí v § 11 a 12 současného občanského
+> zákoníku s některými upřesněními provedenými ve shodě se závěry
+> doktríny.[^35]
+>
+> Ochrana práva na podobiznu se upřesňuje ve dvou směrech. Předně se
+> navrhuje stanovit reprobaci jakéhokoli neoprávněného zobrazení člověka,
+> z něhož jej lze identifikovat. Dále se stanoví právní pravidlo, že
+> souhlasem s vlastním vyobrazením člověk uděluje souhlas též k jeho
+> obvyklému a s ohledem na okolnosti případu zároveň i pro něho
+> předvídatelnému rozšíření podobizny.
+>
+> Rovněž ochrana soukromí člověka vychází ze standardního pojetí. Záměrně
+> se zakazuje narušit „soukromé prostory", nikoli „obydlí" člověka,
+> protože právo na soukromí zasahuje nejen místo, kde člověk bydlí, ale
+> také místo, kde vykonává svou obvyklou profesi. V tom směru se odkazuje
+> na stanovisko Výboru pro lidská práva.[^36]
+>
+> Vzhledem k prioritě osobnostního práva jako nejvyšší hodnoty se navrhuje
+> umožnit výslovnou úpravou odvolání souhlasu s použitím či šířením
+> záznamů osobní povahy. Takové odvolání však nemůže jít k tíži osoby
+> důvodně spoléhající, že souhlas odvolán nebude, proto jí musí být
+> přiznána náhrada škody, vznikne-li jí nějaká. Záměrně se přitom mluví
+> jen o škodě, nikoli o újmě, neboť náhrada nemajetkové újmy se za této
+> situace přiznat nemíní.
+>
+> Společné pravidlo vztahující se jak k podobě, tak k soukromí člověka,
+> přejímá v podstatě beze změny stávající konstrukci § 12 odst. 2 a 3
+> nynějšího občanského zákoníku s tím, že normativní obsah dosavadního §
+> 12 odst. 1 je systematicky zařazen jinam.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 3417/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/188E44E9091122ACC1258D840052B0A5?openDocument) — *Ochrana osobnosti*
@@ -650,6 +810,8 @@ Podoba se chrání ve dvou krocích: svolení k zachycení (§ 84) a samostatné
 - § 1013 (imise — sledování sousedů kamerami může být imise);
 - Zákon č. 110/2019 Sb. o zpracování osobních údajů (GDPR — paralelní úprava);
 - Trestní právo § 178 (porušení tajemství dopravovaných zpráv), § 182 (porušování tajemství listin).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 84 až 90“ (dnešní § 84—90) — viz § 84.
 
 **Judikatura (z místních zdrojů):**
 
@@ -736,6 +898,8 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 - Změna profesní situace (např. politik chce omezit svou tvář z reklamy);
 - Náboženské či světonázorové důvody (změna životního přesvědčení).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 84 až 90“ (dnešní § 84—90) — viz § 84.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 5* [11 C 254/2023-120](https://rozhodnuti.justice.cz/rozhodnuti/?id=21f4cac0-3a12-4399-9650-0415feabff9f) — *bezdůvodné obohacení, církev, peněžité plnění, postoupení pohledávky, smlouva nájemní, s…*
@@ -808,6 +972,10 @@ Souhlas k užití podobizny/projevů osobní povahy je vždy odvolatelný, i byl
 - **Neúčelný senzacionalizmus** je nedovolený (např. zveřejnění fotky obětí dopravní nehody se jmenovkou bez veřejného zájmu).
 
 **Vzdání se omezeními (§ 90)** — i v případě zákonných výjimek nelze záznam **využít nepřiměřeně v rozporu s oprávněnými zájmy člověka**. To je **klíčový korektiv** — i zpravodajská licence (§ 89) má své meze.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 84 až 90“ (dnešní § 84—90) — viz § 84.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 84 až 90“ (dnešní § 84—90) — viz § 84.
 
 **Judikatura (z místních zdrojů):**
 
@@ -882,6 +1050,8 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 - Posuzuje legitimní cíl;
 - Posuzuje, zda existují alternativní méně omezující prostředky.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 84 až 90“ (dnešní § 84—90) — viz § 84.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 2250/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/436F48F47A2BA1FCC1258787001E7045?openDocument) — *Přípustnost dovolání Skončení pracovního poměru Smír Narovnání*
@@ -953,6 +1123,87 @@ V praxi to znamená, že i taková ustanovení jako § 88 a § 89 podléhají **
 § 91 je **základní deklarace** — paralela k čl. 7 odst. 1 LZPS („Nedotknutelnost osoby a jejího soukromí je zaručena. Omezena může být jen v případech stanovených zákonem.").
 
 Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesné a duševní integrity ostatních. Z této věty také plyne **kogentní limit autonomie** podle § 1 odst. 2 — nelze platně sjednat zásah, který by porušil integritu člověka (např. otroctví, mučení, doživotní podřízení tělesným trestům).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 91 až 103 návrhu — dnešní § 91—103):**
+
+> Osnova se věnuje ve zvýšené míře otázkám integrity člověka a její
+> ochrany. Zdůrazňuje se, že jde o celistvost lidské osobnosti vůbec:
+> navržená ustanovení nebudou aplikována pouze na tělesnou integritu, ale
+> i na integritu duševní. Respektuje se, že otázky z tohoto okruhu
+> upravují nebo mohou upravit zvláštní zákony (např. zákon o zdravotní
+> péči), které mají před zde navrženou obecnou úpravou přednost. Nelze
+> však přehlížet, že problematika je širšího rozsahu a že ji nelze zužovat
+> jen na zorný úhel výkonu některých specializovaných povolání, neboť se
+> týká i činnosti subjektů, které mohou zasáhnout do integrity člověka,
+> jako jsou osoby provádějící zákroky kosmetického charakteru (tetování,
+> piercing), přičemž jejich činnost není zvláštními zákony regulována.
+> Respektabilní je přitom v prvé řadě integrita člověka jako základní
+> hodnota.
+>
+> Předně se vytyčují tři hlavní pravidla spojená s ústavním principem
+> nedotknutelnosti člověka: za prvé, zásadně nelze zasáhnout do integrity
+> jiného bez jeho souhlasu; za druhé, lidské tělo ani jeho části nesmí být
+> jako takové zdrojem majetkového prospěchu; za třetí, i po smrti člověka
+> je jeho tělo pod právní ochranou. Současně platí, že nikdo nesmí být
+> usmrcen ani na vlastní žádost.
+>
+> Právní otázky spojené se zásahy do integrity živého člověka nelze
+> zužovat jen na případy profesionální lékařské péče. Tato problematika
+> zasahuje i další činnosti vykonávané profesionálně i laicky (např. se
+> jedná o kosmetické zákroky, včetně tetování nebo piercingu atp., o výkon
+> léčitelské praxe, o laicky prováděné zdravotní zákroky apod.).
+>
+> Navrhuje se vyjít z pojetí, že do integrity člověka lze zasáhnout jen
+> poté, co k tomu on sám udělil souhlas na základě srozumitelně podaného
+> sdělení o povaze zákroku a poučení o jeho možných následcích. Za
+> nesvéprávného uděluje souhlas jeho zákonný zástupce; je-li však
+> nesvéprávný schopen úsudku, musí se přiměřeného poučení dostat i jemu.
+> Pro určité případy se vyžaduje pro udělení souhlasu písemná forma.
+> Pravidla stanovená právními předpisy upravujícími poskytování zdravotní
+> péče tím nejsou dotčena a mají před touto obecnou úpravou přednost.
+>
+> Zároveň se bere v úvahu osobnost dospívajícího člověka v závislosti na
+> jeho vyspělosti. Proto se navrhuje, aby nezletilý starší čtrnácti let
+> mohl v nezávažných případech rozhodovat i samostatně. Zejména se však
+> navrhuje brát jako respektabilní vůli nezletilého člověka, který dovršil
+> čtrnáct let, pokud se jeho vůle ze závažných důvodů střetne s vůlí
+> zákonného zástupce. Totéž má obdobně platit rovněž v případech, kdy má
+> být zasaženo do integrity zletilé osoby, která je sice nesvéprávná, ale
+> přesto schopna úsudku. Tyto případy se navrhuje řešit s ingerencí soudu;
+> stejně tak se navrhuje - obdobně jak tomu je v analogické úpravě
+> německé - vázat na souhlas soudu provedení zákroků se závažnými trvalými
+> a nevratnými následky nebo zákroků, které provází vážné nebezpečí (jako
+> jsou např. amputace končetiny nebo vysoce rizikový léčebný výkon).
+> Zvláštní důraz se v souladu s koncepcí celého zákona klade na vůli
+> člověka, do jehož integrity má být zasaženo. Vždy, je-li známo jeho
+> přání v dané situaci (například vyjádřené v předběžném prohlášení podle
+> tohoto zákona), má se na toto přání brát při udělování souhlasu i při
+> zásahu do integrity zřetel. Podmínky vyžadované ve zvláštním zákoně
+> mohou upravit udělování předběžného souhlasu odlišným způsobem.
+>
+> Výjimka se navrhuje pro případy stavu nouze. Ve stavu nouze si často
+> nelze souhlas k zákroku vyžádat, ani je-li člověk zletilý a svéprávný.
+> Proto se pamatuje návrhem zvláštního ustanovení jednak na situace, kdy
+> je člověk v nebezpečí života a je nutné zakročit okamžitě, aniž je možné
+> ztrácet čas vysvětlováním, jednak na případy, kdy člověk není s to
+> projevit svoji vůli (např. pro ztrátu vědomí nebo neovladatelné
+> rozrušení mysli), kdy projev jeho vůle nemůže substituovat ani souhlas
+> přítomné - nebo bez rizika prodlení dosažitelné osoby blízké.
+>
+> Navrhuje se zaručit právní ochranu i lidskému tělu po smrti člověka.
+> Této právní ochrany se může domáhat každá z osob, která byla zemřelému
+> blízká; jinak z hlediska soukromého práva postačí obecná úprava. Jak je
+> zapotřebí naložit s tělem zemřelého, upravují především právní předpisy
+> z oboru veřejného práva, zejména zákon o pohřebnictví. Občanský zákoník
+> však musí vyřešit, kdo má právo na vydání lidských ostatků, které nejsou
+> uloženy na veřejném pohřebišti - typicky půjde o ostatky zpopelněné,
+> uchovávané ve schránce mimo veřejné pohřebiště, i když nelze vyloučit
+> ani jiné situace. Navrhuje se proto stanovit, že právo na vydání
+> takových ostatků má manžel zemřelého, není-li ho nebo odmítne-li ostatky
+> převzít, pak dítě zemřelého, popřípadě jeho rodič. Nejsou-li ani ti nebo
+> odmítnou-li ostatky převzít, převezme je (v tomto případě se tedy ukládá
+> povinnost) dědic zemřelého. Co se stanovuje o lidských ostatcích, platí
+> i o implantátech, pokud byly po zpopelnění odděleny.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1027,6 +1278,8 @@ Z této věty plyne **negativní povinnost** všech osob nezasahovat do tělesn�
 - Zákon č. 285/2002 Sb. o transplantacích;
 - Zákon č. 372/2011 Sb. o zdravotních službách — pitvy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [30 Cdo 1882/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/618AA6CDA93D4232C125839200223104?openDocument) — *Ochrana osobnosti*
@@ -1097,6 +1350,8 @@ Lidské tělo a ostatky jsou pod ochranou i po smrti; zakázáno je nedůstojné
 - Osoby v bezvědomí (ale tam častěji § 99 — okamžité jednání bez souhlasu).
 
 Souhlas zákonného zástupce **musí být v přímém prospěchu** zastoupeného. To znamená: zákonný zástupce nemůže udělit souhlas k experimentálnímu zákroku, jehož jediným cílem je výzkum (bez prospěchu pro samotného pacienta) — to vyžaduje speciální právní rámec (zákon o zdravotních službách).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1177,6 +1432,10 @@ Zásah do integrity je dovolen jen s informovaným souhlasem — s vědomím o p
 
 Příklady: standardní vyšetření, drobné ošetření, jednoduchá zubařská procedura. Naopak: chirurgická operace, dlouhodobá medikace, tetování (zde i jako estetický zákrok bez medicínské indikace).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1176/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7621B46F17210B3C1258C9C004D4F50?openDocument) — *Náhrada nemajetkové újmy (o. z.) Zdravotnictví*
@@ -1239,6 +1498,8 @@ I když souhlas uděluje zákonný zástupce, je třeba poučit i nezletilého s
 3. **Zákroky bez medicínského důvodu** (estetické zákroky, sterilizace ze sociálních důvodů). Výjimka: **kosmetické zákroky bez trvalých následků** (depilace, peeling, drobné injekce).
 
 **Důsledek nedodržení formy:** souhlas je **neplatný** (§ 582 — neplatnost pro nedostatek formy), zákrok protiprávní. Nemocnice / lékař odpovídá za újmu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1304,6 +1565,8 @@ Tato asymetrie je **proautonomní** — usnadňuje pacientovi okamžitě zastavi
 
 Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že souhlas nikdy nedal.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pacient GG udělí písemný souhlas k operaci. Těsně před úvodem do anestezie ústně prohlásí, že si zákrok rozmyslel a souhlas odvolává. Personál si není jist, zda šlo o vážně míněné odvolání, nebo o projev předoperační úzkosti, a dokumentace o tom mlčí. Účastníci: GG (pacient), poskytovatel. Důkazy: písemný souhlas, svědectví personálu o ústním projevu, zdravotnická dokumentace (záznam/absence záznamu o odvolání).
@@ -1367,6 +1630,10 @@ Souhlas lze odvolat v jakékoli formě, i byl-li dán písemně (§ 97 odst. 1).
 - Zákrok ve prospěch zdraví je **nezbytný**.
 
 → Lékař zakročí bez souhlasu. Klasický příklad: bezvědomý pacient po dopravní nehodě — okamžitá resuscitace, urgentní operace.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1463,6 +1730,14 @@ Výjimka: § 99 (okamžité zakročení).
 
 Toto pravidlo má **terapeutickou** i **etickou** dimenzi: pacient má právo na pravdivou informaci o tom, co se s ním dělo.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 91 až 103“ (dnešní § 91—103) — viz § 91.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 639/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-639-15_1) — usnesení, 14. 4. 2015
@@ -1524,6 +1799,62 @@ Dva principy:
 2. **Subsidiarita** — nelze, pokud postačuje mírnější opatření (ambulantní péče, krátkodobá observace, nedobrovolný transport k psychiatrovi bez plné hospitalizace).
 
 **Zákaz spojení s omezením svéprávnosti** (věta poslední) — řízení o omezení svéprávnosti **samo o sobě** nezakládá důvod k hospitalizaci. To brání obejítí § 104 cestou „zatím ho hospitalizujeme, dokud čeká na omezení svéprávnosti".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 104 až 110 návrhu — dnešní § 104—110):**
+
+> Platný občanský zákoník ponechává zcela stranou otázku práv člověka při
+> jeho nedobrovolném zadržení ve zdravotnickém zařízení nebo v zařízení
+> poskytujícím obdobné služby. Navržená úprava ponechává stranou zákonné
+> důvody pro nedobrovolné umístění nebo zadržení dotčeného v příslušném
+> zařízení, protože ty již stanoví § 23 odst. 4 zák. č. 20/1966 Sb., o
+> péči o zdraví lidu, v platném znění. Navržená úprava rovněž respektuje
+> úpravu řízení o vyslovení přípustnosti převzetí nebo držení v ústavu
+> zdravotnické péče (detenčního řízení) v § 191a až 191g občanského
+> soudního řádu.
+>
+> Platná právní úprava naplňuje maximu čl. 8 odst. 6 Listiny základních
+> práv a svobod v některých směrech jen formálně. Proto se navrhuje se
+> zřetelem k čl. 5 Úmluvy o ochraně lidských práv a základních svobod i s
+> přihlédnutím k některým novějším úpravám (např. rakouské, švýcarské,
+> islandské, québecké) zakotvit v občanském zákoníku práva na ochranu
+> osobnosti člověka nedobrovolně zadrženého ve zdravotnickém zařízení.
+> Předně se navrhuje zdůraznit, že při zjištění zákonného důvodu pro
+> zadržení člověka ve zdravotnickém zařízení nepostačuje jen formální
+> přístup, ale musí být vždy zkoumáno, nepostačí-li v konkrétním případě
+> namísto detence mírnější a méně omezující opatření, což je zvláště u
+> osob duševně nemocných a osob chorobně závislých na návykových látkách
+> zvažovat plně namístě. Rovněž se navrhuje zdůraznit, že ani podání
+> návrhu na omezení svéprávnosti samo o sobě nezakládá právní důvod k
+> zadržení dotčené osoby v příslušném zařízení.
+>
+> Zdůrazňuje se, že se detenční řízení týká jen detence člověka, tudíž
+> jeho nedobrovolného a dočasného zadržení. Zadržením se dotčená osoba
+> omezuje ve volném pohybu a ve styku s vnějším světem; rozhoduje se o
+> její izolaci, nikoli o způsobu léčení. Vzhledem k podstatě a závažnosti
+> zásahu se vyžaduje, aby se zadrženému dostalo náležitého poučení, a
+> navrhuje se posílit jeho právní postavení. Bere se přitom v úvahu jako
+> podstatné kritérion schopnost člověka učinit si vlastní úsudek a
+> projevit svá přání, tedy z hlediska širšího, než je svéprávnost.
+>
+> Platná úprava detenčního řízení vychází z koncepce, že pro soud jsou
+> významným důkazem stanoviska ošetřujícího lékaře zadrženého. Tak se
+> např. podle § 191c odst. 1 o. s. ř. soud může spokojit s vyjádřením
+> ošetřujícího lékaře, že zadržený není schopen chápat obsah rozhodnutí, a
+> rozhodnutí ve věci zadrženému nedoručit. Proto se navrhuje stanovit, že
+> se zadržený, popř. jeho zákonný zástupce, případně zmocněnec nebo
+> důvěrník zadrženého, zvolil-li si takové, mohou sami domáhat nezávislého
+> přezkoumání zdravotní dokumentace zadrženého a stanoviska ošetřujícího
+> lékaře, že zadržený není s to učinit si vlastní úsudek a projevit svá
+> přání.
+>
+> Kromě běžného standardu se navrhuje založit zadrženému právo zvolit si
+> důvěrníka. Jde o významnou novinku posilující právní ochranu zadržené
+> osoby; zvláště v případech, kdy je dotčená osoba zadržena v příslušném
+> zařízení pro tvrzené duševní onemocnění na návrh jejího zákonného
+> zástupce. Kde dojde ke kolizi zájmů mezi zadrženým a jeho zákonným
+> zástupcem (případně opatrovníkem), jmenuje sice soud opatrovníka
+> zadrženého pro řízení: v dané souvislosti se však nejedná jen o procesní
+> ochranu zadrženého, ale i o ochranu jeho dalších práv.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1595,6 +1926,8 @@ Převzít či držet člověka bez souhlasu lze jen ze zákonného důvodu a jen
 
 **Lhůta 7 dnů** byla zdůrazněna ÚS — porušení této lhůty je porušením práva na svobodu osobní (čl. 8 LZPS) a vede k povinné okamžité propustce.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan LL je převzat bez souhlasu na psychiatrii. Poskytovatel oznámí převzetí soudu až čtvrtý den a rodině (manželce) vůbec, ač mu to nebylo zakázáno. Soud následně rozhodne o přípustnosti opatření až dvanáctý den. LL i jeho manželka namítají porušení lhůt. Účastníci: LL (hospitalizovaný), manželka (osoba blízká), poskytovatel, soud. Důkazy: záznam o čase převzetí, doklad o (ne)odeslání oznámení soudu a rodině, datum rozhodnutí soudu.
@@ -1654,6 +1987,12 @@ Při převzetí bez souhlasu platí tři lhůty: neprodlené oznámení rodině 
 - **Podpůrce** — na základě smlouvy o nápomoci (§ 45—48).
 
 **§ 108 — právo na soukromý rozhovor**: pacient má **garantované právo** projednávat své záležitosti s touto trojicí **bez přítomnosti třetích osob** (zejména personálu nemocnice). Toto právo má ústavní rozměr (čl. 8 EÚLP, čl. 6 EÚLP — právo na obhajobu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1728,6 +2067,10 @@ Nedobrovolně hospitalizovaný má být srozumitelně informován (a s ním i je
 Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva odmítnout konkrétní zákrok**. To má praktický význam:
 - Pacient na akutním psychiatrickém oddělení může odmítnout konkrétní psychofarmaka (s výjimkou krizových situací — § 99);
 - Pacient v karanténě nemůže odmítnout izolaci (to je předmětem opatření), ale může odmítnout vakcinaci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 104 až 110“ (dnešní § 104—110) — viz § 104.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1811,6 +2154,44 @@ Nedobrovolně hospitalizovaný má právo na nezávislé lékařské přezkoumá
 - **Sperma, vajíčka** — darování bez odměny (zákaz komercializace);
 - **Mateřské mléko** — v praxi se prodává prostřednictvím bank mléka.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 111 a 112 návrhu — dnešní § 111—112):**
+
+> Již věcný záměr, podle něhož je návrh vypracován, stanovoval výslovně,
+> že bude obecně stanoveno, že člověk je oprávněn dozvědět se, jak bylo
+> naloženo s částmi jeho těla, jichž byl in eventum za svého života
+> zbaven, a vyjádřit se k tomu. Navrhuje se výslovně stanovit zákaz
+> naložit s odňatou částí lidského těla způsobem pro člověka nedůstojným
+> nebo způsobem ohrožujícím veřejné zdraví. Veřejným zdravím se rozumí
+> shodně se zákonem č. 258/2000 Sb., zdravotní stav obyvatelstva a jeho
+> skupin. Samozřejmě se i v této souvislosti uplatní i obecné zásady
+> soukromého práva, zejména nutnost respektovat dobré mravy a veřejný
+> pořádek.
+>
+> Zvlášť bylo ve věcném záměru pamatováno i na to, že ani s takovými
+> částmi lidského těla, jako jsou např. vlasy nebo nehty, nebo s tím, co z
+> lidského těla vyjde (např. moč) nesmí být naloženo dehonestujícím nebo
+> jinak nevhodným způsobem. Vzhledem k tomu, že byl věcný záměr vypracován
+> v roce 2000, je nutné zohlednit pozdější změny v právní úpravě. Navržená
+> ustanovení sledují zásady vyjádřené ve věcném záměru, ale při jejich
+> normativním vyjádření bylo nutné vzít v úvahu další právní vývoj,
+> zejména Úmluvu o lidských právech a biomedicíně (č. 96/2001 Sb. m. s.) a
+> změny v českých právních předpisech, zejména v oblasti zdravotnictví,
+> které byly následně přijaty nebo které jsou již připraveny v návrzích.
+>
+> Navržená ustanovení nezpochybňují, že nakládání s částmi lidského těla v
+> závažných případech upravují zvláštní zákony upravující transplantaci
+> nebo nakládání s lidskými tkáněmi a buňkami aj. Kde jsou otázky tohoto
+> druhu upraveny speciálně, uplatní se přednostně zvláštní právní úprava.
+> Je však nutné myslet i na situace, které zvláštní právní úpravě
+> nepodléhají. Je-li např. někdo ostříhán u holiče, může důvodně
+> předpokládat, že s jeho ostříhanými vlasy bude naloženo obvyklým
+> způsobem, tedy jako s odpadem a že nebudou použity k jinému účelu:
+> např. - půjde-li o známého (populárního) zákazníka - že nebudou např.
+> rozprodávány jeho ctitelům; pokud by měly být takto použity, byl by
+> nutný souhlas dotčené osoby. Obdobné má platit i o tom, co vyjde z
+> lidského těla; není to např. možné svévolně opatřit jmenovkou dotčené
+> osoby.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 1366/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1366-15_1) — usnesení, 11. 6. 2015
@@ -1872,6 +2253,31 @@ Odňatou část těla lze použít k vědě/výzkumu jen se souhlasem a k neobvy
 > (2) Náklady pohřbu a opatření pohřebiště se hradí z pozůstalosti. Pokud pozůstalost nestačí ke krytí nákladů toho způsobu pohřbu, jaký si zesnulý přál, musí být pohřben alespoň slušným způsobem podle místních zvyklostí.
 >
 > (3) Jiný právní předpis stanoví, jakým způsobem a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů pohřbu nestačí a není-li nikdo ochoten uhradit náklady pohřbu dobrovolně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 113 až 117 návrhu — dnešní § 113—117):**
+
+> Zásada, že se ochrana osobnosti vztahuje i na tělo mrtvého člověka, je
+> doktrinárně uznávána již delší dobu. Výslovně však formulována nebyla,
+> proto se osnova přiklání k jasnému ustanovení v tomto smyslu. Výrazem
+> respektu k této zásadě je návrh nové úpravy, odrážející jednu ze
+> zjevných tendencí osnovy, spočívající v důrazu na úctu k člověku a jeho
+> přirozeným právům. Z toho důvodu musí mít váhu i slovo člověka
+> vyjadřující přání, jak má či nemá být s jeho tělem po jeho smrti
+> naloženo. Návrh ustanovení, podle něhož musí být respektováno přání
+> člověka, jak má být pohřben, se inspiruje především úpravou v čl. 42
+> CCQ.
+>
+> Při projednávání návrhu věcného záměru zákoníku vzešel z odborných
+> komisí při Ministerstvu spravedlnosti podnět, aby bylo člověku dovoleno
+> závazně stanovit, zda má být po smrti jeho tělo pitváno a projevit v tom
+> směru přání. V tom směru byl věcný záměr dopracován, a následně i
+> schválen. Se zřetelem k tomu se navrhuje zakotvit právo člověka projevit
+> vůli, že s pitvou souhlasí. Osnova přitom v tomto případě výslovně uvádí
+> samozřejmou zásadu, že obecný předpis občanského zákoníku nezasahuje
+> tam, kde zvláštní právní předpisy z oblasti veřejného práva nařizují
+> provedení pitvy z důvodů zdravotních nebo policejních. V těchto
+> případech se bez pochybnosti uplatní nařízení zvláštního právního
+> předpisu.
 
 > Konec kapitoly 04. Pokračování: kapitola 05 — Hlava II Díl 3 (Oddíl 1—2): Právnické osoby obecně — ustavení, vznik, název, sídlo, orgány, jednání za PO, zrušení a zánik (§ 118—209).
 

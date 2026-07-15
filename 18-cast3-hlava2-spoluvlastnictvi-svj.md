@@ -30,6 +30,8 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **Nepřerušená držba** — kontinuita; přerušení viz § 1093.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1082 až 1087“ (dnešní § 1089—1094) — viz § 1089.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 1085/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF6DE8332A53EEBFC125890A001DDDAC?openDocument) — *Přípustnost dovolání Vydržení*
@@ -103,6 +105,12 @@ U nemovitostí je vydržecí lhůta deset let, u movitých věcí tři roky; roz
 
 **§ 1094 — Ochrana zastoupeného**: pokud vyžaduje zákonného zástupce / opatrovníka, lhůta běží **až po jmenování**; již započatá běží dál, ale **neskončí dříve než 1 rok po odpadnutí překážky**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1082 až 1087“ (dnešní § 1089—1094) — viz § 1089.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1082 až 1087“ (dnešní § 1089—1094) — viz § 1089.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1082 až 1087“ (dnešní § 1089—1094) — viz § 1089.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3387/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/347FE1C3F7E88464C1258882001612D5?openDocument) — *Mimořádné vydržení (o. z.) Vydržení*
@@ -165,6 +173,26 @@ Dobu poctivé a řádné držby předchůdce lze započíst (§ 1092), ale jen p
 **Vyloučení**: prokázání **nepoctivého úmyslu** držitele. Důkazní břemeno nepoctivosti nese ten, kdo brání vydržení.
 
 **Praktický význam**: hlavní cesta nabytí vlastnictví **pozemků s nejistým titulem** (zejména po restitučních a dědických spletech) — typicky 20 let nepřetržité poctivé držby u nemovitosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1088 návrhu — dnešní § 1095):**
+
+> Vzhledem k tomu, že nejsou řídké případy, kdy určitá osoba má věc u
+> sebe, ale není s to jmenovat, od koho ji nabyla, a že nejsou vyloučeny
+> ani situace, kdy určitá osoba získá do své moci věc s úmyslem nabýt k ní
+> vlastnické právo, ale převodcem je neoprávněný držitel, navrhuje se
+> obnovit institut mimořádného vydržení, který v platném právu citelně
+> chybí. S pomocí mimořádného vydržení lze poskytnout ochranu faktickým
+> stavům, jejichž základ je sice pochybný nebo sporný, ale kde tvrzené
+> nebo domnělé vlastnictví trvá značně dlouhou dobu. Jedná se např. o
+> situace, kdy někdo drží movitou věc, ale není s to dokázat svůj
+> vlastnický titul proti tomu, kdo jeho vlastnictví popírá, kdy byl
+> převeden pozemek o chybně stanovené (větší) výměře, než je výměra
+> skutečná nebo pozemek chybně označený parcelním číslem, takže nabyvatel
+> v dobré víře drží něco jiného, než pro co mu svědčí vlastnický titul
+> atp. Je přirozené, že ani institut mimořádného vydržení nemůže dát
+> průchod ochraně zjevné lsti a podvodu; proto se mimořádné vydržení
+> vylučuje v případech, kdy ten, kdo je popírá, prokáže osobě, která se
+> mimořádného vydržení dovolává, její nepoctivý úmysl.
 
 **Judikatura (z místních zdrojů):**
 
@@ -242,6 +270,15 @@ Mimořádné vydržení (§ 1095) je hlavní cestou k legalizaci držby pozemků
 
 **§ 1098 — Stavění vydržecí lhůty** (paralela k § 646 promlčení): mezi manžely / ve společné domácnosti / zástupce-zastoupený / opatrovník-opatrovanec / poručník-poručenec — **lhůta neběží**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1089 a 1090 návrhu — dnešní § 1097—1098):**
+
+> Účinná ochrana práv předpokládá skutečnou možnost bránit se proti zásahu
+> do nich. Proto se obdobně jako v úpravě promlčení navrhují ustanovení,
+> která brání vydržení proti osobě, která má mít zákonného zástupce a
+> opatrovníka, nebo vydržení mezi manžely, osobami žijícími ve společné
+> domácnosti, mezi zastoupeným a zákonným zástupcem, opatrovancem a
+> opatrovníkem nebo mezi poručencem a poručníkem.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 205/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B5E45E0DF79AE55BC1258B24004D42AF?openDocument) — *Vlastnictví Držba (o. z.) Mimořádné vydržení (o. z.)*
@@ -300,6 +337,43 @@ Mezi manžely, ve společné domácnosti a mezi zástupcem a zastoupeným (opatr
 - **Nemovitosti** — zápis do katastru (§ 1105);
 - **Movité věci v VR** — zápis (§ 1102);
 - **Cenné papíry** — speciální pravidla (§ 1103—1104).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1091 návrhu — dnešní § 1099):**
+
+> Základní způsob derivativního (odvozeného) nabytí vlastnického práva je
+> jeho převod. Návrh oslabuje přežívající dogma o titulu a modu nabytí,
+> které vzniklo v pozdním středověku[^52] a na němž setrval i obecný
+> zákoník občanský z roku 1811. Podle této koncepce je právním důvodem
+> nabytí vlastnického práva smlouva a právním způsobem nabytí vlastnického
+> práva tradice, tj. předání a převzetí věci, popř. právní skutečnost,
+> která tradici nahrazuje. Uvedené pojetí převzal německý BGB (§ 873,
+> 929), a některé další. Opačný přístup mají zákoníky francouzský (CC, čl.
+> 711), belgický, lucemburský, italský, portugalský nebo polský. Zdejší
+> právní vývoj se od rakouského a německého pojetí odklonil již v r. 1950
+> (§ 111 zák. č. 141/1950 Sb.) v úpravě tzv. středního občanského
+> zákoníku, ale platný občanský zákoník se k učení o titulu a modu již v
+> r. 1964 vrátil, přičemž jako hlavní důvod změny, se uváděly význam pro
+> vybírání notářských poplatků[^53] a názory pracujících (DZ k § 134 zák.
+> č. 40/1964 Sb.). Vstřícností k chápání lidu se však zdůvodňoval rovněž
+> předchozí příklon k zásadě konsenzuality převodu vlastnického práva (DZ
+> k § 111 občanského zákoníku z r. 1950). V dané souvislosti - obdobně
+> jako v jiných případech - však rozhoduje praktické hledisko.
+>
+> Navrhovaná úprava se přiklání z pojetí odvozeného z ústavního principu
+> svobody jednotlivce, které se do sféry soukromého práva promítá zásadou
+> autonomie vůle. Podle této zásady vznikají subjektivní práva a
+> povinnosti projevem vůle stran, v daném případě tedy už samotným
+> uzavřením smlouvy, přičemž se ponechává na vůli stran, zda samy nabytí
+> vlastnického práva podle smlouvy odloží na pozdější dobu nebo zda je
+> podmíní předáním či jinak. Vnější demonstraci předáním a převzetím návrh
+> pro nabytí vlastnického práva nevyžaduje, ani jí nedává přednost,
+> protože v současné době víc než v minulosti samotné faktické ovládání
+> věci není typickým znakem vlastnictví - má-li někdo např. ve své moci
+> motorové vozidlo, nelze bez dalšího dovodit, že k němu má vlastnické
+> právo, protože mnohem pravděpodobnější jsou jiné právní důvody, z nichž
+> se tak stalo. Praktické potřebě jednoduchého a rychlého hospodářského
+> styku více odpovídá obecná zásada převodu vlastnického práva již pouhým
+> konsensem, nikoli převod závislý na dvou krocích.
 
 **Judikatura (z místních zdrojů):**
 
@@ -361,6 +435,18 @@ U věcí určených jednotlivě (mimo nemovitosti a věci v pravém veřejném s
 | **Nemovitá** / zapsaná v VR | **Dobrá víra + první zápis** v VR (i kdyby právo vzniklo později) |
 
 → **U nemovitostí katastr rozhoduje** (princip materiální publicity — § 980 + ochrana dobré víry § 984).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1092 návrhu — dnešní § 1100):**
+
+> Navržené ustanovení v našem soukromém právu citelně chybí a ustálená
+> judikatura řeší otázky tohoto druhu jen částečně. Navrhuje se proto
+> stanovit, že při postupném několikanásobné převodu vlastnického práva k
+> téže věci nabývá vlastnické právo ten, kdo se ujal její držby, bez
+> zřetele k tomu, zda věc měla být do vlastnictví získána již účinností
+> smlouvy. Pojetí druhého odstavce navazuje na ustálené závěry judikatury
+> i na navržená ustanovení o veřejných rejstřících práv k věcem. V obou
+> případech se sleduje ochrana dobré víry nabyvatele a vylučuje se možnost
+> nabytí vlastnického práva ve zlé víře.
 
 **Judikatura (z místních zdrojů):**
 
@@ -447,6 +533,238 @@ Při dvojím prodeji nemovitosti rozhoduje dobrá víra spojená s prvenstvím z
 
 **§ 1105 — Nemovitosti**: **vklad do VR** (katastru) konstitutivně.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1093 až 1096 návrhu — dnešní § 1101—1104):**
+
+> Převody vlastnického práva k movitým věcem vykazují určité zvláštnosti a
+> vyžaduje se, aby na ně pamatovala zvláštní ustanovení.
+>
+> Předně je zapotřebí vzít v úvahu, že movitá věc může být určena jen
+> podle druhu. V takovém případě je možné převést vlastnické právo k
+> takové věci nejdříve v okamžiku, až bude konkrétně určitelná. Standardní
+> úpravy, které značnou měrou respektovala ještě úprava občanského
+> zákoníku z r. 1950 (§ 111) a jejichž odrazem je dnes v našem platném
+> právu § 444 obchodního zákoníku, na to pamatují výslovně. Proto se
+> navrhuje stanovit, že k věcem druhově určeným lze vlastnické právo nabýt
+> nejdříve v okamžiku, kdy jsou určitelné dostatečným odlišením od jiných
+> věcí téhož druhu.
+>
+> Vzhledem k tomu, že jsou movité věci, k nimž se práva zapisují do
+> veřejných rejstříků (typické v tom směru jsou některé objekty
+> průmyslového vlastnictví), navrhuje se stanovit obecné pravidlo, že v
+> těchto případech se vlastnictví nabývá až zápisem do příslušného
+> seznamu.
+>
+> I cenné papíry jsou movitými věcmi. Osnova přejímá ze zákona o cenných
+> papírech (§ 17 a násl.) platnou úpravu převodů vlastnického práva k
+> listinnému cennému papíru na doručitele, na řad i na jméno. Pokud jde o
+> zaknihované cenné papíry, zachovává se pro převody vlastnického práva k
+> nim zásada registrace.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1097 návrhu — dnešní § 1105):**
+
+> Návrh úpravy nabytí vlastnického práva k nemovité věci převodem sleduje
+> zachovat dosavadní pojetí zavedené zákonem o zápisech vlastnických a
+> jiných věcných práv k nemovitostem (č. 265/1992 Sb.). Různé praktické
+> problémy, které jsou spojeny s aplikací platné úpravy, vedly k analýzám
+> i k diskusím v odborném tisku a na několika konferencích zabývajících se
+> otázkou, zda má být dosavadní model nabývání vlastnického práva
+> zachován, anebo má-li být opuštěn. Tyto diskuse nevedly k jednoznačnému
+> výsledku, proto se navrhuje zachovat dosavadní stav.
+>
+> Nalezení správného řešení, vyhovujícího sociálním podmínkám a
+> ekonomických potřebám moderní demokratické společnosti s tržním
+> hospodářstvím, je v českých podmínkách o to obtížnější, že se od konce
+> druhé světové války v tom směru vystřídalo pět různých zákonných úprav
+> nabývání vlastnického práva k nemovitým věcem.
+>
+> Do r. 1950 u nás existoval systém opřený o soudně vedené pozemkové knihy
+> (vedle nichž existovaly také knihy železniční a knihy horní). Do nich se
+> věcná práva k nemovitým věcem zapisovala zásadně s konstitutivními
+> účinky, byť existovaly četné výjimky deklaratorních zápisů). Pozemkové,
+> železniční i horní knihy byly nadány veřejnou vírou. Technické údaje o
+> nemovitostech obsahoval katastr. Tento systém, který spojuje nabytí
+> věcného práva k nemovité věci se zápisem do veřejného seznamu (knihy),
+> se zpravidla označuje jako registrační, popř. se mluví o zásadě
+> konstitutivního zápisu.
+>
+> Podle naprosto odlišné úpravy zavedené v r. 1950 naopak platilo, že
+> věcná práva k nemovitým věcem, včetně vlastnického, vznikají již
+> účinností smlouvy.
+>
+> Třetí radikální změna byla zavedena v r. 1964: způsob zřizování těchto
+> práv smlouvou byl rozdělen podle toho, zda je nabývali soukromníci, kdy
+> sice věcněprávní účinky nastaly již účinností smlouvy, ta však byla
+> podmíněna registrací státním notářstvím, anebo nabývaly-li je tzv.
+> socialistické organizace, kdy byl relevantní ničím nepodmíněný konsens
+> stran. Pozemkové knihy byly zrušeny. Zavedena byla evidence nemovitostí
+> spravovaná pro jednotlivé okresy orgány státní správy geodézie (starý
+> katastr byl již dříve zrušen). Do ní byla věcná práva k nemovitostem
+> zapisována jen evidenčně a jen, pokud to oprávněné osoby navrhly. Zápisy
+> byly bez právního významu pro existenci věcných práv. Zák. č. 509/1991
+> Sb. zavedl obecnou povinnost registrace smluv o nemovitostech státním
+> notářstvím. Poslední, pátou změnu systému zavedl zák. č. 264/1992 Sb.,
+> který s účinností k 1. lednu 1993 zavedl současný stav. Tato poslední
+> změna byla již v době svého přijetí označována za provizorium.
+>
+> Podle tohoto stavu platí pro vznik vlastnického práva (i jiných věcných
+> práv) k nemovitým věcem, tři rozličné právní režimy: (1) smluvní zřízení
+> těchto práv k nemovitým věcem nezapsaným do katastru se pojí s účinností
+> smlouvy, (2) převod stejných práv k nemovitým věcem zapsaným do katastru
+> se pojí s vkladem do katastru a (3) vznik stejných práv z jiného
+> právního důvodu se pojí s účinky té které skutečnosti (rozhodnutí soudu
+> nebo správního úřadu, smrt zůstavitele, uplynutí vydržecí doby atp.);
+> těchto skutečností se lze dovolat vůči každému, bez ohledu na stav
+> zapsaný v katastru nemovitostí. Podle údajů Českého úřadu zeměměřického
+> a katastrálního bylo v roce 2010 provedeno (2) vkladem do katastru 427
+> tis. zápisů vlastnického práva, zatímco (3) záznamem 196 tis. zápisů
+> vlastnického práva. V případě zástavního práva bylo provedeno (2)
+> vkladem 139 tis. zápisů nových zástavních práv a (3) záznamem provedeno
+> 218 tis. výmazů zástavních práv. Kromě toho bylo v roce 2010 provedeno
+> (2) vkladem 100 tis. zápisů práv odpovídajících věcnému břemeni a 12
+> tis. předkupních práv. Ostatní zápisy a výmazy práv prováděné (3)
+> záznamem představovaly 55 tis. případů. Zápisy a výmazy poznámek a
+> dalších údajů katastru pak v roce 2010 dosáhly počtu 404 tis.
+>
+> Při smluvním zřizování (změně, zániku) věcných práv provádí katastrální
+> úřad před vkladem těchto práv nemovitým věcem následnou kontrolu již
+> uzavřené smlouvy, a to kontrolu jen částečnou. Úplnou kontrolu provede
+> soud na návrh, protože jen soud může rozhodnout o neplatnosti smlouvy.
+> Relativní neplatnost lze podle platného práva vyslovit do tří let,
+> absolutní bez časového omezení. Podle dosavadního stavu ruší neplatnost
+> smlouvy platnost i všech následných titulů o derivativním nabytí
+> vlastnictví či jiných věcných práv, třebaže byla zřízena osobou zapsanou
+> v katastru jako vlastník.
+>
+> Katastrální evidence nevykazuje materiální publicitu. Dobrá víra v
+> katastr je sice deklarována - leč jen pro skutečnosti zapsané od r.
+> 1993 - dosud však efektivně chráněna není. Katastr nemovitostí eviduje
+> pozemky, některé (nikoli všechny) stavby - a také ty byty či nebytové
+> prostory, které jsou jednotkami (k nimž existuje vlastnické právo).
+> Vzhledem k tomu, že se za totalitní éry evidovaly zemědělské a lesní
+> pozemky podle trvalých uživatelů (typicky zemědělských a lesních
+> organizací), nikoli podle vlastníků, a že plná náprava nebyla dosud
+> provedena, panuje v evidenci těchto pozemků stále nepřehledný stav.
+>
+> V evropských systémech se pro smluvní zřizování věcných práv k nemovitým
+> věcem ustálily dva základní systémy: systém opřený o zásadu
+> konstitutivního zápisu (registrační) a systém opřený o zásadu
+> konsenzuality (konsenzuální).
+>
+> Původ registračního systému se opírá o středověkou tradici. Středověk
+> stavěl svůj hospodářský i společenský řád na pozemkové držbě stál a
+> spatřoval právě v nemovitém majetku měřítko bohatství. Proto byl právě
+> ve středoevropských zemích v té době vystupňován rozdíl mezi nemovitými
+> a movitými věcmi do té míry, že se neznal jednotný pojem věcného práva.
+> Veškeré právní poměry byly oddělovány do zvláštních úprav podle toho,
+> šlo-li o věcné právo k věcem movitým a k věcem nemovitým. V návaznosti
+> na to vznikly knihy, do nichž se - nejprve ve městech (poprvé v r. 1135
+> v německém Kolíně nad Rýnem) - zapisovala práva k nemovitým věcem. Podle
+> tohoto vzoru vznikly ve 12. stol. české zemské desky vykazující na svou
+> dobu značnou dokonalost. Proto byl tento systém v průběhu 18. stol.
+> postupně zaveden ve většině rakouských zemí a převzat byl i do obecného
+> občanského zákoníku z r. 1811. Tento vývoj byl u nás dovršen vydáním
+> knihovního zákona z r. 1871. Stejný systém je zachován v Rakousku dosud,
+> ale reformován byl jednak zákonem z r. 1955, jednak - a to podstatně -
+> zavedením elektronizace pozemkových knih v 80. letech 20. stol.
+> Typickými státy s registračním systémem jsou vedle Rakouska také
+> Německo, Švýcarsko, Dánsko, Litva, Slovensko, Maďarsko, Chorvatsko,
+> Slovinsko nebo Rusko a některé další. Z toho rovněž vyplývá, že na
+> registrační systém nelze přes jeho středověký základ nahlížet jako na
+> zastaralý nebo nemoderní: např. o návratu k němu se v souvislosti s
+> přípravou rekodifikace soukromého práva vážně uvažuje v Polsku, kde
+> dosud platí systém konsenzuální.
+>
+> Konsenzuální systém, při němž se vlastnické právo nabývá již účinností
+> smlouvy i při převodu vlastnictví nemovité věci, byl u nás zaveden v r.
+> 1950 občanským zákoníkem č. 141/1950 Sb. (§ 111). Za tímto odklonem od
+> dosavadní tradice stála myšlenka, že změnou se vychází vstříc potřebě
+> urychlit hospodářský styk a odstranit oddělení formální stránky věcných
+> práv k nemovitým věcem od ekonomického obsahu těchto práv. Zkušenost s
+> touto úpravou, účinnou až do r. 1964, není dobrá, protože totalitní
+> zákonodárce, veden různými hospodářskými a politickými zájmy (zejména na
+> urychleném a rozsáhlém postátňování nemovitého majetku nebo na jiných
+> formách jeho kolektivizace, zvláště v jednotných zemědělských
+> družstvech) neměl zájem na spolehlivé evidenci vlastnických a dalších
+> věcných práv k nemovitým věcem. Pozemkové knihy byly sice i nadále
+> zachovány, ale zápisy do nich již nebyly spojeny s materiální
+> publicitou. To vedlo k chaotizaci této evidence a k značné
+> nepřehlednosti stavu věcných práv k nemovitým věcem. Deformace provedené
+> zdejším právem v 50. letech minulého století však nediskvalifikují
+> zásadu konsenzuality, která se při realitních obchodech uplatňuje v řadě
+> evropských států, jako jsou např. Francie, Belgie, Lucembursko,
+> Portugalsko, Španělsko, Itálie, Nizozemí nebo Polsko. Systémy převodu
+> vlastnického práva opřené o zásadu konsenzuality jsou funkční,
+> provází-li je kvalitní evidence věcných práv k nemovitostem, spojená s
+> publicitou zapsaných údajů a ochranou dobré víry v tyto údaje. Zásada
+> konsenzuálního převodu přináší tu výhodu, že při prodeji nemovité věci
+> může být zaplaceno bez rizika okamžitě, takže kupní cena nemusí být na
+> mezidobí od kontraktace do povolení vkladu katastrálním úřadem složena
+> do úschovy u třetí osoby (zpravidla u advokáta či notáře nebo na vázaný
+> účet u banky) a nabyvatel nabývá vlastnické právo okamžitě a nezávisle
+> na rozhodnutí orgánu veřejné moci a může se k nabyté věci bez dalšího
+> chovat jako ke svému vlastnictví. Zároveň je ale spojena s nevýhodou
+> plynoucí z nedostatečné publicity nabytého práva, která trvá až do
+> okamžiku, kdy bude právo do katastru nemovitostí zapsáno. V právních
+> řádech, které staví při nabývání vlastnického práva k nemovitým věcem na
+> zásadě konsenzuality, získává nabyvatel vlastnictví nemovité věci
+> účinností smlouvy s právem ujmout se ihned její oprávněné držby,
+> investovat do ní jako do věci vlastní, ale nepožívá plné právní ochrany,
+> kterou získá až zápisem do veřejných knih spojeným s materiální
+> publicitou.
+>
+> Návrh, jak uvedeno, zamýšlí ponechat současný stav nedotčen, a tedy i
+> nadále zachovat registrační systém. Jeho výhoda spočívá v tom, že
+> věcněprávní účinky nabytí práva i jeho plná ochrana nastanou v týž
+> okamžik, tedy vkladem (ovšem vkladem se zpětnou účinností, neboť jeho
+> účinky nastávají ke dni podání návrhu na vklad). Nejvýraznější nevýhoda
+> spočívá v prodlevě mezi účinností smlouvy a nabytím vlastnického práva:
+> strany jsou smlouvou vázány jejím uzavřením, ale nabyvatel se vlastníkem
+> stane až později. Třebaže účinky vkladu nastávají retroaktivně - ke dni
+> podání návrhu na vklad - a ač se v důsledku zkvalitnění práce
+> katastrálních úřadů doba mezi podáním návrhu na povolení vkladu zkracuje
+> (v současné době (r. 2011) nepřekračuje nikde v ČR 30 dnů a v řadě
+> okresů dosahuje pouze 1 až 2 týdny), provází mezidobí až do povolení
+> vkladu nejistota. Mnohé může příznivě ovlivnit elektronizace celého
+> systému, včetně případného budoucího zavedení možnosti podávání návrhu
+> na zápis do katastru elektronickou cestou. Výhody těchto technických
+> možností však nelze přeceňovat; v plně elektronizovaném rakouském
+> systému není výjimečné, že zápis vlastnického práva k bytu ve Vídni trvá
+> i kolem šesti měsíců.
+>
+> V mezidobí mezi uzavřením smlouvy a povolením i zápisem vkladu se mohou
+> objevit nejrůznější těžkosti, z nichž mnohé nemohly strany v okamžiku
+> účinnosti smlouvy ani předpokládat. Ty se mohou týkat stavu zapsaného v
+> katastru nemovitostí (např. soukromý exekutor vydá příkaz k prodeji
+> nemovité věci - a může tak učinit i na základě nepravomocného soudního
+> rozhodnutí o nařízení exekuce - na jehož základě musí katastrální úřad
+> poznamenat do katastru nařízení exekuce bez zřetele na pořadí došlých
+> návrhů). Mohou se ale týkat i faktického stavu, např. nemovitá věc,
+> bezvadná při uzavření smlouvy, se stane před povolením vkladu vadnou,
+> anebo se jedna ze stran smlouvy ocitne v úpadku. Značné obtíže vznikají,
+> převádějí-li se při komplikovanějších transakcích touž smlouvou vedle
+> nemovitých věcí zapsaných v katastru nemovitostí i nemovité věci
+> nezapsané do katastru a věci movité, protože pak nabyvatel nabývá
+> předmět koupě po částech a postupně. Tak tomu je dnes typicky při
+> prodeji podniku a v obdobných případech. Složité situace nastávají,
+> kupuje-li se nemovitá věc na úvěr poskytnutý bankou, protože banka
+> vyžaduje pravidelně zajištění úvěrové pohledávky v zástavě převáděné
+> věci ještě dříve, než se věcněprávní účinky převodu vlastnického práva
+> uskuteční, tedy ještě za trvání vlastnického práva prodávajícího.
+> Dojde-li k vkladu zástavního práva, ale sejde-li následně z obchodu,
+> ocitá se osoba, která chtěla prodat, v těžkých problémech. Z toho důvodu
+> praxe často hledá různá náhradní řešení, jak se při realitních obchodech
+> vkladovému řízení vyhnout. Tak je např. nemovitá věc vložena do
+> jednočlenné společnosti s ručením omezeným a místo s nemovitou věcí se
+> obchoduje s podílem v této společnosti. Transakce tohoto druhu jsou však
+> pro nabyvatele spojeny s jinými riziky, protože ten nemá jistotu,
+> není-li společnost např. zadlužená nebo nemá-li jiné problémy.
+>
+> Těmto a podobným obtížím se návrh snaží čelit ustanoveními zařazenými do
+> hlavy druhé třetí části zavádějícími materiální publicitu zápisů věcných
+> práv do veřejného seznamu. Kromě toho lze mít za to, že systém zápisů
+> věcných práv k nemovitým věcem bude postupně zdokonalen co do rychlosti
+> i kvality tak, aby se podobné těžkosti projevovaly v míře co nejmenší.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 3082/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/97D2816B9B1EDC0BC1258C270052DBCC?openDocument) — *Směnka Cenný papír na jméno [ Cenné papíry ]*
@@ -517,6 +835,12 @@ Výjimky z konsenzuálního principu: druhové věci se nabývají odlišením (
 - **Nepřejaté závady zanikají**.
 
 **§ 1108**: pravidla platí i při nabytí **jinak než převodem** (vydržením, přírůstkem, rozhodnutím).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1098 až 1100 návrhu — dnešní § 1106—1108):**
+
+> Společná ustanovení o převodu vlastnického práva v současném občanském
+> zákoníku chybí. Osnova je tudíž ve shodě s většinou konvenčních úprav
+> evropských zákoníků zavádí.
 
 **Judikatura (z místních zdrojů):**
 
@@ -599,6 +923,115 @@ S vlastnictvím přecházejí práva a povinnosti s věcí spojené (§ 1106); z
 - **Dobrá víra v oprávnění převodce**;
 - **Řádný titul** (kupní smlouva, dar atd.).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1101 návrhu — dnešní § 1109):**
+
+> Navrhuje se upravit nabytí vlastnického práva od neoprávněného ve shodě
+> s řešením rozhodnutým ve věcném záměru občanského zákoníku. V praxi se
+> často zjednodušeně mluví o nabytí od nevlastníka; to není přesné,
+> protože např. komisionář může vlastnické právo k věci oprávněně převést
+> druhé straně vlastním jménem, i když není vlastníkem. Navržená
+> ustanovení se týkají případů, kdy vlastnické právo převádí druhé straně
+> někdo, kdo vlastníkem není ani nemá právo vlastnické právo druhé straně
+> převést. Důvody pro navrhovanou úpravu jsou následující:
+>
+> Známá zásada římského práva *nemo plus iuris ad alium transferre potest,
+> quam ipse haberet* (nikdo nemůže převést na jiného víc práv, než by sám
+> měl) neplatila ani v římském právu absolutně. Postupně se vedle ní
+> uplatňovala právní zásada *mobilia non habent sequelam* (movité věci
+> nemají pořadí, nelze je stíhat). S odkazem na ni se v právních řádech
+> evropských zemí prosadily dvě výjimky vztažené k nabývání movitých věcí
+> v zájmu ochrany dobré víry nabyvatele, který na oprávnění druhé strany
+> vlastnické právo převést může usuzovat jen z okolností, zejména z toho,
+> že zcizitel má movitou věc ve své moci. Pro tyto situace se již v XV.
+> století ustálila zásada *en matière de meubles la possession vaut titre
+> de propriété* (držba zakládá vlastnický titul). Typicky jde o případ
+> koupě movité věci od osoby, která s takovými věcmi obchoduje, a koupě od
+> osoby, které vlastník sám svoji věc svěřil, a tudíž se ze své vůle vzdal
+> jejího faktického ovládání (jde o právní pravidlo formulované obecným
+> právem slovy *wo du deinen Glauben gelassen hast, musst du ihn
+> wiedersuchen;* svoji důvěru musíš znovu vyhledat tam, kde jsi ji
+> zanechal). Tyto výjimky byly postupně upravovány i v kodifikacích
+> občanského práva. Už Code civil (čl. 2279 a 2280) založil širokou
+> ochranu osoby, která získala movitou věc v dobré víře a po jeho vzoru
+> občanské zákoníky Belgie, Lucemburska nebo Španělska či Itálie ovlivněné
+> jeho vzorem. Obdobná pravidla byla zapracována i do kodifikací německy
+> mluvících zemí, které je převzaly z obecného práva: tak se stalo v
+> obecném občanském zákoníku z r. 1811 (§ 367) a v občanských zákonících
+> Německa (§ 932 an.) a Švýcarska (čl. 714, 933 a 934) a po jejich vzoru i
+> v dalších zemích (Řecko, Polsko, Portugalsko, Nizozemí, Rusko, Litva
+> aj.). Zvláštní ochrana dobré víry se objevuje již od XIX. stol. - buď v
+> obchodních nebo i v občanských zákonících - při nabytí cenných papírů
+> nebo na burze.
+>
+> V našem prostředí byla stejná právní pravidla zachována jak občanským
+> zákoníkem z r. 1950 (§ 154), tak i občanským zákoníkem z r. 1964 (§ 228)
+> a zákoníkem mezinárodního obchodu (§ 325). Při změnách právního řádu v
+> roce 1991 převzal ze zrušovaného zákoníku mezinárodního obchodu obsah
+> jeho § 325 nový obchodní zákoník do jeho § 446. Novela občanského
+> zákoníku provedená zák. č. 509/1991 Sb. však ze zákoníku vypustila celou
+> čtvrtou část o službách jako překonanou; některá ustanovení z této
+> zrušené části sice pojala do nově koncipované části osmé o závazkovém
+> právu některá ustanovení, avšak obsah § 228 byl pominut. Z toho vznikla
+> řada praktických i aplikačních obtíží \[srov. např. *Kindl, M.*
+> Peripetie nabývání vlastnictví (od nevlastníků). Právní rozhledy, VI,
+> 1998, s. 237 an.\], jakož i nijak neodůvodněný nepoměr ochrany dobré
+> víry při úplatném nabytí v podnikatelském a mimopodnikatelském styku.
+> Tento dvojí přístup doktrína důvodně kritizuje: např. Bejček uvádí, že
+> „v rámci jednoho právního řádu existují dvě diametrálně odlišná řešení a
+> jejich použití závisí jen na tom, zda jde o vztah obchodněprávní či
+> občanskoprávní. Takový rozpor nemá nic společného s vědeckými argumenty"
+> (srov. *Faldyna, F. et al.* Obchodní zákoník s komentářem. II. díl. 1.
+> vydání. Praha: Codex, s. 332). Otázkou ústavní konformity nabytí
+> vlastnického práva od neoprávněného se zabýval Ústavní soud (usnesení
+> sp. zn. IV ÚS 112/01 z 28. 8. 2001 a nálezy sp. zn. I. ÚS 437/92 z 26.
+> 8. 2003 a č. 452/2006 Sb.). Zejména v posledním z uvedených nálezů
+> dospěl Ústavní soud k závěru, že § 446 obchodního zákoníku „plně
+> odpovídá kautelám plynoucím z principu proporcionality". Z hlediska čl.
+> 11 Listiny základních práv a svobod se tedy nejeví jako odůvodněné
+> odchýlit se od právního pravidla založeného § 446 obchodního zákoníku,
+> nýbrž upravit je jako pravidlo obecného dosahu, které nečiní rozdíl mezi
+> podnikatelem a spotřebitelem. Současně je nutné uvést, že nabytí od
+> neoprávněného nad rámec § 446 obchodního zákoníku upravily i některé
+> jiné právní předpisy, zejména zákon směnečný a šekový (čl. I § 16 a 17,
+> čl. II § 19 a 22), zákon o cenných papírech (§ 20) nebo zákon o
+> podnikání na kapitálovém trhu (§ 96).
+>
+> Ústavní konformita navržených právních pravidel odpovídá zásadám
+> ústavního pořádku, zejména čl. 4 odst. 2 a 3 a 11 odst. 3 Listiny
+> základních práv a svobod a čl. 1 a 10 Ústavy České republiky. Ochrana
+> dobré víry náleží k významným principům právního státu. Zákon může
+> stanovit meze základních práv, tedy i práva vlastnického, avšak tato
+> omezení musí platit pro všechny případy, které splňují stanovené
+> podmínky. To platí i pro případná omezení vlastnického práva. I
+> vlastnictví movité věci zavazuje a v případech odůvodněných veřejným
+> zájmem a právy jiných osob nelze ochranou vlastnického práva odůvodnit
+> prolomení ochrany dobré víry, zvláště slouží-li tato ochrana veřejnému
+> zájmu na bezpečném tržním prostředí v souladu s naplňováním zásad
+> otevřeného tržního hospodářství, což je i povinnost vyplývající pro
+> Českou republiku ze smlouvy o jejím přistoupení k Evropské unii (č.
+> 44/2004 Sb. m. s.).
+>
+> Ustanovení o nabytí vlastnického práva od neoprávněného se zařazují do
+> zvláštního pododdílu, protože nejde o derivativní, odvozené nabytí
+> (převod), nýbrž o nabytí původní, originární. Nabyvatel totiž nabývá
+> vlastnické právo od osoby, která není oprávněna vlastnické právo
+> převést, byť se tak děje způsobem, který jinak běžně k převodu věci do
+> vlastnictví slouží. Obsahem i formou bezvadný titul však v tomto případě
+> nepředstavuje víc než podmínku nabyvatelovy dobré víry v oprávnění druhé
+> strany vlastnické právo převést.
+>
+> V první skupině se předpokládá dobrá víra nabyvatele, který věc získal
+> na základě řádného titulu, v oprávnění druhé strany vlastnické právo
+> převést, pokud se tak stalo ve standardních situacích. Většina z nich
+> odpovídá platné právní úpravě ve zvláštních právních předpisech, pouze
+> se rozšiřuje dnešní úprava § 446 obchodního zákoníku i na spotřebitele a
+> doplňuje se právní pravidlo o nabytí vlastnického práva od osoby, které
+> vlastník svou věc sám svěřil, což je právní pravidlo uznávané i v jiných
+> státech Evropské unie. Dobrá víra se posuzuje, jak se výslovně
+> zdůrazňuje pro mimořádný charakter této úpravy, vzhledem ke všem
+> okolnostem, což mj. zahrnuje posouzení, zda se nabyvatel ujal držby
+> věci.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 870/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7CE464474E860DFC1258941001E2637?openDocument) — *Vlastnictví Vydržení*
@@ -669,6 +1102,21 @@ Nabytí od neoprávněného (§ 1109) chrání dobrověrného nabyvatele jen v �
 
 **Praktický význam**: chrání oběti **krádeže** před nabyvatelem v dobré víře u bazarového prodeje. Po 3 letech se vlastníkem stává nabyvatel.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1102 návrhu — dnešní § 1110):**
+
+> Zvláštní úprava se navrhuje pro případy, kdy se obchoduje použitým
+> zbožím v autobazarech, zastavárnách, obchodech se starožitnostmi,
+> antikvariátech, vetešnictvích apod.). V těchto případech se navrhuje
+> prolomit ochranu dobré víry nabyvatele ve prospěch původního vlastníka,
+> pokud ten prokáže, že věc ztratil nebo že mu věc byla svémocně odňata
+> (typicky při krádeži nebo loupeži). Původní vlastník tedy nemusí v
+> těchto případech vyvracet dobrou víru nabyvatele, ale prokazuje
+> skutečnosti stanovené v tomto ustanovení, tj. že mu věc byla uloupena
+> nebo ukradena nebo že ji ztratil. Výslovné ustanovení o ztrátě věci
+> neodporuje ustanovením navrhovaného zákona o nálezu, protože je nutné
+> mít na mysli i nálezcovu nepoctivost (může se stát, že nálezce nález
+> neoznámí a nalezenou věc si ponechá nebo zpeněží).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 83/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8A3026E425424792C12589D800309D02?openDocument) — *Úschova Nabytí vlastnického práva od neoprávněného Dovolací důvody*
@@ -723,6 +1171,15 @@ Nabytí od neoprávněného (§ 1109) chrání dobrověrného nabyvatele jen v �
 - **Úmyslný trestný čin** (krádež, loupež).
 
 V těchto případech vlastník vždy vindikuje (§ 1040).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1103 návrhu — dnešní § 1111):**
+
+> Navržené ustanovení dopadá na ostatní případy (např. koupě movité věci
+> od podnikatele mimo běžný obchodní styk), u kterých se naopak dobrá víra
+> nabyvatele nepředpokládá a je na něm, aby svou dobrou víru prokázal. Ze
+> zřejmých důvodů se pro tyto případy vylučuje ochrana nabyvatele v
+> případě ztracené věci, jakož i věci, které byl vlastník zbaven činem
+> povahy úmyslného trestného činu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -792,6 +1249,38 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 
 → V těchto případech **silnější ochrana nabyvatele** (krádež se nepoužije proti nabyvateli).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1104 návrhu — dnešní § 1112):**
+
+> Ochrana stavu založeného při nabytí od neoprávněného dobrou vírou
+> nabyvatele nemůže být bezbřehá. Mohou nastat situace, že určitá osoba v
+> dobré víře koupí movitou věc od neoprávněného (např. v zastavárně,
+> antikvariátu, obchodě se starožitnostmi apod.), a získá tak k věci
+> vlastnické právo a že od tohoto nabyvatele - který se právně stal
+> vlastníkem - tutéž věc dále koupí další osoba, která však ví, že ji jeho
+> předchůdce nabyl od neoprávněného a na úkor původního vlastníka. Bez
+> výslovné úpravy by podobné situace mohly být řešeny jen s využitím
+> obecné právní zásady respektující soulad s dobrými mravy. Hledisko
+> dobrých mravů však nemusí být v této souvislosti zcela spolehlivé a pro
+> aplikační praxi snadno uchopitelné. Z toho důvodu se navrhuje výslovné
+> ustanovení inspirované italskou úpravou (čl. 1154 Codice civile). Podle
+> navrženého ustanovení se vlastnického práva ani dobré víry svého
+> předchůdce nemůže dovolat k svému prospěchu ten, kdo získal movitou věc
+> s vědomím, že vlastnické právo bylo nabyto od neoprávněného. Původní
+> vlastník tak bude mít vůči němu možnost domoci se vydání věci, ledaže
+> dojde k mimořádnému vydržení. Výhrada nemožnosti dovolat se vlastnického
+> práva toho, kdo v dobré víře nabyl vlastnické právo od neoprávněného, se
+> však uplatní jen v tom směru, že se další nabyvatel (nabyvatel ve zlé
+> víře) nemůže dovolat vlastnictví svého předchůdce k svému prospěchu.
+> Pokud tedy věc dále zcizí, pak se vůči dalšímu nabyvateli, bude-li v
+> dobré víře, uplatní zásada, že u movitých věcí držba nahrazuje
+> vlastnický titul.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1105 návrhu — dnešní § 1113):**
+
+> Navržené ustanovení sleduje bezpečnost obchodování s investičními
+> nástroji a cennými papíry nebo listinami vystavenými na doručitele,
+> zpeněžování movitých věcí v dražbě a obchodování na komoditních burzách.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 99/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E9B664449D513D7AC1258B94004D274E?openDocument) — *Zajištění závazku převodem práva Nabytí vlastnického práva od neoprávněného Insolvenční…*
@@ -846,6 +1335,14 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - Vyvlastnění;
 - Příklep ve veřejné dražbě;
 - Restituční rozhodnutí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1106 návrhu — dnešní § 1114):**
+
+> V kterých případech a za jakých podmínek se vlastnického práva nabývá
+> rozhodnutím soudu nebo jiného orgánu veřejné moci, ustanovují předpisy
+> práva veřejného. Osnova tedy stanoví jen, ke kterému dni se vlastnické
+> práva nabývá, což má zvláštní význam tehdy, jestliže den nabytí
+> vlastnického práva v rozhodnutí nebude uveden.
 
 **Judikatura (z místních zdrojů):**
 
@@ -936,6 +1433,82 @@ Rozhodnutím soudu či jiného orgánu veřejné moci (restituce, vyvlastnění,
 
 **§ 1120**: plody a užitky **dle poměru podílů**; nelze-li rozdělit → dohoda spoluvlastníků nebo prodej s rozdělením výnosu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1107 až 1112 návrhu — dnešní § 1115—1120):**
+
+> Zatímco občanské právo platné u nás do r. 1950 (ABGB) obsahovalo vcelku
+> standardní úpravu spoluvlastnictví, odpovídajícím klasickým pravidlům,
+> založily občanské zákoníky z r. 1950 a 1964 (ten s doplněním novelou z
+> r. 1991) zvláštní stav. Nové normativní konstrukce byly zavedeny s
+> orientací na snahu vyhovět potřebám totalitního státu, který byl ochoten
+> obětovat likvidaci soukromého vlastnictví mnohé. Tak byl institut
+> spoluvlastnictví spravující se tradičními a všeobecně uznanými pravidly
+> (srov. např. zásadu „Nikdo nesmí být nucen setrvávat ve společenství"
+> zahrnutou do Všeobecné deklarace lidských práv) zatížen mnoha prvky,
+> cizími jeho samotné podstatě. Takovými prvky jsou např.: předkupní právo
+> pro každý případ zcizení, hypertrofovaná role účelu, resp. účelnosti a
+> obecného zájmu, možnost zrušení spoluvlastnictví i zcela zabránit, dříve
+> i přednosti tzv. socialistického spoluvlastníka atd.
+>
+> Odlišná společenskopolitická a hospodářská situace vyžaduje v zásadě
+> návrat k pravidlům opuštěným u nás v polovině minulého století - neboť
+> ani spoluvlastnictví není institut, od něhož by moderní doba vyžadovala
+> mnoho nového. Osnova proto vychází při návrhu ustanovení o
+> spoluvlastnictví z tradičních pravidel, konvenčně k občanským zákoníkům
+> vyspělých evropských zemí a se zřetelem ke skutečnosti, že tržní poměry
+> a jim odpovídající cenové relace nemohou nevést - alespoň nikoli pro
+> dobu dohlédnutelnou - k množení spoluvlastnických poměrů a zvyšování
+> počtu osob zúčastněným na spoluvlastnických poměrech. Prvořadé je tudíž
+> zajištění způsobu existence, trvání spoluvlastnictví, a zakotvit jeho
+> pravidla, a to přesto, že je nutné zohlednit i moment zániku
+> spoluvlastnictví.
+>
+> § 1107 vymezuje situaci spoluvlastnictví a osob na něm zúčastněných.
+> Vždy se jedná o to, že se alespoň dvě osoby sejdou v tomtéž právním
+> poměru k jedinému právu.
+>
+> Zatímco v případě spoluvlastnictví není v souvislosti s označením
+> institutu a jeho subjektů žádná potíž, v případě držby, služebnosti atd.
+> taková potíž existuje. Bývá pravidlem řešit ji výrazem „společenství
+> (toho a toho) práva". Nejde o pojmenování ideální, stěží však možno
+> najít vhodnější. Obsah toho kterého institutu je ovšem pak zapotřebí
+> vykládat velmi obezřetně právě vždy s ohledem na specifika toho kterého
+> práva.
+>
+> Otázka právního důvodu vzniku tohoto pluralitního poměru je
+> reglementována se zřetelem na zvyklost.
+>
+> Blanketní ustanovení § 1107 odst. 2 nelze pominout s ohledem na
+> odlišnost bytového spoluvlastnictví. (Případné přijetí tradičního
+> rozlišení společenství chtěného, nahodilého a založeného na výroku
+> veřejného úřadu, leží na teorii.) Toto ustanovení se však nevztahuje na
+> zástavní právo.
+>
+> Při nakládání podle § 1108 se nejedná jen o nakládání se společnou věcí
+> ve smyslu dispozic, ale především také o zacházení, užívání, braní
+> užitků atd. (srov. též § 999). Panuje-li mezi spoluvlastníky shoda, pak
+> navenek dohromady prezentují výhradního vlastníka věci. Takže - jsou-li
+> ve shodě - pak, viděno především zvenčí, činí všechny právní i faktické
+> dispozice, které může činit jednotlivý vlastník. Na rozdíl od případů
+> správy společné věci, kde platí princip majority, platí zde princip
+> jednomyslnosti všech spoluvlastníků. Nejde totiž o jednotlivé
+> spoluvlastnické podíly a nakládání s nimi, jde o věc jako celek, a to
+> především v poměru k osobám stojícím vně jejich společenství: prodá-li
+> jeden ze spoluvlastníků společnou věc, a to přesto, že je třeba
+> spoluvlastníkem většinovým, zasáhne tím nutně do práv ostatních, což
+> vede k neplatnosti smlouvy o koupi a prodeji atd. Z toho důvodu nejsou
+> práva jednotlivých spoluvlastníků ke společné věci úplná a neomezená,
+> ale nutně omezená.
+>
+> Z povahy spoluvlastnictví vyplývá právo jednoho každého spoluvlastníka,
+> aby se mu dostalo vyúčtování, jak bylo se společnou věcí nakládáno, a
+> také oprávnění podílet se na plodech nebo užitcích společné věci.
+> Požívání společné věci má stejnou povahu jako jiná spoluvlastnická
+> práva. Je proto třeba k plodům a užitkům přistupovat stejně: rozdělují
+> se tak, jak to odpovídá velikosti podílů. V případě, že to není dobře
+> možné (lze si představit např. mládě hospodářského zvířete)
+> a spoluvlastníci se jinak nedohodnou, nezbývá, než prodat takový plod ve
+> veřejné dražbě a výnos rozdělit podle podílů.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Tři sourozenci B1, B2 a B3 zdědili po rodičích nájemní dům jako podíloví spoluvlastníci (každý 1/3). Dům pronajímají; nájemce platí nájem na účet B1, který odmítá ostatním předložit vyúčtování a vyplatit jejich podíl na nájmu. Důkazy: dědické rozhodnutí, nájemní smlouvy, výpisy z účtu, evidence příjmů a nákladů domu.
@@ -996,6 +1569,36 @@ Podíloví spoluvlastníci vystupují navenek jako jediná osoba (§ 1116), ale 
 
 **§ 1123**: nakládání podílem **nesmí být na újmu právům ostatních**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1113 až 1115 návrhu — dnešní § 1121—1123):**
+
+> Každý ze spoluvlastníků je úplným vlastníkem svého podílu. Tato zásada
+> však nevylučuje zvláštní omezení s podílem nakládat, ať již vyplývají ze
+> smlouvy nebo ze zákona.
+>
+> Otázka vymezení podílu a zvláště jeho legální definice, představovala u
+> nás v určité době teoreticko praktický problém. Ustálení stanovisek však
+> neznamená, že by podíl (ideální podíl), neměl být v zákoně znovu uveden
+> spolu s vyjádřením, čeho je určením. Nelze nevidět, že rozsah, v jakém
+> se spoluvlastník účastní, to jest „podílí", na výnosech společné věci a
+> nákladech na ni, je rozsahem, v jakém se jeho vůle účastní - to jest
+> „podílí" - na rozhodnutích týkajících se společné věci.
+>
+> Velikost podílu (daná zlomkem nebo procentem) vyplývá zpravidla ze
+> skutečnosti, na níž se zakládá spoluvlastnictví nebo účast
+> spoluvlastníka v něm. Taková skutečnost nemůže ovšem vyloučit pozdější
+> odchylnou dohodu spoluvlastníků. Vzhledem k tomu, že v případě společné
+> nemovité věci a některých jiných speciálně určených věcí (např. patentů)
+> je zakládající právní skutečnost v písemné formě zachycována a zpravidla
+> evidována ve veřejném seznamu, je nezbytné podrobit případnou dohodu o
+> velikosti podílu stejnému formálnímu režimu. Stejně jako dosud platí, že
+> pochyby jdou na vrub těch, kdo měli o svá práva pečovat: podíly jsou v
+> případě pochybností o jejich velikosti stejné, jak se navrhuje stanovit
+> vyvratitelnou právní domněnkou.
+>
+> Faktický výkon vlastnického práva (držba, užívání, požívání) je - pokud
+> je jeho předmětem ideální podíl - zásadně omezen právy ostatních
+> spoluvlastníků.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** C1 a C2 jsou podíloví spoluvlastníci pozemku (každý 1/2); spoluvlastnictví vzniklo koupí, na níž se oba podíleli. C1 chce svůj podíl prodat třetí osobě D1 za 800 000 Kč. C2 namítá, že nakládáním podílem je dotčen ve svých právech, a chce sám rozhodovat o užívání celé věci. Důkazy: nabývací smlouva, návrh kupní smlouvy C1—D1, doklady o dosavadním užívání.
@@ -1052,6 +1655,86 @@ Každý spoluvlastník je úplným vlastníkem svého podílu a může s ním vo
 **§ 1125 — Zemědělský závod**: předkupní právo **trvalé** (ne 6 měsíců), i u dědického podílu.
 
 **Pozn.**: obecné předkupní právo spoluvlastníků (§ 1124 v původním znění od 2014—2018) bylo **zrušeno novelou 2018**; znovuobnoveno novelou 2020 (zák. č. 163/2020 Sb.) jen pro tyto specifické případy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1116 návrhu — dnešní § 1124):**
+
+> Situace, kdy spoluvlastnictví vznikne jinak než smlouvou mezi
+> spoluvlastníky a kdy spoluvlastníci neměli možnost z vlastní vůle
+> ovlivnit svá práva a povinnosti, vyžaduje zvláštní řešení. Proto se
+> navrhuje stanovit dispozitivně zákaz zcizení spoluvlastnického podílu,
+> vyjma případy převodu na jiného spoluvlastníka nebo na osoby z okruhu
+> osob spoluvlastníku nejbližších. Obdobné řešení přijaly pro shodné
+> případy Francie novelou Code civil provedenou zákonem 76-1286 z r. 1976
+> (čl. 815-14 CC) a po jejím vzoru v r. 1993 Lucembursko. Německý (§ 2034
+> BGB) nebo italský (čl. 732) občanský zákoník znají v obdobné souvislosti
+> zákonné předkupní právo spoludědiců pro případ převodu dědických podílů.
+> Návrh sleduje omezení spoluvlastníků jen dočasné, tj. na dobu šesti
+> měsíců, což na jedné straně bere v úvahu podstatu a smysl vlastnického
+> práva (čl. 4 odst. 3 Listiny základních práv a svobod), na straně druhé
+> dává spoluvlastníkům dostatečně dlouhou dobu, aby svoji situaci zvážili
+> a vyřešili podle své vůle.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1117 návrhu — dnešní § 1125):**
+
+> Ačkoli novější právní úpravy zpravidla obecně vylučují zákonné předkupní
+> právo spoluvlastníků - výjimky představují zejména občanské zákoníky
+> Španělska (čl. 1522), Ruska (čl. 250) a Švýcarska (čl. 682; avšak jen ve
+> vztahu k nemovitým věcem), nejsou naopak výjimkou zvláštní úpravy
+> chránící zejména zemědělské usedlosti (např. v Německu, Rakousku, Polsku
+> a jinde). Příkladem může být zákonná úprava v Rakousku, kde vedle obecné
+> právní úpravy volnosti převádění spoluvlastnických podílů platí zvláštní
+> úprava pro zemědělské usedlosti (aktuálně Bundesgesetz über besondere
+> Vorschriften für die bauerliche Erbteilung z r. 1958), nebo v Polsku,
+> kde platí jednak zvláštní ustanovení čl. 166 občanského zákoníku, jednak
+> speciální ustawa o kształtowaniu ustroju rolnego z r. 2003. Obdobná
+> úprava platila i na území České republiky až do r. 1964 (zák. č.
+> 139/1947 Sb., o rozdělení pozůstalosti se zemědělskými podniky a
+> zamezení drobení zemědělské půdy), kdy byla zrušena § 864 (bod 3.)
+> platného občanského zákoníku. Z novějšího zákonodárství zavedla v r.
+> 1976 zákonné předkupní právo spoluvlastníků pro případ, že
+> spoluvlastnictví vzniklo jinak než smlouvou (régime légal de
+> ľindivision) francouzská novela Code civil (čl. 815-14) provedená
+> zákonem č. 76-1286, přijatá zvláště za tím účelem, aby se zabránilo
+> drobení zemědělských podniků, které získaly větší počet spoluvlastníků v
+> důsledku dědění (srov. *Tisserand-Martin, A. et al.* Code civil. 107.
+> vydání. Paris: Dalloz, 2008, s. 896 an. nebo *Ferid, M. - Sonnenberger,
+> H. J.* Das Französische Zivilrecht. Bd. 2. 2. vydání. Heidelberg: Recht
+> und Wirtschaft, 1986, s. 623). Francouzský vzor následovalo v r. 1993
+> Lucembursko.
+>
+> Se zřetelem k zdejší tradici a se zohledněním zahraničních inspirací se
+> proto navrhuje stanovit zvláštní právní pravidla pro spoluvlastnictví k
+> zemědělskému závodu v tom směru, že spoluvlastníci budou mít ke svým
+> podílům zákonné předkupní právo trvale. To však jen v případě, že
+> spoluvlastnictví vzniklo z právní skutečnosti nezakládající se výhradně
+> na jejich vůli; vzniká-li spoluvlastnictví smlouvou, pak je věcí
+> smluvních stran, budou-li mít takový zájem, aby si předkupní právo
+> ujednali. Protože bezesmluvně vzniká spoluvlastnické právo typicky
+> děděním a protože má být umožněno i zcizení dědického podílu, navrhuje
+> se výslovně stanovit, že se zákonné předkupní právo vztahuje i na
+> dědické podíly spoludědiců, pokud je pozůstalostí zemědělský závod.
+>
+> Protože ratio legis sleduje účel zachovat vlastnické právo k
+> zemědělskému závodu dosavadním spoluvlastníkům nebo alespoň některému z
+> nich a omezit nebezpečí nežádoucích sporů a rozbrojů, které
+> nekontrolovaná záměna spoluvlastníka může přinést, navrhuje se zákonné
+> předkupní právo i v případě spoluvlastnictví zemědělského závodu -
+> obdobně jako v předchozím ustanovení - založit pro úplatné i pro
+> bezúplatné zcizení spoluvlastnického podílu. Návrh se vědomě odklání
+> např. od švýcarské, francouzské nebo lucemburské úpravy, které zákonné
+> předkupní právo výslovně spojují jen se zcizením za úplatu. Bere se
+> totiž v úvahu předpoklad, že jinak by předstíranými bezúplatnými převody
+> mohl být účel navrhované úpravy mařen. I bezúplatný převod na jinou
+> osobu, než jaké uvádí první věta druhého odstavce, tedy založí ostatním
+> spoluvlastníkům předkupní právo, tj. právo domáhat se vůči zciziteli,
+> aby spoluvlastníku převedl svůj spoluvlastnický podíl za obecnou cenu
+> (srov. *Švestka, J. - Jehlička, O.* Nad předkupním právem. Právní
+> rozhledy, II, 1994, s. 162) - pokud si strany ovšem neujednají něco
+> jiného.
+>
+> Založení zákonného předkupního práva spoluvlastníkům ani v těchto
+> případech přirozeně nebrání, aby se jej spoluvlastníci vzdali nebo aby
+> si ujednali jeho omezení časem, podmínkami apod.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1150,6 +1833,90 @@ Zákonné předkupní právo spoluvlastníků existuje jen u spoluvlastnictví v
 **§ 1138**:
 > Dohodnou-li se spoluvlastníci nemovité věci o její správě jinak, vyžaduje dohoda formu veřejné listiny. Dohoda se založí do sbírky listin u orgánu, u něhož je nemovitá věc zapsána ve veřejném seznamu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1118 až 1125 návrhu — dnešní § 1126—1133):**
+
+> Při rozhodování jak bude naloženo se společnou věcí (nejedná se jen o
+> majetkové dispozice s ní, ale i o její využití, úpravu atp.) rozhodují
+> spoluvlastníci většinou hlasů. Nerozhoduje však počet, nýbrž váha hlasů,
+> odvozená z velikosti podílu. Vzhledem k zásadě § 1108 plyne ze společné
+> dispozice s podílem i solidarita spoluvlastníků.
+>
+> Správa společné věci přísluší všem spoluvlastníkům společně, stejně jako
+> její držba a užívání, přičemž je každý omezen stejným právem ostatních.
+> Předpokládá se, že rozhodnutí budou přijímat všichni spoluvlastníci
+> společně, k čemuž je ovšem nutné, aby se všem dostala informace o tom,
+> co se chystá, resp. že má být nebo je třeba rozhodovat. Zásadně jen za
+> předpokladu, že se každý ze spoluvlastníků o rozhodování dozvěděl, lze
+> po každém z nich žádat, aby přijatá rozhodnutí akceptoval.
+>
+> Při hlasování o společné věci je možné, že většiny nebude dosaženo a
+> spoluvlastníci shodu nenaleznou. Pak je třeba, aby se obrátili se svou
+> věcí na soud - žalobní právo náleží každému ze spoluvlastníků. Nelze
+> ovšem vyloučit (a ani zákon to nečiní), že najdou shodu v řešení např.
+> rozhodcem, arbitrem, losem atp.
+>
+> Pravidlo, podle kterého je třeba, aby všichni spoluvlastníci byli o
+> chystaném rozhodování uvědomeni, je prolomeno v případě neodkladné
+> záležitosti. Že záležitost byla skutečně neodkladná, dokazuje samozřejmě
+> ten, kdo rozhodl bez informování ostatních. Nicméně v tomto případě má
+> ten, kdo byl pominut, zvláštní právo domoci se soudního výroku, že jej
+> dotyčné rozhodnutí nezavazuje. Podmínkou je podání návrhu v relativně
+> krátké lhůtě, protože poměry vzniklé mezi spoluvlastníky nelze
+> ponechávat po neúnosně dlouhou dobu v nejistotě.
+>
+> Záležitosti mimořádné správy (§ 1121) vyžadují odlišná pravidla. Tu je
+> zásadně zapotřebí, aby shodné stanovisko zaujala dvoutřetinová většina
+> spoluvlastníků. I v tomto případě se kterýkoli ze spoluvlastníků může
+> obrátit na soud, pokud se nepodařilo požadované většiny dosáhnout a ani
+> jiné dohody nebylo dosaženo. Zajisté se předpokládá, že ten, kdo bude
+> mít za to, že jeho podnět by měl být akceptován, bude tím, kdo se na
+> soud obrátí, ale nemusí tomu tak být vždy.
+>
+> Také přehlasovaný spoluvlastník může v třicetidenní lhůtě navrhnout, aby
+> o záležitosti rozhodl soud. V tom případě je ale především možné zároveň
+> navrhovat, aby soud předběžně rozhodl o odkladu uskutečňování napadeného
+> rozhodnutí, a dále je možné, aby soud rozhodl jakkoli, totiž jak to bude
+> požadovat navrhovatel či jak to bude požadovat odpůrce atd.
+>
+> Ust. § 1121 uvádí v odst. 1 demonstrativně typické případy mimořádné
+> správy (účelovou změnu společné věci, její zásadní zlepšení nebo
+> zhoršení apod.); vzhledem k příkladmému výčtu v tomto ustanovení sem
+> náleží i jiné podstatné zásahy, např. přístavba. Jsou však i jiné
+> podstatné zásahy do společného vlastnictví, které vyžadují odlišné
+> řešení, než bylo právě uvedeno. Uvádí je, tentokrát s ohledem na
+> výjimečnou povahu věci taxativně, § 1124. Jedná se zřízení či zrušení
+> zatížení společné věci (zejména o služebnosti) a o zřízení takové
+> povinnosti, která by mělo spoluvlastníky zavázat na dobu delší deseti
+> let. K takovému rozhodnutí, jakožto rozhodnutí zcela zásadního významu,
+> je třeba souhlasu všech spoluvlastníků.
+>
+> Výjimka z této výjimky představuje zastavení společné věci, má-li
+> zástava sloužit jako jistota k splacení peněz použitých na obnovení nebo
+> zlepšení společné věci. Pro takové rozhodnutí stačí většina
+> dvoutřetinová. I tady ovšem v případě potřeby může na návrh
+> spoluvlastníka rozhodnout soud rozsudkem nahrazujícím projev vůle.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1126 až 1130 návrhu — dnešní § 1134—1138):**
+
+> Ustavování správce u nás ještě po r. 1989 v plném rozsahu nezdomácnělo;
+> je naopak zvykem, že spoluvlastníci spravují společnou věc sami. Nicméně
+> je třeba počítat s tím, že tato praxe dozná vývojem času změny, a stejně
+> tak i s tím, že zvláštní zákon může nařídit povinné ustavení správce.
+> Zásadní charakteristikou správce je, že má stejné postavení jako
+> zmocněnec (příkazník). Je tomu tak proto, aby byl oprávněn vyúčtovat
+> spoluvlastníkům náhradu nákladů, i když se výsledek nedostaví.
+>
+> Spoluvlastníka, pokud jedná jako správce a počíná si přitom sice
+> svévolně, ale nikoli k újmě společné věci, resp. nikoli k újmě ostatních
+> spoluvlastníků, je namístě chránit. Přiznává se mu proto v případě
+> ohrožení společné věci náhrada nutných nákladů bez dalšího a v situaci,
+> kdy koná s cílem věci prospět, alespoň náhrada nákladů v rozsahu
+> zhodnocení věci.
+>
+> Dohoda, kterou se spoluvlastníci odchýlí od zákonných ustanovení,
+> vyžaduje s ohledem na ochranu třetích osob kvalifikovanou formu, je-li
+> ve spoluvlastnictví nemovitá věc.
+
 ---
 
 ### Oddíl 3 — Správa společné věci (§ 1126—1139)
@@ -1219,6 +1986,21 @@ Hlasy se počítají podle velikosti podílů (§ 1126); běžná správa vyžad
 > (1) Navrhne-li některý ze spoluvlastníků soudu, aby rozhodl, že rozhodnutí většiny spoluvlastníků nemá vůči němu právní účinky, aby takové rozhodnutí zrušil, nebo je nahradil svým rozhodnutím, uspořádá soud právní poměry spoluvlastníků podle slušného uvážení. Soud může zejména rozhodnout, zda se má změna uskutečnit bez výhrad, s výhradami či proti zajištění, anebo zda se uskutečnit vůbec nemá.
 > (2) Způsobem uvedeným v odstavci 1 soud rozhodne také tehdy, domáhá-li se jeho rozhodnutí některý ze spoluvlastníků proto, že se při rozhodování o společné věci nedosáhlo potřebné většiny.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1131 návrhu — dnešní § 1139):**
+
+> Dojde-li mezi spoluvlastníky ke sporu, jaké opatření má být ohledně
+> společné věci učiněno (a má-li být vůbec nějaké učiněno) je soudu
+> ponecháno k úvaze, jak o záležitosti rozhodne: zda určí, že rozhodnutí
+> spoluvlastníků navrhovatele nezavazuje, zda případně dotyčné rozhodnutí
+> zruší, nebo zda rozhodně o podmínkách, za nichž se změna může
+> uskutečnit, popř. že spoluvlastníci musí poskytnout navrhovateli jistotu
+> atp., tak, aby poměry spoluvlastníků byly uspořádány spravedlivě, tedy
+> racionálně a způsobem, který nebude bránit dalšímu klidnému soužití
+> spoluvlastníků a nebude mezi nimi akcelerovat další konflikty.
+>
+> Každopádně soud musí rozhodnout podle návrhu a nemůže si např. sám
+> zvolit rozhodnutí, kterým by spoluvlastnictví zrušil.
+
 ---
 
 ### Oddíl 4 — Zrušení spoluvlastnictví (§ 1140—1157)
@@ -1235,6 +2017,17 @@ Hlasy se počítají podle velikosti podílů (§ 1126); běžná správa vyžad
 **Klasická zásada *nemo in communione potest invitus detineri***. Limity:
 - **Nevhodná doba** (např. v období neúrody u zemědělského pozemku);
 - **Pouze k újmě** některého spoluvlastníka (šikana).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1132 návrhu — dnešní § 1140):**
+
+> Klasická právní zásada, objevující se standardně ve všech právních
+> řádech, promítnutá i zde do § 1132, je prolomena principem nejnutnější
+> ochrany spoluvlastníků. Žádat o oddělení ze spoluvlastnictví vystoupením
+> nebo o zrušení spoluvlastnictví nelze v nevhodné době, ani k újmě
+> ostatních spoluvlastníků. Nevhodnost se posuzuje se zřetelem na
+> společnou věc, na její účelové určení, na způsob jejího využití apod.
+> Tak např. o rozdělení zemědělských pozemků je možné žádat zpravidla v
+> době po sklizni a před osázením či osetím.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1338,6 +2131,47 @@ Právo nesetrvat ve spoluvlastnictví je zásadní a bezvýjimečné (§ 1140 od
 
 **§ 1149 — Účinky zápisu**: u nemovitostí v VR — nová vlastnická práva **zápisem**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1133 až 1141 návrhu — dnešní § 1141—1149):**
+
+> Předpokládá se - jako obvykle - že v soukromých vztazích je třeba dát
+> přednost dohodě. Proto zásadně platí, že se spoluvlastnictví zrušuje
+> dohodou spoluvlastníků. Vzhledem k tomu, že lze kromě reálného rozdělení
+> společné věci uvažovat i o jiných způsobech zrušení společného
+> vlastnictví, pak zásadně rovněž platí, že se spoluvlastníci rovněž
+> dohodnou i to způsobu zrušení svého společenství.
+>
+> Zákon obecně preferuje při zrušení spoluvlastnictví reálné rozdělení
+> společné věci. Zároveň však nelze nevidět, že takovému rozdělení
+> představuje zásadní překážku její určení trvalému, případně dlouhodobému
+> účelu. Zajisté se jedná především o takové hmotné věci, a zejména
+> nemovité, které jsou určeny k cílům veřejně prospěšným. Toto ustanovení
+> však zakazuje pouze rozdělení společné věci, nebrání tedy zrušení
+> spoluvlastnictví a jeho vypořádání jiným způsobem.
+>
+> Nedojde-li k takto očekávané dohodě, mají spoluvlastníci možnost obrátit
+> se na soud. K návrhu kteréhokoli spoluvlastníka soud spoluvlastnictví
+> zruší - pokud nebude vznesena některý z námitek, pro kterou by bylo
+> nutné odložit zrušení spoluvlastnictví nebo popřípadě aspoň reálné
+> rozdělení společné věci - a zároveň rozhodne o reálném rozdělení
+> společné věci za předpokladu, že se tím podstatně nesníží její hodnota.
+> Je-li zřejmé, že by reálným rozdělením hodnota věci skutečně utrpěla,
+> rozhodne soud o její dražbě a rovněž, zda půjde o dražbu veřejnou, či
+> zúčastní-li se jí jen spoluvlastníci. Rozhodne-li soud o prodeji věci
+> v dražbě, může zároveň rozhodnout, že se dražby zúčastní jen
+> spoluvlastníci. Tento postup povede k tomu cíli, že cena věci dosažená v
+> dražbě odrazí její tržní hodnotu a při vypořádání spoluvlastnictví
+> nebude žádný ze spoluvlastníků poškozen.
+>
+> Při zrušení spoluvlastnictví, musí být vypořádány dluhy a pohledávky
+> věřitelů jako osob třetích, ale i samotných spoluvlastníků týkající se
+> společné věci. Na to pamatuje § 1140.
+>
+> Dohoda o zrušení a vypořádání spoluvlastnictví musí mít písemnou formu
+> jen ohledně nemovitých věcí. Ale pokud dohoda o zrušení a vypořádání
+> spoluvlastnictví k movité věci nebyla uzavřena v písemné formě z vůle
+> stran, musí si spoluvlastníci, požádá-li o to některý z nich, vydat
+> vzájemně písemné potvrzení, jak se vypořádali.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2693/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/549DE23EE28813E6C1258DB800528454?openDocument) — *Zrušení a vypořádání spoluvlastnictví Vydržení Manželství*
@@ -1434,6 +2268,55 @@ Soud při vypořádání postupuje v pořadí: reálné rozdělení (§ 1144), p
 
 **§ 1155**: **soudní odklad** **max. 2 roky** (k zabránění majetkové ztrátě).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1142 až 1145 návrhu — dnešní § 1150—1153):**
+
+> Zrušení spoluvlastnictví nemůže mít za následek újmu osoby na
+> spoluvlastnictví nezúčastněné. Toto základní pravidlo (§ 1142) rozvádějí
+> následující ustanovení se zřetelem ke služebnostem a podobným zatížením
+> váznoucím na pozemku. O stavbách v této souvislosti řeč není, neboť
+> stavby jsou součástí pozemku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1146 až 1149 návrhu — dnešní § 1154—1157):**
+
+> Zásada zrušitelnosti spoluvlastnictví může být prolomena dohodou
+> spoluvlastníků. Ani takovou dohodou nelze možnost zrušení
+> spoluvlastnictví vyloučit jednou pro vždy a nelze se v dohodě ani vzdát
+> práva v budoucnu takovou úmluvu opačnou dohodou zrušit.
+>
+> Vzhledem k tomu, že je třeba i v tomto případě chránit nejen
+> spoluvlastníky, ale i osoby třetí, musí být v dohodě výslovně uvedena
+> doba, po kterou není možné zrušení spoluvlastnictví požadovat. Dohodu
+> není možné v žádném případě uzavřít na dobu delší než deset let. Ale
+> bude-li přece jen uzavřena na dobu delší, nemá být dovozena neplatnost
+> celého ujednání, ale jen to, že dohoda zavazuje strany jen na nejvýše
+> přípustnou dobu deseti let. Zároveň se spoluvlastníkům výslovně nabízí
+> (a činí se tak proto, aby nevznikla pochybnost o této možnosti, která u
+> věcných práv vždy hrozí), že dohodnuté omezení může být i prolongováno
+> (§ 1146). Dohoda zásadně zavazuje jen strany a jejich univerzální
+> nástupce. Připouští se však, aby byly smluveny účinky dohodnutého
+> omezení i pro singulární nástupce spoluvlastníků.
+>
+> Logickým důsledek pravidla, že o zrušení spoluvlastnictví nelze žádat v
+> nevhodnou dobu, je jeho doplnění o soudní ochranu spoluvlastníků, kteří
+> mají proti zrušení spoluvlastnictví zásadní námitky. Soud v takovém
+> případě, shledá-li tyto námitky jako důvodné, může zrušení
+> spoluvlastnictví odložit, nejvýše však na dobu dvou let.
+>
+> Kromě dohody spoluvlastníků a rozhodnutí soudu může odklad zrušení
+> spoluvlastnictví založit také závěť. Je nabíledni, že dědici, kteří s
+> tím nesouhlasí, mohou - ovšem dohodou všech - takový příkaz zůstavitele
+> změnit. Zda tak učiní, anebo zdali převezmou morální závazek vůči
+> zůstaviteli, je ponecháno na jejich vůli.
+>
+> Zásadně platí, že dohody omezující subjektivní práva mohou být vždy
+> změněny adekvátními prostředky (dohodou, rozhodnutí soudu), zejména pak
+> v případě změny okolností. Jinak řečeno, každá taková omezující dohoda
+> je uzavírána s výhradou podstatné změny poměrů. Druhou skupinu důvodů
+> umožňujících změnu dohody o odkladu zrušení spoluvlastnictví představují
+> situace, do nichž se pro takový odklad dostal některý ze spoluvlastníků.
+> Každá z uvedených skupin těchto situací je ovšem jiné povahy (v prvé
+> převažují momenty objektivní, v druhé subjektivní).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 48/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8D28D3AD36D1D3A8C1258834001923B9?openDocument) — *Spoluvlastnictví Odklad oddělení/zrušení spoluvlastnictví (o. z.)*
@@ -1491,6 +2374,40 @@ Rozdělení společné věci nezasahuje do věcných práv třetích osob (§ 11
 > (1) Jsou-li podíly na společných částech určeny jinak než poměrem velikosti podlahové plochy bytu k celkové podlahové ploše všech bytů v domě nebo než jako stejné, má vlastník jednotky právo domáhat se změny tohoto určení, pokud se okolnosti změnily tak podstatně, že určení jeho podílu na společných částech je zjevně nespravedlivé.
 > (2) Nedojde-li na návrh vlastníka jednotky ke změně prohlášení (§ 1169), změní prohlášení soud.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1153 návrhu — dnešní § 1162):**
+
+> Platný zákon č. 72/1994 Sb. stanoví v § 8 odst. 2, že pro určení podílu
+> na společných částech domu rozhoduje poměr podlahové plochy bytu nebo
+> nebytového prostoru k celkové ploše všech bytů nebo nebytových prostorů
+> v domě. To je kritérium vycházející z § 17 odst. 2 dříve platného zákona
+> č. 52/1966 Sb. Původní znění zákona č. 72/1994 Sb. stanovilo uvedené
+> právní pravidlo kogentně ve vztahu k zřízení jednotek prohlášením
+> vlastníka budovy \[§ 4 odst. 2 písm. c)\], dispozitivně však pro případ
+> výstavby domů s jednotkami \[§ 18 odst. 1 písm. d)\]. Tato konstrukce
+> měla z dobových důvodů svoji logiku v souvislosti s privatizací bytového
+> fondu, kdy bylo praktické stanovit matematicky jednoduché pravidlo,
+> zatímco při výstavbě nových domů bylo naopak namístě ponechat rozhodnutí
+> na vůli stavebníků. Ač část literatury dovodila, že „smysl a původ této
+> odchylky zůstal utajen" a kladně hodnotí zavedení kritéria poměru
+> podlahových ploch zákonem č. 103/2000 Sb. jako plně kogentního (srov.
+> *Fiala, J.* in *Fiala, J. et al.* Zákon o vlastnictví bytů. Komentář. 3.
+> vydání. Praha: C. H. Beck, 2005, s. 86), není v současné době důvodu
+> soukromou vůli omezovat. Navrhuje se proto změnit právní pravidlo
+> dosavadního zákona tak, že rozhodující nemá být v prvé řadě jen poměr
+> podlahových ploch, ale také povaha a umístění bytu, tedy že podíl na
+> společných částech má být přednostně určen se zřetelem k hodnotě bytu
+> nebo nebytového prostoru. Pro ni má význam nejen velikost bytu, ale i
+> jiné jeho vlastnosti, např. umístění bytu v určitém podlaží nebo na
+> určité straně domu, prostor, který má vlastník jednotky ve své výlučné
+> dispozici (v domě mohou být např. místnosti s různě vysokými stropy)
+> apod. Určení velikosti podílu na společných částech domu podle poměru
+> podlahových ploch se tedy navrhuje v zákonné úpravě ponechat pro případ,
+> že velikost podílu nebude určena poměrem hodnoty bytů (nebytových
+> prostorů). V té souvislosti je důležité uvědomit si, že na kritériu
+> hodnoty staví řada právních řádů (francouzský, italský, rakouský,
+> bulharský aj.), jiné (např. nizozemský, který dispozitivně stanoví
+> stejnost podílů) jeho využití nevylučují.
+
 #### § 1158—1159 — Definice
 
 > (1) Bytové spoluvlastnictví je spoluvlastnictví nemovité věci založené vlastnictvím jednotek. Bytové spoluvlastnictví může vzniknout, pokud je součástí nemovité věci dům alespoň s dvěma byty.
@@ -1501,6 +2418,209 @@ Rozdělení společné věci nezasahuje do věcných práv třetích osob (§ 11
 >
 
 **§ 1158**: spoluvlastnictví nemovité věci založené **vlastnictvím jednotek**. Vyžaduje **dům s alespoň 2 byty**. Jednotka zahrnuje **byt + podíl na společných částech**. Jednotka je **nemovitá věc**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1150 návrhu — dnešní § 1158):**
+
+> Vlastnické právo spojené s vlastnictvím reálné části domu (nejen bytů,
+> ale i podlaží, obchodních místností, řemeslnických dílen i jiných jejich
+> částí) představuje prolomení zásady superficies solo cedit. Jako takové
+> vzniklo za feudalismu v různých formách. Určité přežily až do
+> současnosti, a to i v České republice, např. v podobě patrového
+> vlastnictví několika domů v Ivančicích.
+>
+> Občanské zákoníky 19. století reagovaly na vlastnictví reálných částí
+> domu rezervovaně, byť se s ním musely vypořádat jako s reálně
+> existujícím faktem. Činily tak nejasnými ustanoveními (např. § 361
+> rakouského ABGB), která mohla být a také byla různě vykládána. Zatímco
+> ve středoevropském pojetí ovlivněném zejména německou právní vědou
+> převládal dlouho záporný postoj k dělenému vlastnictví domů, románská
+> právní kultura se k němu pod vlivem Code civil (čl. 664) stavěla
+> vstřícněji; podobně i právní kultura skandinávská nebo angloamerická.
+>
+> Nejasnosti vyplývající z lakonických ustanovení občanských zákoníků
+> připouštějících vlastnictví reálné části domu a z toho vznikající spory,
+> jakož i sociální a hospodářské důvody vynucující si stejnou možnost
+> rovněž v těch zemích, kde ji právo dosud nepřipouštělo, vedly v
+> evropských státech, zejména v průběhu 20. století, k vzniku zákonných
+> úprav, které takové vlastnictví upravily v dostatečných podrobnostech,
+> buď v podobě zvláštních zákonů tam, kde se do stávajících zákoníků
+> nechtělo zasahovat (z platných úprav např. zákony nazvané jako
+> Sachenrecht v Lichtenštejnsku, Gesetz über das Wohnungseigentum und das
+> Dauerwohnrecht v Německu, Loi fixant le statut de la copropriété des
+> immeubles batis ve Francii, Bundesgesetz über das Eigentum an Wohnungen
+> und sonstigen Rämlichkeiten v Rakousku, Ustawa o vłasności lokali v
+> Polsku), anebo přímo v občanských zákonících při jejich novelacích
+> (např. v Belgii v r. 1924 nebo ve Švýcarsku v r. 1965) nebo při tvorbě
+> nových kodifikací (srov. např. občanské zákoníky Itálie, Nizozemí,
+> Québecu nebo Ruska).
+>
+> K úpravě vlastnictví reálných částí domu, zejména bytů, došlo z různých
+> důvodů. Hospodářsky jde zejména o možnost vlastníka domu rozhodnout se,
+> zda zejména u domů s prostorami určenými k bydlení využije své
+> vlastnictví k postupnému a pravidelnému nabývání zisku ve formě
+> nájemného, ale se stálou povinností o dům pečovat, anebo zda své
+> vlastnictví přemění rozprodejem reálných částí domu v jednorázový zisk s
+> příležitostí investovat jej jinde. Sociálně jde zejména o řešení bytové
+> situace se zaměřením na obyvatele, jejichž sociální nebo pracovní
+> situace nevyžaduje mobilitu, a o takové, jejichž cílem je nabýt k
+> předmětu bydlení vlastnický titul a nemít obavu, že o byt rozhodnutím
+> vlastníka přijde. To obdobně platí i o nebytových prostorách jako jsou
+> provozovny, garáže, ateliéry apod.
+>
+> Rozdělení domu na dílčí vlastnické objekty rovněž umožňuje zájemcům o
+> investice koupit jednotlivé byty nebo nebytové prostory a dále je
+> pronajímat.
+>
+> Naše právo se stavělo k úpravě vlastnického práva k bytům odmítavě. Také
+> při přípravě platného občanského zákoníku v šedesátých letech se
+> objevily názory podporující úpravu bytového vlastnictví, ale byly
+> odmítnuty (srov. *Luby, Š.* Systém osobného vlastníctva bytov v
+> socialistických krajinách. Právník, CIII, 1964, s. 635 an.). Teprve
+> posléze byl schválen zák. č. 52/1966 Sb., o osobním vlastnictví k bytům
+> přijatý ve snaze rozšířit možnosti uspokojování bytových potřeb občanů.
+> Tato úprava odpovídala dobovým poměrům a kladla důraz na vlastnictví
+> bytu, přičemž spoluvlastnictví společných částí domu bylo vnímáno jako
+> akcesorické. Nový zák. č. 72/1994 Sb., kterým se upravují některé
+> spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a
+> nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů)
+> si dal za cíl přizpůsobit úpravu bytového vlastnictví změněným
+> společenským a hospodářským podmínkám. To se v mnohém zdařilo, na
+> některé dílčí problémy reagovaly novely zákona. Zákon o vlastnictví bytů
+> měl být nahrazen novým zákonem, jeho návrhy připravené v letech 2005,
+> 2007 a 2009 nebyly z různých důvodů schváleny.
+>
+> Příprava návrhu občanského zákoníku umožňuje zahrnout do kodifikace i
+> úpravu vlastnictví bytů. Důvody pro toto řešení byly uvedeny již v
+> souvislosti s přípravou zák. č. 72/1994 Sb. (*Zuklínová, M.* O
+> vlastnictví bytů. Právník, 1994, s. 211 - 213). Především jde i při
+> úpravě bytového vlastnictví o úpravu vlastnického práva a celý jeho
+> komplex systematicky do občanského zákoníku náleží. Opačné řešení vede k
+> diverzifikaci právního řádu, k jeho entropii a zbytečným duplicitám v
+> zájmu tzv. komplexnosti právní úpravy. Zařazení úpravy do občanského
+> zákoníku umožní zjednodušení a větší přehlednost právní úpravy.
+>
+> Zákonná úprava z r. 1966 stavěla na myšlence, že v dané souvislosti jde
+> o vlastnictví bytu, s nímž je jako akcesorické právo spojeno
+> spoluvlastnictví společných částí domu. Toto pojetí teoreticky zdůvodnil
+> *Luby, Š.* (srov. Vlastníctvo bytov. 1. vydání. Bratislava: SAV, 1971,
+> s. 211) preferencí koncepce, na které stálo zejména tehdejší právo
+> československé, polské a sovětské. Převažující je však jiné pojetí, ke
+> kterému se přiklonil, byť ne zcela důsledně, i zákon č. 72/1994 Sb. v §
+> 1 odst. 1 důrazem na spoluvlastnictví budovy (domu), respektive společné
+> nemovité věci, uváděným na prvním místě. Základ platné úpravy je
+> v preferenci spoluvlastnické koncepce: hlavním předmětem je budova a
+> její spoluvlastnictví, ke kterému přistupuje vlastnictví bytu (srov.
+> *Fiala, J.* in *Fiala, J. et al.* Zákon o vlastnictví bytů. Komentář. 3.
+> vydání. Praha: C. H. Beck, 2005, s. 9). Z koncepce platného zákona
+> vychází i navržená úprava, sleduje ji však jednoznačněji.
+>
+> Jednotlivé národní právní řády volí pro bytové vlastnictví různá
+> označení. Nejčastěji se objevují čtyři skupiny. V některých právních
+> řádech jde o vlastnictví bytů (*Wohnungseigentum, własnosc lokali*),
+> např. v Německu, Rakousku, Polsku, nebo o vlastnictví obytných místností
+> (Rusko), jinde se volí název patrové vlastnictví (*Stockwerkeigentum*),
+> např. ve Švýcarsku, Lichtenštejnsku, Maďarsku nebo v Bulharsku, někde
+> jde o spoluvlastnictví domu nebo budovy nebo nemovité věci (*copropriété
+> des imeubles batis, copropriété divise d'un immeuble, condominio negli
+> edifici*) např. ve Francii, Belgii, Québecu, Itálii), jiné zákonné
+> úpravy používají výrazu horizontální vlastnictví (*propriedad
+> horizontal, propriedade horizontal*) např. Španělsko, Portugalsko,
+> Argentina, Bolívie. Nizozemská úprava institut označuje jako bytové
+> právo (*appartementsrecht*).
+>
+> Názvy poukazující na vlastnictví bytu naznačují, že byt je hlavním
+> vlastnickým objektem, ale obsah příslušných právních úprav v Rakousku
+> nebo Německu svědčí o opaku. Německá úprava klade důraz na
+> spoluvlastnictví budovy, které považuje za základ; rakouská rovněž a
+> navíc fakticky popírá vlastnictví bytu jako takového. Navíc lze vytýkat,
+> že nejde jen o byty, nýbrž i různé nebytové prostory, jako jsou obchodní
+> a provozní místnosti apod. Označení tohoto vlastnictví jako patrového
+> vyjadřuje, že nejde jen o vlastnictví bytu. Navíc ve skutečnosti nejde o
+> vlastnictví patra, resp. podlaží, nýbrž nejčastěji jeho části. Kromě
+> toho i úpravy patrového vlastnictví (typicky švýcarská) obsahově sledují
+> koncept německo-rakouský v tom smyslu, že ve skutečnosti nejde o
+> vlastnictví patra, ale o spoluvlastnictví domu. To naplno vyjadřují
+> názvy institutu ve francouzském právu a v právních řádech, které pojetí
+> Code civil ovlivnilo; jednoznačný důraz na spoluvlastnictví staveb však
+> zastírá, oč jde věcně a funkčně především: totiž že hlavním účelem je
+> zajistit spoluvlastníku domu výlučné a absolutní právo k bytu. Rovněž
+> označení tohoto vlastnictví jako horizontálního nevystihuje plně, oč
+> jde, protože vertikální vlastnictví prolíná s horizontálním jako
+> spoluvlastnictví *pro diviso* i *pro indiviso* (rozdělené i
+> nerozdělené). Ani označení bytové právo není vhodné, neboť tento pojem
+> má i v odborném jazyce nejednoznačný obsah.
+>
+> Z těchto důvodů je příslušný oddíl nazván jako „Bytové
+> spoluvlastnictví". Název oddílu vyjadřuje hlavní sociální a hospodářský
+> účel úpravy, jímž je především zajištění práva užívat a požívat
+> prostorově vyčleněnou část domu, a to práva odvozeného od vlastnictví
+> jednotky. Že je podmínkou existence tohoto práva spoluvlastnictví
+> nemovité věci, je dáno systematickým zařazením oddílu do dílu o
+> spoluvlastnictví i názvem institutu. Přestože se návrh přidržuje zásady
+> *superficies solo cedit,* není vyloučeno, že dům nebude součástí
+> pozemku, ale např. součástí práva stavby.
+>
+> Bytové spoluvlastnictví se opírá o spoluvlastnictví domu a vlastnictví
+> jednotky (jejíž součástí je byt).
+>
+> Jednotka je pojem platného zákona, návrh tento pojem zachovává,
+> rozšiřuje však jeho obsah s využitím možností, které k tomu návrh nového
+> občanského zákoníku dává. Návrh zachovává současný dualistický přístup
+> platného zákona k dané materii s důrazem na byt a dům. Dům však podle
+> navržené úpravy není samostatnou věcí, proto návrh staví na pojetí, že
+> jde o spoluvlastnictví nemovité věci, jejíž součástí je dům. Přesto se
+> pojem domu jako součásti nemovité věci z navržených ustanovení nevytrácí
+> a tam, kde je to funkční, s ním jednotlivá ustanovení počítají výslovně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1151 návrhu — dnešní § 1159):**
+
+> Návrh vychází z pojetí, že byt (nebytový prostor nebo soubor bytů a
+> nebytových prostorů) a spoluvlastnický podíl na společných částech
+> nemovité věci (domu a zastavěnému pozemku) tvoří neoddělitelné součásti
+> jednoho celku, jednoho vlastnického objektu s vlastností nemovité věci.
+>
+> Pojetí vlastnického práva a věci v právním smyslu v návrhu občanského
+> zákoníku umožňuje prolomit dosavadní dogmata v pohledu na pojetí věci v
+> právním smyslu a pojmout svazek propojených subjektivních práv a
+> povinností, byť jsou v jednotlivostech různorodá a promítají se do
+> držby, spoludržby, správy, sousedských práv, nesení nákladů atd., jako
+> jediný vlastnický objekt. Ten se označuje jako jednotka. Využívá se tak
+> pojmu jednotky obsažené v platném zákoně, ale rozšiřuje se jeho obsah.
+>
+> Dosavadní odlišení spoluvlastnictví nemovité věci (tedy společného
+> vlastnického práva několika osob k celému domu a pozemku) a
+> individuálního vlastnického práva každé z těchto osob k jednotce jako
+> dvou objektů vyžaduje složitou úpravu propojující pevnou souvislost mezi
+> oběma objekty. Tyto komplikace návrh odstraňuje.
+>
+> Návrh počítá s existencí domu, který není součástí pozemku. Nejde jen o
+> případy vyskytující se ke dni účinnosti nového zákoníku jako důsledek
+> stavu, kdy byla superficiální zásada v našem právu odmítnuta. Tyto
+> případy řeší přechodná ustanovení. Jde také zvláště o případy vzniku
+> jednotek v domě, k němuž má vlastník právo stavby; může však jít i o
+> jiné věcné právo.
+>
+> Pokud jde o byt, definován není. Návrh však poukazuje na jeho hlavní
+> vlastnost, tj. že musí jít o prostorově oddělenou část domu. To je
+> podstatné a vylučuje to použití ustanovení o bytovém spoluvlastnictví na
+> obytné prostory, které nejsou částí domu. Z povahy věci i podpůrné
+> aplikace jiných ustanovení lze další vlastnosti bytu spolehlivě dovodit.
+> Rozdílně od současné úpravy není pojem bytu vázán na existenci
+> rozhodnutí stavebního úřadu. Z hlediska soukromého práva to není
+> podstatné, zejména to není podstatné pro posouzení otázky existence
+> vlastnického práva nebo platnosti smlouvy o převodu jednotky, o jejím
+> propachtování, o nájmu bytu apod. Významné samozřejmě bude, že nastane
+> situace porušující příslušná ustanovení veřejného práva spojená s
+> příslušnými sankcemi a nápravnými opatřeními. Uplatní-li se, pak najdou
+> i svoji soukromoprávní reflexi (nikoli ovšem např. v neplatnosti
+> převodní smlouvy, ale v důsledcích vyplývajících z vadného plnění atd.).
+>
+> K užívání společně s domem mohou sloužit i samostatné pozemky, zařízení,
+> vedlejší stavby na jiných pozemcích s povahou samostatných věcí apod.
+> Případné podíly vlastníků jednotek na těchto věcech nelze zahrnout do
+> pojmu jednotky, protože jde o další samostatné věci v právním smyslu. V
+> tom směru se uplatní ustanovení následujícího oddílu o přídatném
+> spoluvlastnictví.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1562,6 +2682,63 @@ Bytové spoluvlastnictví vzniká u nemovité věci, jejíž součástí je dům
 - **Zařízení sloužící i jinému vlastníku** (výtah, schodiště, společné rozvody).
 
 **Default velikost podílů**: **poměr podlahové plochy bytu k celku**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1152 návrhu — dnešní § 1160):**
+
+> Navržené ustanovení používá výraz „společné části", neboť nejde jen o
+> společné části domu. Nepůjde jen o pozemek, může jít o vedlejší stavby
+> nebo technická zařízení s právní povahou samostatných věcí sloužící k
+> užívání domu, ale umístěná na jiném pozemku mimo dům. Některé části domu
+> (např. balkony, lodžie, terasy) mohou být přístupné jen z jednoho bytu a
+> sloužit k výhradnímu užívání společně s bytem, jiné mohou být přístupné
+> jen z několika bytů (např. terasa společná pro dva byty) a sloužit k
+> výhradnímu užívání společně s nimi (tzv. subcondominium).
+>
+> Pro určení, které části jsou společné, ať již při rozdělení domu na
+> jednotky nebo později, je rozhodujících několik skutečností. Předně -
+> jde-li o hodnoty způsobilé být samostatným objektem vlastnického práva
+> (např. pozemek určený k užívání společně s domem nebo vedlejší věci
+> způsobilé sloužit jako příslušenství pozemku nebo domu) - musí k nim
+> spoluvlastníci domu mít vlastnický titul: tak tomu nemusí být vždy,
+> např. určitá zařízení určená k užívání společně s domem mohou být ve
+> vlastnictví jiné osoby, ať již v důsledku smluvního ujednání (určité
+> věci mohou být do domu pořizovány na leasing, koupeny s výhradou
+> vlastnického práva apod.), nebo v důsledku úprav ve zvláštních zákonech
+> upravujících např. rozvod energií, plynu nebo vody. Dále pak určení
+> společných částí závisí i na prohlášení vlastníka domu při jeho
+> rozdělení na jednotky nebo při ujednaném zřizování jednotek v
+> souvislosti s výstavbou domu nebo se změnou spoluvlastnictví k domu.
+> Záleží tedy rovněž na projevu vůle směřujícímu ke vzniku jednotek. Praxe
+> může přinést různorodé situace. Jiné vymezení společných částí bude
+> vyžadovat případ přízemního domu rozděleného na dvě nebo tři jednotky se
+> samostatnými vchody, jiné u vícepodlažního domu v centru města. Proto
+> bylo i v naší literatuře konstatováno, že „společné části různých domů
+> jsou už objektivně značně různé s ohledem na jejich odlišné stavebně
+> technické uspořádání a vybavení. Mimo to mohou být determinovány i
+> subjektivně, tedy v závislosti na vůli dotčených osob, protože i části,
+> které z hlediska stavebního řešení nemusí být společné, mohou být mezi
+> společné zařazeny, anebo naopak objektivně společné části mohou
+> traktovat jako relativně (jen pro některé vlastníky) společné nebo jako
+> zvláštní části, patřící jen k jednotlivým bytům. Právní úprava nemůže
+> dobře vytvořit kritérium, podle něhož by se společné části mohly
+> jednotně určit u všech domů s vlastnickými byty. A zřejmě by to nebylo
+> ani vhodné" (*Luby, Š.* Vlastníctvo bytov. 1. vydání. Bratislava: SAV,
+> 1971, s. 279). To ostatně potvrzují i praktické zkušenosti s platným
+> zákonem o vlastnictví bytů \[§ 2 písm. g)\].
+>
+> Zahraniční právní úpravy přistupují k vymezení společných částí různě.
+> Některé se pokoušejí vymezit společné části dosti podrobně (např.
+> rakouský zákon o vlastnictví bytů a jiných prostorů, québecký občanský
+> zákoník), jiné volí obecné vymezení (např. německý nebo polský zákon,
+> švýcarský občanský zákoník). Navržené ustanovení se vydává střední
+> cestou. V prvním odstavci vymezuje, že společnými částmi jsou ty, které
+> slouží společně vlastníkům jednotek. To je pojetí obdobné základnímu
+> kritériu vymezenému i v platném zákoně o vlastnictví bytů. Které části
+> jsou společné, podmiňuje jejich povaha stavební, technická nebo
+> uživatelská. V druhém odstavci se navrhuje podrobněji vymezit, jaké
+> části musí být nutně společné. Od zákonného určení společných částí se
+> projevem soukromé vůle (v prohlášení, ve smlouvě o výstavbě, v dohodě o
+> zrušení a vypořádání spoluvlastnictví apod.) nelze odchýlit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1665,6 +2842,102 @@ Společnými částmi jsou vždy alespoň pozemek, stavební části podstatné 
 - **Většinou hlasů všech vlastníků jednotek**;
 - **Souhlas dotčeného vlastníka jednotky** (jehož práv se změna dotkne) + **zástavního věřitele**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1154 až 1156 návrhu — dnešní § 1163—1165):**
+
+> V těchto ustanoveních se vymezují právní skutečnosti, které vedou ke
+> vzniku jednotky. Vychází se přitom z platné úpravy (§ 5 odst. 1 až 3
+> zákona o vlastnictví bytů), z návrhů nových zákonů o vlastnictví bytů a
+> diskusí k nim.
+>
+> Na prvém místě se uvádí případ, kdy jednotka vznikne výstavbou domu jako
+> nová věc.
+>
+> Dále se uvádějí případy, kdy dům již existuje a mění se projevem vůle na
+> dům s jednotkami, ať již je to projev vůle jedné osoby, tedy prohlášení
+> dosavadního vlastníka (popřípadě osoby oprávněné k tomu z jiného věcného
+> práva), nebo několika osob v případě dohod o oddělení ze
+> spoluvlastnictví, nebo jeho zrušení a vypořádání, anebo o zúžení či
+> vypořádání společného jmění. Tyto případy spojuje i to, že jednotka
+> vzniká zápisem do katastru nemovitostí.
+>
+> Jako poslední se uvádí případ, kdy o vzniku jednotky rozhodne ve
+> stanovených případech soud. Tehdy jednotka vznikne právní mocí
+> rozhodnutí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1157 návrhu — dnešní § 1166):**
+
+> Při přeměně domu na dům s jednotkami rozděluje vlastník, popřípadě osoba
+> k tomu oprávněná z věcného práva své právo k nemovité věci na jednotky
+> projevem své vůle. Ta může být projevena v prohlášení, popřípadě, je-li
+> věc ve spoluvlastnictví nebo ve společném jmění, v dohodě spoluvlastníků
+> nebo manželů. Ustanovení uvádí jejich náležitosti. Požadavek na písemnou
+> formu prohlášení není zvláště uváděn, protože vyplývá již z obecných
+> ustanovení o formě právních jednání, jimiž se zřizuje věcné právo k
+> nemovité věci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1158 návrhu — dnešní § 1167):**
+
+> V praxi dochází k tomu, že se v prohlášeních (podle současné úpravy jde
+> o prohlášení vlastníka budovy podle § 4 zák. č. 72/1994 Sb.) vyskytují
+> nedostatky ve vymezení společných částí domu nebo ve výpočtu podlahové
+> plochy bytu nebo nebytového prostoru a v určení podílů na společných
+> částech (domu). Platné právo nemá na tyto vady jinou odpověď než
+> absolutní neplatnost. Následkem toho dochází k zápisům a převodům
+> jednotek, které neexistují, se všemi právními důsledky z toho
+> plynoucími. Navrhovaná úprava občanského zákoníku sice staví na zásadě
+> relativní neplatnosti, nicméně ani to neřeší praktické otázky s tím
+> spojené důsledně. Navrhované ustanovení sleduje ochranu dobré víry
+> vlastníků jednotek i třetích osob, což je u absolutních práv otázka
+> zásadního významu.
+>
+> Z těchto důvodů se navrhuje řešení, podle kterého lze prohlášení
+> prohlásit za neplatné nebo určit, že vlastnické právo k jednotce
+> nevzniklo, jen za podmínky, že po rozdělení domu na dům s jednotkami je
+> jediným vlastníkem všech jednotek stále ten, kdo dům změnil na dům s
+> jednotkami. Jakmile nabude věcné právo k jednotce další osoba, chrání se
+> její dobrá víra.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1159 návrhu — dnešní § 1168):**
+
+> Obsahuje-li prohlášení chyby, je nutné je odstranit.
+>
+> V prvém odstavci se navrhuje stanovit pro případ, že původce prohlášení
+> bude i přes výzvu nečinný, aby bylo založeno právo k odstranění vad
+> vlastníkům dotčených jednotek; neučiní-li to, pak každé osobě, která na
+> tom má právní zájem. Takovou osobou nemusí být jen vlastník nebo
+> spoluvlastník jednotky, nýbrž i jeho věřitel; především však může jít o
+> společenství vlastníků.
+>
+> V druhém odstavci se navrhuje stanovit, že se nepřihlíží k nesprávnému
+> nebo neurčitému určení podílů na společných částech domu; v takovém
+> případě se podíly určí poměrem velikosti podlahové plochy bytu k celkové
+> podlahové ploše všech bytů v domě, ledaže se spoluvlastníci dohodnou na
+> změně prohlášení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1160 návrhu — dnešní § 1169):**
+
+> Prohlášení o rozdělení domu na jednotky nemůže být neměnné. Vlastníci
+> jednotek jsou mj. oprávněni působit na své vlastnictví, tedy na celou
+> jednotku i její součásti, tudíž je také měnit. Zároveň nelze pominout,
+> že to je stále spoluvlastnictví domu, co se ve vlastnictví jednotky
+> odráží. Změna jednotky se nutně promítne do práv a povinností dalších
+> spoluvlastníků. Nejvýznamnějším soukromoprávním nástrojem vedoucím ke
+> změně spoluvlastnictví je dohoda. Rozdílně od obecné úpravy
+> spoluvlastnictví, kdy je potřebná dohoda všech spoluvlastníků, postačí v
+> daném případě dohoda těch spoluvlastníků, kteří budou změnou přímo
+> dotčeni; dohoda všech spoluvlastníku bude tedy nezbytná jen tehdy,
+> budou-li změnou dotčeni všichni, tj. v případě, kdy má dojít ke změně
+> spoluvlastnických podílů na společných částech u všech spoluvlastníků
+> nebo ke změně způsobu užívání společných částí. Nicméně i tam, kde má
+> dojít ke změně dotýkající se přímo jen některých spoluvlastníků, půjde o
+> jejich působení nejen na jejich vlastní majetek, ale rovněž na majetek
+> společný. Z toho důvodu se vyžaduje, aby s takovými změnami souhlasili
+> spoluvlastníci domu, kteří mají většinu hlasů, a to i když stranami
+> uzavírané dohody nebudou. Rozdílně od dohody samotné, pro niž platí
+> požadavek písemné formy již z obecných ustanovení o právních jednáních
+> týkajících se nemovitých věcí, se u souhlasu dalších spoluvlastníků domu
+> vyžaduje jeho písemná forma výslovně.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vlastník bytového domu M1 chce rozdělit dům na jednotky a část z nich prodat. Vyhotoví prohlášení vlastníka, k němuž připojí půdorysy podlaží a údaje o podlahových plochách, a podá návrh na zápis do katastru. Po zápisu a prodeji jedné jednotky M2 zjistí chybu ve vymezení a chce prohlášení napadnout. Důkazy: prohlášení vlastníka, půdorysy, výpis z katastru, kupní smlouva s M2.
@@ -1729,6 +3002,112 @@ Jednotky vznikají nejčastěji zápisem prohlášení vlastníka do katastru (�
 > (3) Smlouva vyžaduje písemnou formu.
 
 Pro **družstevní výstavbu** + **přístavbu/nástavbu**. Vyžaduje **písemnou formu** + obsahuje náležitosti prohlášení + způsob úhrady nákladů + velikost spoluvlastnických podílů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1161 návrhu — dnešní § 1170):**
+
+> Smlouva, kterou strany sdruží činnosti nebo věci (včetně peněžních
+> prostředků) za účelem výstavby, dokončení nebo změny domu se zřízením
+> nebo změnou jednotek, je species společenské smlouvy. Proto se odkazuje
+> na podpůrné použití ustanovení občanského zákoníku o společnosti.
+> Zvláštní úpravu této smlouvy a práv i povinností z ní vznikajících
+> vyžadují věcněprávní účinky, které smlouva má. Ty se projevují v tom, že
+> se postupným dokončováním domu mění kvalita jeho spoluvlastnictví ve
+> spoluvlastnictví domu spojeného s vlastnictvím jednotek.
+>
+> Podstatné náležitosti smlouvy o výstavbě se z valné části kryjí s
+> obsahem prohlášení oprávněné osoby o rozdělení práva k domu a pozemku na
+> vlastnické právo k jednotkám. K tomu přistupují další náležitosti dané
+> povahou a účelem smlouvy.
+>
+> Předně je zapotřebí ujednat si, jak budou hrazeny náklady na výstavbu
+> domu. Dům může být stavěn zcela nebo zčásti svépomocí; v takovém případě
+> si strany ujednají, jak budou takové práce oceněny.
+>
+> Dále je nutné zvážit, že nejprve vznikne dům - tj. že bude tak
+> rozestavěn, jak dovodila judikatura, že je již patrné stavebně technické
+> uspořádání jeho prvního nadzemního podlaží - a teprve poté vzniknou
+> jednotky. Z toho vyplývá, že nejprve vlastnické právo k jednotkám
+> vznikne později než k domu nebo pozemku. Strany si tedy musí ve smlouvě
+> o výstavbě ujednat podílové spoluvlastnictví pozemku nebo domu tak, aby
+> velikost spoluvlastnických podílů odpovídala velikosti spoluvlastnického
+> podílu vlastníka později vzniklé jednotky na společných částech.
+>
+> Protože v domě alespoň s pěti jednotkami má vzniknout společenství
+> vlastníků, vyžaduje se, aby si strany ujednaly i náležitosti stanov
+> společenství vlastníků.
+>
+> Protože smlouvou o výstavbě vzniká specifická společnost civilního práva
+> a protože se i na tyto případy podpůrně užijí ustanovení o společnosti,
+> není nutné vyžadovat zvláštní ujednání o správě a zařizování společných
+> záležitostí. Zákonná ustanovení o společnosti jsou z převážné části
+> dispozitivní. Strany si tedy mohou ujednat ve smlouvě o výstavbě i něco
+> jiného. To je v zákonném textu jasně vyjádřeno formulací, že se
+> ustanovení o společnosti použijí přiměřeně, tj. není-li jiné ujednání. Z
+> mnoha praktických důvodů strany smlouvy ve výstavbě k odchylným
+> ujednáním ve většině případů také přistoupí; neučiní-li tak, uplatní se
+> obecná úprava. Odchylka od ustanovení o společnosti nebude ani ve
+> smlouvě o výstavbě přípustná v případě kogentních ustanovení. Ta se
+> vztahují ke třem případům. Donucující povahu má ustanovení nařizující,
+> aby ve smlouvě byly uvedeny vklady společníků. Totéž stanoví i zdejší
+> ustanovení v odst. 2 písm. b). Dále jde o ustanovení o právu každého
+> společníka, i když nevykonává správu společných záležitostí, přesvědčit
+> se o stavu společného hospodaření a být informován o společných
+> záležitostech. To je pravidlo, které je funkční i při výstavbě domu.
+> Konečně se jedná o ustanovení upravující práva a povinnosti členů
+> společnosti k třetím osobám. Ani to nelze ve smlouvě o výstavbě ujednat
+> jinak, neboť by šlo o zásah do právního postavení osob stojících mimo
+> smluvní poměr stavebníků. Tím však není vyloučeno, aby něco jiného bylo
+> ujednáno přímo s dotčenou třetí osobou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1162 návrhu — dnešní § 1171):**
+
+> Smlouvu o výstavbě nemusí strany uzavřít jen za situace, kdy se dům
+> ještě nezačal stavět. Spojit činnosti nebo věci za účelem zřízení domu s
+> jednotkami lze i uzavřením smlouvy o výstavbě i v době, kdy je dům již
+> rozestavěn. Na tyto případy je vhodné reagovat výslovným ustanovením.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1163 návrhu — dnešní § 1172):**
+
+> Spojit činnosti nebo věci za účelem zřízení domu s jednotkami lze i
+> uzavřením smlouvy o výstavbě i v době, kdy mají v domě již dokončeném
+> vzniknout jednotky výstavbou, nástavbou apod. Na tyto případy je vhodné
+> reagovat výslovným ustanovením. Výslovným ustanovením se navrhuje
+> upravit i případ, kdy má za stejným účelem dojít k nástavbě, přístavbě
+> nebo stavební úpravě v domě, který je již na jednotky rozdělen.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1164 návrhu — dnešní § 1173):**
+
+> V praxi se často vyskytují obtíže vyvolané skutečností, že při výstavbě
+> domu dochází k odchylkám od ujednaného určení jednotek, ať již půjde o
+> odchylky týkající se bytu nebo nebytového prostoru nebo společných
+> částí. Strany si jistě mohou již ve smlouvě ujednat, jaké odchylky budou
+> nepřípustné nebo jaké budou přípustné a jak budou řešeny jejich
+> důsledky. Není však vhodné stanovovat takové ujednání jako obligatorní
+> náležitost smlouvy s následkem možné neplatnosti. Proto se navrhuje
+> stanovit pro případ, že smlouva o výstavbě na tyto okolnosti nepamatuje,
+> fikci řádného provedení výstavby, tedy řádného splnění smluvních
+> povinností, vznikne-li odchylka jen nepatrná a současně taková, že ji
+> dotčený spoluvlastník mohl rozumně očekávat. To je praktické řešení z
+> toho důvodu, že mezi dotčenými osobami nevznikne v převážné většině
+> případů nejistota, zda vůbec došlo ke splnění, zda bylo plněno vadně
+> apod., aniž bude nutné měnit obsah smlouvy. Zároveň jsou strany touto
+> úpravou motivovány, aby tuto možnost při uzavírání smlouvy vzaly v úvahu
+> a vytvořily si případně vlastní pravidla. Fikce řádného splnění se bude
+> moci uplatnit, jen pokud nebylo ve smlouvě ujednáno, že odchylky nejsou
+> přípustné nebo že jsou přípustné podle jiných kritérií, protože v
+> takových případech bude mít přednost projevená vůle stran.
+>
+> Ujednají-li si strany rozsah přípustných odchylek nebo nastoupí-li
+> zákonná fikce řádného splnění, bude nutné zohlednit skutečnost, že proti
+> původním ujednáním došlo k faktickým změnám promítajících se do
+> vlastnictví dotčených osob. Tomu musí odpovídat i vypořádání důsledků z
+> toho plynoucích. Nemusí se vždy jednat jen o finanční vypořádání, proto
+> je volena obecná formulace.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1165 návrhu — dnešní § 1174):**
+
+> Ustanovení upravuje důsledky proměny domu v dům s jednotkami ve vztahu
+> ke spoluvlastníkům.
 
 #### F. Kazuistika
 
@@ -1821,6 +3200,138 @@ Nové jednotky lze vytvořit nástavbou, přístavbou či družstevní výstavbo
 
 **§ 1181**: **zálohy na služby** (energie, voda, výtah).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1166 návrhu — dnešní § 1175):**
+
+> Vlastník jednotky je především spoluvlastníkem společné věci. Má proto
+> práva a povinnosti vyvěrající ze skutečnosti, že jím je, tj. podílet se
+> na správě společné věci v míře odpovídající jeho spoluvlastnickému
+> podílu. To vyplývá z obecných ustanovení o spoluvlastnictví. Současně se
+> jedná o vlastníka jednotky, má tedy oprávnění a povinnosti jako
+> vlastník. Při bytovém spoluvlastnictví jde v podstatě o modifikaci
+> obecné úpravy spoluvlastnictví v tom smyslu, že spoluvlastníku sice
+> náleží vlastnictví ideálního podílu k domu, ale rozšířené o výlučné
+> právo k určitým prostorově vymezeným částem domu a zároveň omezené
+> stejným právem jiných spoluvlastníků k jiným prostorově vymezeným částem
+> domu, takže ideální podíly zůstávají na společných částech nemovité věci
+> a na společných zařízeních.
+>
+> Úvodní ustanovení zdůrazňuje právo vlastníka jednotky na správu,
+> používání a úpravu bytu jako reálně vymezené části domu. Klade se tedy
+> důraz jak na práva ostatních vlastnicky bydlících spoluvlastníků, tak na
+> spoluvlastnictví domu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1167 návrhu — dnešní § 1176):**
+
+> Významnou povinností vlastníka jednotky je povinnost řídit se pravidly
+> pro správu domu a pro užívání společných částí. Tato pravidla stanoví
+> buď zákon, anebo jsou určena projevy soukromé vůle. Zákonným pravidlům
+> je vlastník jednotky podroben vždy, mj. i proto, že je znát má a může a
+> z jejich případné neznalosti pro sebe nemůže nic vytěžit. Pokud jde o
+> druhou skupinu pravidel týkajících se správy domu a užívání společných
+> částí, půjde především o pravidla uvedená v prohlášení nebo ve stanovách
+> společenství vlastníků, popřípadě v rozhodnutí spoluvlastníků. S těmito
+> pravidly musí být vlastník jednotky seznámen nebo musí mít alespoň
+> možnost seznámit se s nimi.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1168 návrhu — dnešní § 1177):**
+
+> Významná je povinnost uložená tomu, kdo nabyl k jednotce vlastnické
+> právo, informovat ostatní vlastníky jednotek, že se vlastníkem jednotky
+> stal. Dále pak o povinnost informovat osobu odpovědnou za správu domu
+> (tj. společenství vlastníků nebo správce v domě, kde společenství
+> vlastníků nevzniklo), o změně v počtu osob bydlících v bytě alespoň po
+> stanovenou dobu. Pro správce domu, ať již to je společenství vlastníků
+> nebo jiná osoba, je tato informace významná pro účel změny výpočtu
+> příslušných plateb, jejichž výše závisí na počtu osob užívajících byt.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1169 návrhu — dnešní § 1178):**
+
+> Vlastník jednotky musí mít možnost seznámit se, kdo jsou ostatní
+> vlastníci jednotek a kdo jsou nájemci v domě. To je odůvodněno jednak
+> jeho právním postavením spoluvlastníka společné nemovité věci, jednak
+> nutností umožnit mu řádnou péči o jeho vlastní majetek.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1170 návrhu — dnešní § 1179):**
+
+> Vlastník jednotky má právo ověřit si, jak jsou dům a pozemek spravovány
+> a jak se při správě domu hospodaří. I to vyplývá z jeho právního
+> postavení jako spoluvlastníka společné věci. Je samozřejmé, že ani práva
+> stanovená v tomto ustanovení nemůže vlastník jednotky vykonávat kdykoli.
+> Způsob jejich výkonu mohou především určit pravidla pro správu domu
+> obsažená v prohlášení o rozdělení domu na jednotky nebo ve smlouvě o
+> výstavbě, anebo stanovy společenství vlastníků. V případě, že takto
+> určen nebude, uplatní se obecná pravidla stanovená pro soukromý styk.
+> Zejména jde o zásady, že subjektivní právo lze uplatnit jen při poctivém
+> dodržování dobrých mravů se zřetelem k zvyklostem soukromého života a že
+> se zjevnému zneužití práva odnímá právní ochrana. To přirozeně platí i
+> pro druhou stranu - ani osoba odpovědná za správu domu nesmí určit pro
+> výkon práv vlastníka jednotky způsob tak omezující, aby výkon práva
+> vlastníku jednotky hrubě ztížila nebo v podstatě vyloučila.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1171 návrhu — dnešní § 1180):**
+
+> Zvláštní povaha spoluvlastnictví založeného vlastnictvím jednotky se
+> projevuje i v tom, že vlastník jednotky svobodně spravuje, a tedy i na
+> vlastní náklad udržuje a opravuje svůj byt nebo nebytový prostor,
+> zatímco náklady spojené se správou domu a pozemku hradí vlastníci
+> poměrně. Výše jejich příspěvku se určí zpravidla v závislosti na
+> velikosti podílu vlastníka jednotky na společných částech. K jinému
+> určení může dojít tam, kde vzniklo společenství vlastníků ve stanovách
+> společenství. Pokud společenství nevzniklo, určí příslušná pravidla
+> prohlášení o rozdělení domu na jednotky nebo smlouva o výstavbě. K
+> modifikaci zejména může a má dojít, pokud je některá ze společných částí
+> vyhrazena k výlučnému užívání jen některému vlastníku jednotky; přitom
+> bude namístě zohlednit i rozsah jeho povinnosti spravovat tuto část na
+> vlastní náklad.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1172 návrhu — dnešní § 1181):**
+
+> Řádné užívání bytů a nebytových prostor v domě i provoz domu
+> předpokládají plnění, která jsou s užíváním spojena nebo s ním souvisí a
+> která vlastníkům zpravidla poskytují třetí osoby, ať již jde o dodávku
+> vody, plynu, energií nebo jiná plnění různé povahy (úklid, provoz
+> recepce, ostraha či jiné služby). Jaký je jejich rozsah, závisí na
+> konkrétních poměrech. Navržené ustanovení zakládá povinnost vlastníka
+> jednotky platit zálohy na služby a zakládá mu právo na vyúčtování záloh.
+> Vyplyne-li z vyúčtování záloh přeplatek nebo nedoplatek, musí být
+> vyrovnán. Z toho důvodu se navrhuje stanovit v jaké době se tak má stát.
+>
+> Stanoví-li způsob rozúčtování cen některých služeb jiný (zvláštní)
+> právní předpis, popřípadě na jeho základě rozhodnutí cenového orgánu,
+> pak se tento způsob uplatní přednostně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1173 návrhu — dnešní § 1182):**
+
+> Navržené ustanovení reaguje na závažný problém, který se vyskytuje v
+> praxi a jehož řešení je dosud velmi obtížné. Vlastník jednotky má sice
+> právo upravovat svůj byt, a to i stavebně, nesmí však ohrozit, poškodit
+> nebo změnit společné části. V praxi dochází k tomu, že někteří vlastníci
+> jednotek této povinnosti nedbají. Její dodržování nezkoumají ani
+> stavební úřady. V každém případě musí mít osoba odpovědná za správu domu
+> právo ověřit, nakolik je tato povinnost vlastníka jednotky dodržována.
+> Proto se této osobě navrhuje založit právo domoci se vstupu do bytu, kde
+> jsou stavební úpravy prováděny.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1174 návrhu — dnešní § 1183):**
+
+> V domě je nutné nebo účelné provádět různé práce za účelem jeho údržby
+> nebo oprav; může dojít i k pracím stavebního charakteru za účelem
+> úpravy, přestavby či jiné změny domu. Je-li o tom řádně rozhodnuto
+> spoluvlastníky nebo společenstvím vlastníků, včetně případného soudního
+> přezkumu, ukládá se vlastníku jednotky, aby se zdržel všeho, co takovým
+> pracím brání. Stejnou povinnost má vlastník mít i při instalaci, údržbě
+> a kontrole zařízení sloužících k měření spotřeby vody, plynu, tepla
+> apod.
+>
+> Není vyloučeno, že při pracích uvnitř bytu nebo nebytového prostoru nebo
+> na společné části vyhrazené výlučně k užívání některého vlastníka
+> jednotky dojde k takovému poškození, že vlastníku jednotky vznikne
+> snížením její hodnoty škoda. Pro tyto případy se navrhuje stanovit, že
+> mu škodu nahradí společenství vlastníků, pokud vzniklo, případně
+> spoluvlastníci domu poměrně, nebo ten ze spoluvlastníků, který práce
+> prováděl ve svém zájmu sám. V těchto případech rozhoduje jen škodlivý
+> výsledek. Jiné případy se posoudí podle obecné úpravy náhrady škody.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vlastník jednotky O1 dlouhodobě neplatí příspěvky na správu domu a zálohy na služby; navíc provozuje v bytě hlučnou krátkodobou ubytovací činnost a ruší ostatní vlastníky. SVJ eviduje dluh 60 000 Kč a stížnosti sousedů. O1 navíc nenahlásil počet osob bydlících v bytě. Důkazy: evidence příspěvků a záloh, upomínky, stížnosti sousedů, prohlášení a pravidla správy domu.
@@ -1863,6 +3374,20 @@ Vlastník jednotky smí byt svobodně užívat (§ 1175), musí se však řídit
 > (1) Na návrh osoby odpovědné za správu domu může soud nařídit prodej jednotky toho vlastníka, který i přes písemnou výstrahu osoby odpovědné za správu domu porušuje své povinnosti způsobem podstatně omezujícím nebo znemožňujícím výkon práv ostatních vlastníků jednotek.
 > (2) Ve výstraze podle odstavce 1 se uvede důvod jejího udělení, upozornění na možnost podání návrhu na nařízení prodeje jednotky a výzva, aby se vlastník porušování povinností zdržel, popřípadě aby následky porušování povinností odstranil; k tomu se vlastníkovi vždy poskytne přiměřená lhůta, nejméně však 30 dnů.
 > (3) S podáním návrhu podle odstavce 1 musí vyslovit souhlas většina všech vlastníků jednotek; při určení většiny potřebné pro vyslovení souhlasu se nepřihlíží k hlasu vlastníka podle odstavce 1.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1175 návrhu — dnešní § 1184):**
+
+> Navržené ustanovení má svůj vzor v § 14 platného zákona. Oproti
+> dosavadní úpravě se navrhuje stanovit aktivní legitimaci k návrhu na
+> soudní prodej jednotky vedle společenství vlastníků jen tomu vlastníku
+> jednotky, který je porušováním povinnosti jiného vlastníka dotčen. Jako
+> tomu tak není ve stávající úpravě, není ani v navrhovaném ustanovení
+> obsažena bližší úprava nařízení prodeje. Rozdílně od současného stavu
+> právní úpravy, která vyvolává spekulace (jak na to upozorňuje Fiala, J.
+> in Fiala, J. et al. Zákon o vlastnictví bytů. Komentář. 3. vydání.
+> Praha: C. H. Beck, 2005, s. 160), je nová právní úprava jednoznačná. To
+> je dáno zařazením této úpravy do dílu o spoluvlastnictví. Výtěžek z
+> prodeje jednotky připadne jejímu dosavadnímu vlastníku.
 
 ---
 
@@ -2099,6 +3624,409 @@ Správu domu zajišťuje SVJ, povinné při alespoň 5 jednotkách a 4 různých
 > **Náhradní shromáždění**
 > Připouští-li stanovy konání náhradního shromáždění, je náhradní shromáždění způsobilé usnášet se za přítomnosti vlastníků jednotek, kteří mají alespoň 40 % všech hlasů.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1176 návrhu — dnešní § 1185):**
+
+> I jednotka může být objektem spoluvlastnictví a vlastnické právo k
+> jednotce může být rozděleno na spoluvlastnické podíly; výrazem podíl v
+> textu ustanovení se zdůrazňuje, že může jít jen o podíly ideální a že
+> jednotku nelze dělit na součásti. Toto právo vlastníka jednotky může být
+> vyloučeno - nejen prohlášením o rozdělení práva k domu a pozemku na
+> vlastnické právo k jednotkám, smlouvou o výstavbě nebo dohodami o
+> zrušení a vypořádání spoluvlastnictví nebo společného jmění manželů, ale
+> i stanovami společenství vlastníků nebo i jiným právním jednáním
+> zavazujícím vlastníka jednotky.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1177 návrhu — dnešní § 1186):**
+
+> Zařazení úpravy obsažené dosud v zákoně č. 72/1994 Sb. do ucelené
+> kodifikace umožňuje i při převodu vlastnického práva k jednotce úpravu
+> zjednodušit. Platný zákon v § 6 podrobně upravuje obligatorní
+> náležitosti smlouvy. Tato úprava není v občanském zákoníku nutná,
+> postačuje obecná úprava vyžadovaná pro smlouvy o převodu vlastnického
+> práva pro nemovité věci vůbec. Řada náležitostí smlouvy o převodu
+> vlastnického práva k jednotce (označení domu, bytu, pozemku atp.)
+> stanovených platným zákonem vyplývá ze zákonného nařízení určitosti
+> projevu vůle, další vyplývají z obecných ustanovení návrhu upravujících
+> např. z úpravy převodu vlastnického práva. Jiné náležitosti stanovené
+> dnes zákonem nejsou, resp. nemají být podmínkou platnosti smlouvy, ale
+> podmínkou pro provedení vkladu do katastru nemovitostí. Proto je také
+> vymezuje zák. č. 344/1992 Sb. (katastrální zákon) v § 5 odst. 1 písm.
+> e); podrobnosti může stanovit prováděcí předpis.
+>
+> Nově se však navrhuje, ve shodě s předchozími legislativními projekty
+> zákona o vlastnictví bytů, stanovit převodci povinnost doložit
+> nabyvateli, jaké dluhy související se správou domu na nabyvatele
+> účinností smlouvy přejdou. Do ustanovení se promítají obecné důsledky
+> úpravy převodu vlastnického práva. Podle ní jsou dluhy, které mají
+> přejít na nabyvatele jednotky, závadou, která není zapsána ve veřejném
+> seznamu a která na nabyvatele přejde, měl-li a mohl-li je z okolností
+> zjistit nebo bylo-li to ujednáno. Proto se vyžaduje, aby o těchto
+> dluzích měl nabyvatel jednotky vědomost. Bez potvrzení nepůjde o řádnou
+> nabídku, což má význam např. i v souvislosti s ujednaným nebo zákonným
+> předkupním právem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1178 návrhu — dnešní § 1187):**
+
+> Navrhuje se zachovat úpravu zákonného předkupního práva nájemce obdobně,
+> jak tomu je v § 22 odst. 1 zákona č. 72/1994 Sb. Postup při prvním
+> převodu vlastnictví jednotky se však oproti platné úpravě ve shodě s
+> předchozími legislativními projekty zákona o vlastnictví bytů
+> zjednodušuje. Ke konzumaci předkupního práva se zachovává nájemci lhůta
+> šesti měsíců, jak tomu je dosud, ale již bez dalších omezení, která ve
+> stávající podobě nájemce prakticky nechránila.
+>
+> Předkupní právo se zakládá přednostně k bytu. Předkupní právo však
+> vznikne i ve vztahu k nebytovému prostoru, pokud byl pronajat v témž
+> domě v souvislosti s bytem. Nejčastěji půjde o garáže, může se však
+> jednat i o jiné nebytové prostory, např. ateliér nebo provozovnu. Důraz
+> se klade na věcnou a funkční souvislost bytu a nebytového prostoru,
+> nikoli na to, zda byly oba objekty pronajaty na základě jedné smlouvy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1179 návrhu — dnešní § 1188):**
+
+> Mezi zvláštní ustanovení o převodu jednotky se navrhuje nově zařadit
+> úpravu zvláštních podmínek pro převody jednotek ve vlastnictví právnické
+> osoby, pokud je nájemcem bytu nebo nebytového prostoru společník nebo
+> člen, který se osobně podílel prací nebo majetkovou účastí na pořízení
+> domu nebo bytu či nebytového prostoru. Návrh vyjadřuje záměr
+> nerozlišovat podle právní formy nebo jinak právnické osoby jako původní
+> vlastníky, ale stanovit obecné a rovné právní pravidlo pro případ, kdy
+> právnická osoba pořídila za majetkové nebo osobní angažovanosti svých
+> společníků nebo členů dům s byty nebo nebytovými prostory určenými k
+> nájmu pro společníky nebo členy pořizovatele domu. Není důvod rozlišovat
+> v těchto případech mezi spolkem, družstvem nebo obchodní společností.
+> Zvláštní úprava je zachována jen v rámci přechodných ustanovení v
+> souvislosti s převody z vlastnictví některých dřívějších stavebních
+> bytových družstev nebo lidových bytových družstev podle dosavadních
+> ustanovení zákona o vlastnictví bytů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1180 návrhu — dnešní § 1189):**
+
+> Jeví se jako vhodné vymezit, co správa domu a pozemku zahrnuje. Navrženo
+> je obecné ustanovení, které zahrnuje generálním vymezením různorodé
+> činnosti (jako jsou např. péče o provoz, údržbu, opravy a stavební
+> úpravy společných částí včetně údržby pozemku a přístupových cest,
+> zřizování, udržování - tedy včetně kontrol a revizí - a zlepšování
+> společných zařízení, zajišťování potřebných služeb, jednání s třetími
+> osobami, činnosti ryze administrativní, v rámci toho i vedení účetnictví
+> nebo jiné dokumentace apod.), přicházející v konkrétních případech v
+> úvahu. Obecné ustanovení je voleno i proto, že jednotlivé případy mohou
+> v praxi vyžadovat různá řešení. Přitom se nebrání, aby v rámci obecné
+> úpravy vymezila rozsah správy oprávněná osoba v prohlášení nebo aby si
+> tak ujednaly strany ve smlouvě o výstavbě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1181 návrhu — dnešní § 1190):**
+
+> Navrhuje se výslovně stanovit, kdo je odpovědný za správu domu a
+> pozemku. To je důležité vzhledem k tomu, že vůči osobě odpovědné za
+> správu uplatňují vlastníci jednotek svá práva a plní své povinnosti.
+> Nebýt navrhované výslovné úpravy, vznikaly by pochybnosti v případě
+> přenesení výkonu správy na další osobu, popřípadě na několik osob
+> zajišťujících různé činnosti. Tyto osoby nejsou pro vlastníky jednotek
+> partnerem, tím je společenství vlastníků, popřípadě správce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1182 návrhu — dnešní § 1191):**
+
+> I do budoucna se navrhuje zachovat pojetí, že v domě s pěti a více
+> jednotkami musí být k správě domu založeno společenství vlastníků. Jeho
+> úpravě se věnují následující ustanovení. Jim předchází návrh úpravy
+> správy bez vzniku společenství vlastníků, protože tato právní pravidla
+> se uplatní obecně ve všech případech bytového spoluvlastnictví, tedy i v
+> těch, kdy má být společenství vlastníků založeno, ale založeno nebylo
+> nebo sice bylo založeno, ale nevzniklo. Ve všech těchto případech se
+> bude správa řídit těmito ustanoveními. Ta nebrání, aby právní jednání
+> směřující k vzniku jednotek určilo podrobnější pravidla správy.
+>
+> Navrhuje se zachovat pravidlo obsažené v platném zákoně o vlastnictví
+> bytů (§ 11 odst. 8), podle kterého platí v domě, ve kterém nevzniklo
+> společenství, přiměřeně ustanovení o rozhodování shromáždění vlastníků
+> jednotek jako orgánu společenství. Neshledává se důvod měnit dosavadní
+> stav. Vytvářet dvojí režim správy domu a pozemku se jeví neodůvodněné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1183 návrhu — dnešní § 1192):**
+
+> Navrhuje se stanovit, že se správcem domu stane ze zákona většinový
+> vlastník, pokud takový je. I to je však pravidlo, které zasahuje do
+> vnitřních soukromých poměrů vlastníků jednotek, a proto je jejich moci
+> ujednat si jeho změnu. Ale i když většinový vlastník jako správce ve
+> funkci zůstane, musí mít ostatní spoluvlastníci nástroj, jak ho jeho
+> funkce zbavit, pokud je pro to důležitý důvod. Proto se navrhuje založit
+> každému spoluvlastníku právo domoci se u soudu, aby z důležitého důvodu
+> správce odvolal a jmenoval správce nového.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1184 návrhu — dnešní § 1193):**
+
+> Vzhledem k tomu, že je pozice většinového vlastníka jeho správcovskou
+> funkcí zesílena, navrhuje se omezit váhu jeho hlasů při rozhodování o
+> společných záležitostech.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1185 návrhu — dnešní § 1194):**
+
+> Návrh úpravy společenství vlastníků jednotek vychází ze současné úpravy
+> a z výsledků diskusí při přípravě návrhu nového zákona o vlastnictví
+> bytů. Smyslem navrhované úpravy je vytvořit podmínky pro činnost těchto
+> právnických osob za současné liberalizace při úpravě způsobu rozhodování
+> a přijímání rozhodnutí v orgánech této právnické osoby. Současně se
+> odstraňuje i stav, kdy byly dosud některé významné otázky řešeny na
+> úrovni podzákonného právního předpisu, což se jevilo a jeví jako
+> problematické. Společenství vlastníků je pojato jako právnická osoba,
+> jejíž účel je vymezen správou domu a pozemku. To vyjadřuje i zákonná
+> restrikce vylučující výslovně způsobilost společenství podnikat nebo
+> podílet se na podnikání jiných osob. To má své odůvodnění mj. i zákonným
+> ručením vlastníků jednotek za dluhy společenství.
+>
+> Členství ve společenství vlastníků je neoddělitelně spojeno s
+> vlastnictvím jednotky. To znamená, že nabytím vlastnického práva k
+> jednotce členství ve společenství vlastníků vzniká a zánikem
+> vlastnického práva k jednotce zaniká i členství ve společenství
+> vlastníků.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1186 návrhu — dnešní § 1195):**
+
+> Společenství vlastníků vykazuje jako každá jiná právnická osoba
+> majetkovou autonomii. V daném případě má tato majetková autonomie své
+> meze. První odstavec navrženého ustanovení opakuje a rozvádí pravidlo
+> obsaženou již v předchozím ustanovení, podle něhož je společenství
+> způsobilé nabývat práva a zavazovat se k povinnostem při naplňování
+> svého účelu. Vzhledem k významu vlastnického práva se však výslovné
+> zdůraznění jeví jako vhodné. Majetkem společenství vlastníků jsou
+> zejména příjmy z příspěvků na správu, výnosy z majetku společenství,
+> včetně úroků z vkladů na účtech, přijatá sankční plnění, jako jsou např.
+> úroky z prodlení při platbách příspěvků na správu domu nebo úhradách za
+> služby, smluvní pokuty za porušení povinností ujednaných společenstvím s
+> třetími osobami apod.
+>
+> Ustanovení druhého odstavce vylučuje způsobilost společenství vlastníků
+> zajistit dluh jiné osoby. Následkem porušení stanoveného právního
+> pravidla je neexistence závazku, protože půjde o právní jednání jen
+> zdánlivé.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1187 návrhu — dnešní § 1196):**
+
+> Způsobilost právně jednat je u společenství vlastníků omezena pouze na
+> okruh činností vymezených v zákoně, včetně zákonného zastoupení
+> vlastníků jednotek ve vymezených případech.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1188 návrhu — dnešní § 1197):**
+
+> Vzhledem k omezené způsobilosti společenství vlastníků a jeho
+> nepodnikatelskému pojetí se upravuje možnost sdružování společenství
+> vlastníků a jeho členství v právnických osobách působících v oblasti
+> bydlení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1189 a 1190 návrhu — dnešní § 1198—1199):**
+
+> Zásadní změna se navrhuje v tom směru, že společenství vlastníků
+> jednotek nemá nadále vznikat ze zákona, nýbrž zakladatelským právním
+> jednáním. Některé zahraniční právní úpravy, zejména v jurisdikcích
+> galorománské právní kultury sice konstruují vznik této právnické osoby
+> přímo ze zákona nebo takovou právnickou osobu utvářejí cestou právní
+> fikce. Toto pojetí přijal i dosud platný zákon o vlastnictví bytů. V
+> praxi se však ukázalo, že jde o řešení, které není zcela vyhovující,
+> protože z moci zákona vznikaly právnické osoby a zároveň byly
+> zaznamenány případy, že si vlastníci jednotek tento stav neuvědomují
+> nebo jsou k němu lhostejní, neřídili se vzorovými stanovami společenství
+> stanovenými nařízením vlády, leckdy svolávají první shromáždění
+> společenství až dlouho dobu po vzniku společenství a činnost těchto
+> společenství se mnohdy vyvíjí dosti živelně; zaznamenány jsou i případy
+> faktického řízení společenství realitními kancelářemi zajišťujících pro
+> společenství správcovskou činnost. Záměrem navrhované úpravy je vytvořit
+> legislativní rámec pro založení a vznik společenství, který odpovídá
+> obvyklému postupu zakládání a vzniku právnických osob v soukromé sféře.
+>
+> Navrhuje se zachovat zákonný požadavek, podle kterého musí společenství
+> vlastníků existovat tam, kde v domě vzniklo alespoň pět jednotek.
+> Nástroje, které povedou k naplnění tohoto požadavku, jsou různé. Předně
+> se v těch případech, kdy dochází k rozdělení práva k domu na práva k
+> alespoň pěti jednotkám prohlášením, anebo kdy má dům s alespoň pěti
+> jednotkami vzniknout na základě smlouvy o výstavbě, vyžaduje, aby
+> společenství bylo založeno přijetím stanov osobou, která činí
+> prohlášení, nebo stranami smlouvy o výstavbě. Tím jsou další případy
+> zakládání jednotek omezeny na statisticky malý počet. Nevyhoví-li se v
+> těchto případech zákonnému příkazu, budou vlastníci jednotek donuceni k
+> založení společenství jednak tím, že dojde k blokaci převodů
+> vlastnického práva k jednotkám, jednak i tím, že se pro právní poměry
+> spoluvlastníků domu a vlastníků jednotek uplatní obecná ustanovení o
+> spoluvlastnictví, která jsou pro vlastníky jednotek méně komfortní, než
+> je správa domu a pozemku společenstvím vlastníků.
+>
+> Rovněž se nově navrhuje upravit možnost založit společenství vlastníků i
+> za účelem správy domu a pozemku, kde je méně než pět jednotek.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1191 návrhu — dnešní § 1200):**
+
+> Společenství vlastníků jednotek je ve své podstatě species spolku, popř.
+> svépomocného družstva. Obdobně jako u spolků a družstev v současné i
+> nově navrhované zákonné úpravě se navrhuje stanovit, že se k založení
+> společenství vlastníků vyžaduje přijetí stanov a stanoví se jejich
+> povinné náležitosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1192 návrhu — dnešní § 1201):**
+
+> Stanovy mohou být poté, co byly přijaty, také měněny jako jakýkoli jiný
+> projev vůle, a to i před vznikem společenství vlastníků. Vzhledem k
+> tomu, že při vzniku jednotek prohlášením sleduje původce prohlášení
+> zřídit jednotky v domě za účelem jeho převodu dalším vlastníkům, je
+> důležité zajistit pro zájemce o nabytí vlastnického práva transparentní
+> podmínky, neboť zájemce se vzhledem k nim rozhoduje, zda jednotku do
+> vlastnictví získá. Proto se navrhuje stanovit, že v takovém případě
+> nelze stanovy před vznikem společenství měnit. Z obdobných důvodů se
+> navrhuje stanovit totéž právní pravidlo i pro případ založení
+> společenství vlastníků smlouvou o výstavbě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1195 návrhu — dnešní § 1204):**
+
+> Jako jiné právnické osoby soukromého práva vznikne i společenství
+> vlastníků jednotek zápisem do veřejného rejstříku. Rejstřík těchto
+> právnických osob a jeho úprava náleží, obdobně jako jiné veřejné
+> rejstříky, do sféry veřejného práva. Z možností občanského zákoníku se
+> jeho úprava vymyká.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1196 návrhu — dnešní § 1205):**
+
+> Návrh staví na bipartici orgánů společenství vlastníků. Jednak to je
+> statutární orgán, kterým bude podle určení stanov buď orgán kolektivní
+> (výbor) nebo jednočlenný (předseda).
+>
+> Následující ustanovení upravují podrobně působnost shromáždění a způsob
+> jeho rozhodování, zatímco pro úpravu postavení a působnosti statutárního
+> orgánu, jakož i práv a povinností jeho členů zcela postačuje obecná
+> úprava o právnických osobách. Proto se navržená úprava omezuje jen na
+> stanovení podmínek způsobilosti být členem statutárního orgánu. Mlčení
+> zákona nevylučuje, aby stanovy určily i další podmínky způsobilosti,
+> např. že členem statutárního orgánu může být jen vlastník jednotky.
+>
+> Navržená úprava nebrání, aby stanovy zřídily ve společenství vlastníků
+> další (dobrovolné orgány). Výslovně se zdůrazňuje, že zákonná působnost
+> shromáždění a výboru nebo předsedy musí zůstat nedotčena.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1197 návrhu — dnešní § 1206):**
+
+> Navržené ustanovení upravuje základní právní pravidlo pojetí shromáždění
+> a jeho způsobilost usnášet se, jakož i přijímání rozhodnutí. Protože
+> není vyloučeno, že i samo společenství vlastníků bude vlastníkem
+> jednotky, navrhuje se v zájmu vyloučení samokontroly stanovit, že se k
+> případnému hlasu společenství na shromáždění nepřihlíží - to znamená, že
+> společenství není způsobilé uplatnit při rozhodování svůj hlas a že hlas
+> společenství se nezapočítává do příslušných kvor.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1198 návrhu — dnešní § 1207):**
+
+> Vlastníci jednotek rozhodují hlasováním na zasedání shromáždění, které
+> předepsaným způsobem svolá statutární orgán tak, aby se konalo nejméně
+> jedenkrát do roka. Právo domoci se svolání nebo svolat shromáždění se
+> zakládá i vlastníkům jednotek, kteří mají ve společenství alespoň
+> desetinu hlasů. Vlastníci jednotek musí mít možnost seznámit se s
+> podklady pro stanovený pořad jednání.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1199 a 1200 návrhu — dnešní § 1208—1209):**
+
+> Navržené ustanovení stanoví, jakou působnost shromáždění má. Tato
+> působnost je výlučná a nelze ji zúžit. Současně se zakládá i právo
+> přehlasovaného vlastníka navrhnout z důležitého důvodu soudu přezkum
+> přijatého rozhodnutí a také právo každého vlastníka domáhat se úpravy
+> poměrů ve společenství vlastníků, pokud nebylo o určité záležitosti na
+> zasedání shromáždění rozhodnuto pro nedostatek jeho způsobilosti usnášet
+> se.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1201 návrhu — dnešní § 1210):**
+
+> Z praktických důvodů se navrhuje umožnit přijmout rozhodnutí také mimo
+> zasedání. Případy, kdy tak lze učinit, návrh dělí na dvě skupiny. Za
+> prvé jde o případ, kdy se na zasedání svolaného shromáždění nesejde
+> dostatečný počet vlastníků jednotek, takže nebudou schopni usnášet se. V
+> takové situaci se zamýšlí umožnit, aby se o záležitostech, o nichž mělo
+> být na zasedání rozhodnuto, rozhodlo náhradním způsobem bez zasedání per
+> rollam.
+>
+> Výslovné ustanovení o možnosti stanov připustit tento způsob rozhodování
+> se může jevit jako nadbytečné, protože jen opakuje právní pravidlo
+> obsažené již v obecných ustanoveních o právnických osobách. Zařazeno je
+> však z toho důvodu, aby se z prvého odstavce nedovozovalo opakem, že v
+> jiných případech rozhodovat mimo zasedání není možné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1202 až 1204 návrhu — dnešní § 1211—1213):**
+
+> Navrhuje se stanovit obsah návrhu na rozhodnutí mimo zasedání.
+> Patnáctidenní lhůta počíná běžet od dojití návrhu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1205 návrhu — dnešní § 1214):**
+
+> Obecně se vyžaduje, aby se mimo zasedání rozhodovalo většinou hlasů
+> všech vlastníků jednotek. Stanovy však mohou nařídit i pro tyto případy
+> (nebo pro některé z nich) většinu kvalifikovanou. Změna velikosti podílů
+> všech vlastníků jednotek i změna poměru výše příspěvků na správu z jiné
+> příčiny, než je důsledek změny podílů na společných částech, však ze
+> zřejmých důvodů vyžaduje souhlas všech vlastníků jednotek.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1206 návrhu — dnešní § 1215):**
+
+> Existence společenství vlastníků se váže na existenci vlastnického práva
+> k jednotkám. Vlastníci jednotek si mohou ujednat, že bytové
+> spoluvlastnictví změní na podílové spoluvlastnictví. V důsledku toho se
+> společenství vlastníků zruší. Mohou nastat i jiné případy zániku
+> vlastnického práva ke všem jednotkám v domě, např. uplynutím doby, na
+> kterou bylo zřízeno právo stavby.
+>
+> Vzhledem k tomu, že se povinnost zřídit a mít společenství vlastníků
+> váže k domu alespoň s pěti jednotkami, nebrání se zrušení společenství v
+> případech, kdy bylo založeno dobrovolně, jakož i v případech, kdy počet
+> jednotek v domě klesl na čtyři nebo méně.
+>
+> O zániku společenství vlastníků platí obecné ustanovení o právnických
+> osobách, že právnická osoba zapsaná do veřejného rejstříku zaniká dnem
+> výmazu z veřejného rejstříku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1207 návrhu — dnešní § 1216):**
+
+> Protože je výlučným předmětem činnosti společenství vlastníků
+> zajišťování správy domu a pozemku v zájmu vlastníků jednotek, navrhuje
+> se řešit důsledky zrušení společenství tak, že jeho práva a povinnosti
+> přecházejí na vlastníky jednotek poměrně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1208 až 1210 návrhu — dnešní § 1217—1219):**
+
+> Navrhuje se upravit výslovně případy zrušení bytového spoluvlastnictví
+> obdobně jako v platném zákoně o vlastnictví bytů (§ 5 odst. 6 a 7).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1211 návrhu — dnešní § 1220):**
+
+> V praxi se vyskytují problémy vyvolané skutečností, že pokud došlo k
+> změnám prohlášení, je jeho aktuální znění obtížně dostupné, zvláště pro
+> zájemce o koupi jednotky. Proto se navrhuje stanovit osobě odpovědné za
+> správu domu povinnost zpřístupnit veřejnosti úplné znění prohlášení v
+> příslušných sbírkách listin. Je zřejmé, že tato nová povinnost si též
+> vyžádá další náklady na straně katastrálních úřadů. Tyto vyšší náklady
+> budou pokryty ze zpoplatnění takových zápisů v rámci doprovodné či
+> samostatné novely příslušných předpisů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1212 návrhu — dnešní § 1221):**
+
+> Společenství vlastníků je právnická osoba korporačního typu založená za
+> nepodnikatelským účelem. Proto je účelné odkázat na přiměřené použití
+> ustanovení občanského zákoníku o spolku. Podpůrná aplikace ustanovení o
+> spolku se uplatní v případech, kdy z ustanovení o společenství vlastníků
+> nevyplývá něco jiného. Půjde zejména o ustanovení týkající se postupu
+> při svolávání shromáždění k zasedání, o průběhu zasedání, o zápisu ze
+> zasedání, o neplatnosti rozhodnutí atd.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1213 návrhu — dnešní § 1222):**
+
+> Navrhuje se, aby některé podrobnosti stanovil prováděcí předpis. Předně
+> jde o způsob výpočtu podlahové plochy bytu, který je zapotřebí stanovit
+> jednoznačně vzhledem k tomu, že existuje větší počet různých způsobů.
+> Obdobně se jeví jako účelné vymezit podrobnosti o činnostech týkajících
+> se správy domu a pozemku.
+>
+> V možnostech podzákonného předpisu sice není stanovit donucujícím
+> způsobem, které části nemovité věci se musí stát po vzniku jednotek
+> částmi společnými, protože tím by se ústavně nepřípustným způsobem
+> zasáhlo do autonomie vůle soukromých osob. Přesto se jeví jako vhodné
+> poukázat praxi na typické případy, kdy určité části nemovité věci mají
+> být považovány v souvislosti s bytovým spoluvlastnictvím považovány za
+> společné. Vymezí-li je prováděcí předpis vyvratitelnou právní domněnkou,
+> půjde o návod dostatečný, ale nikoli přepjatě omezující.
+
 ## Přídatné spoluvlastnictví (§ 1223—1235)
 
 **§ 1223**:
@@ -2174,6 +4102,64 @@ Správu domu zajišťuje SVJ, povinné při alespoň 5 jednotkách a 4 různých
 - § 1309 a násl. — zástavní právo; § 2135 a násl., § 2140 a násl. — zpětná koupě a předkupní právo (zatížení podílu sdílí akcesorický režim podle § 1227 odst. 2);
 - § 980 a násl. — veřejné seznamy (zápis přídatného spoluvlastnictví u evidovaných nemovitých věcí, § 1223 odst. 1).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1214 až 1226 návrhu — dnešní § 1223—1235):**
+
+> Jako zcela nová se zařazují ustanovení o přídatném (akcesorickém)
+> spoluvlastnictví. To přichází v úvahu zejména v souvislosti
+> s individuálním vlastnictvím nemovitých věcí (např. pozemků) vázaným
+> účelově na spoluvlastnictví další nemovité věci (např. cesty nebo
+> parkoviště apod.), přičemž nemovité věci náležející samostatným
+> vlastníkům vytvářejí účelový celek (např. průmyslový celek,
+> zahrádkářskou kolonii nebo chatovou osadu) a jejich užívání není bez
+> věci v přídatném spoluvlastnictví dobře možné. Podobné situace mohou
+> nastat také v případě sportovních areálů a jiných podobných zařízení.
+> Nejedná se o případy výjimečné, a proto je vhodné vyhradit jim obecnou
+> normativní úpravu. O tomto řešení se uvažovalo již v návrhu koncepce
+> rekodifikace soukromého práva v r. 1996. Osnova sleduje v úpravě
+> akcesorického spoluvlastnictví stanovit jen odchylky od úpravy obecné;
+> mimo dosah těchto odchylek se i na přídatné spoluvlastnictví použijí
+> ustanovení o spoluvlastnictví.
+>
+> Ust. § 1214 až 1216 charakterizují základ přídatného spoluvlastnictví
+> tím, že rozhodující je účel jejího využití, který musí být zachován po
+> celou dobu, co důvod existence přídatného spoluvlastnictví trvá. Tento
+> účel nelze zmařit účelovou změnou věci, ani jejím zatížením způsobem
+> narušujícím tento účel. Se zřetelem k tomu se navrhuje stanovit i
+> podmínky využití věci v přídatném spoluvlastnictví (§ 1216 odst. 1).
+> Vzhledem k účelovému propojení věci v přídatném spoluvlastnictví a těch
+> samostatných věcí, s nimiž spoluvytváří určitý celek, se rovněž navrhuje
+> stanovit, že případné vzdání se práva spoluužívat či jinak využívat
+> společnou věc některým ze spoluvlastníků nemůže mít zavazující účinky
+> pro jeho právního nástupce, ať již půjde o nástupce singulárního či
+> univerzálního.
+>
+> Za určitých situací může nastat případ, že s užíváním samostatných věcí
+> vytvářejících celek není z hlediska účelu spojena samostatná věc, ale
+> jen určité zařízení (např. zavlažovací zařízení v zahrádkářské kolonii);
+> proto se navrhuje stanovit i to, že se na taková zařízení použijí
+> ustanovení o přídatném spoluvlastnictví přiměřeně.
+>
+> Ustanovení § 1217 a 1218 stanovují odchylky od obecných ustanovení o
+> spoluvlastnických podílech. Vzhledem k účelovému určení věci v přídatném
+> spoluvlastnictví se navrhuje stanovit zvláštní pravidlo o stanovení
+> podílů na společné věci pro případ, že tato věc slouží k využití
+> pozemků. Na rozdíl od analogické úpravy v části upravující bytové
+> spoluvlastnictví se pro případy zde řešené volí pravidlo dispozitivní,
+> protože spoluvlastníkům nelze bránit, aby si ujednali něco jiného.
+>
+> Charakter přídatného spoluvlastnictví podmiňuje, že podíl na věci v
+> takovém spoluvlastnictví nelze převádět samostatně, nýbrž jen společně s
+> tou samostatnou věcí, s níž je podíl na věci v akcesorickém
+> spoluvlastnictví účelově spojen. To musí obdobně platit i pro zatížení
+> jednoho či druhého předmětu takovým způsobem, který by mohl vést k změně
+> vlastnického práva k nim (§ 1218). Povahou přídatného spoluvlastnictví
+> je dáno i to, že možnosti oddělit se od přídatného spoluvlastnictví a
+> stejně tak i zrušit je musí být omezeny.
+>
+> Zvláštní povaha akcesorického spoluvlastnictví vyžaduje také speciální
+> ustanovení o jeho správě v běžných záležitostech (§ 1221 až 1226).
+> Vychází se z pojetí správy jako obligatorní.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Osm vlastníků rekreačních chat v osadě vlastní každý svůj pozemek; jediný přístup k nim zajišťuje soukromá cesta na samostatném pozemku, který je v přídatném spoluvlastnictví všech osmi (v katastru zapsáno, podíly podle výměry pozemků). Vlastník V1 prodá chatu s pozemkem nabyvateli N; kupní smlouva se o podílu na cestě nezmiňuje. V2 poté N brání v užívání cesty s tím, že podíl na ní nenabyl, a současně navrhne zrušení spoluvlastnictví cesty a její rozdělení. O cestu se přitom již čtyři roky bez námitek ostatních stará V3, který nyní žádá zálohy na zimní údržbu. Důkazy: výpis z katastru se zápisem přídatného spoluvlastnictví, kupní smlouva V1—N, výměry pozemků, doklady o faktické správě V3 a nákladech údržby.
@@ -2245,6 +4231,33 @@ Přídatné spoluvlastnictví váže společnou věc na vlastnictví hlavních v
 - § 708 a násl. — společné jmění manželů (nejvýznamnější zákonné společenství jmění; jako zvláštní úprava má podle § 1237 přednost);
 - § 700 a násl. — rodinný závod (srov. osoby spojené v rodinné společenství);
 - § 1475 a násl. — dědické právo (společenství dědiců do rozdělení pozůstalosti).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1227 až 1230 návrhu — dnešní § 1236—1239):**
+
+> Navržená ustanovení sledují úpravu situací dosud u nás zákonem
+> neřešených a v teorii vykládaných různými způsoby. Tak např. se po
+> zrušení někdejšího institutu bezpodílového spoluvlastnictví manželů
+> setrvale kladla otázka, jakým právním režimem se vlastně spravují věci
+> ve společném jmění manželů. Společenství jmění může vzniknout z různých
+> právních důvodů - ze smlouvy, a to pojmenované, typicky ze smlouvy,
+> kterou se zakládá společnost nebo ze smlouvy, na jejímž základě věřitelé
+> likvidované právnické osoby převezmou likvidační podstatu (§ 204), i ze
+> smlouvy nepojmenované. Může ale vzniknout i z jiných právních
+> skutečností. Příkladem může být společenství dědiců v době od smrti
+> zůstavitele do doby, než jim bude nabytí dědictví potvrzeno.
+>
+> Na rozdíl od spoluvlastnictví, které se vždy týká jediné věci a kdy
+> spoluvlastníci jsou osobami, jejichž vzájemný poměr se odvozuje právě
+> jen ze vztahu k téže věci, je společenství poměrem nejméně dvou osob,
+> který na věcných předmětech nikterak závislý není. Společenství se k
+> věcem může vztahovat, ale také nemusí. Zatímco spoluvlastnictví je
+> závislé na existenci věci, společenství je na existenci věci nezávislé -
+> rozhodně nezaniká se zánikem věci. Typickým příkladem je společnost,
+> která nezanikne ani zánikem věcí, které byly do společnosti vneseny nebo
+> které byly za jejího trvání pro společenství získány. Zvláštní povahu
+> společenství jmění zamýšlejí tato ustanovení vyjádřit. Nutně se jedná o
+> ustanovení z valné části blanketní, odkazující na příslušné speciální
+> úpravy.
 
 #### F. Kazuistika
 

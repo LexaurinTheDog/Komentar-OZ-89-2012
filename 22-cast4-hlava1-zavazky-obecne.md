@@ -38,6 +38,36 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 **Předmět závazku**: jakékoliv plnění (*prestatio*) — peněžité, naturální, konání (*dare*, *facere*), zdržení se (*non facere*), trpění (*pati*).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1711 návrhu — dnešní § 1721):**
+
+> Oproti dosavadnímu zákonnému stavu se osnova přidržuje jasného pojmového
+> obsahu slov dlužník, věřitel, právo, povinnost, pohledávka, dluh,
+> závazek, smlouva a nesměšuje je. Úvodní ustanovení čtvrté části
+> naznačují základní obsah těchto pojmů.
+>
+> Klíčovým pojmem obligačního práva (jako práva majetkového a relativního)
+> je závazek (obligace). Návrh vychází z klasického pojetí, které
+> respektuje i současný § 488 platného občanského zákoníku, podle něhož
+> obligatio est iuris vinculum, quo necessitate adstringimur alicuius
+> solvendae rei, secundum nostrae civitatis iura (závazek je právní pouto,
+> které nás svou nevyhnutelností nutí, abychom v souladu s právem našeho
+> státu poskytli někomu nějaké plnění).
+>
+> Co má být plněno, je dluh, kdo plní, je dlužník. Věřitel je ten, komu má
+> být plněno; jeho právo na plnění je pohledávka. Závazek vzniká z různých
+> právních důvodů; z nich jsou typické právní jednání a delikt, proto jsou
+> také dále výslovně uvedeny, neboť to má význam i pro další systematické
+> uspořádání.
+>
+> Osnova je důsledná při dodržování této terminologie, a tak nezaměňuje
+> např. závazek s dluhem, smlouvu se závazkem nebo právo s nárokem, jak se
+> dnes i v základních právních předpisech často děje, což relativizuje
+> jejich pojmový obsah i srozumitelnost zákona. Návrh úpravy se inspiruje
+> zásadami UNIDROIT, Principy evropského smluvního práva vypracovanými
+> Landovou komisí, projektem Evropského zákoníku o smlouvách (CEC)[^64] a
+> přihlíží k vývoji dosavadní tuzemské úpravy, jakož i k řadě úprav
+> zahraničních.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1765/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/44BC156B78888AA2C1258C180052DBEB?openDocument) — *Zastavení exekuce Zánik závazku*
@@ -103,6 +133,15 @@ Závazek je relativní vztah věřitel–dlužník: jádrem je pohledávka (prá
 1. **Majetková povaha plnění** (rozhraní mezi občanskou a rodinněprávní obligací);
 2. **Zájem věřitele** — může být i **nemajetkový** (např. zájem na splnění estetického standardu, na termínu, na osobním výkonu konkrétní osoby).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1712 návrhu — dnešní § 1722):**
+
+> Závazek je pojem práva majetkového. Proto i plnění dlužníka (dluh) musí
+> být majetkové povahy. Naproti tomu na straně věřitele je podstatné, že
+> plnění dluhu sice má odpovídat zájmu věřitele, ale tento zájem nemusí
+> mít výlučně majetkové motivy, protože zájem věřitele na plnění může mít
+> důvody i jiné (např. estetické). Ustanovení je převzato z italského
+> Codice civile (čl. 1174).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3447/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/27DBDCFE23A7BD24C1258B8E004D41A1?openDocument) — *Smlouva příkazní Odpovědnost za vady*
@@ -155,6 +194,17 @@ Obsah závazku tvoří plnění majetkové povahy, které musí odpovídat zájm
 1. **Ze smlouvy** (*ex contractu*) — § 1724 a násl.;
 2. **Z protiprávního činu** (*ex delicto*) — § 2894 a násl.;
 3. **Z jiné právní skutečnosti** — *ex quasi-contractu* (jednatelství bez příkazu — § 3006; bezdůvodné obohacení — § 2991), *ex lege* (zákonné povinnosti).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1713 návrhu — dnešní § 1723):**
+
+> Jedná se o standardní ustanovení (srov. i § 489 platného občanského
+> zákoníku). Typickými právními důvody, z nichž vznikají závazky, jsou
+> právní jednání (v rámci toho zejména smlouvy) a protiprávní činy neboli
+> delikty. Proto jsou uvedeny výslovně.
+>
+> Zbývající důvody vzniku závazků jsou rozličné a řadí se pod zbytkový typ
+> (variae causae), anebo se přiřazují buď ke smlouvám jako quasikontrakty,
+> anebo k deliktům jako quasidelikty.
 
 **Judikatura (z místních zdrojů):**
 
@@ -211,6 +261,20 @@ Závazek nevzniká jen ze smlouvy. § 1723 zakotvuje tři prameny: smlouvu, prot
 > (2) Ustanovení o smlouvách se použijí přiměřeně i na projev vůle, kterým se jedna osoba obrací na osoby jiné, ledaže to vylučuje povaha projevu vůle nebo zákon.
 
 **Smlouva** (*contractus*) — **dvou- nebo vícestranný** projev shodné vůle. **Princip konsenzu** (*pacta sunt servanda*) — § 3, § 1759.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1714 návrhu — dnešní § 1724):**
+
+> Systematické zařazení úpravy smluv o odpovídá významu smluv pro
+> závazkové právo. Obecné (základní) ustanovení o smlouvách vyjadřuje v
+> odst. 1 celkovou charakteristiku smlouvy jako právního jednání alespoň
+> dvou stran, typického právě tím, že vůle stran směřuje k zřízení
+> obligace mezi nimi s tím, že strany obsah smlouvy zavazuje. Nezbytnost
+> shody vůle stran pro vznik smlouvy vyjadřuje následující ustanovení.
+>
+> Druhý odstavec dopadá na taková právní jednání, jaká jsou učiněna mimo
+> smlouvu (veřejný příslib, slib odškodnění, vydání cenného papíru) i na
+> právní jednání učiněná smluvními stranami (výpověď, odstoupení od
+> smlouvy).
 
 **Judikatura (z místních zdrojů):**
 
@@ -272,6 +336,16 @@ Smlouva je shodný projev vůle stran zřídit mezi sebou závazek a řídit se 
 - Volba **formy**.
 
 **Meze**: dobré mravy, veřejný pořádek, ochrana osobnosti, kogentní normy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1715 návrhu — dnešní § 1725):**
+
+> Základní účely tohoto ustanovení jsou dva. Předně podmiňuje vznik
+> smlouvy shodou vůle smluvních stran. Dále se tu reflektuje zásada
+> autonomie vůle (v rámci toho i smluvní svobody) a zároveň se uvádějí i
+> její omezení. Hranici smluvní svobody představuje právní řád, přičemž
+> smluvní svobodu omezují jednak kogentní ustanovení zákona, jednak limity
+> dobrých mravů, veřejného pořádku a práva na ochranu osobnosti (§1 odst.
+> 2), které nelze překročit ani s odkazem na dispozitivitu zákonné úpravy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -351,6 +425,83 @@ Smlouva vzniká shodou o obsahu; stranám je v mezích právního řádu ponech�
 
 **Klíčový posun**: NOZ uznává **odpovědnost za zmaření jednání** — předtím (1964) prakticky neznámé.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1716 návrhu — dnešní § 1726):**
+
+> Navržené právní pravidlo nalézá rozumný kompromis mezi dogmaty, že
+> smlouva není uzavřena, dokud se strany nedohodnou o celém jejím obsahu,
+> a že je třeba na právní jednání hledět spíše jako na platné než jako na
+> neplatné. Účelem je respektovat projevenou vůli stran, proto se navrhuje
+> stanovit, že vznik smlouvy předpokládá konsens stran o všech
+> náležitostech smlouvy, o nichž některá strana dala najevo, že jejich
+> ujednáním uzavření smlouvy podmiňuje. Nezřídka však nastávají situace,
+> že je kontraktační proces ukončen tak, že strany vycházejí z pojetí, že
+> smlouva uzavřena byla, ale následně jedna z nich počne existenci smlouvy
+> zpochybňovat poukazem, že nebyla některá náležitost ujednána (např.
+> způsob balení, barva předmětu koupě, způsob dodání atp.), ač to při
+> kontraktačním jednání výslovně vyhrazeno nebylo. Pro tyto případy se
+> navrhuje stanovit, že se smlouva považuje za uzavřenou, lze-li rozumně
+> předpokládat, že by ji strany uzavřely i bez dohody o takové
+> náležitosti. Základním kritériem pro posouzení má být samo chování
+> stran, tj. především, zda strany daly najevo, že smlouvu považují za
+> uzavřenou. V tom směru se návrh inspiruje ustanovením § 155 německého
+> občanského zákoníku. Druhá věta navrženého ustanovení přejímá § 154
+> téhož zákoníku a koriguje pravidlo věty první: dala-li alespoň jedna ze
+> stran při kontraktačním jednání najevo, že bez ujednání o určité
+> náležitosti smlouvu neuzavře, nelze bez splnění této podmínky zásadně
+> konstruovat vznik smlouvy.
+>
+> Část věty za středníkem se staví negativně k institutu punktací. Věcný
+> záměr občanského zákoníku předpokládal, že tento institut bude obnoven
+> po vzoru tradiční úpravy rakouského zákoníku, jehož § 895 stanoví, že
+> již nástin hlavních rysů smlouvy, podepsaný stranami, zakládá práva a
+> povinnosti, které jsou v něm vyjádřeny. Následné diskuse v rekodifikační
+> komisi i s odbornou veřejností a se zástupci z praxe však vedly k
+> závěru, že by obdobné ustanovení neúměrně zasáhlo autonomii vůle, neboť
+> strany by byly obsahem zápisu vázány, byť jejich vůle byla opačná. Proto
+> se ve výsledku vzal za základ převažující trend evropských kodexových
+> úprav, podle nichž punktace jako pouhý přípravný dokument (*pactum
+> preparatorium*) pro strany závazné nejsou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1717 návrhu — dnešní § 1727):**
+
+> Ustanovení o smlouvách vzájemně závislých (podmíněných) je převzato z §
+> 275 odst. 1 až 3 platného obchodního zákoníku s nezbytnými stylistickými
+> úpravami. Vychází se z pravidla, že není-li k tomu zvláštní příčiny,
+> nutno posuzovat jednotlivé smlouvy samostatně, byť vznikly při téže
+> příležitosti, anebo nalezly své vyjádření na téže listině. To je vnější
+> (optický) prvek, který nemůže být důvodem pro závěr, že takto uzavřené
+> smlouvy nutně sdílejí společný osud. Pro takový závěr musí rozhodovat
+> obsahové hledisko, odvozené z povahy těchto smluv (objektivní hledisko)
+> nebo z jejich účelu, který je stranám znám (subjektivní hledisko).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1718 až 1720 návrhu — dnešní § 1728—1730):**
+
+> Dosavadní soukromoprávní úprava citelně postrádá ustanovení o
+> předsmluvní odpovědnosti. Výjimkou je dílčí ustanovení o ochraně
+> důvěrných informací sdělených si smluvníky při kontraktačním jednání v §
+> 271 platného obchodního zákoníku, které osnova také přejímá. Význam
+> předsmluvní odpovědnosti je však širší a její úpravu nelze omezit na
+> jedno kusé ustanovení. Navržená úprava vychází z návrhu CEC (čl. 6 až
+> 8).
+>
+> Předně se vychází ze zásady smluvní svobody. Každý může svobodně jednat
+> s druhou osobou o uzavření smlouvy a rozhodnout se, zda s druhou osobou
+> smlouvu uzavře, čili nic. Zároveň musí být chráněna i dobrá víra osoby,
+> se kterou je jednáno.
+>
+> Z toho důvodu je namístě stanovit následky porušení poctivosti v právním
+> styku v případech, kdy někdo zahájí jednání o smlouvě s jiným jen na oko
+> nebo v takovém jednání pokračuje, aniž má úmysl smlouvu uzavřít, anebo
+> když jednání o smlouvě téměř uzavřené bez příčiny přeruší. Stejně tak je
+> třeba pamatovat i na případy výměny informací směřujících k uzavření
+> smlouvy stvrzujících, že výsledkem kontraktace bude smlouva, a
+> osvědčujících zájem smlouvu uzavřít. Výměna informací, často důvěrné
+> povahy, však zavazuje stranu, které byly sděleny, k udržení důvěrnosti
+> tak, aby informace nebyly zneužity k tíži toho, kdo je poskytl. Porušení
+> zásad poctivého jednání při jednání o uzavření má vést k povinnosti
+> nahradit škodu z toho vzniklou, případně k vydání bezdůvodného
+> obohacení.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1085/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6722B93FE39828C1258CF3004D38A8?openDocument) — *Předsmluvní odpovědnost (o. z.)*
@@ -411,6 +562,34 @@ Jednat o smlouvě lze svobodně, avšak kdo dovede protistranu k důvodnému oč
 
 >
 Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je zneužít** ani prozradit. **Náhrada škody** + **vydání obohacení**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1718 až 1720“ (dnešní § 1728—1730) — viz § 1728.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1721 až 1723 návrhu — dnešní § 1731—1733):**
+
+> Úprava uzavírání smlouvy sleduje nejprve stanovení pravidel pro
+> uzavírání smlouvy podle klasického modelu, kdy zájemce o uzavření
+> smlouvy činí druhé straně návrh na uzavření smlouvy (ofertu) a druhá
+> strana (oblát) tento návrh zvažuje a případně s ním projeví souhlas a
+> sdělí ho navrhující straně (akceptace).
+>
+> Dosavadní termín „návrh na uzavření smlouvy" je nahrazen jednoslovným
+> termínem „nabídka", jak také odpovídá doslovnému překladu výrazu oferta
+> (offerre = nabízet). Poukázat lze i na vžitou mezinárodní terminologii:
+> anglické offer, francouzské offre, španělské oferta, italské offerta,
+> německé Angebot atd. (ve všech těchto případech jde o nabídku, nikoli o
+> návrh). O nabídku půjde, bude-li z ní zřejmé, kdo ji činí a o návrh jaké
+> smlouvy se v nabídce jedná. Osnova ustupuje od podmínky platného
+> občanského zákoníku, že nabídka může být učiněna jen vůči určité osobě,
+> protože to v řadě případů vede k situaci, kdy faktický oferent získává
+> právní postavení toho, komu je uzavření smlouvy nabízeno, čímž se právní
+> postavení stran paradoxně obrací. Se zřetelem k tomu se navrhuje
+> připustit, že nabídka může být učiněna i vůči neurčitým osobám. Se
+> zřetelem k tomu se mj. i zvláštním ustanovením stanoví vyvratitelná
+> domněnka, podle níž je ofertou i vystavení zboží s návrhem ceny.
+>
+> Určité právní jednání je nabídkou, lze-li prostým přijetím takové
+> nabídky uzavřít smlouvu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -475,6 +654,47 @@ Důvěrné údaje sdělené při jednání o smlouvě požívají ochrany i bez 
 >
 - **Skutečný obsah smlouvy** (*verus consensus*) má přednost před doslovným zněním;
 - Pravidla výkladu — viz § 555—558 (obecná část).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1727 a 1728 návrhu — dnešní § 1737—1738):**
+
+> Návrh ustanovení přejímá platnou úpravu § 43a odst. 2 až 4 platného
+> občanského zákoníku. Rozlišuje se odvolání a zrušení nabídky.
+>
+> Nabídku lze odvolat, má-li ji druhá strana již ve svém držení a
+> rozhoduje-li se o přijetí nabídky, ale ještě ji nepřijala. Se zřetelem k
+> tomu je potřebné chránit oblátovu dobrou víru; proto se vylučuje právo
+> oferenta odvolat nabídku v průběhu akceptační lhůty (vyjma případu, kdy
+> si oferent takové právo v nabídce výslovně vyhradil). Stejně tak je
+> vyloučeno právo oferenta nabídku odvolat, prohlásil-li on sám v nabídce,
+> že je neodvolatelná.
+>
+> O zrušení nabídky jde za situace, kdy oferent nabídku sice již odeslal,
+> ale druhé straně dosud doručena nebyla. Pak může nabídku zrušit,
+> dojde-li projev vůle zrušit nabídku oblátovi nejpozději současně se
+> samotnou nabídkou.
+>
+> Obecně platí, že nabídku lze odvolat vždy, dojde-li odvolání druhé
+> straně ještě dříve než samotná nabídka. To platí jak pro každou nabídku,
+> jak plyne již z návrhu úpravy právních jednání v obecné části osnovy;
+> odst. 2 na tuto obecnou úpravu poukazuje v zájmu srozumitelnosti, neboť
+> jinak by mohla vzniknout pochybnost, zda ji lze vztáhnout i na
+> neodvolatelnou nabídku.
+>
+> Jinak je možné nabídku odvolat (není-li ovšem neodvolatelná) dříve, než
+> se oblát rozhodl návrh na uzavření přijmout a odeslal navrhovateli
+> prohlášení, že nabídku přijímá. K takovému odvolání však není možné
+> přistoupit kdykoli, protože výluka platí pro akceptační lhůtu (opět s
+> výjimkou, že si navrhovatel nevymínil nic jiného).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1729 návrhu — dnešní § 1739):**
+
+> Obligace jako výraz majetkového práva nezaniká zpravidla smrtí některé
+> ze stran závazkového vztahu, nýbrž přechází na dědice věřitele či
+> dlužníka. Totéž musí platit i pro právní důsledky i ve vztahu k nabídce
+> již právně relevantním způsobem učiněné. Výjimku tvoří jen případy, kdy
+> se nabídkou sleduje uzavření takové smlouvy, pro niž jsou podstatné
+> vlastnosti jedné či druhé smluvní strany. Podává se z povahy věci, že
+> stejné právní důsledky návrh vztahuje i ke ztrátě svéprávnosti.
 
 **Judikatura (z místních zdrojů):**
 
@@ -543,6 +763,76 @@ I neodvolatelnou nabídku lze zrušit, dojde-li zrušení adresátovi dříve ne
 **§ 1745**:
 > Smlouva je uzavřena okamžikem, kdy přijetí nabídky nabývá účinnosti.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1730 návrhu — dnešní § 1740):**
+
+> První a druhý odstavec přejímají úpravu dosud platnou.
+>
+> Třetí odstavec vyjadřuje po vzoru návrhu CEC a některých zahraničních
+> úprav myšlenku, že není racionální důvod popírat uzavření smlouvy,
+> popřípadě stíhat smlouvu neplatností v případech, kdy se akceptační
+> prohlášení nepodstatně odchyluje od oferty. Podle stávající úpravy se
+> posuzuje např. situace, kdy oferent prohlásí „nabízím 100 ks za 1000 Kč"
+> a oblát odpovídá „přijímám, ale baleno bude po 10 ks" nebo „přijímám,
+> platba v hotovosti", nikoli za uzavření smlouvy, ale za její neuzavření
+> s tím, že osoba, jíž byla oferta adresována činí nový návrh. Podle
+> navrhované úpravy naopak i takto dojde k uzavření smlouvy, ledaže to
+> oferent předem vyloučí nebo následně odmítne.
+>
+> Osnova vychází z pojetí, že smlouva je uzavřena v tom okamžiku, kdy
+> akceptace dojde navrhovateli. Toto řešení plyne již z návrhu obecné
+> úpravy právních jednání v obecné části (§ 545), a proto není v této
+> partii návrhu zvlášť zdůrazňováno.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1731 návrhu — dnešní § 1741):**
+
+> Jedná se o standardní úpravu obsaženou v platném občanském zákoníku již
+> dnes (§ 44 odst. 3), která se přejímá s funkčním doplněním převzatým z
+> návrhu CEC.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1732 návrhu — dnešní § 1742):**
+
+> Stejné pravidlo plyne již z obecných ustanovení o právních jednáních (§
+> 547). Zde se opakuje z toho důvodu, že bylo znovu zdůrazněno již v
+> ustanovení o možnosti odvolat neodvolatelnou nabídku, a tudíž by
+> pominutí výslovného zdůraznění, že stejným způsobem lze odvolat i
+> akceptační prohlášení, mohlo vyvolat pochybnosti, zda taková možnost
+> existuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1733 návrhu — dnešní § 1743):**
+
+> Jedná se o standardní úpravu, obecně přijímanou od koncepce schválené ve
+> Vídeňské úmluvě o mezinárodní koupi zboží z r. 1980, odrážející se již v
+> platném právním řádu (§ 43c občanského zákoníku).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1734 návrhu — dnešní § 1744):**
+
+> Jedná se o případy tzv. faktické akceptace, při níž se nevyžaduje slovní
+> souhlas s ofertou a k uzavření smlouvy dochází konkludentním přijetím
+> nabídky tak, že se akceptant podle oferty fakticky zachová. Navržené
+> pravidlo vychází ze stávající úpravy (§ 43c odst. 1 občanského zákoníku
+> a § 275 odst. 4 platného obchodního zákoníku). I tato úprava vychází z
+> Vídeňské úmluvy o mezinárodní koupi zboží (čl. 18 odst. 3) a do jisté
+> míry prolamuje dogma teorie přijetí, z něhož jinak koncepce uzavření
+> smlouvy vychází. Návrh však mluví jen o účinnosti přijetí. Jedná-li se o
+> případy uvedené v navrženém ustanovení, bude smlouva uzavřena okamžikem,
+> kdy se akceptující zachoval podle nabídky, nikoli až okamžikem, kdy
+> oferent získal o tomto jednání vědomost.
+>
+> Osnova přijímá toto řešení (převzaté rovněž návrhem CEC), avšak jen jako
+> výjimečné, a připouští tento postup jen v těch případech, kdy v tom
+> směru projeví oferent svoji vůli již v nabídce, nebo kdy přípustnost
+> podobného řešení vyplývá ze zavedené praxe stran, případně ze zvyklostí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1735 návrhu — dnešní § 1745):**
+
+> Vzhledem k zásadě plynoucí ze současného občanského zákoníku (zejména
+> srov. § 43a odst. 2 a § 43c odst. 2) se navrhuje stanovit již v návrhu
+> generální úpravy právních jednání v obecné části, že právní jednání
+> působí vůči nepřítomné osobě od okamžiku, kdy jí projev vůle dojde. Toto
+> pojetí respektuje i zdejší navrhované ustanovení, které vychází z
+> myšlenky, že navrhovatel měl a mohl nabýt vědomost o akceptaci návrhu na
+> uzavření smlouvy v okamžiku, kdy mu došla.
+
 ---
 
 ### Oddíl 2 — Uzavírání smluv (§ 1731—1745)
@@ -564,6 +854,10 @@ I neodvolatelnou nabídku lze zrušit, dojde-li zrušení adresátovi dříve ne
 - **Akceptace v lhůtě** vede k uzavření smlouvy.
 
 **§ 1733 — Návrh veřejnosti**: nabídka více osobám (ne určená konkrétně) = **výzva k podání nabídky** (*invitatio ad offerendum*), ne nabídka sama.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1721 až 1723“ (dnešní § 1731—1733) — viz § 1731.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1721 až 1723“ (dnešní § 1731—1733) — viz § 1731.
 
 **Judikatura (z místních zdrojů):**
 
@@ -652,6 +946,24 @@ Nabídka musí mít náležitosti dle § 1732 a projevovat vůli být vázán; p
 - **§ 1740 odst. 3 — Akceptace s dodatky/odchylkami**: protinávrh, **ledaže**:
   - Nedohodnuté body byly **nepodstatné**;
   - Předkladatel je **bez zbytečného odkladu neodmítne**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1724 a 1725 návrhu — dnešní § 1734—1735):**
+
+> Vzhledem k tomu, že navrhovatel nabídkou zásadně vázán pro celou
+> akceptační lhůtu, je namístě stanovit, do kdy musí být nabídka přijata.
+> Obecně platí, že nabídka musí být přijata ve lhůtě, kterou stanoví ten,
+> kdo ji činí. Není-li akceptační lhůta určena, má být nabídka učiněná
+> bezprostředně vůči druhé osobě přijata bez odkladu, nabídka učiněná vůči
+> nepřítomné osobě v písemné formě má být přijata v době přiměřené povaze
+> věci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1726 návrhu — dnešní § 1736):**
+
+> Nabídku může navrhovatel učinit jako neodvolatelnou, a pak to musí být
+> projeveno výslovně, případně to musí plynout z praxe zavedené mezi
+> stranami nebo ze zvyklostí, anebo - ve všech ostatních případech - jako
+> odvolatelnou. Ani odvolatelnou nabídku však nelze odvolávat libovolně,
+> nýbrž, jak plyne z následujícího ustanovení, podle stanovených pravidel.
 
 **Judikatura (z místních zdrojů):**
 
@@ -748,6 +1060,137 @@ Přijetí musí být včasné (§ 1734, 1735) a obsahově souhlasné; mlčení n
 - **Vymahatelnost**: lze žádat **soudní rozhodnutí nahrazující projev vůle** (§ 161 OSŘ);
 - **Promlčení** nároku: tříletá lhůta.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1736 návrhu — dnešní § 1746):**
+
+> Navržené ustanovení odpovídá standardním úpravám. Návrh vychází ze
+> stávajících § 50 a 491 platného občanského zákoníku a z § 269 obchodního
+> zákoníku s přihlédnutím k zahraničním právním úpravám. Srovnalá vůle
+> stran vztažená k obsahu smlouvy je sice obecnou podmínkou vzniku
+> smlouvy, výsledkem shody vůle stran však musí být smlouva jako právní
+> jednání s normativním obsahem (stanovující práva a povinnosti stran).
+> Uzavřená smlouva běžně odpovídá nějakému zákonnému smluvnímu typu, o
+> jehož podstatných náležitostech se strany dohodnou. Proto se vyžaduje,
+> aby se smluvníci shodli alespoň o podstatných náležitostech toho kterého
+> zákonného smluvního typu s tím, že kterákoli ze smluvních stran může
+> prohlásit za podstatnou náležitost smlouvy kteroukoli další. V tomto
+> smyslu se zde rozvíjí předchozí ustanovení o autonomii vůle.
+>
+> Racionalita zákona sleduje modely obvyklých jednání, k nimž v praxi
+> běžně dochází. Tomu odpovídá konstrukce zákonných smluvních typů.
+> Stranám však nelze bránit v úpravě vzájemných práv a povinností tak, jak
+> jim to vyhovuje individuálně. Proto se smluvníkům nebrání uzavřít i
+> smlouvu zákonem výslovně neupravenou (nepojmenovanou), ani smísit různé
+> smluvní typy. Nepřejímá se výslovná formulace požadavku § 51 platného
+> občanského zákoníku, podle něhož nepojmenovaná smlouva nesmí odporovat
+> obsahu nebo účelu zákona, protože neexistence rozporu se zákonem je jako
+> podmínka platnosti jakéhokoli právního jednání vyjádřena již v obecné
+> části.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1737 návrhu — dnešní § 1747):**
+
+> Pro smlouvy, v nichž se někdo zavazuje poskytnout jiné osobě plnění
+> bezúplatně, nelze použít obecné interpretační pravidlo, podle něhož se
+> výraz, připouštějící různý výklad, použije k tíži toho, kdo jej použil
+> jako první, ale naopak, použila-li takový výraz, byť jako první, ta
+> osoba, která se k bezúplatnému plnění zavazuje, nutno jej v
+> pochybnostech vykládat tak, že se tato osoba chtěla zavázat spíše méně
+> než více.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1738 až 1740 návrhu — dnešní § 1748—1750):**
+
+> Jedná se o standardní úpravu. Vzhledem k obecným ustanovením o právních
+> jednáních (§ 522 odst. 3) půjde v obou případech o podmínky odkládací.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1741 až 1743 návrhu — dnešní § 1751—1753):**
+
+> Stranám nelze bránit, aby ve smlouvě určily, že se jejich práva a
+> povinností budou řídit obchodními podmínkami, na něž odkáží. Při
+> stanovení pravidel pro tuto praxi je však třeba odlišit případy
+> vzájemného styku podnikatelů a případy ostatní. Nejedná-li se o právní
+> styk mezi podnikateli, vyžaduje se, aby takové podmínky byly k nabídce
+> přiloženy anebo aby byly stranám při uzavření smlouvy známy, ledaže
+> akceptant prohlásí, že tyto podmínky zná. Splnění této podmínky se
+> nevyžaduje při kontraktačním jednání podnikatelů v případech, kdy se
+> odkazuje na všeobecné obchodní podmínky vypracované zájmovými nebo
+> odbornými organizacemi, o nichž se předpokládá, že jsou profesionálům
+> známy.
+>
+> Zároveň se navrhuje převzít ze Zásad mezinárodních obchodních smluv
+> UNIDROIT pravidlo čl. 2.20, že takové ustanovení obchodních podmínek,
+> které druhá strana nemohla rozumně očekávat, nemá právní účinky,
+> nebylo-li přijato výslovně. Takovým ustanovením mohou být např.
+> ustanovení vylučující odpovědnost strany za splnění určitých povinností
+> ze smlouvy, ač smlouva sama navozuje rozumné očekávání, že odpovědnost
+> za splnění smlouvy nebude dotčena. Nejde však jen o ustanovení s
+> neočekávaným obsahem, ale i ustanovení vyjádřená pro druhou stranu
+> nejasně, nebo drobným, špatně čitelným písmem, pokud mění nebo doplňují
+> obsah smlouvy způsobem, který druhá strana nemohla rozumně očekávat.
+>
+> Obdobná úprava se navrhuje ve vztahu k odkazům na vykládací pravidla
+> používaná v obchodním styku. I tu mají být smluvní doložky chápány tak,
+> jak stanoví respektovaná vykládací pravidla. Pokud ale druhá strana není
+> podnikatelem, musí ten, kdo se vykládacích pravidel dovolává, prokázat,
+> že druhé straně musel být takový význam znám.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1744 návrhu — dnešní § 1754):**
+
+> Návrh ustanovení přejímá úpravu rakouskou (§ 937 ABGB). Protože osnova
+> nepřejímá obecné pravidlo § 574 odst. 2 platného občanského zákoníku o
+> neplatnosti dohod, jimiž se někdo vzdává práv, jež mohou teprve
+> vzniknout v budoucnosti (takové pravidlo bylo formulováno podle
+> socialistického konceptu a standardní právní řády ho neobsahují), je
+> třeba pro určité zvláštní okruhy případů volit zákazy speciální. Pokud
+> se jedná o námitku neplatnosti smlouvy, nelze se této námitky vzdát
+> všeobecnou klauzulí. Z toho však a contrario neplyne, že jiným způsobem
+> se lze vzdát jakékoli námitky proti neplatnosti smlouvy. Práva napadnout
+> smlouvu s odkazem na absolutní neplatnost se nelze vzdát vůbec (vzdání
+> se práva by v takovém případě bylo neplatné pro rozpor se zákonem). Není
+> však vyloučena možnost případné dispozice s námitkou relativní
+> neplatnosti (korektiv dobrých mravů ovšem působí i zde).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1745 až 1747 návrhu — dnešní § 1755—1757):**
+
+> I pro smlouvy platí zásada bezformálnosti. To vyplývá již z ustanovení
+> obecné části návrhu o právních jednáních, podle nichž se každý může k
+> právnímu jednání zvolit libovolnou formu, ledaže je v této svobodě
+> omezen zákonem nebo ujednáním s druhou stranou. Toto obecné pravidlo
+> doplňuje právní pravidlo převzaté z platného obchodního zákoníku (§ 272
+> odst. 1), že písemná forma smlouvy musí být zachována, vyžaduje-li to
+> alespoň jedna ze smluvních stran. Pokud jde o změnu smlouvy nebo změnu
+> závazku vzniklého ze smlouvy, stojí proti sobě v dosavadní právní úpravě
+> pojetí platného občanského zákoníku (§ 40 odst. 2), podle kterého lze
+> smlouvu uzavřenou v písemné formě změnit nebo zrušit jen ujednáním
+> v písemné formě, a pojetí platného obchodního zákoníku (§ 272 odst. 2),
+> podle kterého se pro ujednání o změně nebo zrušení smlouvy uzavřené v
+> písemné formě vyžaduje písemná forma, jen bylo-li to ujednáno. Návrh jde
+> cestou kompromisu mezi těmito řešeními: připouští, aby si strany smlouvy
+> uzavřené v písemné formě ujednaly, že k její změně nebo k jejímu zrušení
+> může popřípadě dojít i ujednáním v jiné formě.
+>
+> Pokud jde o smlouvy, které v písemné formě uzavřeny nejsou, je věcí
+> stran, zda jedna druhé obsah smlouvy potvrdí. Takové potvrzení může mít
+> jen význam důkazní a obecně lze z něho vycházet jako z důkazního
+> prostředku osvědčujícího obsah smlouvy, chová-li se podle něho i druhá
+> strana nebo nepopře-li je. Navrhuje se však přiznat zvláštní význam
+> potvrzení označovanému jako obchodní potvrzovací dopis. Uzavřou-li
+> podnikatelé v jiné než písemné formě smlouvu a potvrdí-li jeden z nich
+> druhému obsah uzavřené smlouvy v písemné formě, nastupuje právní
+> domněnka, že smlouva je uzavřena s obsahem uvedeným v potvrzení. To má
+> ale platit jen v případech, kdy je obsah ústně uzavřené smlouvy zachycen
+> věrně, nebo obsahuje-li potvrzení nepodstatné odchylky a druhá strana
+> proti těmto odchylkám nic nenamítá. Totéž právní pravidlo se má uplatnit
+> i v případě, že smlouvu uzavírá podnikatel s osobou, která podnikatelem
+> není, a že obsah smlouvy podnikateli potvrdí nepodnikající smluvní
+> strana.
+>
+> Smlouva může být uzavřena i konkludentně, faktickým jednáním bez použití
+> slov. Pro tento případ se navrhuje upřesnit obecné ustanovení o
+> konkludentních právních jednáních tak, že z okolností musí být nejen
+> zřejmý úmysl stran uzavřít určitou smlouvu s určitým obsahem, ale že při
+> zjišťování práv a povinností stran musí být přihlédnuto i k vydaným
+> ceníkům, veřejně učiněným nabídkám a podobným dokladům, jakož i k
+> zvyklostem.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 2151/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/54C64D05277B5B81C1258BCB0052C66F?openDocument) — *Přípustnost dovolání Rozhodčí doložka Smlouva*
@@ -814,6 +1257,20 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 **§ 1758**:
 > Dohodnou-li se strany, že pro uzavření užijí určitou formu, má se za to, že nechtějí být vázány, nebude-li tato forma dodržena. To platí i tehdy, projeví-li jedna ze stran vůli, aby smlouva byla uzavřena v písemné formě.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1745 až 1747“ (dnešní § 1755—1757) — viz § 1755.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1745 až 1747“ (dnešní § 1755—1757) — viz § 1755.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1748 až 1752 návrhu — dnešní § 1758—1762):**
+
+> Návrh ustanovení o účincích smlouvy je formulován s přihlédnutím
+> k zásadám UNIDROIT, návrhu CEC a k dalším úpravám, zejména italské,
+> švýcarské a québecké. Ustanovení charakterizují obligaci ze smlouvy jako
+> relativní závazkový vztah, který zásadně nezasahuje právní poměry osob
+> stojících mimo smluvní strany, a návrh rovněž vyjadřuje zásadu pacta
+> sunt servanda. Zdůrazňuje, že obsah smlouvy netvoří jen to, co je v ní
+> slovy vyjádřeno, ale i zákonná úprava, dobré mravy a zvyklosti.
+
 ---
 
 ### Oddíl 5 — Smlouvy adhezní (§ 1798—1801)
@@ -868,6 +1325,92 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 **§ 1807**:
 > **Záloha**
 > Má se za to, že co dala jedna strana druhé před uzavřením smlouvy, je záloha.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1787 až 1790 návrhu — dnešní § 1798—1801):**
+
+> Tzv. adhezní smlouvy nejsou zvláštním smluvním typem a označení těchto
+> smluv jako adhezních je nepřesné, ba slangové. Přídavné jméno „adhezní"
+> se vztahuje ke způsobu uzavírání smlouvy, nikoli ke smlouvě samotné.
+> Proto navržená ustanovení používají výraz „smlouvy uzavírané adhezním
+> způsobem". Podstata je v tom, že smlouva nevzniká tak, že strany obsah
+> smlouvy ujednávají, ale tím způsobem, že jedna strana předloží druhé
+> hotový text smlouvy a druhá strana má možnost návrh buď přijmout, anebo
+> odmítnout. Nebylo by správné obecně nahlížet na takovou praxi jako na
+> závadnou. Naopak, pro velký počet standardizovaných případů je to postup
+> racionální a z hlediska nákladů ekonomicky účelný. Nezřídka ale dochází
+> k tomu, že při tomto způsobu uzavírání smluv silnější strana vnutí
+> slabší straně smluvní podmínky výhodné pro sebe a nevýhodné pro druhou
+> stranu. Podrobnější obecná úprava podobných situací zatím chybí a praxe
+> řeší dosti složité právní otázky, které se s nimi spojují, pomocí
+> kritérií dobrých mravů nebo zásady poctivého obchodního styku. Proto se
+> navrhuje podrobnější úprava inspirovaná jednak některými zahraničními
+> občanskými zákoníky, jednak nadnárodními projekty jako jsou zejména
+> návrh evropského zákoníku o smlouvách (Code europeen des Contrats.
+> Avant-projet) a návrh obecného referenčního rámce pro evropský občanský
+> zákoník (Draft Common Frame of Reference).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1791 až 1795 návrhu — dnešní § 1802—1806):**
+
+> Obecná úprava úroků v našem právu citelně chybí. Navrhuje se proto
+> stanovit, že strany si mohou výši úroků ujednat s tím, že není-li jiné
+> dohody, týká se výše úroků ročního období. Dále se navrhuje stanovit, v
+> jaké měně a v jaké době mají být úroky placeny.
+>
+> Navrhuje se stanovit opatření motivující věřitele k tomu, aby nebyl ve
+> vymáhání své pohledávky liknavý a neotálel do té míry, že úroky zatíží
+> dlužníka více, než sama jistina. Jde o projev staré právní zásady
+> zakazující věřiteli, aby pozdržel vymáhání dluhu až do doby, kdy úroky
+> přerostou hlavní dluh (*ultra duplum*). Do limitu se ovšem započítává
+> jen jistina, nikoli úroky dlužníkem již zaplacené.
+>
+> Pokud jde o placení úroků z úroků již splatných a dosud nezaplacených
+> (anatocismus), některé zahraniční právní úpravy je po vzoru římského
+> práva zakazují, jiné je výslovně připouštějí, další o nich mlčí (čímž je
+> připouštějí rovněž). Navržené ustanovení vychází z pojetí, že je věcí
+> stran, zda si něco podobného ujednají; lze ovšem ujednat i to, že
+> bude-li dlužník v prodlení s placením běžných úroků, tyto přirostou k
+> jistině a budou se úročit společně s ní. Zvláštní význam má návrh
+> normativního pravidla, podle něhož lze úroky z úroků vymáhat ode dne,
+> kdy věřitel uplatnil u soudu pohledávku z dlužníkova protiprávního činu.
+> Tak bude zejména ten, kdo způsobil věřiteli škodu nebo újmu na osobních
+> právech, nepřímo penalizován při odmítání dobrovolného poskytnutí
+> náhrady. Nástup navrženého právního pravidla se výslovně váže na
+> pohledávku z protiprávního činu; je tedy vyloučeno je uplatnit pro
+> mimosmluvní obligace založené z jiného právního důvodu, např.
+> bezdůvodným obohacením nebo jednatelstvím bez příkazu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1796 až 1798 návrhu — dnešní § 1807—1809):**
+
+> Navrhuje se převzít § 498 platného občanského zákoníku o záloze. Jde
+> sice o ustanovení v mezinárodním srovnání ojedinělé, ale zdejší
+> praktické kruhy je považují za potřebné.
+>
+> Nově se navrhuje zařadit ustanovení o závdavku. Jde o starobylý institut
+> (*arra, Angeld, Draufgabe, Draufgeld*) zahrnutý v mnoha standardních
+> úpravách - např. v rakouském občanském zákoníku v § 908 a 909, v
+> německém, v § 336 a násl., ve španělském v čl. 1454, v čl. 158
+> švýcarského obligačního práva aj. - který však ani ve zdejším prostředí
+> dosud nevymizel z paměti, zvláště v živnostenských a farmářských
+> kruzích. Závdavek má tři hlavní funkce. Předně je to funkce důkazní:
+> byl-li závdavek dán, potvrzuje se tím, že smlouva byla uzavřena. Strana,
+> která závdavek přijala, nemusí dokazovat, že došlo k smluvnímu konsensu,
+> a důkazní břemeno se přenáší na druhou stranu, která, popírá-li uzavření
+> smlouvy, musí dokázat, že smlouva uzavřena nebyla. To je praktické
+> zejména při smlouvách uzavřených v jiné formě než písemné. Dále je to
+> funkce zajišťovací: závdavek se dává jako jistota, že dluh bude splněn;
+> věřitel si tedy může závdavek podržet až do splnění dluhu. Konečně je to
+> funkce penální: nesplní-li smlouvu strana, která dala závdavek, propadá
+> závdavek druhé straně; nesplní-li smlouvu strana, která závdavek
+> přijala, zatěžuje ji povinnost vydat straně, která zůstala smlouvě
+> věrná, dvojnásobek závdavku. Tato funkce závdavku se zesiluje, dají-li
+> si strany závdavek vzájemně. Penální funkce závazku však přichází v
+> úvahu jen při porušení smlouvy z příčin na straně toho kterého
+> smluvníka. Zmaří-li se tedy splnění dluhu vyšší mocí, nemůže sankce
+> nastoupit.
+>
+> Ustanovení o záloze i o závdavku jsou ovšem - stejně jako většina
+> ustanovení v této části zákona - dispozitivní povahy a nebrání jinému
+> ujednání stran.
 
 ---
 
@@ -1052,6 +1595,243 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 > **Lichva**
 > Neplatná je smlouva, při jejímž uzavírání někdo zneužije tísně, nezkušenosti, rozumové slabosti, rozrušení nebo lehkomyslnosti druhé strany a dá sobě nebo jinému slíbit či poskytnout plnění, jehož majetková hodnota je k vzájemnému plnění v hrubém nepoměru.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1748 až 1752“ (dnešní § 1758—1762) — viz § 1758.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1748 až 1752“ (dnešní § 1758—1762) — viz § 1758.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1748 až 1752“ (dnešní § 1758—1762) — viz § 1758.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1748 až 1752“ (dnešní § 1758—1762) — viz § 1758.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1753 až 1755 návrhu — dnešní § 1763—1765):**
+
+> Výslovnou úpravu důsledků změny okolností obsahovaly v tuzemském právu
+> zatím jen občanský a obchodní zákoník v ustanoveních upravujících
+> smlouvu o smlouvě budoucí (kteroužto normativní konstrukci osnova na
+> příslušném místě převzala) a obchodní zákoník i v ustanoveních o smlouvě
+> o uložení věci. Ustanovení navržená zde akceptují myšlenku, že výhrada
+> změny okolností (doložka *rebus sic stantibus*) nemá význam jen při
+> smlouvě o smlouvě budoucí, ale zasahuje každou smlouvu. Osnova se v tom
+> směru inspiruje čl. 6.2.1. až 6.2.3. zásad UNIDROIT, jejichž ustanovení
+> se zde navrhuje převzít.
+>
+> Vychází se ze zásady, že smlouva strany zavazuje a že strany jsou
+> povinny chovat se podle toho, co si ve smlouvě ujednaly. Zároveň se bere
+> v potaz, že mohou nastat i po uzavření smlouvy nepředvídané změny
+> okolností takového rázu, že zvlášť hrubě naruší poměr zájmů stran, jak
+> jej každá ze stran při kontraktaci prosazovala a jak tyto zájmy smlouva
+> odráží. To si i ve zdejším prostředí uvědomovala i tradiční judikatura:
+> např. Nejvyšší soud ČSR v r. 1922 dospěl k závěru, že „Doložka „rebus
+> sic stantibus" má význam nejen při smlouvě o smlouvě budoucí, nýbrž při
+> úplatných smlouvách vůbec. Účinek její nespočívá nutně jen v nároku na
+> zrušení smlouvy, nýbrž se může projevit i v tom, že se zjedná
+> hospodářský soulad mezi plněním a protiplněním" (č. 1680 Vážného sbírky,
+> obdobně např. č. 5 021 z r. 1925, 14 312 z r. 1935 a další). Na těchto
+> základech byla vybudována doktrína o hospodářské nemožnosti plnění,
+> resp. (správněji) o nedostižnosti plnění, opřená o hledisko dobrých
+> mravů. Poválečná doktrína i judikatura však vycházejí důsledně z
+> pravidla, že rozpor s dobrými mravy zakládá neplatnost či odepření
+> právní ochrany, že však poukazem na zásadu dobrých mravů nelze založit
+> právo nové. Lze proto mít důvodně za to, že by rozhodovací praxe bez
+> výslovné úpravy, jak je navržena, tendovala k jiné tendenci, než je
+> zachování smlouvy. Navrhuje se proto stanovit, že v úzce vymezeném počtu
+> případů a za splnění striktně formulovaných podmínek bude straně
+> založeno nejen právo domáhat se zrušení závazku, ale i jeho úpravy.
+> Podmínkou je, že změna okolností, která takové právo založí, bude
+> podstatná, nepředvídatelná a dotčenou stranou neovlivnitelná. Vychází se
+> tedy z pojetí, že *clausula rebus sic stantibus* je mlčky ujednána v
+> každé smlouvě. Výhrada tohoto typu však nekryje takovou změnu poměrů,
+> jež byla vyvolána prostým vývojem ekonomiky a trhu, nebo která pojmově
+> spadá do okruhu tzv. běžného podnikatelského rizika. Pravidelně půjde o
+> důsledky následného působení náhodných vlivů z vnějšku. Navržená úprava
+> nebrání stranám ujednat si něco jiného a výslovně zdůrazňuje, že
+> převzetí rizika změny okolností některou ze stran vylučuje její právo
+> domáhat se změny závazku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1756 a 1757 návrhu — dnešní § 1766—1767):**
+
+> Navržená úprava smlouvy ve prospěch třetích osob vychází z vládního
+> návrhu československého občanského zákoníku z r. 1937 s přihlédnutím k
+> některým novějším úpravám.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1758 návrhu — dnešní § 1769):**
+
+> Logický protipól ke smlouvě ve prospěch třetího je smlouva k tíži
+> třetího. Ustanovení je označeno marginální rubrikou „smlouva o plnění
+> třetí osoby", protože dvě smluvní strany vlastním ujednáním nemohou
+> třetí osobu zavazovat, takže zavázán je ten, kdo slibuje, že třetí osoba
+> bude věřiteli plnit. Návrh ustanovení vychází z klasické konstrukce.
+> Rozlišuje slib plnění třetí osoby, který smluvního dlužníka zavazuje k
+> pouhé přímluvě, a závazek smluvního dlužníka, že třetí osoba skutečně
+> splní, co věřitel s dlužníkem ujednal, který pro případ nesplnění
+> zavazuje smluvního dlužníka k náhradě škody.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1759 návrhu — dnešní § 1770):**
+
+> Uzavírání smluv podle základního modelu kontraktace vyjádřené schématem
+> podání oferty oblátovi a její akceptací je typické, ale nedochází k ní v
+> praxi vždy. Časté jsou případy, kdy strany tvoří smlouvu společně,
+> případně kdy si dohodnou odchylky od zákonné úpravy kontraktačního
+> procesu (např. nabídka, přijetí, potvrzení) apod. Osnova nechce těmto
+> postupům bránit a nechce ani konstruovat vznik smlouvy k jinému
+> okamžiku, než jaký strany zamýšlely. Z toho důvodu se navrhuje stanovit,
+> že dohodnou-li si strany jiný postup pro uzavírání smlouvy, použijí se
+> na takový případ ustanovení o nabídce a jejím přijetí přiměřeně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1760 návrhu — dnešní § 1771):**
+
+> Zatímco dražba v režimu veřejného práva představuje zvláštní právní
+> skutečnost, dražba v režimu soukromého práva představuje zvláštní způsob
+> kontraktace.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1761 až 1773 návrhu — dnešní § 1772—1784):**
+
+> S drobnými úpravami a s drobnými stylistickými změnami se navrhuje
+> převzít dosavadní úprava obchodního zákoníku o veřejném návrhu na
+> uzavření smlouvy (§ 276 a násl.) a obchodní veřejné soutěži (§ 281 a
+> násl.), které se osvědčily a nevyvolávají výkladové obtíže. Nevýhodou
+> těchto úprav je omezení jejich aplikovatelnosti jen na obchodní
+> závazkové vztahy. Z té příčiny se navrhuje upravit oba instituty na
+> obecné úrovni.
+>
+> V úpravě veřejné nabídky se doplňuje pravidlo, podle kterého bude
+> navrhovatel vázán všemi přijetími veřejné nabídky, pokud nesplní
+> povinnost oznámit příslušným osobám výsledek kontraktačního procesu. To
+> znamená, že navrhovatel bude smluvně zavázán všemi řádně podanými
+> akceptacemi svého veřejného návrhu (tedy akceptacemi projevenými včas
+> a v souladu s vyhlášenými podmínkami), jejichž původcům neoznámil, že je
+> s ním smlouva uzavřena nebo že se svým návrhem neuspěli. Toto řešení se
+> jeví jako vhodnější, než nutit zájemce o uzavření smlouvy k tomu, aby se
+> obraceli na soud a domáhali se rozhodnutí, kterým soud navrhovateli
+> splnění oznamovací povinnosti uloží. Navrhovatel tak bude účinněji
+> motivován k splnění povinností vyplývajících pro něho z jeho volby.
+> Navrhovateli nic nebrání, aby si k oznámení výsledku kontraktačního
+> procesu vyhradil stejný způsob uveřejnění jako pro veřejnou nabídku
+> samotnou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1774 až 1777 návrhu — dnešní § 1785—1788):**
+
+> Základní nevýhodou stávající úpravy smlouvy o smlouvě budoucí v platném
+> občanském zákoníku je zákonný požadavek, že v této předběžné (přípravné)
+> smlouvě musí být dohodnuty podstatné náležitosti smlouvy (§ 50a), a tím
+> zákoník vlastně nečiní rozdílu mezi smlouvou předběžnou a definitivní. Z
+> toho důvodu se s drobnými úpravami přejímají normativní konstrukce
+> obchodního zákoníku (§ 289 a násl.) včetně pojetí, že při dobrovolném
+> nesplnění povinnosti uzavřít budoucí smlouvu soud určí obsah smlouvy
+> mezi stranami.
+>
+> Obdobně jako v řadě jiných obdobných případů se návrh odchyluje od
+> platného právního stavu v tom, že po vzoru jak převážné většiny
+> zahraničních úprav, tak i zdejší tradice ustupuje na mnoha místech od
+> zákonného požadavku písemné formy. Je všeobecně známo, že každá
+> předepsaná forma projevu vůle ztěžuje právní styk soukromých osob a to
+> zákonodárce vybízí, aby nařízení písemné formy pro právní jednání
+> nenadužíval. Konkrétně u smlouvy o smlouvě budoucí ještě platný občanský
+> zákoník ve své původní redakci obecně nevylučoval možnost uzavřít ve
+> většině případů smlouvu o smlouvě budoucí v jiné než písemné formě; ke
+> změně došlo až v důsledku přijetí novely občanského zákoníku č. 509/1991
+> Sb. a obchodního zákoníku č. 513/1991 Sb. Dnešní občanskoprávní (§ 50a)
+> i obchodněprávní (§ 289) úprava se při nařízení této formy pro smlouvu o
+> smlouvě budoucí inspirovala někdejším zákonem o právních vztazích v
+> mezinárodním obchodním styku (zákoníkem mezinárodního obchodu, č.
+> 101/1963 Sb.), ve kterém obecný předpis písemné formy pro tuto smlouvu
+> (§ 119) sledoval zejména účely spojené se státním plánem, s ochranou
+> socialistického vlastnictví a podobné, na něž se v současné době nebere
+> zřetel. Někteří představitelé právní praxe prosazují důraz zákonného
+> textu na písemnou formu nejrůznějších právních úkonů poukazem, že jinak
+> budou vznikat problémy s dokazováním. To však není dostatečný důvod pro
+> to, aby se právní úprava vydala cestou byrokratického omezování
+> soukromého styku. Je třeba vyjít z toho, že strany naprostou většinu
+> smluv plní dobrovolně a že ani v případech, kdy vymáhají plnění ze
+> smlouvy před soudem, mnohdy vedou spor o toto plnění, nikoli o existenci
+> nebo platnost smlouvy. Navíc je záležitostí smluvních stran a jejich
+> autonomie vůle, zda si případné riziko potíží s dokazováním uvědomí,
+> vyhodnotí a zda je podstoupí nebo nepodstoupí, protože každá z nich má
+> právo na písemné formě smlouvy trvat (§ 1747). Není tudíž zvláštní důvod
+> obecným požadavkem písemné formy zatěžovat projevy vůle stran
+> neplatností, třebaže strany při uzavření smlouvy i při plnění závazku
+> mají vůli splnit, k čemu se zavázaly.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1778 až 1780 návrhu — dnešní § 1789—1791):**
+
+> Jedná se o standardní úpravu, objevující se ve všech právních řádech
+> kontinentální Evropy.
+>
+> Uvozovací ustanovení tohoto oddílu konkretizuje obsah závazku tím, co je
+> dlužník povinen jako dluh plnit (*dare, facere, omittere, pati*).
+> Navazuje tak na § 1711 vymezující obecně pojem pohledávky a dluhu a
+> konkretizuje jeho obsah.
+>
+> Vzhledem k tomu, že závazky nevznikají jen ze smluv, má své opodstatnění
+> normativní konstrukce zdůrazňující závislost obsahu a existence závazku
+> na shodné vůli věřitele a dlužníka.
+>
+> Konečně se konvenčním způsobem zdůrazňuje rozdíl mezi závazky kauzálními
+> a abstraktními; závazky z cenných papírů jsou pojaty jako závazky
+> zásadně abstraktní, u nichž se kauza jako hospodářský důvod jejich
+> vzniku neprokazuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1781 návrhu — dnešní § 1792):**
+
+> Normativní konstrukce prvního odstavce nahrazuje různé dílčí úpravy
+> téhož obsahu u jednotlivých smluvních typů a stanoví základní a obecné
+> pravidlo, podle něhož se určí výše úplaty, opomenou-li ji strany
+> sjednat. Druhý odstavec přejímá pravidlo obsažené již v platné úpravě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1782 až 1784 návrhu — dnešní § 1793—1795):**
+
+> Navrhuje se upravit institut neúměrného zkrácení (*laesio enormis*),
+> známého z některých úprav (např. z rakouské i z návrhu československého
+> občanského zákoníku z r. 1937) též jako zkrácení přes polovici. V úpravě
+> tohoto institutu se odráží zásada ekvivalence v tom smyslu, že plnění i
+> protiplnění nemají být v příkrém rozporu a že mají odpovídat zásadám
+> spravedlnosti. Úprava neúměrného zkrácení vznikla v římském právu,
+> poprvé byla upravena nařízeními císaře Diokletiana ve vztahu k nemovitým
+> věcem, posléze jako obecný institut v Justiniánově kodifikaci. Pojetí
+> tohoto institutu i jeho uchování v pozdější době sledovalo pod vlivem
+> kanonického práva myšlenku, že v obligačním právu mají být vzájemná
+> práva a povinnosti vyvážená, a tudíž být i ve shodě s obecnou morálkou.
+> V současné době upravují stejný institut vedle rakouského práva např.
+> občanské zákoníky francouzský, italský nebo švýcarský. Jiné právní
+> úpravy řeší stejnou otázku poukazem na rozpor s dobrými mravy nebo na
+> zneužití důvěry apod. V diskusích o reformě obligačního práva
+> probíhajících na národních i nadnárodních úrovních se tomuto institutu
+> často vytýká, že ohrožuje smluvní strany nejistotou - např. v případě
+> koupě věci, jejíž obecná cena následně prudce stoupne. To návrh řeší
+> formulací pravidla, podle kterého se ustanovení o neúměrném zkrácení
+> nepoužije v případě, že se nepoměr plnění a protiplnění zakládá na
+> skutečnosti, o níž strana, která výhodu získala, při uzavření smlouvy
+> nevěděla ani vědět nemusela. Ze zřejmých důvodů se úprava neúměrného
+> zkrácení nepoužije ani v případech, kdy riziko ztráty nebo naděje na
+> zisk nutně provází povahu obligace (např. při burzovních obchodech nebo
+> sázce a hře) nebo kdy si tyto aspekty závazku strany nutně musely
+> uvědomit nebo je dokonce samy chtěly. Rovněž v případě, že je stranou
+> smlouvy podnikatel, u něhož se předpokládá profesionální chování, se
+> pravidlo o neúměrném zkrácení v jeho prospěch neuplatní. Podle výsledků
+> odborných diskusí k této otázce již nad návrhem věcného záměru se však
+> nenavrhuje stanovit jako relevantní kritérium právě polovinu ceny, neboť
+> to by mohlo vést k některým tvrdostem. Z toho důvodu se přejímá
+> konstrukce známá např. ze švýcarského práva (čl. 21 OR).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1785 návrhu — dnešní § 1796):**
+
+> Zákaz lichevních smluv se objevuje v řadě občanských kodexů Evropy
+> (např. Německo, Nizozemí, Rakousko atd.). Navržená úprava bere v úvahu
+> tyto zahraniční vzory, ale zejména vychází z vládního návrhu
+> československého občanského zákoníku z r. 1937 a přihlíží rovněž k
+> pojetí lichvy v § 218 trestního zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1786 návrhu — dnešní § 1797):**
+
+> Návrh ustanovení respektuje platnou právní úpravu (§ 267 odst. 2
+> obchodního zákoníku), podle níž nelze napadnout smlouvu uzavřenou v
+> tísni za nápadně nevýhodných podmínek, byla-li taková smlouva uzavřena v
+> podnikatelském styku.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1796 až 1798“ (dnešní § 1807—1809) — viz § 1807.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1796 až 1798“ (dnešní § 1807—1809) — viz § 1807.
+
 ---
 
 ## Díl 4 — Spotřebitelské smlouvy (§ 1810—1867)
@@ -1067,6 +1847,15 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 
 **§ 1818**:
 > Má-li spotřebitel právo odstoupit od smlouvy podle ustanovení tohoto dílu, nevyžaduje se, aby uvedl důvod, a s právem odstoupit od smlouvy nelze spojit postih. Využije-li spotřebitel právo odstoupit od smlouvy podle ustanovení tohoto dílu, považuje se lhůta pro odstoupení za zachovanou, pokud spotřebitel v jejím průběhu odešle podnikateli oznámení, že od smlouvy odstupuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1806 návrhu — dnešní § 1818):**
+
+> Obecně platí, že projev vůle jedné osoby má právní účinky vůči druhé
+> osobě až od okamžiku, kdy jí dojde, tj. kdy se dostane do její sféry.
+> Zde se navrhuje ve shodě s komunitárním právem stanovit výjimku pro
+> případ, že od smlouvy odstupuje spotřebitel, u kterého se lhůta pro
+> odstoupení od smlouvy považuje za zachovanou, pokud v průběhu lhůty
+> oznámení o odstoupení od smlouvy podnikateli alespoň odešle.
 
 ### § 1810—1812 — Definice
 
@@ -1118,6 +1907,79 @@ Strany mohou uzavřít i smlouvu neupravenou jako typ (§ 1746 odst. 2); její o
 > **Podnikatel** (§ 420—422) = osoba, která samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost.
 
 **Asymetrie**: spotřebitel = **slabší strana**; podnikatel = **silnější strana** s vyššími povinnostmi.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1799 návrhu — dnešní § 1810):**
+
+> Výraz „spotřebitelská smlouva" je pojmem zavedeným do našeho občanského
+> práva novelou občanského zákoníku provedenou zák. č. 367/2000 Sb. Jde o
+> doslovný překlad anglického *consumer contract* nebo německého
+> *Verbrauchervertrag,* takto vzniklý český výraz však není správný,
+> protože se nemíní označit smluvní typ - srov. české výrazy „kupní
+> smlouva", „pracovní smlouva", „příkazní smlouva" nebo „darovací smlouva"
+> aj. - ale smlouvu uzavíranou mezi specifickými stranami, přičemž důraz
+> se klade na spotřebitele a na jeho ochranu. Důraz není na smluvní typ -
+> tzv. spotřebitelská smlouva se týká kteréhokoli smluvního typu a také
+> nepojmenovaných smluv jako je např. leasing, ale na chráněnou smluvní
+> stranu. Proto se volí pro označení těchto smluv jako smluv uzavíraných
+> se spotřebitelem, přičemž podnikatel jako druhá smluvní strana je v
+> tomto označení implicitně obsažen vzhledem k pojmovému vymezení
+> spotřebitele v obecné části. Obdobně při označení těchto smluv postupuje
+> např. francouzština (*contracts conclus avec le consommateurs*),
+> španělština (*contratos celebrados con consumidores*), italština
+> (*contratti stipulati con i consumatori*) a některé další jazyky.
+> Označení těchto smluv jako smluv uzavíraných se spotřebitelem je v
+> češtině teoreticky přesné obsahu pojmu (srov. *Selucká, M.* in *Eliáš,
+> K. et al.* Občanský zákoník. Velký akademický komentář. I. díl. 1.
+> vydání. Praha: Linde, 2008, s. 316). Zároveň se nemíní vymýtit výraz
+> „spotřebitelská smlouva" z textu zákona a ani z běžného jazyka, kde se
+> vžil, neboť taková snaha by byla zjevně neúspěšná. Návrh tedy označuje
+> uvedené smlouvy jako smlouvy uzavírané se spotřebitelem, ale současně
+> volí legislativní zkratku, kterou se tyto smlouvy označují jako
+> spotřebitelské. Legislativní zkratkou se tedy zavádí zjednodušené
+> označení, kterým se však nenazývá právní pojem, ale jedná se o zkrácené
+> vyjádření usnadňující literární zpracování zákonného textu.
+>
+> Návrh ustanovení o ochraně spotřebitele vychází z platné právní úpravy,
+> která byla od přijetí zákona č. 367/2000 Sb. postupně doplňována a
+> zpřesňována. Návrh tedy doplňuje právní pravidla, která do našeho práva
+> nebyla při provádění směrnic důsledně zapracována. Usiluje rovněž o
+> přehlednější systematické uspořádání právních pravidel o ochraně
+> spotřebitele a o jejich přesnější i srozumitelnější vyjádření; rovněž se
+> v navržených ustanoveních reaguje na problémy a nejasnosti, které se při
+> používání platného zákona vyskytly v praxi.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1800 návrhu — dnešní § 1811):**
+
+> Ochrana spotřebitele vyžaduje, aby veškerá sdělení vůči němu podnikatel
+> učinil jasně a srozumitelně v jazyce, ve kterém se uzavírá smlouva.
+> Právní pravidlo se přejímá zejména z čl. 5 směrnice 93/13/EHS o
+> nepřiměřených podmínkách ve spotřebitelských smlouvách a čl. 4 směrnice
+> 97/7/ES a z čl. 5 o ochraně spotřebitele v případě smluv uzavíraných na
+> dálku. Je zapotřebí mít v této souvislosti na paměti, že jde o jiný
+> právní požadavek, než jaký právní úprava spojuje s určitostí a
+> srozumitelností projevu vůle a také s odlišnými právními následky. Z čl.
+> 5 směrnice o nepřiměřených podmínkách ve spotřebitelských smlouvách
+> vyplývá požadavek, aby byl spotřebitel řádně informován. Nedostane-li se
+> mu jasných a srozumitelných sdělení navrhovaným způsobem, není následkem
+> neplatnost, nýbrž může jít porušení informační povinnosti zakládající
+> spotřebitelovo právo odstoupit od smlouvy podle následujících ustanovení
+> za výhodnějších podmínek. S nejednoznačnými formulacemi připouštějícími
+> různý výklad se pojí také ten právní následek, že se obsah smlouvy
+> vyloží způsobem příznivějším pro spotřebitele. Jde o zvláštní výhody
+> přiznávané jen spotřebiteli; nemohou se jich tedy dovolávat ty osoby,
+> které mají podle vnitrostátních předpisů oprávněný zájem na ochraně
+> spotřebitelů (čl. 5 v souvislosti s čl. 7 citované směrnice v tom směru
+> stanoví výjimku).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1801 návrhu — dnešní § 1812):**
+
+> Návrh vyjadřuje donucující povahu ustanovení k ochraně spotřebitele.
+> Ujednají-li si strany od nich odchylku, nepřihlíží se k ní. To znamená,
+> že taková odchylka je právně bezvýznamná, pro právo neexistující a
+> nevyplývají z ní žádná práva a žádné povinnosti. Platnost zbytku smlouvy
+> tímto však zůstává nedotčena. To platí i v případě, že nedojde k
+> zvláštnímu ujednání, ale spotřebitel se jednostranně vzdá svého
+> subjektivního práva přiznaného mu ustanoveními tohoto dílu.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1242,6 +2104,66 @@ Spotřebitelská smlouva (§ 1810) podléhá ochrannému režimu: sdělení mus�
 - ... a další.
 
 **Sankce**: ujednání **se nepřihlíží** (≠ neplatné — protože spotřebitel se může účinků dovolat, ale podnikatel ne).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1802 až 1804 návrhu — dnešní § 1813—1815):**
+
+> Obdobně jako v § 56 odst. 1 platného občanského zákoníku se i zde jedná
+> se o konkretizaci vyjádření obecné zásady proporcionality. Tato zásada
+> se promítá i do ochrany spotřebitele jako slabší smluvní strany ve shodě
+> s čl. 3 odst. 1 směrnice 93/13/EHS o nepřiměřených podmínkách ve
+> spotřebitelských smlouvách. Navržené ustanovení je třeba vykládat ve
+> shodě s obecnými pravidly v úvodních ustanoveních návrhu; zejména jde o
+> příkaz jednat v tzv. objektivní dobré víře (anglické *good faith,*
+> německé *Treu und Glauben* aj.), kterou návrh vyjadřuje uložením
+> povinnosti uplatnit subjektivní práva a plnit subjektivní povinnosti při
+> poctivém dodržování dobrých mravů a se zřetelem k zvyklostem občanského
+> života. Výraz „dobrá víra" použitý dnes v § 56 odst. 1 platného
+> občanského zákoníku je anglicismus, který je v kontextu české právní
+> terminologie matoucí, neboť tento pojem je ve zdejším právním
+> pojmoslovím již obsazen a je chápán jako objektivně hodnocené vnitřní
+> přesvědčení určité osoby, že je něco po právu.
+>
+> Posouzení povahy nepřiměřených smluvních podmínek se nedotýká jen
+> předmětu plnění nebo poměru mezi kvalitou zboží nebo služby; tyto
+> okolnosti však mohou být vzaty v úvahu i při posuzování přiměřenosti
+> nebo nepřiměřenosti jiných podmínek. V praxi to znamená, že je zapotřebí
+> v první řadě posoudit rovnováhu práv a povinností smluvních stran. Pokud
+> půjde o značnou nerovnováhu, je třeba zkoumat, zda jde o nerovnováhu v
+> neprospěch spotřebitele a dále, zda je tato nerovnováha s ohledem na
+> konkrétní okolnosti právního případu přiměřená nebo nepřiměřená (srov.
+> *Hulmák, M.* in *Švestka, J. et al.* Občanský zákoník. Komentář. Díl I
+> (§ 1 - 459). 1. vydání. Praha: C. H. Beck, 2008, s. 494.
+>
+> Nepřípustná jsou zejména taková ujednání, která omezují nebo vylučují
+> odpovědnost podnikatele za jednání, z nichž vznikne spotřebiteli újma na
+> životě nebo na zdraví, kterými se omezují nebo vylučují práva
+> spotřebitele pro případ, že bude plněno vadně nebo že bude spotřebiteli
+> způsobena škoda. Nepřípustná jsou i ujednání, že smlouva zavazuje
+> spotřebitele bez dalšího, zatímco podnikatele až po splnění podmínky,
+> jejíž uskutečnění je závislé výlučně na jeho vůli, nebo ujednání, která
+> podnikateli umožní, aby si ponechal, co mu spotřebitel poskytl, v
+> případě, že s podnikatelem smlouvu neuzavře nebo od ní odstoupí, jakož i
+> ujednání opravňující podnikatele odstoupit od smlouvy bez ujednaného či
+> zákonného důvodu, zatímco spotřebitele nikoli, nebo vypovědět závazek
+> ujednaný na neurčitou dobu bez přiměřené výpovědní doby. Rovněž jsou
+> nepřípustná ujednání zavazující spotřebitele k plnění podmínek, s nimiž
+> neměl možnost seznámit se před uzavřením smlouvy, která umožňují
+> podnikateli jednostranně a bez ujednaného důvodu smluvní podmínky
+> změnit, nebo ujednání, podle nichž má být cena určena až v době splnění,
+> aniž bude mít spotřebitel právo od smlouvy odstoupit, dojde-li při
+> splnění k podstatnému překročení ujednané ceny za zboží nebo službu. Z
+> obecné formulace navrženého ustanovení vyplývá i zákaz takových doložek,
+> které spotřebitele zaváží, aby splnil všechny své povinnosti ze smlouvy
+> i v případě, že je podnikatel nesplní, nebo podle které vznikne
+> podnikateli právo postoupit smlouvu bez spotřebitelova souhlasu, i když
+> se v důsledku převodu zhorší dobytnost spotřebitelovy pohledávky nebo
+> její zajištění. Tato a jim podobná nepřiměřená ujednání jsou zakázána -
+> při porušení zákazu nastane právní následek stanovený v předchozím
+> ustanovení, tj. nepřihlíží se k nim, hledí se na ně jako na právně
+> bezvýznamné.
+>
+> Výjimka se zákazu se vztahuje na případy ujednání, jichž bylo dosaženo
+> individuálně, tj. nikoli adhezním způsobem.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1421,6 +2343,30 @@ Předsmluvní údaje sdělené spotřebiteli se stávají obsahem smlouvy (§ 18
 > (2) Je-li předmětem závazku poskytnutí digitálního obsahu, který není dodán na hmotném nosiči, obsahuje potvrzení také údaj, že spotřebitel výslovně souhlasí se započetím plnění před uplynutím lhůty pro odstoupení od smlouvy a že bere na vědomí, že udělením souhlasu zaniká jeho právo odstoupit od smlouvy podle § 1837 písm. l).
 > (3) Je-li předmětem závazku poskytování služby nebo dodávky vody, plynu nebo elektřiny, které nejsou prodávány v omezeném objemu nebo v určitém množství, nebo tepla z dálkového vytápění za úplatu, začne podnikatel s plněním ve lhůtě pro odstoupení od smlouvy pouze na výslovnou žádost spotřebitele; na to ho podnikatel upozorní a poučí ho, že poskytnutím plnění zaniká jeho právo odstoupit od smlouvy podle § 1837 písm. a).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1807 návrhu — dnešní § 1824):**
+
+> Platná právní úprava (např. 53 odst. 6, § 54b odst. 8, § 60 odst. 1 a 2
+> platného občanského zákoníku) vyžaduje, aby určitá sdělení byla vůči
+> spotřebiteli učiněna písemně. Tento požadavek vyvolává v praxi
+> představu, že má jít o sdělení v písemné formě, tedy o projev vůle -
+> podle současné právní úpravy právní úkon v písemné formě - splňující
+> všechny náležitosti stanovené pro tuto formu včetně podpisu osoby, která
+> jej činí. Tuto představu terminologie platného občanského zákoníku
+> zesiluje tím, že výrazem „písemně" označuje i formu právních úkonů
+> (např. § 40, 50a, 110, 526, 527, 533, 544, 548, 553, 558, 570, 572, 574,
+> 585, 691, 603, 607, 635, 738, 799 nebo 843 a další). Z toho vznikají
+> výkladové i aplikační potíže, neboť jsou zastávány i názory, že i při
+> sdělování údajů spotřebiteli musí být naplněna pravila týkající se
+> písemné formy. Směrnice však nevyžadují, aby tato sdělení měla formu
+> stanovenou jako písemnou pro některé projevy vůle, nýbrž aby byl
+> spotřebitel informován dostupným způsobem s použitím takového
+> komunikačního prostředku, který umožňuje spotřebiteli zobrazit si podané
+> informace a uchovat si je. Z toho důvodu se navrhuje tyto případy jasně
+> odlišit a pro sdělení vůči spotřebiteli podle následujících ustanovení
+> tohoto dílu požadovat, aby byly učiněny v textové podobě, a zároveň
+> stanovit, že textová podoba sdělení je zachována, jsou-li sdělované
+> údaje poskytnuty takovým způsobem, že je lze zobrazit a uchovat.
+
 ### Oddíl 2 — Smlouvy uzavírané distančním způsobem a mimo prostory (§ 1820—1851)
 
 **Distanční smlouva** (e-shop, telefon, e-mail) + **mimo obchodní prostory** (návštěvní prodej, výprodej v hotelu):
@@ -1546,6 +2492,197 @@ Předsmluvní údaje sdělené spotřebiteli se stávají obsahem smlouvy (§ 18
 > **Neobjednané plnění**
 > Plnil-li podnikatel spotřebiteli finanční službu bez výslovné objednávky, nevzniká spotřebiteli povinnost za plnění zaplatit ani mu z toho nevznikají žádné jiné povinnosti.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1808 až 1816 návrhu — dnešní § 1825—1833):**
+
+> Zvláštní ochrana náleží spotřebiteli, je-li s ním uzavírána smlouva za
+> použití prostředků komunikace na dálku. V navržených ustanoveních jde o
+> provedení směrnice 97/7/ES o ochraně spotřebitele v případě smluv
+> uzavřených na dálku. Protože se obdobné problematiky týká i směrnice
+> 2002/65/ES o uvádění finančních služeb pro spotřebitele na trh na dálku,
+> jsou ustanovení o ochraně spotřebitele v těchto případech shrnuta do
+> jednoho oddílu. Obě směrnice byly zapracovány i do platného občanského
+> zákoníku (§ 53 až 54d); obecná úprava však tyto smlouvy nijak specificky
+> nepojmenovává, zatímco při provedení směrnice 2002/65/ES o uvádění
+> finančních služeb pro spotřebitele na trh na dálku zákonem č. 56/2006
+> Sb. byl § 54a platného občanského zákoníku označen názvem „Smlouvy o
+> finančních službách uzavírané na dálku". Teorie i praxe označují tyto
+> smlouvy jako smlouvy distanční (srov. např. *Kanda, A.* in *Knappová,
+> M. - Švestka, J. - Dvořák, J.* Občanské právo hmotné. Svazek 2. 4.
+> vydání. Praha: ASPI, 2006, s. 46). Uvedené označení však není zcela
+> přesné, protože tímto výrazem se neoznačuje smluvní typ, ale způsob
+> kontraktace. Z toho důvodu se volí takový název oddílu, který vystihuje,
+> že jde o ustanovení o smlouvách uzavíraných distančním způsobem.
+>
+> V § 1808 je distanční způsob uzavírání smluv charakterizován tak, že při
+> něm podnikatel výhradně používá alespoň jeden komunikační prostředek
+> umožňující uzavřít smlouvu bez současné fyzické přítomnosti stran. Jedná
+> se o jiný způsob uzavírání smlouvy, než je kontraktace mezi
+> nepřítomnými. Nepřítomné jsou strany, které se nevidí nebo neslyší,
+> avšak navržená úprava dopadá i na případy, kdy strany uzavírají smlouvu
+> za použití telefonu, a tudíž se za nepřítomné nepovažují.
+>
+> Prostředky komunikace na dálku se rozumí zejména takové, jako jsou
+> neadresovaný tisk, adresovaný tisk, typová dopis, reklama v tisku s
+> objednávkovým tiskopisem, katalog, telefon s (lidskou) obsluhou i
+> telefon bez (lidské) obsluhy (automatický volací přístroj, audiotext),
+> rozhlas, videotelefon (telefon s obrazovkou), videotext (mikropočítač a
+> televizní obrazovka), elektronická pošta, faxový přístroj, televize
+> (televizní nákup, teleshopping), veřejná komunikační síť (např.
+> internet).
+>
+> Při uzavírání smlouvy distančním způsobem je spotřebitel chráněn tím, že
+> se podnikateli ukládá povinnost, aby mu poskytl taxativně vymezené
+> informace, tj. aby mu sdělil takové údaje, které jsou nezbytné pro řádné
+> posouzení nabídky umožňující spotřebiteli kvalifikované rozhodnutí.
+> Informace ohledně nákladů komunikace na dálku se poskytují pouze v
+> případě, že se odlišují od obvyklé sazby (jedná se např. o různé účasti
+> v telefonických soutěžích).
+>
+> Dochází-li k jednání o uzavírání smlouvy při použití elektronických
+> prostředků, rozšiřuje se okruh údajů, které musí být povinně zahrnuty
+> již do návrhu smlouvy. Účelem ustanovení je zvýšit právní jistotu na
+> straně spotřebitele, ale v konečném důsledku i na straně podnikatele.
+> Pokud bude návrh smlouvy učiněn a i smlouva uzavírána výhradně výměnou
+> elektronické pošty nebo jiným obdobným způsobem - typické případy jsou
+> např. spřaženě (on-line) uskutečňovaná internetová konference nebo
+> použití programu ICQ - pak se ustanovení § 1809 nepoužije. Výměna
+> elektronické pošty a podobné případy samostatného spojení je tak
+> postavena na roveň tradičnímu způsobu dorozumívání pomocí projevů vůle
+> na listinách, přičemž se bere v úvahu jiný přístup k ostatním
+> elektronickým prostředkům.
+>
+> Po uzavření smlouvy musí podnikatel sdělit spotřebiteli údaje významné
+> pro uplatnění práv vyplývajících ze smlouvy, jakož i pro uplatnění práva
+> od smlouvy odstoupit, dále pak údaje o službách po prodeji a o zárukách;
+> zakládá-li smlouva závazek na dobu neurčitou nebo na dobu určitou, ale
+> delší jednoho roku, je podnikatel povinen spotřebiteli sdělit rovněž
+> podmínky pro zrušení závazku. Pro případ, že smlouva byla uzavřena
+> prostřednictvím elektronických prostředků, kde mají poskytnuté informace
+> často pomíjivý charakter, se podnikateli ukládá další povinnost, a sice
+> poskytnout spotřebiteli znění smlouvy a všeobecných obchodních podmínek
+> v textové podobě, tedy takovým způsobem, který umožňuje jejich uložení a
+> reprodukci.
+>
+> Upravuje se právo spotřebitele odstoupit od smlouvy do čtrnácti dnů od
+> převzetí plnění, jakož i další lhůty pro odstoupení. Výslovně se
+> zdůrazňuje právo spotřebitele odstoupit od smlouvy bez uvedení důvodu a
+> bez sankce. Pokud ale podnikatel nesplní povinnost sdělit spotřebiteli
+> stanovené údaje, prodlužuje se lhůta, ve které spotřebitel může
+> odstoupit od smlouvy na tři měsíce. Sdělí-li podnikatel spotřebiteli
+> tyto údaje až za běhu tříměsíční lhůty, tato lhůta se přetrhne a počne
+> běžet lhůta čtrnáctidenní. Právo spotřebitele na odstoupení od smlouvy
+> je takto upraveno právě proto, že spotřebitel před uzavřením smlouvy
+> nemá možnost skutečně vidět a vyzkoušet si zboží nebo ujistit se o
+> povaze či kvalitě služby.
+>
+> Nemá-li v případě smluv uzavřených na dálku s využitím komunikačních
+> prostředků na dálku mít ochrana spotřebitele jen formální charakter, pak
+> musí být náklady, které spotřebitel při odstoupení od smlouvy případně
+> ponese, omezeny jen na skutečně vynaložené náklady spojené s vrácením
+> zboží. Tím se zabraňuje obcházení zákona tím, že by v neprospěch
+> spotřebitele bylo ujednáno sankční plnění pro případ, že od smlouvy
+> odstoupí. Tím by totiž ochranná funkce právní úpravy byla potlačena.
+>
+> Zároveň se stanovují výjimky z práva spotřebitele odstoupit od smlouvy
+> bez uvedení důvodu od určitých taxativně vypočtených smluv s ohledem na
+> jejich specifický charakter. Od těchto smluv nemůže spotřebitel
+> odstoupit bez uvedení důvodu, ledaže by to bylo výslovně ujednáno.
+>
+> I při styku podnikatelů se spotřebiteli s využitím prostředků komunikace
+> na dálku musí být respektováno právo lidí na soukromí. Ani s použitím
+> těchto prostředků nesmí být nikdo obtěžován neodbytnými nabídkami zboží
+> nebo služeb. Účinnou ochranu spotřebitelů, kteří si nepřejí být
+> kontaktováni, představuje návrh ustanovení, které řeší situace, kdy je
+> spotřebiteli zboží vnuceno tak, že je mu doručeno bez objednávky. V
+> těchto případech se neuplatní ustanovení o bezdůvodném obohacení.
+> Spotřebitel není povinen takto dodané zboží ani vracet ani zaplatit.
+> Výslovně se navrhuje stanovit, že se na něho hledí jako na oprávněného
+> držitele. To znamená, že má právo s dodaným zbožím naložit podle libosti
+> (ponechat si je, zcizit je, zničit je apod.), aniž mu hrozí právní
+> sankce.
+>
+> Na závěr tohoto pododdílu se v souladu s příslušnou směrnicí uvádí
+> taxativní výčet případů, na které se výše uvedená ustanovení o smlouvách
+> uzavíraných distančním způsobem nepoužijí. Smyslem společného ustanovení
+> § 1816 odst. 1 písm. e) je vyloučit z režimu občanského zákoníku veřejné
+> dražby podle zákona o veřejných dražbách. Ochrana spotřebitele se však
+> vztahuje i na různé internetové prodeje, které se označují jako veřejná
+> dražba. Smlouvu o dopravě uvedenou v písmenu f) je třeba vnímat ve
+> smyslu směrnice 97/7/ES. Jedná se tedy o jakoukoliv smlouvu, jejímž
+> předmětem je doprava, tedy například i o smlouvu o nájmu dopravního
+> prostředku a nikoliv pouze o přepravní smlouvu ve smyslu návrhu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1828 až 1830 návrhu — dnešní § 1845—1847):**
+
+> V navržených ustanoveních se jedná o provedení směrnice 87/577/EHS o
+> ochraně spotřebitele v případě smluv uzavíraných mimo obchodní prostory.
+> V zásadě se přejímá dosavadní právní úprava obsažená v § 57 platného
+> občanského zákoníku. Navržená úprava se vztahuje na případy podomního
+> prodeje a další případy, kdy podnikatel uzavírá se spotřebitelem smlouvu
+> buď mimo prostory obvyklé pro své podnikání, anebo kdy podnikatel stálé
+> místo k podnikání vůbec nemá. Zpravidla jde o situace, za které
+> spotřebitel neočekává nabídku na uzavření smlouvy a není na kontraktační
+> jednání připraven, nemá dostatečnou příležitost ověřit si dostatečně
+> jakost nabízeného plnění, porovnat nabízenou cenu a další podmínky s
+> jinými nabídkami na trhu. Proto se spotřebiteli přiznává právo odstoupit
+> od smlouvy bez udání důvodu a bez sankce ve čtrnáctidenní lhůtě, a
+> nedošlo-li k plnění, ve lhůtě jednoho měsíce. Podnikateli se ukládá
+> povinnost spotřebitele na toto jeho právo upozornit nejpozději při
+> uzavření smlouvy v textové podobě a stanovuje se, jaký obsah má toto
+> upozornění mít. Výjimkou jsou případy, kdy si spotřebitel návštěvu
+> podnikatele výslovně sjednal.
+>
+> Na závěr se taxativně stanovují případy, na které se zvláštní ustanovení
+> o smlouvách uzavíraných mimo obchodní prostory nevztahují.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1831 návrhu — dnešní § 1852):**
+
+> Návrh ustanovení zařazených do tohoto oddílu provádí směrnici
+> 2008/122/ES o ochraně spotřebitele ve vztahu k některým aspektům smluv o
+> dočasném užívání ubytovacího zařízení (timeshare), o dlouhodobých
+> rekreačních produktech, o dalším prodeji a o výměně. Vzhledem k tomu, že
+> v daném odvětví došlo k vývoji, je třeba reagovat i na nové druhy
+> produktů, které se v souvislosti s rekreací na trhu objevují. Smlouvy o
+> dočasném užívání ubytovacího zařízení a jiných rekreačních službách
+> (tedy smlouvy, kde spotřebitel získává právo na slevu či jinou výhodu
+> spojenou s ubytováním včetně dopravy či jiných služeb) nepředstavují
+> jednotný smluvní typ. Mohou vzniknout uzavřením smluv věcněprávních i
+> obligačních, pojmenovaných i nepojmenovaných. Proto není ani v tomto
+> návrhu pojat jako zvláštní typ smlouvy, ale navrhuje se úprava
+> zvláštních ustanovení, která chrání spotřebitele, ať již je mu právo
+> užívat ubytovací zařízení nebo jiné služby zřízeno smlouvou jakéhokoli
+> typu. Této zvláštní úpravě podléhají smlouvy uzavřené na dobu delší než
+> jeden rok. Toto časové vymezení se volí z toho důvodu, že na bázi
+> dlouhodobosti závazku je tento způsob podnikání založen a přiveden na
+> trh. Tyto smlouvy jsou uzavírány zpravidla i na několik let, výjimkou
+> nejsou ani smlouvy uzavírané na desetiletí.
+>
+> Nová úprava se rozšiřuje i na další služby související se smlouvami
+> o dočasném užívání ubytovacího zařízení a jiných rekreačních službách.
+> Ochrana spotřebitele se vztahuje i na smlouvy, kdy se podnikatel
+> zavazuje pouze pomoci spotřebiteli uzavřít smlouvu o dočasném užívání
+> ubytovacího zařízení či jiných rekreačních službách nebo i také na
+> smlouvy, kde spotřebitel za úplatu nabývá účastenství ve výměnném
+> systému spojené s právem o dočasném užívání ubytovacího rekreačního
+> zařízení či jiné služby. Uvedená pravidla platí i pro smlouvy o smlouvě
+> budoucí.
+>
+> Směrnice stojí na principu maximální harmonizace, nedává tedy členským
+> státům možnost odchýlit se od ní.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1832 návrhu — dnešní § 1853):**
+
+> Ustanovení představuje transpozici článku 2 odst. 2 směrnice
+> 2008/122/ES. Pro posouzení, zda byla smlouva o dočasném užívání
+> ubytovacího zařízení nebo jiné rekreační službě uzavřena na období
+> minimálně jednoho roku, je třeba zohlednit i taková ustanovení smluv,
+> která umožňují závazek prodloužit bez výslovného projevu vůle smluvní
+> strany.
+
 ### § 1829 — Právo odstoupit ve 14 dnech
 
 > Spotřebitel má právo odstoupit od smlouvy bez udání důvodu ve lhůtě 14 dnů.
@@ -1568,6 +2705,8 @@ Předsmluvní údaje sdělené spotřebiteli se stávají obsahem smlouvy (§ 18
 
 **§ 1832 — Vrácení peněz** do **14 dnů** od odstoupení.
 **§ 1833 — Vrácení zboží** do 14 dnů od odstoupení.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1808 až 1816“ (dnešní § 1825—1833) — viz § 1825.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1655,6 +2794,66 @@ Spotřebitel může u distančních smluv a smluv mimo obchodní prostory odstou
 > (1) Odstoupil-li spotřebitel od smlouvy, zanikají závazky ze všech vedlejších smluv k témuž okamžiku jako závazek ze smlouvy hlavní bez nákladů pro spotřebitele s výjimkou úhrad podle § 1832 odst. 2, § 1833 a 1834.
 > (2) Vedlejší smlouvou podle odstavce 1 je smlouva, jejímž předmětem je plnění související s plněním poskytovaným na základě smlouvy hlavní, a toto plnění je poskytováno podnikatelem nebo třetí osobou na základě ujednání mezi nimi.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1808 až 1816“ (dnešní § 1825—1833) — viz § 1825.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1808 až 1816“ (dnešní § 1825—1833) — viz § 1825.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1808 až 1816“ (dnešní § 1825—1833) — viz § 1825.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1808 až 1816“ (dnešní § 1825—1833) — viz § 1825.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1817 až 1827 návrhu — dnešní § 1834—1844):**
+
+> Navržená úprava provádí ustanovení směrnice 2002/65/ES o uvádění
+> finančních služeb pro spotřebitele na trh na dálku, zejména tedy pokud
+> jde o poskytování bankovních služeb, úvěrových služeb a služeb platební
+> povahy, investičních služeb a pojišťovacích služeb. Návrh v zásadě
+> vychází s dosavadní úpravy v § 54a až 54d platného občanského zákoníku.
+>
+> Navržená ustanovení se použijí na smlouvy o finančních službách uzavřené
+> distančním způsobem, tedy za použití prostředků dálkové komunikace -
+> např. uzavřené na základě návrhu smlouvy rozšiřovaného formou letáku
+> nebo inzerátu, nebo uzavřené na základě faxové nebo telefonické nabídky,
+> s využitím internetu apod. Účelem navržené právní úpravy je zajistit
+> ochranu spotřebitele - zajistit jeho informovanost, poskytnout mu
+> možnost obrany před nevyžádanými službami, založit mu právo ve stanovené
+> lhůtě od smlouvy odstoupit a další. Problematika smluv uzavíraných
+> distančním způsobem a jejich právní úpravy souvisí s rozvojem tzv.
+> e-commerce a vyžaduje ochranu spotřebitele jako slabší smluvní strany.
+> Návrh stanovuje podnikateli jako silnější smluvní straně některé
+> povinnosti (zejména povinnost spotřebiteli před uzavřením smlouvy sdělit
+> a po uzavření smlouvy potvrdit určité údaje) a spotřebiteli se zakládají
+> zvláštní práva, mezi nimiž má zásadní význam právo odstoupit od smlouvy.
+>
+> Spotřebitel má právo kdykoli za trvání závazku požadovat po podnikateli
+> poskytnutí stanovených informací v tištěné podobě i právo měnit
+> prostředek komunikace na dálku, pokud to neodporuje povaze poskytované
+> finanční služby.
+>
+> Navrhovaná zákonná úprava zajišťuje spotřebiteli při uzavírání smluv o
+> finančních službách distančním způsobem co největší informovanost.
+> Poskytuje mu tak příležitost k uváženému rozhodnutí a dává mu možnost od
+> uvedených smluv bez uvedení důvodu a bez sankce odstoupit ve lhůtě
+> čtrnácti dnů a jedná-li se o životní pojištění, pak ve lhůtě třiceti
+> dnů. Po dobu, kdy tato lhůta běží, nesmí podnikatel spotřebiteli
+> finanční služby poskytovat, ledaže by o to spotřebitel sám požádal.
+> Poskytne-li podnikatel spotřebiteli klamavé údaje, bude mít spotřebitel
+> právo odstoupit od smlouvy v subjektivní tříměsíční lhůtě. Právo
+> odstoupit od smlouvy nemá spotřebitel v případech, kdy cena finanční
+> služby závisí na výkyvech finančních trhů, které podnikatel nemůže
+> ovlivnit. Odstoupí-li spotřebitel od smlouvy, je podnikatel oprávněn
+> požadovat po spotřebiteli zaplacení jen za službu již uskutečněnou a jen
+> v přiměřeném rozsahu - úplata tedy zejména nesmí být taková, aby
+> nahrazovala smluvní pokutu nebo jinou sankci za odstoupení od smlouvy.
+> Dojde-li k odstoupení od smlouvy, vrátí si strany navzájem plnění, která
+> si předtím případně poskytly. Jedná se o veškerá plnění, která si strany
+> poskytly na základě jejich závazkového vztahu. K tomu se stanovuje
+> třicetidenní lhůta.
+>
+> Návrh chrání spotřebitele před nevyžádanými službami. Při poskytnutí
+> takových služeb spotřebiteli nevzniknou žádné povinnosti, zvláště ne
+> povinnost za služby zaplatit.
+
 ### § 1837 — Výjimky z práva odstoupit
 
 > Spotřebitel nemůže odstoupit od smlouvy
@@ -1690,6 +2889,8 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 - Rychle kazícím se zboží;
 - Zaplečeném zboží otevřeném (hygiena);
 - Digitálním obsahu (po souhlasu s ihned-stahováním).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1765,6 +2966,16 @@ Výjimky z práva odstoupit (§ 1837) jsou taxativní a vykládají se restrikti
 > (1) Ustanovení tohoto pododdílu se použijí na smlouvu o finanční službě a na práva a povinnosti z ní vzniklé, pokud byl k uzavření smlouvy použit výhradně prostředek komunikace na dálku.
 > (2) Uzavřou-li se však na základě smlouvy uvedené v odstavci 1 další smlouvy stejné nebo obdobné povahy, které na sebe v čase navazují, použijí se ustanovení tohoto pododdílu jen na první smlouvu; to neplatí, pokud od uzavření poslední smlouvy uplynul více než jeden rok. Dojde-li na základě smlouvy uvedené v odstavci 1 k jinému projevu vůle stejné nebo obdobné povahy, postupuje se obdobně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1817 až 1827“ (dnešní § 1834—1844) — viz § 1834.
+
 ### Oddíl 3 — Vady spotřebitelského zboží (§ 1852—1867)
 
 **Klíčová oblast po novelizaci 2023**:
@@ -1836,6 +3047,86 @@ Výjimky z práva odstoupit (§ 1837) jsou taxativní a vykládají se restrikti
 > **Jazyk smlouvy**
 > Podnikatel uzavře smlouvu se spotřebitelem podle jeho volby v úředním jazyce členského státu Evropské unie, v němž má spotřebitel bydliště nebo jehož je spotřebitel státním příslušníkem. Liší-li se tento jazyk od jazyka členského státu Evropské unie, na jehož území se nachází nemovitá věc nebo její část, ke které se vztahuje smlouva, kterou spotřebitel nabývá právo užívat ubytovací zařízení podle § 1852 odst. 1 písm. a), vydá podnikatel spotřebiteli i úřední překlad textu smlouvy do tohoto jazyka.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1833 až 1839 návrhu — dnešní § 1854—1860):**
+
+> Spotřebitel je mimo jiné chráněn tím, že se podnikateli ukládá
+> povinnost, aby spotřebiteli sdělil ještě před uzavřením smlouvy
+> taxativně vymezené údaje, které následně nemůže svévolně měnit.
+> V souladu s čl. 3 odst. 2 a 3 směrnice 2008/122/ES se též stanoví
+> povinnost uvádět v pozvánce na propagační akce údaje o charakteru a
+> účelu takové akce a dále povinnost podnikatele dát spotřebiteli
+> k dispozici předsmluvní informace po celou dobu trvání takové akce.
+> Údaje musí být spotřebiteli poskytnuty na formuláři, jehož podobu
+> stanoví vláda svým nařízením. Zároveň podnikatel musí spotřebitele
+> výslovně poučit o jeho právu na odstoupení, o délce lhůty k odstoupení a
+> o zákazu platby záloh a jiných plnění nebo jejich zajištění v průběhu
+> lhůty na odstoupení. Takové informace musí být i součástí smlouvy a
+> každé z těchto ujednání musí spotřebitel podepsat samostatně.
+> Spotřebitel má právo, aby mu informace byly sděleny v jazyce, ve kterém
+> má bydliště nebo jehož je státním příslušníkem, dle jeho volby.
+>
+> Požadavek na písemnou formu smlouvy vyplývá z nutnosti zajistit
+> jednoznačnost jejího obsahu. V souladu se směrnicí se vymezují také
+> zvláštní náležitosti, které musí tato smlouva - vedle náležitostí
+> stanovených pro ten který smluvní typ - obsahovat. Součástí smlouvy musí
+> být i formulář pro odstoupení. Jeho podobu taktéž stanoví vláda
+> nařízením.
+>
+> Obsah smlouvy musí být v souladu se všemi předsmluvními informacemi,
+> které podnikatel spotřebiteli poskytl v textové podobě (tedy v takové
+> formě, která umožňuje i jejich opakované zobrazení), a nesmí se od nich
+> odlišovat. To neplatí jen pro případy, kdy je nesoulad vyvolán z důvodů
+> vis major nebo pokud si to strany výslovně dohodnou. Jestliže je zřejmé
+> ještě před uzavřením samotné smlouvy, že její obsah bude od těchto
+> informací odlišný, je třeba, aby je podnikatel spotřebiteli sdělil
+> stejným způsobem jako předsmluvní informace a je třeba, aby změny byly
+> ve smlouvě označeny.
+>
+> Spotřebiteli se tedy musí dostat všech sdělení nezbytných k uzavření
+> smlouvy, a to v jazyce, kterému nejlépe rozumí. K ochraně spotřebitele
+> slouží i další právní pravidla týkající se jazyka, ve kterém musí být
+> smlouva uzavřena, včetně povinnosti poskytnout spotřebiteli i úřední
+> překlad textu smlouvy do jazyka členského státu EU, kde se budova
+> nachází, jde-li o jiný jazyk, než je jazyk státu, v němž je smlouva
+> uzavřena.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1840 až 1844 návrhu — dnešní § 1861—1865):**
+
+> Ochranu spotřebitele zajišťuje jeho právo odstoupit od smlouvy, jehož
+> úprava představuje prohloubení obecné úpravy. Čtrnáctidenní lhůta má
+> spotřebiteli umožnit, aby si plně uvědomil a rozvážil, k čemu se ve
+> smlouvě zavázal, a poskytnout mu čas, aby si získané údaje ověřil. Proto
+> návrh sleduje, aby spotřebiteli byly nezbytné informace pro konečné
+> rozhodnutí také zajištěny. Neposkytne-li mu je podnikatel, znamená to
+> natolik závažné porušení jeho povinností, že to spotřebiteli založí
+> právo odstoupit od smlouvy v prodloužené lhůtě tříměsíční lhůtě.
+> V prodloužené jednoroční lhůtě lze odstoupit také tehdy, pokud
+> podnikatel spotřebiteli neposkytne formulář pro odstoupení. Pokud
+> spotřebitel neobdrží vyhotovení smlouvy vůbec, prodlužuje se
+> čtrnáctidenní lhůta v závislosti na okamžiku, kdy vyhotovení obdrží.
+>
+> V případě uzavření smlouvy o dočasném užívání ubytovacího zařízení nebo
+> jiné rekreační službě a zároveň uzavření smlouvy o účastenství ve
+> výměnném systém, běží pro odstoupení od smlouvy jediná lhůta. Rozhodný
+> je okamžik uzavření smlouvy, kterou se spotřebiteli zřizuje právo užívat
+> ubytovací zařízení. Návrh v souladu se směrnicí obsahuje i pravidlo, že
+> odstoupení se vztahuje i na další vedlejší smlouvy, na jejichž základě
+> spotřebitel nabyl práva spojená s hlavní smlouvou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1845 a 1846 návrhu — dnešní § 1866—1867):**
+
+> Na ochranu spotřebitele mají sloužit i kogentní pravidla pro smlouvy o
+> rekreačních službách spojená s placením splátek. Jakékoliv splátky mohou
+> být rozděleny jen do rovnoměrných ročních plateb. Stanovuje se povinnost
+> podnikatele pokaždé spotřebitele k placení vyzvat minimálně
+> s čtrnáctidenním předstihem. Jestliže tak podnikatel neučiní, nenastane
+> splatnost splátky. Jestliže tak podnikatel učiní opožděně, nastane
+> splatnost čtrnáct dní po té, co spotřebitel výzvu obdržel. U těchto
+> smluv se dává též spotřebiteli možnost odstoupit od smlouvy ve lhůtě,
+> kdy podnikatel spotřebitele vyzval k zaplacení splátky až do jejího
+> zaplacení. Toto právo spotřebiteli náleží až před zaplacením třetí
+> splátky.
+
 ---
 
 ## Díl 5 — Společné dluhy a pohledávky (§ 1868—1878)
@@ -1860,6 +3151,11 @@ Výjimky z práva odstoupit (§ 1837) jsou taxativní a vykládají se restrikti
 > (2) Bylo-li ujednáno, že kterýkoli z věřitelů může žádat celé plnění, splní dlužník celý dluh tomu, kdo o splnění požádal první. Splnil-li dlužník celý dluh jednomu ze spoluvěřitelů, nemohou již ostatní po něm nic požadovat.
 >
 **Princip dělitelnosti** plnění: pokud více dlužníků/věřitelů a plnění je dělitelné → každý je vázán/oprávněn **stejnou částí** (dispozitivně).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1847 až 1857 návrhu — dnešní § 1868—1878):**
+
+> Navržená ustanovení navazují na dosavadní úpravu. Posilují přehlednost
+> právní úpravy a odpovídají praktickým zkušenostem s jejím uplatňováním.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1947,6 +3243,20 @@ Při dělitelném plnění a více subjektech platí dílčí závazky: každý 
 - **Z povahy věci** (nedělitelné plnění).
 
 **Regresní nárok** (§ 1876): dlužník, který plnil věřiteli, **má vůči ostatním dlužníkům regres** poměrnou částí.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1847 až 1857“ (dnešní § 1868—1878) — viz § 1868.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2061,6 +3371,17 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 - **Za pravost a existenci** pohledávky → ručí;
 - **Za solventnost dlužníka** → **jen pokud to slíbil** (a do výše přijatého plnění).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1858 až 1866 návrhu — dnešní § 1879—1887):**
+
+> Návrh úpravy postoupení pohledávky vychází z dosavadní úpravy se
+> zohledněním vývoje tohoto institutu v dalších právních řádech a s
+> přihlédnutím k návrhu CEC. Nová úprava sleduje zúžení dosavadních zákazů
+> postoupení pohledávky, upřesňuje podmínky a rozsah ručení postupitele za
+> postoupenou pohledávku a výslovně upravuje možnost tzv. globálních
+> cessí. Zvláštní ustanovení v tomto smyslu praxe postrádá a jeví se jako
+> potřebné. Typický případ je hromadné postoupení pohledávek vznikajících
+> z provozu určitého obchodního závodu.
+
 ### Pododdíl 2 — Postoupení smlouvy (§ 1895—1900)
 
 **§ 1895**:
@@ -2088,6 +3409,18 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 - Vyžaduje **souhlas druhé strany**;
 - Postupitel je **uvolněn** (dispozitivně) od svých povinností;
 - Použijí se přiměřeně **pravidla o postoupení pohledávky** + **převzetí dluhu**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1873 až 1879“ (dnešní § 1894—1900) — viz § 1894.
 
 ### Pododdíl 3 — Převzetí dluhu (§ 1888—1894)
 
@@ -2128,6 +3461,68 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 
 **§ 1893 — Převzetí majetku** (*Vermögensübernahme*) → **automatický přechod dluhů** spojených s majetkem na nabyvatele (typicky převod závodu — § 2175 a násl.).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1867 až 1871 návrhu — dnešní § 1888—1892):**
+
+> Návrh úpravy převzetí dluhu a přistoupení k dluhu respektuje standardy
+> evropských úprav.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1872 návrhu — dnešní § 1893):**
+
+> Návrh zavádí - respektive obnovuje - obecnou úpravu právních důsledků
+> převzetí celého majetku jiné osoby nebo poměrné části takového majetku.
+> Vychází se z praktické zkušenosti a poznání, že jsou i četné případy,
+> kdy dlužník buď přímo sleduje převedením svého majetku nebo jeho kvóty
+> na jinou osobu vyhnout se splnění dluhů; k ohrožení zájmu převodcových
+> věřitelů může kromě toho dojít i mimoděk. I v těchto případech je třeba
+> poskytnout věřitelům adekvátní ochranu.
+>
+> Vzhledem k jeho obecné povaze se toto ustanovení nepoužije v případech
+> zvlášť upravených. Takovými jsou zejména zvláštní ustanovení o přeměnách
+> právnických osob, ustanovení o prodeji obchodního závodu nebo i
+> ustanovení zvláštních předpisů, jako je např. úprava reorganizace v
+> insolvenčním zákoně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1873 až 1879 návrhu — dnešní § 1894—1900):**
+
+> Původně se na závazek nahlíželo jako na osobní vztah věřitele a
+> dlužníka, který lze změnit jen jejich ujednáním. Později se připustilo,
+> že věřitel může své právo na plnění převést postoupením pohledávky na
+> třetí osobu, avšak pokud měl ze závazku zároveň povinnosti, zůstal jimi
+> i nadále vůči dlužníkovi zavázán bez zřetele k tomu, že pohledávku
+> z obligace zcizil. Postoupením pohledávky nelze totiž převést celý
+> závazek, nýbrž právě jen pohledávku jako právo na plnění. To je z
+> praktického hlediska nevýhodné v případech, kdy smlouva zavazuje obě
+> strany k vzájemnému plnění. Z toho důvodu některé právní úpravy od 19.
+> století zavedly postoupení celé smlouvy jako nový institut. Známy jsou
+> zejména úpravy francouzská a italská. Italská úprava, ze které vychází
+> více méně doslova i návrh CEC, je inspiračním zdrojem rovněž tohoto
+> návrhu.
+>
+> Podstata postoupení smlouvy je v tom, že po uzavření smlouvy jedna ze
+> smluvních stran svá práva a povinnosti ze smlouvy smluvně převede na
+> třetí osobu. Vzhledem k tomu, že se takový postup podstatně dotýká
+> právního postavení druhé strany původní smlouvy, vyžaduje se k postupu
+> smlouvy její souhlas udělený buď předem, anebo následně.
+>
+> Postoupit smlouvu lze jen tehdy, jestliže to její povaha nevylučuje
+> (zejména půjde o případy závazků k osobnímu plnění některé ze smluvní
+> stran, závisí-li plnění na osobních vlastnostech jedné či druhé strany
+> apod.) a za podmínky, že se postoupením smlouvy nezkrátí práva založená
+> vedlejšími smluvními doložkami. Postoupení smlouvy ostatně vůbec nemůže
+> být na újmu postoupené straně, proto jí zůstávají zachovány veškeré
+> námitky, které jí podle smlouvy náleží. Mimoto si může při udělení
+> souhlasu k postupu vyhradit i zachování jiných námitek, které má vůči
+> postupníkovi i na základě jiných skutečností, než právě jen z
+> postupované smlouvy.
+>
+> Účinky postupu vůči postoupené straně nastanou až notifikací, podobně
+> jako při postoupení pohledávky. Tím okamžikem se postupitel osvobodí od
+> svých povinností ze smlouvy (ztratí z ní ovšem také práva) a na jeho
+> místo nastoupí třetí osoba jako postupník. Tomu však může postoupená
+> strana zabránit prohlášením, že osvobození postupitele odmítá. Učiní-li
+> tak, bude moci po postupiteli požadovat, aby namísto postupníka splnil
+> povinnosti, které postupník cessí smlouvy převzal, ale nesplnil.
+
 ### Oddíl 2 — Změny v obsahu (§ 1901—1907)
 
 **§ 1901**:
@@ -2155,6 +3550,62 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 
 **Změny obsahu závazku** dohodou (typicky úpravy splátkového kalendáře, prodloužení doby splatnosti). Použijí se principy o smluvních dispozicích.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1880 návrhu — dnešní § 1901):**
+
+> Náleží k podstatě autonomie vůle a smluvní svobody jako jednoho z jejích
+> projevů, že ve sféře práva soukromého, a zvláště co se týká majetkových
+> oprávnění, mohou osoby smlouvou nejen svá práva a své povinnosti
+> založit, ale mohou je také změnit. Změnit mohou nejen subjektivní práva
+> a povinnosti smlouvou dříve jimi samotnými smluvené, ale i ty, které jim
+> vznikly z jiného právního důvodu (např. z deliktu nebo z quasideliktu).
+> Výrazem této zásady závazkového práva, která je důsledkem zásad
+> formulovaných již v obecné části osnovy, je navržené ustanovení.
+> Výjimku, podle níž jsou v určitých případech nezměnitelná subjektivní
+> majetková práva a povinnosti založená přímo zákonem, není třeba zvlášť
+> vyjadřovat, vzhledem k tomu, že se ani při tomto způsobu vzniku závazků
+> nejedná o obecné pravidlo a případy tohoto druhu kryje již ustanovení
+> obecné části o rozlišení norem kogentních a dispozitivních.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1881 návrhu — dnešní § 1902):**
+
+> Zásadě smluvní svobody odpovídá možnost stran ujednat změnu obsahu
+> původního závazku a nahradit nebo modifikovat jej oprávněními a
+> povinnostmi nově sjednanými. V tom je podstata novace. Rozlišují se
+> novace privativní a kumulativní. Privativní novace nemění obsah
+> původního závazku, ale zrušuje jej tak, že dosavadní obligaci nahrazuje
+> obligace nová. Naproti tomu kumulativní novace mění původní závazek v
+> dohodnutém rozsahu: právní důvod původního závazku trvá a k němu
+> kumulativně přistupuje další důvod opřený o smlouvu o novaci. V tom je
+> základní rozdíl: při privativní novaci právní důvod původního závazku
+> zaniká a nelze k němu přihlížet.
+>
+> V praxi může někdy vzniknout pochybnost, o jakou novaci se za určité
+> konkrétní situace jedná. Pro ten případ se navrhuje stanovit v odstavci
+> 2 shodně s dosavadní úpravou, že nový závazek existuje vedle
+> dosavadního.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1882 až 1884 návrhu — dnešní § 1903—1905):**
+
+> Narovnání (transactio) upravuje pochybný nebo sporný právní poměr.
+> Takový poměr sice narovnáním zaniká, ale dosavadní závazek nahradí
+> závazem nový, který vyplývá z narovnání. Narovnání může vést i ke změně
+> obligace či ovlivnit i jiná než obligační práva a povinnosti.
+>
+> Hlavním účelem narovnání je odstranit spornost práv mezi stranami. Má-li
+> dojít ke generálnímu (všeobecnému) narovnání, které upravuje veškerá
+> práva mezi stranami, chrání se dobrá víra stran a deklaruje neplatnost
+> dohody o takových právech, na něž účastník nemohl pomýšlet. Zajišťovací
+> a preventivní funkce narovnání se projevuje i v tom, že se chrání dobrá
+> víra účastníka v právo narovnáním nabyté. Narovnání sjednané v dobré
+> víře nepozbývá platnosti ani v případě, že dodatečně vyjde najevo, že
+> některá ze stran dohodnuté právo v době sjednání narovnání neměla.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1885 a 1886 návrhu — dnešní § 1906—1907):**
+
+> Určité zásady jsou pro novaci i pro narovnání společné. Tyto zásady se
+> týkají formy dohody o nich, dosahu novace a narovnání a závaznosti dohod
+> o novaci a narovnání pro osoby, které měněné závazky zajistily.
+
 ---
 
 ## Díl 7 — Zánik závazků (§ 1908—2009)
@@ -2168,6 +3619,17 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 > (2) Dlužník musí dluh splnit na svůj náklad a nebezpečí řádně a včas.
 
 **11 hlavních způsobů zániku**:
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1887 až 1889 návrhu — dnešní § 1908—1910):**
+
+> Při celkové úpravě splnění vychází osnova z pojetí obvyklého ve
+> standardních právních řádech, které bylo do platné úpravy promítnuto
+> nejdůsledněji v obchodním zákoníku (§ 324 a násl.). Tato úprava je s
+> některými drobnějšími změnami vzata za základ této partie osnovy. Tak je
+> mezi obecná ustanovení o splnění nově zařazen návrh ustanovení, podle
+> něhož žádná strana závazkového vztahu, nemůže být při soluci proti své
+> vůli nucena odchýlit se od stanoveného či sjednaného předmětu, místa,
+> času nebo způsobu plnění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2357,6 +3819,175 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 **§ 1945**:
 > Počala-li ve vztahu mezi poukazatelem a poukazníkem běžet promlčecí lhůta ohledně závazku, jehož plnění je předmětem poukázky, a to před okamžikem, kdy poukazníkovi došlo sdělení o přijetí poukázky, běží od této doby promlčecí lhůta ve vztahu mezi poukázaným a poukazníkem.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1887 až 1889“ (dnešní § 1908—1910) — viz § 1908.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1887 až 1889“ (dnešní § 1908—1910) — viz § 1908.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1890 až 1892 návrhu — dnešní § 1911—1913):**
+
+> Úprava způsobu plnění vychází z dosavadního pojetí platného obchodního
+> zákoníku, které je stylisticky upraveno a doplněno o některé potřebné či
+> prakticky účelné normativní konstrukce.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1893 až 1904 návrhu — dnešní § 1914—1925):**
+
+> Je-li plněno vadně, vznikají z toho věřiteli práva a dlužníkovi
+> povinnosti. Se zřetelem k tomu se navrhuje upravit jednak následky
+> vadného plnění specielně u jednotlivých smluvních typů, ať již jde o
+> plnění úplatné (např. u koupě nebo díla), nebo bezúplatné (u darování),
+> jednak obecně - pro případy jinak zvlášť neřešené - v obecných
+> ustanovení o závazkovém právu. V tom směru se vychází z pojetí
+> stávajícího občanského zákoníku jen do té míry, která odpovídá zásadám
+> kontinentálního práva.
+>
+> Osnova obecně vychází z pojetí, že osoba, která má podle práva
+> povinnost, odpovídá především za řádné splnění této povinnosti, nikoli
+> za její porušení. Proto s výrazy „odpovědnost" nebo „odpovídá" vůbec
+> šetří. Se zřetelem k tomu se i v návrhu těchto ustanovení bere zřetel,
+> že dlužník odpovídá hlavně za to, že plní bez vad. Plní-li dlužník
+> vadně, vznikají mu z vadného plnění povinnosti a věřiteli tomu
+> odpovídající oprávnění. Obecná úprava na tomto místě se týká jen
+> případů, kdy je plněno za úplatu a vyskytnou se vady.
+>
+> Navrhuje se stanovit, ve kterých případech práva z vad předmětu plnění
+> nevzniknou. Předně se navrhuje zachovat pravidlo § 500 odst. 1 platného
+> občanského zákoníku, podle něhož věřiteli právo z vad předmětu plnění
+> nevznikne, je-li vada zjevná, anebo je-li zanesena do katastru
+> nemovitostí či jiného veřejného seznamu. Nově se navrhuje stanovit i to,
+> že se přejímatel nemůže domáhat práv, jež by mu jinak vznikla proto, že
+> mu byla převedena cizí věc někým, kdo neměl právo tak učinit, věděl-li o
+> této vadě i sám přejímatel.
+>
+> Základ úpravy je pojat tak, že dlužník má povinnost plnit předmět s
+> vlastnostmi odpovídajícími tomu, o čem věřitele ujistil, nebo
+> odpovídající takové potřebě věřitele, o níž dlužník má nebo musí mít
+> vědomost. Není-li jiné kritérium (stanovené zákonem nebo ujednané
+> stranami), vychází se z povinnosti dlužníka plnit ve střední jakosti.
+>
+> Práva z vadného plnění musí být uplatněna včas. Nestane-li se tak,
+> nespojuje s tím osnova zánik práva, protože se vůbec snaží vyhýbat
+> institutu prekluze. Zakládá se však právo zcizitele namítnout opožděné
+> vytknutí vady. Bude-li námitka vznesena, soud právo z vadného plnění
+> nepřizná.
+>
+> Práva z vad se - shodně s dosavadní úpravou - odvíjí podle toho,
+> jedná-li se o vady odstranitelné či neodstranitelné. Shodně s dosavadní
+> úpravou se navrhuje přiznat i právo na náhradu nákladů účelně
+> vynaložených při uplatnění práva z vad předmětu plnění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1905 až 1907 návrhu — dnešní § 1926—1928):**
+
+> Návrh ustanovení o alternativních závazcích odpovídá standardním
+> úpravám, v zásadě promítnutých již do platných úprav v občanském a
+> obchodním zákoníku. Osnova však přejímá čl. 1547 CCQ, podle něhož při
+> možnosti několika volitelných plnění, nelze plnit část jednoho a část
+> jiného plnění (neujednají-li si to ovšem strany).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1908 návrhu — dnešní § 1929):**
+
+> Má-li dlužník plnit věc individuálně určenou, musí splnit přesně to, co
+> bylo ujednáno. Byl-li však předmět plnění dohodnut jen genericky, pak
+> musí plnit předmět s průměrnými vlastnostmi (střední jakost) použitelný
+> k běžnému účelu odpovídajícímu obdobným případům. Fakt, že lze také
+> sjednat něco jiného, není v tomto ustanovení - stejně jako ani v jiných
+> případech návrhu úpravy obligačního práva - zvlášť zmiňována, protože se
+> jedná o zásadu samozřejmou, odpovídající dispozitivitě právní úpravy,
+> vyjádřené již v obecné části osnovy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1909 a 1910 návrhu — dnešní § 1930—1931):**
+
+> Návrh vychází ze zásady, že dlužník má povinnost plnit dluh jako celek.
+> Bere se však v úvahu dosavadní úprava, která odpovídá i evropským
+> standardům, že dlužníku nelze bránit, aby dluh plnil i po částech,
+> třebaže to nebylo ujednáno (což nevylučuje, aby si strany ujednaly
+> opak). Proto se přejímá konstrukce § 566 platného občanského a § 329
+> obchodního zákoníku zakládající povinnost věřitele přijmout i plnění
+> částečné. Pojetí, že pravidlem je povinnost věřitele přijmout i částečné
+> plnění (nejsou-li zvláštní důvody to vylučující), je tudíž zachováno.
+> Navrhuje se však doplnit výslovné ustanovení, převzaté ze zásad
+> UNIDROIT, že v tom případě jsou k dlužníkově tíži zvýšené náklady, které
+> v důsledku částečného plnění věřiteli případně vzniknou. Věřitele nelze
+> zatěžovat tím, že dlužník nesplnil dluh vcelku. Mají-li být např. podle
+> kupní smlouvy dodány tři věci jednorázově, ale je-li plněno po částech,
+> mohou vzniknout věřiteli vyšší náklady spojené s tím, že se musí dostaví
+> několikrát na místo předání atp. Zakládá-li se dlužníku právo plnit po
+> částech, musí být v zájmu rovnováhy práv a povinností stran věřiteli
+> přiznáno právo na náhradu zvýšených nákladů.
+>
+> Přejímá se rovněž tradiční zásada, podle níž výhoda splátek i případná
+> ztráta této výhody musí být zvlášť ujednány.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1911 a 1912 návrhu — dnešní § 1932—1933):**
+
+> Důsledná úprava pravidel o započítávání plnění na příslušenství
+> pohledávky a na jistinu, a stejně tak i úprava o započítávání plnění při
+> dospělosti několika pohledávek, vztahujících se k plnění stejného druhu,
+> na obecné úrovni v našem soukromém právu chybí a řada důležitých otázek
+> se dovozuje výkladem, který není plně ustálen. Proto se navrhuje zavést
+> v tom směru standardně uznaná pravidla.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1913 návrhu — dnešní § 1934):**
+
+> Dosavadní úprava vychází z pojetí, že právní jednání, které učiní osoba
+> k tomu nezpůsobilá, stíhá absolutní neplatnost. Toto opatření se však v
+> některých případech obrací proti zájmům takové osoby, a tak je tomu i v
+> případě splnění dluhu. Proto se navrhuje převzít standardní řešení,
+> podle něhož i plnění uskutečněné nesvéprávnou má právní následky.
+> Bylo-li však plněno na dluh nejistý nebo ještě nedospělý, zakládá to
+> právo dovolat se relativní neplatnosti takového jednání.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1914 návrhu — dnešní § 1935):**
+
+> Jedná se o klasické pravidlo obligačního práva. Použije-li dlužník k
+> plnění jinou osobu, neodpovídá věřiteli tato třetí osoba, nýbrž dlužník.
+> Je pak jeho věcí, jak se potom vypořádá s tím, koho k plnění použil.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1915 až 1917 návrhu — dnešní § 1936—1938):**
+
+> Dosavadní úprava neřeší důsledně otázky spojené s převzetím nebo s
+> přistoupením k dluhu. Zejména je zcela pominuta ochrana osoby, která
+> plnila namísto dlužníka.
+>
+> Občanský zákoník i zákoník práce konstruují (a místy jen pro některé
+> případy) právo postihu dlužníka tím, kdo namísto něho plnil, jako právo
+> nově vzniklé (originární), nevážící se nijak na původní věřitelovu
+> pohledávku. Pouze obchodní zákoník upravil v § 332 odst. 2 subrogaci,
+> leč způsobem, který nebyl, patrně z nepochopení, proveden důsledně.
+> Podstata subrogace je v tom, že osoba, která plnila namísto dlužníka,
+> nabývá pohledávku v tom stavu, v jakém náležela původnímu věřiteli a
+> může vymáhat její splnění dlužníkem. Obchodní zákoník v daném směru
+> konstruuje přechod této pohledávky přímo ze zákona, což plně neodpovídá
+> povaze věci, neboť osoba, která splnila dluh za dlužníka, tak mohla
+> učinit i s darovacím úmyslem. Proto se tzv. zákonná cesse zachovává jen
+> pro případy, kdy za dlužníka plnil ten, kdo jeho dluh zajistil jako
+> ručitel, zástavní dlužník nebo jiným obdobným způsobem. Významnější však
+> je, že platná úprava pomíjí potřebu stanovit, že nový věřitel získává od
+> původního věřitele pohledávku v nedotčeném stavu, tedy včetně
+> poskytnutých zajištění.
+>
+> Tuto obecnou úpravu doplňuje konstrukce inspirovaná čl. 1658 a 1659 CCQ,
+> vztahující se k řešení otázek, kdy namísto dlužníka plnilo několik osob,
+> anebo kdy třetí osoba plnila namísto dlužníka jen z části. Odpovídá
+> zásadám spravedlnosti stanovit, že při částečném plnění třetí osobou,
+> zůstává původnímu věřiteli zachováno právo na uspokojení přednostně před
+> věřitelem novým.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1918 až 1927 návrhu — dnešní § 1939—1948):**
+
+> Poukázka (asignace) je starý institut občanského práva, který poskytl
+> základ celé řadě dalších soukromoprávních institutů, včetně cenných
+> papírů. V našem občanském právu byl tento institut obnoven zák. č.
+> 509/1991 Sb., ale s nevhodnou a celkem zjednodušující inspirací v úpravě
+> československého občanského zákoníku z r. 1950. Osnova se vrací ke
+> klasickému pojetí tohoto institutu. Zároveň se opouští vadné
+> systematické zařazení ustanovení o poukázce jako způsobu změny závazku v
+> subjektech, převzaté do platného občanského zákoníku nesprávnou
+> inspirací v rakouském kodexu, který ve své původní redakci spojoval -
+> pod vlivem francouzského Code civil - asignaci s převzetím dluhu.
+> Novější právní úpravy, zejména německá a portugalská, řadí tento
+> institut případněji do ustanovení o splnění, neboť dlužník, akceptuje-li
+> poukázku, se zprošťuje dluhu vůči věřiteli tím, že plní osobě třetí.
+
 ### 1) Splnění (§ 1908—1949)
 
 **Splnění** (*solutio*, *Erfüllung*) = **přirozený způsob** zániku závazku.
@@ -2412,6 +4043,20 @@ Solidární dlužníci plní jeden za všechny a všichni za jednoho; věřitel 
 > **Poukázka na doručitele**
 > Byla-li poukázka vystavena na doručitele, zaplatí poukázaný dluh každému, kdo mu ji předloží.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1918 až 1927“ (dnešní § 1939—1948) — viz § 1939.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1918 až 1927“ (dnešní § 1939—1948) — viz § 1939.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1918 až 1927“ (dnešní § 1939—1948) — viz § 1939.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1928 až 1930 návrhu — dnešní § 1949—1951):**
+
+> Ustanovení o kvitanci vycházejí z dosavadní úpravy a doplněna jsou tak,
+> aby odpovídala evropskému standardu. Zejména se navrhuje nově stanovit,
+> jaký má mít kvitance obsah (s tím, že podle vyvratitelné domněnky
+> kvitance potvrzující, že byla splněna jistina, potvrzuje zároveň i
+> uspokojení práv na příslušenství) a kdo nese náklady na její pořízení.
+
 ### 2) Dohoda (§ 1981—1982)
 
 **§ 1982**:
@@ -2426,6 +4071,63 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 
 **§ 1981 — Privativní novace** (*Schuldumschaffung*) — nahrazení starého závazku novým.
 **§ 1982 — Narovnání** — kompromisní řešení sporu o závazku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1957 návrhu — dnešní § 1981):**
+
+> Odpovídá zásadě autonomie vůle, že se obligačně vázané strany mohou
+> zbavit práv a zprostit povinností ze závazku tím, že si to ujednají.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1958 až 1967 návrhu — dnešní § 1982—1991):**
+
+> Návrh ustanovení o započtení (kompenzaci) vychází z platné právní úpravy
+> v občanském a obchodním zákoníku, ale zohledňuje také některé standardní
+> úpravy kontinentálního typu, zejména rakouskou, německou a québeckou.
+>
+> Ve shodě s klasickým pojetím institutu se rozlišuje kompenzace nutná a
+> kompenzace provedená na základě ujednání stran. Pokud jde o kompenzaci
+> ujednanou stranami, návrh nepřebírá ustanovení § 581 odst. 3 platného
+> občanského zákoníku, podle něhož lze (vyjma pohledávky výživného pro
+> nezletilé) započítat jakékoli pohledávky, dohodnou-li se o tom strany,
+> neboť již z dispozitivní povahy zákonných ustanovení vyplývá právo stran
+> dospět k ujednáním odchylným od zákona. Proto se návrh omezuje na zákaz
+> ujednání o kompenzaci proti pohledávce výživného pro nezletilou osobu a
+> porušení tohoto zákazu stíhá neplatnosti ujednání.
+>
+> V úpravě započtení, k němuž dochází z vůle jedné strany závazkového
+> vztahu, se zachovává dosavadní koncepce občanskoprávní a obchodněprávní
+> úpravy. Ve shodě se všemi evropskými úpravami i s tradicí římského práva
+> se vychází z pojetí, že k jednostrannému započtení lze přistoupit jen
+> při střetu splatných pohledávek, je-li plnění stejného druhu, a že k
+> zániku započítávaných pohledávek dochází - v tom rozsahu, v jakém se
+> kryjí - zpětně k okamžiku, kdy se pohledávky staly započitatelnými.
+> Navrhuje se však připustit výjimka pro případ, kdy věřitel odložil
+> dlužníkovi čas plnění na jeho žádost a bezúplatně, protože v takovém
+> případě nelze věřiteli klást k tíži její dobročinnost. Návrh, ve shodě s
+> jeho celkovou koncepcí, nevylučuje započtení proti pohledávkám z
+> deliktu, jak to činí např. německé právo (§ 393 BGB) a právní řády
+> některých jiných států. Jediná výjimka, která se navrhuje upravit, se
+> přejímá z § 581 odst. 1 platného občanského zákoníku ohledně náhrady
+> újmy způsobené na zdraví.
+>
+> Doplněno je zvláštní pravidlo o započtení v případě solidárních závazků;
+> vzorem je čl. 1678 CCQ. Po vzoru německé úpravy (§ 391 BGB) se navrhuje
+> ustanovení o důsledcích započtení v případě, že pohledávka a
+> protipohledávka mají být uspokojeny v různých místech.
+>
+> Navrhuje se převzít z platného občanského zákoníku standardní pravidlo,
+> že k započtení nejsou způsobilé naturální pohledávky. Výjimka, kterou
+> pro zvláštní případy zná obchodní zákoník ohledně promlčených
+> pohledávek, se recipuje do obecné úpravy jako obecně použitelné
+> pravidlo. Nově se, v souladu se standardními úpravami, navrhuje výslovně
+> stanovit, že jednostranně nelze započíst ani pohledávky nejisté nebo
+> neurčité, neboť započtení sleduje odstranění vzájemných pohledávek
+> zúčastněných osob, nikoli vyvolání nejasností a následných sporů.
+> Vzhledem k tomu, že některé právní řády berou v úvahu skutečnost, že
+> nominální hodnota pohledávky a její skutečná hodnota se liší, a proto
+> podmiňují započitatelnost pohledávek i jejich likviditou, bylo
+> zvažováno, zda obdobnou podmínku nepřevzít i do našeho práva. Výsledek
+> odborných diskusí však toto řešení nepodpořil: proto návrh setrvává na
+> středoevropském standardu a otázku likvidity pohledávek výslovně neřeší.
 
 ### 3) Započtení (*compensatio*) (§ 1982—1991)
 
@@ -2471,6 +4173,22 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 - Náhrada újmy na zdraví (z deliktu);
 - Pohledávky **z hazardních her**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
 ### 4) Prominutí dluhu (§ 1995)
 
 > § 1995 (1): Promine-li věřitel dlužníku dluh, dluh zanikne; má-li věřitel udělit zajištění dluhu nepravdivými údaji nepřispělý, vrátí, co vzal.
@@ -2482,6 +4200,14 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 **Prominutí dluhu** (*remissio*) = jednostranný úkon věřitele.
 
 **Forma**: bezformální (i konkludentní), **ale**: pokud dluh **na nemovitosti zapsán v katastru** → vyžaduje se písemná forma.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1971 až 1973 návrhu — dnešní § 1995—1997):**
+
+> Zatím platná úprava prominutí dluhu v § 574 občanského zákoníku je
+> zjednodušující a bezvýhradným požadavkem písemné formy dohody o
+> prominutí dluhu příliš rigorózní. Z toho důvodu se navrhuje úprava
+> vstřícnější praktické potřebě po vzoru některých úprav zahraničních.
+> Osnova se inspiruje zejména zákoníkem Québecu (čl. 1687 an.).
 
 ### 5) Splynutí (§ 1993)
 
@@ -2498,6 +4224,12 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 **§ 1994**:
 > Splynutím práva věřitele a povinnosti jednoho z dlužníků zavázaných společně a nerozdílně zaniká dluh do výše odpovídající podílu tohoto spoludlužníka. Splynutím povinnosti dlužníka a práva jednoho z věřitelů oprávněných společně a nerozdílně zaniká pohledávka do výše odpovídající podílu tohoto spoluvěřitele.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1969 a 1970 návrhu — dnešní § 1993—1994):**
+
+> Návrh úpravy splynutí (konfuse) odpovídá § 584 dosavadního občanského
+> zákoníku, přičemž je stávající úprava doplněna o zvláštní ustanovení o
+> důsledcích splynutí v případě solidárních závazků.
+
 ### 6) Narovnání (§ 1903—1907 - viz výše + § 1991—1992)
 
 **§ 1991**:
@@ -2508,6 +4240,17 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 > Ujednají-li si strany, že jedna z nich může závazek zrušit zaplacením odstupného, ruší se závazek zaplacením odstupného obdobně jako při odstoupení od smlouvy. Právo zrušit závazek zaplacením odstupného však nemá strana, která již, byť i jen zčásti, plnění druhé strany přijala nebo druhé straně sama plnila.
 
 **Narovnání** (*Vergleich*) = kompromisní dohoda upravující sporná práva.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1958 až 1967“ (dnešní § 1982—1991) — viz § 1982.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1968 návrhu — dnešní § 1992):**
+
+> Odstupné je běžný institut sloužící obecně ke zrušení závazků. V platném
+> právu byl upraven pouze v obchodním zákoníku (§ 355), odkud jej osnova s
+> drobnými úpravami přejímá. Rozdílně od dosavadní úpravy v obchodním
+> zákoníku, která úprava odstupného pojala jako kogentní, sleduje návrh
+> úpravu dispozitivní. Pro zákonodárce není věcný důvod zasahovat do
+> právního poměru mezi stranami a omezovat je v možnostech negociace.
 
 ### 7) Nemožnost plnění (§ 1996—2000)
 
@@ -2527,6 +4270,12 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 - **Z viny dlužníka** → zánik závazku, **náhrada škody**;
 - **Bez viny dlužníka** (vyšší moc) → zánik závazku **bez náhrady**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1971 až 1973“ (dnešní § 1995—1997) — viz § 1995.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1971 až 1973“ (dnešní § 1995—1997) — viz § 1995.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1974 až 1976“ (dnešní § 1998—2000) — viz § 1998.
+
 ### 8) Smrt dlužníka nebo věřitele (§ 2009)
 
 **§ 2009**:
@@ -2537,6 +4286,11 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 - **Smrt dlužníka**: závazek **přechází na dědice** (kromě intuitu personae);
 - **Smrt věřitele**: pohledávka přechází na dědice;
 - **Intuitu personae** (závazek vázaný na osobu, např. zaměstnání): **zaniká smrtí**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1985 návrhu — dnešní § 2009):**
+
+> Jedná se o standardní ustanovení, běžné ve všech právních řádech. Osnova
+> přejímá § 579 platného občanského zákoníku.
 
 ### 9) Výpověď (§ 1998—1999)
 
@@ -2551,6 +4305,12 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 **Výpověď** (*Kündigung*) = **jednostranný úkon zaměřený na zánik závazku** na dobu neurčitou:
 - **Smluvně sjednaná** výpovědní doba (typicky 3 měsíce u dlouhodobých závazků);
 - **Zákonem stanovená** (např. nájem bytu — § 2287 a násl.).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1974 až 1976 návrhu — dnešní § 1998—2000):**
+
+> Z dosavadní úpravy se přejímá institut výpovědi, doplňuje se však o
+> zvláštní ustanovení, chránící před tzv. šněrovacími úmluvami zavazující
+> smluvní stranu po neúměrně dlouhou dobu.
 
 ### 10) Odstoupení (§ 2001—2005)
 
@@ -2596,6 +4356,20 @@ Strany se mohou dohodnout na zániku závazku (cestou kompromisu, narovnání, n
 
 **§ 2008**:
 > Neoznámí-li dlužník věřiteli, že se splnění dluhu stalo nemožným, bez zbytečného odkladu poté, co se o tom dozvěděl nebo dozvědět musel, nahradí věřiteli škodu vzniklou tím, že věřitel nebyl o nemožnosti plnění včas vyrozuměn.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1977 až 1981 návrhu — dnešní § 2001—2005):**
+
+> Osnova vychází se návrhu ustanovení o odstoupení od smlouvy inspiruje
+> pojetím obsaženém v platném obchodním zákoníku, bere však zřetel i na
+> standardní zahraniční úpravy. Návrh respektuje autonomii vůle stran,
+> bere však v úvahu i racionální vyznění normativní úpravy, šetřícího
+> jistotu smluvních stran a bránícího neúčelnému zmaření smlouvy bez
+> racionálního podkladu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1982 až 1984 návrhu — dnešní § 2006—2008):**
+
+> Návrh ustanovení o následné nemožnosti plnění přejímá dosavadní platnou
+> úpravu v občanském a obchodním zákoníku.
 
 ### 11) Promlčení (§ 609—653)
 
@@ -2721,6 +4495,33 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 > (1) Byla-li ve smlouvě ujednána přesná doba plnění a vyplývá-li ze smlouvy nebo z povahy závazku, že věřitel nemůže mít na opožděném plnění zájem, zaniká závazek počátkem prodlení dlužníka, ledaže věřitel dlužníku bez zbytečného odkladu oznámí, že na splnění smlouvy trvá.
 > (2) Zánikem závazku nastávají tytéž účinky, jako by věřitel od smlouvy odstoupil.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1931 návrhu — dnešní § 1952):**
+
+> Dlužník může ještě před dospělostí věřitelovy pohledávky nebo před
+> splněním dluhu svůj dluh vůči věřiteli uznat nebo jinak potvrdit, že mu
+> dluží. V takovém případě musí mít dlužník právo, aby mu věřitel dlužní
+> úpis vrátil nebo jinak potvrdil, že bylo splněno.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1932 návrhu — dnešní § 1953):**
+
+> Z různých důvodů mohou nastat situace, za nichž dlužník nemůže vyrovnat
+> splatnou věřitelovu pohledávku z příčin, které se na straně věřitele
+> vyskytly. Za těchto okolností je namístě umožnit dlužníku, aby se dluhu
+> zprostil náhradním splněním. Ustanovení recipuje s nepatrnými úpravami §
+> 568 platného občanského zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1933 až 1943 návrhu — dnešní § 1954—1964):**
+
+> Návrh ustanovení o místě a času plnění vychází z úpravy dosud platné,
+> jak se objevuje v občanském a obchodním zákoníku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1944 až 1955 návrhu — dnešní § 1965—1976):**
+
+> Návrh právní úpravy prodlení vychází z pojetí v dosud platném obchodním
+> zákoníku a co do myšlenkového základu ji přejímá. Posun oproti ní je
+> především v konstrukci návrhu formulujícího obecný důvod, podle něhož i
+> prodlení věřitele opravňuje dlužníka k odstoupení od smlouvy.
+
 ---
 
 ## Díl 8 — Zajištění a utvrzení dluhů (§ 2010—2054)
@@ -2772,6 +4573,71 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 > (1) Ztratí-li jistota na ceně tak, že se zajištění stane nedostatečným, má věřitel právo žádat od dlužníka, aby zajištění bez zbytečného odkladu přiměřeně doplnil; pokud to dlužník neučiní, stane se splatnou ta část pohledávky, která není zajištěna.
 > (2) Ustanovení odstavce 1 se použije i v případě, když byla jistota oprávněně čerpána.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1986 až 1989 návrhu — dnešní § 2010—2013):**
+
+> Osnova rozlišuje zajištění dluhů (zástavou, ručením, bankovní zárukou,
+> zajišťovacím převodem a dohodou o srážkách ze mzdy) a jejich utvrzení
+> (uznáním dluhu a sjednáním smluvní pokuty). Uznání dluhu, ani smluvní
+> pokuta totiž hospodářsky nezajišťují pohledávku věřitele, třebaže mu
+> poskytují jiné výhody. Uznáním dluhu je dluh utvrzen v tom smyslu, že
+> uznání dluhu zakládá právní domněnku existence dluhu. Také smluvní
+> pokuta utvrzuje dluh, a to tím způsobem, že dlužník je hrozbou další
+> povinnosti (povinnosti k sankčnímu plnění) více motivován k splnění
+> prvotní povinnosti.
+>
+> Navržená ustanovení o jistotě vycházejí z platné úpravy (§ 555 a násl.
+> občanského zákoníku), opouštějí však dosavadní zjednodušování. Za
+> dostatečnou jistotu se především považuje zástava, a to zásadně jen do
+> určité výše hodnoty zastavené věci. Není-li možná takovou jistotu
+> složit, lze uznat za dání dostatečné jistoty obstarání způsobilého
+> ručitele.
+>
+> (674) K § 1990:
+>
+> Akcesoritou zajišťovací obligace je dáno, že jistota (kauce) zajišťuje
+> nejen jistinu, ale i její příslušenství. Navrhuje se však stanovit, že
+> se jistota vztahuje - pokud jde o úroky - jen na příslušenství
+> předvídatelné pro osobu, která jistotu dává. Je-li tedy zajištěn
+> peněžitý dluh, aniž je něco o úrocích zvlášť ujednáno, může poskytovatel
+> jistoty rozumně předpokládat, že je dluh úročen v zákonné sazbě. Je-li
+> dluh úročen méně nebo není-li úročen vůbec, kryje jistota samozřejmě jen
+> dluh s jeho skutečným příslušenstvím. Ujednají-li si však dlužník a
+> věřitel vyšší úrok než zákonný, zavazuje to poskytovatele jistoty, jen
+> pokud s tím byl včas seznámen.
+>
+> (675) Obdobně se navrhuje řešit případ, kdy se dává jistota za dluh již
+>       úročený. Tehdy má jistota krýt jen úroky, které přirostou teprve v
+>       budoucnu. I toto ustanovení je dispozitivní, takže lze ujednat
+>       cokoli jiného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1991 a 1992 návrhu — dnešní § 2015—2016):**
+
+> Navržené ustanovení sleduje vyřešit konkurenci různých zajišťovacích
+> práv několika věřitelů k téže věci. Táž věc může sloužit většímu počtu
+> věřitelů k zajištění různých pohledávek na základě různých právních
+> důvodů. K věci může vzniknout zákonné zástavní právo, zástavní právo ze
+> smlouvy, jistota může být vytvořena i různými obligačními instituty
+> (zajištění může být např. zřízeno zajišťovacím převodem práva nebo i
+> zastřeno výhradou práva vlastnického nebo výpůjčkou), přičemž podle
+> současné úpravy může snadno dojít zejména k tomu, že právo věřitele
+> zapsané do veřejného seznamu bude odsunuto nebo zpochybněno právem jiným
+> a nezveřejněným. Z těchto důvodu se navrhuje dát při uspokojení přednost
+> věřitelům, jimž svědčí zákonné zajištění, před věřiteli, jejichž jistota
+> byla založena smlouvou. U smluvních věřitelů má být dána přednost těm,
+> jimž svědčí zveřejněné věcné právo před věřiteli, jejichž věcné právo
+> zveřejněno nebylo, a těmto zase před věřiteli, jejichž jistota vzešla z
+> pouhé obligace. I v každé skupině se může vyskytnout více věřitelů.
+> Proto se navrhuje stanovit, že pro věřitele, jejichž zajištění bylo
+> zapsáno do veřejného seznamu, rozhoduje pořadí zápisů, zatímco pro
+> ostatní věřitele pořadí určené podle vzniku jejich práv.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1993 až 2004 návrhu — dnešní § 2017—2028):**
+
+> Návrh úpravy ručení je v zásadě převzat z dosud platné úpravy v
+> obchodním zákoníku (§ 303 až 312) s nepatrnými změnami. Zejména se
+> upřesňuje smluvní povaha vzniku ručení v tom smyslu, že odmítne-li
+> věřitel ručitele, nemá pak již právo po něm cokoli žádat.
+
 ### Oddíl 2 — Ručení (§ 2018—2028)
 
 **Ručení** (*Bürgschaft*, *guaranty*) — **přídatné** zajištění:
@@ -2814,6 +4680,252 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 - Funkčně podobné zástavnímu právu;
 - Méně formální (bez zápisu);
 - Větší rizika pro dlužníka (právní vlastník je věřitel).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2016 návrhu — dnešní § 2040):**
+
+> Účelem zajišťovacího převodu práva je vyhovět zájmu věřitele získat
+> lepší jistotu a snazší uspokojení, než jaké poskytují jiné způsoby
+> zajištění. Právní úprava zajišťovacího převodu práva je obsažena v
+> platném občanském zákoníku v § 553. Četní autoři (např. Čermák jr.,
+> Mikeš, Švestka a další) poukazují na kusost této úpravy i na potřebu
+> jejího upřesnění, má-li být tento právní institut zachován. Výslovná
+> úprava tohoto způsobu zajištění v našem právu dlouho chyběla; neznaly
+> jej ani občanské zákoníky z r. 1811 a 1950, ani platný občanský zákoník
+> ve své původní redakci z r. 1964. Do našeho právního řádu byla
+> ustanovení o zajišťovacím převodu práva začleněna zákoníkem
+> mezinárodního obchodu z r. 1963 (§ 207 až 209), který tento institut
+> upravil vedle zástavního práva a dalších běžných zajišťovacích
+> institutů.
+>
+> Nicméně v prostředí tržní ekonomiky se u nás zvláště po první světové
+> válce rozvinula praxe, že se zajišťovacím převodem převádělo vlastnické
+> právo na omezený čas a dobová judikatura (např. Váž. 2886 z r. 1923,
+> Váž. 4085 z r. 1924 aj.) pojala takové postupy jako zajištění svého
+> druhu. Tehdejší literatura sice označovala takové řešení jako jeden ze
+> způsobu zajištění, avšak zároveň nezastírala jeho spornou povahu (např.
+> Sedláček, J. Vlastnické právo. 1. vydání. Praha: V. Linhart, 1935). Při
+> přípravě československého občanského zákoníku navrhl do zákonné osnovy
+> ustanovení o zajišťovacím převodu práva subkomitét pro revizi občanského
+> zákoníku pro Československou republiku vedený Janem Krčmářem, do
+> vládního návrhu zákoníku však navržená úprava převzata nebyla. Občanský
+> zákoník z r. 1950 upravil jen zajišťovací postup pohledávek (§ 294),
+> občanský zákoník z r. 1964 zvolil jiné zajišťovací instituty. Ale i za
+> účinnosti občanského zákoníku z r. 1964 v jeho původním znění se
+> připouštělo, že zajišťovací převod vlastnického práva, upravený výslovně
+> v z.m.o., lze ujednat i v režimu obecného občanského práva
+> nepojmenovanou smlouvou (srov. Knapp, V. - Luby, Š. et al.
+> Československé občanské právo. Svazek I. 2. vydání. Praha: Orbis, 1974).
+> Platný občanský zákoník upravil zajišťovací převod práva až v důsledku
+> novely provedené zákonem č. 509/1991 Sb.; do § 554 obč. z. bylo touto
+> novelou převzato ze zákoníku mezinárodního obchodu pouze základní
+> ustanovení § 287. Z toho plynou četné praktické problémy, na něž
+> poukazuje řada odborných textů.
+>
+> Zřejmé je, že vypuštěním výslovné úpravy zajišťovacího převodu práva z
+> občanského zákoníku by se prakticky mnoho nezměnilo, protože právní
+> praxi by to nebránilo v ujednání tohoto způsobu zajištění dluhu
+> nepojmenovanou smlouvou. Mlčení zákona by tak patrně zavdalo příčinu
+> ještě výraznějších sporů než jak tomu je dnes. Nelze přehlížet, že si
+> praxe takový modus zajištění zvláště po r. 1991 osvojila, že tento
+> způsob slouží určitým praktickým potřebám a jen obtížně by bylo možné
+> jej z praktického života vyloučit. Výslovný zákaz by vedl jen k tomu, že
+> by si praxe našla ke stejnému cíli sofistikovanější cesty. Zákonem by
+> sice bylo možné omezit zajišťovací převod práva jen na určité předměty
+> (např. jen na věci movité) nebo jen pro určité osoby, popřípadě zpřísnit
+> požadavek na formu smlouvy, taková omezení by však zjevně nevedla k
+> prospěšnému výsledku, neboť by jednak mohla vyloučit takové právní
+> modifikace zajištění, které si dnes ještě ani nedokážeme představit,
+> aniž je důvod jim zákonem bránit, jednak - pokud jde o zpřísnění formy
+> smlouvy - jde o prostředek v dané souvislosti málo účinný.
+>
+> Tyto důvody vedou k tomu výsledku, že se navrhuje zajišťovací převod
+> práva zachovat v občanském zákoníku výslovnou úpravou i nadále, zároveň
+> se však navrhuje dosavadní kusou úpravu rozvinout a upřesnit. Při
+> formulaci návrhu nových ustanovení bylo přihlédnuto k nedávné novele
+> občanského zákoníku na Slovensku zákonem č. 568/2007 Z.z.; nová
+> slovenská úprava však slouží jen jako jeden z inspirativních zdrojů a
+> nepřejímá se v celém rozsahu, protože tato úprava (zejména v § 553c a
+> 553e slovenského občanského zákoníku) v podstatě setřela právní rozdíly
+> mezi zajišťovacím převodem práva a zástavním právem. Nová úprava je
+> navíc kritizována i v samotné Slovenské republice (srov. např.
+> Cvrkalová, I. Zabezpečovací prevod práva po novom. In Husár, J. (ed.).
+> Tradície a inovácie v súkromnom práve. Košice: UPJŠ, 2009).
+>
+> Při přípravě návrhu československého občanského zákoníku po první
+> světové válce navrhl prof. J. Krčmář formulovat zvláštní ustanovení
+> zakazující obcházet smlouvou o zajišťovacím převodu práva ustanovení o
+> jiných způsobech zajištění, avšak s výslovným upozorněním, že v samotné
+> snazší možnosti věřitele uspokojit se (než při zřízení zástavního práva)
+> nelze spatřovat důvod neplatnosti. Srov. k tomu: Všeobecná část
+> občanského zákoníka a právo obligační. Návrh subkomitétu pro revisi
+> občanského zákoníka pro Československou republiku. Referent: Jan Krčmář.
+> 2. vydání. Praha: Ministerstvo spravedlnosti, 1924. Tento Krčmářův návrh
+> zapadl a do vládního návrhu občanského zákoníku z r. 1937 nebyl
+> zapracován. Ani v souvislosti s přípravou návrhu nového občanského
+> zákoníku nebyl shledán důvod k výslovné formulaci uvedeného pravidla
+> jako výslovně formulovaného v textu zákona, neboť obecná ustanovení o
+> neplatnosti a odepření právní ochrany se jeví jako dostačující.
+>
+> Podstatou zajišťovacího převodu je vylepšení právního postavení věřitele
+> tím, že na něj jeho dlužník či osoba třetí dočasně převádí své právo
+> (včetně vlastnického) za účelem zajištění věřitelovy pohledávky. Je
+> jisté, že v takových případech se musí nutně jednat o převod dočasný,
+> resp. podmíněný. Zákon pro smlouvu o zajišťovacím převodu nevyžaduje
+> zvláštní formu; jiná zákonná ustanovení -- např. požadavek písemné formy
+> smluv o převodu nemovité věci -- tím však nejsou dotčena. Ve druhém
+> odstavci je formulována vyvratitelná právní domněnka, dle níž je
+> zajišťovací převod převodem s rozvazovací podmínkou, že dluh (zajištěný)
+> bude splněn. Tím se má mj. zabránit trvání současné soudní praxe, která
+> dovozuje, že zajišťovací převod práva je vždy převodem s rozvazovací
+> podmínkou a naopak nemůže být nikdy sjednán jako fiduciární převod (tak
+> např. rozsudek velkého senátu občanskoprávního a obchodního kolegia
+> Nejvyššího soudu ze dne 15. 10. 2008, sp. zn. 31Odo 495/2006). Osnova
+> tak výslovně umožňuje sjednávat zajišťovací převod jako převod
+> fiduciární, kdy splněním zajištěného dluhu nedochází k automatickému
+> obnovení práv k objektu převodu u původního subjektu (obligačního
+> dlužníka či třetí osoby), nýbrž je třeba, aby zajištěný věřitel novým
+> právním jednáním předmět zajištění převedl na jeho původního
+> poskytovatele zpět. Nebude-li však jiné dohody, uplatní se vyvratitelná
+> domněnka s konstrukcí převodu práva s rozvazovací podmínkou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2017 návrhu — dnešní § 2041):**
+
+> Převádí-li se právo k zajištění (tj. dočasně, resp. podmíněně), nesmí
+> být skutečný stav třetím osobám skryt. Nelze hledět jen na zájmy
+> věřitele a dlužníka (nebo třetí osoby, která dala jistotu), ale také na
+> zájmy třetích osob, zejména současných i budoucích věřitelů těchto osob;
+> v jejich zájmu je upozornit je na hospodářské postavení jejich dlužníků.
+> Důslednou ochranu třetích osob lze zajistit dvěma způsoby. Jde-li o věc
+> zapsanou ve veřejném seznamu, je potřebné v zájmu publicity zřízeného
+> zajištění podmínit jeho vznik zápisem do příslušného veřejného seznamu
+> obdobně, jako je tomu u zástavního práva. Obdobné řešení zvolil
+> slovenský občanský zákoník v § 553 odst. 2. Týká-li se zajišťovací
+> převod práva věci nezapsané do veřejného seznamu, uplatní se § 1099,
+> podle kterého závady váznoucí na věci nabyvatel vlastnického práva
+> přejímá, měl-li a mohl-li je z okolností zjistit nebo bylo-li to
+> ujednáno, popřípadě stanoví-li tak zákon; jinak zanikají. Věc, která
+> není zapsána ve veřejném seznamu, může být popřípadě i označena, že se
+> převod stal jen k zajištění, ujednají-li si to strany. To sice samo o
+> sobě nemá pro vznik zajištění konstitutivní účinky, může to za
+> konkrétních okolností transparentnosti prospět.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2018 návrhu — dnešní § 2042):**
+
+> Věřitel, na kterého bylo převedeno k zajištění vlastnické právo, má
+> postavení vlastníka: může mj. žalovat jiné osoby o vydání věci,
+> zadržují-li ji bez právního důvodu, a může je žalovat i o to, aby ustaly
+> v rušení jeho práva. Stejně tak má právo žalovat na určení svého
+> vlastnictví. Zároveň je však omezen tím, že zajišťovací převod práva má
+> dočasný charakter - bude-li dluh splněn, musí věřitel vydat předchozímu
+> vlastníku, co k zajištění obdržel.
+>
+> Věřitel po dobu trvání zajišťovacího převodu není oprávněn nabytý
+> majetek zcizovat nebo zatěžovat. Uvedené omezení není třeba formulovat
+> výslovně, neboť plyne z povahy zajišťovacího převodu. Tento limit však
+> působí jen inter partes, tedy mezi zajištěným věřitelem a osobou
+> poskytnuvší zajištění. Odhodlá-li se tedy věřitel k převodu objektu
+> zajištění na třetí osobu dříve, než se dlužník dostane do prodlení
+> s úhradou svého zajištěného dluhu, bude se jednat o převod platný a
+> poskytovatel zajištění nebude moci své vlastnické právo u takové třetí
+> osoby uplatnit (třetí osoba se stane vlastníkem objektu sloužícího
+> k zajištění). Tím je chráněna dobrá víra nabyvatele; ten, kdo věřiteli
+> poskytuje jistotu zajišťovacím převodem práva, si v takových případech
+> musí uvědomit riziko, které podstupuje, a popřípadě je snížit vhodnými
+> smluvními ujednáními (např. tak, že věc nebude na dobu trvání zajištění
+> předána věřiteli, ale osobě třetí, nebo že se zajistí doložkou o smluvní
+> pokutě, popřípadě že namísto zajišťovacího převodu práva ujedná s
+> věřitelem zástavní právo apod.). V každém případě jde o rizika, která
+> poskytovatel jistoty pro sebe založil vlastní smlouvou, a nemůže jejich
+> důsledky přenášet na třetí osoby jednající v dobré víře. Poruší-li
+> věřitel smlouvu o zajišťovacím převodu práva, vznikne mu povinnost
+> nahradit druhé smluvní straně způsobenou škodu.
+>
+> Dále se navrhuje stanovit, že strana, která má u sebe věc, jíž se týká
+> právo převedené k zajištění, musí po dobu trvání zajišťovacího převodu
+> práva vykonávat prostou správu věci. Toto ustanovení se navrhuje jako
+> dispozitivní, neboť smluvním stranám nelze bránit, aby si ujednaly něco
+> jiného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2019 návrhu — dnešní § 2043):**
+
+> Pojmovým znakem zajišťovacího převodu práva je jeho dočasnost. Je proto
+> třeba formulovat povinnosti věřitele poté, co důvod trvání zajišťovacího
+> převodu pominul. Tak tomu bude typicky při splnění zajištěného dluhu.
+> Bude-li zajišťovací převod práva konstruován jako převod fiduciární, má
+> věřitel povinnost novým právním jednáním převést předmět zajištění zpět
+> na toho, kdo zajištění poskytl. Uplatní-li se naopak vyvratitelná
+> domněnka § 2016 odst. 2, stane se poskytovatel zajištění v okamžiku
+> splnění zajištěného dluhu staronovým vlastníkem (jiným oprávněným)
+> objektu převedeného za účelem zajištění a věřitel je povinen umožnit
+> této osobě plný výkon jejího práva (např. vydáním předmětu zajištění).
+>
+> Ve druhé větě se navrhuje stanovit rozsah toho, co má věřitel vydat
+> osobě, která zajištění poskytla. Toto právní pravidlo je zjevně
+> dispozitivní; strany si mohou např. ujednat, že věřitel na úhradu
+> zajištěného dluhu použije, co z poskytnuté jistoty získá, apod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2020 návrhu — dnešní § 2044):**
+
+> Zásadní rozdíl mezi zástavním právem a zajišťovacím převodem práva
+> spočívá v tom, že - není-li zajištěný dluh splněn - v prvém případě musí
+> zástavní věřitel zástavu zpeněžit jako věc cizí postupem stanoveným
+> dosti rigidními ustanoveními o právech věcných, zatímco v druhém případě
+> jde o převod s rozvazovací podmínkou, že splní-li se zajištěný dluh,
+> účinky převodu zaniknou a vše se vrací do předešlého stavu. Není-li však
+> dluh splněn, je podmínka zmařena a podmíněný převod se mění na
+> nepodmíněný. V důsledku toho připadne věřiteli právo převedené původně
+> jen na dočasnou dobu jako trvalé. Pro věřitele jde o řešení zjevně
+> výhodnější, poskytovatel jistoty (zvláště, je-li to přímo sám dlužník),
+> se však ocitá v postavení nevýhodnějším. Přitom však nelze přehlížet, že
+> se jedná o postavení, které si tato osoba volí sama a že je pro ni
+> varující již skutečnost, že se za účelem zajištění zbavuje vlastnického
+> práva s vědomím, že ztráta vlastnictví bude pro ni definitivní,
+> nesplní-li se zajištěný dluh.
+>
+> Přesto se i tak klade otázka, má-li zákon výrazněji chránit osobu, která
+> zajištění poskytla. Jde zejména o případy, kdy hodnota poskytnuté
+> jistoty zřejmě převyšuje výši zajištěného dluhu. Slovenský občanský
+> zákoník zvolil po novele provedené zákonem č. 568/2007 Z.z. řešení,
+> kterým se věřiteli ukládá převedené právo zpeněžit způsobem ujednaným ve
+> smlouvě, nebo ve veřejné dražbě; zároveň prohlašuje za neplatné dohody,
+> jejichž obsahem nebo účelem je uspokojení věřitele tím, že si převedené
+> právo ponechá trvale, pokud byly uzavřeny před splatností zajištěného
+> dluhu (§ 553c). Takové řešení však věřitele výrazně omezuje a v podstatě
+> stírá právní rozdíl mezi zástavním právem a zajišťovacím převodem práva.
+>
+> Z toho důvodu se navrhuje řešení, které věrně sleduje právní pojetí
+> zajišťovacího převodu práva jako podmíněného převodu, který se
+> v okamžiku prodlení dlužníka se splněním zajištěného dluhu mění v
+> nepodmíněný. Ochrana dlužníka je namístě v případě, že hodnota
+> poskytnuté jistoty zřejmě převyšuje hodnotu zajištěného dluhu: účelem
+> zajišťovacího převodu práva je snazší uspokojení věřitelovy pohledávky,
+> nikoli věřitelovo obohacení. Obecná ustanovení o *laesio enormis* nebo
+> lichvě se v této souvislosti nejeví jako dostačující. Jako dostačující
+> se nejeví ani ustanovení o bezdůvodném obohacení, byť se jeho úprava
+> opírá o obecnou klauzuli, že bezdůvodné obohacení vzniká, není-li pro ně
+> spravedlivý důvod. Nelze totiž přehlížet společné právní pravidlo o
+> jistotách, podle něhož není nikdo povinen přijmout věc jako jistotu do
+> částky vyšší, než kolik činí dvě třetiny obvyklé ceny. Z něho by mohlo
+> být vyvozováno s odkazem na pravidlo *lex specialis derogat generali*,
+> že třetinové obohacení věřitele je ještě přípustné. Proto se navrhuje
+> stanovit, že nastane-li zřejmý hodnotový rozdíl mezi jistotou a
+> zajištěným dluhem, vnikne věřiteli po přeměně podmíněného převodu v
+> nepodmíněný povinnost rozdíl vypořádat. Návrh se vyhýbá přesné
+> specifikaci zřejmosti rozdílu, protože dosti záleží na konkrétních
+> okolnostech případu. Lze však mít za to, že již rozdíl převyšující deset
+> procent bude zpravidla považován za zřejmý. Formulace poslední věty
+> druhého odstavce usiluje vést strany k tomu, aby právo převáděné k
+> zajištění bylo již ve smlouvě hodnověrně oceněno. K hodnověrnému ocenění
+> nemusí vést jen ocenění znalcem; ve vztahu ke konkrétním věcem může být
+> ocenění hodnověrné např. s odkazem na cenu, za niž byla věc koupena,
+> popř. za niž se obvykle prodává. Tyto náležitosti se však nestanoví jako
+> podstatné náležitosti smlouvy. Určit výši dluhu v zajišťovací smlouvě
+> není již při jejím uzavření vždy možné (např. jde-li o náhradu škody) a
+> ani na hodnověrném ocenění jistoty není třeba vždy bezvýhradně trvat
+> (např. převádí-li se k zajištění movitá věc v ceně nikoli vysoké).
+> Navrhuje se však stanovit, že v případě, že strany ve smlouvě uvedené
+> údaje neuvedou, bude na věřiteli, aby prokázal, že rozdíl mezi cenou
+> jistoty a výší zajištěného dluhu není zřejmý.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2896,6 +5008,69 @@ Zajišťovací převod práva je dočasný převod s rozvazovací podmínkou spl
 - Limit: **nikoliv více než ½ čisté mzdy** (§ 2046);
 - Z spotřebitelských smluv: max **¼ čisté mzdy** (od 2024).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2021 až 2023 návrhu — dnešní § 2045—2047):**
+
+> Dohoda o srážkách ze mzdy se přejímá z dosavadní úpravy obsažené v
+> občanském zákoníku (§ 551) a v zákoníku práce (§ 246). Zajištění závazku
+> dohodou o srážkách ze mzdy není ve standardních občanských zákonících
+> Evropy zvlášť upraveno; k témuž účelu stačí úprava cesse. Nicméně bylo
+> zváženo, že bude vhodné tento zajišťovací institut ponechat se zřetelem
+> k praktické potřebě a vhodnosti, zvláště proto, že je v českém prostředí
+> standardně využíván k zajištění a placení pohledávek na výživné. Osnova
+> však nemíní plátce mzdy nadále neúměrně zatěžovat náklady spojenými s
+> poukazováním srážek, a proto se navrhuje, aby tyto náklady nesl jen v
+> omezené míře (podobně jako postoupený dlužník u cesse nese náklady
+> placení pohledávky postupníkovi).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2024 až 2028 návrhu — dnešní § 2048—2052):**
+
+> Ustanovení o smluvní pokutě jsou společně s ustanoveními o uznání dluh
+> zařazena do zvláštního oddílu nazvaného Utvrzení dluhu. Funkcí obou
+> těchto institutů totiž není dluh zajistit, jako tomu je u ručení,
+> zástavy nebo dalších ve vlastním slova smyslu zajišťovacích institutů,
+> ale posílit postavení věřitele jiným způsobem. Toho si někteří autoři i
+> soudní praxe povšimli již dávno. Např. Sedláček ve svém systému
+> závazkového práva smluvní pokutu vůbec neřadí mezi zajišťovací instituty
+> a pojednává o ní ve výkladu o vedlejších smluvních ujedná­ních (Sedláček,
+> J. Obligační právo. Obecné nauky o práv­ních jednáních obligačních a o
+> splnění závazků. 2. vydání. Brno: Právní­k, 1924, s. 110 an. a s. 158).
+> Účelem smluvní pokuty je dát předem (tedy před splněním a zpravidla již
+> při uzavírání smlouvy) najevo zvýšený zájem věřitele na náležitém
+> splnění smluvní povinnosti.
+>
+> Návrh ustanovení o smluvní pokutě se přejímá z dosud platné úpravy v
+> občanském (§ 544 a 545) a obchodním (§ 300 a násl. zákoníku) s některými
+> upřesňujícími změnami.
+>
+> Předně se výslovnou formulací odstraňují pochybnosti, zda si lze ujednat
+> jako smluvní pokutu i nepeněžité plnění.
+>
+> Dále se vylučuje zánik práva na smluvní pokutu v případě nezaviněného
+> porušení smluvní povinnosti, jak je dnes upraven v § 545 odst. 3
+> občanského zákoníku. Toto pojetí je teoreticky chybné a vymyká se z
+> přístupů zahraničních úprav. Mají-li však strany na tom zájem, mohou si
+> ujednat, že dlužník bude povinen zaplatit smluvní pokutu jen při
+> zaviněném porušení smluvní povinnosti, popř. jen při jejím úmyslném
+> porušení, při hrubém porušení smluvní povinnosti apod. Tomu zákonná
+> dispozice nebrání.
+>
+> Rovněž se stranám nebrání, aby si odchylkou od zákonné dispozice
+> ujednaly nepravou smluvní pokutu, jejíž podstata je v tom, že zaplacením
+> smluvní pokuty utvrzená smluvní povinnost zanikne.
+>
+> Vznik práva na smluvní pokutu se váže na porušení smluvní povinnosti
+> (tedy mimo jiné i na porušení povinnosti splnit dluh určitým způsobem).
+> To platí i v případě, že se strana ve smlouvě zaváže, že do určité doby
+> obstará určité rozhodnutí příslušného orgánu veřejné moci (např.
+> stavební povolení), neboť také v tomto případě půjde o porušení smluvní
+> povinnosti.
+>
+> Ujednají-li si strany, že dlužník zaplatí věřiteli určitou částku pro
+> případ, že nastane jiná skutečnost, než je porušení smluvní povinnosti,
+> nepůjde sice o smluvní pokutu, nicméně půjde o platné ujednání, které se
+> podle okolností posoudí jako ujednání o odstupném, případně jako
+> ujednání nepojmenované smluvní klauzule.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 841/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/19E6ECD305A357E1C12588920017D74F?openDocument) — *Smluvní pokuta Zástavní právo*
@@ -2958,6 +5133,14 @@ Dohodou o srážkách ze mzdy lze zajistit dluh; nejde-li o právo zaměstnavate
 **§ 2052**:
 > Ustanovení o smluvní pokutě se použijí i na pokutu stanovenou pro porušení smluvní povinnosti právním předpisem (penále).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2024 až 2028“ (dnešní § 2048—2052) — viz § 2048.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2024 až 2028“ (dnešní § 2048—2052) — viz § 2048.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2024 až 2028“ (dnešní § 2048—2052) — viz § 2048.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2024 až 2028“ (dnešní § 2048—2052) — viz § 2048.
+
 ### § 2053—2054 — Uznání dluhu
 
 **§ 2053**:
@@ -2979,6 +5162,13 @@ Dohodou o srážkách ze mzdy lze zajistit dluh; nejde-li o právo zaměstnavate
 > - **ÚS sp. zn. III. ÚS 596/19** — k nepřiměřeným klauzulím ve spotřebitelských smlouvách;
 > - **NS sp. zn. 33 Cdo 2782/2019** — k 14dennímu odstoupení od distančních smluv;
 > - **SDEU C-118/17 Dunai** — k zneužívajícím klauzulím (interpretační vlivy na § 1813 OZ).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2029 a 2030 návrhu — dnešní § 2053—2054):**
+
+> Návrh ustanovení o uznání dluhu vychází z dosud platných úprav
+> v zákoníku občanském a obchodním i v zákoníku práce, přičemž
+> z obchodního zákoníku se přejímá úprava konkludentního uznání dluhu
+> placením úroků nebo částečným plněním.
 
 **Judikatura (z místních zdrojů):**
 
@@ -3112,4 +5302,34 @@ Písemné uznání dluhu co do důvodu i výše zakládá vyvratitelnou domněnk
 **§ 2039**:
 > (1) Dlužník nahradí výstavci to, co plnil podle záruční listiny vystavené v souladu s uzavřenou smlouvou. Uzavřela-li s výstavcem smlouvu o poskytnutí finanční záruky třetí osoba, nahradí tato osoba výstavci, co plnila podle záruční listiny vystavené v souladu se smlouvou.
 > (2) Dlužník nemůže vůči výstavci uplatnit námitky, které by mohl uplatnit vůči věřiteli, neujednal-li s ním, že si výstavce vůči věřiteli uplatnění takových námitek vyhradí v záruční listině.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1993 až 2004“ (dnešní § 2017—2028) — viz § 2017.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2005 až 2015 návrhu — dnešní § 2029—2039):**
+
+> V návrhu úpravy finanční záruky osnova vychází z platné úpravy bankovní
+> záruky obchodního zákoníku. Pojem „finanční záruka" se navrhuje zakotvit
+> nikoli z důvodu změny věcného obsahu institutu, ale vzhledem k tomu, že
+> dle návrhu občanského zákoníku výstavcem takové záruky může být nejen
+> banka.
 

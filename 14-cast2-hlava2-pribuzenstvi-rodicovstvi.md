@@ -35,6 +35,8 @@ Následující kapitoly:
 
 Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s výjimkou impedimenta manželství) a vzniká s osvojitelem a jeho rodinou. Příbuzenství osvojením je **plnohodnotné** — má stejné účinky jako pokrevní (dědění, vyživovací povinnost, zákonné překážky manželství).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 762 až 764“ (dnešní § 769—771) — viz § 769.
+
 **Judikatura (z místních zdrojů):**
 
 - *KS v Hradci Králové* [21 CO 246/2022-178](https://rozhodnuti.justice.cz/rozhodnuti/?id=49bac1a8-c2bb-4be2-a66b-a6c0d29b41c7) — *dražba, peněžité plnění, podílové spoluvlastnictví, smlouva kupní, smlouva nájemní, spol…*
@@ -110,6 +112,37 @@ Příbuzenství podle § 771 vzniká buď pokrevně, nebo osvojením, a obě for
 - **Rodinný závod** (§ 700) — okruh osob do 3. stupně;
 - **Osoba blízká** (§ 22) — vč. blízkých příbuzných.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 765 až 767 návrhu — dnešní § 772—774):**
+
+> Otázky příbuzenství dosud (a velmi kuse) upravuje občanský zákoník ve
+> své obecné části. Vzhledem k tomu, že příbuzenství je institutem
+> statusovým, nelze pochybovat o tom, že jeho úprava, a to v rozšířené
+> podobě, je na místě.
+>
+> Vymezení příbuzenství scházelo dosud úplně, stejně jako zmínka o
+> způsobech jeho vzniku.
+>
+> Pro větší srozumitelnost se mluví jak o tom, že příbuzné osoby pocházejí
+> od společného předka, tak i o tom, že příbuzné osoby pocházejí jedna od
+> druhé, a to přesto, že by postačovalo uvést, že jedna pochází od druhé.
+>
+> Spřízněnost může vzniknout jednak přirozeně (nesprávné, „pokrevně"),
+> jednak osvojením. Ani toto vyjádření není zcela přesné. Pokud jde o
+> přirozené příbuzenství, může totiž vzniknout jak skutečně přirozeně,
+> přirozeným procesem při koitu, tak také uměle, totiž medicínsky, tedy
+> sice také biologickým procesem, ale jinak než při koitu. Navíc nemusí
+> jít vskutku o pokrevní příbuzenství (srov. dárcovství). Proti
+> přirozenému či jakoby-přirozenému procesu stojí proces právní, tedy
+> řízení o osvojení zakončené (vyhovujícím) rozhodnutím soudu.
+>
+> Takto nejsou zmíněny situace, kdy je otcovství (ať už souhlasným
+> prohlášením nebo rozhodnutím soudu) určeno vůči muži, který není
+> (přirozeným) otcem, a stejně tak ani situace, kdy manželka porodí dítě
+> počaté jiným mužem než manželem. V tomto ohledu lze ale mít za to, že
+> zde vlastně jde o právní fikci, která je ve statusových poměrech
+> nezbytná, takže i takové příbuzenství se nutně považuje za příbuzenství
+> přirozené.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Jablonci nad Nisou* [10 C 236/2022-15](https://rozhodnuti.justice.cz/rozhodnuti/?id=266c50c4-ad10-4680-ae49-295f84455cda) — *jízdné, peněžité plnění*
@@ -177,6 +210,8 @@ Linii (přímá/vedlejší) a stupeň (počet zrození) je třeba určit vždy, 
 - **Vyloučení z funkcí** (např. svědek u předběžného prohlášení § 39, opatrovník při konfliktu zájmů);
 - **Rodinný závod** (§ 700) — sešvagření do 2. stupně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 765 až 767“ (dnešní § 772—774) — viz § 772.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2685/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9112E2C095C2DDE1C1258912004AE1A8?openDocument) — *Odkaz (odkazovník) (o. z.) Nepominutelný dědic (o. z.)*
@@ -234,6 +269,59 @@ Linii (přímá/vedlejší) a stupeň (počet zrození) je třeba určit vždy, 
 - Asistovanou reprodukci (matka je žena, která porodila).
 
 **Implikace pro náhradní mateřství** (surrogát): smlouva o tom, že **náhradní matka** předá dítě objednatelům jako jejich, **je v ČR neplatná** (§ 580 — proti dobrým mravům + § 493 — lidské tělo není věc). De facto se řeší skrze adopci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 768 návrhu — dnešní § 775):**
+
+> Švagrovství je poměr obdobný příbuzenství; ne vždy se chápe jednoznačně.
+> Účelem navrženého ustanovení je fixovat švagrovství jako právní pojem.
+>
+> Švagrovství upravovalo na našem území soukromé právo až do roku 1964;
+> obecný zákoník občanský z r. 1811 zejména v § 40 jako „poměr (\...),
+> který vzniká mezi jedním manželem a příbuznými druhého manžela" s tím,
+> že podle § 41 platilo „v jakém stupni je někdo příbuzný s manželem
+> jedním, v téže řadě a v tom stupni je sešvagřen s manželem druhým."
+> Obdobná pravidla upravily i právní předpisy přijaté bezprostředně po r.
+> 1948, tj. zákon o právu rodinném č. 265/1949 Sb. v § 18 a občanský
+> zákoník z r. 1950 v § 17; obdobně jako předchozí úprava se zdůvodněním,
+> že „výraz „švagrovství" nemívá v denním životě vždy stejný obsah."
+> Platný občanský zákoník z r. 1964 pojem švagrovství již nefixuje s
+> odůvodněním, že zákon se švagrovstvím nespojuje právní následky vyjma
+> případ, že za splnění podmínek § 116 mohou být sešvagřené osoby osobami
+> blízkými.
+>
+> Je pravda, že již od počátku 19. století význam švagrovství v soukromém
+> právu klesal. Nicméně ustanovení o švagrovství náleží k časté výbavě
+> občanských zákoníků kontinentálního typu. Poukázat lze např. nejen na
+> rakouský nebo německý (§ 1590) a švýcarský (čl. 21) zákoník jako
+> tradiční středoevropské civilní kodexy, ale i na občanské zákoníky
+> Itálie (čl. 78), Portugalska (čl. 1584 a 1585) nebo Nizozemí (čl. 1:3) a
+> další.
+>
+> Navržené ustanovení přejímá v podstatných rysech vzor zdejší tradiční
+> úpravy, neboť ta obstojí i ve srovnání s úpravami novějšími. Zejména jde
+> o to, že vznik švagrovství je vázán na vznik manželství; švagrovství
+> není spojeno s jinými formálními nebo faktickými svazky. Rovněž se
+> přejímá zásada sledovaná tradičními i novějšími úpravami, že vznikem
+> manželství vzniká i švagrovství jako poměr mezi jednoho z manželů k
+> příbuzným druhého manžela, že však příbuzní jednoho z manželů právně
+> sešvagřeni s příbuznými druhého z manželů nejsou. Zároveň se v
+> ustanovení o osobách blízkých navrhuje stanovit vyvratitelnou právní
+> domněnkou, že i osoby sešvagřené jsou osobami blízkými.
+>
+> Pokud jde o zánik švagrovství, různé národní úpravy (např. německý
+> občanský zákoník v § 1590 odst. 2) vycházejí z toho, že švagrovství
+> nezaniká zánikem manželství, jehož prostřednictvím bylo založeno.
+> Obdobně i zdejší právní úprava z r. 1949 (v § 18 zák. o právu rodinném
+> č. 265/1949 Sb.) - obecný zákoník občanský v tom směru nestanoví
+> ničeho - stanovovala, že švagrovství trvá i po zániku manželství, což
+> bylo odůvodněno mravními důvody; tyto důvody se opíraly zejména o tehdy
+> stanovenou překážku uzavření manželství mezi osobami v přímém pokolení
+> sešvagřenými (§ 9 zák. č. 265/1949 Sb.). Tato překážka dnes neplatí (§
+> 12 platného zákona o rodině) a její obnovení se nezamýšlí. Z toho
+> důvodu, jakož i proto, že rozvodem manželství se z rozvedených manželů
+> stávají cizí lidé, se navrhuje právní pravidlo, že zánikem manželství
+> švagrovství nezaniká v případě, že manželství zaniklo smrtí jednoho z
+> manželů.
 
 **Judikatura (z místních zdrojů):**
 
@@ -301,6 +389,15 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 
 **Lhůta 300 dnů** = max. délka těhotenství (z biologického hlediska).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 769 návrhu — dnešní § 776):**
+
+> Právní pravidlo u nás přijaté, podle kterého je porod jedinou relevantní
+> skutečností pro rozhodnutí otázky mateřství, odpovídá i článku 2
+> evropské Úmluvy o právním postavení dětí narozených mimo manželství (bez
+> ohledu na věcnou působnost této Úmluvy). Je nepochybné, že žalobě ženy,
+> která byla dárkyní genetické látky, proti ženě, která dítě porodila,
+> nelze vyhovět.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Ncu 10/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23DBF449AA588576C1258DC800529D0F?openDocument) — *Uznání cizích rozhodnutí Určení otcovství*
@@ -363,6 +460,22 @@ Pokud se dítě narodí **mezi zahájením řízení o rozvod a 300 dnem po rozv
 
 **Procesní rámec**: prohlášení **před soudem, matrikou nebo zastupitelským úřadem**, do **1 roku** od narození dítěte. Nelze určit dřív než po pravomocném rozvodu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 770 návrhu — dnešní § 777):**
+
+> Standardní formulace první domněnky otcovství je doplněna se zřetelem na
+> institut nezvěstnosti (srov. zejm. § 67 odst. 1 věta druhá). Je-li
+> důvodem zániku manželství smrt, která nebyla zjištěna obvyklým způsobem
+> (tj. soud rozhodl o prohlášení za mrtvého), uplatní se pro určení
+> rozhodného dne obecné pravidlo.
+>
+> Narodí-li se dítě ženě, jejíž manžel byl prohlášen za mrtvého a dojde
+> k určení otcovství souhlasným prohlášením matky a jiného muže, nezmění
+> se na statusovém postavení dítěte ani otce dítěte ničeho, zjistí-li se,
+> že prohlášený za mrtvého žije, takže bude-li některý ze zúčastněných mít
+> vůli, aby nastala změna ve statusu zejména dítěte, bude třeba otcovství
+> souhlasně prohlášené popřít, anebo bude třeba využít pomoci nejvyššího
+> státního zástupce, popřípadě institutu osvojení.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 1103/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BE325AE7438A2AF8C1257FED0046E046?openDocument) — *Poplatky soudní*
@@ -410,6 +523,32 @@ Pokud se dítě narodí **mezi zahájením řízení o rozvod a 300 dnem po rozv
 **Výklad:**
 
 Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asistovaná reprodukce**: otcem je **muž souhlasící s umělým oplodněním**. Aplikace i v období 300 dnů po zániku manželství.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 771 návrhu — dnešní § 778):**
+
+> Není rozhodné, kdo podá návrh na zahájení řízení. Jde o řízení především
+> statusové, svou procesní povahou nesporné. Návrh spočívá v prohlášení a
+> směřuje proti druhým dvěma nutně zúčastněným osobám. Jedná se (totiž) o
+> řízení o popření otcovství spojené s řízením o určení otcovství -- jde
+> zároveň o obojí: prvým krokem by mělo být prohlášení popírající
+> otcovství za souhlasného prohlášení matky (resp. aniž matka vysloví své
+> námitky), druhým pak prohlášení (muže, který tvrdí, že je otcem),
+> uznávající otcovství za souhlasného prohlášení matky. Soud prohlášení
+> přijímá, čímž je validuje -- dává vrchnostenské dobrozdání, že
+> prohlášení odpovídají skutečnosti a že vůle žádné ze zúčastněných osob
+> nebyla nepřípustným způsobem ovlivněna, ať už jakkoli, resp. kýmkoli. Ve
+> vztahu k rozvodu se jedná o samostatné řízení, nicméně, nebylo-li ještě
+> o rozvodu manželství rozhodnuto, je třeba rozhodnutí vyčkat: den
+> následující po dni právní moci rozhodnutí o rozvodu je prvým dnem,
+> k němuž lze vztáhnout účinky dotyčného trojstranného prohlášení. Lhůta
+> je stanovena na jeden rok (jinak je šestiměsíční) proto, že nelze
+> vyloučit situace prodloužení rozvodového řízení. Otázka zápisu do
+> matriky bude řešena standardním způsobem: do matriky bude zapsán nejprve
+> manžel matky, a posléze -- na základě osvědčení soudu o prohlášení --
+> bude tento zápis změněn.
+>
+> Pravidla, která platí pro rozvod manželství, platí obdobně i pro řízení
+> o neplatnosti manželství, protože cíle obou řízení jsou shodné.
 
 ##### F. Kazuistika
 
@@ -479,6 +618,31 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 **§ 781**: pokud matka pro duševní poruchu nemůže posoudit význam prohlášení → souhlasné prohlášení **nepřípustné**.
 
 **§ 782**: prohlášení = právní jednání; **neplatnost lze namítnout jen ve lhůtě pro popření** (§ 790).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 772 návrhu — dnešní § 779):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený. Souvisí
+> s ustanovením § 781 návrhu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 773 až 775 návrhu — dnešní § 780—782):**
+
+> Jde o druhou domněnku otcovství. Rodiči se rozumějí matka dítěte a muž,
+> který souhlasně s matkou své otcovství prohlašuje. Prohlášení otcovství
+> musí být učiněno osobně.
+>
+> I pro řízení o určení otcovství souhlasným prohlášením rodičů platí
+> pravidla Úmluvy o právech dítěte a ustanovení tohoto zákona ustanovující
+> o právech dítěte, tudíž popřípadě i pravidla o potřebě ustavení
+> opatrovníka apod. Takto je třeba ustavit opatrovníka vždy, jde-li o dítě
+> již narozené. Opatrovníka lze ustanovit i dítěti ještě nenarozenému,
+> je-li již počato. Jedná se o ochranu zájmů dítěte, proto pokud je dítě
+> dostatečně schopné záležitosti uznání otcovství porozumět, má se mu
+> dostat řádné informace, aby se mohlo k věci vyjádřit. To by mělo platit
+> obdobně i v řízení před matričním úřadem.
+>
+> Schopnost nezletilého, který není plně svéprávný, posoudí vždy soud
+> podle obecných ustanovení o posouzení schopnosti, resp. způsobilosti
+> takových osob.
 
 **Judikatura (z místních zdrojů):**
 
@@ -551,6 +715,24 @@ Souhlasné prohlášení (druhá domněnka) se uplatní, jen nelze-li otcovství
 - Smrt navrhovatele → pokračuje další oprávněný;
 - Smrt dítěte → 6 měsíců pro potomka dítěte (s právním zájmem);
 - Smrt domnělého otce → opatrovník jmenovaný soudem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 776 návrhu — dnešní § 783):**
+
+> Právní povaha prohlášení otcovství byla dosud nejasná, ba vznikaly
+> pochybnosti, zda je možné na tato prohlášení vztáhnout předpisy o
+> právním jednání. Zdejší ustanovení by mělo ony pochyby odstranit a
+> nepřípadnou mezeru vyplnit.
+>
+> Takto bude na prohlášení otcovství možné použít např. ustanovení o
+> simulaci, resp. omylu a lsti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 777 a 778 návrhu — dnešní § 784—785):**
+
+> Třetí domněnka otcovství je rovněž standardní. S jedinou, ovšem nikoli
+> nepodstatnou, výjimkou se jedná o přepis dosavadní právní úpravy
+> formulačně upravený. Zmíněnou výjimkou je zkrácení nejkratší možné doby
+> pro narození dítěte ze sto osmdesáti na sto šedesát dnů, což odpovídá
+> současnému poznání a současným možnostem lékařské vědy a praxe.
 
 **Judikatura (z místních zdrojů):**
 
@@ -633,6 +815,30 @@ Třetí (soudní) domněnka se uplatní subsidiárně, nelze-li otcovství urči
 
 **§ 789 — Popření matkou**: **6 měsíců od narození dítěte**. Obdobné pravidlo jako manželovo popření.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 777 a 778“ (dnešní § 784—785) — viz § 784.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 779 návrhu — dnešní § 786):**
+
+> Nově stanovená délka popěrné lhůty manžela matky je v souladu
+> s judikaturou Evropského soudu pro lidská práva (Rasmussen proti Dánsku)
+> a vychází i z nastavení a délky popěrných lhůt v některých zahraničních
+> právních úpravách (Slovensko -- 3 roky, Francie -- 5 a 10 let). Ústavní
+> soud České republiky (Pl. ÚS 15/09) rovněž konstatoval, že nastavení
+> popěrné lhůty v § 57 odst. 1 zákona o rodině není v souladu s ústavním
+> pořádkem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 780 a 781 návrhu — dnešní § 787—788):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený s tím, že
+> je doplněno řešení dosud ne zcela jasné otázky, zda ustanovení se
+> vztahuje i na situace, kdy je použita gameta jiného muže než toho, který
+> dal k umělému oplodnění souhlas, ať jím byl manžel matky dítěte nebo
+> jiný muž, resp. také na situace, kdy je užito ova jiné ženy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 782 návrhu — dnešní § 789):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Ncu 4/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2B46D78C79B8166C1258C8C004D4424?openDocument) — *Uznání cizích rozhodnutí Popření otcovství*
@@ -695,6 +901,14 @@ Manžel popírá otcovství u soudu v subjektivní lhůtě 6 měsíců od zjišt
 
 **§ 791 — Popření matkou** ve stejných lhůtách.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 783 návrhu — dnešní § 790):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 784 návrhu — dnešní § 791):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 2277/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1117D52DC4B16152C1258941001E2647?openDocument) — *Přípustnost dovolání Popření otcovství Lhůta prekluzivní [ Lhůty ]*
@@ -750,6 +964,26 @@ Muž (i matka), jehož otcovství vzniklo souhlasným prohlášením, je popře 
 **§ 793 — Soudní popření i bez návrhu**: pokud je zřejmý zájem dítěte + naplnění lidských práv → soud **i bez návrhu** zahájí řízení o popření otcovství, je-li toto otcovství (z souhlasného prohlášení) **biologicky nemožné**. Soud zpravidla **pozastaví výkon rodičovské odpovědnosti**.
 
 **Praktický význam**: § 792—793 jsou **bezpečnostní pojistky** proti rigidnímu uplatnění lhůt v případech, kdy by trvání nepravdivého otcovství poškozovalo dítě (např. by mu bránilo poznat svého skutečného otce a získat výživu / dědictví).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 785 návrhu — dnešní § 792):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 786 návrhu — dnešní § 793):**
+
+> Jedná se o přepis dosavadní právní úpravy, formulačně upravený.
+>
+> Je třeba zdůraznit význam přirozených (biologických) poměrů pro dítě
+> (odstavec 2). Je však na místě připustit, že zcela výjimečně může nastat
+> situace, kdy zájem dítěte je na straně otce tzv. sociálního apod. Na
+> druhé straně, zjištění skutečného otce dítěte ani zdaleka není významné
+> jen se zřetelem na vyživovací povinnost: současná medicína pracuje
+> s dědičností naprosto důsledně a v širokém spektru případů, a je tudíž
+> v nejvlastnějším zájmu dítěte, aby byl zjištěn jeho pravý otec, resp.
+> alespoň aby nebyl za jeho otce považován ten, kdo jeho skutečným otcem
+> není. Profil DNA (což je určující charakteristika v odstavci druhém)
+> ovšem dovoluje jen otcovství určit, zjištění neexistence stavu otcovství
+> je druhotné. Stejný cíl a smysl má i ustanovení § 788.
 
 **Judikatura (z místních zdrojů):**
 
@@ -824,6 +1058,28 @@ Muž (i matka), jehož otcovství vzniklo souhlasným prohlášením, je popře 
 
 **Cíl osvojení**: poskytnout dítěti náhradní rodinné prostředí (u nezletilého); umožnit právnímu uznání faktického rodičovského vztahu (u zletilého).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 787 návrhu — dnešní § 794):**
+
+> Vzhledem k funkční nedostatečnosti dosavadní právní úpravy, kdy se
+> vyžaduje složité dokazování, přičemž je zde vážné nebezpečí uplynutí
+> relativně krátké lhůty, navrhuje se toto ustanovení, které by snad
+> mohlo, zejména tehdy, bude-li zahájení řízení následováno sistací výkonu
+> rodičovských povinností a práv, řešit nevlídnou situaci hrozící dítěti.
+> Základními lidskými právy se rozumí především ta, jež náležejí dítěti,
+> jsou-li s nimi matčina práva v rozporu, musí tato ustoupit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 788 návrhu — dnešní § 795):**
+
+> Nové ustanovení umožňuje i dítěti, byť až poté, kdy dosáhne
+> svéprávnosti, usilovalo o změnu v podobě svého osobního, resp. rodinného
+> statusu. Zároveň se bere v úvahu potřeba zvýšené ochrany dítěte; proto
+> se mu navrhuje založit právo popřít otcovství ve lhůtě, která skončí až
+> uplynutím jednoho roku poté, co dosáhne zletilosti. Pro případ, že se
+> dítě dozví o skutečnosti zpochybňující otcovství k němu později, tedy až
+> po dovršení věku osmnácti let, se navrhuje stanovit mu roční popěrnou
+> lhůtu s počátkem spojeným se dnem, kdy o této skutečnosti získalo
+> vědomost.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Ncu 1/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A9084912C5227A95C12586CA0044D178?openDocument) — *Uznání cizích rozhodnutí*
@@ -882,6 +1138,107 @@ Osvojení je přijetí cizí osoby za vlastní; jeho předpokladem je vztah jako
 **§ 797 — Zápis do matriky**: na základě soudního rozhodnutí se osvojitel zapíše jako **rodič** (nahrazuje původní zápis).
 
 **§ 798 — Zákaz nepatřičného zisku** ze zprostředkování. **Anti-obchodování s dětmi** klauzule (Haagská úmluva o ochraně dětí a spolupráci při mezinárodním osvojení z 1993).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 789 až 793 návrhu — dnešní § 796—800):**
+
+> Institut osvojení nemá být napříště považován výlučně za formu náhradní
+> rodinné péče. Navrhovaná právní úprava má zohlednit jednak skutečnost,
+> že značný počet osvojení je jenom - tak zvaným - osvojením nepravým,
+> totiž osvojením manželem rodiče dítěte, jednak to, že ani osvojení
+> dítěte osobami od rodičů odlišnými (osobou od rodiče odlišnou) není
+> pouhou péčí, i když se třeba u malého dítěte viditelně do péče
+> koncentruje: vždy se především, a to právě na rozdíl od všech institutů
+> náhradní péče (zčásti s výjimkou poručenství), jedná o záležitost
+> statusovou, kdy rozhodnutí soudu změní zdaleka ne jen poměry mezi
+> přirozeným rodičem, dítětem a osvojitelem.
+>
+> Právní úprava vychází ze zájmu dítěte, především z jeho zájmu na
+> odpovídající péči. Přitom se ovšem za primární považuje péče přirozených
+> rodičů -- jsou-li tu a jsou-li jí schopni. Osvojení je proto koncipováno
+> tak, aby rozhodnutí o něm bylo vyhrazeno pro případy, kdy dítě od svých
+> přirozených rodičů již zcela zřejmě nemůže nic očekávat, zejména od nich
+> nemůže očekávat jejich zájem o ně samé a jejich řádnou péči. Zároveň má
+> být samozřejmostí vzetí náležitého zřetele k přání a názoru dítěte,
+> pokud je schopno takto uvažovat.
+>
+> Právo rodiče dát souhlas k osvojení je jeho osobním právem. Jedná se o
+> právo sui generis, právo statusové, které není součástí povinností a
+> práv zahrnovaných v dnešní právní úpravě do pojmu rodičovské
+> zodpovědnosti, v navrhované do pojmu rodičovských povinností a práv.
+> Jinak řečeno, je to právo, jehož základ tkví v přirozeném vztahu mezi
+> rodičem a jeho pokrevním potomkem, a v rovině právní se řadí mezi práva
+> statusová. Proto není možné rodiče tohoto práva zbavit -- ani v
+> případech, kdy se souhlas rodiče k osvojení nevyžaduje, nejde o důsledek
+> zbavení rodiče tohoto jeho zvláštního práva (s výjimkami), proto
+> nepřichází v úvahu zastoupení atd. Také soud by měl k tomuto souhlasu
+> přistupovat podle zvláštní povahy tohoto volního projevu: kromě jiného
+> by se zásadně neměl spokojit toliko s prohlášením, daným písemně, ale
+> měl by zkoumat současné (momentální) stanovisko rodiče osobně
+> přítomného.
+>
+> Zájem dítěte má být prvořadým faktorem i při svěření (předání) dítěte do
+> péče třetí osoby, totiž zpravidla budoucího osvojitele. Proto, a nejen
+> s ohledem na povinnosti vyplývající pro náš stát z Úmluvy o právech
+> dítěte, z evropské Úmluvy o osvojení dětí (č. 132/2000 Sb. m. s.), jakož
+> i na práva vyplývající z Listiny, bude o svěření (předání) dítěte do
+> péče takové osoby vždy rozhodovat soud.
+>
+> Vzhledem k tomu, že zájem dítěte, zejména dítěte velmi útlého věku, lze
+> spatřovat hlavně v péči o jeho osobu a v ochraně dítěte, není jistě
+> třeba, aby povinnosti a práva pečující osoby byla širší než ta, která
+> nutně souvisí s péčí o dítě a s jeho ochranou (obdobně jako je tomu u
+> jiných osob, kterým je dítě svěřováno na základě zákona). Přitom
+> rozhodnutí soudu o svěření dítěte do individuální péče by -- ač
+> podmíněné splněním důkazní povinnosti navrhovatele -- mělo být nanejvýš
+> operativní.
+>
+> Doba, po kterou bude dítě v péči budoucího osvojitele, by měla být
+> přiměřená okolnostem: měla by být právě tak dlouhá, aby bylo možné
+> bezpečně zjistit, že uvažovaný osvojitel bude pro dítě tím nejlepším
+> rodičem. Na druhé straně, budoucí osvojitel bude mít dostatek prostoru
+> prokázat, že mu jde o péči o potřebné dítě, že jeho zájem je v prospěchu
+> dítěte, nikoli třeba prvořadě v uspokojení potřeby vlastní (kterou by
+> naopak bylo lze předpokládat v případě osvojení zletilého). Tak by se
+> mělo rovněž předejít situacím, kdy poté, co již bylo o osvojení kladně
+> rozhodnuto, osvojitel zjišťuje, že skutečnost není v souladu s jeho
+> očekáváními, a vrací dítě do ústavní (popř. jiné) péče.
+>
+> To ostatně odpovídá nejen nutnosti vyrovnat postavení budoucího
+> osvojitele a přirozeného rodiče (otázka odvolání souhlasu a „vrácení
+> dítěte"), ale odpovídá také potřebě pečlivě zjistit osobnostní kvality
+> budoucího osvojitele, jeho vlastnosti, dispozice, pohnutky atd. atd.
+> (srov. zejm. Úmluvu o osvojení dětí).
+>
+> Vzhledem k tomu, že je třeba zajistit naplnění práva dítěte na vlastní
+> identitu a znalost vlastního původu (Mezinárodní úmluva o občanských a
+> politických právech, čl. 23 a 24, Úmluva o právech dítěte, čl. 7), klade
+> se úkol úplného zjišťování, pokud se jedná o osobnost a všestrannou
+> anamnézu přirozených rodičů, s tím, že výsledky tohoto zjišťování - sice
+> popřípadě odpovídajícím způsobem utajené -- přece jen by v případě zájmu
+> zletilého dítěte měly být po ruce. (Výhrada, kterou ještě ČSFR učinila a
+> ČR zachovala a která je nám opakovaně vytýkána, by měla být bez prodlení
+> odvolána.)
+>
+> To souvisí úzce s otázkou anonymity, jejíž řešení ve prospěch jejího
+> potlačení, resp. snížení nároků na ni, je jistě úkolem, který byl
+> dospělým uložen už dávno. To nebrání ovšem tomu, aby tato zásada
+> nepřipouštěla výjimku výslovně upravenou.
+>
+> Vedle osvojení koncipovaného zásadně jako institut týkající se dětí (za
+> vlastní je přijímáno cizí dítě, tj. nezletilý, resp. nesvéprávný), se
+> dále upravuje (speciálními ustanoveními) osvojení zletilého, resp.
+> osoby, která jsouc nezletilá, nabyla plnou svéprávnost.
+>
+> Úvodní ustanovení stanoví způsob realizace osvojení jakožto založení
+> právního příbuzenství. Na dosavadní právní úpravě ničeho nemění. (Pokud
+> jde o zápis osvojení do matriky, srov. ust. čl. 20 odst. 3 a 4 Úmluvy o
+> osvojení dětí.)
+>
+> Mezi osvojitelem a osvojencem se musí vytvořit vztah, jaký je mezi
+> rodičem a dítětem, nebo alespoň základy takového vztahu. Jedná se
+> předpoklad pro osvojení. Je zřejmé, že před osvojením se musí vytvořit
+> zejména základy takového vztahu; vztah, jaký mají rodiče s dítětem, se
+> tvoří po delší časové období.
 
 **Judikatura (z místních zdrojů):**
 
@@ -962,6 +1319,64 @@ Při osvojení jednou osobou (jiným než manželem rodiče) soud **vypustí zá
 
 **§ 803 — Věkový rozdíl**: **přiměřený, zpravidla ≥ 16 let**. Výjimečně může být menší, pokud opatrovník dítěte souhlasí a je to v souladu se zájmy dítěte.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 789 až 793“ (dnešní § 796—800) — viz § 796.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 789 až 793“ (dnešní § 796—800) — viz § 796.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 794 návrhu — dnešní § 801):**
+
+> Osvojitelova svéprávnost se rozumí svéprávností plnou.
+>
+> Předpoklady, které musí osvojitel splňovat, se rozšiřují tak, jak je to
+> zapotřebí nejen s ohledem na závazky ze smluv, které na sebe ČR vzala,
+> ale i se zřetelem na zjištění (poznatky) a zkušenosti osob, které jsou
+> dětem, jež jsou osvojovány, nebo řízení, kterým se osvojení uskutečňuje,
+> nejblíže.
+>
+> Především je třeba postulovat, aby soud, který bude o osvojení
+> rozhodovat, nabyl přesvědčení, že nejen osvojitelovy osobní vlastnosti a
+> způsob jeho života, ale i jeho motivace jsou ve skutečnosti v souladu
+> s tím, co tvrdí, když osvojení navrhuje, a že vše nasvědčuje tomu, že
+> bude skutečně řádným, v pravém slova smyslu dobrým rodičem. (Takto by
+> pracovníci sociálně-právní ochrany dětí měli z okruhu možných osvojitelů
+> vyloučit osoby motivované snahou řešit své vlastní problémy, ať už
+> problémy sebe sama, nebo ve vzájemném vztahu.)
+>
+> Obdobné lze říct také o zdravotním stavu osvojitele. I přirozený rodič
+> může být ohrožen nemocí, nemoc osvojitele by mohla případně negativně
+> ovlivnit i jeho vztah k nikoli přirozeně příbuznému potomku. Postulát
+> dobrého zdravotního stavu osvojitele by tak měl být naplněn v podstatě
+> tak, že osvojitel netrpí chorobou, které je s rodičovskou rolí
+> neslučitelná, přičemž výčet takových chorob je ponechán úsudku lékařů.
+> (Nelze ovšem pomíjet zvláštní, a také jistě naprosto výjimečné případy,
+> kdy osoba, která je vážně nemocná, přeje si osvojit sice dítě, ale
+> blízké věku zletilosti, jehož byla od jeho nejútlejšího věku
+> celoživotním pěstounem -- a je třeba k nim přistupovat jinak.) Tělesné
+> poškození jednoho z manželů by pak nikdy nemělo osvojení překážet, pokud
+> jde o takovou indispozici, která nebrání realizaci plnohodnotného života
+> vlastního, druhé neomezuje, a postiženému naopak dovoluje uskutečňovat
+> byť třeba jen dílčí péči o toho, kdo ji potřebuje.
+>
+> Všechny tyto informace by měly být soustředěny v evidenci žadatelů o
+> osvojení. Tato skutečnost by ale neměla bránit soudu, aby při
+> rozhodování o osvojení dále neplnil svou vyšetřovací povinnost.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 795 návrhu — dnešní § 802):**
+
+> Uvádí se výslovný výčet v úvahu přicházejících „druhů" osvojitelů, který
+> z dosavadní právní úpravy lze toliko dovodit. (Naopak ze zdejšího
+> ustanovení lze dovodit, že jde o výčet.) „Jinou" se rozumí osoba, která
+> ač třeba nežije sama, nežije v žádném zákonem uznaném svazku. Nemůže se
+> však jednat o registrované partnery, a to zejména s ohledem na jiný
+> právní předpis, v němž jsou vztahy registrovaných partnerů upraveny.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 796 návrhu — dnešní § 803):**
+
+> Nově se zakotvuje požadavek přesvědčit se, zda poměr případného
+> přirozeného dítěte osvojitele a dítěte osvojeného nebude nevhodně
+> konfliktní do takové míry, kdy by již byly závažně zasaženy zájmy
+> některého ze zúčastněných dětí nebo případně obou.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Nymburce* [5 C 260/2022-22](https://rozhodnuti.justice.cz/rozhodnuti/?id=e9376fd7-1f76-4261-9001-e0a3ef361c44) — *osvojení, určení rodičovství*
@@ -1034,6 +1449,65 @@ Osvojitelem může být jen zletilá a svéprávná osoba zaručující řádné
 **Osvojované dítě ≥ 12 let** vyjadřuje **souhlas osobně**. Dítě **mladší 12 let** je slyšeno opatrovníkem.
 
 **§ 805—808**: souhlas dítěte lze odvolat **do nabytí právní moci** rozhodnutí o osvojení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 797 a 798 návrhu — dnešní § 804—805):**
+
+> Standardní ustanovení o věkovém rozdílu mezi osvojitelem a dítětem je
+> nově doplněno o výslovnou zmínku případu osvojení manželova dítěte.
+> Nejedná se jen o malý věkový rozdíl (zpravidla se uvažuje o šestnácti
+> letech), ale popřípadě i o příliš velký věkový rozdíl, který by
+> v případě osvojení manželem rodiče dítěte na překážku zásadně být neměl.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 799 návrhu — dnešní § 806):**
+
+> Dosavadní správné teoretické a praktické dovozování eliminace
+> nejbližších příbuzných z okruhu možných osvojitelů má být napříště
+> vyjádřeno výslovně.
+>
+> Výjimka ve větě druhé se vztahuje na případ náhradního mateřství, při
+> němž se dítě narodí ženě, která není jeho biologickou matkou. Nadále
+> však bude platit stará římská zásada, že matkou dítěte je žena, která
+> dítě porodila. Fyziologické předpoklady pro výkon asistované reprodukce
+> upravuje zákon č. 20/1966 Sb., o péči o zdraví lidu, nicméně i text
+> občanského zákoníku musí ve svých ustanoveních zohlednit pokrok lékařské
+> vědy, která umožňuje vnést do dělohy ženy oplodněné vajíčko jiné ženy.
+>
+> Vztahy mezi ženou, která poskytla své zárodečné buňky (biologickou
+> matkou) a dítětem, mohou být upraveny cestou osvojení. Zahraniční
+> zkušenosti i dosavadní zkušenosti v České republice svědčí o tom, že
+> největší zájem o náhradní mateřství bude mezi ženami, které jsou si
+> navzájem příbuzné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 800 až 803 návrhu — dnešní § 807—810):**
+
+> Jedním z relevantních souhlasů, totiž prohlášení vůle, jejichž učinění
+> nezbytně předchází kladnému rozhodnutí soudu o osvojení, má být také
+> souhlas osvojovaného dítěte (srov. čl. 12 Úmluvy o osvojení dětí). Nelze
+> nevidět, že osvojování dětí zpravidla velmi nízkého věku vytvořilo
+> takřka pravidlo, pokud jde o péči o zjištění případně existujícího
+> názoru dítěte.
+>
+> Napříště se vyžaduje, aby dítě, a to alespoň dvanáctileté, bylo zásadně
+> vždy osobně slyšeno. Přitom také souhlas dítěte je volním projevem
+> zvláštní povahy, takže i o něm musí platit, že dítě může svůj osobně
+> daný souhlas odvolat, a to až do chvíle, kdy soud o osvojení rozhodne.
+>
+> Nedává-li osvojované dítě souhlas osobně, jde-li tedy o dítě mladší než
+> dvanáctileté, anebo o dítě sice starší, kterému ale v osobním projevu
+> objektivně viděno v mimořádném případě brání jeho vlastní zájem, a to
+> způsobem zcela zásadním (dosavadní „zmaření účelu osvojení" je pojmem,
+> který relevantní mezinárodní dokumenty neznají a jehož tedy napříště
+> není možné používat -- dítě musí být vždy náležitě informováno, protože
+> není objektem státní péče, ale subjektem nadaným právy, který se v míře
+> co možná nejširší o své záležitosti sám stará), dává za něj souhlas jeho
+> opatrovník, pakliže byl - za předpokladu, že toho bylo zapotřebí --
+> dítěti již dříve ustaven. Až potud se jedná o přepis dosavadní úpravy.
+> Nově se ovšem opatrovníkovi ukládá povinnost zjistit všechny rozhodné
+> skutečnosti, které ji povedou k závěru, že osvojení bude dítěti ku
+> prospěchu. Je na soudu, aby náležitě zjistil, zda tvrzení opatrovníka,
+> popř. poručníka o tom, že, popř. jak rozhodné skutečnosti zjišťovali,
+> není jen formální. Nelze totiž opomenout, že zjištění a tvrzení právě
+> těchto osob jsou velmi cenná (zejména pro předpokládanou objektivitu).
 
 #### Souhlas rodičů (§ 809—818)
 
@@ -1164,6 +1638,387 @@ Osvojitelem může být jen zletilá a svéprávná osoba zaručující řádné
 > (1) Osvojenec mladší 12 let má příjmení osvojitele; společný osvojenec manželů má příjmení podle § 860.
 > (2) Dovršil-li osvojenec 12 let, může osvojitel s jeho souhlasem před matričním úřadem prohlásit, že osvojenec bude mít příjmení osvojitele, popřípadě příjmení podle § 860, jde-li o společného osvojence, nebo prohlásit, že osvojenec bude osvojitelovo příjmení připojovat ke svému příjmení. Má-li osvojenec připojované příjmení, lze osvojitelovo příjmení připojit jen k prvnímu příjmení osvojence; má-li osvojitel připojované příjmení, lze k osvojencovu příjmení připojit jen první příjmení osvojitele.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 800 až 803“ (dnešní § 807—810) — viz § 807.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 800 až 803“ (dnešní § 807—810) — viz § 807.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 804 návrhu — dnešní § 811):**
+
+> Souhlasu či přivolení přirozených rodičů k osvojení je zásadně zapotřebí
+> vždy. Toto právní jednání rodičů se považuje nezbytnou podmínku kladného
+> rozhodnutí soudu o osvojení: bez tohoto právního jednání nemůže
+> k osvojení dojít. Pokud toto právní jednání -- výjimečně - nečiní
+> rodiče, kteří jsou známi a naživu, resp. ten z rodičů, který je znám a
+> naživu, činí je v jejich zastoupení někdo jiný. Taková situace je
+> považována za mimořádnou. Rodič tu totiž nevystupuje jako především
+> zákonný zástupce, ale v první řadě jako osoba s osvojovaným dítětem
+> přirozeně spojená, která je „nadto" také jeho zákonným zástupcem (srov.
+> čl. 21 Úmluvy o právech dítěte, čl. 5 Úmluvy o osvojení dětí). Právo dát
+> souhlas k osvojení nenáleží do souboru tzv. rodičovské odpovědnosti
+> (pokud je tento výraz mezinárodními úmluvami používán), ani do souboru
+> tzv. rodičovských povinností a práv (k tomu viz již u úvodního
+> ustanovení k oddílu druhému). (Již v Komentáři k Obecnému občanskému
+> zákoníku, díl I., str. 896 čteme Sedláčkova slova: „Svolení rodičů
+> k adopci je výronem rodičovského práva, které přísluší nad dětmi vůbec.
+> Toto právo rodičů je úplně samostatné a zůstává zachováno i tehdy, když
+> rodičovská moc z jakéhokoli důvodu zanikla.") Proto zásadně zásahy do
+> rodičovských práv nemají na právo dát souhlas k osvojení vliv, a výjimky
+> z tohoto pravidla jsou uvedeny výslovně (zneužití, zanedbávání, úmyslný
+> trestný čin). Obdobně skutečnost, že rodič nemá rodičovská práva,
+> protože byla jeho svéprávnost omezena pro duševní poruchu, nemusí ještě
+> znamenat, že není in concreto schopen posoudit svůj současný a budoucí
+> poměr k vlastnímu dítěti.
+>
+> Souhlas mají zásadně dát oba rodiče, takže případy, kdy dává souhlas jen
+> jeden z nich, jsou uvedeny výčtem. Nutně obdobně se posuzuje i situace,
+> kdy jeden z rodičů není proto, že jeho rodičovství nebylo určeno --
+> zpravidla je takovým rodičem otec. (Případem, spočívajícím v tom, že
+> není známo místo, kde se rodič zdržuje, a toto místo se nepodaří
+> zjistit, se rozumí situace, v níž se nacházejí osoby nezvěstné.)
+>
+> Postihují-li ale skutečnosti výslovně uvedené oba rodiče, resp. obou
+> rodičů se týkají, ať již tak, že každý je postižen jinak, anebo oba
+> stejně, pak dává na jejich místě souhlas k osvojení soudem jim ustavený
+> opatrovník. Zde se nejedná o sankční řešení. Také tomuto opatrovníkovi
+> je ovšem stanovena povinnost zjišťovat relevantní skutečnosti. Úkolem
+> soudu potom je zvlášť prověřit, zda opatrovník dává souhlas k osvojení
+> skutečně teprve po zjištění všeho, co podle zdejšího ustanovení zjistit
+> měl, nejen zda byl dostatečně iniciativní, ale zda se řádně svého úkolu
+> zhostil. Tento úkol je soudu dán především procesním právem. Je na
+> hmotně právních ustanoveních, aby sama uložila odpovídající povinnosti
+> opatrovníkovi (ostatně jsou tu ustanovení Listiny) -- vždyť jinak by
+> institut opatrovníka postrádal všechen smysl, soud pak jeho zjištění
+> využije (v této rovině k důkazu). (Opatrovník není poručník.)
+>
+> Z okruhu úkolů uložených opatrovníkovi je třeba položit důraz na
+> zjištění příbuzenských, resp. sociálně příbuzenských poměrů osvojovaného
+> dítěte (srov. Úmluvu o osvojení dětí), jakož i na zjištění názoru toho,
+> kdo o osvojované dítě dosud, popř. právě pečuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 805 návrhu — dnešní § 812):**
+
+> Vzhledem ke zvláštnímu významu a statusové povaze právního jednání
+> spočívajícího v prohlášení souhlasu k osvojení, je nezbytné, aby
+> bezvýjimečně jediným státním orgánem, vůči němuž lze souhlas řádně dát,
+> byl soud. Prohlášení se činí přímo vůči soudu s účinky od chvíle, kdy
+> soud vezme obsah prohlášení na vědomí (obdoba sňatečného prohlášení).
+>
+> Je na místě podotknout, že dosavadní situace, kdy souhlas je dáván
+> v místě, totiž vůči obecnímu úřadu, byť se jedná o obecní úřad obce
+> s rozšířenou působností, se nejeví jako zcela dobře přijatelná.
+>
+> Není rozhodné, zda prohlášení je učiněno „vůbec", tj. předem a bez
+> zřetele k určitým osvojitelům, anebo v řízení o osvojení.
+>
+> Vzhledem k tomu, že souhlas je právním jednáním (projevem vůle) sui
+> generis (statusovým jednáním) - obecná ustanovení o právních jednáních
+> se na souhlas rodičů vztahují jen tehdy, pokud zdejší zvláštní
+> ustanovení nestanoví jinak - je zapotřebí pro ně výslovně stanovit
+> podmínky, resp. předpoklady platnosti (případné nesplnění zákonných
+> náležitostí bude mít za následek neplatnost). Takto se především
+> stanoví, že prohlášení souhlasu musí být výslovné a určité, tj.
+> konkludentní projev vůle by v tomto případě nestačil a nestačil by ani
+> takový volní projev, který by bylo pro jeho neurčitost nutné složitě
+> vykládat. Určitostí nelze mínit jevovou neurčitost, pokud se jedná o
+> dítě (stačí „mé dítě", nebo „dítě, které se mi narodilo" apod.): jde o
+> určitost, pokud se jedná o podstatu souhlasu k osvojení.
+>
+> Souhlas rodičů s osvojením, který byl učiněn pod nátlakem nebo v tísni,
+> je bez právního významu.
+>
+> Stejně tak prohlášení souhlasu nesmí být vázáno na splnění podmínky a
+> nesmí být ani časově omezeno.
+>
+> Rodič si přitom musí být vědom toho, k čemu přivoluje -- musí vědět, co
+> osvojení -- pro něj i pro dítě - znamená, a to jak právně tak fakticky,
+> a co jak právně, tak fakticky znamená, když vysloví svůj souhlas
+> k osvojení: souhlas rodiče s osvojením je „informovaný", tj. rodič jej
+> dává teprve poté, co byl náležitě poučen o významu tohoto svého jednání.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 806 až 809 návrhu — dnešní § 810—813):**
+
+> Podmínka souhlasu rodiče, jenž není dosud plně svéprávný, byla do právní
+> úpravy osvojení výslovným ustanovením vtělena teprve v r. 1998, i když
+> teorie měla vždy v tomto ohledu jasno.
+>
+> Zdejší ustanovení je projevem ochrany zvláštního práva jedince přirozeně
+> (biologicky) spojeného s vlastním dítětem, kdy za dítě -- přirozeného
+> rodiče - by nutně dával souhlas někdo jiný, bez ohledu na to, kdo by tím
+> jiným byl.
+>
+> Souhlas k osvojení nelze dát prostřednictvím zástupce -- je to vrcholně
+> osobní vůle a její projev, musí jít o osobní prohlášení. I nezletilý,
+> který není plně svéprávný, může souhlas k osvojení dát, ovšem za
+> podmínky, že soud -- podle obecných ustanovení -- shledá, že je schopen
+> takové prohlášení sám učinit. Pokud soud shledá, že schopen není, nemůže
+> souhlas k osvojení dát.
+>
+> Souhlas k osvojení nelze dát dříve než šest týdnů po narození dítěte. To
+> bezvýjimečně platí o matce, jejíž souhlas -- i kdyby snad byl dán --
+> nemůže být příslušným orgánem dříve než po šesti týdnech přijat. Naproti
+> tomu otec dítěte -- nikoli však muž, který o sobě prohlašuje, že je
+> otcem -- může dát souhlas dříve, nejdříve však po narození dítěte. Otec
+> dítěte není dotčen stavem šestinedělí, ale může mu záležet na tom, co se
+> stane s jeho dítětem, byť třeba není manželem matky dítěte.
+>
+> Souhlas rodiče k osvojení má stejný význam, jestliže je v prohlášení a
+> jeho písemném vyhotovení zmíněna osoba, která má (snad) dítě osvojit,
+> anebo je-li tento souhlas obecný -- souhlas k osvojení kýmkoli. To
+> proto, že rodič v obou případech zásadně bude v řízení o osvojení
+> vyslechnut, zda se na jeho souhlasu nic nezměnilo, resp. zda tento svůj
+> souhlas vyslovil, aniž by byl k němu pohnut způsobem, jenž nelze
+> aprobovat.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 810 a 811 návrhu — dnešní § 814—815):**
+
+> Souhlas k osvojení je relevantní (účinný) od okamžiku, kdy byl soudem
+> přijat. Nicméně trvání jeho účinků není neomezené.
+>
+> Souhlas pozbývá účinnosti ve dvou případech. První situace vychází
+> z toho, že souhlas byl dán se zřetelem k určité konkrétní osobě
+> osvojitele. Druhá situace souvisí s faktem, že souhlas k osvojení byl
+> dán (tak říkajíc) zbytečně -- a bude tudíž třeba o osudu dítěte uvažovat
+> nějakým jiným způsobem, přičemž nemá smysl, aby rodič byl nadále vázán
+> svým souhlasem k osvojení.
+>
+> Rovněž odvoláním (§ 812) pozbývá souhlas své účinnosti.
+>
+> Tyto případy se od sebe liší právním důvodem: zatímco v prvním případě
+> jde o zákonný důsledek určitých právních skutečností, na jednání toho,
+> kdo souhlas dal, nezávislých, ve druhém případě jde o důsledek jednání
+> osoby, která souhlas dala.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 812 a 813 návrhu — dnešní § 816—817):**
+
+> Adjektivum „absolutní" -- ve smyslu neodvolatelně, nezměnitelně a jednou
+> pro vždy, by patrně neměl být užíván v souvislosti se žádným právním
+> jednáním: neodvolatelnou, nezměnitelnou a jednou pro vždy platící -- to
+> vše jsou přívlastky, jež je -- jde-li o člověka -- třeba nechat
+> vyhrazeny pro smrt.
+>
+> Proto (ale nejen proto) se stanoví, že kdo dal souhlas k osvojení (bez
+> zřetele na to, zda konkrétní osvojitel byl nebo nebyl zmíněn, resp.
+> naznačen), má právo svůj souhlas odvolat. Po dobu tří měsíců je třeba
+> vyčkat, neboť nelze bez dalšího dovodit, že souhlas odvolán nebude (a to
+> ani ze zřejmého chování osoby, která souhlas dala). Že lze i po tuto
+> dobu jednat podle okolností, to je zohledněno v dalších ustanoveních.
+>
+> O odvolání souhlasu platí obdobně to, co platí o dání souhlasu. Nicméně
+> je možné, aby rodič, který souhlas dal, namísto svého prohlášení vůči
+> soudu dítě převzal od osoby, v jejíž péči se právě nalézá (v naprosté
+> většině případů je touto osobou ústavní zařízení, budoucí osvojitel,
+> popř. tzv. profesionální pěstoun). A jen, bude-li tato osoba odporovat,
+> bude se rodič obracet na soud.
+>
+> Po uplynutí tří měsíců souhlas již zásadně odvolat nelze. Má se za to,
+> že tři měsíce jsou dobou, která skýtá přiměřenou ochranu právům
+> přirozeného rodiče na straně jedné, a na druhé straně o ní nelze říct,
+> že by nepřípustným způsobem poškozovala oprávněné (odůvodněné) zájmy
+> dítěte (v tu dobu by ostatně měla být zajištěna pokud možno individuální
+> péče o dítě -- srov. dále).
+>
+> Po uplynutí tří měsíců může již osvojovací proces běžet bez jakýchkoli
+> omezení, především je možné, aby dítě převzal do své péče budoucí
+> osvojitel (totiž i takový, který nechtěl dítě převzít již dříve právě
+> z důvodu pendence odvolání souhlasu).
+>
+> Je ale třeba vyjít vstříc přirozenému rodiči, a to bez ohledu na to, že
+> již uběhla doba pro odvolání souhlasu. Není přece důvod rodiči bránit,
+> aby souhlas odvolal i později, zejména tehdy, jestliže budoucí
+> (uvažovaný) osvojitel dítě nepřevzal, ať už z jakéhokoli důvodu (zejména
+> zajisté proto, že s převzetím dítěte jen otálí), anebo tehdy, jestliže
+> rodič o vydání dítěte žádá, osvojitel se brání, a rodič proto navrhne,
+> aby soud situaci zvážil a rozhodl podle zájmu dítěte o tom, jak má být
+> hodnocen souhlas rodiče k osvojení (a tudíž, v čí péči má dítě napříště
+> být). Je samozřejmé, že zájem dítěte nemusí výjimečně spočívat v tom,
+> aby bylo se svým přirozeným rodičem, ale je třeba tento zájem zvažovat,
+> zejména tehdy, je-li zřejmé, že poměry přirozeného rodiče jsou oproti
+> době, kdy souhlas k osvojení dal, zcela zásadně odlišné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 814 až 818 návrhu — dnešní § 818—822):**
+
+> Ustanovení § 814 až 818 řeší problematiku souvisící se situací, kdy
+> k osvojení není výjimečně souhlasu rodičů zapotřebí. Jde především o
+> otázku tzv. nezájmu, ale zdaleka nejen o ni. Mezinárodní úmluvy mluví
+> v této souvislosti o zbavení rodiče jeho práva dávat souhlas k osvojení.
+>
+> Ustanovení § 814 obsahuje výčet případů, kdy k osvojení není třeba
+> souhlasu rodičů -- s tím, že podrobnější úprava je obsažena
+> v ustanoveních následujících paragrafů. Rozhodnutí o tom, zda je nebo
+> zda není třeba souhlasu rodičů k osvojení, náleží výhradně soudu. Je
+> třeba mít na zřeteli, že zájem na urychleném zajištění individuální péče
+> o dítě se nesmí dostat do rozporu se zájmem na řádném a spravedlivém
+> procesu (pokud jde o zajištění péče o dítě a jeho ochrany obecně, jsou
+> pro to vytvořeny jiné instituty). Rozhodne-li soud, že k osvojení není
+> třeba, aby souhlas prohlásili rodiče, dává jej na jejich místě
+> opatrovník, o němž platí zásadně všechno, co o opatrovníkovi, kterého
+> ustavuje soud v případě, že rodiče nejsou nebo dát souhlas nemohou.
+>
+> V ustanoveních § 815 a 816 je řešen tzv. nezájem rodičů o dítě, je tu
+> víceméně přesně uvedeno, co se rozumí tím, že rodiče „zjevně nemají o
+> dítě zájem". Jedná se o dvě skupiny případů.
+>
+> Předně o případy, kdy rodiče neprojevují opravdový zájem, a přitom
+> ne-osvojení by pro dítě znamenalo zřejmou újmu.
+>
+> Dále jde o případy, kdy rodiče neprojevují o dítě vůbec žádný zájem, a
+> takto trvale hrubě porušují své rodičovské povinnosti, a to až v míře
+> ohrožující fyzické nebo psychické nebo morální zdraví dítěte. Soud musí
+> i zde zvážit všechny rozhodné skutečnosti podle svých vlastních
+> zjištění, přičemž by měl vždy brát zřetel především na poznatky,
+> případně i názory toho, v jehož péči se dítě právě nalézá (např.
+> kojenecký ústav, tzv. profesionální pěstoun).
+>
+> Ustanovení o „nezájmu" se neuplatní, pokud je zřejmé, resp. pokud bude
+> zjištěno, že se rodiče dostali do značné nouze nebo tísně, a to nikoli
+> vlastním zaviněním, a je možné očekávat, že tuto neuspokojivou situaci
+> překonají. Je ovšem třeba právě v tomto bodě apelovat na orgány
+> sociálně-právní ochrany dětí: to je totiž instituce, která by měla
+> působit s dokonalou profesionalitou, z níž by byla zřejmě patrna ta
+> nejvyšší míra porozumění zájmům dítěte a péče o jeho prospěch. Zkušenost
+> ukazuje, že často i jednoduchá pomoc přirozeným rodičům pomáhá vyřešit
+> problém zvaný „muset dát dítě osvojit".
+>
+> Zjevnost nezájmu (§ 816) lze uvažovat již poté, co se rodiče po tři
+> měsíce chovali způsobem, který lze označit za hrubé porušování
+> rodičovských povinností. Pokud ale v jejich chování nelze hrubé
+> porušování rodičovských povinností spatřovat, je třeba, aby především
+> byli orgánem sociálně-právní ochrany dětí poučeni o možných důsledcích
+> svého chování a aby od takového poučení marně uplynuly alespoň tři
+> měsíce. Takové poučení ale není potřebné (tj. ani v případě, že nešlo o
+> hrubé porušování rodičovských povinností), jestliže rodiče po svém
+> přestěhování (popř. jiné změně místa pobytu) nesdělili svou novou adresu
+> a orgánu sociálně-právní ochrany dětí se ani za tři měsíce nepodařilo
+> novou adresu zjistit. Tříměsíční lhůta běží vždy od prvního poučení,
+> popřípadě od prvního úkonu, který lze označit za jednání směřující ke
+> zjištění adresy rodičů neskončí ale dříve než za šest měsíců po narození
+> dítěte.
+>
+> Ustanovení § 817 a 818 zmiňují situaci, kdy rodiče bezdůvodně odmítají
+> dát souhlas k osvojení, a to přes to, že je zřejmé, že o dítě řádně
+> nepečují a ani v budoucnu pečovat nebudou -- nemohou, nechtějí, nemají
+> zájem apod. (Nejde o to, že neprojevují o dítě, které je umístěno
+> v ústavu nebo i zařízení neústavního typu, opravdový zájem.) Pokud se
+> prokáže, že bezdůvodně odmítavé stanovisko rodičů nemá náležitý
+> ospravedlnitelný důvod, a přitom lze v odmítání souhlasu shledat
+> zneužití rodičovských práv, od první výzvy vůči rodičům uplynulo alespoň
+> šest měsíců, pak rovněž není souhlasu rodičů k osvojení zapotřebí. Také
+> v tomto případě se uplatní ustanovení upravující situaci, kdy se nedaří
+> doručit rodičům výzvu, aby se k osvojení vyslovili.
+>
+> Situace prve uvedené nemají pravidelnou relevanci tehdy, existuje-li
+> některý z blízkých příbuzných dítěte (§ 818), který je ochoten o dítě
+> pečovat a navrhne soudu, aby v tomto smyslu rozhodl. (V takovém případě
+> se zájem případného uchazeče o osvojení neprosadí.) Je-li takový -
+> ochotný - příbuzný zjevně schopen o dítě pečovat, a navíc lze
+> konstatovat, že takové řešení je v zájmu dítěte, soud návrhu vyhoví
+> (srov. Úmluvu o osvojení dětí).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 819 až 821 návrhu — dnešní § 823—825):**
+
+> Do péče osvojiteli lze dítě předat prakticky ihned, jakmile to zdravotní
+> stav dítěte dovolí. Nejde ovšem o preadopční péči, jde jen a pouze o
+> faktickou individuální osobní péči o osobu dítěte. Takový „pečovatel" má
+> pouze tuto povinnost a toto právo, jakož i povinnost dítě zase předat
+> (zpět do ústavu, resp. zařízení neústavního typu, nebo rodičům), jakmile
+> se změní okolnosti, především totiž na straně rodičů. Zajisté, že
+> v případě, že je to nezbytně potřebné, má právo jednat v záležitostech,
+> které souvisí s péčí o dítě nebo z ní zákonitě vyplývají: nejen že dítě
+> chrání, ale rozhoduje o záležitostech jeho každodenního života. Jinak
+> náležejí rodičovská práva (zásadně) rodičům. (Nejde ovšem ani o svěření
+> dítěte do péče jiné osoby, takže ust. § 948 an. lze použít jen podpůrně,
+> na rozdíl od situace zmíněné v ust. § 823.)
+>
+> Tato péče osvojitele, spojená s rizikem, že bude pouze dočasná, by měla
+> být hodnotově vyvážena: ten, kdo bude ochoten převzít dítě do své péče
+> velmi záhy, ale s rizikem, že bude případně povinen dítě zase vydat,
+> bude ve zvýhodněném pořadí před tím, kdo raději vyčkává, zatímco dítě
+> čeká v ústavní péči, popř. i v péči jiné osoby (zařízení).
+>
+> Realizace této péče přichází v úvahu jak v situacích, kdy je nepochybné,
+> že rodič (rodiče) posléze dá souhlas k osvojení, tak i v situacích, kdy
+> se jeví pravděpodobným, že nastane některá ze situací zmíněných
+> v ustanovení § 814, to jest zejména to, že rodiče nebudou o dítě
+> projevovat náležitý zájem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 822 až 824 návrhu — dnešní § 826—828):**
+
+> V souvislosti se slovy „byl souhlas dán", se rozumí jak rodiči, tak
+> popřípadě opatrovníkem k tomu soudem ustaveným.
+>
+> Po uplynutí tříměsíční lhůty ode dne, kdy byl souhlas dán, pozastavuje
+> se -- ex lege -- výkon rodičovských práv. Řešením této situace je
+> ustavení poručníka, který bude v právních jednáních dítěte napříště
+> vystupovat na místě rodičů. To samo o sobě nemá žádný vliv na to, že
+> rodič má být znovu slyšen, pokud se jedná o jeho souhlas k osvojení,
+> neboť právo dát souhlas k osvojení je právem sui generis statusové
+> povahy (viz výše). Poručníka nebude třeba ustavit, byl-li ustaven již
+> dříve. (Poručník ustavený dítěti není tím, kdo by měl na místě rodičů
+> dávat souhlas k osvojení -- poručník je osoba vztahující se k dítěti,
+> opatrovník, kterého ustavuje soud, aby dal souhlas na místě rodičů, se
+> vztahuje k rodičům.)
+>
+> Tohoto řešení není třeba, pakliže dítě, jež má být osvojeno, je v péči
+> rodičů, a bude vlastně přímo (totiž orgánem sociálně-právní ochrany
+> dětí) posléze předáno do preadopční péče osvojitelů -- nezmění-li se
+> poměry.
+>
+> V případě osvojitelů, kteří nebyli krajským úřadem posouzeni pro účely
+> osvojení podle zvláštního právního předpisu, požádá soud krajský úřad o
+> toto posouzení. Toto se nevztahuje na osvojení manželem rodiče dítěte.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 825 návrhu — dnešní § 829):**
+
+> Kromě standardní úpravy preadopční péče, jejíž trvání se prodlužuje
+> vzhledem k potřebě dát všem zúčastěným dostatek prostoru k nalezení
+> potřebné a odpovídající kvality pouta, k projevení citu, ke zjištění,
+> zda je všechno v pořádku atd., na dobu přiměřenou trvající alespoň šest
+> měsíců s tím, že v případě, že to bude vhodné nebo toho bude třeba, bude
+> tato péče trvat déle, se rovněž stanoví, že osvojitel má při výkonu této
+> péče povinnosti a práva osoby, do jejíž péče bylo osvojované dítě
+> svěřeno, resp. povinnosti a práva pěstouna. Nic nebrání tomu, aby byl
+> návrh na osvojení podán před uplynutím této lhůty, nesmí být však
+> rozhodnuto před jejím uplynutím. Preadopční péči lze tedy posoudit podle
+> ustanovení § 948 an. obdobně.
+>
+> Nákladem osvojitele se rozumí všechno, co osvojitel poskytuje jako
+> výživu dítěti a co lze finančně ohodnotit. Plnění případně dříve
+> stanovené vyživovací povinnosti rodičů, případně jiných osob se
+> pozastavuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 826 a 827 návrhu — dnešní § 830—831):**
+
+> Jedná se o upravený přepis dosavadní právní úpravy, formulačně upravený
+> (řízení o osvojení se přerušuje).
+>
+> Je ovšem výslovně vzat v úvahu běh tříměsíční lhůty, po niž lze souhlas
+> daný k osvojení odvolat.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 828 a 829 návrhu — dnešní § 832—833):**
+
+> Ustanovení upravují základní vztahy vznikající či naopak zanikající
+> v důsledku osvojení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 830 návrhu — dnešní § 834):**
+
+> V ustanovení se připomíná a výslovně právně řeší skutková situace
+> osvojení dítěte--rodiče, kterou nelze dobře u starších osvojenců
+> vyloučit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 831 návrhu — dnešní § 835):**
+
+> Otázka příjmení osvojitele je řešena standardním způsobem, ovšem
+> s přihlédnutím k právu dítěte (které má od svého patnáctého roku)
+> rozhodovat o svém osobním jméně a příjmení. Řešení, které se nabízí
+> v připojování zvoleného příjmení osvojitele k příjmení osvojovaného
+> dítěte, není sice u nás standardní, ale vyhovuje našemu pojímání
+> osvojení i tvorby příjmení. Je samozřejmé, že osvojenci poté, co dosáhl
+> zletilosti, nic nebrání, aby změnil své příjmení podle obecných
+> předpisů.
+>
+> Pokud jde o osobní jméno osvojeného dítěte, stanoví o něm matriční
+> předpisy.
+
 ### Pododdíl 3 — Péče před osvojením (§ 819—835)
 
 **§ 819—822**: před osvojením musí být dítě **v péči budoucího osvojitele** (předpěstounská péče, *pre-adoption care*):
@@ -1204,6 +2059,67 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 **Jméno**: zachováno (default); lze změnit s ohledem na zájem dítěte.
 
 **Výživné**: osvojitel přebírá vyživovací povinnost (§ 910 a násl.); biologičtí rodiče přestávají být vyživovacími povinnými (kromě nezániku biologického otcovství v případě osvojení partnerem rodiče).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 832 návrhu — dnešní § 836):**
+
+> Obsah tohoto ustanovení vyplývá z Úmluvy o osvojení dětí (čl. 7 a 8).
+> Význam tohoto ustanovení stoupá nejen se zřetelem na dědičné choroby,
+> ale i ve směru statusových poměrů osvojeného (manželství, osvojení atp.)
+> Odkaz na tradici anonymity není dnes možné považovat za relevantní, jako
+> argument není udržitelný.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 833 a 834 návrhu — dnešní § 837—838):**
+
+> Vzhledem k tomu, že celosvětově stále sílí přesvědčení, že anonymitu
+> osvojení je třeba potlačit, neplatí pro osvojení (ani po stránce hmotně
+> právní, ani po stránce procesní, popř. po stránce matriční) nějaká
+> zvláštní pravidla utajení. Je nicméně třeba ponechat na zúčastněných
+> (přirození rodiče, dítě, osvojitel), aby se sami rozhodli (jde o jejich
+> osobnostní záležitost), zda navrhnou soudu, aby rozhodl o tom, že
+> skutečnost osvojení a jeho okolnosti mají být utajeny.
+>
+> Na druhé straně je nicméně třeba připustit, že může existovat veřejný
+> zájem, který může být silnější než zájem osob v daném osvojení
+> zúčastněných (srov. zápisy ve veřejných knihách či registrech, počínaje
+> katastrem nemovitostí).
+>
+> Ustanovení § 834 souvisí s právem dítěte znát svůj původ.
+>
+> Lze zdůraznit, že je třeba zajistit soulad mezi matričními,
+> katastrálními zápisy na straně jedné a předpisy o ochraně osobních údajů
+> na straně druhé.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 835 návrhu — dnešní § 839):**
+
+> Následný dohled nad úspěšností osvojení, resp. nad osvojeneckými poměry
+> vůbec, není ve světě ničím mimořádným (ostatně, je standardní
+> v mezinárodním osvojení, a je obecně známo, že mnohé státy velmi pečlivě
+> plní povinnosti v oblasti dohledu nad dětmi z ČR, které byly u nich
+> osvojeny), naopak, lze mít za to, že obdobně jako jsou sledovány poměry
+> v problémových rodinách (přirozených) je na místě sledovat poměry
+> v rodinách osvojeneckých -- vždyť o těchto rodinách nelze a priori říct,
+> že žádné obtíže mít nemohou: jejich problém je od samého počátku v tom,
+> že jde o rodinu (osvojitele a osvojence), která vznikla způsobem nikoli
+> přirozeným. Doba, po niž bude dohled vykonáván, by neměla být příliš
+> krátká. Dohled je ovšem formulován fakultativně, tak, že je umožněno
+> soudu, aby podle své zkušenosti a svých poznatků v konkrétním řízení
+> učiněných, sám rozpoznal -- a je to on, kdo jistě nejlépe tuto úlohu
+> může splnit - kdy je dohled vhodný a kdy zbytečný.
+>
+> V žádném případě nesmí být vytvářen dojem, že se jedná o jakési sankční
+> opatření. Jde skutečně jen a jen o to, aby to, o čem soud rozhodl, neboť
+> nabyl přesvědčení, že to bude dítěti ku prospěchu, skutečně dítěti ku
+> prospěchu bylo.
+>
+> Dohled má být uskutečňován zejména proto, aby tam, kde je třeba
+> osvojiteli a osvojenci poskytnout radu nebo pomoc, se tak stalo
+> operativně a řádně. Rozhodně by nemělo jít o nějaké vměšování do
+> soukromí rodiny, která byla obohacena o nového člena. Dohled by mohl
+> kupříkladu vypadat zhruba tak, jak jej známe z případů dětí osvojených
+> do zahraničí: osvojiteli (méně vhodně již orgánu sociálně-právní ochrany
+> dětí) by měl být uložena povinnost jednou za půl roku podat soudu
+> informaci o tom, jak se osvojenci v jeho nové rodině daří. Ostatně
+> leckterý osvojitel se svými úspěchy rád pochlubí.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1277,6 +2193,26 @@ Osvojitel musí osvojence o osvojení informovat nejpozději do zahájení škol
 
 **§ 842 — Dohled nad úspěšností**: OSPOD sleduje úspěšnost osvojení po dobu **6 měsíců** po pravomoci rozhodnutí. Pokud se ukáže, že **neslouží zájmu dítěte**, lze osvojení **zrušit** (§ 843).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 836 až 838 návrhu — dnešní § 840—842):**
+
+> Standardní úprava zrušení osvojení je doplněna možnost připojení se
+> k návrhu jednoho či druhého oprávněného.
+>
+> Rovněž se výslovně upravuje otázka povinností a práv, zejména
+> majetkových. Je třeba zdůraznit, že zrušení osvojení má vždy účinky jen
+> pro futuro.
+>
+> I na tomto místě je řešena otázka příjmení osvojence -- adekvátně obsahu
+> ustanovení § 833, a to s tím, že změně (o níž rozhoduje soud v řízení o
+> zrušení osvojení) může osvojenec svým prohlášením zabránit. Osvojenec,
+> který není plně svéprávný, bude sice zastoupen opatrovníkem, nicméně i
+> zde se uplatní předpisy, které rozšiřují práva dětí, pokud jde o osobní
+> jméno a příjmení (kromě ovšem předpisů, které nezletilého chrání právě
+> jako dítě).
+>
+> Pro jinou změnu musí ovšem využít obecných předpisů o změně jména a
+> příjmení.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 4782/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C501AAAD6740152C12586B400188197?openDocument) — *Osvojení Přechodná (intertemporální) ustanovení*
@@ -1327,6 +2263,37 @@ Osvojení lze z důležitých důvodů zrušit na návrh osvojitele nebo osvojen
 
 **§ 844 — Opětovné osvojení**: dítě, které již bylo osvojeno, lze osvojit **znovu** (typicky pokud první osvojení selže).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 839 návrhu — dnešní § 843):**
+
+> Tzv. readopce u zrušitelného osvojení je možná jen výjimečně. Vždy je
+> totiž třeba dbát, aby tu nebyly dva páry osvojitelů (což je
+> nepřípustné). U osvojení nezrušitelného je možnost readopce otevřena,
+> protože situace možného návratu do předešlého stavu není možná.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 840 návrhu — dnešní § 844):**
+
+> Navržená ustanovení vycházejí z dosavadní právní úpravy. Pokud se jedná
+> o souhlas přirozeného rodiče (resp. stávajícího rodiče), je třeba mít na
+> zřeteli, že bez náležité informace a jí odpovídajícího prohlášení rodiče
+> není možné vyloučit jeho domnění o možnosti k dítěti se jednou vrátit.
+> Bude tudíž zapotřebí, aby souhlas, který rodič dává k osvojení, byl
+> informovaným souhlasem do té míry, že zahrne na jedné straně i
+> nezrušitelnost osvojení, a na straně druhé i vědomí možnosti, že
+> k nezrušitelnému osvojení nedojde a třeba i osvojení bude zrušeno. Jde o
+> to, aby bylo zajištěno, že rodič byl seznámen s právním stavem věcí a že
+> měl dostatečnou rozpoznávací schopnost k tomu, aby podle takové
+> informace v souladu se svou vůlí dále právně jednal. Je tedy na soudu,
+> který rozhoduje o osvojení, aby na možnost nezrušitelnosti osvojení
+> rodiče včas a řádně upozornil, a vyžádal si popřípadě jeho souhlas
+> k takovému osvojení předem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 841 návrhu — dnešní § 845):**
+
+> Rozhodnutím o tom, že osvojení je nezrušitelné, nastává stav, který je
+> plně srovnatelný se stavem rodičovským. Proto není důvod omezovat nějak
+> možnosti případného opětovného osvojení (a to zajisté na rozdíl od
+> osvojení zrušitelného).
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [2 Cmo 360/2020-189](https://rozhodnuti.justice.cz/rozhodnuti/?id=75256115-714d-407f-a106-dc0b848d6217) — 6. 4. 2021
@@ -1374,6 +2341,26 @@ Osvojení lze zrušit pro důvody zvláštního zřetele hodné (zejm. závažn�
 
 **Specifický institut** — osvojení dospělé osoby. **Dvě formy** (od novely 2014):
 
+**Důvodová zpráva (sněmovní tisk 362, k § 842 návrhu — dnešní § 846):**
+
+> Jak plyne z předchozích ustanovení a jak také již bylo uvedeno
+> v důvodové zprávě k ustanovení § 789, má se vedle osvojení, jež je
+> koncipováno zásadně jako institut týkající se dětí (za vlastní je
+> přijímáno dítě, tj. nezletilý), dále upravit, a to ustanoveními
+> zvláštními, resp. speciálními, osvojení zletilého.
+>
+> Zvolené pojmenování není vzhledem k novému pojetí zletilosti, resp.
+> svéprávnosti, zcela přesné a vybráno bylo jen proto, že je obvyklé
+> mluvit o osvojení zletilého, ne však o osvojení svéprávného.
+>
+> Z obsahu úvodního ustanovení má být zřejmé, že osvojení zletilého je
+> institutem zcela výjimečným, jenž má pomoci řešit některé situace, které
+> jinak než výslovným zákonným ustanovením (jde o záležitost statusovou)
+> řešitelné nejsou (k výjimečnosti srov. rovněž § 789).
+>
+> Rozpor s dobrými mravy představuje např. zastřený sňatek (náhrada
+> sňatku).
+
 #### § 847—852 — Obdoba osvojení nezletilého
 
 > (1) Zletilého lze osvojit, jestliže
@@ -1417,6 +2404,106 @@ Osvojení lze zrušit pro důvody zvláštního zřetele hodné (zejm. závažn�
 - **Osvojení by bylo přiměřené** za nezletilosti;
 - **Dlouhodobý péčový vztah** existoval před zletilostí;
 - **Zánik biologického příbuzenství** je možný (obdobně jako u nezletilého).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 843 návrhu — dnešní § 847):**
+
+> Jsou-li tu rodiče osvojovaného, nelze jejich zájem pominout, i když jim
+> nelze přiznat postavení, jako mají rodiče osvojovaného nezletilého.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 844 a 845 návrhu — dnešní § 848—849):**
+
+> Možnost osvojit zletilého i v dalších případech hodných zvláštního
+> zřetele zakládají zákonné úpravy řady evropských států. Také u nás byla
+> tato možnost v minulosti upravena (naposledy zákonem o osvojení č.
+> 56/1928 Sb.). Zrušil ji zák. č. 265/1949 Sb., o právu rodinném, s
+> odůvodněním, že osvojení nemá být právním prostředkem k zachování rodiny
+> jako kapitalistické buňky (srov. důvodovou zprávu k § 63 tohoto zákona).
+> Účel osvojení byl omezen na výchovu dětí k lásce k práci a lidově
+> demokratickému státu. Těmto účelům osvojení možnost osvojit zletilého
+> odporovala. Je-li zákonná překážka osvojení zletilého ze setrvačnosti
+> zachována až do současné doby, není sociální důvod ji udržovat i do
+> budoucna.
+>
+> Navržená ustanovení vycházejí ze zdejší předválečné úpravy s úpravami
+> ovlivněnými jednak platnými ustanoveními německého a italského
+> občanského zákoníku, jednak přihlížejí k sociálnímu vývoji moderní doby.
+>
+> Osvojení, které není obdobou osvojení nezletilého, přichází v úvahu
+> především u osob, které nemají potomky, ať pokrevní nebo právní,
+> popřípadě které nemají pokračovatele ve svém díle, ať vědeckém,
+> uměleckém, řemeslném či jiném, ale i u takových, jimž jejich potomci
+> neposkytují náležitou pomoc v nemoci nebo ve stáří, jsou nedosažitelní,
+> pobývají neznámo kde atp. Stejně tak se může jednat o případy, kdy mezi
+> osvojitelem a osvojovaným již dříve v minulosti existoval vztah rodiče a
+> dítěte (tak výslovně německý BGB v § 1757). Může jít zajisté i o jiné
+> situace, které lze označit za důvody zvláštního zřetele hodné (sociální,
+> zdravotní apod.), kdy se od nového poměru důvodně očekává, že bude pro
+> zúčastněné přínosný. Na rozdíl od případů řešených v předchozím
+> ustanovení má soud nejen zvažovat skutečný přínos osvojení, ale také se
+> zabývat tím, nejde-li o zneužití institutu ze strany některého z
+> navrhovatelů, resp. k újmě některého z nich, a zda tedy není namístě
+> zamítnutí návrhu. Nevyžaduje se jako právní podmínka, aby před osvojením
+> trvalo soužití osvojitele a osvojovaného, avšak existovalo-li, může k
+> tomu být přihlédnuto.
+>
+> Použití předcházejících ustanovení o osvojení je možné, avšak jen
+> přiměřeně, totiž právě s ohledem na zvláštnost situace.
+>
+> Osvojení má právní následky jen pro osvojitele a osvojence, popřípadě,
+> jak je stanoveno dále, pro ty osvojencovy potomky, kteří se narodí po
+> osvojení. Má-li osvojenec potomky již v době osvojení, navrhuje se dále
+> stanovit, že osvojení pro ně nemá právní následky, ledaže s tím oni sami
+> souhlasí. Naproti tomu je vyloučeno, aby osvojenec získal osvojením
+> právní příbuzenství k dalším členům osvojitelovy rodiny a odvozoval z
+> nich majetková práva.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 846 návrhu — dnešní § 850):**
+
+> I když se jedná o zvláštní věc statusovou, kdy by bylo možné v případě
+> omezené svéprávnosti připustit samostatné právní jednání, je nejspíš
+> zapotřebí tuto možnost vyloučit právě se zřetelem na výjimečnost
+> zdejšího institutu. U osob, jejichž svéprávnost byla omezena, pak o
+> potřebě zastoupení není pochyb. Na druhé straně není ani důvod klást
+> v tomto případě zvláštní zábrany.
+>
+> Situace, kdy je osvojovaný manželem, vyvolává potřebu náležité ochrany
+> tohoto manžela. Mimo jiné se mu dává příležitost rozhodovat o sobě i o
+> svém statusovém postavení. Jeho souhlas nelze rozhodnutím soudu
+> nahradit.
+>
+> V případech zde uvedených soud zásadně (nemusí tomu tak být -- užijí se
+> ustanovení o osvojení zletilého § 843 a 844) schvaluje (společný) návrh
+> osvojovaného a budoucího osvojitele, prospěch osvojovaného nemusí nutně
+> být základním zřetelem, spíš bude třeba zjistit, zda jsou splněny
+> zákonné podmínky ostatní.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 847 návrhu — dnešní § 851):**
+
+> Osvojení zletilého nemá vliv na jeho příjmení, ale nebrání se, aby
+> osvojenec a osvojitel projevili souhlasně vůli, že si osvojenec k svému
+> příjmení připojí příjmení osvojitelovo. Rozumí se, že se připojení může
+> týkat jen prvního příjmení osvojitele, resp. prvního příjmení
+> osvojence - má-li některý z nich již příjmení připojované - protože není
+> důvod, aby neplatila stejná právní pravidla jako v případě osvojení
+> nezletilého. Bude-li osvojený chtít nosit jen příjmení osvojitele, tj.
+> zaměnit je za své dosavadní, může tak učinit podle obecných předpisů o
+> změně příjmení.
+>
+> Trvá-li při osvojení manželství osvojitele, vyžaduje se ke změně
+> osvojencova příjmení souhlas manžela osvojitele v případě, že osvojitel
+> a jeho manžel mají společné příjmení. Obdobné se navrhuje stanovit,
+> je-li osvojenec ženatý nebo osvojenka vdaná.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 848 návrhu — dnešní § 852):**
+
+> Osvojením přijímá osvojitel cizí zletilou osobu za vlastní. Není
+> vyloučeno, že osvojovaný bude již mít potomky, a to popřípadě i zletilé
+> nebo žijící v manželství. Pro tyto případy nelze převzít právní pravidlo
+> o osvojování nezletilého, který je již rodičem, kdy se účinky osvojení
+> vztahují i na jeho dítě bez dalšího. Proto se navrhuje stanovit, že
+> osvojení zletilého má účinky jen vůči těm jeho potomkům, kteří se narodí
+> později; jsou-li tu potomci narození dříve, vyžaduje se jejich souhlas:
+> jinak osvojení jejich rodiče vůči nim účinky mít nebude.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1481,6 +2568,22 @@ Osvojení zletilého jako obdoba osvojení nezletilého (§ 847) je možné při
 - Často **dědickoprávní** zájem (osvojení synovce vás učiní jeho zákonným dědicem);
 - **Citový vztah** dospělých blízkých osob;
 - **Korekce** biologické náhody (např. osoba vychována tetou se nikdy formálně neudílala).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 849 a 850 návrhu — dnešní § 853—854):**
+
+> Zvláštnost zdejšího institutu se promítá i do právní úpravy práv a
+> povinností, jejichž setrvání v původní podobě, nebo naopak jejich změnu,
+> eventuálně zánik osvojení zletilého člověka i v jiných právních řádech
+> s sebou obvykle přináší.
+>
+> Podstatné odlišnosti mezi následky osvojení zletilé a nezletilé osoby se
+> v majetkové sféře týkají zpravidla právě těch otázek, které nejsou
+> obligační, jsou spojeny s osobou, totiž s její existencí a zánikem. Je
+> třeba konstatovat, že podpůrná vyživovací povinnost pokrevenců byla u
+> nás tradičně spojena s každým osvojením (až do roku 1964).
+>
+> Dědické právo osvojeného, a to s předností - v 1. dědické skupině - bývá
+> často právě důvodem, proč osvojitel uvažuje o tomto institutu.
 
 **Judikatura (z místních zdrojů):**
 

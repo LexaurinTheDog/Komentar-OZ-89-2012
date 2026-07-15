@@ -35,6 +35,27 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 - **Cestující**;
 - **Plnění**: přeprava do destinace × jízdné.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2522 až 2553 návrhu — dnešní § 2550—2581):**
+
+> Návrh ustanovení o smlouvě o přepravě osob přejímá platnou úpravu (§ 760
+> a násl. občanského zákoníku). Návrh ustanovení o přepravě věci (nákladu)
+> je převzat z obchodního zákoníku (§ 610 a násl.). Oboje se přejímá bez
+> podstatných obsahových změn.
+>
+> Návrh ustanovení o smlouvě o přepravě věci je oproti současné úpravě
+> přehledněji systematicky uspořádán a rovněž ustanovení o náložném listu
+> jsou vyčleněna do zvláštního pododdílu. Společná ustanovení o osobní a
+> nákladní přepravě obsahují především dispozice pro přepravní řády.
+> Navrhuje se zachovat pravidlo § 772 platného občanského zákoníku
+> vylučující možnost přepravních řádů omezit povinnost dopravce k náhradě
+> újmy na zdraví. Rozdílně od § 629 platného obchodního zákoníku se však
+> navrhuje umožnit, aby přepravní řády modifikovaly podmínky náhrady
+> jiných újem (majetkových i nemajetkových) ve zvlášť odůvodněných
+> případech, kdy potřeba takového omezení pro vnitrostátní přepravu
+> nezbytně vyplývá ze zásad platných pro mezinárodní přepravu. Navrhuje se
+> však vyloučit možnost takové modifikace u škod způsobených úmyslně nebo
+> z hrubé nedbalosti.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Benešově* [12 C 35/2026-18](https://rozhodnuti.justice.cz/rozhodnuti/?id=27b80795-978d-4881-a9c7-ae8227cabc6e) — *náhrada nákladů, lhůty, náklady řízení, jízdné*
@@ -116,6 +137,14 @@ Smlouva o přepravě osoby je konsensuální typ vzniklý již koupí jízdenky;
 - Při **významném zpoždění** → cestující má právo na **kompenzaci**;
 - **EU nařízení**: 261/2004 (letecká přeprava), 1371/2007 (železniční), 181/2011 (silniční), 1177/2010 (vodní).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 3414/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EFE453D365546A95C1258AC1001B7F05?openDocument) — *Přípustnost dovolání Smlouva o přepravě osob*
@@ -179,6 +208,8 @@ Ustanovení § 2551—2554 rozdělují odpovědnost dopravce do dvou režimů: �
 - **Dopravce** (logistická firma, přepravce);
 - **Odesílatel**;
 - **Příjemce** (často odlišný od odesílatele).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
 
 **Judikatura (z místních zdrojů):**
 
@@ -393,6 +424,63 @@ Smlouva o přepravě věci podle § 2555 je samostatný smluvní typ, který je 
 - **Hague-Visby Rules** (námořní);
 - **Montreal Convention** (letecká).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2522 až 2553“ (dnešní § 2550—2581) — viz § 2550.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2554 až 2557 návrhu — dnešní § 2582—2585):**
+
+> Návrh úpravy smlouvy o provozu dopravního prostředku recipuje platnou
+> úpravu (§ 638 a násl. obchodního zákoníku).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 708/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5D59A1B49352C6A3C1258C140052AFA9?openDocument) — *Smlouva o přepravě nákladu*
@@ -456,6 +544,12 @@ Dopravce odpovídá za škodu na zásilce objektivně a nese důkazní břemeno 
 - Quality control v průmyslu;
 - Certifikace shody (CE, BIO).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2624 až 2633 návrhu — dnešní § 2652—2661):**
+
+> Návrh ustanovení o smlouvě o kontrolní činnosti osnova přejímá s
+> drobnými stylistickými a systematickými úpravami z platného obchodního
+> zákoníku (§ 591 a násl.).
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Olomouci* [11 C 263/2021-42](https://rozhodnuti.justice.cz/rozhodnuti/?id=5c354ebc-d555-41c6-bc7b-dfa978a08e6b) — *peněžité plnění*
@@ -505,6 +599,8 @@ Smlouva o kontrolní činnosti zavazuje kontrolora k nestrannému a odbornému z
 **§ 2653**:
 > Kontrolor provede kontrolu s odbornou péčí podle stanoveného způsobu kontroly, doby, místa a rozsahu kontroly, se zřetelem i ke stavu, v jakém se předmět kontroly nacházel v době jejího provádění. Zjištěný stav popíše v kontrolním osvědčení.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
 ### § 2654—2661 — Specifika
 
 **§ 2654**:
@@ -540,6 +636,22 @@ Smlouva o kontrolní činnosti zavazuje kontrolora k nestrannému a odbornému z
 **§ 2658 — Kontrolní osvědčení** — písemný dokument s výsledkem.
 
 **§ 2660 — Odpovědnost** za vady kontroly.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2624 až 2633“ (dnešní § 2652—2661) — viz § 2652.
 
 **Judikatura (z místních zdrojů):**
 
@@ -607,6 +719,16 @@ Kontrolor má právo na odměnu jen za řádně a v obvyklém rozsahu provedenou
 > (1) Byl-li důchod poskytnut za úplatu, nelze pro neplacení dávek odstoupit od smlouvy a požadovat vrácení úplaty. To neplatí, bylo-li placení důchodu zajištěno a jistota zanikne, nebo se zhorší, aniž ji plátce v přiměřené lhůtě doplní na původní rozsah.
 > (2) Odůvodňují-li to okolnosti, nařídí soud na návrh příjemce prodej části plátcova majetku a použití výtěžku k placení důchodu po přiměřenou dobu do budoucna.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2673 až 2678“ (dnešní § 2701—2706) — viz § 2701.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2673 až 2678“ (dnešní § 2701—2706) — viz § 2701.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2673 až 2678“ (dnešní § 2701—2706) — viz § 2701.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2673 až 2678“ (dnešní § 2701—2706) — viz § 2701.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2673 až 2678“ (dnešní § 2701—2706) — viz § 2701.
+
 ### § 2701 — Definice
 
 > Smlouvou o důchodu se plátce zavazuje platit příjemci pravidelně peněžitý důchod a příjemce se zavazuje k protiplnění nebo jinému plnění, popřípadě k bezplatnému přijetí důchodu.
@@ -624,6 +746,58 @@ Kontrolor má právo na odměnu jen za řádně a v obvyklém rozsahu provedenou
 - Doživotní renta výměnou za převod nemovitosti rodičům;
 - Strukturované odškodnění (settlement annuity);
 - Pojistné anuity.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2673 až 2678 návrhu — dnešní § 2701—2706):**
+
+> Smlouvou o důchodu se plátce zavazuje vyplácet příjemci opakované dávky
+> za účelem jeho zaopatření (zpravidla na neurčitou dobu nebo na dobu
+> života nějaké osoby). K této povinnosti se plátce může zavázat jak vůči
+> příjemci, tak vůči osobě třetí. V tomto druhém případě se na smlouvu o
+> důchodu zároveň použijí i ustanovení o smlouvě ve prospěch třetí osoby.
+>
+> Důchod lze ujednat jako rentu nebo jako alimentaci. Renta je stanovena
+> dávkami o pevné nominální hodnotě, alimentační dávky se mění podle kupní
+> síly peněz. Smlouvu o důchodu lze uzavřít i v podobě tak řečené
+> *tontiny* (tzv. Tontiho smlouvy), jejíž podstatou je závazek vyplácet
+> důchod několika příjemcům s tím, že odpadne-li některý z nich jeho
+> důchod přiroste ostatním. Pro tyto případy není zvláštní úprava
+> potřebná, protože se vystačí s obecnými zásadami závazkového práva.
+>
+> Smlouvu o důchodu lze uzavřít jako úplatnou i jako bezúplatnou. Písemná
+> forma je pro smlouvu vyžadována jen v případech, kdy má být důchod
+> vyplácen po delší dobu.
+>
+> Ustanovení o splatnosti jednotlivých dávek, zejména ve vztahu k
+> povinnosti zaplatit dávku splatnou předem, třebaže osoba, jíž dávka
+> náleží, následně zemřela, má svůj vzor v celé řadě evropských zákoníků
+> (srov. např. čl. 1980 CC, § 760 BGB, čl. 518 OR atp.).
+>
+> Po vzoru švýcarského OR a po vzoru CCQ se navrhuje, aby důchodové dávky
+> poskytované bezúplatně nemohly být, určí-li tak plátce ve smlouvě,
+> zabavovány příjemcovými věřiteli. To se odůvodňuje tak, že při
+> bezplatném zřízení zaopatřovacího důchodu z majetku příjemce dávek nic
+> neušlo, takže věřitelé příjemce touto výhradou poškozeni být nemohou.
+> Jeví se však jako vhodné omezit dosah takové výhrady na to, co příjemce
+> nutně potřebuje pro své zaopatření.
+>
+> Pravidlo, že právo na důchod je nepostupitelné, nejedná-li se jen o
+> jednotlivé dávky, odpovídá standardním úpravám a zakotveno je již v
+> platném občanském zákoníku (§ 844).
+>
+> Po vzoru některých zahraničních úprav se navrhuje převzít konstrukci,
+> podle níž příjemce nemůže od smlouvy o důchodu odstoupit pro porušení
+> povinnosti plátcem. Připuštění této možnosti by vedlo k obrácení úpravy
+> proti jejímu vlastnímu účelu. Už subkomise pro revizi občanského
+> zákoníku (pod referencí prof. E. Weisse) ve 20. letech minulého stol.
+> poukázala mj. na skutečnost, že se smlouva o důchodu, zvlášť je-li
+> sjednána na doživotí a za úplatu, blíží smlouvám odvážným, neboť
+> oprávněný k důchodu doufá, že důchod bude brát co nejdéle, zatímco
+> povinný k placení dávek naopak doufá, že bude plnit co nejméně, takže
+> „poskytnutí práva odstupního by tudíž vedlo ku spekulaci na úkor druhé
+> strany." Příjemce důchodu má však mít právo požadovat placení dospělých
+> dávek důchodu. Mimo to se navrhuje po vzoru CCQ, aby měl příjemce právo
+> domoci se v odůvodněných případech i majetkového zabezpečení placení
+> dávek do budoucna.
 
 **Judikatura (z místních zdrojů):**
 
@@ -695,6 +869,22 @@ Smlouva o důchodu podle § 2701 je samostatný zaopatřovací typ; je-li důcho
 **§ 2715**:
 > Byla-li smlouva o převodu nemovité věci uzavřena v souvislosti se zřízením výměnku, nelze od ní odstoupit pro neplnění povinnosti osobou zavázanou k výměnku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2679 až 2687“ (dnešní § 2707—2715) — viz § 2707.
+
 ### § 2707 — Definice
 
 > Smlouvou o výměnku zaopatří vlastník nemovité věci dosavadní vlastník její nabyvateli nebo bývalý vlastník svému právnímu nástupci určité plnění.
@@ -709,6 +899,94 @@ Smlouva o důchodu podle § 2701 je samostatný zaopatřovací typ; je-li důcho
 - Zatěžuje nemovitost **jako reálné břemeno** (§ 1303).
 
 **Praktický význam dnes**: snížený, ale stále využíván **na venkově**; častěji v formě **doživotního užívacího práva** (§ 1283) místo výměnku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2679 až 2687 návrhu — dnešní § 2707—2715):**
+
+> Smlouva o výměnku náleží k typickým občanskoprávním smluvním typům.
+> Upravoval ji ještě zák. č. 141/1950 Sb. (§ 181 a násl.), posléze byla z
+> občanského zákoníku při socializaci občanského práva v r. 1964
+> vypuštěna. Některé právní soustavy řadí výměnek mezi práva věcná (mezi
+> věcná, přesněji mezi reálná břemena), podle jiných se výměnek řadí mezi
+> práva obligační. Příkladem může být na jedné straně pojetí našeho
+> občanského zákoníku z r. 1950, na druhé straně úprava švýcarská nebo
+> polská. Návrh sleduje pojetí, k němuž se přiklonil vládní návrh
+> občanského zákoníku z r. 1937 a k němuž tíhla relevantní literatura již
+> dříve (srov. např. *Krčmář, J.,* Právo občanské. III. Právo obligační,
+> 3. vydání, Praha: Všehrd, 1936, s. 384 nebo *Sedláček, J.,* Obligační
+> právo II. Speciální ustanovení o jednotlivých typech smluvních, Právník:
+> Brno, 1926, s. 182). Ve shodě s předválečným návrhem se i osnova
+> navrhovaného občanského zákoníku přiklání k pojetí, podle něhož není
+> namístě spojovat výměnek jen se zřízením věcného břemene a podle něhož
+> není důvod omezovat možnost zřízení jen na případ odstoupení nemovité
+> věci spojené co do účelu s činností v zemědělství (jak výměnek upravil
+> zákoník z r. 1950 nebo jak výměnek dosud upravuje polské právo).
+> Zřizuje-li se výměnek smlouvou jako reálné břemeno, pak ovšem platí pro
+> jeho vznik ustanovení o reálných břemenech a výměnek vzniká až zápisem
+> do katastru nemovitostí.
+>
+> Vzhledem k povaze výměnku je právo na výměnek jako celek nezcizitelné a
+> neděditelné. Výměnkář může postoupit jen své právo na dospělou dávku,
+> pokud z její povahy plyne, že může být předmětem právního obchodu.
+>
+> Výměnek obvyklé zahrnuje různá dílčí plnění (zajištění bydlení,
+> naturální a relutární dávky, případně různé služby), proto mají být
+> podle potřeby na výměnek aplikována i ustanovení o právech, z nichž se
+> výměnek skládá.
+>
+> Osnova pamatuje na zvláštní případy, kdy změna okolností nutně vyvolává
+> potřebu změnit v zájmu výměnkáře nebo v zájmu osoby zavázané k výměnku
+> práva nebo povinnosti založené smlouvou o výměnku. Tyto okolnosti jsou
+> dvojího druhu. Předně může dojít na straně výměnkáře ke krátkodobé změně
+> poměrů v důsledku nemoci nebo úrazu apod. V těchto případech vznikne
+> osobě zavázané z výměnku povinnost pomoci výměnkáři nezbytnými úkony, i
+> když ji k tomu smlouva o výměnku nezavazuje. Jde o konkretizaci zásady
+> ukládající každému povinnost jednat ve shodě s dobrými mravy. Situace
+> mohou být v daném případě dosti různorodé a posouzeny musí být podle
+> konkrétních okolností jednotlivého případu. Povinnosti pomoci výměnkáři
+> v nouzi nad rámec smluvních ujednání se osoba zavázaná z výměnku může
+> zprostit tím, že zajistí, aby byl výměnkář umístěn v zařízení, kde o
+> něho bude dočasně postaráno. Náklady takového pobytu si ovšem výměnkář
+> hradí sám v těch případech, kdy osoba zavázaná z výměnku není k jejich
+> úhradě smluvně vázána. Jiná otázka se pojí s podstatnou změnou poměrů v
+> případech, kdy smlouva ukládá osobě zavázané z výměnku povinnost k
+> naturálnímu plnění a kdy nelze spravedlivě požadovat, aby takto nadále
+> plnila nebo kdy nelze na výměnkáři spravedlivě požadovat, aby takové
+> plnění přijímal. I zde mohou nastat situace velmi různorodé - podstatné
+> a trvalé zhoršení zdravotního stavu osoby zavázané z výměnku, v jehož
+> důsledku nebude s to nadále poskytovat některá z ujednaných plnění,
+> zkáza domu, kde má výměnkář vyhrazeno právo bydlení, taková změna
+> výměnkářova zdravotního stavu, která vyžaduje stálou asistenci, aniž je
+> k ní osoba zavázaná z výměnku podle smlouvy povinna, a tudíž i jeho
+> trvalé umístění v ústavu sociální péče apod. V těchto případech nemůže
+> závazek zaniknout pro nemožnost plnění, protože tím by byl účel výměnku
+> zmařen. Z toho důvodu má dojít ke změně povinnosti poskytovat výměnkáři
+> ujednané naturální plnění na poskytování peněžitého důchodu. Na změně
+> smlouvy se strany mohou především dohodnout; je-li však výměnek zřízen
+> jako reálné břemeno, nastanou věcněprávní účinky změny až jejím zápisem
+> do katastru nemovitostí. Nedohodnou-li se strany, může povinnost
+> dlužníka k naturálnímu plnění změnit na povinnost k peněžitému plnění
+> soud.
+>
+> Podobně jako u smlouvy u důchodu se i při úpravě výměnku navrhuje
+> stanovit, že od smlouvy o převodu nemovité věci nelze odstoupit v
+> případě, že osoba zavázaná z výměnku neplní své povinnosti. Důvody
+> návrhu jsou v podstatě tytéž. Také u výměnku výměnkář předpokládá, že mu
+> požitky, úkony a další smluvní plnění budou náležet co nejdéle, zatímco
+> dlužník předpokládá, že bude plnit spíše kratší než delší dobu. V tom
+> směru se tento smluvní typ blíží odvážné smlouvě, neboť výměnek je
+> zřizován na neurčitou dobu. Byla-li převodní smlouva ohledně nemovité
+> věci uzavřena v souvislosti se zřízením výměnku, sleduje se vyloučením
+> práva odstoupit od převodní smlouvy ztížit spekulaci, neboť jinak by
+> porušení povinnosti dlužníka vůči výměnkáři, a to i dojde-li k němu po
+> dlouhé době, mohlo vést k odstoupení od smlouvy o převodu nemovité věci
+> a restituci původních vlastnických poměrů. Navrhuje se proto vyloučit
+> pro tyto případy zákonné důvody odstoupení s tím, že výměnkář bude mít
+> právo domáhat se plnění toho, co mu druhá strana dluží. I toto
+> ustanovení je ovšem dispozitivní, a nebrání tedy tomu, aby si strany
+> ujednaly, ve kterých případech je odstoupení od smlouvy možné. Při
+> výslovném ujednání možnosti výměnkáře odstoupit od smlouvy o převodu
+> nemovité věci, budou strany víc dbát svých práv a silněji si uvědomí
+> důsledky porušení smluvní povinnosti.
 
 **Judikatura (z místních zdrojů):**
 
@@ -770,6 +1048,61 @@ Výměnek podle § 2707 je zaopatřovací institut spojený zpravidla s převode
 - Společníci jednají **vlastním jménem**, ale **na účet společnosti**;
 - **Solidární odpovědnost** společníků za dluhy.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2688 až 2692 návrhu — dnešní § 2716—2720):**
+
+> Ustanoveními o společnosti se navrhuje nahradit dosavadní úpravu
+> sdružení v § 829 a násl. platného občanského zákoníku. Úprava sdružení
+> má svůj základ v našem zákonodárství 50. let. To nahradilo dosavadní
+> úpravu společnosti úpravou sdružení se záměrem zabránit, „aby této
+> sdružovací formy nebylo zneužíváno k tvoření ryze kapitálových
+> podnikatelský útvarů" (jak uvádí důvodová zpráva k § 489 občanského
+> zákoníku z r. 1950). Z téže koncepce - paradoxně ještě zesílené -
+> vychází i dnes platná právní úprava, ač takové pojetí nemůže v
+> současných společenských a hospodářských podmínkách obstát. Osnova se
+> tudíž vrací ke standardům kontinentálního práva s návrhem obecné úpravy
+> společnosti, jak je v evropském zákonodárství zcela běžné (srov. např.
+> *Gesellschaft* v § 705 a násl. BGB nebo *société* v čl. 1832 CC; obdobně
+> *societá* v čl. 2247 italského občanského zákoníku, *sociedad* v čl.
+> 1665 a násl. občanského zákoníku španělského, *maatschap* v čl. VIIA:
+> 1655 a násl. nizozemského občanského zákoníku, *spólka* v čl. 860 a
+> násl. polského občanského zákoníku atd.).
+>
+> Podstata společnosti je ve smluvním závazku alespoň dvou osob sdružit za
+> společným účelem činnosti nebo věci, anebo obojí. Podle toho se
+> rozlišují společnosti pracovní, kapitálové a smíšené. Terminologicky to
+> vyjádřit v normativním textu není potřebné. Společný účel není
+> předepsán, může být tedy v mezích právního řádu jakýkoli, hospodářský
+> (výdělečný) i nevýdělečný.
+>
+> Ani nadále nemá být pro společenskou smlouvu vyžadována obligatorní
+> písemná forma. Pokud se ale společníci zavazují k vkladům (přínosům),
+> vyžaduje se provedení soupisu hodnot, které se jednotliví společníci
+> zavázali do společnosti vložit. Soupis podepsaný všemi společníky
+> zakládá nevyvratitelnou právní domněnku předmětu a rozsahu vkladové
+> povinnosti společníků. Peněžní vyjádření souhrnu vkladů bývá někdy
+> označováno jako kmenové nebo základní jmění. Tohoto nebo obdobného
+> výrazu lze využít jednak při rozlišení společného majetku společníků
+> sdružených do společnosti a zvláštního (individuálního, nesdruženého)
+> majetku jednotlivých společníků, jednak při rozlišení majetku, s jehož
+> pomocí byla společnost založena, a majetku nabytého za trvání
+> společnosti. Osnova se vyhýbá podobnému pojmovému označení a mezi
+> uvedenými kategoriemi rozlišuje jen věcně. Tím je zejména odůvodněno, že
+> (není-li jinak ujednáno) spoluvlastníky předmětu vkladů se stávají jen
+> ti společníci, kteří se sami k vkladům zavázali, nikoli společníci,
+> kteří se zavázali přispět jen prací. Má-li ze smlouvy vzniknout
+> spoluvlastnictví, platí obecná úprava. To znamená, že je-li do
+> společnosti vkládána některým ze společníků věc zapsaná do veřejného
+> seznamu, vznikne spoluvlastnictví až zápisem do veřejného seznamu.
+>
+> Podle toho, sdružuje-li společnost vše, co její společníci mají, anebo
+> jen část majetku společníků, se rozlišují společnosti obecné
+> (univerzální) a zvláštní (partikulární). Ani to není potřebné v
+> normativním textu terminologicky odlišovat. Podstatné však je, že při
+> vytvoření univerzální společnosti nastupuje při mlčení smlouvy
+> nevyvratitelná právní domněnka, že společníci sdružují, co mají k
+> účinnosti smlouvy; měl-li by být sdružen i majetek nabytý jednotlivými
+> společníky i v budoucnosti, muselo by to být výslovně dohodnuto.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 1370/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/085F7E19440BE6D7C12588D8001831AA?openDocument) — *Vedlejší účastník Společnost (o. z.) Bankovní záruka Bezdůvodné obohacení*
@@ -818,6 +1151,8 @@ Společnost podle § 2716 je sdružení bez právní osobnosti; navenek vystupuj
 **§ 2717**:
 > (1) Vkládá-li společník do společnosti věc, použijí se přiměřeně ustanovení o koupi; vkládá-li však jen právo věc užívat, použijí se přiměřeně ustanovení o nájmu, a vkládá-li právo věc požívat, použijí se přiměřeně ustanovení o pachtu.
 > (2) Zavazuje-li se společník k činnosti pro společnost, použijí se přiměřeně ustanovení o díle, nebo o příkazu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2688 až 2692“ (dnešní § 2716—2720) — viz § 2716.
 
 ### § 2718—2746 — Klíčová pravidla
 
@@ -972,6 +1307,116 @@ Společnost podle § 2716 je sdružení bez právní osobnosti; navenek vystupuj
 - **Společné stavební projekty** (konsorcium);
 - **Pracovní skupiny** advokátů (bez s.r.o.).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2688 až 2692“ (dnešní § 2716—2720) — viz § 2716.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2688 až 2692“ (dnešní § 2716—2720) — viz § 2716.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2688 až 2692“ (dnešní § 2716—2720) — viz § 2716.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2693 až 2701 návrhu — dnešní § 2721—2729):**
+
+> V úpravě postavení společníků se obecně odkazuje na obdobné použití
+> ustanovení o spoluvlastnictví, proto se navrhuje upravit jen odchylky s
+> tím, že je na vůli společníků, zda si v rozsahu zákonných dispozic
+> upraví práva a povinnosti jinak.
+>
+> Upraveny musí být zvláštnosti podmíněné tím, že společnost se vytváří
+> přínosy společníků. Z toho důvodu se navrhuje stanovit, že společníka
+> nelze zásadně nutit, aby přispěl k dosažení společného účelu víc, než se
+> zavázal. Výjimka z toho dopadá na situaci, kdy změna poměrů vyvolá
+> investici nutnou k dosažení společného účelu. Ani tehdy sice společníka
+> nelze donutit, aby poskytl příspěvek, jeho neochota poskytnout jej však
+> může vést k ukončení jeho členství.
+>
+> Společnost je pojata jako osobní svazek společníků opřený *de animo
+> societatis*. Odtud se odvíjí standardní požadavek osobní činnosti
+> společníka pro společnost a vyloučení možnosti postupu nebo jiného
+> způsobu zřízení členství ve společnosti jiné osobě. *Animus societatis*
+> je podmíněn loajalitou společníků vůči sobě navzájem vzhledem k
+> ujednanému společnému účelu. Tím je podmíněn zákaz jednat způsobem pro
+> společnost škodlivým adresovaný každému společníkovi. Jednání pro
+> společnost škodlivé je zejména jednání konkurenční povahy a jednání
+> zbavující společnost majetku nebo tento majetek poškozující.
+>
+> Ve společnosti se rozlišuje majetek, který byl do ní vložen, a majetek
+> nabytý až za trvání společnosti. Vlastnické právo k majetku vloženému do
+> společnosti řeší předchozí oddíl. Pokud se jedná o majetek nabytý za
+> existence společnosti a stejně tak i o zisk a ztrátu ze společné
+> činnosti, je na společenské smlouvě, aby určila, jaké budou podíly
+> společníků. Nebude-li nic ujednáno, uplatní se zásada stejnosti podílů.
+> V té souvislosti se vylučuje *societas leonina* odnímající některému
+> společníku právo podílet se na zisku. Ujednání o vyloučení povinnosti
+> některého společníka hradit ztrátu zakázáno není, nelze se jej však
+> dovolat vůči třetím osobám.
+>
+> Pro rozhodování o záležitostech společnosti se navrhuje stanovit,
+> nejedná-li se o změny společenské smlouvy, zásadu většinového
+> rozhodování a zásadu stejné váhy hlasů společníků. Vzhledem k
+> dispozitivitě ustanovení může i tu společenská smlouva určit něco
+> jiného, nebude-li to odporovat obecným právním zásadám.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2702 až 2707 návrhu — dnešní § 2730—2735):**
+
+> Společníkům je volno, jak si zařídí správu společných záležitostí. Jejím
+> výkonem mohou pověřit jednoho společníka, anebo jich mohou pověřit
+> několik; správu společnosti však mohou svěřit i osobě třetí. Stane-li se
+> tak, potom společníci ze správy vyloučení nemohou nakládat se společným
+> majetkem. Vnitřní poměry společnosti však nemohou vést k újmě třetích
+> osob, jsou-li v dobré víře.
+>
+> Společník, byť byl ze správy vyloučen, má však přesto právo vědět a
+> ověřit si, jak jsou záležitosti společnosti vedeny. Osnova konkretizuje
+> po vzoru většiny zahraničních úprav dosavadní kusou směrnici v § 837
+> platného občanského zákoníku a zamýšlí stanovit výslovně, že společník
+> nemůže své právo na informace uplatňovat ani nevhodným způsobem, ani
+> tak, aby v uplatnění téhož práva bránil jinému společníkovi.
+>
+> Nebude-li o správě společnosti ve společenské smlouvě nic ujednáno,
+> nastoupí pravidlo, že společné záležitosti spravují všichni společníci,
+> přičemž každý z nich vystupuje jako příkazník všech ostatních. Není však
+> oprávněním žádného ze společníků samostatně rozhodovat o podstatné změně
+> společného majetku, protože tyto případy podléhají společnému rozhodnutí
+> všech společníků.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2708 až 2710 návrhu — dnešní § 2736—2738):**
+
+> Vůči třetím osobám nelze namítat vnitřní uspořádání společnosti a
+> existenci vzájemných práv a povinností mezi společníky, protože
+> společenská smlouva nezavazuje osoby třetí. To odůvodňuje zásadu, že
+> společníci jsou vůči třetím osobám zavázáni společně a nerozdílně ze
+> všeho, co ze společné činnosti vzejde.
+>
+> Návrh zvláštního ustanovení o následcích předstíraného společnictví se
+> inspiruje analogickou úpravou čl. 2222 CCQ.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2711 až 2715 návrhu — dnešní § 2739—2743):**
+
+> Společnost je standardně koncipována jako osobní svazek několika osob
+> založený na vzájemné důvěře a na vůli každého ze společníků v tomto
+> svazku setrvat (*animus societatis*). Ztratí-li se tato vůle, nelze
+> společníka nutit, aby jím byl i nadále. Z toho důvodu se zachovává
+> dosavadní konstrukce, podle níž může společník ze společnosti vystoupit
+> libovolně. Nesmí tak ale učinit v nevhodné době nebo bylo-li by to jinak
+> ostatním společníkům na újmu (např. zemřel-li společník, na němž hlavně
+> spočívala starost o dosažení společného účelu). V tom směru se přejímá
+> dosavadní konstrukce § 838 odst. 1 platného občanského zákoníku.
+>
+> Při vyloučení společníka rozhoduje o jeho právním postavení někdo jiný.
+> Nelze tudíž setrvat na vágní formulaci § 838 odst. 2 platného občanského
+> zákoníku, který mluví obecně o „vážných důvodech". Osnova navrhuje tyto
+> důvody konkretizovat.
+>
+> Členství ve společnosti má zásadně osobní povahu. Lze však ujednat
+> přechod členství na dědice.
+>
+> Zanikne-li členství společníka, musí být vzájemně vypořádána jeho
+> majetková práva.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2716 až 2718 návrhu — dnešní § 2744—2746):**
+
+> Ustanovení o zániku společnosti a o vypořádání majetku jsou standardní
+> povahy.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 1051/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/614F70AD5ED86E45C1258DA00052DD96?openDocument) — *Smluvní pokuta Moderační právo soudu Zneužívání výkonu práv a povinností*
@@ -1029,6 +1474,21 @@ Vnitřní poměry společnosti (§ 2718—2746) zahrnují zákaz konkurence se s
 - **Tichý společník** — vkladatel kapitálu;
 - **Podnikatel** — vede podnikání **vlastním jménem**;
 - Tichý společník je **neviditelný** — nesděluje se vůči třetím osobám.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2719 až 2727 návrhu — dnešní § 2747—2755):**
+
+> Za ustanovení o společnosti civilního práva se navrhuje zařadit
+> ustanovení o tiché společnosti. Tím dojde (vyjma zvláštní případ
+> pracovní smlouvy) k úplnému sjednocení všech smluvních typů v kodexu.
+> Vzhledem k tomu, že tichým společníkem může být jakákoli osoba, která
+> uzavírá smlouvu s podnikatelem, není nutkavý důvod vyčleňovat tento
+> smluvní typ mimo občanský zákoník, neboť jde o obdobnou situaci jako v
+> případech smluv o pojištění, bankovních smluv apod. Návrh vychází ze
+> současné úpravy, ale přihlíží i k některým zahraničním právním úpravám,
+> zejména k úpravě švýcarské. Osnova se vrací k tradičnímu označení tiché
+> společnosti, což věcně odůvodňuje jak její pojmenování v jiných
+> evropských jazycích, tak i souvislost této úpravy s předcházející
+> společností občanského práva.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1143,6 +1603,22 @@ Tichá společnost podle § 2747 je nástroj pasivního financování cizího po
 - **Mezzanine financování**;
 - **Family financing** (rodinný člen finanční podpora podnikání).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2719 až 2727“ (dnešní § 2747—2755) — viz § 2747.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 2* [27 C 26/2024-62](https://rozhodnuti.justice.cz/rozhodnuti/?id=1b9dc27a-10f2-49d3-8f9f-47ea0589456d) — *peněžité plnění*
@@ -1196,6 +1672,8 @@ Při zániku tiché společnosti se vklad vypořádá podle § 2755 jako vklad u
 **§ 2757**:
 > Pro závazky z odvážných smluv se nepoužijí ustanovení o změně okolností (§ 1764 až 1766) a neúměrném zkrácení (§ 1793 až 1795).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2728 a 2729“ (dnešní § 2756—2757) — viz § 2756.
+
 ### § 2756 — Definice odvážné smlouvy
 
 > Závisí-li podle ujednání stran prospěch, anebo neprospěch alespoň jedné ze smluvních stran na nejisté události, jedná se o smlouvu odvážnou.
@@ -1207,6 +1685,18 @@ Při zániku tiché společnosti se vklad vypořádá podle § 2755 jako vklad u
 **§ 2757 — Vyloučení nepoužití**:
 - **Změna okolností (§ 1764—1766)**: u odvážných **nepoužije** — strany vědomě přijaly riziko;
 - **Neúměrné zkrácení (§ 1793—1795)**: u odvážných **nepoužije** — disparate plnění je vlastnost aleatorního závazku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2728 a 2729 návrhu — dnešní § 2756—2757):**
+
+> Návrh základního ustanovení o odvážných smlouvách vymezuje podstatnou
+> náležitost odvážných smluv jako ujednání prospěchu, anebo neprospěchu
+> jednoho či více - a to i všech - smluvníků v závislosti na nejisté
+> události. Úplatnost nebo bezúplatnost se v navrženém ustanovení neuvádí,
+> neboť odvážná smlouva může být uzavřena tím i oním způsobem. Formulace
+> ustanovení přihlíží především k úpravě rakouské (§ 1267 a 1268 ABGB) a
+> nizozemské (7A:1811 BW). Povaha odvážných smluv vylučuje, aby na závazky
+> z nich vzniklé byla aplikována ustanovení o změně okolností nebo
+> neúměrném zkrácení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1275,6 +1765,231 @@ Odvážná smlouva podle § 2756 je charakterizována závislostí prospěchu/ne
 - **Pojistné plnění** — výplata pojistitele po pojistné události;
 - **Pojistný zájem** (*insurable interest*) — § 2761—2765.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2730 návrhu — dnešní § 2758):**
+
+> Zařazení ustanovení o pojistné smlouvě do občanského zákoníku bylo
+> diskutováno již při projednávání věcného záměru občanského zákoníku,
+> jakož i při zdejších předchozích rekodifikačních pokusech. Návrh
+> zpracovaný na počátku 90. let minulého stol. na tehdejším úřadu
+> federální vlády, jakož i návrh koncepce občanského zákoníku předložený
+> Ministerstvem spravedlnosti v r. 1996 k veřejné diskusi předpokládaly
+> úpravu soukromého pojištění v rámci občanského zákoníku. Věcný záměr
+> schválený v r. 2001 jako podklad pro vypracování tohoto návrhu, počítal
+> v této souvislosti s dvěma variantními řešeními, a to buď s úpravou
+> pojistné smlouvy v občanském zákoníku, anebo ve zvláštním zákoně.
+> Vzhledem k tehdy připravovanému zvláštnímu zákonu o pojistné smlouvě,
+> převážilo při schvalování věcného záměru občanského zákoníku posléze
+> druhé z uvedených řešení. V průběhu prací na osnově se však stále více
+> ukazovalo, že teoretické i praktické důvody mluví pro řešené prvé.
+>
+> Především vystupuje do popředí hledisko, že občanský zákoník má jako
+> určující a univerzální kodex soukromého práva obsahovat co možná úplnou
+> kodifikaci smluvních typů. U pojistné smlouvy zakládající soukromé
+> pojištění je její začlenění do kodexu občanského práva zvlášť důležité a
+> i ze systematického hlediska logické, neboť se jedná o právní úpravu
+> svou povahou obecně se dotýkající soukromého života lidí a provázející
+> jej v úzkém sepětí.[^65] Nelze rovněž přehlédnout, že soukromé pojištění
+> úzce navazuje na řadu institutů upravených občanským zákoníkem (např.
+> již samotná úprava vzniku, změn a zániku závazků, pojetí škody, jakož i
+> úprava povinnosti nahradit škodu, popřípadě jinou újmu, a mnohé další).
+> Z těchto důvodů se pro zařazení pojistné smlouvy do civilního kodexu
+> jasně vyslovila i různá odborná fóra (např. závěry celostátních
+> konferencí k rekodifikaci občanského práva pořádané v Olomouci 20. - 22.
+> 6. 2005 a 30. 11. - 1. 12. 2005). Poukazovalo-li se v diskusích na
+> zásadu proporcionality občanského zákoníku, vzhledem k níž by měla být
+> úprava soukromého pojištění rozdělena na obecnou část zahrnutou do
+> občanského zákoníku a zvláštní část svěřenou speciální zákonné úpravě,
+> pak takto uvažovaný model - jakkoli odpovídá řešení, uplatněnému např. v
+> Rakousku - není vhodný ani teoreticky, ani prakticky. Celková úprava
+> závazku z pojistné smlouvy není rozsahem neúměrná vůči navržené právní
+> úpravě některých dalších obligací: např. navržená úprava koupě je
+> rozsahem stejná jako navržená úprava pojištění, navrhovaná úprava nájmu
+> ji rozsahem dokonce výrazně přesahuje. Zvláště z praktických důvodů je
+> třeba poukázat i na to, že rovněž nové pojetí obecných obligačních
+> institutů v první hlavě této části vyžaduje, aby se jim dosud zvláštní
+> úprava soukromého pojištění přizpůsobila.
+>
+> Stávající úprava v zákoně o pojistné smlouvě (zák. č. 37/2004 Sb., ve
+> znění pozdějších předpisů) ve své podstatě myšlenkově navazuje na
+> někdejší zákon o pojistné smlouvě č. 145/1934 Sb. Přehlíží se však, že
+> tato úprava navazovala - po vzoru dřívějšího rakouského zákona č.
+> 501/1917 ř. z. - na tehdejší obecný zákoník občanský z r. 1811, který
+> obsahoval základní ustanovení o pojišťovací smlouvě (§ 1288 až 1292),
+> jejichž kusou úpravu zák. č. 145/1934 Sb. jen rozváděl; navíc byla
+> pojistná smlouva v té době chápána jako smlouva obchodní (jako
+> jednostranný obchod). Stejně tak nelze ani zapomínat, že předválečný
+> zákon o pojistné smlouvě byl přijat z důvodů hospodářsky naléhavých (i
+> přes tehdejší dualismus práva českého a slovenského byla silná potřeba
+> upravit pojištění jednotně) a chápán - v očekávání výsledků
+> rekodifikačních prací za první republiky - jako prozatímní řešení pro
+> přechodnou dobu,[^66] byť stejný model zvláštního zákona převzala i
+> chvatná legislativa právnické dvouletky (zák. č. 189/1950 Sb.). Vzhledem
+> k tomu byla, ze systematických důvodů správně, úprava soukromého
+> pojištění zařazena při rekodifikaci občanského práva z r. 1964 do
+> občanského zákoníku (původně v § 349 a násl., později v § 788 a násl.),
+> vyjma pojištění v mezinárodním obchodě, které upravil zákoník
+> mezinárodního obchodu č. 101/1964 Sb. Tato úprava však vycházela z
+> koncepce, že podrobnosti o pojištění upraví podzákonné právní předpisy.
+> Občanský zákoník byl v ustanoveních o pojistné smlouvě sice zák. č.
+> 509/1991 Sb. novelizován, ale jeho úprava se přes dílčí pozitivní posuny
+> postupem času ukázala jako nevyhovující. To vedlo k přijetí zákona o
+> pojistné smlouvě č. 37/2004 Sb., který byl připravován relativně dlouho
+> a vykazuje mimořádnou kvalitu. Jeho úprava se tudíž přejímá do osnovy
+> občanského zákoníku bez zásadních věcných změn, většinou jen se
+> stylistickými a systematickými úpravami podřizujícími se celkové
+> koncepci navrhovaného zákoníku a s několika drobnějšími upřesněními nebo
+> změnami odstraňujícími některé dílčí nedomyšlenosti nebo inspirovanými
+> zahraničními úpravami.
+>
+> V mezinárodním srovnání lze poukázat, že zvláštní zákony o pojistné
+> smlouvě, které jsou typické pro Francii, Rakousko, Německo nebo
+> Švýcarsko či Dánsko, vznikly z konkrétních historických nebo věcných
+> důvodů, které nesvědčí pro převzetí téhož modelu i pro Českou republiku.
+> Např. k přijetí francouzské i rakouské zvláštní zákonné úpravy došlo v
+> důsledku skutečnosti, že tamější kodifikace z počátku 19. stol. nemohly
+> předvídat bouřlivý rozvoj pojištění v průběhu pozdějších desetiletí a
+> při přípravě německého občanského zákoníku z r. 1896 se nedokázalo
+> sjednotit pojistné právo jednotlivých zemí (k tomu došlo až později
+> zákonem z r. 1908). Existenci dánského zákona podmiňuje fakt, že Dánsko
+> nemá občanský zákoník. Stejně tak nelze odhlížet od konkrétní podoby
+> těchto zvláštních zákonných úprav: např. rakouský zákon o pojistné
+> smlouvě z r. 1959 obsahuje přes 200 ustanovení (náš předválečný zákon
+> jich měl zhruba 170) zatímco platný zákon č. 37/2004 Sb. je rozsahem
+> přibližně třetinový (přičemž vlastního soukromého pojištění se týká 67
+> paragrafů). Naproti tomu novější kodifikace občanského práva standardně
+> zařazují pojistnou smlouvu do civilních kodexů: příkladem může být
+> úprava italská z r. 1942 (čl. 1887 až 1932 C. c.), québecká z r. 1991
+> (čl. 2389 až 2628 CCQ), litevská z r. 2000 (čl. 6.987 až 6.1018 CK) nebo
+> ruská z r. 2001 (čl. 927 až 970 GK). Zvláštní zákon o konkrétním
+> smluvním typu do značné míry ztěžuje informovanost o obsahu právní
+> úpravy; úprava obsažená v občanském zákoníku je pro širší veřejnost
+> přístupnější.
+>
+> Úvodní ustanovení § 2730 vymezuje podstatné náležitosti pojistné
+> smlouvy. Volí se vymezení obecné, které v zásadě odpovídá § 2 platného
+> zákona č. 37/2004 Sb.; odchylky od dosavadní dikce - nikoli však od
+> jejího věcného obsahu - jsou podmíněny tím, že se z teoretických i
+> legislativních důvodů nepřejímá katalog legálních definic obsažený v § 3
+> platného zákona. Toto ustanovení definuje z valné části pojmy se
+> samozřejmým obsahem (např. co je škodná událost nebo pojistné) a pojmy,
+> které mají v odborném jazyce svůj jasný význam (např. pojistné období,
+> časová cena, čekací doba atp.). Tam, kde se to jeví jako účelné, se
+> obsah některých pojmů navrhuje postihnout nepřímo: tak se např. v § 2730
+> vymezuje pojistná událost nebo v § 2739 pojistné nebezpečí.
+>
+> Pojistná smlouva se tradičně zařazuje do skupiny odvážných (aleatorních)
+> smluv, a proto je třeba ji odlišit od jiných smluv z této skupiny, popř.
+> od smluv, které se odvážným smlouvám blíží. Zejména jde o rozdíl mezi
+> pojistnou smlouvou a smlouvou o sázce a o rozdíl mezi pojistnou smlouvou
+> a smlouvou o důchodu.
+>
+> Pokud jde o sázku, je podstatné, že úmysl stran směřuje k tomu, aby
+> ujednané majetkové plnění získala strana, jejíž tvrzení se ukáže
+> správným. Účelem sázky je tedy dosáhnout toho, aby plnění manifestovalo
+> správnost názoru vítězné strany. U sázky (podobně u hry a losu) se navíc
+> nevylučuje úmysl spekulační nebo zištný, protože se počítá i s možností
+> zisku značné výhry proti malé investici. Účelem sázky nebo hry je tedy
+> stvrzení vítězství nebo spekulace na zisk. Naproti tomu u pojištění je
+> podstatný pojistný zájem, projevující se jako potřeba získat pohotovou
+> peněžitou sumu pro určitou eventualitu, která sama buď vyvolá majetkovou
+> potřebu, anebo činí žádoucím uspokojení již existujících potřeb určité
+> osoby nebo osob; účelem pojištění není obohacení oprávněné osoby.
+>
+> Pojmovým znakem smlouvy o důchodu je povinnost plátce platit příjemci
+> pravidelné peněžní dávky po ujednanou dobu. Naproti tomu pojmovým znakem
+> pojistné smlouvy je synallagma spočívající ve vzájemné povinnosti
+> poskytnout pojistné plnění oprávněné osobě, nastane-li pojistná událost,
+> a v povinnosti pojistníka platit pojistiteli pojistné, přičemž platební
+> povinnost pojistníka je nepodmíněná, zatímco povinnost pojistitele je
+> podmíněná, spojená s nejistotou, zda pojistná událost nastane nebo kdy
+> tato událost nastane. Od toho se odvíjí aleatornost pojištění
+> spočívající v nejistotě co do vzájemného hodnotového poměru mezi plněním
+> a protiplněním. Pojistitel tomuto riziku čelí tím, že nekalkuluje jen s
+> plněním jedné protistrany podle jednotlivé smlouvy, ale zabezpečuje se
+> tím, že bere v úvahu kombinaci s dalšími platbami pojistného, na které
+> mu již vzniklo právo z uzavřených smluv, nebo které zamýšlí uzavřít v
+> budoucnu. Pojistné je stanoveno jako průměrný ekvivalent zohledňující
+> nikoli individuální riziko, ale riziko průměrné. V tom se zásadně liší
+> pojistná smlouva nejen od úplatné smlouvy o důchodu, ale i od jiných
+> úplatných smluv, kde je plnění strany vázáno na událost samu o sobě
+> nejistou. To není jen případ smlouvy o důchodu, ale i mnoha dalších
+> smluv zakládajících závazek s nejistým prvkem, na který se váže
+> povinnost plnit. Zřejmým příkladem může být uzavření smlouvy, kterou se
+> někdo zaváže zajistit za úplatu dluh dlužníka věřiteli, např. ručením. I
+> tu je přece nejistota, zda dlužník zaplatí, bude-li solventní v době
+> dospělosti dluhu, dožije-li se vůbec této doby a zanechá-li likvidní
+> pozůstalost nebo uplatní-li dědicové výhradu soupisu atd. Obdobných
+> smluv zakládajících závazek s nejistým prvkem je celá řada. Specielně
+> pokud jde o smlouvu o důchodu, lze poukázat na případ z nedávné doby,
+> spojený s myšlenkou koupit nemovitou věc od vlastníka za sníženou cenu,
+> přičemž ekvivalence plnění a protiplnění má být vyvážena tak, že
+> nemovitost bude zatížena věcnými břemeny spočívajícími v právu
+> doživotního bydlení pro prodávajícího a povinnosti vlastníka nemovité
+> věci platit prodávajícímu důchod po dobu jeho života. I v tomto případě
+> může být prvek aleatornosti spočívající v tom, že každá ze stran
+> kalkuluje s nejistou událostí - tj. kdy nastane smrt osoby, které bude
+> náležet právo bydlení a důchod - přičemž dlužník doufá, že tato událost
+> nastane co nejdříve, zatímco věřitel doufá, že nastane co nejpozději. V
+> tom ještě nelze spatřovat znak profilující takovou smlouvu jako
+> pojistnou v každém jednotlivém případě. O pojištění by se však jednalo
+> při hromadném uzavírání smluv s těmito znaky podnikatelským způsobem,
+> tedy za předpokladu, že by osoba nabízející takovou službu kalkulovala s
+> průměrným rizikem a podle něho stanovovala hodnotu vlastního plnění svým
+> zákazníkům jako průměrný ekvivalent stanovený se zřetelem k jiným
+> smlouvám téhož druhu. V takovém případě by smlouva byla z hlediska
+> soukromého práva posouzena jako pojistná smlouva, ať již by ji strany
+> označily jakkoli, z hlediska veřejného práva by se jednalo - neměla-li
+> by osoba, která takové smlouvy uzavírá povolení k provozování
+> pojišťovací činnosti - jako nedovolené podnikání.
+>
+> Na rozdíl od pojetí zákona č. 37/2004 Sb. \[§ 3 písm. f)\] se neuvažuje
+> s tím, že pojistitelem je jen ten, kdo je podle veřejného práva oprávněn
+> podnikat v pojišťovnictví. Skutečnost, že někdo takové oprávnění podle
+> veřejného práva nemá, ho nezbavuje způsobilosti uzavírat smlouvu a v
+> nedostatku veřejného oprávnění nelze hledat důvod pro závěr o
+> neplatnosti smlouvy. I takový pojistitel je uzavřenou smlouvou vázán a
+> pojistník, případně další osoby na pojištění zúčastněné, jsou proti němu
+> oprávněny práva ze smlouvy uplatňovat, nevyužijí-li ustanovení o omylu.
+>
+> V tomto směru návrh nic nemění na současném právním stavu. Judikatura
+> již dříve dospěla k závěru, že nelze dovodit neplatnost smlouvy jen z
+> toho, že osoba, která se zavázala k plnění, nemá k takové činnosti
+> podnikatelské oprávnění. Uvedené pojetí stvrdila novela platného
+> obchodního zákoníku č. 370/2000 Sb. v § 3a. Není totiž možné, aby druhá
+> strana, která uzavírá smlouvu, byla ohrožena její neplatností; stejně
+> tak není možné, aby pro smlouvy uzavřené těmi, kdo vykonávají určitou
+> činnost bez oprávnění, neplatila stejně přísná pravidla jako pro osoby,
+> které tuto činnost vykonává s oprávněním. \[Přestože platný zákon o
+> pojistné smlouvě vymezuje v § 3 písm. f) pojistitele jako osobu
+> oprávněnou provozovat pojišťovací činnost podle zvláštního zákona,
+> nebrání tato úprava uzavření smlouvy, která se co do hlavních rysů
+> shoduje s pojistnou smlouvou; tato smlouva by byla posouzena podle § 51
+> platného občanského zákoníku nebo podle § 269 odst. 2 platného
+> obchodního zákoníku jako smlouva nepojmenovaná.\] To samozřejmě nic
+> nemění na veřejnoprávní regulaci pojištění podle zák. č. 363/1999 Sb., o
+> pojišťovnictví, ani na působnosti České národní banky vykonávat
+> kontrolní činnost ve vztahu k dodržování zákona o pojišťovnictví a
+> dalších právních předpisů, které se vztahují k pojišťovací činnosti a k
+> činnostem s ní souvisícím. Navrhovaná úprava nic nemění ani na
+> skutečnosti, že se osoby, které vykonávají pojišťovací činnost a
+> uzavírají pojistné smlouvy bez povolení podnikat v pojišťovnictví,
+> podléhají i dalším veřejnoprávním sankcím, včetně sankcí trestního
+> práva.
+>
+> Mimo to je potřebné vzít v úvahu, že zákon o pojišťovnictví č. 363/1999
+> Sb., v platném znění, vylučuje ze své působnosti v § 1 odst. 3 např.
+> činnost vzájemných podpůrných spolků a družstev.
+>
+> V prvním odstavci se navrhuje stanovit pojmové znaky pojistné smlouvy.
+> Obligační povinnost pojistitele je vymezena jako povinnost pojistné
+> plnění poskytnout, nikoli zaplatit. Zvolená formulace nevylučuje, aby se
+> v souvislosti se zaváděním některých nových produktů pojistitel zavázal
+> k poskytnutí pojistného plnění i v nepeněžité formě.
+>
+> V druhém odstavci § 2730 se zachovává dosavadní pravidlo, podle něhož u
+> krátkodobého pojištění není písemná forma smlouvy potřebná; v takovém
+> případě postačí vystavení pojistky.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [8 Tdo 14/2026](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/184678533FD3D00BC1258DA40052D935?openDocument) — *Pojistný podvod Hodnocení důkazů Pojistná smlouva*
@@ -1339,6 +2054,18 @@ Pojistná smlouva podle § 2758 je odvážná smlouva o krytí nahodilé událos
 **§ 2760**:
 > Pojistitel sdělí před uzavřením smlouvy zájemci o pojištění údaje, jejichž rozsah a způsob předání stanoví jiný zákon. To platí i o skutečnostech, k jejichž změně dojde za trvání pojištění.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2731 návrhu — dnešní § 2759):**
+
+> Obsah navrženého ustanovení odpovídá § 6 platného zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2732 návrhu — dnešní § 2760):**
+
+> Ustanovení § 66 zák. č. 37/2004 Sb. ukládá pojistiteli povinnost sdělit
+> zájemci o pojištění a pojistníkovi různé údaje identifikační a technické
+> povahy. Jedná se o úpravu veřejnoprávní povahy, která má být zařazena do
+> jiného právního předpisu (do zákona o pojišťovnictví). Proto se návrh
+> omezuje jen na odkazovací ustanovení.
+
 ### § 2761—2765 — Pojistný zájem
 
 **§ 2761**:
@@ -1366,6 +2093,123 @@ Pojistná smlouva podle § 2758 je odvážná smlouva o krytí nahodilé událos
 - **Cizí život/zdraví/majetek**: pojistník musí prokázat **oprávněnou potřebu ochrany** (typicky rodinný vztah, ekonomický prospěch).
 
 **Bez pojistného zájmu** → smlouva **neplatná** (§ 2764) — zabraňuje "pojišťování cizího domu, aby vyhořel".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2733 až 2737 návrhu — dnešní § 2761—2765):**
+
+> Nauka a i praxe sdílejí stanovisko, že pojištění nesmí být zneužito jako
+> nástroj sloužící spekulaci. Tomu slouží institut pojistného zájmu, tedy
+> zájmu zájemce o pojištění a posléze i pojistníka. Kategorie pojistného
+> zájmu, kterou v zahraničních právních úpravách (*Versicherungsinteresse,
+> intérêt d'assurance, insurable interest, interesse all' assicurazione*
+> atd.) nalézáme zcela běžně, má pro teorii i praxi pojištění podstatný
+> význam. Účelem pojistného zájmu je zabránit spekulativním pojistkám,
+> typicky tzv. pojištění sázky (*wager policy*). Při pojištění majetku je
+> pojistný zájem skutečným a podstatným zájmem určité osoby, aby škoda
+> náhodně vzniklá na určitém majetku pro tuto osobu neznamenala přímou
+> finanční ztrátu. Pojistný zájem se tedy pojí s osobou, která čerpá
+> majetkový prospěch nebo výhodu z toho, že určitý majetek existuje a je
+> uchováván do budoucnosti. Jde-li o pojištění osob, je pojistným zájmem
+> skutečný a podstatný rozumný důvod vyplývající z jejich vzájemného
+> vztahu, založený na jejich příbuzenství nebo podmíněný prospěchem nebo
+> výhodou jedné osoby z pokračování života jiného (např. při poskytování
+> podpory). I u pojištění osob mohou být pro existenci pojistného zájmu
+> významné majetkové důvody. Teorie pojistného zájmu byla rozpracována
+> zejména v Německu (srov. dnes již klasické dílo *Kisch, W.* Handbuch des
+> Privatversicherungsechtes. Bd. 3. Die Lehre von dem
+> Versicherungsinteresse. Lieferung 3. München: J. Schweitzer Verlag
+> Arthur Sellier, 1922; u nás zvláště *Hermann-Otavský, K.* Soukromé
+> pojišťovací právo československé. Část první. Praha: Česká akademie věd
+> a umění, 1921, s. 124 a násl.). Dnes o tomtéž existuje zvláště v
+> zahraničí početná literatura, jak monografická, ze které se zvlášť
+> poukazuje na dílo *Lash, V.* Insurable Interest. Baltimore (Maryland):
+> Trimble & Durst Llc, 2002, tak i se zapracováním problematiky pojistného
+> zájmu do ucelenějších výkladů problematiky pojištění (srov. např.
+> *Basedow, J. et al.* Europäisches Versicherungsvertragsrecht. Tübingen:
+> Mohr Siebeck, 2002, s. 443 an.).
+>
+> Pojistný zájem se odráží v přání, aby škodné následky pojistné události
+> nenastaly, jakož i v obavě, že hodnota, na níž má zájemce o pojištění
+> (posléze pojistník) zájem, bude pojistnou událostí zničena, zmenšena
+> nebo jinak dotčena. Bere se při něm v úvahu, že při zamýšlené nebo již
+> uzavřené pojistné smlouvě jde o zřetel na určitý skutkový stav
+> ovlivňující nějakou majetkovou hodnotu a možnost jeho ohrožení pojistnou
+> událostí.
+>
+> Právní význam pojistného zájmu je v tom, že podmiňuje vznik a trvání
+> pojištění. To se odráželo v zákonných úpravách platných na našem území v
+> historické době (zákony o pojistné smlouvě z r. 1917 i z r. 1934
+> obsahovaly o pojistném zájmu ustanovení dosti početná). Podstatné ale
+> je, že pojistný zájem považují za klíčový pojem soukromého pojištění i
+> četné moderní právní úpravy, např. belgický zákon z r. 1992 vytýká
+> pojistný zájem jako klíčový pojem právní úpravy pojištění hned v čl. 1.
+> Z nedávno přijatých úprav lze poukázat na podrobná ustanovení o
+> pojistném zájmu v občanském zákoníku Québecu (čl. 2418 a násl., 2484,
+> 2511 a násl.) a úpravu v občanském zákoníku Ruska (čl. 928), rovněž na
+> španělský *Ley reguladora del Contratto de Seguro* z r. 1980 (k úpravě
+> pojistného rizika v posledně uvedeném srov. např. *Buck, S.* Die
+> Obliegenheit im spanischen Versicherungsrecht. Karlsruhe: Verlag
+> Versicherungswirtschaft, 2003, s. 30 a násl. a 104 a násl.). Z dalších
+> upravuje pojistný zájem např. rakouský zákon o pojistné smlouvě z r.
+> 1959 v § 68, italský občanský zákoník v čl. 1904, nový německý zákon o
+> pojistné smlouvě z r. 2007 v § 53, 74, 76 a 80 atd.
+>
+> Zahraniční právní úpravy pojem pojistného zájmu obvykle blíže nevymezují
+> a až na výjimky (jakou je především občanský zákoník Québecu) vycházejí
+> z presumpce, že jeho obsah je znám a že jeho bližší vymezení není úkolem
+> právního předpisu. Platný zákon č. 37/2004 Sb. sice pojistný zájem
+> definuje \[§ 3 písm. n)\] a využívá jej při definování pojištěného \[§ 3
+> písm. h)\], ale vyjma jediného ustanovení (§ 28 odst. 3) s ním dále
+> nepracuje. To se pociťuje jako zřejmý nedostatek: s odkazem na platný
+> stav zákonné úpravy se v literatuře poukazuje, že chybí-li pojistný
+> zájem, je smlouva neplatná pro rozpor s dobrými mravy (srov. např.
+> *Wawerková, M.* in *Bohman, L. - Dryjáková, L. - Wawerková, M.* Zákon o
+> pojistné smlouvě. Komentář. 1. vydání. Praha: Linde, 2004, s. 32 a
+> násl.). Tento přístup a návrh ale neřeší podstatu věci. Hra i sázka samy
+> o sobě podle platné právní úpravy v rozporu s dobrými mravy nejsou, a
+> tudíž není vyloučen ani výklad, že ani jejich pojištění dobrým mravům
+> neodporuje (občanský zákoník Québecu volí pro pojištění v hazardní hře
+> či sázce výslovný zákaz). Tomu má právě úprava pojištění zabránit. V
+> daném případě totiž vůbec nejde o otázku dobrých mravů, ale o zvláštní
+> zásady a pravidla týkající speciálně pojišťovnictví. Navíc nelze
+> přehlédnout, že dobré mravy představují nejobecnější kategorii
+> soukromého práva, kterou je vhodné upřesnit, anebo lépe vyjádřeno,
+> nahradit konkrétnějším pojmem. Proto se navrhuje převzít věcný obsah
+> obecné definice v § 3 písm. n) platného zákona o pojistném zájmu jako
+> oprávněné potřebě ochrany před následky nahodilé skutečnosti vyvolané
+> pojistným nebezpečím (tedy před následky pojistné události). Toto pojetí
+> je věcně správné. Ale protože pojistitelé namítají, že takové vymezení
+> může svou obecností vyvolat v praxi obtíže, navrhuje se pojem pojistného
+> zájmu blíže charakterizovat. Z toho důvodu se navrhuje doplňující
+> ustanovení. Navrhuje se tedy formulovat právní pravidla, podle nichž má
+> pojistník pojistný zájem na vlastním životě a zdraví nebo majetku. Pokud
+> jde o jiné situace, navrhuje se řešit je vyvratitelnými právními
+> domněnkami s tím, že souhlas pojištěného zakládá fikci důkazu, že
+> pojistník pojistný zájem má.
+>
+> Pokud jde o právní následky neexistence nebo ztráty pojistného zájmu,
+> navrhují se následující řešení:
+>
+> Předně se jedná o situace, kdy pojistný zájem chybí od počátku. Jde-li
+> zájemci o uzavření pojistné smlouvy a nemá-li pojistný zájem, je smlouva
+> neplatná. Ale v případě, že pojistitel nemohl mít o neexistenci
+> pojistného zájmu vědomost, nemění to sice nic na neplatnosti smlouvy,
+> pojistitel však bude mít právo na pojistné až do doby, kdy se o
+> neplatnosti smlouvy dozvěděl.
+>
+> Zvláštní pravidlo se navrhuje pro případ, že při pojištění majetku
+> pojistný zájem není dán již při uzavření smlouvy, ale důvodně se očekává
+> jeho pozdější vznik (určitá hodnota má být pojištěna od určité doby, ale
+> před počátkem této doby vezme zkázu, nebo má být pojištěna pro určitou
+> příležitost, ke které posléze nedojde). Takové situace nemohou zakládat
+> neplatnost smlouvy, ale nevznikne-li očekávaný pojistný zájem, nebude
+> pojistník povinen platit pojistné. Vzhledem k tomu, že pojistitel musí
+> věnovat i uzavírání takových smluv a další agendě s tím spojené čas a
+> námahu, má mu náležet přiměřená odměna.
+>
+> Mohou nastat i situace, kdy pojistník při uzavírání smlouvy má, ale
+> pojistný zájem později zanikne. Pro tyto případy se navrhuje stanovit,
+> že pojištění zanikne, ale i v tomto případě má pojistiteli náležet
+> pojistné až do okamžiku, kdy se o zániku pojistného zájmu dozvěděl.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1450,6 +2294,138 @@ Pojistný zájem (§ 2761) je fundamentální podmínkou platnosti pojištění;
 - **Souhlas pojištěného** povinný;
 - Bez souhlasu → pojištění zaniká do **3 měsíců**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2738 návrhu — dnešní § 2766):**
+
+> Protože četná ustanovení o pojištění zakládají subjektivní práva
+> pojištěnému nebo mu ukládají povinnosti, vyhovuje se požadavku praxe,
+> aby zákon osobu pojištěného konkrétněji vymezil. Většina zahraničních
+> úprav sice obdobnou definici nemá a spokojuje se s výkladem - obdobně
+> jako právní úpravy platné u nás před rokem 2005, ale přesto se jeví jako
+> vhodné převzít do navrhovaného zákona obsah § 3 písm. h) zák. č. 37/2004
+> Sb., o pojistné smlouvě. Osoba pojištěného se vymezuje se zřetelem k
+> hodnotě pojistného zájmu, na který se pojištění vztahuje. Je-li
+> pojištěným osoba odlišná od pojistníka, pak samotný pojištěný pojistný
+> zájem mít nemusí; pojistný zájem se vyžaduje u pojistníka. Systematicky
+> se ustanovení o pojištěném zařazuje mezi ustanovení o pojistném zájmu a
+> ustanovení o pojištění cizího pojistného nebezpečí, neboť s oběma těmito
+> úpravami je ustanovení o pojištěném logicky spojeno.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2739 návrhu — dnešní § 2767):**
+
+> Návrh vychází v zásadě z koncepce § 10 platného zákona. Navrhuje se však
+> chybný výraz „pojistné riziko" užitý v platném zákoně nahradit správným
+> „pojistné nebezpečí",[^67] přičemž se zároveň postihuje obsah pojmu ve
+> shodě s dosavadním zákonem \[§ 3 písm. l)\]. Obdobná úprava terminologie
+> je provedena i v některých dalších ustanoveních (např. § 2780, 2786 nebo
+> § 2787). Rovněž se navrhuje výslovně stanovit, že při tomto pojištění
+> uzavírá pojistník smlouvu k vlastnímu prospěchu, byť pojistná událost
+> zasáhne osobu třetí. V souvislosti s tím se vychází z myšlenky patrné i
+> z § 10 platného zákona, že pojistník musí mít na takovém pojištění zájem
+> hodný právní ochrany (pojistný, resp. pojistitelný zájem), který je dán
+> buď ex lege, anebo vzniká udělením souhlasu pojištěného. Navržená právní
+> pravidla se týkají individuálního pojištění; skupinového pojištění se
+> týkají ustanovení zvláštní.
+>
+> Návrh sleduje základní myšlenku § 10 odst. 3 platného zákona, že
+> pojistníkův pojistitelný zájem je ex lege dán ve vztahu k jeho potomku,
+> který není plně svéprávný a jehož zákonným zástupcem je pojistník sám.
+> Nově zaváděná výluka vztažená k potomkovu majetku se jeví jako nezbytná
+> v zájmu zachování tohoto majetku; sleduje koncepci založenou
+> ustanoveními o právu rodinném. Dosavadní dikce § 10 odst. 3 platného
+> zákona je příliš široká. Nevylučuje ani, aby pojistník uzavřel pojistnou
+> smlouvu na cizí pojistné nebezpečí i v případech opatrovnictví nad
+> nesvéprávnými osobami, které nejsou potomky pojistníka, což doširoka
+> otvírá prostor uzavírání pojistných smluv pojištěné nepřímo existenčně
+> ohrožujících. To se jeví jako sociálně neúnosné, a proto se zamýšlí, aby
+> v těchto případech souhlasil s uzavřením smlouvy kolizní opatrovník.
+>
+> Platná úprava vychází z konstrukce, že při tomto způsobu pojištění
+> pojistník uzavře smlouvu, seznámí s ní pojištěného a udělí-li mu k tomu
+> pojištěný souhlas (nejedná-li se o případ, kdy souhlasu není třeba),
+> vznikne pojistníkovi právo na pojistné plnění. Neřeší však důsledky
+> neudělení souhlasu, takže v tom případě pojistník právo na pojistné
+> plnění mít nebude, ačkoli je smlouvou vázán a má povinnost platit
+> pojistné, a to, nevypoví-li smlouvu do dvou měsíců od uzavření smlouvy
+> (§ 22 odst. 2 platného zákona, § 2775 osnovy), přinejmenším po příslušné
+> pojistné období. Toto řešení se nejeví jako domyšlené. Proto se navrhuje
+> podmínit účinnost smlouvy udělením souhlasu pojištěného s tím, že
+> nebude-li souhlas prokázán pojistiteli do tří měsíců od uzavření
+> smlouvy, smlouva se zrušuje, avšak *ex nunc,* takže právo na pojistné
+> zůstane pojistiteli v příslušném rozsahu zachováno, s tím, že nastane-li
+> v této době pojistná událost, vznikne právo na plnění pojištěnému. Pro
+> souhlas pojištěného se navrhuje výslovně stanovit, obdobně jak to bylo
+> navrhováno již v r. 2000, že si pojištěný musí být vědom, že jemu právo
+> na pojistné plnění nevznikne.
+>
+> Protože se navrhuje nově upravit postoupení smlouvy, jeví se jako
+> nezbytné stanovit i pro tento případ zvláštní právní pravidlo.
+>
+> Odstavec 4 v zásadě přejímá ustanovení § 10 odst. 4 platného zákona. Na
+> rozdíl od dosavadní úpravy, která mechanicky převzala konstrukci
+> někdejšího § 815 občanského zákoníku z r. 1964, se však navrhuje
+> stanovit obecné právní pravidlo, podle něhož do pojištění vstupuje ten,
+> kdo má na pojistné plnění právo.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2740 návrhu — dnešní § 2768):**
+
+> Obsah navrženého ustanovení odpovídá § 11 platného zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2741 návrhu — dnešní § 2769):**
+
+> V ustanovení § 2741 se promítá zásada rovného zacházení vyplývající ze
+> směrnice Rady 2004/113/ES ze dne 13. prosince 2004, kterou se zavádí
+> zásada rovného zacházení s muži a ženami v přístupu ke zboží a službám a
+> jejich poskytování v oblasti pojištění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2742 návrhu — dnešní § 2770):**
+
+> Z obdobných důvodů, ze kterých se v návrhu definuje pojištěný, se
+> definuje i oprávněná osoba převzetím dikce § 3 písm. i) zák. č. 37/2004
+> Sb.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2743 návrhu — dnešní § 2771):**
+
+> Navrhuje se vyloučit pro pojištění použitelnost § 575 odst. 1**,** podle
+> něhož si strany mohou ujednat kratší nebo delší promlčecí lhůtu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2744 až 2746 návrhu — dnešní § 2772—2774):**
+
+> Navržená ustanovení přejímají § 4 odst. 4 a 5, § 6 odst. 5 a 6 a § 7
+> platného zákona č. 37/2004 Sb., o pojistné smlouvě.
+>
+> V § 2745 odst. 1 (obdobně § 7 odst. 1, věta druhá, platného zákona) se
+> vyžaduje písemná forma. Protože zákonné nařízení formy právního jednání
+> je obecně donucující povahy, zakládá se v tomto jednotlivém případě
+> výslovnou doložkou o možnosti stran ujednat si, že písemné formy není
+> zapotřebí, dispozitivní povaha právního pravidla v zájmu zachování
+> stávající praxe a dosavadního právního stavu. Právním jednáním týkajícím
+> se pojištění se rozumí předně právní jednání, tedy projev vůle
+> vyvolávající právní následek (vznik, změnu nebo zánik subjektivního
+> práva nebo povinnosti). Nejde tudíž o tzv. komunikační úkony. Současně
+> se zdůrazňuje, že pro pojistnou smlouvu platí speciální úprava v
+> základním ustanovení § 2730 včetně zvláštního ustanovení o formě
+> smlouvy; na pojistnou smlouvu se tedy § 2745 odst. 1 nepoužije.
+>
+> V § 5745 odst. 2 je doplněno právní pravidlo, podle něhož pro tzv.
+> komunikační úkony není písemná forma potřebná, pokud si ovšem strany
+> neujednají něco jiného. Navrhuje se však současně doplnit i právní
+> pravidlo inspirované návrhem evropského pojistného smluvního práva
+> zařazeného do obecného referenčního rámce (DCFR) pro evropský občanský
+> zákoník; srov. *Restatement of European Insurance Contract Law,* čl.
+> 2:702. Požádá-li tedy pojistník v písemné formě pojistitele např. o
+> vysvětlení, proč zamítl likvidaci škodné události, vyžaduje se, aby mu i
+> pojistitel odpověděl v písemné formě. Musí se ovšem jednat o údaje
+> významné pro smluvní plnění. Právní pravidlo je navíc třeba vykládat v
+> kontextu dalších ustanovení, zejména § 6 až 8. Nebude tedy pojistitel
+> nucen v písemné formě odpovídat např. na opakované nebo nepatrně
+> obměněné dotazy v téže záležitosti apod. Podle zák. č. 363/1999 Sb., o
+> pojišťovnictví, je v působnosti České národní banky požadovat od
+> pojišťovny nebo zajišťovny doklady o její činnosti; jejich obsah a formu
+> vyhlašuje úředním sdělením. Je tedy i v možnostech ČNB uložit
+> pojišťovnám vlastním opatřením, aby takové doklady měly; z toho vyplyne
+> povinnost pojišťovny dodržovat při vymezených právních jednáních vůči
+> pojistníkovi písemnou formu.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1262/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/72DB497D5D5D7D8EC1258DA30052C212?openDocument) — *Dokazování Znalecký posudek Pojištění Diskriminace*
@@ -1497,6 +2473,8 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 **§ 2773**:
 > (1) Právní jednání týkající se pojištění vyžaduje písemnou formu, ledaže strany ujednají, že této formy není zapotřebí.
 > (2) Pro oznámení se vyžaduje písemná forma, jen bylo-li to ujednáno. Požádá-li však pojistník v písemné formě pojistitele o sdělení údajů významných pro plnění podle smlouvy, sdělí mu je pojistitel bez zbytečného odkladu v písemné formě.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2744 až 2746“ (dnešní § 2772—2774) — viz § 2772.
 
 ### Pododdíl 2 — Pojistné období (§ 2773—2785)
 
@@ -1567,6 +2545,58 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (1) Pojistné podmínky vymezí zpravidla podrobnosti o vzniku, trvání a zániku pojištění, pojistnou událost, výluky z pojištění a způsob určení rozsahu pojistného plnění a jeho splatnost.
 > (2) Odkazuje-li smlouva na pojistné podmínky, seznámí s nimi pojistitel pojistníka ještě před uzavřením smlouvy; to neplatí, uzavírá-li se smlouva formou obchodu na dálku. Ustanovení § 1845 platí obdobně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2744 až 2746“ (dnešní § 2772—2774) — viz § 2772.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2747 až 2749 návrhu — dnešní § 2775—2777):**
+
+> Ustanovení o pojistce přejímají úpravu § 9 platného zákona. Protože
+> osnova nepřejímá podrobnou úpravu obsahových náležitostí pojistné
+> smlouvy, jaké předepsal donucujícím způsobem § 4 platného zákona -
+> důvodem je především zájem vyloučit neplatnost smlouvy např. za situace,
+> kdy v pojistné smlouvě nebude např. vymezeno pojistné nebezpečí nebo
+> ujednána doba splatnosti běžného pojistného atp. - navrhuje se stanovit
+> obligatorní obsah pojistky, přičemž se tím zároveň poskytuje poučení, co
+> má být obsahem pojistné smlouvy.
+>
+> Nepřejímá se výslovné ustanovení obsažené v první větě § 4 odst. 2
+> platného zákona, podle něhož je pojistitel oprávněn zjišťovat a evidovat
+> údaje o pojistníkovi, pojištěném a dalších osobách zúčastněných na
+> pojištění. Nejsou pochybnosti, že pojistitel, stejně jako kterákoli jiná
+> osoba, která s někým uzavírá smlouvu, má právo zjistit údaje o tom, s
+> kým smlouvu uzavírá, popřípadě v čí prospěch ji uzavírá. Stejně tak
+> nejsou pochybnosti, že takto zjištěné informace jsou majetkem toho, kdo
+> je nabyl, a že je může ve svých záznamech uchovávat. Nejedná se tudíž o
+> nějaké specifické pravidlo týkající se jen pojišťovací činnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2751 návrhu — dnešní § 2781):**
+
+> Povinné pojištění upravuje v současné době několik desítek zákonů. Do
+> ustanovení § 2751 se navrhuje převzít obsah § 5 platného zákona o
+> pojistné smlouvě. Přihlíží se však k tomu, že dosavadní úprava zakazuje
+> pro případ povinného pojištění pojistiteli jen odmítnout poskytnutí
+> pojistného plnění. Z toho lze dovozovat, že platná právní úprava ani v
+> případě povinného pojištění nevylučuje, aby pojistitel od smlouvy
+> odstoupil nebo aby pojištění vypověděl, a tím účel povinného pojištění
+> zmařil. Navrhuje se proto stanovit, že obecná úprava umožňující
+> pojistiteli odstoupit od smlouvy nebo vypovědět pojištění je u povinného
+> pojištění přípustná jen v rozsahu stanoveném zvláštními zákony. Protože
+> pojistitelé tak často postupují při porušení povinnosti druhé strany,
+> navrhuje se rovněž výslovně poukázat i na to, že je v možnostech stran
+> ujednat si pro tyto případy zvláštní postih.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2752 až 2757 návrhu — dnešní § 2782—2787):**
+
+> Navržená ustanovení přejímají z platné úpravy ustanovení § 12 a 13 zák.
+> č. 37/2004. V § 2757 se mění dikce oproti dosavadnímu § 13 odst. 5
+> platného zákona, který v dané souvislosti použil výraz „započtení", což
+> není přesné. V řadě situací vzniká z pojištění právo na pojistné plnění
+> jiné osobě než dlužníkovi pojistného nebo jiných dluhů z pojištění.
+> Vzhledem k tomu, že započtení přichází v úvahu při střetu vzájemných
+> pohledávek týchž osob, není tato podmínka započtení v uvedených
+> případech splněna. Proto se navrhuje založit pojistiteli právo pojistné
+> plnění snížit, tj. provést k tíži pojistného plnění odečet dluhů na
+> pojistném a dalších dluhů z pojištění.
+
 ### Pododdíl 3 — Pojistné (§ 2786—2792)
 
 **§ 2786**:
@@ -1633,6 +2663,186 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 
 **§ 2799**:
 > Způsobila-li úmyslně pojistnou událost buď osoba, která uplatňuje právo na pojistné plnění, anebo z jejího podnětu osoba třetí, vzniká právo na pojistné plnění jen tehdy, bylo-li to výslovně ujednáno, anebo stanoví-li tak tento nebo jiný zákon.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2752 až 2757“ (dnešní § 2782—2787) — viz § 2782.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2752 až 2757“ (dnešní § 2782—2787) — viz § 2782.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2758 návrhu — dnešní § 2788):**
+
+> Navrhuje se převzít konstrukci § 14 platného zákona, avšak s tou
+> korekcí, inspirovanou některými zahraničními úpravami, že pojistník,
+> případně i pojištěný, nemají povinnost pravdivě a úplně odpovědět na
+> všechny (tj. jakékoli) dotazy pojistitele, ale jen na ty, které mohou
+> mít význam pro pojištění jako majetkovou transakci význam. Totéž
+> hledisko sleduje návrh upřesňující znění poslední věty § 14 odst. 1
+> platného zákona tak, že i pojistitel má povinnost zodpovědět ty dotazy
+> pojistníka, které se vztahují k pojistné ochraně proti pojistnému
+> nebezpečí a k jejímu rozsahu.
+>
+> Zároveň se jeví jako vhodné výslovně stanovit, že bagatelní odchylky od
+> skutečnosti nepředstavují porušení povinnosti zodpovědět úplně a
+> pravdivě pojistitelovy dotazy. Povinnost k pravdivému sdělení se tedy
+> považuje za splněnou, nezatají-li pojistník nic podstatného, tj. je-li
+> skutečnost, na niž je pojistník tázán, v podstatném souladu s jeho
+> tvrzením.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2759 návrhu — dnešní § 2789):**
+
+> Úprava soukromého pojištění musí být postavena tak, aby byla zajištěna
+> rovnováha smluvních stran a byl brán zřetel na postavení pojistitele,
+> které je fakticky silnější. Přitom nejde jen o rovinu práv a povinností
+> ve vztahu ke spotřebiteli, ale také o úpravu obecnou, neboť jde o to, že
+> pojistiteli svědčí domněnka zvláštní kvality odborníka v úzce
+> specializovaném odvětví. Proto se navrhuje uložit pojistiteli obecnou
+> informační povinnost. Obdobná ustanovení obsahují i některé zahraniční
+> úpravy, např. německý zákon o pojistné smlouvě.
+>
+> Vzorem pro návrh odstavce 1 je *Restatement of European Insurance
+> Contract Law* (PEICL) čl. 2:102. Navrhuje se založit pojistiteli
+> povinnost upozornit zájemce o pojištění na nesrovnalosti mezi jeho
+> požadavky a mezi nabízeným pojištěním, musí-li o těchto nesrovnalostech
+> vědět. Přitom musí být především přihlédnuto jednak k okolnostem, za
+> nichž se smlouva uzavírá, jednak ke způsobu uzavírání smlouvy. Zvláštní
+> význam musí mít i skutečnost, je-li zájemci o pojištění při uzavírání
+> smlouvy nápomocen nezávislý zprostředkovatel. Takovým nemusí být jen
+> pojišťovací zprostředkovatel ve smyslu zákona č. 38/2004 Sb., o
+> pojišťovacích zprostředkovatelích a likvidátorech pojistných událostí,
+> ale i jakýkoli jiný zprostředkovatel, který je na pojistiteli nezávislý.
+>
+> Návrh odstavce 2 přejímá pojetí informační povinnosti, jak je upraveno v
+> § 23 odst. 2 platného zákona o pojistné smlouvě.
+>
+> Porušení pojistitelovy informační povinnosti zakládá podle následujících
+> ustanovení pojistníkovi právo od smlouvy odstoupit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2760 až 2764 návrhu — dnešní § 2790—2794):**
+
+> Navržená ustanovení o zvýšení pojistného rizika zásadně přejímají úpravu
+> § 15 zák. č. 37/2004 Sb. Proto se v těchto ustanoveních také zachovávají
+> pojmy pojistného rizika a jeho zvýšení jako klíčové (základní). Zároveň
+> se ale zamýšlí vzít v úvahu, že z hlediska pojistníka je významné
+> pojistné nebezpečí jako možná příčina vzniku pojistné události, zatímco
+> u pojistitele představuje pojistné riziko míru pravděpodobnosti vzniku
+> pojistné události vyvolanou pojistným nebezpečím. Souvislost obojího je
+> v tom, že zvýší-li se pojistné nebezpečí, zvýší se i pojistné riziko,
+> protože pojistné nebezpečí ovlivňuje, jak pojistitel pojistné riziko
+> ohodnotí, rozhodne-li se je nést, a jaké pojistné vyměří. Některé
+> zahraniční úpravy pojištění sice používají výraz „zvýšení (nebo změna)
+> pojistného rizika", srov. např. *aggravation du risque, change in risk,
+> aggramento del rischio* apod., je nutné však brát v úvahu, jak jsou tyto
+> výrazy v tamějším prostředí chápány. Ve zdejší právní kultuře se
+> tradičně používalo spojení „zvýšení nebezpečí převzatého pojistitelem"
+> (§ 33 zák. č. 501/1917 ř. z., § 32 zák. zák. č. 145/1934 Sb.) nebo
+> „změna pojistného nebezpečí" (§ 14 zák. 189/1950 Sb.), což je ovlivněno
+> jak německou terminologií (srov. *Erhöhung der Gefahr* v rakouském,
+> *Gefahrhöhung* v německém nebo *Gefarserhöhung* ve švýcarském zákoně),
+> jakož i důsledným pojmovým odlišováním pojistného nebezpečí a pojistného
+> rizika.
+>
+> Protože je změna pojistného rizika objektivní kategorie, jeví se jako
+> účelné ji vymezit. Návrh spojuje zvýšení pojistného rizika s podstatnou
+> změnou okolností, které zvyšují pojistné nebezpečí, a tím i
+> pravděpodobnost vzniku pojistné události. Protože se v souvislosti s tím
+> ukládají povinnosti pojistníkovi, popřípadě pojištěnému, musí být pro
+> tyto osoby zřejmé, k čemu se jejich povinnosti váží. Z toho důvodu se
+> navrhuje výslovně stanovit, že musí jít o okolnosti uvedené ve smlouvě
+> nebo o ty okolnosti, na které se pojistitel předepsaným způsobem
+> dotázal, a že se musí jednat o zvýšení výslovně ujednaného pojistného
+> nebezpečí. S tím se spojují povinnosti pojistitele (popřípadě
+> pojistníka), které se navrhuje vymezit se zřetelem k tomu, co je v
+> zahraničních úpravách obvyklé, a čeho se přidržoval i zák. č. 145/1934
+> Sb., totiž zda ke změně došlo v závislosti na vůli povinné osoby nebo
+> nezávisle na její vůli.
+>
+> Pro tyto případy se navrhuje převzít z § 23 nového německého zákona o
+> pojistné smlouvě z r. 2007 právní pravidla tam obsažená. Podle
+> základního pravidla pojistník nesmí učinit nic, co vede ke zvýšení
+> pojistného nebezpečí, ani to povolit třetí osobě, nemá-li k tomu
+> pojistitelův souhlas. Pamatuje se však i na to, že může dojít i k tomu,
+> že pojistník něco učiní nebo povolí, aniž k tomu měl souhlas
+> pojistitele, a teprve následně zjistí, že ke zvýšení pojistného
+> nebezpečí došlo. Pro takový případ se mu ukládá povinnost oznámit změnu
+> pojistiteli bezodkladně. Dojde-li ke zvýšení pojistného nebezpečí
+> nezávisle na pojistníkově vůli, vznikne mu oznamovací povinnost bez
+> zbytečného odkladu poté, co se o zvýšeném nebezpečí dozvěděl.
+>
+> Zároveň se navrhuje založit pojistiteli právo, aby z důvodů stanovených
+> v těchto ustanoveních mohl pojištění vypovědět bez výpovědní doby (s
+> okamžitou účinností). Stávající úprava v § 15 odst. 4 a 5 platného
+> zákona vychází z nesprávné představy, že výpověď musí být spojena s
+> nějakou výpovědní dobou. V těchto případech však není důvod uměle
+> prodlužovat pojištění o výpovědní dobu, byť jen osmidenní, jakou platný
+> zákon stanoví. V zájmu ochrany pojistníka se však navrhuje vázat vznik
+> práva pojistitele na takovou výpověď s předchozím upozorněním.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2765 návrhu — dnešní § 2795):**
+
+> Návrh ustanovení o výjimkách z ustanovení o zvýšení pojistného nebezpečí
+> zčásti přejímá právní pravidla platného zákona o pojistné smlouvě (§ 15
+> odst. 7 a § 62 odst. 5), zčásti doplňuje tři pravidla. Tato nová
+> pravidla jsou zahrnuta do odstavce 1. Sledují zdejší právní tradici
+> (srov. § 36 zák. č. 501/1917 Sb. a § 36 zák. č. 145/1934 Sb., o pojistné
+> smlouvě), i standardy platných zahraničních úprav (srov. např. čl. 32
+> švýcarského a § 26 rakouského zákona o pojistné smlouvě nebo čl. 1900
+> italského občanského zákoníku). Výjimky se týkají případů, kdy se
+> pojistné riziko zvyšuje, ale v zájmu odvrácení nebo zmenšení vyšší
+> škody, tedy vlastně v zájmu pojistitele, anebo kdy se pojistné riziko
+> zvýší v důsledku toho, že nastala pojistná událost. Konečně jde o případ
+> jednání z příkazu lidskosti (doslova shodně: *Gebot der Menschlichkeit*
+> v textu rakouského a švýcarského zákona, v italském zákoníku *compiuti
+> per dovere di solidarietà umana,* tj. plnění povinnosti z lidské
+> solidarity), kdy ke zvýšení pojistného nebezpečí dojde zejména v úsilí o
+> záchranu lidského života.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2766 až 2769 návrhu — dnešní § 2796—2799):**
+
+> Navržená ustanovení přejímají úpravu § 14 odst. 2 a 16 platného zákona.
+>
+> V § 2766 (recipujícím § 14 odst. 2 platného zákona) se navrhuje upřesnit
+> dikci shodně s tím, jak ji již dnes zvolil § 16 odst. 1 platného zákona.
+> Pojistník neoznamuje pojistiteli pojistnou událost, jak dnes stanoví §
+> 14 odst. 2 platného zákona, protože závěr, jedná-li se v daném případě
+> skutečně o pojistnou událost, může být učiněn až po provedeném šetření.
+> Pojistník oznamuje pojistiteli událost, s níž spojuje svůj požadavek na
+> pojistné plnění. Platná úprava neřeší, zda takovou událost může
+> pojistiteli oznámit někdo jiný než pojistník (popřípadě pojištěný nebo
+> obmyšlený); z toho se dovozuje, že tyto další osoby sice mohou oznámit
+> událost považovanou za pojistnou, ale že pojistiteli nevzniká povinnost
+> takto oznámenou událost šetřit. Se zřetelem k tomu se navrhuje stanovit
+> ve shodě s některými zahraničnímu vzory, že oznámení může kromě osob
+> uvedených v prvním odstavci oznámit každý, kdo má na pojistném plnění
+> právní zájem (např. zástavní věřitel). I na tato oznámení pojistitel
+> musí podle návrhu reagovat a zahájit šetření. Zároveň se navrhuje
+> upravit podrobněji obsah oznámení.
+>
+> V § 2767 se upřesňuje právo na náhradu nákladů vyvolaných u pojistitele
+> zjišťováním skutečného stavu v případě, že mu byly o pojistné události
+> sděleny nepravdivé nebo neúplné údaje, anebo že mu byly zamlčeny tím,
+> kdo měl povinnost je sdělit.
+>
+> Do § 2768 se s menšími úpravami přejímá text § 16 platného zákona. Kdy
+> je pojistné plnění splatné, si mají strany především ujednat; jinak je
+> splatné nejpozději patnáctým dnem po skončení šetření pojistné události.
+> Z platné právní úpravy se přejímá i pojetí, že nelze-li šetření ukončit
+> do tří měsíců od oznámení, vznikne pojistiteli povinnost vyplatit osobě,
+> která uplatňuje na pojistné plnění právo, na její žádost přiměřenou
+> zálohu. Tato povinnost však nevznikne, má-li pojistitel rozumný důvod
+> vyplacení zálohy odepřít. Otázku, kdy takový důvod je a kdy není, je
+> třeba posuzovat jednak podle obecných ustanovení (zejména podle § 6
+> odst. 1), jednak se zřetelem k § 2768 odst. 3. Není-li šetření ukončeno
+> z příčin na straně pojistitele, nemá pojistitel ani rozumný důvod k
+> odepření zálohové platby. Naproti tomu, znemožní-li či ztíží-li šetření
+> nebo jeho ukončení pojistník, pojištěný nebo oprávněná osoba z příčin na
+> své straně, nastane rozumný důvod k odepření zálohy nebo k přiměřenému
+> odložení její výplaty. Návrh nespojuje - na rozdíl od platného zákona (§
+> 16 odst. 2 in fine) - právo odepřít zálohu, resp. stavení lhůty pro její
+> vyplacení s vinou těchto osob. Toto vymezení je příliš úzké a nekryje
+> rizika nastavší ve sféře uvedených osob bez jejich viny (např. nemoc,
+> setrvání v cizině z objektivních důvodů), jejichž důsledky však nelze
+> přenášet na druhou smluvní stranu. V třetím odstavci § 2768 se navrhuje
+> výslovně stanovit, že překročí-li pojistitel lhůtu tří měsíců na své
+> straně, nemůže se zbavit následků prodlení.
 
 ### Pododdíl 4 — Pojistné plnění (§ 2796—2810)
 
@@ -1701,6 +2911,37 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (2) Přeruší-li se pojištění během pojistné doby, netrvá za přerušení povinnost platit pojistné a nevzniká právo na plnění z událostí, které v době přerušení nastaly a byly by jinak pojistnými událostmi. Doba přerušení pojištění se započítává do pojistné doby, jen je-li to výslovně ujednáno.
 > (3) Existují-li zákonné důvody trvání povinného pojištění, nelze povinné pojištění přerušit. Životní pojištění lze přerušit, jen bylo-li to ujednáno.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2770 a 2771 návrhu — dnešní § 2800—2801):**
+
+> Návrh přejímá s drobnými jazykovými úpravami obsah ustanovení § 17 a §
+> 18 platného zákona. V § 2752 se doplňuje, kdy přerušení pojištění ze
+> zákonného důvodu skončí; obdobná zákonná dispozice v platné úpravě zatím
+> chybí a vyvolává obtíže.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2772 až 2780 návrhu — dnešní § 2802—2810):**
+
+> Navržená ustanovení přejímají věcný obsah § 19 až 25 platného zákona.
+> Právo pojistníka vypovědět pojištění se však rozšiřuje o možnost
+> výpovědi v případě, že pojistitel porušil při určení výše pojistného
+> nebo pro výpočet pojistného plnění zásadu rovného zacházení. Platný
+> zákon v ustanoveních o výpovědi kolísá, někde stanovuje, že se vypovídá
+> pojistná smlouva (např. v § 15 odst. 4 a 5), jinde, že se vypovídá
+> pojištění (např. v § 22). Osnova se přidržuje dikce posledně uvedené,
+> protože se vypovídá obligace, nikoli smlouva.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2779 návrhu — dnešní § 2809):**
+
+> Navrhuje se upravit, za jakých podmínek má pojistitel právo plnění
+> odmítnout. Vychází se přitom z pojetí skutkové podstaty zakládající
+> důvod k odmítnutí plněním jak byla upravena v občanském zákoníku původně
+> (srov. § 360 odst. 2 v jeho původní redakci, po novele provedené zák. č.
+> 509/1991 Sb. § 802 odst. 3) s převzetím upřesnění vyplývajících z § 24
+> odst. 1 písm. a) zák. č. 37/2004 Sb., o pojistné smlouvě. Navrhuje se
+> však nepřevzít do nové úpravy skutkovou podstatu uvedenou v § 24 odst. 1
+> písm. b), která byla do soukromého práva přejata z trestního zákona (§
+> 250a) a u níž není věcný důvod k odmítnutí pojistného plnění; postačí
+> jiné právní instituty, zejména bezdůvodné obohacení a náhrada škody.
+
 ### Pododdíl 5—8 — Speciální pojištění (§ 2811—2872)
 
 **Druhy pojištění**:
@@ -1730,6 +2971,16 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 
 **§ 2815**:
 > Ujedná-li se ve smlouvě výslovně, že osobě, které vzniká právo na pojistné plnění, půjde k tíži úbytek majetku, jehož výše nepřesáhne ujednanou hranici, nebo že této osobě půjde určitá část úbytku majetku k tíži, není pojistitel povinen poskytnout pojistné plnění v rozsahu takto ujednané spoluúčasti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2781 až 2790 návrhu — dnešní § 2811—2820):**
+
+> Návrh ustanovení o škodovém pojištění přejímá platnou úpravu v § 26 až
+> 33 zák. č. 37/2004 Sb. Základní ustanovení (§ 2781) je přeformulováno:
+> ustanovení § 26 platného zákona, jehož myšlenka se zde sleduje, stanoví,
+> že pojistitel při škodovém pojištění „je povinen poskytnout náhradu
+> škody", což není přesné, vzhledem k tomu, že „náhrada škody" je pojmem
+> deliktního práva. Pojistitel poskytuje pojistné plnění, nikoli náhradu
+> škody, třebaže pojistné plnění má za účel škodu nahradit.
 
 #### Pojištění majetku (§ 2815—2831)
 
@@ -1845,6 +3096,132 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (2) Souhlas pojištěných podle § 2826 se nevyžaduje. To platí obdobně, postoupí-li pojistník smlouvu.
 > (3) Porušení povinnosti pravdivě a úplně zodpovědět dotazy pojistitele zasahuje při skupinovém pojištění jen pojištění těch osob, kterých se porušení této povinnosti týká.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2781 až 2790“ (dnešní § 2811—2820) — viz § 2811.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2781 až 2790“ (dnešní § 2811—2820) — viz § 2811.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2781 až 2790“ (dnešní § 2811—2820) — viz § 2811.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2781 až 2790“ (dnešní § 2811—2820) — viz § 2811.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2781 až 2790“ (dnešní § 2811—2820) — viz § 2811.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2791 až 2793 návrhu — dnešní § 2821—2823):**
+
+> Navržená ustanovení přejímají obsah § 34 až 36 platného zákona č.
+> 37/2004 Sb.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2794 návrhu — dnešní § 2824):**
+
+> V návrhu se ze systematických důvodů zařazuje úprava pojištění osob před
+> úpravu pojištění majetku (život a zdraví člověka jsou z hlediska
+> ústavněprávního i soukromoprávního hodnotami významnějšími než majetek).
+> Navržené ustanovení § 2794 přejímá § 49 platného zákona o pojistné
+> smlouvě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2795 návrhu — dnešní § 2825):**
+
+> Navrhuje se doplnit do úpravy pojištění osob výkladové pravidlo pro
+> případ pojištění pracovní neschopnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2796 návrhu — dnešní § 2826):**
+
+> Navrhuje se převzít pojetí § 52 odst. 2 platného zákona s tím, že se
+> navrhuje z obdobných důvodů, jaké jsou uvedeny u § 2739, vyloučit
+> souhlas pojištěného (jeho zákonného zástupce) jen ve vztahu k
+> pojištěnému, které je nesvéprávným potomkem pojistníka. Zároveň se
+> navrhuje, obdobně jako v § 2739**,** stanovit právní následky pro
+> případ, že pojistná smlouva bude uzavřena bez tohoto souhlasu. V
+> odstavci 1 se navrhuje stanovit, že se vyžaduje „i souhlas pojištěného",
+> neboť obmyšleným je - nejde-li o pojištění cizího nebezpečí, které je
+> upraveno samostatně, osoba od pojistníka odlišná, a tudíž se vyžaduje
+> rovněž její souhlas podle ustanovení o uzavření pojistné smlouvy ve
+> prospěch třetího.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2797 návrhu — dnešní § 2827):**
+
+> Pokud se jedná o skupinové pojištění, platný zákon stanoví, že jím je
+> pojištění, které se vztahuje na skupinu pojištěných blíže vymezených v
+> pojistné smlouvě, jejichž totožnost není v době uzavření smlouvy obvykle
+> známa \[§ 2 písm. k)\], dále pak v § 53 stanoví, že jména pojištěných
+> nemusí pojistná smlouva obsahovat, pokud jsou v době pojistné události
+> určeni jiným způsobem nevzbuzujícím pochybnosti. Tuto myšlenku přejímá
+> první věta odstavce 1; vyplývá z ní, aniž se to zvlášť zdůrazňuje, že v
+> pojistné smlouvě musí být ujednán i způsob, jak se členové pojištěné
+> skupiny určí. Je samozřejmé, že za této situace nelze vyžadovat souhlas
+> pojištěných s uzavřením pojistné smlouvy. Navrhuje se tudíž nově
+> stanovit, že absence souhlasu musí být nahrazena osvědčením pojistníkova
+> pojistitelného zájmu na pojištění skupiny; obdobně při postoupení
+> smlouvy musí osoba, vstupující na místo původního pojistníka, osvědčit,
+> že na tom má pojistitelný zájem.
+>
+> Rovněž se navrhuje výslovně stanovit, že se případné porušení povinnosti
+> zodpovědět pravdivě a úplně dotazy pojistitele může záporně dotknout jen
+> pojištění těch osob, ohledně nichž byla povinnost porušena.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2798 návrhu — dnešní § 2828):**
+
+> Ustanovení recipuje z platného zákona o pojistné smlouvě § 50.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2799 návrhu — dnešní § 2829):**
+
+> Ustanovení přejímá obsah § 51 odst. 1 platného zákona o pojistné
+> smlouvě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2800 návrhu — dnešní § 2830):**
+
+> Nový občanský zákoník nepřejímá pravidlo totalitního práva obsažené dnes
+> v § 574 odst. 2 platného občanského zákoníku, podle něhož je neplatný
+> projev vůle, kterým se osoba vzdává práv, jež jí mohou vzniknout teprve
+> v budoucnosti. Vzhledem k tomu je potřebné stanovit, že určí-li
+> pojistník obmyšleného neodvolatelně a je-li jím jeho manžel nebo
+> registrovaný partner, ruší se takové určení rozvodem manželství, jeho
+> prohlášením za neplatné, anebo zrušením registrovaného partnerství z
+> důvodů uvedených v tomto ustanovení. Obdobné právní pravidlo se navrhuje
+> i pro případ vzniku nebo zrušení osvojení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2801 návrhu — dnešní § 2831):**
+
+> Navrhuje se převzít právní pravidla obsažená v ustanovení § 51 odst. 2,
+> 3 a 4 platného zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2802 návrhu — dnešní § 2832):**
+
+> Navrhuje se nahradit normativní konstrukci § 52 odst. 1 standardní
+> úpravou, kterou respektovaly jak starý zákon o pojistné smlouvě z r.
+> 1934 (§ 127), tak ještě zákon o pojistné smlouvě č. 189/1950 Sb. (§ 42)
+> a která se běžně vyskytuje i v zahraničních úpravách. Podle prvního
+> odstavce má pojistník právo volně nakládat s oprávněními z pojištění až
+> do okamžiku, kdy je nabude obmyšlený, nebylo-li ovšem ujednáno něco
+> jiného. Tato volnost však musí být v pojistitelově zájmu omezena,
+> zavazuje-li ho pojistná smlouva k vyplácení důchodu obmyšlenému, protože
+> doba požívání důchodu podstatně závisí na pravděpodobné délce života
+> obmyšleného, a tudíž, byl-li obmyšlený již určen, nelze namísto něho
+> pojistiteli proti jeho vůli vnutit jinou osobu. Pokud jde o případ, že
+> pojištěným je osoba od pojistníka odlišná, zachovává se v odstavci 2
+> dosavadní a standardní právní pravidlo, že pak je ke změnám vypočteným v
+> prvním odstavci potřebný souhlas pojištěného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2803 až 2806 návrhu — dnešní § 2833—2836):**
+
+> V těchto ustanoveních se jedná o recepci § 54 a § 55 platného zákona.
+> Navrhuje se však zrušit zákaz pojištění pro případ smrti dítěte, která
+> by nastala do tří let jeho věku, nebo pro případ potratu nebo narození
+> mrtvého dítěte. Obdobný zákaz není v historickém a mezinárodním srovnání
+> obvyklý. Důvodová zpráva k § 54 platného zákona jej odůvodňuje rozporem
+> s etikou, aniž tento rozpor blíže vysvětluje; navíc se jeví jako
+> paradox, že platná úprava zakazuje pojištění pro případ smrti dítěte do
+> tří let jeho věku jen u životního pojištění, ačkoli takové pojištění
+> nevylučuje u pojištění úrazového. Na rozdíl od § 55 odst. 3 platného
+> zákona o pojistné smlouvě se v § 2805 navrhuje omezit právo pojistitele
+> na odstoupení od smlouvy subjektivní prekluzivní dobou v trvání dvou
+> měsíců (obdobně jako v § 2778) s tím, že od smlouvy lze odstoupit
+> nejpozději do tří let od uzavření smlouvy a za podmínky, že pojištěný je
+> v době odstoupení živ. Vzorem pro toto pojetí je čl. 2421 občanského
+> zákoníku Québecu. Z téhož zdroje (čl. 2448 CCQ) se navrhuje převzít
+> normativní konstrukci, která pro účely pojištění řeší následky současné
+> smrti pojištěného i obmyšleného.
+
 #### Pojištění odpovědnosti (§ 2861—2867)
 
 **§ 2861**:
@@ -1892,6 +3269,36 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 **§ 2871**:
 > (1) Předmětem pojištění finančních ztrát jsou vynaložené náklady, které vznikly v důsledku škodné události, nebo ušlý zisk, anebo jiné finanční ztráty určené ve smlouvě.
 > (2) Pojištění finančních ztrát lze ujednat jako pojištění škodové nebo obnosové.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2831 až 2837 návrhu — dnešní § 2861—2867):**
+
+> Navrhuje se převzít obsah ustanovení § 43 až 46 platného zákona s
+> drobnějšími systematickými a stylistickými úpravami. Protože osnova
+> opouští označení povinnosti nahradit škodu výrazem „odpovědnost za
+> škodu", ponechává se sice v názvu pododdílu i v základním ustanovení §
+> 2831 označení „pojištění odpovědnosti", což neruší tradiční označení
+> tohoto pojišťovacího institutu, ba se s ním více shoduje (§ 115 zák. č.
+> 145/1934 Sb.), ale ani nepopírá fakt, že se pojištění nemusí vztahovat
+> jen na povinnost hradit škodu, nicméně - pokud jde o pojištěného - drží
+> se stejná dikce jako v jiných ustanoveních osnovy a mluví se o jeho
+> povinnosti nahradit škodu (popřípadě jinou újmu). Jinak se ponechává
+> dosavadní úprava bez podstatných změn. Má-li však být placení
+> opakovaných dávek (např. renty vyrovnávající ztrátu na výdělku)
+> nahrazeno jednorázovým plněním (odbytným), vyžaduje se k tomu souhlas
+> pojištěného; jde totiž primárně o jeho odpovědnost a o její míru.
+> Nicméně, pro případ, kdy pojištěný z objektivních příčin nemůže souhlas
+> udělit (např. je-li neznámého pobytu), není nutné po pojištěném pátrat
+> nebo usilovat o to, aby mu byl jmenován opatrovník; proto se navrhuje
+> stanovit, že v takových případech souhlasu pojištěného není třeba.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2838 až 2841 návrhu — dnešní § 2868—2871):**
+
+> Bez zásadních obsahových změn se navrhuje převzít úpravu § 47 a 48
+> platného zákona. Navrhuje se však netrvat nadále na donucujícím
+> ustanovení § 48 odst. 2 platného zákona, podle něhož lze pojištění
+> finančních ztrát ujednat jen jako pojištění škodové, neboť se tím
+> zbytečně omezuje autonomie vůle stran. Je zejména věcí podnikatelského
+> uvážení pojistitele, jak se rozhodne určitá pojistná nebezpečí pojistit.
 
 #### Životní pojištění (§ 2832—2860)
 
@@ -2008,6 +3415,110 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 > (1) Pojišťuje-li pojistitel velké pojistné riziko v neživotním pojištění podle jiného zákona upravujícího pojišťovnictví, lze se odchýlit od jakéhokoli ustanovení této části ve prospěch kterékoli strany, vyžaduje-li to účel a povaha pojištění.
 > (2) Pojištění velkého pojistného rizika lze ujednat pouze jako pojištění škodové.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 2807 až 2813 návrhu — dnešní § 2837—2843):**
+
+> Návrh přejímá bez obsahových změn ustanovení § 56 až 59 platného zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2814 až 2818 návrhu — dnešní § 2844—2848):**
+
+> Návrh přejímá bez podstatných obsahových změn právní pravidla ustanovení
+> § 60 až 62 platného zákona. Na rozdíl od platné úpravy se navrhuje
+> vypustit legální definici úrazu obsaženou dnes v § 60 odst. 3, což se
+> odůvodňuje především tím, že je věcí smluvních stran, jak vymezí
+> pojistnou událost ve smlouvě.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2819 návrhu — dnešní § 2849):**
+
+> Navržené ustanovení přejímá z § 37 platného zákona jen právní pravidlo
+> třetího odstavce. Ustanovení, že lze pojistit věc, soubor věcí nebo jiný
+> majetek vymezený v pojistné smlouvě (§ 37 odst. 1 platného zákona) se
+> jeví jako nadbytečné, neboť již z názvu pododdílu vyplývá, že jeho
+> ustanovení se týkají pojištění majetku, přičemž pojem majetku
+> (zahrnující hmotné i nehmotné věci, včetně práv, jakož i jejich soubory)
+> je dobře srozumitelný a nevyžaduje bližší vysvětlení. Rovněž se jeví
+> jako zbytečná případná recepce právního pravidla obsaženého v § 37 odst.
+> 2 platného zákona, podle něhož lze sjednat pojištění věci nebo souboru
+> věcí jen jako škodové, zatímco pojištění jiného majetku jako škodové i
+> jako obnosové, neboť to je záležitost autonomie vůle smluvních stran.
+>
+> Z důvodů uvedených u § 2794 se návrh ustanovení o pojištění majetku
+> zařazuje až za ustanovení o pojištění osob.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2820 návrhu — dnešní § 2850):**
+
+> Ustanovení přejímá myšlenku § 38 platného zákona. Mění se však tak, že
+> se navrhuje stanovit nejprve obecné právní pravidlo pro pojištění
+> hromadných věcí s tím, že totéž právní pravidlo má být podle druhého
+> odstavce obdobně platit i pro pojištění souboru věcí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2821 návrhu — dnešní § 2851):**
+
+> Z § 39 platného zákona o pojistné smlouvě přejímá navržené ustanovení
+> právní pravidlo § 39 odst. 3, protože upravuje zvláštní skutkovou
+> podstatu, odlišnou od ostatních případů upravených v citovaném
+> ustanovení, tj. případů ztráty či odcizení majetku. Tyto případy se řeší
+> v následujícím ustanovení. Dosavadní § 39 odst. 3 platného zákona
+> předpokládá, že pokyn (správně souhlas) pojistitele má být udělen v době
+> ujednané ve smlouvě, avšak ani podrobná ustanovení § 4 platného zákona o
+> obsahu pojistné smlouvy nevyžaduje ujednání o takové době jako
+> obligatorní. Musí být pamatováno na případ, kdy taková doba ujednána
+> nebude.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2822 návrhu — dnešní § 2852):**
+
+> Platný zákon o pojistné smlouvě vychází z pojetí, že je-li pojištěná věc
+> po pojistné události a vyplacení pojistného plnění opět nalezena, nabývá
+> k ní pojistitel vlastnické právo ex lege a musí nalezený pojištěný
+> majetek převzít, ledaže to strany ve smlouvě vyloučí. S ohledem na
+> praktické zkušenosti a na základě požadavků praxe se navrhuje uvedené
+> právní pravidlo změnit a stanovit, že nálezem pojištěného majetku na
+> pojistitele vlastnické právo k tomuto majetku nepřechází (vlastníkem
+> tedy zůstane i nadále vlastník původní). Navržené právní pravidlo
+> samozřejmě nebrání, aby si strany ujednaly něco jiného. Nepřejde-li
+> vlastnické právo k nalezenému majetku na pojistitele, vznikne
+> pojistiteli právo, aby mu bylo vráceno, co oprávněné osobě na pojistném
+> plnění poskytl, po případném snížení o náklady účelně vynaložené na
+> odstranění závad mezitím vzniklých.
+>
+> Zároveň se navrhuje stanovit, že majetek se nepovažuje za nalezený,
+> je-li sice doložena jeho fyzická existence, ale vlastník se nemůže
+> ujmout jeho držby buď vůbec nebo jen s nepřiměřenými obtížemi nebo
+> náklady, anebo je-li nalezená věc natolik poškozena, že již ztratila
+> svůj původní charakter, nebo ji lze opravit jen s nepřiměřenými náklady.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2823 a 2824 návrhu — dnešní § 2853—2854):**
+
+> Navržená ustanovení přejímají § 40 a § 41 platného zákona. V ustanovení
+> § 2823 o přepojištění se navrhuje odstranit nedostatky spočívající
+> jednak v tom, že platná úprava neřeší případ, kdy návrh na snížení
+> pojistné částky při současném poměrném snížení pojistného podává
+> pojistitel a návrh není pojistníkem přijat (srov. § 40 odst. 2 platného
+> zákona), jednak v tom, že není pamatováno na případ přepojištění za
+> současného ujednání jednorázového pojistného.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2825 návrhu — dnešní § 2855):**
+
+> Protože lidské tělo ani jeho části, třebaže byly od těla odděleny,
+> nejsou věcmi v právním smyslu, je potřebné zvláštním ustanovením
+> výslovně stanovit, že i je lze pojistit a jakými právními pravidly se
+> takové pojištění bude řídit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2826 až 2830 návrhu — dnešní § 2856—2860):**
+
+> Návrh přejímá obsah § 42 platného zákona, kterým byla do tuzemského
+> práva promítnuta směrnice 87/344/EHS z 22. června 1987. Vzhledem k tomu,
+> že § 42 platného zákona slučuje v šesti odstavcích různorodé skutkové
+> podstaty, navrhuje ze systematických důvodů a v zájmu přehlednosti do
+> pěti samostatných paragrafů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2842 návrhu — dnešní § 2872):**
+
+> Velká pojistná rizika upravená v § 38a zákona o pojišťovnictví se
+> zřetelem k směrnicím 73/239/EHS a 2002/83/ES, jakož i povaha a účel
+> jejich pojištění vylučují, aby se pojistná smlouva týkající se velkých
+> pojistných rizik podřizovala omezením vyplývajících z kogentních
+> ustanovení závazkového práva.
+
 ### Specifické úpravy
 
 **Povinné pojištění odpovědnosti z provozu vozidla**:
@@ -2042,6 +3553,47 @@ U pojištění cizí hodnoty pojistného zájmu (§ 2767) je postavení pojišt�
 **§ 2875 — Los** (*Lotterie*):
 - Náhodná hra (loterie, tombola);
 - Regulace **zákonem č. 186/2016 Sb. o hazardních hrách**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2843 až 2853 návrhu — dnešní § 2873—2883):**
+
+> Dosavadní kusou úpravu sázky, hry a losu se navrhuje nahradit úpravou
+> podrobnější, odpovídající klasickému pojetí i některým moderním trendům
+> v soudobém zákonodárství.
+>
+> Sázka je smlouva, kterou se alespoň jedna ze stran zavazuje plnit cenu
+> nebo výhru v závislosti na pravdivosti tvrzení o skutečnosti stranám
+> neznámé. Při hře plnění jedné strany závisí na výsledku činnosti stran,
+> přičemž mezi činností a plnění není vztah ekvivalence. Jedná-li se o
+> los, pak strana, která los vydala, slibuje držiteli losu plnění, bude-li
+> los tažen.
+>
+> Navrhuje se podrobněji upravit sázku a v úpravě hry a losu na úpravu
+> sázky více méně jen odkázat s úpravou případných odchylek.
+>
+> Podle tradičního pojetí jsou vymahatelné pohledávky vzniklé ze sázek,
+> her a loterií provozovaných státem nebo úředně povolenými podniky,
+> zatímco v ostatních případech se jedná o pohledávky naturální.
+>
+> Toto základní schéma osnova navrhuje zachovat, avšak přece jen se
+> zároveň navrhuje je po vzoru některých novějších kodexů (italského,
+> nizozemského, québeckého aj.) poněkud zjemnit.
+>
+> Podstata naturální pohledávky je v tom, že ji nelze vymáhat. Je-li však
+> naturální dluh splněn dobrovolně, nelze plnění vymáhat zpět. V té
+> souvislosti se obecně navrhuje, aby soud mohl moderovat výhru dobrovolně
+> zaplacenou, byla-li sjednána v přemrštěné výši, a aby tedy mohl i
+> zavázat vyhrávající stranu k částečnému vrácení toho, co vírou získala.
+> Mimoto se navrhuje vůbec vyloučit nemožnost požadovat vrácení výhry,
+> je-li druhá strana omezena v rozumových schopnostech.
+>
+> Na hru a los mají být použita ustanovení o sázce obdobně. U tohoto
+> obdobného použití má však být vyloučena aplikace ustanovení o
+> naturálních pohledávkách pro ty hry, u nichž se vyžadují pouze zručnost
+> nebo tělesná cvičení obou stran (obdobnou úpravu mají např. zákoníky
+> španělský, italský, nizozemský a CCQ).
+>
+> Rovněž se navrhuje vyloučit aplikaci ustanovení o sázkách pro diferenční
+> a burzovní obchody.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2095,6 +3647,10 @@ Sázka, hra a los podle § 2873—2875 zakládají zásadně naturální obligac
 **§ 2875**:
 > Byla-li výhra dána, nemůže ji prohrávající strana vymáhat zpět. To neplatí, pokud prohrávající stranou byla zjevně osoba s nedostatečnými duševními nebo rozumovými schopnostmi.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
 ### § 2876—2883 — Vymahatelnost
 
 **§ 2876**:
@@ -2130,6 +3686,22 @@ Sázka, hra a los podle § 2873—2875 zakládají zásadně naturální obligac
 **§ 2882—2883 — Veřejné soutěže** (loterie, tomboly):
 - Vyžaduje **státní povolení**;
 - Vymahatelné podle zvláštního zákona č. 186/2016 Sb.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2843 až 2853“ (dnešní § 2873—2883) — viz § 2873.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2197,6 +3769,48 @@ Nevymahatelnost sázky (§ 2877—2878) má významné výjimky: na podnikatelsk
 - "Hledá se ztracený pes — odměna 5000 Kč";
 - "Kdo vyřeší matematický problém — 1 mil. Kč";
 - "Kdo přinese informace k loupežnému přepadení — Police ČR vyplatí 100 000 Kč".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2854 až 2859 návrhu — dnešní § 2884—2889):**
+
+> Návrh úpravy veřejného příslibu vychází z tradičního pojetí veřejného
+> příslibu absolutního (vypsání odměny) a relativního (vypsání ceny).
+>
+> V prvém případě se jedná o vypsání odměny za výkon absolutně dosažitelný
+> (nález ztracené věci, odhalení pachatele trestného činu). Vzhledem k
+> tomu může o právu na odměnu, neshodnou-li se přislibující a ten, kdo
+> výkon provedl, rozhodnout soud, neboť vyřešení zadání veřejného příslibu
+> je jedno.
+>
+> Naproti tomu se při relativním veřejného příslibu jedná o případ, kdy se
+> řešení naskýtá neurčitý počet (např. projekt určité budovy nebo návrh
+> její výzdoby apod.) a při vyhodnocení výkonů se jedná o nalezení řešení
+> co možná nejlepšího, takového, které přislibujícímu co nejlépe vyhovuje.
+> Proto výběr nejlepšího řešení náleží přislibujícímu, ačli ovšem
+> nestanovil podmínky, podle nichž má být vyhodnocení provedeno.
+> Vyhodnocení přislibujícího, bylo-li provedeno podle stanovených
+> podmínek, nemůže soud co do výsledku přezkoumávat. Podmínkou platnosti
+> relativního veřejného příslibu je určení doby, po kterou se lze o cenu
+> ucházet. To je nezbytné, protože jinak by přislibující mohl vyhodnocení
+> došlých řešení odkládat s poukazem, že v budoucnu může dojít návrh
+> řešení ještě lepšího.
+>
+> Platný občanský zákoník upravuje relativní veřejný příslib v § 847 až
+> 849 jako veřejnou soutěž. Takto zvolená úprava má své kořeny v někdejším
+> občanském zákoníku z r. 1950, který v rámci veřejného příslibu (§ 506 až
+> 508) upravil v ust. § 508 odst. 2 také veřejnou soutěž s odůvodněním v
+> důvodové zprávě, že se tak „děje k podpoře pracovní soutěživosti, která
+> je důležitým činitelem v socialistickém podnikání". Pod vlivem této teze
+> a v jejím duchu upravil občanský zákoník z r. 1964 jen veřejnou soutěž,
+> již mohly vyhlašovat pouze socialistické organizace. Platná
+> občanskoprávní úprava odděluje veřejnou soutěž a veřejný příslib od
+> účinnosti novely č. 509/1991 Sb., která oba instituty recipovala do
+> občanského zákoníku ze zrušeného zákoníku mezinárodního obchodu, aniž
+> odstranila některé deformace. Proto se osnova vrací k tradičnímu řešení
+> a navrhuje upravit obě formy veřejného příslibu tak, že vypsání odměny
+> představuje úpravu obecnou a pro účely vypsání ceny se stanovují
+> nezbytné odchylky. (Označení „veřejná soutěž" nemůže být zachováno,
+> neboť veřejná soutěž představuje jiný institut.) Zvláštní úprava
+> zadávání veřejných zakázek není návrhem této úpravy dotčena.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2276,6 +3890,21 @@ Veřejný příslib podle § 2884 je závazný jednostranný úkon: splněním v
 - **Splnil první** → nárok jemu;
 - Pokud splnili **současně** → rovným dílem (nebo losem dle § 2887).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2854 až 2859“ (dnešní § 2884—2889) — viz § 2884.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2854 až 2859“ (dnešní § 2884—2889) — viz § 2884.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2854 až 2859“ (dnešní § 2884—2889) — viz § 2884.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2854 až 2859“ (dnešní § 2884—2889) — viz § 2884.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2854 až 2859“ (dnešní § 2884—2889) — viz § 2884.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2860 až 2863 návrhu — dnešní § 2890—2893):**
+
+> Návrh ustanovení o slibu odškodnění je převzat z platného obchodního
+> zákoníku (§ 725 až 728).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2496/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D8D83B5E7707FF49C1258B9B004D6D4B?openDocument) — *Smlouva pojistná Náklady řízení Slib odškodnění*
@@ -2325,6 +3954,10 @@ Vypsání ceny (§ 2887) je kvalifikovaný veřejný příslib vyžadující uve
 **§ 2893**:
 > Příjemce slibu učiní včas na účet slibujícího taková opatření, aby rozsah škody byl co nejmenší.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2860 až 2863“ (dnešní § 2890—2893) — viz § 2890.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2860 až 2863“ (dnešní § 2890—2893) — viz § 2890.
+
 ### § 2891 — Definice
 
 > Vyhlašuje-li někdo veřejně soutěž o nejlepší dílo nebo úkon, zavazuje se zaplatit cenu vítězi a vyrovnat se i s ostatními úspěšnými soutěžícími podle vyhlášených pravidel.
@@ -2343,6 +3976,8 @@ Vypsání ceny (§ 2887) je kvalifikovaný veřejný příslib vyžadující uve
 - **Logo soutěže**;
 - **Veřejné zakázky** (regulované zvláštním zákonem č. 134/2016 Sb. o zadávání VZ);
 - **Vědecké soutěže o cenu** (např. Nobelova cena formálně mimo OZ, ale paralela).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2860 až 2863“ (dnešní § 2890—2893) — viz § 2890.
 
 **Judikatura (z místních zdrojů):**
 

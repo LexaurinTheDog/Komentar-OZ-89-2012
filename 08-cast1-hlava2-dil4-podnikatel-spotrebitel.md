@@ -53,6 +53,72 @@ Závěr Hlavy II přináší **dvě úzce propojené kategorie osob soukromého 
 - **Zákon č. 229/2002 Sb. o finančním arbitrovi** — mimosoudní řešení sporů spotřebitel × finanční instituce;
 - **Nařízení EU 2018/302** o geo-blockingu, **2019/1150** o platformách atd.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 412 návrhu — dnešní § 419):**
+
+> Navrhuje se vymezit v jediném ustanovení tohoto dílu pojem spotřebitele,
+> protože tento pojem má význam nejen pro příslušná ustanovení
+> navrhovaného zákona, ale pro celé soukromé právo a konec konců i pro
+> příslušné právní předpisy z oboru práva veřejného. Kromě toho jde o
+> párový pojem k pojmu podnikatele, kterému se věnují ustanovení
+> následujícího dílu. Pojetí spotřebitele se tak vymezuje proti pojmu
+> podnikatele v následujícím ustanovení a naopak. Obdobně postupuje např.
+> německý občanský zákoník v § 13 a 14.
+>
+> Navržené ustanovení vymezuje spotřebitele shodně s komunitárním právem,
+> zejména pokud jde o úpravu směrnic 93/13/EHS o nepřiměřených podmínkách
+> ve spotřebitelských smlouvách, 85/577/EHS o ochraně spotřebitele v
+> případě smluv uzavřených mimo obchodní prostory, 97/7/ES o ochraně
+> spotřebitele v případě smluv uzavíraných na dálku a dalších.
+>
+> Platný občanský zákoník definuje spotřebitele dvojím způsobem: v § 52
+> odst. 3 jako osobu, která při uzavírání a plnění smlouvy nejedná v rámci
+> své obchodní nebo jiné podnikatelské činnosti, ale v § 54a odst. 4 písm.
+> c) jako fyzickou osobu, která při uzavírání a plnění smlouvy o
+> finančních službách uzavíraných na dálku nejedná v rámci své obchodní
+> nebo jiné podnikatelské činnosti. Vady tohoto pojetí spočívají především
+> v tom, že tato různá pojetí znevýhodňují podnikání v oblastech
+> podléhajících obecné úpravě v § 53 až 54 platného občanského zákoníku
+> nejen proti podnikání v oblasti finančních služeb kontrahovaných na
+> dálku, ale i proti podnikání v oborech upravených ve speciálních
+> zákonech jako jsou zák. č. 145/2010 Sb., o spotřebitelském úvěru \[§ 3
+> písm. a)\], a zák. č. 127/2005 Sb., o elektronických komunikacích \[§ 2
+> odst. 1 písm. d)\], které spotřebitele vymezují jako fyzickou osobu.
+> Široké pojetí spotřebitele zahrnující i právnické osoby není v souladu s
+> judikaturou Evropského soudního dvora, který vyložil v případu C 541 a
+> 542/99 Cape and Idealservice MN RE pojem spotřebitele tak, že jím může
+> být jen osoba přirozená a v některých dalších případech zhodnotil
+> přísnější ochranu spotřebitele jako nesprávné provedení směrnice
+> narušující vnitřní trh Evropských společenství. Platná úprava v
+> citovaných ustanoveních však současně pojem podnikatele zužuje v tom, že
+> jeho osobní status spojuje s uzavíráním a plněním smlouvy, což není
+> přesné.
+>
+> Shodně s příslušnými směrnicemi i s trendy na nadnárodní úrovni (návrh
+> evropského občanského zákoníku; *Draft Common Frame of Reference*) se
+> proto navrhuje vzít za základ obecné úpravy pojetí, že spotřebitelem je
+> člověk jako osoba fyzická, přirozená, která s podnikatelem uzavírá
+> smlouvu nebo s ním jedná, přičemž jednáním se rozumí jak jednání
+> faktické, tak jednání právní. Spotřebitelem je ovšem jen člověk, který
+> takto s podnikatelem jedná mimo rámec vlastní podnikatelské činnosti. Z
+> obdobného pojetí vychází právní úprava německá (§ 13 BGB) nebo
+> nizozemská (čl. 7:5 BW). Navržená úprava má vazbu na ustanovení o
+> ochraně spotřebitele v dílu čtvrtém první hlavy čtvrté části návrhu. Tím
+> samozřejmě není vyloučena ochrana právnických osob, zvláště právnických
+> osob, které nepodnikají, ba ani ochrana těch podnikatelů, kteří se za
+> určité situace ocitnou v postavení slabší strany (typicky uzavírá-li
+> smlouvu právnická osoba nebo podnikatel v pozici neprofesionála s
+> osobou, která je v daném oboru profesionálem). Těmto osobám bude náležet
+> ochrana podle obecných ustanovení, nikoli podle zvláštní úpravy ochrany
+> spotřebitele.
+>
+> Navržené ustanovení má podstatný význam pro soukromoprávní ochranu
+> spotřebitele. Pokud jde o ochranu spotřebitele z pozice práva veřejného,
+> zůstává nedotčeno pojetí spotřebitele z hlediska práva správního \[zák.
+> č. 634/1992 Sb., o ochraně spotřebitele definuje spotřebitele v § 2
+> odst. 1 písm. a) jako fyzickou osobu, která nejedná v rámci své
+> podnikatelské činnosti nebo v rámci samostatného výkonu svého
+> povolání\], popřípadě práva trestního.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 1972/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBD1A0ACDF8584DEC1258A83001B8676?openDocument) — *Exekuce Spotřebitel Podnikání Rozhodčí doložka Vady řízení*
@@ -146,6 +212,64 @@ Rozšíření zahrnuje:
 
 **Praktický dopad rozšíření**: pro účely B2C smluv se za podnikatele považuje **i osoba bez živnosti**, pokud objektivně jedná podnikatelsky. Toto chrání spotřebitele před obcházením zákona deklarací „nejsem podnikatel".
 
+**Důvodová zpráva (sněmovní tisk 362, k § 413 až 415 návrhu — dnešní § 420—422):**
+
+> Ve shodě s věcným záměrem jsou do osnovy zařazena ustanovení o
+> podnikatelích. Důvod je zejména v tom, že zásadní unifikace úpravy
+> soukromých obligací, včetně úpravy tzv. jednostranných obchodů a
+> základní úpravy ochrany spotřebitele jako slabší smluvní strany, v
+> občanském zákoníku vyžaduje pojmové vymezení podnikatele již zde.
+> Samotný pojem „podnikatel" se zachovává jako v praxi vžitý, osnova se
+> nevrací k tradičnímu pojetí obchodníka.
+>
+> Navrhuje se opustit dosavadní koncepci § 2 obchodního zákoníku,
+> opírající se jako o jednu z hlavních myšlenek, že podnikatelem je osoba
+> nadaná podnikatelským oprávněním. Nově se navrhuje stanovit jako
+> základní kritérium, že podnikatelem je ten, kdo provozuje podnikatelskou
+> činnost, přičemž se vymezují charakteristické znaky této činnosti.
+> Určitá osoba je ovšem považována za podnikatele jen se zřetelem ke své
+> podnikatelské činnosti. Pojmové pojetí podnikatele se pro účely ochrany
+> spotřebitele navrhuje rozšířit tak, aby pojem byl při ochraně
+> spotřebitele vykládán konformně s evropským právem; spotřebitel musí být
+> chráněn i v případech, kdy se ocitne v právním styku s osobou, pro
+> kterou není kritérion zisku významné: např. při poskytování veřejné
+> služby nebo při obecně prospěšné činnosti (např. při provozu nemocnic,
+> veřejné dopravy, při provozování veřejně prospěšných ústavů) osobami,
+> které ve vztahu k této činnosti status podnikatele nemají, např. proto,
+> že náleží do veřejného sektoru. Např. směrnice Rady 93/13/EHS používá v
+> této souvislosti výraz „veřejnoprávně vlastněná" (*publicly owned*)
+> osoba, což z hlediska české právní terminologie převzít nelze, protože
+> osobu nelze vlastnit. Proto např. polština volí v dané souvislosti výraz
+> *bez względu na to, czy należy do sektora publicznego,* němčina odkazuje
+> na veřejnoprávní oblast (*öffentlich-rechtlichen Bereich*) atp. Návrh se
+> spokojuje s výrazem „každá osoba", kterým se dává najevo, že její
+> soukromoprávní nebo veřejnoprávní základ není v dané souvislosti
+> významný; významné je, že uzavírá smlouvy s určitým obsahem.
+>
+> Na toto základní vymezení navazuje § 414. Zde se předně stanoví, že se
+> vlastnost podnikatele vždy přičítá tomu, kdo je zapsán v obchodním
+> rejstříku. Podmínky pro zápis do obchodního rejstříku a povinnost zapsat
+> se do něho stanoví speciální rejstříkový zákon. Přičtení vlastnosti
+> podnikatele určité osobě má právní význam ve vazbě na konkrétní
+> oprávnění a povinnosti. Z toho důvodu se navrhuje stanovit, že v
+> pochybnostech se pro takový konkrétní případ přisoudí vlastnost
+> podnikatele vždy tomu, kdo disponuje příslušným podnikatelským
+> oprávněním. Toto kritérium je však bráno pro oblast soukromého práva
+> jako sekundární, protože zde rozhoduje především, jak se určitá osoba v
+> právním styku fakticky chová.
+>
+> Podnikatel vystupuje v právním styku pod vlastním jménem. Nerozlišuje se
+> tu přitom mezi podnikajícími osobami fyzickými a právnickými, resp. mezi
+> názvy těchto a jmény oněch osob, neboť vzhledem k formulaci v § 132
+> postačí mluvit jen o jménu. Po zkušenostech s úpravou téže problematiky
+> v zák. č. 367/2000 Sb. se zdůrazňuje, že podnikatel může použít
+> odlišující dodatky blíže charakterizující osobu podnikatele, popř. závod
+> či jeho umístění. Tím se vylučují dodatky klamavé. Volbu těchto, ale i
+> zaměnitelných dodatků vylučuje také úprava nekalé soutěže. Skutečnost,
+> že podobná označení chrání úprava zákazu nekalé soutěže, není zde
+> zvláště zdůrazňována, neboť by se jednalo o pouhé upozornění bez
+> normativního obsahu.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 651/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-651-14_1) — usnesení, 10. 7. 2014
@@ -227,6 +351,8 @@ Podnikatelská povaha podle § 420 odst. 1 se posuzuje materiálně — podle fa
 - **Živnostenský rejstřík** — zákon č. 455/1991 Sb.;
 - **Rejstříky regulovaných profesí** (advokátů ČAK, lékařů ČLK, notářů NK ČR).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 413 až 415“ (dnešní § 420—422) — viz § 420.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 NSCR 173/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98498F7EB5F930DBC125842D00236975?openDocument) — *Insolvence Oddlužení*
@@ -291,6 +417,8 @@ Zápis v obchodním rejstříku zakládá nevyvratitelnou domněnku podnikatele 
 **Default**: podnikatel-FO bez obchodní firmy jedná **pod osobním jménem** (například „Jan Novák — pekař" v právním styku používá jméno „Jan Novák").
 
 **Volitelné dodatky**: lze připojit identifikační doplňky (např. „Jan Novák — Pekařství U Dvou kohoutů"). **Limit**: dodatky nesmí být **klamavé** (např. „Jan Novák — Mezinárodní pekařský koncern" pro místní pekařství by bylo klamavé).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 413 až 415“ (dnešní § 420—422) — viz § 420.
 
 **Judikatura (z místních zdrojů):**
 
@@ -359,6 +487,42 @@ Podnikatel-FO bez obchodní firmy jedná pod vlastním jménem; dodatky jsou př
 
 Obojí lze mít současně a vzájemně se doplňují.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 416 až 418 návrhu — dnešní § 423—425):**
+
+> Právní úprava obchodní firmy je zařazena k obecným ustanovením o
+> podnikatelích, protože je s obecným pojmem podnikatele jako základní
+> institut pevně spjata, a nehodí se tudíž zařazovat ustanovení o obchodní
+> firmě do zákona upravujícího postavení obchodních společností nebo
+> družstva. V návrhu nové zákonné úpravy dochází proti dosavadnímu stavu k
+> některým podstatným posunům. Návrh změn bere v úvahu britské zkušenosti
+> a reaguje také na německé a rakouské zkušenosti z poslední doby.
+> Koncepčně dochází k významnému posunu, který je do značné míry již dnes
+> předjímaný obchodní a podnikatelskou praxí. Právo k obchodní firmě se
+> nechápe výlučně jako právo osobní, ale spíše jako právo majetkové; proto
+> je firma víc uvolněna pro majetkové dispozice, ať již se uskuteční
+> samostatně, nebo v rámci obchodního závodu, se kterým je spojena.
+>
+> Obchodní firma je spjata s podnikatelem zapsaným v obchodním rejstříku.
+> Ať již se podnikatel zapisuje do obchodního rejstříku dobrovolně nebo
+> povinně, zapíše do něho i své jméno nebo jiné označení, které se v
+> důsledku toho změní v obchodní firmu.
+>
+> Ochrana obchodní firmy náleží tomu, kdo ji po právu použil poprvé. Pokud
+> jde o katalog práv osoby dotčené porušením jejího práva k firmě, neuvádí
+> se duplicitně ke stejnému katalogu u práv z nekalé soutěže, jak je tomu
+> dnes v § 12 a 53 obchodního zákoníku, ale odkazuje se na úpravu nekalé
+> soutěže přímo. Věcně se ale nic nemění.
+>
+> Vychází se z pojetí jediné firmy. U právnické osoby, která je
+> podnikatelem, jsou její název i obchodní firma totožné. U člověka -
+> podnikatele (podnikatele - jednotlivce) se však na tomto požadavku
+> netrvá, a jeho obchodní firma tedy nemusí být totožná s jeho jménem:
+> veřejnost však musí být schopna rozpoznat z jeho označení, že se jedná o
+> podnikatele - jednotlivce; připustí se tedy i obecně vžité pseudonymy
+> apod. Pro jednotlivé obchodní firmy však platí stejně jako dosud zásada
+> nezaměnitelnosti (která chrání především podnikatelské prostředí) a
+> zákaz klamavosti (který sleduje především ochranu zákaznické veřejnosti.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 2219/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F531BE31A3E8CC7EC12580030025EFC2?openDocument) — *Obchodní firma Obchodní jméno Ochrana názvu právnické osoby Ochranné známky Pobočka (o.…*
@@ -421,6 +585,8 @@ Obchodní firma je jméno zapsané v OR; ochrana náleží tomu, kdo ji po práv
    - Právní formě.
 
 **Spory o zaměnitelnost** rozhoduje soud (žaloba z nekalé soutěže — § 2976—2990, zejména § 2981 — vyvolání nebezpečí záměny).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 416 až 418“ (dnešní § 423—425) — viz § 423.
 
 **Judikatura (z místních zdrojů):**
 
@@ -485,6 +651,8 @@ Obchodní firma podléhá dvěma kogentním limitům: nesmí být zaměnitelná 
 
 **Firmy FO bez jména** (odst. 2): pokud se FO zapíše pod fantasy názvem (např. „BAKERY HOUSE"), **musí být zřejmé, že nejde o PO**. Typicky: připojení označení „— Jan Novák" nebo „IČO 12345678".
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 416 až 418“ (dnešní § 423—425) — viz § 423.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [9 Cmo 67/2025-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=5b301b22-cb1b-4740-b68b-146b45ce08fd) — 2. 9. 2025
@@ -537,6 +705,20 @@ Firma FO se zpravidla tvoří jménem; po jeho změně lze pokračovat pod dří
 **Holdingové struktury, koncerny, franšízy** — povolené sdílení **prvků firmy**, ale s podmínkou:
 - **Veřejnost musí odlišit** jednotlivé subjekty;
 - Typicky se používá **kombinace shodného prvku + odlišení** (např. „ABC Group, a.s." vs. „ABC Industries, s.r.o." vs. „ABC Services, s.r.o.").
+
+**Důvodová zpráva (sněmovní tisk 362, k § 419 návrhu — dnešní § 426):**
+
+> Vzhledem k existenci, četnosti a stále narůstajícímu vlivu
+> podnikatelských seskupení se navrhuje převzít z platné právní úpravy
+> pravidlo, že osoby spjaté do podnikatelského seskupení mohou ve svých
+> jménech či firmách používat shodné prvky. Ale i v takovém případě platí
+> zákaz zaměnitelnosti: veřejnost musí být s to i tak jednotlivé členy
+> seskupení odlišit jako různé osoby. Navržené ustanovení vyjadřuje, že
+> pouhá obdoba firemního kmene nebo shoda firemních kmenů v některých
+> prvcích ještě sama o sobě nevede k zaměnitelnosti právně závadné. Proto
+> se ale současně dává najevo, že celkové uspořádání obchodních firem
+> jednotlivých členů podnikatelského seskupení musí být takové, aby jejich
+> obchodní firmy jako celek zaměnitelnost vyloučily.
 
 ##### F. Kazuistika
 
@@ -591,6 +773,45 @@ V podnikatelském seskupení (koncernu) mohou firmy sdílet shodné prvky, je-li
    - **Povinná zmínka o nástupnictví** (např. „ABC, s.r.o. — právní nástupce XYZ, s.r.o.").
 
 2. **Přeměna PO** (odst. 2) — automatický přechod na nástupce (s jeho souhlasem). Při více nástupcích bez určení → **nepřejde na žádného** (zachování právní jistoty třetích osob, kteří by jinak nevěděli, ke kterému nástupci se obrátit).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 420 návrhu — dnešní § 427):**
+
+> Problematika staré obchodní firmy zůstává zásadě opticky nezměněna.
+> Přesto i tu dochází k určitým posunům. Rozdíl je především v tom. že se
+> k převzetí staré firmy nevyžaduje souhlas v písemné formě; postačí i
+> souhlas ústní nebo konkludentní. Je-li souhlas s využitím obchodní firmy
+> dán, nemůže být odvolán, ledaže jsou pro to dány důvody podle zákona
+> (tj. jak důvody zákonem výslovně stanovené, tak i ujednané); to má
+> význam pro osoby, které souhlas s využitím obchodní firmy získaly a
+> kterým by odvolání souhlasu mohlo způsobit újmu.
+>
+> Již zdůrazněný posun pojetí obchodní firmy jako majetkové hodnoty se
+> projevuje v absenci zákazu jejího samostatného převodu (dnes § 11 odst.
+> 4 obchodního zákoníku, věta první). Protože návrh toto zákazové právní
+> pravidlo nepřejímá a volí mlčení, uplatní se zásada, že dovoleno je vše,
+> co není zakázáno.
+>
+> Situace podnikatelů - jednotlivců a podnikatelů - právnických osob se v
+> souvislosti se starou obchodní firmou rozlišuje víc než dosud.
+>
+> Dojde-li ke změně jména člověka, který je podnikatelem, nezachovává se
+> pro takový případ dosavadní úprava v 11 odst. 2 obchodního zákoníku
+> zakládající povinnost připojit k obchodní firmě dodatek s novým jménem.
+> Věcný důvod této nové úpravy se opírá o skutečnost, že totožnost
+> podnikající osoby zůstává nezměněna. Klamavost či uvádění takovou firmou
+> v omyl tedy nepřichází v úvahu. Proto např. § 21 německého obchodního
+> zákoníku nebo čl. 964 švýcarského zákona o obligačním právu (páté části
+> švýcarského občanského zákoníku) obdobný dodatek nevyžadují. Obdobné
+> řešení se navrhlo již v § 31 osnovy československého obchodního zákona z
+> r. 1937.
+>
+> Přechod obchodní firmy na právního nástupce zůstává zachován, avšak s
+> tím rozdílem, že se pro případ přeměny právnické osoby rozdělením a s
+> více právními nástupci vyžaduje jasné a včasné určení, kdo obchodní
+> firmu převezme. Chybí-li takové určení, znamená to, že obchodní firma na
+> žádného právního nástupce nepřejde a uvolní se. Ochrana obchodní firmy
+> po určitou dobu po zániku osoby, která ji po právu měla - jak upravuje
+> např. estonský obchodní zákoník - zaváděna není.
 
 **Judikatura (z místních zdrojů):**
 
@@ -653,6 +874,12 @@ Smluvní nabytí obchodní firmy vyžaduje souhlas předchůdce (či jeho nástu
 **Aktivní legitimace**: nositel jména **nebo jeho právní nástupce** (zejména dědicové po smrti — ochrana posmrtné pověsti).
 
 **Důsledek odvolání**: PO musí **změnit firmu** (jinak žaloba na ochranu osobnosti — § 78). Změna v OR vyžaduje aktualizaci stanov / zakladatelské listiny.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 421 návrhu — dnešní § 428):**
+
+> Z platného obchodního zákoníku (§ 11 odst. 5) se s některými upřesněními
+> přejímá právní pravidlo o udělení a odvolání souhlasu s užitím jména
+> osoby v obchodní firmě právnických osob.
 
 **Judikatura (z místních zdrojů):**
 
@@ -723,6 +950,51 @@ Podnikatel **nemůže namítat skutečné sídlo** vůči tomu, kdo se v dobré 
 - **Doručování soudních a jiných písemností** (zákon o doručování, OSŘ § 46);
 - **Datové schránky** (§ 17 zákona č. 300/2008 Sb.);
 - **Příslušnost soudu** v obchodněprávních sporech (§ 85 OSŘ — sídlo PO/podnikatele).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 422 až 428 návrhu — dnešní § 429—435):**
+
+> Ustanovení § 423 a 424 stanovují obecná pravidla pro zastoupení
+> podnikatelů v právním styku. Protože se jedná o generální úpravu,
+> vztaženou ke všem podnikatelům, navíc stavěnou analogicky k obecné
+> úpravě jednání právnických osob, je její návrh zařazen do občanského
+> zákoníku.
+>
+> Na úpravu zastoupení podnikatelů navazuje § 425 o zákazu soutěže
+> podnikatelových zástupců. Obecná konstrukce zakládá podnikateli nárok
+> dožadovat se zdržení v protiprávním jednání. Odstranění závadného stavu
+> je v obecné úpravě redukováno na vydání prospěchu z nedovolené činnosti
+> získaného zástupcovým nezákonným jednáním, ať již jím, nebo osobou
+> třetí. Namísto tohoto plnění lze podle speciální konstrukce odst. 3
+> požadovat náhradu škody; to však jen tehdy, prokáže-li podnikatel při
+> uplatnění nároku na náhradu škody alespoň nedbalost žalovaného.
+>
+> Ustanovení § 426 zakotvuje obecnou ochranu slabší strany. Tato obecná
+> úprava nemíří jen na ochranu spotřebitele (byť je toto hledisko v odst.
+> 2 akcentováno), ale sleduje ochranu generální povahy. Toto ustanovení je
+> základní a od jeho maximy se odvíjí podrobnější úprava ochrany slabší
+> strany v části čtvrté zákoníku.
+>
+> Úprava místa podnikání vychází z úpravy současné. Avšak obdobně jak
+> osnova již dříve prohlásila název právnické osoby za její jméno, tak
+> také zde prohlašuje místo podnikání podnikajících fyzických osob za
+> jejich sídlo (s inspirací v koncepci již dříve prosazené např. v zákoně
+> o advokacii). V důsledku toho odpadne otrocké rozlišování sídla
+> podnikající právnické osoby a místa podnikání podnikatele, který je
+> osobou fyzickou, takže tam, kde zákon bude mluvit o podnikatelích
+> souhrnně, vystačí v dané souvislosti s pojmem „sídlo".
+>
+> Protože zákoník obsahuje ustanovení o písemnostech používaných
+> právnickými osobami v právním styku, obsahuje i párové ustanovení o
+> písemnostech používaných v právním styku podnikateli (obchodních
+> listinách). Tato úprava přejímá podstatnou část čl. 4 První směrnice
+> Rady EHS v oblasti práva společností č. 68/151/EHS v platném znění, je
+> to však ustanovení základní, proto se v návrhu tohoto ustanovení neuvádí
+> omezení, že výši základního kapitálu lze na obchodních písemnostech
+> uvést jen, je-li zcela splacen; tento požadavek bude zakotven
+> v obchodním zákoně v návaznosti na úpravu základního kapitálu. Povinné
+> údaje lze na obchodních listinách doplnit také dalšími údaji (slovními,
+> číselnými, obrazovými apod.), nelze je však uzpůsobit tak, aby celkový
+> dojem veřejnost mátl a působil klamavě.
 
 **Judikatura (z místních zdrojů):**
 
@@ -795,6 +1067,8 @@ Příklad: pokladník v supermarketu má implicitní oprávnění uzavírat kupn
 
 **Risk allocation**: podnikatel nese riziko **organizace svého provozu** — pokud někdo neoprávněně vystupuje za firmu v provozovně, je to vnitřní problém podnikatele.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 699/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0EF625A9E5DAF444C1258C92004D0946?openDocument) — *Podnikatel Zastoupení Přípustnost dovolání*
@@ -851,6 +1125,8 @@ Osoba pověřená určitou činností zastupuje podnikatele ve všech jednáníc
 **Výjimka: zlá víra třetí osoby** — věděla nebo musela vědět o překročení.
 
 Příklad: prodavač má interní limit 10 000 Kč na jednu transakci. Prodá zákazníkovi za 50 000 Kč. Smlouva **zavazuje podnikatele**, ledaže zákazník o limitu věděl (např. byl předem informován v zaslaném dokumentu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
 
 **Judikatura (z místních zdrojů):**
 
@@ -926,6 +1202,8 @@ Překročení zástupčího oprávnění zástupcem podnikatele zavazuje podnika
 - **Objektivní**: 1 rok od jednání zástupce.
 
 **Praktický význam**: chrání podnikatele před vykrádáním jeho byznysu zaměstnanci a obchodními zástupci, kteří získali know-how a kontakty.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1004,6 +1282,8 @@ Zástupce nesmí bez souhlasu podnikatele konkurovat v oboru obchodního závodu
 - NS 23 Cdo 4136/2018 — § 433 použit pro výklad smlouvy mezi velkým dodavatelem a malou rodinnou firmou; soud uznal pozici malé firmy jako „slabší strany v hospodářském styku";
 - NS 23 Cdo 1985/2020 — odlišení podnikatele jednajícího v rámci své činnosti (rovný partner) vs. mimo ni (slabší strana).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1761/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2F02BF39B10C8904C1258B85004D2846?openDocument) — *Nepřípustnost dovolání Dobré mravy Smlouva o úvěru Neplatnost právního jednání (o. z.)*
@@ -1071,6 +1351,10 @@ Zástupce nesmí bez souhlasu podnikatele konkurovat v oboru obchodního závodu
 > (1) Každý podnikatel musí uvádět na obchodních listinách a v rámci informací zpřístupňovaných veřejnosti prostřednictvím dálkového přístupu své jméno a sídlo. Podnikatel zapsaný v obchodním rejstříku uvede na obchodní listině též údaj o tomto zápisu včetně oddílu a vložky; podnikatel zapsaný v jiném veřejném rejstříku uvede údaj o svém zápisu do tohoto rejstříku; podnikatel nezapsaný ve veřejném rejstříku uvede údaj o svém zápisu do jiné evidence. Byl-li podnikateli přidělen identifikující údaj, uvede i ten.
 >
 > (2) Na listině podle odstavce 1 lze uvést i další údaje, nejsou-li způsobilé vyvolat klamavý dojem.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 422 až 428“ (dnešní § 429—435) — viz § 429.
 
 > Konec kapitoly 08. Pokračování: kapitola 09 — Hlava III: Zastoupení (§ 436—488) — smluvní zastoupení, prokura, zákonné zastoupení, opatrovník, opatrovnická rada.
 

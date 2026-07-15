@@ -50,6 +50,46 @@ Závěrečná kapitola Části první OZ pokrývá tři vzájemně související
 
 **Pluralita právních skutečností**: některé právní následky vznikají z **kombinace jednání + události** (např. uznání závazku + uplynutí promlčecí lhůty = obnovení nároku § 653).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 592 až 600 návrhu — dnešní § 600—608):**
+
+> Ustanovení § 592 uvozuje díl o právních událostech s tím, že skutečnosti
+> nezávislé na lidské vůli (právní události) vyvolávají právní následky v
+> podobě vzniku, změnu nebo zániku oprávnění nebo povinnosti, stanoví-li
+> tak zákon nebo dohoda stran.
+>
+> Další ustanovení tohoto dílu se věnují jen významu času v právu.
+>
+> Osnova rozlišuje mezi dobami a lhůtami. Dobou se rozumí časový úsek,
+> jehož uplynutím zaniká právo nebo povinnost bez dalšího, aniž je potřeba
+> pro vyvolání tohoto právního následku zvláště projevit vůli (§ 595).
+> Naproti tomu jako lhůta se označuje časový úsek stanovený k uplatnění
+> práva u druhé strany, popř. u jiné osoby, anebo u soudu nebo jiného
+> příslušného orgánu.
+>
+> Ustanovení § 593 sleduje stanovit, kdy oprávnění nebo povinnosti
+> vznikají nebo zanikají, spojuje-li se takový vznik nebo zánik s určitým
+> dnem. Konstrukce tzv. „nulté hodiny" však nevylučuje existenci
+> speciálních úprav pro zvláštní situace (tak ostatně pro určité případy i
+> osnova sama).
+>
+> Ustanovení § 594 vyjadřuje zásadu, že má-li být povinnost splněna - nebo
+> oprávnění vykonáno - v určitém období, neplyne z toho povinnost druhé
+> strany být za tím účelem k dispozici celý den, ale jen po tu jeho část,
+> kdy je namístě očekávat jednání dlužníka nebo věřitele podle životních
+> zvyklostí, popř. podle zavedené praxe stran. Obvyklou denní dobou se
+> rozumí i obvyklé provozní hodiny podnikatelů, popř. obvyklé provozní
+> hodiny různých institucí. Pokládá se za samozřejmé, že strany si mohou
+> ujednat i něco jiného.
+>
+> Z dosavadní úpravy se navrhuje převzít s některými upřesněními pravidla
+> pro počítání času. Navržená ustanovení § 600 se týká výslovně jen lhůt,
+> protože pro počítání dob se neuplatní: je-li např. ujednána doba nájmu
+> do určitého dne a je-li tímto dnem neděle, neprodlužuje se nájem do
+> nejbližšího následujícího pracovního dne. Nově se navrhuje stanovit, jak
+> se počítají lhůty stanovené v časových jednotkách kratších, než jsou
+> dny: je-li např. stanovena lhůta v délce 48 hodin, nejde o lhůtu dvou
+> dnů a počítá se jinak.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 1* [64 C 43/2018-64](https://rozhodnuti.justice.cz/rozhodnuti/?id=1fac1d98-4385-4564-bedb-765db14c1089) — *obnosové pojištění, peněžité plnění*
@@ -120,6 +160,8 @@ Závěrečná kapitola Části první OZ pokrývá tři vzájemně související
 
 Příklad: zánik smlouvy o dílo + vznik práva na zaplacení ceny → současně, koncem dne ukončení.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 1120/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A54A00EDD96AC4F5C1258BA2004D3AF2?openDocument) — *Právní nástupnictví*
@@ -181,6 +223,12 @@ Pamatuj: vznik = počátek dne, zánik = konec dne; návazná práva nastávají
 **§ 603 — Zánik uplynutím doby**: práva a povinnosti zanikají uplynutím doby, na kterou byly omezeny. Bez nutnosti zvláštního aktu — automatický zánik.
 
 **§ 604 — Změna v osobě**: změna věřitele nebo dlužníka (postoupení pohledávky, převzetí dluhu) **nemá vliv na běh doby / lhůty** — kontinuita.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
 
 **Judikatura (z místních zdrojů):**
 
@@ -252,6 +300,8 @@ Příklady:
 - Lhůta 3 měsíce od 15. 1. → konec **15. 4.**;
 - Lhůta 1 měsíc od 31. 1. → konec **28. 2.** (nebo 29. 2. v přestupném roce);
 - Lhůta 1 rok od 29. 2. 2024 → konec **28. 2. 2025**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
 
 **Judikatura (z místních zdrojů):**
 
@@ -325,6 +375,12 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 **Pozn.**: Toto pravidlo se vztahuje **jen na konec** lhůty — počátek lhůty může klidně být sobota / neděle.
 
 **§ 608 — Kratší jednotky**: lhůta v hodinách / minutách → od **okamžiku začátku** do **okamžiku konce** (přesně).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 592 až 600“ (dnešní § 600—608) — viz § 600.
 
 **Judikatura (z místních zdrojů):**
 
@@ -407,6 +463,40 @@ V praxi vždy nejprve vypočti konec lhůty dle § 605/606, poté ověř, zda ne
 - **Uznána dlužníkem** → obnova nároku (§ 653);
 - **Vázána zástavou / zajištěním** — věřitel se může uspokojit ze zástavy (§ 615).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 601 návrhu — dnešní § 609):**
+
+> Platná úprava promlčení (§ 100 odst. 1 obč. z., § 388 odst. 1 obch. z.)
+> staví na přístupu, že promlčí-li se právo, soud je k námitce dlužníka
+> nepřizná. Leč tento aspekt je jen dílčí; navíc se tím řeší otázka, jak
+> se má k promlčenému právu zachovat veřejná moc. Z hlediska soukromého
+> práva je podstatné, že dlužník není povinen plnit. Obdobný přístup mají
+> např. německý občanský zákoník nebo návrh všeobecného referenčního rámce
+> (§ 214 BGB, čl. III-7:501 DCFR). Promlčí-li se právo, dlužníkova
+> povinnost k plnění zaniká, jeho oprávnění plnit zůstává.
+>
+> Z toho důvodu návrh staví do čela úpravy promlčení dvě právní pravidla.
+> Za prvé, že pokud právo nebylo vykonáno v promlčecí lhůtě, promlčí se a
+> dlužník není povinen plnit. Za druhé, že pokud dlužník plnil po uplynutí
+> promlčecí lhůty, nemůže požadovat, aby mu plnění bylo vráceno.
+>
+> Zákonná ustanovení platných soukromoprávních předpisů používají výrazů
+> „lhůta" a „doba" vcelku libovolně. V souvislosti s promlčením se platný
+> občanský zákoník - obdobně jako jeho předchůdce z r. 1950 - ustálil na
+> výrazu „promlčecí doba". Stejný výraz zvolil i obchodní zákoník a pod
+> vlivem občanského zákoníku i nový zákoník práce. Naproti tomu někdejší
+> zákoník mezinárodního obchodu (zák. č. 101/1963 Sb.) i starý zákoník
+> práce znaly promlčecí lhůtu. Návrh důsledně rozlišuje právní význam
+> lhůty a doby. Lhůtou je čas vymezený určité osobě, aby si projevem vůle
+> zachovala vlastní právo. V ostatních případech jde o dobu. Oboje se
+> důsledně rozlišuje, tudíž se v osnově setkáme se záruční dobou, s
+> výpovědní dobou, s dobou prodlení, ale se lhůtou promlčecí, prekluzivní,
+> akceptační apod. Pak dává smysl i pravidlo § 122 odst. 3 platného
+> občanského zákoníku, které převzala. Připadne-li konec lhůty na sobotu,
+> neděli nebo svátek, pak se lhůta prodlužuje až do nejblíže následujícího
+> pracovního dne tak, aby ještě v tomto dni bylo možné právně jednat.
+> Připadne-li na sobotu, neděli nebo svátek konec doby, není důvod její
+> běh prodlužovat.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1200/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/43008903A884022DC1258941001E264C?openDocument) — *Promlčení*
@@ -469,6 +559,46 @@ Promlčené právo nezaniká — dlužník je chráněn jen námitkou. Kdo dobro
 - **Předběžné vzdání se** námitky je **neúčinné** (anti-fraud — chrání proti vyvíjení tlaku věřitele před uzavřením smlouvy).
 
 **§ 610 odst. 2 — Reciproční pravidlo u vzájemné restitutce**: pokud si strany vrací plnění z neplatné smlouvy / zrušeného závazku, soud uzná promlčení **jen pokud by je mohla namítnout i druhá strana** (symetrie).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 602 návrhu — dnešní § 610):**
+
+> V prvém odstavci se z platného práva (§ 100 odst. 1 obč. z., § 388 odst.
+> 1 obch. z.) přejímá právní pravidlo, podle něhož soud přihlédne k
+> promlčení, jen pokud dlužník vznese námitku promlčení. Protože nový
+> občanský zákoník opouští obecný zákaz vzdání se jakéhokoli práva, které
+> může vzniknout teprve v budoucnosti (platný občanský zákoník, jak plyne
+> z § 574 odst. 2 ve spojení s § 39 obč. z. a z § 40a obč. z. a contrario)
+> stíhá porušení takového zákazu absolutní neplatností), navrhuje se v
+> této souvislosti vyloučit možnost dlužníka vzdát se uplatnění námitky
+> promlčení předem. Stejný přístup má např. občanské právo Rakouska
+> (§ 1502 ABGB), Švýcarska (čl. 141 obligačního práva) nebo Polska (čl.
+> 119 polského občanského zákoníku), jakož i některé další zahraniční
+> úpravy. Navrhuje se tudíž stanovit, že se nepřihlíží k dlužníkovu
+> projevu, kterým se dlužník vzdá předem práva uplatnit námitku promlčení.
+> Důsledkem toho je, že se dlužník bude moci vzdát práva vznést námitku až
+> poté, co mohl promlčení namítnout poprvé, tedy až po uplynutí promlčecí
+> lhůty.
+>
+> Druhý odstavec přejímá z platného práva obsah § 107 odst. 3 obč. z.
+> Bylo-li plněno podle neplatné smlouvy nebo podle smlouvy, která byla
+> uzavřena jen zdánlivě, anebo bylo-li plněno ze závazku posléze
+> zrušeného, vzniká stranám povinnost vrátit si vzájemně plnění, která si
+> mezitím poskytly. Vzhledem k tomu, že k plnění a protiplnění může dojít
+> v různém čase, může dojít i k promlčení pohledávky jedné ze stran,
+> zatímco protipohledávka druhé strany zůstane ještě vymahatelná. Stejná
+> situace může nastat i při úplatném převodu vlastnického práva: je-li
+> smlouva neplatná, zůstává prodávajícímu vlastnické právo, může se
+> domáhat vindikace a toto jeho právo se nepromlčuje, zatímco právo
+> kupujícího na vrácení kupní ceny ano. Ustanovení § 107 odst. 3, jak
+> známo, v platném občanském zákoníku dlouho chybělo. Praktické obtíže s
+> tím spojené vyřešila nejprve judikatura. Konkrétně šlo o stanovisko
+> občanskoprávního kolegia Nejvyššího soudu ve zprávě Cpj 34/74 ze dne 28.
+> 3. 1975 (R 26/75, s. 275). Nejvyšší soud dospěl k závěru, že žalobě
+> prodávajícího na vrácení prodané věci by soud „mohl vyhovět jen tehdy,
+> kdyby ve výroku rozsudku mohl vyjádřit synalagmatický závazek obou
+> účastníků neplatné či zrušené smlouvy k vrácení plnění obou stran."
+> Odpovídající právní pravidlo bylo do zákona zařazeno novelou č. 131/1982
+> Sb.
 
 **Judikatura (z místních zdrojů):**
 
@@ -534,6 +664,85 @@ Promlčení je založeno na dispoziční zásadě: soud k němu přihlédne jen 
 - **Právo na rozdělení společné věci** (§ 1140 — spoluvlastník může kdykoli žádat);
 - **Právo na zřízení nezbytné cesty** (§ 1029);
 - **Právo na vykoupení reálného břemene** (§ 1305).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 603 návrhu — dnešní § 611):**
+
+> Návrh přejímá zásadu platného práva (§ 100 odst. 2 obč. z., věta první),
+> podle níž se promlčují majetková práva, ledaže zákon o některých z
+> těchto práv výjimečně stanoví, že promlčení nepodléhají. Do ustanovení
+> je doplněno právní pravidlo vztažené k nemajetkovým (osobním) právům
+> vycházející ze zásady opačné. Osobní práva se nepromlčují, ledaže zákon
+> výjimečně stanoví, že podléhají promlčení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 604 návrhu — dnešní § 612):**
+
+> Osobní práva nemajetkové povahy se nepromlčují. Je-li však na nich
+> způsobena újma, promlčí se právo na jednotlivá plnění vyplývající z této
+> újmy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 605 návrhu — dnešní § 613):**
+
+> Z § 98 platného zákona o rodině se přejímá právní pravidlo první věty
+> citovaného ustanovení. Ustanovení § 98 zákona o rodině v druhé větě
+> rovněž stanoví, že výživné lze zásadně přiznat jen ode dne zahájení
+> soudního řízení. Toto právní pravidlo nemá s promlčením nic společného.
+> Jde o vyjádření zásady *nemo pro praeterito alitur* (výživné za prošlý
+> čas se nehradí). Proto je zařazeno do společných ustanovení o výživném v
+> druhé části navrhovaného zákoníku společně s výjimkou z uvedené zásady
+> ve prospěch výživného dětí.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 606 návrhu — dnešní § 614):**
+
+> Z § 100 odst. 2 obč. z. se přejímá právní pravidlo o nepromlčitelnosti
+> vlastnického práva. Vlastnické právo je podle čl. 11 Listiny základních
+> práv a svobod jedním ze základních práv a jako takové je podle čl. 1
+> této Listiny nepromlčitelné.
+>
+> Ve vztahu k ochraně vlastnického práva se navrhuje opustit ukázkový
+> relikt právních přístupů tzv. socialismu k vlastnictví v podobě § 105
+> obč. z. zakotvujícího dnes promlčení práva oprávněného dědice na vydání
+> dědictví v tříleté lhůtě. S tímto pojetím přišel občanský zákoník z r.
+> 1950 (§ 558) recepcí ze sovětského práva. Šlo o převzetí stanoviska
+> Nejvyššího soudu RSFSR, který se 19. 4. 1926 usnesl, že se právo
+> oprávněného dědice na vydání dědického podílu (čl. 429 občanského
+> zákoníku RSFSR z r. 1922) promlčuje po třech letech (srov. *Procházka,
+> J.* Občanský zákon Ruské sovětské federativní socialistické
+> republiky. 1. vydání. Praha: Svoboda, 1946, s. 196). Na stejné řešení
+> přistoupil s malou změnou v r. 1964 i platný občanský zákoník. Dnešní
+> ustanovení § 105 obč. z. je v mezinárodním srovnání zcela ojedinělé.
+> Bylo kritizováno již dávno (*Čížkovská, V.* Právník, CIX, 1970, s. 214
+> an.) poukazem na vnitřní rozpor zákoníku, který vychází z koncepce, že
+> dědic nabývá dědictví smrtí zůstavitele, stává se tudíž vlastníkem - a
+> přesto se jeho nepromlčitelné vlastnické právo promlčuje ve třech
+> letech, dokonce i vůči tomu nepravému dědici, který získal dědictví
+> *mala fide.* Nadále se tedy nezamýšlí upravit promlčení práva na vydání
+> dědictví s tím, že pravý dědic má mít stejnou ochranu jako vlastník a
+> podle ustanovení o bezdůvodném obohacení.
+>
+> Uvedené pravidlo se navrhuje doplnit výčtem dalších majetkových práv,
+> která promlčení podléhat nemohou.
+>
+> Předně jde o právo domáhat se rozdělení společné věci. Takové právo se
+> vztahuje hlavně ke spoluvlastnictví, vyloučeny však nejsou ani jiné
+> případy. U spoluvlastnictví vzniká právo každého spoluvlastníka domáhat
+> se rozdělení společné věci již vznikem spoluvlastnictví, u spoludědiců
+> vzniká právo na rozdělení pozůstalosti již smrtí zůstavitele, přesto ani
+> dnes nikoho nenapadne, že by tato práva mohla být promlčena před zánikem
+> spoluvlastnictví nebo dříve, než dojde k rozdělení pozůstalosti. V tom
+> směru se tedy navrhuje výslovně vyjádřit jen to, o čem ani dnes nejsou v
+> praxi pochybnosti. Obdobnou úpravu mají např. rakouský (§ 1481) nebo
+> španělský (čl. 1965) občanský zákoník.
+>
+> Právo na zřízení nezbytné cesty vzniká společně s potřebou nezbytnou
+> cestu zřídit. Ani toto právo se nemůže promlčet, ale naopak trvá, dokud
+> trvá i potřeba k jejímu zřízení.
+>
+> Reálné břemeno zavazuje věcněprávně vlastníka věci k tomu, aby něco
+> konal ve prospěch osoby z reálného břemene oprávněné. Protiváhou
+> takového zásahu do osobní i vlastnické svobody je právo vlastníka
+> zatížené věci se z této povinnosti vykoupit. Toto právo vzniká vznikem
+> reálného břemene, ale dokud reálné břemeno trvá, trvá i právo na jeho
+> vykoupení, a tudíž se promlčet nemůže.
 
 **Judikatura (z místních zdrojů):**
 
@@ -610,6 +819,61 @@ Default: promlčují se majetková práva; klíčové výjimky (§ 614) jsou vla
 
 **§ 618 — Výmaz z veřejného seznamu** (typicky katastru): při promlčení práva zapsaného v VR / rejstříku zástav výmaz **na návrh osoby s právním zájmem**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 607 návrhu — dnešní § 615):**
+
+> Lakonické ustanovení posl. věty § 100 odst. 2 platného občanského
+> zákoníku vyvolává různé pochybnosti. Navrhuje se proto stanovit, nejen
+> že se zástavní právo nepromlčí dříve než příslušná pohledávka, ale
+> výslovně vyjádřit i to, že promlčení pohledávky nebrání věřiteli v
+> uspokojení ze zástavy. Stejné právní pravidlo obsahoval dříve zákoník
+> mezinárodního obchodu (§ 177), obdobné má německý občanský zákoník v §
+> 214. Zástavní dlužník může odvrátit uspokojení zástavního věřitele ze
+> zástavy, pokud mu složí cenu zastavené věci.
+>
+> Samo zástavní právo jako právo majetkové promlčení podléhá. Byla-li však
+> zástava dána věřiteli, případně třetí osobě k opatrování pro věřitele,
+> nepromlčí se zástavní právo, dokud tyto osoby mají zástavu u sebe.
+> Bylo-li zástavní právo zapsáno do veřejného seznamu nebo do rejstříku
+> zástav, promlčí se po deseti letech. V ostatních případech se zástavní
+> právo promlčí v obecné lhůtě.
+>
+> Pokud jde o zadržovací právo, ani to se nepromlčí, dokud má věřitel
+> zadrženou movitou věc u sebe, a i když se věřitelova pohledávka promlčí,
+> nebrání to uspokojení ze zadržené věci. V tom je obdoba s úpravou
+> promlčení zástavního práva, na niž poukazuje třetí odstavec.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 608 návrhu — dnešní § 616):**
+
+> Smlouvou o zajišťovacím převodu práva převádí poskytovatel jistoty
+> (dlužník nebo osoba třetí) věřiteli své právo s rozvazovací podmínkou,
+> že zajištěný dluh bude splněn. Skutečnost, že se věřitelova pohledávka
+> promlčí, nezakládá důvod domáhat se zpětného převodu jistoty, protože
+> trvá dluh, byť jako naturální, a trvá i právo splnění dluhu přijmout,
+> třebaže není vymahatelné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 609 návrhu — dnešní § 617):**
+
+> Z dosavadní úpravy promlčení v obchodním zákoníku se navrhuje převzít
+> obsah § 388 odst. 2. I věřiteli promlčené pohledávky se zachovává
+> možnost obrany nebo započtení vůči protipohledávce druhé strany. Vzorem
+> pro tuto úpravu v obchodním zákoníku byl čl. 25 odst. 2 tzv. New Yorské
+> úmluvy o promlčení (Úmluvy o promlčení při mezinárodní koupi zboží
+> vyhlášené pod č. 123/1988 Sb.), druhý odstavec se zčásti kryje s § 215
+> BGB i s některými dalšími zahraničními úpravami.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 610 návrhu — dnešní § 618):**
+
+> Do veřejných seznamů (jako jsou katastr nemovitostí, rejstřík ochranných
+> známek a podobné veřejnoprávní evidence) se zapisují některá
+> promlčitelná práva; buď s účinky konstitutivními, nebo deklaratorními.
+> Pro případ promlčení takového práva se zakládá osobě, která na tom má
+> právní zájem, právo domáhat se, aby bylo promlčené právo z veřejného
+> rejstříku vymazáno. Jde-li o právo, jehož vznik je vázán na zápis do
+> veřejného rejstříku, výmazem z veřejného rejstříku zanikne. To platí i o
+> zástavním právu zapsaném do rejstříku zástav. Jde-li o právo, jehož
+> zápis do veřejného rejstříku nemá konstitutivní účinky, pozbude výmazem
+> materiální publicitu a účinky veřejné víry.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3614/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E99C5D78F03FC0EEC12586E7004D1408?openDocument) — *Věcná břemena*
@@ -677,6 +941,38 @@ Zajištění přežívá promlčení osobní pohledávky: věřitel se může us
 
 **Návaznost na § 4** (domněnka rozumného člověka) — vědomost se přičítá podle objektivního standardu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 611 návrhu — dnešní § 619):**
+
+> Do prvního odstavce se z § 101 obč. z. a z § 391 odst. 1 obch. z.
+> přejímá myšlenka, že promlčecí lhůta počíná běžet ode dne, kdy právo
+> mohlo být poprvé uplatněno u příslušného orgánu veřejné moci. Tímto
+> orgánem je pravidelně soud, ledaže zákon stanoví něco jiného. V zákonném
+> textu není potřebné výslovně uvádět, že musí jít o orgán příslušný,
+> protože to se rozumí z povahy věci. Ačkoli navrhované ustanovení
+> výslovně uvádí jen orgán veřejné moci, uplatní se totéž právní pravidlo
+> i pro případ uplatnění práva v rozhodčím řízení, jak vyplývá ze
+> společných ustanovení v části páté.
+>
+> Druhý odstavec přijímá myšlenku, že ochrana soukromých práv vyžaduje,
+> aby oprávněná osoba měla možnost své právo uplatnit. V tom směru se
+> návrh inspiruje německou reformou úpravy promlčení, ke které došlo v r.
+> 2002 (§ 199 odst. 1 BGB). Navrhuje se tedy stanovit, že právo lze poprvé
+> uplatnit, pokud se oprávněná osoba dozví o okolnostech rozhodných pro
+> počátek běhu promlčecí lhůty, tedy pokud se dozví o vzniku nebo
+> existenci svého práva i osobě, proti které má být právo uplatněno.
+> Zároveň se nezamýšlí poskytovat ochranu osobě, která se z nedbalosti o
+> svá práva nestará. Proto se navrhuje stanovit alternativně počátek běhu
+> promlčecí lhůty objektivně dobou, kdy se oprávněná osoba o okolnostech
+> podstatných pro uplatnění práva dozvědět měla a mohla. Také německá
+> úprava stanoví v § 199 odst. 1 BGB počátek běhu promlčecí lhůty
+> alternativně. V našem právu tak již dnes činí § 398 obch. z. Může dojít
+> k tomu, že se oprávněná osoba dozví o svém právu a okolnostech, jejichž
+> znalost je potřebná pro jeho uplatnění, i dříve než jak by se stalo
+> podle objektivního hlediska, leč může k tomu dojít i později. Bude-li
+> právo uplatněno před orgánem veřejné moci a bude-li mezi účastníky
+> řízení sporné, kdy promlčecí lhůta počala běžet, posoudí to tento orgán
+> jako předběžnou otázku.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1592/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F56AA26826AF8286C1258D8E0052B08E?openDocument) — *Promlčení Pojištění*
@@ -740,6 +1036,31 @@ Obecný počátek promlčení je subjektivní: lhůta běží od okamžiku, kdy 
 **§ 621 — Bezdůvodné obohacení**: vědomost o **vzniku BO + osobě povinné** vydat.
 
 **§ 622 — Nezletilý**: u újmy na zdraví **nezletilého plně nesvéprávného** lhůta **nepočne běžet, dokud nenabude svéprávnosti** (max. do 18 let). Pokud svéprávnosti nenabude → do jmenování opatrovníka po dovršení zletilosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 612 a 613 návrhu — dnešní § 620—621):**
+
+> Shodně s § 106 odst. 1 a § 107 odst. 1 platného občanského zákoníku a s
+> § 398 platného obchodního zákoníku se navrhuje stanovit, jaké okolnosti
+> jsou rozhodné pro počátek běhu subjektivní promlčecí lhůty u práva na
+> náhradu škody nebo odčinění nemajetkové újmy a u práva na vydání
+> bezdůvodného obohacení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 614 návrhu — dnešní § 622):**
+
+> Při přípravě osnovy občanského zákoníku byla původně navržena recepce §
+> 208 BGB z německého práva. Podle § 208 BGB neběží u nedospělých osob
+> promlčecí lhůta ohledně jejich práv vzniklých v důsledku porušení jejich
+> sexuálního sebeurčení (*sexuelle Selbstbestimmung*), dokud nezletilý
+> nedospěje. V rekodifikační komisi však převládl názor, že záběr
+> ustanovení je příliš úzký a že má být vztaženo na jakoukoli újmu na
+> zdraví způsobenou nezletilým. Proto bylo upraveno tak, aby dopadalo na
+> jakýkoli případ újmy na zdraví způsobené těmto osobám. V těchto
+> případech počne promlčecí lhůta běžet až dnem, kdy se nezletilý stane
+> svéprávným, i když právo na náhradu újmy na zdraví vzniklo před touto
+> dobou. Promlčecí lhůta tedy počne běžet nejdříve nabytím plné
+> svéprávnosti u této osoby, přičemž současně musí být splněna obecně
+> stanovená podmínka vědomosti o okolnostech rozhodných pro uplatnění
+> práva.
 
 **Judikatura (z místních zdrojů):**
 
@@ -819,6 +1140,90 @@ U specifických nároků platí zvláštní počátky: náhrada škody (§ 620) 
 
 **§ 628 — Předběžné uplatnění**: u práv vyžadujících předchozí uplatnění u určité osoby — **ode dne uplatnění**.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 615 návrhu — dnešní § 623):**
+
+> Z ustanovení platného práva (§ 103 obč. z., § 392 odst. 2 obch. z.) se
+> přejímá právní pravidlo o promlčování dluhu rozloženého na postupná
+> dílčí plnění. Při návrhu ustanovení se bere v úvahu, že se dílčí plnění
+> netýkají jen peněžitých dluhů, proto se formuluje o dospělosti
+> jednotlivých plnění, nikoli o splátkách a jejich splatnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 616 návrhu — dnešní § 624):**
+
+> Navrhuje se stanovit, jak je tomu dosud (§ 100 odst. 3 obč. z., § 396
+> obch. z.), zvláštní počátek běhu promlčecí lhůty u práva na peněžní
+> prostředky uložené na účtu nebo s využitím zvláštní formy vkladu. Při
+> formulační úpravě se vzala v úvahu uveřejněná kritika obou ustanovení
+> (srov. *Pelikánová, I.* Komentář k obchodnímu zákoníku. 3. díl. Obchodní
+> závazkové vztahy. 2. vydání. Praha: Linde, 1998, s. 501 an.). Dnes § 101
+> odst. 3 obč. z. vylučuje promlčení, „pokud vkladový vztah trvá", zatímco
+> § 396 obch. z. váže počátek promlčecí lhůty „ode dne zániku smlouvy". V
+> obou případech se chce vyjádřit totéž, leč v obou případech jde o
+> nepřesné vyjádření: „vkladový vztah" trvá, dokud jsou peněžní prostředky
+> vedeny na účtu a výraz „zánik smlouvy" je juristicky nesprávný, protože
+> smlouva zaniknout nemůže; v daném případě může zaniknout jen obligace. Z
+> těchto důvodů osnova spojuje počátek běhu promlčecí lhůty se zánikem
+> smluvního závazku, tj. se dnem, kdy zanikla obligace založená smlouvou.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 617 návrhu — dnešní § 625):**
+
+> Přejímá se, pokud jde o stanovení počátku promlčecí lhůty u práv
+> vzniklých zničením, ztrátou, poškozením nebo opožděným doručením
+> zásilky, přesná formulace § 399 obch. z. Dosavadní právní úprava v § 108
+> obč. z. stanoví pro tyto případy roční promlčecí lhůtu. Rovněž obchodní
+> zákoník stanoví roční promlčecí lhůtu, ledaže jde o škodu vědomě
+> způsobenou. Stanovení výrazně kratší promlčecí lhůty pro dopravce a
+> zasílatele rozdílně od promlčení práv na náhradu v případě jiných škod
+> je reliktem převzatým do platného práva z občanského zákoníku z r. 1950
+> (§ 473 odst. 1, § 484 odst. 2). Jeho úprava byla odůvodněna „snahou
+> zabránit komplikovaným sporům, v nichž zejména provádění důkazů po delší
+> době by bylo velmi obtížné" (důvodová zpráva k § 473 občanského zákoníku
+> z r. 1950). Také dnes se omezení promlčecí lhůty dopravcům na jeden rok
+> odůvodňuje obdobně -- „tím, že pro dopravce by bylo se zřetelem k
+> hromadnosti dopravy i k velké početnosti případů neúnosné uchovávat po
+> delší dobu potřebné listinné, popř. jiné doklady důležité pro případné
+> spory." (*Švestka, J.* in *Švestka, J. - Spáčil, J. - Škárová, M. -
+> Hulmák, M. et al.* Občanský zákoník. I. § 1 - 459. Komentář. 2. vydání.
+> Praha: C. H. Beck, 2009, s. 613). To je ostatně argument opakovaný
+> několik desetiletí (srov. *Švestka, J. - Češka, Z. - Chyský, J.*
+> Promlčení a prekluze v čs. právním řádu. 1. vydání. Praha: Orbis, 1967,
+> s. 98 nebo *Adam, M. - Češka, Z. - Švestka, J.* in *Češka, Z. et al.*
+> Občanský zákoník. Komentář. 1. vydání. Praha: Panorama, 1987, s. 341,
+> kde nacházíme shodná zdůvodnění). Nicméně tyto argumenty stojí na velmi
+> slabých základech, neboť i jiné podnikatelské subjekty poskytují své
+> služby často hromadně a je na nich, aby doklady potřebné pro případné
+> spory uchovávaly po podstatně delší promlčecí lhůtu. Z těchto důvodů se
+> navrhuje dosavadní zvýhodnění dopravců proti jiným osobám opustit, neboť
+> jde o přístup odporující čl. 4 odst. 3 Listiny základních práv a svobod.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 618 návrhu — dnešní § 626):**
+
+> Ustanovení o počátku promlčecí lhůty u práva na pojistné plnění se
+> přejímá z § 8 zákona o pojistné smlouvě (zák. č. 37/2004 Sb.). Uvedené
+> ustanovení zákona o pojistné smlouvě stanoví i délku promlčecí lhůty u
+> práva na pojistné plnění v případě životního pojištění a v případě
+> pojištění odpovědnosti. Tato úprava je zařazena mezi ustanovení o délce
+> promlčecí lhůty.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 619 návrhu — dnešní § 627):**
+
+> V praxi, zejména v praxi obchodní, není řídkým jevem, že není obvyklé
+> platit v době splatnosti, ale platí se až poté, co bylo předloženo
+> vyúčtování. Proto se navrhuje řešit tuto situaci výslovným ustanovením a
+> počátek běhu promlčecí lhůty posunout.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 620 návrhu — dnešní § 628):**
+
+> Určitá práva nemohou být u soudu uplatněna bez dalšího. Návrh tudíž
+> přejímá obsah § 102 obč. z. Obdobně jako je tomu dnes (srov. např. §
+> 504, 509, 625, 763, 771 obč. z.), zamýšlí se převzít i do budoucna
+> řešení, že určitá obligační práva musí být nejprve uplatněna u
+> protistrany. Jde hlavně o práva vzniklá z vadného plnění a některé práva
+> na náhradu škody. Proto se navrhuje v souladu s dosavadním chápáním
+> počátku promlčecí lhůty v těchto případech zachovat i nadále právní
+> pravidlo, že pokud má být určité právo uplatněno nejprve u příslušné
+> osoby, počne promlčecí doba běžet až ode dne, kdy bylo takto uplatněno.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [23 Cdo 516/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9BC774FE921B5040C1258B4E004D1775?openDocument) — *Přípustnost dovolání*
@@ -883,6 +1288,16 @@ Specifické počátky modifikují obecné pravidlo: u pojistného plnění přid
 **Princip dvojí lhůty**: žaloba je možná pokud **OBĚ lhůty trvají** (subjektivní 3 roky **a zároveň** objektivní 10 let).
 
 Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **objektivní lhůta uplynula** → promlčeno (i kdyby od vědomosti neuplynuly 3 roky).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 621 návrhu — dnešní § 629):**
+
+> První odstavec stanoví délku subjektivní promlčecí lhůty. Ta se vymezuje
+> třemi roky.
+>
+> Druhý odstavec stanoví objektivní promlčecí lhůtu, která počne běžet
+> dospělostí práva podléhajícího promlčení. Nejde jen o případy
+> splatnosti; splatnými se stávají jen peněžitá plnění. Proto se volí
+> obecnější vyjádření.
 
 **Judikatura (z místních zdrojů):**
 
@@ -952,6 +1367,67 @@ Platí princip dvojí lhůty: subjektivní 3 roky od vědomosti (§ 629 odst. 1)
 - **Ne v neprospěch slabší strany** — zákaz zhoršování pozice spotřebitele, slabší strany (§ 433);
 - **Žádné zkrácení** u újmy na svobodě, životě, zdraví;
 - **Žádné zkrácení** u úmyslného porušení povinnosti.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 622 návrhu — dnešní § 630):**
+
+> Naše dosavadní úprava pojímá zákonná ustanovení o promlčení jako
+> kogentní. V platném občanském zákoníku se tak dovozuje z § 2 odst. 3 a
+> povahy ustanovení o promlčení, v obchodním zákoníku to stanoví § 263
+> odst. 1. Zásadní průlom do vnímání kogentní povahy promlčení představuje
+> návrh ustanovení, podle kterého si strany mohou ujednat jinou než
+> zákonnou délku promlčecí lhůty.
+>
+> Stanovení délky promlčecích lhůt kogentními ustanoveními sice odpovídá
+> úpravě v řadě národních kodifikací (srov. § 1502 rakouského občanského
+> zákoníku, čl. 141 švýcarského obligačního práva, čl. 119 polského
+> občanského zákoníku). Opačný přístup zvolilo např. německé právo (srov.
+> původní znění § 225 BGB), když tamější občanský zákoník se zřetelem k
+> zásadě autonomie vůle zvolil zcela liberální přístup s omezeními
+> dovozovanými ze zásad *Treu und Glauben* (tj. tzv. objektivní dobré
+> víry) a ochrany veřejného zájmu. Vzor této úpravy pronikl, byť s
+> korekcí, i do našeho práva v § 88 bývalého zákoníku mezinárodního
+> obchodu (zák. č. 101/1963 Sb.).
+>
+> Každý z obou uvedených přístupů obsahuje rizika, vůči kterým se navržené
+> ustanovení vymezuje. Obecně není důvod bránit stranám, aby si ujednaly
+> délku promlčecí lhůty. Současně se jeví jako vhodné stanovit pro tuto
+> možnost určité limity. Předně se připouští ujednat si jinou délku
+> promlčecí lhůty jen v případech lhůt subjektivních. Odporovalo by
+> zásadám spravedlnosti připustit ujednání vylučujícího oprávněnému
+> uplatnit jeho právo v případech, kdy se o vzniku a existenci svého práva
+> nemohl dozvědět. Kromě toho se navrhuje stanovit pro ujednání
+> subjektivních promlčecích lhůt ještě omezení věcné, časové a osobní. V
+> tom směru se návrh inspiruje německou novelou z r. 2002 (§ 202 BGB) a
+> Návrhem všeobecného referenčního rámce (čl. III.-7.601 odst. 2 DCFR).
+>
+> Současná německá úprava vylučuje ujednat si zkrácení promlčecí lhůty pro
+> práva vzniklá z úmyslného porušení právní povinnosti. Toto věcné omezení
+> se navrhuje převzít a doplnit je omezením pro případ újmy na svobodě,
+> životě nebo zdraví.
+>
+> Časové omezení se navrhuje tak, že ujednaná promlčecí lhůta nesmí být
+> kratší než jeden rok a delší než patnáct let. Roční omezení je převzato
+> z Návrhu všeobecného referenčního rámce (DCFR). Pokud jde o možnost
+> ujednat si delší promlčecí lhůtu, stanoví německá úprava i DCFR limit
+> třiceti let. Protože zdejší soukromé právo nezná třicetileté promlčení,
+> navrhuje se omezení patnáctileté, které se shoduje s nejdelšími
+> zákonnými promlčecími lhůtami v návrhu.
+>
+> Osobní omezení se navrhuje tak, že nelze ujednat kratší nebo delší
+> promlčecí lhůtu v neprospěch slabší strany. Kdo je slabší stranou,
+> vyplývá z povahy věci všude tam, kde mezi stranami existuje faktická
+> nerovnováha co do skutečné možnosti uplatnit a obhajovat soukromé zájmy.
+> Zpravidla tedy půjde o poměry mezi osobami, jež nejsou pro nedostatek
+> věku nebo z jiného důvodu plně svéprávné, a osobami plně svéprávnými,
+> mezi spotřebiteli a dodavateli, zaměstnanci a zaměstnavateli, nájemci
+> bytů a pronajímateli apod. Kromě toho se (v návrhu ustanovení o
+> podnikatelích) navrhuje stanovit, která strana je slabší, vyvratitelnou
+> právní domněnkou. Podle ní je slabší stranou osoba, která v hospodářském
+> styku vystupuje vůči podnikateli mimo souvislost s vlastním podnikáním.
+> Konstrukce vyvratitelné právní domněnky umožňuje korekce: jak důkazem,
+> že v pozici slabší strany byla v konkrétní situaci jiná osoba, než které
+> domněnka svědčí, tak i protidůkazem, že osoba, jíž je domněnka k
+> prospěchu, slabší stranou není.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1034,6 +1510,165 @@ Smluvní modifikace promlčení je možná jen v mezích 1—15 let a nikdy v ne
 **§ 643 — Dědic, obnovená PO**: lhůta neskončí dříve než **6 měsíců** od potvrzení nabytí dědictví / obnovy zápisu PO.
 
 **§ 644 — Zástavní dlužník**: regres po splnění dluhu — nepromlčí se dřív než **6 měsíců** po splnění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 623 návrhu — dnešní § 631):**
+
+> Pokud jde o práva zapsaná do veřejného seznamu, navrhuje se zavést
+> desetiletou promlčecí lhůtu. Ustanovení míří na práva, která lze vykonat
+> jednorázově. V ustanovení je výslovně zopakováno, kdy běh promlčecí
+> lhůty počíná, aby se postavilo najisto, že lhůta nepočíná běžet již ode
+> dne zápisu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 624 návrhu — dnešní § 632):**
+
+> Jsou-li do veřejného seznamu zapsána práva, která mohou být vykonávána
+> nepřetržitě nebo opakovaně, promlčí se, pokud nejsou vykonávána v
+> průběhu deseti let. U těchto práv nezáleží jen na době, kdy mohla být
+> vykonána poprvé, ale záleží i na tom, zda jsou vykonávána průběžně. Do
+> veřejného seznamu mohou být zapsána i taková práva, která se vykonávají
+> jen zřídka, nepravidelně čas od času. K jejich ochraně má sloužit věta
+> druhá. Ustanovení dopadá zejména na věcná břemena (na služebnosti a
+> reálná břemena).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 625 návrhu — dnešní § 633):**
+
+> Navrhované ustanovení má speciální povahu vůči předchozímu. Věcná
+> břemena zahrnují služebnosti a reálná břemena. Služebnosti i reálná
+> břemena se obecně promlčují, nevykonává-li je oprávněná osoba po dobu
+> deseti let. Pokud ale ten, kdo je zavázán ze služebnosti, nestrpí nebo
+> se nezdrží toho, k čemu je povinen, je na oprávněném, aby se proti tomu
+> postavil a uplatnil své právo v tříleté subjektivní lhůtě. Totéž má
+> platit i pro i osobu povinnou k aktivnímu plnění z reálného břemene.
+>
+> Ustanovení druhého odstavce dopadá na případ, kdy osoba zavázaná z
+> reálného břemene k jednotlivým plněním sice těmto plněním nebrání, ale
+> oprávněná osoba je pasivní a své právo na jednotlivé plnění nevykonává.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 626 návrhu — dnešní § 634):**
+
+> Smlouva o smlouvě budoucí zavazuje alespoň jednu ze stran uzavřít na
+> výzvu a v ujednané době s druhou stranou budoucí smlouvu. Poruší-li tuto
+> povinnost, vzniká oprávněné straně subjektivní právo domáhat se soudního
+> založení práv a povinností mezi stranami určením obsahu budoucí smlouvy.
+> Shodně s dosavadní úpravou (§ 292 odst. 2 obch. z.) se pro tento případ
+> navrhuje zákonná promlčecí lhůta v trvání jednoho roku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 627 návrhu — dnešní § 635):**
+
+> Navrhované ustanovení o délce promlčecí lhůty v případě životního
+> pojištění a v případě pojištění odpovědnosti přejímá v tomto rozsahu
+> obsah § 8 zákona o pojistné smlouvě (zák. č. 37/2004 Sb.). Zatímco
+> ustanovení prvního odstavce stanoví jedinou promlčecí lhůtu, promlčuje
+> se právo podle druhého odstavce také v subjektivní lhůtě, nejpozději
+> však promlčením práva na náhradu škody nebo újmy, na kterou se pojištění
+> vztahuje.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 628 návrhu — dnešní § 636):**
+
+> První odstavec navrženého ustanovení vychází z úpravy v § 106 odst. 2
+> obč. z. Paralelní úprava v § 398 obch. z. je nevhodná, pokud pro tyto
+> případy stanoví, že se právo na náhradu škody promlčí nejpozději
+> uplynutím deseti let ode dne, kdy došlo k porušení povinnosti, která je
+> příčinou vzniku škody, protože umožňuje promlčet právo na náhradu škody
+> i dříve než škoda vznikne. Takové pojetí odporuje ústavně garantovanému
+> právu na soudní ochranu. Proto se navrhuje stanovit u náhrady škody i u
+> nemajetkové újmy desetiletou objektivní promlčecí lhůtu počínající běžet
+> vznikem škody. Objektivní promlčecí lhůta je však vyloučena pro případ
+> újmy na svobodě, životě a zdraví. Současná úprava v § 106 odst. 2 obč.
+> z. stanoví pro případ škod, které nebyly způsobeny úmyslně, objektivní
+> promlčecí lhůtu v trvání tří let. Naproti tomu § 398 obch. z. stanoví
+> tuto lhůtu jako desetiletou. Tuto délku objektivní promlčecí lhůty se
+> navrhuje zavést ve shodě s navrhovanou obecnou úpravou.
+>
+> Rovněž druhý odstavec vychází z platné úpravy v § 107 odst. 3 obč. z.
+> Protože se navrhuje obecné zavedení objektivní desetileté promlčecí
+> lhůty, navrhuje se pro případy škod způsobených úmyslně (včetně škod
+> způsobených činy korupčními povahy) stávající desetiletou promlčecí
+> lhůtu prodloužit na patnáct let.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 629 návrhu — dnešní § 637):**
+
+> Do návrhu občanského zákoníku jsou mezi ustanovení o náhradě škody
+> zařazena i ustanovení o náhradě škody způsobené vadou výrobku obsažená
+> dnes v zák. č. 59/1998 Sb. provádějícího Směrnici Rady ze dne 25.
+> července 1985 o sbližování právních a správních předpisů členských států
+> týkajících se odpovědnosti za vadné výrobky (č. 85/374/EHS). Směrnice a
+> ve shodě s ní i platná úprava (§ 9a zák. č. 59/1998 Sb.) upravují v této
+> souvislosti zánik práva na náhradu škody v objektivní desetileté lhůtě
+> počítané od uvedení vadného výrobku na trh. Od dosavadní zákonné úpravy
+> se návrh odchyluje v tom směru, že zavádí promlčení práva na náhradu
+> škody. Škůdce nebude ani po uplynutí promlčecí lhůty nucen škodu
+> nahradit, a v tom směru je tedy dostatečně chráněn. Není však rozumný
+> důvod bránit mu v dobrovolném nahrazení škody, pokud na tom bude mít
+> zájem (např. z obchodních důvodů, v péči o vlastní pověst apod.), a
+> dovozovat, že takovým plněním dojde k bezdůvodnému obohacení
+> spotřebitele.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 630 návrhu — dnešní § 638):**
+
+> Přejímá se úprava § 107 odst. 2 a 3 obč. z. s prodloužením objektivní
+> promlčecí lhůty na deset a patnáct let z týchž důvodů jako u práva na
+> náhradu škody.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 631 návrhu — dnešní § 639):**
+
+> Z § 110 odst. 1 obč. z. se přejímá právní pravidlo o desetileté
+> promlčecí lhůtě v případě uznání dluhu. Uzná-li dlužník dluh, mohou pro
+> promlčení nastat různé právní následky podle toho, kdy k uznání dojde.
+> Tak může dojít k tomu, že obecná tříletá lhůta vůbec nepočne běžet,
+> pokud byl dluh uznán jako ještě nedospělý, i k tomu, že se již běžící
+> lhůta přetrhne a počne běžet nová promlčecí lhůta, pokud bude uznán
+> dospělý dluh. Tyto skutečnosti není nutné v zákonném textu vyjadřovat
+> (nečiní to ani současná úprava), protože je lze snadno dovodit výkladem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 632 návrhu — dnešní § 640):**
+
+> Z § 110 odst. 1 obč. z. se přejímá právní pravidlo o desetileté
+> promlčecí lhůtě v případě přiznání práva rozhodnutím orgánu veřejné
+> moci. Totéž právní pravidlo se uplatní i pro případ přiznání práva v
+> rozhodčím řízení, jak vyplývá ze společných ustanovení v části páté.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 633 návrhu — dnešní § 641):**
+
+> Zvláštním ustanovením se reaguje na případ, kdy z uznání dluhu nebo z
+> rozhodnutí vyplývá dlužníkova povinnost plnit v postupných dílčích
+> plněních. Navržená úprava se obsahově shoduje s dosavadním ustanovením §
+> 110 odst. 2 obč. z.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 634 návrhu — dnešní § 642):**
+
+> Navržené ustanovení se obsahově shoduje s dosavadním ustanovením § 110
+> odst. 3 obč. z. Totéž právní pravidlo se uplatní i pro případ přiznání
+> práva v rozhodčím řízení, jak vyplývá ze společných ustanovení v části
+> páté.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 635 návrhu — dnešní § 643):**
+
+> Zemře-li dlužník, ocitne se věřitel často v bezvýchodné situaci, protože
+> pokaždé nelze rychle a bezpečně zjistit, kdo je dlužníkovým dědicem nebo
+> na koho přešel zůstavitelův dluh. Tak tomu může být, pokud je dědic
+> neznámý, pokud se zpochybňuje platnost závěti či platnost prohlášení o
+> vydědění nebo pokud několik osob soupeří o dědické právo z jiného důvodu
+> a v řadě dalších situací. Proto se navrhuje stanovit, že v takovém
+> případě neskončí promlčecí lhůta dříve, než uplyne alespoň šest měsíců
+> ode dne, kdy bylo dědici potvrzeno nabytí dědictví. Stejné právní
+> pravidlo se navrhuje stanovit pro případ, že se dodatečně objeví majetek
+> zaniklé právnické osoby a ta bude z tohoto důvodu obnovena.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 636 návrhu — dnešní § 644):**
+
+> Zajistí-li se splnění dluhu zástavním právem, může vzhledem k různosti
+> délky promlčecích lhůt u pohledávky a u zástavního práva nastat i
+> situace, že věřitel bude mít proti dlužníku pohledávku již promlčenou,
+> vůči zástavnímu dlužníku však bude zástavní právo ještě nepromlčené a
+> bude se moci uspokojit ze zástavy. Zástavní dlužník může zástavu
+> osvobodit mj. i zaplacením zajištěného dluhu. Tím vstoupí do práv
+> původního věřitele, jehož pohledávka na zástavního dlužníka přejde, a
+> zástavní dlužník bude mít vůči osobnímu dlužníku právo, aby mu vyrovnal,
+> co za něho on splnil. Protože jde o institut subrogace, kdy původní
+> pohledávka přechází ze zákona na nového věřitele v tom stavu, v jakém
+> byla, jeví se jako účelné stanovit právní pravidlo, které zástavnímu
+> dlužníku umožní výkon jeho práva.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1135,6 +1770,12 @@ Speciální desetileté lhůty platí zejména u uznání dluhu (§ 639), soudn�
 **§ 649**:
 > Uplatní-li věřitel u orgánu veřejné moci vzájemné právo a vztahují-li se obě práva k téže smlouvě nebo k několika smlouvám uzavřeným co do účelu v závislosti na sobě, přestává běžet promlčecí lhůta dnem, kdy bylo zahájeno řízení ohledně toho práva, proti němuž vzájemné právo směřuje. V ostatních případech přestává promlčecí lhůta běžet dnem, kdy bylo vzájemné právo uplatněno.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 641 návrhu — dnešní § 649):**
+
+> Navržené ustanovení přejímá z platného práva obsah § 404 obch. z. Táž
+> právní pravidla se uplatní i v případech uplatnění práva v rozhodčím
+> řízení, jak vyplývá ze společných ustanovení v části páté.
+
 #### § 645—646 — Stavění (zákonný zástupce, manželé)
 
 > Vyžaduje-li se, aby osoba měla zákonného zástupce nebo opatrovníka, počne promlčecí lhůta běžet ohledně práva takové osoby nebo ohledně práva proti ní až ode dne, kdy zákonného zástupce nebo opatrovníka získá. Již započatá lhůta běží dále, avšak neskončí dříve, než uplyne jeden rok po odpadnutí překážky.
@@ -1152,6 +1793,18 @@ Speciální desetileté lhůty platí zejména u uznání dluhu (§ 639), soudn�
   - poručencem a poručníkem.
 
 **Účel**: chrání harmonii vztahů — nebrání úmluvě v rodině zachovat smír.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 637 návrhu — dnešní § 645):**
+
+> Do navrženého ustanovení se z platného práva přejímá obsah § 113 obč. z.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 638 návrhu — dnešní § 646):**
+
+> Z platného práva se přejímá § 114 obč. z., podle kterého promlčení
+> nepočne ani neběží mezi zákonnými zástupci a nezletilými dětmi ani mezi
+> manžely. Po vzoru § 207 BGB se navrhuje záběr ustanovení rozšířit i na
+> další osoby. Není však věcný důvod vylučovat zastavení promlčecí lhůty
+> pro opětující se plnění a pro úroky, jak je tomu dosud.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1205,6 +1858,27 @@ Mezi manžely a dalšími blízkými vztahy (§ 646) promlčecí lhůta neběž�
 - **Začíná běžet** od **výslovného odmítnutí** některé strany pokračovat.
 
 **Praktický význam**: motivuje k mimosoudnímu řešení sporů bez rizika promlčení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 639 návrhu — dnešní § 647):**
+
+> Navrhuje se s inspirací z Návrhu všeobecného referenčního rámce i z
+> německé úpravy vyloučit po vzoru čl. III.-7:304 DCFR a § 203 BGB běh
+> promlčecí lhůty pro případ, že strany o právu, které má být uspokojeno,
+> vyjednávají, popř. že si jednáním vyjasňují okolnosti, na jejichž
+> základě věřitel své právo tvrdí nebo o které je opírá. Ani z tuzemské
+> praxe nejsou neznámy případy, kdy dlužník jednání pod různými záminkami
+> protahuje, dokud právo není promlčeno, a poté uplatní námitku promlčení
+> a odmítne plnit. Judikatura pak nemá jiný prostor, než žalobu zamítnout,
+> ledaže se dospěje k závěru, že námitka promlčení odporuje dobrým mravům
+> (srov. např. rozsudek Městského soudu v Praze č.j. 14 Co 561/2005-241 z
+> 25. listopadu 2005). Návrh vychází z pojetí, že pokud v takovém případě
+> promlčecí lhůta již počala běžet, její běh se po dobu mimosoudního
+> vyjednávání zastaví, a pokud ještě běžet nezačala - např. je-li
+> poškozenému znám delikt i škůdce, nikoli však výše škody - odloží se
+> její počátek na dobu, kdy strany jednání ukončí. Dojde-li z uvedeného
+> důvodu k zastavení promlčecí lhůty, navrhuje se stanovit, že neskončí
+> dříve než za šest měsíců poté, co se znovu rozběhla. Tím věřitel získá
+> dostatečný prostor, aby své právo mohl řádně uplatnit.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1264,6 +1938,12 @@ Dohoda o mimosoudním jednání (§ 647) staví běh promlčecí lhůty po dobu 
 Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonatelného práva.
 
 **§ 649 — Vzájemné právo** v řízení: lhůta přestává běžet od **zahájení řízení** (vzájemná pohledávka ze stejné smlouvy).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 640 návrhu — dnešní § 648):**
+
+> Navržené ustanovení přejímá z platného práva obsah § 112 obč. z. Totéž
+> právní pravidlo se uplatní i pro případ uplatnění práva v rozhodčím
+> řízení, jak vyplývá ze společných ustanovení v části páté.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1330,6 +2010,32 @@ Včasná žaloba a řádné pokračování v řízení staví běh promlčecí l
 
 **§ 652 — Šestiměsíční doplatek**: po odpadnutí překážky lhůta neskončí dříve než **za 6 měsíců**. Klíčová ochrana proti situaci, kdy by lhůta vypršela hned po odpadnutí překážky.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 642 návrhu — dnešní § 650):**
+
+> V souladu se základními zásadami soukromého práva i východisky návrhu
+> občanského zákoníku se navrhuje poskytnout věřiteli nezbytnou ochranu v
+> případě, že je mu hrozbou nebo lstivě vyvolaným omylem zabráněno v
+> uplatnění jeho práva.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 643 návrhu — dnešní § 651):**
+
+> Pojetí návrhu občanského zákoníku obecně vychází z myšlenky, že ochrana
+> soukromých práv vyžaduje, aby oprávněná osoba měla možnost své právo
+> uplatnit. V souladu s touto zásadou se navrhuje i zdejší ustanovení,
+> které je věcně a obsahově shodné s § 206 BGB a s čl. III.-7:303 Návrhu
+> všeobecného referenčního rámce (DCFR).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 644 návrhu — dnešní § 652):**
+
+> Dojde-li ze zákonných důvodů k zastavení běhu promlčecí lhůty, jeví se v
+> zájmu náležité ochrany zájmu věřitele jako důvodné poskytnout mu
+> dostatečný čas k tomu, aby mohl své právo účinně uplatnit. Mohlo by
+> totiž dojít i k tomu, že pokračující promlčecí lhůta doběhne např. v
+> řádu dnů. Dílčí projevy této zásady se v platné právní úpravě projevují
+> již dnes (§ 405 odst. 2 a § 408 odst. 2 obch. z.). Navrhuje se tedy
+> poskytnout věřiteli za tím účelem nejméně dobu šesti měsíců, která se
+> jeví jako dostatečná.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 245/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0226D0B4918EA8B3C1258C300052A176?openDocument) — *Nepřípustnost dovolání Omyl*
@@ -1391,6 +2097,13 @@ Hrozba a lest (§ 650) i vyšší moc v posledních šesti měsících lhůty (�
 - Při určení doby splnění: 10 let od posledního dne určené doby.
 
 Toto pravidlo umožňuje **revitalizaci spícího práva** — dlužník vědomě potvrdí dluh, věřitel získá nový titul.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 645 návrhu — dnešní § 653):**
+
+> Uznat dluh i přiznat právo rozhodnutím lze i v případě, že došlo k
+> promlčení práva. Proto se navrhuje pro tyto případy stanovit, že se v
+> těchto případech nárok jako složka subjektivního práva obnoví a že počne
+> běžet promlčecí lhůta nová.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1483,6 +2196,22 @@ Uznání již promlčeného dluhu (§ 653) obnoví nárok a založí novou deset
 - Při mimosoudním vyjednávání (§ 647);
 - Při soudním řízení (§ 648);
 - Při hrozbě / lstí / vyšší moci.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 646 návrhu — dnešní § 654):**
+
+> Za úpravu promlčení se navrhuje zařadit základní ustanovení o prekluzi.
+> Občanský zákoník z r. 1964 institut prekluze využíval poměrně často, což
+> vyplývalo z logiky jeho původní úpravy, která chápala soukromníka
+> především jako spotřebitele zboží a služeb produkovaných socialistickým
+> sektorem a na první místo vlastní hodnotové soustavy stavěla ochranu
+> socialistického vlastnictví. Této myšlenkové konstrukci odpovídal i
+> zájem státu chránit socialistický sektor ustanoveními, podle nichž
+> soukromá práva majetkové povahy zanikají, nejsou-li uplatněna včas.
+>
+> Toto pojetí se zamýšlí opustit. Osnova však neodchází od institutu
+> prekluze absolutně a pro odůvodněné případy jej zamýšlí zachovat. Proto
+> se navrhuje převzít obecné ustanovení § 583 platného občanského zákoníku
+> vystihujícího právní povahu prekluze.
 
 **Judikatura (z místních zdrojů):**
 

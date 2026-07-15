@@ -46,6 +46,94 @@ Vnitřní struktura Dílu 1:
 
 **Klíčový význam**: smlouva neobsahuje jen to, co je v ní napsáno — vždy se doplňuje zákonem a kontextem. Typický příklad: kupní smlouva nemusí obsahovat ujednání o vadách — automaticky se aplikuje § 2099 a násl. (odpovědnost za vady).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 537 až 546 návrhu — dnešní § 545—554):**
+
+> Při úpravě projevů vůle vyvolávajících právní následky v těchto
+> projevech chtěné a právem reprobované, se opouští dosavadní pojetí
+> právního úkonu jako pojmového reliktu totalitního práva. Pojem právního
+> úkonu byl do našeho právního řádu zaveden v r. 1950 občanským zákoníkem
+> č. 141/1950 Sb. Důvodová zpráva k tomuto zákoníku v tom směru uvedla:
+> „Nejvýznamnějšími právními skutečnostmi jsou lidská jednání, s nimiž
+> jsou spojeny právní následky. Nauka rozeznává jednání volní (jimiž se
+> vyjadřuje chtění) a mimovolní, konání a opominutí (zejména nevykonání
+> činnosti právním předpisem uložené), činy nedovolené a právní jednání.
+> Právní jednání pak opět roztřiďuje v právní jednání jednostranná (závěť,
+> veřejný příslib, výpověď apod.) a dvoustranná (smlouvy) a ještě jinak.
+> (\...) Osnova, protože chce být přístupna lidovému chápání musí být
+> oproštěna od podobného teoretického roztřiďování (\...) Nemluví proto
+> ani (\...) zvlášť o právních činech a opominutích, ani (\...) o právních
+> jednáních, nýbrž (\...) o „právních úkonech", kterýžto výraz vyznačuje
+> svůj obsah i jazykově vhodně a vyhovuje nejen řeči české, ale
+> i slovenštině."[^45] Tyto důvody se v prověrce časem ukázaly jako
+> falešné, řada případů „teoretického roztřiďování" se do normativních
+> textů vrátila (do platného občanského zákoníku zvláště v důsledku novely
+> č. 509/1991 Sb.), pojetí právního úkonu vedlo nejednou ke scholastickým
+> závěrům, a také důvod k hledání pojmu kompromisního zároveň pro češtinu
+> i slovenštinu odpadl. Osnova občanského zákoníku se tedy vrací k
+> tradičnímu českému právnickému pojmosloví a v rámci toho také k pojmu
+> „právní jednání". Obnovený výraz také lépe vyhovuje po jazykové stránce
+> (srov. „ právně jedná" a proti tomu „činí právní úkon").
+>
+> Zároveň se mění i koncepce úpravy: v prvé řadě v tom směru, že osnova -
+> rozdílně od § 34 současného zákoníku - neaspiruje na definici právního
+> úkonu. Navrhuje se jen stanovit, jaké má právní jednání právní následky,
+> přičemž z vazby tohoto ustanovení k § 543 plyne, že právně - tedy
+> způsobem právem aprobovaným - jedná osoba projevující vůli konáním nebo
+> opomenutím, a to, jak je zřejmé z § 543 a násl., nejen vážně a svobodně,
+> ale také dostatečně určitě a srozumitelně.
+>
+> Mezi základní ustanovení o právních jednáních se zařazují i ustanovení o
+> podmínkách a o doložení času. Při návrhu úpravy podmínek se vychází ze
+> současné úpravy v § 36 platného občanského zákoníku. Zároveň se
+> odstraňuje nedostatek platného § 36 odst. 3 obč. z., podle něhož se
+> právní úkon stane nepodmíněným, zmaří-li její splnění záměrně strana,
+> které to je na prospěch. Toto ustanovení pomíjí případy, kdy splnění
+> podmínky strana sice záměrně (úmyslně) zmaří, ale je k tomu oprávněna.
+> Zejména ale současná úprava nedomýšlí situaci, že strana, které je na
+> prospěch nesplnění rozvazovací podmínky na prospěch, její splnění
+> záměrně a neoprávněně zmaří, projev vůle se stane podle platné úpravy
+> nepodmíněným, a tím tato strana dosáhne výsledku, jejž má zákon naopak
+> reprobovat. Navrhuje se tento nedostatek odstranit s inspirací v § 162
+> BGB. Z téhož zákoníku se navrhuje převzít také ustanovení o doložení
+> času (§ 163 BGB), které v platné právní úpravě chybí.
+>
+> Doložením času (*dies*) rozumíme stanovení budoucí jisté události, na
+> které závisí vznik, změna nebo zánik nějakého právního následku. Podle
+> toho se rozeznává *dies a quo,* tj. den (čas), od kterého právní
+> následek vzniká, a *dies ad quem,* tj. den (čas), kterým právní účinky
+> končí. Na rozdíl od podmínky, která je spojena s nejistou událostí v
+> budoucnu, je tedy doložení času spojeno s jistou událostí, která v
+> budoucnu nastat musí. Zatímco tedy podmínka spojuje vznik, změnu nebo
+> zánik práv nebo povinností s tím, zda nějaká skutečnost v budoucnu snad
+> nastane, doložení času spojuje tytéž následky, až nějaká skutečnost
+> nastane. Obě situace je potřebné z tohoto důvodu funkčně odlišit.
+>
+> Rozdílně od současného pojetí, které v § 37 odst. 1 nynějšího občanského
+> zákoníku spojuje nedostatek vůle, vážnosti, určitosti a srozumitelnosti
+> projevu vůle s absolutní neplatností právního úkonu, vychází navrhovaná
+> úprava z pojetí, že v takových případech o projev vůle vůbec nejedná.
+> Např. tam, kde není vážná vůle, není vůle vůbec, a nemůže být tedy ani
+> relevantně projevena tak, aby vyvolala následky stanovené v § 537.
+> Shodně s doktrínou [^46] osnova sleduje i tu koncepci, že také tam, kde
+> není určitost a srozumitelnost projevu vůle, nemůže právní jednání
+> existovat.
+>
+> V důsledku toho osnova rozlišuje právní jednání zdánlivá a neplatná. Se
+> zdánlivými právními jednáními (nebo ujednáními) osnova počítá na různých
+> místech a zpravidla je označuje tak, že se k nim nepřihlíží. V důsledku
+> toho jsou takové projevy vůle mimo právo a nemají právní relevanci.
+> Jde-li např. o zdánlivé dílčí ujednání ve smlouvě, hledí se na smlouvu
+> jako by byla od počátku bez takového ujednání a není možné dovozovat týž
+> právní následek, jaký § 568 spojuje s neplatností části právního
+> jednání, jímž může být in eventum i neplatnost celého projevu vůle. Jiný
+> rozdíl mezi zdánlivými a neplatnými právními jednáními se pojí s právem
+> na náhradu škody (srov. § 571 odst. 2).
+>
+> Striktní následek neexistence právního jednání je zmírněn podle vzoru
+> někdejšího zákoníku mezinárodního obchodu (§ 31 odst. 2). Navrhuje se
+> zavést právní fikci existence právního jednání *ex tunc,* vyjasní-li
+> strany dodatečně jeho neurčitý nebo nesrozumitelný obsah.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [25 Cdo 1064/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A80550A63C7B3EC9C1258BDD0052C466?openDocument) — *Přípustnost dovolání Právní jednání (o. z.)*
@@ -127,6 +215,8 @@ Smlouva nikdy neobsahuje pouze svůj text — § 545 k vyjádřeným účinkům 
 - Nástup do MHD s platnou jízdenkou = uzavření přepravní smlouvy;
 - Vložení zboží do automatu + úhrada = uzavření kupní smlouvy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 2039/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/26121ECB02778D0EC1258AF4004C97C9?openDocument) — *Dovolací důvody Právní jednání (o. z.)*
@@ -193,6 +283,8 @@ Smlouva nikdy neobsahuje pouze svůj text — § 545 k vyjádřeným účinkům 
 - **Obsah**: smluvní pokuta v zjevně nepřiměřené výši (proti dobrým mravům);
 - **Účel**: pro forma smlouva s úmyslem oklamat věřitele (proti dobrým mravům, případně § 589 — odpůrčí žaloba);
 - **Účel**: kupní smlouva za účelem podpory zakázané činnosti (proti zákonu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
 
 **Judikatura (z místních zdrojů):**
 
@@ -287,6 +379,12 @@ Smlouva nikdy neobsahuje pouze svůj text — § 545 k vyjádřeným účinkům 
 
 Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojištění do 31. 12. 2027 — konečná doba.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 ICdo 157/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BF1F3CF5CD7AEB56C12589E100182F9F?openDocument) — *Blankosměnka [ Směnka ] Směnka Incidenční spory Popření pohledávky Pohledávka Dovolání O…*
@@ -375,6 +473,14 @@ Příklad: smlouva s účinností od 1. 1. 2027 — počáteční doba; pojišt�
 
 **Vztah zdánlivosti a neplatnosti**: judikatura NS (např. NS 30 Cdo 2218/2020) tříbí rozdíl — chybí-li podstatná náležitost právního jednání tak, že **vůbec nelze hovořit o aktu vůle**, je to zdánlivost; pokud je akt vůle, ale **vadný** (např. proti zákonu), je to neplatnost.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 537 až 546“ (dnešní § 545—554) — viz § 545.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 ICdo 75/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6FB8B2AB9F836A34C1258D790052DA50?openDocument) — *Dovolací důvody Výklad právních jednání (o. z.) [ Právní jednání (o. z.) ]*
@@ -449,6 +555,46 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - **Navenek pracovní smlouva** dvou společníků (skryté vyplácení podílu na zisku).
 
 **Důsledek**: aplikují se pravidla **pro skutečnou smlouvu**, daňové orgány doměří daň.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 547 až 550 návrhu — dnešní § 555—558):**
+
+> Konkrétní charakter právního jednání se posuzuje podle jeho obsahu;
+> posouzení tohoto obsahu není věcí volné dispozice právně jednajících
+> osob, ale náleží právnímu zhodnocení.
+>
+> K standardní vybavenosti občanských kodexů náležejí pravidla o výkladu
+> právních jednání. Ustanovení o interpretaci obsahu právních jednání
+> vycházejí z dosavadní úpravy v občanském a obchodním zákoníku, včetně
+> žádoucí odchylky pro úpravu specifik vzájemného podnikatelského styku, v
+> němž musí být uznán význam obchodních zvyklostí. V osnově se navrhuje
+> opustit důraz na formální hledisko projevu, typický pro platný občanský
+> zákoník (zejména v § 35 odst. 2) a klást větší důraz na hledisko
+> skutečné vůle jednajících osob, jak to činí již dnes obchodní zákoník
+> (zejména v § 266).
+>
+> Z obdobných zásad vychází i Návrh všeobecného referenčního rámce (DCFR
+> čl. II.-9.01. odst. 1). Při úpravách osnovy bylo zvažováno, zda
+> nepřevzít i druhý odstavec tohoto ustanovení, zakládající soudu pravomoc
+> doplnit projev vůle o ustanovení, které v ní chybí, ač se jeví jako
+> nezbytné. V diskusích se argumentovalo zejména příklady z rozhodovací
+> praxe Nejvyššího soudu, např. rozsudky sp. zn. 31 Odo 495/2006 z 15. 10.
+> 2008 (R 61/2009) nebo sp. zn. 20 Cdo 2131/2007 z 27. 5. 2009, podle
+> nichž zakládá neplatnost smlouvy o zajišťovacím převodu práva
+> skutečnost, že si strany neujednaly, jak se vypořádají, nesplní-li
+> dlužník zajištěný dluh řádně a včas. Konkrétně tyto otázky osnova řeší
+> jinde podrobnější úpravou zajišťovacího převodu práva, takže citovaná
+> rozhodnutí Nejvyššího soudu budou nadále nepoužitelná. Navíc osnova sama
+> poskytuje stranám dostatečný prostor k tomu, aby si možnost doplnění
+> projevů jejich vůle osobou třetí nebo soudem ujednali a umožňuje jim
+> i zhojit vadu právního jednání spočívající v neurčitosti nebo
+> nesrozumitelnosti projevu vůle. Pokud jde o jiné myslitelné případy,
+> vychází se z pojetí, že zákonná direktiva sledující dání přednosti
+> platnosti právního jednání před neplatností je ve spojení s dalšími
+> (zejména úvodními) ustanoveními dostatečná a že není důvod, nejde-li o
+> mimořádné případy zvláště upravené, otvírat soudu jako orgánu veřejné
+> moci příliš velký prostor k tomu, aby do projevů vůle soukromých osob ze
+> své moci a bez návrhu vstupoval a aby obsah jejich právního jednání
+> doplňoval nebo měnil.
 
 **Judikatura (z místních zdrojů):**
 
@@ -530,6 +676,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - **Skutečné plnění** smlouvy je důkaz toho, jak ji strany rozuměly;
 - **Standardní obchodní praxe** v odvětví je relevantní pro výklad nejednoznačných ujednání.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 547 až 550“ (dnešní § 555—558) — viz § 555.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [33 Cdo 781/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E2F5F2B79C0C527C1258DBA00529FDA?openDocument) — *Přípustnost dovolání Právní jednání Dobrá víra Vady řízení*
@@ -601,6 +749,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 - **B2B smlouvy**: pravidlo se uplatní obecně, zejména pokud jedna strana předložila návrh.
 
 **Účel**: motivuje **autora textu** k preciznímu formulování a chrání **adresáta**, který nemůže ovlivnit znění.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 547 až 550“ (dnešní § 555—558) — viz § 555.
 
 **Judikatura (z místních zdrojů):**
 
@@ -681,6 +831,8 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 
 **Návaznost**: §§ 1751—1752 (obchodní podmínky), § 9 odst. 2 OZ (zvyklosti — jen pokud zákon dovolává), Vídeňská úmluva o smlouvách o mezinárodní koupi (čl. 9 — výklad podle zvyklostí).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 547 až 550“ (dnešní § 555—558) — viz § 555.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2798/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2798-14_1) — usnesení, 24. 6. 2015
@@ -752,6 +904,30 @@ Typický příklad: smlouva označená „dohoda o spolupráci" obsahující zá
 
 Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii a usnadnění obchodního styku.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 551 až 556 návrhu — dnešní § 559—564):**
+
+> Navržené ustanovení pojednávají o formě právního jednání. Je-li právně
+> jednáno v určité formě, ať již se k ní přistoupilo z jakéhokoli důvodu,
+> lze obsah takového právního jednání změnit, pokud se pro změnu zvolí
+> forma původně zvolená nebo forma přísnější. Jedná-li se však o formu,
+> kterou si strany samy zvolily, platí toto pravidlo jen, pokud si tak
+> strany ujednají.
+>
+> Zásady, na nichž je vybudována konstrukce § 40 odst. 5 stávajícího
+> občanského zákoníku o jednáních osob neznalých čtení a psaní, přejímá §
+> 555 osnovy potud, pokud rozlišuje skutkové podstaty, kdy postačí k
+> jednání takových osob soukromá listina a kdy listina veřejná. Oproti
+> dosavadní úpravě se však jednající osoba, neschopná čtení a psaní, bere
+> více v ochranu tam, kde pro její právní jednání postačí forma listiny
+> soukromé. Z toho důvodu se pro takový případ nově navrhuje vyžádat
+> přítomnost a podpisy alespoň dvou svědků. Další z navrhovaných změn
+> sleduje základní linii výstavby kodexu, totiž akcent na důstojnost a
+> autonomii vůle člověka. Z toho důvodu se jeví jako nepřijatelné
+> vylučovat člověka účastného na písemně prováděném právním jednání z
+> možnosti učinit na listině, z níž mu plynou oprávnění nebo povinnosti,
+> vlastní znamení. Osnova se v té souvislosti nevrací k tradičnímu termínu
+> „znamení ruky", který není zcela přesný.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 2457/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2B1A7762B8AD0052C12585BA00160CEF?openDocument) — *Směnky Cenné papíry Právní nástupnictví Forma právních jednání (o. z.) [ Právní jednání…*
@@ -813,6 +989,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 **Vztah ke katastru**: smlouva o převodu nemovitosti musí být **písemná** (§ 560) a navíc s **úředně ověřenými podpisy** (§ 7 KatZ pro vklad do katastru).
 
 **Důsledek absence formy**: **neplatnost** podle § 582.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 551 až 556“ (dnešní § 559—564) — viz § 559.
 
 **Judikatura (z místních zdrojů):**
 
@@ -885,6 +1063,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 3. **Elektronický podpis** podle zákona č. 297/2016 Sb. o službách vytvářejících důvěru pro elektronické transakce — kvalifikovaný / uznávaný / zaručený elektronický podpis (eIDAS — Nařízení EU 910/2014).
 
 **§ 561 odst. 2 — Konzistence listin u nemovitostí**: pokud více osob jedná o věcném právu k nemovitosti, **všichni musí být na téže listině** (zabránění roztříštěnosti smluvních textů).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 551 až 556“ (dnešní § 559—564) — viz § 559.
 
 **Judikatura (z místních zdrojů):**
 
@@ -967,6 +1147,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 
 **Pro záznamy závodu**: pokud se jich druhá strana dovolává ve svůj prospěch, presumpce spolehlivosti (silnější důkazní pozice).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 551 až 556“ (dnešní § 559—564) — viz § 559.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 1230/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D052EC843D0D4ADEC125844C0018786B?openDocument) — *Přípustnost dovolání*
@@ -1033,6 +1215,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 
 **Vazba § 39** (svědci u předběžného prohlášení) — analogické pravidlo o nezávislosti svědků.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 551 až 556“ (dnešní § 559—564) — viz § 559.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1070/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C145BAFE5234839C12587F1001B8A57?openDocument) — *Dobré mravy Zneužívání výkonu práv a povinností Zástavní právo Neplatnost právního jedná…*
@@ -1088,6 +1272,8 @@ Toto je paralela k **smluvní svobodě** (§ 1 odst. 2) — důraz na autonomii 
 | **Ujednáním stran** | I **jiná** (default), pokud strany nevyloučily |
 
 Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna **jen písemně**. Smlouva o spolupráci s ujednáním „změny jen písemně" → změna ústně možná, **pokud strany nevyloučily**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 551 až 556“ (dnešní § 559—564) — viz § 559.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1162,6 +1348,54 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 **§ 566 — Nepodepsané listiny**:
 - **Default**: nutno dokázat původ;
 - **Výjimka pro listiny závodu** (faktury, dodací listy, kupní doklady): pokud druhá strana **se jich dovolává v svůj prospěch**, vyvratitelná domněnka obsahu i data **i bez podpisu**.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 557 až 561 návrhu — dnešní § 565—569):**
+
+> Vzhledem k významu soukromých a veřejných listin pro hmotné právo se
+> navrhuje zařadit do občanského zákoníku ustanovení o soukromých a
+> veřejných listinách. Obdobně postupují např. civilní kodexy Francie (čl.
+> 1317 an.), Španělska (čl. 1216 an.), Portugalska (čl. 369 an.), Itálie
+> (čl. 2699), Švýcarska (čl. 9) nebo Québecu (čl. 2813 an.). Na rozdíl od
+> těchto zákoníků staví osnova na první místo soukromé listiny a na druhé
+> místo veřejné listiny, protože soukromé listiny jsou jednodušší než
+> listiny veřejné a jsou častěji užívány v soukromém styku. Návrh úpravy
+> je co do řazení všech institutů systematicky uspořádán tak, že postupuje
+> od obecnějších nebo jednodušších úprav k úpravám zvláštním nebo
+> složitějším; tak je tomu i zde.
+>
+> Dosavadní ustanovení o listinách v našem právním řádu se pojí s jejich
+> procesněprávním významem (§ 129 a zejména § 134 o.s.ř., popř. § 112
+> odst. 2 tr. ř.); tato úprava je veřejnoprávní, což je pro soukromý
+> právní styk bez valného významu. Je totiž nutné stanovit i to, jaké
+> účinky mají soukromé a veřejné listiny v soukromém styku mezi osobami,
+> neboť to má význam pro posouzení např. takových otázek, jako je
+> existence dobré víry nebo zavinění apod.
+>
+> Význam listin zachycujících právně významné skutečnosti (zejména právní
+> jednání) je dán především z toho hlediska, co jaké míry zakládají dobrou
+> víru v jejich pravost a pravdivost.
+>
+> O soukromé listině platí, že je na každém, kdo se jí dovolává, aby
+> dokázal její pravost a pravdivost. Z toho se navrhuje výjimka pro
+> případy, kdy se při běžném provozu závodu vyhotovují doklady o různých
+> skutečnostech (např. pokladní účtenky a různá jiná potvrzení). O nich se
+> navrhuje stanovit vyvratitelnou právní domněnkou pravdivost jejich
+> obsahu i data vystavení.
+>
+> Veřejné jsou listiny vydané orgány veřejné moci v mezích jejich
+> pravomoci a listiny, které za veřejné prohlásí zákon (obdobně § 134
+> o.s.ř.).
+>
+> Právní význam veřejné listiny je v tom, že zakládá vůči každému plný
+> důkaz (tedy důkaz, který není třeba doplňovat) o tom, kým a kdy byla
+> vystavena, jakož i o tom, co je v ní potvrzeno. Není však vyloučeno, že
+> veřejnou listinu o právním jednání mezi stranami následně vyhotovená
+> jiná veřejná listina zruší. Pro ten případ je zapotřebí chránit dobrou
+> víru těch, jimž byla předložena první veřejná listina a kteří jednají v
+> důvěře v ní, byť byl její obsah následně zrušen. Navrhuje se tudíž
+> stanovit, že vůči třetím osobám se lze obsahu druhé listiny dovolat jen
+> po jeho zveřejnění ve veřejném seznamu nebo po předložení druhé listiny
+> třetí osobě.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1253,6 +1487,12 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 
 **§ 569 — Popření dřívější veřejné listiny**: nová veřejná listina mezi týmiž osobami má vůči **třetím osobám** účinky až po **zveřejnění** (např. v katastru) nebo **předložení** třetí osobě.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 557 až 561“ (dnešní § 565—569) — viz § 565.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 557 až 561“ (dnešní § 565—569) — viz § 565.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 557 až 561“ (dnešní § 565—569) — viz § 565.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Cdo 2324/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/042963CA0DAF40C8C1258D400052D2EF?openDocument) — *Veřejná listina (o. z.)*
@@ -1327,6 +1567,19 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 
 **§ 572 — Odvolání před dojitím**: písemný projev vůle lze **odvolat**, dojde-li odvolání **nejpozději současně** s původním. Praktické: odeslání odvolání rychlejším způsobem (kurýr) — může dojet první.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 562 až 565 návrhu — dnešní § 570—573):**
+
+> Ustanovení § 562 přejímá § 45 stávajícího občanského zákoníku, leč
+> rozšiřuje dosah normy, která je dnes zařazena mezi ustanovení o
+> uzavírání smluv, ač pravidlo, o něž se jedná, je obecné.
+>
+> Specifickou úpravu vyžadují případy, kdy je jednáno v písemné formě.
+> Těmto otázkám se blíže věnují § 564 a 565. Tato ustanovení respektují
+> soukromoprávní charakter kodifikace, nepředepisují, jakým způsobem má
+> být doručováno (např. obdobou § 45 a násl. o.s.ř.). Návrh úpravy však
+> sleduje odstranění některých pochybností a praktických těžkostí, jež z
+> mlčení současné úpravy plynou.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3499/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE36461FD8E9CF51C1258B8C004D2879?openDocument) — *Doručování*
@@ -1394,6 +1647,8 @@ Příklad: kupní smlouva o nemovitosti (zákonná písemná forma) → změna *
 - **Do zahraničí**: **15 pracovních dnů** po odeslání.
 
 Praktický význam: usnadňuje důkaz dojití bez nutnosti dokládat doručenku. Vyvrácení: prokazatelná pozdější / nepřevzatá zásilka.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 562 až 565“ (dnešní § 570—573) — viz § 570.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1475,6 +1730,62 @@ Praktický význam: usnadňuje důkaz dojití bez nutnosti dokládat doručenku.
 **Klasická anti-fraud klauzule** (paralela k § 6 odst. 2): kdo způsobil neplatnost, **nemůže ji namítat** ani z ní těžit. Navíc **náhrada škody** straně v dobré víře.
 
 Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemovitosti, čímž způsobí neplatnost. Pak nemůže žádat vrácení nemovitosti; navíc hradí škodu kupujícímu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 566 až 571 návrhu — dnešní § 574—579):**
+
+> Povaze soukromého práva a rozumné potřebě běžných soukromých občanských
+> styků odpovídá jako hlavní zásada pravidlo, že je namístě hledat spíše
+> důvody pro platnost právního jednání než pro jeho neplatnost (zásada
+> *potius valeat actus quam pereat*). Proto je také tato zásada výslovně
+> formulována jako první právní pravidlo uvozující ustanovení o
+> neplatnosti právních jednání.
+>
+> Favorizace platnosti právního jednání před jeho neplatností je významná,
+> vzhledem k tomu, že přetrvávající tradice formalistického vnímání práva
+> vyrostlá na základech zdejší doktríny 50. a zejména 60. a 70. let
+> minulého století, stále sleduje opačné trendy odrážející se jak v právní
+> praxi, tak zejména v judikatuře. S touto koncepcí odpovídající v
+> podstatě totalitnímu právnímu myšlení a někdejší potřebě totalitního
+> státu šikanovat soukromý život se rekodifikované soukromé právo musí
+> důsledně rozejít.
+>
+> Zásadní hledisko, že je především zapotřebí respektovat skutečnou vůli
+> jednající osoby, vyjadřuje i ustanovení, kterým se navrhuje stanovit, že
+> má-li neplatné právní jednání náležitosti jiného právního jednání, které
+> je platné, lze se jej dovolat, je-li z okolností zřejmé, že vyjadřuje
+> vůli jednající osoby. V tom směru se recipuje § 41a odst. 1 platného
+> občanského zákoníku.
+>
+> Z obdobných důvodů se uvedené kritérium doplňuje o pravidla týkající se
+> částečné neplatnosti. Tam, kde se důvod neplatnosti týká jen části
+> právního jednání, má být vyslovena neplatnost jen této části. Totéž
+> stanoví dosavadní občanský zákoník v § 41. Nově se ale zdůrazňuje, že
+> musí být vzat zřetel především na zájem stran a na to, rozhodla-li by se
+> jednající osoba vůbec právně jednat, kdyby neplatnost včas rozpoznala.
+> Částečná neplatnost se však nemusí týkat jen dílčí klauzule nebo dílčího
+> ujednání oddělitelné od ostatního obsahu právního jednání, ale také
+> nezákonného určení množstevního, časového, územního nebo jiného rozsahu.
+> Ani v takových případech není nezbytné vždy vyslovovat neplatnost,
+> protože postačí úprava nezákonného rozsahu.
+>
+> Právní pravidlo o chybách v psaní a o početních chybách se přejímá z
+> dosavadní úpravy (§ 37 odst. 3 platného občanského zákoníku). Nově
+> navržená formulace spočívající ve slovech, že tyto chyby „nejsou
+> právnímu jednání na újmu", kryje jak to, že se z uvedených důvodů nelze
+> dovolat neplatnosti právního jednání, ani jeho neexistence pro
+> neurčitost nebo nesrozumitelnost.
+>
+> Osnova se výslovně hlásí k staré zásadě, podle níž nemůže nikdo získat
+> výhodu z vlastního protiprávního činu. Proto se navrhuje zakázat straně,
+> která způsobila neplatnost právního jednání, tuto neplatnost namítat
+> nebo z ní těžit. Odnětí práva k námitce neplatnosti se ovšem vztahuje
+> jen k takovému právnímu jednání, jehož vada vyvolává relativní
+> neplatnost, protože k absolutní neplatnosti se přihlíží ex officio. Na
+> to poukazuje § 571 odst. 1 výrazem „námitka neplatnosti", jímž se míní
+> námitka jako hmotněprávní úkon ve smyslu § 579 odst. 1. Leč ani v
+> případě absolutní neplatnosti právního jednání nemůže být straně, která
+> neplatnost vyvolala, přiznána z neplatného právního jednání výhoda. Tím
+> spíš platí totéž o neplatnosti relativní.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1563,6 +1874,39 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 
 Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napadání.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 572 až 577 návrhu — dnešní § 580—585):**
+
+> Ustanovení o hlavních důvodech neplatnosti uvádějí jako tyto důvody
+> rozpor s dobrými mravy, rozpor se zákonem, počáteční nemožnost plnění,
+> nezpůsobilost nebo neschopnost právně jednat a nedostatek formy.
+>
+> Pokud jde o rozpor se zákonem, vyžaduje se, aby závěr o neplatnosti
+> vyžadoval smysl a účel zákona. Opouští se tedy široký koncept § 39
+> platného občanského zákoníku. I představitelé současné doktríny
+> poukazují, že jakýkoli rozpor se zákonem nezakládá neplatnost. Také ze
+> širokého komparatistického srovnání evropských právních úprav[^47]
+> vyplývá, že pojetí § 39 platného občanského zákoníku není do budoucna
+> udržitelné. Obcházení účelu zákona není jako důvod neplatnosti výslovně
+> uvedeno, nicméně není pochyb, že i to zakládá rozpor se zákonem a
+> navržené znění úvodního ustanovení kryje i tento případ. Smysl a účel
+> zákona vyžaduje závěr o neplatnosti v případech, kdy jde o neplatnost
+> sledující jako svůj základní cíl ochranu určité osoby. To je důvod k
+> závěru o relativní neplatnosti. Návrh v tom směru přejímá myšlenku první
+> věty § 267 odst. 1 obchodního zákoníku. Smysl a účel zákona (srov. § 1
+> odst. 2 návrhu) vyžaduje i to, aby ani projevy soukromé vůle
+> nenarušovaly veřejný pořádek; bude-li rozpor s veřejným pořádkem zjevný,
+> povede to k závěru o absolutní neplatnosti právního jednání (za
+> předpokladu, že byl současně porušen i zákon). Také zjevný rozpor s
+> dobrými mravy zakládá důvod k závěru o absolutní neplatnosti.
+>
+> Pravidlo o nezpůsobilosti projevit právně významným způsobem vůli je u
+> osob, které nejsou zcela svéprávné, prolomeno některými zvláštními
+> ustanoveními sledujícími ochranu těchto osob.
+>
+> U nedostatku formy se však umožňuje zhojit jej s inspirací myšlenkou
+> někdejšího zákoníku mezinárodního obchodu (§ 31 odst. 2 zák. č. 101/1963
+> Sb.).
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [I. ÚS 173/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-173-13_1) — nález, 20. 8. 2014
@@ -1639,6 +1983,12 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 **Výjimka**: druhá strana **měla podíl**, **věděla** nebo **musela vědět** — pak se na ni hledí jako na původce omylu (§ 583).
 
 Příklad: kupující koupil obraz na základě falešného posudku znalce. Posudek vyžádal sám kupující. **Prodávající nevěděl** o falsu → platnost. Pokud **prodávající věděl** nebo **doporučil znalce** věda o jeho falešnosti → neplatnost.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 572 až 577“ (dnešní § 580—585) — viz § 580.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 572 až 577“ (dnešní § 580—585) — viz § 580.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 572 až 577“ (dnešní § 580—585) — viz § 580.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1734,6 +2084,27 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - Smlouva s úplným popřením svobody (slavery contract);
 - Smlouva o nemožné věci (např. prodej věci, která neexistuje).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 578 až 580 návrhu — dnešní § 586—588):**
+
+> Osnova zachovává bipartici absolutní a relativní neplatnosti. Opouští
+> však výčtovou metodu uplatněnou v dosavadním § 40a platného občanského
+> zákoníku a volí se - po vzoru standardních občanských kodexů - kritérion
+> obecné. Zároveň se, rovněž ve shodě se standardními civilistickými
+> přístupy evropské právní kultury preferuje hledisko relativní
+> neplatnosti před neplatností absolutní.
+>
+> Nově se navrhuje řešit případy právních jednání učiněných pod hrozbou
+> násilí. Platné právo je dosud spojuje s absolutní neplatností, přičemž
+> část zdejší právní nauky dokonce dovozuje, že se nejedná o absolutní
+> neplatnost, nýbrž o neexistenci, protože vůle jednajícího chybí. Osnova
+> se vrací k zásadě *etsi coactus tamen voluit* (třebas donucen, přece jen
+> to chtěl), neboť donutit lze osobu i k tomu, aby jednala k svému
+> prospěchu nebo k užitku osoby sobě blízké apod. Pak není důvod
+> konstruovat pro tyto případy absolutní neplatnost, nýbrž je věcí
+> donuceného, aby sám uvážil, chce-li zachovat platnost toho, co učinil
+> pod donucením. I tu se tedy dává přednost autonomii vůle, před hlediskem
+> zákonné šablony.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 2055/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2055-13_1) — usnesení, 5. 2. 2014
@@ -1806,6 +2177,30 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 - **Účinek**: **relativní neúčinnost** (jen vůči žalujícímu věřiteli); jednání zůstává platné mezi dlužníkem a nabyvatelem.
 
 **Vykonatelnost pohledávky**: typicky exekučním titulem (rozsudek, notářský zápis s doložkou). § 593 umožňuje **rezervovat lhůtu** notářským oznámením i před vykonatelností.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 581 až 591 návrhu — dnešní § 589—599):**
+
+> Osnova se vrací k institutu relativní neúčinnosti právních jednání, a
+> opouští tak pojem odporovatelnosti (§ 42a stávajícího občanského
+> zákoníku). Důvodem této změny je fakt, že odporovatelnost je institutem
+> práva procesního, zatímco neúčinnost institutem práva hmotného. Dosud
+> platná úprava odporovatelnosti v § 42a obč. z. je jen redukovanou a málo
+> funkční obdobou příslušné úpravy v občanském zákoníku z r. 1950 (srov. §
+> 46 až 52 zákona č. 141/1950 Sb.).
+>
+> Osnova nesleduje rozmnožení stávajících skutkových podstat neúčinnosti.
+> Respektuje se skutečnost, že relativní bezúčinnost právních jednání je
+> právní institucí doplňkovou, vzhledem k základnímu významu úpravy
+> platnosti a neplatnosti právních jednání. Návrh tedy usiluje spíše
+> o prohloubení a propracování stávající úpravy. V té souvislosti se
+> inspiruje zejména odpůrčím řádem (čl. III. zák. č. 64/1931 Sb.), z
+> něhož, ovšem s podstatnými redukcemi a deformacemi, vyšla jak úprava v
+> občanském zákoníku z r. 1950, tak i úprava v občanském zákoníku
+> dosavadním.
+>
+> Úprava relativní neúčinnosti právních jednání v občanském zákoníku bude
+> využitelná jen mimo případy úpadkového řízení. Insolvenční právo má, a i
+> nadále má mít, vlastní úpravu odporovatelnosti.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1885,6 +2280,8 @@ Tři kategorie odporovatelných jednání (s různými lhůtami):
 
 **§ 590 odst. 2 — Mrhání majetkem** v kupní/směnné smlouvě: 1 rok zpět, pokud druhá strana **musela poznat** mrhání.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 867/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7F67C122F99C4DF1C1258DCC004D1FA0?openDocument) — *Dokazování Účastníci řízení Právnická osoba Neúčinnost právního jednání*
@@ -1949,6 +2346,8 @@ Tři kategorie odporovatelných jednání (s různými lhůtami):
 **Bezúplatná jednání** (dary, věnování) — silnější ochrana věřitele:
 - **2letá lhůta** bez nutnosti prokazovat vědomost;
 - **Výjimky**: zákonné plnění, obvyklé dary, charitativní věnování v přiměřené výši, plnění z mravního závazku.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2020,6 +2419,8 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 - Nedomáhání se práva (promlčení);
 - Odmítnutí dědictví (kromě předluženého).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [24 Cdo 356/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF1FFC79A8E72877C125877300188CDD?openDocument) — *Relativní neúčinnost (o. z.) [ Právní jednání (o. z.) ] Závěť*
@@ -2072,6 +2473,8 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 **Výklad:**
 
 **Procesní pojistka** — věřitel může **rezervovat lhůtu** notářským oznámením i před vykonatelností pohledávky. Pak lhůta neběží, dokud se pohledávka nestane vykonatelnou.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2158,6 +2561,12 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 
 **§ 596 — Další převody**: pokud nelze odpor uplatnit proti dalšímu nabyvateli (např. nabyl v dobré víře), **původní nabyvatel hradí věřiteli škodu**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Cdo 261/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50727D2748D90FF1C1258C590052A2A6?openDocument) — *Přerušení řízení Odporovatelnost Insolvenční řízení (účinky, zahájení)*
@@ -2222,6 +2631,12 @@ Stejně jako právní jednání... se posoudí i opomenutí, kterým dlužník p
 > (1) Dovolá-li se věřitel neúčinnosti právního jednání týkajícího se věci zapsané ve veřejném seznamu, může spolu s předložením odpůrčí žaloby a důkazu o jejím podání žádat orgán pověřený vedením takového seznamu, aby v něm poznamenal dovolání se neúčinnosti právního jednání.
 >
 > (2) Vyhoví-li soud žalobě, má rozsudek účinky i proti osobám, které po provedení poznámky nabyly věc nebo právo k věci v takovém seznamu zapsané.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 581 až 591“ (dnešní § 589—599) — viz § 589.
 
 > Konec kapitoly 11. Pokračování: kapitola 12 — Hlava V Díl 2—4 (§ 600—654): Právní události, význam a počítání času, **promlčení a prekluze**, uznání práva.
 

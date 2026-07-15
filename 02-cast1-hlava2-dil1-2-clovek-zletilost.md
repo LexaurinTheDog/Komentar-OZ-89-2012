@@ -38,6 +38,154 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 - Plod (nasciturus) má **podmíněnou právní osobnost** pro případ živého narození (§ 25 — *nasciturus pro iam nato habetur*).
 - Zvíře nemá právní osobnost (§ 494 — zvíře není věc, ale není ani osoba; jeho ochrana je upravena samostatně).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 15 až 22 návrhu — dnešní § 15—22):**
+
+> Jedním z klíčových pojmů právního řádu je pojem osoby, tedy právního
+> subjektu, bodu, k němuž se vztahují práva a povinnosti jako účinky
+> právního řádu. S osobou je spojena kategorie právní osobnosti
+> (*personnalité juridique, juridical personality, Rechtspersönlichkeit,
+> rechtspersoonlikheid* apod.). Přesto, že základní ustanovení o právní
+> osobnosti je společné (a z hlediska pozitivního práva tomu ani nemůže
+> být jinak), rozlišuje osnova při celkovém pojetí různý charakter právní
+> osobnosti člověka a právnických osob.
+>
+> Rozdíl je v tom, že člověk má přirozené a mezinárodně uznané právo na
+> to, aby byla všude uznávána jeho právní osobnost (srov. čl. 6 Všeobecné
+> deklarace lidských práv; srov. dále Pakt o občanských a lidských právech
+> č. 120/1976 Sb.). Pozitivní právo tudíž nemá možnost odmítnout uznání
+> právní osobnosti člověka. Naproti tomu právnické osoby obdobné přirozené
+> právo na vlastní právní osobnost nemají a je věcí státu přizná-li různým
+> entitám tohoto druhu způsobilost mít práva a povinnosti.
+>
+> V souladu s tradičním pojetím osnova rozlišuje způsobilost mít práva a
+> povinnosti a způsobilost práva a povinnosti vlastním jednáním nabývat
+> (svéprávnost). Tradičním jednoslovným označením „svéprávnost" se
+> současně nahrazuje dosavadní výraz „způsobilost k právním úkonům", neboť
+> osnova opouští pojem právního úkonu. Označení „svéprávnost" je navíc
+> věcně správné, neboť vyjadřuje, že kdo je s to vlastním jednáním nabývat
+> subjektivní práva a zavazovat se k povinnostem, je osobou svého práva
+> (*sui iuris*).
+>
+> Osnova též reaguje na nešvar, jímž se v novodobé legislativě s nebývalou
+> četností přičítají práva, zejména však povinnosti entitám postrádajícím
+> právní subjektivitu (nejčastěji orgánům či organizačním složkám
+> právnických osob). Pro ten případ se konstatuje, že útvary tohoto typu
+> práva a povinnosti nemají a stanoví kritérium pro nalezení oprávněného
+> nebo povinnostního subjektu, jímž nemůže být nic jiného, než povaha
+> věci. Není úkolem zákona řešit v tom směru podrobnosti, neboť při
+> individuálních situacích rozhodují jejich konkrétní okolnosti.
+>
+> Návrh § 18 respektuje tradiční dělení osob na osoby fyzické a právnické.
+> Zvolený výraz je konformní terminologii Listiny základních práv a svobod
+> (čl. 42 odst. 3). Protože fyzická osoba je totožná s člověkem, používá
+> osnova synonymicky označení „člověk". Obecné nadužívání pojmu „fyzická
+> osoba" bylo v našem zákonodárství zavedeno po roce 1990 jako nouzová
+> náhražka dosavadního a zcela nevhodného státoprávního „občan",
+> nedocenilo se však, že se jedná o termín vlastní zejména právu
+> mezinárodního obchodu, zatímco tradiční občanské zákonodárství se tomuto
+> pojmu vyhýbá a používá jej zřídka. (Tuto tradici respektoval ještě
+> občanský zákoník z r. 1950, který o fyzické osobě mluvil pouze na
+> jediném místě.) Občanské zákoníky kontinentálního systému používají jako
+> základní termín přirozená osoba (Německo, Švýcarsko, Nizozemí,
+> Lichtenštejnsko aj.) či fyzická osoba (Itálie, Polsko, Rusko aj.), vždy
+> však velmi střídmě na jednom či dvou místech s tím, že normativní text
+> nejčastěji pracuje se slovy, jako jsou člověk, lidé, dítě, nezletilý,
+> manžel, zůstavitel atd. Osnova sleduje stejnou metodu.
+>
+> Návrh § 19 se inspiruje slavným § 16 ABGB, nepřejímá jej však doslovně,
+> protože doba osvícenského racionalismu, jemuž byl koncept § 16 ABGB
+> podřízen, pominula některá další relevantní hlediska. Proto je také
+> navržené ustanovení doplněno s inspirací ve švýcarském občanském
+> zákoníku o výslovně formulované právní pravidlo, které prohlašuje pro
+> právo za zdánlivé (neexistentní) ujednání i jiné projevy vůle, jimiž
+> někdo zcizuje svá přirozená práva, vzdává se jich nebo je podstatně
+> omezuje. Vzhledem k navržené úpravě budou za neexistující (nikoli jen
+> absolutně neplatné jako dosud) považovány tzv. otrocké smlouvy, jimiž se
+> někdo vzdává své svobody v prospěch jiného, nebo projevy vůle, jimiž
+> člověk žádá jiného, aby byl usmrcen apod. Avšak stejně jako obecný
+> zákoník občanský staví i osnova svou koncepci na jusnaturalistickém
+> hledisku. Proto odlišuje nahlížení práva na lidi jako fyzické osoby a na
+> právnické osoby jako subjekty umělé (fiktivní).
+>
+> Ve shodě s touto koncepcí zákoník jen bere na vědomí, že člověk je
+> subjekt přirozených práv, jež zákon může jen respektovat a uznat a
+> případně, v zájmu celku a racionálního uspořádání a fungování
+> demokratické společnosti, omezit (regulovat), kdežto právnickou osobu,
+> aby se subjektem práva stala, musí zákon za takovou prohlásit a
+> konstituovat. Osnova tudíž odmítá antropologizaci právnických osob a
+> bere za své hledisko, že právnické osoby jsou umělé lidské útvary, které
+> jsou vytvořeny proto, aby sloužily zájmům člověka, nikoli proto, aby mu
+> byly ve všem postaveny naroveň; rovnost fyzických a právnických osob
+> přichází v úvahu jen v majetkových otázkách, a to ještě ne ve všech.
+>
+> Důstojnost člověka, jeho hodnota jako osoby, je ústřední prvek, k němuž
+> celková koncepce osnovy zákoníku lne a jejž jako nejvyšší hodnotu
+> sleduje chránit.
+>
+> Pokud jde o právnické osoby, osnova vychází z platného právního stavu
+> \[§ 18 odst. 1 písm. d) platného občanského zákoníku\], podle něhož jsou
+> právnickými osobami subjekty, které za právnické osoby prohlásí zákon.
+> Normativní východisko platné právní úpravy se však navrhuje změkčit tím
+> způsobem, že zákon nemusí o určitém organizovaném útvaru výslovně
+> stanovit, že je právnickou osobou, nýbrž že i postačí, bude-li ze zákona
+> právní osobnost takového útvaru jinak bez pochybností zřejmá. Zdůrazňuje
+> se vlastnost právnické osoby jako organizovaného útvaru, neboť to je
+> podstatný předpoklad její existence. Vzhledem k tomu, že návrh
+> občanského zákoníku zachovává dosavadní pojetí, podle něhož má
+> kodifikace civilního práva zahrnout obecnou úpravu právnických osob (v
+> třetím dílu druhé hlavy této části), byť - z praktických důvodů -
+> obsáhleji než dosud, je nutné zohlednit zvláštnosti právnických osob
+> práva veřejného. V této souvislosti je nutné víc, než tomu je v dosud
+> platném občanském zákoníku, zohlednit zvláštnosti typické pro skupinu
+> veřejnoprávních právnických osob. Platný občanský zákoník v § 19 odst. 1
+> mezi právnickými osobami soukromého a veřejného práva dostatečně
+> nerozlišuje, což vyvolává výkladové i aplikační obtíže. Nenavrhuje se
+> však definice právnických osob veřejného práva. Takové definice se v
+> civilních kodifikacích vyskytují jen zřídka. Příkladem může být
+> španělský (čl. 35), italský (čl. 11), argentinský (čl. 33) nebo mexický
+> (čl. 26) občanský zákoník: tyto legální definice však vykazují
+> nejrůznější mezery a nedostatky; navíc jsou pro soukromé právo bez
+> zásadního významu - pro ně je důležité, kdo je osobou, ne již, je-li
+> osobou soukromého nebo veřejného práva. I z těchto důvodů se pojmové
+> vymezení osob veřejného práva ponechává teorii. Občanský zákoník však
+> musí reagovat na situaci, že jeho ustanovení o právnických osobách a
+> jejích jednotlivých typech (korporace, fundace, ústavy) nemohou být v
+> plném rozsahu aplikovatelná na právnické osoby veřejného práva. To
+> odráží návrh ustanovení, podle něhož právnické osoby veřejného práva
+> podléhají především zákonům, podle nichž byly zřízeny, a že použití
+> ustanovení občanského zákoníku na tyto osoby přichází v úvahu, jen
+> slučuje-li se to s právní povahou těchto osob. Je sice pravda, že
+> normativní význam má hlavně část věty za středníkem a že její první část
+> vyjadřuje samozřejmost, leč i to se jeví jako vhodné jak pro názornost,
+> tak se zřetelem ke skutečnosti, že také zahraniční civilní kodifikace,
+> které fakt právnických osob veřejného práva zohledňují výslovným
+> ustanovením, obsahují obdobně formulované základní pravidlo poukazující
+> na ukotvení těchto osob v ustanoveních veřejného práva.
+>
+> Se státem jako subjektem soukromých práv a povinností počítá § 21.
+> Osnova vychází z pojetí, že na stát třeba pohlížet jako na právnickou
+> osobu, byť jeho postavení je do jisté míry specifické, vzhledem k jeho
+> faktické pozici i k funkcím, které stát plní. V té souvislosti se
+> poukazuje na nález Ústavního soudu sp. zn. III ÚS 495/02 ze 4. 3.
+> 2004:[^33] Postavení státu vystupujícího v soukromoprávním vztahu nelze
+> bez dalšího ztotožňovat s postavením soukromníka, protože stát i v
+> takovém postavení nedisponuje skutečně autonomní vůlí, jeho jednání se
+> musí vždy řídit zákonem, i když stát zastupují z jeho pověření jiné
+> subjekty. Při posuzování pozice státu v soukromoprávních vztazích nelze
+> proto cele abstrahovat od druhé dimenze státu, tj. od té, v níž vykonává
+> svou hlavní funkci, tedy státní moc. Osnova nemá ambice upravovat
+> podrobnosti o vystupování státu v soukromoprávních poměrech, a odkazuje
+> na speciální zákonnou úpravu (dnes v zák. č. 219/2000 Sb., o majetku
+> České republiky a jejím vystupování v právních vztazích).
+>
+> Ustanovení o osobách blízkých přejímá v prvním odstavci § 116 platného
+> občanského zákoníku s doplněním vyvratitelné právní domněnky, podle níž
+> se poměr osob blízkých předpokládá u těch, kdo spolu trvale žijí. Druhý
+> odstavec zavádí konstrukci, podle níž se posuzuje stejně jako poměr osob
+> blízkých i poměr k právnické osobě, je-li právnická osoba jinou osobou
+> podstatně ovlivňována; to však může platit jen s důsledky omezenými na
+> ochranu majetkových práv třetích osob.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [20 Ncu 6/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0E3787E82873E057C125872E00453F6C?openDocument) — *Uznání cizích rozhodnutí Rozvod manželství*
@@ -106,6 +254,8 @@ K takovému ujednání **se nepřihlíží** (§ 554 — zdánlivé právní jed
 
 **Omezení svéprávnosti** (§ 55—65) lze provést **jen rozhodnutím soudu**, nikoliv smlouvou — a to jen v rozsahu nezbytném, na omezenou dobu (max. 5 let, prodloužitelné) a se subsidiaritou podpůrných opatření (§ 38—54).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Praze* [25 Co 354/2024-491](https://rozhodnuti.justice.cz/rozhodnuti/?id=2e792075-9480-4d3b-84f0-1f0f3214368e) — *odbory, znalecký posudek, náhradní pozemek, věcná břemena, právní domněnka, pozemkový úř…*
@@ -167,6 +317,8 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 - Smlouva uzavřená „jménem rodiny" — přičte se osobám, které ji uzavřely.
 - Smlouva uzavřená spolkem před formálním vznikem — přičte se zakladatelům.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 1007/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/270825AC705AE6BFC1258954001DEDE2?openDocument) — *Svěřenský fond (o. z.) Zástavní právo (o. z.) Přípustnost dovolání*
@@ -224,6 +376,8 @@ Práva a povinnosti mají jen osoby; je-li právo zřízeno neosobě (zvíře, v
 - **Územní samosprávné celky** (obec, kraj) — právnické osoby veřejného práva, jednají podle zákona o obcích / krajích.
 - **Svěřenský fond** — není právnická osoba (§ 1448 odst. 2: nemá právní osobnost; vlastníkem majetku je svěřenský správce); je to **oddělené jmění** spravované pro určitý účel.
 - **Pobočný spolek** — má vlastní právní osobnost odvozenou od hlavního spolku (§ 228 a násl.).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
 
 **Judikatura (z místních zdrojů):**
 
@@ -289,6 +443,8 @@ Každý subjekt soukromého práva je buď fyzická, nebo právnická osoba. Út
 - Nelze platně se vzdát práva na ochranu osobnosti (§ 81—117);
 - Nelze platně sjednat smlouvu o doživotním otroctví;
 - Lze ovšem **dispozit s detailem výkonu** (např. souhlas s lékařským zákrokem, souhlas s pořízením podobizny v určité situaci — § 84, § 87).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
 
 **Judikatura (z místních zdrojů):**
 
@@ -360,6 +516,8 @@ Pro PO veřejného práva platí podle § 20 odst. 2 zásada **subsidiarity OZ**
 
 § 20 odst. 1 věta druhá obsahuje **univerzální způsobilost právnické osoby** — PO může mít všechna práva a povinnosti slučitelná s její povahou, **bez ohledu na předmět činnosti**. To je opak teorie *ultra vires* (která omezovala PO jen na práva spjatá s předmětem činnosti). Pro praxi to znamená, že akt PO **mimo předmět činnosti není automaticky neplatný**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Berouně* [13 C 59/2022-20](https://rozhodnuti.justice.cz/rozhodnuti/?id=9b401f19-2c2d-402c-ae8c-b27be8fe8ee4) — 12. 4. 2022
@@ -427,6 +585,8 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 - Stát žaluje a je žalován jako PO (např. „Česká republika — Ministerstvo financí");
 - Stát nese **objektivní odpovědnost za nezákonné rozhodnutí / nesprávný úřední postup** (zákon č. 82/1998 Sb.);
 - Stát má **omezenou způsobilost činit některé úkony** bez schválení (např. prodej nemovitostí nad určitou hodnotu vyžaduje schválení vlády).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
 
 **Judikatura (z místních zdrojů):**
 
@@ -498,6 +658,8 @@ Stát je v soukromém právu jeden subjekt (PO) jednající organizačními slo�
 
 § 22 odst. 2 rozšiřuje aplikaci omezení na **vztahy mezi PO a členy statutárního orgánu** nebo dominujícími osobami. To je **anti-fraud klauzule** zabraňující obcházení omezení transakcí s osobami blízkými skrze PO. Příklad:
 - Zákon zakazuje úpadci převést věc na osobu blízkou bez souhlasu insolvenčního správce. § 22 odst. 2 to rozšiřuje i na převod na **s.r.o., jehož jediným společníkem je manžel/manželka úpadce**.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 15 až 22“ (dnešní § 15—22) — viz § 15.
 
 **Judikatura (z místních zdrojů):**
 
@@ -573,6 +735,33 @@ Pojem osoby blízké je široký (bezpodmínečně příbuzní v přímé linii,
 - **Prohlášení za mrtvého** (§ 71—79) — fikce smrti s účinky pro dědění, manželství atd.
 
 Právní osobnost je **automatická a nedělitelná** — vzniká samým narozením, není třeba registrace v matrice (registrace je deklaratorní). Ovšem k uplatnění některých práv jsou potřeba **registrační úkony**: rodný list, IČO, pas, OP atd.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 23 a 25 návrhu — dnešní § 23—25):**
+
+> V zásadních otázkách osnova respektuje dosavadní stav. Pouze upřesňuje
+> některé otázky, které dosud výslovně upraveny nebyly.
+>
+> U počatého dítěte se pro případ jeho zrození jako živého finguje toto
+> zrození ke dni jeho početí, především však pouze v ohledu konstituce
+> práv tohoto dítěte vůči třetím osobám (zejména se bude jednat o nabytí
+> dědictví nebo daru, ale též o následné nakládání s majetkem takto
+> nabytým). Ustanovení tudíž nelze uplatnit v neprospěch nascitura. Právy
+> dítěte se rozumí především práva nabytá na základě předpisů soukromého
+> práva. Navrženými ustanoveními rozhodně není dotčena veřejnoprávní
+> úprava, která stanoví například právo ženy rozhodnout o umělém přerušení
+> těhotenství v souladu s těmito veřejnoprávními předpisy.
+>
+> Dikce zákona však nemůže mluvit jen o oprávněních nascitura, protože
+> subjektivní práva od povinností často nelze striktně oddělit. Z toho
+> důvodu byla do osnovy převzata formulace NWB, podle níž se na nascitura
+> hledí jako na osobu, pokud to odpovídá jeho zájmům.
+>
+> Toto normativní řešení odpovídá staré zásadě *nasciturus iam pro nato
+> habetur quotiens de commodo eius agitur* (ten, kdo se má narodit,
+> pokládá se již za narozeného, kdykoli se jedná o jeho prospěch). Pro
+> případ pochybností se vyvratitelnou domněnkou uzavírá, že se dítě
+> narodilo živé. Obdobně např. ABGB v § 22, nizozemský občanský zákoník
+> (BW) v čl. 2, polský (KC) v čl. 9 aj.
 
 **Judikatura (z místních zdrojů):**
 
@@ -653,6 +842,28 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 - § 2918—2920 (odpovědnost nezletilého a osoby s duševní poruchou);
 - § 2906 (nutná obrana — bez nutné obrany dotčená osoba nese odpovědnost).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 23 a 25“ (dnešní § 23—25) — viz § 23.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 24 návrhu — dnešní § 24):**
+
+> Ustanovení obsahuje obecnou zásadu, podle níž každý odpovídá za své
+> jednání v míře odpovídající stupni vlastní svéprávnosti (jeho schopnosti
+> posoudit vlastní jednání a ovládnout je), a to i tehdy, přivede-li se
+> vlastní vinou do stavu, v němž by jinak odpovědný nebyl.
+>
+> Osnova opouští pojetí odpovědnosti jako hrozby sankcí. Tato konstrukce
+> opanovala od 70. let minulého století českou právní doktrínu po dlouhých
+> diskusích v 50. a 60. letech a spojuje nástup odpovědnosti s porušením
+> právní povinnosti. Osnova se naopak přiklání k pojetí odpovědnosti v
+> duchu tradic antické a křesťanské civilizace, podle nichž člověk
+> odpovídá za své jednání v plném rozsahu, a odpovídá tedy především za
+> to, že se chová řádně, po právu a za splnění povinnosti. Vzhledem k tomu
+> se v návrhu slovo „odpovědnost" používá jen velmi zřídka, protože
+> zákonný text vystačí ve většině případů s termínem povinnost. Odstraňuje
+> se tak nedůslednost současných formulací platného občanského zákoníku,
+> který termín „odpovědnost" používá v různých významech a často i
+> zbytečně.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS ve Žďáru nad Sázavou* [7 C 18/2022-27](https://rozhodnuti.justice.cz/rozhodnuti/?id=30fc3119-35b9-45dc-bdd6-5f5c3d74ded1) — *duševní porucha, jízdné, peněžité plnění, postoupení pohledávky*
@@ -716,6 +927,8 @@ Deliktní odpovědnost předpokládá rozpoznávací a ovládací schopnost. Kdo
 **Vyvratitelná domněnka živého narození** (věta druhá) — pokud existují pochybnosti, předpokládá se, že dítě se narodilo živé (důkazní břemeno mrtvonarození nese ten, kdo z toho profituje, typicky pojišťovna).
 
 **Mrtvonarození** (věta třetí) — pokud se dítě nenarodí živé, hledí se na ně, jako by nikdy nebylo. To znamená retroaktivní zrušení všech práv, která by mu mezitím vznikla; dědictví připadne dalšímu zákonnému dědici, jako by nasciturus nikdy neexistoval.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 23 a 25“ (dnešní § 23—25) — viz § 23.
 
 **Judikatura (z místních zdrojů):**
 
@@ -785,6 +998,34 @@ Na počaté dítě se hledí jako na narozené, jde-li o jeho prospěch (typicky
 
 **Návaznost — § 71—79 nezvěstnost a prohlášení za mrtvého**: tato úprava se použije, když je člověk **nezvěstný** (nezná se místo pobytu), nikoliv pokud je smrt jistá. § 71—79 stanoví **lhůty** (7 let nezvěstnosti, 3 roky u osob nad 80 let, kratší lhůty při určitých okolnostech).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 26 až 28 návrhu — dnešní § 26—28):**
+
+> Zánik právní osobnosti člověka se pojí s jeho smrtí. Navrhuje se proto
+> upravit, co je z hlediska hmotného práva jako důkaz smrti právně
+> významné. Obvykle se důkaz smrti provádí úmrtím listem; není-li to
+> možné, provede důkaz smrti z úřední moci soud.
+>
+> Pokud z okolností plyne důvodný a nepochybný závěr, že určitý člověk
+> zemřel jako oběť události označované běžně za neštěstí, ač tu jeho mrtvé
+> tělo není, vede se důkaz jeho smrti, a den takové události se považuje i
+> za den jeho smrti. Ustanovení volí obecnou klauzuli, jaká je vzhledem k
+> delší tradici u nás vžita a nepoužívá kazuistický výčet, který by
+> ostatně nemohl být ani úplný, a ponechává na soudci, aby vyšetřil
+> konkrétní okolnosti jednotlivého případu a podle směrnice zákona
+> rozhodl.
+>
+> Platný občanský zákoník na rozdíl od práva německého a rakouského či od
+> občanských zákoníků Švýcarska, Itálie, Španělska, Portugalska, Polska a
+> řady dalších kodexů neobsahuje standardní právní domněnku současné smrti
+> několika osob, není-li jisto, přežila-li určitá z nich osobu jinou (při
+> autohavárii apod.). Vzhledem k tomu a vzhledem k jejímu praktickému
+> významu se navrhuje tuto domněnku znovu upravit.
+>
+> Statusových otázek člověka se dotýká i otázka místa jeho smrti. Proto se
+> navrhují stanovit pravidla pro určení místa, kde člověk zemřel.
+>
+> Prohlášení za mrtvého upravují ustanovení zvláštní.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 2* [28 C 53/2022-53](https://rozhodnuti.justice.cz/rozhodnuti/?id=d69eaa5f-280c-4130-b8ac-b3057df5906d) — *nemajetková újma, peněžité plnění, zadostiučinění / satisfakce*
@@ -845,6 +1086,8 @@ Smrt se primárně prokazuje úmrtním listem po prohlídce těla. Není-li těl
 
 Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí na základě postmortálních změn, černá skříňka letadla — záznam doby smrti).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 26 až 28“ (dnešní § 26—28) — viz § 26.
+
 **Judikatura (z místních zdrojů):**
 
 - *MS v Brně* [16 C 171/2021-93](https://rozhodnuti.justice.cz/rozhodnuti/?id=7a44b285-f1fe-4fc0-9df2-dfda42829e99) — *bezdůvodné obohacení, peněžité plnění, postoupení pohledávky, rozvod manželství, smlouva…*
@@ -898,6 +1141,8 @@ Není-li jisté pořadí úmrtí osob, na jejichž přežití závisí právní 
 - **Místní příslušnost soudu** v řízení o pozůstalosti (§ 88 ZŘS — místně příslušný okresní soud, v jehož obvodu měl zůstavitel v době smrti evidovaný pobyt; pokud takový soud nelze určit, použije se § 28 OZ);
 - **Místně příslušná matrika** pro zápis úmrtí (zákon č. 301/2000 Sb. o matrikách);
 - **Volební seznamy** — vyškrtnutí ze seznamu.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 26 až 28“ (dnešní § 26—28) — viz § 26.
 
 **Judikatura (z místních zdrojů):**
 
@@ -965,6 +1210,44 @@ Není-li známo místo smrti, má se za to, že nastala v místě nálezu těla;
 - Zákon č. 301/2000 Sb. o matrikách (§ 17a a násl. — změna jména po změně pohlaví — zjednodušený postup);
 - ÚS Pl. ÚS 7/22 — sterilizační požadavek protiústavní.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 29 návrhu — dnešní § 29):**
+
+> Po vzoru občanského zákoníku provincie Québec (CCQ) se v základních
+> ustanoveních o právních poměrech člověka pamatuje i na případ změny
+> pohlaví. Vychází se z pojetí, že taková změna je faktický stav a že se
+> jeho právní účinky musí připínat k okamžiku, kdy z lékařského hlediska
+> fakticky nastane. Osnova však nezamýšlí upravit zvláštní režim
+> lékařského zákroku tohoto druhu, protože z hlediska obecného práva
+> občanského i v tomto směru postačí obecná úprava osobnostních práv.
+> Změna pohlaví musí být zapsána také do matriční knihy (o čemž výslovné
+> ustanovení v zákoně o matrikách chybí). Změnou pohlaví se právní
+> postavení člověka - vzhledem k rovnosti pohlaví - obecně nemění; tato
+> změna však má za právní následek zánik manželství i registrovaného
+> partnerství. Zdejší praxe je sice taková, že poskytovatel zdravotních
+> služeb ke změně pohlaví ženatých nebo vdaných transexuálních osob
+> nepřistoupí, dokud jejich manželství není rozvedeno a poměr k případným
+> dětem uspořádán, je však nutné pamatovat, že mohou nastat i situace, kdy
+> změna pohlaví určité osoby nebude provedena v České republice, ale v
+> zahraničí. Navíc je nutné pamatovat i na to, že stav dosavadní praxe
+> sice sleduje určitou usanci, ale že je přece jen vhodné pro jistotu
+> upravit výslovným ustanovením případy, kdy zavedený standard tuzemské
+> praxe nebude dodržen.
+>
+> Dojde-li k zániku manželství následkem změny pohlaví, má to stejné
+> právní důsledky jako jiné způsoby zániku manželství za života muže a
+> ženy, jejichž manželství zaniklo. V tom směru se výslovně odkazuje na
+> obdobné použití ustanovení o právních následcích rozvodu. V textu
+> ustanovení se výslovně uvádí, že se obdobně použijí mj. i ustanovení o
+> povinnostech a právech rozvedených manželů ke společnému dítěti v době
+> po rozvodu. Protože však, v případě že jde o rozvodové řízení, rozhoduje
+> soud o následné péči rodičů o společné dítě již v průběhu rozvodového
+> řízení, navrhuje se uvést výslovně, že i v případě zániku manželství v
+> důsledku změny pohlaví musí soud rozhodnout o tom, jak každý z rodičů
+> bude o společné dítě napříště pečovat. V tom směru se obdobně použije §
+> 901 návrhu. Soud tudíž uváží, jaký je zájem dítěte, a popřípadě schválí
+> i dohodu rodičů o způsobu výkonu rodičovské odpovědnosti, není-li ve
+> zřejmém rozporu se zájmy dítěte.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 52/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-52-23_1) — nález, 24. 4. 2024
@@ -1024,6 +1307,30 @@ Den změny pohlaví určuje lékařské potvrzení. Osobní stav a majetkové po
 | **Uzavření manželství** | Věk ≥ 16, povolení soudu (§ 672 OZ) | Řízení o povolení uzavřít manželství (§ 367 ZŘS) |
 
 **Klíčové: ireverzibilita svéprávnosti nabyté manželstvím** — i po rozvodu, anulaci nebo úmrtí druhého manžela zůstává nezletilý plně svéprávný. To je důležité, aby se zabránilo „skoku zpět" do nezletilosti, který by byl právně chaotický.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 30 návrhu — dnešní § 30):**
+
+> Osnova rozlišuje svéprávnost a zletilost.
+>
+> Zletilosti nabývá člověk dosažením osmnácti let věku. Rozlišení osob na
+> zletilé i nezletilé se tedy pojí s jediným kritériem, kterým je dosažení
+> určitého věku.
+>
+> Naproti tomu svéprávnost je schopnost samostatně právně jednat, vlastním
+> jednáním nabývat subjektivní práva a povinnosti. Klasické označení
+> „svéprávnost" zachoval ještě občanský zákoník z r. 1950; opuštěno bylo
+> zákoníkem z r. 1964 z ideologických důvodů a v zájmu vytvoření
+> socialistické právní terminologie, která standardní jednoslovné právní
+> pojmy nahrazovala termíny víceslovnými (např. místo „nájemné" se zavedla
+> „úhrada za užívání bytu", podobně se místo „svéprávnost" zavedla
+> „způsobilost k právním úkonům"). Označením osoby jako svéprávné se
+> vyjadřuje, že je svého práva (*sui iuris*), nikoli práva cizího (*alieni
+> iuris*). Obdobně označují tuto právní vlastnost i jiné evropské jazyky.
+>
+> Nabytím zletilosti nabývá člověk zpravidla i svéprávnosti, není to však
+> bezvýjimečné, protože svéprávnosti lze nabýt i před dosažením zletilosti
+> (emancipací, sňatkem), stejně jako zletilý člověk může svéprávnosti
+> pozbýt. Podrobnosti upravují zvláštní ustanovení.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1091,6 +1398,206 @@ Plná svéprávnost se nabývá dovršením 18 let, přiznáním svéprávnosti 
 - § 36 (negativní omezení — nezletilý nemůže jednat samostatně v záležitostech vyžadujících přivolení soudu);
 - § 1845 (spotřebitelská smlouva uzavřená nezletilým — návratová klauzule);
 - § 581 (neplatnost pro nezpůsobilost právně jednat).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 31 až 36 návrhu — dnešní § 31—36):**
+
+> Návrh zákonné úpravy způsobilosti právně jednat u nezletilých, kteří se
+> nestali svéprávnými emancipací nebo uzavřením sňatku, ovládají dvě
+> hlavní zásady.
+>
+> Předně je to hledisko, že nezletilý má způsobilost k právním jednáním
+> odpovídajícím jeho individuální vyspělosti. Na druhé straně se stanoví,
+> že je vyloučeno, aby nezletilý sám a samostatně podstupoval takové činy,
+> k nimž by i jeho zákonný zástupce potřeboval souhlas soudu. Třebaže
+> paragrafové znění návrhu tento pojem nezavádí, vrací se osnova ke
+> koncepci částečné svéprávnosti nezletilých.
+>
+> Mezi těmito krajními limity se mohou vyskytnout různé variabilní
+> situace. Pro návrh úpravy jejich právního rámce byly vzorem zejména
+> občanské zákoníky německý (BGB) a nizozemský (BW).
+>
+> Základní myšlenka osnovy se opírá o fakt, že zákonní zástupci, zpravidla
+> tedy rodiče, jsou ti, kdo nezletilého nejlépe znají a spolu s ním dokáží
+> nejlépe posoudit jeho rozum, vůli a další individuální schopnosti. Proto
+> se navrhuje stanovit, že souhlasí-li zákonný zástupce, aby nezletilý
+> něco učinil, ať již se bude jednat o jednotlivý čin nebo i o komplex
+> jednání, tentokrát ale vždy vztažený k určitému konkrétnímu účelu, má
+> nezletilý bez dalšího způsobilost v těchto záležitostech právně jednat.
+> Navrhované opatření sleduje zejména ochranu třetích osob. Oboje se však
+> váže na podmínku, že povolení k těmto aktivitám a charakter (náročnost a
+> rozsah) jednání nezletilého nevybočují z mezí zvyklostí společenského
+> života. Udělený souhlas může být omezen nebo vzat zpět, přirozeně že
+> jenom s důsledky ex nunc.
+>
+> Tyto obecné konstrukce doplňují ještě tři zvláštní.
+>
+> Prvá má svůj vzor v § 112 BGB a sledují preferenci individuality
+> konkrétního člověka. Návrh § 33 umožňuje, aby zákonný zástupce udělil
+> nezletilému povolení k samostatné výdělečné činnosti. Vzhledem k
+> závažnosti tohoto opatření pro nezletilého i pro osoby třetí (důsledkem
+> je posun ve vymezení způsobilosti nezletilého právně jednat) se
+> vyžaduje, aby záležitost byla objektivně posouzena a rozhodnuta soudem.
+> Tuto nebo obdobnou konstrukci platné občanské právo vůbec nezná;
+> opuštěna byla v roce 1950 s konstatací, že se jedná o pojetí, jež „v
+> naší společnosti, která likviduje soukromé kapitalistické podnikání,
+> nemůže přijít v úvahu."[^34]
+>
+> Druhá konstrukce (§ 34) řeší pracovněprávní subjektivitu nezletilého,
+> neboť jde o jednu ze statusových otázek, jejichž úprava náleží do
+> civilního kodexu (což vyjádřil i věcný záměr občanského zákoníku).
+> Záležitosti osobního statusu nelze řešit speciálními právními předpisy
+> mimo občanský kodex.
+>
+> Pokud jde o stanovení věku, kdy vzniká způsobilost zavázat se k výkonu
+> závislé práce, je rozhodující Úmluva Mezinárodní organizace práce č.
+> 138/1973 (č. 24/2008 Sb. m. s.). Čl. 2 Úmluvy stanovuje pro členské
+> státy nejnižší věk pro vstup do zaměstnání či výkon práce na jeho území
+> a v dopravních prostředcích registrovaných na území členského státu.
+> Podle čl. 2 odst. 3 Úmluvy nesmí být tento nejnižší věk nižší než věk,
+> kdy končí povinná školní docházka, a v žádném případě nižší než patnáct
+> let. Jde o obecné pravidlo, z něhož Úmluva připouští některé výjimky
+> (čl. 2 odst. 4, čl. 4 až 8). Česká republika přistoupila k této Úmluvě a
+> při ratifikaci učinila prohlášení, že stanoví 15 let jako nejnižší věk
+> pro vstup do zaměstnání či výkon práce na jejím území a v dopravních
+> prostředcích registrovaných na jejím území.
+>
+> Směrnice Rady 94/33/ES ze dne 22. června 1994, o ochraně mladistvých
+> zaměstnanců v čl. 1 odst. 1 ukládá členským státům zajistit, aby
+> nejnižší věk pro přijetí do zaměstnání nebyl nižší než nejnižší věk
+> skončení povinné školní docházky stanovené vnitrostátními právními
+> předpisy a v žádném případě nižší než 15 let. Z § 36 zák. č. 561/2004
+> Sb., školský zákon, vyplývá, že nejnižší věk skončení povinné školní
+> docházky je 15 let; školní docházka je podle § 36 odst. 1 povinná
+> nejvýše do konce školního roku, v němž žák dosáhne sedmnáctého roku
+> věku.
+>
+> Platná právní úprava zakazuje zaměstnavateli v § 6 zákoníku práce
+> sjednat s nezletilým jako den nástupu do práce den, který by předcházel
+> dni, kdy nezletilý ukončí povinnou školní docházku.
+>
+> Stávající zákoník práce vychází z pojetí, že patnáctiletý člověk nabývá
+> pracovněprávní subjektivitu nepodmíněně. Tato konstrukce nerespektuje
+> stupeň psychosociální vyspělosti patnáctiletého člověka a oslabuje
+> rodinné vazby i rodičovskou odpovědnost. Do našeho práva byla zavedena
+> občanským zákoníkem z r. 1950 s odůvodněním, že práce je občanskou
+> povinností a že děti starší patnácti let jsou již s to tuto povinnost
+> plnit, s tím, že oslabení rodičovských práv bude vyváženo starostí
+> referátů práce a sociální péče příslušných úřadů (srov. důvodovou zprávu
+> k § 12 zák. č. 141/1950 Sb.). Účelem bylo oslabit soudržnost rodiny a co
+> nejdříve využít pracovní sílu člověka k potřebě totalitního státu a
+> podle jeho potřeb. Tyto důvody nejsou v současném společenském
+> uspořádání relevantní a nenaplňují smysl a účel čl. 10 Mezinárodního
+> paktu o hospodářských, sociálních a kulturních právech (vyhlášen pod č.
+> 120/1976 Sb.), čl. 5, 27 a dalších Úmluvy o právech dítěte (vyhlášena
+> pod č. 104/1991 Sb.) ani čl. 32 Listiny základních práv a svobod.
+>
+> V kontinentální Evropě existují dva základní způsoby řešení této otázky.
+>
+> První skupina úprav (např. v Belgii, Estonsku, Litvě, Maďarsku, Německu,
+> Nizozemí, Rusku nebo ve Švýcarsku) uznává zásadu, že nezletilý může
+> uzavřít pracovní smlouvu jen se souhlasem zákonného zástupce; není-li
+> souhlas udělen, může být zpravidla nahrazen rozhodnutím soudu. Některé z
+> uvedených států (Litva, Maďarsko, Rusko) vyžadují souhlas zákonného
+> zástupce jen do dovršení 16 let věku nezletilého. Prvé řešení je pro
+> zdejší sociální prostředí málo přijatelné z praktických důvodů. Jeho
+> recepce by vyvolala v některých situacích praktické obtíže.
+>
+> Druhá skupina úprav (např. v Itálii, Polsku, Rumunsku, Slovinsku nebo
+> Lotyšsku) spojuje vznik pracovněprávní subjektivity člověka s dovršením
+> věku 15 let. Ani druhé pojetí plně nevyhovuje.
+>
+> Proto se osnova přiklání ke kompromisu mezi oběma konstrukcemi,
+> obdobnému, jaký již dříve nalezlo Finsko (v zákoně o nezletilých
+> zaměstnancích).
+>
+> Nezletilý, který nedovršil věk 16 let, může sice pracovní smlouvu
+> uzavřít sám, ale jeho zákonný zástupce může zasáhnout, zvolil-li si
+> tento nezletilý takové zaměstnání, které je na újmu jeho vzdělávání,
+> vývoji nebo zdraví. Jde o návrh řešení, které respektuje soudržnost
+> rodiny a právní ochranu rodiny jako celku i potřebu zvýšené ochrany
+> mladistvých zaměstnanců, přičemž diferencuje z výše zmíněného
+> psychosociálního hlediska mezi mladistvými, kteří nedovršili ještě 16
+> let, a ostatními mladistvými.
+>
+> Platná právní úprava v zákoníku práce ukládá zaměstnavatelům povinnost
+> vytvářet příznivé podmínky pro všestranný rozvoj tělesných a duševních
+> schopností mladistvých zaměstnanců (§ 243) a zaměstnávat mladistvé
+> zaměstnance pouze pracemi, které jsou přiměřené jejich fyzickému a
+> rozumovému rozvoji a poskytnout jim při práci zvýšenou péči (§ 244);
+> zaměstnávaní mladistvých zaměstnanců určitými pracemi zákoník práce
+> zakazuje (§ 246 a 247). Obecně je zakázáno zaměstnávat mladistvé
+> zaměstnance pracemi, které jsou vzhledem k anatomickým, fyziologickým a
+> psychickým zvláštnostem v tomto věku pro ně nepřiměřené, nebezpečné nebo
+> škodlivé jejich zdraví (§ 246 odst. 2 zákoníku práce). Platná právní
+> úprava vychází současně z pojetí, že se při porušení těchto povinností
+> zaměstnavatelem bude mladistvý zaměstnanec bránit sám prostředky, které
+> mu poskytuje zákoník práce, popřípadě že buď zasáhne stát, to je orgán
+> veřejné moci příslušný podle zák. č. 251/2005 Sb., o inspekci práce,
+> popř. podle dalších právních předpisů veřejného práva (např. zák. č.
+> 61/1988 Sb., zák. č. 18/1997 Sb.) nebo odborová organizace (§ 322
+> zákoníku práce). Toto pojetí - v souvislosti se současným pojetím
+> pracovněprávní subjektivity všech osob mladších 18 let - zcela vylučuje
+> zákonné zástupce mladistvého zaměstnance, především tedy jeho rodiče, z
+> možnosti účinně zasáhnout k jeho ochraně, pokud zaměstnavatel uvedené
+> povinnosti porušuje. Ten stav se ocitá v rozporu s pojetím rodičovské
+> zodpovědnosti v § 31 a násl. zákona o rodině, ze které již podle tohoto
+> zákona (§ 31 odst. 1 a 2) vyplývají povinnosti a práva rodičů pečovat o
+> zdraví dítěte a jeho tělesný, citový, rozumový a mravní vývoj. Ocitá se
+> v rozporu i s čl. 32 odst. 1 a 4 Listiny základních práv a svobod, podle
+> nichž jsou rodičovství a rodina pod ochranou zákona a péče o děti je
+> právem rodičů. Rodičovská zodpovědnost trvá, dokud dítě nenabude plné
+> svéprávnosti a návrh občanského zákoníku rodičovskou odpovědnost proti
+> dosavadnímu stavu ještě více zesiluje. Není rozumný důvod, proč rozsah
+> rodičovské odpovědnosti omezit i v případech, kdy je osoba mladší 16 let
+> zavázána k závislé práci, tedy nutně, jak se shoduje nauka pracovního
+> práva, slabší smluvní stranou. Stejně tak není rozumný důvod spoléhat,
+> že se každý mladistvý zaměstnanec, tedy i mladší 16 let, při porušení
+> povinností zaměstnavatelem dostatečně ochrání sám, popřípadě že takového
+> zaměstnance dostatečně ochrání stát, odborová organizace nebo jiný
+> zástupce zaměstnanců.
+>
+> Pokud jde o mezinárodní smlouvy a jiné nadnárodní prameny práva, kterými
+> je Česká republika vázána, poukazuje se na následující. Mezinárodní pakt
+> o hospodářských, sociálních a kulturních právech zavazuje v čl. 10
+> členské státy k opatřením pro nejširší možnou ochranu a pomoc rodině,
+> zvláště po dobu, kdy mj. odpovídá za péči a výchovu nezletilých dětí.
+> Úmluva o právech dítěte stanoví, že to jsou rodiče, kdo mají prvotní
+> odpovědnost za výchovu a vývoj dítěte (čl. 18) a základní odpovědnost za
+> zabezpečení životních podmínek nezbytných pro rozvoj dítěte a ukládá
+> členským státům povinnost poskytnout rodičům pomoc při uskutečňování
+> tohoto práva (čl. 27). Skutečnost, že se osoba mladší 18 let - tedy dítě
+> ve smyslu Úmluvy (čl. 1) - může sama zavázat k výkonu závislé práce,
+> ještě neznamená, že je sama dostatečně způsobilá bránit se proti
+> hospodářskému vykořisťování, včetně zaměstnávání pracemi, které jsou pro
+> ni nebezpečné, škodící zdraví nebo tělesnému, duševnímu, duchovnímu,
+> mravnímu nebo sociálnímu rozvoji (čl. 32), popř. proti jinému
+> vykořisťování (čl. 34 a 36). To tím spíše, že podle platné i podle
+> navrhované úpravy taková osoba k tomu není plně způsobilá v jiných
+> oblastech sociálního života. Platný právní stav tedy jednostranně
+> zdůrazňuje význam čl. 12 a 16 Úmluvy, podle které má dítě právo na
+> vlastní názor a na to, aby jeho názoru byla věnována patřičná pozornost,
+> pomíjí však význam výše citovaných ustanovení Úmluvy a také její čl. 5,
+> podle kterého se členské státy mj. zavázaly respektovat odpovědnost,
+> práva a povinnosti rodičů, které směřují k zabezpečení orientace osob
+> mladších 18 let a k jejich usměrňování při výkonu jejich práv.
+>
+> O statusovou záležitost se jedná v případě § 35 odst. 1, proto její
+> úprava patří do návrhu občanského zákoníku. V případě § 35 odst. 2
+> v plném rozsahu však o statusovou otázku nejde, protože se jedná o
+> rozvázání pracovního poměru nebo dohody o provedení práce, popřípadě
+> dohody o pracovní činnosti. Navrhuje se proto, aby byl způsob rozvázání
+> upraven v zákoníku práce; předpokládá se, že by se mělo postupovat
+> cestou okamžitého zrušení pracovního poměru nebo dohody o provedení
+> práce, popřípadě dohody o pracovní činnosti ze strany zákonného
+> zástupce. Aby se předešlo praktickým problémům, předpokládá se --
+> obdobně jako je tomu v § 33 odst. 1 návrhu občanského zákoníku -- že
+> k platnosti okamžitého zrušení ze strany zákonného zástupce by mělo být
+> zapotřebí přivolení soudu.
+>
+> To, že před svým rozhodnutím budou muset zákonní zástupci nezletilému
+> zaměstnanci umožnit svobodné vyjádření názoru a věnovat mu patřičnou
+> pozornost, je samozřejmé, a ustanovení o rodičovské odpovědnosti v druhé
+> části zákona to dostatečně zohledňují.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1160,6 +1667,8 @@ Nezletilý je způsobilý jen k jednáním přiměřeným rozumové a volní vys
 - Vůči **třetí osobě v dobré víře** stačí souhlas jednoho zástupce (chrání obchodní styk).
 - Pokud třetí osoba **věděla**, že si zástupci odporují, vyžaduje se konsenzus obou.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 31 až 36“ (dnešní § 31—36) — viz § 31.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 4* [30 C 77/2020-82](https://rozhodnuti.justice.cz/rozhodnuti/?id=795a7ce1-1c77-43e8-ac49-e47ab7c15197) — *peněžité plnění*
@@ -1228,6 +1737,8 @@ Souhlas zákonného zástupce zakládá nezletilému dílčí svéprávnost v me
 - Souhlas je **odvolatelný jen s přivolením soudu** (odst. 3) — chrání nezletilého před libovolným odvoláním souhlasu zákonným zástupcem (typicky v případě rodinného konfliktu).
 
 **Příklad:** 16letý nezletilý chce provozovat e-shop. Rodič dá souhlas, soud schválí. Nezletilý získá živnostenský list, vystavuje faktury, podává daňové přiznání. Pokud později rodič chce souhlas odvolat (např. proto, že podnikání podle něj brání školní docházce), musí podat návrh soudu, který posoudí, zda je odvolání v zájmu nezletilého.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 31 až 36“ (dnešní § 31—36) — viz § 31.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1300,6 +1811,10 @@ Nezletilý může samostatně provozovat závod, udělí-li zástupce souhlas a 
 - Inspektoráty práce kontrolují dodržování (vysoké pokuty zaměstnavatelům).
 - Rodič může podat **návrh u soudu na zrušení pracovního závazku** nezletilého, který by mu byl k újmě (§ 35 OZ ZP § 56a).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 31 až 36“ (dnešní § 31—36) — viz § 31.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 31 až 36“ (dnešní § 31—36) — viz § 31.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [I. ÚS 626/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-626-14_1) — usnesení, 26. 6. 2014
@@ -1364,6 +1879,8 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 § 36 odst. 2 zavádí mechanismus **odložené účinnosti**: nezletilý uzavře smlouvu, ale účinky nastanou až schválením zákonného zástupce (default lhůta 2 týdny od vyžádání). Tento mechanismus chrání druhou stranu — vyzve zákonného zástupce, ten do 2 týdnů odpoví; pokud neodpoví, mlčení se vykládá jako odmítnutí.
 
 **Výjimky** (věta poslední): netýká se právních jednání **osobní povahy** (např. souhlas s lékařským zákrokem — § 95) a jednání podle § 33 (provozování závodu se souhlasem soudu).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 31 až 36“ (dnešní § 31—36) — viz § 31.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1445,6 +1962,32 @@ Existuje tvrdá hranice: v záležitostech vyžadujících přivolení soudu i u
 - Možnost samostatné účasti v řízeních (procesní subjektivita podle § 19 OSŘ).
 
 **Ireverzibilita** — jednou přiznaná svéprávnost se nedá odebrat (analogicky § 30 odst. 2 — ireverzibilita svéprávnosti nabyté manželstvím). Pokud by později došlo k duševní poruše, lze postupovat podle § 55—65 (omezení svéprávnosti) — ale to už je samostatný institut.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 37 návrhu — dnešní § 37):**
+
+> Tradiční právní systémy vycházely z pojetí, že lze v určitých případech
+> nezletilému „přidat", resp. prominout léta (*venia aetatis*), a v
+> důsledku toho jej učinit svéprávným dříve, než dosáhne stanovené věkové
+> hranice. Naše právo tento institut opustilo v r. 1950 s odůvodněním, že
+> toto řešení není po snížení věku pro dosažení zletilosti na osmnáct let
+> již namístě, a nadále umožnilo dosáhnout plné způsobilosti k právním
+> úkonům před dosažením věku 18 let jen uzavřením manželství. Nelze však
+> přehlížet, že vyspělé právní řády pro zvláštní případy, byť i ony
+> snížily obecnou hranici pro dosažení zletilosti (obvykle na osmnáct nebo
+> devatenáct let), znají řešení, jak nezletilým umožnit, aby svéprávnosti
+> dosáhli dříve (např. Rakousko, Španělsko, Québec, Rusko).
+>
+> Navrhuje se proto upravit i v našem občanském právu institut přiznání
+> svéprávnosti (emancipace) nezletilému, přičemž inspirací jsou zejména
+> moderní ruská a québecká úprava. Podle návrhu má být nezletilý soudně
+> prohlášen za svéprávného, navrhne-li to on sám, anebo zákonný zástupce s
+> jeho souhlasem. Jsou-li splněny podmínky dosažení věku šestnáct let,
+> souhlasu zákonných zástupců a osvědčení, že nezletilý je s to sám se
+> živit a obstarat si své záležitosti, předpokládá se, že nebude důvod pro
+> delší soudní řízení, neboť soud má mít povinnost za těchto okolností
+> návrhu vyhovět. Vyskytnou-li se zvláštní případy, bude věcí soudu, aby
+> zvážil, nakolik návrh odpovídá zájmům nezletilého a jsou-li pro jeho
+> emancipaci vážné důvody.
 
 **Judikatura (z místních zdrojů):**
 

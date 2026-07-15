@@ -38,6 +38,8 @@
 - Sm. 86/653/EHS (obchodní zástupci);
 - Sm. 1999/44/ES (prodej spotřebního zboží — nahrazena 2019/771).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Český e-shop A je v reklamačním sporu se spotřebitelem ohledně vadné pračky. Spotřebitel namítá, že na vztah dopadá směrnice 2011/83/EU a 2019/771 (prodej zboží), a dovolává se eurokonformního výkladu OZ. Prodejce naopak tvrdí, že se použije pouze český OZ. Důkazy: kupní smlouva, reklamační protokol, znění příslušných ustanovení OZ a jejich srovnání s textem směrnice.
@@ -85,6 +87,8 @@
 - Zákon č. 159/1999 Sb. o cestovním ruchu.
 
 **Princip**: zvláštní ochrana **nad rámec OZ** zůstává v platnosti — OZ je obecná úprava.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 **Judikatura (z místních zdrojů):**
 
@@ -138,6 +142,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - **Rozhodčí řízení** (zákon č. 216/1994 Sb. o rozhodčím řízení);
 - **Mediaci** (zákon č. 202/2012 Sb. o mediaci).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Ostravě* [33 C 70/2025-244](https://rozhodnuti.justice.cz/rozhodnuti/?id=b44f3927-fb20-4b65-9bae-72eef4b40cf0) — *zavinění, pracovní poměr, smlouva pracovní, bezdůvodné obohacení, jistota, podnikatel, r…*
@@ -183,6 +189,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 > Povinnost zveřejnit údaje je splněna jejich zveřejněním v Obchodním věstníku, nestanoví-li jiný právní předpis jinak.
 
 **Obchodní věstník** je výchozím médiem pro publikační povinnosti — nestanoví-li jiný zákon jinak. (Praktický význam: kapitálové změny, převody závodu, fúze.)
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 **Judikatura (z místních zdrojů):**
 
@@ -235,6 +243,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **Identifikační údaje**:
 - **FO**: jméno + bydliště + datum narození (nebo **rodné číslo** dle § 16 zákona č. 133/2000 Sb. o evidenci obyvatel);
 - **PO/podnikatel**: **IČO** (identifikační číslo osoby — zákon č. 304/2013 Sb.).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 **Judikatura (z místních zdrojů):**
 
@@ -297,6 +307,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 **Výjimka**: ne pro **určování rodičovství** (= § 776, 777 OZ — domněnky otcovství). 
 
 **Pozn.**: V letech 2023—2025 probíhala diskuse o **plné rovnoprávnosti** (manželství pro stejnopohlavní páry) — zákon č. 124/2024 Sb. od 1. 1. 2025 (institut „rodina" rozšířen, ale formálně manželství zachováno jako "muž a žena" — sporné, vede k novelizacím).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 **Judikatura (z místních zdrojů):**
 
@@ -370,6 +382,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - Trestní zákoník č. 40/2009 Sb. (§ 199 — týrání osoby ve společném obydlí).
 
 **Aplikace § 751—753 OZ** na společné bydlení i mimo manželství (odst. 3).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
 
 #### F. Kazuistika
 
@@ -454,6 +468,39 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 **§ 3027 — Dostatečná jistota** — pokud neujednána, určí **soud**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2985 až 2997“ (dnešní § 3014—3026) — viz § 3014.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2994 návrhu — dnešní § 3023):**
+
+> Navrhuje se převzít z platné právní úpravy (§ 21 odst. 2 a § 22
+> obchodního zákoníku) ustanovení vymezující pro účely soukromého práva
+> zahraniční osoby. Toto ustanovení je potřebné zejména v souvislosti s
+> ustanoveními chránícími spotřebitele, neboť tato ustanovení ukládají
+> zahraničním osobám např. zvláštní informační povinnosti, jejichž
+> porušení zakládá spotřebiteli právo odstoupit od smlouvy. Z tohoto
+> hlediska není u fyzických osob podstatné jejich státní občanství; státní
+> občanství není pro soukromé právo rozhodné. Vymezení zahraničních
+> právnických osob má krom toho význam i pro navrženou úpravu přemísťování
+> sídla právnických osob.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2998 návrhu — dnešní § 3027):**
+
+> Obecné pravidlo prvního odstavce přejímá myšlenku čl. 4 uvozovacího
+> zákona k německému občanskému zákoníku. Návrh se jeví jako užitečný,
+> ne-li naprosto nutný, nechce-li se osnova vydat cestou nemístné
+> kazuistiky a obsáhlých výčtů. Druhý odstavec vyjadřuje zásadu, že nový
+> občanský zákoník nezasahuje do necivilistických odvětví, ani do
+> soukromých práv upravených zvláštními zákony (jedná se zejména o právo
+> obchodní, pracovní, autorské a další).
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3522/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/32C78E67D8952414C12585B900160DDF?openDocument) — *Odbory*
@@ -518,6 +565,34 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
 - Smlouva uzavřená v 2013 a stále trvající 2026 → **starý OZ** (40/1964 Sb. + obchodní zákoník);
 - Nájemní vztah uzavřený 2010 → ZVLÁŠŤ: nájem se řídí novým OZ od 1. 1. 2014 (§ 3074);
 - Vlastnictví nabyté 2010 → nový OZ od 1. 1. 2014 pro otázky výkonu, ochrany, atd.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 2999 a 3000 návrhu — dnešní § 3028—3029):**
+
+> Jedná se o nejdůležitější z přechodných ustanovení, které vyjadřuje
+> zásadu, že zákony nepůsobí nazpět a že novým zákonem se řídí práva a
+> povinnosti vzniklé ode dne jeho účinnosti. Pokud jde o práva osobní,
+> rodinná a věcná, byť vznikla za účinnosti dosavadních právních předpisů,
+> mají být i na ně po dni účinnosti občanského zákoníku aplikováno nové
+> právo; jedná se o standardní civilistické pravidlo, které sleduje
+> stejnou linii jako dosavadní přechodná ustanovení našeho civilistického
+> zákonodárství. Naproti tomu jiné právní poměry než osobní, rodinné a
+> věcněprávní - tedy především obligační založené smlouvami - se mají
+> podle třetího odstavce spravovat dosavadními předpisy až do svého
+> zániku. Přejímá se tu myšlenka § 763 odst. 1 platného obchodního
+> zákoníku a respektuje se hledisko právní jistoty smluvních stran, které
+> smlouvu uzavřely za určitých podmínek a v určitém právním prostředí a
+> nemohly předpokládat, že dojde ke změně zákonné úpravy, popřípadě kdy k
+> ní dojde. Vzhledem ke kogentní povaze přechodných ustanovení se navrhuje
+> výslovně stanovit, že zákonná konstrukce nebrání odchylnému ujednání
+> stran a jejich dohodě o novaci, jíž se smlouva přizpůsobí novému
+> právnímu režimu.
+>
+> Jeví se však jako účelné vztáhnout i na právní případy podřízené
+> dosavadním právním předpisům obecné zásady Hlavy první Části první
+> včetně důrazu na zásadní dispozitivitu soukromoprávních ustanovení a
+> zejména na ústavní konformitu jejich výkladu s respektem k obecným
+> právním zásadám, jakož i na obecnou presumpci i ochranu dobré víry a
+> zákaz zneužití soukromých oprávnění.
 
 **Judikatura (z místních zdrojů):**
 
@@ -594,6 +669,12 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
 - Generální klauzule výkladu;
 - Aplikuje se **retroaktivně** v rovině výkladu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 2999 a 3000“ (dnešní § 3028—3029) — viz § 3028.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3001 návrhu — dnešní § 3030):**
+
+> Ustanovení řeší dokončení pendentních řízení podle obecné zásady.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 3940/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3940-14_1) — usnesení, 24. 2. 2015
@@ -668,6 +749,27 @@ Blok § 3022—3027 obsahuje různorodá společná pravidla: opatrovník (§ 30
 - **§ 3033 — Zbavení způsobilosti** přede dnem účinnosti → **nabývají svéprávnosti** nejpozději **5 let od účinnosti** (= **31. 12. 2018**), pokud soud nerozhodne jinak. **Klíčové ustanovení**, které vedlo k masivnímu přezkumu rozhodnutí o zbavení způsobilosti.
 - **§ 3034—3035** — Předem vyjádřená přání + řízení o osvojení.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 3002 až 3005 návrhu — dnešní § 3031—3034):**
+
+> Ustanovení § 3002 a 3003 jsou standardní povahy. Ustanovení § 3004 a
+> 3005 reagují na nově navrženou právní úpravu a sledují posílení právní
+> ochrany dotčených osob. Přípravným řízením v § 3005 směřujícím
+> k osvojení zahájeným před účinností tohoto zákona se myslí i řízení
+> zahájené orgánem sociálně právní ochrany podle dosavadních právních
+> předpisů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3006 a 3007 návrhu — dnešní § 3035—3036):**
+
+> Obecné pravidlo, podle něhož se lhůty a doby, které začaly běžet přede
+> dnem účinnosti tohoto zákona, jakož i lhůty a doby pro uplatnění práv,
+> která se podle předchozího ustanovení řídí dosavadními právními
+> předpisy, i když začnou běžet po účinnosti tohoto zákona, posuzují až do
+> svého zákonu podle dosavadních právních předpisů, opět sleduje zásadu,
+> že zákony nepůsobí nazpět a standardní normativní konstrukce upravené
+> jak v § 870 platného občanského zákoníku, tak i v § 763 odst. 2 platného
+> obchodního zákoníku. Výjimka navržená v § 2989 sleduje stanovení ústavně
+> konformního pravidla rovnosti osob.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [21 Cdo 811/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/411669FA489E58ECC1257F5500409127?openDocument) — *Osvojení Žaloba určovací Účastníci řízení*
@@ -721,6 +823,8 @@ Blok § 3031—3035 transformuje dosavadní statusy: zbavení/omezení způsobil
 
 **§ 3037 — Ochrana osobnosti**: lhůta k zániku práva začíná běžet od **1. 1. 2014** (pro porušení před tímto datem).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 3006 a 3007“ (dnešní § 3035—3036) — viz § 3035.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Promlčecí (resp. prekluzivní) lhůta u nároku začala běžet podle starého OZ v roce 2012 a do 1. 1. 2014 zčásti uplynula. Vedle toho byla v roce 2013 narušena osobnostní práva poškozeného a ten v roce 2016 uvažuje o žalobě. Soud řeší, podle jakého práva se posoudí běh a délka lhůt. Důkazy: doklad o počátku běhu lhůty, datum zásahu do osobnostních práv.
@@ -773,6 +877,25 @@ Blok § 3031—3035 transformuje dosavadní statusy: zbavení/omezení způsobil
 **§ 3039 — Bezúplatně nabyté věci** (před 2014) nejsou součástí SJM (pokud nebyly výslovně začleněny).
 
 **§ 3040 — Restituční majetek** vyloučen ze SJM.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3008 a 3009 návrhu — dnešní § 3038—3039):**
+
+> Ani v oblasti manželského majetkové práva se nenavrhuje výrazněji
+> zasahovat do záležitostí rodiny více, než je nutné, a proto se návrh v
+> tom směru omezuje na dva výjimečné případy. První z nich se týká ochrany
+> obvyklého vybavení rodinné domácnosti, kterou návrh podřizuje zvláštnímu
+> právnímu režimu. Druhá výjimka sleduje zachovávat dosavadní právní režim
+> platný pro majetek nabytý manželi - některým z manželů - bezúplatně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3010 návrhu — dnešní § 3040):**
+
+> Navrhuje se převzít z ustanovení § 143 odst. 1 písm. a) platného
+> občanského zákoníku právní pravidlo, podle kterého nejsou součástí
+> společného jmění manželů věci získané jedním z manželů podle právních
+> předpisů o restituci majetku. Úprava však není zařazena mezi ustanovení
+> o manželském majetkovém právu v části druhé, protože majetková
+> vypořádání restituční povahy představují dočasný jev, který je v
+> současné úpravě takřka dokončen.
 
 #### F. Kazuistika
 
@@ -856,6 +979,56 @@ Oddíl 3 (§ 3038—3040) zpřesňuje rozsah SJM po rekodifikaci: obvyklé vybav
 
 **§ 3053**:
 > Právní povaha a vnitřní právní poměry právnických osob vyvíjejících podnikatelskou činnost, které se řídí do dne nabytí účinnosti tohoto zákona dřívějšími právními předpisy podle § 767 odst. 2 zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zůstávají nezměněny a nadále se řídí právními předpisy, podle nichž byly zřízeny.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3011 až 3016 návrhu — dnešní § 3041—3046):**
+
+> Jedná se o standardní ustanovení, která sledují obecnou zásadu, podle
+> níž nová zákonná úprava osobního statusu dopadá ode dne účinnosti nového
+> zákona i na právní poměry dosud trvající. Pro případy, že právnická
+> osoba byla založena přede dnem účinnosti občanského zákoníku, navrhuje
+> se zachovat platnost její společenské smlouvy nebo jiného
+> zakladatelského právního jednání, vyhovuje-li alespoň ustanovením nového
+> zákona. Jde o výraz zásady, že na právní jednání má být hleděno spíše
+> jako na platné než jako na neplatné. I navržené právní pravidlo, podle
+> něhož mají být řízení o zápisu právnických osob do příslušných veřejných
+> rejstříků zahájená před účinností tohoto zákona dokončena podle
+> dosavadních právních předpisů, vychází vstříc zásadám autonomie vůle a
+> právní jistoty. Totéž má obdobně platit i pro přeměny právnických osob.
+>
+> Stalo-li se však založení právnické osoby či stala-li se její přeměna za
+> účinnosti dosavadních právních předpisů neplatně, není možné do budoucna
+> držet pravidlo o absolutní neplatnosti někdejšího právního úkonu s
+> možností prohlásit právnickou osobu v důsledku toho za po právu
+> neexistující. Proto se navrhuje, aby bylo po účinnosti nového občanského
+> zákoníku vztaženo i na tyto případy ustanovení § 128.
+>
+> Nová zákonná úprava může u dosud existujících právnických osob vyvolat
+> nutnost přizpůsobit jí obsah dosavadních společenských smluv, stanov,
+> statutů nebo jiných zakladatelských právních jednání. S ohledem na stav
+> zdejšího právního prostředí se navrhuje stanovit pro tyto případy dobu
+> tří let, která se jeví být dostatečně dlouhá k tomu, aby se uvedená
+> právní jednání nové právní úpravě přizpůsobila.
+>
+> Podrobnější přechodná ustanovení věnovaná spolkům a nadacím sledují
+> stejné zásady, jak byly vytčeny výše.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3017 návrhu — dnešní § 3047):**
+
+> Navrhuje se stanovit stejné právní pravidlo, jaké bylo dříve pro obdobné
+> případy stanoveno při novelování obchodního zákoníku v návaznosti na
+> usnesení valných hromad obchodních společností. Umožní se tím soudu
+> zachovat platnost rozhodnutí orgánu občanského sdružení, třebaže došlo k
+> marginálnímu porušení zákona, stejně tak se posílí právní postavení
+> navrhovatele, neboť mu vznikne právo na přiměřené zadostiučinění,
+> byla-li porušena jeho práva člena sdružení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3018 návrhu — dnešní § 3048):**
+
+> Předpokládá se, že do dne účinnosti občanského zákoníku bude připraven,
+> přijat a vstoupí v účinnost zákon o spolkovém rejstříku. Pro případ, že
+> by k tomu nedošlo, se navrhuje stanovit přechodné opatření, podle
+> kterého budou spolky až do účinnosti zákona o spolkovém rejstříku
+> registrovány podle dosavadních právních předpisů.
 
 ### Oddíl 4 — Právnické osoby (§ 3041—3053)
 
@@ -954,6 +1127,85 @@ Oddíl 4 (§ 3041—3053) ukládá právnickým osobám existujícím před 1. 1
 **§ 3065**:
 > Jedná-li se o věcné právo, které přede dnem nabytí účinnosti tohoto zákona nepodléhalo zápisu do veřejného seznamu, nastanou vůči těmto právům účinky přednosti zapsaných věcných práv podle § 981 a účinky pořadí věcných práv podle § 982 odst. 1 dnem 1. ledna 2018.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 3024 až 3031 návrhu — dnešní § 3056—3063):**
+
+> Protože se nový občanský zákoník vrací k zásadě *superficies solo
+> cedit,* je nezbytné reagovat na stav trvající od r. 1951, kdy byl právní
+> režim pozemků a staveb oddělen. Ve stejné situaci se ocitlo sjednocené
+> Německo, pokud jde o území bývalé NDR (a obdobně i Rusko, které se svým
+> novým občanským zákoníkem rovněž vrátilo k zásadě, podle níž povrch
+> ustupuje pozemku, dokonce po více než sedmdesáti letech). Vzhledem k
+> tomu, že bývalý občanský zákoník NDR (ZGB DDR) oddělil pro určité
+> případy (§ 287 až 294) vlastnictví pozemku a stavby, byl při sjednocení
+> Německa novelizován uvozovací zákon k BGB v části týkající se
+> přechodných ustanovení sledující obnovení zásady *superficies solo
+> cedit* i pro území nových spolkových zemí. Touto úpravou se inspirují i
+> zdejší přechodná ustanovení.
+>
+> Je zřejmé, že právní spojení stavby s pozemkem v jedinou nemovitou věc
+> nelze ve všech situacích zajistit postupem obdobně jednoduchým a
+> kategorickým, jakým bylo vlastnické právo k pozemku a ke stavbě
+> občanským zákoníkem z r. 1950 právně odděleno. Proto se navrhuje obnovit
+> toto právní spojení dnem účinností nového zákona jen v těch případech,
+> kdy dosavadní (tj. oddělené) vlastnické právo k pozemku i ke stavbě
+> náleží téže osobě. Naopak v případech, kdy vlastnické právo k pozemku a
+> ke stavbě náleží různým osobám, odkládá se právní spojení pozemku a
+> stavby v jednu nemovitou věc až do doby, kdy se vlastnictví pozemku i
+> stavby spojí v rukou jediného vlastníka. Za tím účelem se navrhuje
+> založit vlastníkovi pozemku zákonné předkupní právo ke stavbě a
+> vlastníku stavby zákonné předkupní právo k pozemku, popřípadě k
+> příslušné části pozemku, lze-li pozemek funkčně rozdělit.
+>
+> Zvláštní úpravu vyžaduje situace, kdy se převádí pozemek, na němž je
+> zřízena některá ze staveb, které nepodléhají zápisu do katastru
+> nemovitostí, jako jsou např. drobné stavby (typicky stavby s jedním
+> nadzemním podlažím o zastavěné ploše do 16 m^2^ a výšce do 4,5 m),
+> stavby, které nejsou budovami, některé technické stavby a další. Protože
+> takové stavby nejsou zapsány do veřejného seznamu, nelze se opřít o
+> zásadu veřejné důvěry v katastr, a není tedy ani vyloučen případ, kdy
+> vlastník pozemku převede vlastnické právo k pozemku a nabyvatel bude
+> vzhledem k okolnostem konkrétního případu v dobré víře, že nabývá
+> vlastnické právo k pozemku i se stavbou. I v těchto případech má dojít,
+> obdobně jako podle analogické německé úpravy, k právnímu spojení stavby
+> s pozemkem a k vzniku vlastnického práva nabyvatele. Dosavadní vlastník
+> stavby však musí být za ztrátu vlastnického práva odškodněn, a proto se
+> mu zakládá právo na náhradu škody vůči zciziteli.
+>
+> Zvláštní úpravu rovněž vyžaduje situace, kdy stavba zasahuje několik
+> pozemků. Pro tyto případy se, opět obdobně jako v analogické úpravě
+> německé, navrhuje stanovit, že se výše uvedená právní pravidla vztahují
+> jen na pozemek, na němž stojí převážná část stavby, zatímco pokud jde o
+> pozemky, na něž části stavby jen přesahují, se použijí ustanovení o
+> přestavku (§ 1080).
+>
+> Dojde-li k právnímu spojení pozemku a stavby, může se změna dotknout
+> věcných práv případně ke stavbě zřízených ve prospěch třetích osob.
+> Většina myslitelných případů nevyžaduje zvláštní zákonnou úpravu: při
+> právním spojení stavby a pozemku přechází věcné právo na pozemek a
+> zatěžuje jej v nezměněném rozsahu.
+>
+> Zvláštní řešení však vyžadují dvě situace.
+>
+> Za prvé to je případ, kdy před právním spojením pozemku a stavby byla
+> stavba zatížena zástavním právem; pro tento případ se navrhuje stanovit,
+> že zástavní právo přechází na pohledávku na náhradu škody. Je nutné mít
+> na paměti, že dnes sice zástavní práva k nemovitým věcem nezapsaným do
+> katastru nemovitostí vznikají až jejich zápisem do Rejstříku zástav
+> vedeného Notářskou komorou ČR, příslušná právní úprava (provedená
+> zákonem č. 367/2000 Sb.) však nabyla účinnosti až 1. ledna 2001, a je
+> tedy nutné pamatovat i na zástavní práva vzniklá případně dříve. Stejně
+> tak je nutné mít na paměti, že zástavní práva vzniklá jinak než smlouvou
+> zápisu do tohoto rejstříku nepodléhají.
+>
+> Za druhé to je případ, kdy oddělené vlastnictví k pozemku i ke stavbě
+> trvá a vlastník pozemku zřídí třetí osobě, která je v dobré víře, že
+> součástí pozemku je i stavba, k pozemku věcné právo (např. zástavní).
+> Pak se, opět recepcí německé úpravy, navrhuje stanovit, že se vůči této
+> třetí osobě hledí na pozemek i stavbu jako na věc jedinou s tím, že
+> vlastník stavby je oprávněn požadovat na zřizovateli věcného práva
+> náhradu škody. Rovněž se v této souvislosti pamatuje na případ, že
+> stavba mohla být dříve zatížena zástavním právem.
+
 ### Oddíl 5 — Věcná práva (§ 3054—3068)
 
 **KLÍČOVÝ ÚSEK** — řešení **návratu *superficies solo cedit*** (§ 506 OZ).
@@ -1023,6 +1275,14 @@ Oddíl 5 (§ 3054—3068) řeší návrat zásady superficies solo cedit: stavba
 **§ 3067**:
 > **Opuštění nemovité věci**
 > Je-li opuštěna nemovitá věc, počne běžet doba uvedená v § 1050 odst. 2 ode dne nabytí účinnosti tohoto zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3033 návrhu — dnešní § 3067):**
+
+> Osnova počítá s derelikcí nemovité věci a navrhuje stanovit
+> vyvratitelnou právní domněnkou, že vlastník nemovitou věc opustil,
+> nevykonává-li k ní po dobu deseti let vlastnické právo. V zájmu ústavní
+> konformity musí být stanoveno, že desetiletá doba počne běžet až ode dne
+> účinnosti tohoto zákona.
 
 ### Oddíl 6 — Dědické právo (§ 3069—3072)
 
@@ -1125,6 +1385,70 @@ Oddíl 6 (§ 3069—3072) podřizuje dědění právu platnému ke dni smrti zů
 **§ 3079 — Náhrada škody za delikt před 2014**:
 - **Posuzuje se podle starého OZ**;
 - **Výjimka**: pokud soud nerozhodl, lze přiznat **nemajetkovou újmu dle nového OZ** z důvodů zvláštního zřetele.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3038 návrhu — dnešní § 3073):**
+
+> Ustanovení § 3038 zčásti opakuje obecné právní pravidlo § 2998 odst. 3,
+> rozšiřuje však jeho působení i na zajišťovací práva věcněprávní povahy.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3039 až 3041 návrhu — dnešní § 3074—3076):**
+
+> Odpovídá standardním řešením, že se nájem, se zřetelem k jeho
+> dlouhodobosti, posuzuje od účinnosti nového zákona podle jeho úpravy -
+> pokud jde o práva a povinnosti vzniklé za účinnosti nového zákona.
+> Zároveň se navrhuje zmírňující ustanovení k ochraně nabytých práv
+> spojených s tzv. starými nájmy. S tím také souvisí i návrh ustanovení
+> přijatého na základě připomínky Svazu měst a obcí (§ 3039 odst.2)
+> zohledňujícího existenci zákona č. 107/2006 Sb., o jednostranném
+> zvyšování nájemného z bytu a o změně občanského zákoníku, jehož platnost
+> a účinnost má skončit k 31. 12. 2010.
+>
+> Nepravá retroaktivita se však výslovně vylučuje u nájmu movitých věcí a
+> u pachtu; v obou případech jde o důvody především praktické. Nájem
+> movitých věcí je zpravidla krátkodobý, a proto není důvod měnit v jeho
+> průběhu právní režim závazku. Naproti tomu u pachtu je třeba zohlednit,
+> že platné právo pachtovní smlouvu neupravuje a nejčastější případy,
+> které věcně odpovídají pachtu, upravuje dnes zákon o půdě; do nich návrh
+> nemíní zasahovat. Pokud jde o pacht závodu, resp. nájem podniku upravený
+> dnes v § 488 a násl. obchodního zákoníku, jde o úpravu vykazující takové
+> nedostatky, že její praktické využití je marginální, a tudíž ani tu není
+> třeba výslovné ustanovení. Ostatní případy nájemních smluv uzavřených za
+> účinnosti dosavadního občanského zákoníku, které věcně odpovídají nově
+> upravené pachtovní smlouvě, nejsou takového významu, aby bylo nutné
+> měnit právní režim nájmu přechodným ustanovením, které má ve své
+> podstatě výjimečnou povahu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3042 návrhu — dnešní § 3077):**
+
+> Z obdobných důvodů, z jakých se to stalo v dosavadní právní úpravě (§
+> 763 platného obchodního zákoníku), tedy se zřetelem k dlouhodobé povaze
+> závazků ze smluv o běžném účtu a o vkladovém účtu, se navrhuje stanovit,
+> že se závazky z těchto smluv řídí novým zákonem. Speciální přechodné
+> ustanovení pamatuje na případ, kdy byla podle dosavadní právní úpravy
+> výplata z vkladní knížky vázána na sdělení hesla, na přivolení třetí
+> osoby nebo na skutečnost, o níž je jisto, že nastane, což bylo možno
+> učinit jednostranným právním úkonem vkladatele. V těchto případech se
+> tato vázanost řídí i nadále dosavadní právní úpravou, neboť nová právní
+> úprava tento způsob založení vázanosti nezná.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 3043 návrhu — dnešní § 3078):**
+
+> Dosavadní úprava cestovní smlouvy v § 852a a následujících platného
+> občanského zákoníku - zejména administrativním pojetím pořadatele
+> zájezdu jako cestovní kanceláře a bezvýjimečným požadavkem na písemnou
+> formu smlouvy - jednak neodpovídá příslušné evropské směrnici (č.
+> 90/314/EHS), jednak představuje riziko, že smlouva tomu odporující bude
+> prohlášena za neplatnou. Tomu se snaží navržené přechodné ustanovení
+> čelit. Zároveň se navrhuje stanovit, že i pro dosavadní cestovní smlouvy
+> platí § 2514, tedy, že pořadatel zájezdu odpovídá cestujícímu za splnění
+> povinností ze smlouvy o zájezdu bez zřetele k tomu, zda v rámci zájezdu
+> poskytují jednotlivé služby cestovního ruchu jiné osoby. Rovněž se
+> navrhuje stanovit, že rozhoduje-li se za účinnosti tohoto zákona o
+> náhradě škody z porušení cestovní smlouvy uzavřené za účinnosti
+> dosavadních právních předpisů, a to i když k porušení povinnosti
+> cestovní kanceláře došlo před účinností tohoto zákona, použije se § 2515
+> a cestujícímu se přizná právo na odčinění újmy za ztrátu radosti z
+> dovolené.
 
 #### F. Kazuistika
 

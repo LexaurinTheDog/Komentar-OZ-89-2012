@@ -35,6 +35,33 @@ Tato kapitola pokrývá:
 
 **Klíčové: numerus clausus absolutních práv** (§ 977) — jen zákon stanoví, která práva jsou absolutní. Strany **nemohou samy vytvořit** nový typ věcného práva (na rozdíl od inominátních smluv § 1746).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 970 až 972 návrhu — dnešní § 976—978):**
+
+> Celková liberalizace zákonné regulace soukromého života, kterou osnova
+> sleduje, vyžaduje jasné odlišení zákonného přístupu k absolutním a
+> relativním majetkovým právům. Protože absolutní majetková práva (práva
+> věcná a právo dědické) působí vůči každému a zakládají mj. i povinnosti
+> třetím osobám, omezuje to autonomii vůle. První hlava třetí části proto
+> zdůrazňuje tři základní charakteristické rysy absolutních majetkových
+> práv.
+>
+> Předně je to zásada, že věcná práva i právo dědické působí vůči každému.
+> Z ní je v dalších ustanoveních návrhu upraveno několik výjimek. Jde
+> např. o návrh ustanovení o nabytí vlastnického práva od nevlastníka, o
+> zřízení zástavního práva k cizí věci nebo o návrh ustanovení limitující
+> ochranu oprávněného dědice. Zdůrazňuje se, že výjimky tohoto druhu může
+> stanovit jen zákon.
+>
+> Navrhuje se rovněž stanovit, že subjektivním právům může jejich
+> absolutní povahu přiznat jen zákon. Tím se výslovně vyjadřuje zásada,
+> naukou uznávaná i v současné době, že existuje *numerus clausus*
+> absolutních majetkových práv, který nelze nad rámec zákona rozšiřovat.
+>
+> Konečně se navrhuje jasně vyjádřit zásadní kogentnost úpravy práv
+> věcných i práva dědického a stanovit, že od ustanovení druhé části
+> zákona se lze odchýlit jen, připouští-li to zákon. Rovněž to je pravidlo
+> uznávané v teorii i v soudní praxi již dnes.
+
 **Judikatura (z místních zdrojů):**
 
 - *OS v Ústí nad Labem* [8 C 274/2022-182](https://rozhodnuti.justice.cz/rozhodnuti/?id=5396d912-8005-4e21-b37b-05abc06de643) — 31. 10. 2023
@@ -84,6 +111,8 @@ Ustanovení § 976 je výchozí kvalifikační normou: absolutní účinky (vů�
 **§ 977**:
 > Jen zákon stanoví, která práva k majetku jsou absolutní.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 970 až 972“ (dnešní § 976—978) — viz § 976.
+
 ### § 978 — Omezená dispozitivnost vůči třetím osobám
 
 > Od ustanovení této části se lze odchýlit ujednáním s účinky vůči třetím osobám, jen připouští-li to zákon.
@@ -91,6 +120,8 @@ Ustanovení § 976 je výchozí kvalifikační normou: absolutní účinky (vů�
 **Výklad:**
 
 **Kogentnost vůči třetím osobám** — ujednání odchylné od OZ má **inter partes účinky**, ale **erga omnes účinky jen pokud zákon dovoluje** (a typicky vyžaduje zápis do VR — katastru).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 970 až 972“ (dnešní § 976—978) — viz § 976.
 
 **Judikatura (z místních zdrojů):**
 
@@ -150,6 +181,35 @@ Hlava II se vztahuje na:
 - **Hmotné věci** — primárně;
 - **Nehmotné věci** — také (§ 496 odst. 2);
 - **Práva** — jen pokud to dovoluje jejich povaha (např. lze hovořit o vlastnictví pohledávky, ale držba pohledávky se posuzuje specificky).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 973 návrhu — dnešní § 979):**
+
+> Široké pojetí věci v právním smyslu, zvolené v osnově, přináší řadu
+> výhod, odklizuje dosavadní tripartici věcí, práv a jiných majetkových
+> hodnot, doplněnou navíc o zvláštní kategorii bytů a nebytových prostorů,
+> ale pokud jde o ustanovení o věcných právech, může takové pojetí vyvolat
+> některé výkladové a praktické potíže. Proto také např. rakouská doktrína
+> dospívá k závěru, že široké pojetí věci, jaké zvolil rakouský občanský
+> zákoník, není v plném rozsahu použitelné pro zákonnou úpravu věcných
+> práv.[^49] Naproti tomu právní řády, které v zásadě preferují chápání
+> věcí především jako hmotných předmětů, si zpravidla naopak uvědomují
+> rezervy této koncepce a výslovně nebo analogicky vztahují působnost
+> věcněprávních ustanovení i na některá subjektivní práva. Z nich patří k
+> nejdůslednějším italská úprava: Codice civile v čl. 813 stanoví, že se
+> ustanovení o věcech vztahují subsidiárně i na subjektivní práva,
+> neplyne-li ze zákona nic jiného. Návrh se snaží jít střední cestou:
+> vychází ze základního pojetí, že ustanovení o věcných právech dopadají
+> na hmotné i nehmotné věci. To je velmi důležité a prakticky významné,
+> neboť ustanovení o věcných právech budou použitelná i na takové nehmotné
+> statky, jako jsou energie nebo práva prohlášená za věci (patenty a jiné
+> objekty průmyslového a duševního vlastnictví, řadu investičních nástrojů
+> bez hmotné podstaty atp.). Avšak vzhledem k tomu, že se mezi nehmotné
+> věci zařazují mj. i subjektivní obligační práva, navrhuje se stanovit,
+> že se věcněprávní ustanovení nepoužijí na práva, jejichž povaha to
+> nepřipouští (a v míře, v jaké to jejich povaha nepřipouští) - což se
+> týká především práv, která nepřipouštějí trvalý nebo opakovaný výkon - a
+> že se tato ustanovení nepoužijí na subjektivní práva ani v případech,
+> kdy ze zvláštních ustanovení zákona plyne něco jiného.
 
 **Judikatura (z místních zdrojů):**
 
@@ -248,6 +308,112 @@ Hlava II se vztahuje na:
 
 **Praktický význam**: poznámka spornosti **blokuje další převody** — chrání nárok věřitele / oprávněného.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 975 návrhu — dnešní § 982):**
+
+> Navržené ustanovení sleduje stanovit pořadí zapsaných věcných práv k
+> cizí věci (zejména práva zástavního a práva vyplývajícího z věcného
+> břemene). Předně se navrhuje stanovit, že zapsaná práva mají přednost
+> před právy nezapsanými, dále pak, že zapsaná práva získávají pořadí
+> podle doby, v níž orgánu, který seznam vede, dojde podání, podle kterého
+> bude zápis proveden. Při několika podáních podaných v tutéž dobu získají
+> dotyčná práva stejné pořadí. Výrazu „podání" je použito v nejširším
+> smyslu; poukazuje se tím, že se mají na mysli jakékoli procesní úkony
+> sledující provedení zápisu věcného práva.
+>
+> Mechanismus, podle něhož se určí pořadí zapisovaných práv dle dojití
+> příslušných podání, vyhovuje ve většině případů, nemusí tomu tak být
+> vždy. Proto se navrhuje umožnit vlastníku vyhradit lepší pořadí pro
+> věcné právo k vlastní věci dosud nezapsané. Je-li před zápisem výhrady
+> lepšího pořadí věc již zatížena právem jiné osoby zapsané do veřejného
+> seznamu, vyžaduje se k zápisu výhrady její souhlas, protože se tím
+> zasahuje do jejího práva. Zapisuje-li se však věcné právo k vlastníkově
+> věci pro jinou osobu až poté, co bylo lepší pořadí pro jiné právo
+> vyhrazeno, není souhlas této osoby zapotřebí ani k následnému zápisu
+> vyhrazeného práva, neboť ta již v době zápisu svého práva věděla z
+> veřejného seznamu, jak může být omezena. Stejně tak a ze stejných důvodů
+> není třeba k definitivnímu zápisu vyhrazeného práva ani souhlasu osoby,
+> která se zápisem výhrady přednosti souhlasila. Něco jiného je, mělo-li
+> by být vyhrazené věcné právo zapsáno v širším rozsahu, než jaký výhrada
+> kryje. Pak by byl ten, jemuž zapsané právo již svědčí, byl omezen
+> nepředvídaným způsobem, a to bez jeho souhlasu ovšem nelze učinit.
+>
+> Ustanovení odstavce 4 poukazuje, že předchozí ustanovení o pořadí
+> věcných práv k cizí věci nejsou použitelná v případech, kdy takové právo
+> vzniká ze zákona.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 976 návrhu — dnešní § 983):**
+
+> Navrhuje se umožnit zapsat do veřejného seznamu i právo k přednostnímu
+> zřízení věcného práva; pak bude z veřejného seznamu zřejmé, že je
+> přítomný vlastník zavázán převést přednostně vlastnického právo na
+> jiného nebo přednostně zřídit jinému věcné právo k vlastní věci. Taková
+> závada však nemůže vlastníka tížit, nevyužije-li oprávněná osoba své
+> právo v rozumné době. Proto se navrhuje stanovit, že vlastník má právo
+> domoci se výmazu zapsaného přednostního práva, nepřikročí-li druhá
+> strana do roka poté, co se stalo vymahatelným, k jeho naplnění.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 977 návrhu — dnešní § 984):**
+
+> Navržené ustanovení sleduje ochranu dobré víry těch, kdo nabudou věcné
+> právo v dobré víře a za úplatu od osoby oprávněné podle stavu zápisů ve
+> veřejném seznamu takové právo zřídit. Výjimka se navrhuje pro nezbytnou
+> cestu, pro výměnek a pro věcná práva vznikající ze zákona. Výjimky pro
+> nezbytnou cestu i pro výměnek odůvodňují sociální důvody.
+>
+> U nezbytné cesty je nutné brát v úvahu, že ji zřizuje soud, který
+> rozhodnutím zatěžuje pozemek proti vůli jeho vlastníka. Proto jsou pro
+> zřízení nezbytné cesty stanoveny úzce vymezené podmínky. Vzhledem k
+> tomu, že právo nezbytné cesty vznikne právní mocí rozhodnutí, je
+> odchylka od obecné úpravy nutná z toho důvodu, že účelem nezbytné cesty
+> je umožnit vlastníku sousedního pozemku řádné užívání nebo řádné
+> hospodaření s jeho pozemkem. Tomuto účelu by vlastník zatíženého pozemku
+> mohl zabránit, pokud by po právní moci rozhodnutí o zřízení práva
+> nezbytné cesty, ale ještě před jeho záznamem v katastru nemovitostí
+> pozemek prodal nebo jinak úplatně převedl jinému. V takovém případě by
+> dosáhl výsledku, že by se vlastník sousedního pozemku musel o zřízení
+> nezbytné cesty žalovat znovu: nikoli proto, že by se změnily věcné
+> důvody, pro něž se nezbytné cesty domáhal a pro něž mu bylo vyhověno,
+> ale proto, že se změnil vlastník pozemku, přes který má nezbytná cesta
+> vést. Obdobnou výjimku stanoví polský zákon *o księgach wieczystych i
+> hipotece* (čl. 7), z něhož bylo celé navržené ustanovení převzato.
+> Nabyvatel pozemku zatíženého nezbytnou cestou ovšem není bez ochrany:
+> zcizitel ho na právní vadu musí předem upozornit a neučiní-li to, plní
+> vadně a nabyvateli vznikne právo na slevu z ceny nebo odstoupení od
+> smlouvy, popřípadě jiné právo založené vadným plněním.
+>
+> Obdobné důvody se uplatní i ve vztahu k výměnku. Obvykle bude výměnek
+> jako věcné právo zřízen smlouvou: pak vznikne až vkladem do katastru
+> nemovitostí; v takovém případě rozpor mezi skutečným právním stavem a
+> zapsaným stavem hrozit nehrozí. Nelze však pominout, že výměnek může
+> vzniknout i soudním rozhodnutím, typicky v souvislosti se zrušením
+> spoluvlastnictví. Rovněž v této souvislosti lze poukázat na vzor
+> polského zákona, odkud bylo celé navržené ustanovení recipováno.
+>
+> Pokud jde o práva vzniklá ze zákona, jde především o veřejnoprávní
+> omezení, která vznikla v minulosti pro uložení různých sítí (rozvod
+> plynu, vody, tepla, telefonní vedení apod.), která se nikdy nezapisovala
+> ani do pozemkových knih, ani do katastru nemovitostí. Ke změně došlo až
+> v posledním desetiletí, nicméně věcná práva vzniklá v dřívější době je
+> třeba v této souvislosti chránit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 978 návrhu — dnešní § 985):**
+
+> Navržené ustanovení sleduje ochranu dobré víry těch, kdo nabudou věcné
+> právo v dobré víře a za úplatu od osoby oprávněné podle stavu zápisů ve
+> veřejném seznamu takové právo zřídit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 979 a 980 návrhu — dnešní § 986—987):**
+
+> Navrhují se právní pravidla sledující jednak zajištění souladu mezi
+> zapsaným a skutečným právním stavem, jednak ochranu osob nabývajících v
+> dobré víře věcná práva podle zapsaného stavu i osob dotčených v jejich
+> právech vadnými nebo nesprávnými zápisy. Navržená tříletá objektivní
+> lhůta je převzata z rakouského knihovního zákona. Klade se otázka, zda
+> by neměla být pro nabývání věcných práv k nemovitým věcem speciálně
+> prodloužena na pět let (pětiletou lhůtu má italské právo), popř. na
+> deset let odpovídajících době stanovené pro řádné vydržení vlastnického
+> práva k nemovité věci.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 2526/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2526-14_1) — usnesení, 15. 9. 2015
@@ -336,6 +502,64 @@ Materiální publicita veřejného seznamu chrání dobrověrného úplatného n
 - **Vlastnické právo**: drží ten, kdo se věci ujal, aby ji **měl jako vlastník**;
 - **Jiné právo**: drží ten, kdo je počal vykonávat **jako oprávněná osoba** a komu druzí ve shodě s tím **plní**.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 979 a 980“ (dnešní § 986—987) — viz § 986.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 981 až 988 návrhu — dnešní § 988—995):**
+
+> Část občanského zákoníku o věcných právech uvozují ustanovení o držbě.
+> Návrh prvního dílu Hlavy 1 Části třetí sleduje podrobnější úpravu držby,
+> než jak tomu je v § 130 až 132 současného občanského zákoníku a přihlíží
+> se též ke kritickému zhodnocení stávající úpravy,[^50] nezamýšlí však
+> obnovovat instituty označované ve zdejší odborné literatuře archaismy,
+> jako jsou např. někdejší držba knihovní, anebo rozlišování pravé a
+> nepravé držby apod., byť se některými z nich počítala ještě vládní
+> osnova československého občanského zákoníku z r. 1937.
+>
+> První ustanovení této části navrhuje stanovit, co lze držet (§ 981 až
+> 988). Snaha je upravit držbu jednotně. Opouští se přitom pojetí, že
+> držet lze jednak věc, jednak právo (§ 130 stávajícího obč. z.), jež je
+> reflexem někdejší římskoprávní konstrukce oddělující držbu věci jako
+> hmotného předmětu a držbu práv. Je totiž zřejmé, že i při držbě věci
+> nejde než o držbu práva, a to práva vlastnického.
+>
+> Ustanovení § 983 a 984 o nabytí držby vycházejí z pojetí, že držbu lze
+> nabýt jak vlastní mocí toho, kdo se držby ujímá, tak i převodem nebo
+> přechodem.
+>
+> Ustanovení § 985 až 988 rozlišují na jedné straně držbu oprávněnou a
+> neoprávněnou, na straně druhé držbu poctivou a nepoctivou. Příčina
+> tohoto rozlišení je v tom, že držbu lze nabýt i bez platného právního
+> důvodu (pak pojmově nemůže jít o držbu oprávněnou), leč i za této
+> situace musí být rozlišeny situace, kdy držitel je a kdy není v dobré
+> víře v tom směru, zda mu náleží právo, které vykonává, a v důsledku toho
+> poskytnout dobré víře ochranu. V ust. § 986 se přitom zdůrazňuje, že
+> poctivost držby nezakládá pouhé subjektivní přesvědčení držitele, nýbrž
+> že ten pro ně musí mít také přesvědčivý důvod. Zároveň se, ve shodě s
+> celkovým pojetím osnovy, navrhuje stanovit vyvratitelná domněnka
+> oprávněnosti a poctivosti držby.
+>
+> Speciálně se navrhuje řešit v ust. § 986 odst. 2 případ, kdy se držitel
+> ujme držby zástupcem. Návrh vychází z akceptace obecné zásady, že
+> zástupcovu nepoctivost nutno přičítat k tíži zastoupenému. Z této zásady
+> je však nutné připustit výjimku pro případ, kdy osoba, jež sama je v
+> dobré víře, zástupci zvlášť přikáže, aby se pro ni držby ujal nebo aby
+> ji vykonával. Pak totiž takový zástupce jen vykonává jasně a jednoznačně
+> projevenou vůli zastoupeného.
+>
+> Ust. § 988 řeší otázku důsledků doručení vindikační nebo jiné žaloby
+> poctivému držiteli. Jde o problém zákonem u nás výslovně neřešený a
+> některé jeho dílčí aspekty nelze z mlčení zákona interpretací dovodit. Z
+> toho důvodu se navrhuje úprava, že doručením žaloby se poctivost držby
+> ztrácí, avšak jen za podmínky, že této žalobě bylo vyhověno. Zvláštní
+> konstrukcí se přitom takový držitel chrání před následky způsobené
+> náhodou, ovšem vyjma případy svévolně vyvolaných nebo svévolně vedených
+> sporů.
+>
+> Pokud jde o práva, nečiní osnova mezi oprávněným a poctivým držitelem
+> rozdílu (§ 986 odst. 3). Je však nutné vzít zřetel na povinnosti
+> neoprávněného držitele vlastnického práva a v tom směru rozlišit mezi
+> držitelem poctivým a nepoctivým, jak se také dále činí.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [3 Tdo 820/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86FDC5F1BCBE987FC1258D530052BC54?openDocument) — *Poškození cizí věci Neoprávněné opatření, padělání a pozměnění platebního prostředku Krá…*
@@ -398,6 +622,8 @@ Držba předpokládá způsobilý předmět: převoditelné právo umožňujíc�
 **§ 990**:
 > (1) Držbu lze nabýt bezprostředně tím, že se jí držitel ujme svou mocí. Bezprostředně se držba nabývá v rozsahu, v jakém se jí držitel skutečně ujal.
 > (2) Držbu lze nabýt odvozeně tím, že dosavadní držitel převede svou držbu na nového držitele, nebo tím, že se nový držitel ujme držby jako právní nástupce dosavadního držitele. Odvozeně se nabývá držba v rozsahu, v jakém ji měl dosavadní držitel a v jakém ji na nového držitele převedl.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
 
 **Judikatura (z místních zdrojů):**
 
@@ -475,6 +701,14 @@ Držba předpokládá způsobilý předmět: převoditelné právo umožňujíc�
 
 **§ 995 — Účinky žaloby**: po doručení žaloby napadající držbu se **poctivý držitel považuje za nepoctivého** (od momentu doručení).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [26 Cdo 1576/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/50086538C99673FCC1258D330052AE02?openDocument) — *Držba Dobrá víra*
@@ -532,6 +766,8 @@ Držba se presumuje jako řádná, poctivá a pravá (§ 994); kdo to popírá, 
 **§ 995**:
 > Bylo-li vyhověno žalobě napadající držbu nebo její poctivost, považuje se poctivý držitel za nepoctivého nejpozději od okamžiku, kdy mu byla doručena žaloba. Náhoda, která by věc u vlastníka nebyla stihla, však jde k tíži držitele, jen když spor svévolně zdržel.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 981 až 988“ (dnešní § 988—995) — viz § 988.
+
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
 
 **§ 996**:
@@ -572,6 +808,65 @@ Držba se presumuje jako řádná, poctivá a pravá (§ 994); kdo to popírá, 
 - **Ostatní náklady** — obdobně jako u nepřikázaného jednatele.
 
 **§ 1002 — Jiná práva**: pro držitele jiných práv (než vlastnického) platí § 996—1001 přiměřeně.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 989 až 994 návrhu — dnešní § 996—1001):**
+
+> Při držbě vlastnického práva je nutné rozlišit mezi držitelem
+> oprávněným, poctivým a nepoctivým, neboť oprávněnému držiteli vlastnické
+> právo právem náleží, zatímco neoprávněného držitele stíhá povinnost věc
+> vydat. V tomto druhém případě se rozlišuje mezi držitelem poctivým a
+> nepoctivým, kteří jsou v dané souvislosti zatíženi různými povinnostmi.
+>
+> Společné je to, že poctivého i nepoctivého držitele stíhá povinnost věc
+> vydat a jsou zbaveni práva domáhat se náhrady ceny, za kterou na sebe
+> věc převedli (§ 992 odst. 1).
+>
+> Rozdíly však jsou mezi poctivým a nepoctivým držitelem, pokud jde o
+> náhradu nákladů.
+>
+> Poctivému držiteli podle § 990 nenáleží náhrada udržovací režie, má však
+> nárok na náhradu nutných nákladů a také na náhradu nákladů účelně
+> vynaložených, které věc zhodnocují. Zhodnocení se posuzuje podle
+> přítomné hodnoty, tj. podle hodnoty vydávané věci ke dni jejího vydání,
+> nanejvýš však do limitu skutečných nákladů (hradí se to, co je z obojího
+> menší).
+>
+> Ust. § 991 stanoví, že náklady učiněné ze záliby nebo pro okrasu se
+> nehradí; poctivý držitel může požadovat jen to, oč se zvýšila obecná
+> hodnota vydávané věci. Tento držitel však namísto požadavku této
+> částečné náhrady může využít možnost odejmout ze zhodnoceného předmětu,
+> oč jej způsobem uvedeným v tomto ustanovení vylepšil. Toto ius tollendi
+> však může konzumovat jen, je-li to možné bez porušení podstaty věci a
+> pokud to je pro něho samotného účelné (arg. „k svému prospěchu"). Se
+> zřetelem k této druhé podmínce nelze okrášlení prostě zničit tak, aby z
+> něho neměl již užitek nikdo.
+>
+> Ust. § 992 vyslovuje obecnou zásadu, že ani poctivý - a tím spíše
+> nepoctivý - držitel nemůže žádat, aby mu byla nahrazena cena, za niž
+> držený předmět pořídil. V druhém odstavci se stanoví výjimka pro případ,
+> kdy někdo věc získá beze lsti, a tím zejména ochrání jejího vlastníka
+> před její ztrátou. Za těchto podmínek může osoba, která věc získala,
+> požadovat přiměřenou náhradu - ne tedy plnou náhradu ceny, nýbrž to, co
+> lze vlastně uznat za užitečný náklad.
+>
+> Ustanovení § 991 a 992 se zabývají případy, které se mohou v praxi
+> vyskytnout jen zřídka. Jeví se však užitečné dát i pro ně výslovné
+> zákonné instrukce v zájmu spravedlivého uspořádání i takovýchto poměrů.
+>
+> Nepoctivého držitele zasahuje § 993 příkazem vydat nejen věc samu, ale
+> též všechen užitek, který držbou získal (tedy včetně hodnoty plodů a
+> užitků již vybraných, ale také např. hodnotu nájemného za byt užívaný
+> bezplatně v domě nepoctivě získaném), a kromě toho musí nahradit vše, oč
+> byla oprávněná osoba jeho držbou zkrácena. Podle § 994 náleží
+> nepoctivému držiteli jen náhrada nákladů nutných pro zachování podstaty
+> věci; náhrada jiných nákladů jen výjimečně, podle zásad úpravy
+> nepřikázaného jednatelství.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 995 návrhu — dnešní § 1002):**
+
+> Ustanovení § 989 až 994 se týkají jen držby vlastnického práva. Z toho
+> důvodu se navrhuje stanovit, že se tato ustanovení užijí přiměřeně i pro
+> držitele jiných práv.
 
 **Judikatura (z místních zdrojů):**
 
@@ -678,6 +973,106 @@ Rozhodující je, zda a do kdy byl držitel poctivý. Poctivému držiteli nále
 - Vypuzení bez uchování svépomocí / žalobou.
 - **Nevykonávání samo o sobě nezpůsobuje zánik** (! — odlišnost od některých zahraničních úprav).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 996 až 998 návrhu — dnešní § 1003—1005):**
+
+> Ustanovení o ochraně držby uvozuje obecný zákaz svémocného rušení držby
+> a zakládá zdržovací a odstraňovací nárok držitele.
+>
+> Speciální úprava se navrhuje v ust. § 997 a 998 pro případ rušení držby
+> prováděním stavby nebo jiného zařízení (již obecná část zákoníku zavedla
+> pro oboje legislativní zkratku „stavba") nebo jejich odstraňováním. Pro
+> tyto případy není možné setrvat jen u obecného zákazu rušení držby, ale
+> je zapotřebí vzít jednak zřetel na potřebu ochrany držitele i pro případ
+> ohrožení držby, jednak též zohlednit zájmy obou stran, neboť nelze vyjít
+> z apriorní představy, že za situací, jež má osnova v těchto ustanoveních
+> na mysli, náleží bezvýhradná ochrana jen držiteli.
+>
+> Prováděním nebo odstraňováním stavby může být držba ohrožena. Proto se
+> navrhuje poskytnout držiteli vedle ochrany proti škodlivému následku,
+> který již nastal (rušení držby a vypuzení z držby), upravené v
+> následujících ustanoveních, také ochranu preventivní. K ohrožení držby
+> může dojít jak přímo, tak imisemi. Pokud jde o imise, odkazuje se na
+> jejich úpravu v rámci ustanovení o omezení vlastnického práva, kam tato
+> úprava tradičně náleží. Ohrožení je nutné chápat jako ohrožení držby
+> (její úplné nebo částečné znemožnění), nikoli jako pouhé obtěžování
+> držitele. Provádění i odstraňování jsou stavy trvající; je-li stavba již
+> zřízena nebo odstraněna, nemá preventivní ochrana uplatnění.
+>
+> Preventivní ochrana náleží držiteli jen proti té osobě, která stavbu
+> provádí nebo odstraňuje. Není rozhodné, zda jde o činnost oprávněnou
+> nebo neoprávněnou. Pokud je tato osoba oprávněna ke zřízení nebo
+> odstranění stavby na základě veřejnoprávního rozhodnutí, je ochrana
+> držitele omezena. Předně jde o to, že právo na preventivní ochranu
+> ztrácí ten držitel, který před vydáním takového rozhodnutí neuplatní ve
+> stavebním řízení své námitky, ač je uplatnit mohl. Dále je úspěšnost
+> preventivní žaloby podmíněna dodržením prekluzivních lhůt.
+>
+> Návrh však také bere zřetel na skutečnost, že mezi podáním žaloby a
+> vydáním pravomocného rozhodnutí o ní uplyne určitá doba a že by tak
+> během toho času mohl být zamýšlený efekt žaloby zmařen. Z toho důvodu se
+> navrhuje, aby zákon nařídil soudu rozhodnout předběžným opatřením o
+> zákazu dalšího provádění rozporované činnosti. Ani tu však nelze
+> postupovat schématicky, nýbrž třeba vzít zřetel na případné oprávněné
+> zájmy stavebníka nebo i dalších osob.
+>
+> Proto se navrhuje stanovit především, že při hrozbě přímého nebezpečí,
+> plynoucího z přerušení namítané činnosti, soud vydá zákaz pokračovat v
+> ní. Dále se musí vzít ohled i na skutečnost, že až do konečného vyřízení
+> záležitosti nebude jisto, která ze sporných stran je v právu. Navrhuje
+> se tudíž, aby stavebníkovi nebylo zakazováno v díle pokračovat,
+> poskytne-li přiměřenou jistotu, že věci uvede v předešlý stav, bude-li
+> žalobě vyhověno, a že nahradí případnou škodu. Za těchto situací však
+> nelze jednostranně zatížit jen žalovaného. Proto se navrhuje stanovit,
+> aby i žalobce recipročně rovněž složil přiměřenou jistotu garantující,
+> že při neúspěchu žaloby žalovaného odškodní. Pokud k tomu nebude ochoten
+> a žalovaný naopak jistotu složí, pak žalovaného nelze znevýhodnit.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 999 a 1000 návrhu — dnešní § 1006—1007):**
+
+> Je-li do držby zasaženo, může se držitel bránit svépomocí. Protože v
+> těchto případech jde o přímý útok, není přípustnost svépomoci omezena
+> podmínkou pozdního zásahu veřejné moci.
+>
+> Za určitých okolností je účelné brát držbu za nepřerušenou, ač se
+> držiteli fakticky její výkon přeruší zásahem jiného. Za těchto okolností
+> se držitel může bránit žalobou, pokud byl z držby vypuzen. Žalovaný se
+> proti tomu může bránit námitkou, že žalobce proti němu držbu získal tak,
+> že sám nejprve vypudil z držby žalovaného.
+>
+> Skutkové podstaty vypu­zení z držby vlastnického práva se navrhuje
+> stanovit standardním způsobem. Jedná se za prvé o svémoc­né ujmutí se
+> držby, nejde-li ovšem o případ, kdy k tomu dochází způsobem zakládajícím
+> oprávněnou držbu. Dále jde o případ, kdy se delik­vent v držbu vetře nebo
+> vloudí. Konečně o případy, kdy se někdo snaží transformovat v držení, co
+> získal jen prekariálně. Konečně se jedná o protiprávní svémocné odnětí
+> věci jinému. V podstatě jde o postupy, kdy někdo usiluje získat držbu
+> silou, lstí nebo výprosou (vi vel clam vel precario). Reprobace takových
+> jednání se datuje od dob římského práva (srov. Inst., 4, XV, 6). Tyto
+> skutkové podstaty se vztahují k vypuzení z držby vlastnického práva.
+> Proto se k nim doplňuje výčet případů vypuzení z držby jiných práv.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1001 návrhu — dnešní § 1008):**
+
+> Při držbě jde zvláště o ochranu faktického stavu. Proto není namístě
+> vnášet do právních poměrů dotčených osob prvky zesilující neúměrnou
+> nejistotu. Žalobní právo i právo k námitce se proto omezuje krátkými
+> prekluzivními lhůtami subjektivní i objektivní povahy. Případný zánik
+> těchto práv ovšem nevylučuje možnost dovolat se ochrany z jiného
+> právního důvodu, je-li takový (např. pro rušení vlastnictví).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1002 návrhu — dnešní § 1009):**
+
+> Ustanovení o zániku držby neuvádí podrobnějším výčtem jednotlivé důvody
+> (např. trvalá ztráta věci, její zánik atp.). Navrhuje se shrnout je do
+> abstraktní formulace, která kryje jednak subjektivní příčiny na straně
+> držitele (vzdání se držby nebo pasivita spočívající v neuchování si
+> držby, z níž byl držitel vypuzen), jednak příčiny objektivního rázu, tj.
+> ztrátu možnosti vykonávat držbu. V té souvislosti je třeba stanovit, že
+> samotné přerušení výkonu držby (např. při přechodném opuštění věci) její
+> zánik nevyvolá. Takový následek nemohou vyvolat ani smrt člověka nebo
+> zánik právnické osoby, jsou-li držiteli, samy o sobě, protože i v těchto
+> případech předně třeba ctít zásadu právního nástupnictví.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 162/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-162-26_1) — usnesení, 4. 2. 2026
@@ -726,6 +1121,12 @@ Posesorní ochrana (§ 1003, § 1007) je rychlým prostředkem k obnovení fakti
 > **Spoludržba**
 > Spoludržba se řídí přiměřeně ustanoveními o držbě a o společných právech.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1003 návrhu — dnešní § 1010):**
+
+> Vzhledem k tomu, že není vyloučen společný výkon držby několika osobami,
+> navrhuje se stanovit, že se případ spoludržby posoudí obdobně jako
+> spoluvlastnictví.
+
 ---
 
 ## Hlava II Díl 3 — Vlastnictví
@@ -746,6 +1147,189 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 - **V mezích právního řádu**;
 - **Zákaz závažně rušit práva jiných** nad míru přiměřenou poměrům;
 - **Zákaz šikany** (jednání, jehož hlavním účelem je obtěžovat / poškodit).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1004 návrhu — dnešní § 1011):**
+
+> Osnova vymezuje v prvém odstavci § 1004 nejprve vlastnické právo
+> objektivně, tj. z toho hlediska, co je jeho předmětem, co ve vlastnictví
+> může být. V tom směru se nečiní rozdíl mezi hmotnými a nehmotnými věcmi.
+> Subjektivnímu vymezení vlastnického práva se věnuje § 1005. Pokud se
+> jedná o tzv. nehmotné statky (např. patenty, ochranné známky, průmyslové
+> vzory, obchodní firmu nebo obchodní tajemství atd.), jde návrh ruku v
+> ruce s tendencemi, které se v naší legislativě projevily při přijetí
+> nových zákonů vztahujících se k předmětům průmyslového vlastnictví
+> (ochranným známkám, průmyslovým vzorům), ale i v jiných směrech (např.
+> pokud jde o cenné papíry a investiční nástroje). Osnova nepřistupuje na
+> scholastiku, podle níž nehmotné předměty, byť jde o předměty
+> průmyslového nebo jiného duševního vlastnictví, objektem vlastnického
+> práva nejsou a nemají vlastníka, nýbrž pouhého majitele.
+>
+> Doktrína vyučující o hmotných věcech jako výlučném předmětu vlastnictví
+> vznikla v 19. století na základě učení německých pandektistů. Toto
+> pojetí \[stavící na pojmovém rozdílu mezi Eigentum (vlastnictví) a
+> Vermögen (majetek, majetnost)\] našlo svůj odraz v BGB a v některých
+> dalších evropských zákonících (např. v nizozemském nebo švýcarském)
+> ovlivněných tímto myšlenkovým konceptem. Dokonce i rakouský občanský
+> zákoník, který vlastní normativní úpravou (§ 355) zcela záměrně
+> zdůraznil fakt vlastnictví věcí hmotných i nehmotných,[^51] byl později
+> doktrinárně interpretován - pod Ungerovým a Randovým vlivem - ve
+> prospěch úzkého pojetí vlastnického práva. Tyto tendence v našem
+> občanském právu zesílily - pod zřejmým působením tehdejšího sovětského
+> vzoru - po druhé světové válce a odrazily se v úpravě zákoníků z r. 1950
+> i z r. 1964. Pandektisté z rozdílu mezi vlastnictvím hmotných věcí
+> a „majitelstvím" věcí nehmotných vyvozovali rozdíl práva věcného a
+> obligačního. Tak tomu ale není a podstata věci je jiná. Pohledávku má
+> věřitel vůči dlužníkovi. Tento právní poměr se řídí pouze obligačním
+> právem, které ustanovuje, jak pohledávka vzniká a jakým způsobem a kdy
+> je dlužník povinen věřiteli plnit na vyrovnání jeho pohledávky svůj
+> dluh. O splnění své pohledávky může věřitel žalovat pouze dlužníka.
+> Pohledávka je však také: totiž jako určitý majetkový statek - a, podle
+> záměru osnovy, také jako věc v právním smyslu (nehmotná) - rovněž
+> součást věřitelova majetku a jmění, a tedy i předmět jeho vlastnictví.
+> Proto je věřitel vůči zásahům třetích osob chráněn možností podat
+> vlastnickou žalobu a takovým zásahům se bránit. Podobně také věcná práva
+> (např. zástavu nebo služebnost) lze chránit jak speciální žalobou proti
+> vlastníkovi zatížené věci, tak i vlastnickou žalobou proti nedovoleným
+> zásahům jiných osob. Návrh znění prvního odstavce logicky váže na § 346
+> a na § 356, vrací se k římskoprávnímu civilistickému konceptu, který
+> reflektují i některé další právní řády (francouzský, québecký) a opouští
+> scholastiku terminologického odlišování předmětů, jež jsou ve
+> vlastnictví a jež jsou „jen" v majetku, neboť obsahový rozdíl mezi
+> postavením vlastníka a „majitele" není žádný.
+>
+> Obdobně není vhodné ani zvláště vytýkat, že zvláštní zákon může vyhradit
+> vlastnictví určitých věcí jen státu nebo určitým právnickým osobám. V
+> tom směru plně dostačuje čl. 11 odst. 2 Listiny základních práv a svobod
+> a opakování téhož právního pravidla v občanském zákoníku není účelné a
+> ani není věcně namístě, neboť tyto zvláštní zákonné úpravy mají
+> veřejnoprávní povahu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1005 návrhu — dnešní § 1012):**
+
+> Termínem „vlastnické právo" se označuje subjektivní právo vlastníka k
+> předmětu tohoto práva; tento předmět se označuje „vlastnictví". Osnova
+> tedy nesměšuje ani nezaměňuje pojmy „vlastnictví" a „vlastnické právo",
+> jak to činí platný občanský zákoník (např. v § 125, 132 nebo v § 133)
+> nýbrž pojmem „vlastnictví" označuje předmět vlastnického práva, souhrn
+> majetkových kusů, k nimž určitá osoba vlastnické právo má.
+>
+> Z řady důvodů se nepřejímá dikce § 123 platného občanského zákoníku, kde
+> se vymezuje obsah vlastnického práva slovy, že „vlastník je v mezích
+> zákona oprávněn předmět svého vlastnictví držet, užívat, požívat jeho
+> plody a užitky a nakládat s ním." Toto pojetí vyšlo z původního § 130
+> občanského zákoníku v jeho podobě z r. 1964, mířícího ovšem jen na
+> osobní vlastnictví, a očistilo je od zjevných socialistických prvků.
+> Důvodová zpráva k platnému ustanovení to dotvrzuje, když uvádí, že „v
+> ustanoveních, která upravovala osobní vlastnictví, byla zvolena obecná
+> formulace." Tímto řešením se platná úprava odchyluje od standardních
+> přístupů kontinentálního práva a ukazuje na myšlenkovou souvislost s
+> někdejším občanským zákonodárstvím Sovětského svazu (srov. např. čl. 58
+> občanského zákoníku RSFSR z r. 1922 nebo čl. 92 občanského zákoníku
+> RSFSR z r. 1964). Výsledkem je konzervace socialistické, ale hlavně
+> věcně nesprávné, konstrukce obsahu vlastnického práva soukromníka.
+>
+> Hlavní vady platné úpravy jsou tyto: Předně se odděluje úprava pozitivní
+> a negativní stránky vlastnického práva (§ 124, 127). To je na újmu
+> chápání jednotnosti vlastnického práva. Dále platný zákoník výčtem
+> dílčích práv vlastníka, navíc podaným jako taxativní, jakoby dává
+> najevo, že se jedná o úplný seznam jednotlivých oprávnění vlastníka a že
+> vlastnické právo je součtem těchto dílčích práv, což neodporuje jen
+> jednotnosti vlastnického práva, ale i jeho úplnosti a elasticitě.
+> Konečně, výčet dílčích vlastnických oprávnění nerespektuje klasickou
+> romanistickou vlastnickou triádu (*ius possidendi, ius utendi et
+> fruendi* a *ius abutendi*) charakterizující typické projevy vlastníkova
+> působení na věc a respektovanou v evropském civilizačním okruhu dodnes.
+> Z těchto důvodů se navrhuje opustit pojetí platné úpravy a při nové
+> formulaci respektovat závěry klasické nauky s přihlédnutím k analogickým
+> úpravám konvenčních občanských zákoníků z okruhu kontinentální právní
+> kultury. Poukazuje se zvláště na zákoník rakouský (§ 354), francouzský
+> (čl. 544), belgický (čl. 544), španělský (čl. 348), německý (§ 903),
+> švýcarský (čl. 641), italský (čl. 832), nizozemský (V:1) ruský (čl. 209
+> odst. 2), co do základu i polský (čl. 140); ze zámořských např. na
+> zákoník mexický (čl. 830) nebo québecký (čl. 947).
+>
+> Osnova se vyhýbá snaze definovat vlastnické právo. Definice pojmů tohoto
+> druhu nenáleží do zákona; zvláště u vlastnického práva by to bylo
+> choulostivé, protože pokusy definovat vlastnické právo bývají
+> ideologizovány. Návrh ustanovení proto zdůrazňuje jen nesporné, obecně
+> akceptované a podstatné rysy vlastnického práva. Nesporné a podstatné
+> rysy vlastnického práva jsou nezávislost, jednotnost, úplnost,
+> elasticita a trvalost.
+>
+> Pokud se jedná o nezávislost vlastnického práva, zdůrazňuje návrh §
+> 1005, že vlastník nakládá s předmětem svého vlastnického práva volně, to
+> jest přímo a svou mocí, která je tudíž nezávislá na moci kohokoli
+> jiného. To však přece jen neznamená absolutní volnost a neznamená to, že
+> si vlastník s věcí může dělat, co chce. Proto se zároveň navrhuje
+> stanovit, že je vlastníkova volnost limitována dvojím: jednak to jsou
+> meze zákona, jednak také subjektivní práva jiných osob.
+>
+> Jednotnost vlastnického práva je dána sepětím jeho pozitivní a negativní
+> stránky. Pozitivní stránku vlastnického práva představuje právo
+> vlastníka nakládat s věcí zpravidla kterýmkoli způsobem podle libosti,
+> jako negativní stránka vlastnického práva se označuje právo vlastníka
+> zabránit zpravidla každému jinému, aby jeho věc neužíval nebo na ni
+> jinak nepůsobil (*ius exclusionis*). Tento rys vlastnického práva se
+> navrhuje vystihnout slovy, že vlastník má právo se svým vlastnictvím
+> podle své vůle volně nakládat a jiné osoby z toho vyloučit. *Ius
+> exclusionis* je důležité pro ochranu vlastnického práva, zejména
+> žalobní. Uvedená právní autorizace vlastníka je velmi významná a
+> standardní zákoníky se bez ní neobejdou (srov. např. rakouský občanský
+> zákoník v § 351, francouzský v čl. 544, německý v § 903, švýcarský v čl.
+> 641, italský v čl. 832 atd.).
+>
+> Vyjádření pozitivní i negativní stránky vlastnického práva v jediném
+> ustanovení má zvýraznit jeho jednotné pojetí.
+>
+> Úplnost vlastnického práva je vyjádřena důrazem na oprávnění vlastníka
+> nakládat se svým vlastnictvím volně, tj. že může na svoji věc působit
+> nebo nepůsobit, jak je mu libo, a jiné z působení na věc vyloučit. Tím
+> je vymezen obsah vlastnického práva, nikoli tedy kazuistickým a neúplným
+> výčtem dílčích vlastníkových oprávnění, uvedených dnes v § 123 platného
+> občanského zákoníku (právem držet, užívat, požívat plody a užitky
+> předmětu vlastnictví a nakládat s ním). Obsah vlastnického práva není
+> totiž tvořen součtem těchto dílčích oprávnění a existencí žádného z nich
+> není podmíněna existence vlastnického práva. Odpadne-li některé z
+> uvedených dílčích oprávnění jednotlivě (např. dá-li vlastník svou věc do
+> nájmu nebo do výpůjčky), či odpadnou-li vcelku (např. při prohlášení
+> konkursu), nemá to totiž vliv na existenci ani na trvání vlastnického
+> práva. Naopak, pomine-li omezení, obnoví se vlastnické právo v původním
+> rozsahu. Tím je podmíněna elasticita vlastnického práva. Toto právo tedy
+> nezanikne, pozbude-li vlastník právo věc užívat, držet, požívat či jiné
+> ze svých dílčích oprávnění, protože k zániku vlastnického práva může
+> dojít jen z některého zákonného důvodu; tím je dána jeho trvalost.
+>
+> Platná úprava se ve výčtu typických dílčích oprávnění vlastníka
+> odchyluje od evropského standardu zejména v tom, že za jedno z dílčích
+> vlastníkových oprávnění označuje vedle práv věc držet, užívat a požívat
+> její plody a užitky, také právo s věcí nakládat. Význam „nakládání
+> s věcí" je v tomto pojetí, které u nás vytvořila právní doktrína 50.
+> let, zúžen do smyslu: činit právní úkony, týkající se věci, realizovat
+> její směnnou hodnotu. Dokonce se navyklo označovat toto dílčí oprávnění
+> latinským *ius disponendi,* ač se jedná o termín, který v římském právu
+> nemá oporu. Správně má jít při nakládání s věcí vlastníkem o označení
+> souhrnu všech subjektivních práv vlastníka k předmětu vlastnického
+> práva.
+>
+> *Ius abutendi*, tedy právo působit na podstatu věci, měnit ji, ba i
+> zničit, není zvlášť zmiňováno - zmíněno je však v § 999, protože je
+> podmíněno faktickým držením věci - neboť to plyne jak z obecné zásady
+> vyjádřené v § 1005, stejně jako z ní vyplývají i oprávnění vlastníka
+> vlastnické právo převést na jiného či jinak se tohoto práva zprostit,
+> jakož i oprávnění předmět vlastnictví držet, užívat i požívat. Totéž
+> ostatně plyne i z návrhu některých dalších ustanovení.
+>
+> Navržené ustanovení nezmiňuje výslovně, že se vlastnická práva vztahují
+> jak k podstatě (substanci), tak plodům a užitkům předmětu vlastnictví.
+> Toto rozlišení by bylo účelné, pokud by se osnova vracela k institutu
+> děleného vlastnictví, což se však nezamýšlí.
+>
+> Pravidlo, že všichni vlastníci mají stejná práva a povinnosti a že se
+> jim poskytuje stejná právní ochrana, vyjádřené v § 124 platného
+> občanského zákoníku, se nezamýšlí do občanského zákoníku recipovat,
+> neboť se jedná o pouhou duplicitní formulaci k druhé větě čl. 11 odst. 1
+> Listiny základních práv a svobod, přičemž Listina vyjadřuje tutéž zásadu
+> přesněji.
 
 **Judikatura (z místních zdrojů):**
 
@@ -870,6 +1454,294 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 **§ 1023 — Prostor nad / pod pozemkem**: vlastník musí snášet užívání, je-li důležitý důvod a způsob přiměřený.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1006 až 1016 návrhu — dnešní § 1013—1023):**
+
+> Speciálně jsou upravena vlastnická omezení zákazem imisí (§ 1006)
+> doplněným zvláštními opatřeními týkajícími se chovu zvířat a pěstování
+> rostlin, úprav pozemku, stavebních prací na sousedním pozemku a užívání
+> cizího prostoru. Zjednodušeně tyto otázky upravuje občanský zákoník již
+> dnes v § 127, synkreticky však směšuje různé normativní konstrukce ve
+> spletení úpravy imisí a sousedského práva ve vlastním slova smyslu;
+> obojí je pro budoucnost třeba systematicky uspořádat a více propracovat.
+>
+> Zákaz imisí v prvém odstavci § 1006 vychází z úpravy současné (§ 127
+> občanského zákoníku), redukuje se však jeho nadměrná kazuistika: nemluví
+> se např. o plynu, kouři a parách, nýbrž jen o plynu; zúžení výčtu
+> nepodlamuje normativní váhu a rozsah zákazu, neboť výčet zůstává
+> demonstrativní. Navrhuje se rozšířit zákaz imisí podle vzoru vládního
+> návrhu občanského zákoníku z r. 1937 tak, že zakázáno bude přivádět
+> imise na cizí pozemek přímo (bez ohledu na míru obtěžování tím
+> způsobeného vlastníku cizího závodu), ledaže k tomu je zvláštní právní
+> důvod. Přímé imise jsou přímým pokračováním vlastníkovy činnosti (např.
+> svádění vody trativodem na sousední pozemek), nepřímé nejsou přímo
+> vyvolány touto činností, nýbrž jsou jen jejím volným následkem
+> podmíněným přírodními vlivy (spad popílku, šíření hluku, množení
+> hlodavců na pozemku neužívaném nebo nenáležitě obstarávaném apod.).
+> Nepřímé imise mají být zakázány rovněž, avšak jen za podmínky, že jsou
+> místním poměrům nepřiměřené a podstatně omezující obvyklé užívání
+> pozemku v daném místě.
+>
+> Osnova používá pro termín „sousední pozemek" synonymicky slova „pozemek
+> jiného vlastníka", aby tak dala najevo, že má na mysli nejen pozemek
+> v přímém sousedství, ale každý pozemek zasažený imisemi.
+>
+> Druhý odstavec vylučuje zdržovací žalobu pro imise ze závodu úředně
+> schváleného (nejedná-li se ovšem o imise přímé); pokud ale takové imise
+> převyšují obvyklou míru a podstatně omezují užívání sousedova pozemku,
+> náleží sousedovi náhrada škody. Vzhledem k tomu, že úprava náhrady škody
+> v části třetí stojí na zásadě, že při její náhradě má prioritu
+> *restitutio in integrum*, což v daném případě není možné (musela by se
+> odstranit příčina, tedy závodní provoz úředně schválený, čemuž se právě
+> míní zabránit), navrhuje se výslovně uvést, že lze žádat pouze relutární
+> náhradu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1007 a 1008 návrhu — dnešní § 1014—1015):**
+
+> Tradiční úpravy, např. rakouský zákoník v § 384 (podobně italský v čl.
+> 924 až 926 a další) se v dané souvislosti zabývají jen řešením právních
+> otázek spojených se stíháním chovaných zvířat na cizím pozemku. Ale už
+> Randa dovodil (srov. Právo vlastnické dle rakouského práva v pořádku
+> systematickém. 7. vydání. Praha: Česká akademie pro vědy, slovesnost a
+> umění, 1922), že právní pravidlo formulované rakouským zákoníkem pro
+> zvířata, se netýká jen zvířat, ale všech movitých věcí. To se promítlo i
+> do některých kodifikací civilního práva. Lze poukázat na občanské
+> zákoníky Německa (§ 1005), Nizozemí (čl. 5:23) nebo Québecu (čl. 989
+> aj.).
+>
+> Se zřetelem k tomu se navrhuje obecné pravidlo pro případ, že se na
+> cizím pozemku ocitne něčí movitá věc. Po vzoru německé úpravy se
+> navrhuje řešení sledující ochranu zájmů obou vlastníků. Vlastníku
+> pozemku se ukládá povinnost takovou movitou věc jejímu vlastníku vydat,
+> popřípadě mu umožnit na pozemek vstoupit a věc si vyhledat a odnést.
+> Pokud to vlastník pozemku neučiní, půjde o neoprávněné zadržení věci a
+> bude vystaven reivindikační žalobě. Vlastnické právo vlastníka movité
+> věci je chráněno stejně jako vlastnické právo vlastníka nemovité věci.
+>
+> Pokud jde o chovaná zvířata, přejímá se standardní úprava většiny
+> evropských občanských zákoníků zakládající vlastníku zvířete právo zvíře
+> na cizím pozemku stíhat. Takové ustanovení v platném právu chybí a jsou
+> zdrojem neshod. Platný občanský zákoník v § 127 pouze stanoví, že
+> vlastník nesmí nechat vnikat chovaná zvířata na sousední pozemek. Toto
+> právní pravidlo je nepřesné. Nerozlišuje totiž dva odlišné aspekty.
+> Předně jde o to, že vlastník nesmí nechat vnikat ze svého pozemku na
+> cizí pozemek žádná zvířata bez ohledu na to, zda je chová nebo zda
+> taková zvířata na jeho pozemku žijí divoce (např. hlodavci, hmyz apod.).
+> Korektivem je přesah míry přiměřené místním poměrům, absolutní zákaz je
+> nemožný vzhledem k přirozenému chování některých zvířat, jako jsou např.
+> chovaní holubi nebo kočky). To je předmětem úpravy zákazu imisí v
+> předchozích ustanoveních. Druhý aspekt spočívá v ochraně vlastnického
+> práva vlastníka zvířete. Řeší se tak, že vlastník má právo vstoupit na
+> cizí pozemek a stíhat tam vlastní chované zvíře. Chovaným zvířetem se
+> rozumí jakékoli zvíře, které vlastník má ve vlastnictví, ať již jde o
+> zvíře domácí, anebo sice divoké, ale zajaté nebo zkrocené.
+>
+> Výslovně formulovaná právní pravidla o roji včel mají odůvodnění proto,
+> že obecné ustanovení o zvířatech nelze vztáhnout na jednotlivé včely.
+> Vlet jednotlivých včel na cizí pozemek se posoudí podle ustanovení o
+> imisích. Zpravidla půjde o nepřímé imise posuzované co do přípustnosti
+> podle kritéria míry přiměřené místním poměrům. O přímé imise by se
+> jednalo při umístění úlů na samé hranici vlastníkova pozemku a jejich
+> nasměrování česlem k pozemku souseda. Vlastník včel přirozeně na cizím
+> pozemku jednotlivé včely stíhat nemůže. Jednotlivé včely na cizím
+> pozemku se považují za věc ničí, resp. za zvíře, které nikomu nepatří,
+> takže soused ani jejich zabitím neruší vlastnické právo souseda. Naproti
+> tomu vzlétnutí včelího roje není imisí (srov. Rouček, F. in Rouček, F. -
+> Sedláček, J. et al. Komentář k československému obecnému zákoníku
+> občanskému. Díl II. Praha: Linhart, 1935, s. 377; Sedláček, J.
+> Vlastnické právo. Praha: Linhart, 1935, s. 213).
+>
+> Z uvedených důvodů se pro roj včel musí uplatnit jiná právní pravidla.
+> Taková jsou obsažena ve výslovných ustanoveních řady civilních kodexů.
+> Jde o tradiční úpravu obsaženou i ve starších právních předpisech a
+> kodifikacích (např. dekrety Marie Terezie z let 1775 a 1776, nebo
+> Allgemeines Landrecht z r. 1794), která se promítla v různém rozsahu i
+> do moderních kodifikací. Dosti podrobná je úprava německá (§ 961 až 964
+> BGB), dosti stručná např. úprava rakouská (§ 384 ABGB), italská (čl. 925
+> Codice civile) nebo španělská (čl. 612 Código civil). Navržená
+> ustanovení vycházejí z redukované německé úpravy - navrhuje se převzít
+> obsah § 961 a 964 BGB shodně jak to učinily Švýcarsko (čl. 719 a 725
+> ZGB), Lichtenštejnsko (Sachenrecht z r. 1922, čl. 193) a Polsko (čl. 182
+> polského občanského zákoníku z r. 1964).
+>
+> Vzlétne-li včelí roj na cizí pozemek, jde stále o vlastnictví vlastníka
+> roje, tudíž vlastník pozemku nesmí cizí vlastnictví poškozovat. K tomu
+> blíže např. Adamec, F. Včelařské právo v zemích českých, Praha, 1901
+> nebo Machová, J. Právo ve včelařství. Praha: Orac, 2001). Některé
+> zahraniční úpravy obsahují omezení spojené se zánikem vlastnického práva
+> původního vlastníka k roji, pokud jej nedostihne ani za dva dny.
+> Navrhuje se tuto otázku výslovně neřešit s tím, že rozhodující bude
+> schopnost včelaře roj identifikovat.
+>
+> Samovolné spojení včelích rojů je úkaz vyskytující se zřídka. Podle
+> literatury k tomu dochází v případě, že jeden z rojů ztratí matku.
+> Podrobný výklad k těmto otázkám uvádí Schulz, S. Die historische
+> Entwicklung der Recht an Bienen. Frankfurt am Main - Bern - New York -
+> Paris, 1990. Po vzoru německé, švýcarské a lichtenštejnské úpravy se
+> navrhuje upravit případ, kdy se roj spojí s včelami v úlu již obsazeném.
+> Podle navrženého pravidla se celek stává vlastnictvím vlastníka úlu.
+> Komentáře k příslušným zahraničním úpravám to vnímají jako samozřejmé
+> právní pravidlo (srov. např. Skowronska-Bocian, E. in Pietrzykowski, K.
+> et al. Kodeks cywilny. Komentarz. Tom I. 2. vydání. Warszawa: C. H.
+> Beck, 1999, s. 455 an.; Quack, F. in Quack, F. et al. Münchener
+> Kommentar zum Bürgerlichen Gesetzbuch. Bd. 6. Sachenrecht. 3. vydání.
+> München: C. H. Beck, 1997, s. 948; Schwander, I. in Honsell, H. - Nedim,
+> P. T. - Geiser, T. Basler Kommentar zum Schweizerischen Privatrecht.
+> Zivilgesetzbuch II. 2. vydání. Basel - Genf - München: Helbing &
+> Lichtenhahn, 2003, s. 1311; Rudnicki, S. Komentarz do kodeksu cywilnego.
+> II. kniha. 8. vydání. Warszawa: LexisNexis, 2007, s. 247). Navrženým
+> ustanovením zůstává nedotčena veřejnoprávní povinnost utratit roj
+> neznámého původu (vyhl. č. 299/2003 Sb., o opatřeních pro předcházení a
+> zdolávání nákaz a nemocí přenosných ze zvířat na člověka). Ustanovení
+> ani neřeší případné porušování této povinnosti, k němuž v praxi dochází
+> (srov. Rojů včel se ujímají včelaři, ač podle zákona mají zemřít;
+> Boleslavský deník z 21. 5. 2005). Předmětem navržené úpravy je řešení
+> otázky vlastnictví a zájem preventivně odstranit příčiny sousedských
+> sporů. Navržené ustanovení se jeví vhodnější než přístup rakouského
+> práva, podle něhož se původní vlastník roje může po nabyvateli domáhat
+> zaplacení jeho hodnoty. Jestliže právní předpis ukládá povinnost k
+> utracení roje, nebylo by namístě připustit, aby se původní vlastník roje
+> mohl ještě domáhat peněžité náhrady.
+>
+> Na rozdíl od německé úpravy (§ 962 BGB) se nepokládá za potřebné řešit
+> výslovným ustanovením případ vletu včel do neobsazeného úlu. Německý
+> zákoník stanovil výslovně, že v takovém případě zůstává vlastnictví
+> vlastníka roje nedotčeno a že si může roj z neobsazeného úlu vybrat s
+> tím, že nahradí způsobenou škodu. Totéž lze spolehlivě dovodit z obecné
+> úpravy návrhu občanského zákoníku, zvláštní úprava pro roje včel se tedy
+> jeví nadbytečná. Stejně tak se jeví nadbytečné i ustanovení § 963 BGB,
+> podle něhož se při spojení několika včelích rojů mimo úl stanou se
+> jejich původní vlastníci spoluvlastníky celku za předpokladu, že každý z
+> nich svůj roj stíhal. V daném směru postačí, pokud se takový případ
+> vyskytne, obecná úprava smísení movitých věcí.
+>
+> Judikatura nejvyšších soudních instancí se otázkami spojenými s
+> problematikou včel zabývá sporadicky. Z poslední doby je známé
+> rozhodnutí Nejvyššího soudu sp. zn. 22 Cdo 1421/2003 z 27. 5. 2004; z
+> rakouské rozhodovací praxe rozhodnutí z 15. 10. 1953 publikované in
+> Judikatenbuch des Oberstes Gerichthofes (1954, s. 225). To však
+> neznamená, že se naznačené případy v praxi nevyskytují, popř. že nebyly
+> řešeny soudy nižších stupňů. Jeví se proto jako vhodné formulovat v
+> daném směru jasná právní pravidla snižující riziko neshod a sporů.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1009 a 1010 návrhu — dnešní § 1016—1017):**
+
+> Návrh těchto ustanovení se věnuje otázkám souvisícím se stromy a jinými
+> rostlinami na sousedících pozemcích. Stávající úprava obsahuje jen
+> zjednodušené pravidlo. Předně se navrhuje stanovit, že plody spadlé z
+> přesahujících keřů nebo z větví stromů na sousední pozemek náleží
+> vlastníkovi pozemku, na nějž spadly. Podobné pravidlo v našem právním
+> řádu dosud chybělo. Jsou-li plody dosud na těchto rostlinách, náleží
+> vlastní­kovi rostlin a musí mu být umožněno, aby je očesal, byť byl
+> přístup k nim možný jen ze sousedního pozemku. Dále se navrhuje upřesnit
+> dosavadní konstruk­ci o odstraňová­ní kořenů a větví pronikajících na
+> sousední pozemek. U stromu je namístě chránit jej ve zvýšené míře (tak
+> již předválečná československá osnova nebo švýcarský občanský zákoník).
+> Proto se sleduje stanovit, že kořeny a větve stromu lze odstranit nikoli
+> jen šetrně a ve vhodné době, ale také po zvážení míry obtěžování
+> vlastníka sousedního pozemku.
+>
+> Právo souseda bránit sázení stromů v těsné blízkosti hraniční čáry
+> sousedících pozemků zakládá větší počet evropských občanských zákoníků.
+> Navržená úprava se inspiruje zejména italským kodexem (čl. 894 an.),
+> vylučuje však některé případy, kdy takovému právu nelze dát průchod. Pro
+> ostatní případy uplatnění sousedova práva domoci se zákazu sázet stromy
+> v těsné blízkosti hraniční čáry popř. příkazu odstranit stromy již
+> vzrostlé podmiňuje existencí rozumného důvodu na sousedově straně.
+> Takový rozumný důvod bude např. mít vlastník zemědělského pozemku,
+> počne-li soused v těsné blízkosti hraniční čáry stromy, které hrozí v
+> budoucnu vyčerpat podstatnou měrou podzemní vláhu i pod zemědělským
+> pozemkem nebo které hrozí v budoucnu tento pozemek zastínit apod. Stejně
+> tak bude mít např. vlastník pozemku s domem nedaleko hraniční čáry
+> rozumný důvod bránit se, zasadí-li soused při hraniční čáře např. mladý
+> exemplář jírovce maďalu, protože kořeny vzrostlého jedince tohoto druhu
+> mohou dům vážně poškodit. Navržené ustanovení lze samostatně aplikovat,
+> jen nebrání-li tomu jiné právní předpisy, zejména § 8 zák. č. 114/1992
+> Sb., o ochraně přírody a krajiny a § 8 vyhl. č. 395/1992 Sb.
+> stanovujících, ve kterých případech se vyžaduje veřejnoprávní povolení
+> ke kácení stromů nebo k odstraňování keřových porostů a ve kterých
+> případech se takové povolení nevyžaduje. Je-li ke k odstranění dřeviny
+> potřebné povolení, navržená úprava na tom nic nemění. Právě proto, že
+> bez povolení lze kácet stromy rostoucí mimo les, pokud je obvod jejich
+> kmene měřený ve výšce 130 cm nad zemí do 80 cm, jsou soukromoprávní i
+> veřejnoprávní úprava komplementární, neboť navržené ustanovení míří
+> především na tyto případy a jeho funkce je preventivní. Tam, kde
+> přistupují další veřejnoprávní omezení, např. v případech, kdy je strom
+> významným krajinným prvkem, kdy stromy nebo keře zabezpečují stabilitu
+> vodního toku, nebo omezení vyplývající z lesního zákona, zůstávají tato
+> omezení samozřejmě i nadále nedotčena.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1011 až 1015 návrhu — dnešní § 1018—1022):**
+
+> Tato ustanovení se věnují úpravám pozemků a stavebním pracem na nich.
+> První z nich přejímá z § 127 odst. 1 platného občanského zákoníku právní
+> pravidlo, podle něhož vlastník nesmí ohrozit sousedovu stavbu nebo
+> pozemek úpravami pozemku nebo úpravami stavby na něm zřízené bez toho,
+> že by učinil dostatečné opatření na upevnění stavby nebo pozemku. Návrh
+> již výslovně neuvádí stavbu vzhledem k obnovené superficiální zásadě,
+> nicméně na stavby, jimž zůstává i nadále (dočasně nebo trvale) status
+> nemovité věci, se uvedené právní pravidlo použije analogicky.
+>
+> Nově se navrhuje založit vlastníku pozemku právo zabránit sousedovi, aby
+> v těsné blízkosti společné hranice pozemků zřídil stavbu. Stavbou se
+> rozumí jakákoli stavba (ať trvalá nebo dočasná, ať stavba spojená pevně
+> základy s pozemkem nebo stavba s vlastností movité věci). Jde, podobně
+> jako u předchozího ustanovení o stromech, o opatření preventivní povahy,
+> jehož účelem je předem zabránit narušení sousedských práv, např. při
+> hrozbě zastínění sousedního pozemku nebo při hrozbě vnikání chovaných
+> zvířat (např. slepic) na sousední pozemek. Uplatnění tohoto práva je
+> vázáno na rozumný důvod na straně oprávněného. Existence takového
+> rozumného důvodu se posoudí podle objektivních hledisek se zřetelem k
+> místním poměrům a k tomu, co na sousedovi lze spravedlivě požadovat, aby
+> ještě snášel. Rovněž posouzení toho, co je těsnou blízkostí, záleží na
+> místních poměrech i na druhu zřizované stavby. Podpůrně lze využít
+> kritéria stanovená předpisy stavebního práva (aktuálně srov. vyhl. č.
+> 268/2009 Sb., o technických požadavcích na stavby). Navržené ustanovení
+> se nedotýká případů, kdy si soused opatří k zřízení stavby veřejnoprávní
+> titul (zejména stavební povolení); v těchto případech se uplatní
+> ustanovení o ohrožení držby.
+>
+> Jako nové se navrhuje ustanovení inspirované úpravou Code civil,
+> québeckého zákoníku a některých dalších: zakládá sousedovo právo bránit
+> zřízení stavby na sousedním pozemku v příliš těsné blízkosti hraniční
+> čáry, jakož i chránit se před stékáním vody nebo padáním sněhu či ledu
+> ze sousední stavby na vlastní pozemek.
+>
+> Z platného občanského zákoníku se přejímá ustanovení § 127 odst. 3. To
+> stanovuje, že vlastníci sousedících pozemků jsou povinni umožnit na
+> nezbytnou dobu a v nezbytné míře vstup na své pozemky, popřípadě na
+> stavby na nich stojící, pokud to nezbytně vyžaduje údržba
+> a obhospodařování sousedících pozemků a staveb. Proti dosavadní úpravě
+> se navrhuje výrazněji zdůraznit, že omezení vlastnických práv v takovém
+> případě přichází v úvahu jen tehdy, nelze-li daného účelu dosáhnout
+> jinak; nebude tedy možné, aby soused vnikal na další pozemek jen za
+> účelem dosažení vlastní úspory apod., existuje-li možnost dosáhnout
+> téhož jinak, byť nákladněji. Z § 127 odst. 3 platného občanského
+> zákoníku se přejímá i právní pravidlo zavazující souseda k náhradě
+> škody. Neuvádí se výslovně, že této povinnosti se soused nemůže
+> zprostit; to vyplývá již z toho, že ustanovení neuvádí liberační důvody.
+> Toto ustanovení míří na případy běžné údržby a běžného hospodaření.
+> Protože se běžně vyskytují i mimořádné situace, pamatuje na ně
+> následující ustanovení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1016 návrhu — dnešní § 1023):**
+
+> Prostor nad povrchem i pod povrchem pozemku může být vzhledem k vývoji
+> techniky využíván nejrůznějším způsobem. Proto již dnes na to pamatují
+> nejrůznější právní předpisy a vlastníka omezují rozličným způsobem.
+> Těchto zvláštních úprav si navržené ustanovení nevšímá a nezasahuje do
+> nich.
+>
+> Mohou se však vyskytnout i jiné případy, speciálně neupravené. Na ně
+> navržené ustanovení pamatuje obecnou klauzulí, že je-li tu důležitý
+> důvod a nemá-li vlastník rozumný důvod tomu bránit, musí vlastník strpět
+> užívání prostoru nad pozemkem nebo pod pozemkem rovněž. Dojde-li však ke
+> změně poměrů, tj. odpadne-li onen důležitý důvod, nemůže osoba, která
+> ony prostory využívala, z toho pro sebe odvodit nějaké další právo do
+> budoucna. Bylo-li však v této souvislosti zřízeno v době, kdy tu
+> důležitý důvod ještě byl, úředně schválené zařízení, což se mohlo stát i
+> s velkými náklady, nemůže vlastník pozemku požadovat odstranění takového
+> zařízení, nýbrž jen žádat náhradu škody.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [II. ÚS 415/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-415-14_1) — nález, 24. 3. 2015
@@ -954,6 +1826,47 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 **§ 1027**: na návrh souseda + stanovisko stavebního úřadu **soud uloží oplocení** (zajištění nerušeného výkonu).
 
 **§ 1028 — Neznatelné hranice**: soud určí podle poslední pokojné držby; subsidiárně podle slušného uvážení.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1017 až 1021 návrhu — dnešní § 1024—1028):**
+
+> Rozhrady ukazují patrné hranice mezi pozemky, ať již jsou přirozené či
+> umělé (zeď, živý plot, mez atp.); jsou-li takové, třeba stanovit
+> základní pravidla. Stávající občanský zákoník stanovil jen možnost
+> soudního uložení povinnosti pozemek oplotit (§ 127 odst. 2). Toto
+> opatření, svým charakterem mimořádné, přejímá § 1021. Jemu předcházejí
+> ustanovení § 1017 a 1018 vztahující se k běžným záležitostem soukromého
+> života.
+>
+> Předně se navrhuje stanovit vyvratitelnou domněnkou, že tam, kde není
+> jasné, komu z vlastníků sousedních pozemků rozhrada náleží, náleží jim
+> společně. Na společné rozhrady se použijí ustanovení o spoluvlastnictví.
+> To však není z praktického hlediska možné u společných zdí v tom směru,
+> že nelze pro tyto případy zvolit pravidlo, že každý ze spoluvlastníků má
+> právo k celé věci. Z toho důvodu se v § 1017 odst. 2 sleduje odchylná
+> úprava, podle níž spoluvlastník užívá svou polovinu zdi a má možnost
+> dělat v ní výklenky (také do ní vestavět skříně apod.), nesmí však
+> ohrozit její stabilitu a funkce, ani omezit druhého spoluvlastníka v
+> užívání jeho části. Pokud se jedná o jiné rozhrady, v tomto odstavci
+> výslovně nezmiňované, lze si představit některé další případy, které se
+> mohou raritně vyskytnout (např. v případě plotů, ohrad, živých plotů
+> atd.). Ohledně nich však netřeba volit kazuistickou úpravu, nýbrž
+> postačí analogická aplikace § 1017 odst. 2, případně využití úpravy
+> sousedských práv či jiných odpovídajících ustanovení.
+>
+> V protikladu k předchozímu ustanovení stanoví § 1018, že tam, kde je
+> nepochybné, jaká rozhrada náleží jednomu či druhému z vlastníků
+> sousedního pozemku, udržuje každý to, co mu patří. Povinnost k údržbě
+> rozhrady však není absolutní; stanovit ji má význam jen pro případy
+> odvrácení rizika vzniku škody sousedního pozemku.
+>
+> Ustanovení § 1019 řeší případy jak postupovat v případě poškozených či
+> rozpadlých rozhrad. Jedním z těchto pravidel je, že vlastník není
+> povinen rozpadlou zeď postavit nebo obnovit jinou rozhradu, avšak je
+> povinen ji udržovat v dobrém stavu, pokud hrozí sousedovi škoda. Toto
+> ustanovení však nezasahuje do veřejnoprávních povinností, které stanoví
+> zvláštní právní předpisy. Jedná se například o povinnosti vlastníků
+> objektů, které jsou stanoveny právními předpisy na úseku státní
+> památkové péče.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1071,6 +1984,64 @@ Rozhrady mezi pozemky se presumují jako společné (§ 1024); společnou zeď l
 
 **§ 1036**: vlastník dotčeného pozemku může požadovat **převzetí pozemku potřebného pro cestu** (s úhradou + znehodnocení zbývajícího).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1022 až 1029 návrhu — dnešní § 1029—1036):**
+
+> Současný občanský zákoník po dlouhých letech absence toho institutu
+> upravil nezbytnou cestu zkratkovitě a velmi nedostatečně. Z toho důvodu
+> se stávající úprava nepřejímá a navrhuje se řešit problematiku nezbytné
+> cesty po vzoru standardních úprav (Rakousko, Německo, Québec aj.)
+> důkladněji. To má zásadní význam zejména z toho důvodu, že nezbytná
+> cesta je institut svou povahou výjimečný, sloužící k omezení
+> vlastnického práva jednoho vlastníka v soukromém zájmu vlastníka jiného.
+>
+> Možnost žádat zřízení nezbytné cesty má být poskytnuta vlastníkovi této
+> nemovité věci, která postrádá dostatečné spojení s veřejnou cestou, tak
+> aby svou nemovitou věc mohl řádně užívat. Dosažení pohodlnějšího spojení
+> však důvodem pro zřízení nezbytné cesty není. Přitom musí být zváženy
+> jak potřeba osoby požadující nezbytnou cestu, tak zájem vlastníka
+> sousedního pozemku, jehož vlastnické právo má být omezeno. Mezi obojím
+> je třeba respektovat nezbytnou relaci. Přitom musí být zváženo, jde-li o
+> případ, kdy se potřebnému vlastníkovi umožní spoluužívání již existující
+> cesty souseda, anebo zřízení cesty nové, protože druhým z uvedených
+> opatření se do sousedova vlastnického práva zasáhne podstatněji. V dané
+> souvislosti se proto v § 1029 umožňuje vlastníku sousedního pozemku
+> požadovat po tom, kdo si nezbytnou cestu nárokuje, aby vykoupil pozemek
+> zasažený zřízením nově vybudované umělé cesty. Přitom musí být
+> pamatováno, že se taková změna vlastnických poměrů může záporně
+> promítnout i do hodnoty zbývajícího nemovitého majetku tohoto vlastníka,
+> a tudíž i to musí být zohledněno při stanovení kupní ceny.
+>
+> Nezbytnou cestu lze povolit jen za úplatu (§ 1023). Ta může být hrazena
+> i ve formě splátek (§ 1028). Vedle úplaty má být omezovanému vlastníku
+> složena i jistota na krytí případných škod na jeho pozemku vzniklých,
+> vyjma případy, kdy je zřejmé, že tu riziko takových škod není. V té
+> souvislosti je nutné pamatovat i na to, že dotčením sousedního pozemku
+> mohou být zasažena i práva dalších osob, nejen tedy vlastníka. Tehdy,
+> opírají-li se tato oprávnění o práva věcná, musí být v odůvodněných
+> případech příslušné úplaty a jistoty poskytnuty i jim. To je praktické
+> zejména tehdy, je-li sousední pozemek zatížen zástavním právem, věcným
+> břemenem nebo předkupním právem apod. Jiná věc je, jde-li o obligační
+> práva třetí osoby (typicky půjde o případy nájmu nebo pachtu) - pak
+> taková třetí osoba může odškodnění požadovat jen proti vlastníku
+> sousedního pozemku, který je vůči ní ve smluvním poměru. Ale i tento
+> aspekt musí být zvážen při vyměření úplaty, jaká omezovanému vlastníku
+> vůči žadateli nezbytné cesty náleží. Protože lze nezbytnou cestu zřídit
+> nejen ve věcném, ale i v časově nezbytném rozsahu, třeba počítat s tím,
+> že nezbytná cesta může být také zrušena (§ 1027), a pro ten případ
+> stanovit, zda má být vypořádána poskytnutá náhrada a složená jistota (§
+> 1028).
+>
+> Povolením nezbytné cesty nelze vlastníka sousedního pozemku nepřiměřeně
+> omezit. To platí zejména tehdy, žádá-li se nezbytná cesta přes uzavřené
+> prostory nebo brání-li zřízení takové cesty veřejný zájem. Stejně tak
+> není možné řešit povolením nezbytné cesty případy, kdy se žadatel
+> přístupu k veřejné cestě sám hrubou nedbalostí zbavil.
+>
+> Zvlášť musí být pamatováno na situace, kdy je izolovaná nemovitá věc
+> obklopena několika pozemky, a stejně tak i na případ, kdy k izolaci
+> pozemku došlo rozdělením pozemku původního (typicky při zrušení
+> spoluvlastnictví). Tyto případy se navrhují upravit v § 1026.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 2583/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A03A8BC117E0AC83C1258DB70052B313?openDocument) — *Přípustnost dovolání Vady podání Nezbytná cesta (o. z.)*
@@ -1151,6 +2122,22 @@ Nezbytná cesta (§ 1029) slouží pozemku bez dostatečného spojení s veřejn
 
 **Návaznost**: zákon č. 184/2006 Sb. o vyvlastnění.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1030 až 1032 návrhu — dnešní § 1037—1039):**
+
+> Tradičně se uznává, že vlastník může být za určitých okolností ve svých
+> právech omezen nebo i vlastnického práva zbaven. Respektuje se, že se
+> tato úprava tradičně v občanských kodexech vyskytuje, byť jde o opatření
+> svým charakterem veřejnoprávní. Navržená úprava v podstatě recipuje
+> stávající § 128 občanského zákoníku s tím, že odděluje do zvláštních
+> ustanovení použití cizí věci ve stavu nouze nebo naléhavém veřejném
+> zájmu (§ 1030), tedy opatření svým charakterem mimořádné a často jen
+> dočasné, a omezení vlastnického práva nebo vyvlastnění ve veřejném
+> zájmu, který nelze uspokojit jinak (§ 1031). Následující ustanovení řeší
+> otázku náhrad: nově se navrhuje stanovit, že postiženému vlastníku
+> náleží náhrada plné hodnoty dotčeného majetku, a to v penězích. Zároveň
+> se nebrání tomu, aby náhrada byla poskytnuta i jinak, bude-li to
+> dotčenému vlastníku lépe vyhovovat a projeví-li s tím souhlas.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3068/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4B142AE63E0A136C1258C3B0052B343?openDocument) — *Vlastnictví Ochrana vlastnictví Omezení vlastnictví (náhrada)*
@@ -1229,6 +2216,53 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 - Kdo nabyl držby **poctivě, řádně, pravě** → **hledí se jako na vlastníka** proti tomu, kdo věc zadržuje bez právního důvodu;
 - **Stejný / slabší právní důvod** druhé strany.
 - **§ 1043 odst. 2**: bezúplatné nabytí = slabší důvod než úplatné.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1033 až 1037 návrhu — dnešní § 1040—1044):**
+
+> Deformované a simplifikované pojetí ochrany vlastnického práva v § 126
+> odst. 1 nynějšího občanského zákoníku, vycházející ze socialistických
+> tradic, se navrhuje nahradit standardní úpravou vycházející z klasického
+> pojetí vlastnických žalob. Vlastnické žaloby jsou dvě, totiž žaloba na
+> vydání věci neboli reivindikační (§ 1033) a žaloba zápůrčí čili
+> negatorní (§ 1035). K nim se přiřazuje žaloba z domnělého vlastnictví,
+> neboli publiciánská, upravená nově v § 1036.
+>
+> Vydání věci se může domáhat její vlastník proti tomu, kdo mu ji neprávem
+> zadržuje. Takto lze žalovat jen o vydání určité (identifikovatelné)
+> věci, a proto nelze zpravidla vindikovat věci druhově určené, pokud byly
+> smíšeny s jinými věcmi téhož druhu. Na to pamatuje úprava §** **1034,
+> která (zejména v odstavci druhém, který rozvádí pravidlo prvního
+> odstavce) vylučuje vindikaci kvantity.
+>
+> Zároveň se vylučuje možnost uplatnění reivindikační žaloby.
+>
+> Jedná se o situaci, kdy nevlastník svým jménem zcizí věc další osobě,
+> ale následně se zcizitel sám stane vlastníkem oné věci. Pak by se mohl,
+> nebýt druhého odstavce § 1033, domáhat vydání věci s argumentem svého
+> právě nabytého vlastnického práva a těžit z vlastního protiprávního
+> jednání. Vyloučení této možnosti odpovídá uznaným právním zásadám.
+>
+> Zápůrčí žaloba je jako druhá z vlastnických žalob upravena v § 1035
+> (dosavadní občanský zákoník v § 126 odst. 1 její existenci vůbec pomíjí,
+> přestože se v praxi běžně používá). Touto žalobou se dotčený vlastník
+> brání proti jinému rušení vlastnického práva, než je odnětí věci. Význam
+> této žaloby je dán tím, že stačí prokázat fakt rušení vlastnického
+> práva. Na žalovaném pak je, aby se případně pokusil dokázat, že zásah do
+> žalobcova vlastnického práva nebyl učiněn, případně že nebyl učiněn
+> neprávem. Petit negatorní žaloby směřuje k tomu, aby se žalovaný zdržel
+> dalších rušebních činů a aby, pokud již nastal, odstranil následky svého
+> rušebního jednání uvedením do předešlého stavu.
+>
+> K oběma předešlým žalobám je přičleněna žaloba z domnělého vlastnictví
+> (*actio Publiciana*). Kdo drží věc poctivě a oprávněně, má vůči všem,
+> kdo mají slabší právo, stejnou možnost žalovat, jakou má vlastník. Touto
+> úpravou se rozšiřuje ochrana držby oproti obecné úpravě posesorní
+> ochrany, ovšem jen pro případ držby poctivé a oprávněné. Z praktických
+> důvodů se poskytuje obdobná ochrana i tomu, kdo má věc u sebe i z jiného
+> právního důvodu jako jsou např. nájem nebo výpůjčka. Protože se však
+> jedná o věcněprávní ochranu, vyjadřuje se výslovně, že jde o právo
+> vlastníka na ochranu, které osoba, jejíž právo se opírá jen o obligační
+> titul, pouze vlastním jménem uplatňuje.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1325,6 +2359,158 @@ Vlastník se brání vindikační žalobou na vydání neprávem zadržené věc
 - **Movitá věc zanedbatelné hodnoty** na veřejně přístupném místě → opuštění **bez dalšího**;
 - **Nemovitá věc 10 let** → vyvratitelná domněnka opuštění → následně vlastnictví státu.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 1038 až 1043 návrhu — dnešní § 1045—1050):**
+
+> Osnova opouští zjednodušené pojetí režimu věcí opuštěných
+> (derelinkvovaných), nalezených a skrytých v dosavadním ust. § 135
+> občanského zákoníku, jehož základní nedostatek je v tom, že stále
+> sleduje koncepci zájmu někdejšího socialistického státu přivlastnit si
+> nález. Tomu odpovídá původní konstrukce tohoto ustanovení, že věci
+> nalezené a skryté, jejichž vlastník není znám, stejně jako věci opuštěné
+> připadají do vlastnictví státu. Stejná myšlenka rezonuje ale i s úpravou
+> současnou, podle níž tyto věci připadají do vlastnictví obce. Ze
+> zkušeností praktického života je zřejmé, že se jedná o zákonodárcovo
+> nesplnitelné přání a že se život vydává zcela jinou cestou. Proto se po
+> vzoru zavedených kodexů právní režim věcí opuštěných, nalezených a
+> skrytých upravuje podrobněji a se zřetelem k specifickým znakům každé
+> z jednotlivých skupin.
+>
+> O opuštěných věcech pojednávají ust. § 1038 a násl. Předně se stanovuje,
+> že věc, která nikomu nepatří, může být kýmkoli okupována a může k ní být
+> nabyto vlastnické právo, ledaže tomu brání zvláštní zákony. Stanovuje se
+> tedy zásada okupační volnosti. Tam, kde je zvláštní zájem na omezení
+> nebo vyloučení okupační volnosti, ponechává se příslušná úprava
+> zvláštním zákonům, jak se také běžně děje. Osnova volí termín „věc,
+> která nikomu nepatří", resp. „věc opuštěná", nikoli „věc ničí", popř.
+> „věc bez pána", byť druhé z uvedených označení odpovídá jiným jazykovým
+> pojetím (příkladmo herrenlos, sans maitre, senza padrone), protože
+> taková označení působí archaicky. Přídomek „bez pána" je ponechán pouze
+> u zvířat (§ 1039 až 1041), kde také odpovídá jazykové uzanci.
+>
+> Opuštěná (derelinkvovaná) věc je taková, kterou její vlastník opustí s
+> úmyslem již nebýt jejím vlastníkem. Mohou být i některé případy sporné,
+> proto se navrhuje stanovit, že účinky derelikce nastávají, nevykonává-li
+> vlastník k věci své právo po stanovenou dobu. Vzhledem k tomu, že určité
+> věci, zejména věci nemovité, jsou zapsány v příslušných veřejných
+> seznamech, musí být novému vlastníku umožněno, aby se domohl uvedení
+> stavu zápisů do souladu s nově vzniklým právním poměrem.
+>
+> Zvláštní ustanovení se vztahují k zvířatům. Vzorem těchto pro tuto
+> úpravu jsou opět standardní zákoníky (rakouský, německý, švýcarský,
+> italský). Je třeba na tomto místě zdůraznit, že ustanovení o zvířatech
+> neřeší jiné otázky než nabytí a pozbytí vlastnického práva ke zvířeti.
+> Je-li např. vypuštění exotického ptáka nebo tropické ryby do volné
+> přírody s úmyslem nadále zvíře nevlastnit (z hlediska úpravy vlastnictví
+> tedy derelikce) týráním zvířete podle jiného právního předpisu, úprava
+> občanského zákoníku na tom nic nemění. Občanský zákoník ale musí
+> odpovědět na otázku, zda k zvířeti trvá vlastnické právo dosavadního
+> vlastníka, popř. za jakých podmínek dosavadní vlastník vlastnické právo
+> k zvířeti ztratí a za jakých podmínek ke zvířeti může nabýt vlastnické
+> právo někdo jiný.
+>
+> Pro tyto účely se předně rozlišují zvířata divoká a domácí. Z toho
+> plyne, že občanské právo považuje za divoká všechna zvířata, která
+> nejsou domestikovaná.
+>
+> Divoká zvířata (v terminologii rakouského občanského zákoníku *das
+> Wild*, v německém a švýcarském občanském zákoníku *wilde Tiere,* ve
+> španělském občanském zákoníku *animales fieros* aj.) jsou bez pána,
+> dokud žijí na svobodě. Např. černá nebo spárkatá zvěř i jiní živočichové
+> žijící na našem území volně v přírodě ve svém přirozeném prostředí
+> nemají vlastníka. Volně žijící bezobratlí i obratlovci, i když se
+> zdržují na něčím pozemku, nejsou vlastnictvím vlastníka pozemku. Totéž
+> ale platí i o zvířatech volně žijících v přírodě, i když pro ně zdejší
+> přírodní podmínky nejsou přirozeným prostředím - nejen zatoulá-li se na
+> zdejší území zvíře, které zde běžně nežije, ale také v případě, že
+> takové zvíře z vlastníkova chovu unikne a dosáhne svobody. Přitom z
+> tohoto hlediska není podstatné, bylo-li takové zvíře (např. činčila nebo
+> mink) chováno v domácnosti pro potěšení a jako společník, nebo za
+> výdělečným účelem. Všechna tato zvířata, pokud žijí ve volné přírodě,
+> jsou zvířaty bez pána a nejsou objektem vlastnického práva. Jejich
+> přivlastnění je možné, nevylučují-li to ovšem jiné právní předpisy,
+> popř. za podmínek stanovených těmito předpisy jako jsou např. zákon o
+> myslivosti nebo zákon o rybářství.
+>
+> Nevylučují-li to jiné právní předpisy, může být divoké zvíře zajato. Tím
+> k němu vzniká vlastnické právo osobě, která je zajala. Divoké zvíře
+> (tedy každé zvíře, které není domestikováno), může být ovšem nabyto do
+> vlastnictví i jiným způsobem, např. smlouvou nebo děděním apod. Divoká
+> zvířata, která určitá osoba drží jako své vlastnictví, ať již k nim
+> nabyla vlastnické právo jakkoli, se řadí do kategorie zajatých zvířat (v
+> terminologii německého občanského zákoníku *gefangene wilde Tiere,* v
+> terminologii švýcarského občanského zákoníku *gefangene Tiere,* v
+> terminologii nizozemského občanského zákoníku *tamme dieren,* ve
+> francouzské právní terminologii *animaux captifs,* v italské *animali
+> presi e ritenuti* atd.). Unikne-li zajaté zvíře ze zajetí, tj.
+> překoná-li překážku, která mu brání v dosažení svobody, je nutné
+> stanovit, jak k němu dosavadní vlastník vlastnické právo ztratí. Také v
+> tomto případě se osnova přidržuje vzoru standardních občanských zákoníků
+> (např. § 960 odst. 2 BGB) a stanoví pro udržení si vlastnického práva
+> dosavadním vlastníkem podmínku, že zvíře musí být vlastníkem bez
+> prodlení a soustavně stíháno za účelem jeho opětovného zajetí. Stíháním
+> zvířete se rozumí především stíhání faktické: zda vyhoví i náhradní
+> způsoby, na které se poukazuje výrazem hledání, jako jsou např. oznámení
+> o úniku zvířete vyhláškou nebo příslib odměny, se posoudí podle
+> konkrétních okolností případu. Totéž obdobně platí, unikne-li takové
+> zvíře na pozemek pro stíhajícího vlastníka nepřístupný; pak se taková
+> situace z hlediska uchování vlastnického práva vlastníka zvířete posoudí
+> podle toho, má-li vlastník zvířete proti vlastníku pozemku žalobu o
+> vydání zvířete.
+>
+> Dosáhne-li zvíře svobody a nestíhá-li je vlastník nebo ustane-li v
+> pronásledování, stává se v důsledku toho zvířetem bez pána. To ale
+> neplatí ve dvou případech. Jednak jde o divoká zvířata chovaná v
+> zoologických zahradách a o ryby v rybnících, které nejsou veřejným
+> statkem (tedy v rybnících, které lze chápat jako soukromé v úzkém slova
+> smyslu); i v tomto směru sleduje osnova vzor německého občanského
+> zákoníku (§ 960 BGB). Jednak jde také o zvířata označená takovým
+> způsobem (např. tetováním, čipem, kroužkem apod.), že lze vlastníka
+> zjistit; v těchto případech si vlastník vlastnické právo podrží.
+>
+> Je-li divoké zvíře zajato, má přirozený pud dosáhnout svobody. V rámci
+> divokých zvířat však vystupuje jako zvláštní skupina kategorie
+> zkrocených zvířat (v terminologii rakouského občanského zákoníku *zahm
+> gemachte Tiere,* v terminologii švýcarského občanského zákoníku
+> *gezähmte Tiere,* v italském občanském zákoníku *animali mansuefatti*,
+> ve španělském *animales amansados*), k nimž se ustanovení standardních
+> občanských zákoníků o vlastnickém právu ze zřejmých důvodů staví
+> odlišně. Zkrocené zvíře je takové, jehož druh zpravidla žije ve volné
+> přírodě jako ve svém přirozeném prostředí (např. liška, medvěd, srnec,
+> sokol), ale jehož jednotlivý kus se drží u člověka, např. proto, že tak
+> byl od mládí vychován nebo postupně ochočen. I o těchto zvířatech mají
+> občanské zákoníky obvykle zvláštní ustanovení, vycházející z tradic
+> římského práva, které ohledně těchto zvířat uznávalo „staré pravidlo, že
+> ztratila-li pud k návratu, přestávají patřit také nám a stávají se
+> vlastnictvím těch, kdo je okupují. Má se pak za to, že pud k návratu
+> ztrácejí tehdy, když si odvyknou se vracet" (Gai, II, 68). Uvedené
+> pravidlo převzalo z Justiniánovy kodifikace (D. 41, 1) někdejší obecné
+> právo a odtud je recipovaly některé evropské občanské zákoníky (např.
+> německý v § 960 odst. 3, švýcarský v čl. 719^II^ nebo nizozemský v čl.
+> 5:19 odst. 1). V té souvislosti se ale často poukazuje na labilitu takto
+> obecně formulovaného pravidla vzhledem k tomu, že faktickou otázku, zda
+> zvíře pozbylo návyk vracet se k pánovi, lze jen obtížně posoudit. Proto
+> jiné občanské zákoníky staví tuto otázku napevno stanovením lhůty, po
+> jejímž uplynutí se i zkrocené zvíře považuje za zdivočelé (tj. za divoké
+> zvíře žijící na svobodě). Např. španělský (čl. 612) nebo italský (čl.
+> 925) kodex stanoví pro tyto účely lhůtu dvacetidenní; rakouský občanský
+> zákoník (§ 384) stanovil lhůtu v trvání 42 dnů, jejíž uchování sledoval
+> i vládní návrh československého občanského zákoníku z r. 1937 (§ 157).
+> Lhůty posledně uvedené se přidržuje i zdejší návrh: především proto, že
+> postavit v těchto případech otázku pozbytí vlastnického právo najisto se
+> jeví jako žádoucí, ale také z důvodu uchování tradice, když šestitýdenní
+> lhůta se jeví jako logická vzhledem k přirozenému řádu. Rovněž je
+> logické, že lhůta neběží, zabrání-li někdo jiný takovému zvířeti, aby se
+> k vlastníku vrátilo. Ze zřejmých důvodů se i pro tyto případy navrhuje
+> stanovit speciální pravidlo, je-li zkrocené zvíře označeno tak, že lze
+> podle označení zjistit jeho vlastníka.
+>
+> Ustanovení o zajatých a zkrocených zvířatech nedopadají na domácí
+> zvířata. Domácí zvířata jsou taková, jejichž druh se přidržuje člověka a
+> na svobodě ve volné přírodě buď nežije vůbec (např. kůň), anebo
+> zpravidla (např. holub). Zaběhne-li se domácí zvíře, uplatní se na ně
+> právní pravidla o ztracené věci do té míry, pokud speciálně pro ně
+> nejsou stanovena zvláštní pravidla.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [22 Cdo 3489/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1679A865E9D61D2C1258C360052C989?openDocument) — *Vlastnictví*
@@ -1403,6 +2589,79 @@ Nalezenou věc nelze bez dalšího pokládat za opuštěnou (§ 1051). Zkrocené
 - Stejný režim jako ztracená;
 - **Nálezné nepřísluší**, věděl-li vlastník o úkrytu;
 - Nelze určit vlastníka → **dohoda nálezce + vlastníka pozemku** o tom, kdo si věc ponechá (s vyplacením 1/2 ceny); jinak vlastník pozemku.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1044 až 1059 návrhu — dnešní § 1051—1066):**
+
+> Od věcí a zvířat, která nikomu nepatří, nutno odlišit případ věci
+> nalezené. Zatímco v prvém případě jde o věci bez vlastníka a zvířata bez
+> pána, v druhém se jedná situaci, kdy vlastník ztrátou věci pozbyl jen
+> její držbu, ale nikoli vlastnické právo k ní. Proto musí být jeho
+> vlastnické právo šetřeno a zákon musí vlastníku poskytnout možnost, aby
+> se své věci opět ujal.
+>
+> Předně se stanoví, že nalezená věc musí být vrácena tomu, kdo ji
+> ztratil. Není-li to možné, musí být nález oznámen obci, kde byla
+> ztracená věc nalezena. Obec pak oznámí nález věci, zpravidla jen
+> způsobem v místě obvyklým, ledaže jde o nález o značné hodnotě, u něhož
+> se vyžaduje, aby snaha zjistit jejího vlastníka byla při neúčinnosti
+> prvního oznámení byla intenzivnější. Nalezená věc musí být uschována;
+> přitom se ponechává obci na vůli, aby tak učinila sama, popř. aby věc
+> ponechala v detenci nálezce či ji předala do úschovy jiné osobě. Pokud
+> se vlastník do roka přihlásí, věc se mu vydá, odečtou se však náklady
+> spojené s její úschovou, případně též s vyhlášením nálezu, dále případné
+> náklady nálezce a nálezné. Nepřihlásí-li se vlastník do roka, ponechá se
+> věc nálezci v detenci s tím, že věc musí být vrácena i později se
+> přihlásivšímu vlastníkovi. Leč nepřihlásí-li se vlastník ani do tří let,
+> stane se vlastníkem věci nálezce. Právo věc užívat i vlastnické právo k
+> nálezu může nálezce odmítnout, pak věc připadne obci. Doplňuje zvláštní
+> pravidlo, jak postupovat, pokud dojde k nálezu zvířete, u něhož je
+> zjevné, že mělo vlastníka. Stanoví se též povinnost nálezce, případně
+> obce o zvíře pečovat s péčí řádného hospodáře. Ustanovení o nálezu
+> týkající se věcí se použije i na zvířata, pokud to vyhovuje povaze
+> zvířete jako živého tvora a pokud návrh neobsahuje ustanovení zvláštní.
+>
+> Zvláštní úprava se navrhuje ve vztahu k nalezeným zvířatům určeným
+> zjevně k zájmovému chovu, tedy k chovu zvířete v domácnosti pro potěšení
+> a jako společníka, nikoli za účelem spojeným s majetkovými a výdělečnými
+> zájmy. V těchto případech není z praktických důvodů vhodné, mj. i
+> vzhledem k narůstajícím nákladům, aby se obec, popřípadě nálezce,
+> starali o zvíře až po dobu tří let. Proto se po vzoru nedávné novely
+> švýcarského ZGB (čl. 722) účinné od r. 2003 navrhuje zjednodušit a
+> zkrátit lhůty obecně stanovené pro neživé nálezy tak, že nálezce může
+> nabýt vlastnické právo k zvířeti již po uplynutí dvou měsíců od
+> vyhlášení nálezu, popřípadě, že - nemá-li nálezce zájem zvíře nabýt a
+> bude-li zvíře svěřeno zvířecímu útulku - bude zvířecí útulek oprávněn po
+> uplynutí dvouměsíční lhůty se zvířetem volně naložit, tj. zejména mu
+> nalézt nového pána.
+>
+> Úkolem zákona je dbát o poctivé respektování jeho příkazů. Proto se
+> navrhuje stanovit, že nálezce, který své povinnosti nesplní, pozbude
+> právo na zaplacení nálezného i na nabytí věci.
+>
+> O skrytých věcech normují § 1056 a 1057. U skrytých věcí, rozdílně od
+> nálezů, se zpravidla méně často dohledá její vlastník. Je-li to v
+> určitých případech možné, postupuje se stejně jako při nálezu věci.
+> Jinak musí být nález skryté věci oznámen obci a vlastníkovi pozemku, na
+> němž byl nález učiněn. Respektují se přitom jak zájmy vlastníka pozemku,
+> kde byla skrytá věc nalezena, tak zájmy nálezce. Nemá-li tato věc zřejmě
+> vlastníka, musí zákon vyřešit, kdo si ji ponechá. Nejedná-li se o
+> zvláštní případy, kdy taková věc podle speciálních zákonů připadne
+> státu, má její hodnota připadnout polovinou vlastníku pozemku a
+> polovinou nálezci. Konstruovat však z toho důvodu spoluvlastnictví jich
+> obou by nebylo z praktických důvodů vhodné. Proto se navrhuje stanovit,
+> že vlastnické právo připadne jednomu z nich s povinností druhého
+> vyplatit. V tom směru se preferuje dohoda zúčastněných a pro případ, že
+> k ní nedojde, připadne věc vlastníku pozemku, který nálezce odškodní.
+>
+> Od případu nálezu věci z vlastního podnětu nálezce třeba odlišit případ,
+> kdy někdo určitou osobu jen najme k tomu, aby věc nalezla; taková osoba
+> není nálezcem ve smyslu zákona a nenáleží jí nálezné ani jiná plnění,
+> ledaže jí byla smlouvou přiznána zvláštní odměna.
+>
+> K ustanovením o nalezených a skrytých věcech je přičleněn § 1059 o
+> záchraně cizí věci. Případ je skutkově odlišný v tom, že před ztrátou či
+> zkázou je pravidelně zachráněna věc známého vlastníka, avšak podobný
+> tím, že zachránci náleží podobná plnění jako nálezci.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1570,6 +2829,75 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 **§ 1081**:
 > Kdo z těch, kteří se na spojení věci podíleli, má novou věc u sebe, ač ji má vydat, není povinen tak učinit, dokud mu vlastník nezaplatí náhradu.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1044 až 1059“ (dnešní § 1051—1066) — viz § 1051.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1060 až 1067 návrhu — dnešní § 1067—1074):**
+
+> Vedle okupace a nabytí vlastnického práva nálezem se mezi případy
+> originárního nabytí vlastnického práva řadí také přírůstky. Osnova
+> vychází z tradičního dělení přírůstků na přirozené, umělé a smíšené.
+>
+> Pokud se jedná o přirozené přírůstky, věnuje se pozornost zejména
+> nemovitým věcem. O přírůstcích nemovité věci je předně řečeno, že
+> přirozené plody pozemků nebo jiných nemovitých věcí náleží vlastníku
+> pozemku. Zvláštní pravidlo musí být stanoveno (§ 1061) ohledně
+> hraničních stromů. Ustanovení o naplaveninách a stržích jsou standardní
+> výbavou většiny občanských zákoníků. Zákoník nezamýšlí řešit stav, jaký
+> důsledek vyvolá pro vlastnické poměry k nemovitým věcem změna koryta
+> vodního toku, protože takový případ řeší § 45 vodního zákona (zák. č.
+> 254/2001 Sb.). Pro úplnost jsou doplněna také ustanovení § 1066 a 1067 o
+> přirozených přírůstcích movitých věcí a plodech vydávaných zvířetem.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1068 až 1075 návrhu — dnešní § 1075—1082):**
+
+> Ohledně umělých přírůstků se navrhuje upravit důsledky spojení movitých
+> věcí několika vlastníků (specifikace). Preferuje se především obnovení
+> předešlého stavu, a není-li to možné, je nutné vyřešit, jak se s nově
+> vzniklým celkem naloží.
+>
+> Předně je třeba rozlišit zpracování movitých věcí různých vlastníků (§
+> 1068) a pouhé smísení věcí (§ 1072).
+>
+> Při zpracování, stalo-li se v dobré víře, náleží výsledek tomu, kdo se o
+> vznik nové věci nejvíce přičinil. Přitom je lhostejné, spočívá-li jeho
+> podíl na hodnotě výsledku v jeho práci nebo v tom, že poskytl
+> nejcennější materiál. Nový vlastník se však musí vypořádat s ostatními a
+> nahradit jim materiál nebo práci. Toto základní pravidlo (§ 1068) je
+> modifikováno v následujícím ustanovení k ochraně vlastníka, jehož věc
+> byla použita bez dobré víry. Takovému vlastníku se - bez zřetele k tomu,
+> jak se jeho věc hodnotově podílela na hodnotě vzniklého celku - přiznává
+> volba mezi přivlastněním si celé věci (proti vyplacení ostatních) nebo
+> nárokováním náhrady. Další zúčastněné nelze příliš dlouho ponechávat v
+> nejistotě, a proto se poškozenému vlastníku ponechává k rozhodnutí
+> měsíční lhůta; nevyužije-li jí, bude postupováno podle úpravy obecné.
+>
+> Není vyloučeno, že se vyskytnou i případy, kdy jediného vlastníka nebude
+> možné podle předchozích ustanovení určit. Pro takový případ se navrhuje
+> přikázat nově vzniklou věc do spoluvlastnictví všech, jejichž movitosti
+> byly zpracovány s tím, že spoluvlastníci solidárně zaplatí odměnu za
+> zpracování věci.
+>
+> Zvláštním způsobem se řeší v § 1071 použití cizí věci jen na opravu věci
+> další, pak opravená věc zůstává ve vlastnictví původního vlastníka, ať
+> je hodnota materiálu použitého na opravu jakákoli, přičemž tomu, kdo
+> vlastnické právo pozbyl, náleží náhrada.
+>
+> Od zpracování několika věcí je třeba odlišit pouhé jejich smísení.
+> Rozdíl je zejména v tom, že při smísení nedochází k pracovnímu výkonu,
+> který by měl být honorován. Při smísení věcí je třeba rozlišit situace,
+> kdy se smísí věci různého druhu (to jsou případy slitin, smísení různých
+> sypkých materiálů apod.), pak náleží každému z původních vlastníků
+> poměrná část z celku (§ 1072). To ale neplatí při smísení věcí téhož
+> druhu, náležejících několika vlastníkům; v takovém případě náleží
+> každému z původních vlastníků rozsahem to, co mu náleželo před smísením,
+> přičemž se nehledí, kdo byl předešlým vlastníkem určitého kusu (§ 1072).
+>
+> Protože při spojení věcí různých vlastníků může nastat situace, že
+> určitá osoba má celek u sebe, ač je jejím vlastníkem někdo jiný, ale
+> zároveň jí náleží proti vlastníkovi právo na náhradu či jiné plnění,
+> přiznává se takové osobě právo retence, dokud jí odměna za zpracování
+> věci nebo jiná náhrada není zaplacena.
+
 ### Pododdíl 3 — Umělý přírůstek (§ 1074—1087)
 
 **§ 1074—1077 — Zpracování**:
@@ -1618,6 +2946,36 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 > (1) Zasahuje-li trvalá stavba zřízená na vlastním pozemku jen malou částí na malou část cizího pozemku, stane se část pozemku zastavěného přestavkem vlastnictvím zřizovatele stavby; to neplatí, nestavěl-li zřizovatel stavby v dobré víře.
 > (2) Kdo stavěl v dobré víře, nahradí vlastníku pozemku, jehož část byla zastavěna přestavkem, obvyklou cenu nabytého pozemku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 1068 až 1075“ (dnešní § 1075—1082) — viz § 1075.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1076 až 1080 návrhu — dnešní § 1083—1087):**
+
+> V souvislosti se stavbou na pozemku mohou v důsledku neoprávněných činů
+> nastat dvě různé situace.
+>
+> Předně se může stát, že vlastník pozemku zřídí na svém pozemku stavbu za
+> použití cizího materiálu. Pak se stavba stává součástí pozemku, ale
+> vlastník pozemku se musí vypořádat s majitelem materiálu.
+>
+> Vážnější je situace, kdy někdo zřídí neoprávněně stavbu na cizím
+> pozemku. Pak stavba připadá vlastníku pozemku, který se musí vypořádat s
+> tím, kdo stavěl. Vzhledem k závažnosti zásahu do vlastnického práva
+> vlastníka pozemku se tomuto vlastníku ponechává na vůli, zda se bude
+> domáhat odstranění neoprávněné stavby na náklady stavebníka.
+>
+> Speciální případ neoprávněné stavby je přestavek, kdy jen nepatrná část
+> stavby zřízené na vlastním pozemku přesahuje na pozemek cizí. Za této
+> situace by nemělo význam řešit věc spoluvlastnictvím vlastníků obou
+> pozemků k stavbě nebo povinností stavbu přestavět (úkolem soukromého
+> práva není iniciovat vznik konfliktních situací mezi osobami), ale
+> řešení se hledá v reorganizaci vlastnických vztahů k dotčenému pozemku.
+>
+> Zvláštní význam v těchto souvislostech má, jednal-li ten, kdo
+> neoprávněně zasáhl do cizího vlastnického práva, v dobré víře čili nic.
+> Z toho důvodu navržená ustanovení rozlišují příslušné skutkové podstaty.
+> Osoba, která v dobré víře nebyla, se navrhuje postihnout výrazněji než
+> toho, kdo jednal dobromyslně.
+
 ### Pododdíl 4 — Smíšený přírůstek (§ 1088)
 
 **§ 1088**:
@@ -1625,6 +2983,13 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 > (2) O náhradě za osivo a rostliny platí § 1083 a 1084 obdobně.
 
 **Osetí pozemku cizím semenem**: nárůst patří vlastníkovi pozemku; rostliny po **zapuštění kořenů**. Náhrada podle § 1083—1084.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1081 návrhu — dnešní § 1088):**
+
+> Typický a prakticky nejčastější smíšený přírůstek nastává při osázení
+> pozemku semenem nebo rostlinami jiného vlastníka. Na to reaguje návrh
+> příslušného ustanovení osnovy, opět s návrhem úpravy shodné s klasickým
+> pojetím tohoto institutu.
 
 ### Pododdíl 5 — Vydržení (§ 1089—1114)
 
@@ -1646,6 +3011,41 @@ Nalezenou věc je třeba vrátit vlastníku, případně oznámit obci (§ 1052)
 - (2) Nepoctivost předchůdce **nebrání** poctivému nástupci (kalkuluje se až od jeho nabytí držby).
 
 **§ 1090**: vyžaduje se **pravost** držby + **právní důvod** postačující ke vzniku vlastnického práva (kdyby náležel převodci nebo byl zřízen oprávněnou osobou).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 1082 až 1087 návrhu — dnešní § 1089—1094):**
+
+> Současný občanský zákoník upravuje vydržení v § 134 zjednodušeně. Řadu
+> otázek ponechává neodůvodněně na výkladu, třebaže pro jejich řešení
+> soudce nemá dostatečnou oporu. Proto se navrhuje úprava podrobnější.
+> Úvodní ustanovení normuje následek vzniku vlastnictví, pokud oprávněná a
+> poctivá držba trvá určitý čas. V dané souvislosti snad stačilo -
+> vzhledem k zásadě stanovené již dříve, že poctivému držiteli náleží
+> stejná práva jako oprávněnému držiteli - normovat jen o oprávněném
+> držiteli. Přece jen se však považuje za vhodnější zdůraznit nejen fakt
+> držby oprávněné, ale také držby poctivé. Navrhovaná ustanovení upravují
+> vznik vlastnického práva, a proto musí být jejich obsah nepochybný
+> vzhledem k závažnosti právního důsledku, který se zde navrhuje upravit.
+> Vedle toho je třeba vzít v úvahu, že případy, kdy vlastnické právo
+> vydrží poctivý držitel, jsou v praxi mnohem četnější. Oprávněný držitel
+> je ten, kdo má k držbě právní důvod, tedy především vlastník; u něho
+> vydržení vlastnického práva tedy nepřichází v úvahu. Lze si však
+> představit některé případy, kdy určitá osoba bude mít právní důvod k
+> držbě, ale ne právní důvod k vlastnictví; pro tyto případy se navrhuje
+> výslovně uvést, že i oprávněný držitel může vlastnické právo vydržet.
+> Protože lze vydržet vlastnické právo i k věcem zapsaným do veřejných
+> seznamů, navrhuje se založit vydržiteli právo, aby se mohl domoci úpravy
+> zápisů v příslušných veřejných seznamech tak, aby odpovídaly právnímu
+> stavu, jaký vydržením vznikl.
+>
+> V určitých případech je vydržení vyloučeno. Tyto případy se vztahují
+> jednak k osobě, jednak k předmětu. Na to pamatují ustanovení § 1083 a
+> 1089.
+>
+> Pro vydržení vlastnického práva k movitým věcem se navrhuje ponechat
+> stávající vydržecí dobu tři roky, k nemovitým věcem deset let (§ 1084).
+> Další dvě ustanovení sledují úpravu počítání vydržecí doby, resp.
+> určení, jaký čas se ve prospěch držitele započítává, a kdy se vydržecí
+> doba přerušuje.
 
 **Judikatura (z místních zdrojů):**
 

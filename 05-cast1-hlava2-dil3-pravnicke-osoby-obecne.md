@@ -48,6 +48,48 @@ Mezi vznikem a zánikem je PO **plně subjektem práv a povinností** — vlastn
 - **Předvznikové jednání** (§ 127) — kdo jedná jménem PO před jejím vznikem, jedná osobně; PO může účinky převzít do 3 měsíců od vzniku;
 - **Postzánikové operace** (§ 208—209) — pokud se po zániku objeví neznámý majetek nebo zájem hodný ochrany, soud může zrušit výmaz a obnovit PO.
 
+**Důvodová zpráva (sněmovní tisk 362, k § 118 a 119 návrhu — dnešní § 118—119):**
+
+> Osnova si klade za cíl sjednotit a shrnout do kodexu základní a obecně
+> použitelná pravidla o právnických osobách. Dosavadní stav, kdy v
+> některých otázkách přejímá kodexovou úlohu zákoník obchodní, a to
+> formálně (§ 761 odst. 2) i fakticky (např. úpravou v § 13 odst. 1 nebo
+> odst. 4, v § 24 apod.), je neúnosný. Stejně tak je neúnosné stávající
+> pojetí občanského zákoníku, který obecné úpravě právnických osob věnoval
+> mizivý počet ustanovení, neboť to generuje přebujelé a nepřehledné
+> zvláštní právní úpravy věnované jednotlivým zvláštním formám právnických
+> osob.
+>
+> Akceptuje se, respektuje a upřesňuje dosavadní pojetí, podle něhož může
+> být subjektem práva jenom ten organizovaný útvar, který za právnickou
+> osobu prohlásí zákon. Vzhledem k tomu, že se zachovává u právnických
+> osob jejich stupňovité vznikání i zanikání, vymezené na jedné straně
+> založením a vznikem, na straně druhé zrušením a zánikem, musí být
+> stanoveno, že právní subjektivitu má právnická osoba od svého vzniku až
+> do svého zániku.
+>
+> Způsobilost právnické osoby mít práva a povinnosti a její schopnost
+> právním jednáním je nabývat - ve shodě s koncepcí nastolenou u nás v r.
+> 1991 - nemá být ani nadále vázána na její zvolený nebo zapsaný předmět
+> činnosti. Osnova tedy nepřitakává doktríně *ultra vires*.
+>
+> Není ale možné učinit co do rozsahu způsobilosti mít práva a povinnosti
+> absolutní rovnítko mezi osobami fyzickými a právnickými, protože jsou
+> právní jednání, která právnická osoba ze své juristické povahy učinit
+> nemůže (např. testovat o svém majetku nebo osvojit člověka). Jinak než
+> její právní povahou svéprávnost právnické osoby omezena není, protože
+> musí být respektován princip její majetkové autonomie. Zároveň se bere
+> zřetel na fakt, že určité právnické osoby mohou být vlastním speciálním
+> zákonným režimem v určitých směrech ve svéprávnosti omezeny, takže
+> nemohou podstupovat některá jednání, která by jinak - tedy v obecném
+> soukromoprávním režimu - vykonávat mohly. To platí např. pro veřejné
+> vysoké školy nebo pro penzijní fondy, ale např. i pro nadace, jak se v
+> osnově samotné dále navrhuje normovat.
+>
+> Zásada majetkové autonomie platí pro právnické osoby jako typická. V
+> návaznosti na to se vyžaduje, aby každá právnická osoba vedla
+> přinejmenším spolehlivé záznamy o svých majetkových poměrech.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [32 Cdo 2905/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/537C5E4D5EF4A7E0C125865B001DF610?openDocument) — *Zastavení řízení Způsobilost být účastníkem řízení*
@@ -116,6 +158,8 @@ Právní osobnost PO trvá přesně od vzniku (§ 126) do zániku (§ 185/§ 186
 - Malé spolky bez ekonomické činnosti — postačí jednoduchá evidence (zápisy z členských schůzí, prosté hospodářské záznamy);
 - Korporace s podnikáním — plné účetnictví podle zákona o účetnictví;
 - Subjekty veřejně prospěšné (§ 146) — důsledné záznamy nutné pro průhlednost.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 118 a 119“ (dnešní § 118—119) — viz § 118.
 
 **Judikatura (z místních zdrojů):**
 
@@ -192,6 +236,25 @@ I PO, která není účetní jednotkou, musí vést natolik spolehlivé záznamy
 
 **Veřejnost rejstříku** (odst. 2 věta poslední) — **principiálně přístupné každému**, bez doložení důvodu. Údaje jsou na internetu (justice.cz).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 120 a 121 návrhu — dnešní § 120—121):**
+
+> Údaje o právnických osobách se zapisují do různých veřejných rejstříků,
+> které vedou soudy nebo jiné orgány veřejné moci. Třebaže má občanský
+> zákoník upravit některé právní formy právnických osob, nemůže
+> institucionálně upravit příslušné veřejné rejstříky (zejména rejstřík
+> spolkový a nadační), protože se jedná o instituty veřejného práva. Z
+> toho důvodu se tato úprava přenechává zvláštním zákonům.
+>
+> Proto se navrhuje stanovit jen nejužší okruh skutečností, které mají být
+> o právnických osobách zapisovány, a upravit materiální i formální
+> publicitu veřejných rejstříků. Zásada materiální publicity chrání důvěru
+> v zapsané údaje. Formální publicita zajišťuje přístupnost veřejných
+> rejstříků pro každého. Jak konkrétně bude přístupnost rejstříků
+> upravena, se ponechává zvláštním zákonům, lze však předpokládat, že
+> rejstříky budou přístupné elektronickou cestou. Konečně se navrhuje
+> stanovit povinnost zajistit zápis změny údaje, změní-li se zapsaná
+> skutečnost.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [7 Cmo 359/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=2e422078-2ccc-4d09-be9b-1aa68348ef8a) — 1. 4. 2025
@@ -264,6 +327,8 @@ Příklad: PO zveřejní změnu jednatele. 16. den po zveřejnění uzavře nov�
 
 **Praktický dopad:** **Vždy ověřit aktuální výpis** z rejstříku (justice.cz, lze stáhnout zdarma) před podpisem smlouvy s PO. Aktualita rejstříku = ochrana před napadením smlouvy.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 120 a 121“ (dnešní § 120—121) — viz § 120.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 3041/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3041-12_1) — usnesení, 5. 3. 2014
@@ -328,6 +393,103 @@ Materiální publicita chrání toho, kdo jedná v důvěře k rejstříku: PO n
 - **Ustavení** = pojmový začátek; ne všechny účinky;
 - **Vznik** = okamžik nabytí právní osobnosti (typicky zápis do VR podle § 126).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 122 až 131 návrhu — dnešní § 122—131):**
+
+> Ustanovení zařazená pod marginální rubriku označenou „Ustavení a vznik
+> právnické osoby" jsou shrnuta obecná ustanovení týkající se vznikání
+> právnické osoby. Termín „ustavení" kryje založení právnické osoby
+> projevem soukromé vůle, její zřízení působením veřejné moci (zákonem
+> nebo rozhodnutím orgánu veřejné moci), popřípadě jiným způsobem, jak
+> tomu je v případě společenství vlastníků jednotek.
+>
+> Jako obecný model se zachovává osvědčená dvoufázovost ustavování
+> právnických osob spočívající v jejich založení soukromoprávním jednáním
+> nebo zřízení veřejnoprávním rozhodnutím a v jejich vzniku, včetně
+> přihlédnutí k zvláštnostem zřízení právnické osoby zákonem a k některým
+> dalším specifickým případům.
+>
+> Pro zakladatelský úkon vzniklý ze soukromé iniciativy se volí název
+> „zakladatelské právní jednání", jímž může podle okolností být buď
+> smlouva, nebo zřizovací (zakládací) listina. Osnova opouští dosavadní
+> termín „zakladatelský dokument" užívaný zejména stávajícím obchodním
+> zákoníkem, protože slovo „dokument" značí listinu (doklad) o úkonu,
+> nikoli úkon samotný. Smlouva nebo jiné zakladatelské jednání nejsou
+> dokumentem, dokument je jen dokladem, že se taková jednání udála.
+>
+> Podrobnosti o zakladatelském právním jednání stanovuje § 123. Pro
+> zakladatelské právní jednání se i nadále vyžaduje písemná forma. V odst.
+> 1 se stanoví hlavní náležitosti zakladatelského právního jednání, při
+> nichž se sleduje, není-li jiné (speciální) úpravy, požadavek zachytit v
+> něm základní obecně uznané pojmové znaky právnické osoby, tj. její
+> pojmenování, určení jejího sídla a účelu. Pokud se jedná o vnitřní
+> organizaci, omezuje se tu osnova na minimální požadavek, jímž je určení
+> statutárního orgánu, neboť požadavek na právnickou osobu jako
+> organizovanou entitu byl vznesen již dříve.
+>
+> Pro úpravu vzniku právnické osoby se přejímá i nadále osvědčená
+> registrační zásada.
+>
+> Pokud se jedná o úpravu založení a vzniku právnických osob, je
+> pamatováno na zpřísňující výjimky, kdy je třeba k založení nebo vzniku
+> určitých právnických osob zvláštní státní povolení, jak je tomu např.
+> u burz, bank nebo u právnických osob zabývajících se kolektivním
+> investováním. Je ovšem nutné odlišit povolení k založení nebo vzniku
+> určité právnické osoby a povolení k výkonu určité činnosti. Výjimky
+> zmírňující, upravené dosud vznikání odborových organizací a organizací
+> zaměstnavatelů (popř. jejich svazů) v osnově zvláště upraveny nejsou,
+> jednak proto, že se navrhuje zavést režim volného zakládání pro spolky
+> obecně, především ale z toho důvodu, že pro zvláštní právní režim
+> odborových organizací a organizací zaměstnavatelů představují dostatečný
+> základ příslušné mezinárodní smlouvy. Se zřetelem k čl. 8 Paktu o
+> hospodářských, sociálních a kulturních právech (č. 169/1991 Sb.), k čl.
+> 5 Evropské sociální charty, ale hlavně s ohledem na čl. 7 Úmluvy o
+> svobodě sdružování a ochraně práva odborově se organizovat (č. 489/1990
+> Sb.), vznik těchto organizací na registraci vázán být nemůže.
+>
+> Ust. § 127 přejímá z dosavadního práva společností úpravu jednání za
+> tzv. předběžnou společnost. Normativní úprava tvořící se právnické osoby
+> není totiž omezena jen na obchodní společnosti a družstva, jak to činí
+> naše stávající zákonodárství, nýbrž se jedná o problematiku obecnou,
+> která vyžaduje také generálně použitelné normativní řešení. Zvláštní
+> význam to má v případech právního jednání za právnickou osobu, která je
+> teprve založena nebo dokonce jen projektována, ale již je jejím jménem
+> jednáno s třetími osobami, protože pro takové případy je třeba
+> garantovat jistotu těch, s nimiž bylo takto jednáno. Z toho důvodu se
+> obecná úprava právnických osob inspiruje článkem 7 První směrnice ES o
+> společnostech[^37] s plným zachováním jeho smyslu a bez zbytečně
+> rigorozujících nánosů stávajícího § 64 obch. z. Účelnost návrhu tohoto
+> opatření je v tom, že se jedná o problematiku aktuální pro všechny
+> právní formy vytvářejících se právnických osob. Je-li dnes jednáno za
+> ještě nevzniklé právnické osoby, spojuje praxe takové právní jednání s
+> jeho neplatností, což není účelné.
+>
+> Smysl navržené úpravy je ten, že zakládá solidaritu osob, které jednaly
+> jménem tvořící se právnické osoby, pro případ, že právnická osoba po
+> svém vzniku účinky těchto jednání pro sebe ex tunc nepřevezme. Nad rámec
+> směrnice se jen stanoví tříměsíční lhůta pro převzetí takto učiněných
+> jednání vzniklou právnickou osobou, neboť nelze třetí osoby ponechávat
+> po delší dobu v nejistotě, jaký je právní stav. Směrnice výslovně
+> povoluje, aby se ti, kdo za předběžnou právnickou osobu jednali, s
+> druhou stranou dohodli, že následek jejich solidarity při nepřevzetí
+> účinků jednání vznikající se právnickou osobou nenastane, popř. že
+> nastane jiný než právě tento právní následek. U směrnice je takové
+> výslovně upravené povolení učiněné ad hoc nezbytné, v občanském zákoníku
+> však není namístě, protože i v tomto ohledu platí obecná direktiva § 1
+> odst. 2, jež v naznačeném směru nevylučuje smluvní dispozici stran.
+>
+> Návrh § 129 přejímá a generalizuje funkční pravidlo obchodního práva o
+> neplatnosti společnosti (§ 68a). I toto pravidlo se jeví způsobilé pro
+> generalizaci v zájmu praktické potřeby. Vznikne-li právnická osoba, tedy
+> pravidelně registrací ve veřejném rejstříku, jeví se jako neúčelné a
+> zpochybňující právní jistotou veřejnosti ponechat právní možnost
+> prohlásit ji následně za neexistující. Vyvolalo by to otřesy
+> existujících právních vztahů. Podle navržené úpravy vstoupí právnická
+> osoba, která bude prohlášena za neplatnou, do likvidace a její majetkové
+> poměry budou tudíž vypořádány řízeným postupem. Takové řešení poskytne
+> dostatečnou ochranu jejím věřitelům i případným společníkům nebo členům
+> neplatné právnické osoby, a tím se proti dosavadnímu stavu zvýší právní
+> bezpečnost.
+
 **Judikatura (z místních zdrojů):**
 
 - *ObS pro Prahu 1* [12 C 265/2021-34](https://rozhodnuti.justice.cz/rozhodnuti/?id=074f65fa-31f0-43dd-a000-031f2ad0aad4) — *korporace, peněžité plnění, zastavení řízení*
@@ -391,6 +553,8 @@ Volba způsobu ustavení určuje formu i okamžik vzniku PO; pro PO soukromého 
 
 **Forma:** povinně **písemná** (odst. 2). U mnoha PO je vyžadována i forma **notářského zápisu** (např. a.s., družstvo, nadace — viz speciální úprava).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [14 Cmo 297/2024-0](https://rozhodnuti.justice.cz/rozhodnuti/?id=1c51b217-a64c-4c87-96ab-540d2c899625) — 30. 10. 2024
@@ -446,6 +610,8 @@ Vyvratitelná domněnka **doby neurčité**. Doba určitá je výjimkou — typi
 - PO ad hoc pro vyřízení dědictví.
 
 Po uplynutí doby se PO automaticky ruší (§ 171 písm. a)) s povinnou likvidací.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
 
 #### F. Kazuistika
 
@@ -517,6 +683,12 @@ Kdo jedná **jménem PO před jejím vznikem**:
 - Převzetí musí být oznámeno dalším zúčastněným.
 
 Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronájmu kanceláře. Smlouva se uzavírá jejich jménem (s poznámkou „jménem s.r.o. v zakládání"). Po vzniku s.r.o. valná hromada do 3 měsíců rozhodne o převzetí — pak s.r.o. nahradí zakladatele jako smluvní stranu. Pokud nepřevezme, zakladatelé zůstávají osobně vázáni.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
 
 **Judikatura (z místních zdrojů):**
 
@@ -600,6 +772,14 @@ Za jednání učiněná jménem PO před jejím vznikem odpovídá osobně (a v�
 - Smlouvy, které PO uzavřela, **zůstávají platné**;
 - Pohledávky a dluhy se vypořádají likvidací;
 - Není to *ex tunc* zrušení — PO „existovala a teď je v likvidaci".
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 122 až 131“ (dnešní § 122—131) — viz § 122.
 
 **Judikatura (z místních zdrojů):**
 
@@ -690,6 +870,47 @@ Vznik zapsané PO je nezvratný (§ 128); vadně ustavenou PO lze napadnout jen 
 - Zákon č. 441/2003 Sb. o ochranných známkách — paralelní ochrana, ale registrovaná u ÚPV;
 - Zákon č. 89/2012 Sb. § 2976—2990 (nekalá soutěž) — užití zaměnitelného názvu je typický skutkový případ nekalé soutěže (§ 2981 — vyvolání nebezpečí záměny).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 132 až 135 návrhu — dnešní § 132—135):**
+
+> Osnova zamýšlí zavést obecná pravidla o názvech právnických osob.
+>
+> Formulace v § 132 označující název právnické osoby jako její jméno je
+> prakticky účelná a odpovídá zásadě legislativní ekonomie, neboť vzhledem
+> k ní odpadne v textu právních předpisů dosud užívaná těžkopádná formule
+> „jméno fyzické osoby nebo název právnické osoby", již bude možné
+> nahradit prostým „jméno osoby", anebo jen slovem „jméno".
+>
+> V obecné soukromoprávní úpravě se navrhuje stanovit tři hlavní zásady.
+> Prvním je požadavek na distinktivitu názvu právnické osoby, který
+> obsahuje i zákaz zaměnitelnosti. Druhým zákaz klamavosti názvů
+> právnických osob. Třetím pak připuštění použití jména člověka v názvu
+> právnické osoby a stejně tak i použití části názvu právnické osoby v
+> názvu právnické osoby jiné, ovšem jen za stanovených podmínek. Pokud se
+> jedná o posledně uvedenou zásadu, opouští se meze dosavadního úzkého
+> výměru v § 11 odst. 5 obch. z., kde se počítá jen s případným uvedením
+> jména společníka nebo člena v názvu právnické osoby; nově se navrhuje
+> umožnit i uvádění jmen dalších lidí v názvech právnické osoby; musí však
+> jít o člověka, který má k právnické osobě zvláštní vztah - pokud by tato
+> zvláštní podmínka nebyla splněna, jednalo by se o název klamavý a
+> zákonné úpravě odporující.
+>
+> Návrh § 134 zobecňuje dosavadní pravidlo § 11 odst. 6 obch. z. Není to
+> totiž jen případ ekonomicky vzájemně propojených podnikatelských
+> subjektů (koncernových spojení), kdy je namístě dát tomu eventuálně
+> výraz i v názvech takto spojených osob, je-li to odůvodněno jejich
+> vztahem. Mohou totiž být i četné případy další (např. bude-li se jednat
+> o spolkové svazy, o spolek s pobočnými spolky, o různé nadace založené
+> týmž zakladatelem atd.), jimž je vhodné dát obecný normativní rámec.
+>
+> Osnova zamýšlí nadále chránit jméno (název) právnické osoby. Ve shodě
+> s věcným záměrem se rozšiřuje ochrana dalších práv spojených s právní
+> osobností právnické osoby, přičemž se opouští dosavadní termín „dobrá
+> pověst", neboť ten nutně navazuje otázku, která pověst je „dobrá" a
+> může-li mít např. vydavatel určitých tiskovin (např. bulvárního nebo
+> erotického charakteru) vůbec „dobrou" pověst. Jaká pověst právnické
+> osoby si zaslouží ochranu, musí plynout z konkrétních okolností případu
+> a z logického obsahu zákona.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [Pl. ÚS 26/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-26-24_1) — nález, 15. 1. 2025
@@ -765,6 +986,68 @@ Název PO musí být odlišitelný, obsahovat označení právní formy a nesmí
 - **PO nemůže** namítat skutečné sídlo proti tomu, kdo se v dobré víře dovolává zapsaného sídla.
 
 Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chráněn; PO nemůže říct „ale my jsme se přestěhovali".
+
+**Důvodová zpráva (sněmovní tisk 362, k § 136 až 143 návrhu — dnešní § 136—143):**
+
+> Sídlo právnické osoby může být konstruováno podle různých přístupů
+> (srov. Eliáš, K. Sídlo právnických osob. Právník, CXXXII, 1993, s. 756
+> an.). Osnova vychází z pojetí vlastního evropskému právu obchodních
+> společností, podle kterého má hlavní význam sídlo zapsané (formální
+> sídlo), přičemž se poskytuje ochrana osobám, které jednají v důvěře, že
+> se sídlo právnické osoby nachází tam, kde sídlí skutečně, materiálně
+> (faktické sídlo). Toto pojetí umožňuje jednotnou právní úpravu pro
+> právnické osoby nepodnikatelského i podnikatelského zaměření; přijetí
+> jiné koncepce by vyžadovalo rozdvojenou úpravu, což se nejeví jako
+> vhodné.
+>
+> Osnova přejímá z pojetí dosavadního § 19c občanského zákoníku odlišení
+> sídla a adresy. Neztotožňuje tedy sídlo s adresou, protože adresa není
+> sídlo, nýbrž jeho označení.
+>
+> Z platného práva se rovněž zachovává dosavadní pojetí, že sídlo
+> právnické osoby může být i v bytě. Opouští se však podmínka, že tomu tak
+> nesmí být, pokud to odporuje povaze právnické osoby nebo rozsahu její
+> činnosti. Tato podmínka se nahrazuje požadavkem, že zřízení sídla
+> právnické osoby v bytě nesmí narušit klid a pořádek v domě. Vychází-li
+> se totiž nově z pojetí formálního sídla, pak rozsah činnosti právnické
+> osoby není z tohoto hlediska podstatný, protože ta se může odehrávat i
+> mimo zapsané sídlo. Budou-li však sídlo formální a faktické v totožném
+> místě, a bude-li se tedy v místě zapsaného sídla reálná činnost
+> právnické osoby (např. vlastní výroba, obchodní nebo administrativní
+> činnost spojená s osobními návštěvami většího počtu lidí), je podmínka
+> vázaná na klid a pořádek v domě dostačující.
+>
+> Rovněž se přejímá dosavadní pravidlo, že u právnických osob zapisovaných
+> do veřejného rejstříku postačí v zakladatelském právním jednání uvést
+> jen obec, kde má právnická osoba sídlo, aniž je nutné uvádět plnou
+> adresu sídla. Tu postačí zapsat do veřejného rejstříku a zpřístupnit ji
+> tak veřejnosti. Tím pro tyto právnické osoby odpadnou zbytečné náklady
+> spojené s měněním zakladatelského právního jednání pokaždé, když
+> právnická osoba změní své sídlo v rámci obce. Taková změna se jen ohlásí
+> k zápisu do veřejného rejstříku.
+>
+> Právnické osoby, které se do veřejného rejstříku nezapisují, jsou
+> zpravidla osobami, jejichž základ je veřejnoprávní (např. obec, kraj,
+> Česká národní banka apod.) a určení jejich sídla řeší právní předpisy
+> veřejného práva. Není jistě vyloučeno, že i v soukromoprávním režimu
+> takové právnické osoby vzniknou. Stejně tak není vyloučeno, že
+> soukromoprávní právnické osoby existující v režimu volného zakládání
+> (např. rodinné a náboženské nadace práva švýcarského) budou na našem
+> území působit. Pro určení jejich formálního sídla bude rozhodující údaj
+> o adrese sídla obsažený v zakladatelském právním jednání, pro soukromý
+> styk však, nebude-li formální sídlo takové právnické osoby vhodným
+> způsobem uveřejněno, bude zpravidla rozhodovat sídlo faktické.
+>
+> Zachovává se dosavadní pravidlo § 19c odst. 3 občanského zákoníku k
+> ochraně těch, kteří se při odlišném umístění faktického a formálního
+> sídla dovolávají jednoho či druhého z nich.
+>
+> V globalizujícím se světě nelze bránit přeshraničním změnám sídel
+> právnic­kých osob a zřizováním a přemisťováním jejich poboček. Z toho
+> důvodu se navrhuje upravit přemístění sídla právnické osoby ze zahraničí
+> do tuzemska a naopak, jakož i stanovit, ke kterému dni je přemístění
+> sídla účinné. Absolutní volnosti však brání zákonná ustanovení
+> zakazující právnické osoby, které narušují veřejný pořádek.
 
 **Judikatura (z místních zdrojů):**
 
@@ -864,6 +1147,16 @@ Vůči PO je rozhodné zapsané sídlo, dovolá-li se ho protistrana; PO nemůž
 
 **§ 143 — Pobočky**: pravidla § 138—142 se použijí **obdobně** pro zřizování a přemísťování poboček PO.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [III. ÚS 3893/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3893-13_1) — usnesení, 20. 3. 2014
@@ -909,6 +1202,8 @@ Přeshraniční přemístění sídla je přípustné jen při souladu s veřejn
 **§ 143**:
 > Pro zřizování a přemísťování poboček právnických osob platí § 138 až 142 obdobně.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 136 až 143“ (dnešní § 136—143) — viz § 136.
+
 ---
 
 ## Účel a zakázané PO
@@ -925,6 +1220,39 @@ Přeshraniční přemístění sídla je přípustné jen při souladu s veřejn
 - **Veřejný zájem** — nadace, ústavy, OPS, některé spolky (např. ochrana přírody, kultura).
 
 **Rozhodující je hlavní činnost** — ne formální označení. PO může mít vedlejší činnost odlišnou (např. nadace s vedlejší hospodářskou činností pro financování hlavní).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 144 a 145 návrhu — dnešní § 144—145):**
+
+> Pojmovým znakem právnické osoby je účel její existence. Ustanovení § 143
+> se zaměřuje na dva hlavní obecné aspekty tohoto jevu. Předně se stanoví
+> (obdobně čl. 298 CCQ), že existence právnické osoby může sledovat zájem
+> buď privátní, nebo veřejný zájem. Co je právnická osoba práva veřejného,
+> osnova ve shodě s argumentací ve věcném záměru zákona ponechává stranou,
+> neboť o tom není ani v právní vědě dosaženo shody. Kromě toho pro účel
+> úpravy soukromého právního styku osob tato otázka podstatná není. Známé
+> normativní definice veřejnoprávních právnických osob, např. v čl. 11
+> italského Codice civile, trpí nedostatky a problém důsledně neřeší. Lze
+> tedy mít důvodně za to, že legální definice by otázku nevyřešila. Návrh
+> zákoníku také nemíní řešit teoretické spory.
+>
+> Především však platí, že pro kruh soukromého práva je vzhledem k zásadě
+> rovnosti subjektů v principu lhostejné, které právnické osoby jsou
+> soukromoprávní a které veřejnoprávní. Pro soukromé právo má význam jen,
+> kdo je osobou, tj. kdo má právní subjektivitu.
+>
+> Dále se navrhuje stanovit okruh činností právnickým osobám vůbec
+> zakázaných. Vychází se přitom z úpravy dosavadního § 4 zák. č. 83/1990
+> Sb., který se ovšem zatím vztahuje jenom na korporace o jedné právní
+> formě. To vedlo k následným duplicitním úpravám \[např. § 68a odst. 2
+> písm. b) obch. z.\] nebo ke vzniku nežádoucích mezer.
+>
+> Pokud se jedná o návrh § 144, pamatuje se jím na to, že určitým
+> právnickým osobám musí být ponechána speciální úprava.
+>
+> Návrh ustanovení je formulován tak, že i podnikání charakterizuje jako
+> jednu z činností právnických osob. Odpadne tudíž dosavadní těžkopádné
+> vyjadřování „předmět činnosti nebo podnikání" či podobná sousloví, k
+> nimž legislativní technika zatím přistupuje.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1004,6 +1332,8 @@ Povahu PO (veřejný vs. soukromý zájem) určuje její hlavní, fakticky vykon
 
 **Důsledek porušení § 145:** soud PO **prohlásí za neplatnou** (§ 129 odst. 1 písm. c)); pokud byla zaregistrována, vstupuje do likvidace.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 144 a 145“ (dnešní § 144—145) — viz § 144.
+
 **Judikatura (z místních zdrojů):**
 
 - *ÚS* [IV. ÚS 1179/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1179-14_1) — usnesení, 13. 10. 2015
@@ -1069,6 +1399,17 @@ PO se zakázaným účelem (diskriminace, hate speech, podpora násilí, uzurpac
 Zákon o statusu veřejné prospěšnosti **dosud nebyl přijat** (§ 147—150 byly v původním textu OZ a měly stanovit konkrétní účinky statusu — daňová zvýhodnění, oprávnění přijímat veřejné prostředky, oprávnění užívat označení „veřejně prospěšná organizace"). **Tyto paragrafy byly zákonem č. 460/2016 Sb. zrušeny** (jsou nyní vypuštěny z textu). Status veřejné prospěšnosti tedy **dnes není formálně registrovanou kategorií** — jen materiální charakteristikou.
 
 **Pro daňové účely** veřejnou prospěšnost nahrazuje pojem „**veřejně prospěšný poplatník**" podle § 17a zákona o daních z příjmů č. 586/1992 Sb. — ten se aplikuje na základě materiálních kritérií, ne na základě formálního statusu.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 146 až 152 návrhu — dnešní § 146—152):**
+
+> Podle připomínky z pracovní komise Legislativní rady vlády pro právo
+> občanské má zákoník upravit též status obecné prospěšnosti právnických
+> osob. Taková úprava v kodexech není neobvyklá (viz např. § 21 BGB), a
+> proto se navrhuje vtělit ji do navrhovaného zákoníku. Vzhledem k
+> bipartici „veřejný -- soukromý" osnova nemluví o obecné prospěšnosti,
+> ale o prospěšnosti veřejné. Rousseovský akcent na obsah veřejné
+> prospěšnosti se však míní zachovat (srov. termín „obecné blaho" použitý
+> v navrhované úpravě).
 
 **Judikatura (z místních zdrojů):**
 
@@ -1144,6 +1485,10 @@ Veřejná prospěšnost podle § 146 je dnes pouze materiální charakteristikou
 
 Typický příklad: dětský parlament, studentský senát na vysoké škole, mládežnické sdružení (junior sekce sportovního klubu).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 146 až 152“ (dnešní § 146—152) — viz § 146.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 146 až 152“ (dnešní § 146—152) — viz § 146.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 3439/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5E8EE0DEDE1D37D1C1258340002CD572?openDocument) — *Akciová společnost Valná hromada Neplatnost právních jednání (o. z.) [ Právní jednání (o…*
@@ -1205,6 +1550,64 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 **3letá karenční doba**: pokud uplynuly 3 roky od skončení insolvenčního řízení, povinnost oznámení odpadá.
 
 **Praktický význam**: chrání PO před skrytým úpadcem ve vedení (riziko zneužití funkce, anti-fraud klauzule). Vazba na § 73 ZOK (zákaz výkonu funkce u úpadce po dobu 3 let — disqualifikace).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 153 až 162 návrhu — dnešní § 153—162):**
+
+> V obecných ustanoveních o orgánech právnické osoby se předně navrhuje
+> stanovit, že ony to jsou, kdo v právnické osobě vlastním rozhodováním
+> nahrazují její vůli (obdobně např. čl. 55 švýcarského ZGB). Navrhuje se
+> výslovně stanovit, že se podle dobré víry členů orgánů právnické osoby
+> přičte dobrá víra i této právnické osobě. V té souvislosti musí být
+> důraz položen na dobrou víru toho orgánu, který rozhoduje, neboť toto
+> hledisko je pro závěr o existenci či neexistenci dobré víry právnické
+> osoby právně významné. Pokud jde o jiné osoby, které právnickou osobu
+> zastupují a v zastoupení za ni právně jednají (např. zaměstnanci),
+> posoudí se otázka dobré víry podle obecných ustanovení o smluvním
+> zastoupení. Návrh úpravy v § 154 odst. 1 sleduje zjednodušení
+> legislativní mluvy. Protože se vychází z pojetí, že i unipersonální
+> orgán právnické osoby má člena, odpadne nutnost mnohomluvného
+> vyjadřování slovy „orgán právnické osoby nebo jeho člen", ale postačí
+> výraz „člen orgánu (právnické osoby)". Ačkoli obecně mohou být členy
+> orgánů právnické osoby jen osoby zletilé a svéprávné, navrhuje se po
+> vzoru občanských zákoníků Nizozemí (čl. 2:13) a Québecu (čl. 327) toto
+> obecné pravidlo pro odůvodněné případy prolomit.
+>
+> Nenavrhuje se vyloučit způsobilost určité osoby k výkonu volené funkce v
+> důsledku jejího úpadku. Podobný obecný zákaz není možný; vyloučil by
+> např. existenci spolku osob postižených úpadkem. Návrh také bere v
+> úvahu, že tam, kde je účelné, aby úpadci byli k výkonu funkce v orgánech
+> právnické osoby nezpůsobilí, to stanoví zvláštní zákony, např. při
+> úpravě obchodních společností nebo různých právnických osob veřejného
+> práva. Je však jisté, že osvědčení úpadku určité osoby zpochybňuje její
+> způsobilost k výkonu funkce s péčí řádného hospodáře. Proto se navrhuje
+> uložit takové osobě oznamovací povinnost tak, aby ten, kdo o obsazení
+> funkce rozhoduje, měl o této skutečnosti vědomost a mohl ji uvážit.
+> Obdobnou povinnost se navrhuje zavést i pro případ, že úpadek určité
+> osoby byl osvědčen až v době, kdy již členem orgánu právnické osoby je.
+> Kdo nesplní tuto povinnost, uvádí druhé v omyl a pro případ, že
+> rozhodující činitelé zůstanou nečinní, zakládá se každému, kdo na tom má
+> právní zájem, oprávnění domáhat se, aby takového člena orgánu z funkce
+> odvolal soud. Nicméně není možné z tohoto procesu vyloučit rozhodujícího
+> činitele, tj. toho, jemuž především náleží působnost rozhodnout, kdo
+> bude členem určitého orgánu právnické osoby. Proto se zakládá působnost
+> toho, kdo rozhoduje o obsazení orgánu jeho členy, členství úpadce v
+> takovém orgánu popřípadě i potvrdit s uvážením nově známých skutečností.
+>
+> V § 158 až 160 jsou formulována hlavní pravidla o rozhodování orgánu
+> právnické osoby, je-li kolektivní, a o vzniku a zániku funkce člena
+> orgánu. Zároveň se v § 161 vymezuje i hlavní obsah závazku člena orgánu
+> vůči právnické osobě s tím, že podrobnosti ze systematických důvodů
+> upraví v části třetí ustanovení o příslušných smluvních typech.
+>
+> Předpisy těchto ustanovení vycházejí z dosavadní úpravy v § 66 obch. z.,
+> která je v našem právu nejpropracovanější, ale odstraňuje některé její
+> nejasnosti a nedostatky. V prvé řadě se navrhuje stanovit, že na
+> překážku povinnosti k osobnímu výkonu funkce není případný imperativní
+> mandát udělený pro jednotlivý případ zasedání jinému členu téhož orgánu.
+> Dále se navrhuje v § 161 stanovit, že porušením péče řádného hospodáře
+> je mj. i situace, kdy určitá osoba přijme funkci člena orgánu nebo v ní
+> setrvává, byť musí vědět, že na ni znalostmi nebo z jiných důvodů
+> nestačí.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1268,6 +1671,10 @@ Osoba, jejíž úpadek byl osvědčen, se může stát (a setrvat) členem volen
 **§ 155 — povolání nezpůsobilé osoby**:
 - **Hledí se, jako by se nestalo** = zdánlivé jednání (§ 554);
 - **Ochrana dobré víry třetích osob** — práva nabytá třetími osobami v dobré víře zůstávají.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1342,6 +1749,12 @@ Je-li členem orgánu PO jiná PO, musí zmocnit konkrétní fyzickou osobu; jin
 
 **§ 158a — archivační povinnost**: zápisy nejvyššího orgánu se uchovávají **po celou dobu existence PO + 10 let** po zániku (zajišťuje právní nástupce, likvidátor nebo IS).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
 **Judikatura (z místních zdrojů):**
 
 - *VS v Praze* [2 Cmo 26/2024-182](https://rozhodnuti.justice.cz/rozhodnuti/?id=5e66d4e8-d33c-48ef-a9db-9195bf3be757) — 8. 11. 2024
@@ -1415,6 +1828,8 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 - Motivuje členy orgánů k zajištění **D&O pojištění** (Directors and Officers liability insurance);
 - Paralela s § 68 ZOK — speciální úprava ručení statutárního orgánu obchodní korporace po prohlášení úpadku.
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2557/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AE84D8B19FF0C52AC1258D560052D405?openDocument) — *Péče řádného hospodáře Ručení Společnost s ručením omezeným Náhrada škody Statutární org…*
@@ -1474,6 +1889,8 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 **2měsíční fáze** mezi odstoupením a zánikem funkce — chrání PO před nečekanou ztrátou orgánu. PO má čas vybrat nástupce.
 
 **Možnost zkrátit lhůtu** — pokud zakladatelské jednání nebo dohoda určí jinak. PO může také okamžitě přijmout odstoupení a obsadit funkci.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1543,6 +1960,10 @@ Funkce člena voleného orgánu, který odstoupil prohlášením došlým PO, za
 - Že člen orgánu rozhodnutí orgánu porušil.
 
 **Pozn.: chrání se obchodní styk** — důsledek pak nese PO interně (může žalovat člena na náhradu škody — § 159).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 153 až 162“ (dnešní § 153—162) — viz § 153.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1631,6 +2052,38 @@ Typický příklad: prodavač v obchodě zavazuje obchodní firmu jako jednatel 
 **§ 167 — deliktní odpovědnost PO**: PO odpovídá za protiprávní jednání **členů voleného orgánu, zaměstnanců, jiných zástupců** spáchané **při plnění úkolů** (*v rámci výkonu funkce*). Tento institut je obecnou klauzulí *respondeat superior*.
 
 Vazba na § 2914 — odpovědnost za pomocníka.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 163 až 169 návrhu — dnešní § 163—169):**
+
+> Ustanovení o jednání za právnickou osobu uvozuje návrh pravidla, že
+> každý kdo právnickou osobu zastupuje, má dát najevo, oč se jeho
+> zastoupení opírá, a jedná-li za právnickou osobu v písemné formě, uvede
+> k označení právnické osoby svůj podpis. Tato konstrukce navazuje na
+> pravidlo § 66 odst. 7 obchodního zákoníku. Ustanovení má sice převážně
+> pořádkovou povahu (neplatnost způsobí jen nedostatek podpisu v
+> případech, kdy se pro právní jednání vyžaduje písemná forma), ale pro
+> svůj návodný charakter se jeví jako funkční i do budoucna.
+>
+> Významné posílení právní jistoty dalších osob sleduje návrh stanovit, že
+> právnická osoba nemůže namítat, že člen jejího orgánu - jednal-li
+> způsobem zapsaným do veřejného rejstříku - neměl mandát podstoupit
+> určité právní jednání vzhledem k absenci nebo neplatnosti potřebného
+> usnesení, anebo že jednal v rozporu s přijatým usnesením. Vychází se z
+> pojetí, že opírá-li se důvěra druhé strany v zápis do veřejného
+> rejstříku, nelze případné pochybení člena orgánu klást k tíži oné
+> strany, ale naopak důsledky musí nést právnická osoba, která si člena
+> orgánu jako zástupce zvolila, s tím, že vůči tomuto členu může popřípadě
+> sankčně nastoupit.
+>
+> Má-li právnická osoba zaměstnance, jsou ti jejími zákonnými zástupci,
+> přičemž rozsah jejich zástupčího oprávnění je omezen tím, jak se obvykle
+> pojí s jejich pracovním zařazením a funkcí. Navrhuje se převzít
+> dosavadní pravidlo § 20 odst. 2 platného občanského zákoníku o excesu.
+> Není vyloučeno, aby za právnickou osobu jednal i její člen nebo člen
+> orgánu právnické osoby, který není statutární. Na tyto případy mají být
+> aplikována táž ustanovení, jaká se týkají zastupování právnické osoby
+> zaměstnanci. I v tomto směru se vychází z dosavadního stavu právní
+> úpravy.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1740,6 +2193,76 @@ PO zavazuje jednání zaměstnance v rozsahu obvyklém vzhledem k jeho zařazen�
 **§ 173 — zrušení bez likvidace**:
 - Při **přeměně** (fúze, rozdělení) — ke dni účinnosti přeměny;
 - Po **konkurzu** — zrušení konkurzu po splnění rozvrhu, nebo pro nedostatečný majetek.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 163 až 169“ (dnešní § 163—169) — viz § 163.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 163 až 169“ (dnešní § 163—169) — viz § 163.
+
+**Důvodová zpráva (sněmovní tisk 362, k § 170 až 186 návrhu — dnešní § 170—186):**
+
+> Návrh většiny ustanovení pod marginální rubrikou „Zrušení právnické
+> osoby" vychází, stejně jako návrh dalších ustanovení věnovaných zrušení,
+> zániku a likvidaci právnických osob, především z úpravy rušení
+> obchodních společností v dosavadním obchodním zákoníku (zejména § 68, 69
+> a § 70 až 75a), která je v současném právu zatím nejpropracovanější a
+> jejíž podstatná část platí subsidiárně pro právnické osoby již dnes.
+> Zároveň se navrhuje tuto úpravu zobecnit, aby byla nově formulovaná
+> řešení použitelná pro právnické osoby všech právních forem.
+>
+> Osnova vychází z pravidla, že se právnická osoba obvykle zrušuje
+> dobrovolně (většinou je právní důvod zrušení v rozhodnutí jejího
+> příslušného orgánu) a že pravidelným důsledkem zrušení právnické osoby
+> je její likvidace. Obecně se akceptuje zásada přijatá dříve obchodním
+> právem, že rozhodnutí o vstupu společnosti do likvidace lze revokovat.
+> Výjimečně přichází v úvahu i nucené zrušení právnické osoby s likvidací,
+> o němž rozhoduje soud, jsou-li pro to zvlášť závažné důvody (dlouhodobá
+> nečinnost, ztráta předpokladů vyžadovaných pro vznik právnické osoby,
+> nezákonné aktivity apod.)
+>
+> Bez likvidace se právnická osoba ruší při přeměně, protože pak její
+> jmění přechází jako celek na právního nástupce. Právnická osoba se bez
+> likvidace ruší také v některých zvláštních případech, které souvisí s
+> insolvenčním řízením. Byl-li zrušen konkurs po splnění rozvrhového
+> usnesení, je jmění právnické osoby vypořádáno při rozvrhu; byl-li
+> konkurs zrušen proto, že majetek právnické osoby je zcela nepostačující,
+> není nic relevantního, co by mohlo být vypořádáno. Zůstane-li po zániku
+> právnické osoby nějaký bagatelní majetek (např. věci vyloučené z
+> konkursní podstaty), půjde o věci, které nikomu nepatří, a jejich právní
+> osud se bude řídit ustanoveními o věcech opuštěných. Něco jiného musí
+> nastat, objeví-li se po skončení insolvenčního řízení nějaký nový
+> majetek právnické osoby - v takovém případě vstoupí právnická osoba do
+> likvidace.
+>
+> Navrhuje se připustit obecně možnost všech právnických osob přeměňovat
+> se. Výjimka se navrhuje jen u změny právní formy (transformace), pro niž
+> se vyžaduje zvláštní zákonné povolení. Není totiž možné připustit, aby
+> se na základě obecné úpravy např. spolek přeměnil na veřejnou obchodní
+> společnost nebo aby se společenství vlastníků jednotek přeměnilo na
+> akciovou společnost nebo na nadaci apod.
+>
+> Návrh obecné úpravy vystihuje společné znaky jednotlivých způsobů přeměn
+> formulací právních pravidel, která jsou všem přeměnám společná.
+>
+> Přeměna nabývá pravidelně účinnosti jiným dnem (v největším počtu
+> případů zápisem do veřejného rejstříku) než dnem, kdy je o přeměně
+> rozhodnuto. Vzhledem k tomu se jeví jako praktické stanovení rozhodného
+> dne. To je účelné pro právnické osoby, které vedou účetnictví, a které
+> tedy musí uskutečnění přeměny také účetně připravit; to vyžaduje
+> stanovení pevného data, k němuž se změny v účetnictví provedou. Datum, k
+> němuž nastanou právní účinky přeměny, určit za rozhodný den není v
+> drtivé většině případů možné, protože není známo, ke kterému dni bude
+> přeměna do rejstříku zapsána. Povinnost podle § 178 odst. 1 nedopadá na
+> právnické osoby, které nejsou povinny vést účetnictví podle jiného
+> právního předpisu a které pouze vedou spolehlivé záznamy o svých
+> majetkových poměrech (§ 119).
+>
+> Zejména ochrana třetích osob vyžaduje, aby se přeměny právnických osob
+> uskutečnily podle dosti podrobných pravidel. Návrh ustanovení společných
+> pro všechny právnické osoby obsahuje jen základní směrnice, protože
+> přeměny právnických osoby korporativního a fundačního typu se co do
+> způsobu provedení podstatně liší. Návrh detailnější úpravy přeměn je z
+> toho důvodu také v dalších oddílech odlišně řešen pro spolky a pro
+> nadace.
 
 **Judikatura (z místních zdrojů):**
 
@@ -1868,6 +2391,28 @@ Klíčové instituty:
 
 **Speciální zákon: zákon č. 125/2008 Sb. o přeměnách obchodních společností a družstev** — detailní úprava přeměn pro obchodní korporace (transpozice směrnice 2005/56/ES o přeshraničních fúzích).
 
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2955/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A41A012856BF6E45C12586B500188423?openDocument) — *Veřejná obchodní společnost*
@@ -1931,6 +2476,10 @@ Přeměna (fúze, rozdělení, změna formy) nabývá účinnosti zápisem do re
 **Dva časové momenty zániku:**
 - **Zapsaná PO**: den výmazu z VR (konstitutivní účinek);
 - **Nezapsaná PO**: skončení likvidace.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 170 až 186“ (dnešní § 170—186) — viz § 170.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2009,6 +2558,12 @@ Zapsaná PO zaniká dnem výmazu z veřejného rejstříku (nezapsaná skončen�
 § 188 zakazuje právní jednání za PO mimo rozsah § 196 od okamžiku, kdy se o vstupu do likvidace dotyčný dozvěděl (nebo měl/mohl dozvědět). Tento zákaz chrání věřitele před vyváděním majetku za likvidace.
 
 **Označení „v likvidaci"** — musí se přidat k názvu PO (§ 187 odst. 2).
+
+**Důvodová zpráva (sněmovní tisk 362, k § 187 a 188 návrhu — dnešní § 187—188):**
+
+> Ohledně zániku právnických osob se ponechává nedotčeno osvědčené
+> pravidlo, podle něhož právnická osoba zapsaná do veřejného rejstříku
+> zaniká výmazem z něho.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2099,6 +2654,70 @@ Vstupem do likvidace přechází jednání za PO na likvidátora a smí směřov
 - **Soudem jmenovaného likvidátora** může odvolat jen soud (§ 194);
 - Odměnu určuje povolávající orgán (§ 195).
 
+**Důvodová zpráva (sněmovní tisk 362, k § 189 až 211 návrhu — dnešní § 189—211):**
+
+> Obecná úprava se věnuje jen bližší úpravě likvidace, protože zrušení
+> právnické osoby bez likvidace (fúzí nebo rozdělením) musí vykázat různý
+> právní režim pro právnické osoby korporativního a fondového typu. Úprava
+> likvidace se s drobnými úpravami a upřesněními přejímá z dosavadního
+> obchodního zákoníku, protože tamější úprava likvidace je zdařilá. Byla
+> však koncipována jako generální, subsidiárně platná pro všechny
+> právnické osoby, což je v rozporu s celkovým pojetím občanského zákoníku
+> jako ústředního kodexu soukromého práva.
+>
+> Významnější novinkou je zavedení obecného pojmu „likvidační podstata"
+> jako termínu párového k známému pojmu „konkursní podstata", jehož
+> použití zjednodušuje mluvu zákona, aniž to je na újmu její přesnosti.
+> Nejedná se o terminologickou novinku; týž pojem použil již dříve zákon o
+> bankách v § 36 odst. 5. Hlavní povinností likvidátora je likvidační
+> podstatu zpeněžit. Proto se osnova věnuje i této problematice, neřeší
+> však otázky vzniku vlastnictví k převáděným majetkovým kusům, ani otázky
+> spojené se smluvním právem, protože v těch směrech se uplatní obecná
+> úprava o nabytí vlastnického práva smlouvou.
+>
+> Ve vztahu k osobě likvidátora a k výkonu jeho funkce osnova nezamýšlí
+> stávající úpravu přejímanou z nynějšího obchodního zákoníku zásadně
+> měnit a sleduje jen některá dílčí upřesnění. Především se navrhuje
+> zavést zákonnou automatiku pro obsazení likvidátorské funkce v případě,
+> že si právnická osoba při dobrovolném zrušení sama likvidátora neustaví.
+> Pro ten případ se zamýšlí stanovit, že tehdy se stane likvidátorem z
+> moci zákona každý člen statutárního orgánu právnické osoby. Nová zákonná
+> konstrukce tím odlehčí justici, protože dosud v těchto případech musí
+> rozhodovat soudy, a zrychlí a zefektivní celkový průběh likvidace. Dále
+> se jedná o návrh pravidla přikazující analogickou aplikaci některých
+> ustanovení o statutárních orgánech i na likvidátora.
+>
+> Pokud se jedná o povinnosti likvidátora, nemění se oproti dosavadní
+> úpravě jejich pojetí. Zachovává se povinnost likvidátora vyrozumět o
+> likvidaci všechny známé věřitele, tedy i orgány státní správy, pokud má
+> právnická osoba k nim závazky. Pouze návrh ustanovení § 207 sleduje
+> vyjasnění otázky, komu likvidátor předkládá ke schválení dokumenty,
+> jimiž se likvidační proces uzavírá (konečnou zprávu, návrh na použití
+> likvidačního zůstatku a účetní závěrku). Jedná se o otázku, jejíž
+> odpověď je v praxi nejasná a o správném řešení existují interpretační
+> spory. Proto se navrhuje stanovit, že tyto dokumenty předkládá
+> likvidátor ke schválení tomu, kdo jej ustavil do funkce; jmenuje-li jej
+> tedy soud, bude soud rovněž schvalovat příslušné dokumenty. Toto
+> pravidlo se uplatní jako obecné, nelze je však použít u obchodních
+> společností nebo družstev, jejichž společníkům nebo členům musí být
+> ponechána možnost rozhodnutí, neboť na zjištění likvidačního zůstatku
+> váží jejich majetkové nároky. V tom směru se předpokládá speciální
+> úprava v obchodním zákoně.
+>
+> Další významnější posun je v úpravě § 210 a 211, které sice koncepčně
+> odpovídají stávajícímu § 75b obch. z., ale lépe a sociálně užitečněji
+> odlišuje oproti této úpravě skutkové podstaty v prvém a druhém odstavci.
+> Je-li totiž neznámý (nelikvidovaný) majetek právnické osoby zjištěn
+> ještě před jejím výmazem z veřejného rejstříku, nemá opodstatnění, aby o
+> obnovení likvidace rozhodoval soud: o to se právnická osoba v likvidaci
+> musí postarat sama. Nezbytnost obnovy právnické osoby a její likvidace
+> po jejím výmazu řeší nyní § 211. Není však omezena jen na dodatečné
+> zjištění nelikvidovaného majetku, ale - a to ve shodě s pojetím
+> švýcarské právní praxe[^38] - se zamýšlí možnost obnovy právnické osoby
+> otevřít i pro případ nějakého jiného zájmu hodného právní ochrany. Jaký
+> zájem to má být, se nezamýšlí blíže vymezovat, to závisí na
+> jednotlivostech konkrétního případu a na stanovisku soudní praxe.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [27 Cdo 2916/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6F0E4D73D2B4CE48C125859E00243D99?openDocument) — *Likvidace právnické osoby (o. z.)*
@@ -2150,6 +2769,8 @@ Likvidátora povolává příslušný orgán PO; není-li povolán nebo neplní-
 
 **§ 195**:
 > Odměnu a způsob její výplaty určuje likvidátorovi ten, kdo jej povolal.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
 
 ### § 196—204 — Postup likvidace
 
@@ -2219,6 +2840,24 @@ Likvidátora povolává příslušný orgán PO; není-li povolán nebo neplní-
 - Mlčení 2 měsíce = přijetí nabídky (s poučením);
 - Pokud nikdo nepřevezme → **přechod na stát** (§ 204);
 - **Zajištěný věřitel** má vždy prioritu z jistoty (§ 204 odst. 2).
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
 
 **Judikatura (z místních zdrojů):**
 
@@ -2291,6 +2930,16 @@ Nestačí-li likvidační podstata na všechny dluhy, hradí likvidátor postupn
 > (1) Zjistí-li se neznámý majetek právnické osoby po jejím výmazu z veřejného rejstříku nebo objeví-li se jiný zájem hodný právní ochrany, soud na návrh toho, kdo osvědčí právní zájem, nebo na návrh státního zastupitelství, které na tom shledá závažný právní zájem, zruší výmaz právnické osoby, rozhodne o její likvidaci a jmenuje likvidátora. Kdo vede veřejný rejstřík, do něho podle tohoto rozhodnutí zapíše obnovení právnické osoby, skutečnost, že je v likvidaci a údaje o likvidátorovi. Od obnovení se na právnickou osobu hledí, jako by nikdy nezanikla.
 >
 > (2) Byla-li právnická osoba obnovena vzhledem k zjištění neznámého majetku, obnoví se neuspokojené pohledávky jejích věřitelů.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
+
+**Důvodová zpráva:** společná pasáž tisku 362 „K § 189 až 211“ (dnešní § 189—211) — viz § 189.
 
 > Konec kapitoly 05. Pokračování: kapitola 06 — Hlava II Díl 3 Oddíl 2 (pokr.): Korporace, spolek (§ 210—302).
 
