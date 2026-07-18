@@ -154,54 +154,6 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c9076437af6b75520d57 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1400
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každý, komu je svěřena správa majetku, který mu nepatří, ve prospěch někoho jiného (dále jen „beneficient“), je správcem cizího majetku.
->
-> (2) Má se za to, že správce právně jedná jako zástupce vlastníka.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c9076437af6b75520d57 -->
-
 ### § 1401 — Osobní výkon
 
 > (1) Správce plní své povinnosti osobně. Na jinou osobu může přenést svou působnost nebo se dát jinak zastoupit jen při jednotlivém právním jednání; přitom je povinen takovou osobu pečlivě vybrat a dát jí dostatečné pokyny.
@@ -262,54 +214,6 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=579cee0b19fc56896ffe generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1401
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Správce plní své povinnosti osobně. Na jinou osobu může přenést svou působnost nebo se dát jinak zastoupit jen při jednotlivém právním jednání; přitom je povinen takovou osobu pečlivě vybrat a dát jí dostatečné pokyny.
->
-> (2) Dá-li se správce neoprávněně zastoupit jinou osobou nebo pověří-li jinou osobu neoprávněně výkonem své působnosti, je beneficientovi odpovědný s touto osobou společně a nerozdílně ze všeho, co učinila.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=579cee0b19fc56896ffe -->
-
 ### § 1402 — Odměna
 
 > (1) Má se za to, že správci náleží obvyklá odměna podle povahy jeho služeb.
@@ -359,54 +263,6 @@ Ustanovení § 1400 je definiční normou — určuje, kdo je správcem cizího 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=ebf649c8091296617e7d generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1402
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Má se za to, že správci náleží obvyklá odměna podle povahy jeho služeb.
->
-> (2) Kdo spravuje cizí majetek bez právního důvodu, nemá právo na odměnu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ebf649c8091296617e7d -->
-
 ### § 1403 — Rozdělení zisku a nákladů
 
 > Zisk a náklady správce rozdělí mezi beneficienty podle stanov či jiné smlouvy, jinak co nejspravedlivěji se zřetelem k povaze a předmětu správy a k okolnostem jejího vzniku se zřetelem k obecným zvyklostem. Nelze-li stanovit jiný poměr pro rozdělení zisku a nákladů mezi beneficienty, platí, že jsou tyto podíly stejné.
@@ -452,52 +308,6 @@ Mezi více beneficienty: dle smlouvy/stanov → spravedlivě s ohledem na povahu
 **Typicky rozhodné důkazy / podklady:** statut/stanovy fondu nebo smlouva, vyúčtování zisku a nákladů, doklady o okolnostech vzniku správy a povaze majetku, evidence užívání majetku jednotlivými beneficienty.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=54d8b58818c98b87ce97 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1403
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Zisk a náklady správce rozdělí mezi beneficienty podle stanov či jiné smlouvy, jinak co nejspravedlivěji se zřetelem k povaze a předmětu správy a k okolnostem jejího vzniku se zřetelem k obecným zvyklostem. Nelze-li stanovit jiný poměr pro rozdělení zisku a nákladů mezi beneficienty, platí, že jsou tyto podíly stejné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=54d8b58818c98b87ce97 -->
 
 ### § 1404 — Nahrazení souhlasu beneficienta
 
@@ -547,52 +357,6 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 **Typicky rozhodné důkazy / podklady:** statut/listina o správě, doklad o neexistenci/neznámosti beneficienta, podklady o výhodnosti a účelové souladnosti jednání, korespondence dokládající odmítnutí souhlasu a jeho (ne)odůvodněnost.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b6e074f5d9c58a96d902 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1404
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Vyžaduje-li se k určitému jednání beneficientův souhlas, může jej nahradit svým rozhodnutím soud, pokud je beneficient neznámý nebo pokud nelze beneficientovo stanovisko včas zjistit. To platí i v případě, že beneficient odmítá souhlas udělit, aniž pro to má spravedlivý důvod.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b6e074f5d9c58a96d902 -->
 
 ### Pododdíl 2 — Prostá správa cizího majetku (§ 1405—1408)
 
@@ -672,52 +436,6 @@ Soud může **nahradit souhlas beneficienta**, pokud:
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3d9fa71b11f8cec724f3 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1405
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Kdo vykonává prostou správu cizího majetku, činí vše, co je nutné k jeho zachování.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3d9fa71b11f8cec724f3 -->
-
 ### § 1406 — Práva a omezení
 
 > Správce uplatňuje při prosté správě všechna práva týkající se spravovaného majetku a řádně s ním hospodaří. Správce nesmí bez souhlasu beneficienta změnit účel spravovaného majetku.
@@ -773,52 +491,6 @@ Správce **uplatňuje všechna práva** k majetku, **hospodaří řádně**. **Z
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=db0c38f38eb7be41fe67 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1406
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce uplatňuje při prosté správě všechna práva týkající se spravovaného majetku a řádně s ním hospodaří. Správce nesmí bez souhlasu beneficienta změnit účel spravovaného majetku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=db0c38f38eb7be41fe67 -->
-
 ### § 1407 — Obezřetnost u peněz
 
 > Spravuje-li správce peněžní prostředky, musí je vynaložit obezřetně. Bylo-li něco ze spravovaného majetku vynaloženo určitým způsobem dříve, může správce zvolený způsob později změnit.
@@ -869,52 +541,6 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 **Typicky rozhodné důkazy / podklady:** výpisy z účtů a o vkladech, doklady o úrokových sazbách a podmínkách, doba uložení, analýza bezpečnosti a likvidity zvoleného nástroje.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=949b9c00434394ef5632 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1407
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Spravuje-li správce peněžní prostředky, musí je vynaložit obezřetně. Bylo-li něco ze spravovaného majetku vynaloženo určitým způsobem dříve, může správce zvolený způsob později změnit.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=949b9c00434394ef5632 -->
 
 ### § 1408 — Zcizení, zástava
 
@@ -975,54 +601,6 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=8fdf0f401a6955776228 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1408
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Správce může ze spravovaného majetku něco zcizit, je-li to v zájmu zachování hodnoty, podstaty a účelu spravovaného majetku nebo je-li to nutné k zaplacení dluhů s tímto majetkem spojených; jinak jen za protiplnění. Za stejným účelem může správce spravovaný majetek zastavit nebo jinak použít jako jistotu. K těmto právním jednáním musí správci udělit souhlas beneficient.
->
-> (2) Souhlas k zcizení majetku správce nepotřebuje, hrozí-li mu rychlá zkáza nebo je-li pravděpodobné, že rychle ztratí na hodnotě.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8fdf0f401a6955776228 -->
-
 ### Pododdíl 3 — Plná správa cizího majetku (§ 1409—1410)
 
 ### § 1409 — Účel plné správy
@@ -1077,52 +655,6 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2e35cfe5fefeab8c3c48 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1409
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Komu je svěřena plná správa cizího majetku, dbá o jeho rozmnožení a uplatnění v zájmu beneficienta.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2e35cfe5fefeab8c3c48 -->
-
 ### § 1410 — Volnost správce
 
 > Správce může se spravovaným majetkem činit cokoli, co je nutné a užitečné.
@@ -1171,52 +703,6 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 **Typicky rozhodné důkazy / podklady:** statut/listina vymezující plnou správu, doklady o ekonomické účelnosti úkonů, smlouvy a podklady k transakcím, posouzení souladu s účelem správy a s péčí řádného hospodáře.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c8988eaeb4a441fa5cce generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1410
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce může se spravovaným majetkem činit cokoli, co je nutné a užitečné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c8988eaeb4a441fa5cce -->
 
 ## Oddíl 2 — Pravidla správy (§ 1411—1437)
 
@@ -1326,52 +812,6 @@ Peněžní prostředky **vynakládá obezřetně**. Při změně způsobu invest
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d783c80143faa7ce7657 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1411
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce cizího majetku vykonává svou působnost a plní povinnosti s péčí řádného hospodáře.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d783c80143faa7ce7657 -->
-
 ### § 1412 — Nestrannost mezi beneficienty
 
 > (1) Je-li beneficientů více, ať současně nebo následně, musí správce jednat vůči všem nestranně a brát ohled na jejich příslušná práva.
@@ -1425,54 +865,6 @@ Při více beneficientech **simultánně nebo postupně** — rovné zacházení
 **Typicky rozhodné důkazy / podklady:** statut/listina vymezující práva beneficientů, investiční a správní rozhodnutí, doklady o dopadu strategie na výnos vs. podstatu, údaj o tom, zda je správce sám beneficientem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0f2c1752bd5756213566 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1412
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Je-li beneficientů více, ať současně nebo následně, musí správce jednat vůči všem nestranně a brát ohled na jejich příslušná práva.
->
-> (2) Je-li správce sám beneficientem, musí brát na své zájmy stejný zřetel jako na zájmy ostatních beneficientů a vykonávat svou působnost ve společném zájmu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0f2c1752bd5756213566 -->
 
 ### § 1413 — Konflikt zájmů
 
@@ -1528,56 +920,6 @@ Informování: **beneficient + osoba dohlížející**.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=41f25a654e1ed316b65d generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1413
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Nejedná-li se o zájem nebo právo plynoucí z právního jednání, ze kterého správa vznikla, musí správce beneficientovi a osobě, která dohlíží na správu majetku nebo na zájem beneficienta, bez zbytečného odkladu oznámit
->
->     - a) každý svůj zájem při podnikání nebo činnosti sledující majetkový pospěch, který by se mohl ocitnout v rozporu se zájmem beneficienta, a
->
->     - b) každé své právo, které by mohl uplatnit vůči beneficientovi nebo ohledně spravovaného majetku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=41f25a654e1ed316b65d -->
-
 ### § 1414 — Segregace majetku
 
 > Správce vede spolehlivé záznamy o spravovaném majetku a nesmí smísit svůj vlastní majetek s majetkem pod svou správou.
@@ -1628,52 +970,6 @@ Informování: **beneficient + osoba dohlížející**.
 **Typicky rozhodné důkazy / podklady:** výpisy z účtů a depozit, účetní a inventární evidence spravovaného majetku, doklady o oddělení majetku, případné exekuční/insolvenční podklady ke správci.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5a9333017a192de0fb28 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1414
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce vede spolehlivé záznamy o spravovaném majetku a nesmí smísit svůj vlastní majetek s majetkem pod svou správou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5a9333017a192de0fb28 -->
 
 ### § 1415 — Self-dealing
 
@@ -1728,54 +1024,6 @@ Informování: **beneficient + osoba dohlížející**.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=683bd5dbe72be85992c5 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1415
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Správce se může stát stranou smlouvy týkající se spravovaného majetku, smluvně nabýt právo na tento majetek nebo nabýt právo vůči beneficientovi jen se souhlasem beneficienta.
->
-> (2) Správce může užívat spravovaný majetek nebo informace získané při správě k vlastnímu prospěchu jen se souhlasem beneficienta, ledaže možnost takového užití určují stanovy či jiná smlouva nebo stanoví-li tak zákon.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=683bd5dbe72be85992c5 -->
-
 ### § 1416 — Bezúplatný převod
 
 > Správce může bezúplatně převést svěřený majetek jen tehdy, je-li to přímo v povaze správy, nebo jedná-li se o majetek nepatrné hodnoty, jehož se správce zbavuje v zájmu beneficienta či ve shodě s účelem správy.
@@ -1823,52 +1071,6 @@ Informování: **beneficient + osoba dohlížející**.
 **Typicky rozhodné důkazy / podklady:** doklady o účelu a povaze správy (statut, listina), ocenění převáděného majetku, doložení vazby převodu na zájem beneficienta či účel správy, darovací smlouva.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=24a05447187eab8f8db4 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1416
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce může bezúplatně převést svěřený majetek jen tehdy, je-li to přímo v povaze správy, nebo jedná-li se o majetek nepatrné hodnoty, jehož se správce zbavuje v zájmu beneficienta či ve shodě s účelem správy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=24a05447187eab8f8db4 -->
 
 ### § 1417—1418 — Náhrada škody
 
@@ -1929,98 +1131,6 @@ Informování: **beneficient + osoba dohlížející**.
 **Typicky rozhodné důkazy / podklady:** doklady o příčině škody (meteorologická data, znalecký posudek o stáří/opotřebení), evidence údržby majetku, doklad o (bez)úplatnosti a okolnostech převzetí správy, údaj o věku/svéprávnosti správce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4297f5c268d122339846 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1417
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce nehradí škodu na majetku vyvolanou vyšší mocí, stárnutím nebo jiným přirozeným vývojem a běžným opotřebením při řádném užívání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4297f5c268d122339846 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=8f59de1eef3993d54944 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1418
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Soud může při určení náhrady škody správci rozsah náhrady snížit jen se zřetelem k okolnostem, za nichž byla správa přijata, anebo pokud správce vykonává správu bezúplatně, případně je-li správce nezletilý nebo je-li jeho svéprávnost omezena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8f59de1eef3993d54944 -->
 
 ### Pododdíl 2 — Vztah ke třetím osobám (§ 1419—1422)
 
@@ -2104,54 +1214,6 @@ Informování: **beneficient + osoba dohlížející**.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f49f6776e0433aad20c6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1419
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Správci nevzniká osobní povinnost ze závazku, který ujednal s jinou osobou na účet beneficienta. To platí i v případě, je-li zjevné, že správce jedná na účet svěřenského fondu.
->
-> (2) Jedná-li správce při výkonu své působnosti na účet beneficienta vlastním jménem, je zavázán společně s beneficientem; po beneficientovi lze však žádat plnění jen ze spravovaného majetku. To platí i v případě, že správce jednal na účet svěřenského fondu, třebaže to nebylo zjevné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f49f6776e0433aad20c6 -->
-
 ### § 1420 — Překročení působnosti
 
 > Překročí-li správce svoji působnost, je ze svého jednání osobně zavázán. Spoléhala-li však třetí osoba v dobré víře na řádný výkon správcovy působnosti, nebo potvrdil-li beneficient, byť i jen mlčky, právní jednání správce, jsou správce a beneficient zavázáni společně a nerozdílně, avšak po beneficientovi lze žádat plnění jen ze spravovaného majetku.
@@ -2202,52 +1264,6 @@ V těchto případech → solidární odpovědnost s beneficientem.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5733d05bfddf3708ff2b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1420
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Překročí-li správce svoji působnost, je ze svého jednání osobně zavázán. Spoléhala-li však třetí osoba v dobré víře na řádný výkon správcovy působnosti, nebo potvrdil-li beneficient, byť i jen mlčky, právní jednání správce, jsou správce a beneficient zavázáni společně a nerozdílně, avšak po beneficientovi lze žádat plnění jen ze spravovaného majetku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5733d05bfddf3708ff2b -->
-
 ### § 1421 — Společná správa
 
 > Správce překročí svou působnost, vykonává-li ji sám, ač ji měl vykonávat společně s další osobou; to neplatí, byl-li tímto postupem získán pro spravovaný majetek větší prospěch, než co má být z něho vydáno.
@@ -2291,52 +1307,6 @@ Společný výkon správy je závazný; jeho porušení samostatným jednáním 
 - [ ] Posoudit ochranu dobré víry třetí osoby a možnost dodatečného schválení.
 
 **Typicky rozhodné důkazy / podklady:** jmenovací listina / statut určující společný výkon, sporná smlouva, znalecký posudek o hodnotě, doklady o výsledném prospěchu fondu, komunikace mezi správci.
-
-
-<!-- LEGAL-REVISION:BEGIN id=f025454b40f94034b7ee generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1421
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce překročí svou působnost, vykonává-li ji sám, ač ji měl vykonávat společně s další osobou; to neplatí, byl-li tímto postupem získán pro spravovaný majetek větší prospěch, než co má být z něho vydáno.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f025454b40f94034b7ee -->
 
 ### § 1422 — Předstíraná správa
 
@@ -2383,52 +1353,6 @@ Kdo navenek předstírá, že jiný spravuje jeho majetek, je vůči poctivé t�
 **Typicky rozhodné důkazy / podklady:** korespondence a prezentace navenek, svědci jednání, samotná smlouva, doklady o tom, co T věděla nebo mohla vědět.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ebe382c73da49bcf469b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1422
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Předstírá-li svéprávný třetí osobě, že jiná osoba je správcem jeho majetku, vznikají ze smlouvy uzavřené v dobré víře s touto jinou osobou stranám stejné povinnosti, jako by majetek předstírajícího byl pod správou.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ebe382c73da49bcf469b -->
 
 ### Pododdíl 3 — Inventář, jistota a pojištění (§ 1423—1427)
 
@@ -2697,52 +1621,6 @@ Funkce konkrétního správce zaniká ze zákona při některém ze čtyř důvo
 
 **Typicky rozhodné důkazy / podklady:** usnesení o úpadku, rozhodnutí o svéprávnosti, prohlášení o odstoupení / odvolací akt, jmenovací listina, statut, soupis spravovaného majetku.
 
-
-<!-- LEGAL-REVISION:BEGIN id=87790a016a593e60f179 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1438
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Činnost správce skončí odstoupením, odvoláním, omezením svéprávnosti osoby dosud svéprávné, nebo osvědčením úpadku správce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=87790a016a593e60f179 -->
-
 ### § 1439 — Zánik správy
 
 > Správa zaniká uplynutím doby, na kterou byla zřízena, dosažením účelu nebo zánikem práva beneficienta k spravovanému majetku.
@@ -2789,52 +1667,6 @@ Správa jako instituce zaniká uplynutím doby, dosažením účelu nebo zánike
 - [ ] Připravit vyúčtování a předání majetku beneficientovi (§ 1445–1446).
 
 **Typicky rozhodné důkazy / podklady:** zřizovací akt / statut s časovým a účelovým vymezením, doklady o splnění účelu nebo uplynutí doby, soupis majetku, vyúčtování.
-
-
-<!-- LEGAL-REVISION:BEGIN id=bde83f894a0322aa3e14 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1439
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správa zaniká uplynutím doby, na kterou byla zřízena, dosažením účelu nebo zánikem práva beneficienta k spravovanému majetku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bde83f894a0322aa3e14 -->
 
 ### § 1440—1441 — Odstoupení a odvolání
 
@@ -2891,100 +1723,6 @@ Správce může odstoupit (účinnost doručením oprávněné osobě), ustanovi
 - [ ] Zajistit úkony k zamezení ztráty a nástup nového správce.
 
 **Typicky rozhodné důkazy / podklady:** prohlášení o odstoupení s datem doručení, písemné odvolání, harmonogram kritických úkonů (daně, úvěry), doklady o vzniklé škodě a její výši.
-
-
-<!-- LEGAL-REVISION:BEGIN id=7ff00eacfdf155451be9 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1440
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Prohlásí-li správce, že odstupuje z funkce, skončí jeho povinnosti doručením prohlášení o odstoupení osobě oprávněné povolat nového správce, ledaže toto prohlášení vztahuje odstoupení k pozdějšímu datu. Správce doručí prohlášení o odstoupení i ostatním správcům, beneficientovi a tomu, kdo nad správou vykonává dohled.
->
-> (2) Správce nesmí od správy odstoupit v nevhodnou dobu, ani jinak odstoupením porušit své povinnosti k řádné správě, jinak nahradí škodu podle části čtvrté tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7ff00eacfdf155451be9 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=4d2b0ad13ca206654878 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1441
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Kdo správce ustavil, může jej odvolat prohlášením učiněným v písemné formě.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4d2b0ad13ca206654878 -->
 
 ### § 1442—1444 — Ochrana dobré víry a oznámení smrti
 
@@ -3054,146 +1792,6 @@ Jednání v dobré víře o trvání správy zavazuje beneficienta vůči poctiv
 
 **Typicky rozhodné důkazy / podklady:** doklad o odvolání/odstoupení a okamžiku vědomosti, smlouva s třetí osobou, doklad o smrti správce, oznámení o zániku, soupis a stav majetku, vyčíslení škody.
 
-
-<!-- LEGAL-REVISION:BEGIN id=3d376d592d687879651a generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1442
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Právní jednání toho, kdo jednal jako správce v dobré víře, že správa dosud neskončila, beneficienta zavazuje. Beneficienta zavazuje i právní jednání osoby, která přestala být správcem, pokud druhá strana jednala v dobré víře, že správa trvá.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3d376d592d687879651a -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=33214525d83deaa17d83 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1443
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Při skončení správy učiní správce s účinky zavazujícími beneficienta vše, co je vzhledem k tomu nutné nebo co je nezbytné k zamezení ztráty.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=33214525d83deaa17d83 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=56cb0c31136d6167083b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1444
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zemře-li správce nebo zanikne-li, oznámí osoba, která má povinnost zařídit správcovy záležitosti, bez zbytečného odkladu poté, co se o správcově smrti nebo zániku dozví, zánik správy tomu, kdo správce správou pověřil, jakož i beneficientovi a další osobě, o níž to bylo ujednáno nebo stanoveno zákonem. To platí i tehdy, zanikla-li správa proto, že správce byl ve svéprávnosti omezen.
->
-> (2) Kdo má povinnost oznámení podle odstavce 1, učiní vše, co je jinak oprávněn nebo povinen učinit při zániku správy správce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=56cb0c31136d6167083b -->
-
 ### § 1445—1447 — Vyúčtování a předání
 
 **§ 1445**:
@@ -3262,146 +1860,6 @@ Při skončení správy správce předloží vyúčtování a vydá majetek i v�
 **Typicky rozhodné důkazy / podklady:** závěrečné vyúčtování, evidence získaných plnění (dividendy, nájemné), doklady o pohledávkách správce ze správy, projev o započtení, doklad o místu a stavu majetku.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=73cd405460a4043498f6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1445
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Správce předloží beneficientovi při ukončení správy vyúčtování. Vyúčtování předloží i správci, který nastupuje na jeho místo. Ustanovení [[#§ 1426|§ 1426]] a [[#§ 1427|1427]] platí obdobně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 1426, § 1427
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=73cd405460a4043498f6 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=f91f8920dbcfd1c7239d generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1446
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Správce při ukončení správy předá spravovaný majetek beneficientovi nebo nově nastupujícímu správci v místě, kde se tento majetek nalézá, ledaže je dohodnuto něco jiného.
->
-> (2) Povinnost předat spravovaný majetek zahrnuje vydání všeho, co správce pro beneficienta v průběhu správy získal, včetně náhrad, k nimž je správce povinen podle předchozích ustanovení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f91f8920dbcfd1c7239d -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=3334ca6030e348537e3f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1447
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> K majetku, který je povinen vydat, má správce zadržovací právo k zajištění svých pohledávek ze správy. Má-li však správce vydat peněžní prostředky, započte svoji případnou pohledávku proti vzájemné pohledávce beneficienta.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3334ca6030e348537e3f -->
 
 ## Oddíl 4 — Svěřenský fond (§ 1448—1474)
 
@@ -3541,56 +1999,6 @@ Svěřenský fond zakládá autonomní, oddělené vlastnictví bez vlastníka; 
 
 **Typicky rozhodné důkazy / podklady:** smlouva o vyčlenění / pořízení pro případ smrti, statut, výpis z evidence svěřenských fondů, zápis v katastru s poznámkou „svěřenský správce“, doklady o dluzích a jejich vzniku.
 
-
-<!-- LEGAL-REVISION:BEGIN id=0717d8d114a4cfa4119a generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1448
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Svěřenský fond se vytváří vyčleněním majetku z vlastnictví zakladatele tak, že ten svěří správci majetek k určitému účelu smlouvou nebo pořízením pro případ smrti a svěřenský správce se zaváže tento majetek držet a spravovat.
->
-> (2) Vznikem svěřenského fondu vzniká oddělené a nezávislé vlastnictví vyčleněného majetku a svěřenský správce je povinen ujmout se tohoto majetku a jeho správy.
->
-> (3) Vlastnická práva k majetku ve svěřenském fondu vykonává vlastním jménem na účet fondu svěřenský správce; majetek ve svěřenském fondu však není ani vlastnictvím správce, ani vlastnictvím zakladatele, ani vlastnictvím osoby, které má být ze svěřenského fondu plněno.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0717d8d114a4cfa4119a -->
-
 ### § 1449 — Účel
 
 > (1) Účel svěřenského fondu může být veřejně prospěšný, anebo soukromý.
@@ -3643,56 +2051,6 @@ Svěřenský fond zakládá autonomní, oddělené vlastnictví bez vlastníka; 
 
 **Typicky rozhodné důkazy / podklady:** statut s vymezením účelu, účetní výkazy o struktuře činností a výtěžku, doklady o použití zisku, zápis účelu v evidenci svěřenských fondů.
 
-
-<!-- LEGAL-REVISION:BEGIN id=89948e1c69547ca7b3fd generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1449
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Účel svěřenského fondu může být veřejně prospěšný, anebo soukromý.
->
-> (2) Svěřenský fond zřízený k soukromému účelu slouží k prospěchu určité osoby nebo na její památku. Tento fond lze zřídit i za účelem investování pro dosažení zisku k rozdělení mezi zakladatele, zaměstnance, společníky či jiné osoby.
->
-> (3) Hlavním účelem veřejně prospěšného svěřenského fondu nemůže být dosahování zisku nebo provozování závodu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=89948e1c69547ca7b3fd -->
-
 ### § 1450 — Označení
 
 > (1) Svěřenský fond musí mít vlastní označení.
@@ -3742,54 +2100,6 @@ Označení svěřenského fondu musí být vlastní, vyjadřovat účel a obsaho
 - [ ] Při vadě připravit změnu statutu formou veřejné listiny a opravu zápisu.
 
 **Typicky rozhodné důkazy / podklady:** statut (část označení), výpis z evidence svěřenských fondů, smlouvy uzavřené pod daným označením, doklady o vědomosti třetích osob o povaze entity.
-
-
-<!-- LEGAL-REVISION:BEGIN id=c5b5455c01e40592763d generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1450
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Svěřenský fond musí mít vlastní označení.
->
-> (2) Označení svěřenského fondu musí vyjadřovat jeho účel a obsahovat slova „svěřenský fond“.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c5b5455c01e40592763d -->
 
 ### § 1451 — Vznik
 
@@ -3851,56 +2161,6 @@ Mezi živými vzniká svěřenský fond až zápisem do evidence (konstitutivní
 - [ ] Úkony v mezidobí podmínit vznikem fondu nebo s nimi vyčkat.
 
 **Typicky rozhodné důkazy / podklady:** statut (veřejná listina), doklad o přijetí pověření správcem, výpis z evidence svěřenských fondů s datem zápisu, úmrtní list u závětního fondu, sporné smlouvy s daty.
-
-
-<!-- LEGAL-REVISION:BEGIN id=fafbf02eef0dbf720c5a generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1451
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Svěřenský fond je zřízen, když svěřenský správce přijme pověření k jeho správě; je-li svěřenských správců více, postačí, pokud pověření přijme alespoň jeden z nich.
->
-> (2) Svěřenský fond vzniká dnem zápisu do evidence svěřenských fondů.
->
-> (3) Byl-li však svěřenský fond zřízen pořízením pro případ smrti, vznikne smrtí zůstavitele. Do evidence svěřenských fondů se zapíše po svém vzniku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fafbf02eef0dbf720c5a -->
 
 ### § 1452 — Statut
 
@@ -3982,70 +2242,6 @@ Statut je „ústavou“ fondu: musí mít formu veřejné listiny a obsahovat z
 **Typicky rozhodné důkazy / podklady:** notářský zápis statutu, jeho obsahová kontrola dle písm. a)–g), výpis z evidence svěřenských fondů, případné usnesení rejstříkového soudu o odmítnutí zápisu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b4069659ec7e87f8d141 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1452
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každý svěřenský fond musí mít statut. Statut svěřenského fondu vydává zakladatel. Zřizuje-li se svěřenský fond pořízením pro případ smrti, použije se přiměřeně [[#§ 311|§ 311]].
->
-> (2) Statut obsahuje alespoň
->
->     - a) označení svěřenského fondu,
->
->     - b) označení majetku, který tvoří svěřenský fond při jeho vzniku,
->
->     - c) vymezení účelu svěřenského fondu,
->
->     - d) podmínky pro plnění ze svěřenského fondu,
->
->     - e) údaj o době trvání svěřenského fondu; není-li uvedena, platí, že fond byl zřízen na dobu neurčitou,
->
->     - f) má-li být ze svěřenského fondu plněno určité osobě jako obmyšlenému, určení této osoby, nebo způsobu, jak bude obmyšlený určen, a
->
->     - g) počet svěřenských správců a způsob jejich jednání.
->
-> (3) Statut vyžaduje formu veřejné listiny.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 311
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b4069659ec7e87f8d141 -->
 
 ### Pododdíl 2 — Správa svěřenského fondu (§ 1453—1456)
 
@@ -4219,58 +2415,6 @@ Obmyšleného jmenuje primárně zakladatel, jinak správce (u soukromého fondu
 
 **Typicky rozhodné důkazy / podklady:** statut (vymezení obmyšleného/okruhu a kompetence ke jmenování), akt jmenování obmyšleného, výpis z evidence svěřenských fondů s datem zápisu, doklad o nevyužití práva zakladatelem.
 
-
-<!-- LEGAL-REVISION:BEGIN id=8f61bba0a93b066509a4 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1457
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zakladatel má právo jmenovat obmyšleného a určit mu plnění ze svěřenského fondu, ledaže statut svěřenského fondu určí něco jiného.
->
-> (2) Nevyužije-li zakladatel práva podle odstavce 1, jmenuje obmyšleného a určí mu plnění ze svěřenského fondu svěřenský správce. Jedná-li se o svěřenský fond zřízený k soukromému účelu, může svěřenský správce vykonat toto právo, jestliže statut určí okruh osob, ze kterého lze obmyšleného jmenovat.
->
-> (3) Jmenování nebo jiné určení obmyšleného svěřenského fondu zřízeného k soukromému účelu je účinné dnem, kdy byl obmyšlený zapsán do evidence svěřenských fondů.
->
-> (4) Obmyšlenému lze přiznat právo na plody nebo užitky ze svěřenského fondu nebo právo na majetek ze svěřenského fondu, případně na podíly na nich.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8f61bba0a93b066509a4 -->
-
 ### § 1458 — Diskrece a omezení
 
 > (1) Kdo je oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu, postupuje podle statutu a vlastního uvážení. Může své rozhodnutí změnit nebo zrušit za podmínek určených statutem.
@@ -4319,54 +2463,6 @@ Pravomoc jmenovat obmyšleného a určit mu plnění je fiduciární a nesmí sl
 - [ ] Při porušení uplatnit neplatnost a soudní ochranu (§ 1466).
 
 **Typicky rozhodné důkazy / podklady:** akt jmenování a určení plnění, statut (okruh a odměna správce), doklady o majetkovém prospěchu jmenujícího či osoby blízké, evidence svěřenských fondů.
-
-
-<!-- LEGAL-REVISION:BEGIN id=daebd737478310012810 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1458
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Kdo je oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu, postupuje podle statutu a vlastního uvážení. Může své rozhodnutí změnit nebo zrušit za podmínek určených statutem.
->
-> (2) Nikdo není oprávněn jmenovat obmyšleného nebo určit mu plnění ze svěřenského fondu pro vlastní zisk.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=daebd737478310012810 -->
 
 ### § 1459—1462 — Vznik a doba práva
 
@@ -4430,52 +2526,6 @@ Právo obmyšleného na plnění vzniká výlučně za podmínek určených stat
 
 **Typicky rozhodné důkazy / podklady:** statut (podmínky plnění a určení obmyšleného), doklady o splnění podmínek (věk, vzdělání, jiné události), evidence svěřenských fondů.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d9efea9aec7113f2f005 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1459
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Právo obmyšleného na plnění ze svěřenského fondu vzniká za podmínek určených statutem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d9efea9aec7113f2f005 -->
-
 ### § 1460 — Limit 100 let
 
 > (1) Byl-li svěřenský fond zřízen za soukromým účelem, vznikne právo obmyšleného na plnění nejpozději uplynutím sta let od vzniku svěřenského fondu, a to i když statut určil pozdější dobu. I po uplynutí sta let však může vzniknout právo na plnění tomu obmyšlenému, jemuž se má podle statutu dostat podílu na majetku nejpozději při zániku posledního práva na plody nebo užitky, jakož i tomu obmyšlenému člověku, jenž byl zakladatelovým současníkem či dítětem zakladatele nebo jeho současníka, pokud má podle statutu nastoupit nejpozději při smrti nebo zániku obmyšleného s dřívějším pořadím, aby jako další v pořadí nabýval plody nebo užitky; po dobu jeho života mohou spolu s ním nabývat plody nebo užitky i jiné osoby.
@@ -4532,54 +2582,6 @@ U soukromého fondu vznikne právo obmyšleného na plnění nejpozději do 100 
 
 **Typicky rozhodné důkazy / podklady:** statut (řetězec obmyšlených a doba), výpis z evidence s datem vzniku fondu, doklady o narození/úmrtí obmyšlených a o vztahu k zakladateli.
 
-
-<!-- LEGAL-REVISION:BEGIN id=fdc53493c6aa34098565 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1460
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Byl-li svěřenský fond zřízen za soukromým účelem, vznikne právo obmyšleného na plnění nejpozději uplynutím sta let od vzniku svěřenského fondu, a to i když statut určil pozdější dobu. I po uplynutí sta let však může vzniknout právo na plnění tomu obmyšlenému, jemuž se má podle statutu dostat podílu na majetku nejpozději při zániku posledního práva na plody nebo užitky, jakož i tomu obmyšlenému člověku, jenž byl zakladatelovým současníkem či dítětem zakladatele nebo jeho současníka, pokud má podle statutu nastoupit nejpozději při smrti nebo zániku obmyšleného s dřívějším pořadím, aby jako další v pořadí nabýval plody nebo užitky; po dobu jeho života mohou spolu s ním nabývat plody nebo užitky i jiné osoby.
->
-> (2) Byl-li svěřenský fond zřízen za soukromým účelem, zanikne právo obmyšleného na plody nebo užitky nejpozději uplynutím sta let od vzniku svěřenského fondu; u člověka však takové právo může trvat až do jeho smrti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fdc53493c6aa34098565 -->
-
 ### § 1461 — Vzdání se práva
 
 > (1) Za trvání svěřenského fondu má obmyšlený právo požadovat ve shodě se statutem příslušné plnění.
@@ -4630,54 +2632,6 @@ Obmyšlený soukromého fondu může požadovat plnění ve shodě se statutem a
 
 **Typicky rozhodné důkazy / podklady:** statut (právo na plnění), notářský zápis o vzdání se práva, evidence obmyšlených, doklady o dosud poskytnutých plněních.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d47a69676cf338c92ad3 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1461
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Za trvání svěřenského fondu má obmyšlený právo požadovat ve shodě se statutem příslušné plnění.
->
-> (2) Obmyšlený svěřenského fondu zřízeného za soukromým účelem se práva podle odstavce 1 může vzdát prohlášením učiněným ve formě veřejné listiny.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d47a69676cf338c92ad3 -->
-
 ### § 1462 — Přechod práva
 
 > Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
@@ -4723,52 +2677,6 @@ Zanikne-li právo na plody/užitky a statut neurčuje dalšího obmyšleného, p
 **Typicky rozhodné důkazy / podklady:** statut (rozlišení práva na plody a na majetek, případný řetězec obmyšlených), doklad o zániku dosavadního práva na plody, evidence obmyšlených.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1a71d7a1124b18989109 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1462
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1a71d7a1124b18989109 -->
 
 ### Pododdíl 4 — Dohled (§ 1463—1467)
 
@@ -4871,54 +2779,6 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 
 **Typicky rozhodné důkazy / podklady:** statut, vyúčtování (či doklad o jeho absenci), smlouvy o zcizení majetku fondu a znalecká ocenění, výzvy správci a jeho reakce, doklad o právním zájmu navrhovatele.
 
-
-<!-- LEGAL-REVISION:BEGIN id=67da6899e50b3f67735b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1466
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zakladatel, obmyšlený nebo i jiná osoba, která na tom má právní zájem, může soudu navrhnout, aby svěřenskému správci určité jednání uložil nebo zakázal, anebo aby svěřenského správce odvolal nebo jmenoval nového. Tyto osoby se také mohou dovolat neplatnosti právního jednání, kterým správce poškozuje svěřenský fond nebo právo obmyšleného; nabyla-li však třetí osoba právo v dobré víře, nesmí to vést k její újmě.
->
-> (2) Soud pověří osobu uvedenou v odstavci 1 na její návrh zahájením nebo vedením řízení v zájmu svěřenského fondu místo svěřenského správce a jeho jménem, je-li svěřenský správce bez dostatečného důvodu nečinný.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=67da6899e50b3f67735b -->
-
 ### § 1467 — Konspirace
 
 > Účastní-li se svěřenský správce, zakladatel nebo obmyšlený činů sledujících úmyslné poškození práv zakladatelova věřitele nebo poškození svěřenského fondu, jsou zavázáni společně a nerozdílně.
@@ -4991,52 +2851,6 @@ Soudní ochrana podle § 1466 je hlavním nástrojem vynucení řádné správy:
 **Typicky rozhodné důkazy / podklady:** smlouva o vyčlenění a statut, doklady o dluhu a jeho vzniku, časová souvislost vyčlenění s hrozící exekucí, komunikace prokazující úmysl, doklady o tocích plnění zpět zúčastněným.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=dc5f4285d0640e304dfc generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1467
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Účastní-li se svěřenský správce, zakladatel nebo obmyšlený činů sledujících úmyslné poškození práv zakladatelova věřitele nebo poškození svěřenského fondu, jsou zavázáni společně a nerozdílně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dc5f4285d0640e304dfc -->
 
 ### Pododdíl 5 — Změny svěřenského fondu (§ 1468—1470)
 
@@ -5125,54 +2939,6 @@ Ustanovení § 1469 dává soudu dvojí nástroj při „selhání" účelu fond
 **Typicky rozhodné důkazy / podklady:** statut fondu (veřejná listina) vč. preambule, výpis z evidence svěřenských fondů, doklad o příčině nedosažitelnosti účelu (např. výmaz družstva z OR), stanoviska dle § 1470, znalecké posouzení proveditelnosti účelu, případně svědecké výpovědi k úmyslu zakladatele.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=832ee254af6db347f498 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1469
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Soud může na návrh osoby, která na tom má právní zájem, rozhodnout, že svěřenský fond zruší, pokud je dosažení účelu svěřenského fondu nemožné nebo obtížně dosažitelné, zejména následkem okolností zakladateli neznámých nebo pro zakladatele nepředvídatelných. Jedná-li se o svěřenský fond zřízený za veřejně prospěšným účelem, může soud rozhodnout, že jeho původní účel nahradí podobným účelem.
->
-> (2) Lze-li ve shodě s původním úmyslem zakladatele účelu svěřenského fondu dosáhnout nebo mu lépe prospět změnou statutu fondu, soud statut upraví.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=832ee254af6db347f498 -->
 
 ### Pododdíl 6 — Zánik (§ 1471—1474)
 
@@ -5320,52 +3086,6 @@ Ustanovení § 1471 vymezuje čtyři rovnocenné, taxativní důvody skončení 
 
 **Typicky rozhodné důkazy / podklady:** statut fondu (vč. určení soukromého účelu a okruhu obmyšlených), písemná prohlášení obmyšlených o vzdání se práva, výpis z evidence svěřenských fondů, případně doklad o uplynutí doby či o dosažení účelu, závěrečné vyúčtování správce.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d869306aa81fb7ee846f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1471
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Uplyne-li doba, na kterou byl svěřenský fond zřízen, je-li dosaženo účelu, pro který byl svěřenský fond zřízen, nebo rozhodne-li tak soud, správa svěřenského fondu končí. Byl-li svěřenský fond zřízen za soukromým účelem, končí jeho správa i v případě, že se všichni obmyšlení vzdají práva na plnění ze svěřenského fondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d869306aa81fb7ee846f -->
-
 ### § 1472 — Vydání majetku
 
 > Při zániku správy svěřenského fondu vydá svěřenský správce majetek tomu, kdo na něj má právo. Má se za to, že na majetek má právo obmyšlený, a pokud není, zakladatel svěřenského fondu; není-li žádný z nich, připadá majetek do vlastnictví státu.
@@ -5422,52 +3142,6 @@ Ustanovení § 1472 řeší, komu připadne majetek po skončení správy fondu,
 
 **Typicky rozhodné důkazy / podklady:** statut fondu, doklad o skončení správy (uplynutí doby / dosažení účelu / rozhodnutí soudu), úmrtní listy a doklady o (ne)existenci nástupců obmyšleného i zakladatele, pravomocné usnesení o dědictví po zakladateli, soupis a ocenění majetku fondu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=1e45f0067b73d95c7157 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1472
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Při zániku správy svěřenského fondu vydá svěřenský správce majetek tomu, kdo na něj má právo. Má se za to, že na majetek má právo obmyšlený, a pokud není, zakladatel svěřenského fondu; není-li žádný z nich, připadá majetek do vlastnictví státu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1e45f0067b73d95c7157 -->
-
 ### § 1473 — Veřejně prospěšný fond — substituce
 
 > (1) Zanikne-li správa svěřenského fondu zřízeného za veřejně prospěšným účelem proto, že tento účel nelze naplnit, soud rozhodne na návrh svěřenského správce, že majetek bude převeden do jiného svěřenského fondu nebo do vlastnictví právnické osoby sledující dosažení účelu, který je co možná nejbližší původnímu účelu svěřenského fondu. Před vydáním rozhodnutí si soud vyžádá stanovisko toho, komu nad správou svěřenského fondu náleží dohled.
@@ -5519,54 +3193,6 @@ Ustanovení § 1473 je speciální „cy-près" pravidlo pro zánik veřejně pr
 - [ ] Po převodu majetku navázat výmazem fondu (§ 1474).
 
 **Typicky rozhodné důkazy / podklady:** statut fondu (vymezení veřejně prospěšného účelu a případného naložení s majetkem), doklady o nemožnosti naplnit účel, soupis a ocenění majetku, identifikace orgánu dohledu a jeho stanovisko, doklady o účelu a způsobilosti navrhovaných nabyvatelů.
-
-
-<!-- LEGAL-REVISION:BEGIN id=bfd140be3b977ad3b004 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1473
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zanikne-li správa svěřenského fondu zřízeného za veřejně prospěšným účelem proto, že tento účel nelze naplnit, soud rozhodne na návrh svěřenského správce, že majetek bude převeden do jiného svěřenského fondu nebo do vlastnictví právnické osoby sledující dosažení účelu, který je co možná nejbližší původnímu účelu svěřenského fondu. Před vydáním rozhodnutí si soud vyžádá stanovisko toho, komu nad správou svěřenského fondu náleží dohled.
->
-> (2) Rozhodnutí podle odstavce 1 nelze vydat, určuje-li statut svěřenského fondu, jak má být s majetkem při zániku svěřenského fondu naloženo.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bfd140be3b977ad3b004 -->
 
 ### § 1474 — Zánik
 
@@ -5623,52 +3249,6 @@ Ustanovení § 1474 určuje konec „života" fondu: fond zaniká okamžikem, kd
 **Typicky rozhodné důkazy / podklady:** statut fondu, doklad o skončení správy, předávací protokol / doklad o vydání či převodu majetku (u nemovitostí výpis z katastru), závěrečné vyúčtování, výpis z evidence svěřenských fondů a doklad o datu podání návrhu na výmaz.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ef7f17d233909a877d8f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1474
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Naloží-li svěřenský správce při zániku správy s majetkem podle statutu, popřípadě vydá-li majetek podle [[#§ 1472|§ 1472]] nebo převede-li jej podle [[#§ 1473|§ 1473]], svěřenský fond zanikne. Svěřenský správce podá návrh na výmaz svěřenského fondu z evidence svěřenských fondů do třiceti dnů od zániku svěřenského fondu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 1472, § 1473
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef7f17d233909a877d8f -->
 
 ## Praktické aspekty svěřenského fondu
 

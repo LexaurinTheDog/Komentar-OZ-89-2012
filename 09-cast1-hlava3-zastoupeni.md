@@ -129,54 +129,6 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 
 **Typicky rozhodné důkazy / podklady:** smlouva a podpisová doložka, plná moc a datum jejího udělení, předsmluvní korespondence (e-mail, SMS), inzerce, zprostředkovatelská smlouva, svědectví o průběhu jednání.
 
-
-<!-- LEGAL-REVISION:BEGIN id=65526e8801bea6bb7558 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 436
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Kdo je oprávněn právně jednat jménem jiného, je jeho zástupcem; ze zastoupení vznikají práva a povinnosti přímo zastoupenému. Není-li zřejmé, že někdo jedná za jiného, platí, že jedná vlastním jménem.
->
-> (2) Je-li zástupce v dobré víře nebo musel-li vědět o určité okolnosti, přihlíží se k tomu i u zastoupeného; to neplatí, jedná-li se o okolnost, o které se zástupce dozvěděl před vznikem zastoupení. Není-li zastoupený v dobré víře, nemůže se dovolat dobré víry zástupce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=65526e8801bea6bb7558 -->
-
 ### § 437 — Konflikt zájmů
 
 > (1) Zastoupit jiného nemůže ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže při smluvním zastoupení zastoupený o takovém rozporu věděl nebo musel vědět.
@@ -277,54 +229,6 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 
 **Typicky rozhodné důkazy / podklady:** plná moc a její rozsah, samotná smlouva s označením stran, doklad o tom, kdo na obou stranách jednal, korespondence o (ne)schválení, důkazy o vědomosti zastoupeného o rozporu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=5cf6c897ef4662cab796 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 437
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zastoupit jiného nemůže ten, jehož zájmy jsou v rozporu se zájmy zastoupeného, ledaže při smluvním zastoupení zastoupený o takovém rozporu věděl nebo musel vědět.
->
-> (2) Jednal-li zástupce, jehož zájem je v rozporu se zájmem zastoupeného, s třetí osobou a věděla-li tato osoba o této okolnosti nebo musela-li o ní vědět, může se toho zastoupený dovolat. Má se za to, že tu je rozpor v zájmech zástupce a zastoupeného, pokud zástupce jedná i za tuto třetí osobu nebo pokud jedná ve vlastní záležitosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5cf6c897ef4662cab796 -->
-
 ### § 438 — Osobní výkon, substituce
 
 > Zástupce jedná osobně. Dalšího zástupce může pověřit, je-li to se zastoupeným ujednáno nebo vyžaduje-li to nutná potřeba, odpovídá však za řádný výběr jeho osoby.
@@ -390,52 +294,6 @@ Ustanovení § 436 je výchozí normou celé hlavy III: zakládá princip přím
 
 **Typicky rozhodné důkazy / podklady:** plná moc a doložka o substituci, substituční plná moc, doklad o nutné potřebě (nemoc, kolize termínů), protokol/úkon učiněný substitutem, podklady ke způsobilosti substituta.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d8574f6b6eed8911ddfa generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 438
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Zástupce jedná osobně. Dalšího zástupce může pověřit, je-li to se zastoupeným ujednáno nebo vyžaduje-li to nutná potřeba, odpovídá však za řádný výběr jeho osoby.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d8574f6b6eed8911ddfa -->
-
 ### § 439 — Pluralita zástupců
 
 > Má-li zastoupený pro tutéž záležitost více zástupců, má se za to, že každý z nich může jednat samostatně.
@@ -491,52 +349,6 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
 - [ ] Řeší se případný střet paralelních jednání ve vnitřním vztahu, nikoli vůči třetí osobě?
 
 **Typicky rozhodné důkazy / podklady:** plná moc a její doložka o způsobu jednání, počet listin/zmocněnců, uzavřená smlouva, instrukce zastoupeného zástupcům, výpis z OR u zástupců podnikatele.
-
-
-<!-- LEGAL-REVISION:BEGIN id=909f3c5ddf5ae36ad211 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 439
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Má-li zastoupený pro tutéž záležitost více zástupců, má se za to, že každý z nich může jednat samostatně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=909f3c5ddf5ae36ad211 -->
 
 ### § 440 — Překročení zástupčího oprávnění
 
@@ -609,54 +421,6 @@ Tato úprava chrání **obchodní styk** — třetí osoba nemusí zkoumat, zda 
   > „Podle § 440 o. z. překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu."
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0cae6e1e7b710379c432 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 440
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Překročil-li zástupce zástupčí oprávnění, zavazuje právní jednání zastoupeného, pokud překročení schválí bez zbytečného odkladu. To platí i v případě, kdy za jiného právně jedná osoba, která k tomu není oprávněna.
->
-> (2) Není-li právní jednání bez zbytečného odkladu schváleno, je osoba, která právně jednala za jiného, zavázána sama. Osoba, se kterou bylo jednáno a která byla v dobré víře, může na jednajícím požadovat, aby splnil, co bylo ujednáno, anebo aby nahradil škodu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0cae6e1e7b710379c432 -->
 
 ## Díl 2 — Smluvní zastoupení (§ 441—456)
 

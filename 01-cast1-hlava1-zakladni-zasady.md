@@ -479,54 +479,6 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=fa6d0d22fd41b3afd0ce generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 1
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Ustanovení právního řádu upravující vzájemná práva a povinnosti osob vytvářejí ve svém souhrnu soukromé právo. Uplatňování soukromého práva je nezávislé na uplatňování práva veřejného.
->
-> (2) Nezakazuje-li to zákon výslovně, mohou si osoby ujednat práva a povinnosti odchylně od zákona; zakázána jsou ujednání porušující dobré mravy, veřejný pořádek nebo právo týkající se postavení osob, včetně práva na ochranu osobnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fa6d0d22fd41b3afd0ce -->
-
 ### § 2 — Hodnotově orientovaný výklad zákona
 
 > (1) Každé ustanovení soukromého práva lze vykládat jenom ve shodě s Listinou základních práv a svobod a ústavním pořádkem vůbec, se zásadami, na nichž spočívá tento zákon, jakož i s trvalým zřetelem k hodnotám, které se tím chrání. Rozejde-li se výklad jednotlivého ustanovení pouze podle jeho slov s tímto příkazem, musí mu ustoupit.
@@ -674,56 +626,6 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 **Typicky rozhodné důkazy / podklady:** znění a důvodová zpráva normy, ustálená judikatura k účelu ustanovení, skutkové okolnosti dopadu rozhodnutí na účastníky.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=d19dd40979c79e80d4fb generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 2
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každé ustanovení soukromého práva lze vykládat jenom ve shodě s [[Listinou základních práv a svobod|Listinou základních práv a svobod]] a ústavním pořádkem vůbec, se zásadami, na nichž spočívá tento zákon, jakož i s trvalým zřetelem k hodnotám, které se tím chrání. Rozejde-li se výklad jednotlivého ustanovení pouze podle jeho slov s tímto příkazem, musí mu ustoupit.
->
-> (2) Zákonnému ustanovení nelze přikládat jiný význam, než jaký plyne z vlastního smyslu slov v jejich vzájemné souvislosti a z jasného úmyslu zákonodárce; nikdo se však nesmí dovolávat slov právního předpisu proti jeho smyslu.
->
-> (3) Výklad a použití právního předpisu nesmí být v rozporu s dobrými mravy a nesmí vést ke krutosti nebo bezohlednosti urážející obyčejné lidské cítění.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d19dd40979c79e80d4fb -->
 
 ### § 3 — Vůdčí zásady soukromého práva
 
@@ -909,68 +811,6 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=309041895117b56f95b2 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 3
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Soukromé právo chrání důstojnost a svobodu člověka i jeho přirozené právo brát se o vlastní štěstí a štěstí jeho rodiny nebo lidí jemu blízkých takovým způsobem, jenž nepůsobí bezdůvodně újmu druhým.
->
-> (2) Soukromé právo spočívá zejména na zásadách, že
->
-> - a) každý má právo na ochranu svého života a zdraví, jakož i svobody, cti, důstojnosti a soukromí,
->
-> - b) rodina, rodičovství a manželství požívají zvláštní zákonné ochrany,
->
-> - c) nikdo nesmí pro nedostatek věku, rozumu nebo pro závislost svého postavení utrpět nedůvodnou újmu; nikdo však také nesmí bezdůvodně těžit z vlastní neschopnosti k újmě druhých,
->
-> - d) daný slib zavazuje a smlouvy mají být splněny,
->
-> - e) vlastnické právo je chráněno zákonem a jen zákon může stanovit, jak vlastnické právo vzniká a zaniká, a
->
-> - f) nikomu nelze odepřít, co mu po právu náleží.
->
-> (3) Soukromé právo vyvěrá také z dalších obecně uznaných zásad spravedlnosti a práva.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=309041895117b56f95b2 -->
-
 ### § 4 — Domněnka rozumného člověka
 
 > (1) Má se za to, že každá svéprávná osoba má rozum průměrného člověka i schopnost užívat jej s běžnou péčí a opatrností a že to každý od ní může v právním styku důvodně očekávat.
@@ -1077,54 +917,6 @@ V praxi platí: porušení veřejnoprávní povinnosti nezpůsobuje samo o sobě
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f0a18df7a201e48c78c6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 4
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Má se za to, že každá svéprávná osoba má rozum průměrného člověka i schopnost užívat jej s běžnou péčí a opatrností a že to každý od ní může v právním styku důvodně očekávat.
->
-> (2) Činí-li právní řád určitý následek závislým na něčí vědomosti, má se na mysli vědomost, jakou si důvodně osvojí osoba případu znalá při zvážení okolností, které jí musely být v jejím postavení zřejmé. To platí obdobně, pokud právní řád spojuje určitý následek s existencí pochybnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f0a18df7a201e48c78c6 -->
-
 ### § 5 — Profesionální standard péče
 
 > (1) Kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena. Jedná-li bez této odborné péče, jde to k jeho tíži.
@@ -1201,54 +993,6 @@ To má dopady na:
 **Typicky rozhodné důkazy / podklady:** smlouva o odborném plnění, profesní standardy a interní postupy, znalecký posudek k odborné péči, komunikace o rizicích, doklady o oprávnění.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4fe88ff7989cd6c8f9df generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 5
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Kdo se veřejně nebo ve styku s jinou osobou přihlásí k odbornému výkonu jako příslušník určitého povolání nebo stavu, dává tím najevo, že je schopen jednat se znalostí a pečlivostí, která je s jeho povoláním nebo stavem spojena. Jedná-li bez této odborné péče, jde to k jeho tíži.
->
-> (2) Proti vůli dotčené strany nelze zpochybnit povahu nebo platnost právního jednání jen proto, že jednal ten, kdo nemá ke své činnosti potřebné oprávnění, nebo komu je činnost zakázána.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4fe88ff7989cd6c8f9df -->
 
 ### § 6 — Poctivost v právním styku
 
@@ -1366,54 +1110,6 @@ NS aplikuje § 6 v řadě případů jako **korektiv formálního výkladu**. P�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=51f0cfdc43eb18a9a56a generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 6
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každý má povinnost jednat v právním styku poctivě.
->
-> (2) Nikdo nesmí těžit ze svého nepoctivého nebo protiprávního činu. Nikdo nesmí těžit ani z protiprávního stavu, který vyvolal nebo nad kterým má kontrolu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=51f0cfdc43eb18a9a56a -->
-
 ### § 7 — Domněnka dobré víry
 
 > Má se za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře.
@@ -1497,52 +1193,6 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 **Typicky rozhodné důkazy / podklady:** stav veřejného seznamu ke dni jednání, okolnosti a indicie známé nabyvateli, komunikace stran, případné poznámky spornosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=9b8b72420236e8839fab generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 7
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Má se za to, že ten, kdo jednal určitým způsobem, jednal poctivě a v dobré víře.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9b8b72420236e8839fab -->
 
 ### § 8 — Zákaz zneužití práva
 
@@ -1694,52 +1344,6 @@ Pojem **dobrá víra** (*bona fides*) v OZ není definován; lze vyjít z tradi�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=cc6598a90d7ba2e09143 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 8
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Zjevné zneužití práva nepožívá právní ochrany.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cc6598a90d7ba2e09143 -->
-
 ## Díl 2 — Užití předpisů občanského práva
 
 ### § 9 — Subsidiarita OZ a zvyklosti
@@ -1841,54 +1445,6 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Typicky rozhodné důkazy / podklady:** text a systematika zvláštního zákona, doklady o existenci a obsahu zvyklosti, ujednání odkazující na zvyklosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=14ee1ae36a3621955cb7 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 9
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Občanský zákoník upravuje osobní stav osob.
->
-> (2) Soukromá práva a povinnosti osobní a majetkové povahy se řídí občanským zákoníkem v tom rozsahu, v jakém je neupravují jiné právní předpisy. K zvyklostem lze hledět tehdy, dovolává-li se jich zákon.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=14ee1ae36a3621955cb7 -->
 
 ### § 10 — Analogie (zákona a iuris)
 
@@ -2033,54 +1589,6 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2ce3f254fc3253f4e548 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 10
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Nelze-li právní případ rozhodnout na základě výslovného ustanovení, posoudí se podle ustanovení, které se týká právního případu co do obsahu a účelu posuzovanému právnímu případu nejbližšího.
->
-> (2) Není-li takové ustanovení, posoudí se právní případ podle principů spravedlnosti a zásad, na nichž spočívá tento zákon, tak, aby se dospělo se zřetelem k zvyklostem soukromého života a s přihlédnutím k stavu právní nauky i ustálené rozhodovací praxi k dobrému uspořádání práv a povinností.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2ce3f254fc3253f4e548 -->
-
 ### § 11 — Subsidiarita obecných ustanovení o závazcích
 
 > Obecná ustanovení o vzniku, změně a zániku práv a povinností ze závazků v části čtvrté tohoto zákona se použijí přiměřeně i na vznik, změnu a zánik jiných soukromých práv a povinností.
@@ -2159,52 +1667,6 @@ Zvyklost se odlišuje od **obyčejového práva** (které OZ neuznává jako pra
 **Typicky rozhodné důkazy / podklady:** titul vzniku věcného (či jiného) práva, dokumentace ke změně/zániku, srovnatelné závazkové ustanovení a důvod jeho přiměřenosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=94a4244d76d69497f8e7 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 11
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Obecná ustanovení o vzniku, změně a zániku práv a povinností ze závazků v části čtvrté tohoto zákona se použijí přiměřeně i na vznik, změnu a zánik jiných soukromých práv a povinností.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=94a4244d76d69497f8e7 -->
 
 ## Díl 3 — Ochrana soukromých práv
 
@@ -2324,52 +1786,6 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 **Typicky rozhodné důkazy / podklady:** smlouva a vyúčtování/podklady sporu, právní úprava věcné pravomoci, případná rozhodčí smlouva, dosavadní podání u orgánů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=7e152e9d4068b3ccf0e9 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 12
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Každý, kdo se cítí ve svém právu zkrácen, může se domáhat ochrany u orgánu vykonávajícího veřejnou moc (dále jen „orgán veřejné moci“). Není-li v zákoně stanoveno něco jiného, je tímto orgánem veřejné moci soud.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7e152e9d4068b3ccf0e9 -->
 
 ### § 13 — Legitimní očekávání ohledně rozhodnutí (princip předvídatelnosti)
 
@@ -2538,52 +1954,6 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=891a642a06439022c564 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 13
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Každý, kdo se domáhá právní ochrany, může důvodně očekávat, že jeho právní případ bude rozhodnut obdobně jako jiný právní případ, který již byl rozhodnut a který se s jeho právním případem shoduje v podstatných znacích; byl-li právní případ rozhodnut jinak, má každý, kdo se domáhá právní ochrany, právo na přesvědčivé vysvětlení důvodu této odchylky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=891a642a06439022c564 -->
-
 ### § 14 — Svépomoc
 
 > (1) Každý si může přiměřeným způsobem pomoci k svému právu sám, je-li jeho právo ohroženo a je-li zřejmé, že by zásah veřejné moci přišel pozdě.
@@ -2683,54 +2053,6 @@ V těchto případech se rozhodnutí mimosoudního orgánu může přezkoumat v 
 **Typicky rozhodné důkazy / podklady:** doklady o ohroženém právu, časová osa a okolnosti zásahu, svědectví o přiměřenosti, doklad o následném obrácení se na orgán veřejné moci.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=bd6136b4e4c2f33cd2fd generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 14 — Svépomoc
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každý si může přiměřeným způsobem pomoci k svému právu sám, je-li jeho právo ohroženo a je-li zřejmé, že by zásah veřejné moci přišel pozdě.
->
-> (2) Hrozí-li neoprávněný zásah do práva bezprostředně, může jej každý, kdo je takto ohrožen, odvrátit úsilím a prostředky, které se osobě v jeho postavení musí jevit vzhledem k okolnostem jako přiměřené. Směřuje-li však svépomoc jen k zajištění práva, které by bylo jinak zmařeno, musí se ten, kdo k ní přikročil, obrátit bez zbytečného odkladu na příslušný orgán veřejné moci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bd6136b4e4c2f33cd2fd -->
 
 ## Shrnutí — význam Hlavy I
 

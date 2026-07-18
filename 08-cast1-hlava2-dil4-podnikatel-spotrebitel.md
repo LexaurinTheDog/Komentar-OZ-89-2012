@@ -179,52 +179,6 @@ Spotřebitelská povaha je relativní (per transakci) a posuzuje se objektivně 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=083fdec9c7dfbe5ff221 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 419
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Spotřebitelem je každý člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu svého povolání uzavírá smlouvu s podnikatelem nebo s ním jinak jedná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=083fdec9c7dfbe5ff221 -->
-
 ## Díl 5 — Podnikatel (§ 420—435)
 
 ### § 420 — Definice podnikatele
@@ -374,54 +328,6 @@ Podnikatelská povaha podle § 420 odst. 1 se posuzuje materiálně — podle fa
 
 **Typicky rozhodné důkazy / podklady:** historie inzerce a transakcí, bankovní výpisy o obratu a marži, evidence skladu/zboží, daňová přiznání, způsob navenek prezentované identifikace.
 
-
-<!-- LEGAL-REVISION:BEGIN id=b520f2043d69c2a60a00 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 420
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Kdo samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost živnostenským nebo obdobným způsobem se záměrem činit tak soustavně za účelem dosažení zisku, je považován se zřetelem k této činnosti za podnikatele.
->
-> (2) Pro účely ochrany spotřebitele a pro účely [[#§ 1963|§ 1963]] se za podnikatele považuje také každá osoba, která uzavírá smlouvy související s vlastní obchodní, výrobní nebo obdobnou činností či při samostatném výkonu svého povolání, popřípadě osoba, která jedná jménem nebo na účet podnikatele.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 1963
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b520f2043d69c2a60a00 -->
-
 ### § 421 — Domněnka podnikatele
 
 > (1) Za podnikatele se považuje osoba zapsaná v obchodním rejstříku. Za jakých podmínek se osoby zapisují do obchodního rejstříku, stanoví jiný zákon.
@@ -523,54 +429,6 @@ Zápis v obchodním rejstříku zakládá nevyvratitelnou domněnku podnikatele 
 
 **Typicky rozhodné důkazy / podklady:** výpis z OR (zápis, oddíl, vložka, předmět podnikání), výpis z živnostenského rejstříku, text sporné smlouvy, doklady o povaze a účelu plnění.
 
-
-<!-- LEGAL-REVISION:BEGIN id=f48d27c74795cbcdddf5 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 421
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Za podnikatele se považuje osoba zapsaná v obchodním rejstříku. Za jakých podmínek se osoby zapisují do obchodního rejstříku, stanoví jiný zákon.
->
-> (2) Má se za to, že podnikatelem je osoba, která má k podnikání živnostenské nebo jiné oprávnění podle jiného zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f48d27c74795cbcdddf5 -->
-
 ### § 422 — Jednání pod vlastním jménem
 
 > Podnikatel, který nemá obchodní firmu, právně jedná při svém podnikání pod vlastním jménem; připojí-li k němu dodatky charakterizující blíže jeho osobu nebo obchodní závod, nesmí být klamavé.
@@ -625,52 +483,6 @@ Podnikatel-FO bez obchodní firmy jedná pod vlastním jménem; dodatky jsou př
 - [ ] Lze se bránit z titulu nekalé soutěže (§ 2976 a násl.)?
 
 **Typicky rozhodné důkazy / podklady:** vizitky, web, hlavičkový papír a smlouvy, výpis z živnostenského rejstříku, doklady o skutečném rozsahu činnosti, případné doklady o záměně či klamání zákazníků.
-
-
-<!-- LEGAL-REVISION:BEGIN id=569cb68cc6b46d6e0af8 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 422
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Podnikatel, který nemá obchodní firmu, právně jedná při svém podnikání pod vlastním jménem; připojí-li k němu dodatky charakterizující blíže jeho osobu nebo obchodní závod, nesmí být klamavé.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=569cb68cc6b46d6e0af8 -->
 
 ### Obchodní firma (§ 423—428)
 
@@ -1584,54 +1396,6 @@ Zástupce nesmí bez souhlasu podnikatele konkurovat v oboru obchodního závodu
 
 **Typicky rozhodné důkazy / podklady:** text smlouvy (adhezní/formulářová povaha, sporné doložky), korespondence o (ne)možnosti měnit obsah, doklady o tržním a odborném postavení stran, doklad o oboru podnikání slabší strany, ekonomická analýza nerovnováhy plnění.
 
-
-<!-- LEGAL-REVISION:BEGIN id=193d52750cc9b756edd6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 433
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Kdo jako podnikatel vystupuje vůči dalším osobám v hospodářském styku, nesmí svou kvalitu odborníka ani své hospodářské postavení zneužít k vytváření nebo k využití závislosti slabší strany a k dosažení zřejmé a nedůvodné nerovnováhy ve vzájemných právech a povinnostech stran.
->
-> (2) Má se za to, že slabší stranou je vždy osoba, která vůči podnikateli v hospodářském styku vystupuje mimo souvislost s vlastním podnikáním.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=193d52750cc9b756edd6 -->
-
 ### § 434—435 — Provozovna a informační povinnosti
 
 **§ 434**:
@@ -1693,95 +1457,3 @@ Podnikatel musí na obchodních listinách a při dálkovém přístupu uvádět
 
 **Typicky rozhodné důkazy / podklady:** snímky webu a vzory obchodních listin/faktur, výpis z OR či jiné evidence (firma, sídlo, IČO, oddíl/vložka), fotodokumentace provozovny a vyznačené provozní doby, protokol o kontrole dozorového orgánu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=806d1648641012439c34 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 434
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Dá-li podnikatel veřejnosti najevo, ve kterém místě podniká, umožní veřejnosti vstupovat s ním v tomto místě do právního styku v určené provozní době; jinak v době obvyklé.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=806d1648641012439c34 -->
-
-<!-- LEGAL-REVISION:BEGIN id=91fce8201971dd350b49 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 435
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Každý podnikatel musí uvádět na obchodních listinách a v rámci informací zpřístupňovaných veřejnosti prostřednictvím dálkového přístupu své jméno a sídlo. Podnikatel zapsaný v obchodním rejstříku uvede na obchodní listině též údaj o tomto zápisu včetně oddílu a vložky; podnikatel zapsaný v jiném veřejném rejstříku uvede údaj o svém zápisu do tohoto rejstříku; podnikatel nezapsaný ve veřejném rejstříku uvede údaj o svém zápisu do jiné evidence. Byl-li podnikateli přidělen identifikující údaj, uvede i ten.
->
-> (2) Na listině podle odstavce 1 lze uvést i další údaje, nejsou-li způsobilé vyvolat klamavý dojem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=91fce8201971dd350b49 -->

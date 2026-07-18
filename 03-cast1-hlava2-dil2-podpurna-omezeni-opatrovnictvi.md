@@ -151,52 +151,6 @@ Předběžné prohlášení je nástroj proautonomního plánování pro přípa
 
 **Typicky rozhodné důkazy / podklady:** listina předběžného prohlášení (event. dotaz na neveřejný seznam Notářské komory), lékařské zprávy o vývoji a počátku poruchy, výslechy blízkých osob, doklady o vztazích v rodině.
 
-
-<!-- LEGAL-REVISION:BEGIN id=6a9d4d098693a9a08bda generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 38
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> V očekávání vlastní nezpůsobilosti právně jednat může člověk projevit vůli, aby byly jeho záležitosti spravovány určitým způsobem, nebo aby je spravovala určitá osoba, nebo aby se určitá osoba stala jeho opatrovníkem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6a9d4d098693a9a08bda -->
-
 ### § 39 — Forma předběžného prohlášení
 
 > (1) Nemá-li prohlášení formu veřejné listiny, musí být učiněno soukromou listinou opatřenou datem a potvrzenou dvěma svědky; svědek o sobě uvede v potvrzení údaje, podle nichž ho lze zjistit.
@@ -275,56 +229,6 @@ Forma předběžného prohlášení je buď veřejná listina (notářský zápi
 
 **Typicky rozhodné důkazy / podklady:** samotná listina prohlášení, identifikační údaje a výslechy svědků, notářský spis a záznam v neveřejném seznamu, znalecké posouzení pravosti podpisu při sporu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=86535faa99b2888fba50 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 39
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Nemá-li prohlášení formu veřejné listiny, musí být učiněno soukromou listinou opatřenou datem a potvrzenou dvěma svědky; svědek o sobě uvede v potvrzení údaje, podle nichž ho lze zjistit.
->
-> (2) Svědky mohou být jen osoby, které na prohlášení a jeho obsahu nemají zájem a nejsou nevidomé, neslyšící, němé nebo neznalé jazyka, v němž je prohlášení učiněno. Svědci musí prohlášení podepsat a být schopni potvrdit schopnost prohlašujícího jednat a obsah jeho prohlášení.
->
-> (3) Je-li obsahem prohlášení pořízeného veřejnou listinou určení, kdo se má stát opatrovníkem, ten, kdo veřejnou listinu sepsal, zapíše údaje o tom, kdo prohlášení pořídil, kdo je povolán za opatrovníka a kdo veřejnou listinu sepsal, do neveřejného seznamu vedeného podle jiného zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=86535faa99b2888fba50 -->
-
 ### § 40 — Zvláštní úprava pro osoby s postižením
 
 > (1) Činí-li prohlášení nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, musí jí být prohlášení nahlas přečteno svědkem, který prohlášení nepsal. Nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, před svědky potvrdí, že listina obsahuje jeho pravou vůli.
@@ -381,54 +285,6 @@ Ustanovení zajišťuje přístupnost institutu předběžného prohlášení os
 - [ ] Ovládají u odst. 2 všichni svědci zvolený způsob dorozumívání?
 
 **Typicky rozhodné důkazy / podklady:** listina prohlášení, identifikace a výslechy svědků, doklad o zvoleném způsobu dorozumívání, případně notářský zápis.
-
-
-<!-- LEGAL-REVISION:BEGIN id=9e711deca30bc3843b6c generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 40
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Činí-li prohlášení nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, musí jí být prohlášení nahlas přečteno svědkem, který prohlášení nepsal. Nevidomý, nebo osoba, která neumí nebo nemůže číst nebo psát, před svědky potvrdí, že listina obsahuje jeho pravou vůli.
->
-> (2) Činí-li prohlášení osoba se smyslovým postižením, která nemůže číst nebo psát, musí jí být obsah listiny tlumočen takovým způsobem dorozumívání, který si zvolila, a to svědkem, který prohlášení nepsal; všichni svědci musí ovládat způsob dorozumívání, kterým je obsah listiny tlumočen. Kdo prohlášení činí, potvrdí před svědky zvoleným způsobem dorozumívání, že listina obsahuje jeho pravou vůli.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9e711deca30bc3843b6c -->
 
 ### § 41—44 — Odvolání, podmínky, změna okolností, neplatnost
 
@@ -527,192 +383,6 @@ Předběžné prohlášení lze odvolat (svéprávnou osobou) nebo soudně změn
 **Typicky rozhodné důkazy / podklady:** listina prohlášení a případného odvolání, doklady o změně okolností (konflikt, ekonomické podklady, úmrtí povolané osoby), vyjádření opatrovance, lékařské zprávy o stavu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ef64d2691940783592fa generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 41
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) K výslovnému odvolání prohlášení se vyžaduje projev vůle učiněný ve formě předepsané v § 39 odst. 1.
->
-> (2) Zničí-li listinu obsahující prohlášení ten, kdo je učinil, má to účinky odvolání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 39
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef64d2691940783592fa -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=c0baf4702b74e2174fa3 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 42
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Týká-li se prohlášení jiné záležitosti než povolání opatrovníka a je-li účinnost prohlášení vázána na podmínku, rozhodne o splnění podmínky soud.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c0baf4702b74e2174fa3 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=1437dd41b142e43bce7f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 43
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Změní-li se okolnosti zjevně tak podstatným způsobem, že člověk, který prohlášení učinil, by je za takových okolností neučinil nebo by je učinil s jiným obsahem, soud prohlášení změní nebo zruší, pokud by jinak člověku, který prohlášení učinil, hrozila závažná újma. Před vydáním rozhodnutí soud vyvine potřebné úsilí, aby zjistil názor člověka, o jehož prohlášení rozhoduje, a to i za použití takového způsobu dorozumívání, který si člověk zvolí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1437dd41b142e43bce7f -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=9b1c4005f023dc84adc2 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 44
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Je-li prohlášení nebo jeho odvolání neplatné, soud k nim přihlédne, není-li příčiny pochybovat o vůli toho, kdo je učinil.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9b1c4005f023dc84adc2 -->
 
 ## Oddíl 2B — Nápomoc při rozhodování (§ 45—48)
 
@@ -821,52 +491,6 @@ Smlouva o nápomoci je nejmírnějším podpůrným opatřením pro osoby, jimž
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy o povaze a dopadu duševní poruchy, návrh/text smlouvy o nápomoci, vyjádření podporovaného a podpůrce, posouzení slučitelnosti jejich zájmů.
 
-
-<!-- LEGAL-REVISION:BEGIN id=58ce51d8c1cda6828a3b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 45
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Potřebuje-li člověk nápomoc při rozhodování, protože mu v tom duševní porucha působí obtíže, třebaže nemusí být omezen ve svéprávnosti, může si s podpůrcem ujednat poskytování podpory; podpůrců může být i více.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=58ce51d8c1cda6828a3b -->
-
 ### § 46 — Obsah smlouvy
 
 > (1) Smlouvou o nápomoci se podpůrce zavazuje podporovanému, že bude s jeho souhlasem přítomen při jeho právních jednáních, že mu zajistí potřebné údaje a sdělení a že mu bude nápomocen radami.
@@ -931,54 +555,6 @@ Smlouva o nápomoci musí mít zákonný obsah (přítomnost, informace, rady) a
 
 **Typicky rozhodné důkazy / podklady:** text smlouvy, doklady o majetkových a smluvních vztazích mezi stranami, vyjádření obou stran, lékařský podklad o stavu podporovaného.
 
-
-<!-- LEGAL-REVISION:BEGIN id=1d399b854471e2790292 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 46
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Smlouvou o nápomoci se podpůrce zavazuje podporovanému, že bude s jeho souhlasem přítomen při jeho právních jednáních, že mu zajistí potřebné údaje a sdělení a že mu bude nápomocen radami.
->
-> (2) Smlouva nabývá účinnosti dnem, kdy ji schválí soud. Není-li smlouva uzavřena v písemné formě, vyžaduje se, aby strany projevily vůli uzavřít smlouvu před soudem. Soud smlouvu neschválí, odporují-li zájmy podpůrce zájmům podporovaného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1d399b854471e2790292 -->
-
 ### § 47 — Povinnosti podpůrce
 
 > (1) Podpůrce nesmí ohrozit zájmy podporovaného nevhodným ovlivňováním, ani se na úkor podporovaného bezdůvodně obohatit.
@@ -1035,54 +611,6 @@ Podpůrce nesmí podporovaného nevhodně ovlivňovat ani se na jeho úkor oboha
 
 **Typicky rozhodné důkazy / podklady:** napadená smlouva, srovnání ceny s obvyklou, svědectví o průběhu jednání, lékařský podklad o stavu podporovaného, doklad o lhůtách pro odstoupení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=7f43ee3f0b9bfe2293a0 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 47
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Podpůrce nesmí ohrozit zájmy podporovaného nevhodným ovlivňováním, ani se na úkor podporovaného bezdůvodně obohatit.
->
-> (2) Podpůrce postupuje při plnění svých povinností v souladu s rozhodnutími podporovaného. Pokud podporovaný právně jedná v písemné formě, může podpůrce připojit svůj podpis s uvedením své funkce, popřípadě i s údajem o podpoře, kterou podporovanému poskytl; podpůrce má i právo namítat neplatnost právního jednání podporovaného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7f43ee3f0b9bfe2293a0 -->
-
 ### § 48 — Odvolání podpůrce
 
 > Na návrh podporovaného nebo podpůrce soud podpůrce odvolá; soud ho odvolá i v případě, že podpůrce závažně poruší své povinnosti, a to i bez návrhu.
@@ -1138,52 +666,6 @@ Podpůrce lze odvolat na návrh podporovaného či podpůrce kdykoli, a při zá
 **Typicky rozhodné důkazy / podklady:** návrh na odvolání, doklady o porušení povinností (korespondence, doklady o prospěchu podpůrce, svědectví), vyjádření podporovaného, podněty sociálního orgánu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=576ad62d3688cf7c9c77 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 48
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Na návrh podporovaného nebo podpůrce soud podpůrce odvolá; soud ho odvolá i v případě, že podpůrce závažně poruší své povinnosti, a to i bez návrhu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=576ad62d3688cf7c9c77 -->
 
 ## Oddíl 2C — Zastoupení členem domácnosti (§ 49—54)
 
@@ -1281,54 +763,6 @@ Zastoupení členem domácnosti je opatření mezi nápomocí a opatrovnictvím;
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy o duševní poruše, doklady o příbuzenství či tříletém soužití, záznam o poučení a reakci zastoupeného, vyjádření blízkých osob.
 
-
-<!-- LEGAL-REVISION:BEGIN id=91ffd242ae9b4ff5d5c0 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 49
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Brání-li duševní porucha zletilému, který nemá jiného zástupce, samostatně právně jednat, může ho zastupovat jeho potomek, předek, sourozenec, manžel nebo partner, nebo osoba, která se zastoupeným žila před vznikem zastoupení ve společné domácnosti alespoň tři roky.
->
-> (2) Zástupce dá zastoupenému na vědomí, že ho bude zastupovat, a srozumitelně mu vysvětlí povahu a následky zastoupení. Odmítne-li to člověk, který má být zastoupen, zastoupení nevznikne; k odmítnutí postačí schopnost projevit přání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=91ffd242ae9b4ff5d5c0 -->
-
 ### § 50 — Schválení soudem
 
 > Ke vzniku zastoupení se vyžaduje schválení soudu. Před vydáním rozhodnutí soud vyvine potřebné úsilí, aby zjistil názor zastoupeného, a to i za použití takového způsobu dorozumívání, který si zastoupený zvolí.
@@ -1385,52 +819,6 @@ Zastoupení členem domácnosti vzniká až konstitutivním schválením soudu, 
 - [ ] Odpovídá zastoupení zájmům zastoupeného?
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy, popis komunikačního systému zastoupeného, vyjádření osoby znalé komunikace, protokol o pokusu soudu zjistit názor zastoupeného.
-
-
-<!-- LEGAL-REVISION:BEGIN id=c4cc9de4c6fc214a0793 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 50
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Ke vzniku zastoupení se vyžaduje schválení soudu. Před vydáním rozhodnutí soud vyvine potřebné úsilí, aby zjistil názor zastoupeného, a to i za použití takového způsobu dorozumívání, který si zastoupený zvolí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c4cc9de4c6fc214a0793 -->
 
 ### § 51 — Povinnosti zástupce
 
@@ -1507,52 +895,6 @@ Zástupce nese standard péče blízký opatrovníkovi: chrání zájmy a práva
 
 **Typicky rozhodné důkazy / podklady:** doklady o dosavadním způsobu života a zvyklostech zastoupeného, jeho majetkové poměry, svědectví o přáních, vyjádření blízkých osob a sociálního orgánu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=09cf1c967a06d89662f1 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 51
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Zástupce dbá o ochranu zájmů zastoupeného a naplňování jeho práv i o to, aby způsob jeho života nebyl v rozporu s jeho schopnostmi a aby, nelze-li tomu rozumně odporovat, odpovídal i zvláštním představám a přáním zastoupeného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=09cf1c967a06d89662f1 -->
-
 ### § 52 — Rozsah zastoupení
 
 > (1) Zastoupení se vztahuje na obvyklé záležitosti, jak to odpovídá životním poměrům zastoupeného. Zástupce však není oprávněn udělit souhlas k zásahu do duševní nebo tělesné integrity člověka s trvalými následky.
@@ -1622,54 +964,6 @@ Zastoupení členem domácnosti pokrývá jen obvyklé záležitosti; u prostře
 
 **Typicky rozhodné důkazy / podklady:** doklad o zůstatku a pohybech na účtu, doklady o běžných výdajích a poměrech zastoupeného, aktuální výše životního minima jednotlivce, popis zamýšleného úkonu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=4b0247498968a902dc67 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 52
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zastoupení se vztahuje na obvyklé záležitosti, jak to odpovídá životním poměrům zastoupeného. Zástupce však není oprávněn udělit souhlas k zásahu do duševní nebo tělesné integrity člověka s trvalými následky.
->
-> (2) Zástupce může nakládat s příjmy zastoupeného v rozsahu potřebném pro obstarání obvyklých záležitostí, jak to odpovídá životním poměrům zastoupeného; s peněžními prostředky na účtu zastoupeného však může nakládat jen v rozsahu nepřesahujícím měsíčně výši životního minima jednotlivce podle jiného právního předpisu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4b0247498968a902dc67 -->
-
 ### § 53—54 — Pluralita zástupců, zánik zastoupení
 
 **§ 53**:
@@ -1735,100 +1029,6 @@ Při více zástupcích postačí jednání jednoho; rozporné společné projev
 **Typicky rozhodné důkazy / podklady:** doklady o jednotlivých projevech zástupců, smlouva o nápomoci a rozhodnutí o jejím schválení, posouzení rozsahu způsobilosti zastoupeného, případné rozhodnutí o jmenování opatrovníka.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=9aa6d57f4f6541cb8673 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 53
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Má-li zastoupený více zástupců, postačí, pokud jedná jeden z nich. Jedná-li však vůči další osobě více zástupců společně a odporují-li si, nepřihlíží se k projevu žádného z nich.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9aa6d57f4f6541cb8673 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=0a87811fa49d9a22d4dc generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 54
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Zastoupení zaniká, pokud se jej zástupce vzdá nebo pokud zastoupený odmítne, aby ho zástupce dále zastupoval; k odmítnutí postačí schopnost projevit přání. Zastoupení rovněž zaniká, pokud soud jmenuje zastoupenému opatrovníka.
->
-> (2) Je-li uzavřena smlouva o nápomoci při rozhodování, zanikne zastoupení účinností smlouvy v rozsahu, v jakém je zastoupený způsobilý právně jednat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0a87811fa49d9a22d4dc -->
 
 ## Oddíl 2D — Omezení svéprávnosti (§ 55—65)
 
@@ -1995,54 +1195,6 @@ Omezení svéprávnosti je *ultima ratio*: přípustné jen v zájmu člověka, 
 
 **Typicky rozhodné důkazy / podklady:** znalecký psychiatrický posudek o povaze, trvalosti a dopadu poruchy, zprávy sociální služby, doklady o hrozící újmě (rizikové smlouvy), protokol o zhlédnutí posuzovaného.
 
-
-<!-- LEGAL-REVISION:BEGIN id=6a7e230d8cb7c2c8b36e generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 55
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) K omezení svéprávnosti lze přistoupit jen v zájmu člověka, jehož se to týká, po jeho zhlédnutí a s plným uznáváním jeho práv a jeho osobní jedinečnosti. Přitom musí být důkladně vzaty v úvahu rozsah i stupeň neschopnosti člověka postarat se o vlastní záležitosti.
->
-> (2) Omezit svéprávnost člověka lze jen tehdy, hrozila-li by mu jinak závažná újma a nepostačí-li vzhledem k jeho zájmům mírnější a méně omezující opatření.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6a7e230d8cb7c2c8b36e -->
-
 ### § 56 — Pravomoc soudu
 
 > (1) Omezit svéprávnost člověka může jen soud.
@@ -2106,54 +1258,6 @@ Svéprávnost může omezit pouze soud; žádný správní orgán, lékař ani p
 - [ ] Není „omezení" ve skutečnosti neúčinným interním aktem zařízení?
 
 **Typicky rozhodné důkazy / podklady:** soudní spis řízení o svéprávnosti, znalecký posudek, protokol o zhlédnutí a o zjištění názoru, popis komunikačního systému posuzovaného, případné neúčinné akty třetích subjektů.
-
-
-<!-- LEGAL-REVISION:BEGIN id=4f3a5e49a45b25b219d3 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 56
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Omezit svéprávnost člověka může jen soud.
->
-> (2) Soud vyvine potřebné úsilí, aby zjistil názor člověka, o jehož svéprávnosti rozhoduje, a to i za použití takového způsobu dorozumívání, který si člověk zvolí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4f3a5e49a45b25b219d3 -->
 
 ### § 57 — Rozsah omezení
 
@@ -2233,54 +1337,6 @@ Omezení svéprávnosti předpokládá trvalou (nikoli přechodnou) duševní po
 
 **Typicky rozhodné důkazy / podklady:** znalecký psychiatrický posudek (trvalost a dopad poruchy), neurologické/logopedické zprávy, popis komunikačního systému a podpory, doklady o konkrétních záležitostech, v nichž má být svéprávnost omezena.
 
-
-<!-- LEGAL-REVISION:BEGIN id=6900a1be0db7ae8f8bc6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 57
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil.
->
-> (2) Má-li člověk obtíže dorozumívat se, není to samo o sobě důvodem k omezení svéprávnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6900a1be0db7ae8f8bc6 -->
-
 ### § 58 — Předběžné svěření jednání
 
 > Soud může v průběhu řízení o omezení svéprávnosti svěřit třetí osobě provedení určitých jednotlivých právních jednání nebo správu majetku, je-li to nutné, aby se zabránilo závažné újmě.
@@ -2333,52 +1389,6 @@ Ustanovení dává soudu nástroj dočasné ochrany během řízení o svépráv
 - [ ] Nepřesahuje opatření rámec nutný k odvrácení újmy a dobu do rozhodnutí ve věci?
 
 **Typicky rozhodné důkazy / podklady:** doklady o hrozící újmě (běžící lhůty, splatné závazky), předběžné lékařské zprávy o stavu posuzovaného, návrh na svěření s přesným vymezením jednání, podklady o majetku, jehož se správa týká.
-
-
-<!-- LEGAL-REVISION:BEGIN id=b303ea2a4fd7edd6474c generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 58
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Soud může v průběhu řízení o omezení svéprávnosti svěřit třetí osobě provedení určitých jednotlivých právních jednání nebo správu majetku, je-li to nutné, aby se zabránilo závažné újmě.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b303ea2a4fd7edd6474c -->
 
 ### § 59 — Časové omezení
 
@@ -2463,54 +1473,6 @@ Omezení svéprávnosti je vždy časově ohraničené (zpravidla 3 roky, výjim
 
 **Typicky rozhodné důkazy / podklady:** rozsudek o omezení s vyznačením doby a její právní moci, doklad o dni zahájení řízení o prodloužení, datum nového rozhodnutí, zprávy o vývoji stavu opatrovance.
 
-
-<!-- LEGAL-REVISION:BEGIN id=770e0e666abba71417e6 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 59
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Soud může svéprávnost omezit v souvislosti s určitou záležitostí na dobu nutnou pro její vyřízení, nebo na jinak určenou určitou dobu, nejdéle však na tři roky. Je-li zjevné, že se stav člověka v této době nezlepší, může soud svéprávnost omezit na dobu delší, nejdéle však na pět let.
->
-> (2) Uplynutím doby omezení svéprávnosti právní účinky omezení zanikají. Zahájí-li se však v této době řízení o prodloužení doby omezení, trvají právní účinky původního rozhodnutí až do nového rozhodnutí, nejdéle však jeden rok.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=770e0e666abba71417e6 -->
-
 ### § 60 — Změna nebo zrušení i bez návrhu
 
 > Změní-li se okolnosti, soud své rozhodnutí bezodkladně změní nebo zruší, a to i bez návrhu.
@@ -2571,52 +1533,6 @@ Soud má trvalou povinnost sledovat poměry a při jejich podstatné změně bez
 - [ ] Odpovídá nově ponechaný rozsah omezení skutečné potřebě (§ 55, § 57)?
 
 **Typicky rozhodné důkazy / podklady:** aktuální psychiatrický posudek a lékařské zprávy o vývoji stavu, výroční zprávy opatrovníka, dosavadní rozsudek o omezení, podněty blízkých osob či sociálního orgánu.
-
-
-<!-- LEGAL-REVISION:BEGIN id=e8d33c031908add7fd32 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 60
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Změní-li se okolnosti, soud své rozhodnutí bezodkladně změní nebo zruší, a to i bez návrhu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e8d33c031908add7fd32 -->
 
 ### § 61—63 — Opatrovník
 
@@ -2707,144 +1623,6 @@ Opatrovníka jmenuje soud s respektem k přáním opatrovance a podnětům blíz
 
 **Typicky rozhodné důkazy / podklady:** vyjádření opatrovance o přání, souhlas a doklad o způsobilosti navrženého opatrovníka, doklady o vztahu k zařízení a o případném konfliktu zájmů, stanoviska blízkých osob, případné předběžné prohlášení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=f1be2aaab6e3875523c7 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 61
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Rozhoduje-li soud o omezení svéprávnosti člověka, může osoba jím povolaná za opatrovníka navrhnout, aby byla opatrovníkem jmenována; pokud návrh nepodá, zjistí soud její stanovisko. Je-li tato osoba způsobilá k opatrovnictví, soud ji s jejím souhlasem opatrovníkem jmenuje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f1be2aaab6e3875523c7 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=5756bf56ef43afeacaf5 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 62
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> V rozhodnutí o omezení svéprávnosti jmenuje soud člověku opatrovníka. Při výběru opatrovníka přihlédne soud k přáním opatrovance, k jeho potřebě i k podnětům osob opatrovanci blízkých, sledují-li jeho prospěch, a dbá, aby výběrem opatrovníka nezaložil nedůvěru opatrovance k opatrovníkovi.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5756bf56ef43afeacaf5 -->
-
-
-<!-- LEGAL-REVISION:BEGIN id=a4a7902aaa1b0b97fb31 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 63
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Opatrovníkem nelze jmenovat osobu nezpůsobilou právně jednat nebo osobu, jejíž zájmy jsou v rozporu se zájmy opatrovance, ani provozovatele zařízení, kde opatrovanec pobývá nebo které mu poskytuje služby, nebo osobu závislou na takovém zařízení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a4a7902aaa1b0b97fb31 -->
-
 ### § 64 — Běžné záležitosti každodenního života
 
 > Rozhodnutí o omezení svéprávnosti nezbavuje člověka práva samostatně právně jednat v běžných záležitostech každodenního života.
@@ -2913,52 +1691,6 @@ Omezení svéprávnosti nikdy nezbavuje člověka práva jednat v běžných zá
 - [ ] Odpovídá výdaj poměrům osoby?
 
 **Typicky rozhodné důkazy / podklady:** rozsudek o omezení s vymezením rozsahu, doklady o povaze a ceně jednání (běžné vs. mimořádné), poměry opatrovance, případné srovnání s obvyklou cenou.
-
-
-<!-- LEGAL-REVISION:BEGIN id=5a8ad684c07180bceb25 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 64
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Rozhodnutí o omezení svéprávnosti nezbavuje člověka práva samostatně právně jednat v běžných záležitostech každodenního života.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5a8ad684c07180bceb25 -->
 
 ### § 65 — Důsledky jednání mimo rozsah
 
@@ -3051,54 +1783,6 @@ Jednání opatrovance mimo rozsah svéprávnosti je neplatné jen, působí-li m
 **Typicky rozhodné důkazy / podklady:** napadená smlouva, znalecký posudek o obvyklé ceně a vyčíslení újmy, rozsudek o omezení s rozsahem, stanovisko opatrovníka, doklady o dobré víře protistrany.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=816be483c4dcd51cec8c generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 65
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Jednal-li opatrovanec samostatně, ač nemohl jednat bez opatrovníka, lze jeho právní jednání prohlásit za neplatné, jen působí-li mu újmu. Postačí-li však k nápravě jen změna rozsahu opatrovancových povinností, soud tak učiní, aniž je vázán návrhy stran.
->
-> (2) Jednal-li opatrovanec samostatně, ač nemohl jednat bez opatrovníka, považuje se opatrovancovo jednání za platné, pokud je opatrovník schválil. To platí i v případě, že takové právní jednání schválil jednající sám poté, co nabyl svéprávnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=816be483c4dcd51cec8c -->
 
 ## Oddíl 3 — Nezvěstnost (§ 66—70)
 
@@ -3207,54 +1891,6 @@ Za nezvěstného lze prohlásit svéprávného člověka, který opustil bydliš
 
 **Typicky rozhodné důkazy / podklady:** doklady o opuštění bydliště a délce nezvěsti, výsledky pátrání policie a šetření rodiny, doklad o právním zájmu navrhovatele (spoluvlastnictví, pracovní poměr, účast v korporaci).
 
-
-<!-- LEGAL-REVISION:BEGIN id=0567f63887949aef4676 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 66
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Za nezvěstného může soud prohlásit svéprávného člověka, který opustil své bydliště, nepodal o sobě zprávu a není o něm známo, kde se zdržuje. Soud uvede v rozhodnutí den, kdy nastaly účinky prohlášení nezvěstnosti.
->
-> (2) Prohlášení za nezvěstného se může stát na návrh osoby, která na tom má právní zájem, zejména manžela nebo jiné blízké osoby, spoluvlastníka, zaměstnavatele nebo korporace, na níž má tento člověk účast.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0567f63887949aef4676 -->
-
 ### § 67 — Účinky prohlášení
 
 > (1) Při posuzování jednání, k nimž je jinak potřebné udělení souhlasu, přivolení, odevzdání hlasu nebo jiného konání osoby prohlášené za nezvěstnou, se k této potřebnosti nepřihlíží; to však neplatí, jedná-li se o záležitost jeho osobního stavu. Kdo jedná, dotýkaje se záležitosti nezvěstného, musí tak činit i s přihlédnutím k jeho zájmům.
@@ -3315,54 +1951,6 @@ Prohlášením za nezvěstného odpadá potřebnost souhlasu/hlasu nezvěstného
 
 **Typicky rozhodné důkazy / podklady:** napadené jednání (smlouva, usnesení), data opuštění bydliště, podání návrhu a účinků prohlášení, doklady o prospěšnosti jednání pro nezvěstného.
 
-
-<!-- LEGAL-REVISION:BEGIN id=ebefebee77cf78f86b99 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 67
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Při posuzování jednání, k nimž je jinak potřebné udělení souhlasu, přivolení, odevzdání hlasu nebo jiného konání osoby prohlášené za nezvěstnou, se k této potřebnosti nepřihlíží; to však neplatí, jedná-li se o záležitost jeho osobního stavu. Kdo jedná, dotýkaje se záležitosti nezvěstného, musí tak činit i s přihlédnutím k jeho zájmům.
->
-> (2) Na právní jednání, k němuž došlo bez souhlasu nebo jiného nezbytného projevu vůle nezvěstného poté, co opustil své bydliště, avšak dříve, než byl za nezvěstného prohlášen, přestože toto prohlášení bylo bez zbytečného odkladu navrženo, se hledí jako na jednání učiněné s odkládací podmínkou vydání rozhodnutí, jímž byl prohlášen za nezvěstného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ebefebee77cf78f86b99 -->
-
 ### § 68 — Zánik účinků
 
 > Navrátí-li se člověk prohlášený za nezvěstného nebo jmenuje-li správce svého jmění, pozbývá prohlášení za nezvěstného účinků. Prohlášení pozbývá účinků i dnem, který platí za den smrti nezvěstného.
@@ -3416,52 +2004,6 @@ Tři způsoby zániku účinků prohlášení:
 
 **Typicky rozhodné důkazy / podklady:** doklad o návratu nebo o jmenování správce jmění, rozhodnutí o prohlášení za nezvěstného a o případném prohlášení za mrtvého, doklady o čase relevantních událostí.
 
-
-<!-- LEGAL-REVISION:BEGIN id=caf3662d42ee2902b7a7 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 68
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Navrátí-li se člověk prohlášený za nezvěstného nebo jmenuje-li správce svého jmění, pozbývá prohlášení za nezvěstného účinků. Prohlášení pozbývá účinků i dnem, který platí za den smrti nezvěstného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=caf3662d42ee2902b7a7 -->
-
 ### § 69 — Vyloučení námitky neplatnosti
 
 > Kdo byl prohlášen za nezvěstného, nemůže namítat neplatnost nebo neúčinnost právního jednání učiněného za jeho nepřítomnosti, k němuž došlo za účinků takového prohlášení, pro to, že se při nich projev jeho vůle nevyžadoval.
@@ -3507,52 +2049,6 @@ Vrátivší se nezvěstný nemůže napadat jednání učiněná za jeho nepří
 - [ ] Bylo jednání činěno s přihlédnutím k zájmům nezvěstného (§ 67 odst. 1)?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení za nezvěstného a době jeho účinků, napadené jednání a datum jeho učinění, doklady o dobré víře a o respektování zájmů nezvěstného.
-
-
-<!-- LEGAL-REVISION:BEGIN id=c41de1c1ce861d758d74 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 69
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Kdo byl prohlášen za nezvěstného, nemůže namítat neplatnost nebo neúčinnost právního jednání učiněného za jeho nepřítomnosti, k němuž došlo za účinků takového prohlášení, pro to, že se při nich projev jeho vůle nevyžadoval.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c41de1c1ce861d758d74 -->
 
 ### § 70 — Vztah ke správci jmění
 
@@ -3613,52 +2109,6 @@ Dříve ustavený správce majetku jedná i po prohlášení nezvěstného dál 
 **Typicky rozhodné důkazy / podklady:** plná moc nebo smlouva o správě, doklady o činnosti (či nečinnosti) správce, rozhodnutí o prohlášení za nezvěstného, doklady o stavu spravovaného majetku.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=af97b9c04c7a7511c5a4 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 70
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Bude-li za nezvěstného prohlášen ten, kdo ustavil správce svého majetku, nejsou tím dotčena práva a povinnosti ustaveného správce. To neplatí, jestliže správce není znám, odmítne jednat v zájmu nezvěstného, svá jednání v zájmu nezvěstného zanedbává, nebo jednat vůbec nemůže.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=af97b9c04c7a7511c5a4 -->
 
 ## Oddíl 4 — Domněnka smrti (prohlášení za mrtvého) (§ 71—76)
 
@@ -3756,54 +2206,6 @@ Za mrtvého lze prohlásit člověka, o němž lze důvodně mít za to, že zem
 
 **Typicky rozhodné důkazy / podklady:** zprávy o záchranné akci, meteorologické a místní podklady, doklady o posledním kontaktu a výbavě, svědectví, vyloučení alternativních vysvětlení zmizení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=29a7ae978e9b2b333375 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 71
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Na návrh osoby, která na tom má právní zájem, prohlásí soud za mrtvého člověka, o němž lze mít důvodně za to, že zemřel, a určí den, který se pokládá za den jeho smrti.
->
-> (2) Na člověka, který byl prohlášen za mrtvého, se hledí, jako by zemřel. Prohlášením manžela za mrtvého zaniká manželství dnem, který se pokládá za den jeho smrti; totéž platí o registrovaném partnerství.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=29a7ae978e9b2b333375 -->
-
 ### § 72 — Domněnka po prohlášení za nezvěstného
 
 > Byl-li člověk prohlášen za nezvěstného a vyplývají-li z okolností vážné pochybnosti, zda je ještě živ, ačkoli jeho smrt není nepochybná, může ho soud prohlásit za mrtvého na návrh osoby, která na tom má právní zájem, a určí den, který nezvěstný zřejmě nepřežil. Má se za to, že tento den je dnem smrti nezvěstného.
@@ -3857,52 +2259,6 @@ Nezvěstného lze prohlásit za mrtvého i před uplynutím pětileté lhůty, p
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení za nezvěstného, svědectví a zprávy o události ohrožující život (povodeň, nehoda), doklad o pátrání a nenalezení těla, podklady k určení dne, který nezvěstný zřejmě nepřežil.
 
-
-<!-- LEGAL-REVISION:BEGIN id=b49172d9df14482c500f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 72
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Byl-li člověk prohlášen za nezvěstného a vyplývají-li z okolností vážné pochybnosti, zda je ještě živ, ačkoli jeho smrt není nepochybná, může ho soud prohlásit za mrtvého na návrh osoby, která na tom má právní zájem, a určí den, který nezvěstný zřejmě nepřežil. Má se za to, že tento den je dnem smrti nezvěstného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b49172d9df14482c500f -->
-
 ### § 73 — Lhůta po prohlášení za nezvěstného
 
 > Člověka, který byl prohlášen za nezvěstného, lze prohlásit za mrtvého nejdříve po uplynutí pěti let počítaných od konce roku, v němž došlo k prohlášení za nezvěstného. Nelze to však učinit, objeví-li se v průběhu této doby zpráva, z níž lze soudit, že nezvěstný je dosud naživu. V takovém případě se postupuje podle § 74 nebo 75.
@@ -3948,52 +2304,6 @@ Nezvěstného lze prohlásit za mrtvého i před uplynutím pětileté lhůty, p
 - [ ] Je den smrti určen jako vyvratitelná domněnka (§ 76)?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení za nezvěstného s datem, doklady o případných zprávách o životě nezvěstného, podklady k běhu a počítání lhůty.
-
-
-<!-- LEGAL-REVISION:BEGIN id=275cb164e949c884b42d generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 73
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Člověka, který byl prohlášen za nezvěstného, lze prohlásit za mrtvého nejdříve po uplynutí pěti let počítaných od konce roku, v němž došlo k prohlášení za nezvěstného. Nelze to však učinit, objeví-li se v průběhu této doby zpráva, z níž lze soudit, že nezvěstný je dosud naživu. V takovém případě se postupuje podle [[#§ 74|§ 74]] nebo [[#§ 75|75]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 74, § 75
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=275cb164e949c884b42d -->
 
 ### § 74 — Lhůty bez předchozího prohlášení za nezvěstného
 
@@ -4051,54 +2361,6 @@ Nezvěstného bez předchozího prohlášení za nezvěstného lze prohlásit za
 
 **Typicky rozhodné důkazy / podklady:** doklad o poslední zprávě o životě (poslední kontakt, aktivita), rodný list (u nezletilého), doklady o pátrání, podklady k běhu a počítání lhůt.
 
-
-<!-- LEGAL-REVISION:BEGIN id=de0dde854cdf913f8ffe generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 74
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Člověka, který se stal nezvěstný tím, že opustil své bydliště, nepodal o sobě zprávu a není o něm známo, kde se zdržuje, avšak nebyl za nezvěstného prohlášen, lze prohlásit za mrtvého nejdříve po uplynutí sedmi let od konce roku, v němž se objevila poslední zpráva, z níž lze usuzovat, že byl ještě naživu.
->
-> (2) Člověka, který se stal nezvěstným před dovršením osmnáctého roku věku, nelze prohlásit za mrtvého před uplynutím roku, v němž uplyne dvacet pět let od jeho narození.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=de0dde854cdf913f8ffe -->
-
 ### § 75 — Lhůta při hromadných událostech
 
 > Člověka, který se stal nezvěstným jako účastník události, při níž byl v ohrožení života větší počet osob, lze prohlásit za mrtvého nejdříve po uplynutí tří let od konce roku, v němž se objevila poslední zpráva, z níž lze usuzovat, že byl v průběhu těchto událostí ještě naživu.
@@ -4150,52 +2412,6 @@ U člověka nezvěstného jako účastníka hromadné události s ohrožením ž
 - [ ] Je den smrti určen jako vyvratitelná domněnka (§ 76)?
 
 **Typicky rozhodné důkazy / podklady:** doklad o povaze a rozsahu události (havárie, neštěstí), seznam účastníků/cestujících, zprávy vyšetřování, doklad o nenalezení těla a o poslední zprávě o životě.
-
-
-<!-- LEGAL-REVISION:BEGIN id=6ba991fd1167e2c33995 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 75
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Člověka, který se stal nezvěstným jako účastník události, při níž byl v ohrožení života větší počet osob, lze prohlásit za mrtvého nejdříve po uplynutí tří let od konce roku, v němž se objevila poslední zpráva, z níž lze usuzovat, že byl v průběhu těchto událostí ještě naživu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6ba991fd1167e2c33995 -->
 
 ### § 76 — Vyvratitelnost domněnky
 
@@ -4271,54 +2487,6 @@ Domněnka smrti je vyvratitelná: prokáže-li se, že prohlášený za mrtvého
 **Typicky rozhodné důkazy / podklady:** rozsudek o prohlášení za mrtvého a doklad totožnosti vrátivšího se, doklady o dědictví a o pojistném plnění, oddací list případného nového manželství, podklady o stavu a osudu vráceného majetku.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=cc2bd78364a369c15dda generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 76
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Byl-li člověk prohlášen za mrtvého, nevylučuje to důkaz, že zemřel dříve nebo později, anebo že je ještě naživu. Zjistí-li se, že je naživu, k prohlášení za mrtvého se nepřihlíží; manželství nebo registrované partnerství se však neobnovuje.
->
-> (2) Byl-li proveden mylný důkaz smrti, použije se odstavec 1 obdobně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cc2bd78364a369c15dda -->
 
 ## Shrnutí kapitoly
 

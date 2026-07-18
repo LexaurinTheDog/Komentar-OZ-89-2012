@@ -84,54 +84,6 @@ Korporace je PO s **osobním substrátem**; tato kvalifikace určuje celý aplik
 
 **Typicky rozhodné důkazy / podklady:** zakladatelské právní jednání (stanovy / zakladatelská listina), doklad o počtu zakladatelů/členů, vymezení účelu, výpis z veřejného rejstříku.
 
-
-<!-- LEGAL-REVISION:BEGIN id=9df2be6dbd6cd0ce572b generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 210
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Korporaci vytváří jako právnickou osobu společenství osob.
->
-> (2) Na právnickou osobu tvořenou jediným členem se hledí jako na korporaci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9df2be6dbd6cd0ce572b -->
-
 ### § 211 — Jediný a nedostatečný počet členů
 
 > (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
@@ -193,54 +145,6 @@ Pokles pod zákonné minimum členů není automatickým zánikem — soud nejpr
 - [ ] U jediného člena: nastupuje při jeho odchodu nový člen?
 
 **Typicky rozhodné důkazy / podklady:** seznam členů a jeho změny, zápisy o přijetí/zániku členství, výzva soudu a doklad o doručení, výpis z veřejného rejstříku.
-
-
-<!-- LEGAL-REVISION:BEGIN id=b31f2ad797c6461adf7f generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 211
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
->
-> (2) Klesne-li počet členů korporace pod počet stanovený zákonem, soud ji i bez návrhu zruší a rozhodne o její likvidaci. Nejprve jí však poskytne přiměřenou lhůtu ke zjednání nápravy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b31f2ad797c6461adf7f -->
 
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
@@ -363,54 +267,6 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 **Typicky rozhodné důkazy / podklady:** zápis z jednání nejvyššího orgánu a hlasovací záznamy, účetní závěrky, korespondence dokládající motiv, dřívější nabídky odkupu podílu, stanovy a jejich pravidla o hlasování.
 
-
-<!-- LEGAL-REVISION:BEGIN id=1328f15e801841735254 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 212
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> (1) Přijetím členství v korporaci se člen vůči ní zavazuje chovat se čestně a zachovávat její vnitřní řád. Korporace nesmí svého člena bezdůvodně zvýhodňovat ani znevýhodňovat a musí šetřit jeho členská práva i oprávněné zájmy.
->
-> (2) Zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet. Toto právo zaniká, pokud návrh není podán do tří měsíců ode dne, kdy k zneužití hlasu došlo.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1328f15e801841735254 -->
-
 ### § 213 — Derivativní žaloba
 
 > Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
@@ -478,52 +334,6 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 **Typicky rozhodné důkazy / podklady:** doklad o porušení povinnosti (péče řádného hospodáře), vyčíslení škody korporace, znalecké ocenění poklesu hodnoty podílu, účetní podklady, výpis z rejstříku o postavení škůdce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=366cfa6c67497d1e9521 generator=2026-07-17.4 source_sha256=84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7 -->
-#### Revizní doplnění k § 213
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2012/89-2012 Zákon občanský zákoník.md`; identifikátor verze: `SB-2012-00089`; SHA-256: `84b02fab4fdfc8ad384313e97195e18b4e5f773f8531912c1d9af32ef83ee9b7`.
-
-##### Znění ustanovení
-
-> Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=366cfa6c67497d1e9521 -->
 
 ## Pododdíl 2 — Spolek (§ 214—302)
 
